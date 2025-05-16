@@ -81,15 +81,19 @@ TOEICでは、求人広告や履歴書、ビジネス文書の中で「reference
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や履歴書、ビジネス文書の中で「reference
 ## 🤔  recommendation との違いは？
 
 - **reference**：主に就職や学術での「推薦者」「推薦状」「参照先」を指す
-- **[recommendation](/word/recommendation/)**：一般的な「推薦」「推薦文」を指し、より広い場面で使われる
+- **[recommendation](/recommendation)**：一般的な「推薦」「推薦文」を指し、より広い場面で使われる
 
 referenceは特定の人物や文献を「参照」や「推薦者」として挙げる場合に使い、recommendationは「推薦する行為」や「推薦文」自体を指します。
 
@@ -105,14 +109,14 @@ referenceは特定の人物や文献を「参照」や「推薦者」として�
 
 ## 🧩 あわせて覚えたい
 
-- [citation](/word/citation/)：引用、出典
-- [source](/word/source/)：情報源、出典
+- [citation](/citation)：引用、出典
+- [source](/source)：情報源、出典
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [resource](/word/resource/)：資源、情報源
+- [document](/document)：文書、書類
+- [resource](/resource)：資源、情報源
 
-<!-- cvid: aid36_bid04 -->
+<!-- cvid: aid49_bid20 -->

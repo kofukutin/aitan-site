@@ -88,8 +88,12 @@ TOEICでは、就職活動やビジネスシーンの会話で「面接」や「
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、就職活動やビジネスシーンの会話で「面接」や「
 ## 🤔  meeting との違いは？
 
 - **interview**：特定の目的（面接や取材）のために1対1または少人数で行う話し合い
-- **[meeting](/word/meeting/)**：複数人が集まって行う一般的な会議や打ち合わせ
+- **[meeting](/meeting)**：複数人が集まって行う一般的な会議や打ち合わせ
 
 interviewは「選考」や「取材」など目的が明確で、参加者も限定される点がmeetingと異なります。
 
@@ -105,14 +109,14 @@ interviewは「選考」や「取材」など目的が明確で、参加者も�
 
 ## 🧩 あわせて覚えたい
 
-- [audition](/word/audition/)：オーディション、選考のための実技試験
-- [discussion](/word/discussion/)：討論、話し合い
+- [audition](/audition)：オーディション、選考のための実技試験
+- [discussion](/discussion)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/word/resume/)：履歴書
-- [candidate](/word/candidate/)：候補者
+- [resume](/resume)：履歴書
+- [candidate](/candidate)：候補者
 
-<!-- cvid: aid40_bid30 -->
+<!-- cvid: aid40_bid26 -->

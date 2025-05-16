@@ -81,15 +81,19 @@ TOEICでは、工場や産業に関する説明文や、ビジネス文書の形
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場や産業に関する説明文や、ビジネス文書の形
 ## 🤔  commercial との違いは？
 
 - **industrial**：産業や工業に関する、工場や生産活動に関連する
-- **[commercial](/word/commercial/)**：商業の、ビジネスや取引・広告に関連する
+- **[commercial](/commercial)**：商業の、ビジネスや取引・広告に関連する
 
 industrialは「生産・製造」に焦点があり、commercialは「販売・取引・広告」など商業活動に関係します。
 
@@ -105,14 +109,14 @@ industrialは「生産・製造」に焦点があり、commercialは「販売・
 
 ## 🧩 あわせて覚えたい
 
-- [manufacturing](/word/manufacturing/)：製造業、ものづくり
-- [corporate](/word/corporate/)：企業の、法人の
+- [manufacturing](/manufacturing)：製造業、ものづくり
+- [corporate](/corporate)：企業の、法人の
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/word/productive/)：生産的な
-- [factory](/word/factory/)：工場
+- [productive](/productive)：生産的な
+- [factory](/factory)：工場
 
-<!-- cvid: aid22_bid32 -->
+<!-- cvid: aid41_bid07 -->

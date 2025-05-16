@@ -81,15 +81,19 @@ TOEICでは健康や福利厚生、スポーツジムの案内などの文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や福利厚生、スポーツジムの案内などの文脈で
 ## 🤔  health との違いは？
 
 - **fitness**：主に運動や体力面での健康や適性を指す
-- **[health](/word/health/)**：心身全体の健康状態を広く指す
+- **[health](/health)**：心身全体の健康状態を広く指す
 
 fitnessは「体力」や「運動能力」に焦点があり、healthは「病気でない状態」なども含めた幅広い健康を表します。
 
@@ -105,14 +109,14 @@ fitnessは「体力」や「運動能力」に焦点があり、healthは「病�
 
 ## 🧩 あわせて覚えたい
 
-- [wellness](/word/wellness/)：心身の健康・ウェルネス
-- [strength](/word/strength/)：筋力、強さ
+- [wellness](/wellness)：心身の健康・ウェルネス
+- [strength](/strength)：筋力、強さ
 
 ---
 
 ## 📖 できればこれも
 
-- [exercise](/word/exercise/)：運動
-- [diet](/word/diet/)：食事、ダイエット
+- [exercise](/exercise)：運動
+- [diet](/diet)：食事、ダイエット
 
-<!-- cvid: aid02_bid02 -->
+<!-- cvid: aid28_bid17 -->

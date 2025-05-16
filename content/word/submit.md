@@ -81,15 +81,19 @@ TOEICでは「書類を提出する」「申請する」といった文脈で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「書類を提出する」「申請する」といった文脈で頻
 ## 🤔  hand in との違いは？
 
 - **submit**：フォーマルな場面で「正式に提出する」
-- **[hand in](/word/hand_in/)**：カジュアルに「手渡しで提出する」
+- **[hand in](/hand_in)**：カジュアルに「手渡しで提出する」
 
 「submit」はオンラインや書面など形式を問わず公式な提出に使い、「hand in」は先生や上司に直接手渡すイメージです。
 
@@ -105,14 +109,14 @@ TOEICでは「書類を提出する」「申請する」といった文脈で頻
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/word/approve/)：承認する
-- [reject](/word/reject/)：却下する
+- [approve](/approve)：承認する
+- [reject](/reject)：却下する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：申し込む
-- [review](/word/review/)：見直す、審査する
+- [apply](/apply)：申し込む
+- [review](/review)：見直す、審査する
 
-<!-- cvid: aid04_bid12 -->
+<!-- cvid: aid08_bid45 -->

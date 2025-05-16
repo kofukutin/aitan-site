@@ -80,15 +80,19 @@ TOEICではIT関連の説明文やマニュアル、製品仕様書などで見�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではIT関連の説明文やマニュアル、製品仕様書などで見�
 ## 🤔  software との違いは？
 
 - **firmware**：機器に組み込まれた、基本動作を制御するソフトウェア
-- **[software](/word/software/)**：パソコンや機器で動作するすべてのプログラム
+- **[software](/software)**：パソコンや機器で動作するすべてのプログラム
 
 firmwareはハードウェアに密接に組み込まれていて、通常のソフトウェアよりも更新や変更が難しい点が特徴です。
 
@@ -104,14 +108,14 @@ firmwareはハードウェアに密接に組み込まれていて、通常のソ
 
 ## 🧩 あわせて覚えたい
 
-- [hardware](/word/hardware/)：ハードウェア、機械的な装置部分
-- [update](/word/update/)：更新、アップデート
+- [hardware](/hardware)：ハードウェア、機械的な装置部分
+- [update](/update)：更新、アップデート
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、デバイス
-- [install](/word/install/)：インストールする、導入する
+- [device](/device)：装置、デバイス
+- [install](/install)：インストールする、導入する
 
-<!-- cvid: aid32_bid46 -->
+<!-- cvid: aid43_bid49 -->

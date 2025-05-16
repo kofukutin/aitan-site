@@ -81,15 +81,19 @@ theologyはTOEICの長文読解（Part 7）で、大学や教育、宗教に関�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid43_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ theologyはTOEICの長文読解（Part 7）で、大学や教育、宗教に関�
 ## 🤔  philosophy との違いは？
 
 - **theology**：神や宗教、信仰について体系的に研究する学問
-- **[philosophy](/word/philosophy/)**：人生や存在、知識など幅広い根本的な問いを扱う学問
+- **[philosophy](/philosophy)**：人生や存在、知識など幅広い根本的な問いを扱う学問
 
 theologyは宗教や神に特化した学問で、philosophyはより広い抽象的なテーマを扱います。
 
@@ -105,14 +109,14 @@ theologyは宗教や神に特化した学問で、philosophyはより広い抽�
 
 ## 🧩 あわせて覚えたい
 
-- [doctrine](/word/doctrine/)：（宗教などの）教義、教理
-- [ethics](/word/ethics/)：倫理学、道徳
+- [doctrine](/doctrine)：（宗教などの）教義、教理
+- [ethics](/ethics)：倫理学、道徳
 
 ---
 
 ## 📖 できればこれも
 
-- [mythology](/word/mythology/)：神話学、神話体系
-- [ritual](/word/ritual/)：儀式、宗教的な習慣
+- [mythology](/mythology)：神話学、神話体系
+- [ritual](/ritual)：儀式、宗教的な習慣
 
-<!-- cvid: aid13_bid01 -->
+<!-- cvid: aid43_bid15 -->

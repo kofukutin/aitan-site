@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や社内規定、報告書などで登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や社内規定、報告書などで登場し
 ## 🤔  responsibility との違いは？
 
 - **accountability**：自分の行動や決定について他者に説明する義務や責任
-- **[responsibility](/word/responsibility/)**：任務や義務としての責任、やるべきこと
+- **[responsibility](/responsibility)**：任務や義務としての責任、やるべきこと
 
 accountabilityは「説明する責任」、responsibilityは「やるべきことへの責任」と使い分けます。
 
@@ -105,14 +109,14 @@ accountabilityは「説明する責任」、responsibilityは「やるべきこ�
 
 ## 🧩 あわせて覚えたい
 
-- [liability](/word/liability/)：法的責任、負債
-- [transparency](/word/transparency/)：透明性、明確さ
+- [liability](/liability)：法的責任、負債
+- [transparency](/transparency)：透明性、明確さ
 
 ---
 
 ## 📖 できればこれも
 
-- [compliance](/word/compliance/)：法令順守
-- [integrity](/word/integrity/)：誠実さ、高潔さ
+- [compliance](/compliance)：法令順守
+- [integrity](/integrity)：誠実さ、高潔さ
 
-<!-- cvid: aid10_bid02 -->
+<!-- cvid: aid31_bid38 -->

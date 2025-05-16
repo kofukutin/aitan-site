@@ -81,15 +81,19 @@ ITやソフトウェア関連の長文やメール文で、製品の開発段階
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやソフトウェア関連の長文やメール文で、製品の開発段階
 ## 🤔  prototype との違いは？
 
 - **beta**：正式リリース前のテスト用バージョン
-- **[prototype](/word/prototype/)**：試作品・初期モデル
+- **[prototype](/prototype)**：試作品・初期モデル
 
 betaは実際にユーザーが試す段階の製品で、prototypeは開発初期の試作段階を指します。
 
@@ -105,14 +109,14 @@ betaは実際にユーザーが試す段階の製品で、prototypeは開発初�
 
 ## 🧩 あわせて覚えたい
 
-- [release](/word/release/)：リリース、公開
-- [update](/word/update/)：更新、アップデート
+- [release](/release)：リリース、公開
+- [update](/update)：更新、アップデート
 
 ---
 
 ## 📖 できればこれも
 
-- [version](/word/version/)：バージョン、版
-- [feature](/word/feature/)：機能、特徴
+- [version](/version)：バージョン、版
+- [feature](/feature)：機能、特徴
 
-<!-- cvid: aid29_bid22 -->
+<!-- cvid: aid41_bid24 -->

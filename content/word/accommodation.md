@@ -81,15 +81,19 @@ TOEICではホテル予約や出張案内、旅行関連の長文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテル予約や出張案内、旅行関連の長文でよく登場
 ## 🤔  lodging との違いは？
 
 - **accommodation**：宿泊施設全般や便宜、適応など幅広い意味で使われるフォーマルな表現
-- **[lodging](/word/lodging/)**：一時的な宿泊場所を指し、ややカジュアルで短期滞在のニュアンスが強い
+- **[lodging](/lodging)**：一時的な宿泊場所を指し、ややカジュアルで短期滞在のニュアンスが強い
 
 accommodationはホテルやアパートなど幅広い宿泊施設や便宜を指し、lodgingは特に短期の宿泊場所に限定される傾向があります。
 
@@ -105,14 +109,14 @@ accommodationはホテルやアパートなど幅広い宿泊施設や便宜を�
 
 ## 🧩 あわせて覚えたい
 
-- [facility](/word/facility/)：施設、設備
-- [reservation](/word/reservation/)：予約
+- [facility](/facility)：施設、設備
+- [reservation](/reservation)：予約
 
 ---
 
 ## 📖 できればこれも
 
-- [amenity](/word/amenity/)：アメニティ、快適な設備
-- [transportation](/word/transportation/)：交通機関
+- [amenity](/amenity)：アメニティ、快適な設備
+- [transportation](/transportation)：交通機関
 
-<!-- cvid: aid26_bid39 -->
+<!-- cvid: aid32_bid32 -->

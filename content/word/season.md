@@ -81,15 +81,19 @@ TOEICでは旅行やビジネスの繁忙期、イベントの時期などを表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは旅行やビジネスの繁忙期、イベントの時期などを表
 ## 🤔  period との違いは？
 
 - **season**：自然の「季節」や、特定の活動が盛んな「時期」を表す
-- **[period](/word/period/)**：始まりと終わりのある「期間」全般を表す
+- **[period](/period)**：始まりと終わりのある「期間」全般を表す
 
 seasonは春夏秋冬やイベントの「シーズン」など、繰り返し訪れる時期に使い、periodは特定の長さの「期間」全般に使います。
 
@@ -105,14 +109,14 @@ seasonは春夏秋冬やイベントの「シーズン」など、繰り返し�
 
 ## 🧩 あわせて覚えたい
 
-- [term](/word/term/)：（一定の）期間、学期
-- [occasion](/word/occasion/)：特別な時、出来事
+- [term](/term)：（一定の）期間、学期
+- [occasion](/occasion)：特別な時、出来事
 
 ---
 
 ## 📖 できればこれも
 
-- [weather](/word/weather/)：天気
-- [event](/word/event/)：出来事、イベント
+- [weather](/weather)：天気
+- [event](/event)：出来事、イベント
 
-<!-- cvid: aid36_bid23 -->
+<!-- cvid: aid48_bid07 -->

@@ -88,8 +88,12 @@ TOEICでは主に記事や説明文、法務関連の長文で登場しやすい
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事や説明文、法務関連の長文で登場しやすい
 ## 🤔  arm との違いは？
 
 - **weapon**：戦いや攻撃、防御のために使う道具や装置全般を指す。
-- **[arm](/word/arm/)**：特に「武器（兵器）」としての意味が強く、軍事的な文脈で使われやすい。
+- **[arm](/arm)**：特に「武器（兵器）」としての意味が強く、軍事的な文脈で使われやすい。
 
 weaponは個人が持つ小さな武器から大規模な兵器まで幅広く指しますが、armは軍事や兵器としてのニュアンスが強いです。
 
@@ -105,14 +109,14 @@ weaponは個人が持つ小さな武器から大規模な兵器まで幅広く�
 
 ## 🧩 あわせて覚えたい
 
-- [tool](/word/tool/)：道具
-- [device](/word/device/)：装置
+- [tool](/tool)：道具
+- [device](/device)：装置
 
 ---
 
 ## 📖 できればこれも
 
-- [danger](/word/danger/)：危険
-- [protect](/word/protect/)：守る
+- [danger](/danger)：危険
+- [protect](/protect)：守る
 
-<!-- cvid: aid36_bid25 -->
+<!-- cvid: aid36_bid41 -->

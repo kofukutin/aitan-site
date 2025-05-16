@@ -81,15 +81,19 @@ TOEICでは会議や委員会の場面で、進行役やまとめ役として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や委員会の場面で、進行役やまとめ役として登
 ## 🤔  president との違いは？
 
 - **chairperson**：会議や委員会の議長・司会者を指し、進行やまとめ役に重点がある
-- **[president](/word/president/)**：組織や会社の「社長」「会長」など、トップの役職を指す
+- **[president](/president)**：組織や会社の「社長」「会長」など、トップの役職を指す
 
 chairpersonは会議の進行役、presidentは組織の最高責任者という違いがあります。
 
@@ -105,14 +109,14 @@ chairpersonは会議の進行役、presidentは組織の最高責任者という
 
 ## 🧩 あわせて覚えたい
 
-- [moderator](/word/moderator/)：討論や会議の司会者
-- [director](/word/director/)：取締役、指導者
+- [moderator](/moderator)：討論や会議の司会者
+- [director](/director)：取締役、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [secretary](/word/secretary/)：書記、秘書
+- [committee](/committee)：委員会
+- [secretary](/secretary)：書記、秘書
 
-<!-- cvid: aid39_bid34 -->
+<!-- cvid: aid40_bid38 -->

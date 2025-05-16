@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス関連の文脈で「activated」が形容詞と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス関連の文脈で「activated」が形容詞と�
 ## 🤔  enabled との違いは？
 
 - **activated**：何かが作動・有効化されて「動き始めた」状態
-- **[enabled](/word/enabled/)**：機能や権限が「使える状態に設定された」こと
+- **[enabled](/enabled)**：機能や権限が「使える状態に設定された」こと
 
 「activated」は実際に動作が始まったニュアンスが強く、「enabled」は使える準備が整った状態を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネス関連の文脈で「activated」が形容詞と�
 
 ## 🧩 あわせて覚えたい
 
-- [deactivated](/word/deactivated/)：無効化された、停止した
-- [operational](/word/operational/)：稼働中の、運用可能な
+- [deactivated](/deactivated)：無効化された、停止した
+- [operational](/operational)：稼働中の、運用可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用可能な
-- [connected](/word/connected/)：接続された
+- [available](/available)：利用可能な
+- [connected](/connected)：接続された
 
-<!-- cvid: aid33_bid08 -->
+<!-- cvid: aid07_bid29 -->

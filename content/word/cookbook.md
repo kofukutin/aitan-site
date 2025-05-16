@@ -81,15 +81,19 @@ cookbookはTOEICの長文読解パートで、レストランや観光、趣味�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cookbookはTOEICの長文読解パートで、レストランや観光、趣味�
 ## 🤔  recipe との違いは？
 
 - **cookbook**：複数のレシピがまとめられた「料理本」
-- **[recipe](/word/recipe/)**：個々の「料理の作り方」「レシピ」
+- **[recipe](/recipe)**：個々の「料理の作り方」「レシピ」
 
 cookbookは本そのものを指し、recipeは本やネットなどに載っている個々の料理の手順を指します。
 
@@ -105,14 +109,14 @@ cookbookは本そのものを指し、recipeは本やネットなどに載って
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual/)：手引き書、マニュアル
-- [guide](/word/guide/)：案内書、ガイド
+- [manual](/manual)：手引き書、マニュアル
+- [guide](/guide)：案内書、ガイド
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/word/kitchen/)：台所、キッチン
-- [ingredient](/word/ingredient/)：材料、成分
+- [kitchen](/kitchen)：台所、キッチン
+- [ingredient](/ingredient)：材料、成分
 
-<!-- cvid: aid49_bid24 -->
+<!-- cvid: aid17_bid07 -->

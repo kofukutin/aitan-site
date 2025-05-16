@@ -81,15 +81,19 @@ TOEICでは日付やスケジュール、予定を尋ねる場面で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付やスケジュール、予定を尋ねる場面で頻出しま
 ## 🤔  weekday との違いは？
 
 - **week**：7日間の「週」全体を指す
-- **[weekday](/word/weekday/)**：月曜から金曜までの「平日」を指す
+- **[weekday](/weekday)**：月曜から金曜までの「平日」を指す
 
 **week**は日曜から土曜までの1週間全体を表しますが、**weekday**は「平日」だけを指し、土日を含みません。
 
@@ -105,14 +109,14 @@ TOEICでは日付やスケジュール、予定を尋ねる場面で頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [month](/word/month/)：月、1か月
-- [weekend](/word/weekend/)：週末（土日）
+- [month](/month)：月、1か月
+- [weekend](/weekend)：週末（土日）
 
 ---
 
 ## 📖 できればこれも
 
-- [day](/word/day/)：日、1日
-- [hour](/word/hour/)：時間、1時間
+- [day](/day)：日、1日
+- [hour](/hour)：時間、1時間
 
-<!-- cvid: aid16_bid48 -->
+<!-- cvid: aid24_bid35 -->

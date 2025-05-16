@@ -81,15 +81,19 @@ TOEICでは、責任や権利、所有を強調する文脈で「sole」が選�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、責任や権利、所有を強調する文脈で「sole」が選�
 ## 🤔  only との違いは？
 
 - **sole**：フォーマルで「唯一の」「ただ一つの」と強調したいときに使う
-- **[only](/word/only/)**：日常的に「ただ～だけ」と限定する意味で使う
+- **[only](/only)**：日常的に「ただ～だけ」と限定する意味で使う
 
 「sole」は責任や権利などを強調するフォーマルな場面で使われ、「only」はより広く日常的に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、責任や権利、所有を強調する文脈で「sole」が選�
 
 ## 🧩 あわせて覚えたい
 
-- [exclusive](/word/exclusive/)：排他的な、独占的な
-- [unique](/word/unique/)：唯一無二の、独特な
+- [exclusive](/exclusive)：排他的な、独占的な
+- [unique](/unique)：唯一無二の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [single](/word/single/)：単一の、ひとつの
-- [entire](/word/entire/)：全体の、全部の
+- [single](/single)：単一の、ひとつの
+- [entire](/entire)：全体の、全部の
 
-<!-- cvid: aid27_bid07 -->
+<!-- cvid: aid49_bid21 -->

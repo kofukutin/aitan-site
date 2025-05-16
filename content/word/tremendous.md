@@ -81,15 +81,19 @@ tremendousはTOEICの長文読解（Part 7）で、成果や成長、変化の�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tremendousはTOEICの長文読解（Part 7）で、成果や成長、変化の�
 ## 🤔  enormous との違いは？
 
 - **tremendous**：大きさや量だけでなく、感情や成果などの「すごさ」「素晴らしさ」も強調する
-- **[enormous](/word/enormous/)**：主に物理的な大きさや量の「巨大さ」を表す
+- **[enormous](/enormous)**：主に物理的な大きさや量の「巨大さ」を表す
 
 tremendousは「素晴らしい」「感動的」といった肯定的なニュアンスも含みますが、enormousは単に「非常に大きい」という意味で使われます。
 
@@ -105,14 +109,14 @@ tremendousは「素晴らしい」「感動的」といった肯定的なニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [massive](/word/massive/)：巨大な、非常に大きい
-- [tiny](/word/tiny/)：とても小さい
+- [massive](/massive)：巨大な、非常に大きい
+- [tiny](/tiny)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、かなりの
-- [considerable](/word/considerable/)：かなりの、相当な
+- [significant](/significant)：重要な、かなりの
+- [considerable](/considerable)：かなりの、相当な
 
-<!-- cvid: aid37_bid03 -->
+<!-- cvid: aid33_bid09 -->

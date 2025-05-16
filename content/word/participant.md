@@ -82,15 +82,19 @@ TOEICでは会議やイベント、アンケートなどの文脈で「参加者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議やイベント、アンケートなどの文脈で「参加者
 ## 🤔  attendee との違いは？
 
 - **participant**：積極的に活動や議論に「参加する人」
-- **[attendee](/word/attendee/)**：イベントや会議に「出席する人」
+- **[attendee](/attendee)**：イベントや会議に「出席する人」
 
 participantは「何かに関わって参加する」ニュアンスがあり、attendeeは「出席しているだけ」の場合にも使われます。
 
@@ -106,14 +110,14 @@ participantは「何かに関わって参加する」ニュアンスがあり、
 
 ## 🧩 あわせて覚えたい
 
-- [organizer](/word/organizer/)：主催者
-- [contributor](/word/contributor/)：貢献者
+- [organizer](/organizer)：主催者
+- [contributor](/contributor)：貢献者
 
 ---
 
 ## 📖 できればこれも
 
-- [audience](/word/audience/)：聴衆
-- [member](/word/member/)：メンバー、会員
+- [audience](/audience)：聴衆
+- [member](/member)：メンバー、会員
 
-<!-- cvid: aid14_bid21 -->
+<!-- cvid: aid13_bid26 -->

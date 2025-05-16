@@ -81,15 +81,19 @@ TOEICでは環境問題や品質管理、食品安全などの文脈で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や品質管理、食品安全などの文脈で出題さ
 ## 🤔  pollution との違いは？
 
 - **contamination**：特定の物質や場所に有害・不純なものが混入すること
-- **[pollution](/word/pollution/)**：環境全体への広範な汚染や公害
+- **[pollution](/pollution)**：環境全体への広範な汚染や公害
 
 contaminationは「混入」や「局所的な汚染」に焦点があり、pollutionは「大気・水・土壌など広い範囲の環境汚染」を指します。
 
@@ -105,14 +109,14 @@ contaminationは「混入」や「局所的な汚染」に焦点があり、poll
 
 ## 🧩 あわせて覚えたい
 
-- [purity](/word/purity/)：純度、清浄
-- [infection](/word/infection/)：感染、伝染
+- [purity](/purity)：純度、清浄
+- [infection](/infection)：感染、伝染
 
 ---
 
 ## 📖 できればこれも
 
-- [hazard](/word/hazard/)：危険、有害要因
-- [waste](/word/waste/)：廃棄物、無駄
+- [hazard](/hazard)：危険、有害要因
+- [waste](/waste)：廃棄物、無駄
 
-<!-- cvid: aid24_bid25 -->
+<!-- cvid: aid11_bid15 -->

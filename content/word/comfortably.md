@@ -81,7 +81,7 @@ TOEICでは、会話や説明文で「快適に」「余裕をもって」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、会話や説明文で「快適に」「余裕をもって」とい
 
 <div class="info-center">
 ＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「快適に」「余裕をもって」とい
 ## 🤔  easily との違いは？
 
 - **comfortably**：快適さや余裕を感じながら物事を行う
-- **[easily](/word/easily/)**：苦労せず簡単に物事を行う
+- **[easily](/easily)**：苦労せず簡単に物事を行う
 
 comfortablyは「心地よさ」や「余裕」を強調し、easilyは「難なく」「簡単に」を強調します。
 
@@ -105,14 +109,14 @@ comfortablyは「心地よさ」や「余裕」を強調し、easilyは「難な
 
 ## 🧩 あわせて覚えたい
 
-- [securely](/word/securely/)：安全に、しっかりと
-- [pleasantly](/word/pleasantly/)：愉快に、心地よく
+- [securely](/securely)：安全に、しっかりと
+- [pleasantly](/pleasantly)：愉快に、心地よく
 
 ---
 
 ## 📖 できればこれも
 
-- [conveniently](/word/conveniently/)：便利に、都合よく
-- [efficiently](/word/efficiently/)：効率的に
+- [conveniently](/conveniently)：便利に、都合よく
+- [efficiently](/efficiently)：効率的に
 
-<!-- cvid: aid02_bid30 -->
+<!-- cvid: aid04_bid30 -->

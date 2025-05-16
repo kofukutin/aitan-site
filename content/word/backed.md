@@ -81,15 +81,19 @@ TOEICでは、企業やプロジェクトの説明文などで「backed by ～�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業やプロジェクトの説明文などで「backed by ～�
 ## 🤔  supported との違いは？
 
 - **backed**：誰か・何かの支援や後ろ盾があることを強調
-- **[supported](/word/supported/)**：一般的な「支えられている」「援助されている」状態
+- **[supported](/supported)**：一般的な「支えられている」「援助されている」状態
 
 「backed」は特に資金や権威などの強い後ろ盾があるニュアンスがあり、「supported」は広く一般的な支援を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、企業やプロジェクトの説明文などで「backed by ～�
 
 ## 🧩 あわせて覚えたい
 
-- [funded](/word/funded/)：資金提供された
-- [endorsed](/word/endorsed/)：（公式に）承認された
+- [funded](/funded)：資金提供された
+- [endorsed](/endorsed)：（公式に）承認された
 
 ---
 
 ## 📖 できればこれも
 
-- [backing](/word/backing/)：支援、後ろ盾
-- [support](/word/support/)：支援、援助
+- [backing](/backing)：支援、後ろ盾
+- [support](/support)：支援、援助
 
-<!-- cvid: aid22_bid48 -->
+<!-- cvid: aid02_bid14 -->

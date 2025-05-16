@@ -81,15 +81,19 @@ TOEICではビジネス文書や説明文で「残り」「余り」といった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や説明文で「残り」「余り」といった
 ## 🤔  rest との違いは？
 
 - **remainder**：主にフォーマルな場面や数学・ビジネスで「残り」「余り」を指す。
-- **[rest](/word/rest/)**：日常的に使われる「残り」「残部」。
+- **[rest](/rest)**：日常的に使われる「残り」「残部」。
 
 remainderは書き言葉や公式な文脈で使われやすく、restは会話やカジュアルな場面でよく使われます。
 
@@ -105,14 +109,14 @@ remainderは書き言葉や公式な文脈で使われやすく、restは会話�
 
 ## 🧩 あわせて覚えたい
 
-- [balance](/word/balance/)：残高、差額
-- [surplus](/word/surplus/)：余剰、黒字
+- [balance](/balance)：残高、差額
+- [surplus](/surplus)：余剰、黒字
 
 ---
 
 ## 📖 できればこれも
 
-- [portion](/word/portion/)：部分、分け前
-- [fraction](/word/fraction/)：一部、分数
+- [portion](/portion)：部分、分け前
+- [fraction](/fraction)：一部、分数
 
-<!-- cvid: aid04_bid49 -->
+<!-- cvid: aid45_bid45 -->

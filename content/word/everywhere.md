@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「どこでも」「あらゆる場所で」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「どこでも」「あらゆる場所で」と
 ## 🤔  anywhere との違いは？
 
 - **everywhere**：あらゆる場所で、どこでも（全体を強調）
-- **[anywhere](/word/anywhere/)**：どこか、どこでも（場所を特定せず、否定文や疑問文でよく使う）
+- **[anywhere](/anywhere)**：どこか、どこでも（場所を特定せず、否定文や疑問文でよく使う）
 
 everywhereは「すべての場所」を指し、anywhereは「どこか」「どこでも」と幅広く使えますが、特に否定文や疑問文で使われる点が異なります。
 
@@ -101,14 +105,14 @@ everywhereは「すべての場所」を指し、anywhereは「どこか」「�
 
 ## 🧩 あわせて覚えたい
 
-- [nowhere](/word/nowhere/)：どこにも～ない
-- [somewhere](/word/somewhere/)：どこかで
+- [nowhere](/nowhere)：どこにも～ない
+- [somewhere](/somewhere)：どこかで
 
 ---
 
 ## 📖 できればこれも
 
-- [always](/word/always/)：いつも
-- [anyone](/word/anyone/)：誰でも
+- [always](/always)：いつも
+- [anyone](/anyone)：誰でも
 
-<!-- cvid: aid41_bid16 -->
+<!-- cvid: aid18_bid17 -->

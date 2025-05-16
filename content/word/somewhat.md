@@ -78,15 +78,19 @@ TOEICでは、説明文やメール文などで「程度」をやんわり伝え
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは、説明文やメール文などで「程度」をやんわり伝え
 ## 🤔  slightly との違いは？
 
 - **somewhat**：やや、いくぶん（控えめで主観的なニュアンス）
-- **[slightly](/word/slightly/)**：わずかに、ごく少し（客観的で数量的なニュアンス）
+- **[slightly](/slightly)**：わずかに、ごく少し（客観的で数量的なニュアンス）
 
 somewhatは「気持ち的に少し」という主観的な印象を与え、slightlyは「ほんのわずか」という客観的な度合いを表します。
 
@@ -102,14 +106,14 @@ somewhatは「気持ち的に少し」という主観的な印象を与え、sli
 
 ## 🧩 あわせて覚えたい
 
-- [rather](/word/rather/)：かなり、むしろ
-- [fairly](/word/fairly/)：まあまあ、かなり
+- [rather](/rather)：かなり、むしろ
+- [fairly](/fairly)：まあまあ、かなり
 
 ---
 
 ## 📖 できればこれも
 
-- [quite](/word/quite/)：かなり、全く
-- [almost](/word/almost/)：ほとんど、もう少しで
+- [quite](/quite)：かなり、全く
+- [almost](/almost)：ほとんど、もう少しで
 
-<!-- cvid: aid01_bid21 -->
+<!-- cvid: aid38_bid35 -->

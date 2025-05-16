@@ -81,15 +81,19 @@ TOEICでは主にレポートや調査結果を説明する文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にレポートや調査結果を説明する文脈で出題され
 ## 🤔  result との違いは？
 
 - **finding**：調査や研究などで得られた「発見」「調査結果」
-- **[result](/word/result/)**：何らかの行動や出来事の「結果」「成り行き」
+- **[result](/result)**：何らかの行動や出来事の「結果」「成り行き」
 
 findingは「調査や分析の過程で得られた具体的な発見」に焦点があり、resultは「原因に対する最終的な結果」全般を指します。
 
@@ -105,14 +109,14 @@ findingは「調査や分析の過程で得られた具体的な発見」に焦�
 
 ## 🧩 あわせて覚えたい
 
-- [conclusion](/word/conclusion/)：結論
-- [discovery](/word/discovery/)：発見
+- [conclusion](/conclusion)：結論
+- [discovery](/discovery)：発見
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠
-- [analysis](/word/analysis/)：分析
+- [evidence](/evidence)：証拠
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid36_bid47 -->
+<!-- cvid: aid47_bid19 -->

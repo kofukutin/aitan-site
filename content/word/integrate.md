@@ -81,15 +81,19 @@ TOEICでは、ビジネスやIT分野で「統合する」「組み込む」と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスやIT分野で「統合する」「組み込む」と�
 ## 🤔  combine との違いは？
 
 - **integrate**：異なるものを調和させて一体化・統合する
-- **[combine](/word/combine/)**：単純に複数のものを組み合わせる
+- **[combine](/combine)**：単純に複数のものを組み合わせる
 
 integrateは「全体の一部としてしっかり組み込む」ニュアンスがあり、combineは「混ぜる・合わせる」程度の意味で使われます。
 
@@ -105,14 +109,14 @@ integrateは「全体の一部としてしっかり組み込む」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/word/merge/)：合併する、融合する
-- [incorporate](/word/incorporate/)：組み入れる、取り入れる
+- [merge](/merge)：合併する、融合する
+- [incorporate](/incorporate)：組み入れる、取り入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement/)：実行する、導入する
-- [coordinate](/word/coordinate/)：調整する、連携する
+- [implement](/implement)：実行する、導入する
+- [coordinate](/coordinate)：調整する、連携する
 
-<!-- cvid: aid43_bid21 -->
+<!-- cvid: aid13_bid26 -->

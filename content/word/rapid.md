@@ -81,15 +81,19 @@ TOEICでは、ビジネスの成長や変化、進展を表す文脈で「rapid�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスの成長や変化、進展を表す文脈で「rapid�
 ## 🤔  fast との違いは？
 
 - **rapid**：変化や進展が短期間で起こることを強調し、ややフォーマル。
-- **[fast](/word/fast/)**：動作や移動のスピードが速いことをカジュアルに表現。
+- **[fast](/fast)**：動作や移動のスピードが速いことをカジュアルに表現。
 
 「rapid」は変化や進展など抽象的な速さに使われやすく、「fast」は物理的な速さや動作に幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスの成長や変化、進展を表す文脈で「rapid�
 
 ## 🧩 あわせて覚えたい
 
-- [swift](/word/swift/)：素早い、迅速な
-- [gradual](/word/gradual/)：徐々の、段階的な
+- [swift](/swift)：素早い、迅速な
+- [gradual](/gradual)：徐々の、段階的な
 
 ---
 
 ## 📖 できればこれも
 
-- [immediate](/word/immediate/)：即時の、すぐの
-- [steady](/word/steady/)：着実な、安定した
+- [immediate](/immediate)：即時の、すぐの
+- [steady](/steady)：着実な、安定した
 
-<!-- cvid: aid09_bid38 -->
+<!-- cvid: aid16_bid48 -->

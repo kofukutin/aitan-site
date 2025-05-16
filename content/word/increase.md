@@ -81,15 +81,19 @@ TOEICでは「増加する」「増やす」という意味で、主にビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「増加する」「増やす」という意味で、主にビジネ
 ## 🤔  rise との違いは？
 
 - **increase**：数量や程度が「増える」「増やす」こと全般に使う。目的語をとって「～を増やす」と言える。
-- **[rise](/word/rise/)**：主に「（自動的に）上昇する」「上がる」という意味で、目的語をとらない。
+- **[rise](/rise)**：主に「（自動的に）上昇する」「上がる」という意味で、目的語をとらない。
 
 increaseは「数値や量を意図的に増やす」場合にも使えますが、riseは「自然に上がる」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ increaseは「数値や量を意図的に増やす」場合にも使えますが
 
 ## 🧩 あわせて覚えたい
 
-- [decrease](/word/decrease/)：減少する、減らす
-- [expand](/word/expand/)：拡大する、広げる
+- [decrease](/decrease)：減少する、減らす
+- [expand](/expand)：拡大する、広げる
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する、良くする
-- [reduce](/word/reduce/)：減らす
+- [improve](/improve)：改善する、良くする
+- [reduce](/reduce)：減らす
 
-<!-- cvid: aid16_bid15 -->
+<!-- cvid: aid03_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは長文読解や物語文で、歴史的な背景や人物関係を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは長文読解や物語文で、歴史的な背景や人物関係を説
 ## 🤔  lover との違いは？
 
 - **mistress**：既婚男性の愛人や、女性の支配者・女主人を指すが、現代では主に否定的な意味で使われる。
-- **[lover](/word/lover/)**：恋人や愛人全般を指し、男女どちらにも使える中立的な語。
+- **[lover](/lover)**：恋人や愛人全般を指し、男女どちらにも使える中立的な語。
 
 mistressは特に「既婚男性の愛人」という否定的なニュアンスが強く、loverはより広く恋人全般に使われます。
 
@@ -105,14 +109,14 @@ mistressは特に「既婚男性の愛人」という否定的なニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [wife](/word/wife/)：妻
-- [affair](/word/affair/)：不倫、浮気
+- [wife](/wife)：妻
+- [affair](/affair)：不倫、浮気
 
 ---
 
 ## 📖 できればこれも
 
-- [secretary](/word/secretary/)：秘書
-- [partner](/word/partner/)：パートナー、相手
+- [secretary](/secretary)：秘書
+- [partner](/partner)：パートナー、相手
 
-<!-- cvid: aid41_bid25 -->
+<!-- cvid: aid01_bid41 -->

@@ -81,15 +81,19 @@ legendは、TOEICの長文読解や説明文で「伝説」や「凡例」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ legendは、TOEICの長文読解や説明文で「伝説」や「凡例」とし
 ## 🤔  myth との違いは？
 
 - **legend**：実在の人物や出来事に基づくことが多い伝説や、地図の凡例も指す。
-- **[myth](/word/myth/)**：神話や空想的な物語で、事実とは限らない話。
+- **[myth](/myth)**：神話や空想的な物語で、事実とは限らない話。
 
 legendは歴史的事実や人物に根ざした物語が多いのに対し、mythは神話や根拠のない話に使われます。
 
@@ -105,14 +109,14 @@ legendは歴史的事実や人物に根ざした物語が多いのに対し、my
 
 ## 🧩 あわせて覚えたい
 
-- [hero](/word/hero/)：英雄、勇者
-- [tale](/word/tale/)：物語、話
+- [hero](/hero)：英雄、勇者
+- [tale](/tale)：物語、話
 
 ---
 
 ## 📖 できればこれも
 
-- [history](/word/history/)：歴史
-- [story](/word/story/)：話、物語
+- [history](/history)：歴史
+- [story](/story)：話、物語
 
-<!-- cvid: aid14_bid28 -->
+<!-- cvid: aid37_bid45 -->

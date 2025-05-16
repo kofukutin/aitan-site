@@ -81,15 +81,19 @@ TOEICでは「be based on（～に基づく）」や「be based in（～に拠�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be based on（～に基づく）」や「be based in（～に拠�
 ## 🤔  founded との違いは？
 
 - **based**：何かを基準・拠点としている状態や根拠を表す
-- **[founded](/word/founded/)**：組織や会社などを「設立した」ことを表す
+- **[founded](/founded)**：組織や会社などを「設立した」ことを表す
 
 「based」は場所や根拠を示す形容詞、「founded」は設立の行為や時期を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは「be based on（～に基づく）」や「be based in（～に拠�
 
 ## 🧩 あわせて覚えたい
 
-- [located](/word/located/)：位置している、所在している
-- [established](/word/established/)：設立された、確立された
+- [located](/located)：位置している、所在している
+- [established](/established)：設立された、確立された
 
 ---
 
 ## 📖 できればこれも
 
-- [related](/word/related/)：関連した
-- [involved](/word/involved/)：関与した
+- [related](/related)：関連した
+- [involved](/involved)：関与した
 
-<!-- cvid: aid10_bid06 -->
+<!-- cvid: aid07_bid00 -->

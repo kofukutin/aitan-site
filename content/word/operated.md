@@ -82,15 +82,19 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明文で
 ## 🤔  managed との違いは？
 
 - **operated**：機械や組織などを「実際に動かした」「運営した」という意味が強い
-- **[managed](/word/managed/)**：人や業務、組織を「管理した」「経営した」という意味が強い
+- **[managed](/managed)**：人や業務、組織を「管理した」「経営した」という意味が強い
 
 「operated」は物理的・実務的な動作や運営に焦点があり、「managed」は全体の管理や指揮に重点があります。
 
@@ -106,14 +110,14 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明文で
 
 ## 🧩 あわせて覚えたい
 
-- [run](/word/run/)：運営する、経営する
-- [control](/word/control/)：制御する、管理する
+- [run](/run)：運営する、経営する
+- [control](/control)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：扱う、処理する
-- [supervise](/word/supervise/)：監督する、指導する
+- [handle](/handle)：扱う、処理する
+- [supervise](/supervise)：監督する、指導する
 
-<!-- cvid: aid26_bid37 -->
+<!-- cvid: aid01_bid47 -->

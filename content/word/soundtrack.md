@@ -80,15 +80,19 @@ TOEICでは映画やイベントの案内、広告文などで「soundtrack」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは映画やイベントの案内、広告文などで「soundtrack」�
 ## 🤔  score との違いは？
 
 - **soundtrack**：映画やゲームなどの音楽全体や、そのアルバムを指す
-- **[score](/word/score/)**：映画や舞台のために作られた「楽譜」や「劇伴音楽」を指す
+- **[score](/score)**：映画や舞台のために作られた「楽譜」や「劇伴音楽」を指す
 
 soundtrackは実際に聴く音源やアルバムを指し、scoreは作曲された音楽そのものや楽譜を意味します。
 
@@ -104,14 +108,14 @@ soundtrackは実際に聴く音源やアルバムを指し、scoreは作曲さ�
 
 ## 🧩 あわせて覚えたい
 
-- [theme](/word/theme/)：テーマ曲、主題歌
-- [album](/word/album/)：アルバム、音楽集
+- [theme](/theme)：テーマ曲、主題歌
+- [album](/album)：アルバム、音楽集
 
 ---
 
 ## 📖 できればこれも
 
-- [scene](/word/scene/)：場面、シーン
-- [script](/word/script/)：台本、脚本
+- [scene](/scene)：場面、シーン
+- [script](/script)：台本、脚本
 
-<!-- cvid: aid15_bid30 -->
+<!-- cvid: aid20_bid26 -->

@@ -88,8 +88,12 @@ fellowshipはTOEICの長文読解パートで、大学や研究機関の説明�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ fellowshipはTOEICの長文読解パートで、大学や研究機関の説明�
 ## 🤔  scholarship との違いは？
 
 - **fellowship**：大学院生や研究者向けの奨学金や特別研究員制度、または仲間意識を指す
-- **[scholarship](/word/scholarship/)**：主に学業成績や経済的理由で与えられる奨学金
+- **[scholarship](/scholarship)**：主に学業成績や経済的理由で与えられる奨学金
 
 fellowshipは研究活動や専門的なプロジェクト支援に重点があり、scholarshipは幅広い学生への学費支援に使われます。
 
@@ -105,14 +109,14 @@ fellowshipは研究活動や専門的なプロジェクト支援に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant/)：助成金、補助金
-- [internship](/word/internship/)：インターンシップ、実習
+- [grant](/grant)：助成金、補助金
+- [internship](/internship)：インターンシップ、実習
 
 ---
 
 ## 📖 できればこれも
 
-- [mentor](/word/mentor/)：指導者、助言者
-- [committee](/word/committee/)：委員会
+- [mentor](/mentor)：指導者、助言者
+- [committee](/committee)：委員会
 
-<!-- cvid: aid24_bid15 -->
+<!-- cvid: aid24_bid05 -->

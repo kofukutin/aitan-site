@@ -81,15 +81,19 @@ TOEICでは、人物紹介や記事、書籍紹介の文脈でbiographyが登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物紹介や記事、書籍紹介の文脈でbiographyが登場
 ## 🤔  autobiography との違いは？
 
 - **biography**：他人が書いた伝記。他者の人生をまとめたもの。
-- **[autobiography](/word/autobiography/)**：自分自身が書いた自伝。
+- **[autobiography](/autobiography)**：自分自身が書いた自伝。
 
 biographyは「他人が書く伝記」、autobiographyは「自分で書く自伝」と、書き手が誰かで使い分けます。
 
@@ -105,14 +109,14 @@ biographyは「他人が書く伝記」、autobiographyは「自分で書く自�
 
 ## 🧩 あわせて覚えたい
 
-- [memoir](/word/memoir/)：回想録、思い出話
-- [profile](/word/profile/)：人物紹介、プロフィール
+- [memoir](/memoir)：回想録、思い出話
+- [profile](/profile)：人物紹介、プロフィール
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/word/novel/)：小説
-- [history](/word/history/)：歴史
+- [novel](/novel)：小説
+- [history](/history)：歴史
 
-<!-- cvid: aid29_bid27 -->
+<!-- cvid: aid44_bid45 -->

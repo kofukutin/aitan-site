@@ -81,15 +81,19 @@ The company requires all employees to have a COVID-19 vaccine.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company requires all employees to have a COVID-19 vaccine.
 ## 🤔  medicine との違いは？
 
 - **vaccine**：感染症を予防するために使う特別な医薬品
-- **[medicine](/word/medicine/)**：病気の治療や症状の緩和に使う一般的な薬
+- **[medicine](/medicine)**：病気の治療や症状の緩和に使う一般的な薬
 
 vaccineは「予防」に特化した薬で、medicineは治療や症状緩和など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ vaccineは「予防」に特化した薬で、medicineは治療や症状緩和�
 
 ## 🧩 あわせて覚えたい
 
-- [immunity](/word/immunity/)：免疫、病気に対する抵抗力
-- [virus](/word/virus/)：ウイルス、感染症の原因となる微生物
+- [immunity](/immunity)：免疫、病気に対する抵抗力
+- [virus](/virus)：ウイルス、感染症の原因となる微生物
 
 ---
 
 ## 📖 できればこれも
 
-- [treatment](/word/treatment/)：治療
-- [dose](/word/dose/)：（薬やワクチンの）1回分、投与量
+- [treatment](/treatment)：治療
+- [dose](/dose)：（薬やワクチンの）1回分、投与量
 
-<!-- cvid: aid17_bid40 -->
+<!-- cvid: aid12_bid25 -->

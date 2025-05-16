@@ -81,15 +81,19 @@ TOEICでは、法的な文脈や移民・ビザ関連の長文で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、法的な文脈や移民・ビザ関連の長文で見かけるこ
 ## 🤔  foreigner との違いは？
 
 - **alien**：法律上の「外国人」や「異星人」を指し、フォーマルでやや堅い表現。
-- **[foreigner](/word/foreigner/)**：一般的な「外国人」。日常会話でよく使われる。
+- **[foreigner](/foreigner)**：一般的な「外国人」。日常会話でよく使われる。
 
 alienは法的・公式な文脈やSFで使われ、foreignerは日常的な「外国人」を表します。
 
@@ -105,14 +109,14 @@ alienは法的・公式な文脈やSFで使われ、foreignerは日常的な「�
 
 ## 🧩 あわせて覚えたい
 
-- [citizen](/word/citizen/)：市民、国民
-- [immigrant](/word/immigrant/)：移民
+- [citizen](/citizen)：市民、国民
+- [immigrant](/immigrant)：移民
 
 ---
 
 ## 📖 できればこれも
 
-- [resident](/word/resident/)：居住者
-- [passport](/word/passport/)：パスポート
+- [resident](/resident)：居住者
+- [passport](/passport)：パスポート
 
-<!-- cvid: aid12_bid36 -->
+<!-- cvid: aid48_bid40 -->

@@ -81,7 +81,7 @@ TOEICでは、機械や設備のトラブル、商品の状態説明などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、機械や設備のトラブル、商品の状態説明などで「
 
 <div class="info-center">
 ＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械や設備のトラブル、商品の状態説明などで「
 ## 🤔  break との違いは？
 
 - **crack**：表面に細いひびや割れ目が入ること。完全に壊れるわけではない。
-- **[break](/word/break/)**：物が完全に壊れる、バラバラになること。
+- **[break](/break)**：物が完全に壊れる、バラバラになること。
 
 crackは「ひび」や「割れ目」のような部分的な損傷、breakは「完全に壊れる」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ crackは「ひび」や「割れ目」のような部分的な損傷、breakは�
 
 ## 🧩 あわせて覚えたい
 
-- [split](/word/split/)：割る、分裂する
-- [chip](/word/chip/)：欠ける、かけら
+- [split](/split)：割る、分裂する
+- [chip](/chip)：欠ける、かけら
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage/)：損傷を与える
-- [repair](/word/repair/)：修理する
+- [damage](/damage)：損傷を与える
+- [repair](/repair)：修理する
 
-<!-- cvid: aid38_bid19 -->
+<!-- cvid: aid15_bid19 -->

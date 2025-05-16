@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「より長い時間」「より長い距離」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「より長い時間」「より長い距離」
 ## 🤔  further との違いは？
 
 - **longer**：物理的な長さや時間が「より長い」ことを表す
-- **[further](/word/further/)**：距離や程度、進行の「さらに先」「もっと進んで」を表す
+- **[further](/further)**：距離や程度、進行の「さらに先」「もっと進んで」を表す
 
 「longer」は主に長さや時間の比較に使い、「further」は抽象的な進展や追加の意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「より長い時間」「より長い距離」
 
 ## 🧩 あわせて覚えたい
 
-- [shorter](/word/shorter/)：より短い
-- [length](/word/length/)：長さ
+- [shorter](/shorter)：より短い
+- [length](/length)：長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [taller](/word/taller/)：より背が高い
-- [deeper](/word/deeper/)：より深い
+- [taller](/taller)：より背が高い
+- [deeper](/deeper)：より深い
 
-<!-- cvid: aid27_bid49 -->
+<!-- cvid: aid37_bid24 -->

@@ -81,15 +81,19 @@ TOEICでは、科学技術や製品説明の文脈でtitaniumが登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学技術や製品説明の文脈でtitaniumが登場するこ�
 ## 🤔  aluminum との違いは？
 
 - **titanium**：軽くて強度が高く、さびにくい高価な金属。
-- **[aluminum](/word/aluminum/)**：軽量で安価、さびにくいが強度はtitaniumより劣る金属。
+- **[aluminum](/aluminum)**：軽量で安価、さびにくいが強度はtitaniumより劣る金属。
 
 titaniumはより高価で強度が必要な場面に使われ、aluminumはコストや加工性を重視する場面で使われます。
 
@@ -105,14 +109,14 @@ titaniumはより高価で強度が必要な場面に使われ、aluminumはコ�
 
 ## 🧩 あわせて覚えたい
 
-- [steel](/word/steel/)：鋼鉄、強度が高く広く使われる金属
-- [alloy](/word/alloy/)：合金、2種類以上の金属を混ぜたもの
+- [steel](/steel)：鋼鉄、強度が高く広く使われる金属
+- [alloy](/alloy)：合金、2種類以上の金属を混ぜたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper/)：銅、電気伝導性が高い金属
-- [metal](/word/metal/)：金属、一般的な金属の総称
+- [copper](/copper)：銅、電気伝導性が高い金属
+- [metal](/metal)：金属、一般的な金属の総称
 
-<!-- cvid: aid04_bid31 -->
+<!-- cvid: aid36_bid38 -->

@@ -81,15 +81,19 @@ TOEICでは主にレポートやグラフ、統計データの説明文で「数
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にレポートやグラフ、統計データの説明文で「数
 ## 🤔  number との違いは？
 
 - **figure**：主に「数字」「図」「人物」など、文脈によって幅広い意味を持つ
-- **[number](/word/number/)**：単純な「数」や「番号」を表す
+- **[number](/number)**：単純な「数」や「番号」を表す
 
 figureは「図表」や「統計データの数値」など、ややフォーマルでビジネス寄りの場面で使われることが多く、numberは日常的な「数」や「番号」に使われます。
 
@@ -105,14 +109,14 @@ figureは「図表」や「統計データの数値」など、ややフォー�
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/word/amount/)：量、総額
-- [diagram](/word/diagram/)：図、図解
+- [amount](/amount)：量、総額
+- [diagram](/diagram)：図、図解
 
 ---
 
 ## 📖 できればこれも
 
-- [data](/word/data/)：データ、資料
-- [total](/word/total/)：合計、総計
+- [data](/data)：データ、資料
+- [total](/total)：合計、総計
 
-<!-- cvid: aid28_bid09 -->
+<!-- cvid: aid44_bid33 -->

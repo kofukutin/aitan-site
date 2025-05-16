@@ -81,15 +81,19 @@ ITや金融関連の記事や説明文で「初期設定」「債務不履行」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや金融関連の記事や説明文で「初期設定」「債務不履行」
 ## 🤔  failure との違いは？
 
 - **default**：初期設定、または債務不履行（支払いなどを怠ること）
-- **[failure](/word/failure/)**：失敗、機能停止、うまくいかないこと
+- **[failure](/failure)**：失敗、機能停止、うまくいかないこと
 
 defaultは「標準値」や「約束を守らないこと」に使い、failureは「失敗」や「機能しないこと」に使います。
 
@@ -105,14 +109,14 @@ defaultは「標準値」や「約束を守らないこと」に使い、failure
 
 ## 🧩 あわせて覚えたい
 
-- [option](/word/option/)：選択肢
-- [penalty](/word/penalty/)：罰金、ペナルティ
+- [option](/option)：選択肢
+- [penalty](/penalty)：罰金、ペナルティ
 
 ---
 
 ## 📖 できればこれも
 
-- [setting](/word/setting/)：設定
-- [preference](/word/preference/)：好み、設定項目
+- [setting](/setting)：設定
+- [preference](/preference)：好み、設定項目
 
-<!-- cvid: aid12_bid27 -->
+<!-- cvid: aid11_bid12 -->

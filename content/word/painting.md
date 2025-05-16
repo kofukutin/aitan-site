@@ -88,8 +88,12 @@ TOEICのPart 1（写真描写）で、絵画や壁の装飾を説明する場面
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1（写真描写）で、絵画や壁の装飾を説明する場面
 ## 🤔  picture との違いは？
 
 - **painting**：絵の具やペンキで描かれた「絵画」や「塗装」を指す
-- **[picture](/word/picture/)**：写真・絵・イラストなど「画像」全般を指す
+- **[picture](/picture)**：写真・絵・イラストなど「画像」全般を指す
 
 **painting**は「絵の具で描かれた芸術作品」に限定されることが多いですが、**picture**は写真やイラストなど幅広い「画像・絵」を指します。
 
@@ -105,14 +109,14 @@ TOEICのPart 1（写真描写）で、絵画や壁の装飾を説明する場面
 
 ## 🧩 あわせて覚えたい
 
-- [drawing](/word/drawing/)：線画、デッサン
-- [sculpture](/word/sculpture/)：彫刻
+- [drawing](/drawing)：線画、デッサン
+- [sculpture](/sculpture)：彫刻
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/word/artist/)：芸術家
-- [gallery](/word/gallery/)：美術館、画廊
+- [artist](/artist)：芸術家
+- [gallery](/gallery)：美術館、画廊
 
-<!-- cvid: aid17_bid22 -->
+<!-- cvid: aid17_bid43 -->

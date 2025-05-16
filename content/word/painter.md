@@ -81,15 +81,19 @@ TOEICでは、職業や人物紹介、オフィスや建設現場の話題で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業や人物紹介、オフィスや建設現場の話題で登
 ## 🤔  artist との違いは？
 
 - **painter**：主に絵画を描く人やペンキを塗る職人を指す
-- **[artist](/word/artist/)**：芸術家全般（絵画・彫刻・音楽など幅広い分野）を指す
+- **[artist](/artist)**：芸術家全般（絵画・彫刻・音楽など幅広い分野）を指す
 
 painterは「絵」や「塗装」に特化した職業や人を指しますが、artistは芸術全般に関わる人を広く指します。
 
@@ -105,14 +109,14 @@ painterは「絵」や「塗装」に特化した職業や人を指しますが�
 
 ## 🧩 あわせて覚えたい
 
-- [sculptor](/word/sculptor/)：彫刻家
-- [designer](/word/designer/)：デザイナー、設計者
+- [sculptor](/sculptor)：彫刻家
+- [designer](/designer)：デザイナー、設計者
 
 ---
 
 ## 📖 できればこれも
 
-- [writer](/word/writer/)：作家、著者
-- [photographer](/word/photographer/)：写真家
+- [writer](/writer)：作家、著者
+- [photographer](/photographer)：写真家
 
-<!-- cvid: aid24_bid38 -->
+<!-- cvid: aid35_bid13 -->

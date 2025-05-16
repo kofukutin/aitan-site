@@ -81,15 +81,19 @@ TOEICでは、寄付や社会貢献に関する記事やメール文でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、寄付や社会貢献に関する記事やメール文でよく登
 ## 🤔  contribute との違いは？
 
 - **donate**：お金や物、臓器などを「無償で与える」「寄付する」ことを強調
-- **[contribute](/word/contribute/)**：お金やアイデア、労力など「何かを提供して貢献する」広い意味
+- **[contribute](/contribute)**：お金やアイデア、労力など「何かを提供して貢献する」広い意味
 
 donateは「善意で無償提供する」ニュアンスが強く、contributeは「全体のために一部を出す」や「貢献する」意味で使い分けます。
 
@@ -105,14 +109,14 @@ donateは「善意で無償提供する」ニュアンスが強く、contribute�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：申し出る、提供する
-- [provide](/word/provide/)：供給する、与える
+- [offer](/offer)：申し出る、提供する
+- [provide](/provide)：供給する、与える
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support/)：支援する、支える
-- [sponsor](/word/sponsor/)：スポンサーになる、資金提供する
+- [support](/support)：支援する、支える
+- [sponsor](/sponsor)：スポンサーになる、資金提供する
 
-<!-- cvid: aid46_bid04 -->
+<!-- cvid: aid34_bid39 -->

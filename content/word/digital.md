@@ -81,15 +81,19 @@ TOEICではITやビジネス関連の長文、広告、案内文などで「digi
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス関連の長文、広告、案内文などで「digi
 ## 🤔  electronic との違いは？
 
 - **digital**：数字やデータで表現される、デジタル方式の
-- **[electronic](/word/electronic/)**：電子回路や電気を使う、電子的な
+- **[electronic](/electronic)**：電子回路や電気を使う、電子的な
 
 「digital」は情報の表現方法（数字・データ）に焦点があり、「electronic」は機器が電子回路で動くことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス関連の長文、広告、案内文などで「digi
 
 ## 🧩 あわせて覚えたい
 
-- [analog](/word/analog/)：アナログの（連続的な値で表す方式）
-- [virtual](/word/virtual/)：仮想の、実際には存在しないがコンピュータ上で再現される
+- [analog](/analog)：アナログの（連続的な値で表す方式）
+- [virtual](/virtual)：仮想の、実際には存在しないがコンピュータ上で再現される
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [system](/word/system/)：システム、仕組み
+- [device](/device)：装置、機器
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid36_bid00 -->
+<!-- cvid: aid26_bid48 -->

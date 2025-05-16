@@ -81,15 +81,19 @@ termは契約や期間、条件に関する文脈でPart 5によく出題され�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ termは契約や期間、条件に関する文脈でPart 5によく出題され�
 ## 🤔  period との違いは？
 
 - **term**：特定の目的や契約などで区切られた「期間」や「用語」「条件」を指す
-- **[period](/word/period/)**：単に「一定の時間の長さ」や「時期」を表す
+- **[period](/period)**：単に「一定の時間の長さ」や「時期」を表す
 
 termは学校の学期や契約期間、専門用語など限定的・目的的な区切りを強調し、periodは時間的な長さや歴史的な時代など幅広く使います。
 
@@ -105,14 +109,14 @@ termは学校の学期や契約期間、専門用語など限定的・目的的�
 
 ## 🧩 あわせて覚えたい
 
-- [condition](/word/condition/)：条件
-- [phrase](/word/phrase/)：句、言い回し
+- [condition](/condition)：条件
+- [phrase](/phrase)：句、言い回し
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [agreement](/word/agreement/)：合意、協定
+- [contract](/contract)：契約
+- [agreement](/agreement)：合意、協定
 
-<!-- cvid: aid11_bid48 -->
+<!-- cvid: aid25_bid33 -->

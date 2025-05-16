@@ -81,15 +81,19 @@ TOEICではカジュアルな会話やIT関連の文脈でまれに登場しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではカジュアルな会話やIT関連の文脈でまれに登場しま�
 ## 🤔  bomb との違いは？
 
 - **nuke**：核兵器で攻撃する、または徹底的に破壊する（カジュアルなニュアンスもあり）
-- **[bomb](/word/bomb/)**：爆弾で攻撃する、または失敗する（一般的な爆発や失敗の意味）
+- **[bomb](/bomb)**：爆弾で攻撃する、または失敗する（一般的な爆発や失敗の意味）
 
 nukeは「核」や「徹底的な破壊」のニュアンスが強く、bombは「爆弾」や「失敗」の意味でより一般的です。
 
@@ -105,14 +109,14 @@ nukeは「核」や「徹底的な破壊」のニュアンスが強く、bombは
 
 ## 🧩 あわせて覚えたい
 
-- [destroy](/word/destroy/)：破壊する
-- [erase](/word/erase/)：消去する
+- [destroy](/destroy)：破壊する
+- [erase](/erase)：消去する
 
 ---
 
 ## 📖 できればこれも
 
-- [blast](/word/blast/)：爆破する、爆風
-- [wipe](/word/wipe/)：拭き取る、消し去る
+- [blast](/blast)：爆破する、爆風
+- [wipe](/wipe)：拭き取る、消し去る
 
-<!-- cvid: aid30_bid37 -->
+<!-- cvid: aid02_bid07 -->

@@ -81,15 +81,19 @@ TOEICでは主にITや製造業の文脈で、製品開発やプロジェクト�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITや製造業の文脈で、製品開発やプロジェクト�
 ## 🤔  sample との違いは？
 
 - **prototype**：新しい製品やアイデアの「最初の試作品」や「原型」を指す
-- **[sample](/word/sample/)**：製品や物の「見本」「サンプル」で、完成品の一部や例として使われる
+- **[sample](/sample)**：製品や物の「見本」「サンプル」で、完成品の一部や例として使われる
 
 prototypeは開発段階の「最初の形」、sampleは完成品の一部や例として配布・提示される点が異なります。
 
@@ -105,14 +109,14 @@ prototypeは開発段階の「最初の形」、sampleは完成品の一部や�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/word/model/)：模型、モデル
-- [blueprint](/word/blueprint/)：設計図
+- [model](/model)：模型、モデル
+- [blueprint](/blueprint)：設計図
 
 ---
 
 ## 📖 できればこれも
 
-- [specification](/word/specification/)：仕様書
-- [design](/word/design/)：設計
+- [specification](/specification)：仕様書
+- [design](/design)：設計
 
-<!-- cvid: aid43_bid34 -->
+<!-- cvid: aid04_bid41 -->

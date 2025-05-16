@@ -81,15 +81,19 @@ ITやソフトウェア関連の説明文やメールで見かけることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやソフトウェア関連の説明文やメールで見かけることが多
 ## 🤔  extension との違いは？
 
 - **plugin**：本体ソフトに後から追加して機能を拡張する小さなプログラム
-- **[extension](/word/extension/)**：主にブラウザやアプリの機能を拡張する追加プログラム
+- **[extension](/extension)**：主にブラウザやアプリの機能を拡張する追加プログラム
 
 pluginはソフト全般の追加機能、extensionは特にブラウザやアプリの拡張機能に使われることが多いです。
 
@@ -105,14 +109,14 @@ pluginはソフト全般の追加機能、extensionは特にブラウザやア�
 
 ## 🧩 あわせて覚えたい
 
-- [module](/word/module/)：モジュール、構成要素
-- [add_on](/word/add_on/)：アドオン、追加機能
+- [module](/module)：モジュール、構成要素
+- [add_on](/add_on)：アドオン、追加機能
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/word/software/)：ソフトウェア、プログラム
-- [application](/word/application/)：アプリケーション、応用ソフト
+- [software](/software)：ソフトウェア、プログラム
+- [application](/application)：アプリケーション、応用ソフト
 
-<!-- cvid: aid04_bid34 -->
+<!-- cvid: aid40_bid23 -->

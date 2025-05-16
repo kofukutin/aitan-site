@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sun】の意味・使い方・例文 ― starとの違い【TOEIC英単語】"
 description: "sunの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでstarとの違いもわかりやすく学べます。"
 word: "sun"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、天気や屋外のシーンを説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、天気や屋外のシーンを説明
 ## 🤔  star との違いは？
 
 - **sun**：地球から見える唯一の太陽（恒星）を指す。
-- **[star](/word/star/)**：夜空に見える他の恒星全般を指す。
+- **[star](/star)**：夜空に見える他の恒星全般を指す。
 
 sunは私たちの太陽を特定して指し、starは宇宙にある無数の恒星を指します。
 
@@ -105,14 +109,14 @@ sunは私たちの太陽を特定して指し、starは宇宙にある無数の�
 
 ## 🧩 あわせて覚えたい
 
-- [moon](/word/moon/)：月
-- [light](/word/light/)：光
+- [moon](/moon)：月
+- [light](/light)：光
 
 ---
 
 ## 📖 できればこれも
 
-- [sky](/word/sky/)：空
-- [cloud](/word/cloud/)：雲
+- [sky](/sky)：空
+- [cloud](/cloud)：雲
 
-<!-- cvid: aid02_bid32 -->
+<!-- cvid: aid06_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「生きている」「存続している」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「生きている」「存続している」と
 ## 🤔  live との違いは？
 
 - **alive**：生きている状態や存在していることを表す形容詞
-- **[live](/word/live/)**：生放送・生演奏の「生の」、または「住む」「生きる」という動詞
+- **[live](/live)**：生放送・生演奏の「生の」、または「住む」「生きる」という動詞
 
 aliveは「命がある」状態を指し、liveは「生で行う」「住む」など意味や使い方が異なります。
 
@@ -105,14 +109,14 @@ aliveは「命がある」状態を指し、liveは「生で行う」「住む�
 
 ## 🧩 あわせて覚えたい
 
-- [dead](/word/dead/)：死んでいる
-- [exist](/word/exist/)：存在する
+- [dead](/dead)：死んでいる
+- [exist](/exist)：存在する
 
 ---
 
 ## 📖 できればこれも
 
-- [awake](/word/awake/)：目が覚めている
-- [active](/word/active/)：活動的な
+- [awake](/awake)：目が覚めている
+- [active](/active)：活動的な
 
-<!-- cvid: aid17_bid26 -->
+<!-- cvid: aid36_bid28 -->

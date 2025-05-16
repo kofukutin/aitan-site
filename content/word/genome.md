@@ -81,15 +81,19 @@ TOEICでは科学や医療分野の長文記事や説明文で見かけること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid27_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や医療分野の長文記事や説明文で見かけること
 ## 🤔  gene との違いは？
 
 - **genome**：生物が持つすべての遺伝情報（遺伝子の全体セット）
-- **[gene](/word/gene/)**：個々の遺伝子、特定の形質を決めるDNAの単位
+- **[gene](/gene)**：個々の遺伝子、特定の形質を決めるDNAの単位
 
 genomeは「全体」、geneは「個々の要素」を指し、規模や範囲が異なります。
 
@@ -105,14 +109,14 @@ genomeは「全体」、geneは「個々の要素」を指し、規模や範囲�
 
 ## 🧩 あわせて覚えたい
 
-- [chromosome](/word/chromosome/)：染色体（遺伝情報を含む構造体）
-- [sequence](/word/sequence/)：配列（DNAやアミノ酸の並び）
+- [chromosome](/chromosome)：染色体（遺伝情報を含む構造体）
+- [sequence](/sequence)：配列（DNAやアミノ酸の並び）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein/)：タンパク質（生体を構成する重要な分子）
-- [cell](/word/cell/)：細胞（生物の基本単位）
+- [protein](/protein)：タンパク質（生体を構成する重要な分子）
+- [cell](/cell)：細胞（生物の基本単位）
 
-<!-- cvid: aid00_bid01 -->
+<!-- cvid: aid27_bid47 -->

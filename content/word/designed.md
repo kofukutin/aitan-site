@@ -81,15 +81,19 @@ TOEICでは、製品やサービスの説明文、広告、案内文などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やサービスの説明文、広告、案内文などで「
 ## 🤔  intended との違いは？
 
 - **designed**：特定の目的や用途のために計画的に作られたことを強調
-- **[intended](/word/intended/)**：意図された、狙いがあることを強調
+- **[intended](/intended)**：意図された、狙いがあることを強調
 
 「designed」は実際に設計や計画がなされている点を強調し、「intended」は目的や意図そのものを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、製品やサービスの説明文、広告、案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [planned](/word/planned/)：計画された
-- [custom](/word/custom/)：特注の、カスタムの
+- [planned](/planned)：計画された
+- [custom](/custom)：特注の、カスタムの
 
 ---
 
 ## 📖 できればこれも
 
-- [created](/word/created/)：作成された
-- [specified](/word/specified/)：指定された
+- [created](/created)：作成された
+- [specified](/specified)：指定された
 
-<!-- cvid: aid23_bid10 -->
+<!-- cvid: aid19_bid37 -->

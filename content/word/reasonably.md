@@ -81,15 +81,19 @@ TOEICでは副詞の適切な使い方や、程度を表す表現として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは副詞の適切な使い方や、程度を表す表現として出題
 ## 🤔  fairly との違いは？
 
 - **reasonably**：理にかなった範囲で「ほどほどに」「無理なく」というニュアンス。
-- **[fairly](/word/fairly/)**：やや肯定的で「かなり」「まあまあ」という意味合いが強い。
+- **[fairly](/fairly)**：やや肯定的で「かなり」「まあまあ」という意味合いが強い。
 
 reasonablyは「理性的・妥当な範囲で」という客観的な響きがあり、fairlyは「予想より良い・悪くない」といった主観的な評価が含まれます。
 
@@ -105,14 +109,14 @@ reasonablyは「理性的・妥当な範囲で」という客観的な響きが�
 
 ## 🧩 あわせて覚えたい
 
-- [adequately](/word/adequately/)：十分に、適切に
-- [moderately](/word/moderately/)：適度に、ほどほどに
+- [adequately](/adequately)：十分に、適切に
+- [moderately](/moderately)：適度に、ほどほどに
 
 ---
 
 ## 📖 できればこれも
 
-- [slightly](/word/slightly/)：わずかに
-- [considerably](/word/considerably/)：かなり、大いに
+- [slightly](/slightly)：わずかに
+- [considerably](/considerably)：かなり、大いに
 
-<!-- cvid: aid24_bid44 -->
+<!-- cvid: aid48_bid33 -->

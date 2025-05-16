@@ -81,15 +81,19 @@ TOEICでは説明文や案内、機器の仕様書などで見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や案内、機器の仕様書などで見かけることが
 ## 🤔  converter との違いは？
 
 - **adapter**：異なる機器や規格を物理的につなぐ装置
-- **[converter](/word/converter/)**：電圧や信号などを変換する装置
+- **[converter](/converter)**：電圧や信号などを変換する装置
 
 adapterは「形や端子を合わせてつなぐ」イメージ、converterは「内容や形式を変換する」イメージです。
 
@@ -105,14 +109,14 @@ adapterは「形や端子を合わせてつなぐ」イメージ、converterは�
 
 ## 🧩 あわせて覚えたい
 
-- [connector](/word/connector/)：接続部品、コネクタ
-- [device](/word/device/)：装置、機器
+- [connector](/connector)：接続部品、コネクタ
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [cable](/word/cable/)：ケーブル、電線
-- [plug](/word/plug/)：プラグ、差し込み口
+- [cable](/cable)：ケーブル、電線
+- [plug](/plug)：プラグ、差し込み口
 
-<!-- cvid: aid44_bid01 -->
+<!-- cvid: aid10_bid48 -->

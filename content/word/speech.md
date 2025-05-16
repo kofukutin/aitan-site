@@ -81,15 +81,19 @@ TOEICでは、式典や会議、表彰式などのスピーチ文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、式典や会議、表彰式などのスピーチ文でよく登場
 ## 🤔  presentation との違いは？
 
 - **speech**：聴衆の前で話す「演説」や「スピーチ」全般を指し、内容や形式は幅広い。
-- **[presentation](/word/presentation/)**：資料やデータを使い、説明や提案を行う「プレゼンテーション」。
+- **[presentation](/presentation)**：資料やデータを使い、説明や提案を行う「プレゼンテーション」。
 
 speechは感情や祝辞など幅広い話に使われ、presentationは情報や提案を整理して伝える場面で使われます。
 
@@ -105,14 +109,14 @@ speechは感情や祝辞など幅広い話に使われ、presentationは情報�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture/)：講義、講演
-- [address](/word/address/)：公式な演説、挨拶
+- [lecture](/lecture)：講義、講演
+- [address](/address)：公式な演説、挨拶
 
 ---
 
 ## 📖 できればこれも
 
-- [talk](/word/talk/)：話、講演
-- [announcement](/word/announcement/)：発表、告知
+- [talk](/talk)：話、講演
+- [announcement](/announcement)：発表、告知
 
-<!-- cvid: aid39_bid35 -->
+<!-- cvid: aid16_bid16 -->

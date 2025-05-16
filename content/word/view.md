@@ -82,15 +82,19 @@ TOEICでは「景色」や「意見」といった意味で会話や説明文に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「景色」や「意見」といった意味で会話や説明文に
 ## 🤔  sight との違いは？
 
 - **view**：景色や意見など、見えるものや考え方を幅広く表す
-- **[sight](/word/sight/)**：目に見えるもの、特に印象的な光景や視力を指す
+- **[sight](/sight)**：目に見えるもの、特に印象的な光景や視力を指す
 
 「view」は景色や意見など抽象的な「見方」も含みますが、「sight」は「目に映るもの」や「視力」といったより直接的な意味で使われます。
 
@@ -106,14 +110,14 @@ TOEICでは「景色」や「意見」といった意味で会話や説明文に
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion/)：意見、考え
-- [scene](/word/scene/)：場面、光景
+- [opinion](/opinion)：意見、考え
+- [scene](/scene)：場面、光景
 
 ---
 
 ## 📖 できればこれも
 
-- [vision](/word/vision/)：視力、将来像
-- [aspect](/word/aspect/)：側面、観点
+- [vision](/vision)：視力、将来像
+- [aspect](/aspect)：側面、観点
 
-<!-- cvid: aid22_bid16 -->
+<!-- cvid: aid39_bid47 -->

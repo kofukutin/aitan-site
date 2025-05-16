@@ -80,15 +80,19 @@ TOEICでは、オフィスやビジネスシーンの語彙として文房具の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、オフィスやビジネスシーンの語彙として文房具の
 ## 🤔  office supply との違いは？
 
 - **stationery**：主に紙や封筒、ペンなど「書くための文房具」を指す
-- **[office supply](/word/office_supply/)**：文房具に加え、コピー機やファイルなどオフィスで使う備品全般を指す
+- **[office supply](/office_supply)**：文房具に加え、コピー機やファイルなどオフィスで使う備品全般を指す
 
 stationeryは「書く・手紙を書く」ための道具に限定されるのに対し、office supplyはオフィスで使うあらゆる備品を広く含みます。
 
@@ -104,14 +108,14 @@ stationeryは「書く・手紙を書く」ための道具に限定されるの�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/word/equipment/)：機器、装置
-- [material](/word/material/)：材料、資材
+- [equipment](/equipment)：機器、装置
+- [material](/material)：材料、資材
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類、文書
-- [envelope](/word/envelope/)：封筒
+- [document](/document)：書類、文書
+- [envelope](/envelope)：封筒
 
-<!-- cvid: aid41_bid30 -->
+<!-- cvid: aid48_bid19 -->

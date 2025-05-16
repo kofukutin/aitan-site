@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「手を挙げる」「資金を集
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「手を挙げる」「資金を集
 ## 🤔  lifted との違いは？
 
 - **raised**：物理的に上げるだけでなく、抽象的に「集める」「提起する」など幅広く使う
-- **[lifted](/word/lifted/)**：主に物理的に「持ち上げる」「上昇させる」意味で使う
+- **[lifted](/lifted)**：主に物理的に「持ち上げる」「上昇させる」意味で使う
 
 raisedは「資金を集める」「問題を提起する」など抽象的な使い方も多いですが、liftedは主に物理的な動作に限定されます。
 
@@ -105,14 +109,14 @@ raisedは「資金を集める」「問題を提起する」など抽象的な�
 
 ## 🧩 あわせて覚えたい
 
-- [lower](/word/lower/)：下げる、低くする
-- [increase](/word/increase/)：増やす、増加させる
+- [lower](/lower)：下げる、低くする
+- [increase](/increase)：増やす、増加させる
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、発表する
-- [offer](/word/offer/)：提供する、申し出る
+- [present](/present)：提示する、発表する
+- [offer](/offer)：提供する、申し出る
 
-<!-- cvid: aid37_bid24 -->
+<!-- cvid: aid20_bid22 -->

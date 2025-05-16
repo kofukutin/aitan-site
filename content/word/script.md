@@ -81,15 +81,19 @@ scriptは、ITやビジネス文書、説明文などで「台本」「原稿」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ scriptは、ITやビジネス文書、説明文などで「台本」「原稿」
 ## 🤔  scenario との違いは？
 
 - **script**：台本や原稿、またはプログラムとして実際に「書かれた内容」を指す
-- **[scenario](/word/scenario/)**：物語や計画の「筋書き」や「想定される状況」を指す
+- **[scenario](/scenario)**：物語や計画の「筋書き」や「想定される状況」を指す
 
 scriptは実際に書かれたテキストや指示書、scenarioは物事の展開や仮定の状況を表します。
 
@@ -105,14 +109,14 @@ scriptは実際に書かれたテキストや指示書、scenarioは物事の展
 
 ## 🧩 あわせて覚えたい
 
-- [manuscript](/word/manuscript/)：原稿、手書き文書
-- [transcript](/word/transcript/)：写し、書き起こし、成績証明書
+- [manuscript](/manuscript)：原稿、手書き文書
+- [transcript](/transcript)：写し、書き起こし、成績証明書
 
 ---
 
 ## 📖 できればこれも
 
-- [program](/word/program/)：プログラム、計画
-- [document](/word/document/)：文書、書類
+- [program](/program)：プログラム、計画
+- [document](/document)：文書、書類
 
-<!-- cvid: aid40_bid00 -->
+<!-- cvid: aid34_bid28 -->

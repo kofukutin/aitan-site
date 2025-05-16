@@ -81,15 +81,19 @@ TOEICでは、記事やメール文中で「謎めいた状況」や「詳細が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やメール文中で「謎めいた状況」や「詳細が
 ## 🤔  secret との違いは？
 
 - **mysterious**：理由や正体がわからず、謎めいた様子を表す
-- **[secret](/word/secret/)**：他人に知られていない、隠されたことを表す
+- **[secret](/secret)**：他人に知られていない、隠されたことを表す
 
 「mysterious」は説明がつかない不思議さ、「secret」は意図的に隠されていることに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、記事やメール文中で「謎めいた状況」や「詳細が
 
 ## 🧩 あわせて覚えたい
 
-- [uncertain](/word/uncertain/)：不確かな、はっきりしない
-- [strange](/word/strange/)：奇妙な、変な
+- [uncertain](/uncertain)：不確かな、はっきりしない
+- [strange](/strange)：奇妙な、変な
 
 ---
 
 ## 📖 できればこれも
 
-- [curious](/word/curious/)：好奇心の強い、不思議な
-- [unknown](/word/unknown/)：未知の、知られていない
+- [curious](/curious)：好奇心の強い、不思議な
+- [unknown](/unknown)：未知の、知られていない
 
-<!-- cvid: aid02_bid02 -->
+<!-- cvid: aid28_bid36 -->

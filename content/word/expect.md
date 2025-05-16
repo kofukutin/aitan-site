@@ -81,15 +81,19 @@ expectはTOEICの文法・語彙問題で頻出し、主に「expect A to do」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ expectはTOEICの文法・語彙問題で頻出し、主に「expect A to do」�
 ## 🤔  anticipate との違いは？
 
 - **expect**：起こることを当然と考えて待つ、一般的な「期待する」
-- **[anticipate](/word/anticipate/)**：先回りして予測し、準備するニュアンスが強い
+- **[anticipate](/anticipate)**：先回りして予測し、準備するニュアンスが強い
 
 expectは「当然そうなる」と思う気持ち、anticipateは「先を読んで備える」積極的な姿勢の違いがあります。
 
@@ -105,14 +109,14 @@ expectは「当然そうなる」と思う気持ち、anticipateは「先を読�
 
 ## 🧩 あわせて覚えたい
 
-- [predict](/word/predict/)：予測する
-- [assume](/word/assume/)：仮定する
+- [predict](/predict)：予測する
+- [assume](/assume)：仮定する
 
 ---
 
 ## 📖 できればこれも
 
-- [require](/word/require/)：要求する
-- [suggest](/word/suggest/)：提案する
+- [require](/require)：要求する
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid45_bid10 -->
+<!-- cvid: aid33_bid12 -->

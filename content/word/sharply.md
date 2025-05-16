@@ -81,15 +81,19 @@ TOEICではグラフや数値の変化、ビジネスレポートの説明文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではグラフや数値の変化、ビジネスレポートの説明文で
 ## 🤔  suddenly との違いは？
 
 - **sharply**：変化や違いが「急激で、はっきりしている」ことを強調
-- **[suddenly](/word/suddenly/)**：出来事が「突然起こる」ことを強調
+- **[suddenly](/suddenly)**：出来事が「突然起こる」ことを強調
 
 sharplyは「変化の度合い・明確さ」に焦点があり、suddenlyは「予期せぬタイミング」に重点があります。
 
@@ -105,14 +109,14 @@ sharplyは「変化の度合い・明確さ」に焦点があり、suddenlyは�
 
 ## 🧩 あわせて覚えたい
 
-- [dramatically](/word/dramatically/)：劇的に、大きく
-- [gradually](/word/gradually/)：徐々に、だんだんと
+- [dramatically](/dramatically)：劇的に、大きく
+- [gradually](/gradually)：徐々に、だんだんと
 
 ---
 
 ## 📖 できればこれも
 
-- [rapidly](/word/rapidly/)：急速に
-- [significantly](/word/significantly/)：著しく、かなり
+- [rapidly](/rapidly)：急速に
+- [significantly](/significantly)：著しく、かなり
 
-<!-- cvid: aid30_bid34 -->
+<!-- cvid: aid20_bid11 -->

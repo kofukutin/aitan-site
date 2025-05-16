@@ -77,15 +77,19 @@ theeはTOEICではほとんど出題されませんが、歴史的文書や文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid45_bid12" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid12" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ theeはTOEICではほとんど出題されませんが、歴史的文書や文�
 ## 🤔  you との違いは？
 
 - **thee**：古語で「あなたを」「汝を」。目的格として使われ、詩や聖書、古典文学で登場。
-- **[you](/word/you/)**：現代英語で「あなた」「あなたを」。主格・目的格ともに使われ、日常会話で一般的。
+- **[you](/you)**：現代英語で「あなた」「あなたを」。主格・目的格ともに使われ、日常会話で一般的。
 
 theeは古風で格式ある響きがあり、現代英語ではyouが圧倒的に使われます。theeは特別な文脈や詩的表現でのみ登場します。
 
@@ -101,14 +105,14 @@ theeは古風で格式ある響きがあり、現代英語ではyouが圧倒的�
 
 ## 🧩 あわせて覚えたい
 
-- [thou](/word/thou/)：汝は（古語の主格）
-- [ye](/word/ye/)：あなたがた（古語の複数形）
+- [thou](/thou)：汝は（古語の主格）
+- [ye](/ye)：あなたがた（古語の複数形）
 
 ---
 
 ## 📖 できればこれも
 
-- [thy](/word/thy/)：あなたの（古語の所有格）
-- [thine](/word/thine/)：あなたのもの（古語の所有代名詞）
+- [thy](/thy)：あなたの（古語の所有格）
+- [thine](/thine)：あなたのもの（古語の所有代名詞）
 
-<!-- cvid: aid17_bid47 -->
+<!-- cvid: aid45_bid12 -->

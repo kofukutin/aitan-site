@@ -81,15 +81,19 @@ TOEICでは主に金融やビジネス文書で「債券」の意味で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に金融やビジネス文書で「債券」の意味で出題さ
 ## 🤔  contract との違いは？
 
 - **bond**：人や物の「結びつき」や、金融の「債券」を指す。
-- **[contract](/word/contract/)**：法的な「契約」や「契約書」を指す。
+- **[contract](/contract)**：法的な「契約」や「契約書」を指す。
 
 bondは「つながり」や「金融商品」としての意味が中心で、contractは「約束」や「法的効力のある合意」を表します。
 
@@ -105,14 +109,14 @@ bondは「つながり」や「金融商品」としての意味が中心で、c
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee/)：保証、保証する
-- [obligation](/word/obligation/)：義務、責任
+- [guarantee](/guarantee)：保証、保証する
+- [obligation](/obligation)：義務、責任
 
 ---
 
 ## 📖 できればこれも
 
-- [loan](/word/loan/)：貸付、ローン
-- [agreement](/word/agreement/)：合意、協定
+- [loan](/loan)：貸付、ローン
+- [agreement](/agreement)：合意、協定
 
-<!-- cvid: aid21_bid13 -->
+<!-- cvid: aid18_bid03 -->

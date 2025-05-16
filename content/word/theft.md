@@ -82,15 +82,19 @@ TOEICでは、盗難や犯罪に関する記事や通知文、報告書などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、盗難や犯罪に関する記事や通知文、報告書などで
 ## 🤔  robbery との違いは？
 
 - **theft**：暴力や脅しを伴わない「盗み」全般を指す。
-- **[robbery](/word/robbery/)**：暴力や脅しを使って物を奪う「強盗」。
+- **[robbery](/robbery)**：暴力や脅しを使って物を奪う「強盗」。
 
 theftは静かに盗む行為、robberyは力や脅しを使う点が大きな違いです。
 
@@ -106,14 +110,14 @@ theftは静かに盗む行為、robberyは力や脅しを使う点が大きな�
 
 ## 🧩 あわせて覚えたい
 
-- [burglary](/word/burglary/)：住居侵入窃盗
-- [fraud](/word/fraud/)：詐欺
+- [burglary](/burglary)：住居侵入窃盗
+- [fraud](/fraud)：詐欺
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime/)：犯罪
-- [damage](/word/damage/)：損害
+- [crime](/crime)：犯罪
+- [damage](/damage)：損害
 
-<!-- cvid: aid39_bid34 -->
+<!-- cvid: aid06_bid47 -->

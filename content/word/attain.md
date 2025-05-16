@@ -81,15 +81,19 @@ attainはTOEICの語彙問題やビジネス文書で、目標や基準の「達
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ attainはTOEICの語彙問題やビジネス文書で、目標や基準の「達
 ## 🤔  achieve との違いは？
 
 - **attain**：努力や時間をかけて目標や基準に到達する（ややフォーマル）
-- **[achieve](/word/achieve/)**：目標や成功を成し遂げる（一般的・幅広い場面で使用）
+- **[achieve](/achieve)**：目標や成功を成し遂げる（一般的・幅広い場面で使用）
 
 attainは「到達点」や「基準」に手が届くニュアンスが強く、achieveは「成果を得る」や「成功する」など幅広い達成に使われます。
 
@@ -105,14 +109,14 @@ attainは「到達点」や「基準」に手が届くニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [accomplish](/word/accomplish/)：やり遂げる、成し遂げる
-- [reach](/word/reach/)：到達する、届く
+- [accomplish](/accomplish)：やり遂げる、成し遂げる
+- [reach](/reach)：到達する、届く
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/word/obtain/)：手に入れる、獲得する
-- [fulfill](/word/fulfill/)：（義務・約束などを）果たす
+- [obtain](/obtain)：手に入れる、獲得する
+- [fulfill](/fulfill)：（義務・約束などを）果たす
 
-<!-- cvid: aid36_bid42 -->
+<!-- cvid: aid16_bid22 -->

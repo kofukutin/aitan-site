@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンで「詳しく調べる」「検討す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンで「詳しく調べる」「検討す
 ## 🤔  checking との違いは？
 
 - **examining**：細かく・注意深く調べる、分析する
-- **[checking](/word/checking/)**：ざっと確認する、点検する
+- **[checking](/checking)**：ざっと確認する、点検する
 
 examiningは「詳細に調べる」ニュアンスが強く、checkingは「間違いがないか簡単に確認する」場面で使われます。
 
@@ -105,14 +109,14 @@ examiningは「詳細に調べる」ニュアンスが強く、checkingは「間
 
 ## 🧩 あわせて覚えたい
 
-- [investigate](/word/investigate/)：（徹底的に）調査する
-- [inspect](/word/inspect/)：（公式に）検査する、点検する
+- [investigate](/investigate)：（徹底的に）調査する
+- [inspect](/inspect)：（公式に）検査する、点検する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyzing](/word/analyzing/)：分析している
-- [reviewing](/word/reviewing/)：見直している、再検討している
+- [analyzing](/analyzing)：分析している
+- [reviewing](/reviewing)：見直している、再検討している
 
-<!-- cvid: aid46_bid17 -->
+<!-- cvid: aid21_bid00 -->

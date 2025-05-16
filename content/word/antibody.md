@@ -80,15 +80,19 @@ The laboratory is testing for the presence of antibodies in the blood samples.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The laboratory is testing for the presence of antibodies in the blood samples.
 ## 🤔  vaccine との違いは？
 
 - **antibody**：体内で作られる「抗体」、異物を攻撃するたんぱく質
-- **[vaccine](/word/vaccine/)**：病気の予防のために体外から投与される「ワクチン」
+- **[vaccine](/vaccine)**：病気の予防のために体外から投与される「ワクチン」
 
 antibodyは体の中で自然に作られる防御物質、vaccineは病気を防ぐために注射などで体に入れる薬です。
 
@@ -104,14 +108,14 @@ antibodyは体の中で自然に作られる防御物質、vaccineは病気を�
 
 ## 🧩 あわせて覚えたい
 
-- [antigen](/word/antigen/)：抗原（抗体が反応する異物）
-- [immunity](/word/immunity/)：免疫（病気に対する抵抗力）
+- [antigen](/antigen)：抗原（抗体が反応する異物）
+- [immunity](/immunity)：免疫（病気に対する抵抗力）
 
 ---
 
 ## 📖 できればこれも
 
-- [virus](/word/virus/)：ウイルス（感染症の原因となる微生物）
-- [bacteria](/word/bacteria/)：細菌（病気や発酵の原因となる微生物）
+- [virus](/virus)：ウイルス（感染症の原因となる微生物）
+- [bacteria](/bacteria)：細菌（病気や発酵の原因となる微生物）
 
-<!-- cvid: aid26_bid45 -->
+<!-- cvid: aid08_bid00 -->

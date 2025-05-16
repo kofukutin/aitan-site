@@ -81,15 +81,19 @@ TOEICでは、buildの過去形・過去分詞として文法問題や説明文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、buildの過去形・過去分詞として文法問題や説明文�
 ## 🤔  constructed との違いは？
 
 - **built**：一般的に「建てた」「作った」という意味で幅広く使う
-- **[constructed](/word/constructed/)**：特に「構造物を組み立てて建設した」というややフォーマルな表現
+- **[constructed](/constructed)**：特に「構造物を組み立てて建設した」というややフォーマルな表現
 
 builtは日常的な「作る・建てる」に広く使われ、constructedは工事や設計に基づく建設など、より専門的・フォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ builtは日常的な「作る・建てる」に広く使われ、constructedは�
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create/)：創造する、作り出す
-- [assemble](/word/assemble/)：組み立てる
+- [create](/create)：創造する、作り出す
+- [assemble](/assemble)：組み立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：設計する
-- [repair](/word/repair/)：修理する
+- [design](/design)：設計する
+- [repair](/repair)：修理する
 
-<!-- cvid: aid45_bid33 -->
+<!-- cvid: aid21_bid38 -->

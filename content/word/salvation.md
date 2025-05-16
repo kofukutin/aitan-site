@@ -80,15 +80,19 @@ TOEICでは宗教や抽象的なテーマの長文、または比喩的な表現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid15_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは宗教や抽象的なテーマの長文、または比喩的な表現
 ## 🤔  rescue との違いは？
 
 - **salvation**：精神的・宗教的な「救い」や抽象的な「救済」を表すフォーマルな語。
-- **[rescue](/word/rescue/)**：物理的・具体的な「救助」や「救出」を指し、日常的にも使われる。
+- **[rescue](/rescue)**：物理的・具体的な「救助」や「救出」を指し、日常的にも使われる。
 
 salvationは心や魂の救い、rescueは人や物を危険から助け出す具体的な行動を指します。
 
@@ -104,14 +108,14 @@ salvationは心や魂の救い、rescueは人や物を危険から助け出す�
 
 ## 🧩 あわせて覚えたい
 
-- [redemption](/word/redemption/)：贖い、罪の償い
-- [deliverance](/word/deliverance/)：救出、解放
+- [redemption](/redemption)：贖い、罪の償い
+- [deliverance](/deliverance)：救出、解放
 
 ---
 
 ## 📖 できればこれも
 
-- [faith](/word/faith/)：信仰、信頼
-- [hope](/word/hope/)：希望
+- [faith](/faith)：信仰、信頼
+- [hope](/hope)：希望
 
-<!-- cvid: aid49_bid20 -->
+<!-- cvid: aid15_bid24 -->

@@ -81,15 +81,19 @@ crucialはTOEICの語彙問題で「重要な」「決定的な」という意�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ crucialはTOEICの語彙問題で「重要な」「決定的な」という意�
 ## 🤔  critical との違いは？
 
 - **crucial**：結果や成否を左右するほど「極めて重要」な場面で使う
-- **[critical](/word/critical/)**：危機的・重大な状況や「批判的」という意味でも使う
+- **[critical](/critical)**：危機的・重大な状況や「批判的」という意味でも使う
 
 crucialは「決定的に重要」、criticalは「危機的・重大」や「批判的」など幅広い意味で使い分けます。
 
@@ -105,14 +109,14 @@ crucialは「決定的に重要」、criticalは「危機的・重大」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [essential](/word/essential/)：不可欠な、絶対必要な
-- [minor](/word/minor/)：重要でない、小さい
+- [essential](/essential)：不可欠な、絶対必要な
+- [minor](/minor)：重要でない、小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [vital](/word/vital/)：不可欠な、極めて重要な
-- [significant](/word/significant/)：重要な、意味のある
+- [vital](/vital)：不可欠な、極めて重要な
+- [significant](/significant)：重要な、意味のある
 
-<!-- cvid: aid39_bid12 -->
+<!-- cvid: aid04_bid45 -->

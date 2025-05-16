@@ -81,15 +81,19 @@ TOEICでは主に雑誌記事やコラム、文化紹介などの長文読解で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に雑誌記事やコラム、文化紹介などの長文読解で
 ## 🤔  astronomy との違いは？
 
 - **astrology**：星や惑星の動きから人の運命や性格を占う学問・信仰
-- **[astronomy](/word/astronomy/)**：天体そのものや宇宙の現象を科学的に研究する学問
+- **[astronomy](/astronomy)**：天体そのものや宇宙の現象を科学的に研究する学問
 
 astrologyは「占い」的な意味合いが強く、astronomyは純粋な科学分野です。
 
@@ -105,14 +109,14 @@ astrologyは「占い」的な意味合いが強く、astronomyは純粋な科�
 
 ## 🧩 あわせて覚えたい
 
-- [horoscope](/word/horoscope/)：星占い、ホロスコープ
-- [prediction](/word/prediction/)：予言、予測
+- [horoscope](/horoscope)：星占い、ホロスコープ
+- [prediction](/prediction)：予言、予測
 
 ---
 
 ## 📖 できればこれも
 
-- [zodiac](/word/zodiac/)：黄道帯、星座
-- [fortune](/word/fortune/)：運勢、幸運
+- [zodiac](/zodiac)：黄道帯、星座
+- [fortune](/fortune)：運勢、幸運
 
-<!-- cvid: aid00_bid34 -->
+<!-- cvid: aid48_bid12 -->

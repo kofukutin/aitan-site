@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、植物や自然の描写として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、植物や自然の描写として登
 ## 🤔  foliage との違いは？
 
 - **leaf**：個々の「葉」や一枚一枚の葉っぱを指す
-- **[foliage](/word/foliage/)**：木や植物全体の「葉（葉の集合体）」を指す
+- **[foliage](/foliage)**：木や植物全体の「葉（葉の集合体）」を指す
 
 leafは一枚ずつの葉、foliageは木全体や茂みの葉のまとまりを表します。
 
@@ -105,14 +109,14 @@ leafは一枚ずつの葉、foliageは木全体や茂みの葉のまとまりを
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/word/branch/)：枝
-- [petal](/word/petal/)：花びら
+- [branch](/branch)：枝
+- [petal](/petal)：花びら
 
 ---
 
 ## 📖 できればこれも
 
-- [root](/word/root/)：根
-- [flower](/word/flower/)：花
+- [root](/root)：根
+- [flower](/flower)：花
 
-<!-- cvid: aid42_bid12 -->
+<!-- cvid: aid16_bid22 -->

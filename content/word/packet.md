@@ -81,15 +81,19 @@ ITや郵送、商品説明などの文脈で登場しやすく、特に説明文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや郵送、商品説明などの文脈で登場しやすく、特に説明文
 ## 🤔  package との違いは？
 
 - **packet**：小さな袋や小分けパック、ITではデータの小単位
-- **[package](/word/package/)**：大きめの箱や荷物、またはソフトウェアのパッケージ
+- **[package](/package)**：大きめの箱や荷物、またはソフトウェアのパッケージ
 
 packetは「小さくまとめたもの」や「データの単位」に使い、packageは「大きな荷物」や「一式」に使います。
 
@@ -105,14 +109,14 @@ packetは「小さくまとめたもの」や「データの単位」に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [envelope](/word/envelope/)：封筒
-- [parcel](/word/parcel/)：小包、荷物
+- [envelope](/envelope)：封筒
+- [parcel](/parcel)：小包、荷物
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類
-- [folder](/word/folder/)：フォルダー、書類入れ
+- [document](/document)：書類
+- [folder](/folder)：フォルダー、書類入れ
 
-<!-- cvid: aid18_bid21 -->
+<!-- cvid: aid10_bid17 -->

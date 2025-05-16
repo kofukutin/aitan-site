@@ -81,15 +81,19 @@ TOEICでは日付や予定、スケジュールに関する問題で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid14_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -106,13 +110,13 @@ Thursdayは木曜日、Tuesdayは火曜日で、曜日が異なります。予�
 ## 🧩 あわせて覚えたい
 
 - [Friday](/Friday)：金曜日
-- [week](/word/week/)：週
+- [week](/week)：週
 
 ---
 
 ## 📖 できればこれも
 
 - [Monday](/Monday)：月曜日
-- [calendar](/word/calendar/)：カレンダー、予定表
+- [calendar](/calendar)：カレンダー、予定表
 
-<!-- cvid: aid47_bid20 -->
+<!-- cvid: aid14_bid21 -->

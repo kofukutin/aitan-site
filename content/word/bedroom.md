@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bedroom】の意味・使い方・例文 ― living roomとの違い【TOEIC英単語】"
 description: "bedroomの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでliving roomとの違いもわかりやすく学べます。"
 word: "bedroom"
@@ -81,15 +81,19 @@ TOEIC Part 1で、部屋や家の写真を説明する際によく登場しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ bedroomはプライベートな空間、living roomはみんなで過ごす共�
 
 ## 🧩 あわせて覚えたい
 
-- [kitchen](/word/kitchen/)：台所
-- [bathroom](/word/bathroom/)：浴室、トイレ
+- [kitchen](/kitchen)：台所
+- [bathroom](/bathroom)：浴室、トイレ
 
 ---
 
 ## 📖 できればこれも
 
-- [closet](/word/closet/)：クローゼット、押し入れ
-- [apartment](/word/apartment/)：アパート、マンション
+- [closet](/closet)：クローゼット、押し入れ
+- [apartment](/apartment)：アパート、マンション
 
-<!-- cvid: aid43_bid07 -->
+<!-- cvid: aid29_bid24 -->

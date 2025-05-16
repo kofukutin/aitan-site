@@ -81,15 +81,19 @@ TOEICでは「sensitive information（機密情報）」や「sensitive to chang
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「sensitive information（機密情報）」や「sensitive to chang
 ## 🤔  delicate との違いは？
 
 - **sensitive**：感情や刺激、状況に対して「敏感な」「感じやすい」
-- **[delicate](/word/delicate/)**：物や状況が「壊れやすい」「繊細な」「微妙な」
+- **[delicate](/delicate)**：物や状況が「壊れやすい」「繊細な」「微妙な」
 
 sensitiveは人や感情、情報などが外部の影響を受けやすい場合に使い、delicateは物理的・精神的に壊れやすい、または扱いが難しいものに使います。
 
@@ -105,14 +109,14 @@ sensitiveは人や感情、情報などが外部の影響を受けやすい場�
 
 ## 🧩 あわせて覚えたい
 
-- [insensitive](/word/insensitive/)：鈍感な、無神経な
-- [responsive](/word/responsive/)：反応が良い、すぐに応じる
+- [insensitive](/insensitive)：鈍感な、無神経な
+- [responsive](/responsive)：反応が良い、すぐに応じる
 
 ---
 
 ## 📖 できればこれも
 
-- [emotional](/word/emotional/)：感情的な
-- [aware](/word/aware/)：気づいている、意識している
+- [emotional](/emotional)：感情的な
+- [aware](/aware)：気づいている、意識している
 
-<!-- cvid: aid17_bid30 -->
+<!-- cvid: aid39_bid01 -->

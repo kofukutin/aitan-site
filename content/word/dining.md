@@ -81,15 +81,19 @@ TOEICではレストランやホテル、ビジネスの会食シーンなどで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランやホテル、ビジネスの会食シーンなどで
 ## 🤔  eating との違いは？
 
 - **dining**：フォーマルな「食事」や「食事の場面」を指す
-- **[eating](/word/eating/)**：単に「食べること」を指し、カジュアルで幅広い意味
+- **[eating](/eating)**：単に「食べること」を指し、カジュアルで幅広い意味
 
 「dining」は特にレストランや特別な食事の場面で使われ、「eating」は日常的な「食べる行為」全般を表します。
 
@@ -105,14 +109,14 @@ TOEICではレストランやホテル、ビジネスの会食シーンなどで
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/word/meal/)：食事、1回分の食事
-- [restaurant](/word/restaurant/)：レストラン、飲食店
+- [meal](/meal)：食事、1回分の食事
+- [restaurant](/restaurant)：レストラン、飲食店
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/word/lunch/)：昼食
-- [dinner](/word/dinner/)：夕食
+- [lunch](/lunch)：昼食
+- [dinner](/dinner)：夕食
 
-<!-- cvid: aid34_bid30 -->
+<!-- cvid: aid18_bid29 -->

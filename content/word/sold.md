@@ -81,15 +81,19 @@ TOEICでは、売買や取引に関する会話や説明文でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、売買や取引に関する会話や説明文でよく登場しま
 ## 🤔  bought との違いは？
 
 - **sold**：売る側が「売った」ことを表す
-- **[bought](/word/bought/)**：買う側が「買った」ことを表す
+- **[bought](/bought)**：買う側が「買った」ことを表す
 
 soldは「売る」側、boughtは「買う」側の立場を表すので、会話の視点が異なります。
 
@@ -105,14 +109,14 @@ soldは「売る」側、boughtは「買う」側の立場を表すので、会�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：提案する、申し出る
-- [purchase](/word/purchase/)：購入する
+- [offer](/offer)：提案する、申し出る
+- [purchase](/purchase)：購入する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [deliver](/word/deliver/)：配達する
+- [send](/send)：送る
+- [deliver](/deliver)：配達する
 
-<!-- cvid: aid00_bid09 -->
+<!-- cvid: aid07_bid25 -->

@@ -81,15 +81,19 @@ ITやビジネスの会話で「拠点」や「中心地」として出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの会話で「拠点」や「中心地」として出題され
 ## 🤔  center との違いは？
 
 - **hub**：人や物が集まる「拠点」や「中心地」を強調
-- **[center](/word/center/)**：物理的・抽象的な「中心」全般
+- **[center](/center)**：物理的・抽象的な「中心」全般
 
 hubは「活動や流れの集まる場所」というニュアンスが強く、centerは単に「真ん中」や「中心」を指します。
 
@@ -105,14 +109,14 @@ hubは「活動や流れの集まる場所」というニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [core](/word/core/)：核、中心部分
-- [network](/word/network/)：ネットワーク、網状組織
+- [core](/core)：核、中心部分
+- [network](/network)：ネットワーク、網状組織
 
 ---
 
 ## 📖 できればこれも
 
-- [base](/word/base/)：基地、拠点
-- [node](/word/node/)：結節点、ノード
+- [base](/base)：基地、拠点
+- [node](/node)：結節点、ノード
 
-<!-- cvid: aid25_bid35 -->
+<!-- cvid: aid01_bid17 -->

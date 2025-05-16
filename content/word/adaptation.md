@@ -81,15 +81,19 @@ adaptationは、ビジネス文書や説明文で「適応」「適合」の意�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ adaptationは、ビジネス文書や説明文で「適応」「適合」の意�
 ## 🤔  adjustment との違いは？
 
 - **adaptation**：環境や状況に合わせて変化・適応すること、または原作を別の形に作り変えること
-- **[adjustment](/word/adjustment/)**：微調整や小さな修正を加えること
+- **[adjustment](/adjustment)**：微調整や小さな修正を加えること
 
 adaptationは大きな変化や新しい状況への適応に使い、adjustmentは細かい調整や修正に使います。
 
@@ -105,14 +109,14 @@ adaptationは大きな変化や新しい状況への適応に使い、adjustment
 
 ## 🧩 あわせて覚えたい
 
-- [modification](/word/modification/)：修正、変更
-- [conversion](/word/conversion/)：転換、変換
+- [modification](/modification)：修正、変更
+- [conversion](/conversion)：転換、変換
 
 ---
 
 ## 📖 できればこれも
 
-- [adoption](/word/adoption/)：採用、導入
-- [transition](/word/transition/)：移行、変化
+- [adoption](/adoption)：採用、導入
+- [transition](/transition)：移行、変化
 
-<!-- cvid: aid06_bid37 -->
+<!-- cvid: aid03_bid49 -->

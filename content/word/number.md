@@ -81,15 +81,19 @@ TOEICでは「the number of ～」や「a number of ～」の形で頻出し、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「the number of ～」や「a number of ～」の形で頻出し、�
 ## 🤔  amount との違いは？
 
 - **number**：可算名詞（数えられるもの）の「数」や「人数」に使う
-- **[amount](/word/amount/)**：不可算名詞（数えられないもの）の「量」に使う
+- **[amount](/amount)**：不可算名詞（数えられないもの）の「量」に使う
 
 numberは「人数」「個数」など、はっきり数えられる対象に使い、amountは「水」「お金」など数えられないものに使います。
 
@@ -105,14 +109,14 @@ numberは「人数」「個数」など、はっきり数えられる対象に�
 
 ## 🧩 あわせて覚えたい
 
-- [figure](/word/figure/)：数字、図
-- [quantity](/word/quantity/)：量、分量
+- [figure](/figure)：数字、図
+- [quantity](/quantity)：量、分量
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total/)：合計
-- [sum](/word/sum/)：合計、総額
+- [total](/total)：合計
+- [sum](/sum)：合計、総額
 
-<!-- cvid: aid34_bid13 -->
+<!-- cvid: aid33_bid03 -->

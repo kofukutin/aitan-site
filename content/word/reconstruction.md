@@ -81,15 +81,19 @@ TOEICでは、ビジネスや社会的なトピックの長文中で「再建」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや社会的なトピックの長文中で「再建」
 ## 🤔  restoration との違いは？
 
 - **reconstruction**：壊れたものを一から作り直す「再建」「再構築」
-- **[restoration](/word/restoration/)**：元の状態に戻す「修復」「復元」
+- **[restoration](/restoration)**：元の状態に戻す「修復」「復元」
 
 reconstructionは「新たに作り直す」ニュアンスが強く、restorationは「元通りに戻す」ことに重点があります。
 
@@ -105,14 +109,14 @@ reconstructionは「新たに作り直す」ニュアンスが強く、restorati
 
 ## 🧩 あわせて覚えたい
 
-- [renovation](/word/renovation/)：改装、リノベーション
-- [repair](/word/repair/)：修理、修繕
+- [renovation](/renovation)：改装、リノベーション
+- [repair](/repair)：修理、修繕
 
 ---
 
 ## 📖 できればこれも
 
-- [construction](/word/construction/)：建設、建造
-- [modification](/word/modification/)：変更、修正
+- [construction](/construction)：建設、建造
+- [modification](/modification)：変更、修正
 
-<!-- cvid: aid30_bid00 -->
+<!-- cvid: aid12_bid25 -->

@@ -77,15 +77,19 @@ TOEICでは非常に稀にしか登場せず、主に古い文書や引用文、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid38_bid11" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid11" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは非常に稀にしか登場せず、主に古い文書や引用文、
 ## 🤔  until との違いは？
 
 - **unto**：古風・文語的に「～へ」「～に対して」を表す前置詞
-- **[until](/word/until/)**：「～まで（ずっと）」という時間的な終点を表す前置詞・接続詞
+- **[until](/until)**：「～まで（ずっと）」という時間的な終点を表す前置詞・接続詞
 
 untoは方向や対象を示すのに使われ、untilは時間の終わりを示す点で使い分けます。
 
@@ -101,14 +105,14 @@ untoは方向や対象を示すのに使われ、untilは時間の終わりを�
 
 ## 🧩 あわせて覚えたい
 
-- [toward](/word/toward/)：～の方へ（方向を示す前置詞）
-- [upon](/word/upon/)：～の上に、～するとすぐに（フォーマルな前置詞）
+- [toward](/toward)：～の方へ（方向を示す前置詞）
+- [upon](/upon)：～の上に、～するとすぐに（フォーマルな前置詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [within](/word/within/)：～以内に、～の中で
-- [throughout](/word/throughout/)：～の間ずっと、～の至る所に
+- [within](/within)：～以内に、～の中で
+- [throughout](/throughout)：～の間ずっと、～の至る所に
 
-<!-- cvid: aid45_bid07 -->
+<!-- cvid: aid38_bid11 -->

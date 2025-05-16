@@ -81,15 +81,19 @@ TOEICでは、demonstratedは主にビジネス文書やレポートで「証明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、demonstratedは主にビジネス文書やレポートで「証明
 ## 🤔  proved との違いは？
 
 - **demonstrated**：証拠や例を示して証明・実演したことを強調
-- **[proved](/word/proved/)**：事実や論理で正しいと証明したことを強調
+- **[proved](/proved)**：事実や論理で正しいと証明したことを強調
 
 demonstratedは「見せて納得させる」ニュアンスがあり、provedは「論理的・客観的に証明する」場面で使います。
 
@@ -105,14 +109,14 @@ demonstratedは「見せて納得させる」ニュアンスがあり、proved�
 
 ## 🧩 あわせて覚えたい
 
-- [show](/word/show/)：見せる、示す
-- [explain](/word/explain/)：説明する
+- [show](/show)：見せる、示す
+- [explain](/explain)：説明する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、発表する
-- [indicate](/word/indicate/)：示す、指し示す
+- [present](/present)：提示する、発表する
+- [indicate](/indicate)：示す、指し示す
 
-<!-- cvid: aid24_bid25 -->
+<!-- cvid: aid27_bid11 -->

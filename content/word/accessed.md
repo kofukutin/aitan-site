@@ -81,15 +81,19 @@ TOEICではITやビジネス文書の中で「データにアクセスする」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書の中で「データにアクセスする」�
 ## 🤔  approached との違いは？
 
 - **accessed**：ITや情報、場所などに「到達して利用できる状態にした」ことを表す
-- **[approached](/word/approached/)**：物理的・心理的に「近づいた」「接近した」ことを表す
+- **[approached](/approached)**：物理的・心理的に「近づいた」「接近した」ことを表す
 
 「accessed」は主にデータやシステムなどに「アクセスして利用した」場合に使い、「approached」は人や場所などに「近づいた」場合に使います。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス文書の中で「データにアクセスする」�
 
 ## 🧩 あわせて覚えたい
 
-- [retrieve](/word/retrieve/)：（データなどを）取り出す
-- [enter](/word/enter/)：入力する、入る
+- [retrieve](/retrieve)：（データなどを）取り出す
+- [enter](/enter)：入力する、入る
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/word/download/)：ダウンロードする
-- [upload](/word/upload/)：アップロードする
+- [download](/download)：ダウンロードする
+- [upload](/upload)：アップロードする
 
-<!-- cvid: aid49_bid20 -->
+<!-- cvid: aid28_bid41 -->

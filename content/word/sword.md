@@ -81,15 +81,19 @@ TOEICでは歴史や観光、展示に関する長文で登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や観光、展示に関する長文で登場することがあ
 ## 🤔  blade との違いは？
 
 - **sword**：柄（持ち手）と長い刃が一体となった「剣」全体を指す。
-- **[blade](/word/blade/)**：刃物の「刃」部分のみを指し、剣以外にも使う。
+- **[blade](/blade)**：刃物の「刃」部分のみを指し、剣以外にも使う。
 
 swordは武器としての「剣」全体、bladeは「刃」そのものを意味し、knifeやscissorsにも使われます。
 
@@ -105,14 +109,14 @@ swordは武器としての「剣」全体、bladeは「刃」そのものを意�
 
 ## 🧩 あわせて覚えたい
 
-- [shield](/word/shield/)：盾
-- [dagger](/word/dagger/)：短剣
+- [shield](/shield)：盾
+- [dagger](/dagger)：短剣
 
 ---
 
 ## 📖 できればこれも
 
-- [armor](/word/armor/)：鎧
-- [helmet](/word/helmet/)：ヘルメット、かぶと
+- [armor](/armor)：鎧
+- [helmet](/helmet)：ヘルメット、かぶと
 
-<!-- cvid: aid13_bid35 -->
+<!-- cvid: aid40_bid40 -->

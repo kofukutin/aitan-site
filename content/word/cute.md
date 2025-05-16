@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cute】の意味・使い方・例文 ― prettyとの違い【TOEIC英単語】"
 description: "cuteの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでprettyとの違いもわかりやすく学べます。"
 word: "cute"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物や動物、物の外見を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物や動物、物の外見を説
 ## 🤔  pretty との違いは？
 
 - **cute**：子どもっぽい愛らしさや小さくてかわいい印象を表す
-- **[pretty](/word/pretty/)**：主に女性や物の「きれいさ」「美しさ」をややフォーマルに表現
+- **[pretty](/pretty)**：主に女性や物の「きれいさ」「美しさ」をややフォーマルに表現
 
 「cute」は親しみやすく、幼さや愛嬌を感じるときに使い、「pretty」は美しさや上品さを強調したいときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、人物や動物、物の外見を説
 
 ## 🧩 あわせて覚えたい
 
-- [adorable](/word/adorable/)：とてもかわいい、愛らしい
-- [charming](/word/charming/)：魅力的な、感じのよい
+- [adorable](/adorable)：とてもかわいい、愛らしい
+- [charming](/charming)：魅力的な、感じのよい
 
 ---
 
 ## 📖 できればこれも
 
-- [funny](/word/funny/)：おもしろい、愉快な
-- [lovely](/word/lovely/)：素敵な、かわいらしい
+- [funny](/funny)：おもしろい、愉快な
+- [lovely](/lovely)：素敵な、かわいらしい
 
-<!-- cvid: aid36_bid46 -->
+<!-- cvid: aid35_bid37 -->

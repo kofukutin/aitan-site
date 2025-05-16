@@ -81,15 +81,19 @@ TOEICでは「arranged meeting（手配された会議）」や「arranged seati
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「arranged meeting（手配された会議）」や「arranged seati
 ## 🤔  organized との違いは？
 
 - **arranged**：物や予定が順序よく整えられている、または事前に手配されている状態
-- **[organized](/word/organized/)**：全体的に秩序立って管理・運営されている状態
+- **[organized](/organized)**：全体的に秩序立って管理・運営されている状態
 
 arrangedは「並べる・手配する」など具体的な配置や準備に焦点があり、organizedは「体系的にまとめる・管理する」といった全体の秩序や管理に重点があります。
 
@@ -105,14 +109,14 @@ arrangedは「並べる・手配する」など具体的な配置や準備に焦
 
 ## 🧩 あわせて覚えたい
 
-- [scheduled](/word/scheduled/)：予定された
-- [prepared](/word/prepared/)：準備された
+- [scheduled](/scheduled)：予定された
+- [prepared](/prepared)：準備された
 
 ---
 
 ## 📖 できればこれも
 
-- [planned](/word/planned/)：計画された
-- [sorted](/word/sorted/)：分類された
+- [planned](/planned)：計画された
+- [sorted](/sorted)：分類された
 
-<!-- cvid: aid18_bid01 -->
+<!-- cvid: aid36_bid47 -->

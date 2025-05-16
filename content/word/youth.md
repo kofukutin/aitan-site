@@ -81,15 +81,19 @@ TOEICでは、社会問題や教育、地域活動などの文脈で「youth」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社会問題や教育、地域活動などの文脈で「youth」�
 ## 🤔  adolescent との違いは？
 
 - **youth**：一般的に「若さ」や「若者全体」を指し、やや広い意味で使われる。
-- **[adolescent](/word/adolescent/)**：思春期の若者（13～18歳前後）を指し、医学的・心理学的な文脈で使われやすい。
+- **[adolescent](/adolescent)**：思春期の若者（13～18歳前後）を指し、医学的・心理学的な文脈で使われやすい。
 
 「youth」は幅広い年齢層や抽象的な若さも含みますが、「adolescent」は思春期の年齢層に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは、社会問題や教育、地域活動などの文脈で「youth」�
 
 ## 🧩 あわせて覚えたい
 
-- [child](/word/child/)：子ども
-- [teenager](/word/teenager/)：10代の若者
+- [child](/child)：子ども
+- [teenager](/teenager)：10代の若者
 
 ---
 
 ## 📖 できればこれも
 
-- [adult](/word/adult/)：大人
-- [generation](/word/generation/)：世代
+- [adult](/adult)：大人
+- [generation](/generation)：世代
 
-<!-- cvid: aid38_bid22 -->
+<!-- cvid: aid40_bid38 -->

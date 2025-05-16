@@ -81,15 +81,19 @@ TOEICでは、日常的な動作や状況説明の会話文で「slip」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、日常的な動作や状況説明の会話文で「slip」が登�
 ## 🤔  slide との違いは？
 
 - **slip**：意図せず滑る、足元や手元が滑るなど「偶発的」なニュアンス
-- **[slide](/word/slide/)**：滑らかに動く、意図的に滑る動作や物体の移動
+- **[slide](/slide)**：滑らかに動く、意図的に滑る動作や物体の移動
 
 「slip」は思わず滑ってしまう場合に使い、「slide」は自分で滑る・滑らせる動作や、物がなめらかに動く場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、日常的な動作や状況説明の会話文で「slip」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [fall](/word/fall/)：落ちる、倒れる
-- [drop](/word/drop/)：落とす、落ちる
+- [fall](/fall)：落ちる、倒れる
+- [drop](/drop)：落とす、落ちる
 
 ---
 
 ## 📖 できればこれも
 
-- [miss](/word/miss/)：逃す、失敗する
-- [lose](/word/lose/)：失う、なくす
+- [miss](/miss)：逃す、失敗する
+- [lose](/lose)：失う、なくす
 
-<!-- cvid: aid46_bid42 -->
+<!-- cvid: aid41_bid19 -->

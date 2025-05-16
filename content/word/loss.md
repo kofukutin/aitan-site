@@ -81,15 +81,19 @@ TOEICではビジネス文書や報告書、メールなどで「損失」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や報告書、メールなどで「損失」や「
 ## 🤔  defeat との違いは？
 
 - **loss**：何かを失うこと、損失、敗北（結果や状態を強調）
-- **[defeat](/word/defeat/)**：敗北、打ち負かすこと（勝負や競争での「負け」を強調）
+- **[defeat](/defeat)**：敗北、打ち負かすこと（勝負や競争での「負け」を強調）
 
 **loss**は「失うこと」や「損失」といった広い意味で使われ、感情的な喪失や金銭的損失にも使えます。**defeat**は「勝負で負ける」ことに特化し、勝ち負けの場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICではビジネス文書や報告書、メールなどで「損失」や「
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit/)：利益
-- [damage](/word/damage/)：損害
+- [profit](/profit)：利益
+- [damage](/damage)：損害
 
 ---
 
 ## 📖 できればこれも
 
-- [risk](/word/risk/)：リスク、危険
-- [expense](/word/expense/)：費用
+- [risk](/risk)：リスク、危険
+- [expense](/expense)：費用
 
-<!-- cvid: aid09_bid13 -->
+<!-- cvid: aid25_bid06 -->

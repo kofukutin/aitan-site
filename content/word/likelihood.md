@@ -81,15 +81,19 @@ TOEICでは主にPart 7の説明文やレポート、ビジネス文書で「可
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の説明文やレポート、ビジネス文書で「可
 ## 🤔  probability との違いは？
 
 - **likelihood**：主観的・一般的な「可能性」や「見込み」を表し、ややフォーマル。
-- **[probability](/word/probability/)**：数学的・統計的な「確率」を表し、数値化できる場合に使う。
+- **[probability](/probability)**：数学的・統計的な「確率」を表し、数値化できる場合に使う。
 
 likelihoodは日常やビジネスでの「起こりそうな感じ」を表し、probabilityは数値やデータに基づく確率を指します。
 
@@ -105,14 +109,14 @@ likelihoodは日常やビジネスでの「起こりそうな感じ」を表し�
 
 ## 🧩 あわせて覚えたい
 
-- [possibility](/word/possibility/)：可能性、実現の余地
-- [certainty](/word/certainty/)：確実性、確信
+- [possibility](/possibility)：可能性、実現の余地
+- [certainty](/certainty)：確実性、確信
 
 ---
 
 ## 📖 できればこれも
 
-- [consequence](/word/consequence/)：結果、影響
-- [assumption](/word/assumption/)：仮定、前提
+- [consequence](/consequence)：結果、影響
+- [assumption](/assumption)：仮定、前提
 
-<!-- cvid: aid32_bid48 -->
+<!-- cvid: aid02_bid26 -->

@@ -81,15 +81,19 @@ TOEICではホテルやオフィス、公共施設の案内文や広告でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやオフィス、公共施設の案内文や広告でよく
 ## 🤔  facility との違いは？
 
 - **amenity**：快適さや便利さを提供する付加的な設備やサービス
-- **[facility](/word/facility/)**：建物や設備そのもの、機能的な施設
+- **[facility](/facility)**：建物や設備そのもの、機能的な施設
 
 amenityは「快適さ・便利さを高めるもの」に焦点があり、facilityは「建物や設備そのもの」を指します。
 
@@ -105,14 +109,14 @@ amenityは「快適さ・便利さを高めるもの」に焦点があり、faci
 
 ## 🧩 あわせて覚えたい
 
-- [convenience](/word/convenience/)：便利さ、便利なもの
-- [comfort](/word/comfort/)：快適さ、心地よさ
+- [convenience](/convenience)：便利さ、便利なもの
+- [comfort](/comfort)：快適さ、心地よさ
 
 ---
 
 ## 📖 できればこれも
 
-- [accommodation](/word/accommodation/)：宿泊施設、宿泊
-- [service](/word/service/)：サービス、業務
+- [accommodation](/accommodation)：宿泊施設、宿泊
+- [service](/service)：サービス、業務
 
-<!-- cvid: aid05_bid49 -->
+<!-- cvid: aid38_bid05 -->

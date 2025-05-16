@@ -81,15 +81,19 @@ TOEICでは医療や健康に関する長文やEメール、案内文などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康に関する長文やEメール、案内文などで�
 ## 🤔  client との違いは？
 
 - **patient**：医療機関で診察や治療を受ける「患者」
-- **[client](/word/client/)**：サービスや助言を受ける「顧客」「依頼人」
+- **[client](/client)**：サービスや助言を受ける「顧客」「依頼人」
 
 patientは医療現場で使われ、clientは法律・ビジネス・サービス業など幅広い分野で使われます。
 
@@ -105,14 +109,14 @@ patientは医療現場で使われ、clientは法律・ビジネス・サービ�
 
 ## 🧩 あわせて覚えたい
 
-- [doctor](/word/doctor/)：医者
-- [treatment](/word/treatment/)：治療
+- [doctor](/doctor)：医者
+- [treatment](/treatment)：治療
 
 ---
 
 ## 📖 できればこれも
 
-- [hospital](/word/hospital/)：病院
-- [appointment](/word/appointment/)：予約
+- [hospital](/hospital)：病院
+- [appointment](/appointment)：予約
 
-<!-- cvid: aid03_bid11 -->
+<!-- cvid: aid04_bid03 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文やEメール、案内文などで「番組の1�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文やEメール、案内文などで「番組の1�
 ## 🤔  incident との違いは？
 
 - **episode**：物語や人生の中の一つの出来事や、連続する番組の「1話」など幅広い意味で使う
-- **[incident](/word/incident/)**：主に予期しない出来事や事件、特に問題やトラブルを指す
+- **[incident](/incident)**：主に予期しない出来事や事件、特に問題やトラブルを指す
 
 episodeは中立的な出来事や物語の一部を指し、incidentは予期せぬ事件やトラブルなど、ややネガティブなニュアンスで使われます。
 
@@ -105,14 +109,14 @@ episodeは中立的な出来事や物語の一部を指し、incidentは予期�
 
 ## 🧩 あわせて覚えたい
 
-- [story](/word/story/)：物語、話
-- [event](/word/event/)：出来事、行事
+- [story](/story)：物語、話
+- [event](/event)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [chapter](/word/chapter/)：（本や物語の）章
-- [scene](/word/scene/)：場面、シーン
+- [chapter](/chapter)：（本や物語の）章
+- [scene](/scene)：場面、シーン
 
-<!-- cvid: aid05_bid42 -->
+<!-- cvid: aid27_bid12 -->

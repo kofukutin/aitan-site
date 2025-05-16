@@ -81,15 +81,19 @@ TOEICではSNSやメール文面などカジュアルなやりとりを扱う問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid22_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではSNSやメール文面などカジュアルなやりとりを扱う問
 ## 🤔  photo との違いは？
 
 - **pic**：カジュアルな「写真」の言い方。SNSや会話でよく使う。
-- **[photo](/word/photo/)**：ややフォーマルで一般的な「写真」。
+- **[photo](/photo)**：ややフォーマルで一般的な「写真」。
 
 「pic」は友達同士やネット上で使う軽い表現、「photo」は日常会話からビジネスまで幅広く使えます。
 
@@ -105,14 +109,14 @@ TOEICではSNSやメール文面などカジュアルなやりとりを扱う問
 
 ## 🧩 あわせて覚えたい
 
-- [snapshot](/word/snapshot/)：スナップ写真、瞬間写真
-- [image](/word/image/)：画像、イメージ
+- [snapshot](/snapshot)：スナップ写真、瞬間写真
+- [image](/image)：画像、イメージ
 
 ---
 
 ## 📖 できればこれも
 
-- [chat](/word/chat/)：おしゃべり、チャット
-- [post](/word/post/)：投稿する、投稿
+- [chat](/chat)：おしゃべり、チャット
+- [post](/post)：投稿する、投稿
 
-<!-- cvid: aid31_bid14 -->
+<!-- cvid: aid22_bid32 -->

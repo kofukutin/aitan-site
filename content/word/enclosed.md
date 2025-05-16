@@ -81,15 +81,19 @@ TOEICでは、ビジネスメールや手紙の文中で「enclosed document」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスメールや手紙の文中で「enclosed document」�
 ## 🤔  attached との違いは？
 
 - **enclosed**：書類や物理的なものが「同封された」「囲まれた」ことを強調
-- **[attached](/word/attached/)**：主にメールなどで「添付された」ことを指す
+- **[attached](/attached)**：主にメールなどで「添付された」ことを指す
 
 enclosedは封筒や書類など物理的に「中に入っている」ニュアンスが強く、attachedはデータやファイルが「添付」されている場合に使います。
 
@@ -105,14 +109,14 @@ enclosedは封筒や書類など物理的に「中に入っている」ニュア
 
 ## 🧩 あわせて覚えたい
 
-- [included](/word/included/)：含まれている
-- [sealed](/word/sealed/)：封がされた
+- [included](/included)：含まれている
+- [sealed](/sealed)：封がされた
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/word/attached/)：添付された
-- [included](/word/included/)：含まれている
+- [attached](/attached)：添付された
+- [included](/included)：含まれている
 
-<!-- cvid: aid35_bid31 -->
+<!-- cvid: aid09_bid01 -->

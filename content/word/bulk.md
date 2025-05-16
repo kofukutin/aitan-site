@@ -88,8 +88,12 @@ TOEICでは「in bulk（まとめて、大量に）」や「the bulk of ～（�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「in bulk（まとめて、大量に）」や「the bulk of ～（�
 ## 🤔  mass との違いは？
 
 - **bulk**：物理的な「かさ」や「大部分」「容量」を強調する
-- **[mass](/word/mass/)**：物質の「質量」や「集まり」を指し、科学的・抽象的な意味合いが強い
+- **[mass](/mass)**：物質の「質量」や「集まり」を指し、科学的・抽象的な意味合いが強い
 
 bulkは「大きさ・量・かさ」に焦点を当て、massは「重さ・物質の集まり」に重点があります。
 
@@ -105,14 +109,14 @@ bulkは「大きさ・量・かさ」に焦点を当て、massは「重さ・物
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/word/volume/)：体積、容量
-- [portion](/word/portion/)：部分、分け前
+- [volume](/volume)：体積、容量
+- [portion](/portion)：部分、分け前
 
 ---
 
 ## 📖 できればこれも
 
-- [capacity](/word/capacity/)：収容能力、容量
-- [quantity](/word/quantity/)：量、数量
+- [capacity](/capacity)：収容能力、容量
+- [quantity](/quantity)：量、数量
 
-<!-- cvid: aid04_bid49 -->
+<!-- cvid: aid04_bid09 -->

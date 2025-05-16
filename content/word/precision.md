@@ -81,7 +81,7 @@ TOEICでは、技術やビジネスの文脈で「精度」や「正確さ」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+学びの波に乗ろう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、技術やビジネスの文脈で「精度」や「正確さ」を
 
 <div class="info-center">
 ＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、技術やビジネスの文脈で「精度」や「正確さ」を
 ## 🤔  accuracy との違いは？
 
 - **precision**：細かい部分まで誤差が少なく、ぶれがない「精度」や「精密さ」
-- **[accuracy](/word/accuracy/)**：目標や基準にどれだけ近いかという「正確さ」
+- **[accuracy](/accuracy)**：目標や基準にどれだけ近いかという「正確さ」
 
 precisionは「ばらつきが少ない」こと、accuracyは「正しい値に近い」ことを指します。例えば、的に矢を何本も同じ場所に当てるのがprecision、高得点の中心に近いのがaccuracyです。
 
@@ -105,14 +109,14 @@ precisionは「ばらつきが少ない」こと、accuracyは「正しい値に
 
 ## 🧩 あわせて覚えたい
 
-- [exactness](/word/exactness/)：厳密さ、正確さ
-- [approximation](/word/approximation/)：近似、概算
+- [exactness](/exactness)：厳密さ、正確さ
+- [approximation](/approximation)：近似、概算
 
 ---
 
 ## 📖 できればこれも
 
-- [measurement](/word/measurement/)：測定、計測
-- [consistency](/word/consistency/)：一貫性、安定性
+- [measurement](/measurement)：測定、計測
+- [consistency](/consistency)：一貫性、安定性
 
-<!-- cvid: aid07_bid25 -->
+<!-- cvid: aid01_bid25 -->

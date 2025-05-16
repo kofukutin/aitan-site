@@ -81,15 +81,19 @@ TOEICでは「解決策」や「提案」としてsolutionが頻出します。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「解決策」や「提案」としてsolutionが頻出します。�
 ## 🤔  answer との違いは？
 
 - **solution**：問題や困難に対する「解決策」や「方法」を指す
-- **[answer](/word/answer/)**：質問や疑問に対する「答え」を指す
+- **[answer](/answer)**：質問や疑問に対する「答え」を指す
 
 solutionは「問題解決のための方法」に重点があり、answerは「問いへの返答」に使われます。
 
@@ -105,14 +109,14 @@ solutionは「問題解決のための方法」に重点があり、answerは「
 
 ## 🧩 あわせて覚えたい
 
-- [remedy](/word/remedy/)：改善策、治療法
-- [proposal](/word/proposal/)：提案
+- [remedy](/remedy)：改善策、治療法
+- [proposal](/proposal)：提案
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method/)：方法
-- [result](/word/result/)：結果
+- [method](/method)：方法
+- [result](/result)：結果
 
-<!-- cvid: aid11_bid36 -->
+<!-- cvid: aid32_bid06 -->

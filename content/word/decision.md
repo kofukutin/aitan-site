@@ -83,15 +83,19 @@ TOEICではPart 5を中心に、ビジネスの意思決定や会議の文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICではPart 5を中心に、ビジネスの意思決定や会議の文脈で
 ## 🤔  choice との違いは？
 
 - **decision**：迷った末に「決断」や「決定」を下すこと
-- **[choice](/word/choice/)**：選択肢の中から「選ぶこと」や「選ばれたもの」
+- **[choice](/choice)**：選択肢の中から「選ぶこと」や「選ばれたもの」
 
 decisionは「決断」という行為や結果を強調し、choiceは「選択肢」や「選ぶ行為」自体を指します。
 
@@ -107,14 +111,14 @@ decisionは「決断」という行為や結果を強調し、choiceは「選択
 
 ## 🧩 あわせて覚えたい
 
-- [judgment](/word/judgment/)：判断、評価
-- [conclusion](/word/conclusion/)：結論
+- [judgment](/judgment)：判断、評価
+- [conclusion](/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/word/option/)：選択肢
-- [plan](/word/plan/)：計画
+- [option](/option)：選択肢
+- [plan](/plan)：計画
 
-<!-- cvid: aid22_bid22 -->
+<!-- cvid: aid10_bid12 -->

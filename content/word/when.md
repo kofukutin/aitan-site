@@ -77,15 +77,19 @@ TOEICではPart 2の応答問題や、Part 3・4の会話文中でよく登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart 2の応答問題や、Part 3・4の会話文中でよく登場�
 ## 🤔  while との違いは？
 
 - **when**：ある出来事が起こる「瞬間」や「タイミング」を表す
-- **[while](/word/while/)**：2つの出来事が「同時進行」している「間」を表す
+- **[while](/while)**：2つの出来事が「同時進行」している「間」を表す
 
 whenは「～したとき」と一点のタイミング、whileは「～している間」と継続する時間を表します。
 
@@ -101,14 +105,14 @@ whenは「～したとき」と一点のタイミング、whileは「～して�
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before/)：～の前に
-- [after](/word/after/)：～の後に
+- [before](/before)：～の前に
+- [after](/after)：～の後に
 
 ---
 
 ## 📖 できればこれも
 
-- [where](/word/where/)：どこで
-- [if](/word/if/)：もし～なら
+- [where](/where)：どこで
+- [if](/if)：もし～なら
 
-<!-- cvid: aid45_bid18 -->
+<!-- cvid: aid46_bid01 -->

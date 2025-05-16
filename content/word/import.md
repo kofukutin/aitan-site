@@ -81,15 +81,19 @@ TOEICでは貿易やビジネス関連の長文やメール、報告書などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは貿易やビジネス関連の長文やメール、報告書などで
 ## 🤔  export との違いは？
 
 - **import**：他国から商品やサービスを「輸入」すること
-- **[export](/word/export/)**：自国から他国へ商品やサービスを「輸出」すること
+- **[export](/export)**：自国から他国へ商品やサービスを「輸出」すること
 
 importは「外から中へ」、exportは「中から外へ」と方向が逆です。貿易の文脈でセットで覚えると便利です。
 
@@ -105,14 +109,14 @@ importは「外から中へ」、exportは「中から外へ」と方向が逆�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/word/shipment/)：出荷、発送
-- [customs](/word/customs/)：税関
+- [shipment](/shipment)：出荷、発送
+- [customs](/customs)：税関
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice/)：請求書
-- [supply](/word/supply/)：供給
+- [invoice](/invoice)：請求書
+- [supply](/supply)：供給
 
-<!-- cvid: aid14_bid20 -->
+<!-- cvid: aid45_bid39 -->

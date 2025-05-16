@@ -81,15 +81,19 @@ federationは、TOEICの長文読解パートで組織や団体の説明、国�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ federationは、TOEICの長文読解パートで組織や団体の説明、国�
 ## 🤔  association との違いは？
 
 - **federation**：独立した団体や国が協力して作る「連邦」「連盟」など、より強い結びつきや公式な枠組みを持つ組織。
-- **[association](/word/association/)**：共通の目的で集まる「協会」「団体」など、比較的ゆるやかな集まり。
+- **[association](/association)**：共通の目的で集まる「協会」「団体」など、比較的ゆるやかな集まり。
 
 federationは独立性を保ちつつ協力する公式な組織、associationは目的を共有する集まりで結びつきが比較的弱い点が異なります。
 
@@ -105,14 +109,14 @@ federationは独立性を保ちつつ協力する公式な組織、association�
 
 ## 🧩 あわせて覚えたい
 
-- [union](/word/union/)：労働組合や連合
-- [confederation](/word/confederation/)：連合、同盟（より緩やかな結びつき）
+- [union](/union)：労働組合や連合
+- [confederation](/confederation)：連合、同盟（より緩やかな結びつき）
 
 ---
 
 ## 📖 できればこれも
 
-- [organization](/word/organization/)：組織、団体
-- [committee](/word/committee/)：委員会
+- [organization](/organization)：組織、団体
+- [committee](/committee)：委員会
 
-<!-- cvid: aid01_bid00 -->
+<!-- cvid: aid36_bid38 -->

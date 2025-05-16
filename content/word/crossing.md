@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、横断歩道や交差点の説明と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、横断歩道や交差点の説明と
 ## 🤔  intersection との違いは？
 
 - **crossing**：歩行者が渡る横断歩道や、線路・道が交差する場所全般
-- **[intersection](/word/intersection/)**：主に道路同士が交わる「交差点」
+- **[intersection](/intersection)**：主に道路同士が交わる「交差点」
 
 crossingは歩行者の横断や線路の踏切など幅広く使われますが、intersectionは車道同士の交差点に限定されることが多いです。
 
@@ -105,14 +109,14 @@ crossingは歩行者の横断や線路の踏切など幅広く使われますが
 
 ## 🧩 あわせて覚えたい
 
-- [pedestrian](/word/pedestrian/)：歩行者
-- [crosswalk](/word/crosswalk/)：横断歩道
+- [pedestrian](/pedestrian)：歩行者
+- [crosswalk](/crosswalk)：横断歩道
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/word/bridge/)：橋
-- [station](/word/station/)：駅
+- [bridge](/bridge)：橋
+- [station](/station)：駅
 
-<!-- cvid: aid10_bid41 -->
+<!-- cvid: aid09_bid48 -->

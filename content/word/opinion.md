@@ -81,15 +81,19 @@ TOEICでは、メールや記事、アンケートなどで「意見を述べる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや記事、アンケートなどで「意見を述べる
 ## 🤔  view との違いは？
 
 - **opinion**：主観的な意見や判断、個人の考えを表す。
-- **[view](/word/view/)**：物事の見方や観点、やや客観的な立場や広い視点を表す。
+- **[view](/view)**：物事の見方や観点、やや客観的な立場や広い視点を表す。
 
 opinionは「自分の意見」、viewは「物事の見方・観点」として使い分けます。
 
@@ -105,14 +109,14 @@ opinionは「自分の意見」、viewは「物事の見方・観点」として
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/word/advice/)：助言、アドバイス
-- [decision](/word/decision/)：決定、判断
+- [advice](/advice)：助言、アドバイス
+- [decision](/decision)：決定、判断
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion/)：提案
-- [comment](/word/comment/)：コメント、意見
+- [suggestion](/suggestion)：提案
+- [comment](/comment)：コメント、意見
 
-<!-- cvid: aid35_bid44 -->
+<!-- cvid: aid38_bid31 -->

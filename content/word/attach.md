@@ -10,6 +10,7 @@ tags:
   - Part5
   - フォーマル
   - ビジネス
+  - メール対応
 compared_word: "enclose"
 related_words:
   - "detach"
@@ -80,15 +81,19 @@ TOEICでは主にメールや書類のやり取りに関する文脈で「添付
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +101,7 @@ TOEICでは主にメールや書類のやり取りに関する文脈で「添付
 ## 🤔  enclose との違いは？
 
 - **attach**：主に電子メールやデジタルファイルで「添付する」、または物理的に「取り付ける」場合にも使う。
-- **[enclose](/word/enclose/)**：封筒やパッケージなどに「同封する」「囲む」という意味で使う。
+- **[enclose](/enclose)**：封筒やパッケージなどに「同封する」「囲む」という意味で使う。
 
 attachはデジタルや物理的な「くっつける」に重点があり、encloseは「包む・同封する」イメージです。
 
@@ -104,14 +109,14 @@ attachはデジタルや物理的な「くっつける」に重点があり、en
 
 ## 🧩 あわせて覚えたい
 
-- [detach](/word/detach/)：取り外す、分離する
-- [include](/word/include/)：含む、含める
+- [detach](/detach)：取り外す、分離する
+- [include](/include)：含む、含める
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [send](/word/send/)：送る
+- [submit](/submit)：提出する
+- [send](/send)：送る
 
-<!-- cvid: aid18_bid36 -->
+<!-- cvid: aid35_bid07 -->

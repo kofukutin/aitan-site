@@ -81,15 +81,19 @@ TOEICではPart 7の長文やメール文中で「同僚」「仲間」として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文やメール文中で「同僚」「仲間」として
 ## 🤔  colleague との違いは？
 
 - **fellow**：カジュアルに「仲間」「同僚」「やつ」など幅広く使える。
-- **[colleague](/word/colleague/)**：フォーマルに「職場の同僚」を指す。
+- **[colleague](/colleague)**：フォーマルに「職場の同僚」を指す。
 
 fellowは親しみやすい表現で、職場以外の仲間にも使えますが、colleagueは職場限定でフォーマルな響きがあります。
 
@@ -105,14 +109,14 @@ fellowは親しみやすい表現で、職場以外の仲間にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [peer](/word/peer/)：同じ地位や年齢の仲間
-- [companion](/word/companion/)：一緒に行動する相手、連れ
+- [peer](/peer)：同じ地位や年齢の仲間
+- [companion](/companion)：一緒に行動する相手、連れ
 
 ---
 
 ## 📖 できればこれも
 
-- [member](/word/member/)：メンバー、構成員
-- [partner](/word/partner/)：相棒、パートナー
+- [member](/member)：メンバー、構成員
+- [partner](/partner)：相棒、パートナー
 
-<!-- cvid: aid01_bid14 -->
+<!-- cvid: aid44_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは求人広告や応募条件、履歴書に関する文脈でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や応募条件、履歴書に関する文脈でよく出
 ## 🤔  requirement との違いは？
 
 - **qualification**：資格や能力そのもの、または証明書
-- **[requirement](/word/requirement/)**：必要条件や必須事項
+- **[requirement](/requirement)**：必要条件や必須事項
 
 qualificationは「持っているもの」、requirementは「求められる条件」という違いがあります。求人票では「requirements（必要条件）」の中に「qualifications（資格）」が含まれることが多いです。
 
@@ -105,14 +109,14 @@ qualificationは「持っているもの」、requirementは「求められる�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate/)：証明書、修了証
-- [eligibility](/word/eligibility/)：適格性、資格があること
+- [certificate](/certificate)：証明書、修了証
+- [eligibility](/eligibility)：適格性、資格があること
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview/)：面接
-- [position](/word/position/)：職、役職
+- [interview](/interview)：面接
+- [position](/position)：職、役職
 
-<!-- cvid: aid37_bid18 -->
+<!-- cvid: aid29_bid02 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文脈で「効率」や「能率」を問う設問でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文脈で「効率」や「能率」を問う設問でよ
 ## 🤔  effectiveness との違いは？
 
 - **efficiency**：無駄なく資源や時間を使って成果を出すこと
-- **[effectiveness](/word/effectiveness/)**：目的や目標をどれだけ達成できたか
+- **[effectiveness](/effectiveness)**：目的や目標をどれだけ達成できたか
 
 efficiencyは「やり方の無駄のなさ」、effectivenessは「結果の達成度」に重点があります。
 
@@ -105,14 +109,14 @@ efficiencyは「やり方の無駄のなさ」、effectivenessは「結果の達
 
 ## 🧩 あわせて覚えたい
 
-- [productivity](/word/productivity/)：生産性
-- [inefficiency](/word/inefficiency/)：非効率
+- [productivity](/productivity)：生産性
+- [inefficiency](/inefficiency)：非効率
 
 ---
 
 ## 📖 できればこれも
 
-- [performance](/word/performance/)：業績、性能
-- [accuracy](/word/accuracy/)：正確さ
+- [performance](/performance)：業績、性能
+- [accuracy](/accuracy)：正確さ
 
-<!-- cvid: aid07_bid27 -->
+<!-- cvid: aid49_bid10 -->

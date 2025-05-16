@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やEメール、広告などで「代理人」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やEメール、広告などで「代理人」�
 ## 🤔  representative との違いは？
 
 - **agent**：他人や組織の代理として行動し、契約や取引などを実際に行う人・組織
-- **[representative](/word/representative/)**：組織や集団を代表する人で、必ずしも代理権や実務権限を持つとは限らない
+- **[representative](/representative)**：組織や集団を代表する人で、必ずしも代理権や実務権限を持つとは限らない
 
 agentは「実際に代理権を持ち、行動する人」、representativeは「代表者」として表に立つ人という違いがあります。
 
@@ -105,14 +109,14 @@ agentは「実際に代理権を持ち、行動する人」、representativeは�
 
 ## 🧩 あわせて覚えたい
 
-- [broker](/word/broker/)：仲介人、ブローカー
-- [agency](/word/agency/)：代理店、機関
+- [broker](/broker)：仲介人、ブローカー
+- [agency](/agency)：代理店、機関
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、依頼人
-- [manager](/word/manager/)：管理者、マネージャー
+- [client](/client)：顧客、依頼人
+- [manager](/manager)：管理者、マネージャー
 
-<!-- cvid: aid48_bid47 -->
+<!-- cvid: aid13_bid09 -->

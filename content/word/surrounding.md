@@ -81,15 +81,19 @@ TOEICでは、場所や状況の説明、案内文などで「surrounding area�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、場所や状況の説明、案内文などで「surrounding area�
 ## 🤔  environment との違いは？
 
 - **surrounding**：周囲の、周辺の（形容詞。物や場所を直接修飾）
-- **[environment](/word/environment/)**：環境（名詞。人や物を取り巻く全体的な状況）
+- **[environment](/environment)**：環境（名詞。人や物を取り巻く全体的な状況）
 
 surroundingは「周囲の建物」「周辺地域」のように具体的な物や場所を修飾し、environmentは「自然環境」や「職場環境」など広い意味で使います。
 
@@ -105,14 +109,14 @@ surroundingは「周囲の建物」「周辺地域」のように具体的な物
 
 ## 🧩 あわせて覚えたい
 
-- [neighbor](/word/neighbor/)：隣人、近くの人
-- [area](/word/area/)：地域、区域
+- [neighbor](/neighbor)：隣人、近くの人
+- [area](/area)：地域、区域
 
 ---
 
 ## 📖 できればこれも
 
-- [nearby](/word/nearby/)：近くの
-- [adjacent](/word/adjacent/)：隣接した
+- [nearby](/nearby)：近くの
+- [adjacent](/adjacent)：隣接した
 
-<!-- cvid: aid29_bid33 -->
+<!-- cvid: aid43_bid29 -->

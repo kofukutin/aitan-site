@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介、国際ビジネスの文脈で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介、国際ビジネスの文脈で登場するこ
 ## 🤔  clan との違いは？
 
 - **tribe**：共通の文化や言語、血縁を持つ大きな集団
-- **[clan](/word/clan/)**：主に血縁関係を重視した比較的小規模な集団
+- **[clan](/clan)**：主に血縁関係を重視した比較的小規模な集団
 
 tribeは文化や言語も含めた広い集団を指し、clanは家族や親族を中心としたより小さなまとまりを表します。
 
@@ -105,14 +109,14 @@ tribeは文化や言語も含めた広い集団を指し、clanは家族や親�
 
 ## 🧩 あわせて覚えたい
 
-- [ethnic group](/word/ethnic_group/)：民族集団
-- [community](/word/community/)：共同体、地域社会
+- [ethnic group](/ethnic_group)：民族集団
+- [community](/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [custom](/word/custom/)：習慣、風習
-- [ancestor](/word/ancestor/)：祖先
+- [custom](/custom)：習慣、風習
+- [ancestor](/ancestor)：祖先
 
-<!-- cvid: aid10_bid39 -->
+<!-- cvid: aid41_bid13 -->

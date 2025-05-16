@@ -81,15 +81,19 @@ forcedは、TOEICの文法・語彙問題で「強制された」「無理やり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ forcedは、TOEICの文法・語彙問題で「強制された」「無理やり
 ## 🤔  compulsory との違いは？
 
 - **forced**：本人の意思に反して無理やり行われた、または自然でない様子を強調
-- **[compulsory](/word/compulsory/)**：法律や規則などによって「義務付けられている」ことを強調
+- **[compulsory](/compulsory)**：法律や規則などによって「義務付けられている」ことを強調
 
 forcedは「仕方なくやらされた」ニュアンスが強く、compulsoryは「規則上やらなければならない」義務的な意味合いが強いです。
 
@@ -105,14 +109,14 @@ forcedは「仕方なくやらされた」ニュアンスが強く、compulsory�
 
 ## 🧩 あわせて覚えたい
 
-- [voluntary](/word/voluntary/)：自発的な、任意の
-- [mandatory](/word/mandatory/)：義務的な、強制の
+- [voluntary](/voluntary)：自発的な、任意の
+- [mandatory](/mandatory)：義務的な、強制の
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/word/required/)：必要とされる、必須の
-- [obligatory](/word/obligatory/)：義務的な、必須の
+- [required](/required)：必要とされる、必須の
+- [obligatory](/obligatory)：義務的な、必須の
 
-<!-- cvid: aid31_bid48 -->
+<!-- cvid: aid04_bid13 -->

@@ -81,15 +81,19 @@ TOEICでは、社員や応募者の能力を説明する文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社員や応募者の能力を説明する文脈でよく登場し
 ## 🤔  skilled との違いは？
 
 - **talented**：生まれつきや特別な才能があることを強調
-- **[skilled](/word/skilled/)**：訓練や経験によって身につけた技術があることを強調
+- **[skilled](/skilled)**：訓練や経験によって身につけた技術があることを強調
 
 talentedは「先天的な才能」、skilledは「後天的な技術や熟練」を表す点が異なります。
 
@@ -105,14 +109,14 @@ talentedは「先天的な才能」、skilledは「後天的な技術や熟練�
 
 ## 🧩 あわせて覚えたい
 
-- [gifted](/word/gifted/)：生まれつき才能のある
-- [capable](/word/capable/)：有能な、能力がある
+- [gifted](/gifted)：生まれつき才能のある
+- [capable](/capable)：有能な、能力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [creative](/word/creative/)：創造的な
-- [efficient](/word/efficient/)：効率的な
+- [creative](/creative)：創造的な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid16_bid30 -->
+<!-- cvid: aid33_bid38 -->

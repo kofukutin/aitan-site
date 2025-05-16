@@ -81,15 +81,19 @@ TOEICでは、研修や講座、セミナーの案内文やメールなどで in
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、研修や講座、セミナーの案内文やメールなどで in
 ## 🤔  teacher との違いは？
 
 - **instructor**：特定の技能や実技、専門分野を教える指導者や講師
-- **[teacher](/word/teacher/)**：主に学校などで一般的な教科を教える先生
+- **[teacher](/teacher)**：主に学校などで一般的な教科を教える先生
 
 instructor は実技や専門的な内容を教える場面で使われ、teacher は学校の先生など幅広い教育者に使われます。
 
@@ -105,14 +109,14 @@ instructor は実技や専門的な内容を教える場面で使われ、teache
 
 ## 🧩 あわせて覚えたい
 
-- [coach](/word/coach/)：（スポーツなどの）コーチ、指導者
-- [lecturer](/word/lecturer/)：（大学などの）講義をする人、講師
+- [coach](/coach)：（スポーツなどの）コーチ、指導者
+- [lecturer](/lecturer)：（大学などの）講義をする人、講師
 
 ---
 
 ## 📖 できればこれも
 
-- [student](/word/student/)：生徒、学生
-- [mentor](/word/mentor/)：助言者、指導者
+- [student](/student)：生徒、学生
+- [mentor](/mentor)：助言者、指導者
 
-<!-- cvid: aid19_bid39 -->
+<!-- cvid: aid38_bid09 -->

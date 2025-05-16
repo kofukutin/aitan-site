@@ -81,15 +81,19 @@ TOEICでは「become＋形容詞/名詞」の形で、状態の変化を問う�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「become＋形容詞/名詞」の形で、状態の変化を問う�
 ## 🤔  get との違いは？
 
 - **become**：変化や成長など、状態が変わることをフォーマルに表現
-- **[get](/word/get/)**：カジュアルに「～になる」を表現し、日常会話でよく使う
+- **[get](/get)**：カジュアルに「～になる」を表現し、日常会話でよく使う
 
 becomeはフォーマルな場や書き言葉で使われやすく、getはカジュアルな会話でよく使われます。
 
@@ -105,14 +109,14 @@ becomeはフォーマルな場や書き言葉で使われやすく、getはカ�
 
 ## 🧩 あわせて覚えたい
 
-- [turn](/word/turn/)：（性質や状態が）はっきり変わる
-- [remain](/word/remain/)：（状態が）そのままである
+- [turn](/turn)：（性質や状態が）はっきり変わる
+- [remain](/remain)：（状態が）そのままである
 
 ---
 
 ## 📖 できればこれも
 
-- [seem](/word/seem/)：～のように見える
-- [appear](/word/appear/)：現れる、～のように見える
+- [seem](/seem)：～のように見える
+- [appear](/appear)：現れる、～のように見える
 
-<!-- cvid: aid20_bid17 -->
+<!-- cvid: aid17_bid06 -->

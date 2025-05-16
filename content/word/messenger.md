@@ -81,15 +81,19 @@ TOEICでは、社内の連絡や書類の受け渡しなど、ビジネスシー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社内の連絡や書類の受け渡しなど、ビジネスシー
 ## 🤔  courier との違いは？
 
 - **messenger**：人やサービスとして「伝言・物を届ける人」を広く指す
-- **[courier](/word/courier/)**：特に「急送便」や「専門の配達人」を指す
+- **[courier](/courier)**：特に「急送便」や「専門の配達人」を指す
 
 messengerは一般的な伝言役や配達人、courierはより専門的・迅速な配達サービスに使われます。
 
@@ -105,14 +109,14 @@ messengerは一般的な伝言役や配達人、courierはより専門的・迅�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery/)：配達、配送
-- [notification](/word/notification/)：通知、お知らせ
+- [delivery](/delivery)：配達、配送
+- [notification](/notification)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message/)：メッセージ、伝言
-- [sender](/word/sender/)：送信者、差出人
+- [message](/message)：メッセージ、伝言
+- [sender](/sender)：送信者、差出人
 
-<!-- cvid: aid45_bid28 -->
+<!-- cvid: aid49_bid22 -->

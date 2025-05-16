@@ -81,15 +81,19 @@ TOEIC Part 1の写真描写問題で、人が何かを引っ張っている場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEIC Part 1の写真描写問題で、人が何かを引っ張っている場�
 ## 🤔  dragging との違いは？
 
 - **pulling**：単に「引っ張る」動作全般を表す。
-- **[dragging](/word/dragging/)**：重いものや抵抗があるものを「引きずる」ニュアンス。
+- **[dragging](/dragging)**：重いものや抵抗があるものを「引きずる」ニュアンス。
 
 pullingは一般的な「引く」動作、draggingは「重くて引きずる」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ pullingは一般的な「引く」動作、draggingは「重くて引きずる�
 
 ## 🧩 あわせて覚えたい
 
-- [push](/word/push/)：押す
-- [lift](/word/lift/)：持ち上げる
+- [push](/push)：押す
+- [lift](/lift)：持ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [carry](/word/carry/)：運ぶ
-- [hold](/word/hold/)：持つ
+- [carry](/carry)：運ぶ
+- [hold](/hold)：持つ
 
-<!-- cvid: aid34_bid34 -->
+<!-- cvid: aid22_bid46 -->

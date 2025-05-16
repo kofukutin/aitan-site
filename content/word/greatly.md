@@ -78,15 +78,19 @@ TOEICでは、動詞を修飾して「大いに」「非常に」と強調する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは、動詞を修飾して「大いに」「非常に」と強調する
 ## 🤔  highly との違いは？
 
 - **greatly**：程度や量が「非常に」「大いに」で、主に動詞を修飾する。
-- **[highly](/word/highly/)**：評価や質が「非常に高く」、形容詞や過去分詞を修飾することが多い。
+- **[highly](/highly)**：評価や質が「非常に高く」、形容詞や過去分詞を修飾することが多い。
 
 greatlyは「大きな程度で」という意味で動作や変化を強調し、highlyは「質や評価が高い」ことを強調します。
 
@@ -102,14 +106,14 @@ greatlyは「大きな程度で」という意味で動作や変化を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [significantly](/word/significantly/)：著しく、かなり
-- [considerably](/word/considerably/)：かなり、相当に
+- [significantly](/significantly)：著しく、かなり
+- [considerably](/considerably)：かなり、相当に
 
 ---
 
 ## 📖 できればこれも
 
-- [deeply](/word/deeply/)：深く、非常に
-- [largely](/word/largely/)：主に、大部分は
+- [deeply](/deeply)：深く、非常に
+- [largely](/largely)：主に、大部分は
 
-<!-- cvid: aid49_bid10 -->
+<!-- cvid: aid23_bid41 -->

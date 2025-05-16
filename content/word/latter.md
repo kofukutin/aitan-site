@@ -80,15 +80,19 @@ TOEICでは、選択肢の比較や文章の流れを問う文法・語彙問題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、選択肢の比較や文章の流れを問う文法・語彙問題
 ## 🤔  last との違いは？
 
 - **latter**：2つのうちの「後者」や「後半」を指す
-- **[last](/word/last/)**：「最後の」「最終の」を指し、2つ以上の場合にも使える
+- **[last](/last)**：「最後の」「最終の」を指し、2つ以上の場合にも使える
 
 「latter」は必ず2つのものを比較する時に使い、「last」は数に関係なく「一番最後」を表します。
 
@@ -104,14 +108,14 @@ TOEICでは、選択肢の比較や文章の流れを問う文法・語彙問題
 
 ## 🧩 あわせて覚えたい
 
-- [former](/word/former/)：（二者のうち）前者の
-- [previous](/word/previous/)：前の、以前の
+- [former](/former)：（二者のうち）前者の
+- [previous](/previous)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [prior](/word/prior/)：前の、事前の
-- [final](/word/final/)：最終の
+- [prior](/prior)：前の、事前の
+- [final](/final)：最終の
 
-<!-- cvid: aid19_bid49 -->
+<!-- cvid: aid10_bid44 -->

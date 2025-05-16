@@ -81,15 +81,19 @@ TOEICでは、イベントや施設、活動の説明文で「sporting event」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、イベントや施設、活動の説明文で「sporting event」�
 ## 🤔  athletic との違いは？
 
 - **sporting**：スポーツに関する、スポーツのための（イベントや物、活動など幅広く使う）
-- **[athletic](/word/athletic/)**：運動選手の、運動能力の高い（人や能力に焦点）
+- **[athletic](/athletic)**：運動選手の、運動能力の高い（人や能力に焦点）
 
 「sporting」はイベントや物事に、「athletic」は人や能力に使うことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、イベントや施設、活動の説明文で「sporting event」�
 
 ## 🧩 あわせて覚えたい
 
-- [recreational](/word/recreational/)：レクリエーションの、娯楽の
-- [competitive](/word/competitive/)：競争の、競争的な
+- [recreational](/recreational)：レクリエーションの、娯楽の
+- [competitive](/competitive)：競争の、競争的な
 
 ---
 
 ## 📖 できればこれも
 
-- [outdoor](/word/outdoor/)：屋外の
-- [physical](/word/physical/)：身体の、肉体的な
+- [outdoor](/outdoor)：屋外の
+- [physical](/physical)：身体の、肉体的な
 
-<!-- cvid: aid12_bid24 -->
+<!-- cvid: aid47_bid14 -->

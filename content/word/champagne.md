@@ -81,15 +81,19 @@ TOEICではパーティーやイベント、レストランの会話などで登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではパーティーやイベント、レストランの会話などで登
 ## 🤔  sparkling wine との違いは？
 
 - **champagne**：フランスのシャンパーニュ地方で作られた発泡性ワインのみを指す、特別な呼び名。
-- **[sparkling wine](/word/sparkling_wine/)**：発泡性ワイン全般を指し、産地を問わない一般的な表現。
+- **[sparkling wine](/sparkling_wine)**：発泡性ワイン全般を指し、産地を問わない一般的な表現。
 
 champagneは特定の地域・製法に限定される高級感のある言葉、sparkling wineは広く一般的な発泡ワイン全体を指します。
 
@@ -105,14 +109,14 @@ champagneは特定の地域・製法に限定される高級感のある言葉�
 
 ## 🧩 あわせて覚えたい
 
-- [wine](/word/wine/)：ワイン（ぶどう酒全般）
-- [toast](/word/toast/)：乾杯する
+- [wine](/wine)：ワイン（ぶどう酒全般）
+- [toast](/toast)：乾杯する
 
 ---
 
 ## 📖 できればこれも
 
-- [beer](/word/beer/)：ビール
-- [celebrate](/word/celebrate/)：祝う
+- [beer](/beer)：ビール
+- [celebrate](/celebrate)：祝う
 
-<!-- cvid: aid30_bid04 -->
+<!-- cvid: aid06_bid33 -->

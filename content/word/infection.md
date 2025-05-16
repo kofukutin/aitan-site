@@ -81,15 +81,19 @@ The hospital is taking measures to prevent infection.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hospital is taking measures to prevent infection.
 ## 🤔  contamination との違いは？
 
 - **infection**：病原体が体内に入り、病気を引き起こすこと
-- **[contamination](/word/contamination/)**：物や場所が有害なもの（細菌・化学物質など）で汚染されること
+- **[contamination](/contamination)**：物や場所が有害なもの（細菌・化学物質など）で汚染されること
 
 infectionは「体内での病気の発生」に焦点があり、contaminationは「外部の汚染」に使われます。
 
@@ -105,14 +109,14 @@ infectionは「体内での病気の発生」に焦点があり、contamination�
 
 ## 🧩 あわせて覚えたい
 
-- [disease](/word/disease/)：病気
-- [virus](/word/virus/)：ウイルス
+- [disease](/disease)：病気
+- [virus](/virus)：ウイルス
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/word/symptom/)：症状
-- [treatment](/word/treatment/)：治療
+- [symptom](/symptom)：症状
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid44_bid22 -->
+<!-- cvid: aid33_bid05 -->

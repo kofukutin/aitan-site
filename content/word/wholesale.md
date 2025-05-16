@@ -81,15 +81,19 @@ TOEICではビジネス文書や取引に関する長文でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や取引に関する長文でよく登場します
 ## 🤔  retail との違いは？
 
 - **wholesale**：商品を大量にまとめて業者に売る「卸売」
-- **[retail](/word/retail/)**：商品を消費者に少量ずつ売る「小売」
+- **[retail](/retail)**：商品を消費者に少量ずつ売る「小売」
 
 wholesaleは主に業者間の大量取引、retailは消費者向けの少量販売で使い分けます。
 
@@ -105,13 +109,13 @@ wholesaleは主に業者間の大量取引、retailは消費者向けの少量�
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/word/distributor/)：流通業者
-- [supplier](/word/supplier/)：供給業者
+- [distributor](/distributor)：流通業者
+- [supplier](/supplier)：供給業者
 
 ---
 
 ## 📖 できればこれも
 
-- [inventory](/word/inventory/)：在庫
-- [shipment](/word/shipment/)：出荷
-<!-- cvid: aid41_bid24 -->
+- [inventory](/inventory)：在庫
+- [shipment](/shipment)：出荷
+<!-- cvid: aid33_bid16 -->

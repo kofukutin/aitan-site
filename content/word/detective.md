@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、事件や調査に関するストー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、事件や調査に関するストー
 ## 🤔  investigator との違いは？
 
 - **detective**：事件や犯罪の調査を専門とする探偵・刑事を指す。
-- **[investigator](/word/investigator/)**：調査全般を行う人で、犯罪以外の分野（科学・ビジネスなど）にも使われる。
+- **[investigator](/investigator)**：調査全般を行う人で、犯罪以外の分野（科学・ビジネスなど）にも使われる。
 
 detectiveは主に犯罪や事件の調査に特化し、investigatorはより広い分野の調査員を指します。
 
@@ -105,14 +109,14 @@ detectiveは主に犯罪や事件の調査に特化し、investigatorはより�
 
 ## 🧩 あわせて覚えたい
 
-- [police officer](/word/police_officer/)：警察官
-- [suspect](/word/suspect/)：容疑者
+- [police officer](/police_officer)：警察官
+- [suspect](/suspect)：容疑者
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠
-- [case](/word/case/)：事件、事例
+- [evidence](/evidence)：証拠
+- [case](/case)：事件、事例
 
-<!-- cvid: aid31_bid46 -->
+<!-- cvid: aid32_bid18 -->

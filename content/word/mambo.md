@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介の記事、イベント案内などで登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介の記事、イベント案内などで登場す
 ## 🤔  salsa との違いは？
 
 - **mambo**：キューバ発祥のリズミカルなダンス・音楽で、独特のステップとリズムが特徴。
-- **[salsa](/word/salsa/)**：より幅広いラテン音楽・ダンスのジャンルで、マンボよりも自由な動きや即興性が強い。
+- **[salsa](/salsa)**：より幅広いラテン音楽・ダンスのジャンルで、マンボよりも自由な動きや即興性が強い。
 
 mamboは決まったリズムとステップが特徴ですが、salsaはより多様で自由なスタイルが楽しめます。
 
@@ -105,14 +109,14 @@ mamboは決まったリズムとステップが特徴ですが、salsaはより�
 
 ## 🧩 あわせて覚えたい
 
-- [rumba](/word/rumba/)：キューバ発祥の情熱的なダンス・音楽
-- [cha cha](/word/cha_cha/)：軽快なリズムのラテンダンス
+- [rumba](/rumba)：キューバ発祥の情熱的なダンス・音楽
+- [cha cha](/cha_cha)：軽快なリズムのラテンダンス
 
 ---
 
 ## 📖 できればこれも
 
-- [tango](/word/tango/)：アルゼンチン発祥のペアダンス
-- [waltz](/word/waltz/)：ヨーロッパ発祥の優雅なダンス
+- [tango](/tango)：アルゼンチン発祥のペアダンス
+- [waltz](/waltz)：ヨーロッパ発祥の優雅なダンス
 
-<!-- cvid: aid39_bid46 -->
+<!-- cvid: aid42_bid11 -->

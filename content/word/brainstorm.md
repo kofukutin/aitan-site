@@ -81,15 +81,19 @@ TOEICでは会議やチームワークの場面で「アイデアを出し合う
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やチームワークの場面で「アイデアを出し合う
 ## 🤔  discuss との違いは？
 
 - **brainstorm**：自由にたくさんのアイデアを出し合うことに重点がある
-- **[discuss](/word/discuss/)**：特定のテーマについて意見を交わし合うこと
+- **[discuss](/discuss)**：特定のテーマについて意見を交わし合うこと
 
 brainstormは「とにかく思いつく限り出す」イメージ、discussは「意見を交わして深める」イメージです。
 
@@ -105,14 +109,14 @@ brainstormは「とにかく思いつく限り出す」イメージ、discussは
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/word/suggest/)：提案する
-- [collaborate](/word/collaborate/)：協力する
+- [suggest](/suggest)：提案する
+- [collaborate](/collaborate)：協力する
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画する
-- [organize](/word/organize/)：まとめる、整理する
+- [plan](/plan)：計画する
+- [organize](/organize)：まとめる、整理する
 
-<!-- cvid: aid03_bid35 -->
+<!-- cvid: aid31_bid02 -->

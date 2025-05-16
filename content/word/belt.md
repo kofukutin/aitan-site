@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【belt】の意味・使い方・例文 ― strapとの違い【TOEIC英単語】"
 description: "beltの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでstrapとの違いもわかりやすく学べます。"
 word: "belt"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、服装や工場設備の説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、服装や工場設備の説明とし
 ## 🤔  strap との違いは？
 
 - **belt**：主に服や機械の「ベルト」「帯」を指す
-- **[strap](/word/strap/)**：バッグや時計などの「ひも」「ストラップ」を指す
+- **[strap](/strap)**：バッグや時計などの「ひも」「ストラップ」を指す
 
 beltは腰や機械などを締める幅広い帯状のもの、strapは細長いひも状のものに使います。
 
@@ -105,14 +109,14 @@ beltは腰や機械などを締める幅広い帯状のもの、strapは細長�
 
 ## 🧩 あわせて覚えたい
 
-- [buckle](/word/buckle/)：バックル、留め金
-- [sash](/word/sash/)：たすき、肩からかける帯
+- [buckle](/buckle)：バックル、留め金
+- [sash](/sash)：たすき、肩からかける帯
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt/)：シャツ
-- [pocket](/word/pocket/)：ポケット
+- [shirt](/shirt)：シャツ
+- [pocket](/pocket)：ポケット
 
-<!-- cvid: aid04_bid22 -->
+<!-- cvid: aid12_bid12 -->

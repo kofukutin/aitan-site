@@ -81,15 +81,19 @@ TOEICでは、業務手順や新しいシステムへの「慣れ」や「習熟
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、業務手順や新しいシステムへの「慣れ」や「習熟
 ## 🤔  acquaint との違いは？
 
 - **familiarize**：自分や他人を「慣れさせる」「習熟させる」ことに重点がある
-- **[acquaint](/word/acquaint/)**：何かを「知らせる」「紹介する」ことに重点がある
+- **[acquaint](/acquaint)**：何かを「知らせる」「紹介する」ことに重点がある
 
 familiarizeは「十分に慣れる・使いこなせる」までを含み、acquaintは「初めて知る・触れる」段階で使います。
 
@@ -105,14 +109,14 @@ familiarizeは「十分に慣れる・使いこなせる」までを含み、acq
 
 ## 🧩 あわせて覚えたい
 
-- [introduce](/word/introduce/)：紹介する
-- [adapt](/word/adapt/)：適応する、順応する
+- [introduce](/introduce)：紹介する
+- [adapt](/adapt)：適応する、順応する
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify/)：通知する、知らせる
-- [clarify](/word/clarify/)：明確にする、はっきりさせる
+- [notify](/notify)：通知する、知らせる
+- [clarify](/clarify)：明確にする、はっきりさせる
 
-<!-- cvid: aid10_bid40 -->
+<!-- cvid: aid35_bid49 -->

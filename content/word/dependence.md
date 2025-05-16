@@ -81,15 +81,19 @@ TOEICでは名詞の語彙問題や、依存関係を説明する文脈で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは名詞の語彙問題や、依存関係を説明する文脈で出題
 ## 🤔  reliance との違いは？
 
 - **dependence**：他に頼らざるを得ない状態や、支えが必要な状況を強調
-- **[reliance](/word/reliance/)**：信頼して頼ること、やや積極的・肯定的なニュアンス
+- **[reliance](/reliance)**：信頼して頼ること、やや積極的・肯定的なニュアンス
 
 dependenceは「やむを得ず頼る」消極的な響きがあり、relianceは「信頼して頼る」前向きな印象があります。
 
@@ -105,14 +109,14 @@ dependenceは「やむを得ず頼る」消極的な響きがあり、reliance�
 
 ## 🧩 あわせて覚えたい
 
-- [independence](/word/independence/)：独立、自立
-- [addiction](/word/addiction/)：（悪い意味での）依存、常習
+- [independence](/independence)：独立、自立
+- [addiction](/addiction)：（悪い意味での）依存、常習
 
 ---
 
 ## 📖 できればこれも
 
-- [dependency](/word/dependency/)：依存関係、従属
-- [responsibility](/word/responsibility/)：責任
+- [dependency](/dependency)：依存関係、従属
+- [responsibility](/responsibility)：責任
 
-<!-- cvid: aid35_bid31 -->
+<!-- cvid: aid44_bid21 -->

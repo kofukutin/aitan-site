@@ -81,15 +81,19 @@ TOEICではオフィスや部屋の説明、備品リストなどでよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではオフィスや部屋の説明、備品リストなどでよく登場
 ## 🤔  equipment との違いは？
 
 - **furniture**：机や椅子など、部屋や建物で使う家具全般を指す。
-- **[equipment](/word/equipment/)**：特定の目的や作業のための道具・装置・備品全般を指す。
+- **[equipment](/equipment)**：特定の目的や作業のための道具・装置・備品全般を指す。
 
 furnitureは主に生活空間の「家具」を指し、equipmentは仕事や作業に必要な「道具・装置」を広く指します。
 
@@ -105,14 +109,14 @@ furnitureは主に生活空間の「家具」を指し、equipmentは仕事や�
 
 ## 🧩 あわせて覚えたい
 
-- [appliance](/word/appliance/)：電化製品、器具
-- [fixture](/word/fixture/)：備品、据え付け品
+- [appliance](/appliance)：電化製品、器具
+- [fixture](/fixture)：備品、据え付け品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [material](/word/material/)：材料、素材
+- [device](/device)：装置、機器
+- [material](/material)：材料、素材
 
-<!-- cvid: aid34_bid11 -->
+<!-- cvid: aid07_bid21 -->

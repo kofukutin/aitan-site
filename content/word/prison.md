@@ -81,15 +81,19 @@ TOEICでは、ニュース記事や法務関連の長文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事や法務関連の長文で登場することが
 ## 🤔  jail との違いは？
 
 - **prison**：長期間の刑罰を受けるための正式な刑務所
-- **[jail](/word/jail/)**：短期間の拘留や未決囚を収容する施設
+- **[jail](/jail)**：短期間の拘留や未決囚を収容する施設
 
 prisonは重い犯罪や長期刑に使われ、jailは軽犯罪や裁判待ちの人に使われることが多いです。
 
@@ -105,14 +109,14 @@ prisonは重い犯罪や長期刑に使われ、jailは軽犯罪や裁判待ち�
 
 ## 🧩 あわせて覚えたい
 
-- [sentence](/word/sentence/)：判決、刑
-- [guard](/word/guard/)：警備員、看守
+- [sentence](/sentence)：判決、刑
+- [guard](/guard)：警備員、看守
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/word/court/)：裁判所
-- [law](/word/law/)：法律
+- [court](/court)：裁判所
+- [law](/law)：法律
 
-<!-- cvid: aid41_bid01 -->
+<!-- cvid: aid20_bid25 -->

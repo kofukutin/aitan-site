@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fox】の意味・使い方・例文 ― wolfとの違い【TOEIC英単語】"
 description: "foxの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでwolfとの違いもわかりやすく学べます。"
 word: "fox"
@@ -81,7 +81,7 @@ TOEICでは主にPart 1の写真描写で動物名として登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 1の写真描写で動物名として登場することが
 
 <div class="info-center">
 ＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で動物名として登場することが
 ## 🤔  wolf との違いは？
 
 - **fox**：キツネ。小型で赤茶色の毛、ずる賢いイメージ。
-- **[wolf](/word/wolf/)**：オオカミ。大型で灰色や白の毛、群れで行動し勇敢なイメージ。
+- **[wolf](/wolf)**：オオカミ。大型で灰色や白の毛、群れで行動し勇敢なイメージ。
 
 foxは小型で単独行動が多く、ずる賢さや素早さを象徴しますが、wolfは大型で群れを作り、力強さや勇敢さを表します。
 
@@ -105,14 +109,14 @@ foxは小型で単独行動が多く、ずる賢さや素早さを象徴しま�
 
 ## 🧩 あわせて覚えたい
 
-- [rabbit](/word/rabbit/)：ウサギ
-- [dog](/word/dog/)：イヌ
+- [rabbit](/rabbit)：ウサギ
+- [dog](/dog)：イヌ
 
 ---
 
 ## 📖 できればこれも
 
-- [bear](/word/bear/)：クマ
-- [cat](/word/cat/)：ネコ
+- [bear](/bear)：クマ
+- [cat](/cat)：ネコ
 
-<!-- cvid: aid49_bid47 -->
+<!-- cvid: aid43_bid47 -->

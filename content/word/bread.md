@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bread】の意味・使い方・例文 ― loafとの違い【TOEIC英単語】"
 description: "breadの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでloafとの違いもわかりやすく学べます。"
 word: "bread"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、食事やレストランの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、食事やレストランの場面で
 ## 🤔  loaf との違いは？
 
 - **bread**：パン全体やパンという食品そのものを指す（不可算名詞）
-- **[loaf](/word/loaf/)**：パン1本や1塊など、形のある「ひと塊」を指す（可算名詞）
+- **[loaf](/loaf)**：パン1本や1塊など、形のある「ひと塊」を指す（可算名詞）
 
 breadは「パン」という食べ物全体を表し、loafは「1本」「1個」といった具体的な形を表します。
 
@@ -105,14 +109,14 @@ breadは「パン」という食べ物全体を表し、loafは「1本」「1個
 
 ## 🧩 あわせて覚えたい
 
-- [rice](/word/rice/)：米、ご飯
-- [pastry](/word/pastry/)：ペストリー、焼き菓子
+- [rice](/rice)：米、ご飯
+- [pastry](/pastry)：ペストリー、焼き菓子
 
 ---
 
 ## 📖 できればこれも
 
-- [butter](/word/butter/)：バター
-- [cheese](/word/cheese/)：チーズ
+- [butter](/butter)：バター
+- [cheese](/cheese)：チーズ
 
-<!-- cvid: aid45_bid47 -->
+<!-- cvid: aid34_bid16 -->

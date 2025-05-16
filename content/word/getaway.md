@@ -88,8 +88,12 @@ TOEICでは、旅行や休暇、リフレッシュに関する会話文で登場
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、旅行や休暇、リフレッシュに関する会話文で登場
 ## 🤔  escape との違いは？
 
 - **getaway**：日常から離れる短い休暇や小旅行、または逃走
-- **[escape](/word/escape/)**：危険や困難からの「脱出」「逃亡」
+- **[escape](/escape)**：危険や困難からの「脱出」「逃亡」
 
 getawayは「リフレッシュ目的の旅行」や「逃走」の両方で使えますが、escapeは主に「危険から逃げる」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ getawayは「リフレッシュ目的の旅行」や「逃走」の両方で使�
 
 ## 🧩 あわせて覚えたい
 
-- [vacation](/word/vacation/)：休暇
-- [retreat](/word/retreat/)：静養地、隠れ家
+- [vacation](/vacation)：休暇
+- [retreat](/retreat)：静養地、隠れ家
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/word/trip/)：旅行
-- [journey](/word/journey/)：旅、道のり
+- [trip](/trip)：旅行
+- [journey](/journey)：旅、道のり
 
-<!-- cvid: aid24_bid04 -->
+<!-- cvid: aid24_bid20 -->

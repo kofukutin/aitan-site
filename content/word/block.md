@@ -88,8 +88,12 @@ TOEICでは「区画」「まとまった時間」「障害物」など複数の
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「区画」「まとまった時間」「障害物」など複数の
 ## 🤔  obstacle との違いは？
 
 - **block**：物理的・抽象的な「塊」や「障害物」、区画など幅広く使う
-- **[obstacle](/word/obstacle/)**：主に「障害物」「困難」の意味で、進行や達成を妨げるもの
+- **[obstacle](/obstacle)**：主に「障害物」「困難」の意味で、進行や達成を妨げるもの
 
 blockは「区画」や「まとまり」など中立的な意味も持ちますが、obstacleは「妨げるもの」という否定的なニュアンスが強いです。
 
@@ -105,14 +109,14 @@ blockは「区画」や「まとまり」など中立的な意味も持ちます
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier/)：障壁、バリア
-- [section](/word/section/)：区分、部分
+- [barrier](/barrier)：障壁、バリア
+- [section](/section)：区分、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/word/area/)：区域、範囲
-- [item](/word/item/)：項目、品目
+- [area](/area)：区域、範囲
+- [item](/item)：項目、品目
 
-<!-- cvid: aid21_bid06 -->
+<!-- cvid: aid21_bid14 -->

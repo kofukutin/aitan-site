@@ -81,15 +81,19 @@ ITやビジネスの説明文、マニュアルなどで「buffer」は一時的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの説明文、マニュアルなどで「buffer」は一時的
 ## 🤔  cushion との違いは？
 
 - **buffer**：物理的・心理的な衝撃やデータの流れを一時的に和らげるもの、IT分野では一時記憶領域。
-- **[cushion](/word/cushion/)**：主に物理的な衝撃を和らげるクッションや座布団。
+- **[cushion](/cushion)**：主に物理的な衝撃を和らげるクッションや座布団。
 
 bufferは抽象的・技術的な場面でも使われ、cushionは主に物理的な柔らかいものを指します。
 
@@ -105,14 +109,14 @@ bufferは抽象的・技術的な場面でも使われ、cushionは主に物理�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier/)：障壁、バリア
-- [shock absorber](/word/shock_absorber/)：衝撃吸収装置
+- [barrier](/barrier)：障壁、バリア
+- [shock absorber](/shock_absorber)：衝撃吸収装置
 
 ---
 
 ## 📖 できればこれも
 
-- [storage](/word/storage/)：保存、保管
-- [queue](/word/queue/)：順番待ち、待機列
+- [storage](/storage)：保存、保管
+- [queue](/queue)：順番待ち、待機列
 
-<!-- cvid: aid43_bid45 -->
+<!-- cvid: aid46_bid48 -->

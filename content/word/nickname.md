@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【nickname】の意味・使い方・例文 ― aliasとの違い【TOEIC英単語】"
 description: "nicknameの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでaliasとの違いもわかりやすく学べます。"
 word: "nickname"
@@ -81,15 +81,19 @@ ITやビジネスの場面で、ユーザー名やアカウント名として使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの場面で、ユーザー名やアカウント名として使
 ## 🤔  alias との違いは？
 
 - **nickname**：親しみやすいあだ名や呼び名。カジュアルな場面で使う。
-- **[alias](/word/alias/)**：本名以外の別名や偽名。フォーマル・公式な文脈や法的な場面で使う。
+- **[alias](/alias)**：本名以外の別名や偽名。フォーマル・公式な文脈や法的な場面で使う。
 
 nicknameは友人同士やSNSなどで使うカジュアルな呼び名、aliasは身元を隠す場合や正式な別名に使われます。
 
@@ -105,14 +109,14 @@ nicknameは友人同士やSNSなどで使うカジュアルな呼び名、alias�
 
 ## 🧩 あわせて覚えたい
 
-- [pseudonym](/word/pseudonym/)：ペンネーム、偽名
-- [username](/word/username/)：ユーザー名、ログイン名
+- [pseudonym](/pseudonym)：ペンネーム、偽名
+- [username](/username)：ユーザー名、ログイン名
 
 ---
 
 ## 📖 できればこれも
 
-- [profile](/word/profile/)：プロフィール、人物紹介
-- [account](/word/account/)：アカウント、口座
+- [profile](/profile)：プロフィール、人物紹介
+- [account](/account)：アカウント、口座
 
-<!-- cvid: aid01_bid37 -->
+<!-- cvid: aid15_bid02 -->

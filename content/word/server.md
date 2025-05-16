@@ -81,15 +81,19 @@ IT関連やオフィスの設備説明、業務手順の文脈で出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やオフィスの設備説明、業務手順の文脈で出題される
 ## 🤔  client との違いは？
 
 - **server**：サービスやデータを提供する側のコンピュータや人
-- **[client](/word/client/)**：サービスやデータを受け取る側のコンピュータや利用者
+- **[client](/client)**：サービスやデータを受け取る側のコンピュータや利用者
 
 serverは「提供者」、clientは「利用者」という立場の違いがあります。
 
@@ -105,14 +109,14 @@ serverは「提供者」、clientは「利用者」という立場の違いが�
 
 ## 🧩 あわせて覚えたい
 
-- [host](/word/host/)：ネットワーク上の中心となるコンピュータ
-- [database](/word/database/)：データを体系的に保存・管理するシステム
+- [host](/host)：ネットワーク上の中心となるコンピュータ
+- [database](/database)：データを体系的に保存・管理するシステム
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、通信網
-- [system](/word/system/)：システム、仕組み
+- [network](/network)：ネットワーク、通信網
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid25_bid21 -->
+<!-- cvid: aid21_bid18 -->

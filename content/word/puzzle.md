@@ -81,15 +81,19 @@ TOEICでは、説明文やメール文中で「難題」「課題」として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文やメール文中で「難題」「課題」として登
 ## 🤔  riddle との違いは？
 
 - **puzzle**：頭を使って解く遊びや難問全般を指す
-- **[riddle](/word/riddle/)**：言葉遊び的な「なぞなぞ」や、言葉で出される謎
+- **[riddle](/riddle)**：言葉遊び的な「なぞなぞ」や、言葉で出される謎
 
 puzzleは物理的なパズルや抽象的な難問にも使えますが、riddleは主に言葉で出されるなぞなぞや謎かけに使われます。
 
@@ -105,14 +109,14 @@ puzzleは物理的なパズルや抽象的な難問にも使えますが、riddl
 
 ## 🧩 あわせて覚えたい
 
-- [problem](/word/problem/)：問題、課題
-- [solution](/word/solution/)：解決策
+- [problem](/problem)：問題、課題
+- [solution](/solution)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [quiz](/word/quiz/)：クイズ、問題
-- [challenge](/word/challenge/)：挑戦、難題
+- [quiz](/quiz)：クイズ、問題
+- [challenge](/challenge)：挑戦、難題
 
-<!-- cvid: aid03_bid40 -->
+<!-- cvid: aid35_bid19 -->

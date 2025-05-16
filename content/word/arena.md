@@ -81,7 +81,7 @@ TOEICでは、イベントや施設案内、会場の説明などで登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解の熱を保とう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、イベントや施設案内、会場の説明などで登場する
 
 <div class="info-center">
 ＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、イベントや施設案内、会場の説明などで登場する
 ## 🤔  stadium との違いは？
 
 - **arena**：屋内型の競技場やイベント会場を指すことが多い
-- **[stadium](/word/stadium/)**：主に屋外型の大規模な競技場を指す
+- **[stadium](/stadium)**：主に屋外型の大規模な競技場を指す
 
 arenaは屋根付きの施設やコンサート会場にも使われ、stadiumは主に野外スポーツの会場に使われます。
 
@@ -105,14 +109,14 @@ arenaは屋根付きの施設やコンサート会場にも使われ、stadium�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/word/auditorium/)：講堂、観客席付きのホール
-- [venue](/word/venue/)：会場、開催地
+- [auditorium](/auditorium)：講堂、観客席付きのホール
+- [venue](/venue)：会場、開催地
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/word/theater/)：劇場
-- [hall](/word/hall/)：ホール、集会所
+- [theater](/theater)：劇場
+- [hall](/hall)：ホール、集会所
 
-<!-- cvid: aid49_bid07 -->
+<!-- cvid: aid46_bid07 -->

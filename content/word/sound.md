@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「音」や「音質」に関する話題でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「音」や「音質」に関する話題でよ
 ## 🤔  noise との違いは？
 
 - **sound**：音全般を指し、良い音・悪い音どちらにも使える中立的な表現。
-- **[noise](/word/noise/)**：不快な音や雑音など、望ましくない音を指すことが多い。
+- **[noise](/noise)**：不快な音や雑音など、望ましくない音を指すことが多い。
 
 soundは「音」全般を表すのに対し、noiseは「うるさい」「邪魔な」など否定的なニュアンスが強いです。
 
@@ -105,14 +109,14 @@ soundは「音」全般を表すのに対し、noiseは「うるさい」「邪�
 
 ## 🧩 あわせて覚えたい
 
-- [voice](/word/voice/)：声、人の話し声
-- [echo](/word/echo/)：こだま、反響
+- [voice](/voice)：声、人の話し声
+- [echo](/echo)：こだま、反響
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light/)：光、明かり
-- [signal](/word/signal/)：信号、合図
+- [light](/light)：光、明かり
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid32_bid00 -->
+<!-- cvid: aid14_bid10 -->

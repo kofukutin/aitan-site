@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書や研究報告、説明文で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書や研究報告、説明文で見か
 ## 🤔  method との違いは？
 
 - **methodology**：体系的な方法論や理論的枠組み
-- **[method](/word/method/)**：個々の具体的な方法や手段
+- **[method](/method)**：個々の具体的な方法や手段
 
 methodologyは全体の理論や体系を指し、methodはその中の一つ一つの具体的なやり方を指します。
 
@@ -105,14 +109,14 @@ methodologyは全体の理論や体系を指し、methodはその中の一つ一
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/word/procedure/)：手順、手続き
-- [approach](/word/approach/)：取り組み方、アプローチ
+- [procedure](/procedure)：手順、手続き
+- [approach](/approach)：取り組み方、アプローチ
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [strategy](/word/strategy/)：戦略
+- [analysis](/analysis)：分析
+- [strategy](/strategy)：戦略
 
-<!-- cvid: aid18_bid33 -->
+<!-- cvid: aid00_bid26 -->

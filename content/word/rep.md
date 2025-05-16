@@ -81,15 +81,19 @@ TOEICではPart 3の会話文やビジネスシーンで、カジュアルな「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 3の会話文やビジネスシーンで、カジュアルな「
 ## 🤔  representative との違いは？
 
 - **rep**：カジュアルな「担当者」「営業」の略語。口語やメールでよく使う。
-- **[representative](/word/representative/)**：フォーマルな「代表者」「担当者」。公式文書や会議で使う。
+- **[representative](/representative)**：フォーマルな「代表者」「担当者」。公式文書や会議で使う。
 
 repは日常会話や社内メールなどカジュアルな場面向き、representativeはフォーマルな場面や書類で使われます。
 
@@ -105,14 +109,14 @@ repは日常会話や社内メールなどカジュアルな場面向き、repre
 
 ## 🧩 あわせて覚えたい
 
-- [agent](/word/agent/)：代理人、仲介者
-- [delegate](/word/delegate/)：代表者、使節
+- [agent](/agent)：代理人、仲介者
+- [delegate](/delegate)：代表者、使節
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [manager](/word/manager/)：管理者、マネージャー
+- [client](/client)：顧客、取引先
+- [manager](/manager)：管理者、マネージャー
 
-<!-- cvid: aid10_bid00 -->
+<!-- cvid: aid28_bid18 -->

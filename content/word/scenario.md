@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議の議事録、計画書などで「sce
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議の議事録、計画書などで「sce
 ## 🤔  situation との違いは？
 
 - **scenario**：将来の展開や仮定の筋書き、計画的な「シナリオ」
-- **[situation](/word/situation/)**：現在の状態や実際に起きている「状況」
+- **[situation](/situation)**：現在の状態や実際に起きている「状況」
 
 scenarioは「こうなったらどうする？」という仮定や計画の文脈で使い、situationは「今どうなっているか」という現実の状態を表します。
 
@@ -105,14 +109,14 @@ scenarioは「こうなったらどうする？」という仮定や計画の文
 
 ## 🧩 あわせて覚えたい
 
-- [case](/word/case/)：場合、事例
-- [plan](/word/plan/)：計画
+- [case](/case)：場合、事例
+- [plan](/plan)：計画
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案
-- [strategy](/word/strategy/)：戦略
+- [proposal](/proposal)：提案
+- [strategy](/strategy)：戦略
 
-<!-- cvid: aid05_bid35 -->
+<!-- cvid: aid04_bid36 -->

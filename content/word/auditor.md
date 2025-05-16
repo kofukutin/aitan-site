@@ -88,8 +88,12 @@ TOEICでは、監査報告や会計関連の文書、ビジネスメールなど
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、監査報告や会計関連の文書、ビジネスメールなど
 ## 🤔  inspector との違いは？
 
 - **auditor**：会計や業務記録の正確性・適正性を調査する専門職
-- **[inspector](/word/inspector/)**：現場や施設などを検査・点検する人
+- **[inspector](/inspector)**：現場や施設などを検査・点検する人
 
 auditorは主に書類や会計記録を調べるのに対し、inspectorは現場や設備の安全・状態を直接チェックする点が異なります。
 
@@ -105,14 +109,14 @@ auditorは主に書類や会計記録を調べるのに対し、inspectorは現�
 
 ## 🧩 あわせて覚えたい
 
-- [accountant](/word/accountant/)：会計士、経理担当者
-- [reviewer](/word/reviewer/)：審査者、評価者
+- [accountant](/accountant)：会計士、経理担当者
+- [reviewer](/reviewer)：審査者、評価者
 
 ---
 
 ## 📖 できればこれも
 
-- [audit](/word/audit/)：監査する、監査
-- [committee](/word/committee/)：委員会
+- [audit](/audit)：監査する、監査
+- [committee](/committee)：委員会
 
-<!-- cvid: aid49_bid19 -->
+<!-- cvid: aid49_bid17 -->

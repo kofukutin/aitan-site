@@ -81,15 +81,19 @@ TOEICでは、工場やオフィスの自動化、技術紹介の場面で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場やオフィスの自動化、技術紹介の場面で登場
 ## 🤔  machine との違いは？
 
 - **robot**：自律的に動作し、人間のような作業や動きをする自動機械
-- **[machine](/word/machine/)**：広く「機械」全般を指し、自動販売機や洗濯機なども含む
+- **[machine](/machine)**：広く「機械」全般を指し、自動販売機や洗濯機なども含む
 
 robotは「自分で考えて動く」イメージが強く、machineは単なる装置や道具も含みます。
 
@@ -105,14 +109,14 @@ robotは「自分で考えて動く」イメージが強く、machineは単な�
 
 ## 🧩 あわせて覚えたい
 
-- [android](/word/android/)：人間型ロボット
-- [automation](/word/automation/)：自動化
+- [android](/android)：人間型ロボット
+- [automation](/automation)：自動化
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、デバイス
-- [system](/word/system/)：システム、仕組み
+- [device](/device)：装置、デバイス
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid37_bid06 -->
+<!-- cvid: aid34_bid09 -->

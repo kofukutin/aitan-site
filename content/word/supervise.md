@@ -81,15 +81,19 @@ TOEICでは主に職場やプロジェクトの管理・指導に関する会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に職場やプロジェクトの管理・指導に関する会話
 ## 🤔  manage との違いは？
 
 - **supervise**：現場で直接見守り、指導やチェックを行うニュアンス
-- **[manage](/word/manage/)**：全体を運営・管理し、計画や意思決定も含む広い意味
+- **[manage](/manage)**：全体を運営・管理し、計画や意思決定も含む広い意味
 
 superviseは「現場での監督・指導」に重点があり、manageは「組織や業務全体の運営・管理」に使われます。
 
@@ -105,14 +109,14 @@ superviseは「現場での監督・指導」に重点があり、manageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [oversee](/word/oversee/)：（広い範囲を）監督する
-- [monitor](/word/monitor/)：（状況や進捗を）監視する
+- [oversee](/oversee)：（広い範囲を）監督する
+- [monitor](/monitor)：（状況や進捗を）監視する
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate/)：調整する
-- [organize](/word/organize/)：組織する、まとめる
+- [coordinate](/coordinate)：調整する
+- [organize](/organize)：組織する、まとめる
 
-<!-- cvid: aid21_bid38 -->
+<!-- cvid: aid24_bid06 -->

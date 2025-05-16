@@ -81,15 +81,19 @@ TOEICでは、職業や役割を問う会話や説明文でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業や役割を問う会話や説明文でよく登場します
 ## 🤔  engineer との違いは？
 
 - **mechanic**：機械や車などの修理・整備を専門とする人
-- **[engineer](/word/engineer/)**：設計や開発、技術的な問題解決を行う技術者
+- **[engineer](/engineer)**：設計や開発、技術的な問題解決を行う技術者
 
 mechanicは「現場で手を動かして修理する人」、engineerは「設計や計画、技術開発を担う人」と使い分けます。
 
@@ -105,14 +109,14 @@ mechanicは「現場で手を動かして修理する人」、engineerは「設�
 
 ## 🧩 あわせて覚えたい
 
-- [technician](/word/technician/)：技術者、専門的な作業を行う人
-- [repair](/word/repair/)：修理する、修理
+- [technician](/technician)：技術者、専門的な作業を行う人
+- [repair](/repair)：修理する、修理
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual/)：手引き、マニュアル
-- [device](/word/device/)：装置、機器
+- [manual](/manual)：手引き、マニュアル
+- [device](/device)：装置、機器
 
-<!-- cvid: aid48_bid21 -->
+<!-- cvid: aid00_bid30 -->

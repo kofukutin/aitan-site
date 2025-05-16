@@ -81,15 +81,19 @@ sillyは会話文やカジュアルなやりとりで登場することが多く
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ sillyは会話文やカジュアルなやりとりで登場することが多く
 ## 🤔  foolish との違いは？
 
 - **silly**：軽くて子どもっぽい、深刻でない「ばかげた」
-- **[foolish](/word/foolish/)**：判断力がなく、もっと深刻な「愚かな」
+- **[foolish](/foolish)**：判断力がなく、もっと深刻な「愚かな」
 
 sillyは冗談や軽い失敗に使われ、foolishは重大なミスや無分別な行動に使われます。
 
@@ -105,14 +109,14 @@ sillyは冗談や軽い失敗に使われ、foolishは重大なミスや無分�
 
 ## 🧩 あわせて覚えたい
 
-- [ridiculous](/word/ridiculous/)：ばかばかしい、滑稽な
-- [serious](/word/serious/)：まじめな、深刻な
+- [ridiculous](/ridiculous)：ばかばかしい、滑稽な
+- [serious](/serious)：まじめな、深刻な
 
 ---
 
 ## 📖 できればこれも
 
-- [funny](/word/funny/)：おかしい、面白い
-- [strange](/word/strange/)：奇妙な、不思議な
+- [funny](/funny)：おかしい、面白い
+- [strange](/strange)：奇妙な、不思議な
 
-<!-- cvid: aid14_bid34 -->
+<!-- cvid: aid26_bid13 -->

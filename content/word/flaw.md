@@ -81,15 +81,19 @@ TOEICでは、製品や計画、システムの「欠陥」や「問題点」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品や計画、システムの「欠陥」や「問題点」を
 ## 🤔  defect との違いは？
 
 - **flaw**：主に小さな欠点や性格・論理など抽象的な「不完全さ」に使う
-- **[defect](/word/defect/)**：製品や機械などの「重大な欠陥」「不良品」に使う
+- **[defect](/defect)**：製品や機械などの「重大な欠陥」「不良品」に使う
 
 flawは「ちょっとした弱点」や「性格の欠点」にも使えますが、defectは「機能しないレベルの重大な欠陥」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ flawは「ちょっとした弱点」や「性格の欠点」にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [strength](/word/strength/)：強み、長所
-- [error](/word/error/)：誤り、ミス
+- [strength](/strength)：強み、長所
+- [error](/error)：誤り、ミス
 
 ---
 
 ## 📖 できればこれも
 
-- [fault](/word/fault/)：過失、責任
-- [weakness](/word/weakness/)：弱点、弱み
+- [fault](/fault)：過失、責任
+- [weakness](/weakness)：弱点、弱み
 
-<!-- cvid: aid45_bid12 -->
+<!-- cvid: aid23_bid47 -->

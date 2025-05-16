@@ -81,15 +81,19 @@ TOEICでは観光や地域紹介の記事、案内文などで登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や地域紹介の記事、案内文などで登場すること
 ## 🤔  town との違いは？
 
 - **village**：都市や町よりも小さく、田舎の「村」を指す。
-- **[town](/word/town/)**：villageより大きく、cityより小さい「町」を指す。
+- **[town](/town)**：villageより大きく、cityより小さい「町」を指す。
 
 villageは人口が少なく自然が多い場所、townは商業施設や公共サービスがあるやや大きめの集落を指します。
 
@@ -105,14 +109,14 @@ villageは人口が少なく自然が多い場所、townは商業施設や公共
 
 ## 🧩 あわせて覚えたい
 
-- [city](/word/city/)：都市、大都市
-- [countryside](/word/countryside/)：田舎、農村地帯
+- [city](/city)：都市、大都市
+- [countryside](/countryside)：田舎、農村地帯
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor/)：隣人、近所の人
-- [community](/word/community/)：地域社会、共同体
+- [neighbor](/neighbor)：隣人、近所の人
+- [community](/community)：地域社会、共同体
 
-<!-- cvid: aid45_bid37 -->
+<!-- cvid: aid14_bid18 -->

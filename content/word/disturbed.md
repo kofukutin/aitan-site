@@ -81,15 +81,19 @@ TOEICでは、メールや通知文、報告書などで「disturbed」が「妨
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや通知文、報告書などで「disturbed」が「妨
 ## 🤔  upset との違いは？
 
 - **disturbed**：外部からの妨害や出来事で心が乱され、不安や混乱を感じる状態。
-- **[upset](/word/upset/)**：主に感情的に動揺したり、怒ったり、悲しんだりする状態。
+- **[upset](/upset)**：主に感情的に動揺したり、怒ったり、悲しんだりする状態。
 
 disturbedは「外的要因による心の乱れ」や「精神的な不安定さ」を強調し、upsetは「感情的な動揺」や「気分の落ち込み」に焦点を当てます。
 
@@ -105,14 +109,14 @@ disturbedは「外的要因による心の乱れ」や「精神的な不安定�
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm/)：落ち着いた、冷静な
-- [anxious](/word/anxious/)：不安な、心配している
+- [calm](/calm)：落ち着いた、冷静な
+- [anxious](/anxious)：不安な、心配している
 
 ---
 
 ## 📖 できればこれも
 
-- [confused](/word/confused/)：混乱した
-- [concerned](/word/concerned/)：心配している
+- [confused](/confused)：混乱した
+- [concerned](/concerned)：心配している
 
-<!-- cvid: aid05_bid02 -->
+<!-- cvid: aid41_bid04 -->

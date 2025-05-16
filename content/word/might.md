@@ -77,15 +77,19 @@ TOEICでは仮定や控えめな提案、可能性を表す文脈でよく出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは仮定や控えめな提案、可能性を表す文脈でよく出題
 ## 🤔  may との違いは？
 
 - **might**：mayよりも控えめで、可能性がやや低いときや丁寧に言いたいときに使う
-- **[may](/word/may/)**：可能性がやや高い場合や、許可を表すときに使う
+- **[may](/may)**：可能性がやや高い場合や、許可を表すときに使う
 
 mightはmayよりも「もしかしたら」というニュアンスが強く、より丁寧・控えめな表現になります。
 
@@ -101,14 +105,14 @@ mightはmayよりも「もしかしたら」というニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [could](/word/could/)：～できる、～かもしれない（可能性や丁寧な依頼）
-- [can](/word/can/)：～できる、～してもよい（能力・許可）
+- [could](/could)：～できる、～かもしれない（可能性や丁寧な依頼）
+- [can](/can)：～できる、～してもよい（能力・許可）
 
 ---
 
 ## 📖 できればこれも
 
-- [should](/word/should/)：～すべき、～したほうがよい
-- [would](/word/would/)：～だろう、～するつもりだ（仮定・丁寧な依頼）
+- [should](/should)：～すべき、～したほうがよい
+- [would](/would)：～だろう、～するつもりだ（仮定・丁寧な依頼）
 
-<!-- cvid: aid08_bid41 -->
+<!-- cvid: aid09_bid49 -->

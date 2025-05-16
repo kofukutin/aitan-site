@@ -81,15 +81,19 @@ TOEICでは会話や指示の中で「ドアを閉める」「窓を閉める」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示の中で「ドアを閉める」「窓を閉める」
 ## 🤔  close との違いは？
 
 - **shut**：しっかりと閉める、ピタッと閉じるニュアンスが強い
-- **[close](/word/close/)**：一般的に「閉じる」、フォーマルでもカジュアルでも使える
+- **[close](/close)**：一般的に「閉じる」、フォーマルでもカジュアルでも使える
 
 shutは「バタンと閉める」など物理的にしっかり閉じる感じ、closeは「静かに閉じる」など幅広い場面で使えます。
 
@@ -105,14 +109,14 @@ shutは「バタンと閉める」など物理的にしっかり閉じる感じ�
 
 ## 🧩 あわせて覚えたい
 
-- [open](/word/open/)：開ける、開く
-- [lock](/word/lock/)：鍵をかける
+- [open](/open)：開ける、開く
+- [lock](/lock)：鍵をかける
 
 ---
 
 ## 📖 できればこれも
 
-- [turn off](/word/turn_off/)：（電気などを）消す
-- [leave](/word/leave/)：去る、残す
+- [turn off](/turn_off)：（電気などを）消す
+- [leave](/leave)：去る、残す
 
-<!-- cvid: aid29_bid18 -->
+<!-- cvid: aid21_bid30 -->

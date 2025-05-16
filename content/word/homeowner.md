@@ -81,15 +81,19 @@ TOEICでは不動産や保険、住宅ローンなどの文脈で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは不動産や保険、住宅ローンなどの文脈で登場するこ
 ## 🤔  landlord との違いは？
 
 - **homeowner**：自分が住むために家を所有している人
-- **[landlord](/word/landlord/)**：賃貸物件の貸主（大家）
+- **[landlord](/landlord)**：賃貸物件の貸主（大家）
 
 homeownerは自分や家族が住む家の所有者を指し、landlordは他人に貸すための物件の所有者（大家）を指します。
 
@@ -105,14 +109,14 @@ homeownerは自分や家族が住む家の所有者を指し、landlordは他人
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant/)：賃借人、借りて住む人
-- [resident](/word/resident/)：居住者、住民
+- [tenant](/tenant)：賃借人、借りて住む人
+- [resident](/resident)：居住者、住民
 
 ---
 
 ## 📖 できればこれも
 
-- [mortgage](/word/mortgage/)：住宅ローン
-- [property](/word/property/)：不動産、財産
+- [mortgage](/mortgage)：住宅ローン
+- [property](/property)：不動産、財産
 
-<!-- cvid: aid15_bid27 -->
+<!-- cvid: aid14_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは会話や指示の中で「選ぶ」「取りに行く」といった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示の中で「選ぶ」「取りに行く」といった
 ## 🤔  choose との違いは？
 
 - **pick**：カジュアルに「選ぶ」、直感的・素早い選択に使われやすい
-- **[choose](/word/choose/)**：ややフォーマルで、慎重に選ぶニュアンスが強い
+- **[choose](/choose)**：ややフォーマルで、慎重に選ぶニュアンスが強い
 
 pickは日常的な「パッと選ぶ」場面で使い、chooseは選択に時間や理由が伴うときに使います。
 
@@ -105,14 +109,14 @@ pickは日常的な「パッと選ぶ」場面で使い、chooseは選択に時�
 
 ## 🧩 あわせて覚えたい
 
-- [select](/word/select/)：慎重に選ぶ、選択する
-- [gather](/word/gather/)：集める、寄せ集める
+- [select](/select)：慎重に選ぶ、選択する
+- [gather](/gather)：集める、寄せ集める
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring/)：持ってくる
-- [collect](/word/collect/)：集める、回収する
+- [bring](/bring)：持ってくる
+- [collect](/collect)：集める、回収する
 
-<!-- cvid: aid00_bid18 -->
+<!-- cvid: aid22_bid25 -->

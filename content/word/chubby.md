@@ -81,15 +81,19 @@ chubbyはTOEICでは頻出単語ではありませんが、人物描写やキャ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ chubbyはTOEICでは頻出単語ではありませんが、人物描写やキャ
 ## 🤔  plump との違いは？
 
 - **chubby**：主に子どもや動物、親しみを込めて「ぽっちゃり」「ふっくら」と表現するカジュアルな言葉。
-- **[plump](/word/plump/)**：ややフォーマルで、健康的なふくらみや丸みを表す。
+- **[plump](/plump)**：ややフォーマルで、健康的なふくらみや丸みを表す。
 
 chubbyは可愛らしさや親しみを込めて使うのに対し、plumpは健康的・上品な丸みを表現する時に使われます。
 
@@ -105,14 +109,14 @@ chubbyは可愛らしさや親しみを込めて使うのに対し、plumpは健
 
 ## 🧩 あわせて覚えたい
 
-- [slim](/word/slim/)：ほっそりした
-- [fat](/word/fat/)：太った
+- [slim](/slim)：ほっそりした
+- [fat](/fat)：太った
 
 ---
 
 ## 📖 できればこれも
 
-- [cute](/word/cute/)：かわいい
-- [round](/word/round/)：丸い
+- [cute](/cute)：かわいい
+- [round](/round)：丸い
 
-<!-- cvid: aid01_bid09 -->
+<!-- cvid: aid14_bid47 -->

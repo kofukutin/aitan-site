@@ -81,15 +81,19 @@ TOEICではビジネス文書やレポート、メールなどで「売上を予
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やレポート、メールなどで「売上を予
 ## 🤔  predict との違いは？
 
 - **forecast**：データや傾向をもとに、特に天気や経済などで「予測する」
-- **[predict](/word/predict/)**：根拠の有無を問わず、広く「予言・予測する」
+- **[predict](/predict)**：根拠の有無を問わず、広く「予言・予測する」
 
 forecastは客観的なデータや分析に基づく予測、predictは直感や経験も含めて幅広く使われます。
 
@@ -105,14 +109,14 @@ forecastは客観的なデータや分析に基づく予測、predictは直感�
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate/)：見積もる、概算する
-- [project](/word/project/)：（数値などを）予測する、見積もる
+- [estimate](/estimate)：見積もる、概算する
+- [project](/project)：（数値などを）予測する、見積もる
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [assume](/word/assume/)：仮定する、想定する
+- [analyze](/analyze)：分析する
+- [assume](/assume)：仮定する、想定する
 
-<!-- cvid: aid39_bid48 -->
+<!-- cvid: aid03_bid36 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【ongoing】の意味・使い方・例文 ― continuousとの違い【TOEIC英単語】"
 description: "ongoingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcontinuousとの違いもわかりやすく学べます。"
 word: "ongoing"
@@ -81,15 +81,19 @@ TOEICでは、会議や業務の進捗、現在進行中のプロジェクトな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や業務の進捗、現在進行中のプロジェクトな
 ## 🤔  continuous との違いは？
 
 - **ongoing**：今まさに進行中で、まだ終わっていない状態を強調
-- **[continuous](/word/continuous/)**：途切れずに続いていることを強調
+- **[continuous](/continuous)**：途切れずに続いていることを強調
 
 「ongoing」は「現在進行中」に焦点があり、「continuous」は「中断なく続く」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、会議や業務の進捗、現在進行中のプロジェクトな
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current/)：現在の、今の
-- [pending](/word/pending/)：未決の、保留中の
+- [current](/current)：現在の、今の
+- [pending](/pending)：未決の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [upcoming](/word/upcoming/)：今後予定されている
-- [recent](/word/recent/)：最近の
+- [upcoming](/upcoming)：今後予定されている
+- [recent](/recent)：最近の
 
-<!-- cvid: aid01_bid02 -->
+<!-- cvid: aid02_bid12 -->

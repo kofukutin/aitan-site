@@ -81,15 +81,19 @@ The patient suffered a stroke during the meeting.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The patient suffered a stroke during the meeting.
 ## 🤔  attack との違いは？
 
 - **stroke**：主に医療分野で「脳卒中」や「発作」を指す。
-- **[attack](/word/attack/)**：広く「発作」「攻撃」「襲撃」などを指し、心臓発作（heart attack）などにも使う。
+- **[attack](/attack)**：広く「発作」「攻撃」「襲撃」などを指し、心臓発作（heart attack）などにも使う。
 
 strokeは脳に関する急性の発作を指すのが一般的ですが、attackは心臓やパニックなど幅広い「発作」や「攻撃」に使われます。
 
@@ -105,14 +109,14 @@ strokeは脳に関する急性の発作を指すのが一般的ですが、attac
 
 ## 🧩 あわせて覚えたい
 
-- [paralysis](/word/paralysis/)：麻痺
-- [incident](/word/incident/)：出来事、事件
+- [paralysis](/paralysis)：麻痺
+- [incident](/incident)：出来事、事件
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが
-- [disease](/word/disease/)：病気
+- [injury](/injury)：けが
+- [disease](/disease)：病気
 
-<!-- cvid: aid09_bid22 -->
+<!-- cvid: aid18_bid26 -->

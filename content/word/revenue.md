@@ -81,15 +81,19 @@ TOEICではビジネス文書や会議資料、財務報告などで頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議資料、財務報告などで頻出しま
 ## 🤔  income との違いは？
 
 - **revenue**：企業や組織が得る総収益（売上高）を指し、主にビジネス文脈で使われる。
-- **[income](/word/income/)**：個人や企業の「所得」や「収入」全般を指し、税引き後の利益を含む場合もある。
+- **[income](/income)**：個人や企業の「所得」や「収入」全般を指し、税引き後の利益を含む場合もある。
 
 revenueは「売上高」や「総収益」に特化し、incomeはより広い意味で「収入」や「所得」を表します。
 
@@ -105,14 +109,14 @@ revenueは「売上高」や「総収益」に特化し、incomeはより広い�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit/)：利益
-- [expense](/word/expense/)：費用
+- [profit](/profit)：利益
+- [expense](/expense)：費用
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [cost](/word/cost/)：コスト
+- [asset](/asset)：資産
+- [cost](/cost)：コスト
 
-<!-- cvid: aid42_bid08 -->
+<!-- cvid: aid04_bid27 -->

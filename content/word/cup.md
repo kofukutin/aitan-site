@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cup】の意味・使い方・例文 ― mugとの違い【TOEIC英単語】"
 description: "cupの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmugとの違いもわかりやすく学べます。"
 word: "cup"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、テーブルの上のカップや飲
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、テーブルの上のカップや飲
 ## 🤔  mug との違いは？
 
 - **cup**：取っ手付きの小さめのカップ。紅茶やコーヒー用で、ソーサーとセットが多い。
-- **[mug](/word/mug/)**：大きめで厚手のカップ。主にコーヒーやホットチョコレート用。
+- **[mug](/mug)**：大きめで厚手のカップ。主にコーヒーやホットチョコレート用。
 
 cupは上品な印象で、mugはカジュアルで容量が多いときに使います。
 
@@ -105,14 +109,14 @@ cupは上品な印象で、mugはカジュアルで容量が多いときに使�
 
 ## 🧩 あわせて覚えたい
 
-- [glass](/word/glass/)：ガラス製のコップ
-- [bowl](/word/bowl/)：ボウル、深めの器
+- [glass](/glass)：ガラス製のコップ
+- [bowl](/bowl)：ボウル、深めの器
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate/)：皿
-- [spoon](/word/spoon/)：スプーン
+- [plate](/plate)：皿
+- [spoon](/spoon)：スプーン
 
-<!-- cvid: aid08_bid04 -->
+<!-- cvid: aid25_bid41 -->

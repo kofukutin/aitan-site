@@ -81,15 +81,19 @@ TOEICでは主に広告や商品説明、アプリ紹介などの長文中で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に広告や商品説明、アプリ紹介などの長文中で「
 ## 🤔  light との違いは？
 
 - **lite**：カロリーや機能が「控えめ」「簡易版」という意味で、主に商品名や広告、IT分野で使われるカジュアルな表現。
-- **[light](/word/light/)**：本来の「軽い」「明るい」など幅広い意味を持つ一般的な単語。
+- **[light](/light)**：本来の「軽い」「明るい」など幅広い意味を持つ一般的な単語。
 
 「lite」は「light」のスペル変化形で、特に商品やアプリの「簡易版」「低カロリー」を強調したいときに使われます。日常会話や広告でよく見かけますが、フォーマルな文書では「light」が一般的です。
 
@@ -105,14 +109,14 @@ TOEICでは主に広告や商品説明、アプリ紹介などの長文中で「
 
 ## 🧩 あわせて覚えたい
 
-- [low](/word/low/)：低い、少ない
-- [diet](/word/diet/)：ダイエット用、食事制限用
+- [low](/low)：低い、少ない
+- [diet](/diet)：ダイエット用、食事制限用
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/word/basic/)：基本的な、基礎の
-- [simple](/word/simple/)：簡単な、単純な
+- [basic](/basic)：基本的な、基礎の
+- [simple](/simple)：簡単な、単純な
 
-<!-- cvid: aid37_bid22 -->
+<!-- cvid: aid24_bid37 -->

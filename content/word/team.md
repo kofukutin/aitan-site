@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクトの話題で頻出し、部署やグルー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクトの話題で頻出し、部署やグルー
 ## 🤔  group との違いは？
 
 - **team**：共通の目標に向かって協力する集団
-- **[group](/word/group/)**：目的や関係性を問わず集まった人々
+- **[group](/group)**：目的や関係性を問わず集まった人々
 
 teamは「協力・連携」が強調されるのに対し、groupは単なる「集まり」で目的や結束力は問いません。
 
@@ -105,14 +109,14 @@ teamは「協力・連携」が強調されるのに対し、groupは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [department](/word/department/)：部門、部署
-- [committee](/word/committee/)：委員会
+- [department](/department)：部門、部署
+- [committee](/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：プロジェクト、計画
-- [member](/word/member/)：メンバー、構成員
+- [project](/project)：プロジェクト、計画
+- [member](/member)：メンバー、構成員
 
-<!-- cvid: aid21_bid07 -->
+<!-- cvid: aid33_bid34 -->

@@ -81,15 +81,19 @@ TOEICでは「remove」の進行形や動名詞として、手順や作業内容
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「remove」の進行形や動名詞として、手順や作業内容
 ## 🤔  deleting との違いは？
 
 - **removing**：物理的・データ的に「取り除く」「移動させてなくす」ニュアンス
-- **[deleting](/word/deleting/)**：主にデータや情報を「消去する」「完全に消す」ニュアンス
+- **[deleting](/deleting)**：主にデータや情報を「消去する」「完全に消す」ニュアンス
 
 removingは「場所からどかす」イメージ、deletingは「データや記録を消して元に戻せない」イメージです。
 
@@ -105,14 +109,14 @@ removingは「場所からどかす」イメージ、deletingは「データや�
 
 ## 🧩 あわせて覚えたい
 
-- [extract](/word/extract/)：抜き出す、抽出する
-- [eliminate](/word/eliminate/)：排除する、取り除く
+- [extract](/extract)：抜き出す、抽出する
+- [eliminate](/eliminate)：排除する、取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace/)：取り替える、交換する
-- [attach](/word/attach/)：添付する、取り付ける
+- [replace](/replace)：取り替える、交換する
+- [attach](/attach)：添付する、取り付ける
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid05_bid03 -->

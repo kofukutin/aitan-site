@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pixel】の意味・使い方・例文 ― dotとの違い【TOEIC英単語】"
 description: "pixelの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdotとの違いもわかりやすく学べます。"
 word: "pixel"
@@ -81,15 +81,19 @@ IT関連や製品仕様の説明文で登場することがあり、特にディ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連や製品仕様の説明文で登場することがあり、特にディ
 ## 🤔  dot との違いは？
 
 - **pixel**：デジタル画像やディスプレイ上の最小単位の点
-- **[dot](/word/dot/)**：紙や画面上の物理的・抽象的な「点」
+- **[dot](/dot)**：紙や画面上の物理的・抽象的な「点」
 
 pixelは主にデジタル画像やディスプレイの構成要素として使われ、dotはより広く「点」全般を指します。
 
@@ -105,14 +109,14 @@ pixelは主にデジタル画像やディスプレイの構成要素として使
 
 ## 🧩 あわせて覚えたい
 
-- [resolution](/word/resolution/)：解像度
-- [display](/word/display/)：ディスプレイ、表示装置
+- [resolution](/resolution)：解像度
+- [display](/display)：ディスプレイ、表示装置
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/word/screen/)：画面
-- [monitor](/word/monitor/)：モニター
+- [screen](/screen)：画面
+- [monitor](/monitor)：モニター
 
-<!-- cvid: aid30_bid14 -->
+<!-- cvid: aid35_bid18 -->

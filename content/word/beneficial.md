@@ -81,15 +81,19 @@ TOEICでは、beneficialはビジネス文脈で「有益な」「役立つ」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、beneficialはビジネス文脈で「有益な」「役立つ」�
 ## 🤔  advantageous との違いは？
 
 - **beneficial**：一般的に「有益な」「役立つ」という意味で、健康や人、組織など幅広い対象に使われる。
-- **[advantageous](/word/advantageous/)**：特定の状況や条件で「有利な」「有益な」という意味で、利益や優位性を強調する場面で使われる。
+- **[advantageous](/advantageous)**：特定の状況や条件で「有利な」「有益な」という意味で、利益や優位性を強調する場面で使われる。
 
 beneficialは広く「良い影響」を表し、advantageousは「他より有利」「競争上の強み」を強調したいときに使います。
 
@@ -105,14 +109,14 @@ beneficialは広く「良い影響」を表し、advantageousは「他より有�
 
 ## 🧩 あわせて覚えたい
 
-- [harmful](/word/harmful/)：有害な
-- [profitable](/word/profitable/)：利益になる
+- [harmful](/harmful)：有害な
+- [profitable](/profitable)：利益になる
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な
-- [efficient](/word/efficient/)：効率的な
+- [effective](/effective)：効果的な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid33_bid28 -->
+<!-- cvid: aid01_bid41 -->

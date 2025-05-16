@@ -81,15 +81,19 @@ TOEICでは主にメールや社内連絡文で「転送する」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや社内連絡文で「転送する」という意味
 ## 🤔  send との違いは？
 
 - **forward**：既に受け取ったものを別の人に転送・回送する
-- **[send](/word/send/)**：最初に何かを送る、一般的な「送る」
+- **[send](/send)**：最初に何かを送る、一般的な「送る」
 
 forwardは「転送」、sendは「送信」のニュアンスで、forwardは受け取ったものをさらに他者へ送る場合に使います。
 
@@ -105,14 +109,14 @@ forwardは「転送」、sendは「送信」のニュアンスで、forwardは�
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/word/transfer/)：移す、転送する（より広い意味で使う）
-- [deliver](/word/deliver/)：配達する、届ける
+- [transfer](/transfer)：移す、転送する（より広い意味で使う）
+- [deliver](/deliver)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach/)：添付する
-- [reply](/word/reply/)：返信する
+- [attach](/attach)：添付する
+- [reply](/reply)：返信する
 
-<!-- cvid: aid42_bid02 -->
+<!-- cvid: aid48_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは、健康や作業内容の説明、職場環境の話題などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、健康や作業内容の説明、職場環境の話題などで「
 ## 🤔  practically との違いは？
 
 - **physically**：身体的・物理的な側面を強調する副詞
-- **[practically](/word/practically/)**：実際的・事実上・ほとんど、という意味の副詞
+- **[practically](/practically)**：実際的・事実上・ほとんど、という意味の副詞
 
 physicallyは「体や物質として」の意味、practicallyは「実際に」「ほとんど」の意味で、使う場面や強調点が異なります。
 
@@ -105,14 +109,14 @@ physicallyは「体や物質として」の意味、practicallyは「実際に�
 
 ## 🧩 あわせて覚えたい
 
-- [mentally](/word/mentally/)：精神的に
-- [emotionally](/word/emotionally/)：感情的に
+- [mentally](/mentally)：精神的に
+- [emotionally](/emotionally)：感情的に
 
 ---
 
 ## 📖 できればこれも
 
-- [actively](/word/actively/)：積極的に
-- [directly](/word/directly/)：直接に
+- [actively](/actively)：積極的に
+- [directly](/directly)：直接に
 
-<!-- cvid: aid21_bid24 -->
+<!-- cvid: aid17_bid14 -->

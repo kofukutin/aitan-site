@@ -81,15 +81,19 @@ TOEICでは主にITや製品説明の文脈で登場し、仕様や特徴を説�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITや製品説明の文脈で登場し、仕様や特徴を説�
 ## 🤔  feature との違いは？
 
 - **functionality**：製品やシステムが「実際にできること」「機能性」全体を指す
-- **[feature](/word/feature/)**：個々の「特徴」や「特長的な機能」を指す
+- **[feature](/feature)**：個々の「特徴」や「特長的な機能」を指す
 
 functionalityは全体的な性能や使い勝手を強調し、featureは個別の目立つ機能や特徴を指します。
 
@@ -105,14 +109,14 @@ functionalityは全体的な性能や使い勝手を強調し、featureは個別
 
 ## 🧩 あわせて覚えたい
 
-- [capability](/word/capability/)：能力、性能
-- [operation](/word/operation/)：操作、運用
+- [capability](/capability)：能力、性能
+- [operation](/operation)：操作、運用
 
 ---
 
 ## 📖 できればこれも
 
-- [specification](/word/specification/)：仕様、明細
-- [application](/word/application/)：アプリケーション、応用
+- [specification](/specification)：仕様、明細
+- [application](/application)：アプリケーション、応用
 
-<!-- cvid: aid15_bid35 -->
+<!-- cvid: aid39_bid33 -->

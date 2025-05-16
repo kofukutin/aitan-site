@@ -81,15 +81,19 @@ TOEICでは、名詞として「考え」「意見」などの意味で文中に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、名詞として「考え」「意見」などの意味で文中に
 ## 🤔  idea との違いは？
 
 - **thought**：頭の中で考えたこと全般や思考の流れを指す
-- **[idea](/word/idea/)**：新しい発想や具体的なアイデア、提案を指す
+- **[idea](/idea)**：新しい発想や具体的なアイデア、提案を指す
 
 thoughtは漠然とした「考え」や「思考」を広く表し、ideaは「ひらめき」や「具体的な提案」に使われます。
 
@@ -105,14 +109,14 @@ thoughtは漠然とした「考え」や「思考」を広く表し、ideaは「
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion/)：意見、見解
-- [consideration](/word/consideration/)：考慮、熟慮
+- [opinion](/opinion)：意見、見解
+- [consideration](/consideration)：考慮、熟慮
 
 ---
 
 ## 📖 できればこれも
 
-- [mind](/word/mind/)：心、精神
-- [plan](/word/plan/)：計画
+- [mind](/mind)：心、精神
+- [plan](/plan)：計画
 
-<!-- cvid: aid16_bid13 -->
+<!-- cvid: aid25_bid04 -->

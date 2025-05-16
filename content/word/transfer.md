@@ -81,7 +81,7 @@ transferは、職場の異動や資金の移動、交通機関の乗り換えな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+自信の芽を育てよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ transferは、職場の異動や資金の移動、交通機関の乗り換えな
 
 <div class="info-center">
 ＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ transferは、職場の異動や資金の移動、交通機関の乗り換えな
 ## 🤔  move との違いは？
 
 - **transfer**：ある場所や立場から別の場所・立場へ「正式に」移す、転勤や転送などフォーマルな場面で使う
-- **[move](/word/move/)**：単に「動かす」「移動する」など広い意味で使う
+- **[move](/move)**：単に「動かす」「移動する」など広い意味で使う
 
 transferは公式な手続きやシステム上の移動に使われ、moveは物理的な移動や日常的な動作に幅広く使われます。
 
@@ -105,14 +109,14 @@ transferは公式な手続きやシステム上の移動に使われ、moveは�
 
 ## 🧩 あわせて覚えたい
 
-- [relocate](/word/relocate/)：（職場・住居などを）移転する
-- [assign](/word/assign/)：割り当てる、任命する
+- [relocate](/relocate)：（職場・住居などを）移転する
+- [assign](/assign)：割り当てる、任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/word/promote/)：昇進させる、促進する
-- [shift](/word/shift/)：（位置・方向などを）変える、移す
+- [promote](/promote)：昇進させる、促進する
+- [shift](/shift)：（位置・方向などを）変える、移す
 
-<!-- cvid: aid49_bid17 -->
+<!-- cvid: aid16_bid17 -->

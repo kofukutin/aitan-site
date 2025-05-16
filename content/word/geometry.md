@@ -81,15 +81,19 @@ TOEICでは教育や科学関連の記事、説明文で見かけることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは教育や科学関連の記事、説明文で見かけることが多
 ## 🤔  trigonometry との違いは？
 
 - **geometry**：図形や空間全般の性質・関係を扱う数学分野
-- **[trigonometry](/word/trigonometry/)**：三角形や三角関数に特化した数学分野
+- **[trigonometry](/trigonometry)**：三角形や三角関数に特化した数学分野
 
 geometryは広く図形全般を扱い、trigonometryは特に三角形や角度の計算に焦点を当てます。
 
@@ -105,14 +109,14 @@ geometryは広く図形全般を扱い、trigonometryは特に三角形や角度
 
 ## 🧩 あわせて覚えたい
 
-- [algebra](/word/algebra/)：代数学（数式や方程式を扱う数学分野）
-- [calculus](/word/calculus/)：微積分学（変化や傾きを扱う数学分野）
+- [algebra](/algebra)：代数学（数式や方程式を扱う数学分野）
+- [calculus](/calculus)：微積分学（変化や傾きを扱う数学分野）
 
 ---
 
 ## 📖 できればこれも
 
-- [diagram](/word/diagram/)：図、図解
-- [formula](/word/formula/)：公式、数式
+- [diagram](/diagram)：図、図解
+- [formula](/formula)：公式、数式
 
-<!-- cvid: aid10_bid08 -->
+<!-- cvid: aid09_bid14 -->

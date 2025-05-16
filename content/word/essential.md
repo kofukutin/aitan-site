@@ -81,15 +81,19 @@ TOEICでは「必要不可欠な」「重要な」という意味で、指示や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「必要不可欠な」「重要な」という意味で、指示や
 ## 🤔  necessary との違いは？
 
 - **essential**：絶対に欠かせない、本質的に重要な
-- **[necessary](/word/necessary/)**：目的達成のために必要な
+- **[necessary](/necessary)**：目的達成のために必要な
 
 essentialは「本質的で絶対に必要」という強いニュアンスがあり、necessaryは「状況や目的に応じて必要」という意味合いです。
 
@@ -105,14 +109,14 @@ essentialは「本質的で絶対に必要」という強いニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [vital](/word/vital/)：極めて重要な、命に関わるほど大切な
-- [optional](/word/optional/)：任意の、選択できる
+- [vital](/vital)：極めて重要な、命に関わるほど大切な
+- [optional](/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [crucial](/word/crucial/)：極めて重要な、決定的な
-- [important](/word/important/)：重要な、大切な
+- [crucial](/crucial)：極めて重要な、決定的な
+- [important](/important)：重要な、大切な
 
-<!-- cvid: aid19_bid16 -->
+<!-- cvid: aid39_bid08 -->

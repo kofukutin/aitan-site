@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や製品説明、広告などで「洗練さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid13" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid13" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や製品説明、広告などで「洗練さ
 ## 🤔  complex との違いは？
 
 - **sophisticated**：洗練されていて高度、技術や知識が進んでいるニュアンス
-- **[complex](/word/complex/)**：複雑で入り組んでいる、単純でないという意味
+- **[complex](/complex)**：複雑で入り組んでいる、単純でないという意味
 
 「sophisticated」は「高度で洗練された」良い印象を与えるのに対し、「complex」は単に「複雑で難しい」ことを表します。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書や製品説明、広告などで「洗練さ
 
 ## 🧩 あわせて覚えたい
 
-- [advanced](/word/advanced/)：先進的な、進んだ
-- [refined](/word/refined/)：上品な、洗練された
+- [advanced](/advanced)：先進的な、進んだ
+- [refined](/refined)：上品な、洗練された
 
 ---
 
 ## 📖 できればこれも
 
-- [elaborate](/word/elaborate/)：手の込んだ、精巧な
-- [innovative](/word/innovative/)：革新的な
+- [elaborate](/elaborate)：手の込んだ、精巧な
+- [innovative](/innovative)：革新的な
 
-<!-- cvid: aid04_bid32 -->
+<!-- cvid: aid22_bid13 -->

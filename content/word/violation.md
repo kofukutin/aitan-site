@@ -81,15 +81,19 @@ TOEICでは規則や契約、法律に関する文書やメールで「違反」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは規則や契約、法律に関する文書やメールで「違反」
 ## 🤔  infringement との違いは？
 
 - **violation**：法律・規則・約束など幅広い「違反」「侵害」を指す。
-- **[infringement](/word/infringement/)**：特に著作権や特許など知的財産権の「侵害」に使われる。
+- **[infringement](/infringement)**：特に著作権や特許など知的財産権の「侵害」に使われる。
 
 violationは一般的なルール違反全般に使われ、infringementは主に権利や法律の細かな侵害に限定される傾向があります。
 
@@ -105,14 +109,14 @@ violationは一般的なルール違反全般に使われ、infringementは主�
 
 ## 🧩 あわせて覚えたい
 
-- [breach](/word/breach/)：（契約などの）違反、破棄
-- [compliance](/word/compliance/)：順守、従うこと
+- [breach](/breach)：（契約などの）違反、破棄
+- [compliance](/compliance)：順守、従うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [penalty](/word/penalty/)：罰則、ペナルティ
-- [regulation](/word/regulation/)：規則、規制
+- [penalty](/penalty)：罰則、ペナルティ
+- [regulation](/regulation)：規則、規制
 
-<!-- cvid: aid42_bid49 -->
+<!-- cvid: aid29_bid14 -->

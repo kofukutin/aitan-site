@@ -81,15 +81,19 @@ gloryはTOEICの長文読解（Part 7）で、歴史や成功談、表彰に関�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ gloryはTOEICの長文読解（Part 7）で、歴史や成功談、表彰に関�
 ## 🤔  honor との違いは？
 
 - **glory**：偉業や成功によって得られる輝かしい栄光や名誉を強調する。
-- **[honor](/word/honor/)**：道徳的な「名誉」や「尊敬」、義務感に基づく評価を表す。
+- **[honor](/honor)**：道徳的な「名誉」や「尊敬」、義務感に基づく評価を表す。
 
 gloryは「輝かしい成果」や「称賛される状態」に重点があり、honorは「人格的な尊敬」や「義務感」に重きを置きます。
 
@@ -105,14 +109,14 @@ gloryは「輝かしい成果」や「称賛される状態」に重点があり
 
 ## 🧩 あわせて覚えたい
 
-- [fame](/word/fame/)：名声、有名であること
-- [shame](/word/shame/)：恥、不名誉
+- [fame](/fame)：名声、有名であること
+- [shame](/shame)：恥、不名誉
 
 ---
 
 ## 📖 できればこれも
 
-- [pride](/word/pride/)：誇り、自尊心
-- [achievement](/word/achievement/)：業績、達成
+- [pride](/pride)：誇り、自尊心
+- [achievement](/achievement)：業績、達成
 
-<!-- cvid: aid06_bid37 -->
+<!-- cvid: aid47_bid22 -->

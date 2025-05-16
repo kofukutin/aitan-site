@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の文脈で「排除」「削減」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の文脈で「排除」「削減」
 ## 🤔  removal との違いは？
 
 - **elimination**：不要なものや障害を「徹底的に排除・削減」するニュアンス
-- **[removal](/word/removal/)**：単に「取り除く」「移動させる」など広い意味
+- **[removal](/removal)**：単に「取り除く」「移動させる」など広い意味
 
 eliminationは「完全に排除する」強い意味合いがあり、removalは「どかす・取り去る」といった一般的な除去を指します。
 
@@ -105,14 +109,14 @@ eliminationは「完全に排除する」強い意味合いがあり、removal�
 
 ## 🧩 あわせて覚えたい
 
-- [exclusion](/word/exclusion/)：除外、締め出し
-- [addition](/word/addition/)：追加、加えること
+- [exclusion](/exclusion)：除外、締め出し
+- [addition](/addition)：追加、加えること
 
 ---
 
 ## 📖 できればこれも
 
-- [selection](/word/selection/)：選択、選ばれたもの
-- [reduction](/word/reduction/)：削減、減少
+- [selection](/selection)：選択、選ばれたもの
+- [reduction](/reduction)：削減、減少
 
-<!-- cvid: aid34_bid37 -->
+<!-- cvid: aid33_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、船や車が「ゆっくり進んで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、船や車が「ゆっくり進んで
 ## 🤔  sail との違いは？
 
 - **cruise**：ゆっくりと一定の速度で進む、観光や楽しみのために船旅をするニュアンス
-- **[sail](/word/sail/)**：帆船で進む、または単に「船で進む」一般的な動作
+- **[sail](/sail)**：帆船で進む、または単に「船で進む」一般的な動作
 
 cruiseは「のんびり進む」「観光目的」のニュアンスが強く、sailは「帆を使って進む」や「船で移動する」動作自体を指します。
 
@@ -105,14 +109,14 @@ cruiseは「のんびり進む」「観光目的」のニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [travel](/word/travel/)：旅行する
-- [voyage](/word/voyage/)：長い船旅、航海
+- [travel](/travel)：旅行する
+- [voyage](/voyage)：長い船旅、航海
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/word/explore/)：探検する
-- [journey](/word/journey/)：旅、道のり
+- [explore](/explore)：探検する
+- [journey](/journey)：旅、道のり
 
-<!-- cvid: aid19_bid35 -->
+<!-- cvid: aid15_bid04 -->

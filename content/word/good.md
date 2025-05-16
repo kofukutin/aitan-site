@@ -81,15 +81,19 @@ TOEICでは形容詞として「よい」「適切な」などの意味で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid31_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞として「よい」「適切な」などの意味で頻出
 ## 🤔  nice との違いは？
 
 - **good**：質や能力が「よい」「優れている」と評価する言葉
-- **[nice](/word/nice/)**：感じがよい、親切、丁寧など「好感」を表す言葉
+- **[nice](/nice)**：感じがよい、親切、丁寧など「好感」を表す言葉
 
 goodは客観的な「質の高さ」に使い、niceは「感じのよさ」や「親しみやすさ」に使います。
 
@@ -105,14 +109,14 @@ goodは客観的な「質の高さ」に使い、niceは「感じのよさ」や
 
 ## 🧩 あわせて覚えたい
 
-- [bad](/word/bad/)：悪い
-- [excellent](/word/excellent/)：非常に優れた
+- [bad](/bad)：悪い
+- [excellent](/excellent)：非常に優れた
 
 ---
 
 ## 📖 できればこれも
 
-- [great](/word/great/)：素晴らしい
-- [well](/word/well/)：上手に
+- [great](/great)：素晴らしい
+- [well](/well)：上手に
 
-<!-- cvid: aid20_bid26 -->
+<!-- cvid: aid31_bid37 -->

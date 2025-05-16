@@ -82,15 +82,19 @@ TOEICでは、会議やビジネスの場面で「苦労する」「困難に直
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会議やビジネスの場面で「苦労する」「困難に直
 ## 🤔  strive との違いは？
 
 - **struggle**：困難や障害に直面して苦労しながら努力する
-- **[strive](/word/strive/)**：高い目標や理想に向かって一生懸命努力する
+- **[strive](/strive)**：高い目標や理想に向かって一生懸命努力する
 
 struggleは「苦しみながらもがく」ニュアンスが強く、striveは「目標に向かって努力する」前向きな印象があります。
 
@@ -106,14 +110,14 @@ struggleは「苦しみながらもがく」ニュアンスが強く、striveは
 
 ## 🧩 あわせて覚えたい
 
-- [overcome](/word/overcome/)：克服する
-- [cope](/word/cope/)：うまく対処する
+- [overcome](/overcome)：克服する
+- [cope](/cope)：うまく対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal/)：対処する
-- [attempt](/word/attempt/)：試みる
+- [deal](/deal)：対処する
+- [attempt](/attempt)：試みる
 
-<!-- cvid: aid21_bid07 -->
+<!-- cvid: aid13_bid47 -->

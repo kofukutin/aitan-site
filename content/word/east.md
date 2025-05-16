@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【east】の意味・使い方・例文 ― eastwardとの違い【TOEIC英単語】"
 description: "eastの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでeastwardとの違いもわかりやすく学べます。"
 word: "east"
@@ -83,15 +83,19 @@ TOEICでは地図や写真描写、道案内などで「east」がよく登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは地図や写真描写、道案内などで「east」がよく登場�
 ## 🤔  eastward との違いは？
 
 - **east**：東、東方（名詞・形容詞・副詞）として幅広く使える基本語
-- **[eastward](/word/eastward/)**：東方への、東方に（方向性を強調した副詞・形容詞）
+- **[eastward](/eastward)**：東方への、東方に（方向性を強調した副詞・形容詞）
 
 eastは単に「東」や「東の」と表現するのに対し、eastwardは「東の方へ進む」といった動きや方向性を強調したいときに使います。
 
@@ -107,14 +111,14 @@ eastは単に「東」や「東の」と表現するのに対し、eastwardは�
 
 ## 🧩 あわせて覚えたい
 
-- [west](/word/west/)：西、西方
-- [orient](/word/orient/)：東洋、東方（ややフォーマル）
+- [west](/west)：西、西方
+- [orient](/orient)：東洋、東方（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [north](/word/north/)：北、北方
-- [south](/word/south/)：南、南方
+- [north](/north)：北、北方
+- [south](/south)：南、南方
 
-<!-- cvid: aid38_bid44 -->
+<!-- cvid: aid04_bid21 -->

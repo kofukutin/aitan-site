@@ -81,15 +81,19 @@ TOEICでは、統計や分析、リスク評価などの文脈で出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、統計や分析、リスク評価などの文脈で出題される
 ## 🤔  possibility との違いは？
 
 - **probability**：起こる「確率」や数値的な可能性を強調
-- **[possibility](/word/possibility/)**：起こる「可能性」全般を広く指す
+- **[possibility](/possibility)**：起こる「可能性」全般を広く指す
 
 probabilityは「どれくらい起こりそうか」を具体的に示し、possibilityは「起こりうるかどうか」自体を表します。
 
@@ -105,14 +109,14 @@ probabilityは「どれくらい起こりそうか」を具体的に示し、pos
 
 ## 🧩 あわせて覚えたい
 
-- [likelihood](/word/likelihood/)：見込み、可能性
-- [chance](/word/chance/)：機会、見込み
+- [likelihood](/likelihood)：見込み、可能性
+- [chance](/chance)：機会、見込み
 
 ---
 
 ## 📖 できればこれも
 
-- [statistic](/word/statistic/)：統計、統計値
-- [estimate](/word/estimate/)：見積もり、推定
+- [statistic](/statistic)：統計、統計値
+- [estimate](/estimate)：見積もり、推定
 
-<!-- cvid: aid03_bid16 -->
+<!-- cvid: aid20_bid46 -->

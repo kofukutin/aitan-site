@@ -81,15 +81,19 @@ TOEICでは映画やエンタメ関連の記事や広告文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは映画やエンタメ関連の記事や広告文で登場すること
 ## 🤔  actor との違いは？
 
 - **actress**：女性の俳優を指す伝統的な表現
-- **[actor](/word/actor/)**：本来は男性俳優だが、近年は性別を問わず使われる
+- **[actor](/actor)**：本来は男性俳優だが、近年は性別を問わず使われる
 
 「actress」は女性限定、「actor」は性別を問わず使われることが増えています。
 
@@ -105,14 +109,14 @@ TOEICでは映画やエンタメ関連の記事や広告文で登場すること
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/word/performer/)：演者、パフォーマー
-- [celebrity](/word/celebrity/)：有名人
+- [performer](/performer)：演者、パフォーマー
+- [celebrity](/celebrity)：有名人
 
 ---
 
 ## 📖 できればこれも
 
-- [director](/word/director/)：監督
-- [audience](/word/audience/)：観客
+- [director](/director)：監督
+- [audience](/audience)：観客
 
-<!-- cvid: aid07_bid46 -->
+<!-- cvid: aid21_bid40 -->

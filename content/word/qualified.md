@@ -81,15 +81,19 @@ TOEICでは、採用や応募条件、業務に必要な資格を問う文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、採用や応募条件、業務に必要な資格を問う文脈で
 ## 🤔  eligible との違いは？
 
 - **qualified**：必要な資格や能力を持っている
-- **[eligible](/word/eligible/)**：条件を満たしていて「資格がある（権利がある）」
+- **[eligible](/eligible)**：条件を満たしていて「資格がある（権利がある）」
 
 qualifiedは「能力や資格が備わっている」こと、eligibleは「条件を満たしていて選ばれる権利がある」ことを強調します。
 
@@ -105,14 +109,14 @@ qualifiedは「能力や資格が備わっている」こと、eligibleは「条
 
 ## 🧩 あわせて覚えたい
 
-- [competent](/word/competent/)：有能な、能力がある
-- [unqualified](/word/unqualified/)：資格がない、不適任な
+- [competent](/competent)：有能な、能力がある
+- [unqualified](/unqualified)：資格がない、不適任な
 
 ---
 
 ## 📖 できればこれも
 
-- [experienced](/word/experienced/)：経験豊富な
-- [certified](/word/certified/)：認定された、証明された
+- [experienced](/experienced)：経験豊富な
+- [certified](/certified)：認定された、証明された
 
-<!-- cvid: aid09_bid09 -->
+<!-- cvid: aid22_bid48 -->

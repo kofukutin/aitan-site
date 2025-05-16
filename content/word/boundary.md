@@ -81,15 +81,19 @@ TOEICでは、会社や部門の「境界」や、業務範囲の「限界」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や部門の「境界」や、業務範囲の「限界」な
 ## 🤔  border との違いは？
 
 - **boundary**：物理的・抽象的な「境界」や「限界」を幅広く指す
-- **[border](/word/border/)**：国や地域などの「国境」「境界線」といった物理的な線を強調
+- **[border](/border)**：国や地域などの「国境」「境界線」といった物理的な線を強調
 
 boundaryは抽象的な区切りや範囲にも使えますが、borderは主に地図上の線や国境など物理的な境界を指します。
 
@@ -105,14 +109,14 @@ boundaryは抽象的な区切りや範囲にも使えますが、borderは主に
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/word/limit/)：限界、制限
-- [barrier](/word/barrier/)：障壁、バリア
+- [limit](/limit)：限界、制限
+- [barrier](/barrier)：障壁、バリア
 
 ---
 
 ## 📖 できればこれも
 
-- [restriction](/word/restriction/)：制限、規制
-- [territory](/word/territory/)：領土、領域
+- [restriction](/restriction)：制限、規制
+- [territory](/territory)：領土、領域
 
-<!-- cvid: aid25_bid05 -->
+<!-- cvid: aid46_bid39 -->

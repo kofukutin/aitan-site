@@ -77,15 +77,19 @@ TOEICでは会話の応答や説明で頻出し、特に「何もありません
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話の応答や説明で頻出し、特に「何もありません
 ## 🤔  anything との違いは？
 
 - **nothing**：「何も～ない」と断定的にゼロを表す
-- **[anything](/word/anything/)**：「何か」「何でも」など、疑問文・否定文で使われる
+- **[anything](/anything)**：「何か」「何でも」など、疑問文・否定文で使われる
 
 nothingは「全く何もない」と言い切る時に使い、anythingは「何か」「どれでも」と幅広く使われます。
 
@@ -101,14 +105,14 @@ nothingは「全く何もない」と言い切る時に使い、anythingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [something](/word/something/)：何か
-- [none](/word/none/)：ひとつも～ない
+- [something](/something)：何か
+- [none](/none)：ひとつも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [nobody](/word/nobody/)：誰も～ない
-- [everyone](/word/everyone/)：みんな、誰でも
+- [nobody](/nobody)：誰も～ない
+- [everyone](/everyone)：みんな、誰でも
 
-<!-- cvid: aid11_bid18 -->
+<!-- cvid: aid26_bid30 -->

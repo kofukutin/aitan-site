@@ -81,15 +81,19 @@ TOEICでは「調査する」「検査する」という意味で、契約書や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「調査する」「検査する」という意味で、契約書や
 ## 🤔  inspect との違いは？
 
 - **examine**：詳細に調べたり、分析したりすることに重点がある
-- **[inspect](/word/inspect/)**：主に外観や状態を点検・検査することに重点がある
+- **[inspect](/inspect)**：主に外観や状態を点検・検査することに重点がある
 
 examineは「中身や内容まで詳しく調べる」ニュアンスがあり、inspectは「外観や基準に合っているかを点検する」場面で使われます。
 
@@ -105,14 +109,14 @@ examineは「中身や内容まで詳しく調べる」ニュアンスがあり�
 
 ## 🧩 あわせて覚えたい
 
-- [analyze](/word/analyze/)：分析する
-- [review](/word/review/)：見直す、再検討する
+- [analyze](/analyze)：分析する
+- [review](/review)：見直す、再検討する
 
 ---
 
 ## 📖 できればこれも
 
-- [investigate](/word/investigate/)：（徹底的に）調査する
-- [assess](/word/assess/)：評価する
+- [investigate](/investigate)：（徹底的に）調査する
+- [assess](/assess)：評価する
 
-<!-- cvid: aid00_bid41 -->
+<!-- cvid: aid21_bid13 -->

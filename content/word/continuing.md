@@ -81,15 +81,19 @@ TOEICでは、案内文やお知らせ、教育関連の長文で「continuing e
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内文やお知らせ、教育関連の長文で「continuing e
 ## 🤔  continuous との違いは？
 
 - **continuing**：今も続いている、継続中の（状態や活動が現在も進行中）
-- **[continuous](/word/continuous/)**：途切れずに連続している（中断がないことを強調）
+- **[continuous](/continuous)**：途切れずに連続している（中断がないことを強調）
 
 「continuing」は「今も続いている状態」に焦点があり、「continuous」は「絶え間なく連続している様子」を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、案内文やお知らせ、教育関連の長文で「continuing e
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/word/permanent/)：永久的な
-- [temporary](/word/temporary/)：一時的な
+- [permanent](/permanent)：永久的な
+- [temporary](/temporary)：一時的な
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/word/current/)：現在の
-- [relevant](/word/relevant/)：関連する
+- [current](/current)：現在の
+- [relevant](/relevant)：関連する
 
-<!-- cvid: aid14_bid03 -->
+<!-- cvid: aid20_bid31 -->

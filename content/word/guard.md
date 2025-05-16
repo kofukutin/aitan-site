@@ -82,15 +82,19 @@ guardはTOEICの会話パートで「守る」「警備する」といった意�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ guardはTOEICの会話パートで「守る」「警備する」といった意�
 ## 🤔  protect との違いは？
 
 - **guard**：物理的・心理的に「見張って守る」ニュアンスが強い
-- **[protect](/word/protect/)**：危険や損害から「守る」こと全般
+- **[protect](/protect)**：危険や損害から「守る」こと全般
 
 guardは「警戒して見張る」イメージ、protectは「危険から守る」広い意味で使われます。
 
@@ -106,14 +110,14 @@ guardは「警戒して見張る」イメージ、protectは「危険から守�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend/)：（攻撃から）守る、防御する
-- [monitor](/word/monitor/)：監視する、見守る
+- [defend](/defend)：（攻撃から）守る、防御する
+- [monitor](/monitor)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [check](/word/check/)：確認する、調べる
-- [watch](/word/watch/)：じっと見る、見守る
+- [check](/check)：確認する、調べる
+- [watch](/watch)：じっと見る、見守る
 
-<!-- cvid: aid47_bid35 -->
+<!-- cvid: aid41_bid24 -->

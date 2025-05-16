@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンでの発表、説明の文脈で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンでの発表、説明の文脈で頻出
 ## 🤔  speech との違いは？
 
 - **presentation**：資料やスライドを使い、情報や提案を説明・発表すること
-- **[speech](/word/speech/)**：聴衆に向けて話すこと自体に重点があり、感情や意見を伝える場面が多い
+- **[speech](/speech)**：聴衆に向けて話すこと自体に重点があり、感情や意見を伝える場面が多い
 
 presentationはビジネスや学校での説明・提案など「情報を伝える」ことに重きを置きますが、speechは式典やイベントなどで「話すこと自体」や「感情表現」に重点があります。
 
@@ -105,14 +109,14 @@ presentationはビジネスや学校での説明・提案など「情報を伝�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture/)：講義、講演
-- [demonstration](/word/demonstration/)：実演、デモ
+- [lecture](/lecture)：講義、講演
+- [demonstration](/demonstration)：実演、デモ
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案
-- [conference](/word/conference/)：会議
+- [proposal](/proposal)：提案
+- [conference](/conference)：会議
 
-<!-- cvid: aid04_bid14 -->
+<!-- cvid: aid49_bid07 -->

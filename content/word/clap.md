@@ -82,15 +82,19 @@ Please clap to welcome our guest speaker.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ Please clap to welcome our guest speaker.
 ## 🤔  applaud との違いは？
 
 - **clap**：手をたたいて拍手する、カジュアルな表現
-- **[applaud](/word/applaud/)**：よりフォーマルで「称賛して拍手する」という意味
+- **[applaud](/applaud)**：よりフォーマルで「称賛して拍手する」という意味
 
 clapは日常的な拍手、applaudは賞賛や公式な場での拍手に使われることが多いです。
 
@@ -106,14 +110,14 @@ clapは日常的な拍手、applaudは賞賛や公式な場での拍手に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [cheer](/word/cheer/)：声援を送る
-- [praise](/word/praise/)：称賛する
+- [cheer](/cheer)：声援を送る
+- [praise](/praise)：称賛する
 
 ---
 
 ## 📖 できればこれも
 
-- [smile](/word/smile/)：ほほえむ
-- [wave](/word/wave/)：手を振る
+- [smile](/smile)：ほほえむ
+- [wave](/wave)：手を振る
 
-<!-- cvid: aid09_bid06 -->
+<!-- cvid: aid32_bid38 -->

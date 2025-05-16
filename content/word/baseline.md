@@ -81,15 +81,19 @@ TOEICでは、ビジネスレポートやプロジェクト管理、IT関連の�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスレポートやプロジェクト管理、IT関連の�
 ## 🤔  benchmark との違いは？
 
 - **baseline**：評価や比較のための「基準値」「出発点」
-- **[benchmark](/word/benchmark/)**：業界標準や目標となる「指標」「水準」
+- **[benchmark](/benchmark)**：業界標準や目標となる「指標」「水準」
 
 baselineは自分たちの現状や出発点を示すのに対し、benchmarkは他社や業界の標準・目標値と比較する際に使います。
 
@@ -105,14 +109,14 @@ baselineは自分たちの現状や出発点を示すのに対し、benchmarkは
 
 ## 🧩 あわせて覚えたい
 
-- [standard](/word/standard/)：標準、基準
-- [criterion](/word/criterion/)：判断基準、尺度
+- [standard](/standard)：標準、基準
+- [criterion](/criterion)：判断基準、尺度
 
 ---
 
 ## 📖 できればこれも
 
-- [framework](/word/framework/)：枠組み、構造
-- [parameter](/word/parameter/)：パラメータ、条件
+- [framework](/framework)：枠組み、構造
+- [parameter](/parameter)：パラメータ、条件
 
-<!-- cvid: aid21_bid22 -->
+<!-- cvid: aid31_bid12 -->

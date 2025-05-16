@@ -81,15 +81,19 @@ TOEICでは、荷物の発送状況や注文対応の会話で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、荷物の発送状況や注文対応の会話で頻出します。
 ## 🤔  delivered との違いは？
 
 - **shipped**：発送・出荷した（送り出した段階を強調）
-- **[delivered](/word/delivered/)**：配達された（受取人に届いた段階を強調）
+- **[delivered](/delivered)**：配達された（受取人に届いた段階を強調）
 
 shippedは「送り出した」こと、deliveredは「届いた」ことを指し、進捗の段階が異なります。
 
@@ -105,14 +109,14 @@ shippedは「送り出した」こと、deliveredは「届いた」ことを指�
 
 ## 🧩 あわせて覚えたい
 
-- [dispatch](/word/dispatch/)：発送する、派遣する
-- [receive](/word/receive/)：受け取る
+- [dispatch](/dispatch)：発送する、派遣する
+- [receive](/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive/)：到着する
-- [send](/word/send/)：送る
+- [arrive](/arrive)：到着する
+- [send](/send)：送る
 
-<!-- cvid: aid39_bid20 -->
+<!-- cvid: aid07_bid26 -->

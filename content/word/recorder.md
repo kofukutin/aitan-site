@@ -81,15 +81,19 @@ TOEICでは会議やインタビューの録音機器として登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やインタビューの録音機器として登場すること
 ## 🤔  dictaphone との違いは？
 
 - **recorder**：一般的な録音機や記録装置全般、または楽器のリコーダーも指す
-- **[dictaphone](/word/dictaphone/)**：主に口述録音専用の機器を指す
+- **[dictaphone](/dictaphone)**：主に口述録音専用の機器を指す
 
 recorderは幅広い記録装置や楽器を指しますが、dictaphoneは特に口述録音用の機器に限定されます。
 
@@ -105,14 +109,14 @@ recorderは幅広い記録装置や楽器を指しますが、dictaphoneは特�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [transcriber](/word/transcriber/)：書き起こしをする人・装置
+- [device](/device)：装置、機器
+- [transcriber](/transcriber)：書き起こしをする人・装置
 
 ---
 
 ## 📖 できればこれも
 
-- [microphone](/word/microphone/)：マイク、音声を拾う装置
-- [projector](/word/projector/)：映写機、プロジェクター
+- [microphone](/microphone)：マイク、音声を拾う装置
+- [projector](/projector)：映写機、プロジェクター
 
-<!-- cvid: aid30_bid05 -->
+<!-- cvid: aid31_bid29 -->

@@ -81,15 +81,19 @@ TOEICでは、スポーツやビジネスの表彰、競争に関する会話や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、スポーツやビジネスの表彰、競争に関する会話や
 ## 🤔  winner との違いは？
 
 - **champion**：大会や競技で一番になった人、または何かを強く支持する人
-- **[winner](/word/winner/)**：単に勝者、何かに勝った人
+- **[winner](/winner)**：単に勝者、何かに勝った人
 
 championは「タイトル保持者」や「擁護者」といった意味合いもあり、winnerよりも栄誉や継続性が強調されます。
 
@@ -105,14 +109,14 @@ championは「タイトル保持者」や「擁護者」といった意味合い
 
 ## 🧩 あわせて覚えたい
 
-- [contestant](/word/contestant/)：競技者、参加者
-- [defeat](/word/defeat/)：敗北、打ち負かす
+- [contestant](/contestant)：競技者、参加者
+- [defeat](/defeat)：敗北、打ち負かす
 
 ---
 
 ## 📖 できればこれも
 
-- [award](/word/award/)：賞、授与する
-- [competition](/word/competition/)：競争、コンテスト
+- [award](/award)：賞、授与する
+- [competition](/competition)：競争、コンテスト
 
-<!-- cvid: aid41_bid22 -->
+<!-- cvid: aid24_bid09 -->

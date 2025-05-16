@@ -81,15 +81,19 @@ TOEICでは「受動態（passive voice）」の説明や、受け身な態度�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「受動態（passive voice）」の説明や、受け身な態度�
 ## 🤔  inactive との違いは？
 
 - **passive**：自分から行動せず、他からの働きかけを受けるだけの状態。
-- **[inactive](/word/inactive/)**：活動していない、動いていない状態。
+- **[inactive](/inactive)**：活動していない、動いていない状態。
 
 passiveは「受け身である」ことに焦点があり、inactiveは「何もしていない」ことに重点があります。
 
@@ -105,14 +109,14 @@ passiveは「受け身である」ことに焦点があり、inactiveは「何�
 
 ## 🧩 あわせて覚えたい
 
-- [active](/word/active/)：能動的な、積極的な
-- [receptive](/word/receptive/)：受け入れやすい、感受性が高い
+- [active](/active)：能動的な、積極的な
+- [receptive](/receptive)：受け入れやすい、感受性が高い
 
 ---
 
 ## 📖 できればこれも
 
-- [obvious](/word/obvious/)：明らかな
-- [efficient](/word/efficient/)：効率的な
+- [obvious](/obvious)：明らかな
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid36_bid35 -->
+<!-- cvid: aid06_bid26 -->

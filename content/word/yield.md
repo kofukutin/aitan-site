@@ -81,15 +81,19 @@ TOEICでは「利益を生む」「譲る」「屈する」など複数の意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid43_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「利益を生む」「譲る」「屈する」など複数の意味
 ## 🤔  surrender との違いは？
 
 - **yield**：主に「生み出す」「譲る」「屈する」など幅広い意味で使われる
-- **[surrender](/word/surrender/)**：特に「降伏する」「完全に手放す」という意味で使われる
+- **[surrender](/surrender)**：特に「降伏する」「完全に手放す」という意味で使われる
 
 yieldは「結果や利益を生み出す」や「一時的に譲る」場合にも使われますが、surrenderは「完全に降参する」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ yieldは「結果や利益を生み出す」や「一時的に譲る」場合に
 
 ## 🧩 あわせて覚えたい
 
-- [produce](/word/produce/)：生産する、作り出す
-- [resist](/word/resist/)：抵抗する
+- [produce](/produce)：生産する、作り出す
+- [resist](/resist)：抵抗する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する、服従する
-- [generate](/word/generate/)：生み出す、発生させる
+- [submit](/submit)：提出する、服従する
+- [generate](/generate)：生み出す、発生させる
 
-<!-- cvid: aid42_bid03 -->
+<!-- cvid: aid43_bid40 -->

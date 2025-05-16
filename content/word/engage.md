@@ -81,15 +81,19 @@ TOEICでは「従事する」「関与する」「雇う」などの意味で、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「従事する」「関与する」「雇う」などの意味で、
 ## 🤔  participate との違いは？
 
 - **engage**：積極的に関与する、従事する、雇うなど幅広い意味で使われる
-- **[participate](/word/participate/)**：参加する（特にイベントや活動に加わること）
+- **[participate](/participate)**：参加する（特にイベントや活動に加わること）
 
 engageは「深く関わる」「積極的に従事する」ニュアンスがあり、participateは「参加する」こと自体を指します。
 
@@ -105,14 +109,14 @@ engageは「深く関わる」「積極的に従事する」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [involve](/word/involve/)：巻き込む、関与させる
-- [hire](/word/hire/)：雇う
+- [involve](/involve)：巻き込む、関与させる
+- [hire](/hire)：雇う
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [attend](/word/attend/)：出席する、参加する
+- [arrange](/arrange)：手配する、準備する
+- [attend](/attend)：出席する、参加する
 
-<!-- cvid: aid09_bid46 -->
+<!-- cvid: aid38_bid18 -->

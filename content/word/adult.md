@@ -81,15 +81,19 @@ TOEICでは、ホテルやイベントの案内、規約などで「adult」と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ TOEICでは、ホテルやイベントの案内、規約などで「adult」と�
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/word/minor/)：未成年
-- [adolescent](/word/adolescent/)：思春期の人、青年
+- [minor](/minor)：未成年
+- [adolescent](/adolescent)：思春期の人、青年
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child/)：子ども
-- [teenager](/word/teenager/)：10代の若者
+- [child](/child)：子ども
+- [teenager](/teenager)：10代の若者
 
-<!-- cvid: aid21_bid00 -->
+<!-- cvid: aid00_bid05 -->

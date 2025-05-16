@@ -77,15 +77,19 @@ TOEICではPart2の応答問題で頻出し、質問に対する肯定的な返�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid06" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid06" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart2の応答問題で頻出し、質問に対する肯定的な返�
 ## 🤔  sure との違いは？
 
 - **yes**：単純に「はい」と肯定する返事。
-- **[sure](/word/sure/)**：ややカジュアルで「もちろん」「いいですよ」と快く引き受けるニュアンス。
+- **[sure](/sure)**：ややカジュアルで「もちろん」「いいですよ」と快く引き受けるニュアンス。
 
 yesは事実や質問へのシンプルな肯定、sureは依頼や提案に対して前向きな気持ちを込めて答える時に使います。
 
@@ -101,14 +105,14 @@ yesは事実や質問へのシンプルな肯定、sureは依頼や提案に対�
 
 ## 🧩 あわせて覚えたい
 
-- [no](/word/no/)：いいえ
-- [okay](/word/okay/)：わかりました、いいですよ
+- [no](/no)：いいえ
+- [okay](/okay)：わかりました、いいですよ
 
 ---
 
 ## 📖 できればこれも
 
-- [no](/word/no/)：いいえ
-- [maybe](/word/maybe/)：たぶん、もしかすると
+- [no](/no)：いいえ
+- [maybe](/maybe)：たぶん、もしかすると
 
-<!-- cvid: aid45_bid08 -->
+<!-- cvid: aid49_bid06 -->

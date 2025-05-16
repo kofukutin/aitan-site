@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、女性が持っている小物やバッ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、女性が持っている小物やバッ
 ## 🤔  wallet との違いは？
 
 - **purse**：主に女性用の財布やハンドバッグ。アメリカ英語では「財布」、イギリス英語では「ハンドバッグ」。
-- **[wallet](/word/wallet/)**：男女問わず使う「札入れ」や「財布」。主に紙幣やカードを入れる。
+- **[wallet](/wallet)**：男女問わず使う「札入れ」や「財布」。主に紙幣やカードを入れる。
 
 purseは女性向けの小物やバッグ全般を指すことが多く、walletは紙幣やカード用の財布に限定されます。
 
@@ -105,14 +109,14 @@ purseは女性向けの小物やバッグ全般を指すことが多く、wallet
 
 ## 🧩 あわせて覚えたい
 
-- [bag](/word/bag/)：かばん、バッグ
-- [briefcase](/word/briefcase/)：書類かばん
+- [bag](/bag)：かばん、バッグ
+- [briefcase](/briefcase)：書類かばん
 
 ---
 
 ## 📖 できればこれも
 
-- [coin](/word/coin/)：硬貨
-- [cash](/word/cash/)：現金
+- [coin](/coin)：硬貨
+- [cash](/cash)：現金
 
-<!-- cvid: aid33_bid31 -->
+<!-- cvid: aid21_bid02 -->

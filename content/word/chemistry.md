@@ -81,15 +81,19 @@ TOEICでは主に科学や研究、製品開発に関する長文や記事で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学や研究、製品開発に関する長文や記事で登
 ## 🤔  chemical との違いは？
 
 - **chemistry**：化学という学問や、人間関係の相性を表す
-- **[chemical](/word/chemical/)**：化学物質、または「化学の」という形容詞
+- **[chemical](/chemical)**：化学物質、または「化学の」という形容詞
 
 chemistryは「学問」や「相性」といった抽象的な意味で使い、chemicalは具体的な物質や性質を指します。
 
@@ -105,14 +109,14 @@ chemistryは「学問」や「相性」といった抽象的な意味で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [biology](/word/biology/)：生物学
-- [physics](/word/physics/)：物理学
+- [biology](/biology)：生物学
+- [physics](/physics)：物理学
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/word/laboratory/)：実験室
-- [experiment](/word/experiment/)：実験
+- [laboratory](/laboratory)：実験室
+- [experiment](/experiment)：実験
 
-<!-- cvid: aid45_bid28 -->
+<!-- cvid: aid27_bid01 -->

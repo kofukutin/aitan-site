@@ -81,15 +81,19 @@ TOEICでは「fail to do（～し損なう）」の形で頻出です。否定�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「fail to do（～し損なう）」の形で頻出です。否定�
 ## 🤔  miss との違いは？
 
 - **fail**：目標や期待に届かず「失敗する」「達成できない」ことを表す。
-- **[miss](/word/miss/)**：機会や目標を「逃す」「取り損なう」ことを表す。
+- **[miss](/miss)**：機会や目標を「逃す」「取り損なう」ことを表す。
 
 failは「努力したが結果が出なかった」場合に使い、missは「チャンスやタイミングを逃した」場合に使います。
 
@@ -105,14 +109,14 @@ failは「努力したが結果が出なかった」場合に使い、missは「
 
 ## 🧩 あわせて覚えたい
 
-- [succeed](/word/succeed/)：成功する
-- [error](/word/error/)：誤り、ミス
+- [succeed](/succeed)：成功する
+- [error](/error)：誤り、ミス
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/word/attempt/)：試みる
-- [achieve](/word/achieve/)：達成する
+- [attempt](/attempt)：試みる
+- [achieve](/achieve)：達成する
 
-<!-- cvid: aid34_bid39 -->
+<!-- cvid: aid29_bid08 -->

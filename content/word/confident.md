@@ -81,15 +81,19 @@ TOEICでは、人物の性格や態度を表す文脈や、確信を持ってい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物の性格や態度を表す文脈や、確信を持ってい
 ## 🤔  certain との違いは？
 
 - **confident**：自分の能力や判断に自信がある、積極的な気持ちを表す
-- **[certain](/word/certain/)**：事実や状況について「確信している」、客観的な確実性を表す
+- **[certain](/certain)**：事実や状況について「確信している」、客観的な確実性を表す
 
 confidentは「自分の気持ちや能力への自信」、certainは「事実や情報の確実性」に焦点があります。
 
@@ -105,14 +109,14 @@ confidentは「自分の気持ちや能力への自信」、certainは「事実�
 
 ## 🧩 あわせて覚えたい
 
-- [assured](/word/assured/)：自信に満ちた、保証された
-- [insecure](/word/insecure/)：自信がない、不安な
+- [assured](/assured)：自信に満ちた、保証された
+- [insecure](/insecure)：自信がない、不安な
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [positive](/word/positive/)：前向きな、自信のある
+- [reliable](/reliable)：信頼できる
+- [positive](/positive)：前向きな、自信のある
 
-<!-- cvid: aid21_bid18 -->
+<!-- cvid: aid13_bid46 -->

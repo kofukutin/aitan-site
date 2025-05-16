@@ -81,15 +81,19 @@ TOEICでは「最終的な決定」「最終報告」など、ビジネス文書
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「最終的な決定」「最終報告」など、ビジネス文書
 ## 🤔  ultimate との違いは？
 
 - **final**：順序や段階の「最後」、終わりの意味が強い
-- **[ultimate](/word/ultimate/)**：最終的・究極的で「最高度」「根本的」な意味も含む
+- **[ultimate](/ultimate)**：最終的・究極的で「最高度」「根本的」な意味も含む
 
 「final」は単に順番の最後や終わりを指し、「ultimate」は最終段階でありつつ、究極・最高レベルのニュアンスも含みます。
 
@@ -105,14 +109,14 @@ TOEICでは「最終的な決定」「最終報告」など、ビジネス文書
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary/)：一時的な
-- [definite](/word/definite/)：明確な、確定した
+- [temporary](/temporary)：一時的な
+- [definite](/definite)：明確な、確定した
 
 ---
 
 ## 📖 できればこれも
 
-- [initial](/word/initial/)：最初の
-- [previous](/word/previous/)：前の
+- [initial](/initial)：最初の
+- [previous](/previous)：前の
 
-<!-- cvid: aid49_bid07 -->
+<!-- cvid: aid31_bid31 -->

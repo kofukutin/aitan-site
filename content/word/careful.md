@@ -81,15 +81,19 @@ TOEICでは、指示や注意を促す文脈や、careless（不注意な）と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、指示や注意を促す文脈や、careless（不注意な）と�
 ## 🤔  cautious との違いは？
 
 - **careful**：一般的に注意深く行動することを表す
-- **[cautious](/word/cautious/)**：危険やリスクを強く意識して用心深くなることを表す
+- **[cautious](/cautious)**：危険やリスクを強く意識して用心深くなることを表す
 
 carefulは日常的な注意深さ、cautiousは特に危険やリスクを避けるための慎重さを強調します。
 
@@ -105,14 +109,14 @@ carefulは日常的な注意深さ、cautiousは特に危険やリスクを避�
 
 ## 🧩 あわせて覚えたい
 
-- [careless](/word/careless/)：不注意な
-- [attentive](/word/attentive/)：注意深い、気配りがある
+- [careless](/careless)：不注意な
+- [attentive](/attentive)：注意深い、気配りがある
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible/)：責任感がある
-- [thorough](/word/thorough/)：徹底した、綿密な
+- [responsible](/responsible)：責任感がある
+- [thorough](/thorough)：徹底した、綿密な
 
-<!-- cvid: aid06_bid14 -->
+<!-- cvid: aid16_bid18 -->

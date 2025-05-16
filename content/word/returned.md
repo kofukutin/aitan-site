@@ -81,15 +81,19 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「returned 
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「returned 
 ## 🤔  refunded との違いは？
 
 - **returned**：返却された、元に戻された状態を表す
-- **[refunded](/word/refunded/)**：返金された、お金が戻された状態を表す
+- **[refunded](/refunded)**：返金された、お金が戻された状態を表す
 
 「returned」は物や書類が元に戻ること、「refunded」は支払ったお金が戻ることを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「returned 
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange/)：交換する、交換
-- [receive](/word/receive/)：受け取る
+- [exchange](/exchange)：交換する、交換
+- [receive](/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/word/damaged/)：損傷した
-- [shipped](/word/shipped/)：発送された
+- [damaged](/damaged)：損傷した
+- [shipped](/shipped)：発送された
 
-<!-- cvid: aid38_bid40 -->
+<!-- cvid: aid45_bid24 -->

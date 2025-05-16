@@ -81,15 +81,19 @@ TOEICではカジュアルな会話表現としてリスニングの会話パー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではカジュアルな会話表現としてリスニングの会話パー
 ## 🤔  guy との違いは？
 
 - **dude**：親しい友人や若者同士で使う、とてもカジュアルな男性への呼びかけ。
-- **[guy](/word/guy/)**：男女問わず「人」「やつ」として幅広く使えるが、dudeよりややフォーマル。
+- **[guy](/guy)**：男女問わず「人」「やつ」として幅広く使えるが、dudeよりややフォーマル。
 
 dudeは特に親しみや驚きを込めて使う若者言葉で、guyはより一般的・中立的な表現です。
 
@@ -105,15 +109,15 @@ dudeは特に親しみや驚きを込めて使う若者言葉で、guyはより�
 
 ## 🧩 あわせて覚えたい
 
-- [man](/word/man/)：男性、男の人
-- [buddy](/word/buddy/)：親しい友人、仲間
+- [man](/man)：男性、男の人
+- [buddy](/buddy)：親しい友人、仲間
 
 ---
 
 ## 📖 できればこれも
 
-- [pal](/word/pal/)：友達、仲間
-- [friend](/word/friend/)：友人
+- [pal](/pal)：友達、仲間
+- [friend](/friend)：友人
 
 ---
-<!-- cvid: aid22_bid24 -->
+<!-- cvid: aid16_bid23 -->

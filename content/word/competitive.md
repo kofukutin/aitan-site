@@ -81,15 +81,19 @@ TOEICでは、ビジネス文脈で「競争力のある」「競争が激しい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文脈で「競争力のある」「競争が激しい
 ## 🤔  ambitious との違いは？
 
 - **competitive**：他者と競い合うことや、競争力があることを強調する
-- **[ambitious](/word/ambitious/)**：目標や成功への強い意欲・野心を強調する
+- **[ambitious](/ambitious)**：目標や成功への強い意欲・野心を強調する
 
 competitiveは「他と比べて勝ちたい・負けたくない」気持ち、ambitiousは「高い目標を持ち、それを達成したい」気持ちに焦点があります。
 
@@ -105,14 +109,14 @@ competitiveは「他と比べて勝ちたい・負けたくない」気持ち、
 
 ## 🧩 あわせて覚えたい
 
-- [cooperative](/word/cooperative/)：協力的な
-- [aggressive](/word/aggressive/)：攻撃的な、積極的な
+- [cooperative](/cooperative)：協力的な
+- [aggressive](/aggressive)：攻撃的な、積極的な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [productive](/word/productive/)：生産的な
+- [efficient](/efficient)：効率的な
+- [productive](/productive)：生産的な
 
-<!-- cvid: aid24_bid39 -->
+<!-- cvid: aid13_bid31 -->

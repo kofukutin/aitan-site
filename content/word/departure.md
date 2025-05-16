@@ -81,15 +81,19 @@ The departure of the flight has been delayed.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The departure of the flight has been delayed.
 ## 🤔  leave との違いは？
 
 - **departure**：フォーマルで「出発」「離脱」という出来事や時刻を指す名詞
-- **[leave](/word/leave/)**：動詞で「去る」「出発する」、または名詞で「休暇」など幅広い意味
+- **[leave](/leave)**：動詞で「去る」「出発する」、または名詞で「休暇」など幅広い意味
 
 departureは主に交通機関や公式な場面で使われ、leaveは日常的な「去る」動作や「休暇」を表します。
 
@@ -105,14 +109,14 @@ departureは主に交通機関や公式な場面で使われ、leaveは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [arrival](/word/arrival/)：到着
-- [exit](/word/exit/)：出口、退場
+- [arrival](/arrival)：到着
+- [exit](/exit)：出口、退場
 
 ---
 
 ## 📖 できればこれも
 
-- [destination](/word/destination/)：目的地
-- [schedule](/word/schedule/)：予定、スケジュール
+- [destination](/destination)：目的地
+- [schedule](/schedule)：予定、スケジュール
 
-<!-- cvid: aid05_bid11 -->
+<!-- cvid: aid26_bid17 -->

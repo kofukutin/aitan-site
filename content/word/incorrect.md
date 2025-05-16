@@ -81,15 +81,19 @@ TOEICでは、選択肢の中で「正しい」「誤った」を問う設問や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、選択肢の中で「正しい」「誤った」を問う設問や
 ## 🤔  wrong との違いは？
 
 - **incorrect**：事実や情報が「正確でない」「誤っている」とフォーマルに表現する語。
-- **[wrong](/word/wrong/)**：よりカジュアルで、道徳的・判断的な「間違い」も含む幅広い意味。
+- **[wrong](/wrong)**：よりカジュアルで、道徳的・判断的な「間違い」も含む幅広い意味。
 
 「incorrect」は主に事実やデータの正確性に焦点を当て、フォーマルな文脈で使われます。「wrong」は日常会話で幅広く使われ、道徳的な誤りや判断ミスも表します。
 
@@ -105,14 +109,14 @@ TOEICでは、選択肢の中で「正しい」「誤った」を問う設問や
 
 ## 🧩 あわせて覚えたい
 
-- [accurate](/word/accurate/)：正確な
-- [false](/word/false/)：偽の、誤った
+- [accurate](/accurate)：正確な
+- [false](/false)：偽の、誤った
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/word/accurate/)：正確な
-- [exact](/word/exact/)：ぴったりの、正確な
+- [accurate](/accurate)：正確な
+- [exact](/exact)：ぴったりの、正確な
 
-<!-- cvid: aid19_bid35 -->
+<!-- cvid: aid17_bid44 -->

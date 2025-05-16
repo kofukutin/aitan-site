@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物の動作や姿勢を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物の動作や姿勢を説明す
 ## 🤔  lap との違いは？
 
 - **knee**：脚の関節部分そのもの（ひざ）
-- **[lap](/word/lap/)**：座ったときにできる太ももからひざ上までの「ひざの上」
+- **[lap](/lap)**：座ったときにできる太ももからひざ上までの「ひざの上」
 
 kneeは関節自体を指し、lapは座ったときにできる「ひざの上（膝上の平らな部分）」を指します。
 
@@ -105,14 +109,14 @@ kneeは関節自体を指し、lapは座ったときにできる「ひざの上�
 
 ## 🧩 あわせて覚えたい
 
-- [elbow](/word/elbow/)：ひじ
-- [ankle](/word/ankle/)：足首
+- [elbow](/elbow)：ひじ
+- [ankle](/ankle)：足首
 
 ---
 
 ## 📖 できればこれも
 
-- [leg](/word/leg/)：脚
-- [arm](/word/arm/)：腕
+- [leg](/leg)：脚
+- [arm](/arm)：腕
 
-<!-- cvid: aid41_bid29 -->
+<!-- cvid: aid13_bid49 -->

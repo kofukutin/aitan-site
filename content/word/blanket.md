@@ -81,15 +81,19 @@ TOEICでは主にホテルや旅行、日常生活の写真描写で「blanket�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にホテルや旅行、日常生活の写真描写で「blanket�
 ## 🤔  cover との違いは？
 
 - **blanket**：寝具として使う「毛布」や、何かを全面的に覆うもの。
-- **[cover](/word/cover/)**：何かを覆う「カバー」「ふた」など、用途や形状を問わず幅広く使う。
+- **[cover](/cover)**：何かを覆う「カバー」「ふた」など、用途や形状を問わず幅広く使う。
 
 blanketは主に寝具や防寒用の「毛布」を指し、coverは「覆うもの」全般に使われます。
 
@@ -105,14 +109,14 @@ blanketは主に寝具や防寒用の「毛布」を指し、coverは「覆う�
 
 ## 🧩 あわせて覚えたい
 
-- [sheet](/word/sheet/)：シーツ、薄い布
-- [quilt](/word/quilt/)：キルト、綿入り掛け布団
+- [sheet](/sheet)：シーツ、薄い布
+- [quilt](/quilt)：キルト、綿入り掛け布団
 
 ---
 
 ## 📖 できればこれも
 
-- [pillow](/word/pillow/)：枕
-- [cushion](/word/cushion/)：クッション
+- [pillow](/pillow)：枕
+- [cushion](/cushion)：クッション
 
-<!-- cvid: aid37_bid35 -->
+<!-- cvid: aid29_bid45 -->

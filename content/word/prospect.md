@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、記事などで「将来性」「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、記事などで「将来性」「�
 ## 🤔  possibility との違いは？
 
 - **prospect**：将来に対する具体的な「見込み」や「期待」
-- **[possibility](/word/possibility/)**：単なる「可能性」や「起こりうること」
+- **[possibility](/possibility)**：単なる「可能性」や「起こりうること」
 
 prospectは「期待できる良い結果」や「前向きな見通し」に使われることが多く、possibilityは良い・悪いに関係なく「起こりうること全般」を指します。
 
@@ -105,14 +109,14 @@ prospectは「期待できる良い結果」や「前向きな見通し」に使
 
 ## 🧩 あわせて覚えたい
 
-- [candidate](/word/candidate/)：候補者
-- [opportunity](/word/opportunity/)：機会、チャンス
+- [candidate](/candidate)：候補者
+- [opportunity](/opportunity)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [potential](/word/potential/)：潜在能力、可能性
-- [forecast](/word/forecast/)：予測、予報
+- [potential](/potential)：潜在能力、可能性
+- [forecast](/forecast)：予測、予報
 
-<!-- cvid: aid45_bid24 -->
+<!-- cvid: aid42_bid48 -->

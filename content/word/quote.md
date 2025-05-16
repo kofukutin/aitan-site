@@ -81,15 +81,19 @@ TOEICでは「見積もりを出す」「引用する」の両方の意味で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「見積もりを出す」「引用する」の両方の意味で出
 ## 🤔  estimate との違いは？
 
 - **quote**：具体的な金額や言葉を「引用・提示」することに重点。
-- **[estimate](/word/estimate/)**：おおよその金額や数量を「見積もる」ことに重点。
+- **[estimate](/estimate)**：おおよその金額や数量を「見積もる」ことに重点。
 
 quoteは「正確な数字や言葉」を示す時、estimateは「だいたいの予測」を示す時に使います。
 
@@ -105,14 +109,14 @@ quoteは「正確な数字や言葉」を示す時、estimateは「だいたい�
 
 ## 🧩 あわせて覚えたい
 
-- [cite](/word/cite/)：（正式に）引用する
-- [mention](/word/mention/)：言及する
+- [cite](/cite)：（正式に）引用する
+- [mention](/mention)：言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer/)：申し出る、提示する
-- [propose](/word/propose/)：提案する
+- [offer](/offer)：申し出る、提示する
+- [propose](/propose)：提案する
 
-<!-- cvid: aid14_bid48 -->
+<!-- cvid: aid45_bid36 -->

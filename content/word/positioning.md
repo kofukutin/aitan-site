@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やマーケティング関連の長文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やマーケティング関連の長文で「
 ## 🤔  placement との違いは？
 
 - **positioning**：位置づけ、特に戦略的な配置や市場での立ち位置を強調
-- **[placement](/word/placement/)**：単純な配置や設置、物理的な置き場所を指す
+- **[placement](/placement)**：単純な配置や設置、物理的な置き場所を指す
 
 **positioning**は戦略やマーケティングなど抽象的・計画的な「位置づけ」に使い、**placement**は物理的な「配置」や「設置」に使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書やマーケティング関連の長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement/)：配置、整頓
-- [strategy](/word/strategy/)：戦略
+- [arrangement](/arrangement)：配置、整頓
+- [strategy](/strategy)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/word/promotion/)：販売促進、昇進
-- [presentation](/word/presentation/)：発表、プレゼンテーション
+- [promotion](/promotion)：販売促進、昇進
+- [presentation](/presentation)：発表、プレゼンテーション
 
-<!-- cvid: aid36_bid08 -->
+<!-- cvid: aid40_bid11 -->

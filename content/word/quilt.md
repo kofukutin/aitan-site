@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写で、ベッドや寝具の説明として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写で、ベッドや寝具の説明として
 ## 🤔  blanket との違いは？
 
 - **quilt**：中綿入りで縫い合わせた厚手の掛け布団や装飾的なベッドカバー。
-- **[blanket](/word/blanket/)**：一般的な毛布や薄手の掛け布、素材や厚みはさまざま。
+- **[blanket](/blanket)**：一般的な毛布や薄手の掛け布、素材や厚みはさまざま。
 
 quiltは装飾性や厚みが特徴で、blanketはより広く「毛布」全般を指します。
 
@@ -104,14 +108,14 @@ quiltは装飾性や厚みが特徴で、blanketはより広く「毛布」全�
 
 ## 🧩 あわせて覚えたい
 
-- [comforter](/word/comforter/)：中綿入りの掛け布団（特にアメリカ英語）
-- [duvet](/word/duvet/)：羽毛や綿入りの掛け布団（主にヨーロッパで使用）
+- [comforter](/comforter)：中綿入りの掛け布団（特にアメリカ英語）
+- [duvet](/duvet)：羽毛や綿入りの掛け布団（主にヨーロッパで使用）
 
 ---
 
 ## 📖 できればこれも
 
-- [pillow](/word/pillow/)：枕
-- [sheet](/word/sheet/)：シーツ
+- [pillow](/pillow)：枕
+- [sheet](/sheet)：シーツ
 
-<!-- cvid: aid13_bid18 -->
+<!-- cvid: aid12_bid12 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「試合」「ゲーム」「活動」として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「試合」「ゲーム」「活動」として
 ## 🤔  match との違いは？
 
 - **game**：ルールのある遊びやスポーツ全般の「ゲーム」「試合」を広く指す。
-- **[match](/word/match/)**：特にスポーツなどで「対戦」「勝負」としての試合を強調。
+- **[match](/match)**：特にスポーツなどで「対戦」「勝負」としての試合を強調。
 
 **game**は楽しみや娯楽の要素が強く、**match**は勝敗や競争の場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「試合」「ゲーム」「活動」として
 
 ## 🧩 あわせて覚えたい
 
-- [competition](/word/competition/)：競争、コンテスト
-- [play](/word/play/)：遊ぶ、演じる
+- [competition](/competition)：競争、コンテスト
+- [play](/play)：遊ぶ、演じる
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [score](/word/score/)：得点、スコア
+- [team](/team)：チーム、団体
+- [score](/score)：得点、スコア
 
-<!-- cvid: aid46_bid05 -->
+<!-- cvid: aid32_bid14 -->

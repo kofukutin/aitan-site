@@ -81,15 +81,19 @@ TOEICではPart 5の語彙問題で「促す」「引き起こす」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙問題で「促す」「引き起こす」という意
 ## 🤔  encourage との違いは？
 
 - **prompt**：何かのきっかけや刺激で「行動を促す」「引き起こす」ニュアンスが強い
-- **[encourage](/word/encourage/)**：自信や勇気を与えて「励ます」「勇気づける」意味が中心
+- **[encourage](/encourage)**：自信や勇気を与えて「励ます」「勇気づける」意味が中心
 
 promptは外部からの刺激や出来事が行動を引き起こす場合に使い、encourageは気持ちを後押しする場合に使います。
 
@@ -105,14 +109,14 @@ promptは外部からの刺激や出来事が行動を引き起こす場合に�
 
 ## 🧩 あわせて覚えたい
 
-- [urge](/word/urge/)：強く促す、せき立てる
-- [remind](/word/remind/)：思い出させる、注意を促す
+- [urge](/urge)：強く促す、せき立てる
+- [remind](/remind)：思い出させる、注意を促す
 
 ---
 
 ## 📖 できればこれも
 
-- [motivate](/word/motivate/)：やる気を起こさせる
-- [stimulate](/word/stimulate/)：刺激する、活性化する
+- [motivate](/motivate)：やる気を起こさせる
+- [stimulate](/stimulate)：刺激する、活性化する
 
-<!-- cvid: aid29_bid09 -->
+<!-- cvid: aid43_bid17 -->

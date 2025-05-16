@@ -81,15 +81,19 @@ TOEICでは、形容詞として「marked improvement（顕著な改善）」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「marked improvement（顕著な改善）」な
 ## 🤔  noticeable との違いは？
 
 - **marked**：誰の目にも明らかなほどはっきりしている、顕著な
-- **[noticeable](/word/noticeable/)**：注意すれば気づく程度に目立つ、目につく
+- **[noticeable](/noticeable)**：注意すれば気づく程度に目立つ、目につく
 
 **marked**は「非常に明白で強調された違い」に使い、**noticeable**は「気づけばわかる程度の目立ち」に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「marked improvement（顕著な改善）」な
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/word/obvious/)：明白な、誰でもすぐわかる
-- [subtle](/word/subtle/)：微妙な、かすかな
+- [obvious](/obvious)：明白な、誰でもすぐわかる
+- [subtle](/subtle)：微妙な、かすかな
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、かなりの
-- [distinct](/word/distinct/)：はっきり異なる、明確な
+- [significant](/significant)：重要な、かなりの
+- [distinct](/distinct)：はっきり異なる、明確な
 
-<!-- cvid: aid09_bid08 -->
+<!-- cvid: aid13_bid09 -->

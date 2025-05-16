@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文やビジネス文書、教育関連の文章で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文やビジネス文書、教育関連の文章で
 ## 🤔  evaluation との違いは？
 
 - **assessment**：基準や目的に沿って客観的に評価・査定すること
-- **[evaluation](/word/evaluation/)**：より広く「価値判断」や「評価」を意味し、主観的な判断も含む
+- **[evaluation](/evaluation)**：より広く「価値判断」や「評価」を意味し、主観的な判断も含む
 
 assessmentはテストや基準に基づく客観的な評価、evaluationは全体的な価値判断や感想も含む点が異なります。
 
@@ -105,14 +109,14 @@ assessmentはテストや基準に基づく客観的な評価、evaluationは全
 
 ## 🧩 あわせて覚えたい
 
-- [appraisal](/word/appraisal/)：査定、評価（特に人事や不動産で使う）
-- [test](/word/test/)：テスト、試験
+- [appraisal](/appraisal)：査定、評価（特に人事や不動産で使う）
+- [test](/test)：テスト、試験
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [survey](/word/survey/)：調査
+- [analysis](/analysis)：分析
+- [survey](/survey)：調査
 
-<!-- cvid: aid26_bid36 -->
+<!-- cvid: aid18_bid46 -->

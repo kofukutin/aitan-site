@@ -81,15 +81,19 @@ TOEICでは、読み物や説明文の中で「神話」や「誤解」といっ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、読み物や説明文の中で「神話」や「誤解」といっ
 ## 🤔  legend との違いは？
 
 - **myth**：神話や根拠のない通説、誤解を含む話
-- **[legend](/word/legend/)**：歴史的事実に基づくこともある伝説や英雄譚
+- **[legend](/legend)**：歴史的事実に基づくこともある伝説や英雄譚
 
 mythは事実かどうかに関係なく広く信じられている話や誤解を指し、legendは特定の人物や出来事にまつわる伝説的な物語を指します。
 
@@ -105,14 +109,14 @@ mythは事実かどうかに関係なく広く信じられている話や誤解�
 
 ## 🧩 あわせて覚えたい
 
-- [fable](/word/fable/)：教訓を含む寓話
-- [fact](/word/fact/)：事実
+- [fable](/fable)：教訓を含む寓話
+- [fact](/fact)：事実
 
 ---
 
 ## 📖 できればこれも
 
-- [story](/word/story/)：物語、話
-- [belief](/word/belief/)：信念、信じていること
+- [story](/story)：物語、話
+- [belief](/belief)：信念、信じていること
 
-<!-- cvid: aid22_bid17 -->
+<!-- cvid: aid09_bid35 -->

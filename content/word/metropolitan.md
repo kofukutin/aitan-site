@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【metropolitan】の意味・使い方・例文 ― urbanとの違い【TOEIC英単語】"
 description: "metropolitanの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでurbanとの違いもわかりやすく学べます。"
 word: "metropolitan"
@@ -81,15 +81,19 @@ TOEICでは都市圏や交通、経済活動に関する長文や記事で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは都市圏や交通、経済活動に関する長文や記事で見か
 ## 🤔  urban との違いは？
 
 - **metropolitan**：大都市や首都圏に関する、中心都市の
-- **[urban](/word/urban/)**：都市の、都会の
+- **[urban](/urban)**：都市の、都会の
 
 「metropolitan」は特に大都市や首都圏の規模や中心性を強調し、「urban」は一般的な都市や都会を指します。
 
@@ -105,14 +109,14 @@ TOEICでは都市圏や交通、経済活動に関する長文や記事で見か
 
 ## 🧩 あわせて覚えたい
 
-- [rural](/word/rural/)：田舎の、地方の
-- [municipal](/word/municipal/)：市の、自治体の
+- [rural](/rural)：田舎の、地方の
+- [municipal](/municipal)：市の、自治体の
 
 ---
 
 ## 📖 できればこれも
 
-- [suburban](/word/suburban/)：郊外の
-- [cosmopolitan](/word/cosmopolitan/)：国際的な、世界的な
+- [suburban](/suburban)：郊外の
+- [cosmopolitan](/cosmopolitan)：国際的な、世界的な
 
-<!-- cvid: aid29_bid17 -->
+<!-- cvid: aid36_bid46 -->

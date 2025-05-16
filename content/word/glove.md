@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【glove】の意味・使い方・例文 ― mittenとの違い【TOEIC英単語】"
 description: "gloveの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmittenとの違いもわかりやすく学べます。"
 word: "glove"
@@ -81,15 +81,19 @@ gloveはTOEICのPart 1（写真描写問題）で、人物が手袋を着用し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ gloveはTOEICのPart 1（写真描写問題）で、人物が手袋を着用し�
 ## 🤔  mitten との違いは？
 
 - **glove**：指がそれぞれ分かれている手袋
-- **[mitten](/word/mitten/)**：親指だけ分かれ、他の指は一緒になっている手袋
+- **[mitten](/mitten)**：親指だけ分かれ、他の指は一緒になっている手袋
 
 gloveは細かい作業がしやすい指分かれタイプ、mittenは防寒重視で指がまとまっているタイプです。
 
@@ -105,14 +109,14 @@ gloveは細かい作業がしやすい指分かれタイプ、mittenは防寒重
 
 ## 🧩 あわせて覚えたい
 
-- [handkerchief](/word/handkerchief/)：ハンカチ
-- [scarf](/word/scarf/)：マフラー、スカーフ
+- [handkerchief](/handkerchief)：ハンカチ
+- [scarf](/scarf)：マフラー、スカーフ
 
 ---
 
 ## 📖 できればこれも
 
-- [hat](/word/hat/)：帽子
-- [shoe](/word/shoe/)：靴
+- [hat](/hat)：帽子
+- [shoe](/shoe)：靴
 
-<!-- cvid: aid28_bid32 -->
+<!-- cvid: aid42_bid07 -->

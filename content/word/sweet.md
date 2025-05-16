@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sweet】の意味・使い方・例文 ― dessertとの違い【TOEIC英単語】"
 description: "sweetの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdessertとの違いもわかりやすく学べます。"
 word: "sweet"
@@ -81,15 +81,19 @@ TOEICでは主に食べ物や飲み物の描写、または人の性格を表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に食べ物や飲み物の描写、または人の性格を表す
 ## 🤔  dessert との違いは？
 
 - **sweet**：甘い、または優しい・心地よいという形容詞。食べ物や人、雰囲気など幅広く使う。
-- **[dessert](/word/dessert/)**：食後に食べる「デザート」という名詞。
+- **[dessert](/dessert)**：食後に食べる「デザート」という名詞。
 
 「sweet」は味や性格など幅広く形容詞として使い、「dessert」は食事の最後に食べる甘いもの自体を指す名詞です。
 
@@ -105,14 +109,14 @@ TOEICでは主に食べ物や飲み物の描写、または人の性格を表す
 
 ## 🧩 あわせて覚えたい
 
-- [bitter](/word/bitter/)：苦い
-- [candy](/word/candy/)：キャンディー、あめ
+- [bitter](/bitter)：苦い
+- [candy](/candy)：キャンディー、あめ
 
 ---
 
 ## 📖 できればこれも
 
-- [soft](/word/soft/)：やわらかい
-- [fresh](/word/fresh/)：新鮮な
+- [soft](/soft)：やわらかい
+- [fresh](/fresh)：新鮮な
 
-<!-- cvid: aid26_bid34 -->
+<!-- cvid: aid17_bid14 -->

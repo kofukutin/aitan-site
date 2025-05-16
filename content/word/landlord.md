@@ -88,8 +88,12 @@ TOEICでは賃貸契約や不動産に関する長文やEメールでよく登�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは賃貸契約や不動産に関する長文やEメールでよく登�
 ## 🤔  owner との違いは？
 
 - **landlord**：不動産を貸している「大家」「家主」
-- **[owner](/word/owner/)**：物や不動産など何かの「所有者」全般
+- **[owner](/owner)**：物や不動産など何かの「所有者」全般
 
 landlordは「貸している人」に限定され、ownerは単に「持っている人」を指します。
 
@@ -105,14 +109,14 @@ landlordは「貸している人」に限定され、ownerは単に「持って�
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant/)：借り手、賃借人
-- [lease](/word/lease/)：賃貸契約
+- [tenant](/tenant)：借り手、賃借人
+- [lease](/lease)：賃貸契約
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent/)：家賃、賃貸する
-- [property](/word/property/)：不動産、財産
+- [rent](/rent)：家賃、賃貸する
+- [property](/property)：不動産、財産
 
-<!-- cvid: aid15_bid28 -->
+<!-- cvid: aid15_bid47 -->

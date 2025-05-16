@@ -81,15 +81,19 @@ TOEICでは職務経験や業務上の体験について問う場面でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは職務経験や業務上の体験について問う場面でよく登
 ## 🤔  undergo との違いは？
 
 - **experience**：自分が体験し、そこから知識や感情を得ることに重点がある
-- **[undergo](/word/undergo/)**：困難や変化などを「受ける」「経験する」ことに重点がある
+- **[undergo](/undergo)**：困難や変化などを「受ける」「経験する」ことに重点がある
 
 experienceは主観的な体験や学びに、undergoは外的な出来事やプロセスに使われます。
 
@@ -105,14 +109,14 @@ experienceは主観的な体験や学びに、undergoは外的な出来事やプ
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/word/knowledge/)：知識
-- [experiment](/word/experiment/)：実験、試み
+- [knowledge](/knowledge)：知識
+- [experiment](/experiment)：実験、試み
 
 ---
 
 ## 📖 できればこれも
 
-- [skill](/word/skill/)：技能、スキル
-- [practice](/word/practice/)：練習、実践
+- [skill](/skill)：技能、スキル
+- [practice](/practice)：練習、実践
 
-<!-- cvid: aid15_bid29 -->
+<!-- cvid: aid16_bid21 -->

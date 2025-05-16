@@ -81,15 +81,19 @@ TOEICでは「会社のオフィス」「事務所」などの意味で頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「会社のオフィス」「事務所」などの意味で頻出し
 ## 🤔  workplace との違いは？
 
 - **office**：主に事務作業をする部屋や建物、会社の事務所を指す
-- **[workplace](/word/workplace/)**：働く場所全般（工場や現場も含む）
+- **[workplace](/workplace)**：働く場所全般（工場や現場も含む）
 
 officeは「事務所」や「オフィスビル」など、デスクワーク中心の場所を指しますが、workplaceは工場や現場なども含めた「職場」全体を意味します。
 
@@ -105,14 +109,14 @@ officeは「事務所」や「オフィスビル」など、デスクワーク�
 
 ## 🧩 あわせて覚えたい
 
-- [department](/word/department/)：部門、部署
-- [branch](/word/branch/)：支店、支社
+- [department](/department)：部門、部署
+- [branch](/branch)：支店、支社
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議
-- [desk](/word/desk/)：机
+- [meeting](/meeting)：会議
+- [desk](/desk)：机
 
-<!-- cvid: aid30_bid21 -->
+<!-- cvid: aid17_bid49 -->

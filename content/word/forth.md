@@ -77,15 +77,19 @@ TOEICでは会話や説明文の中で「from this day forth」などの表現�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文の中で「from this day forth」などの表現�
 ## 🤔  forward との違いは？
 
 - **forth**：ややフォーマルで「前方へ」「外へ」「以降」といった意味。書き言葉や公式な場面で使われやすい。
-- **[forward](/word/forward/)**：より一般的で「前へ」「進んで」といった意味。日常会話やビジネスでも幅広く使われる。
+- **[forward](/forward)**：より一般的で「前へ」「進んで」といった意味。日常会話やビジネスでも幅広く使われる。
 
 「forth」は書き言葉や決まり文句で使われやすく、「forward」は動作や方向を強調したいときに使われます。
 
@@ -101,14 +105,14 @@ TOEICでは会話や説明文の中で「from this day forth」などの表現�
 
 ## 🧩 あわせて覚えたい
 
-- [onward](/word/onward/)：さらに先へ、前進して
-- [backward](/word/backward/)：後ろへ、逆に
+- [onward](/onward)：さらに先へ、前進して
+- [backward](/backward)：後ろへ、逆に
 
 ---
 
 ## 📖 できればこれも
 
-- [hence](/word/hence/)：それゆえに、したがって
-- [therefore](/word/therefore/)：それゆえ、したがって
+- [hence](/hence)：それゆえに、したがって
+- [therefore](/therefore)：それゆえ、したがって
 
-<!-- cvid: aid35_bid01 -->
+<!-- cvid: aid43_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは会議やイベントの案内、アナウンスで「refreshments wi
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの案内、アナウンスで「refreshments wi
 ## 🤔  snack との違いは？
 
 - **refreshment**：会議やイベントなどで提供される軽食や飲み物、または気分転換そのものも指すフォーマルな表現。
-- **[snack](/word/snack/)**：日常的に食べるおやつや間食を指し、カジュアルなニュアンス。
+- **[snack](/snack)**：日常的に食べるおやつや間食を指し、カジュアルなニュアンス。
 
 refreshmentはフォーマルな場や案内文で使われ、snackは日常的な軽食やおやつに使われます。
 
@@ -105,14 +109,14 @@ refreshmentはフォーマルな場や案内文で使われ、snackは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [beverage](/word/beverage/)：飲み物
-- [meal](/word/meal/)：食事
+- [beverage](/beverage)：飲み物
+- [meal](/meal)：食事
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break/)：休憩
-- [serve](/word/serve/)：提供する
+- [break](/break)：休憩
+- [serve](/serve)：提供する
 
-<!-- cvid: aid16_bid01 -->
+<!-- cvid: aid17_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは、エネルギーや環境、科学技術に関する長文や記事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、エネルギーや環境、科学技術に関する長文や記事
 ## 🤔  atomic との違いは？
 
 - **nuclear**：核（原子核）や原子力、核兵器など「核」に直接関係することを表す。
-- **[atomic](/word/atomic/)**：原子そのものや原子レベルの現象に関することを表す。
+- **[atomic](/atomic)**：原子そのものや原子レベルの現象に関することを表す。
 
 nuclearは「核エネルギー」や「核兵器」など、より大きなスケールや応用面で使われ、atomicは「原子構造」や「原子時計」など科学的・物理的な文脈で使われます。
 
@@ -105,14 +109,14 @@ nuclearは「核エネルギー」や「核兵器」など、より大きなス�
 
 ## 🧩 あわせて覚えたい
 
-- [radiation](/word/radiation/)：放射線、放射能
-- [reactor](/word/reactor/)：原子炉
+- [radiation](/radiation)：放射線、放射能
+- [reactor](/reactor)：原子炉
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical/)：化学の、化学物質
-- [energy](/word/energy/)：エネルギー
+- [chemical](/chemical)：化学の、化学物質
+- [energy](/energy)：エネルギー
 
-<!-- cvid: aid29_bid04 -->
+<!-- cvid: aid22_bid44 -->

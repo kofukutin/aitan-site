@@ -88,8 +88,12 @@ TOEICでは、ビジネス文書やメール、申込書などで「所属」や
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、申込書などで「所属」や
 ## 🤔  association との違いは？
 
 - **affiliation**：組織や団体への「所属」や「提携」という公式な関係を強調する語。
-- **[association](/word/association/)**：団体そのものや「協会」、または人や物の「連想・関係」も広く表す語。
+- **[association](/association)**：団体そのものや「協会」、または人や物の「連想・関係」も広く表す語。
 
 affiliationは「どこに属しているか」という立場やつながりを示すのに使い、associationは団体名や「関係性」全般を幅広く指します。
 
@@ -105,14 +109,14 @@ affiliationは「どこに属しているか」という立場やつながりを
 
 ## 🧩 あわせて覚えたい
 
-- [membership](/word/membership/)：会員資格、会員であること
-- [partnership](/word/partnership/)：提携、協力関係
+- [membership](/membership)：会員資格、会員であること
+- [partnership](/partnership)：提携、協力関係
 
 ---
 
 ## 📖 できればこれも
 
-- [authorization](/word/authorization/)：許可、認可
-- [collaboration](/word/collaboration/)：協力、共同作業
+- [authorization](/authorization)：許可、認可
+- [collaboration](/collaboration)：協力、共同作業
 
-<!-- cvid: aid47_bid15 -->
+<!-- cvid: aid47_bid18 -->

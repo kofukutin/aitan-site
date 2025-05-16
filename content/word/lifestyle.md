@@ -81,15 +81,19 @@ TOEICでは健康や働き方、商品紹介などの長文で「lifestyle」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や働き方、商品紹介などの長文で「lifestyle」が
 ## 🤔  habit との違いは？
 
 - **lifestyle**：生活全体の様式や価値観、行動パターン
-- **[habit](/word/habit/)**：個々の繰り返される習慣や癖
+- **[habit](/habit)**：個々の繰り返される習慣や癖
 
 「lifestyle」は人生全体の過ごし方や価値観を含みますが、「habit」は特定の行動や癖を指します。
 
@@ -105,14 +109,14 @@ TOEICでは健康や働き方、商品紹介などの長文で「lifestyle」が
 
 ## 🧩 あわせて覚えたい
 
-- [routine](/word/routine/)：決まった手順や日課
-- [custom](/word/custom/)：社会や文化の慣習
+- [routine](/routine)：決まった手順や日課
+- [custom](/custom)：社会や文化の慣習
 
 ---
 
 ## 📖 できればこれも
 
-- [diet](/word/diet/)：食生活、食事
-- [activity](/word/activity/)：活動、行動
+- [diet](/diet)：食生活、食事
+- [activity](/activity)：活動、行動
 
-<!-- cvid: aid05_bid09 -->
+<!-- cvid: aid15_bid03 -->

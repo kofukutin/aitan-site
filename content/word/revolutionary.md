@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「画期的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid13" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid13" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「画期的
 ## 🤔  innovative との違いは？
 
 - **revolutionary**：従来を根本から覆すほどの「革命的な」変化や新しさを強調
-- **[innovative](/word/innovative/)**：新しいアイデアや工夫がある「革新的な」状態を指す
+- **[innovative](/innovative)**：新しいアイデアや工夫がある「革新的な」状態を指す
 
 「revolutionary」は変化の大きさや衝撃度が強く、「innovative」は新規性や独自性を重視します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「画期的
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/word/radical/)：急進的な、徹底的な
-- [conservative](/word/conservative/)：保守的な
+- [radical](/radical)：急進的な、徹底的な
+- [conservative](/conservative)：保守的な
 
 ---
 
 ## 📖 できればこれも
 
-- [transformative](/word/transformative/)：変革をもたらす
-- [groundbreaking](/word/groundbreaking/)：画期的な
+- [transformative](/transformative)：変革をもたらす
+- [groundbreaking](/groundbreaking)：画期的な
 
-<!-- cvid: aid35_bid08 -->
+<!-- cvid: aid18_bid13 -->

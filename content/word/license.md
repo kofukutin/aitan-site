@@ -81,15 +81,19 @@ TOEICでは、契約書や案内文、ビジネス文書の中で「license」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や案内文、ビジネス文書の中で「license」�
 ## 🤔  permit との違いは？
 
 - **license**：公式な許可証や免許証を指し、長期間有効な場合が多い
-- **[permit](/word/permit/)**：特定の目的や期間に限定した許可証を指すことが多い
+- **[permit](/permit)**：特定の目的や期間に限定した許可証を指すことが多い
 
 licenseは運転免許や営業許可など広範な活動を認める証明書、permitは一時的・限定的な許可証に使われることが多いです。
 
@@ -105,14 +109,14 @@ licenseは運転免許や営業許可など広範な活動を認める証明書�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate/)：証明書
-- [authorization](/word/authorization/)：認可、権限付与
+- [certificate](/certificate)：証明書
+- [authorization](/authorization)：認可、権限付与
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、規定
-- [contract](/word/contract/)：契約
+- [policy](/policy)：方針、規定
+- [contract](/contract)：契約
 
-<!-- cvid: aid06_bid13 -->
+<!-- cvid: aid14_bid17 -->

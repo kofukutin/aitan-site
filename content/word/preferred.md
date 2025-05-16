@@ -81,15 +81,19 @@ TOEICでは求人広告や案内文などで「preferred」の形容詞用法が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や案内文などで「preferred」の形容詞用法が
 ## 🤔  favorite との違いは？
 
 - **preferred**：他と比べてより好ましい、優先される（フォーマル・ビジネス向き）
-- **[favorite](/word/favorite/)**：一番好きな、お気に入り（カジュアル・個人的な好み）
+- **[favorite](/favorite)**：一番好きな、お気に入り（カジュアル・個人的な好み）
 
 「preferred」は選択肢の中で優先されるものを指し、ビジネスや公式な場面で使われます。「favorite」は個人的な「一番のお気に入り」を表し、よりカジュアルです。
 
@@ -105,14 +109,14 @@ TOEICでは求人広告や案内文などで「preferred」の形容詞用法が
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [required](/word/required/)：必須の、必要な
+- [optional](/optional)：任意の、選択できる
+- [required](/required)：必須の、必要な
 
 ---
 
 ## 📖 できればこれも
 
-- [recommended](/word/recommended/)：推奨される
-- [suitable](/word/suitable/)：適している
+- [recommended](/recommended)：推奨される
+- [suitable](/suitable)：適している
 
-<!-- cvid: aid05_bid20 -->
+<!-- cvid: aid12_bid29 -->

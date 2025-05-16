@@ -81,15 +81,19 @@ The hotel is located on a peninsula with ocean views.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hotel is located on a peninsula with ocean views.
 ## 🤔  island との違いは？
 
 - **peninsula**：三方を海に囲まれ、陸地とつながっている「半島」
-- **[island](/word/island/)**：四方を水に囲まれた「島」
+- **[island](/island)**：四方を水に囲まれた「島」
 
 peninsulaは陸地とつながっている点がislandと大きく異なります。islandは完全に水に囲まれています。
 
@@ -105,14 +109,14 @@ peninsulaは陸地とつながっている点がislandと大きく異なりま�
 
 ## 🧩 あわせて覚えたい
 
-- [cape](/word/cape/)：岬
-- [mainland](/word/mainland/)：本土
+- [cape](/cape)：岬
+- [mainland](/mainland)：本土
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/word/coast/)：海岸
-- [bay](/word/bay/)：湾
+- [coast](/coast)：海岸
+- [bay](/bay)：湾
 
-<!-- cvid: aid04_bid44 -->
+<!-- cvid: aid43_bid46 -->

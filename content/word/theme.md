@@ -81,15 +81,19 @@ TOEICでは、記事やメール、案内文などの長文で「主題」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やメール、案内文などの長文で「主題」や「
 ## 🤔  topic との違いは？
 
 - **theme**：全体を通して一貫する「主題」や「中心的な考え」
-- **[topic](/word/topic/)**：会話や文章の「話題」「トピック」
+- **[topic](/topic)**：会話や文章の「話題」「トピック」
 
 themeは深い意味や全体の中心となる考えを指し、topicはその場その場の具体的な話題を指します。
 
@@ -105,14 +109,14 @@ themeは深い意味や全体の中心となる考えを指し、topicはその�
 
 ## 🧩 あわせて覚えたい
 
-- [subject](/word/subject/)：科目、主題
-- [motif](/word/motif/)：（芸術作品などの）モチーフ、主題
+- [subject](/subject)：科目、主題
+- [motif](/motif)：（芸術作品などの）モチーフ、主題
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue/)：問題、論点
-- [concept](/word/concept/)：概念、考え
+- [issue](/issue)：問題、論点
+- [concept](/concept)：概念、考え
 
-<!-- cvid: aid25_bid23 -->
+<!-- cvid: aid20_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは「visiting professor」や「visiting team」など、肩書きや�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「visiting professor」や「visiting team」など、肩書きや�
 ## 🤔  visit との違いは？
 
 - **visiting**：一時的に訪問している、または来訪中の状態を表す形容詞
-- **[visit](/word/visit/)**：訪れるという動作や行為そのもの（動詞・名詞）
+- **[visit](/visit)**：訪れるという動作や行為そのもの（動詞・名詞）
 
 「visiting」は状態や役割を表す形容詞、「visit」は行為や出来事そのものを指します。
 
@@ -105,14 +109,14 @@ TOEICでは「visiting professor」や「visiting team」など、肩書きや�
 
 ## 🧩 あわせて覚えたい
 
-- [guest](/word/guest/)：客、ゲスト
-- [stay](/word/stay/)：滞在する、滞在
+- [guest](/guest)：客、ゲスト
+- [stay](/stay)：滞在する、滞在
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議、打ち合わせ
-- [invitation](/word/invitation/)：招待、招待状
+- [meeting](/meeting)：会議、打ち合わせ
+- [invitation](/invitation)：招待、招待状
 
-<!-- cvid: aid34_bid07 -->
+<!-- cvid: aid28_bid11 -->

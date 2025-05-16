@@ -88,8 +88,12 @@ TOEICでは医療やビジネスの文脈で「介入」「干渉」といった
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid06_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療やビジネスの文脈で「介入」「干渉」といった
 ## 🤔  interference との違いは？
 
 - **intervention**：問題解決や改善のために積極的に介入すること
-- **[interference](/word/interference/)**：不要または迷惑な干渉、妨害
+- **[interference](/interference)**：不要または迷惑な干渉、妨害
 
 interventionは前向きな目的での介入を指し、interferenceは否定的な意味合いで「邪魔する」「妨げる」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ interventionは前向きな目的での介入を指し、interferenceは否定�
 
 ## 🧩 あわせて覚えたい
 
-- [mediation](/word/mediation/)：仲裁、調停
-- [involvement](/word/involvement/)：関与、参加
+- [mediation](/mediation)：仲裁、調停
+- [involvement](/involvement)：関与、参加
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure/)：手順、手続き
-- [treatment](/word/treatment/)：治療、処置
+- [procedure](/procedure)：手順、手続き
+- [treatment](/treatment)：治療、処置
 
-<!-- cvid: aid06_bid08 -->
+<!-- cvid: aid06_bid27 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sailing】の意味・使い方・例文 ― boatingとの違い【TOEIC英単語】"
 description: "sailingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでboatingとの違いもわかりやすく学べます。"
 word: "sailing"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、ヨットやボートに乗ってい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、ヨットやボートに乗ってい
 ## 🤔  boating との違いは？
 
 - **sailing**：帆を使って進むヨットやセーリングのこと
-- **[boating](/word/boating/)**：ボート全般での水上活動（手漕ぎ・モーター含む）
+- **[boating](/boating)**：ボート全般での水上活動（手漕ぎ・モーター含む）
 
 sailingは「帆」を使う点が特徴で、boatingは帆の有無を問わず幅広い水上活動を指します。
 
@@ -105,14 +109,14 @@ sailingは「帆」を使う点が特徴で、boatingは帆の有無を問わず
 
 ## 🧩 あわせて覚えたい
 
-- [cruise](/word/cruise/)：船旅、クルーズ
-- [voyage](/word/voyage/)：長い航海、旅
+- [cruise](/cruise)：船旅、クルーズ
+- [voyage](/voyage)：長い航海、旅
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/word/swimming/)：水泳
-- [fishing](/word/fishing/)：釣り
+- [swimming](/swimming)：水泳
+- [fishing](/fishing)：釣り
 
-<!-- cvid: aid22_bid45 -->
+<!-- cvid: aid36_bid46 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sugar】の意味・使い方・例文 ― sweetenerとの違い【TOEIC英単語】"
 description: "sugarの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsweetenerとの違いもわかりやすく学べます。"
 word: "sugar"
@@ -82,15 +82,19 @@ TOEICでは主に写真描写や簡単な会話で、飲み物や食品に関連
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid40_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に写真描写や簡単な会話で、飲み物や食品に関連
 ## 🤔  sweetener との違いは？
 
 - **sugar**：主にサトウキビやテンサイから作られる天然の砂糖や糖を指す。
-- **[sweetener](/word/sweetener/)**：甘味料全般（人工・天然問わず）を指す。
+- **[sweetener](/sweetener)**：甘味料全般（人工・天然問わず）を指す。
 
 sugarは「砂糖」そのもの、sweetenerは「甘くするもの」全般を指し、人工甘味料も含みます。
 
@@ -106,13 +110,13 @@ sugarは「砂糖」そのもの、sweetenerは「甘くするもの」全般を
 
 ## 🧩 あわせて覚えたい
 
-- [salt](/word/salt/)：塩
-- [carbohydrate](/word/carbohydrate/)：炭水化物
+- [salt](/salt)：塩
+- [carbohydrate](/carbohydrate)：炭水化物
 
 ---
 
 ## 📖 できればこれも
 
-- [flour](/word/flour/)：小麦粉
+- [flour](/flour)：小麦粉
 ---
-<!-- cvid: aid28_bid26 -->
+<!-- cvid: aid40_bid02 -->

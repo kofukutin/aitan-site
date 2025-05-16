@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、物の特徴や状態を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、物の特徴や状態を説明する際
 ## 🤔  dense との違いは？
 
 - **thick**：物理的な厚みや幅、液体・気体の濃さを表す
-- **[dense](/word/dense/)**：密度が高い、ぎっしり詰まっていることを表す
+- **[dense](/dense)**：密度が高い、ぎっしり詰まっていることを表す
 
 thickは「厚さ」や「濃さ」に重点があり、denseは「中身が詰まっている」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ thickは「厚さ」や「濃さ」に重点があり、denseは「中身が詰�
 
 ## 🧩 あわせて覚えたい
 
-- [thin](/word/thin/)：薄い、細い
-- [broad](/word/broad/)：広い、幅広い
+- [thin](/thin)：薄い、細い
+- [broad](/broad)：広い、幅広い
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/word/wide/)：広い
-- [heavy](/word/heavy/)：重い
+- [wide](/wide)：広い
+- [heavy](/heavy)：重い
 
-<!-- cvid: aid24_bid13 -->
+<!-- cvid: aid28_bid31 -->

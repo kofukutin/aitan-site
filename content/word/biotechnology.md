@@ -81,15 +81,19 @@ TOEICでは科学技術や産業の話題を扱う長文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid06" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid06" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術や産業の話題を扱う長文で登場することが
 ## 🤔  genetic engineering との違いは？
 
 - **biotechnology**：生物学の知識や技術を幅広く応用する科学技術分野
-- **[genetic engineering](/word/genetic_engineering/)**：遺伝子を直接操作・改変する技術
+- **[genetic engineering](/genetic_engineering)**：遺伝子を直接操作・改変する技術
 
 biotechnologyは幅広い応用分野を含みますが、genetic engineeringは遺伝子操作に特化しています。
 
@@ -105,14 +109,14 @@ biotechnologyは幅広い応用分野を含みますが、genetic engineeringは
 
 ## 🧩 あわせて覚えたい
 
-- [microbiology](/word/microbiology/)：微生物学
-- [innovation](/word/innovation/)：革新、イノベーション
+- [microbiology](/microbiology)：微生物学
+- [innovation](/innovation)：革新、イノベーション
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/word/laboratory/)：実験室
-- [research](/word/research/)：研究
+- [laboratory](/laboratory)：実験室
+- [research](/research)：研究
 
-<!-- cvid: aid32_bid07 -->
+<!-- cvid: aid31_bid06 -->

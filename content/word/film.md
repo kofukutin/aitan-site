@@ -82,15 +82,19 @@ TOEICでは主にPart 7の長文や広告、案内文などで「映画」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 7の長文や広告、案内文などで「映画」や「
 ## 🤔  movie との違いは？
 
 - **film**：イギリス英語でよく使われ、ややフォーマルな響きもある「映画」。
-- **[movie](/word/movie/)**：アメリカ英語で一般的な「映画」。
+- **[movie](/movie)**：アメリカ英語で一般的な「映画」。
 
 filmはイギリス英語中心、movieはアメリカ英語中心で使われます。意味はほぼ同じですが、地域や場面によって使い分けられます。
 
@@ -106,14 +110,14 @@ filmはイギリス英語中心、movieはアメリカ英語中心で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [documentary](/word/documentary/)：ドキュメンタリー（記録映画）
-- [cinema](/word/cinema/)：映画館、映画（イギリス英語）
+- [documentary](/documentary)：ドキュメンタリー（記録映画）
+- [cinema](/cinema)：映画館、映画（イギリス英語）
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/word/screen/)：スクリーン、画面
-- [camera](/word/camera/)：カメラ
+- [screen](/screen)：スクリーン、画面
+- [camera](/camera)：カメラ
 
-<!-- cvid: aid00_bid18 -->
+<!-- cvid: aid10_bid07 -->

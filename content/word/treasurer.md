@@ -81,15 +81,19 @@ TOEICでは会社や団体の役職名として、Eメールや案内文、議�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社や団体の役職名として、Eメールや案内文、議�
 ## 🤔  accountant との違いは？
 
 - **treasurer**：組織や団体のお金全体の管理・運用を担当する役職
-- **[accountant](/word/accountant/)**：帳簿付けや会計処理など、会計業務全般を専門的に行う人
+- **[accountant](/accountant)**：帳簿付けや会計処理など、会計業務全般を専門的に行う人
 
 treasurerは組織の財務責任者として意思決定や管理を担い、accountantは日々の会計処理や記録を専門的に行う点が異なります。
 
@@ -105,14 +109,14 @@ treasurerは組織の財務責任者として意思決定や管理を担い、ac
 
 ## 🧩 あわせて覚えたい
 
-- [cashier](/word/cashier/)：レジ係、出納係
-- [auditor](/word/auditor/)：監査人、会計監査人
+- [cashier](/cashier)：レジ係、出納係
+- [auditor](/auditor)：監査人、会計監査人
 
 ---
 
 ## 📖 できればこれも
 
-- [secretary](/word/secretary/)：秘書、書記
-- [manager](/word/manager/)：管理者、マネージャー
+- [secretary](/secretary)：秘書、書記
+- [manager](/manager)：管理者、マネージャー
 
-<!-- cvid: aid10_bid12 -->
+<!-- cvid: aid31_bid31 -->

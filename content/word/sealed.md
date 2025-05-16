@@ -81,15 +81,19 @@ TOEICでは、書類やパッケージの状態を説明する文脈で「sealed
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類やパッケージの状態を説明する文脈で「sealed
 ## 🤔  closed との違いは？
 
 - **sealed**：密封されていて、簡単には開けられない状態
-- **[closed](/word/closed/)**：単に「閉じている」状態で、密封や封印のニュアンスはない
+- **[closed](/closed)**：単に「閉じている」状態で、密封や封印のニュアンスはない
 
 「sealed」は外部からの侵入や開封を防ぐためにしっかり封がされている場合に使い、「closed」はドアや店などが「閉まっている」だけの状態を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、書類やパッケージの状態を説明する文脈で「sealed
 
 ## 🧩 あわせて覚えたい
 
-- [locked](/word/locked/)：鍵がかかっている
-- [secure](/word/secure/)：安全な、しっかり固定された
+- [locked](/locked)：鍵がかかっている
+- [secure](/secure)：安全な、しっかり固定された
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/word/attached/)：添付された
-- [labeled](/word/labeled/)：ラベルが貼られた
+- [attached](/attached)：添付された
+- [labeled](/labeled)：ラベルが貼られた
 
-<!-- cvid: aid05_bid44 -->
+<!-- cvid: aid40_bid10 -->

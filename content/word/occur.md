@@ -81,15 +81,19 @@ TOEICでは主にPart 5の文法・語彙問題で「発生する」「起こる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の文法・語彙問題で「発生する」「起こる
 ## 🤔  happen との違いは？
 
 - **occur**：ややフォーマルで、出来事や問題が「発生する」「起こる」ときに使う
-- **[happen](/word/happen/)**：カジュアルで、日常的な「起こる」「たまたま起きる」出来事に使う
+- **[happen](/happen)**：カジュアルで、日常的な「起こる」「たまたま起きる」出来事に使う
 
 occurはビジネスや書き言葉で使われやすく、happenは会話やカジュアルな場面でよく使われます。
 
@@ -105,14 +109,14 @@ occurはビジネスや書き言葉で使われやすく、happenは会話やカ
 
 ## 🧩 あわせて覚えたい
 
-- [arise](/word/arise/)：（問題・困難などが）生じる
-- [take place](/word/take_place/)：（予定されたことが）行われる、起こる
+- [arise](/arise)：（問題・困難などが）生じる
+- [take place](/take_place)：（予定されたことが）行われる、起こる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect/)：影響を与える
-- [prevent](/word/prevent/)：防ぐ、妨げる
+- [affect](/affect)：影響を与える
+- [prevent](/prevent)：防ぐ、妨げる
 
-<!-- cvid: aid10_bid41 -->
+<!-- cvid: aid33_bid07 -->

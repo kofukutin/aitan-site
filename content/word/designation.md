@@ -81,15 +81,19 @@ TOEICでは主にビジネスや組織内の役職・任命に関する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid02" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid02" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや組織内の役職・任命に関する文脈で
 ## 🤔  appointment との違いは？
 
 - **designation**：公式な「指定」や「肩書き」を強調し、役職名や名称そのものを指すことも多い
-- **[appointment](/word/appointment/)**：「任命」や「約束」の意味で、役職に就ける行為自体を指す
+- **[appointment](/appointment)**：「任命」や「約束」の意味で、役職に就ける行為自体を指す
 
 designationは「肩書き」や「名称」に焦点があり、appointmentは「任命する行為」や「面談の約束」など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ designationは「肩書き」や「名称」に焦点があり、appointmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [nomination](/word/nomination/)：推薦、指名
-- [title](/word/title/)：肩書き、称号
+- [nomination](/nomination)：推薦、指名
+- [title](/title)：肩書き、称号
 
 ---
 
 ## 📖 できればこれも
 
-- [assignment](/word/assignment/)：任務、割り当て
-- [position](/word/position/)：職、地位
+- [assignment](/assignment)：任務、割り当て
+- [position](/position)：職、地位
 
-<!-- cvid: aid02_bid36 -->
+<!-- cvid: aid07_bid02 -->

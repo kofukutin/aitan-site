@@ -77,15 +77,19 @@ TOEICでは、代名詞や形容詞の使い分け問題で頻出です。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、代名詞や形容詞の使い分け問題で頻出です。特に
 ## 🤔  other との違いは？
 
 - **another**：同じ種類の中から「もう一つの」「別の」という意味で、単数名詞に使う
-- **[other](/word/other/)**：他の（複数・単数どちらにも使えるが、限定的な意味や特定のものを指す場合が多い）
+- **[other](/other)**：他の（複数・単数どちらにも使えるが、限定的な意味や特定のものを指す場合が多い）
 
 「another」は追加や別の一つを指し、「other」はそれ以外のもの全般や残りを指すときに使います。
 
@@ -101,14 +105,14 @@ TOEICでは、代名詞や形容詞の使い分け問題で頻出です。特に
 
 ## 🧩 あわせて覚えたい
 
-- [each](/word/each/)：それぞれ
-- [either](/word/either/)：どちらか一方
+- [each](/each)：それぞれ
+- [either](/either)：どちらか一方
 
 ---
 
 ## 📖 できればこれも
 
-- [others](/word/others/)：他の人・もの（複数形）
-- [the_other](/word/the_other/)：（2つのうち）もう一方
+- [others](/others)：他の人・もの（複数形）
+- [the_other](/the_other)：（2つのうち）もう一方
 
-<!-- cvid: aid19_bid21 -->
+<!-- cvid: aid44_bid27 -->

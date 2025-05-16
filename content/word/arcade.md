@@ -81,15 +81,19 @@ TOEICでは観光地やショッピングに関する長文、案内文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光地やショッピングに関する長文、案内文などで
 ## 🤔  mall との違いは？
 
 - **arcade**：屋根付きの通路や商店街、またはゲームセンターを指す
-- **[mall](/word/mall/)**：大規模なショッピングセンターやショッピングモール
+- **[mall](/mall)**：大規模なショッピングセンターやショッピングモール
 
 arcadeは比較的小規模で伝統的な雰囲気のある通路や商店街、またはゲームセンターを指し、mallは現代的で大規模なショッピング施設を指します。
 
@@ -105,14 +109,14 @@ arcadeは比較的小規模で伝統的な雰囲気のある通路や商店街�
 
 ## 🧩 あわせて覚えたい
 
-- [gallery](/word/gallery/)：ギャラリー、展示場、または屋根付きの通路
-- [corridor](/word/corridor/)：廊下、通路
+- [gallery](/gallery)：ギャラリー、展示場、または屋根付きの通路
+- [corridor](/corridor)：廊下、通路
 
 ---
 
 ## 📖 できればこれも
 
-- [plaza](/word/plaza/)：広場、ショッピングプラザ
-- [venue](/word/venue/)：会場、開催地
+- [plaza](/plaza)：広場、ショッピングプラザ
+- [venue](/venue)：会場、開催地
 
-<!-- cvid: aid48_bid45 -->
+<!-- cvid: aid44_bid00 -->

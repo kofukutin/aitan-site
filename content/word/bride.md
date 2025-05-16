@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bride】の意味・使い方・例文 ― bridegroomとの違い【TOEIC英単語】"
 description: "brideの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbridegroomとの違いもわかりやすく学べます。"
 word: "bride"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、結婚式の場面や人の説明と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、結婚式の場面や人の説明と
 ## 🤔  bridegroom との違いは？
 
 - **bride**：結婚式での花嫁、新婦を指す
-- **[bridegroom](/word/bridegroom/)**：結婚式での花婿、新郎を指す
+- **[bridegroom](/bridegroom)**：結婚式での花婿、新郎を指す
 
 brideは女性、bridegroomは男性を指し、どちらも結婚式の主役ですが性別が異なります。
 
@@ -105,14 +109,14 @@ brideは女性、bridegroomは男性を指し、どちらも結婚式の主役�
 
 ## 🧩 あわせて覚えたい
 
-- [wedding](/word/wedding/)：結婚式
-- [fiancee](/word/fiancee/)：婚約中の女性
+- [wedding](/wedding)：結婚式
+- [fiancee](/fiancee)：婚約中の女性
 
 ---
 
 ## 📖 できればこれも
 
-- [groom](/word/groom/)：花婿、新郎
-- [marriage](/word/marriage/)：結婚（状態・制度）
+- [groom](/groom)：花婿、新郎
+- [marriage](/marriage)：結婚（状態・制度）
 
-<!-- cvid: aid31_bid05 -->
+<!-- cvid: aid04_bid03 -->

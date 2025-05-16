@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス文脈で「integrated system」「integrated sol
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス文脈で「integrated system」「integrated sol
 ## 🤔  combined との違いは？
 
 - **integrated**：複数の要素が一体化して機能していることを強調
-- **[combined](/word/combined/)**：単に複数のものを合わせた状態を表す
+- **[combined](/combined)**：単に複数のものを合わせた状態を表す
 
 「integrated」は「一つのシステムや仕組みとしてまとまっている」ニュアンスが強く、単なる「合わせる」よりも「機能的に一体化している」点がポイントです。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネス文脈で「integrated system」「integrated sol
 
 ## 🧩 あわせて覚えたい
 
-- [unified](/word/unified/)：統一された
-- [separate](/word/separate/)：分離した
+- [unified](/unified)：統一された
+- [separate](/separate)：分離した
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [automated](/word/automated/)：自動化された
+- [efficient](/efficient)：効率的な
+- [automated](/automated)：自動化された
 
-<!-- cvid: aid36_bid03 -->
+<!-- cvid: aid12_bid38 -->

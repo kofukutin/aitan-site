@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【ice】の意味・使い方・例文 ― snowとの違い【TOEIC英単語】"
 description: "iceの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsnowとの違いもわかりやすく学べます。"
 word: "ice"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、飲み物や冬の風景などの場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、飲み物や冬の風景などの場面
 ## 🤔  snow との違いは？
 
 - **ice**：水が凍ってできた固体の「氷」
-- **[snow](/word/snow/)**：空から降る「雪」
+- **[snow](/snow)**：空から降る「雪」
 
 iceは水が凍ってできる固体全般を指し、snowは空から降る白い雪を指します。氷は固まった水、雪は空から降る結晶です。
 
@@ -105,14 +109,14 @@ iceは水が凍ってできる固体全般を指し、snowは空から降る白�
 
 ## 🧩 あわせて覚えたい
 
-- [water](/word/water/)：水
-- [frost](/word/frost/)：霜
+- [water](/water)：水
+- [frost](/frost)：霜
 
 ---
 
 ## 📖 できればこれも
 
-- [cold](/word/cold/)：冷たい、寒い
-- [glass](/word/glass/)：ガラス、コップ
+- [cold](/cold)：冷たい、寒い
+- [glass](/glass)：ガラス、コップ
 
-<!-- cvid: aid06_bid34 -->
+<!-- cvid: aid37_bid27 -->

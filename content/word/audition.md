@@ -81,15 +81,19 @@ TOEICでは、エンターテインメント業界や採用に関する会話で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、エンターテインメント業界や採用に関する会話で
 ## 🤔  interview との違いは？
 
 - **audition**：俳優や歌手などが実技を披露して選考される場
-- **[interview](/word/interview/)**：一般的な仕事や学校などの面接
+- **[interview](/interview)**：一般的な仕事や学校などの面接
 
 auditionはパフォーマンス能力を見せる選考、interviewは会話や質疑応答による面接という違いがあります。
 
@@ -105,14 +109,14 @@ auditionはパフォーマンス能力を見せる選考、interviewは会話や
 
 ## 🧩 あわせて覚えたい
 
-- [rehearsal](/word/rehearsal/)：リハーサル、本番前の練習
-- [performance](/word/performance/)：公演、演技、パフォーマンス
+- [rehearsal](/rehearsal)：リハーサル、本番前の練習
+- [performance](/performance)：公演、演技、パフォーマンス
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [talent](/word/talent/)：才能、才能ある人
+- [candidate](/candidate)：候補者
+- [talent](/talent)：才能、才能ある人
 
-<!-- cvid: aid43_bid44 -->
+<!-- cvid: aid26_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や契約書、金融関連の長文で「def
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や契約書、金融関連の長文で「def
 ## 🤔  postponed との違いは？
 
 - **deferred**：主にフォーマルな場面や金融・ビジネスで「計画的に後ろにずらす」ニュアンス
-- **[postponed](/word/postponed/)**：日常的に「予定を後ろにずらす」一般的な表現
+- **[postponed](/postponed)**：日常的に「予定を後ろにずらす」一般的な表現
 
 deferredは計画的・制度的な延期に使われ、postponedは日常的な予定変更に幅広く使われます。
 
@@ -105,14 +109,14 @@ deferredは計画的・制度的な延期に使われ、postponedは日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [delayed](/word/delayed/)：遅れた、遅延した
-- [advance](/word/advance/)：前進、前払い
+- [delayed](/delayed)：遅れた、遅延した
+- [advance](/advance)：前進、前払い
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/word/outstanding/)：未払いの、未処理の
-- [pending](/word/pending/)：未決定の、保留中の
+- [outstanding](/outstanding)：未払いの、未処理の
+- [pending](/pending)：未決定の、保留中の
 
-<!-- cvid: aid18_bid47 -->
+<!-- cvid: aid29_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは「sense of ～」の形や、「意味」「感覚」といった語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「sense of ～」の形や、「意味」「感覚」といった語
 ## 🤔  feeling との違いは？
 
 - **sense**：理性的・客観的な「感覚」や「分別」を表す
-- **[feeling](/word/feeling/)**：主観的・感情的な「気持ち」や「感情」を表す
+- **[feeling](/feeling)**：主観的・感情的な「気持ち」や「感情」を表す
 
 **sense**は論理的な判断や五感など幅広い「感覚」に使い、**feeling**は心の中の感情や気持ちに使います。
 
@@ -105,14 +109,14 @@ TOEICでは「sense of ～」の形や、「意味」「感覚」といった語
 
 ## 🧩 あわせて覚えたい
 
-- [perception](/word/perception/)：知覚、認識
-- [logic](/word/logic/)：論理、道理
+- [perception](/perception)：知覚、認識
+- [logic](/logic)：論理、道理
 
 ---
 
 ## 📖 できればこれも
 
-- [reason](/word/reason/)：理由、理性
-- [notion](/word/notion/)：概念、考え
+- [reason](/reason)：理由、理性
+- [notion](/notion)：概念、考え
 
-<!-- cvid: aid41_bid10 -->
+<!-- cvid: aid02_bid47 -->

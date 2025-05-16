@@ -81,15 +81,19 @@ TOEICでは科学的な説明や製品仕様、または「大勢」「大量」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学的な説明や製品仕様、または「大勢」「大量」
 ## 🤔  weight との違いは？
 
 - **mass**：物体そのものの「質量」や「集団・多数」を指す
-- **[weight](/word/weight/)**：重力による「重さ」を指す
+- **[weight](/weight)**：重力による「重さ」を指す
 
 massは物体の中身そのものの量や集まりを表し、weightは重力の影響を受けた「重さ」を表します。科学では明確に区別されます。
 
@@ -105,14 +109,14 @@ massは物体の中身そのものの量や集まりを表し、weightは重力�
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/word/volume/)：体積
-- [density](/word/density/)：密度
+- [volume](/volume)：体積
+- [density](/density)：密度
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/word/amount/)：量
-- [substance](/word/substance/)：物質
+- [amount](/amount)：量
+- [substance](/substance)：物質
 
-<!-- cvid: aid48_bid06 -->
+<!-- cvid: aid28_bid16 -->

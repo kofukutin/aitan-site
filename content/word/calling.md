@@ -81,15 +81,19 @@ callingはPart 7の長文やスピーチ文で、職業観や人生の目的に�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ callingはPart 7の長文やスピーチ文で、職業観や人生の目的に�
 ## 🤔  vocation との違いは？
 
 - **calling**：使命感や天職、内面的な「呼びかけ」を強調
-- **[vocation](/word/vocation/)**：職業や天職だが、やや堅い表現で資格や職務的側面を強調
+- **[vocation](/vocation)**：職業や天職だが、やや堅い表現で資格や職務的側面を強調
 
 callingは「自分が心からやりたい・やるべきだと感じる仕事」に重点があり、vocationは「専門職や資格を要する職業」として使われることが多いです。
 
@@ -105,14 +109,14 @@ callingは「自分が心からやりたい・やるべきだと感じる仕事�
 
 ## 🧩 あわせて覚えたい
 
-- [profession](/word/profession/)：専門職、職業
-- [mission](/word/mission/)：使命、任務
+- [profession](/profession)：専門職、職業
+- [mission](/mission)：使命、任務
 
 ---
 
 ## 📖 できればこれも
 
-- [career](/word/career/)：経歴、職業
-- [occupation](/word/occupation/)：職業、仕事
+- [career](/career)：経歴、職業
+- [occupation](/occupation)：職業、仕事
 
-<!-- cvid: aid41_bid22 -->
+<!-- cvid: aid05_bid24 -->

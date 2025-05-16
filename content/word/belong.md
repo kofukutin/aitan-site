@@ -81,15 +81,19 @@ TOEICでは、誰のものか・どこに属するかを尋ねる会話や、物
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、誰のものか・どこに属するかを尋ねる会話や、物
 ## 🤔  fit との違いは？
 
 - **belong**：自然に属している、所有や所属の関係を表す
-- **[fit](/word/fit/)**：サイズや条件などに「合う」「適合する」
+- **[fit](/fit)**：サイズや条件などに「合う」「適合する」
 
 belongは「所属・所有」の関係、fitは「形や条件が合う」ことを表し、使い分けが必要です。
 
@@ -105,14 +109,14 @@ belongは「所属・所有」の関係、fitは「形や条件が合う」こ�
 
 ## 🧩 あわせて覚えたい
 
-- [own](/word/own/)：所有する
-- [include](/word/include/)：含む
+- [own](/own)：所有する
+- [include](/include)：含む
 
 ---
 
 ## 📖 できればこれも
 
-- [contain](/word/contain/)：含む、入っている
-- [possess](/word/possess/)：所有する
+- [contain](/contain)：含む、入っている
+- [possess](/possess)：所有する
 
-<!-- cvid: aid40_bid43 -->
+<!-- cvid: aid28_bid39 -->

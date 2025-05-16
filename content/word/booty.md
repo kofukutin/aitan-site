@@ -81,15 +81,19 @@ TOEICでは物語や観光、歴史に関する長文で「booty」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは物語や観光、歴史に関する長文で「booty」が登場す�
 ## 🤔  loot との違いは？
 
 - **booty**：戦争や冒険で得た「戦利品」「お宝」を指し、分け合うイメージが強い。
-- **[loot](/word/loot/)**：略奪や盗みで得た「盗品」「略奪品」を指し、やや否定的なニュアンス。
+- **[loot](/loot)**：略奪や盗みで得た「盗品」「略奪品」を指し、やや否定的なニュアンス。
 
 「booty」は冒険や海賊などの物語でよく使われ、ポジティブな響きもありますが、「loot」は犯罪や混乱時の盗品として使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは物語や観光、歴史に関する長文で「booty」が登場す�
 
 ## 🧩 あわせて覚えたい
 
-- [treasure](/word/treasure/)：宝物、貴重品
-- [reward](/word/reward/)：報酬、褒美
+- [treasure](/treasure)：宝物、貴重品
+- [reward](/reward)：報酬、褒美
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize/)：賞、景品
-- [fortune](/word/fortune/)：財産、運
+- [prize](/prize)：賞、景品
+- [fortune](/fortune)：財産、運
 
-<!-- cvid: aid16_bid31 -->
+<!-- cvid: aid40_bid11 -->

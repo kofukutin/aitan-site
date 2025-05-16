@@ -81,15 +81,19 @@ TOEICでは、形容詞として「選択的な」「えり好みする」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「選択的な」「えり好みする」とい
 ## 🤔  specific との違いは？
 
 - **selective**：選択的な、えり好みする
-- **[specific](/word/specific/)**：具体的な、特定の
+- **[specific](/specific)**：具体的な、特定の
 
 「selective」は「多くの中から選ぶ」「選抜する」ニュアンス、「specific」は「はっきり限定された」「具体的な」という意味で、選ぶ行為そのものよりも対象の明確さに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「選択的な」「えり好みする」とい
 
 ## 🧩 あわせて覚えたい
 
-- [exclusive](/word/exclusive/)：排他的な、限定的な
-- [optional](/word/optional/)：任意の、選択できる
+- [exclusive](/exclusive)：排他的な、限定的な
+- [optional](/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible/)：資格がある、適格な
-- [distinct](/word/distinct/)：はっきり異なる、明確な
+- [eligible](/eligible)：資格がある、適格な
+- [distinct](/distinct)：はっきり異なる、明確な
 
-<!-- cvid: aid07_bid02 -->
+<!-- cvid: aid30_bid40 -->

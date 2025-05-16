@@ -81,15 +81,19 @@ TOEICでは「起源」「原産地」などの意味で、書類や説明文、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「起源」「原産地」などの意味で、書類や説明文、
 ## 🤔  source との違いは？
 
 - **origin**：物事や人の「始まり」「起源」「由来」を指すフォーマルな語。
-- **[source](/word/source/)**：情報や物質などの「供給源」「出どころ」を指し、より広く使われる。
+- **[source](/source)**：情報や物質などの「供給源」「出どころ」を指し、より広く使われる。
 
 originは歴史的・根本的な始まりを強調し、sourceは何かが供給・発生する場所や手段を指します。
 
@@ -105,14 +109,14 @@ originは歴史的・根本的な始まりを強調し、sourceは何かが供�
 
 ## 🧩 あわせて覚えたい
 
-- [cause](/word/cause/)：原因
-- [root](/word/root/)：根源、根本
+- [cause](/cause)：原因
+- [root](/root)：根源、根本
 
 ---
 
 ## 📖 できればこれも
 
-- [purpose](/word/purpose/)：目的
-- [result](/word/result/)：結果
+- [purpose](/purpose)：目的
+- [result](/result)：結果
 
-<!-- cvid: aid42_bid34 -->
+<!-- cvid: aid12_bid18 -->

@@ -81,15 +81,19 @@ TOEICでは会議やインタビューの記録、議事録などの文脈で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やインタビューの記録、議事録などの文脈で登
 ## 🤔  translation との違いは？
 
 - **transcription**：音声や映像などをそのまま文字に書き起こすこと
-- **[translation](/word/translation/)**：ある言語の内容を別の言語に訳すこと
+- **[translation](/translation)**：ある言語の内容を別の言語に訳すこと
 
 transcriptionは「書き起こし」、translationは「翻訳」と、目的や作業内容が異なります。transcriptionは言語を変えずに文字化、translationは言語を変えて意味を伝えます。
 
@@ -105,14 +109,14 @@ transcriptionは「書き起こし」、translationは「翻訳」と、目的�
 
 ## 🧩 あわせて覚えたい
 
-- [transcript](/word/transcript/)：書き起こし文、記録
-- [dictation](/word/dictation/)：聞き取り書き取り、ディクテーション
+- [transcript](/transcript)：書き起こし文、記録
+- [dictation](/dictation)：聞き取り書き取り、ディクテーション
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [interpretation](/word/interpretation/)：通訳、解釈
+- [summary](/summary)：要約
+- [interpretation](/interpretation)：通訳、解釈
 
-<!-- cvid: aid37_bid26 -->
+<!-- cvid: aid19_bid40 -->

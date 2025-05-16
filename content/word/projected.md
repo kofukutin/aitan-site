@@ -81,15 +81,19 @@ TOEICでは、売上や利益、コストなどの「予測値」を示す文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、売上や利益、コストなどの「予測値」を示す文脈
 ## 🤔  estimated との違いは？
 
 - **projected**：計画や根拠ある予測に基づいた「予測された」
-- **[estimated](/word/estimated/)**：おおよその「見積もられた」、ざっくりとした予想
+- **[estimated](/estimated)**：おおよその「見積もられた」、ざっくりとした予想
 
 **projected**は計画やデータに基づく具体的な予測、**estimated**は経験や感覚による大まかな見積もりに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、売上や利益、コストなどの「予測値」を示す文脈
 
 ## 🧩 あわせて覚えたい
 
-- [forecast](/word/forecast/)：予報、予測
-- [anticipated](/word/anticipated/)：予期された
+- [forecast](/forecast)：予報、予測
+- [anticipated](/anticipated)：予期された
 
 ---
 
 ## 📖 できればこれも
 
-- [expected](/word/expected/)：期待された、予想された
-- [planned](/word/planned/)：計画された
+- [expected](/expected)：期待された、予想された
+- [planned](/planned)：計画された
 
-<!-- cvid: aid24_bid20 -->
+<!-- cvid: aid38_bid33 -->

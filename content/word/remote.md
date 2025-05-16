@@ -81,15 +81,19 @@ TOEICでは「remote area（遠隔地）」や「remote work（リモートワ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「remote area（遠隔地）」や「remote work（リモートワ�
 ## 🤔  distant との違いは？
 
 - **remote**：物理的・心理的に「離れている」「隔絶している」ニュアンスが強い
-- **[distant](/word/distant/)**：単に「距離が遠い」「時間的に離れている」ことを表す
+- **[distant](/distant)**：単に「距離が遠い」「時間的に離れている」ことを表す
 
 remoteは「人里離れた」「アクセスしにくい」など隔絶感が強く、distantは単純な距離や時間の遠さを表します。
 
@@ -105,14 +109,14 @@ remoteは「人里離れた」「アクセスしにくい」など隔絶感が�
 
 ## 🧩 あわせて覚えたい
 
-- [isolated](/word/isolated/)：孤立した、隔離された
-- [accessible](/word/accessible/)：アクセスしやすい、近づきやすい
+- [isolated](/isolated)：孤立した、隔離された
+- [accessible](/accessible)：アクセスしやすい、近づきやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [onsite](/word/onsite/)：現地での、現場の
-- [virtual](/word/virtual/)：仮想の、バーチャルな
+- [onsite](/onsite)：現地での、現場の
+- [virtual](/virtual)：仮想の、バーチャルな
 
-<!-- cvid: aid28_bid11 -->
+<!-- cvid: aid26_bid04 -->

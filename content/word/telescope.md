@@ -81,15 +81,19 @@ The company donated a new telescope to the local school.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company donated a new telescope to the local school.
 ## 🤔  microscope との違いは？
 
 - **telescope**：遠くのものを拡大して見る道具（例：星や月）
-- **[microscope](/word/microscope/)**：とても小さいものを拡大して見る道具（例：細胞や微生物）
+- **[microscope](/microscope)**：とても小さいものを拡大して見る道具（例：細胞や微生物）
 
 telescopeは「遠くを見る」ため、microscopeは「小さいものを見る」ために使います。用途がまったく異なります。
 
@@ -105,14 +109,14 @@ telescopeは「遠くを見る」ため、microscopeは「小さいものを見�
 
 ## 🧩 あわせて覚えたい
 
-- [binocular](/word/binocular/)：双眼鏡（両目で使う携帯型の望遠鏡）
-- [satellite](/word/satellite/)：人工衛星
+- [binocular](/binocular)：双眼鏡（両目で使う携帯型の望遠鏡）
+- [satellite](/satellite)：人工衛星
 
 ---
 
 ## 📖 できればこれも
 
-- [planet](/word/planet/)：惑星
-- [observe](/word/observe/)：観察する
+- [planet](/planet)：惑星
+- [observe](/observe)：観察する
 
-<!-- cvid: aid23_bid05 -->
+<!-- cvid: aid15_bid11 -->

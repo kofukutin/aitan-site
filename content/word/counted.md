@@ -81,15 +81,19 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 ## 🤔  calculated との違いは？
 
 - **counted**：実際に一つずつ数えたり、単純な合計を出すときに使う
-- **[calculated](/word/calculated/)**：計算式や方法を使って数値を求めるときに使う
+- **[calculated](/calculated)**：計算式や方法を使って数値を求めるときに使う
 
 countedは「数を順に数える」イメージ、calculatedは「計算式や方法で求める」イメージです。
 
@@ -105,14 +109,14 @@ countedは「数を順に数える」イメージ、calculatedは「計算式や
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate/)：見積もる、推定する
-- [measure](/word/measure/)：測る、計測する
+- [estimate](/estimate)：見積もる、推定する
+- [measure](/measure)：測る、計測する
 
 ---
 
 ## 📖 できればこれも
 
-- [add](/word/add/)：加える、足す
-- [record](/word/record/)：記録する
+- [add](/add)：加える、足す
+- [record](/record)：記録する
 
-<!-- cvid: aid32_bid49 -->
+<!-- cvid: aid31_bid35 -->

@@ -81,15 +81,19 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 ## 🤔  gourmet との違いは？
 
 - **culinary**：料理や調理そのものに関する形容詞
-- **[gourmet](/word/gourmet/)**：美食家や高級料理を指す名詞・形容詞
+- **[gourmet](/gourmet)**：美食家や高級料理を指す名詞・形容詞
 
 「culinary」は料理や調理技術など広く料理分野全体を指し、「gourmet」は特に高級料理や美食家に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 
 ## 🧩 あわせて覚えたい
 
-- [edible](/word/edible/)：食べられる
-- [cuisine](/word/cuisine/)：料理（特定の国や地域の）
+- [edible](/edible)：食べられる
+- [cuisine](/cuisine)：料理（特定の国や地域の）
 
 ---
 
 ## 📖 できればこれも
 
-- [delicious](/word/delicious/)：おいしい
-- [recipe](/word/recipe/)：レシピ、調理法
+- [delicious](/delicious)：おいしい
+- [recipe](/recipe)：レシピ、調理法
 
-<!-- cvid: aid06_bid18 -->
+<!-- cvid: aid10_bid06 -->

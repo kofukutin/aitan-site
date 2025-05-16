@@ -79,15 +79,19 @@ TOEICではリスニングの応答や指示、質問文などで非常によく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid05" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid05" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -95,7 +99,7 @@ TOEICではリスニングの応答や指示、質問文などで非常によく
 ## 🤔  we との違いは？
 
 - **you**：話し相手（単数・複数）を指す
-- **[we](/word/we/)**：自分を含むグループを指す
+- **[we](/we)**：自分を含むグループを指す
 
 「you」は相手、「we」は自分＋他者（自分を含む複数人）を指す点が大きな違いです。
 
@@ -104,13 +108,13 @@ TOEICではリスニングの応答や指示、質問文などで非常によく
 ## 🧩 あわせて覚えたい
 
 - [I](/I)：私（話し手自身）
-- [they](/word/they/)：彼ら・彼女ら・それら（話し手・聞き手以外の複数）
+- [they](/they)：彼ら・彼女ら・それら（話し手・聞き手以外の複数）
 
 ---
 
 ## 📖 できればこれも
 
-- [your](/word/your/)：あなたの
-- [he](/word/he/)：彼
+- [your](/your)：あなたの
+- [he](/he)：彼
 
-<!-- cvid: aid12_bid37 -->
+<!-- cvid: aid01_bid05 -->

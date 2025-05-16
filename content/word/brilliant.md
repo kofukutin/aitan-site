@@ -81,7 +81,7 @@ TOEICでは、人物や成果を高く評価する文脈や、明るさ・輝き
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、人物や成果を高く評価する文脈や、明るさ・輝き
 
 <div class="info-center">
 ＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物や成果を高く評価する文脈や、明るさ・輝き
 ## 🤔  excellent との違いは？
 
 - **brilliant**：輝くように優れている、才能やアイデアが際立っているときに使う
-- **[excellent](/word/excellent/)**：非常に優れている、質が高いときに幅広く使う
+- **[excellent](/excellent)**：非常に優れている、質が高いときに幅広く使う
 
 「brilliant」は特に創造性やひらめき、目立つ優秀さを強調し、「excellent」は全体的な質や出来の良さを表します。
 
@@ -105,14 +109,14 @@ TOEICでは、人物や成果を高く評価する文脈や、明るさ・輝き
 
 ## 🧩 あわせて覚えたい
 
-- [outstanding](/word/outstanding/)：傑出した、際立った
-- [dull](/word/dull/)：鈍い、退屈な
+- [outstanding](/outstanding)：傑出した、際立った
+- [dull](/dull)：鈍い、退屈な
 
 ---
 
 ## 📖 できればこれも
 
-- [creative](/word/creative/)：創造的な
-- [impressive](/word/impressive/)：印象的な
+- [creative](/creative)：創造的な
+- [impressive](/impressive)：印象的な
 
-<!-- cvid: aid06_bid23 -->
+<!-- cvid: aid48_bid23 -->

@@ -80,15 +80,19 @@ ITやビジネス文書、契約書関連の長文で「unsigned」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ ITやビジネス文書、契約書関連の長文で「unsigned」が登場す�
 ## 🤔  unmarked との違いは？
 
 - **unsigned**：署名がされていない、または符号がない（IT用語）
-- **[unmarked](/word/unmarked/)**：印やマークが付いていない
+- **[unmarked](/unmarked)**：印やマークが付いていない
 
 「unsigned」は署名や符号の有無に特化し、「unmarked」は一般的に印や目印がない場合に使います。
 
@@ -104,14 +108,14 @@ ITやビジネス文書、契約書関連の長文で「unsigned」が登場す�
 
 ## 🧩 あわせて覚えたい
 
-- [signed](/word/signed/)：署名された、符号付きの
-- [blank](/word/blank/)：空白の、記入されていない
+- [signed](/signed)：署名された、符号付きの
+- [blank](/blank)：空白の、記入されていない
 
 ---
 
 ## 📖 できればこれも
 
-- [encrypted](/word/encrypted/)：暗号化された
-- [verified](/word/verified/)：確認された
+- [encrypted](/encrypted)：暗号化された
+- [verified](/verified)：確認された
 
-<!-- cvid: aid24_bid06 -->
+<!-- cvid: aid03_bid27 -->

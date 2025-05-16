@@ -81,15 +81,19 @@ TOEICでは「空室」「欠員」などの意味で、求人や会議室の案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「空室」「欠員」などの意味で、求人や会議室の案
 ## 🤔  empty との違いは？
 
 - **vacant**：部屋や席、ポストなど「人が使っていない」「空いている」状態を表す
-- **[empty](/word/empty/)**：中身が何も入っていない状態を表す
+- **[empty](/empty)**：中身が何も入っていない状態を表す
 
 vacantは「人がいない」「利用されていない」ことに重点があり、emptyは「物理的に中身がない」ことに重点があります。
 
@@ -105,14 +109,14 @@ vacantは「人がいない」「利用されていない」ことに重点が�
 
 ## 🧩 あわせて覚えたい
 
-- [occupied](/word/occupied/)：使用中の、埋まっている
-- [available](/word/available/)：利用可能な、手が空いている
+- [occupied](/occupied)：使用中の、埋まっている
+- [available](/available)：利用可能な、手が空いている
 
 ---
 
 ## 📖 できればこれも
 
-- [absent](/word/absent/)：不在の、欠席の
-- [spacious](/word/spacious/)：広々とした
+- [absent](/absent)：不在の、欠席の
+- [spacious](/spacious)：広々とした
 
-<!-- cvid: aid05_bid39 -->
+<!-- cvid: aid45_bid33 -->

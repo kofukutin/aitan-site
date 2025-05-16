@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【car】の意味・使い方・例文 ― vehicleとの違い【TOEIC英単語】"
 description: "carの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでvehicleとの違いもわかりやすく学べます。"
 word: "car"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で頻出です。車の動作や位置を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid09" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid09" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で頻出です。車の動作や位置を
 ## 🤔  vehicle との違いは？
 
 - **car**：一般的な自家用車や乗用車を指す。
-- **[vehicle](/word/vehicle/)**：車両全般（自動車、バス、トラックなど）を指すより広い言葉。
+- **[vehicle](/vehicle)**：車両全般（自動車、バス、トラックなど）を指すより広い言葉。
 
 carは「自動車」として最もよく使われ、vehicleは「乗り物」全般を指すフォーマルな表現です。
 
@@ -105,14 +109,14 @@ carは「自動車」として最もよく使われ、vehicleは「乗り物」�
 
 ## 🧩 あわせて覚えたい
 
-- [bus](/word/bus/)：バス
-- [train](/word/train/)：電車
+- [bus](/bus)：バス
+- [train](/train)：電車
 
 ---
 
 ## 📖 できればこれも
 
-- [bike](/word/bike/)：自転車、バイク
-- [road](/word/road/)：道路
+- [bike](/bike)：自転車、バイク
+- [road](/road)：道路
 
-<!-- cvid: aid45_bid47 -->
+<!-- cvid: aid24_bid09 -->

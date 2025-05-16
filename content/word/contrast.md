@@ -81,15 +81,19 @@ TOEICでは、主に文中で「違い」「対比」を表す名詞として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主に文中で「違い」「対比」を表す名詞として出
 ## 🤔  compare との違いは？
 
 - **contrast**：2つ以上の物事の「違い」や「対比」を強調する
-- **[compare](/word/compare/)**：2つ以上の物事を「比較」し、似ている点や違いの両方を見る
+- **[compare](/compare)**：2つ以上の物事を「比較」し、似ている点や違いの両方を見る
 
 contrastは「違い」に焦点を当て、compareは「違い」と「共通点」の両方を探すときに使います。
 
@@ -105,14 +109,14 @@ contrastは「違い」に焦点を当て、compareは「違い」と「共通�
 
 ## 🧩 あわせて覚えたい
 
-- [distinction](/word/distinction/)：区別、差異
-- [similarity](/word/similarity/)：類似点
+- [distinction](/distinction)：区別、差異
+- [similarity](/similarity)：類似点
 
 ---
 
 ## 📖 できればこれも
 
-- [difference](/word/difference/)：違い
-- [comparison](/word/comparison/)：比較
+- [difference](/difference)：違い
+- [comparison](/comparison)：比較
 
-<!-- cvid: aid25_bid15 -->
+<!-- cvid: aid26_bid47 -->

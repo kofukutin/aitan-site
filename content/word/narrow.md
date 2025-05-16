@@ -81,15 +81,19 @@ TOEICでは「narrow down（絞り込む）」の形や、形容詞として「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「narrow down（絞り込む）」の形や、形容詞として「�
 ## 🤔  thin との違いは？
 
 - **narrow**：幅が狭い、空間や範囲が小さい
-- **[thin](/word/thin/)**：厚みや太さが薄い、細い
+- **[thin](/thin)**：厚みや太さが薄い、細い
 
 narrowは「幅」に注目し、thinは「厚み」や「太さ」に注目します。道や範囲にはnarrow、人や物の厚みにはthinを使います。
 
@@ -105,14 +109,14 @@ narrowは「幅」に注目し、thinは「厚み」や「太さ」に注目し�
 
 ## 🧩 あわせて覚えたい
 
-- [broad](/word/broad/)：広い
-- [tight](/word/tight/)：きつい、ぴったりした
+- [broad](/broad)：広い
+- [tight](/tight)：きつい、ぴったりした
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/word/wide/)：広い
-- [deep](/word/deep/)：深い
+- [wide](/wide)：広い
+- [deep](/deep)：深い
 
-<!-- cvid: aid41_bid47 -->
+<!-- cvid: aid15_bid27 -->

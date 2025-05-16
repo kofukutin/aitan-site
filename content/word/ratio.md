@@ -81,15 +81,19 @@ ratioはTOEICの説明文やグラフ、統計データの読み取り問題で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ratioはTOEICの説明文やグラフ、統計データの読み取り問題で�
 ## 🤔  proportion との違いは？
 
 - **ratio**：明確な数値や数量の「比率」を示すときに使う。
-- **[proportion](/word/proportion/)**：全体に対する「割合」や「部分」の意味で、比率以外にも使える。
+- **[proportion](/proportion)**：全体に対する「割合」や「部分」の意味で、比率以外にも使える。
 
 ratioは具体的な数値比較（2:1など）に、proportionは全体の中の部分やバランスを表すときに使い分けます。
 
@@ -105,14 +109,14 @@ ratioは具体的な数値比較（2:1など）に、proportionは全体の中�
 
 ## 🧩 あわせて覚えたい
 
-- [percentage](/word/percentage/)：パーセンテージ、百分率
-- [fraction](/word/fraction/)：分数、部分
+- [percentage](/percentage)：パーセンテージ、百分率
+- [fraction](/fraction)：分数、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/word/average/)：平均
-- [figure](/word/figure/)：数字、数値
+- [average](/average)：平均
+- [figure](/figure)：数字、数値
 
-<!-- cvid: aid31_bid28 -->
+<!-- cvid: aid36_bid35 -->

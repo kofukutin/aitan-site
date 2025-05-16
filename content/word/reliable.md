@@ -81,15 +81,19 @@ TOEICでは「reliable」は人物やサービス、製品の評価を問う文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「reliable」は人物やサービス、製品の評価を問う文�
 ## 🤔  trustworthy との違いは？
 
 - **reliable**：期待通りに行動する、頼りになる
-- **[trustworthy](/word/trustworthy/)**：誠実で信用できる
+- **[trustworthy](/trustworthy)**：誠実で信用できる
 
 「reliable」は実際の行動や結果に対して使い、「trustworthy」は人の誠実さや信用できる性格に重点を置きます。
 
@@ -105,14 +109,14 @@ TOEICでは「reliable」は人物やサービス、製品の評価を問う文�
 
 ## 🧩 あわせて覚えたい
 
-- [dependable](/word/dependable/)：頼りになる
-- [unreliable](/word/unreliable/)：信頼できない
+- [dependable](/dependable)：頼りになる
+- [unreliable](/unreliable)：信頼できない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [responsible](/word/responsible/)：責任感のある
+- [efficient](/efficient)：効率的な
+- [responsible](/responsible)：責任感のある
 
-<!-- cvid: aid15_bid18 -->
+<!-- cvid: aid45_bid21 -->

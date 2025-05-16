@@ -81,15 +81,19 @@ believedは、TOEICの文法問題や受動態表現でよく出題されます�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ believedは、TOEICの文法問題や受動態表現でよく出題されます�
 ## 🤔  trusted との違いは？
 
 - **believed**：事実や情報を本当だと思う、信じる
-- **[trusted](/word/trusted/)**：人や物を信用・信頼する
+- **[trusted](/trusted)**：人や物を信用・信頼する
 
 believedは「事実や情報を信じる」ニュアンスが強く、trustedは「人や物に対する信頼」を表します。
 
@@ -105,14 +109,14 @@ believedは「事実や情報を信じる」ニュアンスが強く、trusted�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt/)：疑う
-- [assume](/word/assume/)：仮定する、思い込む
+- [doubt](/doubt)：疑う
+- [assume](/assume)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [consider](/word/consider/)：よく考える、検討する
-- [suppose](/word/suppose/)：思う、仮定する
+- [consider](/consider)：よく考える、検討する
+- [suppose](/suppose)：思う、仮定する
 
-<!-- cvid: aid49_bid42 -->
+<!-- cvid: aid35_bid32 -->

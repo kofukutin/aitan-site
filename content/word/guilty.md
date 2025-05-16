@@ -81,15 +81,19 @@ TOEICでは法務や責任に関する文脈で出題されることがあり、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは法務や責任に関する文脈で出題されることがあり、
 ## 🤔  responsible との違いは？
 
 - **guilty**：法律的な有罪や、悪いことをした罪悪感を表す。
-- **[responsible](/word/responsible/)**：責任がある、義務があるという意味で、必ずしも悪い意味ではない。
+- **[responsible](/responsible)**：責任がある、義務があるという意味で、必ずしも悪い意味ではない。
 
 guiltyは「悪いことをした」という否定的な感情や法的判断に使い、responsibleは「役割や義務を果たす責任」に使います。
 
@@ -105,14 +109,14 @@ guiltyは「悪いことをした」という否定的な感情や法的判断�
 
 ## 🧩 あわせて覚えたい
 
-- [innocent](/word/innocent/)：無罪の、潔白な
-- [blame](/word/blame/)：責める、非難する
+- [innocent](/innocent)：無罪の、潔白な
+- [blame](/blame)：責める、非難する
 
 ---
 
 ## 📖 できればこれも
 
-- [illegal](/word/illegal/)：違法の
-- [honest](/word/honest/)：正直な
+- [illegal](/illegal)：違法の
+- [honest](/honest)：正直な
 
-<!-- cvid: aid29_bid35 -->
+<!-- cvid: aid08_bid06 -->

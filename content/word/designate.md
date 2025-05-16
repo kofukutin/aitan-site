@@ -81,15 +81,19 @@ TOEICでは「役職や担当者を正式に指名する」文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「役職や担当者を正式に指名する」文脈で出題され
 ## 🤔  appoint との違いは？
 
 - **designate**：公式に「指名・指定」するが、実際の就任や開始は後になることが多い
-- **[appoint](/word/appoint/)**：役職や任務に「正式に任命」し、その場で権限や責任が発生する
+- **[appoint](/appoint)**：役職や任務に「正式に任命」し、その場で権限や責任が発生する
 
 designateは「これからその役割になる」と指し示す時に使い、appointは「今この瞬間から任命する」ニュアンスです。
 
@@ -105,14 +109,14 @@ designateは「これからその役割になる」と指し示す時に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/word/assign/)：割り当てる、任命する
-- [nominate](/word/nominate/)：推薦する、指名する
+- [assign](/assign)：割り当てる、任命する
+- [nominate](/nominate)：推薦する、指名する
 
 ---
 
 ## 📖 できればこれも
 
-- [authorize](/word/authorize/)：権限を与える
-- [specify](/word/specify/)：明確に指定する
+- [authorize](/authorize)：権限を与える
+- [specify](/specify)：明確に指定する
 
-<!-- cvid: aid42_bid24 -->
+<!-- cvid: aid40_bid47 -->

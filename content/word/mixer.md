@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、調理器具やイベントの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、調理器具やイベントの場面で
 ## 🤔  blender との違いは？
 
 - **mixer**：材料を混ぜる機械全般や、交流会の意味もある
-- **[blender](/word/blender/)**：主に液体や柔らかいものを細かく砕いて混ぜる機械
+- **[blender](/blender)**：主に液体や柔らかいものを細かく砕いて混ぜる機械
 
 mixerは「混ぜる」こと全般に使い、blenderは特にスムージーやスープなどを作るときの「攪拌機」に限定されます。
 
@@ -105,14 +109,14 @@ mixerは「混ぜる」こと全般に使い、blenderは特にスムージー�
 
 ## 🧩 あわせて覚えたい
 
-- [stirrer](/word/stirrer/)：かき混ぜる道具
-- [meeting](/word/meeting/)：会議、集まり
+- [stirrer](/stirrer)：かき混ぜる道具
+- [meeting](/meeting)：会議、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [speaker](/word/speaker/)：スピーカー、話者
-- [projector](/word/projector/)：プロジェクター
+- [speaker](/speaker)：スピーカー、話者
+- [projector](/projector)：プロジェクター
 
-<!-- cvid: aid45_bid06 -->
+<!-- cvid: aid20_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは、健康や職場環境、ストレス管理などのトピックで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid05_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、健康や職場環境、ストレス管理などのトピックで
 ## 🤔  mental との違いは？
 
 - **psychological**：心や感情、精神状態に関することを強調
-- **[mental](/word/mental/)**：知能や思考、頭脳活動全般に関することを強調
+- **[mental](/mental)**：知能や思考、頭脳活動全般に関することを強調
 
 「psychological」は感情や心の動きに焦点を当てるのに対し、「mental」は知的活動や脳の働きにより広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、健康や職場環境、ストレス管理などのトピックで
 
 ## 🧩 あわせて覚えたい
 
-- [emotional](/word/emotional/)：感情的な
-- [physical](/word/physical/)：身体的な
+- [emotional](/emotional)：感情的な
+- [physical](/physical)：身体的な
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy/)：治療、セラピー
-- [cognitive](/word/cognitive/)：認知の、認識に関する
+- [therapy](/therapy)：治療、セラピー
+- [cognitive](/cognitive)：認知の、認識に関する
 
-<!-- cvid: aid33_bid45 -->
+<!-- cvid: aid05_bid15 -->

@@ -82,15 +82,19 @@ TOEICでは、ビジネス文書や会議の場面で「慎重な判断」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、ビジネス文書や会議の場面で「慎重な判断」や「
 ## 🤔  careful との違いは？
 
 - **cautious**：危険やリスクを避けるために慎重な（特に予防的な態度）
-- **[careful](/word/careful/)**：細かい部分まで注意深い（作業や行動の丁寧さ）
+- **[careful](/careful)**：細かい部分まで注意深い（作業や行動の丁寧さ）
 
 cautiousは「危険を避けるための慎重さ」、carefulは「細部まで気を配る丁寧さ」に重点があります。
 
@@ -106,14 +110,14 @@ cautiousは「危険を避けるための慎重さ」、carefulは「細部ま�
 
 ## 🧩 あわせて覚えたい
 
-- [reckless](/word/reckless/)：無謀な、向こう見ずな
-- [prudent](/word/prudent/)：分別のある、慎重な
+- [reckless](/reckless)：無謀な、向こう見ずな
+- [prudent](/prudent)：分別のある、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [deliberate](/word/deliberate/)：意図的な、慎重な
-- [alert](/word/alert/)：油断のない、警戒した
+- [deliberate](/deliberate)：意図的な、慎重な
+- [alert](/alert)：油断のない、警戒した
 
-<!-- cvid: aid09_bid34 -->
+<!-- cvid: aid03_bid15 -->

@@ -81,15 +81,19 @@ TOEICではレストランのメニューや観光案内、食品に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid18_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランのメニューや観光案内、食品に関する長
 ## 🤔  haddock との違いは？
 
 - **cod**：タラ。白身で淡白な味わいの魚。フィッシュ＆チップスなどで有名。
-- **[haddock](/word/haddock/)**：ハドック。タラに似ているが、やや小ぶりで燻製などにも使われる。
+- **[haddock](/haddock)**：ハドック。タラに似ているが、やや小ぶりで燻製などにも使われる。
 
 codは一般的なタラ全般を指し、haddockは特定の種類のタラで、料理や用途に違いがあります。
 
@@ -105,14 +109,14 @@ codは一般的なタラ全般を指し、haddockは特定の種類のタラで�
 
 ## 🧩 あわせて覚えたい
 
-- [salmon](/word/salmon/)：サケ
-- [trout](/word/trout/)：マス
+- [salmon](/salmon)：サケ
+- [trout](/trout)：マス
 
 ---
 
 ## 📖 できればこれも
 
-- [shrimp](/word/shrimp/)：エビ
-- [crab](/word/crab/)：カニ
+- [shrimp](/shrimp)：エビ
+- [crab](/crab)：カニ
 
-<!-- cvid: aid27_bid11 -->
+<!-- cvid: aid18_bid32 -->

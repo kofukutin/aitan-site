@@ -81,15 +81,19 @@ TOEICでは経済やビジネスの文脈で「景気回復」や「業績回復
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは経済やビジネスの文脈で「景気回復」や「業績回復
 ## 🤔  restoration との違いは？
 
 - **recovery**：失ったものや状態を取り戻す「回復」や「復旧」全般を指す
-- **[restoration](/word/restoration/)**：元の状態や姿に「修復・復元」することを強調
+- **[restoration](/restoration)**：元の状態や姿に「修復・復元」することを強調
 
 recoveryは広く「回復」を指し、restorationは特に元通りに「修復」するニュアンスが強いです。
 
@@ -105,14 +109,14 @@ recoveryは広く「回復」を指し、restorationは特に元通りに「修�
 
 ## 🧩 あわせて覚えたい
 
-- [setback](/word/setback/)：挫折、後退
-- [improvement](/word/improvement/)：改善、向上
+- [setback](/setback)：挫折、後退
+- [improvement](/improvement)：改善、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/word/progress/)：進歩、前進
-- [decline](/word/decline/)：減少、衰退
+- [progress](/progress)：進歩、前進
+- [decline](/decline)：減少、衰退
 
-<!-- cvid: aid47_bid36 -->
+<!-- cvid: aid31_bid23 -->

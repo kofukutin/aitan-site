@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位を説明する
 ## 🤔  waist との違いは？
 
 - **hip**：腰や尻の外側、脚の付け根あたりの部分
-- **[waist](/word/waist/)**：胴体のくびれた部分、ウエスト
+- **[waist](/waist)**：胴体のくびれた部分、ウエスト
 
 hipは体の側面の丸みを帯びた部分、waistは胴体の細い部分を指し、服のサイズやベルト位置などで使い分けます。
 
@@ -105,14 +109,14 @@ hipは体の側面の丸みを帯びた部分、waistは胴体の細い部分を
 
 ## 🧩 あわせて覚えたい
 
-- [shoulder](/word/shoulder/)：肩
-- [thigh](/word/thigh/)：太もも
+- [shoulder](/shoulder)：肩
+- [thigh](/thigh)：太もも
 
 ---
 
 ## 📖 できればこれも
 
-- [leg](/word/leg/)：脚
-- [arm](/word/arm/)：腕
+- [leg](/leg)：脚
+- [arm](/arm)：腕
 
-<!-- cvid: aid21_bid00 -->
+<!-- cvid: aid49_bid14 -->

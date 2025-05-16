@@ -81,15 +81,19 @@ currencyは、金融や国際取引、旅行に関する長文や説明文でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ currencyは、金融や国際取引、旅行に関する長文や説明文でよ
 ## 🤔  money との違いは？
 
 - **currency**：国や地域で公式に使われる「通貨」（円・ドルなど）を指す
-- **[money](/word/money/)**：広く「お金」全般を指し、通貨以外も含む
+- **[money](/money)**：広く「お金」全般を指し、通貨以外も含む
 
 currencyは「通貨の種類」に焦点があり、moneyは「お金」そのものや財産全般を表します。
 
@@ -105,14 +109,14 @@ currencyは「通貨の種類」に焦点があり、moneyは「お金」その�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange/)：交換、両替
-- [coin](/word/coin/)：硬貨
+- [exchange](/exchange)：交換、両替
+- [coin](/coin)：硬貨
 
 ---
 
 ## 📖 できればこれも
 
-- [deposit](/word/deposit/)：預金、預け入れ
-- [account](/word/account/)：口座
+- [deposit](/deposit)：預金、預け入れ
+- [account](/account)：口座
 
-<!-- cvid: aid04_bid19 -->
+<!-- cvid: aid32_bid15 -->

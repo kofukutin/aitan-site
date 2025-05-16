@@ -81,15 +81,19 @@ TOEICでは主に説明文や専門的な文章で見かけることが多く、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid26_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に説明文や専門的な文章で見かけることが多く、
 ## 🤔  automatic との違いは？
 
 - **reflexive**：自分自身に向かう反射的・無意識的な動作や感情を表す
-- **[automatic](/word/automatic/)**：機械的・自動的に行われることを表す
+- **[automatic](/automatic)**：機械的・自動的に行われることを表す
 
 「reflexive」は人や動物の無意識な反応に使われ、「automatic」は機械や手順などの自動的な動作に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主に説明文や専門的な文章で見かけることが多く、
 
 ## 🧩 あわせて覚えたい
 
-- [instinctive](/word/instinctive/)：本能的な、直感的な
-- [deliberate](/word/deliberate/)：意図的な、慎重な
+- [instinctive](/instinctive)：本能的な、直感的な
+- [deliberate](/deliberate)：意図的な、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [reciprocal](/word/reciprocal/)：相互の、互いの
-- [responsive](/word/responsive/)：反応が良い、すぐ反応する
+- [reciprocal](/reciprocal)：相互の、互いの
+- [responsive](/responsive)：反応が良い、すぐ反応する
 
-<!-- cvid: aid06_bid41 -->
+<!-- cvid: aid26_bid38 -->

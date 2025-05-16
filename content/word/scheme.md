@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や公式な案内、制度説明などで登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や公式な案内、制度説明などで登
 ## 🤔  plan との違いは？
 
 - **scheme**：特定の目的のための体系的・公式な計画や制度、ややフォーマルな響き
-- **[plan](/word/plan/)**：一般的な「計画」、日常的・幅広い場面で使う
+- **[plan](/plan)**：一般的な「計画」、日常的・幅広い場面で使う
 
 schemeは制度やプロジェクトなど、やや大きな枠組みや公式な計画に使われることが多く、planは日常的な「予定」や「計画」全般に使われます。
 
@@ -105,14 +109,14 @@ schemeは制度やプロジェクトなど、やや大きな枠組みや公式�
 
 ## 🧩 あわせて覚えたい
 
-- [strategy](/word/strategy/)：戦略、長期的な計画
-- [project](/word/project/)：プロジェクト、事業
+- [strategy](/strategy)：戦略、長期的な計画
+- [project](/project)：プロジェクト、事業
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [proposal](/word/proposal/)：提案、申し出
+- [policy](/policy)：方針、政策
+- [proposal](/proposal)：提案、申し出
 
-<!-- cvid: aid02_bid07 -->
+<!-- cvid: aid45_bid47 -->

@@ -81,7 +81,7 @@ TOEICでは主に長文読解パートで、物語や広告、観光案内など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主に長文読解パートで、物語や広告、観光案内など
 
 <div class="info-center">
 ＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、物語や広告、観光案内など
 ## 🤔  love との違いは？
 
 - **romance**：恋愛感情やロマンチックな雰囲気、出来事を指す。
-- **[love](/word/love/)**：より広い意味での「愛」や「愛情」を指し、家族愛や友情にも使える。
+- **[love](/love)**：より広い意味での「愛」や「愛情」を指し、家族愛や友情にも使える。
 
 romanceは特に恋愛やロマンチックな場面に限定されるのに対し、loveは人や物への幅広い愛情を表します。
 
@@ -105,14 +109,14 @@ romanceは特に恋愛やロマンチックな場面に限定されるのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [affection](/word/affection/)：愛情、親しみ
-- [passion](/word/passion/)：情熱、強い感情
+- [affection](/affection)：愛情、親しみ
+- [passion](/passion)：情熱、強い感情
 
 ---
 
 ## 📖 できればこれも
 
-- [relationship](/word/relationship/)：関係、交際
-- [date](/word/date/)：デート、付き合う
+- [relationship](/relationship)：関係、交際
+- [date](/date)：デート、付き合う
 
-<!-- cvid: aid11_bid48 -->
+<!-- cvid: aid39_bid48 -->

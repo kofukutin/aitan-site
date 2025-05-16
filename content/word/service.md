@@ -81,15 +81,19 @@ TOEICでは「サービス内容」「顧客対応」「点検」など、ビジ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「サービス内容」「顧客対応」「点検」など、ビジ
 ## 🤔  support との違いは？
 
 - **service**：サービス全般や業務、点検など幅広い意味で使う
-- **[support](/word/support/)**：支援やサポート、助けることに特化
+- **[support](/support)**：支援やサポート、助けることに特化
 
 **service**は「提供される業務やサービス全体」を指し、**support**は「困っている人を助ける支援」に焦点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「サービス内容」「顧客対応」「点検」など、ビジ
 
 ## 🧩 あわせて覚えたい
 
-- [product](/word/product/)：製品
-- [maintenance](/word/maintenance/)：保守、メンテナンス
+- [product](/product)：製品
+- [maintenance](/maintenance)：保守、メンテナンス
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：設備、施設
-- [customer](/word/customer/)：顧客
+- [facility](/facility)：設備、施設
+- [customer](/customer)：顧客
 
-<!-- cvid: aid14_bid05 -->
+<!-- cvid: aid07_bid29 -->

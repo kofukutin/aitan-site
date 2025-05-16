@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や説明文で「地域」「地方」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や説明文で「地域」「地方」などの
 ## 🤔  area との違いは？
 
 - **region**：国や世界の中で区切られた広い「地域」「地方」を指すフォーマルな語。
-- **[area](/word/area/)**：特定の「場所」「区域」など、広さや用途に焦点を当てた一般的な語。
+- **[area](/area)**：特定の「場所」「区域」など、広さや用途に焦点を当てた一般的な語。
 
 「region」は行政区分や地理的まとまりに、「area」は広さや用途・目的に注目する場面で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や説明文で「地域」「地方」などの
 
 ## 🧩 あわせて覚えたい
 
-- [district](/word/district/)：行政区、学区などの「区」
-- [zone](/word/zone/)：特定の目的や性質を持つ「区域」
+- [district](/district)：行政区、学区などの「区」
+- [zone](/zone)：特定の目的や性質を持つ「区域」
 
 ---
 
 ## 📖 できればこれも
 
-- [sector](/word/sector/)：産業分野、部門
-- [location](/word/location/)：場所、位置
+- [sector](/sector)：産業分野、部門
+- [location](/location)：場所、位置
 
-<!-- cvid: aid43_bid36 -->
+<!-- cvid: aid05_bid21 -->

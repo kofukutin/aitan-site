@@ -81,15 +81,19 @@ TOEICでは、ビジネスメールや記事、プレゼン資料などで「ins
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスメールや記事、プレゼン資料などで「ins
 ## 🤔  motivation との違いは？
 
 - **inspiration**：外部から受ける刺激やひらめき、創造力の源
-- **[motivation](/word/motivation/)**：目標達成のための内面的なやる気や動機
+- **[motivation](/motivation)**：目標達成のための内面的なやる気や動機
 
 inspirationは「外から受ける刺激やアイデア」に重点があり、motivationは「自分の中から湧き上がるやる気」に重点があります。
 
@@ -105,14 +109,14 @@ inspirationは「外から受ける刺激やアイデア」に重点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [idea](/word/idea/)：アイデア、考え
-- [encouragement](/word/encouragement/)：励まし、勇気づけ
+- [idea](/idea)：アイデア、考え
+- [encouragement](/encouragement)：励まし、勇気づけ
 
 ---
 
 ## 📖 できればこれも
 
-- [creativity](/word/creativity/)：創造力
-- [imagination](/word/imagination/)：想像力
+- [creativity](/creativity)：創造力
+- [imagination](/imagination)：想像力
 
-<!-- cvid: aid29_bid44 -->
+<!-- cvid: aid22_bid36 -->

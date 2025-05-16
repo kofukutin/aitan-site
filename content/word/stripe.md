@@ -88,8 +88,12 @@ TOEICでは主にPart 1の写真描写で、衣服や建物の模様を説明す
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、衣服や建物の模様を説明す
 ## 🤔  line との違いは？
 
 - **stripe**：幅のある縞模様や帯状の線を指す
-- **[line](/word/line/)**：細い線や境界、列など幅のない「線」を指す
+- **[line](/line)**：細い線や境界、列など幅のない「線」を指す
 
 stripeは「模様」や「装飾」としての線、lineは「境界」や「区切り」としての線を表す点が異なります。
 
@@ -105,14 +109,14 @@ stripeは「模様」や「装飾」としての線、lineは「境界」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [pattern](/word/pattern/)：模様、パターン
-- [spot](/word/spot/)：斑点、点
+- [pattern](/pattern)：模様、パターン
+- [spot](/spot)：斑点、点
 
 ---
 
 ## 📖 できればこれも
 
-- [dot](/word/dot/)：点、ドット
-- [shape](/word/shape/)：形、形状
+- [dot](/dot)：点、ドット
+- [shape](/shape)：形、形状
 
-<!-- cvid: aid05_bid12 -->
+<!-- cvid: aid05_bid47 -->

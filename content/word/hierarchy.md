@@ -88,8 +88,12 @@ TOEICではビジネス組織や職場の説明文、社内規則などで「hie
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス組織や職場の説明文、社内規則などで「hie
 ## 🤔  structure との違いは？
 
 - **hierarchy**：上下関係や権限の序列が明確な「階層構造」
-- **[structure](/word/structure/)**：全体の「構造」や「仕組み」を広く指す
+- **[structure](/structure)**：全体の「構造」や「仕組み」を広く指す
 
 hierarchyは特に上下関係や序列に重点があり、structureは全体の枠組みや配置を表します。
 
@@ -105,14 +109,14 @@ hierarchyは特に上下関係や序列に重点があり、structureは全体�
 
 ## 🧩 あわせて覚えたい
 
-- [chain of command](/word/chain_of_command/)：指揮系統
-- [authority](/word/authority/)：権限、権威
+- [chain of command](/chain_of_command)：指揮系統
+- [authority](/authority)：権限、権威
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [procedure](/word/procedure/)：手順、手続き
+- [policy](/policy)：方針、政策
+- [procedure](/procedure)：手順、手続き
 
-<!-- cvid: aid34_bid15 -->
+<!-- cvid: aid34_bid41 -->

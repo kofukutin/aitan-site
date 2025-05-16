@@ -81,15 +81,19 @@ TOEICでは、分詞形容詞として「be divided into」や「divided opinion
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、分詞形容詞として「be divided into」や「divided opinion
 ## 🤔  separate との違いは？
 
 - **divided**：もともと一つだったものが分割された、または意見などが分かれている状態
-- **[separate](/word/separate/)**：もともと別々、または意図的に離れている状態
+- **[separate](/separate)**：もともと別々、または意図的に離れている状態
 
 dividedは「分けられた」ニュアンスが強く、separateは「もともと別」や「独立している」印象です。
 
@@ -105,14 +109,14 @@ dividedは「分けられた」ニュアンスが強く、separateは「もと�
 
 ## 🧩 あわせて覚えたい
 
-- [united](/word/united/)：団結した、統一された
-- [split](/word/split/)：分裂した、割れた
+- [united](/united)：団結した、統一された
+- [split](/split)：分裂した、割れた
 
 ---
 
 ## 📖 できればこれも
 
-- [shared](/word/shared/)：共有された
-- [connected](/word/connected/)：つながった
+- [shared](/shared)：共有された
+- [connected](/connected)：つながった
 
-<!-- cvid: aid20_bid24 -->
+<!-- cvid: aid17_bid49 -->

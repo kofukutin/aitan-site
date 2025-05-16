@@ -81,15 +81,19 @@ TOEICでは、劇やテレビ番組、イベント紹介などの文脈で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、劇やテレビ番組、イベント紹介などの文脈で登場
 ## 🤔  play との違いは？
 
 - **drama**：物語性や感情の起伏が強い「劇」や「ドラマ」を指す。
-- **[play](/word/play/)**：舞台で上演される「劇」全般や、子どもが遊ぶ「遊び」も意味する。
+- **[play](/play)**：舞台で上演される「劇」全般や、子どもが遊ぶ「遊び」も意味する。
 
 dramaは特に感情やストーリー性を重視した劇に使われ、playはより広く演劇や遊び全般に使われます。
 
@@ -105,14 +109,14 @@ dramaは特に感情やストーリー性を重視した劇に使われ、play�
 
 ## 🧩 あわせて覚えたい
 
-- [comedy](/word/comedy/)：喜劇
-- [tragedy](/word/tragedy/)：悲劇
+- [comedy](/comedy)：喜劇
+- [tragedy](/tragedy)：悲劇
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/word/theater/)：劇場、演劇
-- [scene](/word/scene/)：場面、シーン
+- [theater](/theater)：劇場、演劇
+- [scene](/scene)：場面、シーン
 
-<!-- cvid: aid20_bid36 -->
+<!-- cvid: aid07_bid16 -->

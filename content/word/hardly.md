@@ -78,7 +78,7 @@ TOEICでは否定的な意味を持つ副詞として、文法問題や語彙問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
@@ -86,7 +86,11 @@ TOEICでは否定的な意味を持つ副詞として、文法問題や語彙問
 
 <div class="info-center">
 ＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは否定的な意味を持つ副詞として、文法問題や語彙問
 ## 🤔  rarely との違いは？
 
 - **hardly**：ほとんど～ない（否定的な意味が強く、頻度や程度を強調）
-- **[rarely](/word/rarely/)**：めったに～しない（頻度が非常に低いことを表す）
+- **[rarely](/rarely)**：めったに～しない（頻度が非常に低いことを表す）
 
 hardlyは「ほとんど～ない」と程度の低さを強調し、rarelyは「めったに～しない」と頻度の低さを表します。
 
@@ -102,14 +106,14 @@ hardlyは「ほとんど～ない」と程度の低さを強調し、rarelyは�
 
 ## 🧩 あわせて覚えたい
 
-- [barely](/word/barely/)：かろうじて、ほとんど～ない
-- [scarcely](/word/scarcely/)：ほとんど～ない、かろうじて
+- [barely](/barely)：かろうじて、ほとんど～ない
+- [scarcely](/scarcely)：ほとんど～ない、かろうじて
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost/)：ほとんど
-- [frequently](/word/frequently/)：頻繁に
+- [almost](/almost)：ほとんど
+- [frequently](/frequently)：頻繁に
 
-<!-- cvid: aid21_bid30 -->
+<!-- cvid: aid29_bid30 -->

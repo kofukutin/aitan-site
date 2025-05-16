@@ -81,15 +81,19 @@ TOEICでは、求人広告や応募書類の説明文、またはスポーツイ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や応募書類の説明文、またはスポーツイ
 ## 🤔  judge との違いは？
 
 - **referee**：スポーツの審判や、推薦状を書く推薦者
-- **[judge](/word/judge/)**：法廷の裁判官や、物事を判断する人
+- **[judge](/judge)**：法廷の裁判官や、物事を判断する人
 
 refereeは中立的な立場でルールを守らせたり推薦したりする人、judgeは公式に判決や評価を下す人を指します。
 
@@ -105,14 +109,14 @@ refereeは中立的な立場でルールを守らせたり推薦したりする�
 
 ## 🧩 あわせて覚えたい
 
-- [arbitrator](/word/arbitrator/)：仲裁人（争いごとを仲裁する人）
-- [supervisor](/word/supervisor/)：監督者、指導者
+- [arbitrator](/arbitrator)：仲裁人（争いごとを仲裁する人）
+- [supervisor](/supervisor)：監督者、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [recommendation](/word/recommendation/)：推薦、推薦状
-- [interview](/word/interview/)：面接、インタビュー
+- [recommendation](/recommendation)：推薦、推薦状
+- [interview](/interview)：面接、インタビュー
 
-<!-- cvid: aid18_bid30 -->
+<!-- cvid: aid43_bid22 -->

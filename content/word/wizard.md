@@ -81,15 +81,19 @@ wizardはITやファンタジー関連の記事や説明文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ wizardはITやファンタジー関連の記事や説明文で登場すること
 ## 🤔  magician との違いは？
 
 - **wizard**：魔法使い、または分野の達人（特にファンタジーやITで使う）
-- **[magician](/word/magician/)**：手品師、マジックをする人
+- **[magician](/magician)**：手品師、マジックをする人
 
 wizardは空想上の魔法使いや専門分野の達人に使い、magicianは主に手品やトリックを披露する人に使います。
 
@@ -105,14 +109,14 @@ wizardは空想上の魔法使いや専門分野の達人に使い、magicianは
 
 ## 🧩 あわせて覚えたい
 
-- [sorcerer](/word/sorcerer/)：魔術師（特に邪悪な魔法使い）
-- [genius](/word/genius/)：天才、非常に優れた人
+- [sorcerer](/sorcerer)：魔術師（特に邪悪な魔法使い）
+- [genius](/genius)：天才、非常に優れた人
 
 ---
 
 ## 📖 できればこれも
 
-- [witch](/word/witch/)：（女性の）魔女
-- [mentor](/word/mentor/)：指導者、助言者
+- [witch](/witch)：（女性の）魔女
+- [mentor](/mentor)：指導者、助言者
 
-<!-- cvid: aid35_bid31 -->
+<!-- cvid: aid43_bid08 -->

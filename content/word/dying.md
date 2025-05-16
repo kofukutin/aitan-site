@@ -81,15 +81,19 @@ The company is in a dying industry.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company is in a dying industry.
 ## 🤔  dead との違いは？
 
 - **dying**：今まさに死に向かっている、終わりかけている状態
-- **[dead](/word/dead/)**：すでに死んでいる、完全に終わった状態
+- **[dead](/dead)**：すでに死んでいる、完全に終わった状態
 
 「dying」は進行中の状態、「dead」はすでに完了した状態を表します。
 
@@ -105,14 +109,14 @@ The company is in a dying industry.
 
 ## 🧩 あわせて覚えたい
 
-- [ill](/word/ill/)：病気の
-- [terminal](/word/terminal/)：末期の、終末の
+- [ill](/ill)：病気の
+- [terminal](/terminal)：末期の、終末の
 
 ---
 
 ## 📖 できればこれも
 
-- [injured](/word/injured/)：けがをした
-- [recover](/word/recover/)：回復する
+- [injured](/injured)：けがをした
+- [recover](/recover)：回復する
 
-<!-- cvid: aid31_bid17 -->
+<!-- cvid: aid19_bid45 -->

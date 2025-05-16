@@ -81,15 +81,19 @@ TOEICでは案内文や広告、Eメールの中で「website」が頻出しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは案内文や広告、Eメールの中で「website」が頻出しま�
 ## 🤔  homepage との違いは？
 
 - **website**：複数のページを含む「ウェブサイト全体」
-- **[homepage](/word/homepage/)**：ウェブサイトの「最初のページ」や「トップページ」
+- **[homepage](/homepage)**：ウェブサイトの「最初のページ」や「トップページ」
 
 websiteは全体、homepageはその入り口や最初のページを指します。混同しやすいですが、案内や連絡先を伝えるときはwebsiteが一般的です。
 
@@ -105,14 +109,14 @@ websiteは全体、homepageはその入り口や最初のページを指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [portal](/word/portal/)：ポータルサイト（情報の玄関口となるサイト）
-- [domain](/word/domain/)：ドメイン（ウェブサイトの住所となる部分）
+- [portal](/portal)：ポータルサイト（情報の玄関口となるサイト）
+- [domain](/domain)：ドメイン（ウェブサイトの住所となる部分）
 
 ---
 
 ## 📖 できればこれも
 
-- [browser](/word/browser/)：ブラウザ（ウェブページを見るためのソフト）
-- [link](/word/link/)：リンク（ウェブページ同士をつなぐもの）
+- [browser](/browser)：ブラウザ（ウェブページを見るためのソフト）
+- [link](/link)：リンク（ウェブページ同士をつなぐもの）
 
-<!-- cvid: aid07_bid08 -->
+<!-- cvid: aid09_bid40 -->

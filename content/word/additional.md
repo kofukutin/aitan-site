@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、「追加の費用」「追加情報」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、「追加の費用」「追加情報」などの
 ## 🤔  extra との違いは？
 
 - **additional**：既存のものに正式に「追加される」もの。ややフォーマル。
-- **[extra](/word/extra/)**：必要以上や余分なもの、カジュアルな場面でよく使う。
+- **[extra](/extra)**：必要以上や余分なもの、カジュアルな場面でよく使う。
 
 「additional」はビジネスや公式な場面で「追加の」と丁寧に言いたいときに使い、「extra」は「余分」「おまけ」などカジュアルなニュアンスで使います。
 
@@ -105,14 +109,14 @@ TOEICではPart 5を中心に、「追加の費用」「追加情報」などの
 
 ## 🧩 あわせて覚えたい
 
-- [supplementary](/word/supplementary/)：補足の、追加の
-- [optional](/word/optional/)：任意の、選択できる
+- [supplementary](/supplementary)：補足の、追加の
+- [optional](/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/word/necessary/)：必要な
-- [available](/word/available/)：利用できる
+- [necessary](/necessary)：必要な
+- [available](/available)：利用できる
 
-<!-- cvid: aid32_bid18 -->
+<!-- cvid: aid38_bid34 -->

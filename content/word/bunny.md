@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bunny】の意味・使い方・例文 ― rabbitとの違い【TOEIC英単語】"
 description: "bunnyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrabbitとの違いもわかりやすく学べます。"
 word: "bunny"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、動物やキャラクターの説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、動物やキャラクターの説明
 ## 🤔  rabbit との違いは？
 
 - **bunny**：子ウサギやかわいらしいウサギを指すカジュアルな表現
-- **[rabbit](/word/rabbit/)**：ウサギ全般を指す標準的な単語
+- **[rabbit](/rabbit)**：ウサギ全般を指す標準的な単語
 
 bunnyは親しみやすさやかわいらしさを強調したいときに使い、rabbitは動物としてのウサギ全般を指すときに使います。
 
@@ -105,14 +109,14 @@ bunnyは親しみやすさやかわいらしさを強調したいときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [hare](/word/hare/)：ノウサギ（ウサギより脚が長く野生的）
-- [kitten](/word/kitten/)：子ネコ
+- [hare](/hare)：ノウサギ（ウサギより脚が長く野生的）
+- [kitten](/kitten)：子ネコ
 
 ---
 
 ## 📖 できればこれも
 
-- [puppy](/word/puppy/)：子イヌ
-- [duckling](/word/duckling/)：アヒルの子
+- [puppy](/puppy)：子イヌ
+- [duckling](/duckling)：アヒルの子
 
-<!-- cvid: aid40_bid18 -->
+<!-- cvid: aid21_bid46 -->

@@ -81,15 +81,19 @@ TOEICでは「将来の計画」や「今後の展望」など、ビジネス文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「将来の計画」や「今後の展望」など、ビジネス文
 ## 🤔  prospect との違いは？
 
 - **future**：これからやってくる「未来」や「将来」という時間そのものを指す
-- **[prospect](/word/prospect/)**：将来に対する「見通し」や「可能性」を指す
+- **[prospect](/prospect)**：将来に対する「見通し」や「可能性」を指す
 
 futureは単純に「これからの時期」を表し、prospectは「期待できること」や「予想されること」に焦点を当てます。
 
@@ -105,14 +109,14 @@ futureは単純に「これからの時期」を表し、prospectは「期待で
 
 ## 🧩 あわせて覚えたい
 
-- [past](/word/past/)：過去
-- [opportunity](/word/opportunity/)：機会
+- [past](/past)：過去
+- [opportunity](/opportunity)：機会
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [goal](/word/goal/)：目標
+- [plan](/plan)：計画
+- [goal](/goal)：目標
 
-<!-- cvid: aid31_bid21 -->
+<!-- cvid: aid40_bid40 -->

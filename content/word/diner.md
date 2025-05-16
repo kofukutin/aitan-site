@@ -81,15 +81,19 @@ TOEICでは、会話文やリスニングで「食事の場所」として登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話文やリスニングで「食事の場所」として登場
 ## 🤔  restaurant との違いは？
 
 - **diner**：カジュアルで手軽な食事を提供するアメリカ式の食堂
-- **[restaurant](/word/restaurant/)**：一般的なレストラン全般（高級店から大衆店まで幅広い）
+- **[restaurant](/restaurant)**：一般的なレストラン全般（高級店から大衆店まで幅広い）
 
 dinerは特にアメリカで見られるカジュアルな雰囲気の食堂を指し、restaurantは食事を提供する店全般を指します。
 
@@ -105,15 +109,15 @@ dinerは特にアメリカで見られるカジュアルな雰囲気の食堂を
 
 ## 🧩 あわせて覚えたい
 
-- [cafeteria](/word/cafeteria/)：セルフサービス式の食堂
-- [eatery](/word/eatery/)：飲食店（カジュアルな表現）
+- [cafeteria](/cafeteria)：セルフサービス式の食堂
+- [eatery](/eatery)：飲食店（カジュアルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [menu](/word/menu/)：メニュー、献立表
-- [waiter](/word/waiter/)：ウェイター、給仕
+- [menu](/menu)：メニュー、献立表
+- [waiter](/waiter)：ウェイター、給仕
 
 
-<!-- cvid: aid34_bid38 -->
+<!-- cvid: aid30_bid03 -->

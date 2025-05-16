@@ -81,15 +81,19 @@ TOEICでは、指示や案内文、ガイドラインなどで「suggested」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、指示や案内文、ガイドラインなどで「suggested」が
 ## 🤔  recommended との違いは？
 
 - **suggested**：控えめに提案・推奨された（選択肢の一つとして示す）
-- **[recommended](/word/recommended/)**：強く勧められた（より積極的な推奨）
+- **[recommended](/recommended)**：強く勧められた（より積極的な推奨）
 
 「suggested」は「よければどうぞ」という控えめなニュアンス、「recommended」は「これがベストです」と強く勧める時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、指示や案内文、ガイドラインなどで「suggested」が
 
 ## 🧩 あわせて覚えたい
 
-- [proposed](/word/proposed/)：提案された（より正式な提案）
-- [advised](/word/advised/)：助言された、忠告された
+- [proposed](/proposed)：提案された（より正式な提案）
+- [advised](/advised)：助言された、忠告された
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/word/required/)：必須の
-- [optional](/word/optional/)：任意の
+- [required](/required)：必須の
+- [optional](/optional)：任意の
 
-<!-- cvid: aid12_bid15 -->
+<!-- cvid: aid24_bid37 -->

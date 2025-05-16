@@ -81,15 +81,19 @@ TOEICでは会議や業務中の「集中力」や「濃度」に関する話題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務中の「集中力」や「濃度」に関する話題
 ## 🤔  focus との違いは？
 
 - **concentration**：意識や注意を一つのことに集める「集中力」や「濃度」を表す。
-- **[focus](/word/focus/)**：焦点・重点そのものや、意識を向ける対象を指す。
+- **[focus](/focus)**：焦点・重点そのものや、意識を向ける対象を指す。
 
 concentrationは「集中する力や状態」に重点があり、focusは「何に意識を向けるか」という対象や焦点に重点があります。
 
@@ -105,14 +109,14 @@ concentrationは「集中する力や状態」に重点があり、focusは「�
 
 ## 🧩 あわせて覚えたい
 
-- [attention](/word/attention/)：注意、注目
-- [distraction](/word/distraction/)：気を散らすもの、注意散漫
+- [attention](/attention)：注意、注目
+- [distraction](/distraction)：気を散らすもの、注意散漫
 
 ---
 
 ## 📖 できればこれも
 
-- [effort](/word/effort/)：努力
-- [priority](/word/priority/)：優先順位
+- [effort](/effort)：努力
+- [priority](/priority)：優先順位
 
-<!-- cvid: aid41_bid41 -->
+<!-- cvid: aid21_bid24 -->

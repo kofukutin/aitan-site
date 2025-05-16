@@ -81,15 +81,19 @@ TOEICではPart 7のメールや案内文、アンケート結果の説明など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7のメールや案内文、アンケート結果の説明など
 ## 🤔  survey との違いは？
 
 - **questionnaire**：質問が書かれた用紙やフォーム自体を指す
-- **[survey](/word/survey/)**：調査全体や調査活動そのものを指す
+- **[survey](/survey)**：調査全体や調査活動そのものを指す
 
 questionnaireは「質問票」そのもの、surveyは「調査」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ questionnaireは「質問票」そのもの、surveyは「調査」という広�
 
 ## 🧩 あわせて覚えたい
 
-- [form](/word/form/)：用紙、書式
-- [application](/word/application/)：申込書、申請
+- [form](/form)：用紙、書式
+- [application](/application)：申込書、申請
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類
-- [feedback](/word/feedback/)：意見、感想
+- [document](/document)：書類
+- [feedback](/feedback)：意見、感想
 
-<!-- cvid: aid14_bid14 -->
+<!-- cvid: aid17_bid18 -->

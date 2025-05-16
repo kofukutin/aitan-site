@@ -81,15 +81,19 @@ IT関連やビジネス文書の中で、システムや機器の設定に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やビジネス文書の中で、システムや機器の設定に関す
 ## 🤔  set との違いは？
 
 - **configure**：システムや機器などを細かく設定・構成する
-- **[set](/word/set/)**：一般的に「置く」「設定する」など幅広い意味で使う
+- **[set](/set)**：一般的に「置く」「設定する」など幅広い意味で使う
 
 configureは特にITや機械の詳細な設定に使い、setはもっと広い場面で使います。
 
@@ -105,14 +109,14 @@ configureは特にITや機械の詳細な設定に使い、setはもっと広い
 
 ## 🧩 あわせて覚えたい
 
-- [customize](/word/customize/)：カスタマイズする、好みに合わせて変更する
-- [install](/word/install/)：インストールする、設置する
+- [customize](/customize)：カスタマイズする、好みに合わせて変更する
+- [install](/install)：インストールする、設置する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust/)：調整する
-- [operate](/word/operate/)：操作する
+- [adjust](/adjust)：調整する
+- [operate](/operate)：操作する
 
-<!-- cvid: aid24_bid41 -->
+<!-- cvid: aid10_bid01 -->

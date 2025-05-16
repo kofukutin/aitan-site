@@ -81,15 +81,19 @@ The city will organize a firework display for the festival.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The city will organize a firework display for the festival.
 ## 🤔  spark との違いは？
 
 - **firework**：夜空に打ち上げる「花火」やその仕掛けを指す。
-- **[spark](/word/spark/)**：火花や小さな閃光を指し、花火のような大きな爆発やショーは含まない。
+- **[spark](/spark)**：火花や小さな閃光を指し、花火のような大きな爆発やショーは含まない。
 
 fireworkはイベントやお祭りの「花火」、sparkは火打石や電気などの「火花」として使い分けます。
 
@@ -105,14 +109,14 @@ fireworkはイベントやお祭りの「花火」、sparkは火打石や電気�
 
 ## 🧩 あわせて覚えたい
 
-- [explosion](/word/explosion/)：爆発
-- [festival](/word/festival/)：祭り
+- [explosion](/explosion)：爆発
+- [festival](/festival)：祭り
 
 ---
 
 ## 📖 できればこれも
 
-- [celebration](/word/celebration/)：祝賀、祝い
-- [display](/word/display/)：展示、ショー
+- [celebration](/celebration)：祝賀、祝い
+- [display](/display)：展示、ショー
 
-<!-- cvid: aid08_bid06 -->
+<!-- cvid: aid46_bid25 -->

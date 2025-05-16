@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【memory】の意味・使い方・例文 ― recollectionとの違い【TOEIC英単語】"
 description: "memoryの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrecollectionとの違いもわかりやすく学べます。"
 word: "memory"
@@ -81,15 +81,19 @@ TOEICでは「記憶」や「メモリ容量」など、日常会話やIT関連�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「記憶」や「メモリ容量」など、日常会話やIT関連�
 ## 🤔  recollection との違いは？
 
 - **memory**：一般的な「記憶」や「思い出」、記憶力、ITのメモリも含む幅広い意味。
-- **[recollection](/word/recollection/)**：特定の出来事や体験を「思い出すこと」「回想」というややフォーマルな表現。
+- **[recollection](/recollection)**：特定の出来事や体験を「思い出すこと」「回想」というややフォーマルな表現。
 
 memoryは日常的な「記憶」全般を指し、recollectionは「意識して思い出す」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ memoryは日常的な「記憶」全般を指し、recollectionは「意識し�
 
 ## 🧩 あわせて覚えたい
 
-- [imagination](/word/imagination/)：想像力
-- [forgetfulness](/word/forgetfulness/)：忘れっぽさ
+- [imagination](/imagination)：想像力
+- [forgetfulness](/forgetfulness)：忘れっぽさ
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/word/remind/)：思い出させる
-- [record](/word/record/)：記録する
+- [remind](/remind)：思い出させる
+- [record](/record)：記録する
 
-<!-- cvid: aid49_bid00 -->
+<!-- cvid: aid20_bid20 -->

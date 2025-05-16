@@ -81,15 +81,19 @@ TOEICでは環境問題や企業の社会的責任に関する長文でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や企業の社会的責任に関する長文でよく登
 ## 🤔  preservation との違いは？
 
 - **conservation**：自然や資源を守りながら有効に使うこと
-- **[preservation](/word/preservation/)**：そのままの状態を維持し、変化させずに保存すること
+- **[preservation](/preservation)**：そのままの状態を維持し、変化させずに保存すること
 
 conservationは「使いながら守る」、preservationは「手を加えずに保つ」という違いがあります。
 
@@ -105,14 +109,14 @@ conservationは「使いながら守る」、preservationは「手を加えず�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection/)：保護、防御
-- [waste](/word/waste/)：浪費、無駄
+- [protection](/protection)：保護、防御
+- [waste](/waste)：浪費、無駄
 
 ---
 
 ## 📖 できればこれも
 
-- [resource](/word/resource/)：資源
-- [environment](/word/environment/)：環境
+- [resource](/resource)：資源
+- [environment](/environment)：環境
 
-<!-- cvid: aid43_bid23 -->
+<!-- cvid: aid39_bid39 -->

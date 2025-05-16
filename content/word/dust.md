@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【dust】の意味・使い方・例文 ― dirtとの違い【TOEIC英単語】"
 description: "dustの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdirtとの違いもわかりやすく学べます。"
 word: "dust"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、部屋やオフィスの清掃、環
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid15" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid15" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、部屋やオフィスの清掃、環
 ## 🤔  dirt との違いは？
 
 - **dust**：空気中や物の表面にたまる細かいほこりやちり
-- **[dirt](/word/dirt/)**：土や泥、汚れ全般
+- **[dirt](/dirt)**：土や泥、汚れ全般
 
 dustは主に細かい粒子状のほこりを指し、dirtは土や泥、または広い意味での「汚れ」を指します。
 
@@ -105,14 +109,14 @@ dustは主に細かい粒子状のほこりを指し、dirtは土や泥、また
 
 ## 🧩 あわせて覚えたい
 
-- [powder](/word/powder/)：粉、粉末
-- [ash](/word/ash/)：灰
+- [powder](/powder)：粉、粉末
+- [ash](/ash)：灰
 
 ---
 
 ## 📖 できればこれも
 
-- [sand](/word/sand/)：砂
-- [mud](/word/mud/)：泥
+- [sand](/sand)：砂
+- [mud](/mud)：泥
 
-<!-- cvid: aid36_bid28 -->
+<!-- cvid: aid24_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは空港やホテル、会議の場面で「到着」を尋ねたり案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港やホテル、会議の場面で「到着」を尋ねたり案
 ## 🤔  appearance との違いは？
 
 - **arrival**：人や物が物理的に到着すること
-- **[appearance](/word/appearance/)**：見た目や外観、または突然現れること
+- **[appearance](/appearance)**：見た目や外観、または突然現れること
 
 arrivalは「到着」という動作や出来事を指し、appearanceは「姿を現すこと」や「見た目」に焦点を当てます。
 
@@ -105,14 +109,14 @@ arrivalは「到着」という動作や出来事を指し、appearanceは「姿
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure/)：出発
-- [visitor](/word/visitor/)：訪問者
+- [departure](/departure)：出発
+- [visitor](/visitor)：訪問者
 
 ---
 
 ## 📖 できればこれも
 
-- [departure](/word/departure/)：出発
-- [visitor](/word/visitor/)：訪問者
+- [departure](/departure)：出発
+- [visitor](/visitor)：訪問者
 
-<!-- cvid: aid14_bid18 -->
+<!-- cvid: aid25_bid36 -->

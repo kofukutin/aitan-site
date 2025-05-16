@@ -82,15 +82,19 @@ TOEICでは契約やサービスの説明、保証内容の記述などでよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは契約やサービスの説明、保証内容の記述などでよく
 ## 🤔  assure との違いは？
 
 - **guarantee**：結果や約束を「確実に守る」と強く保証するニュアンス
-- **[assure](/word/assure/)**：相手の不安を和らげるために「安心させる」ときに使う
+- **[assure](/assure)**：相手の不安を和らげるために「安心させる」ときに使う
 
 guaranteeは「実際の結果や返金などを約束」する時に使い、assureは「気持ちを安心させる」時に使います。
 
@@ -106,14 +110,14 @@ guaranteeは「実際の結果や返金などを約束」する時に使い、as
 
 ## 🧩 あわせて覚えたい
 
-- [warranty](/word/warranty/)：保証書、製品保証
-- [promise](/word/promise/)：約束する
+- [warranty](/warranty)：保証書、製品保証
+- [promise](/promise)：約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [ensure](/word/ensure/)：確実にする
-- [confirm](/word/confirm/)：確認する
+- [ensure](/ensure)：確実にする
+- [confirm](/confirm)：確認する
 
-<!-- cvid: aid10_bid18 -->
+<!-- cvid: aid23_bid21 -->

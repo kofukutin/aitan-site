@@ -81,15 +81,19 @@ TOEICでは、軍事や技術、歴史に関する長文や説明文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、軍事や技術、歴史に関する長文や説明文で登場す
 ## 🤔  shield との違いは？
 
 - **armor**：体全体や乗り物を守るためのよろい・装甲
-- **[shield](/word/shield/)**：手に持って使う盾
+- **[shield](/shield)**：手に持って使う盾
 
 armorは全身や機械など広い範囲を守る防具、shieldは主に手で持って部分的に防御する道具です。
 
@@ -105,14 +109,14 @@ armorは全身や機械など広い範囲を守る防具、shieldは主に手で
 
 ## 🧩 あわせて覚えたい
 
-- [helmet](/word/helmet/)：ヘルメット、頭部を守る防具
-- [protection](/word/protection/)：保護、防御
+- [helmet](/helmet)：ヘルメット、頭部を守る防具
+- [protection](/protection)：保護、防御
 
 ---
 
 ## 📖 できればこれも
 
-- [weapon](/word/weapon/)：武器
-- [defense](/word/defense/)：防御
+- [weapon](/weapon)：武器
+- [defense](/defense)：防御
 
-<!-- cvid: aid48_bid49 -->
+<!-- cvid: aid35_bid22 -->

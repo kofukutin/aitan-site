@@ -81,15 +81,19 @@ IT機器や会議の録音・再生に関する場面で出題されることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT機器や会議の録音・再生に関する場面で出題されることが
 ## 🤔  replay との違いは？
 
 - **playback**：録音・録画されたものを再生することやその機能を指す。
-- **[replay](/word/replay/)**：もう一度再生すること、または再試合・再演など「再び行う」意味もある。
+- **[replay](/replay)**：もう一度再生すること、または再試合・再演など「再び行う」意味もある。
 
 playbackは機械的な再生や機能に使われ、replayは「もう一度やる」動作やイベントにも幅広く使われます。
 
@@ -105,14 +109,14 @@ playbackは機械的な再生や機能に使われ、replayは「もう一度や
 
 ## 🧩 あわせて覚えたい
 
-- [recording](/word/recording/)：録音、録画
-- [pause](/word/pause/)：一時停止
+- [recording](/recording)：録音、録画
+- [pause](/pause)：一時停止
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/word/display/)：表示する、ディスプレイ
-- [volume](/word/volume/)：音量
+- [display](/display)：表示する、ディスプレイ
+- [volume](/volume)：音量
 
-<!-- cvid: aid01_bid43 -->
+<!-- cvid: aid17_bid16 -->

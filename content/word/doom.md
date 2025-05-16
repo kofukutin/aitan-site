@@ -81,15 +81,19 @@ TOEICでは、記事や物語文などで「破滅」「絶望的な運命」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や物語文などで「破滅」「絶望的な運命」と
 ## 🤔  fate との違いは？
 
 - **doom**：避けられない悪い運命や破滅を強調
-- **[fate](/word/fate/)**：良い・悪いを問わず「運命」全般
+- **[fate](/fate)**：良い・悪いを問わず「運命」全般
 
 doomは「破滅」や「死」など否定的な運命を指すのに対し、fateは単に「運命」や「定め」を広く表します。
 
@@ -105,14 +109,14 @@ doomは「破滅」や「死」など否定的な運命を指すのに対し、f
 
 ## 🧩 あわせて覚えたい
 
-- [destiny](/word/destiny/)：宿命、運命（やや肯定的なニュアンス）
-- [ruin](/word/ruin/)：破滅、崩壊
+- [destiny](/destiny)：宿命、運命（やや肯定的なニュアンス）
+- [ruin](/ruin)：破滅、崩壊
 
 ---
 
 ## 📖 できればこれも
 
-- [crisis](/word/crisis/)：危機
-- [disaster](/word/disaster/)：災害、惨事
+- [crisis](/crisis)：危機
+- [disaster](/disaster)：災害、惨事
 
-<!-- cvid: aid01_bid18 -->
+<!-- cvid: aid08_bid16 -->

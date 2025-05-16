@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、乗り物や交通手段を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、乗り物や交通手段を表
 ## 🤔  scooter との違いは？
 
 - **motorcycle**：エンジン付きの二輪車全般を指し、スピードやパワーがあるものも含む。
-- **[scooter](/word/scooter/)**：小型で足元が平らなタイプの二輪車を指し、主に短距離や街乗り向き。
+- **[scooter](/scooter)**：小型で足元が平らなタイプの二輪車を指し、主に短距離や街乗り向き。
 
 motorcycleは大型・高速走行も可能な二輪車全般、scooterは小型・軽量で扱いやすい二輪車を指します。
 
@@ -105,14 +109,14 @@ motorcycleは大型・高速走行も可能な二輪車全般、scooterは小型
 
 ## 🧩 あわせて覚えたい
 
-- [bicycle](/word/bicycle/)：自転車
-- [vehicle](/word/vehicle/)：乗り物、車両
+- [bicycle](/bicycle)：自転車
+- [vehicle](/vehicle)：乗り物、車両
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/word/helmet/)：ヘルメット
-- [driver](/word/driver/)：運転者
+- [helmet](/helmet)：ヘルメット
+- [driver](/driver)：運転者
 
-<!-- cvid: aid48_bid02 -->
+<!-- cvid: aid03_bid26 -->

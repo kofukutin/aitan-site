@@ -81,15 +81,19 @@ TOEICでは主に物流や出荷、倉庫管理などの場面で「loading」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に物流や出荷、倉庫管理などの場面で「loading」�
 ## 🤔  shipment との違いは？
 
 - **loading**：荷物を積み込む作業やその過程
-- **[shipment](/word/shipment/)**：出荷、発送そのものや発送された荷物
+- **[shipment](/shipment)**：出荷、発送そのものや発送された荷物
 
 loadingは「積み込み」という作業自体を指し、shipmentは「発送」や「出荷されたもの」を指します。
 
@@ -105,14 +109,14 @@ loadingは「積み込み」という作業自体を指し、shipmentは「発�
 
 ## 🧩 あわせて覚えたい
 
-- [unloading](/word/unloading/)：荷下ろし、積み下ろし
-- [delivery](/word/delivery/)：配達、配送
+- [unloading](/unloading)：荷下ろし、積み下ろし
+- [delivery](/delivery)：配達、配送
 
 ---
 
 ## 📖 できればこれも
 
-- [transport](/word/transport/)：輸送、運搬
-- [cargo](/word/cargo/)：貨物、積み荷
+- [transport](/transport)：輸送、運搬
+- [cargo](/cargo)：貨物、積み荷
 
-<!-- cvid: aid18_bid29 -->
+<!-- cvid: aid20_bid07 -->

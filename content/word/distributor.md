@@ -81,15 +81,19 @@ TOEICではビジネス文書や契約書、Eメールなどで頻出し、流�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や契約書、Eメールなどで頻出し、流�
 ## 🤔  wholesaler との違いは？
 
 - **distributor**：メーカーと小売店の間で商品を流通・配給する業者
-- **[wholesaler](/word/wholesaler/)**：商品を大量に仕入れて小売店などに販売する卸売業者
+- **[wholesaler](/wholesaler)**：商品を大量に仕入れて小売店などに販売する卸売業者
 
 distributorは流通や配給の役割が強く、wholesalerは「大量仕入れ・販売」に特化しています。
 
@@ -105,14 +109,14 @@ distributorは流通や配給の役割が強く、wholesalerは「大量仕入�
 
 ## 🧩 あわせて覚えたい
 
-- [retailer](/word/retailer/)：小売業者、消費者に直接販売する業者
-- [supplier](/word/supplier/)：供給業者、商品やサービスを提供する会社
+- [retailer](/retailer)：小売業者、消費者に直接販売する業者
+- [supplier](/supplier)：供給業者、商品やサービスを提供する会社
 
 ---
 
 ## 📖 できればこれも
 
-- [manufacturer](/word/manufacturer/)：製造業者、メーカー
-- [client](/word/client/)：顧客、取引先
+- [manufacturer](/manufacturer)：製造業者、メーカー
+- [client](/client)：顧客、取引先
 
-<!-- cvid: aid26_bid10 -->
+<!-- cvid: aid34_bid41 -->

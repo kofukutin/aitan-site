@@ -81,15 +81,19 @@ TOEICでは、受動態や分詞構文、形容詞としての使い方でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や分詞構文、形容詞としての使い方でよく
 ## 🤔  famous との違いは？
 
 - **known**：多くの人に知られている、認識されている
-- **[famous](/word/famous/)**：非常に有名な、名声がある
+- **[famous](/famous)**：非常に有名な、名声がある
 
 **known**は単に「知られている」状態を指し、必ずしも高い評価や名声を伴いません。一方、**famous**は「とても有名で名声がある」ことを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、受動態や分詞構文、形容詞としての使い方でよく
 
 ## 🧩 あわせて覚えたい
 
-- [unknown](/word/unknown/)：知られていない、未知の
-- [recognized](/word/recognized/)：認められている、評価されている
+- [unknown](/unknown)：知られていない、未知の
+- [recognized](/recognized)：認められている、評価されている
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/word/familiar/)：よく知られている、親しい
-- [noted](/word/noted/)：著名な、有名な
+- [familiar](/familiar)：よく知られている、親しい
+- [noted](/noted)：著名な、有名な
 
-<!-- cvid: aid48_bid07 -->
+<!-- cvid: aid24_bid41 -->

@@ -81,15 +81,19 @@ TOEICでは会議やイベント、プロジェクトへの「参加者」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベント、プロジェクトへの「参加者」や「
 ## 🤔  attending との違いは？
 
 - **participating**：積極的に活動やイベントに「関与している」「参加している」ことを強調
-- **[attending](/word/attending/)**：単に「出席している」「その場にいる」ことを表す
+- **[attending](/attending)**：単に「出席している」「その場にいる」ことを表す
 
 participatingは「実際に何かをしている」ニュアンスがあり、attendingは「その場にいるだけ」の場合にも使われます。
 
@@ -105,14 +109,14 @@ participatingは「実際に何かをしている」ニュアンスがあり、a
 
 ## 🧩 あわせて覚えたい
 
-- [involved](/word/involved/)：関与している
-- [joining](/word/joining/)：加わっている
+- [involved](/involved)：関与している
+- [joining](/joining)：加わっている
 
 ---
 
 ## 📖 できればこれも
 
-- [contributing](/word/contributing/)：貢献している
-- [present](/word/present/)：出席している
+- [contributing](/contributing)：貢献している
+- [present](/present)：出席している
 
-<!-- cvid: aid46_bid35 -->
+<!-- cvid: aid23_bid20 -->

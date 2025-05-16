@@ -81,15 +81,19 @@ TOEICでは、addedは「added value（付加価値）」や「added cost（追�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、addedは「added value（付加価値）」や「added cost（追�
 ## 🤔  additional との違いは？
 
 - **added**：すでに何かに「加えられた」ことを強調
-- **[additional](/word/additional/)**：「追加の」「さらに」という意味で、これから加える可能性や追加分を示す
+- **[additional](/additional)**：「追加の」「さらに」という意味で、これから加える可能性や追加分を示す
 
 「added」は既に加えられた状態を表し、「additional」はこれから加えるものや追加分を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、addedは「added value（付加価値）」や「added cost（追�
 
 ## 🧩 あわせて覚えたい
 
-- [extra](/word/extra/)：余分の、追加の
-- [supplementary](/word/supplementary/)：補足の、追加の
+- [extra](/extra)：余分の、追加の
+- [supplementary](/supplementary)：補足の、追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/word/attached/)：添付された
-- [included](/word/included/)：含まれた
+- [attached](/attached)：添付された
+- [included](/included)：含まれた
 
-<!-- cvid: aid41_bid03 -->
+<!-- cvid: aid37_bid11 -->

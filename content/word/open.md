@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【open】の意味・使い方・例文 ― unlockとの違い【TOEIC英単語】"
 description: "openの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでunlockとの違いもわかりやすく学べます。"
 word: "open"
@@ -81,15 +81,19 @@ openはTOEICのリスニングや指示文で頻出し、特にドアや会議�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ openはTOEICのリスニングや指示文で頻出し、特にドアや会議�
 ## 🤔  unlock との違いは？
 
 - **open**：ドアや箱などを「開ける」、またはお店やイベントを「始める」
-- **[unlock](/word/unlock/)**：鍵を「解除する」、ロックを「外す」
+- **[unlock](/unlock)**：鍵を「解除する」、ロックを「外す」
 
 openは「開ける」動作全般に使い、unlockは「鍵を外して開けられる状態にする」ことに特化しています。
 
@@ -105,14 +109,14 @@ openは「開ける」動作全般に使い、unlockは「鍵を外して開け�
 
 ## 🧩 あわせて覚えたい
 
-- [close](/word/close/)：閉める、閉じる
-- [start](/word/start/)：始める
+- [close](/close)：閉める、閉じる
+- [start](/start)：始める
 
 ---
 
 ## 📖 できればこれも
 
-- [begin](/word/begin/)：始める
-- [enter](/word/enter/)：入る
+- [begin](/begin)：始める
+- [enter](/enter)：入る
 
-<!-- cvid: aid09_bid22 -->
+<!-- cvid: aid23_bid21 -->

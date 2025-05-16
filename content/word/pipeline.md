@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「pipeline」が「工程」や「進�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「pipeline」が「工程」や「進�
 ## 🤔  process との違いは？
 
 - **pipeline**：一連の流れや工程、または物理的な配管を指す
-- **[process](/word/process/)**：物事の進行や処理の「過程」「手順」を指す
+- **[process](/process)**：物事の進行や処理の「過程」「手順」を指す
 
 pipelineは「流れ」や「連続した工程」に重点があり、processは「手順」や「処理方法」に焦点を当てます。
 
@@ -105,14 +109,14 @@ pipelineは「流れ」や「連続した工程」に重点があり、process�
 
 ## 🧩 あわせて覚えたい
 
-- [channel](/word/channel/)：通路、伝達経路
-- [workflow](/word/workflow/)：作業の流れ、業務工程
+- [channel](/channel)：通路、伝達経路
+- [workflow](/workflow)：作業の流れ、業務工程
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、通信網
-- [system](/word/system/)：システム、体系
+- [network](/network)：ネットワーク、通信網
+- [system](/system)：システム、体系
 
-<!-- cvid: aid32_bid04 -->
+<!-- cvid: aid29_bid41 -->

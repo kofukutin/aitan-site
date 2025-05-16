@@ -81,15 +81,19 @@ TOEICでは、科学的な説明やビジネス文書の中で「induced」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学的な説明やビジネス文書の中で「induced」が�
 ## 🤔  caused との違いは？
 
 - **induced**：外部からの働きかけや人工的な要因で「引き起こす」ニュアンスが強い
-- **[caused](/word/caused/)**：一般的に「原因となる」「引き起こす」という広い意味
+- **[caused](/caused)**：一般的に「原因となる」「引き起こす」という広い意味
 
 inducedは特に「何かの作用や操作によって起こされた」ことを強調し、causedはより広く自然な原因にも使われます。
 
@@ -105,14 +109,14 @@ inducedは特に「何かの作用や操作によって起こされた」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [trigger](/word/trigger/)：引き金となる、きっかけを作る
-- [stimulate](/word/stimulate/)：刺激する、活性化する
+- [trigger](/trigger)：引き金となる、きっかけを作る
+- [stimulate](/stimulate)：刺激する、活性化する
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/word/generate/)：生み出す、発生させる
-- [affect](/word/affect/)：影響を与える
+- [generate](/generate)：生み出す、発生させる
+- [affect](/affect)：影響を与える
 
-<!-- cvid: aid47_bid28 -->
+<!-- cvid: aid17_bid45 -->

@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、歴史や文化、企業の再生な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid13" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid13" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、歴史や文化、企業の再生な
 ## 🤔  revival との違いは？
 
 - **renaissance**：文化や芸術、組織などの大規模な「再生」「復興」に使われ、歴史的・フォーマルな響きが強い。
-- **[revival](/word/revival/)**：一時的に衰えたものが再び活発になる「復活」「再流行」など、より広くカジュアルに使われる。
+- **[revival](/revival)**：一時的に衰えたものが再び活発になる「復活」「再流行」など、より広くカジュアルに使われる。
 
 "renaissance"は特に文化的・歴史的な大きな変化や再生に使われ、"revival"は一時的な流行や活動の再開にも使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主に長文読解パートで、歴史や文化、企業の再生な
 
 ## 🧩 あわせて覚えたい
 
-- [rebirth](/word/rebirth/)：再生、生まれ変わり
-- [enlightenment](/word/enlightenment/)：啓蒙、啓発
+- [rebirth](/rebirth)：再生、生まれ変わり
+- [enlightenment](/enlightenment)：啓蒙、啓発
 
 ---
 
 ## 📖 できればこれも
 
-- [innovation](/word/innovation/)：革新、新しい発明
-- [heritage](/word/heritage/)：遺産、伝統
+- [innovation](/innovation)：革新、新しい発明
+- [heritage](/heritage)：遺産、伝統
 
-<!-- cvid: aid06_bid18 -->
+<!-- cvid: aid32_bid13 -->

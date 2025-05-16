@@ -81,15 +81,19 @@ TOEICではITや品質管理、セキュリティ関連の説明文で「detecte
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや品質管理、セキュリティ関連の説明文で「detecte
 ## 🤔  discovered との違いは？
 
 - **detected**：機械や技術、注意深い観察によって「検出する」「発見する」
-- **[discovered](/word/discovered/)**：新しいものや未知のものを「発見する」
+- **[discovered](/discovered)**：新しいものや未知のものを「発見する」
 
 detectedは「見えにくいものを見つける」ニュアンスが強く、discoveredは「新しいものを発見する」場面で使われます。
 
@@ -105,14 +109,14 @@ detectedは「見えにくいものを見つける」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify/)：特定する、識別する
-- [notice](/word/notice/)：気づく、注目する
+- [identify](/identify)：特定する、識別する
+- [notice](/notice)：気づく、注目する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [monitor](/word/monitor/)：監視する
+- [analyze](/analyze)：分析する
+- [monitor](/monitor)：監視する
 
-<!-- cvid: aid40_bid49 -->
+<!-- cvid: aid14_bid15 -->

@@ -81,15 +81,19 @@ TOEICではニュース記事やお知らせ文などで、事故や災害、悲
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではニュース記事やお知らせ文などで、事故や災害、悲
 ## 🤔  disaster との違いは？
 
 - **tragedy**：人の感情や人生に大きな悲しみをもたらす出来事
-- **[disaster](/word/disaster/)**：自然災害や事故など、被害や混乱を引き起こす出来事
+- **[disaster](/disaster)**：自然災害や事故など、被害や混乱を引き起こす出来事
 
 tragedyは「悲しみ」に焦点があり、disasterは「被害や混乱」に重点があります。
 
@@ -105,14 +109,14 @@ tragedyは「悲しみ」に焦点があり、disasterは「被害や混乱」�
 
 ## 🧩 あわせて覚えたい
 
-- [misfortune](/word/misfortune/)：不運、災難
-- [catastrophe](/word/catastrophe/)：大惨事、壊滅的な出来事
+- [misfortune](/misfortune)：不運、災難
+- [catastrophe](/catastrophe)：大惨事、壊滅的な出来事
 
 ---
 
 ## 📖 できればこれも
 
-- [incident](/word/incident/)：出来事、事件
-- [accident](/word/accident/)：事故
+- [incident](/incident)：出来事、事件
+- [accident](/accident)：事故
 
-<!-- cvid: aid29_bid02 -->
+<!-- cvid: aid24_bid48 -->

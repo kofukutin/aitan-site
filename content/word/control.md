@@ -82,15 +82,19 @@ TOEICでは「管理」「制御」「支配」などの意味で、主に名詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「管理」「制御」「支配」などの意味で、主に名詞
 ## 🤔  manage との違いは？
 
 - **control**：物事や人を自分の意図通りに動かす「支配・制御」のニュアンスが強い
-- **[manage](/word/manage/)**：困難な状況や仕事を「うまくやりくりする」「管理する」意味合いが強い
+- **[manage](/manage)**：困難な状況や仕事を「うまくやりくりする」「管理する」意味合いが強い
 
 controlは「完全に支配・制御する」イメージ、manageは「工夫してうまく扱う」イメージです。
 
@@ -106,14 +110,14 @@ controlは「完全に支配・制御する」イメージ、manageは「工夫�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise/)：監督する、指導する
-- [regulate](/word/regulate/)：規制する、調整する
+- [supervise](/supervise)：監督する、指導する
+- [regulate](/regulate)：規制する、調整する
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/word/authority/)：権限、権威
-- [monitor](/word/monitor/)：監視する、見守る
+- [authority](/authority)：権限、権威
+- [monitor](/monitor)：監視する、見守る
 
-<!-- cvid: aid47_bid03 -->
+<!-- cvid: aid05_bid37 -->

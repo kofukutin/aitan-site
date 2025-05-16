@@ -81,15 +81,19 @@ tradingはTOEICの長文読解やビジネス関連の文書でよく見かけ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tradingはTOEICの長文読解やビジネス関連の文書でよく見かけ�
 ## 🤔  transaction との違いは？
 
 - **trading**：取引や売買という活動全体やプロセスを指す。
-- **[transaction](/word/transaction/)**：個々の取引や売買の「1件」を指す。
+- **[transaction](/transaction)**：個々の取引や売買の「1件」を指す。
 
 tradingは「取引活動」全体、transactionは「1回の取引」という違いがあります。
 
@@ -105,14 +109,14 @@ tradingは「取引活動」全体、transactionは「1回の取引」という�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange/)：交換、両替
-- [commerce](/word/commerce/)：商業、商取引
+- [exchange](/exchange)：交換、両替
+- [commerce](/commerce)：商業、商取引
 
 ---
 
 ## 📖 できればこれも
 
-- [investment](/word/investment/)：投資
-- [market](/word/market/)：市場
+- [investment](/investment)：投資
+- [market](/market)：市場
 
-<!-- cvid: aid29_bid29 -->
+<!-- cvid: aid32_bid34 -->

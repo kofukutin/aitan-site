@@ -81,15 +81,19 @@ TOEICでは科学や技術に関する説明文や、比喩的な表現で「mag
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術に関する説明文や、比喩的な表現で「mag
 ## 🤔  attract との違いは？
 
 - **magnet**：物理的な「磁石」や、比喩的に「人や物を強く引きつけるもの」を指す名詞。
-- **[attract](/word/attract/)**：引きつける、魅了するという動詞。
+- **[attract](/attract)**：引きつける、魅了するという動詞。
 
 magnetは「引きつける力そのものや物」を表し、attractは「引きつける」という動作を表します。
 
@@ -105,14 +109,14 @@ magnetは「引きつける力そのものや物」を表し、attractは「引�
 
 ## 🧩 あわせて覚えたい
 
-- [repel](/word/repel/)：はじく、寄せ付けない
-- [metal](/word/metal/)：金属
+- [repel](/repel)：はじく、寄せ付けない
+- [metal](/metal)：金属
 
 ---
 
 ## 📖 できればこれも
 
-- [electricity](/word/electricity/)：電気
-- [device](/word/device/)：装置
+- [electricity](/electricity)：電気
+- [device](/device)：装置
 
-<!-- cvid: aid29_bid00 -->
+<!-- cvid: aid32_bid27 -->

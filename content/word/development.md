@@ -81,15 +81,19 @@ TOEICではビジネスやプロジェクトの進行、製品開発などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスやプロジェクトの進行、製品開発などの文
 ## 🤔  growth との違いは？
 
 - **development**：新しいものを作ったり、計画的に進歩・発展させること
-- **[growth](/word/growth/)**：自然に大きくなったり増えたりすること
+- **[growth](/growth)**：自然に大きくなったり増えたりすること
 
 developmentは意図的・計画的な進展や開発に使われ、growthは自然な増加や成長に使われます。
 
@@ -105,14 +109,14 @@ developmentは意図的・計画的な進展や開発に使われ、growthは自
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/word/progress/)：進歩、前進
-- [improvement](/word/improvement/)：改善、向上
+- [progress](/progress)：進歩、前進
+- [improvement](/improvement)：改善、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：計画、プロジェクト
-- [plan](/word/plan/)：計画、案
+- [project](/project)：計画、プロジェクト
+- [plan](/plan)：計画、案
 
-<!-- cvid: aid12_bid14 -->
+<!-- cvid: aid49_bid39 -->

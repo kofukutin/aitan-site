@@ -81,15 +81,19 @@ TOEICでは広告やお知らせ、イベント案内などの長文で「lotter
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やお知らせ、イベント案内などの長文で「lotter
 ## 🤔  raffle との違いは？
 
 - **lottery**：大規模で公的な宝くじや抽選を指すことが多い
-- **[raffle](/word/raffle/)**：慈善イベントなどで使われる小規模な抽選
+- **[raffle](/raffle)**：慈善イベントなどで使われる小規模な抽選
 
 lotteryは国や自治体などが主催する大きな宝くじ、raffleは学校や団体のイベントで行う小さな抽選会に使われます。
 
@@ -105,14 +109,14 @@ lotteryは国や自治体などが主催する大きな宝くじ、raffleは学�
 
 ## 🧩 あわせて覚えたい
 
-- [gamble](/word/gamble/)：賭け事、ギャンブル
-- [jackpot](/word/jackpot/)：（くじやスロットの）特賞、大当たり
+- [gamble](/gamble)：賭け事、ギャンブル
+- [jackpot](/jackpot)：（くじやスロットの）特賞、大当たり
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize/)：賞、賞品
-- [ticket](/word/ticket/)：券、チケット
+- [prize](/prize)：賞、賞品
+- [ticket](/ticket)：券、チケット
 
-<!-- cvid: aid45_bid45 -->
+<!-- cvid: aid14_bid34 -->

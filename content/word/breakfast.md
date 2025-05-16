@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【breakfast】の意味・使い方・例文 ― brunchとの違い【TOEIC英単語】"
 description: "breakfastの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbrunchとの違いもわかりやすく学べます。"
 word: "breakfast"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、ホテル・レストランの場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、ホテル・レストランの場面
 ## 🤔  brunch との違いは？
 
 - **breakfast**：1日の最初に食べる「朝食」
-- **[brunch](/word/brunch/)**：朝食と昼食を兼ねた遅めの食事
+- **[brunch](/brunch)**：朝食と昼食を兼ねた遅めの食事
 
 breakfastは朝早く食べる食事、brunchは朝食と昼食の間に食べる遅めの食事です。
 
@@ -105,14 +109,14 @@ breakfastは朝早く食べる食事、brunchは朝食と昼食の間に食べ�
 
 ## 🧩 あわせて覚えたい
 
-- [dinner](/word/dinner/)：夕食
-- [meal](/word/meal/)：食事
+- [dinner](/dinner)：夕食
+- [meal](/meal)：食事
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/word/lunch/)：昼食
-- [snack](/word/snack/)：軽食
+- [lunch](/lunch)：昼食
+- [snack](/snack)：軽食
 
-<!-- cvid: aid02_bid03 -->
+<!-- cvid: aid19_bid14 -->

@@ -81,15 +81,19 @@ TOEICではメールや通知文などで「至急対応が必要」といった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや通知文などで「至急対応が必要」といった
 ## 🤔  immediately との違いは？
 
 - **urgently**：緊急性や重要性を強調して「急いで」「至急に」
-- **[immediately](/word/immediately/)**：単に「すぐに」「直ちに」という時間的な即時性
+- **[immediately](/immediately)**：単に「すぐに」「直ちに」という時間的な即時性
 
 「urgently」は「重要だから急いで」というニュアンスがあり、「immediately」は単に時間的な速さを表します。
 
@@ -105,14 +109,14 @@ TOEICではメールや通知文などで「至急対応が必要」といった
 
 ## 🧩 あわせて覚えたい
 
-- [promptly](/word/promptly/)：迅速に、すぐに
-- [eventually](/word/eventually/)：最終的に、やがて
+- [promptly](/promptly)：迅速に、すぐに
+- [eventually](/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く、素早く
-- [seriously](/word/seriously/)：真剣に、深刻に
+- [quickly](/quickly)：速く、素早く
+- [seriously](/seriously)：真剣に、深刻に
 
-<!-- cvid: aid48_bid25 -->
+<!-- cvid: aid07_bid21 -->

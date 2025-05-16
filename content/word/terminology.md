@@ -81,15 +81,19 @@ TOEICでは、専門分野の説明や業界ごとの用語解説の文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、専門分野の説明や業界ごとの用語解説の文脈で出
 ## 🤔  jargon との違いは？
 
 - **terminology**：特定分野で公式に使われる専門用語や用語集
-- **[jargon](/word/jargon/)**：専門家同士が使う難解な業界用語や俗語
+- **[jargon](/jargon)**：専門家同士が使う難解な業界用語や俗語
 
 terminologyは体系的・公式な用語を指し、jargonは内輪的・非公式な専門語や難解語を指します。
 
@@ -105,14 +109,14 @@ terminologyは体系的・公式な用語を指し、jargonは内輪的・非公
 
 ## 🧩 あわせて覚えたい
 
-- [vocabulary](/word/vocabulary/)：語彙、単語集
-- [expression](/word/expression/)：表現、言い回し
+- [vocabulary](/vocabulary)：語彙、単語集
+- [expression](/expression)：表現、言い回し
 
 ---
 
 ## 📖 できればこれも
 
-- [definition](/word/definition/)：定義
-- [concept](/word/concept/)：概念
+- [definition](/definition)：定義
+- [concept](/concept)：概念
 
-<!-- cvid: aid29_bid05 -->
+<!-- cvid: aid41_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは会社紹介やビジネス記事、組織の説明文などで「fou
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社紹介やビジネス記事、組織の説明文などで「fou
 ## 🤔  entrepreneur との違いは？
 
 - **founder**：会社や団体などを最初に設立した人
-- **[entrepreneur](/word/entrepreneur/)**：新しいビジネスを始める起業家
+- **[entrepreneur](/entrepreneur)**：新しいビジネスを始める起業家
 
 founderは「設立者」として組織の始まりに関わる人を指し、entrepreneurは「起業家」として新しいビジネスを生み出す人を指します。必ずしも同じ人物とは限りません。
 
@@ -105,14 +109,14 @@ founderは「設立者」として組織の始まりに関わる人を指し、e
 
 ## 🧩 あわせて覚えたい
 
-- [cofounder](/word/cofounder/)：共同創業者
-- [successor](/word/successor/)：後継者
+- [cofounder](/cofounder)：共同創業者
+- [successor](/successor)：後継者
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish/)：設立する
-- [organization](/word/organization/)：組織
+- [establish](/establish)：設立する
+- [organization](/organization)：組織
 
-<!-- cvid: aid20_bid37 -->
+<!-- cvid: aid16_bid12 -->

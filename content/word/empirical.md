@@ -81,15 +81,19 @@ TOEICでは、科学的な記事やビジネスレポートの中で「empirical
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid32" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid32" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学的な記事やビジネスレポートの中で「empirical
 ## 🤔  theoretical との違いは？
 
 - **empirical**：実際の経験や観察、実験に基づく
-- **[theoretical](/word/theoretical/)**：理論上の、仮説に基づく
+- **[theoretical](/theoretical)**：理論上の、仮説に基づく
 
 empiricalは「実際に観察・実験した結果」に重点があり、theoreticalは「理論や仮説」に重点があります。現場のデータ重視か、理論重視かで使い分けます。
 
@@ -105,14 +109,14 @@ empiricalは「実際に観察・実験した結果」に重点があり、theor
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical/)：実用的な、実際的な
-- [objective](/word/objective/)：客観的な
+- [practical](/practical)：実用的な、実際的な
+- [objective](/objective)：客観的な
 
 ---
 
 ## 📖 できればこれも
 
-- [statistical](/word/statistical/)：統計的な
-- [analytical](/word/analytical/)：分析的な
+- [statistical](/statistical)：統計的な
+- [analytical](/analytical)：分析的な
 
-<!-- cvid: aid44_bid13 -->
+<!-- cvid: aid22_bid32 -->

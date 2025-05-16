@@ -81,15 +81,19 @@ TOEICでは、広告や商品説明、ビジネスメールなどで「cosmetic�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告や商品説明、ビジネスメールなどで「cosmetic�
 ## 🤔  makeup との違いは？
 
 - **cosmetic**：化粧品全般や美容目的の製品を指し、ややフォーマルな響き。
-- **[makeup](/word/makeup/)**：主に顔に使う化粧品や「メイクそのもの」を指し、カジュアルな場面でよく使う。
+- **[makeup](/makeup)**：主に顔に使う化粧品や「メイクそのもの」を指し、カジュアルな場面でよく使う。
 
 「cosmetic」は製品や業界全体を指すことが多く、「makeup」は実際の化粧や顔に塗るものを指すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、広告や商品説明、ビジネスメールなどで「cosmetic�
 
 ## 🧩 あわせて覚えたい
 
-- [skincare](/word/skincare/)：スキンケア、肌の手入れ
-- [ointment](/word/ointment/)：軟膏、塗り薬
+- [skincare](/skincare)：スキンケア、肌の手入れ
+- [ointment](/ointment)：軟膏、塗り薬
 
 ---
 
 ## 📖 できればこれも
 
-- [pharmaceutical](/word/pharmaceutical/)：医薬品、薬剤
-- [fragrance](/word/fragrance/)：香り、香水
+- [pharmaceutical](/pharmaceutical)：医薬品、薬剤
+- [fragrance](/fragrance)：香り、香水
 
-<!-- cvid: aid27_bid13 -->
+<!-- cvid: aid25_bid44 -->

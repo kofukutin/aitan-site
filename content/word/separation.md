@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【separation】の意味・使い方・例文 ― divisionとの違い【TOEIC英単語】"
 description: "separationの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdivisionとの違いもわかりやすく学べます。"
 word: "separation"
@@ -81,15 +81,19 @@ TOEICでは「分離」「区別」「別居」などの意味で、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「分離」「区別」「別居」などの意味で、ビジネス
 ## 🤔  division との違いは？
 
 - **separation**：物や人が物理的・感情的に「分かれる」「離れる」ことを強調
-- **[division](/word/division/)**：全体を「部分や部門に分ける」こと、または「区分」を強調
+- **[division](/division)**：全体を「部分や部門に分ける」こと、または「区分」を強調
 
 separationは「離れる」「切り離す」ニュアンスが強く、divisionは「分割」「区分」など構造的な分け方に使われます。
 
@@ -105,14 +109,14 @@ separationは「離れる」「切り離す」ニュアンスが強く、divisio
 
 ## 🧩 あわせて覚えたい
 
-- [isolation](/word/isolation/)：孤立、隔離
-- [connection](/word/connection/)：つながり、接続
+- [isolation](/isolation)：孤立、隔離
+- [connection](/connection)：つながり、接続
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [departure](/word/departure/)：出発、離脱
+- [agreement](/agreement)：合意、契約
+- [departure](/departure)：出発、離脱
 
-<!-- cvid: aid09_bid08 -->
+<!-- cvid: aid11_bid44 -->

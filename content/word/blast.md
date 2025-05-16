@@ -81,15 +81,19 @@ blastは、事故やトラブル、工場や現場の説明などで出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ blastは、事故やトラブル、工場や現場の説明などで出題され
 ## 🤔  explosion との違いは？
 
 - **blast**：爆発や突風など、急激で強い力や音を強調する
-- **[explosion](/word/explosion/)**：爆発そのものの現象や出来事を指す
+- **[explosion](/explosion)**：爆発そのものの現象や出来事を指す
 
 blastは「爆風」や「衝撃」に焦点を当て、explosionは「爆発」という出来事自体を指します。
 
@@ -105,14 +109,14 @@ blastは「爆風」や「衝撃」に焦点を当て、explosionは「爆発」
 
 ## 🧩 あわせて覚えたい
 
-- [burst](/word/burst/)：破裂、突然の爆発
-- [gust](/word/gust/)：突風、強い一吹き
+- [burst](/burst)：破裂、突然の爆発
+- [gust](/gust)：突風、強い一吹き
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/word/impact/)：衝撃、影響
-- [shock](/word/shock/)：衝撃、ショック
+- [impact](/impact)：衝撃、影響
+- [shock](/shock)：衝撃、ショック
 
-<!-- cvid: aid12_bid35 -->
+<!-- cvid: aid36_bid36 -->

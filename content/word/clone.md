@@ -82,15 +82,19 @@ TOEICではITや科学技術、製品説明の文脈で登場することが多�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではITや科学技術、製品説明の文脈で登場することが多�
 ## 🤔  copy との違いは？
 
 - **clone**：元と全く同じ遺伝子や機能を持つもの、またはその作成。
-- **[copy](/word/copy/)**：元と似ているが、必ずしも完全一致ではない複製や写し。
+- **[copy](/copy)**：元と似ているが、必ずしも完全一致ではない複製や写し。
 
 cloneは「完全な同一性」に重点があり、copyは「似ているが違いがある場合」も含みます。
 
@@ -106,14 +110,14 @@ cloneは「完全な同一性」に重点があり、copyは「似ているが�
 
 ## 🧩 あわせて覚えたい
 
-- [replica](/word/replica/)：精巧な複製品
-- [duplicate](/word/duplicate/)：まったく同じもの、複製
+- [replica](/replica)：精巧な複製品
+- [duplicate](/duplicate)：まったく同じもの、複製
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、デバイス
-- [sample](/word/sample/)：見本、サンプル
+- [device](/device)：装置、デバイス
+- [sample](/sample)：見本、サンプル
 
-<!-- cvid: aid24_bid11 -->
+<!-- cvid: aid13_bid43 -->

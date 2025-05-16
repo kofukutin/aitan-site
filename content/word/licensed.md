@@ -81,15 +81,19 @@ TOEICでは、職業や業務に関する文脈で「licensed」が頻出しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業や業務に関する文脈で「licensed」が頻出しま�
 ## 🤔  certified との違いは？
 
 - **licensed**：法律や公的機関から正式な免許・許可を受けている
-- **[certified](/word/certified/)**：専門機関や団体から資格や認定を受けている
+- **[certified](/certified)**：専門機関や団体から資格や認定を受けている
 
 「licensed」は主に法律や行政による許可、「certified」は専門的なスキルや知識の証明に使われる点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは、職業や業務に関する文脈で「licensed」が頻出しま�
 
 ## 🧩 あわせて覚えたい
 
-- [authorized](/word/authorized/)：権限を与えられた、認可された
-- [permit](/word/permit/)：許可証、許可する
+- [authorized](/authorized)：権限を与えられた、認可された
+- [permit](/permit)：許可証、許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [registered](/word/registered/)：登録された
-- [qualified](/word/qualified/)：資格のある
+- [registered](/registered)：登録された
+- [qualified](/qualified)：資格のある
 
-<!-- cvid: aid13_bid29 -->
+<!-- cvid: aid46_bid10 -->

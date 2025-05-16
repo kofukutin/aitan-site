@@ -81,15 +81,19 @@ Fresh bedding will be provided in your hotel room.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Fresh bedding will be provided in your hotel room.
 ## 🤔  linen との違いは？
 
 - **bedding**：ベッドで使う寝具一式（シーツ・毛布・枕カバーなど全体）
-- **[linen](/word/linen/)**：リネン素材のシーツやテーブルクロスなど、特に布製品を指す
+- **[linen](/linen)**：リネン素材のシーツやテーブルクロスなど、特に布製品を指す
 
 beddingは寝具全体を指し、linenは素材やシーツなど一部を強調する時に使います。
 
@@ -105,14 +109,14 @@ beddingは寝具全体を指し、linenは素材やシーツなど一部を強�
 
 ## 🧩 あわせて覚えたい
 
-- [blanket](/word/blanket/)：毛布
-- [mattress](/word/mattress/)：マットレス
+- [blanket](/blanket)：毛布
+- [mattress](/mattress)：マットレス
 
 ---
 
 ## 📖 できればこれも
 
-- [pillow](/word/pillow/)：枕
-- [sheet](/word/sheet/)：シーツ
+- [pillow](/pillow)：枕
+- [sheet](/sheet)：シーツ
 
-<!-- cvid: aid14_bid26 -->
+<!-- cvid: aid10_bid15 -->

@@ -81,15 +81,19 @@ trackingは、荷物の配送状況や業務の進捗管理など、ITやビジ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ trackingは、荷物の配送状況や業務の進捗管理など、ITやビジ�
 ## 🤔  monitoring との違いは？
 
 - **tracking**：物や人の動き・進捗を「追跡」して記録・管理すること
-- **[monitoring](/word/monitoring/)**：状況や状態を「監視」し、変化や異常を見守ること
+- **[monitoring](/monitoring)**：状況や状態を「監視」し、変化や異常を見守ること
 
 trackingは「動きや進行を追いかけて記録する」イメージ、monitoringは「状態を見守って異常がないか確認する」イメージです。
 
@@ -105,14 +109,14 @@ trackingは「動きや進行を追いかけて記録する」イメージ、mon
 
 ## 🧩 あわせて覚えたい
 
-- [trace](/word/trace/)：跡をたどる、追跡する
-- [shipment](/word/shipment/)：発送、出荷
+- [trace](/trace)：跡をたどる、追跡する
+- [shipment](/shipment)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録する、記録
-- [update](/word/update/)：更新する、最新情報にする
+- [record](/record)：記録する、記録
+- [update](/update)：更新する、最新情報にする
 
-<!-- cvid: aid23_bid12 -->
+<!-- cvid: aid09_bid26 -->

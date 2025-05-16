@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「説明した」「説明された」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「説明した」「説明された」という
 ## 🤔  described との違いは？
 
 - **explained**：理由や仕組みをわかりやすく伝える「説明した」
-- **[described](/word/described/)**：特徴や様子を詳しく「描写した」
+- **[described](/described)**：特徴や様子を詳しく「描写した」
 
 explainedは「なぜ・どうして」を明らかにする説明、describedは「どんなものか」を詳しく伝える描写に使います。
 
@@ -105,14 +109,14 @@ explainedは「なぜ・どうして」を明らかにする説明、described�
 
 ## 🧩 あわせて覚えたい
 
-- [clarify](/word/clarify/)：明確にする
-- [interpret](/word/interpret/)：解釈する
+- [clarify](/clarify)：明確にする
+- [interpret](/interpret)：解釈する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、発表する
-- [discuss](/word/discuss/)：議論する
+- [present](/present)：提示する、発表する
+- [discuss](/discuss)：議論する
 
-<!-- cvid: aid11_bid38 -->
+<!-- cvid: aid05_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、人物や行動の評価を問う文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、人物や行動の評価を問う文脈
 ## 🤔  silly との違いは？
 
 - **stupid**：知性や判断力が欠けている、強い否定的な意味。
-- **[silly](/word/silly/)**：子どもっぽい、軽率で浅はかな印象だが、stupidほど強い否定ではない。
+- **[silly](/silly)**：子どもっぽい、軽率で浅はかな印象だが、stupidほど強い否定ではない。
 
 **stupid**は相手を強く非難する時に使い、**silly**は冗談や軽い失敗など、やや柔らかいニュアンスで使われます。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞の語彙問題や、人物や行動の評価を問う文脈
 
 ## 🧩 あわせて覚えたい
 
-- [foolish](/word/foolish/)：愚かな、分別のない
-- [clever](/word/clever/)：賢い、頭の良い
+- [foolish](/foolish)：愚かな、分別のない
+- [clever](/clever)：賢い、頭の良い
 
 ---
 
 ## 📖 できればこれも
 
-- [smart](/word/smart/)：頭の良い、賢い
-- [careless](/word/careless/)：不注意な
+- [smart](/smart)：頭の良い、賢い
+- [careless](/careless)：不注意な
 
-<!-- cvid: aid03_bid17 -->
+<!-- cvid: aid46_bid04 -->

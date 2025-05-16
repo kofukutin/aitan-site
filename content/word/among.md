@@ -77,15 +77,19 @@ amongは、TOEICの文法問題や前置詞の使い分け問題でよく出題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ amongは、TOEICの文法問題や前置詞の使い分け問題でよく出題�
 ## 🤔  between との違いは？
 
 - **among**：3つ以上の集団の中で、という意味で使う
-- **[between](/word/between/)**：2つのものや人の間で、という意味で使う
+- **[between](/between)**：2つのものや人の間で、という意味で使う
 
 amongは「複数（3つ以上）の中で」、betweenは「2つの間で」と使い分けます。
 
@@ -101,15 +105,15 @@ amongは「複数（3つ以上）の中で」、betweenは「2つの間で」と
 
 ## 🧩 あわせて覚えたい
 
-- [within](/word/within/)：～の内部で、～以内で
-- [throughout](/word/throughout/)：～の至る所に、～の間中ずっと
+- [within](/within)：～の内部で、～以内で
+- [throughout](/throughout)：～の至る所に、～の間中ずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during/)：～の間に（期間を表す）
-- [across](/word/across/)：～を横切って、～中に
+- [during](/during)：～の間に（期間を表す）
+- [across](/across)：～を横切って、～中に
 
 
-<!-- cvid: aid09_bid03 -->
+<!-- cvid: aid35_bid42 -->

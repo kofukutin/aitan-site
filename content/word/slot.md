@@ -81,15 +81,19 @@ slotはTOEICの会話パートで「予約枠」や「空き時間」として�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ slotはTOEICの会話パートで「予約枠」や「空き時間」として�
 ## 🤔  schedule との違いは？
 
 - **slot**：決められた「枠」や「空き時間」を指す
-- **[schedule](/word/schedule/)**：全体の「予定表」や「スケジュール」を指す
+- **[schedule](/schedule)**：全体の「予定表」や「スケジュール」を指す
 
 slotは「予定の中の1つの枠」や「空き時間」を強調し、scheduleは全体の計画や流れを指します。
 
@@ -105,14 +109,14 @@ slotは「予定の中の1つの枠」や「空き時間」を強調し、schedu
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/word/appointment/)：予約、約束
-- [gap](/word/gap/)：隙間、空白
+- [appointment](/appointment)：予約、約束
+- [gap](/gap)：隙間、空白
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/word/shift/)：勤務時間、交代制
-- [period](/word/period/)：期間、時限
+- [shift](/shift)：勤務時間、交代制
+- [period](/period)：期間、時限
 
-<!-- cvid: aid13_bid07 -->
+<!-- cvid: aid16_bid02 -->

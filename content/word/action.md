@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンで「行動」「措置」として頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンで「行動」「措置」として頻
 ## 🤔  activity との違いは？
 
 - **action**：目的を持った具体的な「行動」や「措置」
-- **[activity](/word/activity/)**：一般的な「活動」や「行為」、動き全般
+- **[activity](/activity)**：一般的な「活動」や「行為」、動き全般
 
 **action**は「何かを達成するための具体的な行動」、**activity**は「広い意味での活動や動き」を指します。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスシーンで「行動」「措置」として頻
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision/)：決定、判断
-- [measure](/word/measure/)：対策、措置
+- [decision](/decision)：決定、判断
+- [measure](/measure)：対策、措置
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [process](/word/process/)：過程、手順
+- [plan](/plan)：計画
+- [process](/process)：過程、手順
 
-<!-- cvid: aid20_bid37 -->
+<!-- cvid: aid34_bid02 -->

@@ -82,15 +82,19 @@ TOEICでは、契約や案内文、ビジネス文書などで「～だけに限
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、契約や案内文、ビジネス文書などで「～だけに限
 ## 🤔  only との違いは？
 
 - **exclusively**：他を完全に除外して「～だけに限定して」という意味を強調するフォーマルな副詞
-- **[only](/word/only/)**：単に「～だけ」「～しか」と限定するが、カジュアルな場面でも広く使える
+- **[only](/only)**：単に「～だけ」「～しか」と限定するが、カジュアルな場面でも広く使える
 
 「exclusively」はフォーマルで強い限定を表し、ビジネスや公式文書でよく使われます。「only」は日常的で幅広い場面に使えます。
 
@@ -106,14 +110,14 @@ TOEICでは、契約や案内文、ビジネス文書などで「～だけに限
 
 ## 🧩 あわせて覚えたい
 
-- [solely](/word/solely/)：もっぱら、単独で
-- [entirely](/word/entirely/)：完全に、全く
+- [solely](/solely)：もっぱら、単独で
+- [entirely](/entirely)：完全に、全く
 
 ---
 
 ## 📖 できればこれも
 
-- [specifically](/word/specifically/)：特に、具体的に
-- [primarily](/word/primarily/)：主に
+- [specifically](/specifically)：特に、具体的に
+- [primarily](/primarily)：主に
 
-<!-- cvid: aid35_bid22 -->
+<!-- cvid: aid46_bid02 -->

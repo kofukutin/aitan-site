@@ -81,15 +81,19 @@ TOEICでは科学や技術に関する説明文や記事で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術に関する説明文や記事で見かけることが
 ## 🤔  molecule との違いは？
 
 - **particle**：物質を構成する「小さな粒」全般を指し、原子・分子・微粒子など幅広く使う。
-- **[molecule](/word/molecule/)**：2つ以上の原子が結合した「分子」を指し、化学的なまとまりを強調。
+- **[molecule](/molecule)**：2つ以上の原子が結合した「分子」を指し、化学的なまとまりを強調。
 
 particleは大きさや種類を問わず「粒」として広く使い、moleculeは「分子」という特定の化学単位を指します。
 
@@ -105,14 +109,14 @@ particleは大きさや種類を問わず「粒」として広く使い、molecu
 
 ## 🧩 あわせて覚えたい
 
-- [atom](/word/atom/)：原子
-- [substance](/word/substance/)：物質
+- [atom](/atom)：原子
+- [substance](/substance)：物質
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/word/element/)：元素
-- [compound](/word/compound/)：化合物
+- [element](/element)：元素
+- [compound](/compound)：化合物
 
-<!-- cvid: aid22_bid48 -->
+<!-- cvid: aid26_bid24 -->

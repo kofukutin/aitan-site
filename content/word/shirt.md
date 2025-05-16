@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で、服装や人物の説明としてよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、服装や人物の説明としてよ
 ## 🤔  blouse との違いは？
 
 - **shirt**：男女問わず着る襟付き・袖付きの上着全般を指す
-- **[blouse](/word/blouse/)**：主に女性用のブラウス（柔らかい素材の上着）を指す
+- **[blouse](/blouse)**：主に女性用のブラウス（柔らかい素材の上着）を指す
 
 shirtはフォーマル・カジュアル問わず使えますが、blouseは女性用で柔らかい印象の服に限定されます。
 
@@ -105,14 +109,14 @@ shirtはフォーマル・カジュアル問わず使えますが、blouseは女
 
 ## 🧩 あわせて覚えたい
 
-- [jacket](/word/jacket/)：ジャケット、上着
-- [suit](/word/suit/)：スーツ、背広
+- [jacket](/jacket)：ジャケット、上着
+- [suit](/suit)：スーツ、背広
 
 ---
 
 ## 📖 できればこれも
 
-- [pants](/word/pants/)：ズボン
-- [skirt](/word/skirt/)：スカート
+- [pants](/pants)：ズボン
+- [skirt](/skirt)：スカート
 
-<!-- cvid: aid14_bid30 -->
+<!-- cvid: aid12_bid18 -->

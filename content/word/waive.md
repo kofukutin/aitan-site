@@ -80,15 +80,19 @@ TOEICでは契約書や規約、案内文などで「手数料の免除」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid27_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは契約書や規約、案内文などで「手数料の免除」や「
 ## 🤔  relinquish との違いは？
 
 - **waive**：自分の権利や主張を進んで放棄する、または規則の適用を免除する
-- **[relinquish](/word/relinquish/)**：何かを（しぶしぶ・完全に）手放す、譲る
+- **[relinquish](/relinquish)**：何かを（しぶしぶ・完全に）手放す、譲る
 
 waiveは主に権利や規則の「放棄・免除」に使い、relinquishは物や地位などを「手放す・譲る」ときに使います。
 
@@ -104,14 +108,14 @@ waiveは主に権利や規則の「放棄・免除」に使い、relinquishは�
 
 ## 🧩 あわせて覚えたい
 
-- [forgo](/word/forgo/)：（自発的に）控える、断念する
-- [enforce](/word/enforce/)：（法律・規則などを）施行する、実施する
+- [forgo](/forgo)：（自発的に）控える、断念する
+- [enforce](/enforce)：（法律・規則などを）施行する、実施する
 
 ---
 
 ## 📖 できればこれも
 
-- [consent](/word/consent/)：同意する、承諾
-- [comply](/word/comply/)：従う、応じる
+- [consent](/consent)：同意する、承諾
+- [comply](/comply)：従う、応じる
 
-<!-- cvid: aid18_bid12 -->
+<!-- cvid: aid27_bid33 -->

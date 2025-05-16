@@ -81,15 +81,19 @@ TOEICの長文読解やビジネス文書の締めくくり部分でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解やビジネス文書の締めくくり部分でよく登場
 ## 🤔  summary との違いは？
 
 - **conclusion**：議論や出来事の最後に出される「結論」や「締めくくり」
-- **[summary](/word/summary/)**：内容全体の「要約」や「まとめ」
+- **[summary](/summary)**：内容全体の「要約」や「まとめ」
 
 conclusionは「最終的な判断や決定」を強調し、summaryは「全体の要点を簡潔にまとめる」ことに重点があります。
 
@@ -105,14 +109,14 @@ conclusionは「最終的な判断や決定」を強調し、summaryは「全体
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision/)：決定、判断
-- [result](/word/result/)：結果
+- [decision](/decision)：決定、判断
+- [result](/result)：結果
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約、まとめ
-- [recommendation](/word/recommendation/)：提案、勧告
+- [summary](/summary)：要約、まとめ
+- [recommendation](/recommendation)：提案、勧告
 
-<!-- cvid: aid35_bid14 -->
+<!-- cvid: aid23_bid21 -->

@@ -81,15 +81,19 @@ TOEICでは会議や試験、時間経過などの文脈で「passed」が使わ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や試験、時間経過などの文脈で「passed」が使わ
 ## 🤔  went との違いは？
 
 - **passed**：何かを通り過ぎる、合格・承認される、時間が経過するなどの意味。
-- **[went](/word/went/)**：「行く」の過去形で、場所の移動を表す。
+- **[went](/went)**：「行く」の過去形で、場所の移動を表す。
 
 「passed」は「通過」「合格」「承認」など幅広い意味で使われますが、「went」は単に「行く」という移動のみを指します。
 
@@ -105,14 +109,14 @@ TOEICでは会議や試験、時間経過などの文脈で「passed」が使わ
 
 ## 🧩 あわせて覚えたい
 
-- [fail](/word/fail/)：失敗する、不合格になる
-- [approve](/word/approve/)：承認する
+- [fail](/fail)：失敗する、不合格になる
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive/)：到着する
-- [move](/word/move/)：動く、移動する
+- [arrive](/arrive)：到着する
+- [move](/move)：動く、移動する
 
-<!-- cvid: aid13_bid07 -->
+<!-- cvid: aid41_bid14 -->

@@ -81,15 +81,19 @@ permitはTOEICの文法・語彙問題で「許可する」の意味や使い方
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ permitはTOEICの文法・語彙問題で「許可する」の意味や使い方
 ## 🤔  allow との違いは？
 
 - **permit**：公式・フォーマルな場面で「許可する」
-- **[allow](/word/allow/)**：日常的・幅広い場面で「許す」「可能にする」
+- **[allow](/allow)**：日常的・幅広い場面で「許す」「可能にする」
 
 permitは規則や権限に基づくフォーマルな許可、allowはもっとカジュアルで広い意味で使われます。
 
@@ -105,14 +109,14 @@ permitは規則や権限に基づくフォーマルな許可、allowはもっと
 
 ## 🧩 あわせて覚えたい
 
-- [authorize](/word/authorize/)：正式に認可する
-- [forbid](/word/forbid/)：禁止する
+- [authorize](/authorize)：正式に認可する
+- [forbid](/forbid)：禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [grant](/word/grant/)：与える、許可する
+- [approve](/approve)：承認する
+- [grant](/grant)：与える、許可する
 
-<!-- cvid: aid41_bid21 -->
+<!-- cvid: aid21_bid33 -->

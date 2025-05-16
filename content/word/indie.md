@@ -80,15 +80,19 @@ TOEICでは主にPart 7の広告や記事、Eメール文中で、音楽や映�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 7の広告や記事、Eメール文中で、音楽や映�
 ## 🤔  independent との違いは？
 
 - **indie**：主に音楽・映画・ゲームなどで「インディーズの」「独立系の」というカジュアルな表現。
-- **[independent](/word/independent/)**：より広い意味で「独立した」「自立した」を表し、フォーマルな場面でも使われる。
+- **[independent](/independent)**：より広い意味で「独立した」「自立した」を表し、フォーマルな場面でも使われる。
 
 indieは特定の業界でカジュアルに使われるのに対し、independentは一般的・フォーマルな文脈でも幅広く使われます。
 
@@ -104,14 +108,14 @@ indieは特定の業界でカジュアルに使われるのに対し、independe
 
 ## 🧩 あわせて覚えたい
 
-- [mainstream](/word/mainstream/)：主流の、一般的な
-- [alternative](/word/alternative/)：代替の、既存とは異なる
+- [mainstream](/mainstream)：主流の、一般的な
+- [alternative](/alternative)：代替の、既存とは異なる
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique/)：独自の、唯一の
-- [creative](/word/creative/)：創造的な
+- [unique](/unique)：独自の、唯一の
+- [creative](/creative)：創造的な
 
-<!-- cvid: aid33_bid43 -->
+<!-- cvid: aid13_bid30 -->

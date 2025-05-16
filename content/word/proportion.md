@@ -81,15 +81,19 @@ TOEICでは、統計やデータ、割合に関する説明文やレポートで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、統計やデータ、割合に関する説明文やレポートで
 ## 🤔  ratio との違いは？
 
 - **proportion**：全体に対する一部の割合やバランスを表す
-- **[ratio](/word/ratio/)**：2つの数量の比率や関係を数値で表す
+- **[ratio](/ratio)**：2つの数量の比率や関係を数値で表す
 
 proportionは全体の中での部分の割合やバランスを強調し、ratioは2つの数値の比較や関係を数値的に示すときに使います。
 
@@ -105,14 +109,14 @@ proportionは全体の中での部分の割合やバランスを強調し、rati
 
 ## 🧩 あわせて覚えたい
 
-- [percentage](/word/percentage/)：パーセンテージ、百分率
-- [fraction](/word/fraction/)：分数、部分
+- [percentage](/percentage)：パーセンテージ、百分率
+- [fraction](/fraction)：分数、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [distribution](/word/distribution/)：分布、配分
-- [portion](/word/portion/)：部分、一部
+- [distribution](/distribution)：分布、配分
+- [portion](/portion)：部分、一部
 
-<!-- cvid: aid46_bid09 -->
+<!-- cvid: aid42_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは、経済やビジネスに関する長文や記事で「wealth」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、経済やビジネスに関する長文や記事で「wealth」が
 ## 🤔  fortune との違いは？
 
 - **wealth**：主に経済的な「富」や「財産」を指し、客観的な資産の多さを表す。
-- **[fortune](/word/fortune/)**：財産だけでなく「運」や「幸運」の意味もあり、やや幅広いニュアンス。
+- **[fortune](/fortune)**：財産だけでなく「運」や「幸運」の意味もあり、やや幅広いニュアンス。
 
 wealthは具体的な資産や経済的豊かさを強調し、fortuneは財産に加えて運や偶然の要素も含みます。
 
@@ -105,14 +109,14 @@ wealthは具体的な資産や経済的豊かさを強調し、fortuneは財産�
 
 ## 🧩 あわせて覚えたい
 
-- [poverty](/word/poverty/)：貧困、貧しさ
-- [asset](/word/asset/)：資産、財産
+- [poverty](/poverty)：貧困、貧しさ
+- [asset](/asset)：資産、財産
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/word/income/)：収入
-- [property](/word/property/)：所有物、不動産
+- [income](/income)：収入
+- [property](/property)：所有物、不動産
 
-<!-- cvid: aid36_bid36 -->
+<!-- cvid: aid32_bid30 -->

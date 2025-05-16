@@ -81,15 +81,19 @@ TOEICでは副詞の使い分けや語彙問題で出題されやすく、「wel
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは副詞の使い分けや語彙問題で出題されやすく、「wel
 ## 🤔  poorly との違いは？
 
 - **badly**：悪い状態やひどさ、強い否定的感情を表す
-- **[poorly](/word/poorly/)**：質や能力が低いことをやや客観的に表す
+- **[poorly](/poorly)**：質や能力が低いことをやや客観的に表す
 
 「badly」は感情や主観的な「ひどさ」を強調しやすく、「poorly」は「質が低い」など客観的な評価に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは副詞の使い分けや語彙問題で出題されやすく、「wel
 
 ## 🧩 あわせて覚えたい
 
-- [well](/word/well/)：うまく、上手に
-- [seriously](/word/seriously/)：深刻に、真剣に
+- [well](/well)：うまく、上手に
+- [seriously](/seriously)：深刻に、真剣に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [easily](/word/easily/)：簡単に
+- [quickly](/quickly)：速く
+- [easily](/easily)：簡単に
 
-<!-- cvid: aid43_bid45 -->
+<!-- cvid: aid42_bid32 -->

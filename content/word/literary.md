@@ -81,15 +81,19 @@ TOEICでは、文学作品や出版、教育関連の記事や広告文で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid05_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文学作品や出版、教育関連の記事や広告文で見か
 ## 🤔  academic との違いは？
 
 - **literary**：文学に関する、文学的な
-- **[academic](/word/academic/)**：学問の、学術的な
+- **[academic](/academic)**：学問の、学術的な
 
 literaryは「文学」に特化した表現で、詩や小説などの芸術的な文章に使われます。academicは「学問全般」に関する広い意味で、理系・文系問わず教育や研究に関わる場面で使われます。
 
@@ -105,14 +109,14 @@ literaryは「文学」に特化した表現で、詩や小説などの芸術的
 
 ## 🧩 あわせて覚えたい
 
-- [artistic](/word/artistic/)：芸術的な
-- [fiction](/word/fiction/)：フィクション、小説
+- [artistic](/artistic)：芸術的な
+- [fiction](/fiction)：フィクション、小説
 
 ---
 
 ## 📖 できればこれも
 
-- [literal](/word/literal/)：文字通りの
-- [editor](/word/editor/)：編集者
+- [literal](/literal)：文字通りの
+- [editor](/editor)：編集者
 
-<!-- cvid: aid02_bid09 -->
+<!-- cvid: aid05_bid20 -->

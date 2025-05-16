@@ -81,15 +81,19 @@ ITやビジネスの文脈で、手順や規約、通信ルールとして登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの文脈で、手順や規約、通信ルールとして登場
 ## 🤔  procedure との違いは？
 
 - **protocol**：公式な手順や規約、特にITや外交で使われる
-- **[procedure](/word/procedure/)**：一般的な手順や方法
+- **[procedure](/procedure)**：一般的な手順や方法
 
 protocolは「公式性」や「厳格なルール」を強調し、procedureは日常的な手順や流れを指します。
 
@@ -105,14 +109,14 @@ protocolは「公式性」や「厳格なルール」を強調し、procedureは
 
 ## 🧩 あわせて覚えたい
 
-- [guideline](/word/guideline/)：指針、ガイドライン
-- [standard](/word/standard/)：基準、標準
+- [guideline](/guideline)：指針、ガイドライン
+- [standard](/standard)：基準、標準
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual/)：手引き、マニュアル
-- [policy](/word/policy/)：方針、ポリシー
+- [manual](/manual)：手引き、マニュアル
+- [policy](/policy)：方針、ポリシー
 
-<!-- cvid: aid18_bid41 -->
+<!-- cvid: aid10_bid14 -->

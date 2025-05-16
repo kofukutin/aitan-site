@@ -81,15 +81,19 @@ TOEICでは、案内文やイベント情報、ビジネス記事などで「sym
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内文やイベント情報、ビジネス記事などで「sym
 ## 🤔  conference との違いは？
 
 - **symposium**：特定のテーマについて専門家が発表・討論する公開会合
-- **[conference](/word/conference/)**：より広範な議題や目的で行われる大規模な会議
+- **[conference](/conference)**：より広範な議題や目的で行われる大規模な会議
 
 symposiumは討論や発表が中心で、conferenceは複数のセッションや議題を含む大規模な会議を指すことが多いです。
 
@@ -105,14 +109,14 @@ symposiumは討論や発表が中心で、conferenceは複数のセッション�
 
 ## 🧩 あわせて覚えたい
 
-- [seminar](/word/seminar/)：少人数で行う講義や研究会
-- [workshop](/word/workshop/)：実践的な作業や体験を重視した研修会
+- [seminar](/seminar)：少人数で行う講義や研究会
+- [workshop](/workshop)：実践的な作業や体験を重視した研修会
 
 ---
 
 ## 📖 できればこれも
 
-- [forum](/word/forum/)：公開討論会、意見交換の場
-- [panel](/word/panel/)：討論会、または討論する人々のグループ
+- [forum](/forum)：公開討論会、意見交換の場
+- [panel](/panel)：討論会、または討論する人々のグループ
 
-<!-- cvid: aid46_bid10 -->
+<!-- cvid: aid32_bid16 -->

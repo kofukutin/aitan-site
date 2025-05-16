@@ -83,7 +83,7 @@ We need a larger meeting room for the event.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+スキマ時間を使おう👇️
 
 ---
 
@@ -91,7 +91,11 @@ We need a larger meeting room for the event.
 
 <div class="info-center">
 ＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ We need a larger meeting room for the event.
 ## 🤔  bigger との違いは？
 
 - **larger**：サイズや規模が「より大きい」と客観的に表現する語。フォーマルな場面や数量・面積などにも使われやすい。
-- **[bigger](/word/bigger/)**：サイズや体積が「より大きい」とカジュアルに表現する語。主に物理的な大きさや子どもの会話で使われやすい。
+- **[bigger](/bigger)**：サイズや体積が「より大きい」とカジュアルに表現する語。主に物理的な大きさや子どもの会話で使われやすい。
 
 「larger」はビジネスや説明などフォーマルな場面で使われやすく、「bigger」は日常会話や子ども同士の会話でよく使われます。
 
@@ -107,14 +111,14 @@ We need a larger meeting room for the event.
 
 ## 🧩 あわせて覚えたい
 
-- [greater](/word/greater/)：より大きい（数量・程度がより多い）
-- [smaller](/word/smaller/)：より小さい
+- [greater](/greater)：より大きい（数量・程度がより多い）
+- [smaller](/smaller)：より小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [longer](/word/longer/)：より長い
-- [wider](/word/wider/)：より広い
+- [longer](/longer)：より長い
+- [wider](/wider)：より広い
 
-<!-- cvid: aid12_bid11 -->
+<!-- cvid: aid17_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは、企業文化や異文化理解、国ごとの特徴などを説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業文化や異文化理解、国ごとの特徴などを説明
 ## 🤔  custom との違いは？
 
 - **culture**：社会や組織全体の価値観・生活様式・雰囲気など広い意味の「文化」
-- **[custom](/word/custom/)**：特定の集団や個人が守る「習慣」や「しきたり」
+- **[custom](/custom)**：特定の集団や個人が守る「習慣」や「しきたり」
 
 「culture」は全体的な雰囲気や価値観を指し、「custom」は具体的な行動や伝統的な習慣を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、企業文化や異文化理解、国ごとの特徴などを説明
 
 ## 🧩 あわせて覚えたい
 
-- [tradition](/word/tradition/)：伝統、長く続く習慣
-- [civilization](/word/civilization/)：文明、社会の発展した状態
+- [tradition](/tradition)：伝統、長く続く習慣
+- [civilization](/civilization)：文明、社会の発展した状態
 
 ---
 
 ## 📖 できればこれも
 
-- [society](/word/society/)：社会、共同体
-- [value](/word/value/)：価値観、重要性
+- [society](/society)：社会、共同体
+- [value](/value)：価値観、重要性
 
-<!-- cvid: aid02_bid17 -->
+<!-- cvid: aid25_bid37 -->

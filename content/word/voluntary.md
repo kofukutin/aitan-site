@@ -81,15 +81,19 @@ TOEICでは「voluntary participation（自発的参加）」や「voluntary wor
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「voluntary participation（自発的参加）」や「voluntary wor
 ## 🤔  optional との違いは？
 
 - **voluntary**：自分の意思で行う、自発的な（強制されていない）
-- **[optional](/word/optional/)**：選択できる、やってもやらなくてもよい（義務ではない）
+- **[optional](/optional)**：選択できる、やってもやらなくてもよい（義務ではない）
 
 voluntaryは「自分の意志で進んで行う」ニュアンスが強く、optionalは「選択肢として自由」という意味合いが中心です。
 
@@ -105,14 +109,14 @@ voluntaryは「自分の意志で進んで行う」ニュアンスが強く、op
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [spontaneous](/word/spontaneous/)：自然発生的な、自発的な
+- [mandatory](/mandatory)：義務的な、強制の
+- [spontaneous](/spontaneous)：自然発生的な、自発的な
 
 ---
 
 ## 📖 できればこれも
 
-- [compulsory](/word/compulsory/)：強制的な、義務の
-- [willing](/word/willing/)：進んで～する、やる気がある
+- [compulsory](/compulsory)：強制的な、義務の
+- [willing](/willing)：進んで～する、やる気がある
 
-<!-- cvid: aid08_bid03 -->
+<!-- cvid: aid09_bid04 -->

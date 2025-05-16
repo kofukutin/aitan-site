@@ -80,15 +80,19 @@ TOEICでは、旅行や出張、海外赴任に関する長文やEメール、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、旅行や出張、海外赴任に関する長文やEメール、�
 ## 🤔  permit との違いは？
 
 - **visa**：入国や滞在のための公式な許可証
-- **[permit](/word/permit/)**：特定の行為（例：就労、運転など）を許可する証明書
+- **[permit](/permit)**：特定の行為（例：就労、運転など）を許可する証明書
 
 visaは主に国境を越える際の入国・滞在許可を指し、permitは就労や運転など特定の行為に対する許可証を指します。
 
@@ -104,14 +108,14 @@ visaは主に国境を越える際の入国・滞在許可を指し、permitは�
 
 ## 🧩 あわせて覚えたい
 
-- [passport](/word/passport/)：パスポート、旅券
-- [authorization](/word/authorization/)：許可、認可
+- [passport](/passport)：パスポート、旅券
+- [authorization](/authorization)：許可、認可
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類、文書
-- [application](/word/application/)：申請、応募
+- [document](/document)：書類、文書
+- [application](/application)：申請、応募
 
-<!-- cvid: aid26_bid01 -->
+<!-- cvid: aid41_bid02 -->

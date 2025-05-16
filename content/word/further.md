@@ -81,15 +81,19 @@ TOEICでは、追加説明や「さらに詳しく」などの文脈でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、追加説明や「さらに詳しく」などの文脈でよく出
 ## 🤔  farther との違いは？
 
 - **further**：物理的距離だけでなく、抽象的な「さらに」「追加で」にも使える
-- **[farther](/word/farther/)**：主に物理的な距離が「より遠い」場合に使う
+- **[farther](/farther)**：主に物理的な距離が「より遠い」場合に使う
 
 furtherは「議論をさらに深める」など抽象的な広がりにも使えますが、fartherは「より遠くへ行く」など物理的な距離に限定されます。
 
@@ -105,14 +109,14 @@ furtherは「議論をさらに深める」など抽象的な広がりにも使�
 
 ## 🧩 あわせて覚えたい
 
-- [advance](/word/advance/)：前進する、進める
-- [additional](/word/additional/)：追加の
+- [advance](/advance)：前進する、進める
+- [additional](/additional)：追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [more](/word/more/)：もっと多く
-- [beyond](/word/beyond/)：～を越えて
+- [more](/more)：もっと多く
+- [beyond](/beyond)：～を越えて
 
-<!-- cvid: aid40_bid07 -->
+<!-- cvid: aid43_bid47 -->

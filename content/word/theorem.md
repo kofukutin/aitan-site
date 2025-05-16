@@ -81,15 +81,19 @@ TOEICでは科学や技術系の長文、特に論文や説明文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術系の長文、特に論文や説明文で見かける
 ## 🤔  theory との違いは？
 
 - **theorem**：証明された命題や法則
-- **[theory](/word/theory/)**：理論、体系的な考え方や仮説
+- **[theory](/theory)**：理論、体系的な考え方や仮説
 
 theoremは「証明済みの事実」、theoryは「説明や予測の枠組み」で、証明の有無が大きな違いです。
 
@@ -105,14 +109,14 @@ theoremは「証明済みの事実」、theoryは「説明や予測の枠組み�
 
 ## 🧩 あわせて覚えたい
 
-- [axiom](/word/axiom/)：公理（証明を必要としない前提）
-- [proof](/word/proof/)：証明（命題が正しいことを示す手順）
+- [axiom](/axiom)：公理（証明を必要としない前提）
+- [proof](/proof)：証明（命題が正しいことを示す手順）
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/word/formula/)：公式、数式
-- [hypothesis](/word/hypothesis/)：仮説
+- [formula](/formula)：公式、数式
+- [hypothesis](/hypothesis)：仮説
 
-<!-- cvid: aid41_bid11 -->
+<!-- cvid: aid36_bid14 -->

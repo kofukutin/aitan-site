@@ -81,15 +81,19 @@ TOEICでは、福利厚生や健康、ストレス管理に関する長文や案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、福利厚生や健康、ストレス管理に関する長文や案
 ## 🤔  rest との違いは？
 
 - **relaxation**：くつろいで心身をリフレッシュすること、または緊張や規則の緩和
-- **[rest](/word/rest/)**：休息や睡眠など、活動を止めて体力を回復すること
+- **[rest](/rest)**：休息や睡眠など、活動を止めて体力を回復すること
 
 relaxationは「心身の緊張をほぐすこと」に重点があり、restは「体を休めること」に重点があります。
 
@@ -105,14 +109,14 @@ relaxationは「心身の緊張をほぐすこと」に重点があり、restは
 
 ## 🧩 あわせて覚えたい
 
-- [leisure](/word/leisure/)：余暇、自由時間
-- [stress](/word/stress/)：ストレス、緊張
+- [leisure](/leisure)：余暇、自由時間
+- [stress](/stress)：ストレス、緊張
 
 ---
 
 ## 📖 できればこれも
 
-- [comfort](/word/comfort/)：快適さ、心地よさ
-- [break](/word/break/)：休憩、中断
+- [comfort](/comfort)：快適さ、心地よさ
+- [break](/break)：休憩、中断
 
-<!-- cvid: aid09_bid01 -->
+<!-- cvid: aid18_bid09 -->

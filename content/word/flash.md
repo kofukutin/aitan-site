@@ -81,15 +81,19 @@ ITやビジネスの現場で、画面やライトが「点滅する」「一瞬
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの現場で、画面やライトが「点滅する」「一瞬
 ## 🤔  blink との違いは？
 
 - **flash**：一瞬強く光る、または素早く見せる
-- **[blink](/word/blink/)**：まばたきする、または光が何度も点滅する
+- **[blink](/blink)**：まばたきする、または光が何度も点滅する
 
 「flash」は一度だけ強く光るイメージ、「blink」は何度も繰り返し点滅するイメージです。
 
@@ -105,14 +109,14 @@ ITやビジネスの現場で、画面やライトが「点滅する」「一瞬
 
 ## 🧩 あわせて覚えたい
 
-- [shine](/word/shine/)：輝く、光る
-- [glow](/word/glow/)：ほのかに光る、輝く
+- [shine](/shine)：輝く、光る
+- [glow](/glow)：ほのかに光る、輝く
 
 ---
 
 ## 📖 できればこれも
 
-- [signal](/word/signal/)：合図する、信号
-- [display](/word/display/)：表示する、展示する
+- [signal](/signal)：合図する、信号
+- [display](/display)：表示する、展示する
 
-<!-- cvid: aid39_bid38 -->
+<!-- cvid: aid48_bid35 -->

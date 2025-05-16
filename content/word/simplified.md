@@ -81,15 +81,19 @@ TOEICでは、手続きや説明、書類などが「簡略化された」と述
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、手続きや説明、書類などが「簡略化された」と述
 ## 🤔  simple との違いは？
 
 - **simplified**：もともと複雑だったものが「簡略化された」ことを強調
-- **[simple](/word/simple/)**：最初から「単純な」「シンプルな」状態
+- **[simple](/simple)**：最初から「単純な」「シンプルな」状態
 
 「simplified」は「複雑なものを分かりやすくした」ニュアンスで、もともと単純なものには使いません。一方「simple」は最初からシンプルなものに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、手続きや説明、書類などが「簡略化された」と述
 
 ## 🧩 あわせて覚えたい
 
-- [streamlined](/word/streamlined/)：効率化された、合理化された
-- [complicated](/word/complicated/)：複雑な、込み入った
+- [streamlined](/streamlined)：効率化された、合理化された
+- [complicated](/complicated)：複雑な、込み入った
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [clarify](/word/clarify/)：明確にする
+- [efficient](/efficient)：効率的な
+- [clarify](/clarify)：明確にする
 
-<!-- cvid: aid49_bid44 -->
+<!-- cvid: aid42_bid37 -->

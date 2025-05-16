@@ -81,15 +81,19 @@ TOEICでは「大まかな」「荒い」などの意味で、形容詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「大まかな」「荒い」などの意味で、形容詞として
 ## 🤔  tough との違いは？
 
 - **rough**：表面がざらざらしている、または計画などが大まかであることを表す
-- **[tough](/word/tough/)**：困難・厳しい・丈夫なという意味で、精神的・物理的な強さや困難さを表す
+- **[tough](/tough)**：困難・厳しい・丈夫なという意味で、精神的・物理的な強さや困難さを表す
 
 「rough」は物理的な荒さや未完成さ、「tough」は困難さや強さに焦点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「大まかな」「荒い」などの意味で、形容詞として
 
 ## 🧩 あわせて覚えたい
 
-- [smooth](/word/smooth/)：なめらかな、つるつるした
-- [harsh](/word/harsh/)：厳しい、過酷な
+- [smooth](/smooth)：なめらかな、つるつるした
+- [harsh](/harsh)：厳しい、過酷な
 
 ---
 
 ## 📖 できればこれも
 
-- [hard](/word/hard/)：固い、難しい
-- [simple](/word/simple/)：簡単な、単純な
+- [hard](/hard)：固い、難しい
+- [simple](/simple)：簡単な、単純な
 
-<!-- cvid: aid05_bid03 -->
+<!-- cvid: aid43_bid12 -->

@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、ビジネス文書や会議の文脈で「改善
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、ビジネス文書や会議の文脈で「改善
 ## 🤔  progress との違いは？
 
 - **improvement**：何かが「より良くなること」「改善・改良」を強調
-- **[progress](/word/progress/)**：物事が「前進・進行」すること自体を強調
+- **[progress](/progress)**：物事が「前進・進行」すること自体を強調
 
 improvementは「質が良くなる」点に重点があり、progressは「進み続ける」ことに重点があります。
 
@@ -105,14 +109,14 @@ improvementは「質が良くなる」点に重点があり、progressは「進�
 
 ## 🧩 あわせて覚えたい
 
-- [development](/word/development/)：発展、開発
-- [enhancement](/word/enhancement/)：強化、向上
+- [development](/development)：発展、開発
+- [enhancement](/enhancement)：強化、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増加、増える
-- [growth](/word/growth/)：成長、増大
+- [increase](/increase)：増加、増える
+- [growth](/growth)：成長、増大
 
-<!-- cvid: aid28_bid21 -->
+<!-- cvid: aid21_bid40 -->

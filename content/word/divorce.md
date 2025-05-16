@@ -81,15 +81,19 @@ TOEICでは、家族や法律に関する長文やEメール、記事などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、家族や法律に関する長文やEメール、記事などで�
 ## 🤔  separation との違いは？
 
 - **divorce**：法的に婚姻関係を解消する「離婚」
-- **[separation](/word/separation/)**：夫婦が別居すること（必ずしも法的な離婚ではない）
+- **[separation](/separation)**：夫婦が別居すること（必ずしも法的な離婚ではない）
 
 divorceは正式な離婚を指し、separationは一時的な別居や関係の分離を意味します。
 
@@ -105,14 +109,14 @@ divorceは正式な離婚を指し、separationは一時的な別居や関係の
 
 ## 🧩 あわせて覚えたい
 
-- [marriage](/word/marriage/)：結婚
-- [custody](/word/custody/)：（子どもの）親権
+- [marriage](/marriage)：結婚
+- [custody](/custody)：（子どもの）親権
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、協定
-- [court](/word/court/)：裁判所
+- [agreement](/agreement)：合意、協定
+- [court](/court)：裁判所
 
-<!-- cvid: aid20_bid46 -->
+<!-- cvid: aid18_bid24 -->

@@ -81,15 +81,19 @@ TOEICでは統計データやグラフの説明文で見かけることが多い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは統計データやグラフの説明文で見かけることが多い
 ## 🤔  average との違いは？
 
 - **median**：データを小さい順に並べたときの真ん中の値
-- **[average](/word/average/)**：データの合計を個数で割った「平均値」
+- **[average](/average)**：データの合計を個数で割った「平均値」
 
 medianは極端な値（外れ値）の影響を受けにくいのが特徴で、averageは全体のバランスを示します。
 
@@ -105,14 +109,14 @@ medianは極端な値（外れ値）の影響を受けにくいのが特徴で�
 
 ## 🧩 あわせて覚えたい
 
-- [mode](/word/mode/)：最頻値（最もよく現れる値）
-- [mean](/word/mean/)：算術平均（一般的な平均値）
+- [mode](/mode)：最頻値（最もよく現れる値）
+- [mean](/mean)：算術平均（一般的な平均値）
 
 ---
 
 ## 📖 できればこれも
 
-- [percentile](/word/percentile/)：パーセンタイル（百分位）
-- [ratio](/word/ratio/)：比率
+- [percentile](/percentile)：パーセンタイル（百分位）
+- [ratio](/ratio)：比率
 
-<!-- cvid: aid37_bid41 -->
+<!-- cvid: aid31_bid22 -->

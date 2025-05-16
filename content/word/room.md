@@ -81,15 +81,19 @@ TOEICでは「会議室」や「空きスペース」など、ビジネスシー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid22_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「会議室」や「空きスペース」など、ビジネスシー
 ## 🤔  space との違いは？
 
 - **room**：物理的な「部屋」や「空間」「余地」を表す。日常会話やビジネスでよく使う。
-- **[space](/word/space/)**：より広い「空間」や「スペース」、抽象的な余白や宇宙も指す。
+- **[space](/space)**：より広い「空間」や「スペース」、抽象的な余白や宇宙も指す。
 
 roomは「部屋」や「ちょっとしたスペース」に使い、spaceは「広い空間」や「抽象的なスペース」に使われます。
 
@@ -105,14 +109,14 @@ roomは「部屋」や「ちょっとしたスペース」に使い、spaceは�
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area/)：区域、範囲
-- [capacity](/word/capacity/)：収容能力、容量
+- [area](/area)：区域、範囲
+- [capacity](/capacity)：収容能力、容量
 
 ---
 
 ## 📖 できればこれも
 
-- [floor](/word/floor/)：床、階
-- [office](/word/office/)：事務所、オフィス
+- [floor](/floor)：床、階
+- [office](/office)：事務所、オフィス
 
-<!-- cvid: aid23_bid45 -->
+<!-- cvid: aid22_bid38 -->

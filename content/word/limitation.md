@@ -81,15 +81,19 @@ TOEICでは、契約や業務の条件、能力の限界などを表す文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や業務の条件、能力の限界などを表す文脈で
 ## 🤔  restriction との違いは？
 
 - **limitation**：自然な制約や能力・条件の限界を表すことが多い
-- **[restriction](/word/restriction/)**：外部から課される「禁止・制限」など強制力のある制約
+- **[restriction](/restriction)**：外部から課される「禁止・制限」など強制力のある制約
 
 limitationは「本来の能力や条件による限界」にも使われ、restrictionは「ルールや規則による制限」に使われます。
 
@@ -105,14 +109,14 @@ limitationは「本来の能力や条件による限界」にも使われ、rest
 
 ## 🧩 あわせて覚えたい
 
-- [constraint](/word/constraint/)：制約、強い制限
-- [advantage](/word/advantage/)：利点、有利な点
+- [constraint](/constraint)：制約、強い制限
+- [advantage](/advantage)：利点、有利な点
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement/)：要件、必要条件
-- [condition](/word/condition/)：条件、状況
+- [requirement](/requirement)：要件、必要条件
+- [condition](/condition)：条件、状況
 
-<!-- cvid: aid21_bid06 -->
+<!-- cvid: aid02_bid22 -->

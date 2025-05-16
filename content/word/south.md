@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【south】の意味・使い方・例文 ― southernとの違い【TOEIC英単語】"
 description: "southの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsouthernとの違いもわかりやすく学べます。"
 word: "south"
@@ -81,15 +81,19 @@ Our new branch is located in the south of the city.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid22_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our new branch is located in the south of the city.
 ## 🤔  southern との違いは？
 
 - **south**：名詞で「南」「南方」や「南部」を指す。
-- **[southern](/word/southern/)**：形容詞で「南の」「南部の」という意味。
+- **[southern](/southern)**：形容詞で「南の」「南部の」という意味。
 
 「south」は場所や方角そのものを指し、「southern」はその方角に位置するものを形容します。
 
@@ -105,14 +109,14 @@ Our new branch is located in the south of the city.
 
 ## 🧩 あわせて覚えたい
 
-- [north](/word/north/)：北、北方
-- [east](/word/east/)：東、東方
+- [north](/north)：北、北方
+- [east](/east)：東、東方
 
 ---
 
 ## 📖 できればこれも
 
-- [west](/word/west/)：西、西方
-- [direction](/word/direction/)：方向
+- [west](/west)：西、西方
+- [direction](/direction)：方向
 
-<!-- cvid: aid28_bid23 -->
+<!-- cvid: aid22_bid16 -->

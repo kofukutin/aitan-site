@@ -80,15 +80,19 @@ TOEICでは契約や法務関連の長文、Eメール、通知文などで登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは契約や法務関連の長文、Eメール、通知文などで登�
 ## 🤔  lawyer との違いは？
 
 - **attorney**：法的代理権を持つ弁護士（特にアメリカでフォーマルな場面で使用）
-- **[lawyer](/word/lawyer/)**：法律の専門家全般を指し、日常的・広い意味で使われる
+- **[lawyer](/lawyer)**：法律の専門家全般を指し、日常的・広い意味で使われる
 
 attorneyは「代理人」としての役割が強調され、lawyerは法律の専門家全般を指します。アメリカでは法的手続きを行う場合はattorneyがよく使われます。
 
@@ -104,14 +108,14 @@ attorneyは「代理人」としての役割が強調され、lawyerは法律の
 
 ## 🧩 あわせて覚えたい
 
-- [prosecutor](/word/prosecutor/)：検察官
-- [client](/word/client/)：依頼人、顧客
+- [prosecutor](/prosecutor)：検察官
+- [client](/client)：依頼人、顧客
 
 ---
 
 ## 📖 できればこれも
 
-- [judge](/word/judge/)：裁判官
-- [contract](/word/contract/)：契約
+- [judge](/judge)：裁判官
+- [contract](/contract)：契約
 
-<!-- cvid: aid27_bid35 -->
+<!-- cvid: aid22_bid02 -->

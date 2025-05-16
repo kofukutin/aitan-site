@@ -81,15 +81,19 @@ TOEICでは「rare opportunity（めったにない機会）」や「rarely（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「rare opportunity（めったにない機会）」や「rarely（�
 ## 🤔  unusual との違いは？
 
 - **rare**：めったに起こらない、数が少ない
-- **[unusual](/word/unusual/)**：普通でない、変わっている
+- **[unusual](/unusual)**：普通でない、変わっている
 
 **rare**は「頻度が低い」「希少」という意味が強く、**unusual**は「普通とは違う」「変わっている」というニュアンスが中心です。
 
@@ -105,14 +109,14 @@ TOEICでは「rare opportunity（めったにない機会）」や「rarely（�
 
 ## 🧩 あわせて覚えたい
 
-- [common](/word/common/)：一般的な、よくある
-- [unique](/word/unique/)：唯一の、独特な
+- [common](/common)：一般的な、よくある
+- [unique](/unique)：唯一の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [frequent](/word/frequent/)：頻繁な
-- [typical](/word/typical/)：典型的な
+- [frequent](/frequent)：頻繁な
+- [typical](/typical)：典型的な
 
-<!-- cvid: aid28_bid02 -->
+<!-- cvid: aid14_bid03 -->

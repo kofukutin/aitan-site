@@ -81,15 +81,19 @@ TOEICでは、製品保証やサービス期間、経験談などの文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品保証やサービス期間、経験談などの文脈でよ
 ## 🤔  lifespan との違いは？
 
 - **lifetime**：人や物の「一生」や「生涯」を幅広く表す。経験や期間にも使う。
-- **[lifespan](/word/lifespan/)**：生物や物の「寿命」や「存続期間」を客観的に表す。
+- **[lifespan](/lifespan)**：生物や物の「寿命」や「存続期間」を客観的に表す。
 
 lifetimeは主観的・経験的なニュアンスがあり、lifespanは科学的・客観的な期間を指します。
 
@@ -105,14 +109,14 @@ lifetimeは主観的・経験的なニュアンスがあり、lifespanは科学�
 
 ## 🧩 あわせて覚えたい
 
-- [career](/word/career/)：職業人生、経歴
-- [generation](/word/generation/)：世代
+- [career](/career)：職業人生、経歴
+- [generation](/generation)：世代
 
 ---
 
 ## 📖 できればこれも
 
-- [period](/word/period/)：期間
-- [duration](/word/duration/)：継続時間
+- [period](/period)：期間
+- [duration](/duration)：継続時間
 
-<!-- cvid: aid38_bid03 -->
+<!-- cvid: aid31_bid08 -->

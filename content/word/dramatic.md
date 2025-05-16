@@ -81,15 +81,19 @@ TOEICでは、グラフや数値の変化、ビジネスの成果などを強調
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、グラフや数値の変化、ビジネスの成果などを強調
 ## 🤔  impressive との違いは？
 
 - **dramatic**：劇的で目立つ、変化や感情が大きいときに使う
-- **[impressive](/word/impressive/)**：人に強い印象を与える、感心させる
+- **[impressive](/impressive)**：人に強い印象を与える、感心させる
 
 dramaticは「劇的な変化」など動きや感情の大きさを強調し、impressiveは「印象深い」「感心する」など受け手の感じ方に重点があります。
 
@@ -105,14 +109,14 @@ dramaticは「劇的な変化」など動きや感情の大きさを強調し、
 
 ## 🧩 あわせて覚えたい
 
-- [subtle](/word/subtle/)：微妙な、目立たない
-- [theatrical](/word/theatrical/)：演劇的な、芝居がかった
+- [subtle](/subtle)：微妙な、目立たない
+- [theatrical](/theatrical)：演劇的な、芝居がかった
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、かなりの
-- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [significant](/significant)：重要な、かなりの
+- [remarkable](/remarkable)：注目すべき、著しい
 
-<!-- cvid: aid02_bid09 -->
+<!-- cvid: aid26_bid37 -->

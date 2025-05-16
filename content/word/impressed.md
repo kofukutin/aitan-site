@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「感心した」「印象を受けた」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「感心した」「印象を受けた」と
 ## 🤔  amazed との違いは？
 
 - **impressed**：何かに感心したり、良い印象を受けたときに使う
-- **[amazed](/word/amazed/)**：非常に驚いた、びっくりしたときに使う
+- **[amazed](/amazed)**：非常に驚いた、びっくりしたときに使う
 
 「impressed」はポジティブな評価や感心を表し、「amazed」は驚きや予想外の出来事に対する反応を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、会話や説明文で「感心した」「印象を受けた」と
 
 ## 🧩 あわせて覚えたい
 
-- [inspired](/word/inspired/)：刺激を受けた、やる気になった
-- [unimpressed](/word/unimpressed/)：感心しない、印象に残らない
+- [inspired](/inspired)：刺激を受けた、やる気になった
+- [unimpressed](/unimpressed)：感心しない、印象に残らない
 
 ---
 
 ## 📖 できればこれも
 
-- [satisfied](/word/satisfied/)：満足した
-- [pleased](/word/pleased/)：うれしい、満足した
+- [satisfied](/satisfied)：満足した
+- [pleased](/pleased)：うれしい、満足した
 
-<!-- cvid: aid02_bid18 -->
+<!-- cvid: aid34_bid31 -->

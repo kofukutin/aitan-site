@@ -80,15 +80,19 @@ TOEICでは、日付や時間を尋ねる・答える場面で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid05_bid44" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid44" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、日付や時間を尋ねる・答える場面で頻出します。
 ## 🤔  before との違いは？
 
 - **ago**：今から～前に（現在を基準にした過去の時点）
-- **[before](/word/before/)**：ある時点より前に（基準となる時点が現在とは限らない）
+- **[before](/before)**：ある時点より前に（基準となる時点が現在とは限らない）
 
 「ago」は必ず現在を基準にし、「before」は文中の他の出来事や時点を基準にします。
 
@@ -104,14 +108,14 @@ TOEICでは、日付や時間を尋ねる・答える場面で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [since](/word/since/)：～以来
-- [previous](/word/previous/)：前の、以前の
+- [since](/since)：～以来
+- [previous](/previous)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later/)：あとで、後に
-- [recently](/word/recently/)：最近
+- [later](/later)：あとで、後に
+- [recently](/recently)：最近
 
-<!-- cvid: aid13_bid48 -->
+<!-- cvid: aid05_bid44 -->

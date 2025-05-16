@@ -81,15 +81,19 @@ TOEICでは都市インフラや環境問題、建設関連の説明文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは都市インフラや環境問題、建設関連の説明文で登場
 ## 🤔  drain との違いは？
 
 - **sewer**：都市や建物の汚水・雨水を運ぶ地下の大きな下水道
-- **[drain](/word/drain/)**：水を排出するための溝や小さな排水管
+- **[drain](/drain)**：水を排出するための溝や小さな排水管
 
 sewerは大規模な下水道全体を指し、drainは道路や建物の排水口など小規模な排水路を指します。
 
@@ -105,14 +109,14 @@ sewerは大規模な下水道全体を指し、drainは道路や建物の排水�
 
 ## 🧩 あわせて覚えたい
 
-- [pipeline](/word/pipeline/)：パイプライン、配管
-- [wastewater](/word/wastewater/)：廃水、汚水
+- [pipeline](/pipeline)：パイプライン、配管
+- [wastewater](/wastewater)：廃水、汚水
 
 ---
 
 ## 📖 できればこれも
 
-- [garbage](/word/garbage/)：ごみ
-- [pipe](/word/pipe/)：管、パイプ
+- [garbage](/garbage)：ごみ
+- [pipe](/pipe)：管、パイプ
 
-<!-- cvid: aid17_bid20 -->
+<!-- cvid: aid20_bid43 -->

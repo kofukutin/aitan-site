@@ -81,15 +81,19 @@ TOEICでは「in honor of」や「honor someone for ～」など、表彰や感�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「in honor of」や「honor someone for ～」など、表彰や感�
 ## 🤔  respect との違いは？
 
 - **honor**：社会的な評価や公式な「名誉」「栄誉」を強調するフォーマルな語。
-- **[respect](/word/respect/)**：個人や行為に対する「尊敬」「敬意」を表す、より広く使われる語。
+- **[respect](/respect)**：個人や行為に対する「尊敬」「敬意」を表す、より広く使われる語。
 
 honorは表彰や公式な場面での「名誉」に重点があり、respectは日常的な「敬意」や「尊重」に使われます。
 
@@ -105,14 +109,14 @@ honorは表彰や公式な場面での「名誉」に重点があり、respect�
 
 ## 🧩 あわせて覚えたい
 
-- [dignity](/word/dignity/)：威厳、尊厳
-- [award](/word/award/)：賞、表彰
+- [dignity](/dignity)：威厳、尊厳
+- [award](/award)：賞、表彰
 
 ---
 
 ## 📖 できればこれも
 
-- [pride](/word/pride/)：誇り
-- [value](/word/value/)：価値
+- [pride](/pride)：誇り
+- [value](/value)：価値
 
-<!-- cvid: aid26_bid21 -->
+<!-- cvid: aid01_bid32 -->

@@ -81,15 +81,19 @@ TOEICではPart 7の長文問題で、単語やフレーズの「意味」を問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文問題で、単語やフレーズの「意味」を問
 ## 🤔  definition との違いは？
 
 - **meaning**：言葉や行動が持つ内容や意図、広い意味での「意味」
-- **[definition](/word/definition/)**：辞書的・公式な「定義」
+- **[definition](/definition)**：辞書的・公式な「定義」
 
 meaningは「何を表しているか」という広い意味で使い、definitionは「明確に説明された内容」に限定されます。
 
@@ -105,14 +109,14 @@ meaningは「何を表しているか」という広い意味で使い、definit
 
 ## 🧩 あわせて覚えたい
 
-- [interpretation](/word/interpretation/)：解釈
-- [implication](/word/implication/)：含意、暗示
+- [interpretation](/interpretation)：解釈
+- [implication](/implication)：含意、暗示
 
 ---
 
 ## 📖 できればこれも
 
-- [purpose](/word/purpose/)：目的
-- [message](/word/message/)：伝えたい内容、メッセージ
+- [purpose](/purpose)：目的
+- [message](/message)：伝えたい内容、メッセージ
 
-<!-- cvid: aid35_bid35 -->
+<!-- cvid: aid05_bid17 -->

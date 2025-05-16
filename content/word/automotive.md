@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス記事や業界紹介文で、自動車産
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス記事や業界紹介文で、自動車産
 ## 🤔  automobile との違いは？
 
 - **automotive**：自動車に関する（形容詞）、自動車産業や技術など幅広く使う
-- **[automobile](/word/automobile/)**：自動車そのもの（名詞）、車両を指す
+- **[automobile](/automobile)**：自動車そのもの（名詞）、車両を指す
 
 automotiveは「自動車関連の分野や技術」を表し、automobileは「車そのもの」を指します。
 
@@ -105,14 +109,14 @@ automotiveは「自動車関連の分野や技術」を表し、automobileは「
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/word/vehicle/)：乗り物、車両
-- [transportation](/word/transportation/)：輸送、交通
+- [vehicle](/vehicle)：乗り物、車両
+- [transportation](/transportation)：輸送、交通
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/word/mechanical/)：機械の、機械的な
-- [industrial](/word/industrial/)：産業の、工業の
+- [mechanical](/mechanical)：機械の、機械的な
+- [industrial](/industrial)：産業の、工業の
 
-<!-- cvid: aid23_bid34 -->
+<!-- cvid: aid29_bid17 -->

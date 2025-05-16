@@ -82,15 +82,19 @@ TOEICでは、製品説明や科学系の長文で「latex」が登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、製品説明や科学系の長文で「latex」が登場するこ�
 ## 🤔  rubber との違いは？
 
 - **latex**：ゴムの原料となる乳白色の液体やその合成物質
-- **[rubber](/word/rubber/)**：加工されたゴム製品や素材全般
+- **[rubber](/rubber)**：加工されたゴム製品や素材全般
 
 latexは「原料」や「液体」としての意味が強く、rubberは「完成したゴム製品」や「素材」として使われます。
 
@@ -106,14 +110,14 @@ latexは「原料」や「液体」としての意味が強く、rubberは「完
 
 ## 🧩 あわせて覚えたい
 
-- [resin](/word/resin/)：樹脂、植物や合成の粘性物質
-- [sap](/word/sap/)：樹液、植物から出る液体
+- [resin](/resin)：樹脂、植物や合成の粘性物質
+- [sap](/sap)：樹液、植物から出る液体
 
 ---
 
 ## 📖 できればこれも
 
-- [fiber](/word/fiber/)：繊維、糸状の素材
-- [plastic](/word/plastic/)：プラスチック、合成樹脂
+- [fiber](/fiber)：繊維、糸状の素材
+- [plastic](/plastic)：プラスチック、合成樹脂
 
-<!-- cvid: aid34_bid42 -->
+<!-- cvid: aid05_bid18 -->

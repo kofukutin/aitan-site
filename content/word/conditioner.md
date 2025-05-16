@@ -81,15 +81,19 @@ TOEICではホテルや日用品の説明、アメニティ紹介などで見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルや日用品の説明、アメニティ紹介などで見か
 ## 🤔  treatment との違いは？
 
 - **conditioner**：髪や衣類などの状態を良くするための製品
-- **[treatment](/word/treatment/)**：髪や肌などへの特別なケアや処置
+- **[treatment](/treatment)**：髪や肌などへの特別なケアや処置
 
 conditionerは日常的なケア用品、treatmentはより集中的・特別なケアや処置を指すことが多いです。
 
@@ -105,14 +109,14 @@ conditionerは日常的なケア用品、treatmentはより集中的・特別な
 
 ## 🧩 あわせて覚えたい
 
-- [moisturizer](/word/moisturizer/)：保湿剤
-- [shampoo](/word/shampoo/)：シャンプー
+- [moisturizer](/moisturizer)：保湿剤
+- [shampoo](/shampoo)：シャンプー
 
 ---
 
 ## 📖 できればこれも
 
-- [lotion](/word/lotion/)：ローション、化粧水
-- [detergent](/word/detergent/)：洗剤
+- [lotion](/lotion)：ローション、化粧水
+- [detergent](/detergent)：洗剤
 
-<!-- cvid: aid06_bid07 -->
+<!-- cvid: aid17_bid42 -->

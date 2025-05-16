@@ -81,15 +81,19 @@ TOEICでは、形容詞として「be dependent on ～」の形で頻出しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「be dependent on ～」の形で頻出しま�
 ## 🤔  independent との違いは？
 
 - **dependent**：他のものや人に頼っている、依存している
-- **[independent](/word/independent/)**：他に頼らず自立している
+- **[independent](/independent)**：他に頼らず自立している
 
 dependentは「依存している」状態、independentは「自立している」状態を表し、意味が正反対です。
 
@@ -105,14 +109,14 @@ dependentは「依存している」状態、independentは「自立している
 
 ## 🧩 あわせて覚えたい
 
-- [rely](/word/rely/)：頼る、依存する（動詞）
-- [subordinate](/word/subordinate/)：従属している、部下（形容詞・名詞）
+- [rely](/rely)：頼る、依存する（動詞）
+- [subordinate](/subordinate)：従属している、部下（形容詞・名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる（形容詞）
-- [responsible](/word/responsible/)：責任がある（形容詞）
+- [reliable](/reliable)：信頼できる（形容詞）
+- [responsible](/responsible)：責任がある（形容詞）
 
-<!-- cvid: aid32_bid47 -->
+<!-- cvid: aid04_bid18 -->

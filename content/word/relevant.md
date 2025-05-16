@@ -81,15 +81,19 @@ TOEICではPart 7の長文読解で、情報の関連性や適切さを問う文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文読解で、情報の関連性や適切さを問う文
 ## 🤔  appropriate との違いは？
 
 - **relevant**：今の話題や状況に直接関係がある
-- **[appropriate](/word/appropriate/)**：状況や目的に「ふさわしい」「適切な」
+- **[appropriate](/appropriate)**：状況や目的に「ふさわしい」「適切な」
 
 relevantは「関係性の有無」に焦点があり、appropriateは「合っているかどうか（適切さ）」に重点があります。
 
@@ -105,14 +109,14 @@ relevantは「関係性の有無」に焦点があり、appropriateは「合っ�
 
 ## 🧩 あわせて覚えたい
 
-- [irrelevant](/word/irrelevant/)：無関係な
-- [pertinent](/word/pertinent/)：適切な、関連する
+- [irrelevant](/irrelevant)：無関係な
+- [pertinent](/pertinent)：適切な、関連する
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、重要な
-- [significant](/word/significant/)：重要な、意味のある
+- [essential](/essential)：不可欠な、重要な
+- [significant](/significant)：重要な、意味のある
 
-<!-- cvid: aid22_bid13 -->
+<!-- cvid: aid46_bid08 -->

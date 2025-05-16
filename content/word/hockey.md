@@ -81,15 +81,19 @@ TOEICではスポーツやレジャーに関する記事や広告文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではスポーツやレジャーに関する記事や広告文で登場す
 ## 🤔  ice hockey との違いは？
 
 - **hockey**：一般的にホッケー全般を指し、国によってはフィールドホッケーを意味することもある
-- **[ice hockey](/word/ice_hockey/)**：氷上で行うアイスホッケーを明確に指す
+- **[ice hockey](/ice_hockey)**：氷上で行うアイスホッケーを明確に指す
 
 hockeyは文脈によって意味が変わるため、氷上のスポーツを強調したい場合はice hockeyを使います。
 
@@ -105,14 +109,14 @@ hockeyは文脈によって意味が変わるため、氷上のスポーツを�
 
 ## 🧩 あわせて覚えたい
 
-- [baseball](/word/baseball/)：野球
-- [lacrosse](/word/lacrosse/)：ラクロス
+- [baseball](/baseball)：野球
+- [lacrosse](/lacrosse)：ラクロス
 
 ---
 
 ## 📖 できればこれも
 
-- [soccer](/word/soccer/)：サッカー
-- [basketball](/word/basketball/)：バスケットボール
+- [soccer](/soccer)：サッカー
+- [basketball](/basketball)：バスケットボール
 
-<!-- cvid: aid43_bid36 -->
+<!-- cvid: aid21_bid26 -->

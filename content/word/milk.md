@@ -81,15 +81,19 @@ TOEICでは主に写真描写や日常的な会話で登場し、飲み物や食
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid08" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid08" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写や日常的な会話で登場し、飲み物や食
 ## 🤔  dairy との違いは？
 
 - **milk**：牛乳そのものや乳を指す
-- **[dairy](/word/dairy/)**：乳製品全般や乳製品を扱う場所・産業を指す
+- **[dairy](/dairy)**：乳製品全般や乳製品を扱う場所・産業を指す
 
 milkは飲み物や原料としての「牛乳」を意味し、dairyはチーズやバターなど乳製品全体や乳製品工場・売り場を指します。
 
@@ -105,14 +109,14 @@ milkは飲み物や原料としての「牛乳」を意味し、dairyはチー�
 
 ## 🧩 あわせて覚えたい
 
-- [juice](/word/juice/)：ジュース、果汁
-- [cheese](/word/cheese/)：チーズ
+- [juice](/juice)：ジュース、果汁
+- [cheese](/cheese)：チーズ
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread/)：パン
-- [egg](/word/egg/)：卵
+- [bread](/bread)：パン
+- [egg](/egg)：卵
 
-<!-- cvid: aid07_bid44 -->
+<!-- cvid: aid24_bid08 -->

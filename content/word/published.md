@@ -81,15 +81,19 @@ TOEICでは、記事や報告書、案内文などの長文中で「published」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や報告書、案内文などの長文中で「published」
 ## 🤔  released との違いは？
 
 - **published**：本や記事、公式な文書などが「出版・公表」されたことを強調
-- **[released](/word/released/)**：情報や製品、映画などが「解禁・発売」されたことを強調
+- **[released](/released)**：情報や製品、映画などが「解禁・発売」されたことを強調
 
 「published」は主に書かれたものや公式文書の公開に使い、「released」は幅広く新製品や映画、情報の解禁などに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、記事や報告書、案内文などの長文中で「published」
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce/)：発表する
-- [issue](/word/issue/)：発行する、発布する
+- [announce](/announce)：発表する
+- [issue](/issue)：発行する、発布する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [approve](/word/approve/)：承認する
+- [submit](/submit)：提出する
+- [approve](/approve)：承認する
 
-<!-- cvid: aid24_bid42 -->
+<!-- cvid: aid17_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは、レストランやケータリング、医療現場の会話で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レストランやケータリング、医療現場の会話で「
 ## 🤔  sauce との違いは？
 
 - **dressing**：主にサラダなどにかける液体調味料や、包帯の意味。
-- **[sauce](/word/sauce/)**：料理全般に使うソースで、加熱するものも多い。
+- **[sauce](/sauce)**：料理全般に使うソースで、加熱するものも多い。
 
 dressingはサラダなど冷たい料理に使うことが多く、sauceは温かい料理や幅広い用途で使われます。
 
@@ -105,14 +109,14 @@ dressingはサラダなど冷たい料理に使うことが多く、sauceは温�
 
 ## 🧩 あわせて覚えたい
 
-- [bandage](/word/bandage/)：包帯
-- [seasoning](/word/seasoning/)：調味料
+- [bandage](/bandage)：包帯
+- [seasoning](/seasoning)：調味料
 
 ---
 
 ## 📖 できればこれも
 
-- [salad](/word/salad/)：サラダ
-- [recipe](/word/recipe/)：レシピ
+- [salad](/salad)：サラダ
+- [recipe](/recipe)：レシピ
 
-<!-- cvid: aid24_bid48 -->
+<!-- cvid: aid33_bid35 -->

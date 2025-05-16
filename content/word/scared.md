@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【scared】の意味・使い方・例文 ― afraidとの違い【TOEIC英単語】"
 description: "scaredの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでafraidとの違いもわかりやすく学べます。"
 word: "scared"
@@ -81,15 +81,19 @@ scaredは会話文や感情を表す場面で出題されることが多い単�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ scaredは会話文や感情を表す場面で出題されることが多い単�
 ## 🤔  afraid との違いは？
 
 - **scared**：カジュアルで一時的な「怖い」「びっくりした」気持ちを表す。
-- **[afraid](/word/afraid/)**：ややフォーマルで、心配や不安も含む「怖い」「恐れている」気持ちを表す。
+- **[afraid](/afraid)**：ややフォーマルで、心配や不安も含む「怖い」「恐れている」気持ちを表す。
 
 scaredは日常会話でよく使われ、afraidは少し丁寧な場面や文章でも使われます。
 
@@ -105,14 +109,14 @@ scaredは日常会話でよく使われ、afraidは少し丁寧な場面や文�
 
 ## 🧩 あわせて覚えたい
 
-- [frightened](/word/frightened/)：強い恐怖を感じている
-- [brave](/word/brave/)：勇敢な、怖がらない
+- [frightened](/frightened)：強い恐怖を感じている
+- [brave](/brave)：勇敢な、怖がらない
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/word/nervous/)：緊張している、不安な
-- [excited](/word/excited/)：わくわくしている、興奮している
+- [nervous](/nervous)：緊張している、不安な
+- [excited](/excited)：わくわくしている、興奮している
 
-<!-- cvid: aid12_bid42 -->
+<!-- cvid: aid33_bid21 -->

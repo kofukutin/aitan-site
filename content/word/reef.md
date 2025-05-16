@@ -81,15 +81,19 @@ TOEICでは環境や観光、自然保護に関する長文や説明文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や観光、自然保護に関する長文や説明文で登場
 ## 🤔  coral との違いは？
 
 - **reef**：海中や海面近くの岩やサンゴが集まった「礁」全般を指す
-- **[coral](/word/coral/)**：サンゴそのもの、またはサンゴでできたものを指す
+- **[coral](/coral)**：サンゴそのもの、またはサンゴでできたものを指す
 
 reefは地形や構造物としての「礁」を表し、coralは生物としての「サンゴ」やその素材を指します。
 
@@ -105,14 +109,14 @@ reefは地形や構造物としての「礁」を表し、coralは生物とし�
 
 ## 🧩 あわせて覚えたい
 
-- [lagoon](/word/lagoon/)：礁湖、サンゴ礁に囲まれた浅い湖
-- [barrier](/word/barrier/)：障壁、バリア（自然の障害物も含む）
+- [lagoon](/lagoon)：礁湖、サンゴ礁に囲まれた浅い湖
+- [barrier](/barrier)：障壁、バリア（自然の障害物も含む）
 
 ---
 
 ## 📖 できればこれも
 
-- [shore](/word/shore/)：岸、海岸
-- [island](/word/island/)：島
+- [shore](/shore)：岸、海岸
+- [island](/island)：島
 
-<!-- cvid: aid21_bid35 -->
+<!-- cvid: aid25_bid17 -->

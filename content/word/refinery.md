@@ -81,15 +81,19 @@ TOEICでは主にビジネスや産業に関する長文で登場し、工場や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや産業に関する長文で登場し、工場や
 ## 🤔  factory との違いは？
 
 - **refinery**：原材料を精製して純度を高める工場
-- **[factory](/word/factory/)**：一般的に製品を製造する工場
+- **[factory](/factory)**：一般的に製品を製造する工場
 
 refineryは「精製」に特化した工場を指し、factoryはあらゆる製品の製造工場を広く指します。
 
@@ -105,14 +109,14 @@ refineryは「精製」に特化した工場を指し、factoryはあらゆる�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/word/plant/)：工場、発電所
-- [mill](/word/mill/)：製粉所、工場
+- [plant](/plant)：工場、発電所
+- [mill](/mill)：製粉所、工場
 
 ---
 
 ## 📖 できればこれも
 
-- [extract](/word/extract/)：抽出する
-- [process](/word/process/)：加工する、処理する
+- [extract](/extract)：抽出する
+- [process](/process)：加工する、処理する
 
-<!-- cvid: aid23_bid45 -->
+<!-- cvid: aid20_bid21 -->

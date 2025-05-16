@@ -81,15 +81,19 @@ TOEICでは「depend on ～」の形で頻出し、空欄補充や語法問題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「depend on ～」の形で頻出し、空欄補充や語法問題�
 ## 🤔  rely との違いは？
 
 - **depend**：状況や条件に左右される、依存する
-- **[rely](/word/rely/)**：信頼して頼る、頼みにする
+- **[rely](/rely)**：信頼して頼る、頼みにする
 
 「depend」は状況や条件に左右されるニュアンスが強く、「rely」は信頼して頼る気持ちが含まれます。
 
@@ -105,14 +109,14 @@ TOEICでは「depend on ～」の形で頻出し、空欄補充や語法問題�
 
 ## 🧩 あわせて覚えたい
 
-- [independent](/word/independent/)：独立した、自立した
-- [conditional](/word/conditional/)：条件付きの
+- [independent](/independent)：独立した、自立した
+- [conditional](/conditional)：条件付きの
 
 ---
 
 ## 📖 できればこれも
 
-- [require](/word/require/)：必要とする
-- [trust](/word/trust/)：信頼する
+- [require](/require)：必要とする
+- [trust](/trust)：信頼する
 
-<!-- cvid: aid44_bid09 -->
+<!-- cvid: aid39_bid29 -->

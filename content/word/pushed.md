@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pushed】の意味・使い方・例文 ― pressedとの違い【TOEIC英単語】"
 description: "pushedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpressedとの違いもわかりやすく学べます。"
 word: "pushed"
@@ -81,15 +81,19 @@ TOEICでは会話や指示の中で「押した」「促した」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示の中で「押した」「促した」という意味
 ## 🤔  pressed との違いは？
 
 - **pushed**：前方や目的地に向かって力を加えて動かす、または行動を促す意味。
-- **[pressed](/word/pressed/)**：物を平らにしたり、強く押し付けたりする意味。
+- **[pressed](/pressed)**：物を平らにしたり、強く押し付けたりする意味。
 
 pushedは「前に動かす」ニュアンスが強く、pressedは「押し付ける」「圧力をかける」場面で使われます。
 
@@ -105,14 +109,14 @@ pushedは「前に動かす」ニュアンスが強く、pressedは「押し付�
 
 ## 🧩 あわせて覚えたい
 
-- [pull](/word/pull/)：引く
-- [urge](/word/urge/)：促す、駆り立てる
+- [pull](/pull)：引く
+- [urge](/urge)：促す、駆り立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move/)：動かす
-- [force](/word/force/)：強制する、力
+- [move](/move)：動かす
+- [force](/force)：強制する、力
 
-<!-- cvid: aid21_bid17 -->
+<!-- cvid: aid09_bid02 -->

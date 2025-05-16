@@ -81,15 +81,19 @@ TOEICでは「十分な」「豊富な」という意味で、空間・時間・
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「十分な」「豊富な」という意味で、空間・時間・
 ## 🤔  sufficient との違いは？
 
 - **ample**：必要以上に十分で、余裕や豊かさを感じさせる
-- **[sufficient](/word/sufficient/)**：必要条件を満たす「十分な」、最低限のニュアンス
+- **[sufficient](/sufficient)**：必要条件を満たす「十分な」、最低限のニュアンス
 
 「ample」は「たっぷり」「余裕がある」印象で、「sufficient」は「必要なだけ」という控えめな印象です。
 
@@ -105,14 +109,14 @@ TOEICでは「十分な」「豊富な」という意味で、空間・時間・
 
 ## 🧩 あわせて覚えたい
 
-- [abundant](/word/abundant/)：非常に豊富な、あり余るほどの
-- [scarce](/word/scarce/)：乏しい、不足している
+- [abundant](/abundant)：非常に豊富な、あり余るほどの
+- [scarce](/scarce)：乏しい、不足している
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/word/adequate/)：適切な、十分な
-- [considerable](/word/considerable/)：かなりの、相当な
+- [adequate](/adequate)：適切な、十分な
+- [considerable](/considerable)：かなりの、相当な
 
-<!-- cvid: aid38_bid24 -->
+<!-- cvid: aid03_bid09 -->

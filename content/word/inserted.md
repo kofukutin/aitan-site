@@ -81,15 +81,19 @@ insertedはTOEICの文法問題やIT関連の説明文でよく見かけます�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ insertedはTOEICの文法問題やIT関連の説明文でよく見かけます�
 ## 🤔  input との違いは？
 
 - **inserted**：物理的・データ的に「中に差し込む」「挿入する」ことを強調
-- **[input](/word/input/)**：主に「情報やデータを入力する」ことを指す
+- **[input](/input)**：主に「情報やデータを入力する」ことを指す
 
 insertedは「物を中に入れる」イメージが強く、inputは「情報やデータを入力する」場面で使われます。
 
@@ -105,14 +109,14 @@ insertedは「物を中に入れる」イメージが強く、inputは「情報�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り除く
-- [attach](/word/attach/)：添付する
+- [remove](/remove)：取り除く
+- [attach](/attach)：添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新する
-- [replace](/word/replace/)：交換する
+- [update](/update)：更新する
+- [replace](/replace)：交換する
 
-<!-- cvid: aid19_bid04 -->
+<!-- cvid: aid43_bid35 -->

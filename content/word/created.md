@@ -81,15 +81,19 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 ## 🤔  made との違いは？
 
 - **created**：ゼロから新しいものを生み出す、創造する
-- **[made](/word/made/)**：材料や既存のものを使って作る、製造する
+- **[made](/made)**：材料や既存のものを使って作る、製造する
 
 「created」は独自性や新規性が強調されるのに対し、「made」は既存の材料や方法で作る場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop/)：開発する、発展させる
-- [establish](/word/establish/)：設立する、確立する
+- [develop](/develop)：開発する、発展させる
+- [establish](/establish)：設立する、確立する
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：設計する、デザインする
-- [produce](/word/produce/)：生産する、作り出す
+- [design](/design)：設計する、デザインする
+- [produce](/produce)：生産する、作り出す
 
-<!-- cvid: aid49_bid28 -->
+<!-- cvid: aid45_bid21 -->

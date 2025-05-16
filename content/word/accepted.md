@@ -81,15 +81,19 @@ TOEICでは「accepted」は、書類や提案、条件などが「受け入れ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「accepted」は、書類や提案、条件などが「受け入れ�
 ## 🤔  approved との違いは？
 
 - **accepted**：広く受け入れられている、承認された（一般的・社会的な受容も含む）
-- **[approved](/word/approved/)**：正式に許可された、認可された（権限者や機関による承認）
+- **[approved](/approved)**：正式に許可された、認可された（権限者や機関による承認）
 
 「accepted」は社会的・一般的な受容や承認を幅広く指し、「approved」は公式な許可や認可のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは「accepted」は、書類や提案、条件などが「受け入れ�
 
 ## 🧩 あわせて覚えたい
 
-- [rejected](/word/rejected/)：拒否された
-- [permitted](/word/permitted/)：許可された
+- [rejected](/rejected)：拒否された
+- [permitted](/permitted)：許可された
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/word/confirmed/)：確認された
-- [valid](/word/valid/)：有効な
+- [confirmed](/confirmed)：確認された
+- [valid](/valid)：有効な
 
-<!-- cvid: aid15_bid12 -->
+<!-- cvid: aid35_bid00 -->

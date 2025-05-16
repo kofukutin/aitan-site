@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス文書、手続きに関する長文中で「docu
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス文書、手続きに関する長文中で「docu
 ## 🤔  manual との違いは？
 
 - **documentation**：複数の書類や資料一式、証拠書類など広い意味で使う
-- **[manual](/word/manual/)**：特定の操作や手順を説明するための手引書
+- **[manual](/manual)**：特定の操作や手順を説明するための手引書
 
 documentationは全体的な資料や証拠書類を指し、manualは使い方や手順に特化した説明書を指します。
 
@@ -105,13 +109,13 @@ documentationは全体的な資料や証拠書類を指し、manualは使い方�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate/)：証明書
-- [specification](/word/specification/)：仕様書
+- [certificate](/certificate)：証明書
+- [specification](/specification)：仕様書
 
 ---
 
 ## 📖 できればこれも
 
-- [instruction](/word/instruction/)：指示、説明
-- [procedure](/word/procedure/)：手順、手続き
-<!-- cvid: aid30_bid45 -->
+- [instruction](/instruction)：指示、説明
+- [procedure](/procedure)：手順、手続き
+<!-- cvid: aid39_bid14 -->

@@ -80,15 +80,19 @@ TOEICでは科学や技術関連の説明文や記事で見かけることがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは科学や技術関連の説明文や記事で見かけることがあ
 ## 🤔  wavelength との違いは？
 
 - **gamma**：ギリシャ文字やガンマ線など、記号や放射線を指す。
-- **[wavelength](/word/wavelength/)**：波長、波の長さを表す科学用語。
+- **[wavelength](/wavelength)**：波長、波の長さを表す科学用語。
 
 gammaは主に記号や放射線の種類を指し、wavelengthは波の長さそのものを表します。
 
@@ -104,14 +108,14 @@ gammaは主に記号や放射線の種類を指し、wavelengthは波の長さ�
 
 ## 🧩 あわせて覚えたい
 
-- [radiation](/word/radiation/)：放射線、放射
-- [photon](/word/photon/)：光子、光の粒子
+- [radiation](/radiation)：放射線、放射
+- [photon](/photon)：光子、光の粒子
 
 ---
 
 ## 📖 できればこれも
 
-- [spectrum](/word/spectrum/)：スペクトル、波長範囲
-- [frequency](/word/frequency/)：周波数
+- [spectrum](/spectrum)：スペクトル、波長範囲
+- [frequency](/frequency)：周波数
 
-<!-- cvid: aid20_bid16 -->
+<!-- cvid: aid11_bid37 -->

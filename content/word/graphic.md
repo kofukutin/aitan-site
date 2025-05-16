@@ -81,15 +81,19 @@ TOEICでは、図表やイラスト、資料説明の場面で「graphic」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、図表やイラスト、資料説明の場面で「graphic」が�
 ## 🤔  illustration との違いは？
 
 - **graphic**：図や絵、視覚的なもの全般や生々しい描写を指す形容詞
-- **[illustration](/word/illustration/)**：説明や例示のためのイラストや図解を指す名詞
+- **[illustration](/illustration)**：説明や例示のためのイラストや図解を指す名詞
 
 graphicは「視覚的なもの」や「生々しい描写」に幅広く使われ、illustrationは「説明用のイラストや図解」に特化しています。
 
@@ -105,14 +109,14 @@ graphicは「視覚的なもの」や「生々しい描写」に幅広く使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [visual](/word/visual/)：視覚的な、見える
-- [diagram](/word/diagram/)：図、図解
+- [visual](/visual)：視覚的な、見える
+- [diagram](/diagram)：図、図解
 
 ---
 
 ## 📖 できればこれも
 
-- [visualize](/word/visualize/)：視覚化する、イメージする
-- [design](/word/design/)：設計する、デザインする
+- [visualize](/visualize)：視覚化する、イメージする
+- [design](/design)：設計する、デザインする
 
-<!-- cvid: aid49_bid09 -->
+<!-- cvid: aid02_bid08 -->

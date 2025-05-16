@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「誰がいつ出発するか」「退職する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「誰がいつ出発するか」「退職する
 ## 🤔  departing との違いは？
 
 - **leaving**：日常的な「去る」「離れる」を幅広く表す。
-- **[departing](/word/departing/)**：ややフォーマルで「出発する」「旅立つ」に特化。
+- **[departing](/departing)**：ややフォーマルで「出発する」「旅立つ」に特化。
 
 「leaving」は日常会話やビジネスで広く使われ、「departing」は主に交通機関や公式な場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「誰がいつ出発するか」「退職する
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/word/arrive/)：到着する
-- [quit](/word/quit/)：辞める、やめる
+- [arrive](/arrive)：到着する
+- [quit](/quit)：辞める、やめる
 
 ---
 
 ## 📖 できればこれも
 
-- [return](/word/return/)：戻る
-- [enter](/word/enter/)：入る
+- [return](/return)：戻る
+- [enter](/enter)：入る
 
-<!-- cvid: aid25_bid08 -->
+<!-- cvid: aid36_bid33 -->

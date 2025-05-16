@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fat】の意味・使い方・例文 ― overweightとの違い【TOEIC英単語】"
 description: "fatの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでoverweightとの違いもわかりやすく学べます。"
 word: "fat"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、人の体型や食べ物の説明と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid09" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid09" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、人の体型や食べ物の説明と
 ## 🤔  overweight との違いは？
 
 - **fat**：日常的で直接的に「太っている」と表現し、やや否定的な響きがある
-- **[overweight](/word/overweight/)**：医学的・客観的に「標準より重い」と表現し、ややフォーマルでやんわりした言い方
+- **[overweight](/overweight)**：医学的・客観的に「標準より重い」と表現し、ややフォーマルでやんわりした言い方
 
 fatは感情的でストレートな表現、overweightは医学的・客観的な場面で使われます。
 
@@ -106,14 +110,14 @@ fatは感情的でストレートな表現、overweightは医学的・客観的�
 
 ## 🧩 あわせて覚えたい
 
-- [thin](/word/thin/)：やせた
-- [obese](/word/obese/)：肥満の（医学的にかなり太っている）
+- [thin](/thin)：やせた
+- [obese](/obese)：肥満の（医学的にかなり太っている）
 
 ---
 
 ## 📖 できればこれも
 
-- [tall](/word/tall/)：背が高い
-- [short](/word/short/)：背が低い
+- [tall](/tall)：背が高い
+- [short](/short)：背が低い
 
-<!-- cvid: aid16_bid24 -->
+<!-- cvid: aid03_bid09 -->

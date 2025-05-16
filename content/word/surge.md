@@ -82,15 +82,19 @@ TOEICでは、売上や需要、価格などが「急増する」場面でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、売上や需要、価格などが「急増する」場面でよく
 ## 🤔  soar との違いは？
 
 - **surge**：短期間で急激に増える・高まることを強調する
-- **[soar](/word/soar/)**：高く舞い上がるように、数値や価格がどんどん上昇すること
+- **[soar](/soar)**：高く舞い上がるように、数値や価格がどんどん上昇すること
 
 surgeは「一気に急増する」ニュアンスが強く、soarは「高く上がり続ける」イメージで使い分けます。
 
@@ -106,14 +110,14 @@ surgeは「一気に急増する」ニュアンスが強く、soarは「高く�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/word/decline/)：減少する、下落する
-- [increase](/word/increase/)：増加する、増える
+- [decline](/decline)：減少する、下落する
+- [increase](/increase)：増加する、増える
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡大する、広がる
-- [fluctuate](/word/fluctuate/)：変動する、上下する
+- [expand](/expand)：拡大する、広がる
+- [fluctuate](/fluctuate)：変動する、上下する
 
-<!-- cvid: aid30_bid33 -->
+<!-- cvid: aid09_bid21 -->

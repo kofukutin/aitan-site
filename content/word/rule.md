@@ -81,15 +81,19 @@ TOEICでは「規則」「ルール」という意味で、社内規定や手順
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「規則」「ルール」という意味で、社内規定や手順
 ## 🤔  regulation との違いは？
 
 - **rule**：一般的な「ルール」や「決まり」を幅広く指す
-- **[regulation](/word/regulation/)**：公式な「規則」や「法令」など、より厳格で制度的なもの
+- **[regulation](/regulation)**：公式な「規則」や「法令」など、より厳格で制度的なもの
 
 ruleは日常的な決まりやスポーツのルールなど幅広く使われますが、regulationは法律や組織の正式な規則に使われることが多いです。
 
@@ -105,14 +109,14 @@ ruleは日常的な決まりやスポーツのルールなど幅広く使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [policy](/word/policy/)：方針、政策
-- [law](/word/law/)：法律
+- [policy](/policy)：方針、政策
+- [law](/law)：法律
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order/)：命令、注文
-- [standard](/word/standard/)：基準、標準
+- [order](/order)：命令、注文
+- [standard](/standard)：基準、標準
 
-<!-- cvid: aid21_bid03 -->
+<!-- cvid: aid37_bid47 -->

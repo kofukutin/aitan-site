@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【toddler】の意味・使い方・例文 ― infantとの違い【TOEIC英単語】"
 description: "toddlerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでinfantとの違いもわかりやすく学べます。"
 word: "toddler"
@@ -81,15 +81,19 @@ TOEICでは保育施設や家族に関する長文や案内文で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは保育施設や家族に関する長文や案内文で見かけるこ
 ## 🤔  infant との違いは？
 
 - **toddler**：歩き始めた1～3歳くらいの幼児
-- **[infant](/word/infant/)**：生後すぐ～1歳くらいまでの赤ちゃん
+- **[infant](/infant)**：生後すぐ～1歳くらいまでの赤ちゃん
 
 toddlerは「歩き始めた幼児」、infantは「まだ歩けない乳児」を指します。
 
@@ -105,14 +109,14 @@ toddlerは「歩き始めた幼児」、infantは「まだ歩けない乳児」�
 
 ## 🧩 あわせて覚えたい
 
-- [child](/word/child/)：子ども（一般的な子ども全般）
-- [preschooler](/word/preschooler/)：未就学児（幼稚園・保育園に通う年齢の子）
+- [child](/child)：子ども（一般的な子ども全般）
+- [preschooler](/preschooler)：未就学児（幼稚園・保育園に通う年齢の子）
 
 ---
 
 ## 📖 できればこれも
 
-- [nursery](/word/nursery/)：保育園、託児所
-- [kindergarten](/word/kindergarten/)：幼稚園
+- [nursery](/nursery)：保育園、託児所
+- [kindergarten](/kindergarten)：幼稚園
 
-<!-- cvid: aid04_bid32 -->
+<!-- cvid: aid05_bid44 -->

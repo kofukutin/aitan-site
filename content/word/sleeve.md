@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、衣服や物の説明として登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、衣服や物の説明として登場
 ## 🤔  cover との違いは？
 
 - **sleeve**：衣服の袖や、CD・本などの「包むカバー」を指す
-- **[cover](/word/cover/)**：物全体を覆うカバーやふた、表紙など幅広い意味で使う
+- **[cover](/cover)**：物全体を覆うカバーやふた、表紙など幅広い意味で使う
 
 sleeveは「筒状で包むもの」や「衣服の袖」に限定されるのに対し、coverは「覆うもの」全般に使われます。
 
@@ -105,14 +109,14 @@ sleeveは「筒状で包むもの」や「衣服の袖」に限定されるの�
 
 ## 🧩 あわせて覚えたい
 
-- [cuff](/word/cuff/)：袖口、カフス
-- [jacket](/word/jacket/)：上着、ジャケット
+- [cuff](/cuff)：袖口、カフス
+- [jacket](/jacket)：上着、ジャケット
 
 ---
 
 ## 📖 できればこれも
 
-- [button](/word/button/)：ボタン
-- [collar](/word/collar/)：襟
+- [button](/button)：ボタン
+- [collar](/collar)：襟
 
-<!-- cvid: aid00_bid33 -->
+<!-- cvid: aid04_bid19 -->

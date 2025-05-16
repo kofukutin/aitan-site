@@ -81,15 +81,19 @@ TOEICでは、企業やプロジェクトの説明文やニュース記事で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業やプロジェクトの説明文やニュース記事で「
 ## 🤔  financed との違いは？
 
 - **funded**：特定の資金源から資金提供を受けていることを強調
-- **[financed](/word/financed/)**：主に大きな金額やローンなどで「資金調達された」ことを強調
+- **[financed](/financed)**：主に大きな金額やローンなどで「資金調達された」ことを強調
 
 「funded」は一般的な資金提供、「financed」は特に融資や大規模な資金調達のニュアンスがあります。
 
@@ -105,14 +109,14 @@ TOEICでは、企業やプロジェクトの説明文やニュース記事で「
 
 ## 🧩 あわせて覚えたい
 
-- [sponsored](/word/sponsored/)：スポンサーによって支援された
-- [supported](/word/supported/)：支援された、支えられた
+- [sponsored](/sponsored)：スポンサーによって支援された
+- [supported](/supported)：支援された、支えられた
 
 ---
 
 ## 📖 できればこれも
 
-- [grant](/word/grant/)：助成金、補助金
-- [budget](/word/budget/)：予算
+- [grant](/grant)：助成金、補助金
+- [budget](/budget)：予算
 
-<!-- cvid: aid18_bid48 -->
+<!-- cvid: aid05_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは、文法や語彙問題で「明白な」「明らかな」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文法や語彙問題で「明白な」「明らかな」という
 ## 🤔  obvious との違いは？
 
 - **evident**：証拠や状況から見て明らかな（ややフォーマル）
-- **[obvious](/word/obvious/)**：誰が見てもすぐ分かるほど明白な（カジュアル寄り）
+- **[obvious](/obvious)**：誰が見てもすぐ分かるほど明白な（カジュアル寄り）
 
 evidentは「証拠や理由があって明らか」というニュアンスが強く、obviousは「一目で分かるほど明白」という意味でより直接的です。
 
@@ -105,14 +109,14 @@ evidentは「証拠や理由があって明らか」というニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [apparent](/word/apparent/)：見たところ明らかな
-- [unclear](/word/unclear/)：はっきりしない、不明瞭な
+- [apparent](/apparent)：見たところ明らかな
+- [unclear](/unclear)：はっきりしない、不明瞭な
 
 ---
 
 ## 📖 できればこれも
 
-- [apparent](/word/apparent/)：見たところ明らかな
-- [significant](/word/significant/)：重要な、意味のある
+- [apparent](/apparent)：見たところ明らかな
+- [significant](/significant)：重要な、意味のある
 
-<!-- cvid: aid11_bid45 -->
+<!-- cvid: aid16_bid16 -->

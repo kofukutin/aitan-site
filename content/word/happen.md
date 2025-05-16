@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「何が起こったか」「いつ起こるか
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「何が起こったか」「いつ起こるか
 ## 🤔  occur との違いは？
 
 - **happen**：偶然や自然に出来事が起こることをカジュアルに表現
-- **[occur](/word/occur/)**：ややフォーマルで、出来事や現象が「発生する」ことを客観的に述べる
+- **[occur](/occur)**：ややフォーマルで、出来事や現象が「発生する」ことを客観的に述べる
 
 happenは日常会話でよく使われ、occurは書き言葉やフォーマルな場面で使われやすいです。
 
@@ -105,14 +109,14 @@ happenは日常会話でよく使われ、occurは書き言葉やフォーマル
 
 ## 🧩 あわせて覚えたい
 
-- [take place](/word/take_place/)：（予定通りに）行われる
-- [arise](/word/arise/)：（問題・機会などが）生じる
+- [take place](/take_place)：（予定通りに）行われる
+- [arise](/arise)：（問題・機会などが）生じる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear/)：現れる
-- [exist](/word/exist/)：存在する
+- [appear](/appear)：現れる
+- [exist](/exist)：存在する
 
-<!-- cvid: aid09_bid47 -->
+<!-- cvid: aid36_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは会議やイベントの主催に関する会話や説明でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの主催に関する会話や説明でよく出
 ## 🤔  organize との違いは？
 
 - **hosted**：主催者としてイベントを開き、もてなすニュアンスが強い
-- **[organize](/word/organize/)**：計画・準備・手配など「まとめる」ことに重点
+- **[organize](/organize)**：計画・準備・手配など「まとめる」ことに重点
 
 「hosted」は「主催者として迎える」イメージ、「organize」は「計画・準備を整える」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは会議やイベントの主催に関する会話や説明でよく出
 
 ## 🧩 あわせて覚えたい
 
-- [invite](/word/invite/)：招待する
-- [attend](/word/attend/)：出席する
+- [invite](/invite)：招待する
+- [attend](/attend)：出席する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [manage](/word/manage/)：管理する、運営する
+- [arrange](/arrange)：手配する、準備する
+- [manage](/manage)：管理する、運営する
 
-<!-- cvid: aid06_bid12 -->
+<!-- cvid: aid38_bid31 -->

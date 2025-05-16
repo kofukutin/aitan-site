@@ -81,15 +81,19 @@ TOEICでは農業や環境、貿易に関する長文や記事で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは農業や環境、貿易に関する長文や記事で登場するこ
 ## 🤔  cattle との違いは？
 
 - **livestock**：牛・豚・羊など農場で飼う家畜全般
-- **[cattle](/word/cattle/)**：牛のみを指す
+- **[cattle](/cattle)**：牛のみを指す
 
 livestockは家畜全体を指し、cattleは牛だけを意味します。豚や羊なども含めたい場合はlivestockを使います。
 
@@ -105,14 +109,14 @@ livestockは家畜全体を指し、cattleは牛だけを意味します。豚�
 
 ## 🧩 あわせて覚えたい
 
-- [poultry](/word/poultry/)：家禽（ニワトリやアヒルなど）
-- [crop](/word/crop/)：作物
+- [poultry](/poultry)：家禽（ニワトリやアヒルなど）
+- [crop](/crop)：作物
 
 ---
 
 ## 📖 できればこれも
 
-- [harvest](/word/harvest/)：収穫
-- [agriculture](/word/agriculture/)：農業
+- [harvest](/harvest)：収穫
+- [agriculture](/agriculture)：農業
 
-<!-- cvid: aid08_bid25 -->
+<!-- cvid: aid34_bid16 -->

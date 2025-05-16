@@ -81,15 +81,19 @@ TOEICでは、会議や手続きが「スムーズに進む」といった文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や手続きが「スムーズに進む」といった文脈
 ## 🤔  soft との違いは？
 
 - **smooth**：表面がなめらか、または物事が円滑に進む様子
-- **[soft](/word/soft/)**：やわらかい、力を加えると形が変わる性質
+- **[soft](/soft)**：やわらかい、力を加えると形が変わる性質
 
 「smooth」は触ったときの「なめらかさ」や、進行の「スムーズさ」を表し、「soft」は「やわらかさ」や「ふわふわ感」を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、会議や手続きが「スムーズに進む」といった文脈
 
 ## 🧩 あわせて覚えたい
 
-- [rough](/word/rough/)：ざらざらした、荒い
-- [gentle](/word/gentle/)：やさしい、穏やかな
+- [rough](/rough)：ざらざらした、荒い
+- [gentle](/gentle)：やさしい、穏やかな
 
 ---
 
 ## 📖 できればこれも
 
-- [calm](/word/calm/)：落ち着いた、静かな
-- [clear](/word/clear/)：はっきりした、明確な
+- [calm](/calm)：落ち着いた、静かな
+- [clear](/clear)：はっきりした、明確な
 
-<!-- cvid: aid40_bid14 -->
+<!-- cvid: aid16_bid08 -->

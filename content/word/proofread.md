@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書の作成やチェックに関する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書の作成やチェックに関する文脈で
 ## 🤔  revise との違いは？
 
 - **proofread**：誤字脱字や文法ミスなど表面的な間違いをチェックして直すこと
-- **[revise](/word/revise/)**：内容や構成自体を見直して修正・改善すること
+- **[revise](/revise)**：内容や構成自体を見直して修正・改善すること
 
 proofreadは「間違い探し・修正」に特化し、reviseは「内容の見直し・改善」まで含みます。
 
@@ -105,14 +109,14 @@ proofreadは「間違い探し・修正」に特化し、reviseは「内容の�
 
 ## 🧩 あわせて覚えたい
 
-- [edit](/word/edit/)：編集する、手直しする
-- [correct](/word/correct/)：訂正する、正す
+- [edit](/edit)：編集する、手直しする
+- [correct](/correct)：訂正する、正す
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [review](/word/review/)：見直す、再検討する
+- [submit](/submit)：提出する
+- [review](/review)：見直す、再検討する
 
-<!-- cvid: aid14_bid11 -->
+<!-- cvid: aid24_bid02 -->

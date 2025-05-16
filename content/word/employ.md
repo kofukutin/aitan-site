@@ -81,15 +81,19 @@ TOEICでは「雇う」「用いる」の両方の意味で出題されること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「雇う」「用いる」の両方の意味で出題されること
 ## 🤔  hire との違いは？
 
 - **employ**：フォーマルで継続的な雇用や手段の「用いる」にも使える
-- **[hire](/word/hire/)**：よりカジュアルで「一時的に雇う」「短期雇用」にも使われる
+- **[hire](/hire)**：よりカジュアルで「一時的に雇う」「短期雇用」にも使われる
 
 employは長期的・正式な雇用や方法の活用に使われ、hireは短期や一時的な雇用、物のレンタルにも使われます。
 
@@ -105,14 +109,14 @@ employは長期的・正式な雇用や方法の活用に使われ、hireは短�
 
 ## 🧩 あわせて覚えたい
 
-- [dismiss](/word/dismiss/)：解雇する
-- [utilize](/word/utilize/)：活用する
+- [dismiss](/dismiss)：解雇する
+- [utilize](/utilize)：活用する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：応募する、申し込む
-- [recruit](/word/recruit/)：募集する、採用する
+- [apply](/apply)：応募する、申し込む
+- [recruit](/recruit)：募集する、採用する
 
-<!-- cvid: aid06_bid39 -->
+<!-- cvid: aid08_bid49 -->

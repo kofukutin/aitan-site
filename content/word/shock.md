@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【shock】の意味・使い方・例文 ― surpriseとの違い【TOEIC英単語】"
 description: "shockの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsurpriseとの違いもわかりやすく学べます。"
 word: "shock"
@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「予想外の出来事」や「感情の動揺
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「予想外の出来事」や「感情の動揺
 ## 🤔  surprise との違いは？
 
 - **shock**：強い衝撃や動揺、時にネガティブな驚きを表す。
-- **[surprise](/word/surprise/)**：予想外の出来事による驚きで、必ずしもネガティブではない。
+- **[surprise](/surprise)**：予想外の出来事による驚きで、必ずしもネガティブではない。
 
 shockは感情や状況に大きなインパクトがある場合に使い、surpriseは単なる驚きや意外性に使います。
 
@@ -105,14 +109,14 @@ shockは感情や状況に大きなインパクトがある場合に使い、sur
 
 ## 🧩 あわせて覚えたい
 
-- [trauma](/word/trauma/)：心的外傷、トラウマ
-- [impact](/word/impact/)：影響、衝撃
+- [trauma](/trauma)：心的外傷、トラウマ
+- [impact](/impact)：影響、衝撃
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress/)：ストレス、緊張
-- [incident](/word/incident/)：出来事、事件
+- [stress](/stress)：ストレス、緊張
+- [incident](/incident)：出来事、事件
 
-<!-- cvid: aid23_bid22 -->
+<!-- cvid: aid30_bid25 -->

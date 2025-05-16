@@ -81,15 +81,19 @@ TOEICでは、suspensionは「一時停止」「中断」「停職」などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、suspensionは「一時停止」「中断」「停職」などの�
 ## 🤔  postponement との違いは？
 
 - **suspension**：一時的な中断や停止、または停職など「活動を止める」ニュアンスが強い
-- **[postponement](/word/postponement/)**：予定やイベントの「延期」、開始時期を後ろにずらす意味
+- **[postponement](/postponement)**：予定やイベントの「延期」、開始時期を後ろにずらす意味
 
 suspensionは「今行われているものを一時的に止める」イメージ、postponementは「これから始まる予定を後ろにずらす」イメージです。
 
@@ -105,14 +109,14 @@ suspensionは「今行われているものを一時的に止める」イメー�
 
 ## 🧩 あわせて覚えたい
 
-- [termination](/word/termination/)：終了、打ち切り
-- [interruption](/word/interruption/)：中断、妨害
+- [termination](/termination)：終了、打ち切り
+- [interruption](/interruption)：中断、妨害
 
 ---
 
 ## 📖 できればこれも
 
-- [resumption](/word/resumption/)：再開
-- [delay](/word/delay/)：遅延、遅れ
+- [resumption](/resumption)：再開
+- [delay](/delay)：遅延、遅れ
 
-<!-- cvid: aid47_bid20 -->
+<!-- cvid: aid08_bid28 -->

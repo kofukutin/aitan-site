@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、作業現場やオフィスの備品
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、作業現場やオフィスの備品
 ## 🤔  toolkit との違いは？
 
 - **toolbox**：物理的な「工具箱」や道具を入れる箱を指す。
-- **[toolkit](/word/toolkit/)**：道具一式やツールのセット、またはソフトウェアの機能セットを指す。
+- **[toolkit](/toolkit)**：道具一式やツールのセット、またはソフトウェアの機能セットを指す。
 
 toolboxは「箱」という入れ物自体を強調し、toolkitは「道具のセット」や「機能のまとまり」を指します。
 
@@ -105,14 +109,14 @@ toolboxは「箱」という入れ物自体を強調し、toolkitは「道具の
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container/)：容器、入れ物
-- [equipment](/word/equipment/)：装置、備品
+- [container](/container)：容器、入れ物
+- [equipment](/equipment)：装置、備品
 
 ---
 
 ## 📖 できればこれも
 
-- [drawer](/word/drawer/)：引き出し
-- [shelf](/word/shelf/)：棚
+- [drawer](/drawer)：引き出し
+- [shelf](/shelf)：棚
 
-<!-- cvid: aid22_bid18 -->
+<!-- cvid: aid17_bid01 -->

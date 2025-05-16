@@ -81,15 +81,19 @@ TOEICでは、ホテルやオフィス、店舗の説明文や広告などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやオフィス、店舗の説明文や広告などで「
 ## 🤔  decoration との違いは？
 
 - **decor**：部屋や空間全体の「内装・インテリア」の雰囲気やスタイルを指す
-- **[decoration](/word/decoration/)**：飾りそのものや装飾品、または飾る行為を指す
+- **[decoration](/decoration)**：飾りそのものや装飾品、または飾る行為を指す
 
 「decor」は空間全体の雰囲気やスタイルを表し、「decoration」は個々の飾りや装飾品を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、ホテルやオフィス、店舗の説明文や広告などで「
 
 ## 🧩 あわせて覚えたい
 
-- [interior](/word/interior/)：室内、インテリア
-- [ornament](/word/ornament/)：装飾品、飾り
+- [interior](/interior)：室内、インテリア
+- [ornament](/ornament)：装飾品、飾り
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：デザイン、設計
-- [furniture](/word/furniture/)：家具
+- [design](/design)：デザイン、設計
+- [furniture](/furniture)：家具
 
-<!-- cvid: aid00_bid01 -->
+<!-- cvid: aid43_bid16 -->

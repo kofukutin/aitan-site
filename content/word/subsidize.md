@@ -81,15 +81,19 @@ subsidizeはTOEICの長文読解（Part 7）で、政府や企業の支援に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid45_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ subsidizeはTOEICの長文読解（Part 7）で、政府や企業の支援に関
 ## 🤔  sponsor との違いは？
 
 - **subsidize**：主に政府や公的機関が、公益性のある活動や事業に金銭的援助をする場合に使うフォーマルな表現。
-- **[sponsor](/word/sponsor/)**：企業や個人がイベントや活動を支援する際に使い、宣伝や見返りを期待するニュアンスが強い。
+- **[sponsor](/sponsor)**：企業や個人がイベントや活動を支援する際に使い、宣伝や見返りを期待するニュアンスが強い。
 
 subsidizeは「公的な補助金」、sponsorは「宣伝や協賛を目的とした支援」と使い分けます。
 
@@ -105,14 +109,14 @@ subsidizeは「公的な補助金」、sponsorは「宣伝や協賛を目的と�
 
 ## 🧩 あわせて覚えたい
 
-- [fund](/word/fund/)：資金を提供する
-- [support](/word/support/)：支援する、応援する
+- [fund](/fund)：資金を提供する
+- [support](/support)：支援する、応援する
 
 ---
 
 ## 📖 できればこれも
 
-- [allocate](/word/allocate/)：割り当てる、配分する
-- [grant](/word/grant/)：（公式に）与える、許可する
+- [allocate](/allocate)：割り当てる、配分する
+- [grant](/grant)：（公式に）与える、許可する
 
-<!-- cvid: aid10_bid06 -->
+<!-- cvid: aid45_bid07 -->

@@ -77,15 +77,19 @@ TOEICでは主に文法問題でshouldとの使い分けや、義務・推奨を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主に文法問題でshouldとの使い分けや、義務・推奨を
 ## 🤔  should との違いは？
 
 - **ought**：ややフォーマルで「当然そうすべき」という強めの推奨や義務を表す。
-- **[should](/word/should/)**：より一般的でカジュアル、アドバイスや推奨を広く表現。
+- **[should](/should)**：より一般的でカジュアル、アドバイスや推奨を広く表現。
 
 oughtはshouldよりもやや堅い印象で、義務感や当然性を強調したいときに使われます。
 
@@ -101,15 +105,15 @@ oughtはshouldよりもやや堅い印象で、義務感や当然性を強調し
 
 ## 🧩 あわせて覚えたい
 
-- [must](/word/must/)：～しなければならない（強い義務）
-- [have to](/word/have_to/)：～しなければならない（外的な必要性）
+- [must](/must)：～しなければならない（強い義務）
+- [have to](/have_to)：～しなければならない（外的な必要性）
 
 ---
 
 ## 📖 できればこれも
 
-- [may](/word/may/)：～かもしれない、～してもよい
-- [shall](/word/shall/)：～すべきである（主に提案や意志表明）
+- [may](/may)：～かもしれない、～してもよい
+- [shall](/shall)：～すべきである（主に提案や意志表明）
 
 
-<!-- cvid: aid14_bid07 -->
+<!-- cvid: aid21_bid42 -->

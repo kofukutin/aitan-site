@@ -81,15 +81,19 @@ TOEICでは「existing customers（既存顧客）」や「existing system（既
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「existing customers（既存顧客）」や「existing system（既
 ## 🤔  current との違いは？
 
 - **existing**：今すでに存在している、以前からある
-- **[current](/word/current/)**：現在進行中の、今の
+- **[current](/current)**：現在進行中の、今の
 
 「existing」は「すでに存在しているもの」に焦点があり、「current」は「今まさに進行中・現在の状態」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「existing customers（既存顧客）」や「existing system（既
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/word/previous/)：以前の、前の
-- [available](/word/available/)：利用可能な、手に入る
+- [previous](/previous)：以前の、前の
+- [available](/available)：利用可能な、手に入る
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/word/active/)：活動中の、稼働している
-- [recent](/word/recent/)：最近の
+- [active](/active)：活動中の、稼働している
+- [recent](/recent)：最近の
 
-<!-- cvid: aid39_bid10 -->
+<!-- cvid: aid14_bid37 -->

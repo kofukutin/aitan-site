@@ -81,15 +81,19 @@ TOEICでは主に天候や自然現象を描写する写真問題で登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に天候や自然現象を描写する写真問題で登場しま
 ## 🤔  thunder との違いは？
 
 - **lightning**：空に光る稲妻や雷そのもの（光の現象）
-- **[thunder](/word/thunder/)**：雷の音（ゴロゴロという音）
+- **[thunder](/thunder)**：雷の音（ゴロゴロという音）
 
 lightningは「光」、thunderは「音」を指します。雷雨のときは両方がセットで現れますが、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ lightningは「光」、thunderは「音」を指します。雷雨のときは�
 
 ## 🧩 あわせて覚えたい
 
-- [storm](/word/storm/)：嵐
-- [flash](/word/flash/)：閃光
+- [storm](/storm)：嵐
+- [flash](/flash)：閃光
 
 ---
 
 ## 📖 できればこれも
 
-- [rain](/word/rain/)：雨
-- [cloud](/word/cloud/)：雲
+- [rain](/rain)：雨
+- [cloud](/cloud)：雲
 
-<!-- cvid: aid14_bid44 -->
+<!-- cvid: aid36_bid47 -->

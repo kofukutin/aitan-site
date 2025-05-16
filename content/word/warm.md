@@ -81,15 +81,19 @@ TOEICでは、天気や室内の様子を描写する写真問題でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid20" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid20" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、天気や室内の様子を描写する写真問題でよく登場
 ## 🤔  hot との違いは？
 
 - **warm**：心地よい暖かさや、やや控えめな温度を表す
-- **[hot](/word/hot/)**：かなり高い温度や、熱い状態を表す
+- **[hot](/hot)**：かなり高い温度や、熱い状態を表す
 
 warmは「ぬくもり」や「優しさ」も含む柔らかいニュアンス、hotは「熱い」「刺激的」など強い温度感を表します。
 
@@ -105,14 +109,14 @@ warmは「ぬくもり」や「優しさ」も含む柔らかいニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [cold](/word/cold/)：冷たい
-- [cool](/word/cool/)：涼しい、かっこいい
+- [cold](/cold)：冷たい
+- [cool](/cool)：涼しい、かっこいい
 
 ---
 
 ## 📖 できればこれも
 
-- [soft](/word/soft/)：柔らかい
-- [bright](/word/bright/)：明るい
+- [soft](/soft)：柔らかい
+- [bright](/bright)：明るい
 
-<!-- cvid: aid14_bid34 -->
+<!-- cvid: aid49_bid20 -->

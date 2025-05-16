@@ -81,15 +81,19 @@ TOEICでは歴史や文化、法律に関する長文や、フォーマルなス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や文化、法律に関する長文や、フォーマルなス
 ## 🤔  master との違いは？
 
 - **lord**：貴族や領主など、社会的地位や権威を持つ支配者を指すフォーマルな語。
-- **[master](/word/master/)**：技能や支配の意味が強く、主人や達人、指導者など幅広い場面で使われる。
+- **[master](/master)**：技能や支配の意味が強く、主人や達人、指導者など幅広い場面で使われる。
 
 lordは身分や称号を強調し、masterは技術や支配力、熟練度を強調します。
 
@@ -105,14 +109,14 @@ lordは身分や称号を強調し、masterは技術や支配力、熟練度を�
 
 ## 🧩 あわせて覚えたい
 
-- [servant](/word/servant/)：召使い、使用人
-- [noble](/word/noble/)：貴族、気高い人
+- [servant](/servant)：召使い、使用人
+- [noble](/noble)：貴族、気高い人
 
 ---
 
 ## 📖 できればこれも
 
-- [king](/word/king/)：王
-- [owner](/word/owner/)：所有者
+- [king](/king)：王
+- [owner](/owner)：所有者
 
-<!-- cvid: aid37_bid48 -->
+<!-- cvid: aid36_bid03 -->

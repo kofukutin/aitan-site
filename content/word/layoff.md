@@ -81,15 +81,19 @@ TOEICでは、企業の人事や経営に関する記事、通知、メール文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業の人事や経営に関する記事、通知、メール文
 ## 🤔  dismissal との違いは？
 
 - **layoff**：会社都合による一時的・恒久的な解雇（経済的理由が多い）
-- **[dismissal](/word/dismissal/)**：従業員の能力や規律違反など、個人の理由による解雇
+- **[dismissal](/dismissal)**：従業員の能力や規律違反など、個人の理由による解雇
 
 「layoff」は経営状況など会社側の都合で行われる解雇、「dismissal」は個人の問題や規則違反による解雇を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、企業の人事や経営に関する記事、通知、メール文
 
 ## 🧩 あわせて覚えたい
 
-- [furlough](/word/furlough/)：一時帰休（無給または減給で一時的に職務を離れること）
-- [resignation](/word/resignation/)：辞職、退職（自分の意思で会社を辞めること）
+- [furlough](/furlough)：一時帰休（無給または減給で一時的に職務を離れること）
+- [resignation](/resignation)：辞職、退職（自分の意思で会社を辞めること）
 
 ---
 
 ## 📖 できればこれも
 
-- [recruitment](/word/recruitment/)：採用活動
-- [promotion](/word/promotion/)：昇進
+- [recruitment](/recruitment)：採用活動
+- [promotion](/promotion)：昇進
 
-<!-- cvid: aid05_bid29 -->
+<!-- cvid: aid13_bid23 -->

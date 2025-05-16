@@ -77,15 +77,19 @@ includingはTOEICの長文問題や説明文で頻出し、例示や範囲の明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ includingはTOEICの長文問題や説明文で頻出し、例示や範囲の明
 ## 🤔  such as との違いは？
 
 - **including**：前に述べたものに「～も含めて」と追加するニュアンス
-- **[such as](/word/such_as/)**：例をいくつか挙げるときに使う表現
+- **[such as](/such_as)**：例をいくつか挙げるときに使う表現
 
 includingは「含めて」という範囲の強調、such asは「例えば」と例示する違いがあります。
 
@@ -101,14 +105,14 @@ includingは「含めて」という範囲の強調、such asは「例えば」�
 
 ## 🧩 あわせて覚えたい
 
-- [except](/word/except/)：～を除いて
-- [among](/word/among/)：～の中で
+- [except](/except)：～を除いて
+- [among](/among)：～の中で
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during/)：～の間に
-- [without](/word/without/)：～なしで
+- [during](/during)：～の間に
+- [without](/without)：～なしで
 
-<!-- cvid: aid24_bid33 -->
+<!-- cvid: aid03_bid08 -->

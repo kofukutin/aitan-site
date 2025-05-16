@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や財務報告、会社紹介などで「資
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や財務報告、会社紹介などで「資
 ## 🤔  property との違いは？
 
 - **asset**：企業や個人が持つ価値あるもの全般や強みを指す
-- **[property](/word/property/)**：主に土地や建物などの不動産、または所有物全般を指す
+- **[property](/property)**：主に土地や建物などの不動産、または所有物全般を指す
 
 assetは会計やビジネスで使われる「資産」や「強み」に重点があり、propertyは物理的な所有物や不動産を指すことが多いです。
 
@@ -105,14 +109,14 @@ assetは会計やビジネスで使われる「資産」や「強み」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [liability](/word/liability/)：負債、責任
-- [resource](/word/resource/)：資源、手段
+- [liability](/liability)：負債、責任
+- [resource](/resource)：資源、手段
 
 ---
 
 ## 📖 できればこれも
 
-- [capital](/word/capital/)：資本、元金
-- [fund](/word/fund/)：資金、基金
+- [capital](/capital)：資本、元金
+- [fund](/fund)：資金、基金
 
-<!-- cvid: aid28_bid46 -->
+<!-- cvid: aid16_bid22 -->

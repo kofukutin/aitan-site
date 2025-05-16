@@ -81,15 +81,19 @@ TOEICでは、教材や研修、説明書など教育・指導に関する文書
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、教材や研修、説明書など教育・指導に関する文書
 ## 🤔  educational との違いは？
 
 - **instructional**：指導や説明、具体的な教え方・教材に関する
-- **[educational](/word/educational/)**：教育全般や学びに関する、より広い意味
+- **[educational](/educational)**：教育全般や学びに関する、より広い意味
 
 **instructional**は「教え方」や「指導方法」「教材」など、実際の指導や説明に焦点を当てます。一方、**educational**は「教育的な」「学びに役立つ」といった広い意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、教材や研修、説明書など教育・指導に関する文書
 
 ## 🧩 あわせて覚えたい
 
-- [instructive](/word/instructive/)：ためになる、教訓的な
-- [tutorial](/word/tutorial/)：指導書、チュートリアル
+- [instructive](/instructive)：ためになる、教訓的な
+- [tutorial](/tutorial)：指導書、チュートリアル
 
 ---
 
 ## 📖 できればこれも
 
-- [curriculum](/word/curriculum/)：カリキュラム、教育課程
-- [lecture](/word/lecture/)：講義、講演
+- [curriculum](/curriculum)：カリキュラム、教育課程
+- [lecture](/lecture)：講義、講演
 
-<!-- cvid: aid23_bid14 -->
+<!-- cvid: aid00_bid39 -->

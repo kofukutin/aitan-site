@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「配達する」「届ける」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「配達する」「届ける」という意
 ## 🤔  shipping との違いは？
 
 - **delivering**：実際に相手の手元まで届けることを強調
-- **[shipping](/word/shipping/)**：商品などを発送すること、運送過程を強調
+- **[shipping](/shipping)**：商品などを発送すること、運送過程を強調
 
 deliveringは「届ける」動作そのもの、shippingは「発送・出荷」という物流の一部を指します。
 
@@ -105,14 +109,14 @@ deliveringは「届ける」動作そのもの、shippingは「発送・出荷�
 
 ## 🧩 あわせて覚えたい
 
-- [send](/word/send/)：送る
-- [receive](/word/receive/)：受け取る
+- [send](/send)：送る
+- [receive](/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [distribute](/word/distribute/)：分配する、配布する
-- [transport](/word/transport/)：輸送する
+- [distribute](/distribute)：分配する、配布する
+- [transport](/transport)：輸送する
 
-<!-- cvid: aid40_bid36 -->
+<!-- cvid: aid00_bid32 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【navy】の意味・使い方・例文 ― armyとの違い【TOEIC英単語】"
 description: "navyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでarmyとの違いもわかりやすく学べます。"
 word: "navy"
@@ -81,15 +81,19 @@ TOEICでは、国際関係や組織紹介、ニュース記事などの長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、国際関係や組織紹介、ニュース記事などの長文で
 ## 🤔  army との違いは？
 
 - **navy**：海上で活動する軍隊（海軍）や紺色を指す
-- **[army](/word/army/)**：陸上で活動する軍隊（陸軍）を指す
+- **[army](/army)**：陸上で活動する軍隊（陸軍）を指す
 
 navyは海や船に関わる軍隊、armyは陸上での軍隊を表します。活動場所や役割が異なります。
 
@@ -105,14 +109,14 @@ navyは海や船に関わる軍隊、armyは陸上での軍隊を表します。
 
 ## 🧩 あわせて覚えたい
 
-- [fleet](/word/fleet/)：艦隊
-- [marine](/word/marine/)：海兵隊、海の
+- [fleet](/fleet)：艦隊
+- [marine](/marine)：海兵隊、海の
 
 ---
 
 ## 📖 できればこれも
 
-- [uniform](/word/uniform/)：制服
-- [officer](/word/officer/)：士官、役員
+- [uniform](/uniform)：制服
+- [officer](/officer)：士官、役員
 
-<!-- cvid: aid24_bid13 -->
+<!-- cvid: aid37_bid03 -->

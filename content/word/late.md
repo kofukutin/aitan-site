@@ -81,15 +81,19 @@ TOEICでは会議やアポイントの遅れ、スケジュール調整などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やアポイントの遅れ、スケジュール調整などの
 ## 🤔  delayed との違いは？
 
 - **late**：予定より遅れていることを表す一般的な単語
-- **[delayed](/word/delayed/)**：何らかの理由で「遅延」したことを強調する語
+- **[delayed](/delayed)**：何らかの理由で「遅延」したことを強調する語
 
 「late」は単純に遅れている状態を指し、「delayed」は原因や事情があって遅れた場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会議やアポイントの遅れ、スケジュール調整などの
 
 ## 🧩 あわせて覚えたい
 
-- [early](/word/early/)：早い、早く
-- [punctual](/word/punctual/)：時間を守る
+- [early](/early)：早い、早く
+- [punctual](/punctual)：時間を守る
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon/)：すぐに
-- [recent](/word/recent/)：最近の
+- [soon](/soon)：すぐに
+- [recent](/recent)：最近の
 
-<!-- cvid: aid43_bid26 -->
+<!-- cvid: aid39_bid46 -->

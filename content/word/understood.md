@@ -83,15 +83,19 @@ TOEICでは、指示や説明に対して「分かりました」と返答する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、指示や説明に対して「分かりました」と返答する
 ## 🤔  agreed との違いは？
 
 - **understood**：相手の言ったことや状況を「理解した」と伝える表現
-- **[agreed](/word/agreed/)**：相手の意見や提案に「同意した」と伝える表現
+- **[agreed](/agreed)**：相手の意見や提案に「同意した」と伝える表現
 
 understoodは「分かりました」、agreedは「賛成です」とニュアンスが異なり、使い分けが必要です。
 
@@ -107,14 +111,14 @@ understoodは「分かりました」、agreedは「賛成です」とニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [comprehend](/word/comprehend/)：（難しいことを）理解する
-- [acknowledge](/word/acknowledge/)：認める、受け取ったことを知らせる
+- [comprehend](/comprehend)：（難しいことを）理解する
+- [acknowledge](/acknowledge)：認める、受け取ったことを知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する
-- [accept](/word/accept/)：受け入れる
+- [confirm](/confirm)：確認する
+- [accept](/accept)：受け入れる
 
-<!-- cvid: aid39_bid13 -->
+<!-- cvid: aid14_bid46 -->

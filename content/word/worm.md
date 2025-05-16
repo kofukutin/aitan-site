@@ -81,15 +81,19 @@ TOEICでは主に科学やIT関連の記事、説明文で登場します。日�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学やIT関連の記事、説明文で登場します。日�
 ## 🤔  insect との違いは？
 
 - **worm**：足がなく細長い虫（ミミズや寄生虫など）を指す
-- **[insect](/word/insect/)**：昆虫（アリやハチなど、体が3つに分かれ6本足の生き物）
+- **[insect](/insect)**：昆虫（アリやハチなど、体が3つに分かれ6本足の生き物）
 
 wormは「細長い虫」全般、insectは「昆虫」という生物学的な分類で、見た目や体の構造が異なります。
 
@@ -105,14 +109,14 @@ wormは「細長い虫」全般、insectは「昆虫」という生物学的な�
 
 ## 🧩 あわせて覚えたい
 
-- [larva](/word/larva/)：幼虫
-- [parasite](/word/parasite/)：寄生虫
+- [larva](/larva)：幼虫
+- [parasite](/parasite)：寄生虫
 
 ---
 
 ## 📖 できればこれも
 
-- [bug](/word/bug/)：虫、バグ（IT用語）
-- [snake](/word/snake/)：ヘビ
+- [bug](/bug)：虫、バグ（IT用語）
+- [snake](/snake)：ヘビ
 
-<!-- cvid: aid35_bid05 -->
+<!-- cvid: aid46_bid39 -->

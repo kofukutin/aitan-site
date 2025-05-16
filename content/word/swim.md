@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【swim】の意味・使い方・例文 ― floatとの違い【TOEIC英単語】"
 description: "swimの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfloatとの違いもわかりやすく学べます。"
 word: "swim"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、水泳やプール、海のシ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、水泳やプール、海のシ
 ## 🤔  float との違いは？
 
 - **swim**：手足を使って水中を進む「泳ぐ」
-- **[float](/word/float/)**：水に浮かぶ、浮かせる
+- **[float](/float)**：水に浮かぶ、浮かせる
 
 swimは「泳ぐ」動作そのものを指し、floatは「浮かぶ」状態を表します。泳げなくてもfloatはできますが、swimは自分で動くことが必要です。
 
@@ -105,14 +109,14 @@ swimは「泳ぐ」動作そのものを指し、floatは「浮かぶ」状態�
 
 ## 🧩 あわせて覚えたい
 
-- [dive](/word/dive/)：潜る
-- [sink](/word/sink/)：沈む
+- [dive](/dive)：潜る
+- [sink](/sink)：沈む
 
 ---
 
 ## 📖 できればこれも
 
-- [run](/word/run/)：走る
-- [walk](/word/walk/)：歩く
+- [run](/run)：走る
+- [walk](/walk)：歩く
 
-<!-- cvid: aid44_bid42 -->
+<!-- cvid: aid32_bid03 -->

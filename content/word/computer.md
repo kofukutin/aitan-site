@@ -81,15 +81,19 @@ TOEICでは、IT関連やオフィスの説明文、Eメールなどで頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、IT関連やオフィスの説明文、Eメールなどで頻出し
 ## 🤔  device との違いは？
 
 - **computer**：情報処理や計算を行う電子機器全般を指す。
-- **[device](/word/device/)**：機器・装置全般を指し、コンピューター以外の電子機器も含む。
+- **[device](/device)**：機器・装置全般を指し、コンピューター以外の電子機器も含む。
 
 computerは主にパソコンやサーバーなど「計算・情報処理」に特化した機器を指し、deviceはスマートフォンやプリンターなど幅広い機器に使われます。
 
@@ -105,14 +109,14 @@ computerは主にパソコンやサーバーなど「計算・情報処理」に
 
 ## 🧩 あわせて覚えたい
 
-- [laptop](/word/laptop/)：ノートパソコン
-- [server](/word/server/)：サーバー（ネットワーク上でサービスを提供するコンピューター）
+- [laptop](/laptop)：ノートパソコン
+- [server](/server)：サーバー（ネットワーク上でサービスを提供するコンピューター）
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard/)：キーボード
-- [monitor](/word/monitor/)：モニター（画面）
+- [keyboard](/keyboard)：キーボード
+- [monitor](/monitor)：モニター（画面）
 
-<!-- cvid: aid16_bid38 -->
+<!-- cvid: aid44_bid46 -->

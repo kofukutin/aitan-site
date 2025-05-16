@@ -81,15 +81,19 @@ TOEICでは、記事やメールの中で「無謀な行動」や「極端な熱
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やメールの中で「無謀な行動」や「極端な熱
 ## 🤔  insanity との違いは？
 
 - **madness**：日常的な「狂気」や「愚行」、一時的な熱狂も含む
-- **[insanity](/word/insanity/)**：医学的・法的な「精神異常」、より深刻で持続的
+- **[insanity](/insanity)**：医学的・法的な「精神異常」、より深刻で持続的
 
 madnessは日常会話や比喩表現で幅広く使われ、insanityはより専門的・深刻な状況で使われます。
 
@@ -105,14 +109,14 @@ madnessは日常会話や比喩表現で幅広く使われ、insanityはより�
 
 ## 🧩 あわせて覚えたい
 
-- [foolishness](/word/foolishness/)：愚かさ、ばかげたこと
-- [sanity](/word/sanity/)：正気、健全さ
+- [foolishness](/foolishness)：愚かさ、ばかげたこと
+- [sanity](/sanity)：正気、健全さ
 
 ---
 
 ## 📖 できればこれも
 
-- [anger](/word/anger/)：怒り
-- [confusion](/word/confusion/)：混乱
+- [anger](/anger)：怒り
+- [confusion](/confusion)：混乱
 
-<!-- cvid: aid25_bid13 -->
+<!-- cvid: aid27_bid11 -->

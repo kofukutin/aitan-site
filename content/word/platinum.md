@@ -81,15 +81,19 @@ TOEICでは、金属や素材、会員ランクなどの文脈でplatinumが登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、金属や素材、会員ランクなどの文脈でplatinumが登�
 ## 🤔  silver との違いは？
 
 - **platinum**：白金。銀よりも希少で高価な貴金属。宝飾品や高級サービスの象徴。
-- **[silver](/word/silver/)**：銀。platinumより一般的で、やや安価な貴金属。
+- **[silver](/silver)**：銀。platinumより一般的で、やや安価な貴金属。
 
 platinumは高級感や希少性を強調する場面で使われ、silverはより一般的な金属や色として使われます。
 
@@ -105,14 +109,14 @@ platinumは高級感や希少性を強調する場面で使われ、silverはよ
 
 ## 🧩 あわせて覚えたい
 
-- [gold](/word/gold/)：金。価値の高い貴金属。
-- [metal](/word/metal/)：金属。鉄や銅なども含む一般的な用語。
+- [gold](/gold)：金。価値の高い貴金属。
+- [metal](/metal)：金属。鉄や銅なども含む一般的な用語。
 
 ---
 
 ## 📖 できればこれも
 
-- [diamond](/word/diamond/)：ダイヤモンド。宝石の一種。
-- [precious](/word/precious/)：貴重な。価値の高いものを表す形容詞。
+- [diamond](/diamond)：ダイヤモンド。宝石の一種。
+- [precious](/precious)：貴重な。価値の高いものを表す形容詞。
 
-<!-- cvid: aid49_bid23 -->
+<!-- cvid: aid43_bid14 -->

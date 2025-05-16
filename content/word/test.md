@@ -81,15 +81,19 @@ TOEICでは「試験」「検査」「テスト」などの意味で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「試験」「検査」「テスト」などの意味で頻出しま
 ## 🤔  exam との違いは？
 
 - **test**：比較的短く、知識やスキルを確認するための「テスト」や「小テスト」。
-- **[exam](/word/exam/)**：より正式で範囲が広い「試験」や「試験期間」を指すことが多い。
+- **[exam](/exam)**：より正式で範囲が広い「試験」や「試験期間」を指すことが多い。
 
 testは日常的な小テストやチェックに使われ、examは入試や期末試験など重要度の高い場面で使われます。
 
@@ -105,14 +109,14 @@ testは日常的な小テストやチェックに使われ、examは入試や期
 
 ## 🧩 あわせて覚えたい
 
-- [quiz](/word/quiz/)：小テスト、クイズ
-- [assessment](/word/assessment/)：評価、査定
+- [quiz](/quiz)：小テスト、クイズ
+- [assessment](/assessment)：評価、査定
 
 ---
 
 ## 📖 できればこれも
 
-- [score](/word/score/)：得点、スコア
-- [result](/word/result/)：結果
+- [score](/score)：得点、スコア
+- [result](/result)：結果
 
-<!-- cvid: aid14_bid04 -->
+<!-- cvid: aid46_bid12 -->

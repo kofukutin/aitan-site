@@ -81,15 +81,19 @@ TOEICの長文読解や説明文で、内容を限定したり、詳細を明確
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解や説明文で、内容を限定したり、詳細を明確
 ## 🤔  especially との違いは？
 
 - **specifically**：特定のものや内容を明確に区別して述べるときに使う
-- **[especially](/word/especially/)**：多くの中から「特に」目立つものを強調するときに使う
+- **[especially](/especially)**：多くの中から「特に」目立つものを強調するときに使う
 
 「specifically」は「限定・明確化」に重点があり、「especially」は「強調・目立たせる」ニュアンスです。
 
@@ -105,14 +109,14 @@ TOEICの長文読解や説明文で、内容を限定したり、詳細を明確
 
 ## 🧩 あわせて覚えたい
 
-- [precisely](/word/precisely/)：正確に、まさに
-- [generally](/word/generally/)：一般的に
+- [precisely](/precisely)：正確に、まさに
+- [generally](/generally)：一般的に
 
 ---
 
 ## 📖 できればこれも
 
-- [particularly](/word/particularly/)：特に、とりわけ
-- [explicitly](/word/explicitly/)：明確に、はっきりと
+- [particularly](/particularly)：特に、とりわけ
+- [explicitly](/explicitly)：明確に、はっきりと
 
-<!-- cvid: aid27_bid48 -->
+<!-- cvid: aid19_bid04 -->

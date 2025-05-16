@@ -88,8 +88,12 @@ TOEICでは、昇進や達成などの場面で「お祝いの言葉」として
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、昇進や達成などの場面で「お祝いの言葉」として
 ## 🤔  praise との違いは？
 
 - **congratulate**：相手の成功や幸運を祝って「おめでとう」と伝える
-- **[praise](/word/praise/)**：相手の行動や成果を「称賛する」「ほめる」
+- **[praise](/praise)**：相手の行動や成果を「称賛する」「ほめる」
 
 congratulateは「祝福」の気持ちを伝えるとき、praiseは「称賛」や「評価」を伝えるときに使います。
 
@@ -105,14 +109,14 @@ congratulateは「祝福」の気持ちを伝えるとき、praiseは「称賛�
 
 ## 🧩 あわせて覚えたい
 
-- [compliment](/word/compliment/)：ほめ言葉、賛辞
-- [celebrate](/word/celebrate/)：祝う、記念する
+- [compliment](/compliment)：ほめ言葉、賛辞
+- [celebrate](/celebrate)：祝う、記念する
 
 ---
 
 ## 📖 できればこれも
 
-- [appreciate](/word/appreciate/)：感謝する、評価する
-- [commend](/word/commend/)：称賛する、推薦する
+- [appreciate](/appreciate)：感謝する、評価する
+- [commend](/commend)：称賛する、推薦する
 
-<!-- cvid: aid20_bid10 -->
+<!-- cvid: aid20_bid34 -->

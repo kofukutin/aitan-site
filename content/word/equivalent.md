@@ -82,15 +82,19 @@ TOEICでは主にPart 5で、比較や同等性を問う文脈で出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid45_bid02" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid02" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 5で、比較や同等性を問う文脈で出題されま
 ## 🤔  equal との違いは？
 
 - **equivalent**：価値・量・意味などが実質的に同じであることを強調し、フォーマルな場面で使う
-- **[equal](/word/equal/)**：数量や大きさが「まったく等しい」ことを表し、より一般的
+- **[equal](/equal)**：数量や大きさが「まったく等しい」ことを表し、より一般的
 
 equivalentは「本質的に同じ価値や役割」を指し、equalは「数や大きさが完全に一致」する場合に使います。
 
@@ -106,14 +110,14 @@ equivalentは「本質的に同じ価値や役割」を指し、equalは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [comparable](/word/comparable/)：比較できる、同等の
-- [counterpart](/word/counterpart/)：対応するもの、相手方
+- [comparable](/comparable)：比較できる、同等の
+- [counterpart](/counterpart)：対応するもの、相手方
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/word/adequate/)：十分な、適切な
-- [identical](/word/identical/)：全く同じ、同一の
+- [adequate](/adequate)：十分な、適切な
+- [identical](/identical)：全く同じ、同一の
 
-<!-- cvid: aid35_bid26 -->
+<!-- cvid: aid45_bid02 -->

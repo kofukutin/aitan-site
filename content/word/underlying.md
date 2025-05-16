@@ -81,15 +81,19 @@ TOEICのPart 7で、ビジネス文書やレポートの中で「根本的な」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid31" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid31" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で、ビジネス文書やレポートの中で「根本的な」
 ## 🤔  fundamental との違いは？
 
 - **underlying**：表面には見えないが、根底や背後にあるものを強調
-- **[fundamental](/word/fundamental/)**：物事の基礎・基本となる重要な部分を強調
+- **[fundamental](/fundamental)**：物事の基礎・基本となる重要な部分を強調
 
 underlyingは「隠れた原因」や「背後にある要素」に焦点を当て、fundamentalは「最も重要な基礎・原則」に焦点を当てます。
 
@@ -105,14 +109,14 @@ underlyingは「隠れた原因」や「背後にある要素」に焦点を当�
 
 ## 🧩 あわせて覚えたい
 
-- [basic](/word/basic/)：基本的な、初歩的な
-- [superficial](/word/superficial/)：表面的な、うわべだけの
+- [basic](/basic)：基本的な、初歩的な
+- [superficial](/superficial)：表面的な、うわべだけの
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/word/primary/)：主要な、第一の
-- [essential](/word/essential/)：不可欠な、本質的な
+- [primary](/primary)：主要な、第一の
+- [essential](/essential)：不可欠な、本質的な
 
-<!-- cvid: aid46_bid41 -->
+<!-- cvid: aid33_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは「認める」「入場を許可する」の意味で、文法や語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「認める」「入場を許可する」の意味で、文法や語
 ## 🤔  confess との違いは？
 
 - **admit**：事実や過失をしぶしぶ、または公式に認めるときに使う
-- **[confess](/word/confess/)**：罪や秘密などを自分から打ち明けるときに使う
+- **[confess](/confess)**：罪や秘密などを自分から打ち明けるときに使う
 
 admitは「認めざるを得ない」ニュアンスがあり、confessは「自発的に告白する」場面で使われます。
 
@@ -105,15 +109,15 @@ admitは「認めざるを得ない」ニュアンスがあり、confessは「�
 
 ## 🧩 あわせて覚えたい
 
-- [deny](/word/deny/)：否定する、認めない
-- [accept](/word/accept/)：受け入れる、承諾する
+- [deny](/deny)：否定する、認めない
+- [accept](/accept)：受け入れる、承諾する
 
 ---
 
 ## 📖 できればこれも
 
-- [allow](/word/allow/)：許可する
-- [permit](/word/permit/)：許可する（よりフォーマル）
+- [allow](/allow)：許可する
+- [permit](/permit)：許可する（よりフォーマル）
 
 
-<!-- cvid: aid37_bid39 -->
+<!-- cvid: aid32_bid27 -->

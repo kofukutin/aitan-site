@@ -81,15 +81,19 @@ suchは文法問題や強調表現の選択肢として頻出します。soと�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ suchは文法問題や強調表現の選択肢として頻出します。soと�
 ## 🤔  so との違いは？
 
 - **such**：名詞を強調し「そのような」「とても～な」という意味で使う
-- **[so](/word/so/)**：形容詞や副詞を強調し「とても」「そんなに」という意味で使う
+- **[so](/so)**：形容詞や副詞を強調し「とても」「そんなに」という意味で使う
 
 suchは名詞を修飾し、soは形容詞や副詞を修飾する点が大きな違いです。
 
@@ -105,14 +109,14 @@ suchは名詞を修飾し、soは形容詞や副詞を修飾する点が大き�
 
 ## 🧩 あわせて覚えたい
 
-- [that](/word/that/)：あれ、それ、その
-- [very](/word/very/)：とても、非常に
+- [that](/that)：あれ、それ、その
+- [very](/very)：とても、非常に
 
 ---
 
 ## 📖 できればこれも
 
-- [these](/word/these/)：これらの
-- [those](/word/those/)：あれらの
+- [these](/these)：これらの
+- [those](/those)：あれらの
 
-<!-- cvid: aid23_bid35 -->
+<!-- cvid: aid05_bid21 -->

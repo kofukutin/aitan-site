@@ -81,15 +81,19 @@ TOEICではPart 2の応答問題で「質問する」「依頼する」場面に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid00" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid00" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2の応答問題で「質問する」「依頼する」場面に
 ## 🤔  requested との違いは？
 
 - **asked**：質問したり、頼んだりする一般的な表現
-- **[requested](/word/requested/)**：よりフォーマルに「正式に依頼する」ことを表す
+- **[requested](/requested)**：よりフォーマルに「正式に依頼する」ことを表す
 
 「asked」は日常的な頼みごとや質問に幅広く使われ、「requested」はビジネスや公式な場面での依頼に使われます。
 
@@ -105,14 +109,14 @@ TOEICではPart 2の応答問題で「質問する」「依頼する」場面に
 
 ## 🧩 あわせて覚えたい
 
-- [inquire](/word/inquire/)：問い合わせる、尋ねる（より丁寧・フォーマル）
-- [answer](/word/answer/)：答える、返事をする
+- [inquire](/inquire)：問い合わせる、尋ねる（より丁寧・フォーマル）
+- [answer](/answer)：答える、返事をする
 
 ---
 
 ## 📖 できればこれも
 
-- [tell](/word/tell/)：伝える、話す
-- [say](/word/say/)：言う
+- [tell](/tell)：伝える、話す
+- [say](/say)：言う
 
-<!-- cvid: aid03_bid15 -->
+<!-- cvid: aid21_bid00 -->

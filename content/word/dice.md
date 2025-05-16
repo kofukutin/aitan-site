@@ -81,15 +81,19 @@ TOEICでは、ゲームや確率、意思決定の話題で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ゲームや確率、意思決定の話題で登場することが
 ## 🤔  cube との違いは？
 
 - **dice**：ゲームや賭け事で使うサイコロを指す。
-- **[cube](/word/cube/)**：立方体という形そのものを指す。
+- **[cube](/cube)**：立方体という形そのものを指す。
 
 diceは「遊び道具」としてのサイコロ、cubeは「形状」としての立方体を表します。
 
@@ -105,14 +109,14 @@ diceは「遊び道具」としてのサイコロ、cubeは「形状」として
 
 ## 🧩 あわせて覚えたい
 
-- [lot](/word/lot/)：くじ、運
-- [gamble](/word/gamble/)：賭け事、ギャンブル
+- [lot](/lot)：くじ、運
+- [gamble](/gamble)：賭け事、ギャンブル
 
 ---
 
 ## 📖 できればこれも
 
-- [card](/word/card/)：カード、トランプ
-- [chance](/word/chance/)：機会、チャンス
+- [card](/card)：カード、トランプ
+- [chance](/chance)：機会、チャンス
 
-<!-- cvid: aid21_bid01 -->
+<!-- cvid: aid25_bid37 -->

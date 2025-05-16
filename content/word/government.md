@@ -81,15 +81,19 @@ TOEICでは、ニュース記事やビジネス文書の中で「政府」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「政府」や「
 ## 🤔  administration との違いは？
 
 - **government**：国や地域全体を統治する組織や機関を指す。
-- **[administration](/word/administration/)**：特定の政権や、組織・機関の運営管理を指す。
+- **[administration](/administration)**：特定の政権や、組織・機関の運営管理を指す。
 
 governmentは「国家レベルの政府全体」、administrationは「特定の政権や管理運営」に焦点があります。
 
@@ -105,14 +109,14 @@ governmentは「国家レベルの政府全体」、administrationは「特定�
 
 ## 🧩 あわせて覚えたい
 
-- [authority](/word/authority/)：権威、権限
-- [policy](/word/policy/)：政策、方針
+- [authority](/authority)：権威、権限
+- [policy](/policy)：政策、方針
 
 ---
 
 ## 📖 できればこれも
 
-- [organization](/word/organization/)：組織
-- [system](/word/system/)：制度、仕組み
+- [organization](/organization)：組織
+- [system](/system)：制度、仕組み
 
-<!-- cvid: aid07_bid23 -->
+<!-- cvid: aid39_bid06 -->

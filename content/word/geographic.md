@@ -81,15 +81,19 @@ TOEICでは、地理や地域に関する説明文やビジネスの立地条件
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、地理や地域に関する説明文やビジネスの立地条件
 ## 🤔  geological との違いは？
 
 - **geographic**：地理や場所、位置に関する
-- **[geological](/word/geological/)**：地質や岩石、地層に関する
+- **[geological](/geological)**：地質や岩石、地層に関する
 
 geographicは「場所や地域」に焦点を当て、geologicalは「地球の構造や岩石」など物理的な地質に焦点を当てます。
 
@@ -105,14 +109,14 @@ geographicは「場所や地域」に焦点を当て、geologicalは「地球の
 
 ## 🧩 あわせて覚えたい
 
-- [spatial](/word/spatial/)：空間的な
-- [regional](/word/regional/)：地域の、地方の
+- [spatial](/spatial)：空間的な
+- [regional](/regional)：地域の、地方の
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/word/physical/)：物理的な、身体の
-- [environmental](/word/environmental/)：環境の
+- [physical](/physical)：物理的な、身体の
+- [environmental](/environmental)：環境の
 
-<!-- cvid: aid39_bid35 -->
+<!-- cvid: aid02_bid33 -->

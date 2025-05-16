@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「ラジオ番組」「ラジオ局」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid02_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「ラジオ番組」「ラジオ局」など
 ## 🤔  broadcast との違いは？
 
 - **radio**：ラジオ放送やラジオ受信機そのものを指す
-- **[broadcast](/word/broadcast/)**：放送する行為や番組全般を指す
+- **[broadcast](/broadcast)**：放送する行為や番組全般を指す
 
 radioは「媒体」や「機器」、broadcastは「放送する行為」や「番組内容」に焦点があります。
 
@@ -105,14 +109,14 @@ radioは「媒体」や「機器」、broadcastは「放送する行為」や「
 
 ## 🧩 あわせて覚えたい
 
-- [television](/word/television/)：テレビ、テレビ放送
-- [station](/word/station/)：放送局、駅
+- [television](/television)：テレビ、テレビ放送
+- [station](/station)：放送局、駅
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music/)：音楽
-- [news](/word/news/)：ニュース
+- [music](/music)：音楽
+- [news](/news)：ニュース
 
-<!-- cvid: aid06_bid23 -->
+<!-- cvid: aid02_bid22 -->

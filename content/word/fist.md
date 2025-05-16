@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fist】の意味・使い方・例文 ― handとの違い【TOEIC英単語】"
 description: "fistの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhandとの違いもわかりやすく学べます。"
 word: "fist"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物がこぶしを握っている
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物がこぶしを握っている
 ## 🤔  hand との違いは？
 
 - **fist**：指を曲げて握った「こぶし」
-- **[hand](/word/hand/)**：手全体、開いた状態も含む
+- **[hand](/hand)**：手全体、開いた状態も含む
 
 fistは「こぶし」に限定され、handは「手」全体や開いた状態も指します。場面によって使い分けましょう。
 
@@ -105,14 +109,14 @@ fistは「こぶし」に限定され、handは「手」全体や開いた状態
 
 ## 🧩 あわせて覚えたい
 
-- [palm](/word/palm/)：手のひら
-- [grip](/word/grip/)：握ること、握力
+- [palm](/palm)：手のひら
+- [grip](/grip)：握ること、握力
 
 ---
 
 ## 📖 できればこれも
 
-- [thumb](/word/thumb/)：親指
-- [punch](/word/punch/)：パンチ、こぶしで打つ
+- [thumb](/thumb)：親指
+- [punch](/punch)：パンチ、こぶしで打つ
 
-<!-- cvid: aid26_bid15 -->
+<!-- cvid: aid44_bid35 -->

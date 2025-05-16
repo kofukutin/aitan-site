@@ -81,15 +81,19 @@ TOEICでは、人物の性格や仕事ぶりを表す形容詞としてPart 5の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物の性格や仕事ぶりを表す形容詞としてPart 5の
 ## 🤔  diligent との違いは？
 
 - **hardworking**：一生懸命に働く、努力家であることを強調
-- **[diligent](/word/diligent/)**：注意深く、継続的に努力することを強調
+- **[diligent](/diligent)**：注意深く、継続的に努力することを強調
 
 「hardworking」は「がむしゃらに頑張る」ニュアンスがあり、「diligent」は「細かいところまで気を配りながらコツコツ努力する」印象です。
 
@@ -105,14 +109,14 @@ TOEICでは、人物の性格や仕事ぶりを表す形容詞としてPart 5の
 
 ## 🧩 あわせて覚えたい
 
-- [lazy](/word/lazy/)：怠け者の、やる気がない
-- [industrious](/word/industrious/)：勤勉な、よく働く（ややフォーマル）
+- [lazy](/lazy)：怠け者の、やる気がない
+- [industrious](/industrious)：勤勉な、よく働く（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [motivated](/word/motivated/)：やる気のある
+- [efficient](/efficient)：効率的な
+- [motivated](/motivated)：やる気のある
 
-<!-- cvid: aid21_bid29 -->
+<!-- cvid: aid10_bid26 -->

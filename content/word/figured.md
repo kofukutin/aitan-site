@@ -81,15 +81,19 @@ figuredは会話文や意見を述べる場面でよく登場します。カジ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ figuredは会話文や意見を述べる場面でよく登場します。カジ�
 ## 🤔  thought との違いは？
 
 - **figured**：考えた結果、推測や判断をしたニュアンスが強い
-- **[thought](/word/thought/)**：単純に「考えた」「思った」という意味で幅広く使う
+- **[thought](/thought)**：単純に「考えた」「思った」という意味で幅広く使う
 
 figuredは「理由や根拠があって推測した」感じ、thoughtは「自然に思った」場合に使います。
 
@@ -105,14 +109,14 @@ figuredは「理由や根拠があって推測した」感じ、thoughtは「自
 
 ## 🧩 あわせて覚えたい
 
-- [guess](/word/guess/)：推測する
-- [assume](/word/assume/)：仮定する、当然と思う
+- [guess](/guess)：推測する
+- [assume](/assume)：仮定する、当然と思う
 
 ---
 
 ## 📖 できればこれも
 
-- [decide](/word/decide/)：決める
-- [realize](/word/realize/)：気づく
+- [decide](/decide)：決める
+- [realize](/realize)：気づく
 
-<!-- cvid: aid13_bid33 -->
+<!-- cvid: aid41_bid07 -->

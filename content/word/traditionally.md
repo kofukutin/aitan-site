@@ -81,15 +81,19 @@ TOEICでは、会社の慣習や文化、歴史的な背景を説明する長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の慣習や文化、歴史的な背景を説明する長文
 ## 🤔  conventionally との違いは？
 
 - **traditionally**：長い間続いてきた伝統や習慣に基づいていることを強調
-- **[conventionally](/word/conventionally/)**：一般的な慣習や社会的な決まりごとに従っていることを強調
+- **[conventionally](/conventionally)**：一般的な慣習や社会的な決まりごとに従っていることを強調
 
 「traditionally」は歴史や文化的な背景が強く、「conventionally」は現代の一般的なやり方やルールに焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは、会社の慣習や文化、歴史的な背景を説明する長文
 
 ## 🧩 あわせて覚えたい
 
-- [typically](/word/typically/)：典型的に、普通は
-- [customarily](/word/customarily/)：習慣的に、慣例的に
+- [typically](/typically)：典型的に、普通は
+- [customarily](/customarily)：習慣的に、慣例的に
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently/)：最近
-- [originally](/word/originally/)：もともと、最初は
+- [recently](/recently)：最近
+- [originally](/originally)：もともと、最初は
 
-<!-- cvid: aid20_bid43 -->
+<!-- cvid: aid14_bid38 -->

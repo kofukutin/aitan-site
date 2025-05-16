@@ -81,15 +81,19 @@ TOEICでは、製品説明や素材に関する文脈で「metal」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品説明や素材に関する文脈で「metal」が登場す�
 ## 🤔  steel との違いは？
 
 - **metal**：金属全般を指す一般的な言葉
-- **[steel](/word/steel/)**：鉄を主成分とした「鋼（はがね）」という特定の金属
+- **[steel](/steel)**：鉄を主成分とした「鋼（はがね）」という特定の金属
 
 metalは広い意味で使い、steelはその中の一種（鉄を主成分とした合金）を指します。
 
@@ -105,14 +109,14 @@ metalは広い意味で使い、steelはその中の一種（鉄を主成分と�
 
 ## 🧩 あわせて覚えたい
 
-- [alloy](/word/alloy/)：合金（金属を2種類以上混ぜたもの）
-- [plastic](/word/plastic/)：プラスチック（合成樹脂）
+- [alloy](/alloy)：合金（金属を2種類以上混ぜたもの）
+- [plastic](/plastic)：プラスチック（合成樹脂）
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material/)：材料、素材
-- [iron](/word/iron/)：鉄（金属の一種）
+- [material](/material)：材料、素材
+- [iron](/iron)：鉄（金属の一種）
 
-<!-- cvid: aid48_bid07 -->
+<!-- cvid: aid35_bid06 -->

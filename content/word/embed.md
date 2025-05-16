@@ -81,15 +81,19 @@ ITやビジネス文書で「埋め込む」「組み込む」の意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書で「埋め込む」「組み込む」の意味で出題
 ## 🤔  insert との違いは？
 
 - **embed**：しっかりと中に埋め込む、組み込む（特に一体化や密着のニュアンス）
-- **[insert](/word/insert/)**：単に挿入する、差し込む（位置や順序に入れるイメージ）
+- **[insert](/insert)**：単に挿入する、差し込む（位置や順序に入れるイメージ）
 
 「embed」は物やデータを深く組み込む感じ、「insert」は単に間に入れるイメージです。
 
@@ -105,14 +109,14 @@ ITやビジネス文書で「埋め込む」「組み込む」の意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [integrate](/word/integrate/)：統合する、組み合わせる
-- [attach](/word/attach/)：添付する、取り付ける
+- [integrate](/integrate)：統合する、組み合わせる
+- [attach](/attach)：添付する、取り付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement/)：実装する、導入する
-- [include](/word/include/)：含む、含める
+- [implement](/implement)：実装する、導入する
+- [include](/include)：含む、含める
 
-<!-- cvid: aid36_bid21 -->
+<!-- cvid: aid12_bid28 -->

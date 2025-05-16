@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「明らかに～だ」「当然～だ」と強
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「明らかに～だ」「当然～だ」と強
 ## 🤔  clearly との違いは？
 
 - **obviously**：誰が見ても明らか・当然だと強調する
-- **[clearly](/word/clearly/)**：はっきりと、分かりやすく（主観的な説明や描写にも使う）
+- **[clearly](/clearly)**：はっきりと、分かりやすく（主観的な説明や描写にも使う）
 
 「obviously」は「当然だ」「言うまでもない」と強調するニュアンスが強く、感情や驚きを込めることもあります。「clearly」は単に「はっきりと」「明確に」と事実を述べるときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「明らかに～だ」「当然～だ」と強
 
 ## 🧩 あわせて覚えたい
 
-- [apparently](/word/apparently/)：見たところ、どうやら
-- [evidently](/word/evidently/)：明らかに、どうやら
+- [apparently](/apparently)：見たところ、どうやら
+- [evidently](/evidently)：明らかに、どうやら
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/word/probably/)：おそらく
-- [definitely](/word/definitely/)：確実に、間違いなく
+- [probably](/probably)：おそらく
+- [definitely](/definitely)：確実に、間違いなく
 
-<!-- cvid: aid37_bid28 -->
+<!-- cvid: aid20_bid44 -->

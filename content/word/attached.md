@@ -81,15 +81,19 @@ TOEICではメールや案内文で「添付された書類」「付属の資料
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや案内文で「添付された書類」「付属の資料
 ## 🤔  connected との違いは？
 
 - **attached**：物理的・書類的に「添付された」「付属の」、または感情的な「愛着がある」
-- **[connected](/word/connected/)**：物理的・ネットワーク的に「つながっている」「接続された」
+- **[connected](/connected)**：物理的・ネットワーク的に「つながっている」「接続された」
 
 attachedは「何かにくっついている」「添付されている」ことを強調し、connectedは「ネットワークや線などでつながっている」ことを表します。
 
@@ -105,14 +109,14 @@ attachedは「何かにくっついている」「添付されている」こと
 
 ## 🧩 あわせて覚えたい
 
-- [enclosed](/word/enclosed/)：同封された
-- [included](/word/included/)：含まれている
+- [enclosed](/enclosed)：同封された
+- [included](/included)：含まれている
 
 ---
 
 ## 📖 できればこれも
 
-- [attached_file](/word/attached_file/)：添付ファイル
-- [relevant](/word/relevant/)：関連する
+- [attached_file](/attached_file)：添付ファイル
+- [relevant](/relevant)：関連する
 
-<!-- cvid: aid49_bid46 -->
+<!-- cvid: aid36_bid37 -->

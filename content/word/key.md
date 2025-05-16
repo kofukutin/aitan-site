@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「鍵」「重要なポイント」として頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「鍵」「重要なポイント」として頻
 ## 🤔  clue との違いは？
 
 - **key**：問題解決や成功の「決定的な要素」「カギ」となるもの
-- **[clue](/word/clue/)**：謎や問題を解くための「手がかり」「ヒント」
+- **[clue](/clue)**：謎や問題を解くための「手がかり」「ヒント」
 
 keyは「最も重要な要素」、clueは「解決に近づくためのヒント」という違いがあります。
 
@@ -105,14 +109,14 @@ keyは「最も重要な要素」、clueは「解決に近づくためのヒン�
 
 ## 🧩 あわせて覚えたい
 
-- [password](/word/password/)：パスワード、合言葉
-- [solution](/word/solution/)：解決策、答え
+- [password](/password)：パスワード、合言葉
+- [solution](/solution)：解決策、答え
 
 ---
 
 ## 📖 できればこれも
 
-- [lock](/word/lock/)：錠、ロック
-- [main](/word/main/)：主な、主要な
+- [lock](/lock)：錠、ロック
+- [main](/main)：主な、主要な
 
-<!-- cvid: aid07_bid12 -->
+<!-- cvid: aid09_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは契約書や案内文、メールなどで「有効期限」や「満
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や案内文、メールなどで「有効期限」や「満
 ## 🤔  expiry との違いは？
 
 - **expiration**：主にアメリカ英語で使われる「有効期限」「満了」。
-- **[expiry](/word/expiry/)**：主にイギリス英語で使われる「有効期限」「満了」。
+- **[expiry](/expiry)**：主にイギリス英語で使われる「有効期限」「満了」。
 
 expirationはアメリカ英語、expiryはイギリス英語で使われる点が大きな違いです。意味や使い方はほぼ同じですが、地域によって使い分けます。
 
@@ -105,14 +109,14 @@ expirationはアメリカ英語、expiryはイギリス英語で使われる点�
 
 ## 🧩 あわせて覚えたい
 
-- [termination](/word/termination/)：終了、打ち切り
-- [renewal](/word/renewal/)：更新、再契約
+- [termination](/termination)：終了、打ち切り
+- [renewal](/renewal)：更新、再契約
 
 ---
 
 ## 📖 できればこれも
 
-- [validity](/word/validity/)：有効性、有効期間
-- [deadline](/word/deadline/)：締め切り、期限
+- [validity](/validity)：有効性、有効期間
+- [deadline](/deadline)：締め切り、期限
 
-<!-- cvid: aid34_bid13 -->
+<!-- cvid: aid36_bid07 -->

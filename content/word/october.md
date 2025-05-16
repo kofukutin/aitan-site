@@ -81,15 +81,19 @@ TOEICでは日付やスケジュール、カレンダーに関する問題でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付やスケジュール、カレンダーに関する問題でよ
 ## 🤔  autumn との違いは？
 
 - **October**：1年の10番目の月（10月）を指す
-- **[autumn](/word/autumn/)**：秋という季節全体を指す
+- **[autumn](/autumn)**：秋という季節全体を指す
 
 Octoberは「10月」という特定の月、autumnは「秋」という季節を表します。10月は多くの国で秋に含まれますが、意味は異なります。
 
@@ -106,13 +110,13 @@ Octoberは「10月」という特定の月、autumnは「秋」という季節�
 ## 🧩 あわせて覚えたい
 
 - [November](/November)：11月
-- [spring](/word/spring/)：春
+- [spring](/spring)：春
 
 ---
 
 ## 📖 できればこれも
 
 - [September](/September)：9月
-- [calendar](/word/calendar/)：カレンダー
+- [calendar](/calendar)：カレンダー
 
-<!-- cvid: aid24_bid06 -->
+<!-- cvid: aid09_bid35 -->

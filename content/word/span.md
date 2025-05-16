@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や記事の中で「期間」や「範囲」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や記事の中で「期間」や「範囲」を
 ## 🤔  duration との違いは？
 
 - **span**：始まりから終わりまでの「全体の長さ」や「範囲」を表す。ややカジュアルで幅広い意味。
-- **[duration](/word/duration/)**：出来事や状態が「続いている間の長さ」に焦点を当てる。ややフォーマル。
+- **[duration](/duration)**：出来事や状態が「続いている間の長さ」に焦点を当てる。ややフォーマル。
 
 spanは「全体の幅」や「区間」を指し、durationは「継続時間」に特化して使われます。
 
@@ -105,14 +109,14 @@ spanは「全体の幅」や「区間」を指し、durationは「継続時間�
 
 ## 🧩 あわせて覚えたい
 
-- [period](/word/period/)：期間、時期
-- [interval](/word/interval/)：間隔、休止期間
+- [period](/period)：期間、時期
+- [interval](/interval)：間隔、休止期間
 
 ---
 
 ## 📖 できればこれも
 
-- [phase](/word/phase/)：段階、局面
-- [scope](/word/scope/)：範囲、視野
+- [phase](/phase)：段階、局面
+- [scope](/scope)：範囲、視野
 
-<!-- cvid: aid30_bid05 -->
+<!-- cvid: aid44_bid19 -->

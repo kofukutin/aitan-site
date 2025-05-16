@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bench】の意味・使い方・例文 ― seatとの違い【TOEIC英単語】"
 description: "benchの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでseatとの違いもわかりやすく学べます。"
 word: "bench"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で、公園や駅などのベンチがよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、公園や駅などのベンチがよ
 ## 🤔  seat との違いは？
 
 - **bench**：複数人が座れる長い椅子やベンチを指す。
-- **[seat](/word/seat/)**：座る場所全般や「座席」を指し、椅子・ベンチ・シートなど幅広く使う。
+- **[seat](/seat)**：座る場所全般や「座席」を指し、椅子・ベンチ・シートなど幅広く使う。
 
 benchは形状が長くて複数人用の椅子を指し、seatは「座る場所」全般を意味します。
 
@@ -105,14 +109,14 @@ benchは形状が長くて複数人用の椅子を指し、seatは「座る場�
 
 ## 🧩 あわせて覚えたい
 
-- [chair](/word/chair/)：椅子（1人用の背もたれ付き椅子）
-- [sofa](/word/sofa/)：ソファ（クッション性のある長椅子）
+- [chair](/chair)：椅子（1人用の背もたれ付き椅子）
+- [sofa](/sofa)：ソファ（クッション性のある長椅子）
 
 ---
 
 ## 📖 できればこれも
 
-- [table](/word/table/)：テーブル、机
-- [desk](/word/desk/)：机（主に作業用）
+- [table](/table)：テーブル、机
+- [desk](/desk)：机（主に作業用）
 
-<!-- cvid: aid03_bid10 -->
+<!-- cvid: aid45_bid41 -->

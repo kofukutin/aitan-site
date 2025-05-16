@@ -81,15 +81,19 @@ TOEICでは、社会や政治に関する記事やスピーチ文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社会や政治に関する記事やスピーチ文で登場する
 ## 🤔  republic との違いは？
 
 - **democracy**：国民が政治に参加し、意見を反映できる政治体制や国家
-- **[republic](/word/republic/)**：国民が選んだ代表者が統治する国家（君主制でない）
+- **[republic](/republic)**：国民が選んだ代表者が統治する国家（君主制でない）
 
 democracyは「国民の意思が反映される政治体制」全般を指し、republicは「君主がいない代表制国家」を意味します。両者は重なる部分もありますが、republicは制度の形、democracyは政治の原則に重点があります。
 
@@ -105,14 +109,14 @@ democracyは「国民の意思が反映される政治体制」全般を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [dictatorship](/word/dictatorship/)：独裁政治
-- [election](/word/election/)：選挙
+- [dictatorship](/dictatorship)：独裁政治
+- [election](/election)：選挙
 
 ---
 
 ## 📖 できればこれも
 
-- [constitution](/word/constitution/)：憲法
-- [freedom](/word/freedom/)：自由
+- [constitution](/constitution)：憲法
+- [freedom](/freedom)：自由
 
-<!-- cvid: aid26_bid11 -->
+<!-- cvid: aid25_bid02 -->

@@ -81,15 +81,19 @@ Our new branch will open in the southwest region next year.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our new branch will open in the southwest region next year.
 ## 🤔  southeast との違いは？
 
 - **southwest**：南西、南西部
-- **[southeast](/word/southeast/)**：南東、南東部
+- **[southeast](/southeast)**：南東、南東部
 
 「southwest」は「南西」、一方「southeast」は「南東」を指し、地図や方角で使い分けます。
 
@@ -105,14 +109,14 @@ Our new branch will open in the southwest region next year.
 
 ## 🧩 あわせて覚えたい
 
-- [northwest](/word/northwest/)：北西
-- [south](/word/south/)：南
+- [northwest](/northwest)：北西
+- [south](/south)：南
 
 ---
 
 ## 📖 できればこれも
 
-- [northeast](/word/northeast/)：北東
-- [direction](/word/direction/)：方向
+- [northeast](/northeast)：北東
+- [direction](/direction)：方向
 
-<!-- cvid: aid13_bid45 -->
+<!-- cvid: aid26_bid17 -->

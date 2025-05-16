@@ -81,15 +81,19 @@ TOEICでは、科学や環境、産業に関する長文や記事で「mineral�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や環境、産業に関する長文や記事で「mineral�
 ## 🤔  ore との違いは？
 
 - **mineral**：自然界に存在する無機物質や栄養素としてのミネラル全般を指す
-- **[ore](/word/ore/)**：金属などを取り出すために採掘される鉱石
+- **[ore](/ore)**：金属などを取り出すために採掘される鉱石
 
 mineralは鉱物そのものや栄養素としての意味があり、oreは金属を含む鉱石という採掘対象を指します。
 
@@ -105,14 +109,14 @@ mineralは鉱物そのものや栄養素としての意味があり、oreは金�
 
 ## 🧩 あわせて覚えたい
 
-- [rock](/word/rock/)：岩、石
-- [element](/word/element/)：元素、要素
+- [rock](/rock)：岩、石
+- [element](/element)：元素、要素
 
 ---
 
 ## 📖 できればこれも
 
-- [crystal](/word/crystal/)：結晶
-- [substance](/word/substance/)：物質
+- [crystal](/crystal)：結晶
+- [substance](/substance)：物質
 
-<!-- cvid: aid01_bid23 -->
+<!-- cvid: aid12_bid42 -->

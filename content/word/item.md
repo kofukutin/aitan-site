@@ -81,7 +81,7 @@ TOEICでは、商品説明やリスト、議事録などで「item」が頻出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+ペースを崩さず進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、商品説明やリスト、議事録などで「item」が頻出�
 
 <div class="info-center">
 ＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品説明やリスト、議事録などで「item」が頻出�
 ## 🤔  product との違いは？
 
 - **item**：リストや表の中の「項目」や「品目」として幅広く使う
-- **[product](/word/product/)**：製造・販売される「製品」「商品」に特化
+- **[product](/product)**：製造・販売される「製品」「商品」に特化
 
 itemは「リストの一つ」や「品目」として幅広く使われ、productは「製品」としての性質や販売を強調します。
 
@@ -105,14 +109,14 @@ itemは「リストの一つ」や「品目」として幅広く使われ、prod
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article/)：（新聞などの）記事、品物
-- [goods](/word/goods/)：商品、物品
+- [article](/article)：（新聞などの）記事、品物
+- [goods](/goods)：商品、物品
 
 ---
 
 ## 📖 できればこれも
 
-- [list](/word/list/)：リスト、一覧
-- [detail](/word/detail/)：詳細、細部
+- [list](/list)：リスト、一覧
+- [detail](/detail)：詳細、細部
 
-<!-- cvid: aid39_bid30 -->
+<!-- cvid: aid18_bid30 -->

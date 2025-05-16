@@ -81,15 +81,19 @@ TOEICでは納品や配達に関するメールや案内文で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは納品や配達に関するメールや案内文で頻出します。
 ## 🤔  shipment との違いは？
 
 - **delivery**：配達や引き渡しの「到着」や「受け取り」に重点がある
-- **[shipment](/word/shipment/)**：商品の「発送」や「出荷」に重点がある
+- **[shipment](/shipment)**：商品の「発送」や「出荷」に重点がある
 
 deliveryは「届くこと」、shipmentは「送り出すこと」に焦点があり、使い分けが必要です。
 
@@ -105,14 +109,14 @@ deliveryは「届くこと」、shipmentは「送り出すこと」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [distribution](/word/distribution/)：流通、分配
-- [dispatch](/word/dispatch/)：発送、派遣
+- [distribution](/distribution)：流通、分配
+- [dispatch](/dispatch)：発送、派遣
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order/)：注文
-- [invoice](/word/invoice/)：請求書
+- [order](/order)：注文
+- [invoice](/invoice)：請求書
 
-<!-- cvid: aid48_bid25 -->
+<!-- cvid: aid37_bid29 -->

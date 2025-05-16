@@ -81,15 +81,19 @@ TOEICでは地名や住所、観光案内などの文脈で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは地名や住所、観光案内などの文脈で登場することが
 ## 🤔  avenue との違いは？
 
 - **boulevard**：広くて木が植えられた大通りや並木道を指す
-- **[avenue](/word/avenue/)**：都市の主要道路や並木道だが、必ずしも広いとは限らない
+- **[avenue](/avenue)**：都市の主要道路や並木道だが、必ずしも広いとは限らない
 
 boulevardは特に幅が広く、景観が整えられた道を指すのに対し、avenueは一般的な主要道路や並木道を幅に関係なく指します。
 
@@ -105,14 +109,14 @@ boulevardは特に幅が広く、景観が整えられた道を指すのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [street](/word/street/)：通り、街路
-- [road](/word/road/)：道路、道
+- [street](/street)：通り、街路
+- [road](/road)：道路、道
 
 ---
 
 ## 📖 できればこれも
 
-- [square](/word/square/)：広場
-- [plaza](/word/plaza/)：広場、プラザ
+- [square](/square)：広場
+- [plaza](/plaza)：広場、プラザ
 
-<!-- cvid: aid43_bid42 -->
+<!-- cvid: aid47_bid15 -->

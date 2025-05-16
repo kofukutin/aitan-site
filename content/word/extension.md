@@ -81,15 +81,19 @@ TOEICでは「延長」「内線番号」「拡張」など複数の意味で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「延長」「内線番号」「拡張」など複数の意味で出
 ## 🤔  expansion との違いは？
 
 - **extension**：期間や範囲を「延長」する、または建物や機能の「拡張」、電話の「内線」など幅広い意味で使う
-- **[expansion](/word/expansion/)**：規模やサイズを「拡大」することに特化して使う
+- **[expansion](/expansion)**：規模やサイズを「拡大」することに特化して使う
 
 extensionは「長さ・期間・機能の追加」など多用途ですが、expansionは「物理的・数量的な拡大」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ extensionは「長さ・期間・機能の追加」など多用途ですが、ex
 
 ## 🧩 あわせて覚えたい
 
-- [prolongation](/word/prolongation/)：（期間などの）延長
-- [attachment](/word/attachment/)：添付ファイル、付属物
+- [prolongation](/prolongation)：（期間などの）延長
+- [attachment](/attachment)：添付ファイル、付属物
 
 ---
 
 ## 📖 できればこれも
 
-- [renewal](/word/renewal/)：更新、再開
-- [duration](/word/duration/)：継続期間
+- [renewal](/renewal)：更新、再開
+- [duration](/duration)：継続期間
 
-<!-- cvid: aid42_bid46 -->
+<!-- cvid: aid44_bid26 -->

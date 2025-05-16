@@ -77,15 +77,19 @@ Could you wait just a moment?
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ Could you wait just a moment?
 ## 🤔  only との違いは？
 
 - **just**：強調や「ちょうど」「たった今」「単に」など幅広い意味で使う
-- **[only](/word/only/)**：「唯一」「ただ～だけ」と限定する意味が強い
+- **[only](/only)**：「唯一」「ただ～だけ」と限定する意味が強い
 
 justは状況やタイミングの強調、onlyは数量や範囲の限定に使い分けます。
 
@@ -101,14 +105,14 @@ justは状況やタイミングの強調、onlyは数量や範囲の限定に使
 
 ## 🧩 あわせて覚えたい
 
-- [simply](/word/simply/)：単純に、ただ
-- [exactly](/word/exactly/)：正確に、まさに
+- [simply](/simply)：単純に、ただ
+- [exactly](/exactly)：正確に、まさに
 
 ---
 
 ## 📖 できればこれも
 
-- [already](/word/already/)：すでに
-- [still](/word/still/)：まだ
+- [already](/already)：すでに
+- [still](/still)：まだ
 
-<!-- cvid: aid31_bid27 -->
+<!-- cvid: aid48_bid47 -->

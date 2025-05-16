@@ -81,15 +81,19 @@ TOEICでは主にITやビジネス関連の長文、製品説明や会社案内�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやビジネス関連の長文、製品説明や会社案内�
 ## 🤔  technique との違いは？
 
 - **technology**：科学的な知識や仕組みに基づく「技術」や「テクノロジー」全体を指す
-- **[technique](/word/technique/)**：特定の「方法」や「やり方」を指す
+- **[technique](/technique)**：特定の「方法」や「やり方」を指す
 
 technologyは広い意味での技術体系、techniqueは個々の具体的な方法やコツを表します。
 
@@ -105,14 +109,14 @@ technologyは広い意味での技術体系、techniqueは個々の具体的な�
 
 ## 🧩 あわせて覚えたい
 
-- [innovation](/word/innovation/)：革新、新しいアイデアや方法
-- [device](/word/device/)：装置、機器
+- [innovation](/innovation)：革新、新しいアイデアや方法
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：システム、仕組み
-- [method](/word/method/)：方法、やり方
+- [system](/system)：システム、仕組み
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid08_bid26 -->
+<!-- cvid: aid37_bid33 -->

@@ -81,15 +81,19 @@ TOEICでは、福利厚生や都市開発、従業員向けの案内文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、福利厚生や都市開発、従業員向けの案内文などで
 ## 🤔  accommodation との違いは？
 
 - **housing**：住宅や住居全般、特に長期的な住まいを指す
-- **[accommodation](/word/accommodation/)**：宿泊施設や一時的な滞在場所も含む広い意味
+- **[accommodation](/accommodation)**：宿泊施設や一時的な滞在場所も含む広い意味
 
 「housing」は主に長期的な住まい、「accommodation」はホテルなど一時的な宿泊も含みます。
 
@@ -105,14 +109,14 @@ TOEICでは、福利厚生や都市開発、従業員向けの案内文などで
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence/)：居住、住まい
-- [shelter](/word/shelter/)：避難所、シェルター
+- [residence](/residence)：居住、住まい
+- [shelter](/shelter)：避難所、シェルター
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent/)：家賃、賃貸する
-- [property](/word/property/)：不動産、財産
+- [rent](/rent)：家賃、賃貸する
+- [property](/property)：不動産、財産
 
-<!-- cvid: aid00_bid37 -->
+<!-- cvid: aid04_bid10 -->

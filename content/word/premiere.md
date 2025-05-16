@@ -81,15 +81,19 @@ TOEICでは映画やイベントの案内文、広告、記事などで「初公
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは映画やイベントの案内文、広告、記事などで「初公
 ## 🤔  debut との違いは？
 
 - **premiere**：映画や演劇、音楽などの「初公開」「初演」に使うフォーマルな表現
-- **[debut](/word/debut/)**：人や作品が「初登場」すること全般に使えるやや幅広い表現
+- **[debut](/debut)**：人や作品が「初登場」すること全般に使えるやや幅広い表現
 
 premiereは主に作品やイベントの「初公開」に限定され、debutは人や物の「初登場」全般に使えます。
 
@@ -105,14 +109,14 @@ premiereは主に作品やイベントの「初公開」に限定され、debut�
 
 ## 🧩 あわせて覚えたい
 
-- [release](/word/release/)：公開、発売
-- [opening](/word/opening/)：開幕、開始
+- [release](/release)：公開、発売
+- [opening](/opening)：開幕、開始
 
 ---
 
 ## 📖 できればこれも
 
-- [performance](/word/performance/)：公演、演奏
-- [event](/word/event/)：イベント、行事
+- [performance](/performance)：公演、演奏
+- [event](/event)：イベント、行事
 
-<!-- cvid: aid00_bid39 -->
+<!-- cvid: aid29_bid36 -->

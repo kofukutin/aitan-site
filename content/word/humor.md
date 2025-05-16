@@ -81,15 +81,19 @@ TOEICでは、メールや記事、広告文などで「ユーモア」や「面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや記事、広告文などで「ユーモア」や「面
 ## 🤔  joke との違いは？
 
 - **humor**：ユーモア全般や面白い性質・感覚を指す
-- **[joke](/word/joke/)**：具体的な「冗談」や「ジョーク」を指す
+- **[joke](/joke)**：具体的な「冗談」や「ジョーク」を指す
 
 humorは人の性格や雰囲気、状況の面白さなど広い意味で使われ、jokeは実際に言う冗談やギャグなど具体的な発言を指します。
 
@@ -105,14 +109,14 @@ humorは人の性格や雰囲気、状況の面白さなど広い意味で使わ
 
 ## 🧩 あわせて覚えたい
 
-- [wit](/word/wit/)：機知、気の利いた面白さ
-- [sarcasm](/word/sarcasm/)：皮肉、嫌味
+- [wit](/wit)：機知、気の利いた面白さ
+- [sarcasm](/sarcasm)：皮肉、嫌味
 
 ---
 
 ## 📖 できればこれも
 
-- [mood](/word/mood/)：気分、雰囲気
-- [emotion](/word/emotion/)：感情
+- [mood](/mood)：気分、雰囲気
+- [emotion](/emotion)：感情
 
-<!-- cvid: aid47_bid00 -->
+<!-- cvid: aid41_bid13 -->

@@ -81,15 +81,19 @@ TOEICでは健康や職場のルール、生活習慣に関する長文や案内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や職場のルール、生活習慣に関する長文や案内
 ## 🤔  tobacco との違いは？
 
 - **cigarette**：紙で巻かれた喫煙用のたばこ一本を指す
-- **[tobacco](/word/tobacco/)**：たばこの葉や原料そのもの、またはたばこ製品全般を指す
+- **[tobacco](/tobacco)**：たばこの葉や原料そのもの、またはたばこ製品全般を指す
 
 cigaretteは「一本のたばこ」という具体的な形を指し、tobaccoは原料や製品全体を指します。
 
@@ -105,14 +109,14 @@ cigaretteは「一本のたばこ」という具体的な形を指し、tobacco�
 
 ## 🧩 あわせて覚えたい
 
-- [smoke](/word/smoke/)：煙、喫煙する
-- [nicotine](/word/nicotine/)：ニコチン（たばこに含まれる成分）
+- [smoke](/smoke)：煙、喫煙する
+- [nicotine](/nicotine)：ニコチン（たばこに含まれる成分）
 
 ---
 
 ## 📖 できればこれも
 
-- [alcohol](/word/alcohol/)：アルコール、酒
-- [addict](/word/addict/)：依存者、中毒者
+- [alcohol](/alcohol)：アルコール、酒
+- [addict](/addict)：依存者、中毒者
 
-<!-- cvid: aid49_bid45 -->
+<!-- cvid: aid07_bid03 -->

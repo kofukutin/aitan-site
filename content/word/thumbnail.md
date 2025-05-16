@@ -80,15 +80,19 @@ ITやビジネス文書の説明文で、画像やファイル管理に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ ITやビジネス文書の説明文で、画像やファイル管理に関する
 ## 🤔  icon との違いは？
 
 - **thumbnail**：画像や動画の縮小見本として使われる小さな画像
-- **[icon](/word/icon/)**：アプリや機能を象徴する小さな図やマーク
+- **[icon](/icon)**：アプリや機能を象徴する小さな図やマーク
 
 thumbnailは主に画像や動画の内容を縮小して見せる目的で使われ、iconは機能やアプリの象徴として使われます。
 
@@ -104,14 +108,14 @@ thumbnailは主に画像や動画の内容を縮小して見せる目的で使�
 
 ## 🧩 あわせて覚えたい
 
-- [preview](/word/preview/)：プレビュー、事前に表示すること
-- [snapshot](/word/snapshot/)：スナップショット、一瞬を切り取った画像
+- [preview](/preview)：プレビュー、事前に表示すること
+- [snapshot](/snapshot)：スナップショット、一瞬を切り取った画像
 
 ---
 
 ## 📖 できればこれも
 
-- [image](/word/image/)：画像、写真
-- [picture](/word/picture/)：絵、写真
+- [image](/image)：画像、写真
+- [picture](/picture)：絵、写真
 
-<!-- cvid: aid35_bid47 -->
+<!-- cvid: aid15_bid40 -->

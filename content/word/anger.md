@@ -81,15 +81,19 @@ TOEICでは感情や態度を表す語彙問題で出題されることがあり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは感情や態度を表す語彙問題で出題されることがあり
 ## 🤔  rage との違いは？
 
 - **anger**：一般的な「怒り」の感情。強さは中程度から強めまで幅広い。
-- **[rage](/word/rage/)**：爆発的で激しい「激怒」。コントロールできないほどの強い怒り。
+- **[rage](/rage)**：爆発的で激しい「激怒」。コントロールできないほどの強い怒り。
 
 angerは日常的な怒り全般を指し、rageは一時的に爆発する激しい怒りを表します。
 
@@ -105,14 +109,14 @@ angerは日常的な怒り全般を指し、rageは一時的に爆発する激�
 
 ## 🧩 あわせて覚えたい
 
-- [frustration](/word/frustration/)：欲求不満、いらだち
-- [calm](/word/calm/)：落ち着き、冷静
+- [frustration](/frustration)：欲求不満、いらだち
+- [calm](/calm)：落ち着き、冷静
 
 ---
 
 ## 📖 できればこれも
 
-- [fear](/word/fear/)：恐れ、不安
-- [emotion](/word/emotion/)：感情
+- [fear](/fear)：恐れ、不安
+- [emotion](/emotion)：感情
 
-<!-- cvid: aid41_bid47 -->
+<!-- cvid: aid34_bid19 -->

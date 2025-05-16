@@ -81,15 +81,19 @@ TOEICでは、職場や日常の困難な状況にどう対応するかを問う
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や日常の困難な状況にどう対応するかを問う
 ## 🤔  deal との違いは？
 
 - **cope**：困難やストレスのある状況に精神的に「うまく対処する」ニュアンス
-- **[deal](/word/deal/)**：問題や課題に「対応する」「処理する」一般的な表現
+- **[deal](/deal)**：問題や課題に「対応する」「処理する」一般的な表現
 
 「cope」は精神的・感情的な困難に耐えるニュアンスが強く、「deal」はより広く物事を処理する場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、職場や日常の困難な状況にどう対応するかを問う
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、うまく扱う
-- [overcome](/word/overcome/)：克服する
+- [manage](/manage)：管理する、うまく扱う
+- [overcome](/overcome)：克服する
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：扱う、対処する
-- [adapt](/word/adapt/)：適応する
+- [handle](/handle)：扱う、対処する
+- [adapt](/adapt)：適応する
 
-<!-- cvid: aid49_bid17 -->
+<!-- cvid: aid02_bid46 -->

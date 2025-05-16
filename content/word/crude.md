@@ -81,15 +81,19 @@ crudeはTOEICの長文読解や説明文で、特に「crude oil（原油）」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ crudeはTOEICの長文読解や説明文で、特に「crude oil（原油）」�
 ## 🤔  raw との違いは？
 
 - **crude**：加工や洗練がされていない、粗雑な（特に物質やアイデアに使う）
-- **[raw](/word/raw/)**：生の、未加工の（特に食材や素材に使う）
+- **[raw](/raw)**：生の、未加工の（特に食材や素材に使う）
 
 crudeは「粗雑さ」や「未完成さ」に焦点があり、rawは「自然のまま」「生の状態」に重点があります。
 
@@ -105,14 +109,14 @@ crudeは「粗雑さ」や「未完成さ」に焦点があり、rawは「自然
 
 ## 🧩 あわせて覚えたい
 
-- [refined](/word/refined/)：精製された、洗練された
-- [unpolished](/word/unpolished/)：磨かれていない、未完成の
+- [refined](/refined)：精製された、洗練された
+- [unpolished](/unpolished)：磨かれていない、未完成の
 
 ---
 
 ## 📖 できればこれも
 
-- [rough](/word/rough/)：ざらざらした、荒い
-- [basic](/word/basic/)：基本的な、基礎の
+- [rough](/rough)：ざらざらした、荒い
+- [basic](/basic)：基本的な、基礎の
 
-<!-- cvid: aid35_bid32 -->
+<!-- cvid: aid20_bid37 -->

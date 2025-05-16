@@ -81,15 +81,19 @@ TOEICでは、数や年齢、数量を問う問題で頻出します。特にリ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、数や年齢、数量を問う問題で頻出します。特にリ
 ## 🤔  score との違いは？
 
 - **twenty**：具体的な数字「20」を表す一般的な単語。
-- **[score](/word/score/)**：20個をまとめて表すやや古風な表現。現代英語ではあまり一般的でない。
+- **[score](/score)**：20個をまとめて表すやや古風な表現。現代英語ではあまり一般的でない。
 
 twentyは日常的な数字表現、scoreは文学的・歴史的な場面や特定の慣用句で使われます。
 
@@ -105,14 +109,14 @@ twentyは日常的な数字表現、scoreは文学的・歴史的な場面や特
 
 ## 🧩 あわせて覚えたい
 
-- [dozen](/word/dozen/)：12個、1ダース
-- [hundred](/word/hundred/)：100
+- [dozen](/dozen)：12個、1ダース
+- [hundred](/hundred)：100
 
 ---
 
 ## 📖 できればこれも
 
-- [thirty](/word/thirty/)：30
-- [forty](/word/forty/)：40
+- [thirty](/thirty)：30
+- [forty](/forty)：40
 
-<!-- cvid: aid21_bid20 -->
+<!-- cvid: aid42_bid02 -->

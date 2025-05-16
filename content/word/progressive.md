@@ -81,15 +81,19 @@ TOEICでは、企業の方針や人物の特徴を説明する文脈で「progre
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業の方針や人物の特徴を説明する文脈で「progre
 ## 🤔  innovative との違いは？
 
 - **progressive**：徐々に進歩する、時代の流れに合わせて前向きに変化する
-- **[innovative](/word/innovative/)**：革新的な、従来にない新しい発想や方法を生み出す
+- **[innovative](/innovative)**：革新的な、従来にない新しい発想や方法を生み出す
 
 progressiveは「前進的・進歩的」で、既存の枠組みを少しずつ良くしていくニュアンスが強く、innovativeは「革新的」で、全く新しいものを生み出すイメージです。
 
@@ -105,14 +109,14 @@ progressiveは「前進的・進歩的」で、既存の枠組みを少しずつ
 
 ## 🧩 あわせて覚えたい
 
-- [conservative](/word/conservative/)：保守的な
-- [modern](/word/modern/)：現代的な、最新の
+- [conservative](/conservative)：保守的な
+- [modern](/modern)：現代的な、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [dynamic](/word/dynamic/)：活発な、動的な
+- [efficient](/efficient)：効率的な
+- [dynamic](/dynamic)：活発な、動的な
 
-<!-- cvid: aid05_bid14 -->
+<!-- cvid: aid34_bid35 -->

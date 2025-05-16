@@ -81,15 +81,19 @@ TOEICでは「柔軟な働き方」や「対応力」を問う文脈で名詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「柔軟な働き方」や「対応力」を問う文脈で名詞と
 ## 🤔  adaptability との違いは？
 
 - **flexibility**：状況や条件に応じて「柔軟に対応できる性質」や「融通の利くこと」
-- **[adaptability](/word/adaptability/)**：新しい環境や変化に「適応する能力」
+- **[adaptability](/adaptability)**：新しい環境や変化に「適応する能力」
 
 flexibilityは「その場で曲げたり調整したりできる柔軟さ」、adaptabilityは「新しい状況に慣れていく適応力」という違いがあります。
 
@@ -105,14 +109,14 @@ flexibilityは「その場で曲げたり調整したりできる柔軟さ」、
 
 ## 🧩 あわせて覚えたい
 
-- [rigidity](/word/rigidity/)：硬直性、柔軟性のなさ
-- [versatility](/word/versatility/)：多才さ、多用途性
+- [rigidity](/rigidity)：硬直性、柔軟性のなさ
+- [versatility](/versatility)：多才さ、多用途性
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/word/efficiency/)：効率
-- [opportunity](/word/opportunity/)：機会
+- [efficiency](/efficiency)：効率
+- [opportunity](/opportunity)：機会
 
-<!-- cvid: aid22_bid47 -->
+<!-- cvid: aid27_bid39 -->

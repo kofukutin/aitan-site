@@ -81,15 +81,19 @@ TOEICでは会議やセミナー、サービス利用の文脈で「registration
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やセミナー、サービス利用の文脈で「registration
 ## 🤔  enrollment との違いは？
 
 - **registration**：イベントやサービスなどへの「登録」や「申し込み」を広く指す。
-- **[enrollment](/word/enrollment/)**：特に学校や講座などへの「入学」「受講登録」を指すことが多い。
+- **[enrollment](/enrollment)**：特に学校や講座などへの「入学」「受講登録」を指すことが多い。
 
 registrationは一般的な登録全般に使われ、enrollmentは教育機関などでの正式な「入学」や「受講」の登録に使われることが多いです。
 
@@ -105,14 +109,14 @@ registrationは一般的な登録全般に使われ、enrollmentは教育機関�
 
 ## 🧩 あわせて覚えたい
 
-- [application](/word/application/)：申請、応募
-- [approval](/word/approval/)：承認、許可
+- [application](/application)：申請、応募
+- [approval](/approval)：承認、許可
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/word/certificate/)：証明書
-- [reservation](/word/reservation/)：予約
+- [certificate](/certificate)：証明書
+- [reservation](/reservation)：予約
 
-<!-- cvid: aid38_bid22 -->
+<!-- cvid: aid39_bid04 -->

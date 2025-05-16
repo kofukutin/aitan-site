@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、文法や語彙の選択肢として頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、文法や語彙の選択肢として頻出しま
 ## 🤔  error との違いは？
 
 - **mistake**：うっかりや誤解など、日常的な「間違い」を幅広く指す
-- **[error](/word/error/)**：よりフォーマルで、特に技術的・専門的な「誤り」を指す
+- **[error](/error)**：よりフォーマルで、特に技術的・専門的な「誤り」を指す
 
 mistakeは日常会話やカジュアルな場面で使われ、errorはビジネスやIT、学術分野などで使われることが多いです。
 
@@ -105,14 +109,14 @@ mistakeは日常会話やカジュアルな場面で使われ、errorはビジ�
 
 ## 🧩 あわせて覚えたい
 
-- [fault](/word/fault/)：責任・過失
-- [blunder](/word/blunder/)：重大なミス、大失敗
+- [fault](/fault)：責任・過失
+- [blunder](/blunder)：重大なミス、大失敗
 
 ---
 
 ## 📖 できればこれも
 
-- [problem](/word/problem/)：問題、課題
-- [issue](/word/issue/)：（議論すべき）問題、争点
+- [problem](/problem)：問題、課題
+- [issue](/issue)：（議論すべき）問題、争点
 
-<!-- cvid: aid25_bid48 -->
+<!-- cvid: aid16_bid41 -->

@@ -81,15 +81,19 @@ unexpectedは、TOEICの文法・語彙問題で「予期しない出来事」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ unexpectedは、TOEICの文法・語彙問題で「予期しない出来事」�
 ## 🤔  surprising との違いは？
 
 - **unexpected**：予想していなかった、計画外の
-- **[surprising](/word/surprising/)**：驚くべき、意外な
+- **[surprising](/surprising)**：驚くべき、意外な
 
 unexpectedは「予想外であること」に重点があり、surprisingは「驚きを感じさせること」に重点があります。
 
@@ -105,14 +109,14 @@ unexpectedは「予想外であること」に重点があり、surprisingは「
 
 ## 🧩 あわせて覚えたい
 
-- [predictable](/word/predictable/)：予測できる
-- [sudden](/word/sudden/)：突然の
+- [predictable](/predictable)：予測できる
+- [sudden](/sudden)：突然の
 
 ---
 
 ## 📖 できればこれも
 
-- [accidental](/word/accidental/)：偶然の、意図しない
-- [unusual](/word/unusual/)：珍しい、普通でない
+- [accidental](/accidental)：偶然の、意図しない
+- [unusual](/unusual)：珍しい、普通でない
 
-<!-- cvid: aid26_bid03 -->
+<!-- cvid: aid22_bid33 -->

@@ -77,15 +77,19 @@ TOEICでは会議や契約書、提案の場面で「shall」が使われるこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会議や契約書、提案の場面で「shall」が使われるこ�
 ## 🤔  will との違いは？
 
 - **shall**：フォーマルな場面での提案や義務、約束を表す
-- **[will](/word/will/)**：意志や未来の出来事を表す一般的な助動詞
+- **[will](/will)**：意志や未来の出来事を表す一般的な助動詞
 
 shallは主にフォーマルな提案や契約書で使われ、willは日常的な未来や意志を表すときに使われます。
 
@@ -101,14 +105,14 @@ shallは主にフォーマルな提案や契約書で使われ、willは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [must](/word/must/)：～しなければならない（強い義務）
-- [should](/word/should/)：～すべきである（助言・軽い義務）
+- [must](/must)：～しなければならない（強い義務）
+- [should](/should)：～すべきである（助言・軽い義務）
 
 ---
 
 ## 📖 できればこれも
 
-- [may](/word/may/)：～してもよい（許可・可能性）
-- [can](/word/can/)：～できる（能力・許可）
+- [may](/may)：～してもよい（許可・可能性）
+- [can](/can)：～できる（能力・許可）
 
-<!-- cvid: aid19_bid01 -->
+<!-- cvid: aid28_bid25 -->

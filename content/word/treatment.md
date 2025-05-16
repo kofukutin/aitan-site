@@ -81,15 +81,19 @@ treatmentはTOEICの医療や健康に関する長文、案内文、Eメール�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ treatmentはTOEICの医療や健康に関する長文、案内文、Eメール�
 ## 🤔  therapy との違いは？
 
 - **treatment**：広く「治療」「処置」全般を指す
-- **[therapy](/word/therapy/)**：特に「治療法」「療法」としての意味が強い
+- **[therapy](/therapy)**：特に「治療法」「療法」としての意味が強い
 
 treatmentは一般的な治療や取り扱い全般に使われ、therapyは特定の治療法やリハビリなどに限定されることが多いです。
 
@@ -105,14 +109,14 @@ treatmentは一般的な治療や取り扱い全般に使われ、therapyは特�
 
 ## 🧩 あわせて覚えたい
 
-- [cure](/word/cure/)：治癒、治すこと
-- [procedure](/word/procedure/)：手順、処置
+- [cure](/cure)：治癒、治すこと
+- [procedure](/procedure)：手順、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [medicine](/word/medicine/)：薬、医学
-- [patient](/word/patient/)：患者
+- [medicine](/medicine)：薬、医学
+- [patient](/patient)：患者
 
-<!-- cvid: aid03_bid38 -->
+<!-- cvid: aid48_bid21 -->

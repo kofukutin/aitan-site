@@ -81,15 +81,19 @@ TOEICでは科学や技術に関する説明文や記事で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術に関する説明文や記事で登場することが
 ## 🤔  atom との違いは？
 
 - **electron**：原子を構成する負の電荷を持つ微粒子
-- **[atom](/word/atom/)**：物質を構成する最小単位で、電子・陽子・中性子から成る
+- **[atom](/atom)**：物質を構成する最小単位で、電子・陽子・中性子から成る
 
 electronは原子の一部であり、atomは電子を含む全体の構造を指します。
 
@@ -105,14 +109,14 @@ electronは原子の一部であり、atomは電子を含む全体の構造を�
 
 ## 🧩 あわせて覚えたい
 
-- [proton](/word/proton/)：陽子（原子核を構成し、正の電荷を持つ粒子）
-- [neutron](/word/neutron/)：中性子（原子核を構成し、電荷を持たない粒子）
+- [proton](/proton)：陽子（原子核を構成し、正の電荷を持つ粒子）
+- [neutron](/neutron)：中性子（原子核を構成し、電荷を持たない粒子）
 
 ---
 
 ## 📖 できればこれも
 
-- [molecule](/word/molecule/)：分子（複数の原子が結合したもの）
-- [element](/word/element/)：元素（同じ種類の原子からなる物質）
+- [molecule](/molecule)：分子（複数の原子が結合したもの）
+- [element](/element)：元素（同じ種類の原子からなる物質）
 
-<!-- cvid: aid47_bid45 -->
+<!-- cvid: aid29_bid30 -->

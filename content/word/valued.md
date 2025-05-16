@@ -81,15 +81,19 @@ TOEICでは、ビジネスメールや社内通知などで「valued customer（
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスメールや社内通知などで「valued customer（
 ## 🤔  valuable との違いは？
 
 - **valued**：大切にされている、重視されている（主に人や意見、関係に使う）
-- **[valuable](/word/valuable/)**：価値が高い、有益な（主に物や情報に使う）
+- **[valuable](/valuable)**：価値が高い、有益な（主に物や情報に使う）
 
 「valued」は「大切に思われている」という気持ちや評価を表し、「valuable」は「実際の価値や有用性」に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスメールや社内通知などで「valued customer（
 
 ## 🧩 あわせて覚えたい
 
-- [appreciated](/word/appreciated/)：感謝されている
-- [respected](/word/respected/)：尊敬されている
+- [appreciated](/appreciated)：感謝されている
+- [respected](/respected)：尊敬されている
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な
-- [reliable](/word/reliable/)：信頼できる
+- [essential](/essential)：不可欠な
+- [reliable](/reliable)：信頼できる
 
-<!-- cvid: aid00_bid20 -->
+<!-- cvid: aid34_bid21 -->

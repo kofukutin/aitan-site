@@ -80,15 +80,19 @@ TOEICでは科学や医療、技術系の長文で登場することが多く、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは科学や医療、技術系の長文で登場することが多く、
 ## 🤔  layer との違いは？
 
 - **membrane**：生物や物質の内部・外部を覆う薄い膜や仕切り
-- **[layer](/word/layer/)**：層、重なり。厚さや重なりを強調し、膜状でなくても使う
+- **[layer](/layer)**：層、重なり。厚さや重なりを強調し、膜状でなくても使う
 
 membraneは主に生物や科学分野で「膜」という意味で使われ、layerは「層」として幅広い場面で使われます。
 
@@ -104,14 +108,14 @@ membraneは主に生物や科学分野で「膜」という意味で使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier/)：障壁、バリア
-- [tissue](/word/tissue/)：組織（生物の細胞の集まり）
+- [barrier](/barrier)：障壁、バリア
+- [tissue](/tissue)：組織（生物の細胞の集まり）
 
 ---
 
 ## 📖 できればこれも
 
-- [organ](/word/organ/)：器官、臓器
-- [structure](/word/structure/)：構造、仕組み
+- [organ](/organ)：器官、臓器
+- [structure](/structure)：構造、仕組み
 
-<!-- cvid: aid04_bid32 -->
+<!-- cvid: aid34_bid47 -->

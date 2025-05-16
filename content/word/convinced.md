@@ -81,15 +81,19 @@ TOEICでは、be convinced that や be convinced of などの形で、確信や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、be convinced that や be convinced of などの形で、確信や�
 ## 🤔  confident との違いは？
 
 - **convinced**：何かが本当だと強く信じている、納得している
-- **[confident](/word/confident/)**：自分の能力や成功を信じている、自信がある
+- **[confident](/confident)**：自分の能力や成功を信じている、自信がある
 
 convincedは「事実や情報について納得している」時に使い、confidentは「自分自身や自分の行動に自信がある」時に使います。
 
@@ -105,14 +109,14 @@ convincedは「事実や情報について納得している」時に使い、co
 
 ## 🧩 あわせて覚えたい
 
-- [doubtful](/word/doubtful/)：疑わしい、確信が持てない
-- [persuaded](/word/persuaded/)：説得された、納得した
+- [doubtful](/doubtful)：疑わしい、確信が持てない
+- [persuaded](/persuaded)：説得された、納得した
 
 ---
 
 ## 📖 できればこれも
 
-- [certain](/word/certain/)：確信している、確かな
-- [assured](/word/assured/)：自信がある、保証された
+- [certain](/certain)：確信している、確かな
+- [assured](/assured)：自信がある、保証された
 
-<!-- cvid: aid35_bid45 -->
+<!-- cvid: aid20_bid35 -->

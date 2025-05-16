@@ -81,15 +81,19 @@ TOEICでは、科学や医療、技術関連の記事や説明文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や医療、技術関連の記事や説明文で登場する
 ## 🤔  workshop との違いは？
 
 - **laboratory**：科学的な実験や研究を行うための施設や部屋
-- **[workshop](/word/workshop/)**：作業場、または実技を学ぶ講習会
+- **[workshop](/workshop)**：作業場、または実技を学ぶ講習会
 
 laboratoryは主に科学や研究の場を指し、workshopはものづくりや学習のための作業場や講習会を指します。
 
@@ -105,14 +109,14 @@ laboratoryは主に科学や研究の場を指し、workshopはものづくり�
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment/)：実験
-- [facility](/word/facility/)：施設
+- [experiment](/experiment)：実験
+- [facility](/facility)：施設
 
 ---
 
 ## 📖 できればこれも
 
-- [research](/word/research/)：研究
-- [equipment](/word/equipment/)：機器、装置
+- [research](/research)：研究
+- [equipment](/equipment)：機器、装置
 
-<!-- cvid: aid07_bid01 -->
+<!-- cvid: aid23_bid24 -->

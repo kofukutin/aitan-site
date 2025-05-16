@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「静かにする」「無言でいる」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「静かにする」「無言でいる」など
 ## 🤔  quiet との違いは？
 
 - **silent**：全く音がしない、沈黙している状態を強調
-- **[quiet](/word/quiet/)**：音が小さい、騒がしくない状態
+- **[quiet](/quiet)**：音が小さい、騒がしくない状態
 
 「silent」は「完全な静けさ」や「沈黙」を表し、「quiet」は「音が小さい」「落ち着いている」など、多少の音があっても騒がしくない状態を指します。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「静かにする」「無言でいる」など
 
 ## 🧩 あわせて覚えたい
 
-- [mute](/word/mute/)：無音の、声を出さない
-- [noisy](/word/noisy/)：うるさい、騒がしい
+- [mute](/mute)：無音の、声を出さない
+- [noisy](/noisy)：うるさい、騒がしい
 
 ---
 
 ## 📖 できればこれも
 
-- [calm](/word/calm/)：穏やかな、落ち着いた
-- [peaceful](/word/peaceful/)：平和な、静かな
+- [calm](/calm)：穏やかな、落ち着いた
+- [peaceful](/peaceful)：平和な、静かな
 
-<!-- cvid: aid25_bid02 -->
+<!-- cvid: aid26_bid22 -->

@@ -80,15 +80,19 @@ TOEICでは歴史や社会問題を扱う長文読解でまれに登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid16_bid34" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid34" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは歴史や社会問題を扱う長文読解でまれに登場します
 ## 🤔  genocide との違いは？
 
 - **holocaust**：特定の大規模な虐殺、特にナチスによるユダヤ人大量虐殺を指すことが多い。
-- **[genocide](/word/genocide/)**：人種・民族・宗教など特定の集団を意図的に絶滅させる行為全般。
+- **[genocide](/genocide)**：人種・民族・宗教など特定の集団を意図的に絶滅させる行為全般。
 
 holocaustは歴史的な特定事件を指す場合が多く、genocideはより広く一般的な集団虐殺を指します。
 
@@ -104,14 +108,14 @@ holocaustは歴史的な特定事件を指す場合が多く、genocideはより
 
 ## 🧩 あわせて覚えたい
 
-- [massacre](/word/massacre/)：虐殺、集団殺害
-- [catastrophe](/word/catastrophe/)：大惨事、破局
+- [massacre](/massacre)：虐殺、集団殺害
+- [catastrophe](/catastrophe)：大惨事、破局
 
 ---
 
 ## 📖 できればこれも
 
-- [tragedy](/word/tragedy/)：悲劇、惨事
-- [atrocity](/word/atrocity/)：残虐行為、非道な行為
+- [tragedy](/tragedy)：悲劇、惨事
+- [atrocity](/atrocity)：残虐行為、非道な行為
 
-<!-- cvid: aid49_bid47 -->
+<!-- cvid: aid16_bid34 -->

@@ -81,15 +81,19 @@ TOEICでは歴史や文化に関する長文や説明文で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や文化に関する長文や説明文で見かけることが
 ## 🤔  ancient との違いは？
 
 - **medieval**：中世（主に西洋の5～15世紀）に関する
-- **[ancient](/word/ancient/)**：古代（中世よりも前、特にギリシャ・ローマなど）に関する
+- **[ancient](/ancient)**：古代（中世よりも前、特にギリシャ・ローマなど）に関する
 
 medievalは「中世」、ancientは「古代」と時代が異なります。歴史の時代区分で使い分けましょう。
 
@@ -105,15 +109,15 @@ medievalは「中世」、ancientは「古代」と時代が異なります。�
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern/)：現代の
-- [renaissance](/word/renaissance/)：ルネサンス（文芸復興）の
+- [modern](/modern)：現代の
+- [renaissance](/renaissance)：ルネサンス（文芸復興）の
 
 ---
 
 ## 📖 できればこれも
 
-- [historic](/word/historic/)：歴史的に重要な
-- [classical](/word/classical/)：古典的な、古代ギリシャ・ローマの
+- [historic](/historic)：歴史的に重要な
+- [classical](/classical)：古典的な、古代ギリシャ・ローマの
 
 
-<!-- cvid: aid16_bid21 -->
+<!-- cvid: aid40_bid38 -->

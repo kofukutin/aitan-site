@@ -77,15 +77,19 @@ TOEICでは比較級の文法問題で頻出です。特に「more than」「les
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは比較級の文法問題で頻出です。特に「more than」「les
 ## 🤔  rather との違いは？
 
 - **than**：2つを比較して「～よりも」と言うときに使う
-- **[rather](/word/rather/)**：どちらかと言えば、という選択や好みを表す
+- **[rather](/rather)**：どちらかと言えば、という選択や好みを表す
 
 「than」は単純な比較、「rather」は選択や好みをやや強調したいときに使います。
 
@@ -101,14 +105,14 @@ TOEICでは比較級の文法問題で頻出です。特に「more than」「les
 
 ## 🧩 あわせて覚えたい
 
-- [as](/word/as/)：～と同じくらい
-- [while](/word/while/)：～する間、～だけれども
+- [as](/as)：～と同じくらい
+- [while](/while)：～する間、～だけれども
 
 ---
 
 ## 📖 できればこれも
 
-- [because](/word/because/)：なぜなら
-- [although](/word/although/)：～だけれども
+- [because](/because)：なぜなら
+- [although](/although)：～だけれども
 
-<!-- cvid: aid37_bid14 -->
+<!-- cvid: aid32_bid47 -->

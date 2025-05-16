@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cart】の意味・使い方・例文 ― trolleyとの違い【TOEIC英単語】"
 description: "cartの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtrolleyとの違いもわかりやすく学べます。"
 word: "cart"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、ショッピングカートや
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、ショッピングカートや
 ## 🤔  trolley との違いは？
 
 - **cart**：主にアメリカ英語で使われる「カート」や「手押し車」全般。
-- **[trolley](/word/trolley/)**：主にイギリス英語で使われる「カート」や「台車」。
+- **[trolley](/trolley)**：主にイギリス英語で使われる「カート」や「台車」。
 
 cartはアメリカ英語で、trolleyはイギリス英語で使われることが多く、意味は似ていますが地域によって使い分けられます。
 
@@ -105,14 +109,14 @@ cartはアメリカ英語で、trolleyはイギリス英語で使われること
 
 ## 🧩 あわせて覚えたい
 
-- [basket](/word/basket/)：かご
-- [wagon](/word/wagon/)：（大きな）荷馬車、ワゴン
+- [basket](/basket)：かご
+- [wagon](/wagon)：（大きな）荷馬車、ワゴン
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box/)：箱
-- [bag](/word/bag/)：袋
+- [box](/box)：箱
+- [bag](/bag)：袋
 
-<!-- cvid: aid28_bid48 -->
+<!-- cvid: aid06_bid40 -->

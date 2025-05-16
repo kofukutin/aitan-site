@@ -81,15 +81,19 @@ TOEICでは「知識やスキルを得る」「会社を買収する」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「知識やスキルを得る」「会社を買収する」などの
 ## 🤔  obtain との違いは？
 
 - **acquire**：努力や経験を通じて得る、身につける（フォーマル）
-- **[obtain](/word/obtain/)**：一般的に手に入れる、入手する（ややフォーマル）
+- **[obtain](/obtain)**：一般的に手に入れる、入手する（ややフォーマル）
 
 acquireは「努力や過程を経て得る」ニュアンスが強く、obtainは「単に手に入れる」という意味で使われます。
 
@@ -105,14 +109,14 @@ acquireは「努力や過程を経て得る」ニュアンスが強く、obtain�
 
 ## 🧩 あわせて覚えたい
 
-- [purchase](/word/purchase/)：購入する、買う
-- [inherit](/word/inherit/)：相続する、受け継ぐ
+- [purchase](/purchase)：購入する、買う
+- [inherit](/inherit)：相続する、受け継ぐ
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する、成し遂げる
-- [gain](/word/gain/)：得る、獲得する
+- [achieve](/achieve)：達成する、成し遂げる
+- [gain](/gain)：得る、獲得する
 
-<!-- cvid: aid29_bid16 -->
+<!-- cvid: aid40_bid47 -->

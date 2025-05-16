@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「自動化する」という意味で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「自動化する」という意味で�
 ## 🤔  mechanize との違いは？
 
 - **automate**：機械やITを使って作業やプロセス全体を自動化すること
-- **[mechanize](/word/mechanize/)**：機械化する（手作業を機械に置き換えることが中心）
+- **[mechanize](/mechanize)**：機械化する（手作業を機械に置き換えることが中心）
 
 automateは「自動で動く仕組みを作る」ニュアンスが強く、mechanizeは「人の手作業を機械に置き換える」ことに重点があります。
 
@@ -105,14 +109,14 @@ automateは「自動で動く仕組みを作る」ニュアンスが強く、mec
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual/)：手作業の、手動の
-- [streamline](/word/streamline/)：合理化する、効率化する
+- [manual](/manual)：手作業の、手動の
+- [streamline](/streamline)：合理化する、効率化する
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate/)：操作する、運転する
-- [install](/word/install/)：設置する、インストールする
+- [operate](/operate)：操作する、運転する
+- [install](/install)：設置する、インストールする
 
-<!-- cvid: aid38_bid34 -->
+<!-- cvid: aid06_bid21 -->

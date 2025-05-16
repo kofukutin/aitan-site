@@ -81,15 +81,19 @@ TOEICでは、weakは主にビジネスや経済の文脈で「弱い業績」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、weakは主にビジネスや経済の文脈で「弱い業績」�
 ## 🤔  fragile との違いは？
 
 - **weak**：力や能力、影響力などが弱い
-- **[fragile](/word/fragile/)**：物理的に壊れやすい、もろい
+- **[fragile](/fragile)**：物理的に壊れやすい、もろい
 
 weakは人や組織、抽象的な力に使われることが多く、fragileは主に物や状況が「壊れやすい」場合に使います。
 
@@ -105,14 +109,14 @@ weakは人や組織、抽象的な力に使われることが多く、fragileは
 
 ## 🧩 あわせて覚えたい
 
-- [strong](/word/strong/)：強い
-- [feeble](/word/feeble/)：とても弱い、かすかな
+- [strong](/strong)：強い
+- [feeble](/feeble)：とても弱い、かすかな
 
 ---
 
 ## 📖 できればこれも
 
-- [poor](/word/poor/)：貧しい、乏しい
-- [minor](/word/minor/)：小さい、重要でない
+- [poor](/poor)：貧しい、乏しい
+- [minor](/minor)：小さい、重要でない
 
-<!-- cvid: aid44_bid12 -->
+<!-- cvid: aid46_bid08 -->

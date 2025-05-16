@@ -81,15 +81,19 @@ TOEICでは「賢い」「きちんとした」などの意味で、文脈に合
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「賢い」「きちんとした」などの意味で、文脈に合
 ## 🤔  clever との違いは？
 
 - **smart**：知識や機転が利く、または服装がきちんとしていることを表す。
-- **[clever](/word/clever/)**：ひらめきや創造的な賢さ、ずる賢さも含む。
+- **[clever](/clever)**：ひらめきや創造的な賢さ、ずる賢さも含む。
 
 「smart」は知識や判断力、または外見のきちんと感に使い、「clever」はアイデアや工夫の上手さに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「賢い」「きちんとした」などの意味で、文脈に合
 
 ## 🧩 あわせて覚えたい
 
-- [intelligent](/word/intelligent/)：知能が高い、知的な
-- [bright](/word/bright/)：頭の回転が速い、利口な
+- [intelligent](/intelligent)：知能が高い、知的な
+- [bright](/bright)：頭の回転が速い、利口な
 
 ---
 
 ## 📖 できればこれも
 
-- [quick](/word/quick/)：素早い、機敏な
-- [sharp](/word/sharp/)：鋭い、頭の切れる
+- [quick](/quick)：素早い、機敏な
+- [sharp](/sharp)：鋭い、頭の切れる
 
-<!-- cvid: aid40_bid43 -->
+<!-- cvid: aid34_bid47 -->

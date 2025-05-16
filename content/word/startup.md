@@ -81,15 +81,19 @@ TOEICではビジネス記事やメール文中で、新興企業やベンチャ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス記事やメール文中で、新興企業やベンチャ
 ## 🤔  entrepreneur との違いは？
 
 - **startup**：新しく設立された企業や事業そのものを指す
-- **[entrepreneur](/word/entrepreneur/)**：新しい事業を始める起業家（人）を指す
+- **[entrepreneur](/entrepreneur)**：新しい事業を始める起業家（人）を指す
 
 startupは「会社・組織」、entrepreneurは「人」に焦点がある点が大きな違いです。
 
@@ -105,14 +109,14 @@ startupは「会社・組織」、entrepreneurは「人」に焦点がある点�
 
 ## 🧩 あわせて覚えたい
 
-- [company](/word/company/)：会社、企業
-- [venture](/word/venture/)：冒険的事業、ベンチャー
+- [company](/company)：会社、企業
+- [venture](/venture)：冒険的事業、ベンチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [founder](/word/founder/)：創業者
-- [launch](/word/launch/)：開始する、立ち上げる
+- [founder](/founder)：創業者
+- [launch](/launch)：開始する、立ち上げる
 
-<!-- cvid: aid41_bid32 -->
+<!-- cvid: aid05_bid13 -->

@@ -81,7 +81,7 @@ TOEICでは主にビジネス文書や法務関連の長文で、不正行為や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解の熱を保とう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にビジネス文書や法務関連の長文で、不正行為や
 
 <div class="info-center">
 ＼結果につながる近道／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や法務関連の長文で、不正行為や
 ## 🤔  scam との違いは？
 
 - **fraud**：法律的・ビジネス的な「詐欺」や「不正行為」全般を指し、ややフォーマル。
-- **[scam](/word/scam/)**：日常的な「詐欺」「だまし」を指し、カジュアルで小規模な詐欺にも使う。
+- **[scam](/scam)**：日常的な「詐欺」「だまし」を指し、カジュアルで小規模な詐欺にも使う。
 
 fraudは法的な文脈や公式な場面で使われ、scamは日常会話やネット詐欺などカジュアルな場面でよく使われます。
 
@@ -105,14 +109,14 @@ fraudは法的な文脈や公式な場面で使われ、scamは日常会話や�
 
 ## 🧩 あわせて覚えたい
 
-- [deception](/word/deception/)：だますこと、欺瞞
-- [theft](/word/theft/)：窃盗、盗み
+- [deception](/deception)：だますこと、欺瞞
+- [theft](/theft)：窃盗、盗み
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime/)：犯罪
-- [evidence](/word/evidence/)：証拠
+- [crime](/crime)：犯罪
+- [evidence](/evidence)：証拠
 
-<!-- cvid: aid32_bid32 -->
+<!-- cvid: aid46_bid32 -->

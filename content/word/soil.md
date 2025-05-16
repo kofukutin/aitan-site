@@ -81,15 +81,19 @@ TOEICでは環境や農業、土地開発などの話題で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や農業、土地開発などの話題で登場することが
 ## 🤔  land との違いは？
 
 - **soil**：植物が育つ「土」や「土壌」を指す
-- **[land](/word/land/)**：土地全体や国土、所有地など広い意味
+- **[land](/land)**：土地全体や国土、所有地など広い意味
 
 soilは地表の「土」そのものを指し、landは「土地」や「陸地」全体を指します。農業や環境の話題ではsoil、所有や面積の話題ではlandを使います。
 
@@ -105,14 +109,14 @@ soilは地表の「土」そのものを指し、landは「土地」や「陸地
 
 ## 🧩 あわせて覚えたい
 
-- [ground](/word/ground/)：地面、地表
-- [earth](/word/earth/)：地球、土、大地
+- [ground](/ground)：地面、地表
+- [earth](/earth)：地球、土、大地
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/word/plant/)：植物、工場
-- [field](/word/field/)：野原、分野
+- [plant](/plant)：植物、工場
+- [field](/field)：野原、分野
 
-<!-- cvid: aid34_bid00 -->
+<!-- cvid: aid48_bid35 -->

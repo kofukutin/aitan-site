@@ -81,15 +81,19 @@ TOEICではビジネス文書やレポートの文脈で「analyze」がよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やレポートの文脈で「analyze」がよく�
 ## 🤔  examine との違いは？
 
 - **analyze**：細かく分解して本質や構造を明らかにする
-- **[examine](/word/examine/)**：注意深く調べる、観察する
+- **[examine](/examine)**：注意深く調べる、観察する
 
 「analyze」は分解して深く理解するニュアンスが強く、「examine」は表面的・全体的に調べる場合にも使われます。
 
@@ -105,14 +109,14 @@ TOEICではビジネス文書やレポートの文脈で「analyze」がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [assess](/word/assess/)：評価する
-- [investigate](/word/investigate/)：調査する
+- [assess](/assess)：評価する
+- [investigate](/investigate)：調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [evaluate](/word/evaluate/)：評価する
-- [interpret](/word/interpret/)：解釈する
+- [evaluate](/evaluate)：評価する
+- [interpret](/interpret)：解釈する
 
-<!-- cvid: aid34_bid01 -->
+<!-- cvid: aid04_bid22 -->

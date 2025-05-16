@@ -81,15 +81,19 @@ TOEICでは、観光地の説明や歴史的な話題、または物や情報が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、観光地の説明や歴史的な話題、または物や情報が
 ## 🤔  hidden との違いは？
 
 - **buried**：物理的に何かの下に埋められて見えなくなっている状態
-- **[hidden](/word/hidden/)**：見えないように隠されている状態（物理的・抽象的どちらも可）
+- **[hidden](/hidden)**：見えないように隠されている状態（物理的・抽象的どちらも可）
 
 buriedは「土や物の下に埋まっている」など物理的なニュアンスが強く、hiddenは「隠されている」全般に使えます。
 
@@ -105,14 +109,14 @@ buriedは「土や物の下に埋まっている」など物理的なニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [covered](/word/covered/)：覆われた
-- [concealed](/word/concealed/)：隠された
+- [covered](/covered)：覆われた
+- [concealed](/concealed)：隠された
 
 ---
 
 ## 📖 できればこれも
 
-- [located](/word/located/)：位置している
-- [discovered](/word/discovered/)：発見された
+- [located](/located)：位置している
+- [discovered](/discovered)：発見された
 
-<!-- cvid: aid27_bid22 -->
+<!-- cvid: aid39_bid10 -->

@@ -81,15 +81,19 @@ The meeting will be held in the executive lounge on the 10th floor.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The meeting will be held in the executive lounge on the 10th floor.
 ## 🤔  lobby との違いは？
 
 - **lounge**：くつろいだり待ったりするための休憩スペース
-- **[lobby](/word/lobby/)**：建物の入口近くにあるロビー、受付や通路として使われる空間
+- **[lobby](/lobby)**：建物の入口近くにあるロビー、受付や通路として使われる空間
 
 loungeは「くつろぐ」目的のスペース、lobbyは「出入り・受付」など動線の中心となる場所で、用途や雰囲気が異なります。
 
@@ -105,14 +109,14 @@ loungeは「くつろぐ」目的のスペース、lobbyは「出入り・受付
 
 ## 🧩 あわせて覚えたい
 
-- [cafeteria](/word/cafeteria/)：カフェテリア、食堂
-- [waiting_room](/word/waiting_room/)：待合室
+- [cafeteria](/cafeteria)：カフェテリア、食堂
+- [waiting_room](/waiting_room)：待合室
 
 ---
 
 ## 📖 できればこれも
 
-- [reception](/word/reception/)：受付、フロント
-- [hall](/word/hall/)：ホール、大広間
+- [reception](/reception)：受付、フロント
+- [hall](/hall)：ホール、大広間
 
-<!-- cvid: aid21_bid21 -->
+<!-- cvid: aid43_bid25 -->

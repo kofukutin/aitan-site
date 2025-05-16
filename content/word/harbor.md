@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、港や船の風景を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、港や船の風景を説明する際
 ## 🤔  port との違いは？
 
 - **harbor**：自然または人工の「港」で、船が安全に停泊できる場所全般を指す。
-- **[port](/word/port/)**：商業的な「港」で、貨物や人の出入りが盛んな施設や都市を指す。
+- **[port](/port)**：商業的な「港」で、貨物や人の出入りが盛んな施設や都市を指す。
 
 harborは「安全な停泊場所」としての港、portは「取引や交通の拠点」としての港という違いがあります。
 
@@ -105,14 +109,14 @@ harborは「安全な停泊場所」としての港、portは「取引や交通�
 
 ## 🧩 あわせて覚えたい
 
-- [bay](/word/bay/)：湾、入り江
-- [dock](/word/dock/)：船着き場、埠頭
+- [bay](/bay)：湾、入り江
+- [dock](/dock)：船着き場、埠頭
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/word/coast/)：海岸、沿岸
-- [shore](/word/shore/)：岸、岸辺
+- [coast](/coast)：海岸、沿岸
+- [shore](/shore)：岸、岸辺
 
-<!-- cvid: aid08_bid02 -->
+<!-- cvid: aid36_bid40 -->

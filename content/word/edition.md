@@ -81,15 +81,19 @@ TOEICでは、書籍や報告書、雑誌などの案内文や広告、メール
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書籍や報告書、雑誌などの案内文や広告、メール
 ## 🤔  version との違いは？
 
 - **edition**：出版物や印刷物の「版」「刷」を指し、特定の発行回や改訂を強調します。
-- **[version](/word/version/)**：ソフトウェアや製品、考え方など幅広いものの「バージョン」「型」を指します。
+- **[version](/version)**：ソフトウェアや製品、考え方など幅広いものの「バージョン」「型」を指します。
 
 「edition」は主に書籍や雑誌など出版物に使われ、「version」はソフトウェアや商品、アイデアの違いに使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、書籍や報告書、雑誌などの案内文や広告、メール
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/word/issue/)：（雑誌などの）号、発行物
-- [publication](/word/publication/)：出版物、発行
+- [issue](/issue)：（雑誌などの）号、発行物
+- [publication](/publication)：出版物、発行
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor/)：編集者
-- [release](/word/release/)：発売、公開
+- [editor](/editor)：編集者
+- [release](/release)：発売、公開
 
-<!-- cvid: aid49_bid31 -->
+<!-- cvid: aid22_bid29 -->

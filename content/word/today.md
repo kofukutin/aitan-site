@@ -78,15 +78,19 @@ TOEICでは日付や予定、スケジュールの確認など、基本的な会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは日付や予定、スケジュールの確認など、基本的な会
 ## 🤔  nowadays との違いは？
 
 - **today**：今日、または「現在」という意味で、特定の日や時点を指す。
-- **[nowadays](/word/nowadays/)**：最近、現代では、という意味で、過去と比べて今の時代全体を指す。
+- **[nowadays](/nowadays)**：最近、現代では、という意味で、過去と比べて今の時代全体を指す。
 
 todayは「今日」や「今この時」を表し、nowadaysは「最近の傾向」や「現代社会」など広い期間を指します。
 
@@ -102,14 +106,14 @@ todayは「今日」や「今この時」を表し、nowadaysは「最近の傾�
 
 ## 🧩 あわせて覚えたい
 
-- [tomorrow](/word/tomorrow/)：明日
-- [recently](/word/recently/)：最近
+- [tomorrow](/tomorrow)：明日
+- [recently](/recently)：最近
 
 ---
 
 ## 📖 できればこれも
 
-- [tonight](/word/tonight/)：今夜
-- [soon](/word/soon/)：すぐに
+- [tonight](/tonight)：今夜
+- [soon](/soon)：すぐに
 
-<!-- cvid: aid37_bid20 -->
+<!-- cvid: aid21_bid36 -->

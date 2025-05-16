@@ -81,15 +81,19 @@ permissionはTOEICのPart 5で「許可」「認可」を問う文脈で頻出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ permissionはTOEICのPart 5で「許可」「認可」を問う文脈で頻出�
 ## 🤔  approval との違いは？
 
 - **permission**：何かをするための「許可」や「認可」
-- **[approval](/word/approval/)**：計画や提案などに対する「承認」や「賛成」
+- **[approval](/approval)**：計画や提案などに対する「承認」や「賛成」
 
 permissionは「行動を始めるための許可」、approvalは「計画や提案が認められること」と使い分けます。
 
@@ -105,14 +109,14 @@ permissionは「行動を始めるための許可」、approvalは「計画や�
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/word/authorization/)：公式な認可、権限付与
-- [prohibition](/word/prohibition/)：禁止、差し止め
+- [authorization](/authorization)：公式な認可、権限付与
+- [prohibition](/prohibition)：禁止、差し止め
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/word/request/)：依頼、要請
-- [access](/word/access/)：アクセス、接近・利用権
+- [request](/request)：依頼、要請
+- [access](/access)：アクセス、接近・利用権
 
-<!-- cvid: aid49_bid35 -->
+<!-- cvid: aid33_bid18 -->

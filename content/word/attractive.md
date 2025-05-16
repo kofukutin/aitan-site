@@ -81,15 +81,19 @@ TOEICでは、求人広告や商品説明、条件提示などで「魅力的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や商品説明、条件提示などで「魅力的な
 ## 🤔  charming との違いは？
 
 - **attractive**：見た目や条件、提案など幅広く「人を惹きつける」魅力を表す
-- **[charming](/word/charming/)**：主に人柄や雰囲気の「愛らしさ」「感じの良さ」を表す
+- **[charming](/charming)**：主に人柄や雰囲気の「愛らしさ」「感じの良さ」を表す
 
 attractiveは外見や条件など幅広い対象に使えますが、charmingは主に人の性格や雰囲気の温かさ・親しみやすさを強調します。
 
@@ -105,14 +109,14 @@ attractiveは外見や条件など幅広い対象に使えますが、charming�
 
 ## 🧩 あわせて覚えたい
 
-- [appealing](/word/appealing/)：魅力的な、興味を引く
-- [unattractive](/word/unattractive/)：魅力のない
+- [appealing](/appealing)：魅力的な、興味を引く
+- [unattractive](/unattractive)：魅力のない
 
 ---
 
 ## 📖 できればこれも
 
-- [impressive](/word/impressive/)：印象的な
-- [creative](/word/creative/)：創造的な
+- [impressive](/impressive)：印象的な
+- [creative](/creative)：創造的な
 
-<!-- cvid: aid13_bid02 -->
+<!-- cvid: aid17_bid18 -->

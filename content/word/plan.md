@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクトの話題で頻出し、予定や提案、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクトの話題で頻出し、予定や提案、
 ## 🤔  schedule との違いは？
 
 - **plan**：何をどうするかの「計画」や「案」を指す
-- **[schedule](/word/schedule/)**：具体的な「日程」や「時間割」を指す
+- **[schedule](/schedule)**：具体的な「日程」や「時間割」を指す
 
 planは「やり方や内容」に焦点があり、scheduleは「いつやるか」という時間的な順序に重点があります。
 
@@ -105,14 +109,14 @@ planは「やり方や内容」に焦点があり、scheduleは「いつやる�
 
 ## 🧩 あわせて覚えたい
 
-- [proposal](/word/proposal/)：提案、申し出
-- [strategy](/word/strategy/)：戦略、方針
+- [proposal](/proposal)：提案、申し出
+- [strategy](/strategy)：戦略、方針
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：プロジェクト、事業
-- [goal](/word/goal/)：目標、ゴール
+- [project](/project)：プロジェクト、事業
+- [goal](/goal)：目標、ゴール
 
-<!-- cvid: aid11_bid40 -->
+<!-- cvid: aid35_bid38 -->

@@ -81,15 +81,19 @@ spiteはTOEICの長文読解パートで、人物の感情や人間関係を描�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ spiteはTOEICの長文読解パートで、人物の感情や人間関係を描�
 ## 🤔  malice との違いは？
 
 - **spite**：比較的軽い悪意や意地悪な気持ちを指し、日常的な嫌がらせにも使われる。
-- **[malice](/word/malice/)**：より強い悪意や害意を持ち、法的・深刻な場面で使われることが多い。
+- **[malice](/malice)**：より強い悪意や害意を持ち、法的・深刻な場面で使われることが多い。
 
 spiteは「ちょっとした意地悪」も含みますが、maliceは「本気で害を与えたい」という強い悪意を表します。
 
@@ -105,14 +109,14 @@ spiteは「ちょっとした意地悪」も含みますが、maliceは「本気
 
 ## 🧩 あわせて覚えたい
 
-- [resentment](/word/resentment/)：憤り、恨み
-- [grudge](/word/grudge/)：恨み、遺恨
+- [resentment](/resentment)：憤り、恨み
+- [grudge](/grudge)：恨み、遺恨
 
 ---
 
 ## 📖 できればこれも
 
-- [envy](/word/envy/)：うらやみ、嫉妬
-- [anger](/word/anger/)：怒り
+- [envy](/envy)：うらやみ、嫉妬
+- [anger](/anger)：怒り
 
-<!-- cvid: aid13_bid02 -->
+<!-- cvid: aid02_bid30 -->

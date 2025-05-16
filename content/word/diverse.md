@@ -81,15 +81,19 @@ TOEICでは、会社や組織の多様性、チーム構成、文化的背景な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や組織の多様性、チーム構成、文化的背景な
 ## 🤔  various との違いは？
 
 - **diverse**：異なる種類が集まっていて、幅広い多様性があることを強調
-- **[various](/word/various/)**：いくつかの異なる種類があることを表し、数や種類の違いに焦点
+- **[various](/various)**：いくつかの異なる種類があることを表し、数や種類の違いに焦点
 
 「diverse」は「幅広い違い」や「多様性」を強調し、文化や背景などの広がりを表現します。「various」は単に「いくつかの種類がある」ことを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、会社や組織の多様性、チーム構成、文化的背景な
 
 ## 🧩 あわせて覚えたい
 
-- [different](/word/different/)：異なる、違った
-- [distinct](/word/distinct/)：はっきり異なる、明確に区別できる
+- [different](/different)：異なる、違った
+- [distinct](/distinct)：はっきり異なる、明確に区別できる
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique/)：唯一の、独特な
-- [broad](/word/broad/)：広い、幅広い
+- [unique](/unique)：唯一の、独特な
+- [broad](/broad)：広い、幅広い
 
-<!-- cvid: aid29_bid06 -->
+<!-- cvid: aid12_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは求人やホテル予約、オフィスの人事に関する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人やホテル予約、オフィスの人事に関する文脈で
 ## 🤔  opening との違いは？
 
 - **vacancy**：空室や欠員など「空いている状態」をややフォーマルに表現
-- **[opening](/word/opening/)**：主に「求人」「募集枠」など、仕事の新しいポジションや機会をカジュアルに表現
+- **[opening](/opening)**：主に「求人」「募集枠」など、仕事の新しいポジションや機会をカジュアルに表現
 
 vacancyは「空き」そのものを指し、openingは「新たにできた募集枠」や「機会」に焦点を当てる違いがあります。
 
@@ -105,14 +109,14 @@ vacancyは「空き」そのものを指し、openingは「新たにできた募
 
 ## 🧩 あわせて覚えたい
 
-- [position](/word/position/)：職、地位
-- [applicant](/word/applicant/)：応募者
+- [position](/position)：職、地位
+- [applicant](/applicant)：応募者
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [interview](/word/interview/)：面接
+- [candidate](/candidate)：候補者
+- [interview](/interview)：面接
 
-<!-- cvid: aid07_bid07 -->
+<!-- cvid: aid11_bid04 -->

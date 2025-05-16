@@ -81,7 +81,7 @@ TOEICでは「original document（原本）」や「original idea（独自のア
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+感覚があるうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは「original document（原本）」や「original idea（独自のア
 
 <div class="info-center">
 ＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「original document（原本）」や「original idea（独自のア
 ## 🤔  unique との違いは？
 
 - **original**：最初のもの、他と区別される独自のもの
-- **[unique](/word/unique/)**：唯一無二で他に全く同じものがない
+- **[unique](/unique)**：唯一無二で他に全く同じものがない
 
 originalは「最初」や「本来のもの」に焦点があり、uniqueは「他に全く同じものがない」点を強調します。
 
@@ -105,14 +109,14 @@ originalは「最初」や「本来のもの」に焦点があり、uniqueは「
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy/)：コピー、複製
-- [authentic](/word/authentic/)：本物の、真正の
+- [copy](/copy)：コピー、複製
+- [authentic](/authentic)：本物の、真正の
 
 ---
 
 ## 📖 できればこれも
 
-- [creative](/word/creative/)：創造的な
-- [innovative](/word/innovative/)：革新的な
+- [creative](/creative)：創造的な
+- [innovative](/innovative)：革新的な
 
-<!-- cvid: aid00_bid46 -->
+<!-- cvid: aid25_bid46 -->

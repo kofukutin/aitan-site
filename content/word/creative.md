@@ -81,15 +81,19 @@ TOEICでは、広告やビジネスの場面で「creative ideas」「creative t
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告やビジネスの場面で「creative ideas」「creative t
 ## 🤔  innovative との違いは？
 
 - **creative**：新しい発想や独自性を持ち、何かを生み出す力がある
-- **[innovative](/word/innovative/)**：革新的で、既存のものを大きく変える新しさがある
+- **[innovative](/innovative)**：革新的で、既存のものを大きく変える新しさがある
 
 creativeは「独自の発想」や「創造力」に重点があり、innovativeは「革新性」や「従来にない変化」に焦点があります。
 
@@ -105,14 +109,14 @@ creativeは「独自の発想」や「創造力」に重点があり、innovativ
 
 ## 🧩 あわせて覚えたい
 
-- [imaginative](/word/imaginative/)：想像力に富んだ
-- [original](/word/original/)：独自の、独創的な
+- [imaginative](/imaginative)：想像力に富んだ
+- [original](/original)：独自の、独創的な
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/word/productive/)：生産的な
-- [efficient](/word/efficient/)：効率的な
+- [productive](/productive)：生産的な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid02_bid10 -->
+<!-- cvid: aid49_bid43 -->

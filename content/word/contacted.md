@@ -83,15 +83,19 @@ TOEICでは、電話やメールでのやり取り、ビジネス上の連絡に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、電話やメールでのやり取り、ビジネス上の連絡に
 ## 🤔  reached との違いは？
 
 - **contacted**：相手に連絡を取る、意思疎通を図ることを強調
-- **[reached](/word/reached/)**：相手に「到達した」「つながった」ことを強調
+- **[reached](/reached)**：相手に「到達した」「つながった」ことを強調
 
 contactedは「連絡を取る行為」自体に重点があり、reachedは「実際に相手とつながった」結果に重点があります。
 
@@ -107,14 +111,14 @@ contactedは「連絡を取る行為」自体に重点があり、reachedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [notify](/word/notify/)：通知する、知らせる
-- [inform](/word/inform/)：知らせる、情報を伝える
+- [notify](/notify)：通知する、知らせる
+- [inform](/inform)：知らせる、情報を伝える
 
 ---
 
 ## 📖 できればこれも
 
-- [respond](/word/respond/)：返答する
-- [reply](/word/reply/)：返事をする
+- [respond](/respond)：返答する
+- [reply](/reply)：返事をする
 
-<!-- cvid: aid08_bid35 -->
+<!-- cvid: aid33_bid42 -->

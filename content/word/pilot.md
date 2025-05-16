@@ -81,7 +81,7 @@ TOEICでは空港や旅行、交通に関する会話でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+理解したら即実践👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは空港や旅行、交通に関する会話でよく登場します。
 
 <div class="info-center">
 ＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や旅行、交通に関する会話でよく登場します。
 ## 🤔  captain との違いは？
 
 - **pilot**：飛行機や船を実際に操縦する人
-- **[captain](/word/captain/)**：乗り物の責任者・指揮官
+- **[captain](/captain)**：乗り物の責任者・指揮官
 
 pilotは操縦の技術者、captainは全体の責任者やリーダーという違いがあります。
 
@@ -105,14 +109,14 @@ pilotは操縦の技術者、captainは全体の責任者やリーダーとい�
 
 ## 🧩 あわせて覚えたい
 
-- [crew](/word/crew/)：乗組員
-- [flight_attendant](/word/flight_attendant/)：客室乗務員
+- [crew](/crew)：乗組員
+- [flight_attendant](/flight_attendant)：客室乗務員
 
 ---
 
 ## 📖 できればこれも
 
-- [airport](/word/airport/)：空港
-- [flight](/word/flight/)：フライト、飛行
+- [airport](/airport)：空港
+- [flight](/flight)：フライト、飛行
 
-<!-- cvid: aid26_bid38 -->
+<!-- cvid: aid23_bid38 -->

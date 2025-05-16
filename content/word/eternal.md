@@ -81,15 +81,19 @@ TOEICでは主に長文読解や記事、スピーチ文などで「永遠の」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解や記事、スピーチ文などで「永遠の」
 ## 🤔  permanent との違いは？
 
 - **eternal**：終わりがなく、永遠に続くことを強調するフォーマルな表現
-- **[permanent](/word/permanent/)**：長期間続くが、必ずしも「永遠」ではなく「恒久的」「半永久的」な意味
+- **[permanent](/permanent)**：長期間続くが、必ずしも「永遠」ではなく「恒久的」「半永久的」な意味
 
 eternalは「絶対に終わらない」ニュアンスが強く、permanentは「長く続くが、いつかは終わる可能性もある」点で使い分けます。
 
@@ -105,14 +109,14 @@ eternalは「絶対に終わらない」ニュアンスが強く、permanentは�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary/)：一時的な
-- [infinite](/word/infinite/)：無限の
+- [temporary](/temporary)：一時的な
+- [infinite](/infinite)：無限の
 
 ---
 
 ## 📖 できればこれも
 
-- [infinite](/word/infinite/)：無限の
-- [timeless](/word/timeless/)：時代を超えた、永遠の
+- [infinite](/infinite)：無限の
+- [timeless](/timeless)：時代を超えた、永遠の
 
-<!-- cvid: aid26_bid18 -->
+<!-- cvid: aid34_bid14 -->

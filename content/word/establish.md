@@ -81,15 +81,19 @@ TOEICでは会社や制度の設立、関係の確立などビジネス文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社や制度の設立、関係の確立などビジネス文脈で
 ## 🤔  found との違いは？
 
 - **establish**：制度・組織・関係などを「設立する」「確立する」全般に使うフォーマルな語
-- **[found](/word/found/)**：特に会社や組織を「創設する」「創業する」意味で使い、創始者のニュアンスが強い
+- **[found](/found)**：特に会社や組織を「創設する」「創業する」意味で使い、創始者のニュアンスが強い
 
 establishは幅広く「しっかり作る」イメージ、foundは「最初に立ち上げる」創業者的な意味合いが強いです。
 
@@ -105,14 +109,14 @@ establishは幅広く「しっかり作る」イメージ、foundは「最初に
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch/)：（新事業・製品などを）開始する
-- [abolish](/word/abolish/)：廃止する
+- [launch](/launch)：（新事業・製品などを）開始する
+- [abolish](/abolish)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：組織する、まとめる
-- [maintain](/word/maintain/)：維持する
+- [organize](/organize)：組織する、まとめる
+- [maintain](/maintain)：維持する
 
-<!-- cvid: aid35_bid27 -->
+<!-- cvid: aid12_bid05 -->

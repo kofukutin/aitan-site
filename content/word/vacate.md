@@ -81,15 +81,19 @@ TOEICでは、vacateは「退去する」「空ける」という意味で、主
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、vacateは「退去する」「空ける」という意味で、主
 ## 🤔  evacuate との違いは？
 
 - **vacate**：自発的・指示により「場所や地位を空ける」「立ち退く」
-- **[evacuate](/word/evacuate/)**：緊急時や危険時に「避難する」「退避させる」
+- **[evacuate](/evacuate)**：緊急時や危険時に「避難する」「退避させる」
 
 vacateは日常的・業務的な「空ける」に使い、evacuateは災害や緊急時の「避難」に使います。
 
@@ -105,14 +109,14 @@ vacateは日常的・業務的な「空ける」に使い、evacuateは災害や
 
 ## 🧩 あわせて覚えたい
 
-- [occupy](/word/occupy/)：占める、占領する
-- [resign](/word/resign/)：辞職する、辞任する
+- [occupy](/occupy)：占める、占領する
+- [resign](/resign)：辞職する、辞任する
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/word/transfer/)：移す、転勤する
-- [remove](/word/remove/)：取り除く、移動させる
+- [transfer](/transfer)：移す、転勤する
+- [remove](/remove)：取り除く、移動させる
 
-<!-- cvid: aid43_bid11 -->
+<!-- cvid: aid21_bid39 -->

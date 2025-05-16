@@ -81,15 +81,19 @@ All employees must evacuate the office immediately in case of an earthquake.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ All employees must evacuate the office immediately in case of an earthquake.
 ## 🤔  escape との違いは？
 
 - **evacuate**：組織的・計画的に「避難する」「避難させる」
-- **[escape](/word/escape/)**：自力で「逃げる」「脱出する」
+- **[escape](/escape)**：自力で「逃げる」「脱出する」
 
 evacuateは集団や指示に従って安全な場所へ移動する場合に使い、escapeは危険から自分で逃げるニュアンスです。
 
@@ -105,14 +109,14 @@ evacuateは集団や指示に従って安全な場所へ移動する場合に使
 
 ## 🧩 あわせて覚えたい
 
-- [abandon](/word/abandon/)：見捨てる、放棄する
-- [relocate](/word/relocate/)：移転する、移動する
+- [abandon](/abandon)：見捨てる、放棄する
+- [relocate](/relocate)：移転する、移動する
 
 ---
 
 ## 📖 できればこれも
 
-- [rescue](/word/rescue/)：救助する
-- [shelter](/word/shelter/)：避難所、避難する
+- [rescue](/rescue)：救助する
+- [shelter](/shelter)：避難所、避難する
 
-<!-- cvid: aid29_bid40 -->
+<!-- cvid: aid20_bid28 -->

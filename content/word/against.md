@@ -77,15 +77,19 @@ TOEICでは、前置詞の使い分けや「～に反対して」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、前置詞の使い分けや「～に反対して」という意味
 ## 🤔  opposite との違いは？
 
 - **against**：物理的・抽象的に「～に接して」「～に反対して」
-- **[opposite](/word/opposite/)**：位置的に「～の向かい側に」
+- **[opposite](/opposite)**：位置的に「～の向かい側に」
 
 againstは「接触」や「反対」のニュアンス、oppositeは「向かい合う位置」のニュアンスで使い分けます。
 
@@ -101,14 +105,14 @@ againstは「接触」や「反対」のニュアンス、oppositeは「向か�
 
 ## 🧩 あわせて覚えたい
 
-- [beside](/word/beside/)：～のそばに
-- [versus](/word/versus/)：～対、～に対して（対立）
+- [beside](/beside)：～のそばに
+- [versus](/versus)：～対、～に対して（対立）
 
 ---
 
 ## 📖 できればこれも
 
-- [among](/word/among/)：～の間で
-- [toward](/word/toward/)：～の方へ
+- [among](/among)：～の間で
+- [toward](/toward)：～の方へ
 
-<!-- cvid: aid24_bid01 -->
+<!-- cvid: aid35_bid38 -->

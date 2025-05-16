@@ -81,15 +81,19 @@ TOEICでは「artificial intelligence」や「artificial flavor」など、ITや
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「artificial intelligence」や「artificial flavor」など、ITや
 ## 🤔  synthetic との違いは？
 
 - **artificial**：自然なものを人が模倣して作った、または不自然な
-- **[synthetic](/word/synthetic/)**：複数の要素を合成して作った、特に化学的な合成品
+- **[synthetic](/synthetic)**：複数の要素を合成して作った、特に化学的な合成品
 
 artificialは「自然なものの代用品」としての人工物に使われ、syntheticは「合成して作られたもの」に使われます。たとえば「人工甘味料」はartificial sweetener、「合成繊維」はsynthetic fiberです。
 
@@ -105,14 +109,14 @@ artificialは「自然なものの代用品」としての人工物に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [natural](/word/natural/)：自然の、天然の
-- [fake](/word/fake/)：偽物の、偽造の
+- [natural](/natural)：自然の、天然の
+- [fake](/fake)：偽物の、偽造の
 
 ---
 
 ## 📖 できればこれも
 
-- [automatic](/word/automatic/)：自動の
-- [mechanical](/word/mechanical/)：機械の、機械的な
+- [automatic](/automatic)：自動の
+- [mechanical](/mechanical)：機械の、機械的な
 
-<!-- cvid: aid10_bid40 -->
+<!-- cvid: aid47_bid22 -->

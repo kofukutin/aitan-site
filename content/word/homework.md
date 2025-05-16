@@ -81,15 +81,19 @@ TOEICでは主に学校や教育に関する長文やEメールの中で登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に学校や教育に関する長文やEメールの中で登場�
 ## 🤔  assignment との違いは？
 
 - **homework**：主に学校で出される「宿題」を指し、家庭で行う学習活動を意味する。
-- **[assignment](/word/assignment/)**：課題や任務全般を指し、学校以外のビジネスやプロジェクトでも使われる。
+- **[assignment](/assignment)**：課題や任務全般を指し、学校以外のビジネスやプロジェクトでも使われる。
 
 homeworkは「家庭学習の宿題」に限定されるのに対し、assignmentは「割り当てられた課題」全般に使われます。
 
@@ -105,14 +109,14 @@ homeworkは「家庭学習の宿題」に限定されるのに対し、assignmen
 
 ## 🧩 あわせて覚えたい
 
-- [task](/word/task/)：課題、仕事
-- [project](/word/project/)：プロジェクト、研究課題
+- [task](/task)：課題、仕事
+- [project](/project)：プロジェクト、研究課題
 
 ---
 
 ## 📖 できればこれも
 
-- [lesson](/word/lesson/)：授業、課
-- [exercise](/word/exercise/)：練習問題
+- [lesson](/lesson)：授業、課
+- [exercise](/exercise)：練習問題
 
-<!-- cvid: aid16_bid14 -->
+<!-- cvid: aid30_bid18 -->

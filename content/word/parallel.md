@@ -81,15 +81,19 @@ parallelはITやビジネス分野の説明文、図表の説明などで出題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ parallelはITやビジネス分野の説明文、図表の説明などで出題�
 ## 🤔  similar との違いは？
 
 - **parallel**：物理的・抽象的に「平行」「同時進行」「類似点がある」ことを表す
-- **[similar](/word/similar/)**：単に「似ている」「類似している」ことを表す
+- **[similar](/similar)**：単に「似ている」「類似している」ことを表す
 
 parallelは「平行」や「同時進行」といった構造的な一致や並びを強調し、similarは見た目や性質が「似ている」場合に使います。
 
@@ -105,14 +109,14 @@ parallelは「平行」や「同時進行」といった構造的な一致や並
 
 ## 🧩 あわせて覚えたい
 
-- [perpendicular](/word/perpendicular/)：垂直の
-- [equivalent](/word/equivalent/)：同等の、同価値の
+- [perpendicular](/perpendicular)：垂直の
+- [equivalent](/equivalent)：同等の、同価値の
 
 ---
 
 ## 📖 できればこれも
 
-- [horizontal](/word/horizontal/)：水平の
-- [vertical](/word/vertical/)：垂直の
+- [horizontal](/horizontal)：水平の
+- [vertical](/vertical)：垂直の
 
-<!-- cvid: aid20_bid20 -->
+<!-- cvid: aid00_bid07 -->

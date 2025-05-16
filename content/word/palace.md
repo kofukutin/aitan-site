@@ -80,15 +80,19 @@ The conference will be held at the Grand Palace Hotel.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The conference will be held at the Grand Palace Hotel.
 ## 🤔  castle との違いは？
 
 - **palace**：王族や高位の人が住む豪華な宮殿。防御目的ではなく、居住や儀式用。
-- **[castle](/word/castle/)**：防御のために建てられた城。堅牢で要塞的な建物。
+- **[castle](/castle)**：防御のために建てられた城。堅牢で要塞的な建物。
 
 palaceは「豪華さ・居住性」、castleは「防御・要塞性」に重点があります。
 
@@ -104,14 +108,14 @@ palaceは「豪華さ・居住性」、castleは「防御・要塞性」に重�
 
 ## 🧩 あわせて覚えたい
 
-- [mansion](/word/mansion/)：大邸宅
-- [temple](/word/temple/)：寺院
+- [mansion](/mansion)：大邸宅
+- [temple](/temple)：寺院
 
 ---
 
 ## 📖 できればこれも
 
-- [monument](/word/monument/)：記念碑
-- [statue](/word/statue/)：像
+- [monument](/monument)：記念碑
+- [statue](/statue)：像
 
-<!-- cvid: aid13_bid12 -->
+<!-- cvid: aid20_bid19 -->

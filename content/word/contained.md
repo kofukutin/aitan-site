@@ -81,15 +81,19 @@ TOEICでは、文書内の情報や内容が「含まれている」ことを説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文書内の情報や内容が「含まれている」ことを説
 ## 🤔  included との違いは？
 
 - **contained**：何かの中に物理的・抽象的に「収められている」「抑えられている」状態を強調。
-- **[included](/word/included/)**：全体の一部として「含まれている」ことを強調。
+- **[included](/included)**：全体の一部として「含まれている」ことを強調。
 
 「contained」は「枠や範囲の中に収まっている」ニュアンスがあり、「included」は「リストやグループの一部として加えられている」イメージです。
 
@@ -105,14 +109,14 @@ TOEICでは、文書内の情報や内容が「含まれている」ことを説
 
 ## 🧩 あわせて覚えたい
 
-- [enclosed](/word/enclosed/)：同封された、囲まれた
-- [restricted](/word/restricted/)：制限された
+- [enclosed](/enclosed)：同封された、囲まれた
+- [restricted](/restricted)：制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/word/attached/)：添付された
-- [limited](/word/limited/)：限定された
+- [attached](/attached)：添付された
+- [limited](/limited)：限定された
 
-<!-- cvid: aid42_bid13 -->
+<!-- cvid: aid44_bid46 -->

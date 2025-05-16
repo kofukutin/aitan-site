@@ -81,15 +81,19 @@ TOEICでは「good luck」「bad luck」などの形で、日常的な表現や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid19" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid19" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「good luck」「bad luck」などの形で、日常的な表現や�
 ## 🤔  fortune との違いは？
 
 - **luck**：日常的な「運」や「偶然」を指し、良い場合も悪い場合も使う。
-- **[fortune](/word/fortune/)**：よりフォーマルで「運命」や「財産」「大きな幸運」を指すことが多い。
+- **[fortune](/fortune)**：よりフォーマルで「運命」や「財産」「大きな幸運」を指すことが多い。
 
 「luck」はカジュアルで日常的な運、「fortune」は大きな幸運や運命的な出来事に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「good luck」「bad luck」などの形で、日常的な表現や�
 
 ## 🧩 あわせて覚えたい
 
-- [chance](/word/chance/)：偶然、機会
-- [risk](/word/risk/)：危険、リスク
+- [chance](/chance)：偶然、機会
+- [risk](/risk)：危険、リスク
 
 ---
 
 ## 📖 できればこれも
 
-- [chance](/word/chance/)：偶然、機会
-- [risk](/word/risk/)：危険、リスク
+- [chance](/chance)：偶然、機会
+- [risk](/risk)：危険、リスク
 
-<!-- cvid: aid27_bid48 -->
+<!-- cvid: aid37_bid19 -->

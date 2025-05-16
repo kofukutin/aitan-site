@@ -81,15 +81,19 @@ TOEICでは、契約や意見、要望などが「明示された」「表現さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や意見、要望などが「明示された」「表現さ
 ## 🤔  stated との違いは？
 
 - **expressed**：はっきりと表現された、明示された（特に感情や意見、契約内容などが明確に示されている場合に使う）
-- **[stated](/word/stated/)**：述べられた、記載された（単に言葉や文章で述べられたことを指す）
+- **[stated](/stated)**：述べられた、記載された（単に言葉や文章で述べられたことを指す）
 
 expressedは「感情や意図が明確に表現された」ニュアンスが強く、statedは「事実や内容が述べられた」ことに重点があります。
 
@@ -105,14 +109,14 @@ expressedは「感情や意図が明確に表現された」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [implied](/word/implied/)：暗示された、ほのめかされた
-- [explicit](/word/explicit/)：明確な、はっきりした
+- [implied](/implied)：暗示された、ほのめかされた
+- [explicit](/explicit)：明確な、はっきりした
 
 ---
 
 ## 📖 できればこれも
 
-- [express](/word/express/)：表現する、述べる
-- [explicit](/word/explicit/)：明確な、はっきりした
+- [express](/express)：表現する、述べる
+- [explicit](/explicit)：明確な、はっきりした
 
-<!-- cvid: aid11_bid28 -->
+<!-- cvid: aid24_bid44 -->

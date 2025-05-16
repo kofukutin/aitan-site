@@ -81,15 +81,19 @@ TOEICでは、電話や受付などで男性に丁寧に呼びかける場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電話や受付などで男性に丁寧に呼びかける場面で
 ## 🤔  mister との違いは？
 
 - **sir**：男性への丁寧な呼びかけや騎士の称号として使う
-- **[mister](/word/mister/)**：男性の姓やフルネームの前につける敬称
+- **[mister](/mister)**：男性の姓やフルネームの前につける敬称
 
 「sir」は直接呼びかけるときや敬意を表すときに使い、「mister」は名前とセットで使う点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは、電話や受付などで男性に丁寧に呼びかける場面で
 
 ## 🧩 あわせて覚えたい
 
-- [madam](/word/madam/)：女性への丁寧な呼びかけ
-- [gentleman](/word/gentleman/)：紳士、礼儀正しい男性
+- [madam](/madam)：女性への丁寧な呼びかけ
+- [gentleman](/gentleman)：紳士、礼儀正しい男性
 
 ---
 
 ## 📖 できればこれも
 
-- [miss](/word/miss/)：未婚女性への呼びかけ
-- [customer](/word/customer/)：顧客、お客様
+- [miss](/miss)：未婚女性への呼びかけ
+- [customer](/customer)：顧客、お客様
 
-<!-- cvid: aid17_bid10 -->
+<!-- cvid: aid36_bid26 -->

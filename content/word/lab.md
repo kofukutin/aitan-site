@@ -81,15 +81,19 @@ TOEICでは主にPart 7の科学や教育に関する長文で登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の科学や教育に関する長文で登場します。
 ## 🤔  laboratory との違いは？
 
 - **lab**：カジュアルな「実験室」「研究室」
-- **[laboratory](/word/laboratory/)**：フォーマルな「実験室」「研究所」
+- **[laboratory](/laboratory)**：フォーマルな「実験室」「研究所」
 
 labは日常会話やカジュアルな文脈で使われ、laboratoryは正式な書類やフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ labは日常会話やカジュアルな文脈で使われ、laboratoryは正式�
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment/)：実験
-- [research](/word/research/)：研究
+- [experiment](/experiment)：実験
+- [research](/research)：研究
 
 ---
 
 ## 📖 できればこれも
 
-- [test](/word/test/)：テスト、試験
-- [project](/word/project/)：プロジェクト、計画
+- [test](/test)：テスト、試験
+- [project](/project)：プロジェクト、計画
 
-<!-- cvid: aid42_bid13 -->
+<!-- cvid: aid09_bid15 -->

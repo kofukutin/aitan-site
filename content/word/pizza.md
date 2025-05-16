@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pizza】の意味・使い方・例文 ― pieとの違い【TOEIC英単語】"
 description: "pizzaの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpieとの違いもわかりやすく学べます。"
 word: "pizza"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、カジュアルな会話文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、カジュアルな会話文で登場
 ## 🤔  pie との違いは？
 
 - **pizza**：イタリア発祥の丸い焼き料理。チーズや具材をのせて焼く。
-- **[pie](/word/pie/)**：甘い果物や肉などを詰めて焼いたパイ生地の料理。
+- **[pie](/pie)**：甘い果物や肉などを詰めて焼いたパイ生地の料理。
 
 pizzaは主にイタリア料理で、平らな生地に具をのせて焼きますが、pieは中に具を包み込む焼き菓子や料理です。
 
@@ -105,14 +109,14 @@ pizzaは主にイタリア料理で、平らな生地に具をのせて焼きま
 
 ## 🧩 あわせて覚えたい
 
-- [pasta](/word/pasta/)：パスタ、イタリアの麺料理
-- [sandwich](/word/sandwich/)：サンドイッチ、パンに具をはさんだ料理
+- [pasta](/pasta)：パスタ、イタリアの麺料理
+- [sandwich](/sandwich)：サンドイッチ、パンに具をはさんだ料理
 
 ---
 
 ## 📖 できればこれも
 
-- [burger](/word/burger/)：ハンバーガー
-- [salad](/word/salad/)：サラダ
+- [burger](/burger)：ハンバーガー
+- [salad](/salad)：サラダ
 
-<!-- cvid: aid40_bid27 -->
+<!-- cvid: aid12_bid32 -->

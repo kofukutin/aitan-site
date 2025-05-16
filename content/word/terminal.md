@@ -82,15 +82,19 @@ TOEICでは空港やバス、IT関連の説明文でよく登場します。交�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは空港やバス、IT関連の説明文でよく登場します。交�
 ## 🤔  station との違いは？
 
 - **terminal**：交通機関の終点や発着所、ITの端末など「終わり」や「接続点」のニュアンスが強い
-- **[station](/word/station/)**：駅や放送局など「拠点」や「中継点」としての意味が中心
+- **[station](/station)**：駅や放送局など「拠点」や「中継点」としての意味が中心
 
 terminalは「終点」や「発着所」としての役割が強調され、stationは「途中の駅」や「拠点」として使われることが多いです。
 
@@ -106,14 +110,14 @@ terminalは「終点」や「発着所」としての役割が強調され、sta
 
 ## 🧩 あわせて覚えたい
 
-- [gate](/word/gate/)：搭乗口、出入り口
-- [platform](/word/platform/)：（駅の）ホーム、台
+- [gate](/gate)：搭乗口、出入り口
+- [platform](/platform)：（駅の）ホーム、台
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：施設、設備
-- [device](/word/device/)：装置、機器
+- [facility](/facility)：施設、設備
+- [device](/device)：装置、機器
 
-<!-- cvid: aid28_bid22 -->
+<!-- cvid: aid46_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは、環境問題や安全管理に関する長文や説明文で「haz
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境問題や安全管理に関する長文や説明文で「haz
 ## 🤔  dangerous との違いは？
 
 - **hazardous**：特に化学物質や作業環境など、長期的・専門的な危険や有害性を強調するフォーマルな表現
-- **[dangerous](/word/dangerous/)**：一般的に「危険な」を表し、日常的な危険にも幅広く使える
+- **[dangerous](/dangerous)**：一般的に「危険な」を表し、日常的な危険にも幅広く使える
 
 「hazardous」は専門的・法的な文脈で使われやすく、危険性の内容が具体的な場合に用いられます。「dangerous」はより広く一般的な危険に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、環境問題や安全管理に関する長文や説明文で「haz
 
 ## 🧩 あわせて覚えたい
 
-- [safe](/word/safe/)：安全な
-- [toxic](/word/toxic/)：有毒な
+- [safe](/safe)：安全な
+- [toxic](/toxic)：有毒な
 
 ---
 
 ## 📖 できればこれも
 
-- [harmful](/word/harmful/)：有害な
-- [risk](/word/risk/)：リスク、危険
+- [harmful](/harmful)：有害な
+- [risk](/risk)：リスク、危険
 
-<!-- cvid: aid17_bid26 -->
+<!-- cvid: aid08_bid20 -->

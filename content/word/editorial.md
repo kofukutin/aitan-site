@@ -81,15 +81,19 @@ TOEICでは新聞や雑誌の記事文脈で「editorial」が登場しやすく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは新聞や雑誌の記事文脈で「editorial」が登場しやすく
 ## 🤔  column との違いは？
 
 - **editorial**：編集者や新聞社の公式な意見・主張を述べる社説
-- **[column](/word/column/)**：特定の執筆者が定期的に書くコラムや連載記事
+- **[column](/column)**：特定の執筆者が定期的に書くコラムや連載記事
 
 editorialは新聞社の立場を示す公式な論説、columnは個人の意見や話題を扱う連載記事という違いがあります。
 
@@ -105,14 +109,14 @@ editorialは新聞社の立場を示す公式な論説、columnは個人の意�
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article/)：記事、論説
-- [opinion](/word/opinion/)：意見、見解
+- [article](/article)：記事、論説
+- [opinion](/opinion)：意見、見解
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/word/journal/)：雑誌、専門誌
-- [publication](/word/publication/)：出版物、刊行物
+- [journal](/journal)：雑誌、専門誌
+- [publication](/publication)：出版物、刊行物
 
-<!-- cvid: aid22_bid34 -->
+<!-- cvid: aid04_bid42 -->

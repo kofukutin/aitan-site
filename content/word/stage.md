@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクト進行の文脈で「段階」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクト進行の文脈で「段階」という意
 ## 🤔  phase との違いは？
 
 - **stage**：進行や発展の明確な「段階」や「舞台」
-- **[phase](/word/phase/)**：変化や発展の「局面」「時期」
+- **[phase](/phase)**：変化や発展の「局面」「時期」
 
 stageはプロジェクトや計画の明確な区切りを指し、phaseは変化の流れや一時的な状態を強調します。
 
@@ -105,14 +109,14 @@ stageはプロジェクトや計画の明確な区切りを指し、phaseは変�
 
 ## 🧩 あわせて覚えたい
 
-- [step](/word/step/)：一歩、手順
-- [level](/word/level/)：レベル、段階
+- [step](/step)：一歩、手順
+- [level](/level)：レベル、段階
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、プロセス
-- [progress](/word/progress/)：進歩、進行
+- [process](/process)：過程、プロセス
+- [progress](/progress)：進歩、進行
 
-<!-- cvid: aid24_bid32 -->
+<!-- cvid: aid08_bid08 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、ウィンタースポーツや観光
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、ウィンタースポーツや観光
 ## 🤔  ski との違いは？
 
 - **snowboard**：1枚の板に両足を固定して滑るウィンタースポーツやその板。
-- **[ski](/word/ski/)**：2本の細長い板を両足に履いて滑るウィンタースポーツやその板。
+- **[ski](/ski)**：2本の細長い板を両足に履いて滑るウィンタースポーツやその板。
 
 snowboardは1枚板、skiは2枚板を使う点が大きな違いです。動きやスタイルも異なります。
 
@@ -105,14 +109,14 @@ snowboardは1枚板、skiは2枚板を使う点が大きな違いです。動き
 
 ## 🧩 あわせて覚えたい
 
-- [mountain](/word/mountain/)：山
-- [resort](/word/resort/)：リゾート、行楽地
+- [mountain](/mountain)：山
+- [resort](/resort)：リゾート、行楽地
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/word/helmet/)：ヘルメット
-- [goggles](/word/goggles/)：ゴーグル
+- [helmet](/helmet)：ヘルメット
+- [goggles](/goggles)：ゴーグル
 
-<!-- cvid: aid37_bid25 -->
+<!-- cvid: aid48_bid20 -->

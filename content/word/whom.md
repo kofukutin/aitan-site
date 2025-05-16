@@ -77,15 +77,19 @@ TOEICでは文法問題でwhoとwhomの使い分けを問う形で出題され�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは文法問題でwhoとwhomの使い分けを問う形で出題され�
 ## 🤔  who との違いは？
 
 - **whom**：目的格（「誰を」「誰に」）として使う。フォーマルな場面で多い。
-- **[who](/word/who/)**：主格（「誰が」）として使う。日常会話でよく使われる。
+- **[who](/who)**：主格（「誰が」）として使う。日常会話でよく使われる。
 
 whomは文中で動作の「受け手」になる場合に使い、whoは「動作主」として使います。口語ではwhoで代用されることも多いですが、フォーマルな文や試験では区別が重要です。
 
@@ -101,14 +105,14 @@ whomは文中で動作の「受け手」になる場合に使い、whoは「動�
 
 ## 🧩 あわせて覚えたい
 
-- [whose](/word/whose/)：誰の
-- [which](/word/which/)：どちら、どの
+- [whose](/whose)：誰の
+- [which](/which)：どちら、どの
 
 ---
 
 ## 📖 できればこれも
 
-- [whoever](/word/whoever/)：誰でも
-- [whomever](/word/whomever/)：誰をでも
+- [whoever](/whoever)：誰でも
+- [whomever](/whomever)：誰をでも
 
-<!-- cvid: aid45_bid03 -->
+<!-- cvid: aid03_bid39 -->

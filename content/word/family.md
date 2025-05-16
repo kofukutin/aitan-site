@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【family】の意味・使い方・例文 ― relativeとの違い【TOEIC英単語】"
 description: "familyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrelativeとの違いもわかりやすく学べます。"
 word: "family"
@@ -81,15 +81,19 @@ TOEICではPart 1やPart 2で、家族写真や家族に関する会話でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1やPart 2で、家族写真や家族に関する会話でよく
 ## 🤔  relative との違いは？
 
 - **family**：親や子どもなど、主に同居や密接な関係の家族全体を指す
-- **[relative](/word/relative/)**：親戚・親類など、血縁や婚姻でつながる広い範囲の人を指す
+- **[relative](/relative)**：親戚・親類など、血縁や婚姻でつながる広い範囲の人を指す
 
 familyは「家族」という身近な集団を指し、relativeは「親戚」など家族以外も含む広い意味で使われます。
 
@@ -105,14 +109,14 @@ familyは「家族」という身近な集団を指し、relativeは「親戚」
 
 ## 🧩 あわせて覚えたい
 
-- [household](/word/household/)：世帯、同じ家に住む人々
-- [parent](/word/parent/)：親
+- [household](/household)：世帯、同じ家に住む人々
+- [parent](/parent)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [friend](/word/friend/)：友人
-- [neighbor](/word/neighbor/)：隣人
+- [friend](/friend)：友人
+- [neighbor](/neighbor)：隣人
 
-<!-- cvid: aid49_bid35 -->
+<!-- cvid: aid45_bid47 -->

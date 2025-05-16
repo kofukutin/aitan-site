@@ -81,15 +81,19 @@ TOEICでは医療や製品説明の文脈で「resistant to ～」の形で出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や製品説明の文脈で「resistant to ～」の形で出�
 ## 🤔  immune との違いは？
 
 - **resistant**：外部からの影響や攻撃に「耐性がある」「影響を受けにくい」
-- **[immune](/word/immune/)**：特定の病気や影響に「完全に免疫がある」「全く影響を受けない」
+- **[immune](/immune)**：特定の病気や影響に「完全に免疫がある」「全く影響を受けない」
 
 resistantは「ある程度防ぐ」ニュアンス、immuneは「完全に防ぐ」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ resistantは「ある程度防ぐ」ニュアンス、immuneは「完全に防�
 
 ## 🧩 あわせて覚えたい
 
-- [susceptible](/word/susceptible/)：影響を受けやすい、感染しやすい
-- [durable](/word/durable/)：耐久性がある、長持ちする
+- [susceptible](/susceptible)：影響を受けやすい、感染しやすい
+- [durable](/durable)：耐久性がある、長持ちする
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な
-- [prevent](/word/prevent/)：防ぐ、予防する
+- [effective](/effective)：効果的な
+- [prevent](/prevent)：防ぐ、予防する
 
-<!-- cvid: aid28_bid22 -->
+<!-- cvid: aid20_bid19 -->

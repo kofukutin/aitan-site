@@ -81,15 +81,19 @@ TOEICでは主に科学や環境に関する長文で登場し、専門用語と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学や環境に関する長文で登場し、専門用語と
 ## 🤔  sour との違いは？
 
 - **acid**：化学的な「酸」や「酸性物質」を指す名詞。科学や技術の文脈で使われる。
-- **[sour](/word/sour/)**：主に味覚の「酸っぱい」を表す形容詞。食べ物や飲み物の味を説明する際に使う。
+- **[sour](/sour)**：主に味覚の「酸っぱい」を表す形容詞。食べ物や飲み物の味を説明する際に使う。
 
 acidは物質や化学反応について述べるときに使い、sourは味や感覚を表現する際に使います。
 
@@ -105,14 +109,14 @@ acidは物質や化学反応について述べるときに使い、sourは味や
 
 ## 🧩 あわせて覚えたい
 
-- [alkali](/word/alkali/)：アルカリ、塩基性物質
-- [chemical](/word/chemical/)：化学物質
+- [alkali](/alkali)：アルカリ、塩基性物質
+- [chemical](/chemical)：化学物質
 
 ---
 
 ## 📖 できればこれも
 
-- [base](/word/base/)：塩基（化学で酸と反応する物質）
-- [liquid](/word/liquid/)：液体
+- [base](/base)：塩基（化学で酸と反応する物質）
+- [liquid](/liquid)：液体
 
-<!-- cvid: aid02_bid34 -->
+<!-- cvid: aid11_bid47 -->

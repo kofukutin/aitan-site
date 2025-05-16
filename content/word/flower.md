@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【flower】の意味・使い方・例文 ― blossomとの違い【TOEIC英単語】"
 description: "flowerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでblossomとの違いもわかりやすく学べます。"
 word: "flower"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、花や庭園のシーンでよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid40_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、花や庭園のシーンでよく登
 ## 🤔  blossom との違いは？
 
 - **flower**：植物の「花」全般や切り花、観賞用の花を指す一般的な単語。
-- **[blossom](/word/blossom/)**：特に果樹や木に咲く「花」や「開花」の状態を指す。
+- **[blossom](/blossom)**：特に果樹や木に咲く「花」や「開花」の状態を指す。
 
 flowerは日常的な「花」全般、blossomは開花や果樹の花など特定の場面で使い分けます。
 
@@ -105,14 +109,14 @@ flowerは日常的な「花」全般、blossomは開花や果樹の花など特�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/word/plant/)：植物
-- [petal](/word/petal/)：花びら
+- [plant](/plant)：植物
+- [petal](/petal)：花びら
 
 ---
 
 ## 📖 できればこれも
 
-- [leaf](/word/leaf/)：葉
-- [tree](/word/tree/)：木
+- [leaf](/leaf)：葉
+- [tree](/tree)：木
 
-<!-- cvid: aid31_bid33 -->
+<!-- cvid: aid40_bid21 -->

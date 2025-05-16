@@ -80,15 +80,19 @@ TOEICではレストランや旅行、接待の場面で「wine」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではレストランや旅行、接待の場面で「wine」が登場す�
 ## 🤔  liquor との違いは？
 
 - **wine**：ぶどうなどの果実を発酵させて作るアルコール飲料
-- **[liquor](/word/liquor/)**：蒸留して作る強いアルコール飲料（ウイスキーやウォッカなど）
+- **[liquor](/liquor)**：蒸留して作る強いアルコール飲料（ウイスキーやウォッカなど）
 
 wineは主にワイン（果実酒）を指し、liquorはウイスキーやジンなどの蒸留酒を指します。
 
@@ -104,14 +108,14 @@ wineは主にワイン（果実酒）を指し、liquorはウイスキーやジ�
 
 ## 🧩 あわせて覚えたい
 
-- [beer](/word/beer/)：ビール（麦を主原料とした発酵酒）
-- [grape](/word/grape/)：ぶどう（ワインの主な原料）
+- [beer](/beer)：ビール（麦を主原料とした発酵酒）
+- [grape](/grape)：ぶどう（ワインの主な原料）
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/word/juice/)：ジュース（果物や野菜の飲み物）
-- [glass](/word/glass/)：グラス（飲み物を入れるコップ）
+- [juice](/juice)：ジュース（果物や野菜の飲み物）
+- [glass](/glass)：グラス（飲み物を入れるコップ）
 
-<!-- cvid: aid44_bid31 -->
+<!-- cvid: aid03_bid27 -->

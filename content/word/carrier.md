@@ -81,15 +81,19 @@ TOEICでは、荷物の配送や通信サービスに関する説明文やメー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、荷物の配送や通信サービスに関する説明文やメー
 ## 🤔  courier との違いは？
 
 - **carrier**：一般的な運送業者や通信会社など、広い意味で「運ぶ人・会社」
-- **[courier](/word/courier/)**：書類や小包などを迅速に届ける「宅配便業者」「特急便」
+- **[courier](/courier)**：書類や小包などを迅速に届ける「宅配便業者」「特急便」
 
 carrierは大規模な運送会社や通信会社も含みますが、courierは主に小型の荷物や書類を素早く届ける業者を指します。
 
@@ -105,14 +109,14 @@ carrierは大規模な運送会社や通信会社も含みますが、courierは
 
 ## 🧩 あわせて覚えたい
 
-- [transporter](/word/transporter/)：輸送業者、運搬車
-- [provider](/word/provider/)：提供者、供給会社
+- [transporter](/transporter)：輸送業者、運搬車
+- [provider](/provider)：提供者、供給会社
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment/)：発送、出荷
-- [deliver](/word/deliver/)：配達する、届ける
+- [shipment](/shipment)：発送、出荷
+- [deliver](/deliver)：配達する、届ける
 
-<!-- cvid: aid12_bid46 -->
+<!-- cvid: aid47_bid00 -->

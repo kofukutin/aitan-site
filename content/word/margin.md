@@ -81,15 +81,19 @@ TOEICではビジネス文書や報告書、会議資料などで「利益率」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や報告書、会議資料などで「利益率」
 ## 🤔  profit との違いは？
 
 - **margin**：売上に対する利益の「割合」や「幅」を指すことが多い
-- **[profit](/word/profit/)**：実際に得られた「利益」そのもの
+- **[profit](/profit)**：実際に得られた「利益」そのもの
 
 marginは「利益率」や「余白」といった幅や割合を強調し、profitは得た金額そのものを指します。
 
@@ -105,14 +109,14 @@ marginは「利益率」や「余白」といった幅や割合を強調し、pr
 
 ## 🧩 あわせて覚えたい
 
-- [loss](/word/loss/)：損失
-- [edge](/word/edge/)：端、縁
+- [loss](/loss)：損失
+- [edge](/edge)：端、縁
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/word/revenue/)：収益
-- [cost](/word/cost/)：費用
+- [revenue](/revenue)：収益
+- [cost](/cost)：費用
 
-<!-- cvid: aid39_bid00 -->
+<!-- cvid: aid07_bid41 -->

@@ -81,7 +81,7 @@ TOEICでは会議や交渉、スポーツの話題で「相手」や「対立者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+知識を定着させよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは会議や交渉、スポーツの話題で「相手」や「対立者
 
 <div class="info-center">
 ＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や交渉、スポーツの話題で「相手」や「対立者
 ## 🤔  rival との違いは？
 
 - **opponent**：試合や議論などで直接対立する「相手」「敵」
-- **[rival](/word/rival/)**：長期的に競い合う「ライバル」「競争相手」
+- **[rival](/rival)**：長期的に競い合う「ライバル」「競争相手」
 
 「opponent」は一時的な対戦相手や敵を指し、「rival」は継続的に競い合う関係を表します。
 
@@ -105,14 +109,14 @@ TOEICでは会議や交渉、スポーツの話題で「相手」や「対立者
 
 ## 🧩 あわせて覚えたい
 
-- [supporter](/word/supporter/)：支持者、応援者
-- [competitor](/word/competitor/)：競争相手、競技者
+- [supporter](/supporter)：支持者、応援者
+- [competitor](/competitor)：競争相手、競技者
 
 ---
 
 ## 📖 できればこれも
 
-- [debate](/word/debate/)：討論、議論
-- [contest](/word/contest/)：競争、コンテスト
+- [debate](/debate)：討論、議論
+- [contest](/contest)：競争、コンテスト
 
-<!-- cvid: aid19_bid14 -->
+<!-- cvid: aid10_bid14 -->

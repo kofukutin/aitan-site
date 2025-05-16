@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fifty】の意味・使い方・例文 ― halfとの違い【TOEIC英単語】"
 description: "fiftyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhalfとの違いもわかりやすく学べます。"
 word: "fifty"
@@ -81,15 +81,19 @@ TOEICでは主に数字や数量を問う問題で出題されます。リスニ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に数字や数量を問う問題で出題されます。リスニ
 ## 🤔  half との違いは？
 
 - **fifty**：具体的に「50」という数を表す。
-- **[half](/word/half/)**：全体の「半分」を表す。
+- **[half](/half)**：全体の「半分」を表す。
 
 fiftyは明確な数値、halfは割合や分量を表すときに使います。
 
@@ -105,14 +109,14 @@ fiftyは明確な数値、halfは割合や分量を表すときに使います�
 
 ## 🧩 あわせて覚えたい
 
-- [hundred](/word/hundred/)：100
-- [quarter](/word/quarter/)：4分の1、15分
+- [hundred](/hundred)：100
+- [quarter](/quarter)：4分の1、15分
 
 ---
 
 ## 📖 できればこれも
 
-- [forty](/word/forty/)：40
-- [sixty](/word/sixty/)：60
+- [forty](/forty)：40
+- [sixty](/sixty)：60
 
-<!-- cvid: aid28_bid11 -->
+<!-- cvid: aid39_bid45 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【rainbow】の意味・使い方・例文 ― spectrumとの違い【TOEIC英単語】"
 description: "rainbowの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでspectrumとの違いもわかりやすく学べます。"
 word: "rainbow"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、自然や天候の描写として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid14_bid42" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid42" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、自然や天候の描写として登
 ## 🤔  spectrum との違いは？
 
 - **rainbow**：雨上がりの空に現れる七色の弧（虹）や、その色の並びを指す。
-- **[spectrum](/word/spectrum/)**：光や音などの連続した範囲、特に色の連なりを科学的に表す語。
+- **[spectrum](/spectrum)**：光や音などの連続した範囲、特に色の連なりを科学的に表す語。
 
 rainbowは主に自然現象や比喩表現で使われ、spectrumは科学的・技術的な文脈で使われます。
 
@@ -105,14 +109,14 @@ rainbowは主に自然現象や比喩表現で使われ、spectrumは科学的�
 
 ## 🧩 あわせて覚えたい
 
-- [arc](/word/arc/)：弧、アーチ
-- [prism](/word/prism/)：プリズム、光を分散させるガラス体
+- [arc](/arc)：弧、アーチ
+- [prism](/prism)：プリズム、光を分散させるガラス体
 
 ---
 
 ## 📖 できればこれも
 
-- [cloud](/word/cloud/)：雲
-- [storm](/word/storm/)：嵐
+- [cloud](/cloud)：雲
+- [storm](/storm)：嵐
 
-<!-- cvid: aid22_bid36 -->
+<!-- cvid: aid14_bid42 -->

@@ -78,15 +78,19 @@ TOEICではPart 7のメールや手紙、会話文などで「将来の希望」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICではPart 7のメールや手紙、会話文などで「将来の希望」
 ## 🤔  sometime との違いは？
 
 - **someday**：将来の「いつか」（特定しない日）を表す
-- **[sometime](/word/sometime/)**：過去・未来問わず「いつかの時点」「ある時」を表す
+- **[sometime](/sometime)**：過去・未来問わず「いつかの時点」「ある時」を表す
 
 somedayは「将来のいつか」に限定されますが、sometimeは過去・未来どちらにも使え、時点をぼんやり指す点が異なります。
 
@@ -102,14 +106,14 @@ somedayは「将来のいつか」に限定されますが、sometimeは過去�
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually/)：最終的に、やがて
-- [soon](/word/soon/)：まもなく、すぐに
+- [eventually](/eventually)：最終的に、やがて
+- [soon](/soon)：まもなく、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later/)：あとで、のちほど
-- [soon](/word/soon/)：まもなく、すぐに
+- [later](/later)：あとで、のちほど
+- [soon](/soon)：まもなく、すぐに
 
-<!-- cvid: aid06_bid36 -->
+<!-- cvid: aid05_bid40 -->

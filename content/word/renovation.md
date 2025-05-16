@@ -88,8 +88,12 @@ TOEICでは、ホテルやオフィス、店舗の案内文やお知らせ、広
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやオフィス、店舗の案内文やお知らせ、広
 ## 🤔  remodeling との違いは？
 
 - **renovation**：古いものを新しくしたり、元の状態に戻すための改装・修復
-- **[remodeling](/word/remodeling/)**：間取りや構造自体を大きく変えるリフォーム
+- **[remodeling](/remodeling)**：間取りや構造自体を大きく変えるリフォーム
 
 renovationは「元の状態に近づける」ニュアンスが強く、remodelingは「形や機能を大きく変える」場合に使われます。
 
@@ -105,14 +109,14 @@ renovationは「元の状態に近づける」ニュアンスが強く、remodel
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/word/repair/)：修理、修繕
-- [restoration](/word/restoration/)：復元、修復
+- [repair](/repair)：修理、修繕
+- [restoration](/restoration)：復元、修復
 
 ---
 
 ## 📖 できればこれも
 
-- [construction](/word/construction/)：建設、工事
-- [maintenance](/word/maintenance/)：保守、維持
+- [construction](/construction)：建設、工事
+- [maintenance](/maintenance)：保守、維持
 
-<!-- cvid: aid28_bid23 -->
+<!-- cvid: aid28_bid44 -->

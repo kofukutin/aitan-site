@@ -81,15 +81,19 @@ TOEICでは主に医療や裁縫の写真描写で登場します。日常的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に医療や裁縫の写真描写で登場します。日常的な
 ## 🤔  pin との違いは？
 
 - **needle**：縫い物や注射などに使う細長い針
-- **[pin](/word/pin/)**：留めるための頭がついた短い針
+- **[pin](/pin)**：留めるための頭がついた短い針
 
 needleは糸を通したり注射に使う細長い針、pinは紙や布を留めるための短い針で、用途や形状が異なります。
 
@@ -105,14 +109,14 @@ needleは糸を通したり注射に使う細長い針、pinは紙や布を留�
 
 ## 🧩 あわせて覚えたい
 
-- [syringe](/word/syringe/)：注射器
-- [thread](/word/thread/)：糸
+- [syringe](/syringe)：注射器
+- [thread](/thread)：糸
 
 ---
 
 ## 📖 できればこれも
 
-- [scissors](/word/scissors/)：はさみ
-- [bandage](/word/bandage/)：包帯
+- [scissors](/scissors)：はさみ
+- [bandage](/bandage)：包帯
 
-<!-- cvid: aid20_bid00 -->
+<!-- cvid: aid24_bid42 -->

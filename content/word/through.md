@@ -77,15 +77,19 @@ TOEICでは、写真描写や説明文で「～を通って」「～を通じて
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、写真描写や説明文で「～を通って」「～を通じて
 ## 🤔  across との違いは？
 
 - **through**：何かの中を通り抜ける、または始めから終わりまでを表す
-- **[across](/word/across/)**：何かの表面や空間を横切る
+- **[across](/across)**：何かの表面や空間を横切る
 
 「through」は「トンネルを通る」「森の中を進む」など"内部"を通過するイメージ、「across」は「道を横切る」など"表面"や"端から端へ"のイメージです。
 
@@ -101,14 +105,14 @@ TOEICでは、写真描写や説明文で「～を通って」「～を通じて
 
 ## 🧩 あわせて覚えたい
 
-- [along](/word/along/)：～に沿って
-- [via](/word/via/)：～経由で
+- [along](/along)：～に沿って
+- [via](/via)：～経由で
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between/)：～の間に
-- [among](/word/among/)：～の中で（複数のものに囲まれて）
+- [between](/between)：～の間に
+- [among](/among)：～の中で（複数のものに囲まれて）
 
-<!-- cvid: aid10_bid49 -->
+<!-- cvid: aid48_bid43 -->

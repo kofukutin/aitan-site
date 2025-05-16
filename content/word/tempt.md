@@ -81,15 +81,19 @@ TOEICでは、選択肢の動詞として「誘惑する」「その気にさせ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、選択肢の動詞として「誘惑する」「その気にさせ
 ## 🤔  attract との違いは？
 
 - **tempt**：主に「悪いこと・望ましくないこと」に人を誘い込むニュアンス
-- **[attract](/word/attract/)**：単に「引きつける」「魅了する」など広い意味
+- **[attract](/attract)**：単に「引きつける」「魅了する」など広い意味
 
 temptは「誘惑」や「よくないことに誘う」イメージが強く、attractは中立的・肯定的な「魅力で引きつける」場面で使います。
 
@@ -105,14 +109,14 @@ temptは「誘惑」や「よくないことに誘う」イメージが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [persuade](/word/persuade/)：説得する
-- [resist](/word/resist/)：抵抗する
+- [persuade](/persuade)：説得する
+- [resist](/resist)：抵抗する
 
 ---
 
 ## 📖 できればこれも
 
-- [encourage](/word/encourage/)：励ます、促す
-- [convince](/word/convince/)：納得させる
+- [encourage](/encourage)：励ます、促す
+- [convince](/convince)：納得させる
 
-<!-- cvid: aid27_bid40 -->
+<!-- cvid: aid21_bid48 -->

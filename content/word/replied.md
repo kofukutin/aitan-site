@@ -81,15 +81,19 @@ TOEICでは会話やメールのやりとりで「返事をした」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やメールのやりとりで「返事をした」という意
 ## 🤔  responded との違いは？
 
 - **replied**：質問や発言など、具体的な内容に対して返事をするニュアンス。
-- **[responded](/word/responded/)**：より広く「反応した」「応じた」という意味で、返事以外の対応にも使える。
+- **[responded](/responded)**：より広く「反応した」「応じた」という意味で、返事以外の対応にも使える。
 
 repliedは「言葉で返事をした」場合に使い、respondedは状況や刺激に対する反応全般に使います。
 
@@ -105,14 +109,14 @@ repliedは「言葉で返事をした」場合に使い、respondedは状況や�
 
 ## 🧩 あわせて覚えたい
 
-- [answer](/word/answer/)：答える、返事をする
-- [retort](/word/retort/)：（鋭く）言い返す
+- [answer](/answer)：答える、返事をする
+- [retort](/retort)：（鋭く）言い返す
 
 ---
 
 ## 📖 できればこれも
 
-- [asked](/word/asked/)：尋ねた
-- [mentioned](/word/mentioned/)：言及した
+- [asked](/asked)：尋ねた
+- [mentioned](/mentioned)：言及した
 
-<!-- cvid: aid21_bid49 -->
+<!-- cvid: aid43_bid06 -->

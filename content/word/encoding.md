@@ -81,15 +81,19 @@ IT関連の長文や説明文で、ファイル形式やデータ処理の文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連の長文や説明文で、ファイル形式やデータ処理の文脈
 ## 🤔  encryption との違いは？
 
 - **encoding**：データを特定の形式や規則に従って変換すること（主に可読性や互換性のため）。
-- **[encryption](/word/encryption/)**：データを第三者に読まれないように暗号化すること（主にセキュリティ目的）。
+- **[encryption](/encryption)**：データを第三者に読まれないように暗号化すること（主にセキュリティ目的）。
 
 encodingは主にデータの形式変換、encryptionは情報の保護・秘匿が目的で、用途や重要性が異なります。
 
@@ -105,14 +109,14 @@ encodingは主にデータの形式変換、encryptionは情報の保護・秘�
 
 ## 🧩 あわせて覚えたい
 
-- [decoding](/word/decoding/)：復号、データを元の形式に戻すこと
-- [compression](/word/compression/)：圧縮、データの容量を小さくすること
+- [decoding](/decoding)：復号、データを元の形式に戻すこと
+- [compression](/compression)：圧縮、データの容量を小さくすること
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format/)：形式、書式
-- [transmission](/word/transmission/)：送信、伝送
+- [format](/format)：形式、書式
+- [transmission](/transmission)：送信、伝送
 
-<!-- cvid: aid10_bid11 -->
+<!-- cvid: aid18_bid26 -->

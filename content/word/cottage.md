@@ -81,15 +81,19 @@ The company owns a cottage for employee retreats.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company owns a cottage for employee retreats.
 ## 🤔  cabin との違いは？
 
 - **cottage**：田舎やリゾート地の小さな家、かわいらしい雰囲気
-- **[cabin](/word/cabin/)**：木造の小屋や山小屋、より素朴で簡素な建物
+- **[cabin](/cabin)**：木造の小屋や山小屋、より素朴で簡素な建物
 
 cottageは快適さや可愛らしさが強調されるのに対し、cabinはより質素で自然の中にある小屋というイメージです。
 
@@ -105,14 +109,14 @@ cottageは快適さや可愛らしさが強調されるのに対し、cabinは�
 
 ## 🧩 あわせて覚えたい
 
-- [villa](/word/villa/)：高級な別荘
-- [bungalow](/word/bungalow/)：平屋建ての家
+- [villa](/villa)：高級な別荘
+- [bungalow](/bungalow)：平屋建ての家
 
 ---
 
 ## 📖 できればこれも
 
-- [farm](/word/farm/)：農場
-- [garden](/word/garden/)：庭
+- [farm](/farm)：農場
+- [garden](/garden)：庭
 
-<!-- cvid: aid21_bid35 -->
+<!-- cvid: aid37_bid36 -->

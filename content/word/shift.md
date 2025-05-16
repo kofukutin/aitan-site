@@ -82,15 +82,19 @@ TOEICでは「勤務シフト」「変化」「交代」などの意味で会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「勤務シフト」「変化」「交代」などの意味で会話
 ## 🤔  change との違いは？
 
 - **shift**：ある状態や位置から別の状態・位置へ移る「変化」や「交代」を表す。
-- **[change](/word/change/)**：一般的な「変化」「変更」を幅広く指す。
+- **[change](/change)**：一般的な「変化」「変更」を幅広く指す。
 
 shiftは「段階的・部分的な変化」や「勤務の交代」など、具体的な移動や切り替えのニュアンスが強いです。changeはより広い意味で使われます。
 
@@ -106,14 +110,14 @@ shiftは「段階的・部分的な変化」や「勤務の交代」など、具
 
 ## 🧩 あわせて覚えたい
 
-- [transition](/word/transition/)：移行、推移
-- [replacement](/word/replacement/)：交代、代わりの人・物
+- [transition](/transition)：移行、推移
+- [replacement](/replacement)：交代、代わりの人・物
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [task](/word/task/)：仕事、作業
+- [schedule](/schedule)：予定、スケジュール
+- [task](/task)：仕事、作業
 
-<!-- cvid: aid29_bid38 -->
+<!-- cvid: aid28_bid12 -->

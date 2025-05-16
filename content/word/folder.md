@@ -81,15 +81,19 @@ TOEICではIT関連やオフィスの説明文、メール文中で「folder」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連やオフィスの説明文、メール文中で「folder」�
 ## 🤔  file との違いは？
 
 - **folder**：複数のファイルや書類をまとめて入れる「入れ物」や「フォルダー」
-- **[file](/word/file/)**：個々の「ファイル」や「書類」そのもの
+- **[file](/file)**：個々の「ファイル」や「書類」そのもの
 
 folderは「まとめるための入れ物」、fileは「中身そのもの」を指す点が大きな違いです。
 
@@ -105,14 +109,14 @@ folderは「まとめるための入れ物」、fileは「中身そのもの」�
 
 ## 🧩 あわせて覚えたい
 
-- [directory](/word/directory/)：（コンピュータの）ディレクトリ、フォルダーの別名
-- [document](/word/document/)：文書、書類
+- [directory](/directory)：（コンピュータの）ディレクトリ、フォルダーの別名
+- [document](/document)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach/)：添付する
-- [save](/word/save/)：保存する
+- [attach](/attach)：添付する
+- [save](/save)：保存する
 
-<!-- cvid: aid13_bid22 -->
+<!-- cvid: aid05_bid38 -->

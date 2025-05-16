@@ -81,15 +81,19 @@ TOEICでは建物や製品の説明文、広告、案内文などで「exterior�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは建物や製品の説明文、広告、案内文などで「exterior�
 ## 🤔  surface との違いは？
 
 - **exterior**：建物や物の「外部」「外観」など、全体の外側を指すフォーマルな表現。
-- **[surface](/word/surface/)**：物の「表面」や「外面」など、触れる部分や見える部分を指す一般的な単語。
+- **[surface](/surface)**：物の「表面」や「外面」など、触れる部分や見える部分を指す一般的な単語。
 
 exteriorは全体の外側や外観を強調し、surfaceは物体の表面や外皮など、より限定的な部分を指します。
 
@@ -105,14 +109,14 @@ exteriorは全体の外側や外観を強調し、surfaceは物体の表面や�
 
 ## 🧩 あわせて覚えたい
 
-- [interior](/word/interior/)：内部、内装
-- [facade](/word/facade/)：（建物の）正面、外観
+- [interior](/interior)：内部、内装
+- [facade](/facade)：（建物の）正面、外観
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure/)：構造、建造物
-- [appearance](/word/appearance/)：見た目、外観
+- [structure](/structure)：構造、建造物
+- [appearance](/appearance)：見た目、外観
 
-<!-- cvid: aid14_bid21 -->
+<!-- cvid: aid10_bid42 -->

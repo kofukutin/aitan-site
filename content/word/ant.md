@@ -81,15 +81,19 @@ TOEICでは、自然や動物に関する長文や説明文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、自然や動物に関する長文や説明文で登場すること
 ## 🤔  insect との違いは？
 
 - **ant**：アリという特定の昆虫を指す
-- **[insect](/word/insect/)**：昆虫全般を指す総称
+- **[insect](/insect)**：昆虫全般を指す総称
 
 antはinsectの一種ですが、antは「アリ」という特定の種類、insectは「昆虫全般」を意味します。
 
@@ -105,14 +109,14 @@ antはinsectの一種ですが、antは「アリ」という特定の種類、in
 
 ## 🧩 あわせて覚えたい
 
-- [bee](/word/bee/)：ハチ
-- [colony](/word/colony/)：群れ、集団
+- [bee](/bee)：ハチ
+- [colony](/colony)：群れ、集団
 
 ---
 
 ## 📖 できればこれも
 
-- [spider](/word/spider/)：クモ
-- [bug](/word/bug/)：虫（一般的な呼び方）
+- [spider](/spider)：クモ
+- [bug](/bug)：虫（一般的な呼び方）
 
-<!-- cvid: aid27_bid30 -->
+<!-- cvid: aid32_bid04 -->

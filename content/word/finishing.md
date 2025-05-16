@@ -81,15 +81,19 @@ TOEICでは、製品やプロジェクトの「仕上げ」や「最終段階」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やプロジェクトの「仕上げ」や「最終段階」
 ## 🤔  completion との違いは？
 
 - **finishing**：仕上げや最終段階、特に作業の「見た目」や「質」に焦点を当てる
-- **[completion](/word/completion/)**：完了、終了という「状態」や「達成」に焦点を当てる
+- **[completion](/completion)**：完了、終了という「状態」や「達成」に焦点を当てる
 
 finishingは「仕上げ作業」や「最終の手直し」に使われ、completionは「全体の完了」や「達成」を表します。
 
@@ -105,14 +109,14 @@ finishingは「仕上げ作業」や「最終の手直し」に使われ、compl
 
 ## 🧩 あわせて覚えたい
 
-- [final](/word/final/)：最終の、最後の
-- [conclusion](/word/conclusion/)：結論、終わり
+- [final](/final)：最終の、最後の
+- [conclusion](/conclusion)：結論、終わり
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare/)：準備する
-- [progress](/word/progress/)：進捗、進行
+- [prepare](/prepare)：準備する
+- [progress](/progress)：進捗、進行
 
-<!-- cvid: aid07_bid07 -->
+<!-- cvid: aid18_bid24 -->

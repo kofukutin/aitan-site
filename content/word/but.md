@@ -77,15 +77,19 @@ TOEICでは会話や説明文で頻繁に登場し、逆接の文脈を理解す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid06" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid06" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で頻繁に登場し、逆接の文脈を理解す
 ## 🤔  however との違いは？
 
 - **but**：会話や文中で「しかし」として自然に使う基本的な接続詞
-- **[however](/word/however/)**：よりフォーマルで、文頭や文中で「しかしながら」として使う
+- **[however](/however)**：よりフォーマルで、文頭や文中で「しかしながら」として使う
 
 butは口語・文語どちらでも使えますが、howeverはフォーマルな文や書き言葉で使われることが多いです。
 
@@ -101,14 +105,14 @@ butは口語・文語どちらでも使えますが、howeverはフォーマル�
 
 ## 🧩 あわせて覚えたい
 
-- [although](/word/although/)：～だけれども（譲歩を表す接続詞）
-- [yet](/word/yet/)：それにもかかわらず（逆接を強調）
+- [although](/although)：～だけれども（譲歩を表す接続詞）
+- [yet](/yet)：それにもかかわらず（逆接を強調）
 
 ---
 
 ## 📖 できればこれも
 
-- [because](/word/because/)：なぜなら
-- [so](/word/so/)：だから
+- [because](/because)：なぜなら
+- [so](/so)：だから
 
-<!-- cvid: aid30_bid39 -->
+<!-- cvid: aid36_bid06 -->

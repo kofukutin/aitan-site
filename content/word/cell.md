@@ -81,15 +81,19 @@ TOEICでは、科学や技術、ビジネス文書の中で「cell（細胞、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や技術、ビジネス文書の中で「cell（細胞、�
 ## 🤔  battery との違いは？
 
 - **cell**：細胞、小部屋、または電池の1ユニットを指す
-- **[battery](/word/battery/)**：複数のcellから構成される「バッテリー」全体を指す
+- **[battery](/battery)**：複数のcellから構成される「バッテリー」全体を指す
 
 cellは「最小単位」や「個々の電池部分」を意味し、batteryはそれらが集まった「まとまり」を指します。
 
@@ -105,14 +109,14 @@ cellは「最小単位」や「個々の電池部分」を意味し、batteryは
 
 ## 🧩 あわせて覚えたい
 
-- [organism](/word/organism/)：生物、有機体
-- [tissue](/word/tissue/)：組織（生物の細胞が集まったもの）
+- [organism](/organism)：生物、有機体
+- [tissue](/tissue)：組織（生物の細胞が集まったもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [gene](/word/gene/)：遺伝子
-- [unit](/word/unit/)：単位、構成要素
+- [gene](/gene)：遺伝子
+- [unit](/unit)：単位、構成要素
 
-<!-- cvid: aid49_bid41 -->
+<!-- cvid: aid28_bid48 -->

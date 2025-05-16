@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議の文脈で「強化する」「補強
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議の文脈で「強化する」「補強
 ## 🤔  strengthen との違いは？
 
 - **reinforce**：物理的・抽象的なものを「補強する」「さらに強くする」ニュアンスが強い
-- **[strengthen](/word/strengthen/)**：一般的に「強くする」「強化する」幅広い場面で使える
+- **[strengthen](/strengthen)**：一般的に「強くする」「強化する」幅広い場面で使える
 
 reinforceは「追加で補強する」イメージがあり、strengthenは単に「強くする」場合に使われます。
 
@@ -105,14 +109,14 @@ reinforceは「追加で補強する」イメージがあり、strengthenは単�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支える、支持する
-- [undermine](/word/undermine/)：弱体化させる
+- [support](/support)：支える、支持する
+- [undermine](/undermine)：弱体化させる
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain/)：維持する
-- [improve](/word/improve/)：改善する
+- [maintain](/maintain)：維持する
+- [improve](/improve)：改善する
 
-<!-- cvid: aid18_bid44 -->
+<!-- cvid: aid29_bid40 -->

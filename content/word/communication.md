@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンの会話文で頻出し、情報伝達
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンの会話文で頻出し、情報伝達
 ## 🤔  conversation との違いは？
 
 - **communication**：情報や気持ちの伝達全般を指し、話す・書く・ジェスチャーなど幅広い手段を含む
-- **[conversation](/word/conversation/)**：主に口頭での会話や対話を指す
+- **[conversation](/conversation)**：主に口頭での会話や対話を指す
 
 communicationは伝達手段全体を指し、conversationは「会話」という具体的なやりとりに限定されます。
 
@@ -105,14 +109,14 @@ communicationは伝達手段全体を指し、conversationは「会話」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [discussion](/word/discussion/)：討論、話し合い
-- [information](/word/information/)：情報
+- [discussion](/discussion)：討論、話し合い
+- [information](/information)：情報
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message/)：メッセージ、伝言
-- [presentation](/word/presentation/)：発表、プレゼン
+- [message](/message)：メッセージ、伝言
+- [presentation](/presentation)：発表、プレゼン
 
-<!-- cvid: aid14_bid14 -->
+<!-- cvid: aid31_bid02 -->

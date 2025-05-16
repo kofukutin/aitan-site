@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際によ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際によ
 ## 🤔  circle との違いは？
 
 - **round**：形容詞で「丸い」「円形の」という形や外観を表す。
-- **[circle](/word/circle/)**：名詞で「円」「円形そのもの」を指す。
+- **[circle](/circle)**：名詞で「円」「円形そのもの」を指す。
 
 roundは物の形容詞的な特徴を表し、circleは「円」という図形や形そのものを指します。
 
@@ -105,14 +109,14 @@ roundは物の形容詞的な特徴を表し、circleは「円」という図形
 
 ## 🧩 あわせて覚えたい
 
-- [square](/word/square/)：四角い、正方形
-- [oval](/word/oval/)：楕円形、卵形
+- [square](/square)：四角い、正方形
+- [oval](/oval)：楕円形、卵形
 
 ---
 
 ## 📖 できればこれも
 
-- [flat](/word/flat/)：平らな
-- [sharp](/word/sharp/)：鋭い
+- [flat](/flat)：平らな
+- [sharp](/sharp)：鋭い
 
-<!-- cvid: aid23_bid22 -->
+<!-- cvid: aid13_bid47 -->

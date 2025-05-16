@@ -80,15 +80,19 @@ TOEICでは書籍や出版物の説明、注文、広告文などで「hardcover
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは書籍や出版物の説明、注文、広告文などで「hardcover
 ## 🤔  paperback との違いは？
 
 - **hardcover**：厚い表紙で装丁された本。高級感や耐久性がある。
-- **[paperback](/word/paperback/)**：柔らかい紙の表紙の本。軽くて安価。
+- **[paperback](/paperback)**：柔らかい紙の表紙の本。軽くて安価。
 
 hardcoverは主に贈答用や保存用、paperbackは持ち運びやすさ・価格重視で使い分けられます。
 
@@ -104,14 +108,14 @@ hardcoverは主に贈答用や保存用、paperbackは持ち運びやすさ・�
 
 ## 🧩 あわせて覚えたい
 
-- [edition](/word/edition/)：版、エディション
-- [volume](/word/volume/)：巻、冊
+- [edition](/edition)：版、エディション
+- [volume](/volume)：巻、冊
 
 ---
 
 ## 📖 できればこれも
 
-- [catalog](/word/catalog/)：カタログ、目録
-- [manual](/word/manual/)：マニュアル、手引き
+- [catalog](/catalog)：カタログ、目録
+- [manual](/manual)：マニュアル、手引き
 
-<!-- cvid: aid38_bid25 -->
+<!-- cvid: aid26_bid39 -->

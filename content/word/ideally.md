@@ -77,15 +77,19 @@ TOEICでは、理想的な条件や希望を述べる文脈で副詞として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、理想的な条件や希望を述べる文脈で副詞として出
 ## 🤔  perfectly との違いは？
 
 - **ideally**：理想的な状況や希望をやんわり伝える
-- **[perfectly](/word/perfectly/)**：完全に、申し分なくという意味で、現実に「完璧に」できていることを強調
+- **[perfectly](/perfectly)**：完全に、申し分なくという意味で、現実に「完璧に」できていることを強調
 
 ideallyは「理想としてはこうしたい」と現実とのギャップを含む場合に使い、perfectlyは「実際に完璧である」ことを表します。
 
@@ -101,14 +105,14 @@ ideallyは「理想としてはこうしたい」と現実とのギャップを�
 
 ## 🧩 あわせて覚えたい
 
-- [theoretically](/word/theoretically/)：理論的には
-- [practically](/word/practically/)：実際には
+- [theoretically](/theoretically)：理論的には
+- [practically](/practically)：実際には
 
 ---
 
 ## 📖 できればこれも
 
-- [typically](/word/typically/)：典型的には
-- [generally](/word/generally/)：一般的に
+- [typically](/typically)：典型的には
+- [generally](/generally)：一般的に
 
-<!-- cvid: aid28_bid46 -->
+<!-- cvid: aid25_bid00 -->

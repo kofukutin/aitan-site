@@ -81,15 +81,19 @@ TOEICでは会話や説明文で頻出し、部署や役職の説明、指示や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で頻出し、部署や役職の説明、指示や
 ## 🤔  supervisor との違いは？
 
 - **manager**：組織やチーム全体の運営・管理を担う責任者
-- **[supervisor](/word/supervisor/)**：現場や作業の監督者、直接的な指導・監督を行う人
+- **[supervisor](/supervisor)**：現場や作業の監督者、直接的な指導・監督を行う人
 
 managerはより広い範囲の責任や意思決定権を持ち、supervisorは現場レベルでの監督や指導に特化しています。
 
@@ -105,14 +109,14 @@ managerはより広い範囲の責任や意思決定権を持ち、supervisorは
 
 ## 🧩 あわせて覚えたい
 
-- [director](/word/director/)：取締役、部長
-- [employee](/word/employee/)：従業員
+- [director](/director)：取締役、部長
+- [employee](/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [leader](/word/leader/)：リーダー、指導者
-- [staff](/word/staff/)：スタッフ、職員
+- [leader](/leader)：リーダー、指導者
+- [staff](/staff)：スタッフ、職員
 
-<!-- cvid: aid05_bid16 -->
+<!-- cvid: aid02_bid07 -->

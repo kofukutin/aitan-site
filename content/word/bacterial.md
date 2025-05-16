@@ -81,15 +81,19 @@ We need to test the water for bacterial contamination.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ We need to test the water for bacterial contamination.
 ## 🤔  viral との違いは？
 
 - **bacterial**：細菌による、細菌が原因の
-- **[viral](/word/viral/)**：ウイルスによる、ウイルスが原因の
+- **[viral](/viral)**：ウイルスによる、ウイルスが原因の
 
 bacterialは「細菌」に関する場合、viralは「ウイルス」に関する場合に使い分けます。
 
@@ -105,14 +109,14 @@ bacterialは「細菌」に関する場合、viralは「ウイルス」に関す
 
 ## 🧩 あわせて覚えたい
 
-- [fungal](/word/fungal/)：真菌の、カビの
-- [infection](/word/infection/)：感染、感染症
+- [fungal](/fungal)：真菌の、カビの
+- [infection](/infection)：感染、感染症
 
 ---
 
 ## 📖 できればこれも
 
-- [antibiotic](/word/antibiotic/)：抗生物質
-- [disease](/word/disease/)：病気
+- [antibiotic](/antibiotic)：抗生物質
+- [disease](/disease)：病気
 
-<!-- cvid: aid30_bid31 -->
+<!-- cvid: aid37_bid04 -->

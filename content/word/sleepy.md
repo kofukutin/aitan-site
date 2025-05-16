@@ -81,15 +81,19 @@ TOEICでは、会話文や日常的なシーンで「眠い」という感情や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid11_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話文や日常的なシーンで「眠い」という感情や
 ## 🤔  drowsy との違いは？
 
 - **sleepy**：単純に「眠い」「眠気を感じている」状態を表すカジュアルな表現。
-- **[drowsy](/word/drowsy/)**：眠気でぼんやりしている、意識がもうろうとした状態を表すややフォーマルな表現。
+- **[drowsy](/drowsy)**：眠気でぼんやりしている、意識がもうろうとした状態を表すややフォーマルな表現。
 
 sleepyは日常的な「眠い」に使い、drowsyは薬の副作用や長時間の運転などで「意識がぼんやりする」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ sleepyは日常的な「眠い」に使い、drowsyは薬の副作用や長時�
 
 ## 🧩 あわせて覚えたい
 
-- [awake](/word/awake/)：目が覚めている
-- [tired](/word/tired/)：疲れている
+- [awake](/awake)：目が覚めている
+- [tired](/tired)：疲れている
 
 ---
 
 ## 📖 できればこれも
 
-- [hungry](/word/hungry/)：お腹がすいた
-- [thirsty](/word/thirsty/)：のどが渇いた
+- [hungry](/hungry)：お腹がすいた
+- [thirsty](/thirsty)：のどが渇いた
 
-<!-- cvid: aid29_bid38 -->
+<!-- cvid: aid11_bid21 -->

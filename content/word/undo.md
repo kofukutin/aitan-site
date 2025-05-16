@@ -81,15 +81,19 @@ ITやビジネス文書の操作説明などで「undo」はよく登場しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書の操作説明などで「undo」はよく登場しま�
 ## 🤔  cancel との違いは？
 
 - **undo**：すでに行った操作や行動を「元に戻す」「なかったことにする」
-- **[cancel](/word/cancel/)**：予定や注文など「これから起こること」を「中止する」「取り消す」
+- **[cancel](/cancel)**：予定や注文など「これから起こること」を「中止する」「取り消す」
 
 undoは「実行済みのこと」を元に戻す時に使い、cancelは「これからの予定や手続きを止める」時に使います。
 
@@ -105,14 +109,14 @@ undoは「実行済みのこと」を元に戻す時に使い、cancelは「こ�
 
 ## 🧩 あわせて覚えたい
 
-- [reverse](/word/reverse/)：逆にする、反転させる
-- [restore](/word/restore/)：元の状態に戻す、復元する
+- [reverse](/reverse)：逆にする、反転させる
+- [restore](/restore)：元の状態に戻す、復元する
 
 ---
 
 ## 📖 できればこれも
 
-- [redo](/word/redo/)：やり直す
-- [delete](/word/delete/)：削除する
+- [redo](/redo)：やり直す
+- [delete](/delete)：削除する
 
-<!-- cvid: aid11_bid28 -->
+<!-- cvid: aid24_bid10 -->

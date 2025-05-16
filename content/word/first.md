@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【first】の意味・使い方・例文 ― initialとの違い【TOEIC英単語】"
 description: "firstの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでinitialとの違いもわかりやすく学べます。"
 word: "first"
@@ -81,15 +81,19 @@ TOEICでは、順序や手順、説明の流れを示す際によく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、順序や手順、説明の流れを示す際によく登場しま
 ## 🤔  initial との違いは？
 
 - **first**：順序や時間の中で「一番目」のものを指す、日常的で幅広く使える表現。
-- **[initial](/word/initial/)**：物事の「最初の段階」や「初期の」という意味で、ややフォーマルな場面や書類・手続きなどで使われやすい。
+- **[initial](/initial)**：物事の「最初の段階」や「初期の」という意味で、ややフォーマルな場面や書類・手続きなどで使われやすい。
 
 firstは日常会話や一般的な順序に、initialは手続きや公式な文書の「初期段階」に使われることが多いです。
 
@@ -105,14 +109,14 @@ firstは日常会話や一般的な順序に、initialは手続きや公式な�
 
 ## 🧩 あわせて覚えたい
 
-- [final](/word/final/)：最後の、最終の
-- [primary](/word/primary/)：主要な、第一の
+- [final](/final)：最後の、最終の
+- [primary](/primary)：主要な、第一の
 
 ---
 
 ## 📖 できればこれも
 
-- [second](/word/second/)：2番目の
-- [early](/word/early/)：早い、初期の
+- [second](/second)：2番目の
+- [early](/early)：早い、初期の
 
-<!-- cvid: aid36_bid04 -->
+<!-- cvid: aid45_bid27 -->

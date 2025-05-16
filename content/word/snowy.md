@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 ## 🤔  frosty との違いは？
 
 - **snowy**：雪が降っている、または雪で覆われている状態を表す。
-- **[frosty](/word/frosty/)**：霜が降りている、またはとても冷たい状態を表す。
+- **[frosty](/frosty)**：霜が降りている、またはとても冷たい状態を表す。
 
 「snowy」は雪そのものや雪景色を指し、「frosty」は霜や冷たさを強調します。
 
@@ -106,14 +110,14 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [icy](/word/icy/)：氷で覆われた、凍った
-- [chilly](/word/chilly/)：ひんやりした、肌寒い
+- [icy](/icy)：氷で覆われた、凍った
+- [chilly](/chilly)：ひんやりした、肌寒い
 
 ---
 
 ## 📖 できればこれも
 
-- [rainy](/word/rainy/)：雨の降る
-- [cloudy](/word/cloudy/)：曇った
+- [rainy](/rainy)：雨の降る
+- [cloudy](/cloudy)：曇った
 
-<!-- cvid: aid32_bid45 -->
+<!-- cvid: aid39_bid48 -->

@@ -81,15 +81,19 @@ TOEICでは、教育プログラムや研修、セミナーの案内文・説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、教育プログラムや研修、セミナーの案内文・説明
 ## 🤔  academic との違いは？
 
 - **educational**：教育に関する、教育的な（実際の教育活動や学びに役立つものに使う）
-- **[academic](/word/academic/)**：学問の、学術的な（理論や研究、学校の成績などに使う）
+- **[academic](/academic)**：学問の、学術的な（理論や研究、学校の成績などに使う）
 
 **educational**は実際の教育活動や学びの効果に焦点を当て、**academic**は学問や理論、学校の成績などより形式的・研究的な側面を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、教育プログラムや研修、セミナーの案内文・説明
 
 ## 🧩 あわせて覚えたい
 
-- [instructional](/word/instructional/)：指導の、教育の
-- [informative](/word/informative/)：有益な、情報を与える
+- [instructional](/instructional)：指導の、教育の
+- [informative](/informative)：有益な、情報を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [educate](/word/educate/)：教育する
-- [education](/word/education/)：教育
+- [educate](/educate)：教育する
+- [education](/education)：教育
 
-<!-- cvid: aid49_bid38 -->
+<!-- cvid: aid13_bid26 -->

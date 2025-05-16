@@ -81,15 +81,19 @@ TOEICでは「取り除く」「削除する」といった意味で、ITやビ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「取り除く」「削除する」といった意味で、ITやビ�
 ## 🤔  delete との違いは？
 
 - **remove**：物理的・デジタル的に「取り除く」「外す」全般に使える
-- **[delete](/word/delete/)**：主にデータや文字など「完全に消去する」場合に使う
+- **[delete](/delete)**：主にデータや文字など「完全に消去する」場合に使う
 
 removeは「場所から取り除く」広い意味で使い、deleteは「データを消す」など消去のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ removeは「場所から取り除く」広い意味で使い、deleteは「デ�
 
 ## 🧩 あわせて覚えたい
 
-- [eliminate](/word/eliminate/)：（不要なものを）排除する
-- [detach](/word/detach/)：（物理的に）切り離す、分離する
+- [eliminate](/eliminate)：（不要なものを）排除する
+- [detach](/detach)：（物理的に）切り離す、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace/)：取り替える、交換する
-- [install](/word/install/)：設置する、インストールする
+- [replace](/replace)：取り替える、交換する
+- [install](/install)：設置する、インストールする
 
-<!-- cvid: aid32_bid30 -->
+<!-- cvid: aid46_bid00 -->

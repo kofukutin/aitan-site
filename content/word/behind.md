@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【behind】の意味・使い方・例文 ― afterとの違い【TOEIC英単語】"
 description: "behindの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでafterとの違いもわかりやすく学べます。"
 word: "behind"
@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写問題で、物の位置関係を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、物の位置関係を説明す
 ## 🤔  after との違いは？
 
 - **behind**：位置や順序で「～の後ろに」「遅れて」を表す
-- **[after](/word/after/)**：時間や順番で「～の後に」を表す
+- **[after](/after)**：時間や順番で「～の後に」を表す
 
 behindは物理的な位置や進捗の遅れを示すのに使い、afterは出来事や時間の順序を表すときに使います。
 
@@ -101,14 +105,14 @@ behindは物理的な位置や進捗の遅れを示すのに使い、afterは出
 
 ## 🧩 あわせて覚えたい
 
-- [under](/word/under/)：～の下に
-- [beside](/word/beside/)：～の横に
+- [under](/under)：～の下に
+- [beside](/beside)：～の横に
 
 ---
 
 ## 📖 できればこれも
 
 - [in front of](/in front of)：～の前に
-- [between](/word/between/)：～の間に
+- [between](/between)：～の間に
 
-<!-- cvid: aid02_bid40 -->
+<!-- cvid: aid28_bid22 -->

@@ -81,15 +81,19 @@ TOEICでは主に科学や医療関連の長文読解問題で登場し、専門
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学や医療関連の長文読解問題で登場し、専門
 ## 🤔  anatomy との違いは？
 
 - **physiology**：生物の体の「働き」や「機能」を研究する学問
-- **[anatomy](/word/anatomy/)**：生物の体の「構造」や「形」を研究する学問
+- **[anatomy](/anatomy)**：生物の体の「構造」や「形」を研究する学問
 
 physiologyは「どう動くか・どう機能するか」に注目し、anatomyは「どんな形・構造か」に注目します。
 
@@ -105,14 +109,14 @@ physiologyは「どう動くか・どう機能するか」に注目し、anatomy
 
 ## 🧩 あわせて覚えたい
 
-- [biology](/word/biology/)：生物学
-- [pathology](/word/pathology/)：病理学（病気の原因や変化を研究する学問）
+- [biology](/biology)：生物学
+- [pathology](/pathology)：病理学（病気の原因や変化を研究する学問）
 
 ---
 
 ## 📖 できればこれも
 
-- [biochemistry](/word/biochemistry/)：生化学
-- [organism](/word/organism/)：生物、有機体
+- [biochemistry](/biochemistry)：生化学
+- [organism](/organism)：生物、有機体
 
-<!-- cvid: aid40_bid16 -->
+<!-- cvid: aid13_bid20 -->

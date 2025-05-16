@@ -81,15 +81,19 @@ TOEICではホテルや出張、旅行関連のメールや案内文でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルや出張、旅行関連のメールや案内文でよく登
 ## 🤔  reservation との違いは？
 
 - **booking**：主に旅行やレストラン、ホテルなどの予約に使われる。
-- **[reservation](/word/reservation/)**：より広く使われ、会議室や席の確保などにも使える。
+- **[reservation](/reservation)**：より広く使われ、会議室や席の確保などにも使える。
 
 bookingはイギリス英語でよく使われ、reservationはアメリカ英語で一般的です。意味は似ていますが、使われる場面や地域に違いがあります。
 
@@ -105,13 +109,13 @@ bookingはイギリス英語でよく使われ、reservationはアメリカ英�
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/word/appointment/)：（人と会う）約束、予約
-- [cancellation](/word/cancellation/)：キャンセル、取り消し
+- [appointment](/appointment)：（人と会う）約束、予約
+- [cancellation](/cancellation)：キャンセル、取り消し
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [confirmation](/word/confirmation/)：確認、確定
-<!-- cvid: aid17_bid24 -->
+- [schedule](/schedule)：予定、スケジュール
+- [confirmation](/confirmation)：確認、確定
+<!-- cvid: aid05_bid27 -->

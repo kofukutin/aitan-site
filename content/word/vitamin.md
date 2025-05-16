@@ -81,15 +81,19 @@ TOEICでは健康や商品説明、広告文などで「vitamin」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や商品説明、広告文などで「vitamin」が登場す�
 ## 🤔  supplement との違いは？
 
 - **vitamin**：体に必要な微量栄養素の一種で、主にビタミン類を指す。
-- **[supplement](/word/supplement/)**：ビタミンだけでなく、ミネラルやタンパク質など健康補助食品全般を指す。
+- **[supplement](/supplement)**：ビタミンだけでなく、ミネラルやタンパク質など健康補助食品全般を指す。
 
 vitaminは栄養素の種類を限定して指しますが、supplementは健康を補うための食品全般を広く指します。
 
@@ -105,14 +109,14 @@ vitaminは栄養素の種類を限定して指しますが、supplementは健康
 
 ## 🧩 あわせて覚えたい
 
-- [nutrient](/word/nutrient/)：栄養素
-- [mineral](/word/mineral/)：ミネラル（無機栄養素）
+- [nutrient](/nutrient)：栄養素
+- [mineral](/mineral)：ミネラル（無機栄養素）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein/)：タンパク質
-- [diet](/word/diet/)：食事、ダイエット
+- [protein](/protein)：タンパク質
+- [diet](/diet)：食事、ダイエット
 
-<!-- cvid: aid21_bid17 -->
+<!-- cvid: aid33_bid02 -->

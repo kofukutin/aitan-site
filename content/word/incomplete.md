@@ -81,15 +81,19 @@ TOEICでは、書類やレポート、申請書などが「不完全」「未完
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類やレポート、申請書などが「不完全」「未完
 ## 🤔  unfinished との違いは？
 
 - **incomplete**：必要な部分や要素が欠けていて「完全でない」状態を強調
-- **[unfinished](/word/unfinished/)**：作業やプロセスが「まだ終わっていない」状態を強調
+- **[unfinished](/unfinished)**：作業やプロセスが「まだ終わっていない」状態を強調
 
 「incomplete」は必要な情報や部分が抜けていることに焦点があり、「unfinished」は単に作業が終わっていないことを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、書類やレポート、申請書などが「不完全」「未完
 
 ## 🧩 あわせて覚えたい
 
-- [partial](/word/partial/)：部分的な
-- [deficient](/word/deficient/)：不足している
+- [partial](/partial)：部分的な
+- [deficient](/deficient)：不足している
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/word/accurate/)：正確な
-- [sufficient](/word/sufficient/)：十分な
+- [accurate](/accurate)：正確な
+- [sufficient](/sufficient)：十分な
 
-<!-- cvid: aid26_bid06 -->
+<!-- cvid: aid09_bid42 -->

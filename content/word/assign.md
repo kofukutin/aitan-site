@@ -81,15 +81,19 @@ TOEICでは「仕事やタスクの割り当て」「担当者の指定」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「仕事やタスクの割り当て」「担当者の指定」など
 ## 🤔  allocate との違いは？
 
 - **assign**：人や役割、タスクなどを「誰に何を担当させるか」明確に割り当てる
-- **[allocate](/word/allocate/)**：資源や時間、予算などを「どれだけ配分するか」に重点がある
+- **[allocate](/allocate)**：資源や時間、予算などを「どれだけ配分するか」に重点がある
 
 assignは「人や仕事」に焦点があり、allocateは「物や資源の分配」に使う点が異なります。
 
@@ -105,14 +109,14 @@ assignは「人や仕事」に焦点があり、allocateは「物や資源の分
 
 ## 🧩 あわせて覚えたい
 
-- [delegate](/word/delegate/)：（権限や仕事を）委任する
-- [appoint](/word/appoint/)：（公式に）任命する
+- [delegate](/delegate)：（権限や仕事を）委任する
+- [appoint](/appoint)：（公式に）任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [distribute](/word/distribute/)：分配する
-- [designate](/word/designate/)：指名する、指定する
+- [distribute](/distribute)：分配する
+- [designate](/designate)：指名する、指定する
 
-<!-- cvid: aid33_bid33 -->
+<!-- cvid: aid22_bid46 -->

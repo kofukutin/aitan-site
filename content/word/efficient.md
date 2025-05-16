@@ -81,15 +81,19 @@ TOEICではビジネス文脈で「効率的な方法」「効率的なシステ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文脈で「効率的な方法」「効率的なシステ
 ## 🤔  effective との違いは？
 
 - **efficient**：無駄なく効率的に成果を出す
-- **[effective](/word/effective/)**：効果がある、目的を達成できる
+- **[effective](/effective)**：効果がある、目的を達成できる
 
 efficientは「手間や資源を節約して効率よく行う」こと、effectiveは「実際に効果や結果が出る」ことに重点があります。
 
@@ -105,14 +109,14 @@ efficientは「手間や資源を節約して効率よく行う」こと、effec
 
 ## 🧩 あわせて覚えたい
 
-- [productive](/word/productive/)：生産的な、成果を生み出す
-- [inefficient](/word/inefficient/)：非効率的な
+- [productive](/productive)：生産的な、成果を生み出す
+- [inefficient](/inefficient)：非効率的な
 
 ---
 
 ## 📖 できればこれも
 
-- [sufficient](/word/sufficient/)：十分な
-- [accurate](/word/accurate/)：正確な
+- [sufficient](/sufficient)：十分な
+- [accurate](/accurate)：正確な
 
-<!-- cvid: aid42_bid41 -->
+<!-- cvid: aid14_bid22 -->

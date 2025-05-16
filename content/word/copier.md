@@ -81,15 +81,19 @@ TOEICではオフィスやビジネスの場面でよく登場し、特に備品
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではオフィスやビジネスの場面でよく登場し、特に備品
 ## 🤔  printer との違いは？
 
 - **copier**：紙の書類をそのまま複写する機械
-- **[printer](/word/printer/)**：パソコンなどのデータを紙に印刷する機械
+- **[printer](/printer)**：パソコンなどのデータを紙に印刷する機械
 
 copierは「紙から紙へ複写」するのに対し、printerは「デジタルデータから紙へ印刷」する点が異なります。
 
@@ -105,14 +109,14 @@ copierは「紙から紙へ複写」するのに対し、printerは「デジタ�
 
 ## 🧩 あわせて覚えたい
 
-- [scanner](/word/scanner/)：スキャナー（紙の文書をデジタル化する機械）
-- [fax](/word/fax/)：ファックス（文書を電話回線で送信する機械）
+- [scanner](/scanner)：スキャナー（紙の文書をデジタル化する機械）
+- [fax](/fax)：ファックス（文書を電話回線で送信する機械）
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類
-- [machine](/word/machine/)：機械
+- [document](/document)：書類
+- [machine](/machine)：機械
 
-<!-- cvid: aid00_bid21 -->
+<!-- cvid: aid17_bid41 -->

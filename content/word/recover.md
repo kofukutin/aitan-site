@@ -81,15 +81,19 @@ recoverはTOEICの会話パートで、体調やデータ、経済状況の回�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ recoverはTOEICの会話パートで、体調やデータ、経済状況の回�
 ## 🤔  restore との違いは？
 
 - **recover**：失ったものや状態を「取り戻す」「回復する」
-- **[restore](/word/restore/)**：元の状態に「戻す」「修復する」
+- **[restore](/restore)**：元の状態に「戻す」「修復する」
 
 recoverは自分や状況が自然に元に戻る場合にも使い、restoreは意図的に元の状態に戻す・修復するニュアンスが強いです。
 
@@ -105,14 +109,14 @@ recoverは自分や状況が自然に元に戻る場合にも使い、restoreは
 
 ## 🧩 あわせて覚えたい
 
-- [regain](/word/regain/)：再び手に入れる、取り戻す
-- [repair](/word/repair/)：修理する、直す
+- [regain](/regain)：再び手に入れる、取り戻す
+- [repair](/repair)：修理する、直す
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する、良くする
-- [replace](/word/replace/)：取り替える、交換する
+- [improve](/improve)：改善する、良くする
+- [replace](/replace)：取り替える、交換する
 
-<!-- cvid: aid46_bid23 -->
+<!-- cvid: aid25_bid39 -->

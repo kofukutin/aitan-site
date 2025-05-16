@@ -81,15 +81,19 @@ TOEICでは「商品を返す」「電話をかけ直す」など、日常的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「商品を返す」「電話をかけ直す」など、日常的な
 ## 🤔  refund との違いは？
 
 - **return**：物や人を元の場所に戻す、返却する
-- **[refund](/word/refund/)**：支払ったお金を返金する
+- **[refund](/refund)**：支払ったお金を返金する
 
 「return」は物や人を元に戻すこと、「refund」はお金を返すことに使います。返却と返金で使い分けましょう。
 
@@ -105,14 +109,14 @@ TOEICでは「商品を返す」「電話をかけ直す」など、日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange/)：交換する
-- [send](/word/send/)：送る
+- [exchange](/exchange)：交換する
+- [send](/send)：送る
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/word/receive/)：受け取る
-- [deliver](/word/deliver/)：配達する
+- [receive](/receive)：受け取る
+- [deliver](/deliver)：配達する
 
-<!-- cvid: aid15_bid39 -->
+<!-- cvid: aid11_bid32 -->

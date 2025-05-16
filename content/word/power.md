@@ -81,15 +81,19 @@ TOEICでは「権力」「電力」「能力」など複数の意味で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「権力」「電力」「能力」など複数の意味で出題さ
 ## 🤔  authority との違いは？
 
 - **power**：物理的・社会的な「力」や「影響力」全般を指す
-- **[authority](/word/authority/)**：正式な「権限」や「権威」を指す
+- **[authority](/authority)**：正式な「権限」や「権威」を指す
 
 powerは広い意味での力や影響力を表し、authorityは組織や役職などから与えられる公式な権限を強調します。
 
@@ -105,14 +109,14 @@ powerは広い意味での力や影響力を表し、authorityは組織や役職
 
 ## 🧩 あわせて覚えたい
 
-- [influence](/word/influence/)：影響、影響力
-- [energy](/word/energy/)：エネルギー、活力
+- [influence](/influence)：影響、影響力
+- [energy](/energy)：エネルギー、活力
 
 ---
 
 ## 📖 できればこれも
 
-- [control](/word/control/)：支配、管理
-- [ability](/word/ability/)：能力、才能
+- [control](/control)：支配、管理
+- [ability](/ability)：能力、才能
 
-<!-- cvid: aid43_bid41 -->
+<!-- cvid: aid29_bid32 -->

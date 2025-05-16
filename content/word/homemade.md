@@ -81,15 +81,19 @@ TOEICではカフェやレストラン、観光案内などの会話で「homema
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではカフェやレストラン、観光案内などの会話で「homema
 ## 🤔  handmade との違いは？
 
 - **homemade**：家庭で作られた、自家製の
-- **[handmade](/word/handmade/)**：手作業で作られた、手作りの
+- **[handmade](/handmade)**：手作業で作られた、手作りの
 
 「homemade」は家庭で作られたことを強調し、特に食べ物に多く使います。「handmade」は手作業で作られたことを指し、工芸品やアクセサリーなど幅広い物に使います。
 
@@ -105,14 +109,14 @@ TOEICではカフェやレストラン、観光案内などの会話で「homema
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic/)：国内の、家庭の
-- [factory_made](/word/factory_made/)：工場製の
+- [domestic](/domestic)：国内の、家庭の
+- [factory_made](/factory_made)：工場製の
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/word/fresh/)：新鮮な
-- [local](/word/local/)：地元の
+- [fresh](/fresh)：新鮮な
+- [local](/local)：地元の
 
-<!-- cvid: aid00_bid02 -->
+<!-- cvid: aid38_bid26 -->

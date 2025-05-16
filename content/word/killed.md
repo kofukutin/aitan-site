@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で、事故や出来事の説明として「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で、事故や出来事の説明として「
 ## 🤔  murdered との違いは？
 
 - **killed**：一般的に「殺した」「死なせた」という意味で、事故や戦争など幅広い場面で使う。
-- **[murdered](/word/murdered/)**：法律的・道徳的に「殺人（故意に人を殺す）」の意味で使う。
+- **[murdered](/murdered)**：法律的・道徳的に「殺人（故意に人を殺す）」の意味で使う。
 
 killedは広い意味で使えますが、murderedは「犯罪としての殺人」に限定されます。
 
@@ -105,14 +109,14 @@ killedは広い意味で使えますが、murderedは「犯罪としての殺人
 
 ## 🧩 あわせて覚えたい
 
-- [injure](/word/injure/)：傷つける、けがをさせる
-- [destroy](/word/destroy/)：破壊する、壊す
+- [injure](/injure)：傷つける、けがをさせる
+- [destroy](/destroy)：破壊する、壊す
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/word/hurt/)：傷つける、痛める
-- [damage](/word/damage/)：損害を与える、傷つける
+- [hurt](/hurt)：傷つける、痛める
+- [damage](/damage)：損害を与える、傷つける
 
-<!-- cvid: aid21_bid18 -->
+<!-- cvid: aid27_bid04 -->

@@ -81,15 +81,19 @@ TOEICでは、学校や家庭、同意書などの話題で「parent」が登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、学校や家庭、同意書などの話題で「parent」が登場
 ## 🤔  guardian との違いは？
 
 - **parent**：実際の父または母を指す一般的な「親」
-- **[guardian](/word/guardian/)**：法的・制度的に子どもを保護する「保護者」
+- **[guardian](/guardian)**：法的・制度的に子どもを保護する「保護者」
 
 parentは生物学的・法律上の親を指し、guardianは親以外でも子どもを守る責任を持つ人を指します。
 
@@ -105,14 +109,14 @@ parentは生物学的・法律上の親を指し、guardianは親以外でも子
 
 ## 🧩 あわせて覚えたい
 
-- [child](/word/child/)：子ども
-- [relative](/word/relative/)：親戚
+- [child](/child)：子ども
+- [relative](/relative)：親戚
 
 ---
 
 ## 📖 できればこれも
 
-- [family](/word/family/)：家族
-- [sibling](/word/sibling/)：きょうだい
+- [family](/family)：家族
+- [sibling](/sibling)：きょうだい
 
-<!-- cvid: aid01_bid43 -->
+<!-- cvid: aid34_bid21 -->

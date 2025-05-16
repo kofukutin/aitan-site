@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や記事、人物紹介などで「天才」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や記事、人物紹介などで「天才」「
 ## 🤔  talent との違いは？
 
 - **genius**：生まれつきの非常に高い知能や特別な才能を指し、突出したレベルを強調する。
-- **[talent](/word/talent/)**：努力や訓練によって伸ばせる「才能・素質」を広く指す。
+- **[talent](/talent)**：努力や訓練によって伸ばせる「才能・素質」を広く指す。
 
 geniusは「天才」と呼ばれるほどの圧倒的な能力、talentは「得意分野」や「素質」など幅広いレベルの才能に使われます。
 
@@ -105,14 +109,14 @@ geniusは「天才」と呼ばれるほどの圧倒的な能力、talentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [prodigy](/word/prodigy/)：神童、天才児
-- [expert](/word/expert/)：専門家、熟練者
+- [prodigy](/prodigy)：神童、天才児
+- [expert](/expert)：専門家、熟練者
 
 ---
 
 ## 📖 できればこれも
 
-- [creativity](/word/creativity/)：創造力
-- [skill](/word/skill/)：技術、スキル
+- [creativity](/creativity)：創造力
+- [skill](/skill)：技術、スキル
 
-<!-- cvid: aid15_bid47 -->
+<!-- cvid: aid06_bid28 -->

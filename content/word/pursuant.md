@@ -77,7 +77,7 @@ TOEICでは主にPart 7の契約書や公式文書の中で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+知識を定着させよう👇️
 
 ---
 
@@ -85,7 +85,11 @@ TOEICでは主にPart 7の契約書や公式文書の中で見かけることが
 
 <div class="info-center">
 ＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 7の契約書や公式文書の中で見かけることが
 ## 🤔  according との違いは？
 
 - **pursuant**：法律や契約など、公式な文書で「～に従って」「～に基づいて」と使う非常にフォーマルな表現。
-- **[according](/word/according/)**：日常的にも使われ、「～によれば」「～に従って」と幅広い場面で使えるややカジュアルな表現。
+- **[according](/according)**：日常的にも使われ、「～によれば」「～に従って」と幅広い場面で使えるややカジュアルな表現。
 
 pursuantは法的・公式な文脈で限定的に使われ、accordingは一般的な情報源や意見の引用にも使えます。
 
@@ -101,14 +105,14 @@ pursuantは法的・公式な文脈で限定的に使われ、accordingは一般
 
 ## 🧩 あわせて覚えたい
 
-- [under](/word/under/)：～の下で、～に基づいて
-- [in accordance with](/word/in_accordance_with/)：～に従って
+- [under](/under)：～の下で、～に基づいて
+- [in accordance with](/in_accordance_with)：～に従って
 
 ---
 
 ## 📖 できればこれも
 
-- [whereas](/word/whereas/)：一方で（契約書などで使う接続詞）
-- [therefore](/word/therefore/)：それゆえに、したがって
+- [whereas](/whereas)：一方で（契約書などで使う接続詞）
+- [therefore](/therefore)：それゆえに、したがって
 
-<!-- cvid: aid37_bid26 -->
+<!-- cvid: aid10_bid26 -->

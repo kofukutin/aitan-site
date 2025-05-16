@@ -88,8 +88,12 @@ TOEICでは、名詞の語彙問題や文脈判断問題でよく出題されま
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、名詞の語彙問題や文脈判断問題でよく出題されま
 ## 🤔  decision との違いは？
 
 - **determination**：強い意志や「やり抜く決意」を表す
-- **[decision](/word/decision/)**：選択や判断そのものを指す
+- **[decision](/decision)**：選択や判断そのものを指す
 
 determinationは「気持ちの強さ」や「不屈の心」に焦点があり、decisionは「選択・判断」という行為自体を指します。
 
@@ -105,14 +109,14 @@ determinationは「気持ちの強さ」や「不屈の心」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [resolution](/word/resolution/)：決意、解決
-- [hesitation](/word/hesitation/)：ためらい
+- [resolution](/resolution)：決意、解決
+- [hesitation](/hesitation)：ためらい
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/word/motivation/)：動機、やる気
-- [commitment](/word/commitment/)：約束、献身
+- [motivation](/motivation)：動機、やる気
+- [commitment](/commitment)：約束、献身
 
-<!-- cvid: aid14_bid01 -->
+<!-- cvid: aid14_bid41 -->

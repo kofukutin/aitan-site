@@ -81,15 +81,19 @@ TOEICではITやテクノロジー関連の説明文や記事で登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやテクノロジー関連の説明文や記事で登場するこ�
 ## 🤔  silicone との違いは？
 
 - **silicon**：元素のケイ素。主に半導体や電子部品の材料。
-- **[silicone](/word/silicone/)**：ケイ素を含む合成樹脂。ゴム状でシーラントや調理器具などに使う。
+- **[silicone](/silicone)**：ケイ素を含む合成樹脂。ゴム状でシーラントや調理器具などに使う。
 
 siliconは「元素」としてのケイ素、siliconeは「合成樹脂」としての用途が中心で、使われる場面が異なります。
 
@@ -105,14 +109,14 @@ siliconは「元素」としてのケイ素、siliconeは「合成樹脂」と�
 
 ## 🧩 あわせて覚えたい
 
-- [semiconductor](/word/semiconductor/)：半導体
-- [carbon](/word/carbon/)：炭素
+- [semiconductor](/semiconductor)：半導体
+- [carbon](/carbon)：炭素
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/word/circuit/)：回路
-- [alloy](/word/alloy/)：合金
+- [circuit](/circuit)：回路
+- [alloy](/alloy)：合金
 
-<!-- cvid: aid47_bid36 -->
+<!-- cvid: aid26_bid38 -->

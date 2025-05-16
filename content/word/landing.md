@@ -81,15 +81,19 @@ Please remain seated until the landing is complete.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please remain seated until the landing is complete.
 ## 🤔  arrival との違いは？
 
 - **landing**：飛行機や船が地面や岸に到着する「着陸」「上陸」
-- **[arrival](/word/arrival/)**：人や物が目的地に到着する「到着」
+- **[arrival](/arrival)**：人や物が目的地に到着する「到着」
 
 landingは主に乗り物の「着陸」「上陸」に使われ、arrivalは人や物全般の「到着」に使われます。
 
@@ -105,14 +109,14 @@ landingは主に乗り物の「着陸」「上陸」に使われ、arrivalは人
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure/)：出発
-- [touchdown](/word/touchdown/)：（飛行機の）着地
+- [departure](/departure)：出発
+- [touchdown](/touchdown)：（飛行機の）着地
 
 ---
 
 ## 📖 できればこれも
 
-- [flight](/word/flight/)：飛行
-- [runway](/word/runway/)：滑走路
+- [flight](/flight)：飛行
+- [runway](/runway)：滑走路
 
-<!-- cvid: aid18_bid14 -->
+<!-- cvid: aid43_bid10 -->

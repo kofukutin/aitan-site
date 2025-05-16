@@ -81,15 +81,19 @@ TOEICでは「conducted survey（調査を行った）」や「conducted intervi
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「conducted survey（調査を行った）」や「conducted intervi
 ## 🤔  performed との違いは？
 
 - **conducted**：公式・組織的に何かを「実施した」「行った」ときに使う
-- **[performed](/word/performed/)**：任務や作業、芸などを「遂行した」「演じた」ときに使う
+- **[performed](/performed)**：任務や作業、芸などを「遂行した」「演じた」ときに使う
 
 conductedは調査や会議などの「実施」に、performedは作業やパフォーマンスの「遂行・実演」に使われる点が異なります。
 
@@ -105,14 +109,14 @@ conductedは調査や会議などの「実施」に、performedは作業やパ�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、運営する
-- [supervise](/word/supervise/)：監督する、指導する
+- [manage](/manage)：管理する、運営する
+- [supervise](/supervise)：監督する、指導する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：組織する、まとめる
-- [implement](/word/implement/)：実行する、導入する
+- [organize](/organize)：組織する、まとめる
+- [implement](/implement)：実行する、導入する
 
-<!-- cvid: aid41_bid02 -->
+<!-- cvid: aid27_bid06 -->

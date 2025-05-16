@@ -81,15 +81,19 @@ TOEICでは環境や科学、自然に関する長文や説明文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や科学、自然に関する長文や説明文で見かける
 ## 🤔  marine との違いは？
 
 - **aquatic**：水中や水に関する全般（淡水・海水どちらも含む）
-- **[marine](/word/marine/)**：主に「海の」「海に関する」
+- **[marine](/marine)**：主に「海の」「海に関する」
 
 aquaticは「水」に関わる幅広い対象（川・湖・池・海など）に使い、marineは「海」に限定される点が異なります。
 
@@ -105,14 +109,14 @@ aquaticは「水」に関わる幅広い対象（川・湖・池・海など）�
 
 ## 🧩 あわせて覚えたい
 
-- [terrestrial](/word/terrestrial/)：陸生の、陸上の
-- [amphibious](/word/amphibious/)：水陸両生の
+- [terrestrial](/terrestrial)：陸生の、陸上の
+- [amphibious](/amphibious)：水陸両生の
 
 ---
 
 ## 📖 できればこれも
 
-- [terrestrial](/word/terrestrial/)：陸生の、陸上の
-- [amphibious](/word/amphibious/)：水陸両生の
+- [terrestrial](/terrestrial)：陸生の、陸上の
+- [amphibious](/amphibious)：水陸両生の
 
-<!-- cvid: aid44_bid47 -->
+<!-- cvid: aid37_bid43 -->

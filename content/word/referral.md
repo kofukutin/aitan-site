@@ -81,15 +81,19 @@ TOEICでは求人広告やビジネスメール、医療関連の長文で「紹
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告やビジネスメール、医療関連の長文で「紹
 ## 🤔  recommendation との違いは？
 
 - **referral**：人やサービスを「紹介」すること、または紹介された人・案件自体を指す
-- **[recommendation](/word/recommendation/)**：推薦状や「推薦」の意見・評価を指す
+- **[recommendation](/recommendation)**：推薦状や「推薦」の意見・評価を指す
 
 referralは「紹介（つなぐ）」に重点があり、recommendationは「推薦（評価）」に重点があります。ビジネスや医療の紹介はreferral、推薦状や意見はrecommendationを使います。
 
@@ -105,14 +109,14 @@ referralは「紹介（つなぐ）」に重点があり、recommendationは「�
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/word/reference/)：参照、推薦状
-- [introduction](/word/introduction/)：紹介、導入
+- [reference](/reference)：参照、推薦状
+- [introduction](/introduction)：紹介、導入
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [appointment](/word/appointment/)：予約、任命
+- [candidate](/candidate)：候補者
+- [appointment](/appointment)：予約、任命
 
-<!-- cvid: aid06_bid31 -->
+<!-- cvid: aid00_bid30 -->

@@ -82,15 +82,19 @@ TOEICでは、preciseは主にPart 5の語彙問題や、説明文中で「正�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid32" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid32" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、preciseは主にPart 5の語彙問題や、説明文中で「正�
 ## 🤔  accurate との違いは？
 
 - **precise**：細部までぶれがなく、非常に明確で正確なことを強調する
-- **[accurate](/word/accurate/)**：事実や基準と一致している「正確さ」を表す
+- **[accurate](/accurate)**：事実や基準と一致している「正確さ」を表す
 
 preciseは「細かい部分まで正確で曖昧さがない」ことを強調し、accurateは「間違いがない」ことに重点があります。
 
@@ -106,14 +110,14 @@ preciseは「細かい部分まで正確で曖昧さがない」ことを強調�
 
 ## 🧩 あわせて覚えたい
 
-- [exact](/word/exact/)：まさにその通りの、ぴったりの
-- [approximate](/word/approximate/)：おおよその、だいたいの
+- [exact](/exact)：まさにその通りの、ぴったりの
+- [approximate](/approximate)：おおよその、だいたいの
 
 ---
 
 ## 📖 できればこれも
 
-- [concise](/word/concise/)：簡潔な
-- [specific](/word/specific/)：具体的な
+- [concise](/concise)：簡潔な
+- [specific](/specific)：具体的な
 
-<!-- cvid: aid32_bid44 -->
+<!-- cvid: aid07_bid32 -->

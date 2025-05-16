@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメール、銀行関連の長文で「loa
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメール、銀行関連の長文で「loa
 ## 🤔  lend との違いは？
 
 - **loan**：お金や物を「貸すこと」や「貸付金」自体を指す名詞。特に金融機関の融資で使われる。
-- **[lend](/word/lend/)**：人や組織が「貸す」という動作そのものを表す動詞。
+- **[lend](/lend)**：人や組織が「貸す」という動作そのものを表す動詞。
 
 loanは「貸付」や「ローン」という名詞で、lendは「貸す」という動詞です。loanは特に銀行などの正式な貸付に使われます。
 
@@ -105,14 +109,14 @@ loanは「貸付」や「ローン」という名詞で、lendは「貸す」と
 
 ## 🧩 あわせて覚えたい
 
-- [debt](/word/debt/)：借金、負債
-- [mortgage](/word/mortgage/)：住宅ローン、抵当
+- [debt](/debt)：借金、負債
+- [mortgage](/mortgage)：住宅ローン、抵当
 
 ---
 
 ## 📖 できればこれも
 
-- [interest](/word/interest/)：利子、利息
-- [borrow](/word/borrow/)：借りる
+- [interest](/interest)：利子、利息
+- [borrow](/borrow)：借りる
 
-<!-- cvid: aid28_bid46 -->
+<!-- cvid: aid16_bid45 -->

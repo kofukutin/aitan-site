@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「何かを指し示す」「言及する」場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「何かを指し示す」「言及する」場
 ## 🤔  mentioning との違いは？
 
 - **referring**：何かを指し示して言及する、参照する
-- **[mentioning](/word/mentioning/)**：単に名前や事柄を口に出して言及する
+- **[mentioning](/mentioning)**：単に名前や事柄を口に出して言及する
 
 referringは「具体的に何かを指し示す」ニュアンスがあり、mentioningは「軽く触れる・名前を出す」程度の意味です。
 
@@ -105,14 +109,14 @@ referringは「具体的に何かを指し示す」ニュアンスがあり、me
 
 ## 🧩 あわせて覚えたい
 
-- [indicate](/word/indicate/)：示す、指し示す
-- [recommend](/word/recommend/)：推薦する、勧める
+- [indicate](/indicate)：示す、指し示す
+- [recommend](/recommend)：推薦する、勧める
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/word/suggest/)：提案する、示唆する
-- [describe](/word/describe/)：説明する、描写する
+- [suggest](/suggest)：提案する、示唆する
+- [describe](/describe)：説明する、描写する
 
-<!-- cvid: aid26_bid37 -->
+<!-- cvid: aid45_bid17 -->

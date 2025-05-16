@@ -81,15 +81,19 @@ TOEICでは主にPart 7のメールやレポート、ビジネス文書で「好
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のメールやレポート、ビジネス文書で「好
 ## 🤔  positive との違いは？
 
 - **favorable**：状況や評価が「有利」「好意的」「好ましい」であることを強調
-- **[positive](/word/positive/)**：単に「肯定的」「前向き」「積極的」であることを表す
+- **[positive](/positive)**：単に「肯定的」「前向き」「積極的」であることを表す
 
 **favorable**は「有利」「好都合」「好意的」といった評価や状況に使われることが多く、**positive**は「前向き」「肯定的」といった気持ちや態度に幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7のメールやレポート、ビジネス文書で「好
 
 ## 🧩 あわせて覚えたい
 
-- [unfavorable](/word/unfavorable/)：好ましくない、不利な
-- [beneficial](/word/beneficial/)：有益な、ためになる
+- [unfavorable](/unfavorable)：好ましくない、不利な
+- [beneficial](/beneficial)：有益な、ためになる
 
 ---
 
 ## 📖 できればこれも
 
-- [advantageous](/word/advantageous/)：有利な、好都合な
-- [supportive](/word/supportive/)：支援的な、協力的な
+- [advantageous](/advantageous)：有利な、好都合な
+- [supportive](/supportive)：支援的な、協力的な
 
-<!-- cvid: aid16_bid28 -->
+<!-- cvid: aid25_bid21 -->

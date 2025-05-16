@@ -81,15 +81,19 @@ TOEICでは、道案内や場所の説明、または人間関係の親密さを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、道案内や場所の説明、または人間関係の親密さを
 ## 🤔  nearest との違いは？
 
 - **closest**：物理的な距離だけでなく、親密さや関係性にも使える「最も近い」
-- **[nearest](/word/nearest/)**：主に物理的な距離に限定して「最も近い」
+- **[nearest](/nearest)**：主に物理的な距離に限定して「最も近い」
 
 「closest」は距離だけでなく「親しい友人」など関係性にも使えますが、「nearest」は基本的に場所や物の距離に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、道案内や場所の説明、または人間関係の親密さを
 
 ## 🧩 あわせて覚えたい
 
-- [adjacent](/word/adjacent/)：隣接した
-- [farthest](/word/farthest/)：最も遠い
+- [adjacent](/adjacent)：隣接した
+- [farthest](/farthest)：最も遠い
 
 ---
 
 ## 📖 できればこれも
 
-- [near](/word/near/)：近い
-- [further](/word/further/)：さらに遠い、さらに進んだ
+- [near](/near)：近い
+- [further](/further)：さらに遠い、さらに進んだ
 
-<!-- cvid: aid17_bid36 -->
+<!-- cvid: aid33_bid22 -->

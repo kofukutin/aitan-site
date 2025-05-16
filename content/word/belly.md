@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位を説明する
 ## 🤔  stomach との違いは？
 
 - **belly**：カジュアルで日常的な「おなか」「腹」の意味。子どもや親しい間柄でよく使う。
-- **[stomach](/word/stomach/)**：ややフォーマルで、医学的・生物学的な「胃」「腹部」の意味。
+- **[stomach](/stomach)**：ややフォーマルで、医学的・生物学的な「胃」「腹部」の意味。
 
 bellyはくだけた表現で、stomachはより正式・医学的な場面で使われます。
 
@@ -105,14 +109,14 @@ bellyはくだけた表現で、stomachはより正式・医学的な場面で�
 
 ## 🧩 あわせて覚えたい
 
-- [abdomen](/word/abdomen/)：腹部（医学的な表現）
-- [waist](/word/waist/)：腰、ウエスト
+- [abdomen](/abdomen)：腹部（医学的な表現）
+- [waist](/waist)：腰、ウエスト
 
 ---
 
 ## 📖 できればこれも
 
-- [chest](/word/chest/)：胸
-- [back](/word/back/)：背中
+- [chest](/chest)：胸
+- [back](/back)：背中
 
-<!-- cvid: aid20_bid28 -->
+<!-- cvid: aid18_bid07 -->

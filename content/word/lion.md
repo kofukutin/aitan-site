@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【lion】の意味・使い方・例文 ― tigerとの違い【TOEIC英単語】"
 description: "lionの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtigerとの違いもわかりやすく学べます。"
 word: "lion"
@@ -81,15 +81,19 @@ TOEICでは主に動物や観光、説明文などの長文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid29" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid29" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に動物や観光、説明文などの長文で登場すること
 ## 🤔  tiger との違いは？
 
 - **lion**：たてがみがあり、群れで生活する大型ネコ科動物。
-- **[tiger](/word/tiger/)**：縞模様が特徴で、主に単独で行動する大型ネコ科動物。
+- **[tiger](/tiger)**：縞模様が特徴で、主に単独で行動する大型ネコ科動物。
 
 lionは「百獣の王」と呼ばれ、群れで生活するのが特徴ですが、tigerは縞模様と単独行動が特徴です。
 
@@ -105,14 +109,14 @@ lionは「百獣の王」と呼ばれ、群れで生活するのが特徴です�
 
 ## 🧩 あわせて覚えたい
 
-- [leopard](/word/leopard/)：ヒョウ
-- [zebra](/word/zebra/)：シマウマ
+- [leopard](/leopard)：ヒョウ
+- [zebra](/zebra)：シマウマ
 
 ---
 
 ## 📖 できればこれも
 
-- [elephant](/word/elephant/)：ゾウ
-- [giraffe](/word/giraffe/)：キリン
+- [elephant](/elephant)：ゾウ
+- [giraffe](/giraffe)：キリン
 
-<!-- cvid: aid43_bid34 -->
+<!-- cvid: aid23_bid29 -->

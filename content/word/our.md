@@ -77,15 +77,19 @@ TOEICでは所有格の使い分けや、主語・目的語との一致を問う
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは所有格の使い分けや、主語・目的語との一致を問う
 ## 🤔  my との違いは？
 
 - **our**：私たちの（複数人で所有）
-- **[my](/word/my/)**：私の（自分一人で所有）
+- **[my](/my)**：私の（自分一人で所有）
 
 「our」はグループや複数人で共有するものに使い、「my」は自分一人の所有物に使います。
 
@@ -101,14 +105,14 @@ TOEICでは所有格の使い分けや、主語・目的語との一致を問う
 
 ## 🧩 あわせて覚えたい
 
-- [your](/word/your/)：あなたの
-- [their](/word/their/)：彼らの
+- [your](/your)：あなたの
+- [their](/their)：彼らの
 
 ---
 
 ## 📖 できればこれも
 
-- [ours](/word/ours/)：私たちのもの
-- [us](/word/us/)：私たちを（に）
+- [ours](/ours)：私たちのもの
+- [us](/us)：私たちを（に）
 
-<!-- cvid: aid28_bid02 -->
+<!-- cvid: aid43_bid43 -->

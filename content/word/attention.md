@@ -81,15 +81,19 @@ TOEICでは会議やアナウンス、注意喚起の場面で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やアナウンス、注意喚起の場面で頻出します。
 ## 🤔  notice との違いは？
 
 - **attention**：意識的に集中して注意を向けること
-- **[notice](/word/notice/)**：何かに気づくこと、見たり聞いたりして認識すること
+- **[notice](/notice)**：何かに気づくこと、見たり聞いたりして認識すること
 
 **attention**は自分の意志で意識を向ける場合に使い、**notice**は偶然や自然に気づく場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは会議やアナウンス、注意喚起の場面で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/word/focus/)：集中、焦点
-- [ignore](/word/ignore/)：無視する
+- [focus](/focus)：集中、焦点
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [interest](/word/interest/)：興味、関心
-- [concentration](/word/concentration/)：集中力
+- [interest](/interest)：興味、関心
+- [concentration](/concentration)：集中力
 
-<!-- cvid: aid49_bid46 -->
+<!-- cvid: aid48_bid18 -->

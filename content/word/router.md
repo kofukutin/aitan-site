@@ -81,15 +81,19 @@ IT関連の説明文やオフィスの設備案内などで登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連の説明文やオフィスの設備案内などで登場することが
 ## 🤔  switch との違いは？
 
 - **router**：異なるネットワーク同士をつなぎ、データの経路を決定する機器。
-- **[switch](/word/switch/)**：同じネットワーク内の複数機器をつなぐ装置。
+- **[switch](/switch)**：同じネットワーク内の複数機器をつなぐ装置。
 
 routerはネットワーク間の橋渡し、switchはネットワーク内の分岐点というイメージです。
 
@@ -105,14 +109,14 @@ routerはネットワーク間の橋渡し、switchはネットワーク内の�
 
 ## 🧩 あわせて覚えたい
 
-- [modem](/word/modem/)：インターネット回線と家庭内ネットワークをつなぐ機器
-- [firewall](/word/firewall/)：不正アクセスを防ぐためのセキュリティ機器
+- [modem](/modem)：インターネット回線と家庭内ネットワークをつなぐ機器
+- [firewall](/firewall)：不正アクセスを防ぐためのセキュリティ機器
 
 ---
 
 ## 📖 できればこれも
 
-- [server](/word/server/)：サービスやデータを提供するコンピュータ
-- [network](/word/network/)：複数の機器をつなぐ通信網
+- [server](/server)：サービスやデータを提供するコンピュータ
+- [network](/network)：複数の機器をつなぐ通信網
 
-<!-- cvid: aid15_bid45 -->
+<!-- cvid: aid33_bid09 -->

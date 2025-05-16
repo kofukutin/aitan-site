@@ -81,15 +81,19 @@ TOEICでは、会社や団体の役員選挙、政治関連の記事やお知ら
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や団体の役員選挙、政治関連の記事やお知ら
 ## 🤔  selection との違いは？
 
 - **election**：投票など公式な手続きで人を選ぶ「選挙」
-- **[selection](/word/selection/)**：物や人を自由に「選択」すること
+- **[selection](/selection)**：物や人を自由に「選択」すること
 
 electionは主に投票などの公式な選出に使い、selectionは広く一般的な「選ぶ」場面で使います。
 
@@ -105,14 +109,14 @@ electionは主に投票などの公式な選出に使い、selectionは広く一
 
 ## 🧩 あわせて覚えたい
 
-- [vote](/word/vote/)：投票する、投票
-- [appointment](/word/appointment/)：任命、指名
+- [vote](/vote)：投票する、投票
+- [appointment](/appointment)：任命、指名
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [campaign](/word/campaign/)：選挙運動、キャンペーン
+- [candidate](/candidate)：候補者
+- [campaign](/campaign)：選挙運動、キャンペーン
 
-<!-- cvid: aid02_bid32 -->
+<!-- cvid: aid04_bid25 -->

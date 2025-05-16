@@ -81,15 +81,19 @@ TOEICでは、オフィスや店舗の「場所」や「所在地」に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや店舗の「場所」や「所在地」に関する
 ## 🤔  site との違いは？
 
 - **location**：一般的な「場所」や「位置」を指す
-- **[site](/word/site/)**：建設現場や特定の用途の「用地」を指すことが多い
+- **[site](/site)**：建設現場や特定の用途の「用地」を指すことが多い
 
 locationは広く「場所」を表し、siteは「建設現場」や「特定目的の敷地」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ locationは広く「場所」を表し、siteは「建設現場」や「特定�
 
 ## 🧩 あわせて覚えたい
 
-- [venue](/word/venue/)：（イベントなどの）会場
-- [address](/word/address/)：住所
+- [venue](/venue)：（イベントなどの）会場
+- [address](/address)：住所
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/word/area/)：区域、地域
-- [position](/word/position/)：位置、場所
+- [area](/area)：区域、地域
+- [position](/position)：位置、場所
 
-<!-- cvid: aid40_bid26 -->
+<!-- cvid: aid23_bid08 -->

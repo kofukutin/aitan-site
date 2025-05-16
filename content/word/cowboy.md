@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介の記事、広告文などで登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介の記事、広告文などで登場すること
 ## 🤔  rancher との違いは？
 
 - **cowboy**：牛の世話や放牧、乗馬などを主に行う牧場労働者やそのイメージ。
-- **[rancher](/word/rancher/)**：牧場の経営者や所有者を指し、管理や運営が主な役割。
+- **[rancher](/rancher)**：牧場の経営者や所有者を指し、管理や運営が主な役割。
 
 cowboyは現場で働く人、rancherは牧場のオーナーや管理者という違いがあります。
 
@@ -105,14 +109,14 @@ cowboyは現場で働く人、rancherは牧場のオーナーや管理者とい�
 
 ## 🧩 あわせて覚えたい
 
-- [wrangler](/word/wrangler/)：カウボーイと似た意味で、特に馬や牛の世話をする人
-- [farmer](/word/farmer/)：農業従事者、農家
+- [wrangler](/wrangler)：カウボーイと似た意味で、特に馬や牛の世話をする人
+- [farmer](/farmer)：農業従事者、農家
 
 ---
 
 ## 📖 できればこれも
 
-- [horse](/word/horse/)：馬
-- [boots](/word/boots/)：ブーツ、長靴
+- [horse](/horse)：馬
+- [boots](/boots)：ブーツ、長靴
 
-<!-- cvid: aid01_bid38 -->
+<!-- cvid: aid22_bid24 -->

@@ -81,15 +81,19 @@ telecommunicationはTOEICの長文読解パートで、ITやビジネス関連�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ telecommunicationはTOEICの長文読解パートで、ITやビジネス関連�
 ## 🤔  communication との違いは？
 
 - **telecommunication**：電話やインターネットなど、技術を使った遠距離の通信
-- **[communication](/word/communication/)**：話す・書くなど、広く「伝達」全般
+- **[communication](/communication)**：話す・書くなど、広く「伝達」全般
 
 telecommunicationは「技術を使った遠距離の通信」に限定され、communicationは人と人のやりとり全般を指します。
 
@@ -105,14 +109,14 @@ telecommunicationは「技術を使った遠距離の通信」に限定され、
 
 ## 🧩 あわせて覚えたい
 
-- [transmission](/word/transmission/)：送信、伝達
-- [network](/word/network/)：ネットワーク、通信網
+- [transmission](/transmission)：送信、伝達
+- [network](/network)：ネットワーク、通信網
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [signal](/word/signal/)：信号、合図
+- [device](/device)：装置、機器
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid45_bid08 -->
+<!-- cvid: aid39_bid25 -->

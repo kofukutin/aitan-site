@@ -81,15 +81,19 @@ TOEICでは、ビジネスの成果や変化を強調する文脈で形容詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスの成果や変化を強調する文脈で形容詞と
 ## 🤔  outstanding との違いは？
 
 - **remarkable**：他と比べて目立つ、注目すべき（驚きや感心を含む）
-- **[outstanding](/word/outstanding/)**：群を抜いて優れている、傑出した（評価や実績が特に高い）
+- **[outstanding](/outstanding)**：群を抜いて優れている、傑出した（評価や実績が特に高い）
 
 「remarkable」は「思わず注目してしまうほど目立つ」ニュアンスで、「outstanding」は「他を圧倒するほど優れている」点が強調されます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスの成果や変化を強調する文脈で形容詞と
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/word/ordinary/)：普通の、平凡な
-- [notable](/word/notable/)：注目に値する、顕著な
+- [ordinary](/ordinary)：普通の、平凡な
+- [notable](/notable)：注目に値する、顕著な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、意味のある
-- [impressive](/word/impressive/)：印象的な、感動的な
+- [significant](/significant)：重要な、意味のある
+- [impressive](/impressive)：印象的な、感動的な
 
-<!-- cvid: aid30_bid20 -->
+<!-- cvid: aid22_bid10 -->

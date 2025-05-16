@@ -81,15 +81,19 @@ TOEICでは、ITやSNS、現代の働き方に関する長文やEメール文中
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやSNS、現代の働き方に関する長文やEメール文中
 ## 🤔  influencer との違いは？
 
 - **blogger**：主にブログで情報発信する人
-- **[influencer](/word/influencer/)**：SNSなどで影響力を持つ人全般
+- **[influencer](/influencer)**：SNSなどで影響力を持つ人全般
 
 bloggerはブログ中心、influencerはSNS全般で影響力を持つ人を指し、活動の場が異なります。
 
@@ -105,14 +109,14 @@ bloggerはブログ中心、influencerはSNS全般で影響力を持つ人を指
 
 ## 🧩 あわせて覚えたい
 
-- [writer](/word/writer/)：書き手、作家
-- [vlogger](/word/vlogger/)：動画ブログを作る人
+- [writer](/writer)：書き手、作家
+- [vlogger](/vlogger)：動画ブログを作る人
 
 ---
 
 ## 📖 できればこれも
 
-- [website](/word/website/)：ウェブサイト
-- [content](/word/content/)：内容、コンテンツ
+- [website](/website)：ウェブサイト
+- [content](/content)：内容、コンテンツ
 
-<!-- cvid: aid03_bid18 -->
+<!-- cvid: aid39_bid05 -->

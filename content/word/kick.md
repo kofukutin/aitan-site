@@ -81,15 +81,19 @@ kickはTOEICのPart 1で、人物がサッカーボールなどを蹴ってい�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ kickはTOEICのPart 1で、人物がサッカーボールなどを蹴ってい�
 ## 🤔  hit との違いは？
 
 - **kick**：足で蹴る動作を指す
-- **[hit](/word/hit/)**：手や道具などでたたく・打つ動作を指す
+- **[hit](/hit)**：手や道具などでたたく・打つ動作を指す
 
 kickは「足で蹴る」、hitは「手や物で打つ」と使い分けます。
 
@@ -105,14 +109,14 @@ kickは「足で蹴る」、hitは「手や物で打つ」と使い分けます�
 
 ## 🧩 あわせて覚えたい
 
-- [push](/word/push/)：押す
-- [throw](/word/throw/)：投げる
+- [push](/push)：押す
+- [throw](/throw)：投げる
 
 ---
 
 ## 📖 できればこれも
 
-- [jump](/word/jump/)：跳ぶ
-- [pull](/word/pull/)：引く
+- [jump](/jump)：跳ぶ
+- [pull](/pull)：引く
 
-<!-- cvid: aid26_bid07 -->
+<!-- cvid: aid03_bid17 -->

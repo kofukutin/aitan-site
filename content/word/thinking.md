@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【thinking】の意味・使い方・例文 ― thoughtとの違い【TOEIC英単語】"
 description: "thinkingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでthoughtとの違いもわかりやすく学べます。"
 word: "thinking"
@@ -81,7 +81,7 @@ TOEICでは、名詞として「考え方」「思考」という意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+好調のうちに進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、名詞として「考え方」「思考」という意味で出題
 
 <div class="info-center">
 ＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、名詞として「考え方」「思考」という意味で出題
 ## 🤔  thought との違いは？
 
 - **thinking**：考え方や思考の過程、全体的な思考スタイルを指す
-- **[thought](/word/thought/)**：個々の「考え」や「思いつき」、具体的な内容を指す
+- **[thought](/thought)**：個々の「考え」や「思いつき」、具体的な内容を指す
 
 「thinking」は抽象的・全体的な思考や考え方を表し、「thought」は一つ一つの具体的な考えやアイデアを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、名詞として「考え方」「思考」という意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion/)：意見
-- [idea](/word/idea/)：アイデア、発想
+- [opinion](/opinion)：意見
+- [idea](/idea)：アイデア、発想
 
 ---
 
 ## 📖 できればこれも
 
-- [decision](/word/decision/)：決定、判断
-- [analysis](/word/analysis/)：分析
+- [decision](/decision)：決定、判断
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid39_bid00 -->
+<!-- cvid: aid30_bid00 -->

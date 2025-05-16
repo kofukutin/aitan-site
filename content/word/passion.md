@@ -81,15 +81,19 @@ TOEICではPart 7の長文やメール文、スピーチ文などで「熱意」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文やメール文、スピーチ文などで「熱意」
 ## 🤔  enthusiasm との違いは？
 
 - **passion**：強い感情や夢中になる気持ちを表し、時に感情的な熱さを含む
-- **[enthusiasm](/word/enthusiasm/)**：前向きな興味や積極性を表し、passionよりもやや理性的・穏やかな印象
+- **[enthusiasm](/enthusiasm)**：前向きな興味や積極性を表し、passionよりもやや理性的・穏やかな印象
 
 passionは「燃えるような情熱」、enthusiasmは「前向きなやる気・好奇心」といったニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ passionは「燃えるような情熱」、enthusiasmは「前向きなやる気
 
 ## 🧩 あわせて覚えたい
 
-- [interest](/word/interest/)：興味
-- [devotion](/word/devotion/)：献身、深い愛情
+- [interest](/interest)：興味
+- [devotion](/devotion)：献身、深い愛情
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/word/motivation/)：動機、やる気
-- [goal](/word/goal/)：目標
+- [motivation](/motivation)：動機、やる気
+- [goal](/goal)：目標
 
-<!-- cvid: aid05_bid33 -->
+<!-- cvid: aid40_bid20 -->

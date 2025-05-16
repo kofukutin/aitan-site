@@ -81,15 +81,19 @@ TOEICでは、売上や成績、進捗などが「安定している」「着実
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、売上や成績、進捗などが「安定している」「着実
 ## 🤔  stable との違いは？
 
 - **steady**：変化が少なく、着実に続く様子や進行の安定を強調
-- **[stable](/word/stable/)**：外部からの影響を受けにくく、状態が崩れにくいことを強調
+- **[stable](/stable)**：外部からの影響を受けにくく、状態が崩れにくいことを強調
 
 「steady」は進行や成長などの「着実さ」に焦点があり、「stable」は状態や環境が「ぐらつかない」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、売上や成績、進捗などが「安定している」「着実
 
 ## 🧩 あわせて覚えたい
 
-- [constant](/word/constant/)：絶え間ない、一定の
-- [reliable](/word/reliable/)：信頼できる
+- [constant](/constant)：絶え間ない、一定の
+- [reliable](/reliable)：信頼できる
 
 ---
 
 ## 📖 できればこれも
 
-- [gradual](/word/gradual/)：徐々の、段階的な
-- [secure](/word/secure/)：安全な、しっかりした
+- [gradual](/gradual)：徐々の、段階的な
+- [secure](/secure)：安全な、しっかりした
 
-<!-- cvid: aid42_bid16 -->
+<!-- cvid: aid19_bid29 -->

@@ -80,15 +80,19 @@ TOEICでは旅行や出張に関する案内文や広告、Eメールなどで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは旅行や出張に関する案内文や広告、Eメールなどで�
 ## 🤔  ticket との違いは？
 
 - **airfare**：航空運賃（支払う金額）に注目した言葉
-- **[ticket](/word/ticket/)**：航空券そのもの（乗車券・入場券など実物や電子データ）
+- **[ticket](/ticket)**：航空券そのもの（乗車券・入場券など実物や電子データ）
 
 airfareは「いくら払うか」という金額に焦点があり、ticketは「実際に持つ券」や「予約証明」に使います。
 
@@ -104,14 +108,14 @@ airfareは「いくら払うか」という金額に焦点があり、ticketは�
 
 ## 🧩 あわせて覚えたい
 
-- [fare](/word/fare/)：運賃（乗り物の料金全般）
-- [fee](/word/fee/)：手数料・料金（サービスに対する支払い）
+- [fare](/fare)：運賃（乗り物の料金全般）
+- [fee](/fee)：手数料・料金（サービスに対する支払い）
 
 ---
 
 ## 📖 できればこれも
 
-- [luggage](/word/luggage/)：荷物
-- [reservation](/word/reservation/)：予約
+- [luggage](/luggage)：荷物
+- [reservation](/reservation)：予約
 
-<!-- cvid: aid19_bid04 -->
+<!-- cvid: aid43_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは自己紹介や人物説明の場面でよく出題されます。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは自己紹介や人物説明の場面でよく出題されます。特
 ## 🤔  arise との違いは？
 
 - **born**：生まれる、出生や起源を表す
-- **[arise](/word/arise/)**：発生する、問題や状況が起こる
+- **[arise](/arise)**：発生する、問題や状況が起こる
 
 bornは人や物事の「誕生」に使い、ariseは出来事や問題が「発生する」場合に使います。
 
@@ -105,14 +109,14 @@ bornは人や物事の「誕生」に使い、ariseは出来事や問題が「�
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create/)：作り出す
-- [emerge](/word/emerge/)：現れる
+- [create](/create)：作り出す
+- [emerge](/emerge)：現れる
 
 ---
 
 ## 📖 できればこれも
 
-- [raise](/word/raise/)：育てる、上げる
-- [grow](/word/grow/)：成長する
+- [raise](/raise)：育てる、上げる
+- [grow](/grow)：成長する
 
-<!-- cvid: aid34_bid16 -->
+<!-- cvid: aid10_bid00 -->

@@ -82,15 +82,19 @@ ITや言語に関する説明文やマニュアルで出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ ITや言語に関する説明文やマニュアルで出題されることが多
 ## 🤔  grammar との違いは？
 
 - **syntax**：語や記号の並び方・構造に関するルール
-- **[grammar](/word/grammar/)**：語の形や使い方も含めた言語全体のルール
+- **[grammar](/grammar)**：語の形や使い方も含めた言語全体のルール
 
 syntaxは「並び順や構造」に特化し、grammarは「語形変化や意味」も含む広い概念です。
 
@@ -106,14 +110,14 @@ syntaxは「並び順や構造」に特化し、grammarは「語形変化や意�
 
 ## 🧩 あわせて覚えたい
 
-- [structure](/word/structure/)：構造、仕組み
-- [semantics](/word/semantics/)：意味論、意味
+- [structure](/structure)：構造、仕組み
+- [semantics](/semantics)：意味論、意味
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format/)：書式、形式
-- [protocol](/word/protocol/)：通信規約、手順
+- [format](/format)：書式、形式
+- [protocol](/protocol)：通信規約、手順
 
-<!-- cvid: aid47_bid04 -->
+<!-- cvid: aid23_bid33 -->

@@ -83,15 +83,19 @@ The meeting was shorter than expected.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ The meeting was shorter than expected.
 ## 🤔  less との違いは？
 
 - **shorter**：長さや時間、身長などが「より短い」「より低い」
-- **[less](/word/less/)**：量や程度が「より少ない」「より低い」
+- **[less](/less)**：量や程度が「より少ない」「より低い」
 
 「shorter」は物理的な長さや時間、身長など具体的な比較に使い、「less」は抽象的な量や程度の比較に使います。
 
@@ -107,14 +111,14 @@ The meeting was shorter than expected.
 
 ## 🧩 あわせて覚えたい
 
-- [tall](/word/tall/)：背が高い
-- [brief](/word/brief/)：簡潔な、短時間の
+- [tall](/tall)：背が高い
+- [brief](/brief)：簡潔な、短時間の
 
 ---
 
 ## 📖 できればこれも
 
-- [longer](/word/longer/)：より長い
-- [smaller](/word/smaller/)：より小さい
+- [longer](/longer)：より長い
+- [smaller](/smaller)：より小さい
 
-<!-- cvid: aid15_bid27 -->
+<!-- cvid: aid33_bid06 -->

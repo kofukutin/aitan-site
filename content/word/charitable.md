@@ -81,15 +81,19 @@ TOEICでは、寄付や社会貢献に関する記事や案内文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、寄付や社会貢献に関する記事や案内文で見かける
 ## 🤔  generous との違いは？
 
 - **charitable**：困っている人や団体に対して慈善的・思いやりを持って助ける様子を強調
-- **[generous](/word/generous/)**：物やお金、時間などを惜しみなく与える寛大さを表す
+- **[generous](/generous)**：物やお金、時間などを惜しみなく与える寛大さを表す
 
 「charitable」は特に慈善活動や社会貢献の文脈で使われ、「generous」は日常的な寛大さや気前の良さにも幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、寄付や社会貢献に関する記事や案内文で見かける
 
 ## 🧩 あわせて覚えたい
 
-- [philanthropic](/word/philanthropic/)：博愛主義の、慈善的な
-- [stingy](/word/stingy/)：けちな、しみったれた
+- [philanthropic](/philanthropic)：博愛主義の、慈善的な
+- [stingy](/stingy)：けちな、しみったれた
 
 ---
 
 ## 📖 できればこれも
 
-- [donate](/word/donate/)：寄付する
-- [fund](/word/fund/)：資金、基金
+- [donate](/donate)：寄付する
+- [fund](/fund)：資金、基金
 
-<!-- cvid: aid01_bid27 -->
+<!-- cvid: aid18_bid01 -->

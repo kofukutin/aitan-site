@@ -81,15 +81,19 @@ TOEICではメールや案内文などで「ご協力に感謝します」「ご
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや案内文などで「ご協力に感謝します」「ご
 ## 🤔  valued との違いは？
 
 - **appreciated**：感謝されている、ありがたく思われている
-- **[valued](/word/valued/)**：価値があると認められている、大切にされている
+- **[valued](/valued)**：価値があると認められている、大切にされている
 
 **appreciated**は「感謝」の気持ちが強調され、**valued**は「重要性」や「価値」が強調されます。感謝を伝える場面ではappreciated、大切にしていることを伝える場面ではvaluedを使います。
 
@@ -105,14 +109,14 @@ TOEICではメールや案内文などで「ご協力に感謝します」「ご
 
 ## 🧩 あわせて覚えたい
 
-- [grateful](/word/grateful/)：感謝している
-- [recognized](/word/recognized/)：認められている
+- [grateful](/grateful)：感謝している
+- [recognized](/recognized)：認められている
 
 ---
 
 ## 📖 できればこれも
 
-- [appreciate](/word/appreciate/)：感謝する、価値を認める
-- [thankful](/word/thankful/)：ありがたく思っている
+- [appreciate](/appreciate)：感謝する、価値を認める
+- [thankful](/thankful)：ありがたく思っている
 
-<!-- cvid: aid29_bid44 -->
+<!-- cvid: aid03_bid43 -->

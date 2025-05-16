@@ -81,15 +81,19 @@ TOEICでは文学的な表現や人物描写の文脈でまれに登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文学的な表現や人物描写の文脈でまれに登場します
 ## 🤔  scoundrel との違いは？
 
 - **cad**：主に礼儀や誠実さに欠け、特に女性に対して失礼な男性を指すやや古風な表現。
-- **[scoundrel](/word/scoundrel/)**：より一般的に「悪党」「悪人」を指し、性別や場面を問わず使われる。
+- **[scoundrel](/scoundrel)**：より一般的に「悪党」「悪人」を指し、性別や場面を問わず使われる。
 
 cadは女性への非礼や品のなさを強調し、scoundrelはより広い意味での悪人を指します。
 
@@ -105,14 +109,14 @@ cadは女性への非礼や品のなさを強調し、scoundrelはより広い�
 
 ## 🧩 あわせて覚えたい
 
-- [gentleman](/word/gentleman/)：紳士、礼儀正しい男性
-- [villain](/word/villain/)：悪党、悪人
+- [gentleman](/gentleman)：紳士、礼儀正しい男性
+- [villain](/villain)：悪党、悪人
 
 ---
 
 ## 📖 できればこれも
 
-- [rogue](/word/rogue/)：いたずら者、悪党
-- [rascal](/word/rascal/)：やんちゃ者、悪党
+- [rogue](/rogue)：いたずら者、悪党
+- [rascal](/rascal)：やんちゃ者、悪党
 
-<!-- cvid: aid26_bid41 -->
+<!-- cvid: aid13_bid23 -->

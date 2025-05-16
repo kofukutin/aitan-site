@@ -81,15 +81,19 @@ TOEICでは、品質管理や技術関連の文脈で「measurement」が名詞�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、品質管理や技術関連の文脈で「measurement」が名詞�
 ## 🤔  dimension との違いは？
 
 - **measurement**：測定する行為やその結果、または具体的な数値を指す
-- **[dimension](/word/dimension/)**：物体の「縦・横・高さ」などの物理的な側面や次元を指す
+- **[dimension](/dimension)**：物体の「縦・横・高さ」などの物理的な側面や次元を指す
 
 measurementは「測ること」や「測った値」に焦点があり、dimensionは「長さ・幅・高さ」などの物理的な側面そのものを表します。
 
@@ -105,14 +109,14 @@ measurementは「測ること」や「測った値」に焦点があり、dimens
 
 ## 🧩 あわせて覚えたい
 
-- [evaluation](/word/evaluation/)：評価、査定
-- [estimate](/word/estimate/)：見積もり、推定
+- [evaluation](/evaluation)：評価、査定
+- [estimate](/estimate)：見積もり、推定
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/word/length/)：長さ
-- [amount](/word/amount/)：量
+- [length](/length)：長さ
+- [amount](/amount)：量
 
-<!-- cvid: aid28_bid45 -->
+<!-- cvid: aid06_bid02 -->

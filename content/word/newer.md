@@ -81,15 +81,19 @@ We need to update to a newer version of the software.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ We need to update to a newer version of the software.
 ## 🤔  younger との違いは？
 
 - **newer**：物や事柄が「より新しい」ことを表す比較級。
-- **[younger](/word/younger/)**：人や動物など「年齢がより若い」ことを表す比較級。
+- **[younger](/younger)**：人や動物など「年齢がより若い」ことを表す比較級。
 
 「newer」は物や出来事の新しさ、「younger」は年齢や世代の若さに使い分けます。
 
@@ -105,14 +109,14 @@ We need to update to a newer version of the software.
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern/)：現代的な、最新の
-- [recent](/word/recent/)：最近の、近頃の
+- [modern](/modern)：現代的な、最新の
+- [recent](/recent)：最近の、近頃の
 
 ---
 
 ## 📖 できればこれも
 
-- [older](/word/older/)：より古い、年上の
-- [latest](/word/latest/)：最新の
+- [older](/older)：より古い、年上の
+- [latest](/latest)：最新の
 
-<!-- cvid: aid42_bid09 -->
+<!-- cvid: aid22_bid06 -->

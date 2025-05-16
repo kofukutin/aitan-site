@@ -81,15 +81,19 @@ TOEICでは「the finest」「finest quality」など、最上級表現や品質
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「the finest」「finest quality」など、最上級表現や品質
 ## 🤔  best との違いは？
 
 - **finest**：品質や上品さ、洗練された「最高」を強調
-- **[best](/word/best/)**：一般的に「最も良い」「最善」の意味
+- **[best](/best)**：一般的に「最も良い」「最善」の意味
 
 「finest」は特に品質や上品さを強調したいときに使い、「best」はより幅広く「最も良い」全般に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「the finest」「finest quality」など、最上級表現や品質
 
 ## 🧩 あわせて覚えたい
 
-- [excellent](/word/excellent/)：非常に優れた
-- [superior](/word/superior/)：より優れた、上位の
+- [excellent](/excellent)：非常に優れた
+- [superior](/superior)：より優れた、上位の
 
 ---
 
 ## 📖 できればこれも
 
-- [better](/word/better/)：より良い
-- [great](/word/great/)：素晴らしい、偉大な
+- [better](/better)：より良い
+- [great](/great)：素晴らしい、偉大な
 
-<!-- cvid: aid12_bid03 -->
+<!-- cvid: aid37_bid22 -->

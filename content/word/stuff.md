@@ -81,15 +81,19 @@ stuffはTOEICの会話パートで、日常的な物や持ち物、内容を指�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ stuffはTOEICの会話パートで、日常的な物や持ち物、内容を指�
 ## 🤔  material との違いは？
 
 - **stuff**：名前を特定しない「もの」「こと」全般をカジュアルに指す
-- **[material](/word/material/)**：製造や制作に使う「材料」「素材」を指すフォーマルな語
+- **[material](/material)**：製造や制作に使う「材料」「素材」を指すフォーマルな語
 
 stuffは日常的な「いろいろな物」をざっくり指すのに対し、materialは「原材料」や「素材」など具体的な用途や性質を意識して使います。
 
@@ -105,14 +109,14 @@ stuffは日常的な「いろいろな物」をざっくり指すのに対し、
 
 ## 🧩 あわせて覚えたい
 
-- [item](/word/item/)：品目、個々の物
-- [equipment](/word/equipment/)：機器、装備
+- [item](/item)：品目、個々の物
+- [equipment](/equipment)：機器、装備
 
 ---
 
 ## 📖 できればこれも
 
-- [thing](/word/thing/)：物、事
-- [goods](/word/goods/)：商品、品物
+- [thing](/thing)：物、事
+- [goods](/goods)：商品、品物
 
-<!-- cvid: aid01_bid36 -->
+<!-- cvid: aid19_bid14 -->

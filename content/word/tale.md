@@ -81,15 +81,19 @@ taleはTOEICの長文読解（Part 7）で、物語や伝説、寓話などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ taleはTOEICの長文読解（Part 7）で、物語や伝説、寓話などの�
 ## 🤔  story との違いは？
 
 - **tale**：空想や伝説、昔話など創作的な「物語」に使われやすい
-- **[story](/word/story/)**：事実・フィクション問わず「話」「物語」全般に使える
+- **[story](/story)**：事実・フィクション問わず「話」「物語」全般に使える
 
 taleは特に空想的・伝説的な内容に使われ、storyは日常の出来事やニュースなど幅広い「話」に使われます。
 
@@ -105,14 +109,14 @@ taleは特に空想的・伝説的な内容に使われ、storyは日常の出�
 
 ## 🧩 あわせて覚えたい
 
-- [legend](/word/legend/)：伝説、伝説的人物
-- [myth](/word/myth/)：神話、作り話
+- [legend](/legend)：伝説、伝説的人物
+- [myth](/myth)：神話、作り話
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/word/novel/)：小説
-- [fable](/word/fable/)：寓話、教訓的な物語
+- [novel](/novel)：小説
+- [fable](/fable)：寓話、教訓的な物語
 
-<!-- cvid: aid02_bid19 -->
+<!-- cvid: aid20_bid45 -->

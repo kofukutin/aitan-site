@@ -81,15 +81,19 @@ TOEICでは地図や道案内、交通に関する会話で出題されやすい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは地図や道案内、交通に関する会話で出題されやすい
 ## 🤔  intersection との違いは？
 
 - **junction**：複数の道や線路などが合流・接続する場所全般
-- **[intersection](/word/intersection/)**：主に道路同士が直角に交わる「交差点」
+- **[intersection](/intersection)**：主に道路同士が直角に交わる「交差点」
 
 junctionは「合流点」や「接続点」として幅広く使われ、intersectionは特に道路の「交差点」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ junctionは「合流点」や「接続点」として幅広く使われ、inters
 
 ## 🧩 あわせて覚えたい
 
-- [connection](/word/connection/)：接続、つながり
-- [crossroad](/word/crossroad/)：十字路、岐路
+- [connection](/connection)：接続、つながり
+- [crossroad](/crossroad)：十字路、岐路
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/word/route/)：道、経路
-- [station](/word/station/)：駅
+- [route](/route)：道、経路
+- [station](/station)：駅
 
-<!-- cvid: aid36_bid02 -->
+<!-- cvid: aid44_bid35 -->

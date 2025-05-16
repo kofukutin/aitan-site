@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「継続的に」「絶えず」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「継続的に」「絶えず」といった意
 ## 🤔  continually との違いは？
 
 - **constantly**：絶え間なく、ほぼ途切れずに続くニュアンス
-- **[continually](/word/continually/)**：繰り返し何度も、間をあけて続くニュアンス
+- **[continually](/continually)**：繰り返し何度も、間をあけて続くニュアンス
 
 constantlyは「ずっと続いている」感覚、continuallyは「何度も繰り返すが間がある」感覚で使い分けます。
 
@@ -105,14 +109,14 @@ constantlyは「ずっと続いている」感覚、continuallyは「何度も�
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently/)：頻繁に
-- [occasionally](/word/occasionally/)：時々
+- [frequently](/frequently)：頻繁に
+- [occasionally](/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [regularly](/word/regularly/)：定期的に
-- [repeatedly](/word/repeatedly/)：繰り返し
+- [regularly](/regularly)：定期的に
+- [repeatedly](/repeatedly)：繰り返し
 
-<!-- cvid: aid08_bid22 -->
+<!-- cvid: aid28_bid34 -->

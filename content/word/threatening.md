@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【threatening】の意味・使い方・例文 ― intimidatingとの違い【TOEIC英単語】"
 description: "threateningの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでintimidatingとの違いもわかりやすく学べます。"
 word: "threatening"
@@ -81,15 +81,19 @@ threateningは、TOEICの長文読解（Part 7）で、メールや通知文、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ threateningは、TOEICの長文読解（Part 7）で、メールや通知文、�
 ## 🤔  intimidating との違いは？
 
 - **threatening**：直接的に「危害を加えるぞ」と感じさせる、脅しのニュアンスが強い
-- **[intimidating](/word/intimidating/)**：威圧感があり「怖い」と感じさせるが、必ずしも脅しとは限らない
+- **[intimidating](/intimidating)**：威圧感があり「怖い」と感じさせるが、必ずしも脅しとは限らない
 
 threateningは「危害を加える意図」を強く感じさせる時に使い、intimidatingは「圧倒されて怖い」と感じる場面で使います。
 
@@ -105,14 +109,14 @@ threateningは「危害を加える意図」を強く感じさせる時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [dangerous](/word/dangerous/)：危険な
-- [warning](/word/warning/)：警告
+- [dangerous](/dangerous)：危険な
+- [warning](/warning)：警告
 
 ---
 
 ## 📖 できればこれも
 
-- [hostile](/word/hostile/)：敵意のある
-- [aggressive](/word/aggressive/)：攻撃的な
+- [hostile](/hostile)：敵意のある
+- [aggressive](/aggressive)：攻撃的な
 
-<!-- cvid: aid10_bid02 -->
+<!-- cvid: aid11_bid37 -->

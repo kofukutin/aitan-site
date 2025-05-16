@@ -81,15 +81,19 @@ TOEICでは観光案内や美術館の説明文などで、建築様式や歴史
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光案内や美術館の説明文などで、建築様式や歴史
 ## 🤔  medieval との違いは？
 
 - **Gothic**：中世ヨーロッパの特定の建築・美術様式や雰囲気を指す
-- **[medieval](/word/medieval/)**：中世そのもの、または中世時代に関する一般的な形容詞
+- **[medieval](/medieval)**：中世そのもの、または中世時代に関する一般的な形容詞
 
 Gothicは中世の中でも特に建築や芸術の様式を指し、medievalは時代全体や広い意味での「中世的」を表します。
 
@@ -106,13 +110,13 @@ Gothicは中世の中でも特に建築や芸術の様式を指し、medievalは
 ## 🧩 あわせて覚えたい
 
 - [Romanesque](/Romanesque)：ロマネスク様式（ゴシック以前の建築様式）
-- [baroque](/word/baroque/)：バロック様式（ゴシック以降の華やかな建築・美術様式）
+- [baroque](/baroque)：バロック様式（ゴシック以降の華やかな建築・美術様式）
 
 ---
 
 ## 📖 できればこれも
 
-- [classic](/word/classic/)：古典的な、伝統的な
-- [ancient](/word/ancient/)：古代の、昔の
+- [classic](/classic)：古典的な、伝統的な
+- [ancient](/ancient)：古代の、昔の
 
-<!-- cvid: aid22_bid35 -->
+<!-- cvid: aid00_bid49 -->

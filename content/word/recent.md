@@ -81,15 +81,19 @@ TOEICではメールや記事、報告書などの長文中で「recent changes�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや記事、報告書などの長文中で「recent changes�
 ## 🤔  current との違いは？
 
 - **recent**：過去の「最近」に起こったことや出来事を指す
-- **[current](/word/current/)**：今まさに「現在進行中」のことや状況を指す
+- **[current](/current)**：今まさに「現在進行中」のことや状況を指す
 
 「recent」は「少し前から今まで」の範囲、「current」は「今この瞬間」の状態を表します。
 
@@ -105,14 +109,14 @@ TOEICではメールや記事、報告書などの長文中で「recent changes�
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/word/previous/)：以前の、前の
-- [latest](/word/latest/)：最新の
+- [previous](/previous)：以前の、前の
+- [latest](/latest)：最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [modern](/word/modern/)：現代的な、近代の
-- [former](/word/former/)：かつての、前の
+- [modern](/modern)：現代的な、近代の
+- [former](/former)：かつての、前の
 
-<!-- cvid: aid30_bid01 -->
+<!-- cvid: aid09_bid41 -->

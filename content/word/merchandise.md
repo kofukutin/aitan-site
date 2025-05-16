@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、広告などで「商品」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、広告などで「商品」�
 ## 🤔  goods との違いは？
 
 - **merchandise**：売買や流通の現場で使われるフォーマルな「商品」全般
-- **[goods](/word/goods/)**：一般的な「品物」「商品」だが、ややカジュアルで幅広い物品に使う
+- **[goods](/goods)**：一般的な「品物」「商品」だが、ややカジュアルで幅広い物品に使う
 
 merchandiseはビジネスや商取引の文脈で使われ、goodsは日常的な「物品」や「商品」にも幅広く使われます。
 
@@ -105,14 +109,14 @@ merchandiseはビジネスや商取引の文脈で使われ、goodsは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [product](/word/product/)：製品、商品（製造されたもの）
-- [inventory](/word/inventory/)：在庫、棚卸資産
+- [product](/product)：製品、商品（製造されたもの）
+- [inventory](/inventory)：在庫、棚卸資産
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment/)：出荷、発送
-- [supply](/word/supply/)：供給、納入
+- [shipment](/shipment)：出荷、発送
+- [supply](/supply)：供給、納入
 
-<!-- cvid: aid11_bid03 -->
+<!-- cvid: aid20_bid43 -->

@@ -81,15 +81,19 @@ TOEICでは「長所」「価値」「功績」などの意味で、選択肢や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「長所」「価値」「功績」などの意味で、選択肢や
 ## 🤔  advantage との違いは？
 
 - **merit**：本質的・内在的な長所や価値を強調するフォーマルな表現
-- **[advantage](/word/advantage/)**：他と比べて有利な点や利点を表す、ややカジュアルな語
+- **[advantage](/advantage)**：他と比べて有利な点や利点を表す、ややカジュアルな語
 
 meritは「そのもの自体の良さ」、advantageは「他と比べて有利な点」に焦点を当てます。
 
@@ -105,14 +109,14 @@ meritは「そのもの自体の良さ」、advantageは「他と比べて有利
 
 ## 🧩 あわせて覚えたい
 
-- [demerit](/word/demerit/)：短所、欠点
-- [benefit](/word/benefit/)：利益、恩恵
+- [demerit](/demerit)：短所、欠点
+- [benefit](/benefit)：利益、恩恵
 
 ---
 
 ## 📖 できればこれも
 
-- [value](/word/value/)：価値
-- [quality](/word/quality/)：質、特性
+- [value](/value)：価値
+- [quality](/quality)：質、特性
 
-<!-- cvid: aid26_bid41 -->
+<!-- cvid: aid04_bid10 -->

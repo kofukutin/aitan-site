@@ -81,15 +81,19 @@ TOEICでは日常会話や職場でのちょっとしたやりとりの中で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日常会話や職場でのちょっとしたやりとりの中で出
 ## 🤔  sleep との違いは？
 
 - **nap**：短時間のうたた寝や昼寝を指し、日中に少しだけ眠ること。
-- **[sleep](/word/sleep/)**：夜間の本格的な睡眠や、長時間の眠り全般を指す。
+- **[sleep](/sleep)**：夜間の本格的な睡眠や、長時間の眠り全般を指す。
 
 napは「ちょっと横になる」感覚で、sleepは「しっかり眠る」イメージです。使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ napは「ちょっと横になる」感覚で、sleepは「しっかり眠る」
 
 ## 🧩 あわせて覚えたい
 
-- [rest](/word/rest/)：休息、休憩
-- [doze](/word/doze/)：うとうとする、まどろむ
+- [rest](/rest)：休息、休憩
+- [doze](/doze)：うとうとする、まどろむ
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break/)：休憩
-- [relax](/word/relax/)：くつろぐ
+- [break](/break)：休憩
+- [relax](/relax)：くつろぐ
 
-<!-- cvid: aid34_bid40 -->
+<!-- cvid: aid15_bid37 -->

@@ -81,15 +81,19 @@ okayは、TOEICのリスニング（特にPart 2）で「同意」や「承諾�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ okayは、TOEICのリスニング（特にPart 2）で「同意」や「承諾�
 ## 🤔  agree との違いは？
 
 - **okay**：カジュアルに「大丈夫」「OK」と伝える表現
-- **[agree](/word/agree/)**：意見や提案に「賛成する」とややフォーマルに伝える
+- **[agree](/agree)**：意見や提案に「賛成する」とややフォーマルに伝える
 
 okayは気軽な同意や承諾、agreeは意見への賛成や同意をややフォーマルに表現します。
 
@@ -105,14 +109,14 @@ okayは気軽な同意や承諾、agreeは意見への賛成や同意をやや�
 
 ## 🧩 あわせて覚えたい
 
-- [fine](/word/fine/)：元気な、問題ない
-- [approve](/word/approve/)：承認する、認める
+- [fine](/fine)：元気な、問題ない
+- [approve](/approve)：承認する、認める
 
 ---
 
 ## 📖 できればこれも
 
-- [sure](/word/sure/)：もちろん、いいですよ
-- [alright](/word/alright/)：大丈夫、問題ない
+- [sure](/sure)：もちろん、いいですよ
+- [alright](/alright)：大丈夫、問題ない
 
-<!-- cvid: aid30_bid25 -->
+<!-- cvid: aid21_bid07 -->

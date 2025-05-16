@@ -81,15 +81,19 @@ TOEICではビジネス文脈で「平均値」や「標準的な数値」を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文脈で「平均値」や「標準的な数値」を説
 ## 🤔  mean との違いは？
 
 - **average**：一般的に「平均値」全般を指し、日常会話やビジネスで幅広く使われる。
-- **[mean](/word/mean/)**：数学的・統計的な「算術平均」を指し、ややフォーマルで専門的。
+- **[mean](/mean)**：数学的・統計的な「算術平均」を指し、ややフォーマルで専門的。
 
 averageは日常的な「平均」、meanは数学や統計で使う「算術平均」として区別されます。
 
@@ -105,14 +109,14 @@ averageは日常的な「平均」、meanは数学や統計で使う「算術平
 
 ## 🧩 あわせて覚えたい
 
-- [median](/word/median/)：中央値
-- [typical](/word/typical/)：典型的な
+- [median](/median)：中央値
+- [typical](/typical)：典型的な
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total/)：合計
-- [rate](/word/rate/)：率、割合
+- [total](/total)：合計
+- [rate](/rate)：率、割合
 
-<!-- cvid: aid09_bid29 -->
+<!-- cvid: aid32_bid22 -->

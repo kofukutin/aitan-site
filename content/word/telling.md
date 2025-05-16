@@ -81,15 +81,19 @@ TOEICでは、記事やレポートの中で「決定的な」「意味深な」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレポートの中で「決定的な」「意味深な」
 ## 🤔  revealing との違いは？
 
 - **telling**：隠れていた事実や本質をはっきり示す、決定的な
-- **[revealing](/word/revealing/)**：隠れていたものを明らかにする、露出度が高い（服装などにも使う）
+- **[revealing](/revealing)**：隠れていたものを明らかにする、露出度が高い（服装などにも使う）
 
 「telling」は特に「決定的」「意味深」といった印象を与える時に使い、「revealing」は単に「隠れていたものを見せる」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、記事やレポートの中で「決定的な」「意味深な」
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/word/obvious/)：明らかな
-- [significant](/word/significant/)：重要な、意味のある
+- [obvious](/obvious)：明らかな
+- [significant](/significant)：重要な、意味のある
 
 ---
 
 ## 📖 できればこれも
 
-- [convincing](/word/convincing/)：説得力のある
-- [striking](/word/striking/)：目立つ、印象的な
+- [convincing](/convincing)：説得力のある
+- [striking](/striking)：目立つ、印象的な
 
-<!-- cvid: aid37_bid11 -->
+<!-- cvid: aid35_bid01 -->

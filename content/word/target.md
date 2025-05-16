@@ -81,15 +81,19 @@ TOEICではビジネスの目標や数値目標を表す文脈でよく出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの目標や数値目標を表す文脈でよく出題さ
 ## 🤔  aim との違いは？
 
 - **target**：具体的な数値や達成すべき明確な目標、または狙いとなる対象
-- **[aim](/word/aim/)**：やや抽象的な目的や意図、努力の方向性
+- **[aim](/aim)**：やや抽象的な目的や意図、努力の方向性
 
 targetは「売上目標」など具体的なゴールに使われ、aimは「目指すこと」や「意図」といった広い意味で使われます。
 
@@ -105,14 +109,14 @@ targetは「売上目標」など具体的なゴールに使われ、aimは「�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/word/goal/)：最終的な到達点、ゴール
-- [objective](/word/objective/)：達成すべき具体的な目的
+- [goal](/goal)：最終的な到達点、ゴール
+- [objective](/objective)：達成すべき具体的な目的
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [purpose](/word/purpose/)：目的
+- [plan](/plan)：計画
+- [purpose](/purpose)：目的
 
-<!-- cvid: aid24_bid42 -->
+<!-- cvid: aid18_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは契約書や保険、財務関連の長文でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や保険、財務関連の長文でよく登場します。
 ## 🤔  responsibility との違いは？
 
 - **liability**：主に法的・財務的な「責任」や「負債」を指すフォーマルな語。
-- **[responsibility](/word/responsibility/)**：一般的な「責任」や「義務」を幅広く表す。
+- **[responsibility](/responsibility)**：一般的な「責任」や「義務」を幅広く表す。
 
 liabilityは法律やお金に関する限定的な責任、responsibilityは日常的な義務や役割まで幅広く使われます。
 
@@ -105,14 +109,14 @@ liabilityは法律やお金に関する限定的な責任、responsibilityは日
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/word/asset/)：資産
-- [obligation](/word/obligation/)：義務
+- [asset](/asset)：資産
+- [obligation](/obligation)：義務
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [penalty](/word/penalty/)：罰金、ペナルティ
+- [contract](/contract)：契約
+- [penalty](/penalty)：罰金、ペナルティ
 
-<!-- cvid: aid36_bid24 -->
+<!-- cvid: aid32_bid15 -->

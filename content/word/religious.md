@@ -81,15 +81,19 @@ TOEICでは、宗教に関する説明や多様性を扱う長文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、宗教に関する説明や多様性を扱う長文で見かける
 ## 🤔  spiritual との違いは？
 
 - **religious**：宗教や信仰そのものに関係する、または信心深い
-- **[spiritual](/word/spiritual/)**：精神的・霊的なことに関係する、宗教に限らず心や魂に関わる
+- **[spiritual](/spiritual)**：精神的・霊的なことに関係する、宗教に限らず心や魂に関わる
 
 religiousは宗教や信仰に直接関係する場合に使い、spiritualは宗教に限らず広く精神的な意味で使われます。
 
@@ -105,14 +109,14 @@ religiousは宗教や信仰に直接関係する場合に使い、spiritualは�
 
 ## 🧩 あわせて覚えたい
 
-- [secular](/word/secular/)：世俗的な、宗教と関係のない
-- [faith](/word/faith/)：信仰、信念
+- [secular](/secular)：世俗的な、宗教と関係のない
+- [faith](/faith)：信仰、信念
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural/)：文化的な
-- [traditional](/word/traditional/)：伝統的な
+- [cultural](/cultural)：文化的な
+- [traditional](/traditional)：伝統的な
 
-<!-- cvid: aid06_bid32 -->
+<!-- cvid: aid42_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは宗教的な文脈よりも、「分野の必携書」や「権威あ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは宗教的な文脈よりも、「分野の必携書」や「権威あ
 ## 🤔  scripture との違いは？
 
 - **bible**：キリスト教の聖書、または分野で最も権威ある本を指す
-- **[scripture](/word/scripture/)**：宗教的な聖典全般（特に聖書以外も含む）
+- **[scripture](/scripture)**：宗教的な聖典全般（特に聖書以外も含む）
 
 bibleはキリスト教の聖書や比喩的な「バイブル」に使われ、scriptureはより広く宗教的な聖典全般を指します。
 
@@ -105,14 +109,14 @@ bibleはキリスト教の聖書や比喩的な「バイブル」に使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual/)：手引き書、マニュアル
-- [textbook](/word/textbook/)：教科書
+- [manual](/manual)：手引き書、マニュアル
+- [textbook](/textbook)：教科書
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/word/guide/)：案内書、ガイド
-- [reference](/word/reference/)：参考書、参照
+- [guide](/guide)：案内書、ガイド
+- [reference](/reference)：参考書、参照
 
-<!-- cvid: aid11_bid48 -->
+<!-- cvid: aid23_bid06 -->

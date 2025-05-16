@@ -82,15 +82,19 @@ TOEICではPart 2のリスニング応答問題で頻出です。指示や会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid40_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 2のリスニング応答問題で頻出です。指示や会話
 ## 🤔  hear との違いは？
 
 - **listen**：意識して耳を傾ける、集中して聞く
-- **[hear](/word/hear/)**：自然に耳に入る、聞こえる
+- **[hear](/hear)**：自然に耳に入る、聞こえる
 
 listenは「自分の意思で注意して聞く」場合に使い、hearは「意識しなくても音が耳に入る」場合に使います。
 
@@ -106,14 +110,14 @@ listenは「自分の意思で注意して聞く」場合に使い、hearは「�
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/word/attend/)：注意を向ける、出席する
-- [ignore](/word/ignore/)：無視する
+- [attend](/attend)：注意を向ける、出席する
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [speak](/word/speak/)：話す
-- [talk](/word/talk/)：会話する
+- [speak](/speak)：話す
+- [talk](/talk)：会話する
 
-<!-- cvid: aid32_bid16 -->
+<!-- cvid: aid40_bid18 -->

@@ -81,15 +81,19 @@ TOEICでは、国際関係や企業の広報活動に関する長文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、国際関係や企業の広報活動に関する長文で登場す
 ## 🤔  representative との違いは？
 
 - **ambassador**：国家や団体を公式に代表する「大使」「親善大使」など、より格式の高い代表者。
-- **[representative](/word/representative/)**：一般的な「代表者」「代理人」。公式性や格式はambassadorより低い。
+- **[representative](/representative)**：一般的な「代表者」「代理人」。公式性や格式はambassadorより低い。
 
 ambassadorは国や団体を象徴する重要な役職に使われ、representativeは幅広い場面で「代表者」として使われます。
 
@@ -105,14 +109,14 @@ ambassadorは国や団体を象徴する重要な役職に使われ、representa
 
 ## 🧩 あわせて覚えたい
 
-- [envoy](/word/envoy/)：使節、特使
-- [diplomat](/word/diplomat/)：外交官
+- [envoy](/envoy)：使節、特使
+- [diplomat](/diplomat)：外交官
 
 ---
 
 ## 📖 できればこれも
 
-- [embassy](/word/embassy/)：大使館
-- [delegate](/word/delegate/)：代表者、代表団員
+- [embassy](/embassy)：大使館
+- [delegate](/delegate)：代表者、代表団員
 
-<!-- cvid: aid21_bid40 -->
+<!-- cvid: aid00_bid39 -->

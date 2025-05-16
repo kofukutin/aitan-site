@@ -83,15 +83,19 @@ TOEICでは会話文やインタビューの中で「話した」「話をした
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは会話文やインタビューの中で「話した」「話をした
 ## 🤔  spoke との違いは？
 
 - **talked**：カジュアルに「話した」「会話した」という意味で、双方向のやりとりを強調。
-- **[spoke](/word/spoke/)**：ややフォーマルで「話した」「発言した」という意味。演説や一方的な発言にも使われる。
+- **[spoke](/spoke)**：ややフォーマルで「話した」「発言した」という意味。演説や一方的な発言にも使われる。
 
 talkedは日常会話やフランクな場面で使われ、spokeは公式な場や一方的な発言にも使われます。
 
@@ -107,14 +111,14 @@ talkedは日常会話やフランクな場面で使われ、spokeは公式な場
 
 ## 🧩 あわせて覚えたい
 
-- [discuss](/word/discuss/)：議論する、話し合う
-- [chat](/word/chat/)：おしゃべりする、雑談する
+- [discuss](/discuss)：議論する、話し合う
+- [chat](/chat)：おしゃべりする、雑談する
 
 ---
 
 ## 📖 できればこれも
 
-- [said](/word/said/)：言った
-- [mention](/word/mention/)：言及する
+- [said](/said)：言った
+- [mention](/mention)：言及する
 
-<!-- cvid: aid14_bid29 -->
+<!-- cvid: aid01_bid22 -->

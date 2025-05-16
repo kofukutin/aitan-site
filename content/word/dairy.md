@@ -81,15 +81,19 @@ TOEICでは、スーパーや食品業界、農業関連の記事や広告文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、スーパーや食品業界、農業関連の記事や広告文で
 ## 🤔  dairy farm との違いは？
 
 - **dairy**：乳製品、または乳製品を扱う場所
-- **[dairy farm](/word/dairy_farm/)**：酪農場（牛乳を生産する農場）
+- **[dairy farm](/dairy_farm)**：酪農場（牛乳を生産する農場）
 
 dairyは「乳製品」や「乳製品を扱う場所」を指し、dairy farmは牛乳を生産する「酪農場」を意味します。スーパーで買うのはdairy、牛がいるのはdairy farmです。
 
@@ -105,14 +109,14 @@ dairyは「乳製品」や「乳製品を扱う場所」を指し、dairy farm�
 
 ## 🧩 あわせて覚えたい
 
-- [milk](/word/milk/)：牛乳
-- [cheese](/word/cheese/)：チーズ
+- [milk](/milk)：牛乳
+- [cheese](/cheese)：チーズ
 
 ---
 
 ## 📖 できればこれも
 
-- [bakery](/word/bakery/)：パン屋、パン製品
-- [grocery](/word/grocery/)：食料品、食料品店
+- [bakery](/bakery)：パン屋、パン製品
+- [grocery](/grocery)：食料品、食料品店
 
-<!-- cvid: aid30_bid16 -->
+<!-- cvid: aid18_bid24 -->

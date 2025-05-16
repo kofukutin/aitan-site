@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「見つける」「気づく」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「見つける」「気づく」といった意
 ## 🤔  discover との違いは？
 
 - **find**：探していたものや偶然に「見つける」「発見する」
-- **[discover](/word/discover/)**：新しいものや未知のことを「発見する」
+- **[discover](/discover)**：新しいものや未知のことを「発見する」
 
 findは日常的な「見つける」に広く使われ、discoverは特に新発見や研究などで使われることが多いです。
 
@@ -105,14 +109,14 @@ findは日常的な「見つける」に広く使われ、discoverは特に新�
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/word/lose/)：失う、なくす
-- [search](/word/search/)：探す、検索する
+- [lose](/lose)：失う、なくす
+- [search](/search)：探す、検索する
 
 ---
 
 ## 📖 できればこれも
 
-- [choose](/word/choose/)：選ぶ
-- [show](/word/show/)：見せる、示す
+- [choose](/choose)：選ぶ
+- [show](/show)：見せる、示す
 
-<!-- cvid: aid15_bid45 -->
+<!-- cvid: aid04_bid33 -->

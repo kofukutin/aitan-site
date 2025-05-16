@@ -81,15 +81,19 @@ ITやビジネス文書で「データを検索する」「情報を取り出す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書で「データを検索する」「情報を取り出す
 ## 🤔  recover との違いは？
 
 - **retrieve**：失った物や情報を「探して取り戻す」「検索して取り出す」ニュアンス
-- **[recover](/word/recover/)**：失った物や健康などを「回復する」「取り戻す」全般的な表現
+- **[recover](/recover)**：失った物や健康などを「回復する」「取り戻す」全般的な表現
 
 retrieveは「探して見つけて取り戻す」動作やIT分野の検索に特化し、recoverは「元の状態に戻す」広い意味で使われます。
 
@@ -105,14 +109,14 @@ retrieveは「探して見つけて取り戻す」動作やIT分野の検索に�
 
 ## 🧩 あわせて覚えたい
 
-- [access](/word/access/)：アクセスする、接続する
-- [restore](/word/restore/)：元に戻す、復元する
+- [access](/access)：アクセスする、接続する
+- [restore](/restore)：元に戻す、復元する
 
 ---
 
 ## 📖 できればこれも
 
-- [store](/word/store/)：保存する、蓄える
-- [obtain](/word/obtain/)：手に入れる、獲得する
+- [store](/store)：保存する、蓄える
+- [obtain](/obtain)：手に入れる、獲得する
 
-<!-- cvid: aid35_bid42 -->
+<!-- cvid: aid19_bid14 -->

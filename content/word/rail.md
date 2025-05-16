@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、駅や鉄道、手すりの説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、駅や鉄道、手すりの説明とし
 ## 🤔  track との違いは？
 
 - **rail**：鉄道のレールや手すりなど、細長い金属棒そのものを指す
-- **[track](/word/track/)**：鉄道の線路全体や、走るための道筋を指す
+- **[track](/track)**：鉄道の線路全体や、走るための道筋を指す
 
 railは物理的な「棒」や「手すり」を強調し、trackは「道」や「線路全体」を指す点が異なります。
 
@@ -105,14 +109,14 @@ railは物理的な「棒」や「手すり」を強調し、trackは「道」�
 
 ## 🧩 あわせて覚えたい
 
-- [platform](/word/platform/)：駅のホーム
-- [barrier](/word/barrier/)：障壁、仕切り
+- [platform](/platform)：駅のホーム
+- [barrier](/barrier)：障壁、仕切り
 
 ---
 
 ## 📖 できればこれも
 
-- [train](/word/train/)：列車
-- [station](/word/station/)：駅
+- [train](/train)：列車
+- [station](/station)：駅
 
-<!-- cvid: aid04_bid04 -->
+<!-- cvid: aid39_bid14 -->

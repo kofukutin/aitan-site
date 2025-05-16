@@ -81,15 +81,19 @@ TOEICでは「造幣局」や「新品同様」の意味で名詞として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「造幣局」や「新品同様」の意味で名詞として出題
 ## 🤔  coin との違いは？
 
 - **mint**：お金を作る場所（造幣局）や新品同様の状態、またはハーブの意味。
-- **[coin](/word/coin/)**：貨幣そのもの、特に硬貨を指す。
+- **[coin](/coin)**：貨幣そのもの、特に硬貨を指す。
 
 「mint」はお金を作る場所や状態を指し、「coin」は実際の硬貨を指します。
 
@@ -105,14 +109,14 @@ TOEICでは「造幣局」や「新品同様」の意味で名詞として出題
 
 ## 🧩 あわせて覚えたい
 
-- [currency](/word/currency/)：通貨
-- [bill](/word/bill/)：紙幣
+- [currency](/currency)：通貨
+- [bill](/bill)：紙幣
 
 ---
 
 ## 📖 できればこれも
 
-- [stamp](/word/stamp/)：切手
-- [note](/word/note/)：紙幣、メモ
+- [stamp](/stamp)：切手
+- [note](/note)：紙幣、メモ
 
-<!-- cvid: aid15_bid25 -->
+<!-- cvid: aid08_bid44 -->

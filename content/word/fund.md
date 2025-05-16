@@ -81,15 +81,19 @@ TOEICでは、ビジネスや金融に関する長文やEメール、案内文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや金融に関する長文やEメール、案内文�
 ## 🤔  finance との違いは？
 
 - **fund**：特定の目的のために集められた資金や基金
-- **[finance](/word/finance/)**：資金全般や財務管理、金融活動そのもの
+- **[finance](/finance)**：資金全般や財務管理、金融活動そのもの
 
 「fund」は目的が明確な資金や基金を指し、「finance」はお金の流れや管理全般を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスや金融に関する長文やEメール、案内文�
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant/)：助成金、補助金
-- [budget](/word/budget/)：予算
+- [grant](/grant)：助成金、補助金
+- [budget](/budget)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [loan](/word/loan/)：ローン、融資
-- [capital](/word/capital/)：資本、元手
+- [loan](/loan)：ローン、融資
+- [capital](/capital)：資本、元手
 
-<!-- cvid: aid37_bid14 -->
+<!-- cvid: aid35_bid32 -->

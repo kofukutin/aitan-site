@@ -82,15 +82,19 @@ TOEICでは、スケジュールやレポート、会議の頻度を問う文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、スケジュールやレポート、会議の頻度を問う文脈
 ## 🤔  daily との違いは？
 
 - **weekly**：毎週、週ごとに行われること
-- **[daily](/word/daily/)**：毎日、日ごとに行われること
+- **[daily](/daily)**：毎日、日ごとに行われること
 
 「weekly」は「週単位」、「daily」は「日単位」で、頻度や間隔の違いがあります。
 
@@ -106,14 +110,14 @@ TOEICでは、スケジュールやレポート、会議の頻度を問う文脈
 
 ## 🧩 あわせて覚えたい
 
-- [monthly](/word/monthly/)：毎月の
-- [regular](/word/regular/)：定期的な
+- [monthly](/monthly)：毎月の
+- [regular](/regular)：定期的な
 
 ---
 
 ## 📖 できればこれも
 
-- [annual](/word/annual/)：年に一度の
-- [frequent](/word/frequent/)：頻繁な
+- [annual](/annual)：年に一度の
+- [frequent](/frequent)：頻繁な
 
-<!-- cvid: aid39_bid30 -->
+<!-- cvid: aid33_bid34 -->

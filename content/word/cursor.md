@@ -81,15 +81,19 @@ IT関連の説明や操作手順を問う問題で、cursorは画面操作の指
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連の説明や操作手順を問う問題で、cursorは画面操作の指
 ## 🤔  pointer との違いは？
 
 - **cursor**：画面上の入力位置や選択位置を示す点滅線や矢印など
-- **[pointer](/word/pointer/)**：主にマウスの矢印型アイコンや指し示すもの
+- **[pointer](/pointer)**：主にマウスの矢印型アイコンや指し示すもの
 
 cursorはキーボード入力時の点滅線やテキスト位置を指し、pointerはマウス操作時の矢印などを指します。
 
@@ -105,14 +109,14 @@ cursorはキーボード入力時の点滅線やテキスト位置を指し、po
 
 ## 🧩 あわせて覚えたい
 
-- [highlight](/word/highlight/)：強調表示する
-- [icon](/word/icon/)：アイコン、画面上の小さな絵
+- [highlight](/highlight)：強調表示する
+- [icon](/icon)：アイコン、画面上の小さな絵
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard/)：キーボード
-- [screen](/word/screen/)：画面
+- [keyboard](/keyboard)：キーボード
+- [screen](/screen)：画面
 
-<!-- cvid: aid41_bid04 -->
+<!-- cvid: aid43_bid34 -->

@@ -81,15 +81,19 @@ ITやビジネスの進捗管理、健康管理などの文脈で説明文や広
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの進捗管理、健康管理などの文脈で説明文や広
 ## 🤔  monitor との違いは？
 
 - **tracker**：動きや進捗などを「記録・追跡」する装置や人
-- **[monitor](/word/monitor/)**：状況やデータを「監視・観察」する装置や人
+- **[monitor](/monitor)**：状況やデータを「監視・観察」する装置や人
 
 trackerは「記録・追跡」に重点があり、monitorは「監視・観察」に重点があります。
 
@@ -105,14 +109,14 @@ trackerは「記録・追跡」に重点があり、monitorは「監視・観察
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [sensor](/word/sensor/)：センサー、感知器
+- [device](/device)：装置、機器
+- [sensor](/sensor)：センサー、感知器
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録する
-- [analyze](/word/analyze/)：分析する
+- [record](/record)：記録する
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid18_bid17 -->
+<!-- cvid: aid05_bid11 -->

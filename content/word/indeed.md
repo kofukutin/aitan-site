@@ -77,15 +77,19 @@ TOEICでは、説明文やメール文などで「強調」や「補足」の意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、説明文やメール文などで「強調」や「補足」の意
 ## 🤔  actually との違いは？
 
 - **indeed**：前の内容を強調したり、肯定的に補足したりするフォーマルな表現。
-- **[actually](/word/actually/)**：実際には、という意味で、予想や事実と異なることをややカジュアルに伝える。
+- **[actually](/actually)**：実際には、という意味で、予想や事実と異なることをややカジュアルに伝える。
 
 indeedは「本当にそうだ」と強調する時、actuallyは「実は」「思っていたのと違う」と事実を訂正・補足する時に使います。
 
@@ -101,14 +105,14 @@ indeedは「本当にそうだ」と強調する時、actuallyは「実は」「
 
 ## 🧩 あわせて覚えたい
 
-- [certainly](/word/certainly/)：確かに、もちろん
-- [truly](/word/truly/)：本当に、心から
+- [certainly](/certainly)：確かに、もちろん
+- [truly](/truly)：本当に、心から
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/word/however/)：しかしながら
-- [therefore](/word/therefore/)：それゆえに
+- [however](/however)：しかしながら
+- [therefore](/therefore)：それゆえに
 
-<!-- cvid: aid03_bid44 -->
+<!-- cvid: aid33_bid03 -->

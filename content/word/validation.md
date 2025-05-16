@@ -81,15 +81,19 @@ validationはITやビジネス文書、手続きの説明などでPart 7によ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid14_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ validationはITやビジネス文書、手続きの説明などでPart 7によ�
 ## 🤔  verification との違いは？
 
 - **validation**：正しい・有効であることを証明する「妥当性確認」
-- **[verification](/word/verification/)**：事実や正確さを確認する「検証」
+- **[verification](/verification)**：事実や正確さを確認する「検証」
 
 validationは「目的や基準に合っているか」を確認するニュアンスが強く、verificationは「事実や正確さ」を確認する場面で使われます。
 
@@ -105,14 +109,14 @@ validationは「目的や基準に合っているか」を確認するニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval/)：承認
-- [authentication](/word/authentication/)：認証
+- [approval](/approval)：承認
+- [authentication](/authentication)：認証
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmation](/word/confirmation/)：確認
-- [assessment](/word/assessment/)：評価
+- [confirmation](/confirmation)：確認
+- [assessment](/assessment)：評価
 
-<!-- cvid: aid21_bid06 -->
+<!-- cvid: aid14_bid43 -->

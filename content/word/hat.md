@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【hat】の意味・使い方・例文 ― capとの違い【TOEIC英単語】"
 description: "hatの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcapとの違いもわかりやすく学べます。"
 word: "hat"
@@ -81,15 +81,19 @@ TOEICのPart 1で、人物が帽子をかぶっているかどうかを説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1で、人物が帽子をかぶっているかどうかを説明す
 ## 🤔  cap との違いは？
 
 - **hat**：つば付きや形のある一般的な「帽子」全般を指す
-- **[cap](/word/cap/)**：野球帽など、頭にぴったりフィットする「キャップ型の帽子」
+- **[cap](/cap)**：野球帽など、頭にぴったりフィットする「キャップ型の帽子」
 
 hatは広い意味での帽子を指し、capは特に頭にフィットするタイプの帽子を指します。
 
@@ -105,14 +109,14 @@ hatは広い意味での帽子を指し、capは特に頭にフィットする�
 
 ## 🧩 あわせて覚えたい
 
-- [helmet](/word/helmet/)：ヘルメット（頭部を守るための帽子）
-- [scarf](/word/scarf/)：スカーフ（首に巻く布）
+- [helmet](/helmet)：ヘルメット（頭部を守るための帽子）
+- [scarf](/scarf)：スカーフ（首に巻く布）
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt/)：シャツ
-- [bag](/word/bag/)：かばん
+- [shirt](/shirt)：シャツ
+- [bag](/bag)：かばん
 
-<!-- cvid: aid24_bid42 -->
+<!-- cvid: aid37_bid16 -->

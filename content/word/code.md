@@ -81,15 +81,19 @@ TOEICではITやセキュリティ、規則に関する文脈で「code」がよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやセキュリティ、規則に関する文脈で「code」がよ
 ## 🤔  password との違いは？
 
 - **code**：暗号や規則、またはプログラムの「コード」など幅広い意味で使う
-- **[password](/word/password/)**：主に「パスワード（合言葉）」として使い、個人認証の意味が強い
+- **[password](/password)**：主に「パスワード（合言葉）」として使い、個人認証の意味が強い
 
 **code**は暗号や規則、プログラムなど幅広い場面で使われますが、**password**は主に認証やログイン時の「合言葉」として限定的に使われます。
 
@@ -105,14 +109,14 @@ TOEICではITやセキュリティ、規則に関する文脈で「code」がよ
 
 ## 🧩 あわせて覚えたい
 
-- [cipher](/word/cipher/)：暗号、暗号文
-- [protocol](/word/protocol/)：通信規約、手順
+- [cipher](/cipher)：暗号、暗号文
+- [protocol](/protocol)：通信規約、手順
 
 ---
 
 ## 📖 できればこれも
 
-- [data](/word/data/)：データ、情報
-- [system](/word/system/)：システム、仕組み
+- [data](/data)：データ、情報
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid09_bid27 -->
+<!-- cvid: aid36_bid14 -->

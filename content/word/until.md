@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「～まで」と期間や期限を示す際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「～まで」と期間や期限を示す際に
 ## 🤔  by との違いは？
 
 - **until**：ある時点まで「継続」して何かが続くことを表す
-- **[by](/word/by/)**：ある時点「までに」何かが完了することを表す
+- **[by](/by)**：ある時点「までに」何かが完了することを表す
 
 untilは「その時点までずっと続く」イメージ、byは「その時点までに終わる」イメージで使い分けます。
 
@@ -101,14 +105,14 @@ untilは「その時点までずっと続く」イメージ、byは「その時�
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before/)：～より前に
-- [during](/word/during/)：～の間に
+- [before](/before)：～より前に
+- [during](/during)：～の間に
 
 ---
 
 ## 📖 できればこれも
 
-- [after](/word/after/)：～の後に
-- [since](/word/since/)：～以来
+- [after](/after)：～の後に
+- [since](/since)：～以来
 
-<!-- cvid: aid35_bid45 -->
+<!-- cvid: aid34_bid04 -->

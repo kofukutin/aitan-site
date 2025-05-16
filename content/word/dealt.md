@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「deal with」の過去形として頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「deal with」の過去形として頻出しま
 ## 🤔  handled との違いは？
 
 - **dealt**：問題や状況に対して「対処した」「扱った」という意味で、やや幅広いニュアンス。
-- **[handled](/word/handled/)**：特に「手際よく処理した」「操作した」というニュアンスが強い。
+- **[handled](/handled)**：特に「手際よく処理した」「操作した」というニュアンスが強い。
 
 「dealt」は状況全体への対応、「handled」は具体的な処理や操作に焦点が当たる点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「deal with」の過去形として頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [address](/word/address/)：（問題などに）取り組む、対処する
-- [manage](/word/manage/)：管理する、うまく扱う
+- [address](/address)：（問題などに）取り組む、対処する
+- [manage](/manage)：管理する、うまく扱う
 
 ---
 
 ## 📖 できればこれも
 
-- [sent](/word/sent/)：送った（sendの過去形・過去分詞）
-- [received](/word/received/)：受け取った（receiveの過去形・過去分詞）
+- [sent](/sent)：送った（sendの過去形・過去分詞）
+- [received](/received)：受け取った（receiveの過去形・過去分詞）
 
-<!-- cvid: aid25_bid43 -->
+<!-- cvid: aid32_bid15 -->

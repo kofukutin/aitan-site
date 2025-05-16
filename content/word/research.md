@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文やビジネス文書で「調査」「研究」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文やビジネス文書で「調査」「研究」
 ## 🤔  study との違いは？
 
 - **research**：体系的・科学的な調査や研究を指し、フォーマルな場面で使われる。
-- **[study](/word/study/)**：広く「学習」「勉強」「調査」を指し、個人の学びや小規模な調査にも使える。
+- **[study](/study)**：広く「学習」「勉強」「調査」を指し、個人の学びや小規模な調査にも使える。
 
 researchは専門的・学術的な探求、studyは個人の学習や一般的な調査に使われる点が異なります。
 
@@ -105,14 +109,14 @@ researchは専門的・学術的な探求、studyは個人の学習や一般的�
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment/)：実験
-- [analysis](/word/analysis/)：分析
+- [experiment](/experiment)：実験
+- [analysis](/analysis)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [survey](/word/survey/)：アンケート調査
-- [data](/word/data/)：データ、資料
+- [survey](/survey)：アンケート調査
+- [data](/data)：データ、資料
 
-<!-- cvid: aid32_bid47 -->
+<!-- cvid: aid23_bid33 -->

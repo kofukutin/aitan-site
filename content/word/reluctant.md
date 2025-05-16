@@ -81,15 +81,19 @@ TOEICでは、reluctantは「be reluctant to ～」の形で頻出し、やん�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、reluctantは「be reluctant to ～」の形で頻出し、やん�
 ## 🤔  unwilling との違いは？
 
 - **reluctant**：気が進まないが、必要ならやるという消極的な態度
-- **[unwilling](/word/unwilling/)**：強く「やりたくない」「拒否したい」という意思
+- **[unwilling](/unwilling)**：強く「やりたくない」「拒否したい」という意思
 
 reluctantは「しぶしぶ」「消極的」なニュアンス、unwillingは「断固拒否」や強い否定の気持ちを表します。
 
@@ -105,14 +109,14 @@ reluctantは「しぶしぶ」「消極的」なニュアンス、unwillingは�
 
 ## 🧩 あわせて覚えたい
 
-- [eager](/word/eager/)：熱心な、やる気満々の
-- [hesitant](/word/hesitant/)：ためらっている、躊躇している
+- [eager](/eager)：熱心な、やる気満々の
+- [hesitant](/hesitant)：ためらっている、躊躇している
 
 ---
 
 ## 📖 できればこれも
 
-- [willing](/word/willing/)：進んで～する気がある
-- [anxious](/word/anxious/)：心配している、切望している
+- [willing](/willing)：進んで～する気がある
+- [anxious](/anxious)：心配している、切望している
 
-<!-- cvid: aid24_bid30 -->
+<!-- cvid: aid11_bid37 -->

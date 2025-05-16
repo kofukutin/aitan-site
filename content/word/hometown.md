@@ -81,15 +81,19 @@ TOEICでは自己紹介や出身地に関する会話で出題されることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは自己紹介や出身地に関する会話で出題されることが
 ## 🤔  birthplace との違いは？
 
 - **hometown**：生まれ育った町や長く住んだ町を指し、親しみや思い出を込めて使う。
-- **[birthplace](/word/birthplace/)**：生まれた場所（出生地）を指し、公式・事実的な表現。
+- **[birthplace](/birthplace)**：生まれた場所（出生地）を指し、公式・事実的な表現。
 
 hometownは「思い入れのある故郷」、birthplaceは「生まれた場所」という事実を強調したいときに使い分けます。
 
@@ -105,14 +109,14 @@ hometownは「思い入れのある故郷」、birthplaceは「生まれた場�
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence/)：居住地、住まい
-- [native](/word/native/)：出身の、出生地の
+- [residence](/residence)：居住地、住まい
+- [native](/native)：出身の、出生地の
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor/)：近所の人、隣人
-- [suburb](/word/suburb/)：郊外
+- [neighbor](/neighbor)：近所の人、隣人
+- [suburb](/suburb)：郊外
 
-<!-- cvid: aid06_bid27 -->
+<!-- cvid: aid36_bid40 -->

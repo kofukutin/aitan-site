@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、牧場や農場の風景を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、牧場や農場の風景を説明す
 ## 🤔  farm との違いは？
 
 - **ranch**：牛や馬などの家畜を飼育する広大な牧場
-- **[farm](/word/farm/)**：作物栽培や家畜飼育を行う一般的な農場
+- **[farm](/farm)**：作物栽培や家畜飼育を行う一般的な農場
 
 ranchは特に家畜の放牧を中心とした大規模な牧場を指し、farmは作物や家畜など幅広い農業全般を指します。
 
@@ -105,14 +109,14 @@ ranchは特に家畜の放牧を中心とした大規模な牧場を指し、far
 
 ## 🧩 あわせて覚えたい
 
-- [pasture](/word/pasture/)：牧草地
-- [cattle](/word/cattle/)：牛（家畜としての）
+- [pasture](/pasture)：牧草地
+- [cattle](/cattle)：牛（家畜としての）
 
 ---
 
 ## 📖 できればこれも
 
-- [barn](/word/barn/)：納屋、家畜小屋
-- [field](/word/field/)：畑、野原
+- [barn](/barn)：納屋、家畜小屋
+- [field](/field)：畑、野原
 
-<!-- cvid: aid33_bid46 -->
+<!-- cvid: aid37_bid16 -->

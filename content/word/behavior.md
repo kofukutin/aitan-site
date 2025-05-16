@@ -81,15 +81,19 @@ TOEICでは、職場でのふるまいやマナー、評価などに関連して
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場でのふるまいやマナー、評価などに関連して
 ## 🤔  conduct との違いは？
 
 - **behavior**：日常的な行動やふるまい全般を指す、ややカジュアルな印象。
-- **[conduct](/word/conduct/)**：特に道徳的・規範的な「行い」「品行」を指し、フォーマルな場面で使われやすい。
+- **[conduct](/conduct)**：特に道徳的・規範的な「行い」「品行」を指し、フォーマルな場面で使われやすい。
 
 behaviorは普段のふるまい全般、conductは規則や倫理に沿った行動を強調したいときに使います。
 
@@ -105,14 +109,14 @@ behaviorは普段のふるまい全般、conductは規則や倫理に沿った�
 
 ## 🧩 あわせて覚えたい
 
-- [attitude](/word/attitude/)：態度、考え方
-- [manner](/word/manner/)：マナー、作法
+- [attitude](/attitude)：態度、考え方
+- [manner](/manner)：マナー、作法
 
 ---
 
 ## 📖 できればこれも
 
-- [habit](/word/habit/)：習慣
-- [action](/word/action/)：行動、動作
+- [habit](/habit)：習慣
+- [action](/action)：行動、動作
 
-<!-- cvid: aid29_bid29 -->
+<!-- cvid: aid17_bid08 -->

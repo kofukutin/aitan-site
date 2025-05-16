@@ -81,15 +81,19 @@ ITやビジネスの説明、製品の構造やシステムの話題で「layer�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの説明、製品の構造やシステムの話題で「layer�
 ## 🤔  level との違いは？
 
 - **layer**：物理的・抽象的な「層」や「重なり」を表す
-- **[level](/word/level/)**：高さ・段階・水準などの「レベル」「段階」を表す
+- **[level](/level)**：高さ・段階・水準などの「レベル」「段階」を表す
 
 layerは「重なり」や「階層構造」に、levelは「高さ」や「等級」に焦点があります。
 
@@ -105,14 +109,14 @@ layerは「重なり」や「階層構造」に、levelは「高さ」や「等�
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/word/surface/)：表面
-- [tier](/word/tier/)：段、階層
+- [surface](/surface)：表面
+- [tier](/tier)：段、階層
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure/)：構造
-- [section](/word/section/)：区分、部分
+- [structure](/structure)：構造
+- [section](/section)：区分、部分
 
-<!-- cvid: aid45_bid09 -->
+<!-- cvid: aid46_bid08 -->

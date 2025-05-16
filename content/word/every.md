@@ -81,15 +81,19 @@ TOEICでは文法問題や語彙問題で頻出し、単数名詞とセットで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文法問題や語彙問題で頻出し、単数名詞とセットで
 ## 🤔  each との違いは？
 
 - **every**：全体を一つ一つ見て「すべての」とまとめて表す
-- **[each](/word/each/)**：個々を強調し「それぞれの」と一つずつ区別して表す
+- **[each](/each)**：個々を強調し「それぞれの」と一つずつ区別して表す
 
 everyは全体をまとめて捉えるのに対し、eachは個々を意識して一つずつ区別するニュアンスがあります。
 
@@ -105,14 +109,14 @@ everyは全体をまとめて捉えるのに対し、eachは個々を意識し�
 
 ## 🧩 あわせて覚えたい
 
-- [all](/word/all/)：すべての（全体をまとめて強調）
-- [any](/word/any/)：どれでも、いずれかの
+- [all](/all)：すべての（全体をまとめて強調）
+- [any](/any)：どれでも、いずれかの
 
 ---
 
 ## 📖 できればこれも
 
-- [some](/word/some/)：いくつかの
-- [another](/word/another/)：もう一つの
+- [some](/some)：いくつかの
+- [another](/another)：もう一つの
 
-<!-- cvid: aid01_bid11 -->
+<!-- cvid: aid49_bid02 -->

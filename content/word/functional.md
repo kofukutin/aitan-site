@@ -81,15 +81,19 @@ TOEICでは、ITやビジネスの文脈で「functional」の正しい意味や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネスの文脈で「functional」の正しい意味や
 ## 🤔  practical との違いは？
 
 - **functional**：目的通りに「きちんと機能する」「動作する」ことを強調
-- **[practical](/word/practical/)**：実際に役立つ・現実的であることを強調
+- **[practical](/practical)**：実際に役立つ・現実的であることを強調
 
 functionalは「壊れていない」「使える」ことに重点があり、practicalは「現実的に役立つかどうか」に重点があります。
 
@@ -105,14 +109,14 @@ functionalは「壊れていない」「使える」ことに重点があり、p
 
 ## 🧩 あわせて覚えたい
 
-- [efficient](/word/efficient/)：効率的な
-- [operational](/word/operational/)：運用可能な、稼働している
+- [efficient](/efficient)：効率的な
+- [operational](/operational)：運用可能な、稼働している
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な
-- [technical](/word/technical/)：技術的な
+- [effective](/effective)：効果的な
+- [technical](/technical)：技術的な
 
-<!-- cvid: aid06_bid24 -->
+<!-- cvid: aid11_bid45 -->

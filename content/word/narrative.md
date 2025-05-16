@@ -81,15 +81,19 @@ TOEICでは、記事やレポート、説明文などの長文読解パートで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレポート、説明文などの長文読解パートで
 ## 🤔  story との違いは？
 
 - **narrative**：出来事や経験を順序立てて語る「物語」や「叙述」。背景や意図、視点を含むフォーマルな表現。
-- **[story](/word/story/)**：日常的な「話」「物語」。必ずしも順序や背景説明を重視しないカジュアルな表現。
+- **[story](/story)**：日常的な「話」「物語」。必ずしも順序や背景説明を重視しないカジュアルな表現。
 
 narrativeは出来事の流れや背景、語り手の視点を重視するフォーマルな語で、storyはもっと気軽な「話」や「エピソード」に使われます。
 
@@ -105,14 +109,14 @@ narrativeは出来事の流れや背景、語り手の視点を重視するフ�
 
 ## 🧩 あわせて覚えたい
 
-- [account](/word/account/)：説明、報告
-- [description](/word/description/)：描写、記述
+- [account](/account)：説明、報告
+- [description](/description)：描写、記述
 
 ---
 
 ## 📖 できればこれも
 
-- [perspective](/word/perspective/)：視点、観点
-- [summary](/word/summary/)：要約
+- [perspective](/perspective)：視点、観点
+- [summary](/summary)：要約
 
-<!-- cvid: aid22_bid17 -->
+<!-- cvid: aid02_bid14 -->

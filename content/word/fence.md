@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、建物や庭、施設の外観
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、建物や庭、施設の外観
 ## 🤔  wall との違いは？
 
 - **fence**：木や金属などでできた「柵」や「囲い」。向こう側が見えることが多い。
-- **[wall](/word/wall/)**：コンクリートやレンガなどでできた「壁」。視界を完全に遮る。
+- **[wall](/wall)**：コンクリートやレンガなどでできた「壁」。視界を完全に遮る。
 
 fenceは区切りや境界を示す軽い仕切り、wallは完全に仕切る堅固な構造物という違いがあります。
 
@@ -105,14 +109,14 @@ fenceは区切りや境界を示す軽い仕切り、wallは完全に仕切る�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier/)：障害物、バリケード
-- [gate](/word/gate/)：門、出入口
+- [barrier](/barrier)：障害物、バリケード
+- [gate](/gate)：門、出入口
 
 ---
 
 ## 📖 できればこれも
 
-- [garden](/word/garden/)：庭
-- [yard](/word/yard/)：庭、敷地
+- [garden](/garden)：庭
+- [yard](/yard)：庭、敷地
 
-<!-- cvid: aid40_bid25 -->
+<!-- cvid: aid23_bid41 -->

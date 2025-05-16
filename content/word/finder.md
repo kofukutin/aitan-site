@@ -81,7 +81,7 @@ ITやビジネス文書、説明書などで「finder」が登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ ITやビジネス文書、説明書などで「finder」が登場することが
 
 <div class="info-center">
 ＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、説明書などで「finder」が登場することが
 ## 🤔  searcher との違いは？
 
 - **finder**：何かを見つける人・物、または装置やソフト名としても使う
-- **[searcher](/word/searcher/)**：積極的に探し回る人、調査者
+- **[searcher](/searcher)**：積極的に探し回る人、調査者
 
 finderは「見つけること」に重点があり、searcherは「探す行為」に重点があります。
 
@@ -105,14 +109,14 @@ finderは「見つけること」に重点があり、searcherは「探す行為
 
 ## 🧩 あわせて覚えたい
 
-- [explorer](/word/explorer/)：探検家、調査者
-- [locator](/word/locator/)：位置を特定する装置・人
+- [explorer](/explorer)：探検家、調査者
+- [locator](/locator)：位置を特定する装置・人
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [viewer](/word/viewer/)：見る人、閲覧ソフト
+- [device](/device)：装置、機器
+- [viewer](/viewer)：見る人、閲覧ソフト
 
-<!-- cvid: aid28_bid12 -->
+<!-- cvid: aid08_bid12 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cold】の意味・使い方・例文 ― coolとの違い【TOEIC英単語】"
 description: "coldの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcoolとの違いもわかりやすく学べます。"
 word: "cold"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、天気・飲食に関する場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid10_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、天気・飲食に関する場面で
 ## 🤔  cool との違いは？
 
 - **cold**：温度がかなり低く「冷たい」「寒い」と感じる状態。
-- **[cool](/word/cool/)**：少し冷たくて「涼しい」「ひんやりした」程度の状態。
+- **[cool](/cool)**：少し冷たくて「涼しい」「ひんやりした」程度の状態。
 
 coldは「冷たい」とはっきり感じる時に使い、coolは「心地よい涼しさ」や「やや冷たい」時に使います。
 
@@ -105,14 +109,14 @@ coldは「冷たい」とはっきり感じる時に使い、coolは「心地よ
 
 ## 🧩 あわせて覚えたい
 
-- [warm](/word/warm/)：暖かい
-- [hot](/word/hot/)：熱い
+- [warm](/warm)：暖かい
+- [hot](/hot)：熱い
 
 ---
 
 ## 📖 できればこれも
 
-- [warm](/word/warm/)：暖かい
-- [hot](/word/hot/)：熱い
+- [warm](/warm)：暖かい
+- [hot](/hot)：熱い
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid10_bid45 -->

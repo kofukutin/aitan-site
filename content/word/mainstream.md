@@ -81,15 +81,19 @@ TOEICでは、記事やビジネス文書の中で「主流」「一般的な流
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やビジネス文書の中で「主流」「一般的な流
 ## 🤔  trend との違いは？
 
 - **mainstream**：社会や分野で広く受け入れられている「主流」や「大勢」
-- **[trend](/word/trend/)**：一時的な「流行」や「傾向」
+- **[trend](/trend)**：一時的な「流行」や「傾向」
 
 mainstreamは安定して広く定着したもの、trendは一時的な動きや流行を指します。
 
@@ -105,14 +109,14 @@ mainstreamは安定して広く定着したもの、trendは一時的な動き�
 
 ## 🧩 あわせて覚えたい
 
-- [minority](/word/minority/)：少数派
-- [conventional](/word/conventional/)：従来の、慣習的な
+- [minority](/minority)：少数派
+- [conventional](/conventional)：従来の、慣習的な
 
 ---
 
 ## 📖 できればこれも
 
-- [custom](/word/custom/)：慣習、習慣
-- [standard](/word/standard/)：基準、標準
+- [custom](/custom)：慣習、習慣
+- [standard](/standard)：基準、標準
 
-<!-- cvid: aid15_bid17 -->
+<!-- cvid: aid04_bid27 -->

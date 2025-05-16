@@ -81,15 +81,19 @@ TOEICではショッピングや観光、商品説明の文脈で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではショッピングや観光、商品説明の文脈で登場するこ
 ## 🤔  accessory との違いは？
 
 - **jewelry**：宝石や貴金属で作られた高価な装飾品全般を指す。
-- **[accessory](/word/accessory/)**：帽子やバッグ、ベルトなど、服装を引き立てる装飾品全般を指す。
+- **[accessory](/accessory)**：帽子やバッグ、ベルトなど、服装を引き立てる装飾品全般を指す。
 
 jewelryは主に宝石類に限定されるのに対し、accessoryは幅広いファッション小物を含みます。
 
@@ -105,14 +109,14 @@ jewelryは主に宝石類に限定されるのに対し、accessoryは幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [gem](/word/gem/)：宝石
-- [ornament](/word/ornament/)：装飾品
+- [gem](/gem)：宝石
+- [ornament](/ornament)：装飾品
 
 ---
 
 ## 📖 できればこれも
 
-- [ring](/word/ring/)：指輪
-- [necklace](/word/necklace/)：ネックレス
+- [ring](/ring)：指輪
+- [necklace](/necklace)：ネックレス
 
-<!-- cvid: aid00_bid32 -->
+<!-- cvid: aid43_bid04 -->

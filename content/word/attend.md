@@ -81,15 +81,19 @@ TOEICでは会議やイベント、セミナーなどの出席に関する会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベント、セミナーなどの出席に関する会話
 ## 🤔  participate との違いは？
 
 - **attend**：単に「出席する」「その場にいる」ことを表す
-- **[participate](/word/participate/)**：積極的に「参加する」「関与する」ことを表す
+- **[participate](/participate)**：積極的に「参加する」「関与する」ことを表す
 
 attendは「その場にいる」ことに重点があり、participateは「積極的に関わる」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ attendは「その場にいる」ことに重点があり、participateは「積
 
 ## 🧩 あわせて覚えたい
 
-- [join](/word/join/)：加わる、参加する
-- [absence](/word/absence/)：欠席
+- [join](/join)：加わる、参加する
+- [absence](/absence)：欠席
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive/)：到着する
-- [register](/word/register/)：登録する
+- [arrive](/arrive)：到着する
+- [register](/register)：登録する
 
-<!-- cvid: aid06_bid31 -->
+<!-- cvid: aid07_bid03 -->

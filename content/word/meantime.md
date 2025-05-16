@@ -81,15 +81,19 @@ TOEICでは会話や指示の中で「in the meantime」の形でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示の中で「in the meantime」の形でよく登場し
 ## 🤔  meanwhile との違いは？
 
 - **meantime**：「その間（合間）」を名詞として使う。特に「in the meantime」の形が一般的。
-- **[meanwhile](/word/meanwhile/)**：「その間に」を副詞として使い、文頭や文中で単独で使える。
+- **[meanwhile](/meanwhile)**：「その間に」を副詞として使い、文頭や文中で単独で使える。
 
 meantimeは「in the meantime」として名詞句で使うのが基本ですが、meanwhileは副詞で、より柔軟に文の中で使えます。
 
@@ -105,14 +109,14 @@ meantimeは「in the meantime」として名詞句で使うのが基本ですが
 
 ## 🧩 あわせて覚えたい
 
-- [interval](/word/interval/)：間隔、合間
-- [pause](/word/pause/)：一時停止、休止
+- [interval](/interval)：間隔、合間
+- [pause](/pause)：一時停止、休止
 
 ---
 
 ## 📖 できればこれも
 
-- [afterward](/word/afterward/)：その後で
-- [during](/word/during/)：～の間に
+- [afterward](/afterward)：その後で
+- [during](/during)：～の間に
 
-<!-- cvid: aid37_bid37 -->
+<!-- cvid: aid49_bid26 -->

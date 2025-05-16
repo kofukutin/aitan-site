@@ -81,15 +81,19 @@ TOEICでは会議やビジネスのやりとりで「問題」「案件」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスのやりとりで「問題」「案件」とし
 ## 🤔  issue との違いは？
 
 - **matter**：一般的な「事柄」「問題」「案件」など幅広く使える
-- **[issue](/word/issue/)**：議論や解決が必要な「問題」「課題」に特化
+- **[issue](/issue)**：議論や解決が必要な「問題」「課題」に特化
 
 matterは広く「事柄」や「問題」を指し、issueは特に議論や解決を要する「課題」に使われます。
 
@@ -105,14 +109,14 @@ matterは広く「事柄」や「問題」を指し、issueは特に議論や解
 
 ## 🧩 あわせて覚えたい
 
-- [topic](/word/topic/)：話題、テーマ
-- [subject](/word/subject/)：主題、テーマ
+- [topic](/topic)：話題、テーマ
+- [subject](/subject)：主題、テーマ
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case/)：事例、場合
-- [affair](/word/affair/)：出来事、事件
+- [case](/case)：事例、場合
+- [affair](/affair)：出来事、事件
 
-<!-- cvid: aid34_bid37 -->
+<!-- cvid: aid20_bid35 -->

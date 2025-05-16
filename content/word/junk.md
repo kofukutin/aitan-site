@@ -80,15 +80,19 @@ junkはTOEICの会話パートで、不要な物やメール（junk mail）な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ junkはTOEICの会話パートで、不要な物やメール（junk mail）な�
 ## 🤔  garbage との違いは？
 
 - **junk**：使い道のない物やがらくた、価値のない物を指すカジュアルな表現。
-- **[garbage](/word/garbage/)**：主に「生ごみ」や「捨てるべきごみ」を指し、特にアメリカ英語でよく使われる。
+- **[garbage](/garbage)**：主に「生ごみ」や「捨てるべきごみ」を指し、特にアメリカ英語でよく使われる。
 
 junkは「まだ捨てていない不要物」や「価値のない物」を広く指し、garbageは「捨てるごみ」や「生ごみ」に限定されることが多いです。
 
@@ -104,14 +108,14 @@ junkは「まだ捨てていない不要物」や「価値のない物」を広�
 
 ## 🧩 あわせて覚えたい
 
-- [trash](/word/trash/)：ごみ、不要物（アメリカ英語で一般的）
-- [clutter](/word/clutter/)：散らかったもの、雑然とした物
+- [trash](/trash)：ごみ、不要物（アメリカ英語で一般的）
+- [clutter](/clutter)：散らかったもの、雑然とした物
 
 ---
 
 ## 📖 できればこれも
 
-- [waste](/word/waste/)：無駄、廃棄物
-- [stuff](/word/stuff/)：もの、物事（カジュアルな総称）
+- [waste](/waste)：無駄、廃棄物
+- [stuff](/stuff)：もの、物事（カジュアルな総称）
 
-<!-- cvid: aid04_bid26 -->
+<!-- cvid: aid24_bid22 -->

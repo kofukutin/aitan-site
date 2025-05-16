@@ -82,15 +82,19 @@ TOEICでは、学校や研修、セミナーなどの案内文やメールで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、学校や研修、セミナーなどの案内文やメールで「
 ## 🤔  course との違いは？
 
 - **class**：1回ごとの授業や学級、集団を指す
-- **[course](/word/course/)**：一連の授業やカリキュラム全体を指す
+- **[course](/course)**：一連の授業やカリキュラム全体を指す
 
 classは「今日の英語の授業」や「このクラスの生徒」のように個々の授業や集団を指し、courseは「英語コース」のように複数回の授業をまとめた全体を表します。
 
@@ -106,14 +110,14 @@ classは「今日の英語の授業」や「このクラスの生徒」のよう
 
 ## 🧩 あわせて覚えたい
 
-- [lesson](/word/lesson/)：個別の授業、レッスン
-- [lecture](/word/lecture/)：講義（特に大学などでの大人数向け）
+- [lesson](/lesson)：個別の授業、レッスン
+- [lecture](/lecture)：講義（特に大学などでの大人数向け）
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject/)：科目、テーマ
-- [teacher](/word/teacher/)：教師、先生
+- [subject](/subject)：科目、テーマ
+- [teacher](/teacher)：教師、先生
 
-<!-- cvid: aid17_bid33 -->
+<!-- cvid: aid48_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは主に科学やエネルギー関連の記事や説明文で登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学やエネルギー関連の記事や説明文で登場し
 ## 🤔  crude oil との違いは？
 
 - **petroleum**：地下から採れる液体状の石油全般を指す、やや広い意味。
-- **[crude oil](/word/crude_oil/)**：精製前の「原油」を指し、petroleumの一部。
+- **[crude oil](/crude_oil)**：精製前の「原油」を指し、petroleumの一部。
 
 petroleumは精製後も含む広い意味ですが、crude oilは「原油」として未精製の状態のみを指します。
 
@@ -105,14 +109,14 @@ petroleumは精製後も含む広い意味ですが、crude oilは「原油」�
 
 ## 🧩 あわせて覚えたい
 
-- [gasoline](/word/gasoline/)：ガソリン（石油から精製される燃料）
-- [natural gas](/word/natural_gas/)：天然ガス（主にメタンからなる気体燃料）
+- [gasoline](/gasoline)：ガソリン（石油から精製される燃料）
+- [natural gas](/natural_gas)：天然ガス（主にメタンからなる気体燃料）
 
 ---
 
 ## 📖 できればこれも
 
-- [mineral](/word/mineral/)：鉱物
-- [resource](/word/resource/)：資源
+- [mineral](/mineral)：鉱物
+- [resource](/resource)：資源
 
-<!-- cvid: aid07_bid38 -->
+<!-- cvid: aid22_bid01 -->

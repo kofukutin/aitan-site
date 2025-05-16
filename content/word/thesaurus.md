@@ -80,15 +80,19 @@ TOEICでは、説明文や指示文で「thesaurus」が資料や参考書とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、説明文や指示文で「thesaurus」が資料や参考書とし
 ## 🤔  dictionary との違いは？
 
 - **thesaurus**：単語の類義語や反意語を一覧で示す辞典
-- **[dictionary](/word/dictionary/)**：単語の意味や発音、用法などを説明する辞典
+- **[dictionary](/dictionary)**：単語の意味や発音、用法などを説明する辞典
 
 thesaurusは「言い換え」や「表現の幅」を広げたいときに使い、dictionaryは「意味や使い方」を調べたいときに使います。
 
@@ -104,14 +108,14 @@ thesaurusは「言い換え」や「表現の幅」を広げたいときに使�
 
 ## 🧩 あわせて覚えたい
 
-- [encyclopedia](/word/encyclopedia/)：百科事典（幅広い知識をまとめた本）
-- [glossary](/word/glossary/)：用語集（特定分野の専門用語リスト）
+- [encyclopedia](/encyclopedia)：百科事典（幅広い知識をまとめた本）
+- [glossary](/glossary)：用語集（特定分野の専門用語リスト）
 
 ---
 
 ## 📖 できればこれも
 
-- [reference](/word/reference/)：参考資料
-- [manual](/word/manual/)：手引き、マニュアル
+- [reference](/reference)：参考資料
+- [manual](/manual)：手引き、マニュアル
 
-<!-- cvid: aid04_bid38 -->
+<!-- cvid: aid03_bid32 -->

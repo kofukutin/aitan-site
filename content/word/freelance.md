@@ -83,7 +83,7 @@ TOEICではPart 7の求人広告やビジネスメール、契約書などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できた自分を信じよう👇️
 
 ---
 
@@ -91,7 +91,11 @@ TOEICではPart 7の求人広告やビジネスメール、契約書などで「
 
 <div class="info-center">
 ＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -107,13 +111,13 @@ freelanceは「自由契約で働く人」に特化し、self-employedは「自�
 
 ## 🧩 あわせて覚えたい
 
-- [contractor](/word/contractor/)：請負業者、契約社員
-- [gig](/word/gig/)：単発の仕事、短期の仕事
+- [contractor](/contractor)：請負業者、契約社員
+- [gig](/gig)：単発の仕事、短期の仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：依頼主、顧客
-- [project](/word/project/)：プロジェクト、計画
-<!-- cvid: aid29_bid34 -->
+- [client](/client)：依頼主、顧客
+- [project](/project)：プロジェクト、計画
+<!-- cvid: aid49_bid34 -->

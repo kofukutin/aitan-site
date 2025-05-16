@@ -81,15 +81,19 @@ TOEICでは環境や動物に関する長文や記事で登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や動物に関する長文や記事で登場することがあ
 ## 🤔  dolphin との違いは？
 
 - **whale**：クジラ。体が非常に大きく、主にプランクトンや小魚を食べる海の哺乳類。
-- **[dolphin](/word/dolphin/)**：イルカ。クジラより小型で、知能が高く群れで行動することが多い。
+- **[dolphin](/dolphin)**：イルカ。クジラより小型で、知能が高く群れで行動することが多い。
 
 whaleは巨大な海の哺乳類全般を指し、dolphinはより小型で知能が高い種類を指します。
 
@@ -105,15 +109,15 @@ whaleは巨大な海の哺乳類全般を指し、dolphinはより小型で知�
 
 ## 🧩 あわせて覚えたい
 
-- [shark](/word/shark/)：サメ（海に住む大型の魚）
-- [seal](/word/seal/)：アザラシ（海に住む哺乳類）
+- [shark](/shark)：サメ（海に住む大型の魚）
+- [seal](/seal)：アザラシ（海に住む哺乳類）
 
 ---
 
 ## 📖 できればこれも
 
-- [ocean](/word/ocean/)：海洋、大洋
-- [fish](/word/fish/)：魚
+- [ocean](/ocean)：海洋、大洋
+- [fish](/fish)：魚
 
 
-<!-- cvid: aid28_bid35 -->
+<!-- cvid: aid34_bid28 -->

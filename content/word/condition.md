@@ -82,15 +82,19 @@ TOEICでは「契約の条件」や「機械の状態」など、ビジネス文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「契約の条件」や「機械の状態」など、ビジネス文
 ## 🤔  term との違いは？
 
 - **condition**：状態や契約などの「条件」を幅広く指す
-- **[term](/word/term/)**：契約の「期間」や「専門用語」など、より限定的な意味
+- **[term](/term)**：契約の「期間」や「専門用語」など、より限定的な意味
 
 conditionは「状態」や「条件」として広く使われますが、termは「期間」や「用語」など限定的な場面で使われます。
 
@@ -106,15 +110,15 @@ conditionは「状態」や「条件」として広く使われますが、term�
 
 ## 🧩 あわせて覚えたい
 
-- [requirement](/word/requirement/)：要求事項、必要条件
-- [circumstance](/word/circumstance/)：状況、事情
+- [requirement](/requirement)：要求事項、必要条件
+- [circumstance](/circumstance)：状況、事情
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [contract](/word/contract/)：契約書、契約
+- [agreement](/agreement)：合意、契約
+- [contract](/contract)：契約書、契約
 
 
-<!-- cvid: aid26_bid09 -->
+<!-- cvid: aid22_bid34 -->

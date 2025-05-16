@@ -81,15 +81,19 @@ TOEICでは、製品やサービスの「初公開」や「新登場」を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やサービスの「初公開」や「新登場」を説明
 ## 🤔  launch との違いは？
 
 - **debut**：人や製品が初めて公に登場することに重点がある
-- **[launch](/word/launch/)**：新製品やサービスを正式に市場に投入・開始すること
+- **[launch](/launch)**：新製品やサービスを正式に市場に投入・開始すること
 
 debutは「初登場」の場面や注目度に焦点があり、launchは「発売・開始」というビジネス的な動作に重点があります。
 
@@ -105,14 +109,14 @@ debutは「初登場」の場面や注目度に焦点があり、launchは「発
 
 ## 🧩 あわせて覚えたい
 
-- [premiere](/word/premiere/)：初演、初公開
-- [introduction](/word/introduction/)：導入、紹介
+- [premiere](/premiere)：初演、初公開
+- [introduction](/introduction)：導入、紹介
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/word/announce/)：発表する
-- [release](/word/release/)：公開する、発売する
+- [announce](/announce)：発表する
+- [release](/release)：公開する、発売する
 
-<!-- cvid: aid18_bid39 -->
+<!-- cvid: aid19_bid48 -->

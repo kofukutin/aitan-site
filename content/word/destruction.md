@@ -81,15 +81,19 @@ TOEICでは環境問題や災害、経済的損失などの文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や災害、経済的損失などの文脈で出題され
 ## 🤔  damage との違いは？
 
 - **destruction**：元の形がなくなるほどの「完全な破壊」
-- **[damage](/word/damage/)**：部分的な「損傷」や「被害」
+- **[damage](/damage)**：部分的な「損傷」や「被害」
 
 **destruction**は「全壊」や「壊滅」など、元に戻せないほどの壊れ方を指しますが、**damage**は「一部が壊れる」「損傷する」など、修復可能な場合にも使います。
 
@@ -105,14 +109,14 @@ TOEICでは環境問題や災害、経済的損失などの文脈で出題され
 
 ## 🧩 あわせて覚えたい
 
-- [ruin](/word/ruin/)：荒廃、破滅
-- [creation](/word/creation/)：創造、創作
+- [ruin](/ruin)：荒廃、破滅
+- [creation](/creation)：創造、創作
 
 ---
 
 ## 📖 できればこれも
 
-- [pollution](/word/pollution/)：汚染
-- [disaster](/word/disaster/)：災害
+- [pollution](/pollution)：汚染
+- [disaster](/disaster)：災害
 
-<!-- cvid: aid13_bid48 -->
+<!-- cvid: aid20_bid39 -->

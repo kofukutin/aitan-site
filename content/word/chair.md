@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【chair】の意味・使い方・例文 ― seatとの違い【TOEIC英単語】"
 description: "chairの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでseatとの違いもわかりやすく学べます。"
 word: "chair"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「椅子」に関する描写や、会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid07_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「椅子」に関する描写や、会
 ## 🤔  seat との違いは？
 
 - **chair**：背もたれや脚のある「椅子」そのものを指す。
-- **[seat](/word/seat/)**：座る場所全般（椅子・ベンチ・座席など）を指す。
+- **[seat](/seat)**：座る場所全般（椅子・ベンチ・座席など）を指す。
 
 chairは具体的な「椅子」を指し、seatは「座る場所」全般を表します。
 
@@ -105,14 +109,14 @@ chairは具体的な「椅子」を指し、seatは「座る場所」全般を�
 
 ## 🧩 あわせて覚えたい
 
-- [table](/word/table/)：テーブル、机
-- [desk](/word/desk/)：机（特に作業用）
+- [table](/table)：テーブル、机
+- [desk](/desk)：机（特に作業用）
 
 ---
 
 ## 📖 できればこれも
 
-- [office](/word/office/)：オフィス、事務所
-- [room](/word/room/)：部屋
+- [office](/office)：オフィス、事務所
+- [room](/room)：部屋
 
-<!-- cvid: aid40_bid43 -->
+<!-- cvid: aid07_bid27 -->

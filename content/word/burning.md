@@ -81,15 +81,19 @@ TOEICでは、火災や緊急事態、または比喩的に「緊急の課題」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、火災や緊急事態、または比喩的に「緊急の課題」
 ## 🤔  blazing との違いは？
 
 - **burning**：燃えている状態、または比喩的に「切実な」「緊急の」
-- **[blazing](/word/blazing/)**：非常に激しく燃えている、まぶしいほど明るい
+- **[blazing](/blazing)**：非常に激しく燃えている、まぶしいほど明るい
 
 「burning」は一般的な「燃えている」状態や比喩的な強い感情・問題に使い、「blazing」はより激しく、勢いよく燃える様子や強い光を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、火災や緊急事態、または比喩的に「緊急の課題」
 
 ## 🧩 あわせて覚えたい
 
-- [flame](/word/flame/)：炎
-- [ignite](/word/ignite/)：点火する、火をつける
+- [flame](/flame)：炎
+- [ignite](/ignite)：点火する、火をつける
 
 ---
 
 ## 📖 できればこれも
 
-- [smoke](/word/smoke/)：煙
-- [melt](/word/melt/)：溶ける
+- [smoke](/smoke)：煙
+- [melt](/melt)：溶ける
 
-<!-- cvid: aid19_bid41 -->
+<!-- cvid: aid02_bid13 -->

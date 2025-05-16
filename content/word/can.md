@@ -77,15 +77,19 @@ TOEICではPart 2の応答や依頼表現で頻出です。基本的な助動詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -101,14 +105,14 @@ canは現在や一般的な能力・可能性に使い、be able toは時制や�
 
 ## 🧩 あわせて覚えたい
 
-- [may](/word/may/)：～かもしれない、～してもよい
-- [must](/word/must/)：～しなければならない
+- [may](/may)：～かもしれない、～してもよい
+- [must](/must)：～しなければならない
 
 ---
 
 ## 📖 できればこれも
 
-- [could](/word/could/)：canの過去形・丁寧な依頼
-- [will](/word/will/)：～するつもりだ、未来を表す
+- [could](/could)：canの過去形・丁寧な依頼
+- [will](/will)：～するつもりだ、未来を表す
 
-<!-- cvid: aid12_bid14 -->
+<!-- cvid: aid17_bid36 -->

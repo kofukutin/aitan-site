@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「手伝う」「支援する」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「手伝う」「支援する」という意味
 ## 🤔  help との違いは？
 
 - **assist**：フォーマルで、公式な場面やビジネスで「手伝う」「補助する」ときに使う
-- **[help](/word/help/)**：カジュアルで、日常的な「助ける」「手伝う」に広く使う
+- **[help](/help)**：カジュアルで、日常的な「助ける」「手伝う」に広く使う
 
 assistはhelpよりも丁寧で、特に職場や公式な状況で使われることが多いです。
 
@@ -105,14 +109,14 @@ assistはhelpよりも丁寧で、特に職場や公式な状況で使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支える、支援する
-- [facilitate](/word/facilitate/)：円滑に進める、促進する
+- [support](/support)：支える、支援する
+- [facilitate](/facilitate)：円滑に進める、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/word/guide/)：案内する、導く
-- [aid](/word/aid/)：援助する、助ける
+- [guide](/guide)：案内する、導く
+- [aid](/aid)：援助する、助ける
 
-<!-- cvid: aid08_bid06 -->
+<!-- cvid: aid09_bid15 -->

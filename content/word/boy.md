@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【boy】の意味・使い方・例文 ― sonとの違い【TOEIC英単語】"
 description: "boyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsonとの違いもわかりやすく学べます。"
 word: "boy"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物を説明する際に使われ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物を説明する際に使われ
 ## 🤔  son との違いは？
 
 - **boy**：一般的に「男の子」「少年」を指すカジュアルな表現。
-- **[son](/word/son/)**：親から見た「息子」という意味で、家族関係を強調。
+- **[son](/son)**：親から見た「息子」という意味で、家族関係を強調。
 
 「boy」は年齢や性別に注目した言い方、「son」は家族内での立場を表す言い方です。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、人物を説明する際に使われ
 
 ## 🧩 あわせて覚えたい
 
-- [girl](/word/girl/)：女の子、少女
-- [child](/word/child/)：子ども（性別問わず）
+- [girl](/girl)：女の子、少女
+- [child](/child)：子ども（性別問わず）
 
 ---
 
 ## 📖 できればこれも
 
-- [girl](/word/girl/)：女の子
-- [child](/word/child/)：子ども
+- [girl](/girl)：女の子
+- [child](/child)：子ども
 
-<!-- cvid: aid06_bid15 -->
+<!-- cvid: aid17_bid39 -->

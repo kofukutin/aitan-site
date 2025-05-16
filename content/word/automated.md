@@ -81,15 +81,19 @@ TOEICでは、ITやビジネスの文脈で「automated system」「automated pr
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネスの文脈で「automated system」「automated pr
 ## 🤔  automatic との違いは？
 
 - **automated**：人の手を使わずに自動化された（特にシステムやプロセスに使う）
-- **[automatic](/word/automatic/)**：自動的に動作する（機械や装置自体の性質を指す）
+- **[automatic](/automatic)**：自動的に動作する（機械や装置自体の性質を指す）
 
 「automated」は人の作業を機械化したニュアンスが強く、プロセスやシステムに多用されます。「automatic」は機械や装置が自動で動く性質そのものを表します。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネスの文脈で「automated system」「automated pr
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual/)：手動の
-- [mechanized](/word/mechanized/)：機械化された
+- [manual](/manual)：手動の
+- [mechanized](/mechanized)：機械化された
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [electronic](/word/electronic/)：電子の
+- [digital](/digital)：デジタルの
+- [electronic](/electronic)：電子の
 
-<!-- cvid: aid04_bid08 -->
+<!-- cvid: aid30_bid23 -->

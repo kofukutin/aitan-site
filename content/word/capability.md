@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や技術的な説明で「能力」「性能
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や技術的な説明で「能力」「性能
 ## 🤔  ability との違いは？
 
 - **capability**：特定の目的や機能に対する「実行可能な能力」や「性能」を強調
-- **[ability](/word/ability/)**：個人の持つ一般的な「能力」や「才能」を指す
+- **[ability](/ability)**：個人の持つ一般的な「能力」や「才能」を指す
 
 capabilityは組織・機械・システムなどの「できること」に焦点を当て、abilityは人の「できる力」や「才能」に使われることが多いです。
 
@@ -105,14 +109,14 @@ capabilityは組織・機械・システムなどの「できること」に焦�
 
 ## 🧩 あわせて覚えたい
 
-- [capacity](/word/capacity/)：収容力、容量
-- [competence](/word/competence/)：適性、力量
+- [capacity](/capacity)：収容力、容量
+- [competence](/competence)：適性、力量
 
 ---
 
 ## 📖 できればこれも
 
-- [potential](/word/potential/)：潜在能力
-- [function](/word/function/)：機能
+- [potential](/potential)：潜在能力
+- [function](/function)：機能
 
-<!-- cvid: aid24_bid10 -->
+<!-- cvid: aid03_bid19 -->

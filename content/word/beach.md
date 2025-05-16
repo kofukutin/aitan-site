@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【beach】の意味・使い方・例文 ― coastとの違い【TOEIC英単語】"
 description: "beachの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcoastとの違いもわかりやすく学べます。"
 word: "beach"
@@ -83,15 +83,19 @@ TOEICでは主にPart 1の写真描写で、海辺や観光地の情景を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは主にPart 1の写真描写で、海辺や観光地の情景を説明
 ## 🤔  coast との違いは？
 
 - **beach**：砂や小石のある「浜辺」「砂浜」など、人が遊んだりくつろいだりする場所を指す。
-- **[coast](/word/coast/)**：国や地域の「海岸線」全体や沿岸部を指し、砂浜に限らず崖や岩場も含む。
+- **[coast](/coast)**：国や地域の「海岸線」全体や沿岸部を指し、砂浜に限らず崖や岩場も含む。
 
 beachはレジャーや観光のイメージが強く、coastは地理的な広い範囲を表します。
 
@@ -107,14 +111,14 @@ beachはレジャーや観光のイメージが強く、coastは地理的な広�
 
 ## 🧩 あわせて覚えたい
 
-- [shore](/word/shore/)：岸、岸辺（海・湖・川の水際全般）
-- [seaside](/word/seaside/)：海辺、海岸（特にリゾート地としての海辺）
+- [shore](/shore)：岸、岸辺（海・湖・川の水際全般）
+- [seaside](/seaside)：海辺、海岸（特にリゾート地としての海辺）
 
 ---
 
 ## 📖 できればこれも
 
-- [island](/word/island/)：島
-- [river](/word/river/)：川
+- [island](/island)：島
+- [river](/river)：川
 
-<!-- cvid: aid08_bid47 -->
+<!-- cvid: aid28_bid10 -->

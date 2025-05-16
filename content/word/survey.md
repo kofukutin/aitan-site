@@ -81,15 +81,19 @@ TOEICではPart 7の長文読解で、アンケートや調査結果に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文読解で、アンケートや調査結果に関する
 ## 🤔  questionnaire との違いは？
 
 - **survey**：広い範囲の情報を集めるための調査やアンケート全体を指す
-- **[questionnaire](/word/questionnaire/)**：質問項目そのもの、記入用紙やフォームを指す
+- **[questionnaire](/questionnaire)**：質問項目そのもの、記入用紙やフォームを指す
 
 surveyは調査活動全体や結果も含みますが、questionnaireは「質問票」自体を意味します。
 
@@ -105,14 +109,14 @@ surveyは調査活動全体や結果も含みますが、questionnaireは「質�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection/)：検査、視察
-- [poll](/word/poll/)：世論調査、投票
+- [inspection](/inspection)：検査、視察
+- [poll](/poll)：世論調査、投票
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report/)：報告書、レポート
-- [analysis](/word/analysis/)：分析
+- [report](/report)：報告書、レポート
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid39_bid04 -->
+<!-- cvid: aid25_bid16 -->

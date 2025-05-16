@@ -81,15 +81,19 @@ TOEICでは医療や福利厚生、従業員サポートに関する長文で見
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や福利厚生、従業員サポートに関する長文で見
 ## 🤔  expectant との違いは？
 
 - **pregnant**：妊娠している状態を直接的に表す
-- **[expectant](/word/expectant/)**：妊娠している人や、何かを待ち望んでいる人をやや婉曲に表す
+- **[expectant](/expectant)**：妊娠している人や、何かを待ち望んでいる人をやや婉曲に表す
 
 「pregnant」は医学的・直接的な表現、「expectant」はややフォーマルで控えめな言い方や、期待している人全般にも使います。
 
@@ -105,14 +109,14 @@ TOEICでは医療や福利厚生、従業員サポートに関する長文で見
 
 ## 🧩 あわせて覚えたい
 
-- [fertile](/word/fertile/)：肥沃な、妊娠しやすい
-- [infertile](/word/infertile/)：不妊の
+- [fertile](/fertile)：肥沃な、妊娠しやすい
+- [infertile](/infertile)：不妊の
 
 ---
 
 ## 📖 できればこれも
 
-- [nurse](/word/nurse/)：看護師
-- [patient](/word/patient/)：患者
+- [nurse](/nurse)：看護師
+- [patient](/patient)：患者
 
-<!-- cvid: aid32_bid46 -->
+<!-- cvid: aid12_bid28 -->

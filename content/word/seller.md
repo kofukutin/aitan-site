@@ -81,15 +81,19 @@ TOEICでは売買や契約に関する長文やEメール文中でよく登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは売買や契約に関する長文やEメール文中でよく登場�
 ## 🤔  vendor との違いは？
 
 - **seller**：一般的な「売り手」や「販売者」を指し、個人・企業どちらにも使える。
-- **[vendor](/word/vendor/)**：特に「業者」「露店商」など、商品を販売するビジネス的な売り手を指すことが多い。
+- **[vendor](/vendor)**：特に「業者」「露店商」など、商品を販売するビジネス的な売り手を指すことが多い。
 
 sellerは広い意味で使われ、vendorはビジネスや特定の販売形態に焦点を当てる場合に使われます。
 
@@ -105,14 +109,14 @@ sellerは広い意味で使われ、vendorはビジネスや特定の販売形�
 
 ## 🧩 あわせて覚えたい
 
-- [buyer](/word/buyer/)：買い手、購入者
-- [retailer](/word/retailer/)：小売業者
+- [buyer](/buyer)：買い手、購入者
+- [retailer](/retailer)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer/)：顧客
-- [supplier](/word/supplier/)：供給者
+- [customer](/customer)：顧客
+- [supplier](/supplier)：供給者
 
-<!-- cvid: aid40_bid49 -->
+<!-- cvid: aid47_bid28 -->

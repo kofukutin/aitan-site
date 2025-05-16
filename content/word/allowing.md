@@ -81,7 +81,7 @@ TOEICでは動詞の進行形や分詞構文として、文法問題で頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+できた感覚を大切に👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは動詞の進行形や分詞構文として、文法問題で頻出し
 
 <div class="info-center">
 ＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは動詞の進行形や分詞構文として、文法問題で頻出し
 ## 🤔  permitting との違いは？
 
 - **allowing**：一般的に「許している」「可能にしている」と広く使う。
-- **[permitting](/word/permitting/)**：ややフォーマルで、公式な許可や認可の場面で使われやすい。
+- **[permitting](/permitting)**：ややフォーマルで、公式な許可や認可の場面で使われやすい。
 
 「allowing」は日常的・広範囲に使われ、「permitting」は規則や権限に基づく許可に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは動詞の進行形や分詞構文として、文法問題で頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [enable](/word/enable/)：可能にする
-- [forbid](/word/forbid/)：禁止する
+- [enable](/enable)：可能にする
+- [forbid](/forbid)：禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/word/accept/)：受け入れる
-- [approve](/word/approve/)：承認する
+- [accept](/accept)：受け入れる
+- [approve](/approve)：承認する
 
-<!-- cvid: aid10_bid17 -->
+<!-- cvid: aid13_bid17 -->

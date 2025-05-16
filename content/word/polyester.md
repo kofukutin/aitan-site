@@ -81,15 +81,19 @@ TOEICでは、衣類や素材に関する説明文や広告で見かけること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、衣類や素材に関する説明文や広告で見かけること
 ## 🤔  nylon との違いは？
 
 - **polyester**：主に衣類や布製品に使われる合成繊維で、しわになりにくく乾きやすい特徴がある。
-- **[nylon](/word/nylon/)**：耐久性や伸縮性に優れた合成繊維で、ストッキングやロープなどにも使われる。
+- **[nylon](/nylon)**：耐久性や伸縮性に優れた合成繊維で、ストッキングやロープなどにも使われる。
 
 polyesterはしわになりにくさや速乾性が特徴で、nylonは強度や伸縮性が求められる製品に多く使われます。
 
@@ -105,14 +109,14 @@ polyesterはしわになりにくさや速乾性が特徴で、nylonは強度や
 
 ## 🧩 あわせて覚えたい
 
-- [cotton](/word/cotton/)：綿、天然繊維
-- [fabric](/word/fabric/)：布地、織物
+- [cotton](/cotton)：綿、天然繊維
+- [fabric](/fabric)：布地、織物
 
 ---
 
 ## 📖 できればこれも
 
-- [fiber](/word/fiber/)：繊維
-- [material](/word/material/)：材料、素材
+- [fiber](/fiber)：繊維
+- [material](/material)：材料、素材
 
-<!-- cvid: aid03_bid34 -->
+<!-- cvid: aid02_bid14 -->

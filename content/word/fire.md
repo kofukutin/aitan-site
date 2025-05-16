@@ -81,15 +81,19 @@ TOEICでは「従業員を解雇する」という意味で頻出します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「従業員を解雇する」という意味で頻出します。特
 ## 🤔  dismiss との違いは？
 
 - **fire**：主に「クビにする」「即座に解雇する」といった強い意味で、口語的・直接的。
-- **[dismiss](/word/dismiss/)**：よりフォーマルで、「解雇する」「退職させる」という意味だが、理由を問わず幅広く使える。
+- **[dismiss](/dismiss)**：よりフォーマルで、「解雇する」「退職させる」という意味だが、理由を問わず幅広く使える。
 
 「fire」は感情的・直接的なニュアンスが強く、日常会話やカジュアルなビジネスシーンでよく使われます。「dismiss」はフォーマルな文書や公式な場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「従業員を解雇する」という意味で頻出します。特
 
 ## 🧩 あわせて覚えたい
 
-- [hire](/word/hire/)：雇う
-- [layoff](/word/layoff/)：一時解雇
+- [hire](/hire)：雇う
+- [layoff](/layoff)：一時解雇
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/word/promote/)：昇進させる
-- [resign](/word/resign/)：辞職する
+- [promote](/promote)：昇進させる
+- [resign](/resign)：辞職する
 
-<!-- cvid: aid04_bid28 -->
+<!-- cvid: aid18_bid39 -->

@@ -88,8 +88,12 @@ TOEICでは「replace A with B（AをBと取り替える）」の形で頻出し
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「replace A with B（AをBと取り替える）」の形で頻出し
 ## 🤔  substitute との違いは？
 
 - **replace**：元のものを取り除き、新しいものを入れることに重点がある
-- **[substitute](/word/substitute/)**：代用品や代理を一時的・部分的に使うニュアンスが強い
+- **[substitute](/substitute)**：代用品や代理を一時的・部分的に使うニュアンスが強い
 
 replaceは「完全に入れ替える」イメージ、substituteは「一時的・部分的な代用」に使われることが多いです。
 
@@ -105,14 +109,14 @@ replaceは「完全に入れ替える」イメージ、substituteは「一時的
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/word/restore/)：元に戻す、修復する
-- [remove](/word/remove/)：取り除く、除去する
+- [restore](/restore)：元に戻す、修復する
+- [remove](/remove)：取り除く、除去する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：設置する、インストールする
-- [update](/word/update/)：更新する、アップデートする
+- [install](/install)：設置する、インストールする
+- [update](/update)：更新する、アップデートする
 
-<!-- cvid: aid44_bid06 -->
+<!-- cvid: aid44_bid17 -->

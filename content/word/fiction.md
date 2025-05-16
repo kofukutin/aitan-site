@@ -81,15 +81,19 @@ TOEICでは主にPart 7の読解問題で、書籍や図書館、出版物の説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の読解問題で、書籍や図書館、出版物の説
 ## 🤔  novel との違いは？
 
 - **fiction**：事実ではない創作全般やジャンルを指す
-- **[novel](/word/novel/)**：長編の創作小説そのものを指す
+- **[novel](/novel)**：長編の創作小説そのものを指す
 
 fictionは「ジャンル」や「作り話全般」を表し、novelは「長編小説」という具体的な作品を指します。
 
@@ -105,14 +109,14 @@ fictionは「ジャンル」や「作り話全般」を表し、novelは「長�
 
 ## 🧩 あわせて覚えたい
 
-- [nonfiction](/word/nonfiction/)：ノンフィクション、事実に基づく作品
-- [story](/word/story/)：物語、話
+- [nonfiction](/nonfiction)：ノンフィクション、事実に基づく作品
+- [story](/story)：物語、話
 
 ---
 
 ## 📖 できればこれも
 
-- [literature](/word/literature/)：文学
-- [author](/word/author/)：著者、作家
+- [literature](/literature)：文学
+- [author](/author)：著者、作家
 
-<!-- cvid: aid12_bid13 -->
+<!-- cvid: aid19_bid16 -->

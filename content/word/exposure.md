@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や記事の中で「リスクへのさらされ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や記事の中で「リスクへのさらされ
 ## 🤔  disclosure との違いは？
 
 - **exposure**：何かを外部にさらすこと、影響や危険に接すること
-- **[disclosure](/word/disclosure/)**：情報や事実を公表・開示すること
+- **[disclosure](/disclosure)**：情報や事実を公表・開示すること
 
 exposureは「さらされる状態」や「影響を受けること」に重点があり、disclosureは「秘密や情報を明らかにする行為」に使います。
 
@@ -105,14 +109,14 @@ exposureは「さらされる状態」や「影響を受けること」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk/)：リスク、危険
-- [revelation](/word/revelation/)：明らかにすること、暴露
+- [risk](/risk)：リスク、危険
+- [revelation](/revelation)：明らかにすること、暴露
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/word/impact/)：影響、衝撃
-- [incident](/word/incident/)：出来事、事件
+- [impact](/impact)：影響、衝撃
+- [incident](/incident)：出来事、事件
 
-<!-- cvid: aid48_bid15 -->
+<!-- cvid: aid19_bid12 -->

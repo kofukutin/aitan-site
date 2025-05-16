@@ -81,15 +81,19 @@ TOEICでは、コンサートやイベント、ラジオ番組などの会話で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid20" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid20" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、コンサートやイベント、ラジオ番組などの会話で
 ## 🤔  music との違いは？
 
 - **song**：歌詞とメロディがある「歌」や「歌曲」を指す
-- **[music](/word/music/)**：音楽全般や音の芸術を指す
+- **[music](/music)**：音楽全般や音の芸術を指す
 
 songは「1曲の歌」や「特定の歌」を表し、musicはジャンルや音楽全体を指します。
 
@@ -105,14 +109,14 @@ songは「1曲の歌」や「特定の歌」を表し、musicはジャンルや�
 
 ## 🧩 あわせて覚えたい
 
-- [melody](/word/melody/)：旋律、メロディ
-- [anthem](/word/anthem/)：賛歌、国歌
+- [melody](/melody)：旋律、メロディ
+- [anthem](/anthem)：賛歌、国歌
 
 ---
 
 ## 📖 できればこれも
 
-- [poem](/word/poem/)：詩
-- [story](/word/story/)：物語
+- [poem](/poem)：詩
+- [story](/story)：物語
 
-<!-- cvid: aid14_bid43 -->
+<!-- cvid: aid04_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは観光や都市開発、ビジネス環境の説明文などで出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や都市開発、ビジネス環境の説明文などで出題
 ## 🤔  scenery との違いは？
 
 - **landscape**：広がりのある景観や、状況・分野全体の様子も表す
-- **[scenery](/word/scenery/)**：自然の美しい景色に限定される
+- **[scenery](/scenery)**：自然の美しい景色に限定される
 
 landscapeは都市やビジネスなど幅広い「景観」や「状況」に使えますが、sceneryは主に自然の美しさに焦点を当てます。
 
@@ -105,14 +109,14 @@ landscapeは都市やビジネスなど幅広い「景観」や「状況」に�
 
 ## 🧩 あわせて覚えたい
 
-- [view](/word/view/)：眺め、視界
-- [environment](/word/environment/)：環境、周囲の状況
+- [view](/view)：眺め、視界
+- [environment](/environment)：環境、周囲の状況
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/word/region/)：地域、地方
-- [area](/word/area/)：区域、範囲
+- [region](/region)：地域、地方
+- [area](/area)：区域、範囲
 
-<!-- cvid: aid33_bid16 -->
+<!-- cvid: aid19_bid43 -->

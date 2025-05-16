@@ -81,15 +81,19 @@ TOEICでは主にオフィスやビジネスシーンの文脈で登場し、備
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にオフィスやビジネスシーンの文脈で登場し、備
 ## 🤔  abacus との違いは？
 
 - **calculator**：電子的またはソフトウェアの計算機。現代的でボタン操作が特徴。
-- **[abacus](/word/abacus/)**：そろばん。珠を動かして計算する伝統的な道具。
+- **[abacus](/abacus)**：そろばん。珠を動かして計算する伝統的な道具。
 
 calculatorは現代の電子機器、abacusは手動の伝統的な計算道具という違いがあります。
 
@@ -105,14 +109,14 @@ calculatorは現代の電子機器、abacusは手動の伝統的な計算道具�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [computer](/word/computer/)：コンピュータ、計算機
+- [device](/device)：装置、機器
+- [computer](/computer)：コンピュータ、計算機
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard/)：キーボード
-- [printer](/word/printer/)：プリンター
+- [keyboard](/keyboard)：キーボード
+- [printer](/printer)：プリンター
 
-<!-- cvid: aid26_bid05 -->
+<!-- cvid: aid48_bid12 -->

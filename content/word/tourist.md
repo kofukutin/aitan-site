@@ -81,15 +81,19 @@ The city is planning new services for tourists.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The city is planning new services for tourists.
 ## 🤔  traveler との違いは？
 
 - **tourist**：観光やレジャー目的で短期間訪れる人
-- **[traveler](/word/traveler/)**：旅行者全般（観光・出張・冒険など目的を問わない）
+- **[traveler](/traveler)**：旅行者全般（観光・出張・冒険など目的を問わない）
 
 touristは「観光目的の人」に限定され、travelerは「移動する人」全般を指します。
 
@@ -105,14 +109,14 @@ touristは「観光目的の人」に限定され、travelerは「移動する�
 
 ## 🧩 あわせて覚えたい
 
-- [visitor](/word/visitor/)：訪問者
-- [guide](/word/guide/)：案内人、ガイド
+- [visitor](/visitor)：訪問者
+- [guide](/guide)：案内人、ガイド
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/word/trip/)：旅行
-- [journey](/word/journey/)：旅、道のり
+- [trip](/trip)：旅行
+- [journey](/journey)：旅、道のり
 
-<!-- cvid: aid10_bid46 -->
+<!-- cvid: aid09_bid17 -->

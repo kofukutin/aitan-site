@@ -81,15 +81,19 @@ farewellはTOEICの会話やスピーチ、送別会の場面で登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ farewellはTOEICの会話やスピーチ、送別会の場面で登場するこ�
 ## 🤔  goodbye との違いは？
 
 - **farewell**：フォーマルな場面や儀式的な「別れのあいさつ」「送別」を表す。
-- **[goodbye](/word/goodbye/)**：日常的な「さようなら」。カジュアルな別れのあいさつ。
+- **[goodbye](/goodbye)**：日常的な「さようなら」。カジュアルな別れのあいさつ。
 
 farewellは改まった場面やスピーチ、送別会などで使われるのに対し、goodbyeは普段の会話で使うカジュアルな表現です。
 
@@ -105,14 +109,14 @@ farewellは改まった場面やスピーチ、送別会などで使われるの
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure/)：出発、旅立ち
-- [greeting](/word/greeting/)：あいさつ
+- [departure](/departure)：出発、旅立ち
+- [greeting](/greeting)：あいさつ
 
 ---
 
 ## 📖 できればこれも
 
-- [celebration](/word/celebration/)：祝賀、祝い
-- [invitation](/word/invitation/)：招待、招待状
+- [celebration](/celebration)：祝賀、祝い
+- [invitation](/invitation)：招待、招待状
 
-<!-- cvid: aid47_bid03 -->
+<!-- cvid: aid30_bid45 -->

@@ -81,7 +81,7 @@ cheapは価格やコストに関する文脈でPart 5によく出題されます
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+できたら応用も試そう👇️
 
 ---
 
@@ -89,7 +89,11 @@ cheapは価格やコストに関する文脈でPart 5によく出題されます
 
 <div class="info-center">
 ＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cheapは価格やコストに関する文脈でPart 5によく出題されます
 ## 🤔  inexpensive との違いは？
 
 - **cheap**：安いが、時に「安っぽい」「質が低い」という否定的なニュアンスも含む
-- **[inexpensive](/word/inexpensive/)**：安いが、質の悪さを含意せず、丁寧な表現
+- **[inexpensive](/inexpensive)**：安いが、質の悪さを含意せず、丁寧な表現
 
 cheapはカジュアルでやや否定的な響きがあり、inexpensiveはフォーマルで中立的な印象です。
 
@@ -105,14 +109,14 @@ cheapはカジュアルでやや否定的な響きがあり、inexpensiveはフ�
 
 ## 🧩 あわせて覚えたい
 
-- [expensive](/word/expensive/)：高価な
-- [affordable](/word/affordable/)：手頃な価格の
+- [expensive](/expensive)：高価な
+- [affordable](/affordable)：手頃な価格の
 
 ---
 
 ## 📖 できればこれも
 
-- [easy](/word/easy/)：簡単な
-- [quick](/word/quick/)：速い
+- [easy](/easy)：簡単な
+- [quick](/quick)：速い
 
-<!-- cvid: aid00_bid38 -->
+<!-- cvid: aid44_bid38 -->

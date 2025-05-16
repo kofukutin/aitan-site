@@ -81,15 +81,19 @@ TOEICでは、メールや報告書などの文書編集に関連して「edited
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや報告書などの文書編集に関連して「edited
 ## 🤔  revised との違いは？
 
 - **edited**：編集されて内容が整理・修正された状態
-- **[revised](/word/revised/)**：内容が見直され、修正・改訂された状態
+- **[revised](/revised)**：内容が見直され、修正・改訂された状態
 
 「edited」は主に体裁や表現の調整を含む編集全般を指し、「revised」は内容自体の見直しや改訂に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、メールや報告書などの文書編集に関連して「edited
 
 ## 🧩 あわせて覚えたい
 
-- [proofread](/word/proofread/)：校正する、誤字脱字をチェックする
-- [update](/word/update/)：更新する、新しくする
+- [proofread](/proofread)：校正する、誤字脱字をチェックする
+- [update](/update)：更新する、新しくする
 
 ---
 
 ## 📖 できればこれも
 
-- [final](/word/final/)：最終の、決定版の
-- [draft](/word/draft/)：下書き、草案
+- [final](/final)：最終の、決定版の
+- [draft](/draft)：下書き、草案
 
-<!-- cvid: aid46_bid09 -->
+<!-- cvid: aid44_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは広告やメール、案内文などで「discounted price（割引�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やメール、案内文などで「discounted price（割引�
 ## 🤔  reduced との違いは？
 
 - **discounted**：割引やセールなどで「値引きされた」ことを強調
-- **[reduced](/word/reduced/)**：単に「減らされた」「少なくなった」状態全般を指す
+- **[reduced](/reduced)**：単に「減らされた」「少なくなった」状態全般を指す
 
 「discounted」は主に価格や料金が割引で安くなった場合に使い、「reduced」は価格以外にも量や数などが減った場合にも使います。
 
@@ -105,14 +109,14 @@ TOEICでは広告やメール、案内文などで「discounted price（割引�
 
 ## 🧩 あわせて覚えたい
 
-- [sale](/word/sale/)：セール、特売
-- [promotion](/word/promotion/)：販促、プロモーション
+- [sale](/sale)：セール、特売
+- [promotion](/promotion)：販促、プロモーション
 
 ---
 
 ## 📖 できればこれも
 
-- [affordable](/word/affordable/)：手ごろな価格の
-- [bargain](/word/bargain/)：お買い得品
+- [affordable](/affordable)：手ごろな価格の
+- [bargain](/bargain)：お買い得品
 
-<!-- cvid: aid43_bid31 -->
+<!-- cvid: aid36_bid09 -->

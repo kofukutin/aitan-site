@@ -81,15 +81,19 @@ TOEICでは、職業やスキル、商品説明などで「芸術的な」「美
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業やスキル、商品説明などで「芸術的な」「美
 ## 🤔  creative との違いは？
 
 - **artistic**：芸術的な分野や美的センスに特化した表現
-- **[creative](/word/creative/)**：創造力や新しいアイデアを生み出す力全般
+- **[creative](/creative)**：創造力や新しいアイデアを生み出す力全般
 
 「artistic」は美術や芸術に関する才能や感性を指し、「creative」は芸術に限らず幅広い分野での創造力を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、職業やスキル、商品説明などで「芸術的な」「美
 
 ## 🧩 あわせて覚えたい
 
-- [aesthetic](/word/aesthetic/)：美的な、審美的な
-- [talent](/word/talent/)：才能、素質
+- [aesthetic](/aesthetic)：美的な、審美的な
+- [talent](/talent)：才能、素質
 
 ---
 
 ## 📖 できればこれも
 
-- [musical](/word/musical/)：音楽の、音楽的な
-- [imaginative](/word/imaginative/)：想像力に富んだ
+- [musical](/musical)：音楽の、音楽的な
+- [imaginative](/imaginative)：想像力に富んだ
 
-<!-- cvid: aid13_bid07 -->
+<!-- cvid: aid04_bid28 -->

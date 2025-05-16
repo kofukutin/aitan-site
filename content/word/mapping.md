@@ -81,15 +81,19 @@ ITやビジネス文書、マニュアルの説明文で「mapping」はデー�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、マニュアルの説明文で「mapping」はデー�
 ## 🤔  assignment との違いは？
 
 - **mapping**：要素同士の対応関係や写像そのものを指す
-- **[assignment](/word/assignment/)**：割り当てや任命、課題など「割り当てる行為やその結果」を指す
+- **[assignment](/assignment)**：割り当てや任命、課題など「割り当てる行為やその結果」を指す
 
 mappingは「AとBをどう対応させるか」という関係性に焦点があり、assignmentは「AをBに割り当てる」という行為や結果に焦点があります。
 
@@ -105,14 +109,14 @@ mappingは「AとBをどう対応させるか」という関係性に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [correspondence](/word/correspondence/)：対応、通信
-- [conversion](/word/conversion/)：変換、転換
+- [correspondence](/correspondence)：対応、通信
+- [conversion](/conversion)：変換、転換
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure/)：構造
-- [diagram](/word/diagram/)：図、図解
+- [structure](/structure)：構造
+- [diagram](/diagram)：図、図解
 
-<!-- cvid: aid22_bid45 -->
+<!-- cvid: aid26_bid44 -->

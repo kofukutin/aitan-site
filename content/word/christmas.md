@@ -81,15 +81,19 @@ TOEICでは、メールや案内文などの長文で、休暇やイベントの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文などの長文で、休暇やイベントの
 ## 🤔  holiday との違いは？
 
 - **Christmas**：12月25日の特定の祝日（クリスマス）を指す
-- **[holiday](/word/holiday/)**：祝日や休暇全般を指す一般的な言葉
+- **[holiday](/holiday)**：祝日や休暇全般を指す一般的な言葉
 
 Christmasは特定の日を指し、holidayは広く休暇や祝日全体を指します。
 
@@ -106,13 +110,13 @@ Christmasは特定の日を指し、holidayは広く休暇や祝日全体を指�
 ## 🧩 あわせて覚えたい
 
 - [Easter](/Easter)：イースター（キリスト教の復活祭）
-- [festival](/word/festival/)：祭り、祝祭
+- [festival](/festival)：祭り、祝祭
 
 ---
 
 ## 📖 できればこれも
 
-- [birthday](/word/birthday/)：誕生日
-- [gift](/word/gift/)：贈り物
+- [birthday](/birthday)：誕生日
+- [gift](/gift)：贈り物
 
-<!-- cvid: aid29_bid11 -->
+<!-- cvid: aid01_bid10 -->

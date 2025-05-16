@@ -81,15 +81,19 @@ TOEICではメールや通知文、感謝のメッセージなどで「感謝」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや通知文、感謝のメッセージなどで「感謝」
 ## 🤔  gratitude との違いは？
 
 - **appreciation**：感謝の気持ちに加え、価値や努力を認めて評価するニュアンスが強い
-- **[gratitude](/word/gratitude/)**：純粋な「感謝」の気持ちを表す
+- **[gratitude](/gratitude)**：純粋な「感謝」の気持ちを表す
 
 appreciationは「評価」や「認識」の意味も含み、gratitudeは「ありがたさ」の感情に特化しています。
 
@@ -105,14 +109,14 @@ appreciationは「評価」や「認識」の意味も含み、gratitudeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [recognition](/word/recognition/)：認識、表彰
-- [admiration](/word/admiration/)：称賛、感嘆
+- [recognition](/recognition)：認識、表彰
+- [admiration](/admiration)：称賛、感嘆
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval/)：承認、賛成
-- [assessment](/word/assessment/)：評価、査定
+- [approval](/approval)：承認、賛成
+- [assessment](/assessment)：評価、査定
 
-<!-- cvid: aid22_bid10 -->
+<!-- cvid: aid07_bid31 -->

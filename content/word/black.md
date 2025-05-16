@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【black】の意味・使い方・例文 ― darkとの違い【TOEIC英単語】"
 description: "blackの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdarkとの違いもわかりやすく学べます。"
 word: "black"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、服や物の色を説明する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid14_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、服や物の色を説明する際に
 ## 🤔  dark との違いは？
 
 - **black**：はっきりとした「黒色」を指す。
-- **[dark](/word/dark/)**：黒に限らず「暗い色」「濃い色」を広く指す。
+- **[dark](/dark)**：黒に限らず「暗い色」「濃い色」を広く指す。
 
 blackは明確な黒色、darkは黒以外の暗い色にも使える点が異なります。
 
@@ -105,14 +109,14 @@ blackは明確な黒色、darkは黒以外の暗い色にも使える点が異�
 
 ## 🧩 あわせて覚えたい
 
-- [white](/word/white/)：白い
-- [red](/word/red/)：赤い
+- [white](/white)：白い
+- [red](/red)：赤い
 
 ---
 
 ## 📖 できればこれも
 
-- [blue](/word/blue/)：青い
-- [gray](/word/gray/)：灰色の
+- [blue](/blue)：青い
+- [gray](/gray)：灰色の
 
-<!-- cvid: aid10_bid12 -->
+<!-- cvid: aid14_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、服装や身だしなみを説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、服装や身だしなみを説明す
 ## 🤔  tights との違いは？
 
 - **pantyhose**：主にアメリカ英語で使われる、薄手で透け感のあるパンティストッキング。
-- **[tights](/word/tights/)**：主にイギリス英語で使われ、厚手のものやカラフルなものも含む。
+- **[tights](/tights)**：主にイギリス英語で使われ、厚手のものやカラフルなものも含む。
 
 pantyhoseは薄手でフォーマルな場面向き、tightsは厚手でカジュアルや防寒にも使われます。
 
@@ -105,14 +109,14 @@ pantyhoseは薄手でフォーマルな場面向き、tightsは厚手でカジ�
 
 ## 🧩 あわせて覚えたい
 
-- [stocking](/word/stocking/)：ストッキング（太ももまでの長さの薄手の靴下）
-- [leggings](/word/leggings/)：レギンス（足首まである厚手の伸縮性のある衣類）
+- [stocking](/stocking)：ストッキング（太ももまでの長さの薄手の靴下）
+- [leggings](/leggings)：レギンス（足首まである厚手の伸縮性のある衣類）
 
 ---
 
 ## 📖 できればこれも
 
-- [skirt](/word/skirt/)：スカート
-- [blouse](/word/blouse/)：ブラウス
+- [skirt](/skirt)：スカート
+- [blouse](/blouse)：ブラウス
 
-<!-- cvid: aid03_bid20 -->
+<!-- cvid: aid20_bid25 -->

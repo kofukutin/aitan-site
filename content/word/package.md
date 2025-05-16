@@ -81,15 +81,19 @@ TOEICでは、配送や注文、商品説明などの文脈で「package」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、配送や注文、商品説明などの文脈で「package」が�
 ## 🤔  parcel との違いは？
 
 - **package**：アメリカ英語で一般的な「小包」や「パッケージ」、内容物やセット商品にも使う。
-- **[parcel](/word/parcel/)**：イギリス英語でよく使われる「小包」、主に郵便物としての荷物を指す。
+- **[parcel](/parcel)**：イギリス英語でよく使われる「小包」、主に郵便物としての荷物を指す。
 
 packageはアメリカ英語で幅広く使われ、parcelはイギリス英語で郵便の小包に特化して使われる傾向があります。
 
@@ -105,14 +109,14 @@ packageはアメリカ英語で幅広く使われ、parcelはイギリス英語�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/word/shipment/)：発送、出荷
-- [bundle](/word/bundle/)：束、ひとまとめ
+- [shipment](/shipment)：発送、出荷
+- [bundle](/bundle)：束、ひとまとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/word/envelope/)：封筒
-- [container](/word/container/)：容器、コンテナ
+- [envelope](/envelope)：封筒
+- [container](/container)：容器、コンテナ
 
-<!-- cvid: aid15_bid15 -->
+<!-- cvid: aid38_bid19 -->

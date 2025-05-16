@@ -80,15 +80,19 @@ TOEICでは、申請書や福利厚生、家族構成に関する長文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、申請書や福利厚生、家族構成に関する長文でよく
 ## 🤔  partner との違いは？
 
 - **spouse**：法律上の配偶者（結婚している相手）を指すフォーマルな表現
-- **[partner](/word/partner/)**：恋人やビジネスの相手など幅広く使えるカジュアルな表現
+- **[partner](/partner)**：恋人やビジネスの相手など幅広く使えるカジュアルな表現
 
 spouseは結婚している相手限定でフォーマル、partnerは結婚に限らず幅広い関係に使えます。
 
@@ -104,14 +108,14 @@ spouseは結婚している相手限定でフォーマル、partnerは結婚に�
 
 ## 🧩 あわせて覚えたい
 
-- [husband](/word/husband/)：夫
-- [wife](/word/wife/)：妻
+- [husband](/husband)：夫
+- [wife](/wife)：妻
 
 ---
 
 ## 📖 できればこれも
 
-- [relative](/word/relative/)：親戚
-- [colleague](/word/colleague/)：同僚
+- [relative](/relative)：親戚
+- [colleague](/colleague)：同僚
 
-<!-- cvid: aid34_bid08 -->
+<!-- cvid: aid48_bid28 -->

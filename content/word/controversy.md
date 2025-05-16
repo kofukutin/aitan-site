@@ -81,15 +81,19 @@ TOEICでは、新聞記事やビジネス文書の中で「論争」や「意見
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid04" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid04" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、新聞記事やビジネス文書の中で「論争」や「意見
 ## 🤔  dispute との違いは？
 
 - **controversy**：社会的・公的な場で意見が大きく分かれる「論争」や「激しい議論」を指す。
-- **[dispute](/word/dispute/)**：主に2者間の「口論」や「紛争」など、より具体的な対立や争いを指す。
+- **[dispute](/dispute)**：主に2者間の「口論」や「紛争」など、より具体的な対立や争いを指す。
 
 controversyは広く社会的な話題や長期的な論争に使われ、disputeは個人や団体間の具体的な争いに使われることが多いです。
 
@@ -105,14 +109,14 @@ controversyは広く社会的な話題や長期的な論争に使われ、disput
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate/)：討論、議論
-- [agreement](/word/agreement/)：合意、同意
+- [debate](/debate)：討論、議論
+- [agreement](/agreement)：合意、同意
 
 ---
 
 ## 📖 できればこれも
 
-- [conflict](/word/conflict/)：対立、衝突
-- [issue](/word/issue/)：問題、論点
+- [conflict](/conflict)：対立、衝突
+- [issue](/issue)：問題、論点
 
-<!-- cvid: aid45_bid17 -->
+<!-- cvid: aid31_bid04 -->

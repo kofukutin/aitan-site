@@ -81,15 +81,19 @@ beaverはTOEICのPart 7で、自然や動物に関する説明文や記事で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ beaverはTOEICのPart 7で、自然や動物に関する説明文や記事で登
 ## 🤔  otter との違いは？
 
 - **beaver**：川や湖に住み、木をかじってダムや巣を作る大型のげっ歯類。
-- **[otter](/word/otter/)**：水中で泳ぐのが得意な細長い体の動物で、主に魚を食べる。
+- **[otter](/otter)**：水中で泳ぐのが得意な細長い体の動物で、主に魚を食べる。
 
 beaverはダム作りで有名な動物、otterは泳ぎや狩りが得意な水生哺乳類です。
 
@@ -105,14 +109,14 @@ beaverはダム作りで有名な動物、otterは泳ぎや狩りが得意な水
 
 ## 🧩 あわせて覚えたい
 
-- [dam](/word/dam/)：ダム、堰
-- [rodent](/word/rodent/)：げっ歯類
+- [dam](/dam)：ダム、堰
+- [rodent](/rodent)：げっ歯類
 
 ---
 
 ## 📖 できればこれも
 
-- [squirrel](/word/squirrel/)：リス
-- [rabbit](/word/rabbit/)：ウサギ
+- [squirrel](/squirrel)：リス
+- [rabbit](/rabbit)：ウサギ
 
-<!-- cvid: aid15_bid32 -->
+<!-- cvid: aid40_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは、オフィスや施設の設備に関する会話や説明で「hea
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや施設の設備に関する会話や説明で「hea
 ## 🤔  heater との違いは？
 
 - **heating**：部屋全体を暖めるシステムや暖房そのもの
-- **[heater](/word/heater/)**：暖房器具そのもの（ヒーター）
+- **[heater](/heater)**：暖房器具そのもの（ヒーター）
 
 heatingは「暖房」という仕組みやシステム全体を指し、heaterは「ヒーター」という具体的な機械や装置を指します。
 
@@ -105,14 +109,14 @@ heatingは「暖房」という仕組みやシステム全体を指し、heater�
 
 ## 🧩 あわせて覚えたい
 
-- [cooling](/word/cooling/)：冷却、冷房
-- [air_conditioner](/word/air_conditioner/)：エアコン、空調機
+- [cooling](/cooling)：冷却、冷房
+- [air_conditioner](/air_conditioner)：エアコン、空調機
 
 ---
 
 ## 📖 できればこれも
 
-- [electricity](/word/electricity/)：電気
-- [temperature](/word/temperature/)：温度
+- [electricity](/electricity)：電気
+- [temperature](/temperature)：温度
 
-<!-- cvid: aid26_bid44 -->
+<!-- cvid: aid38_bid10 -->

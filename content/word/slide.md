@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で「滑る」「スライドを動かす
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で「滑る」「スライドを動かす
 ## 🤔  slip との違いは？
 
 - **slide**：意図的・なめらかに滑る、またはそっと動かす
-- **[slip](/word/slip/)**：思わず滑る、うっかり足を滑らせる
+- **[slip](/slip)**：思わず滑る、うっかり足を滑らせる
 
 slideは自分の意思で滑ったり、物をそっと動かすときに使い、slipは偶然や不注意で滑るときに使います。
 
@@ -106,14 +110,14 @@ slideは自分の意思で滑ったり、物をそっと動かすときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [glide](/word/glide/)：滑空する、なめらかに動く
-- [shift](/word/shift/)：移す、移動させる
+- [glide](/glide)：滑空する、なめらかに動く
+- [shift](/shift)：移す、移動させる
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、発表する
-- [move](/word/move/)：動かす、移動する
+- [present](/present)：提示する、発表する
+- [move](/move)：動かす、移動する
 
-<!-- cvid: aid17_bid27 -->
+<!-- cvid: aid29_bid04 -->

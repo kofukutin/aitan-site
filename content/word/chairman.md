@@ -81,15 +81,19 @@ TOEICでは会社組織や会議に関する長文でよく登場します。役
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社組織や会議に関する長文でよく登場します。役
 ## 🤔  president との違いは？
 
 - **chairman**：会議や取締役会の議長・会長。主に会議の進行や組織の監督役。
-- **[president](/word/president/)**：会社や団体の代表・社長。経営の最高責任者。
+- **[president](/president)**：会社や団体の代表・社長。経営の最高責任者。
 
 chairmanは会議や取締役会のトップ、presidentは会社全体のトップという違いがあります。
 
@@ -105,14 +109,14 @@ chairmanは会議や取締役会のトップ、presidentは会社全体のトッ
 
 ## 🧩 あわせて覚えたい
 
-- [director](/word/director/)：取締役、監督
-- [moderator](/word/moderator/)：司会者、調整役
+- [director](/director)：取締役、監督
+- [moderator](/moderator)：司会者、調整役
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [board](/word/board/)：取締役会、委員会
+- [committee](/committee)：委員会
+- [board](/board)：取締役会、委員会
 
-<!-- cvid: aid18_bid46 -->
+<!-- cvid: aid12_bid34 -->

@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、Eメールの中で「backup」がデータ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、Eメールの中で「backup」がデータ
 ## 🤔  support との違いは？
 
 - **backup**：予備や補助、データの複製など「代替・支援」の意味が強い
-- **[support](/word/support/)**：精神的・物理的な「支援」「サポート」を幅広く指す
+- **[support](/support)**：精神的・物理的な「支援」「サポート」を幅広く指す
 
 backupは「何かが使えなくなったときの代替」や「補助的なもの」を指すことが多く、supportは「助ける」「支える」という意味で人や物事への積極的な支援を表します。
 
@@ -105,14 +109,14 @@ backupは「何かが使えなくなったときの代替」や「補助的な�
 
 ## 🧩 あわせて覚えたい
 
-- [substitute](/word/substitute/)：代用品、代理人
-- [restore](/word/restore/)：復元する、元に戻す
+- [substitute](/substitute)：代用品、代理人
+- [restore](/restore)：復元する、元に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file/)：ファイル、書類
-- [data](/word/data/)：データ、情報
+- [file](/file)：ファイル、書類
+- [data](/data)：データ、情報
 
-<!-- cvid: aid20_bid34 -->
+<!-- cvid: aid15_bid27 -->

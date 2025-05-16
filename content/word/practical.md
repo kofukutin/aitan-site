@@ -81,15 +81,19 @@ TOEICでは「実用的な提案」「現実的な計画」など、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「実用的な提案」「現実的な計画」など、ビジネス
 ## 🤔  pragmatic との違いは？
 
 - **practical**：実用的で現実的、理論よりも実際の効果や使いやすさを重視する
-- **[pragmatic](/word/pragmatic/)**：実利や現実的な結果を重視し、柔軟に対応する
+- **[pragmatic](/pragmatic)**：実利や現実的な結果を重視し、柔軟に対応する
 
 「practical」は「使いやすさ・実用性」に重点があり、「pragmatic」は「現実的な対応・実利的な判断」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「実用的な提案」「現実的な計画」など、ビジネス
 
 ## 🧩 あわせて覚えたい
 
-- [theoretical](/word/theoretical/)：理論的な
-- [efficient](/word/efficient/)：効率的な
+- [theoretical](/theoretical)：理論的な
+- [efficient](/efficient)：効率的な
 
 ---
 
 ## 📖 できればこれも
 
-- [realistic](/word/realistic/)：現実的な
-- [effective](/word/effective/)：効果的な
+- [realistic](/realistic)：現実的な
+- [effective](/effective)：効果的な
 
-<!-- cvid: aid15_bid06 -->
+<!-- cvid: aid42_bid15 -->

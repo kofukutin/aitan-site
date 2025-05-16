@@ -77,15 +77,19 @@ TOEICでは、会話の中で「外出している」「外にいる」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、会話の中で「外出している」「外にいる」などの
 ## 🤔  outside との違いは？
 
 - **out**：外へ、外に、外で（動作や状態の「外出」「外側」全般をカジュアルに表現）
-- **[outside](/word/outside/)**：外側、屋外（物理的な「外側」や「屋外」をより明確に指す）
+- **[outside](/outside)**：外側、屋外（物理的な「外側」や「屋外」をより明確に指す）
 
 「out」は動作や状態の「外出」「外側」を広くカジュアルに表し、「outside」は物理的な「外側」や「屋外」をより具体的に指します。
 
@@ -101,14 +105,14 @@ TOEICでは、会話の中で「外出している」「外にいる」などの
 
 ## 🧩 あわせて覚えたい
 
-- [away](/word/away/)：離れて
-- [off](/word/off/)：離れて、切れて
+- [away](/away)：離れて
+- [off](/off)：離れて、切れて
 
 ---
 
 ## 📖 できればこれも
 
-- [in](/word/in/)：中に
-- [over](/word/over/)：上に、越えて
+- [in](/in)：中に
+- [over](/over)：上に、越えて
 
-<!-- cvid: aid03_bid45 -->
+<!-- cvid: aid46_bid36 -->

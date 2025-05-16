@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「およそ」「周囲に」といった意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「およそ」「周囲に」といった意味
 ## 🤔  about との違いは？
 
 - **around**：物理的な「周囲」や「およそ」の意味で使い、場所・時間・数量など幅広い。
-- **[about](/word/about/)**：主に「～について」「およそ」の意味で、話題や内容に焦点を当てる。
+- **[about](/about)**：主に「～について」「およそ」の意味で、話題や内容に焦点を当てる。
 
 「around」は空間や時間のぼかし、「about」は話題や内容の説明に使う違いがあります。
 
@@ -101,14 +105,14 @@ TOEICでは会話や説明文で「およそ」「周囲に」といった意味
 
 ## 🧩 あわせて覚えたい
 
-- [through](/word/through/)：～を通って
-- [across](/word/across/)：～を横切って
+- [through](/through)：～を通って
+- [across](/across)：～を横切って
 
 ---
 
 ## 📖 できればこれも
 
-- [over](/word/over/)：～の上に、～を越えて
-- [beside](/word/beside/)：～のそばに
+- [over](/over)：～の上に、～を越えて
+- [beside](/beside)：～のそばに
 
-<!-- cvid: aid26_bid09 -->
+<!-- cvid: aid37_bid43 -->

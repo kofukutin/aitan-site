@@ -81,15 +81,19 @@ TOEICではIT機器や電気製品の説明文、仕様書などでconverterが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT機器や電気製品の説明文、仕様書などでconverterが�
 ## 🤔  transformer との違いは？
 
 - **converter**：電気やデータなどの「形式や種類」を変換する装置やソフトウェア
-- **[transformer](/word/transformer/)**：主に電圧や電流の「大きさ」を変える電気機器
+- **[transformer](/transformer)**：主に電圧や電流の「大きさ」を変える電気機器
 
 converterは形式や種類の変換に幅広く使われ、transformerは電気の変圧に特化しています。
 
@@ -105,14 +109,14 @@ converterは形式や種類の変換に幅広く使われ、transformerは電気
 
 ## 🧩 あわせて覚えたい
 
-- [adapter](/word/adapter/)：接続や形状を合わせるためのアダプター
-- [inverter](/word/inverter/)：直流を交流に変換する装置
+- [adapter](/adapter)：接続や形状を合わせるためのアダプター
+- [inverter](/inverter)：直流を交流に変換する装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [circuit](/word/circuit/)：回路
+- [device](/device)：装置、機器
+- [circuit](/circuit)：回路
 
-<!-- cvid: aid39_bid28 -->
+<!-- cvid: aid02_bid13 -->

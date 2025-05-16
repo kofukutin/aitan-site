@@ -81,15 +81,19 @@ TOEICでは、法務やビジネス文書の中で「ruling」が判決や裁定
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、法務やビジネス文書の中で「ruling」が判決や裁定
 ## 🤔  judgment との違いは？
 
 - **ruling**：裁判所や権威ある機関による公式な決定や裁定を指す
-- **[judgment](/word/judgment/)**：判断、評価、または裁判所の判決全般を指す
+- **[judgment](/judgment)**：判断、評価、または裁判所の判決全般を指す
 
 「ruling」は特に公式な決定や裁定に焦点があり、「judgment」はより広く「判断」や「評価」も含みます。
 
@@ -105,14 +109,14 @@ TOEICでは、法務やビジネス文書の中で「ruling」が判決や裁定
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision/)：決定、判断
-- [verdict](/word/verdict/)：（陪審員などの）評決
+- [decision](/decision)：決定、判断
+- [verdict](/verdict)：（陪審員などの）評決
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation/)：規則、規制
-- [policy](/word/policy/)：方針、政策
+- [regulation](/regulation)：規則、規制
+- [policy](/policy)：方針、政策
 
-<!-- cvid: aid06_bid41 -->
+<!-- cvid: aid11_bid31 -->

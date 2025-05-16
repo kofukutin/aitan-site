@@ -81,15 +81,19 @@ He listened silently during the meeting.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ He listened silently during the meeting.
 ## 🤔  quietly との違いは？
 
 - **silently**：無言で、音を立てずに（特に「話さない」「沈黙している」ニュアンスが強い）
-- **[quietly](/word/quietly/)**：静かに（音量が小さい、控えめな様子）
+- **[quietly](/quietly)**：静かに（音量が小さい、控えめな様子）
 
 「silently」は「声を出さずに」「沈黙して」行動することを強調し、「quietly」は「音が小さい」「控えめ」な様子を表します。
 
@@ -105,14 +109,14 @@ He listened silently during the meeting.
 
 ## 🧩 あわせて覚えたい
 
-- [noiselessly](/word/noiselessly/)：音を立てずに
-- [calmly](/word/calmly/)：落ち着いて
+- [noiselessly](/noiselessly)：音を立てずに
+- [calmly](/calmly)：落ち着いて
 
 ---
 
 ## 📖 できればこれも
 
-- [loudly](/word/loudly/)：大声で
-- [softly](/word/softly/)：やさしく、そっと
+- [loudly](/loudly)：大声で
+- [softly](/softly)：やさしく、そっと
 
-<!-- cvid: aid48_bid18 -->
+<!-- cvid: aid24_bid49 -->

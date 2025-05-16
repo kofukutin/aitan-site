@@ -81,15 +81,19 @@ TOEICでは主にPart 7の説明文や広告、ビジネス文書で「衣類」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の説明文や広告、ビジネス文書で「衣類」
 ## 🤔  apparel との違いは？
 
 - **garment**：1着ごとの衣服や衣類を指し、具体的なアイテムに使う
-- **[apparel](/word/apparel/)**：衣類全般や衣料品産業を指し、集合的・抽象的な意味合いが強い
+- **[apparel](/apparel)**：衣類全般や衣料品産業を指し、集合的・抽象的な意味合いが強い
 
 garmentは「1着ずつの服」、apparelは「衣類全体」や「業界」を指すときに使い分けます。
 
@@ -105,14 +109,14 @@ garmentは「1着ずつの服」、apparelは「衣類全体」や「業界」�
 
 ## 🧩 あわせて覚えたい
 
-- [clothing](/word/clothing/)：衣類（集合的な表現）
-- [attire](/word/attire/)：（特定の場面の）服装、装い
+- [clothing](/clothing)：衣類（集合的な表現）
+- [attire](/attire)：（特定の場面の）服装、装い
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric/)：布地、生地
-- [outfit](/word/outfit/)：服装、コーディネート
+- [fabric](/fabric)：布地、生地
+- [outfit](/outfit)：服装、コーディネート
 
-<!-- cvid: aid37_bid01 -->
+<!-- cvid: aid03_bid28 -->

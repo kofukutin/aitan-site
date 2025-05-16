@@ -81,7 +81,7 @@ TOEICでは主にビジネスや経済に関する長文で登場し、特に貿
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+成長を止めないで👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にビジネスや経済に関する長文で登場し、特に貿
 
 <div class="info-center">
 ＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや経済に関する長文で登場し、特に貿
 ## 🤔  product との違いは？
 
 - **commodity**：主に原材料や農産物など、市場で広く取引される標準化された商品
-- **[product](/word/product/)**：製造・加工された製品全般
+- **[product](/product)**：製造・加工された製品全般
 
 commodityは「原材料」や「一次産品」に特化し、productは「完成品」や「製品」全般を指します。
 
@@ -105,14 +109,14 @@ commodityは「原材料」や「一次産品」に特化し、productは「完�
 
 ## 🧩 あわせて覚えたい
 
-- [merchandise](/word/merchandise/)：商品、製品（売買される品物全般）
-- [asset](/word/asset/)：資産（企業や個人が所有する価値あるもの）
+- [merchandise](/merchandise)：商品、製品（売買される品物全般）
+- [asset](/asset)：資産（企業や個人が所有する価値あるもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [inventory](/word/inventory/)：在庫、棚卸資産
-- [goods](/word/goods/)：商品、品物
+- [inventory](/inventory)：在庫、棚卸資産
+- [goods](/goods)：商品、品物
 
-<!-- cvid: aid46_bid16 -->
+<!-- cvid: aid22_bid16 -->

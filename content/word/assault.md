@@ -81,15 +81,19 @@ TOEICでは主にニュース記事や法務関連の長文で登場し、事件
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid05_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にニュース記事や法務関連の長文で登場し、事件
 ## 🤔  attack との違いは？
 
 - **assault**：法的・暴力的な「暴行」「攻撃」を指し、特に人や権利への侵害に使われる。
-- **[attack](/word/attack/)**：より広く「攻撃」全般を指し、物理的・言葉・サイバー攻撃など幅広い場面で使う。
+- **[attack](/attack)**：より広く「攻撃」全般を指し、物理的・言葉・サイバー攻撃など幅広い場面で使う。
 
 assaultは法的な意味合いが強く、attackは一般的な「攻撃」や「非難」など幅広い文脈で使われます。
 
@@ -105,14 +109,14 @@ assaultは法的な意味合いが強く、attackは一般的な「攻撃」や�
 
 ## 🧩 あわせて覚えたい
 
-- [battery](/word/battery/)：（法的な）暴行、傷害
-- [charge](/word/charge/)：告発、罪状
+- [battery](/battery)：（法的な）暴行、傷害
+- [charge](/charge)：告発、罪状
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠
-- [trial](/word/trial/)：裁判
+- [evidence](/evidence)：証拠
+- [trial](/trial)：裁判
 
-<!-- cvid: aid02_bid41 -->
+<!-- cvid: aid05_bid35 -->

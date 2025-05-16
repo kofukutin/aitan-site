@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「technical support」「technical skil
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「technical support」「technical skil
 ## 🤔  technological との違いは？
 
 - **technical**：技術や専門分野に関する、実務的・実践的な内容を指す
-- **[technological](/word/technological/)**：科学技術そのものや技術革新に関する
+- **[technological](/technological)**：科学技術そのものや技術革新に関する
 
 「technical」は実際の技術や専門知識に焦点を当て、「technological」は科学技術やその進歩・発展に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネスの文脈で「technical support」「technical skil
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical/)：実用的な
-- [mechanical](/word/mechanical/)：機械の、機械的な
+- [practical](/practical)：実用的な
+- [mechanical](/mechanical)：機械の、機械的な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific/)：具体的な
-- [complex](/word/complex/)：複雑な
+- [specific](/specific)：具体的な
+- [complex](/complex)：複雑な
 
-<!-- cvid: aid21_bid25 -->
+<!-- cvid: aid45_bid03 -->

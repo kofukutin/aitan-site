@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、浴槽や容器を説明する場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、浴槽や容器を説明する場面
 ## 🤔  bath との違いは？
 
 - **tub**：浴槽や丸い容器そのものを指す
-- **[bath](/word/bath/)**：入浴そのものや浴室、またはイギリス英語で浴槽も指す
+- **[bath](/bath)**：入浴そのものや浴室、またはイギリス英語で浴槽も指す
 
 tubは「物」としての浴槽や容器、bathは「行為」や「場所」としての入浴や浴室を指すことが多いです。
 
@@ -105,14 +109,14 @@ tubは「物」としての浴槽や容器、bathは「行為」や「場所」�
 
 ## 🧩 あわせて覚えたい
 
-- [shower](/word/shower/)：シャワー
-- [bucket](/word/bucket/)：バケツ
+- [shower](/shower)：シャワー
+- [bucket](/bucket)：バケツ
 
 ---
 
 ## 📖 できればこれも
 
-- [sink](/word/sink/)：流し、シンク
-- [bowl](/word/bowl/)：ボウル、鉢
+- [sink](/sink)：流し、シンク
+- [bowl](/bowl)：ボウル、鉢
 
-<!-- cvid: aid43_bid26 -->
+<!-- cvid: aid26_bid20 -->

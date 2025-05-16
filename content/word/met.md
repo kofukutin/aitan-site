@@ -81,15 +81,19 @@ TOEICでは会話やビジネスシーンで「会った」「面談した」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やビジネスシーンで「会った」「面談した」な
 ## 🤔  encounter との違いは？
 
 - **met**：人と会う・出会う（カジュアル・日常的）
-- **[encounter](/word/encounter/)**：偶然や予期せず出会う（ややフォーマル・堅い）
+- **[encounter](/encounter)**：偶然や予期せず出会う（ややフォーマル・堅い）
 
 metは日常的な「会う」に使い、encounterは思いがけない出会いやフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ metは日常的な「会う」に使い、encounterは思いがけない出会�
 
 ## 🧩 あわせて覚えたい
 
-- [greet](/word/greet/)：あいさつする
-- [join](/word/join/)：参加する
+- [greet](/greet)：あいさつする
+- [join](/join)：参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss/)：話し合う
-- [arrange](/word/arrange/)：手配する
+- [discuss](/discuss)：話し合う
+- [arrange](/arrange)：手配する
 
-<!-- cvid: aid28_bid02 -->
+<!-- cvid: aid39_bid23 -->

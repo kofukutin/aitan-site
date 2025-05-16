@@ -81,15 +81,19 @@ TOEICではショッピングや店舗紹介、広告文などで見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではショッピングや店舗紹介、広告文などで見かけるこ
 ## 🤔  shop との違いは？
 
 - **boutique**：高級感や専門性のある小規模な店
-- **[shop](/word/shop/)**：一般的な「店」。規模や高級感は問わない
+- **[shop](/shop)**：一般的な「店」。規模や高級感は問わない
 
 boutiqueは特別感や高級感を強調したいときに使い、shopは日用品店など幅広く使います。
 
@@ -105,14 +109,14 @@ boutiqueは特別感や高級感を強調したいときに使い、shopは日�
 
 ## 🧩 あわせて覚えたい
 
-- [store](/word/store/)：（米）店、店舗
-- [mall](/word/mall/)：ショッピングモール、大型商業施設
+- [store](/store)：（米）店、店舗
+- [mall](/mall)：ショッピングモール、大型商業施設
 
 ---
 
 ## 📖 できればこれも
 
-- [brand](/word/brand/)：ブランド、銘柄
-- [fashion](/word/fashion/)：ファッション、流行
+- [brand](/brand)：ブランド、銘柄
+- [fashion](/fashion)：ファッション、流行
 
-<!-- cvid: aid04_bid11 -->
+<!-- cvid: aid30_bid38 -->

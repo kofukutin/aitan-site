@@ -81,15 +81,19 @@ TOEICでは、到着時刻や場所を尋ねる会話文でよく出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、到着時刻や場所を尋ねる会話文でよく出題されま
 ## 🤔  reach との違いは？
 
 - **arrive**：目的地に「到着する」こと自体を表す。フォーマルな響き。
-- **[reach](/word/reach/)**：目的地に「到達する」「手が届く」など、努力や動作のニュアンスが強い。
+- **[reach](/reach)**：目的地に「到達する」「手が届く」など、努力や動作のニュアンスが強い。
 
 arriveは「着いた」という事実を淡々と述べる時に使い、reachは「苦労して到達した」や「手が届いた」など動作や努力を強調したい時に使います。
 
@@ -105,14 +109,14 @@ arriveは「着いた」という事実を淡々と述べる時に使い、reach
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart/)：出発する
-- [come](/word/come/)：来る
+- [depart](/depart)：出発する
+- [come](/come)：来る
 
 ---
 
 ## 📖 できればこれも
 
-- [leave](/word/leave/)：去る、出発する
-- [return](/word/return/)：戻る
+- [leave](/leave)：去る、出発する
+- [return](/return)：戻る
 
-<!-- cvid: aid18_bid23 -->
+<!-- cvid: aid35_bid46 -->

@@ -81,15 +81,19 @@ TOEICでは商品説明や衣料品の広告、ビジネス文書などで「sil
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは商品説明や衣料品の広告、ビジネス文書などで「sil
 ## 🤔  satin との違いは？
 
 - **silk**：カイコの繭から作られる天然の繊維や布地。
-- **[satin](/word/satin/)**：光沢のある織り方で作られた布地（素材は絹や化学繊維など様々）。
+- **[satin](/satin)**：光沢のある織り方で作られた布地（素材は絹や化学繊維など様々）。
 
 silkは素材そのものを指し、satinは織り方や仕上げによる布地の種類を指します。
 
@@ -105,14 +109,14 @@ silkは素材そのものを指し、satinは織り方や仕上げによる布�
 
 ## 🧩 あわせて覚えたい
 
-- [cotton](/word/cotton/)：綿、コットン
-- [wool](/word/wool/)：羊毛、ウール
+- [cotton](/cotton)：綿、コットン
+- [wool](/wool)：羊毛、ウール
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric/)：布地、生地
-- [thread](/word/thread/)：糸
+- [fabric](/fabric)：布地、生地
+- [thread](/thread)：糸
 
-<!-- cvid: aid36_bid26 -->
+<!-- cvid: aid15_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは会議や予定、順番を説明する場面で頻出します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid00" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid00" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や予定、順番を説明する場面で頻出します。特
 ## 🤔  following との違いは？
 
 - **next**：今の直後や順番で「次の」「隣の」という意味で使う
-- **[following](/word/following/)**：今の後に続くもの全体や「次の〜」という意味で、ややフォーマル
+- **[following](/following)**：今の後に続くもの全体や「次の〜」という意味で、ややフォーマル
 
 「next」は「すぐ次」のニュアンスが強く、日常会話やカジュアルな場面でよく使われます。「following」は書き言葉や案内文などで「次の〜」とややフォーマルに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会議や予定、順番を説明する場面で頻出します。特
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/word/previous/)：前の
-- [upcoming](/word/upcoming/)：これから来る、近々の
+- [previous](/previous)：前の
+- [upcoming](/upcoming)：これから来る、近々の
 
 ---
 
 ## 📖 できればこれも
 
-- [last](/word/last/)：最後の、前回の
-- [after](/word/after/)：〜の後に
+- [last](/last)：最後の、前回の
+- [after](/after)：〜の後に
 
-<!-- cvid: aid12_bid42 -->
+<!-- cvid: aid23_bid00 -->

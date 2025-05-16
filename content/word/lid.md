@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写問題で、容器や箱の「ふた」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写問題で、容器や箱の「ふた」を
 ## 🤔  cover との違いは？
 
 - **lid**：容器や箱などの「ふた」そのものを指す
-- **[cover](/word/cover/)**：覆うもの全般（布やカバーなど広い意味）
+- **[cover](/cover)**：覆うもの全般（布やカバーなど広い意味）
 
 **lid**は主に容器や箱の「ふた」に限定されますが、**cover**は本や布団など、広く「覆うもの」全般を指します。
 
@@ -104,14 +108,14 @@ TOEICでは主にPart 1の写真描写問題で、容器や箱の「ふた」を
 
 ## 🧩 あわせて覚えたい
 
-- [cap](/word/cap/)：（びん・ペンなどの）キャップ、ふた
-- [container](/word/container/)：容器
+- [cap](/cap)：（びん・ペンなどの）キャップ、ふた
+- [container](/container)：容器
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box/)：箱
-- [bottle](/word/bottle/)：ボトル、瓶
+- [box](/box)：箱
+- [bottle](/bottle)：ボトル、瓶
 
-<!-- cvid: aid25_bid18 -->
+<!-- cvid: aid24_bid12 -->

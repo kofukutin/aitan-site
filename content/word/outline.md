@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やプレゼン資料の要点を問う設問で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やプレゼン資料の要点を問う設問で
 ## 🤔  summary との違いは？
 
 - **outline**：全体の構成や要点を箇条書きや枠組みで示す
-- **[summary](/word/summary/)**：内容を短く要約したもの
+- **[summary](/summary)**：内容を短く要約したもの
 
 outlineは「構成や流れ」を示すのに対し、summaryは「内容の要約」に重点があります。
 
@@ -105,14 +109,14 @@ outlineは「構成や流れ」を示すのに対し、summaryは「内容の要
 
 ## 🧩 あわせて覚えたい
 
-- [draft](/word/draft/)：下書き、草案
-- [framework](/word/framework/)：枠組み、構造
+- [draft](/draft)：下書き、草案
+- [framework](/framework)：枠組み、構造
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/word/detail/)：詳細、細部
-- [structure](/word/structure/)：構造、仕組み
+- [detail](/detail)：詳細、細部
+- [structure](/structure)：構造、仕組み
 
-<!-- cvid: aid04_bid27 -->
+<!-- cvid: aid19_bid12 -->

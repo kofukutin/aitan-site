@@ -81,15 +81,19 @@ TOEICの求人広告やビジネスメール、面接案内などでよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの求人広告やビジネスメール、面接案内などでよく登場
 ## 🤔  employer との違いは？
 
 - **recruiter**：採用活動を担当する人や会社
-- **[employer](/word/employer/)**：雇用主、従業員を雇う側の組織や個人
+- **[employer](/employer)**：雇用主、従業員を雇う側の組織や個人
 
 recruiterは「採用担当者」に特化し、employerは「雇用主」全般を指します。採用活動の現場ではrecruiter、雇用関係全体ではemployerを使います。
 
@@ -105,14 +109,14 @@ recruiterは「採用担当者」に特化し、employerは「雇用主」全般
 
 ## 🧩 あわせて覚えたい
 
-- [candidate](/word/candidate/)：候補者、応募者
-- [headhunter](/word/headhunter/)：ヘッドハンター（優秀な人材を探して引き抜く人）
+- [candidate](/candidate)：候補者、応募者
+- [headhunter](/headhunter)：ヘッドハンター（優秀な人材を探して引き抜く人）
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant/)：応募者
-- [interview](/word/interview/)：面接
+- [applicant](/applicant)：応募者
+- [interview](/interview)：面接
 
-<!-- cvid: aid23_bid03 -->
+<!-- cvid: aid30_bid22 -->

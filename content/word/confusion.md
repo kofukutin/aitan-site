@@ -81,15 +81,19 @@ The new policy caused confusion among employees.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The new policy caused confusion among employees.
 ## 🤔  disorder との違いは？
 
 - **confusion**：頭の中や状況がごちゃごちゃしている「混乱」や「困惑」
-- **[disorder](/word/disorder/)**：秩序や規則が乱れている「無秩序」や「障害」
+- **[disorder](/disorder)**：秩序や規則が乱れている「無秩序」や「障害」
 
 confusionは主に一時的な混乱や理解できない状態を指し、disorderはより深刻で長期的な混乱や障害を表します。
 
@@ -105,14 +109,14 @@ confusionは主に一時的な混乱や理解できない状態を指し、disor
 
 ## 🧩 あわせて覚えたい
 
-- [clarity](/word/clarity/)：明確さ、はっきりしていること
-- [chaos](/word/chaos/)：完全な混沌、無秩序
+- [clarity](/clarity)：明確さ、はっきりしていること
+- [chaos](/chaos)：完全な混沌、無秩序
 
 ---
 
 ## 📖 できればこれも
 
-- [concern](/word/concern/)：心配、懸念
-- [conflict](/word/conflict/)：対立、衝突
+- [concern](/concern)：心配、懸念
+- [conflict](/conflict)：対立、衝突
 
-<!-- cvid: aid23_bid29 -->
+<!-- cvid: aid39_bid20 -->

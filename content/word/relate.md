@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「関係づける」「関連がある」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「関係づける」「関連がある」とい
 ## 🤔  associate との違いは？
 
 - **relate**：物事や人を「関係づける」「関連がある」と述べるときに使う。
-- **[associate](/word/associate/)**：主に「連想する」「結びつけて考える」という意味で使う。
+- **[associate](/associate)**：主に「連想する」「結びつけて考える」という意味で使う。
 
 relateは客観的な関係やつながりを示すのに対し、associateは主観的な連想やイメージを結びつける時に使います。
 
@@ -105,14 +109,14 @@ relateは客観的な関係やつながりを示すのに対し、associateは�
 
 ## 🧩 あわせて覚えたい
 
-- [connect](/word/connect/)：つなぐ、接続する
-- [refer](/word/refer/)：言及する、参照する
+- [connect](/connect)：つなぐ、接続する
+- [refer](/refer)：言及する、参照する
 
 ---
 
 ## 📖 できればこれも
 
-- [describe](/word/describe/)：説明する、描写する
-- [explain](/word/explain/)：説明する、明らかにする
+- [describe](/describe)：説明する、描写する
+- [explain](/explain)：説明する、明らかにする
 
-<!-- cvid: aid01_bid30 -->
+<!-- cvid: aid26_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは「ultimate decision（最終決定）」や「ultimate goal（最終
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「ultimate decision（最終決定）」や「ultimate goal（最終
 ## 🤔  final との違いは？
 
 - **ultimate**：究極の、最終段階の（最も重要・最高レベルのニュアンスを含む）
-- **[final](/word/final/)**：最後の、最終的な（順序や段階の「最後」）
+- **[final](/final)**：最後の、最終的な（順序や段階の「最後」）
 
 ultimateは「最終的かつ最高レベル」「究極の到達点」を強調し、finalは単に「順番として最後」であることを表します。
 
@@ -105,14 +109,14 @@ ultimateは「最終的かつ最高レベル」「究極の到達点」を強調
 
 ## 🧩 あわせて覚えたい
 
-- [supreme](/word/supreme/)：最高の、至高の
-- [fundamental](/word/fundamental/)：基本的な、根本的な
+- [supreme](/supreme)：最高の、至高の
+- [fundamental](/fundamental)：基本的な、根本的な
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/word/primary/)：主要な、第一の
-- [essential](/word/essential/)：不可欠な、本質的な
+- [primary](/primary)：主要な、第一の
+- [essential](/essential)：不可欠な、本質的な
 
-<!-- cvid: aid01_bid00 -->
+<!-- cvid: aid38_bid45 -->

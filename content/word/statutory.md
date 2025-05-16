@@ -81,15 +81,19 @@ TOEICでは契約書や規則、法務関連の長文で「statutory」が登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や規則、法務関連の長文で「statutory」が登場
 ## 🤔  legal との違いは？
 
 - **statutory**：法律や法令で明確に定められていること
-- **[legal](/word/legal/)**：法律に関係する、または合法であること全般
+- **[legal](/legal)**：法律に関係する、または合法であること全般
 
 「statutory」は「法律で明文化されている」点を強調し、「legal」はより広く「法律に関係する」意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは契約書や規則、法務関連の長文で「statutory」が登場
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [regulation](/word/regulation/)：規則、規制
+- [mandatory](/mandatory)：義務的な、強制の
+- [regulation](/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [obligatory](/word/obligatory/)：義務的な
-- [compliance](/word/compliance/)：遵守、コンプライアンス
+- [obligatory](/obligatory)：義務的な
+- [compliance](/compliance)：遵守、コンプライアンス
 
-<!-- cvid: aid22_bid28 -->
+<!-- cvid: aid28_bid10 -->

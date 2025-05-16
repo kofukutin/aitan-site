@@ -81,15 +81,19 @@ TOEICでは、書類や手順、契約などが「修正された」「変更さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類や手順、契約などが「修正された」「変更さ
 ## 🤔  adjusted との違いは？
 
 - **modified**：元のものに手を加えて部分的に修正・変更した状態
-- **[adjusted](/word/adjusted/)**：状況や条件に合わせて微調整・調節した状態
+- **[adjusted](/adjusted)**：状況や条件に合わせて微調整・調節した状態
 
 「modified」は内容や構造自体を変える場合に使い、「adjusted」は細かい調整や適応のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、書類や手順、契約などが「修正された」「変更さ
 
 ## 🧩 あわせて覚えたい
 
-- [altered](/word/altered/)：変更された、改変された
-- [revised](/word/revised/)：改訂された、見直された
+- [altered](/altered)：変更された、改変された
+- [revised](/revised)：改訂された、見直された
 
 ---
 
 ## 📖 できればこれも
 
-- [customized](/word/customized/)：カスタマイズされた、特注の
-- [updated](/word/updated/)：更新された、新しくなった
+- [customized](/customized)：カスタマイズされた、特注の
+- [updated](/updated)：更新された、新しくなった
 
-<!-- cvid: aid44_bid00 -->
+<!-- cvid: aid48_bid05 -->

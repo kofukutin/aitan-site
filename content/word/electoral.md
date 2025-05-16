@@ -81,15 +81,19 @@ TOEICでは、政治や社会に関する記事や説明文で「electoral syste
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、政治や社会に関する記事や説明文で「electoral syste
 ## 🤔  election との違いは？
 
 - **electoral**：選挙に関する（形容詞）。例：electoral system（選挙制度）
-- **[election](/word/election/)**：選挙そのもの（名詞）。例：presidential election（大統領選挙）
+- **[election](/election)**：選挙そのもの（名詞）。例：presidential election（大統領選挙）
 
 electoralは「選挙に関する性質や制度」を形容し、electionは「選挙という出来事や行為」自体を指します。
 
@@ -105,14 +109,14 @@ electoralは「選挙に関する性質や制度」を形容し、electionは「
 
 ## 🧩 あわせて覚えたい
 
-- [vote](/word/vote/)：投票する、投票
-- [candidate](/word/candidate/)：候補者
+- [vote](/vote)：投票する、投票
+- [candidate](/candidate)：候補者
 
 ---
 
 ## 📖 できればこれも
 
-- [legislative](/word/legislative/)：立法の、法律の
-- [political](/word/political/)：政治の、政治に関する
+- [legislative](/legislative)：立法の、法律の
+- [political](/political)：政治の、政治に関する
 
-<!-- cvid: aid10_bid05 -->
+<!-- cvid: aid30_bid39 -->

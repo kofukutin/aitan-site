@@ -81,15 +81,19 @@ TOEICでは、音楽やビジネスの紹介文、イベント案内などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、音楽やビジネスの紹介文、イベント案内などで「
 ## 🤔  pair との違いは？
 
 - **duo**：特に協力して活動する二人組やユニットを指すことが多い。
-- **[pair](/word/pair/)**：単に「二つ」「二人」の組み合わせ全般を指す。
+- **[pair](/pair)**：単に「二つ」「二人」の組み合わせ全般を指す。
 
 「duo」は音楽やビジネスなどで特別な関係や役割を持つ二人組に使われ、「pair」は一般的な「ペア」「一組」に幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、音楽やビジネスの紹介文、イベント案内などで「
 
 ## 🧩 あわせて覚えたい
 
-- [trio](/word/trio/)：三人組、三重奏
-- [couple](/word/couple/)：カップル、二人組
+- [trio](/trio)：三人組、三重奏
+- [couple](/couple)：カップル、二人組
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [unit](/word/unit/)：単位、部隊、ユニット
+- [team](/team)：チーム、団体
+- [unit](/unit)：単位、部隊、ユニット
 
-<!-- cvid: aid46_bid19 -->
+<!-- cvid: aid40_bid24 -->

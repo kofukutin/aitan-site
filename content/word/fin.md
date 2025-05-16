@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、魚や飛行機の部位を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、魚や飛行機の部位を説明す
 ## 🤔  wing との違いは？
 
 - **fin**：魚や海洋生物の「ひれ」、または機械の安定板
-- **[wing](/word/wing/)**：鳥や飛行機の「翼」
+- **[wing](/wing)**：鳥や飛行機の「翼」
 
 finは水中や空気中での安定や推進に使われる「ひれ」や「安定板」を指し、wingは主に飛行や浮力を得るための「翼」を指します。
 
@@ -105,14 +109,14 @@ finは水中や空気中での安定や推進に使われる「ひれ」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [flipper](/word/flipper/)：水かき（アザラシやイルカのひれ状の手足）
-- [tail](/word/tail/)：尾、しっぽ
+- [flipper](/flipper)：水かき（アザラシやイルカのひれ状の手足）
+- [tail](/tail)：尾、しっぽ
 
 ---
 
 ## 📖 できればこれも
 
-- [scale](/word/scale/)：うろこ
-- [feather](/word/feather/)：羽根
+- [scale](/scale)：うろこ
+- [feather](/feather)：羽根
 
-<!-- cvid: aid41_bid10 -->
+<!-- cvid: aid37_bid41 -->

@@ -81,15 +81,19 @@ TOEICでは求人広告や人材募集、自己紹介などで「experienced」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や人材募集、自己紹介などで「experienced」�
 ## 🤔  skilled との違いは？
 
 - **experienced**：経験を積んで知識や判断力があることを強調
-- **[skilled](/word/skilled/)**：特定の技術や能力が高いことを強調
+- **[skilled](/skilled)**：特定の技術や能力が高いことを強調
 
 experiencedは「経験の長さや豊富さ」に重点があり、skilledは「技術や腕前の高さ」に重点があります。
 
@@ -105,14 +109,14 @@ experiencedは「経験の長さや豊富さ」に重点があり、skilledは�
 
 ## 🧩 あわせて覚えたい
 
-- [novice](/word/novice/)：初心者
-- [professional](/word/professional/)：専門家、プロ
+- [novice](/novice)：初心者
+- [professional](/professional)：専門家、プロ
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/word/qualified/)：資格のある、適任の
-- [capable](/word/capable/)：有能な、能力がある
+- [qualified](/qualified)：資格のある、適任の
+- [capable](/capable)：有能な、能力がある
 
-<!-- cvid: aid49_bid12 -->
+<!-- cvid: aid14_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは「can/cannot afford to ～」の形で頻出し、主に金銭や時
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「can/cannot afford to ～」の形で頻出し、主に金銭や時
 ## 🤔  manage との違いは？
 
 - **afford**：金銭や時間などの「余裕がある」ことを表す
-- **[manage](/word/manage/)**：困難な状況でも「なんとかやり遂げる」ことを表す
+- **[manage](/manage)**：困難な状況でも「なんとかやり遂げる」ことを表す
 
 affordは「できるかどうかの余裕」に焦点があり、manageは「困難を乗り越えて実現する」ニュアンスです。
 
@@ -105,14 +109,14 @@ affordは「できるかどうかの余裕」に焦点があり、manageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [provide](/word/provide/)：提供する
-- [purchase](/word/purchase/)：購入する
+- [provide](/provide)：提供する
+- [purchase](/purchase)：購入する
 
 ---
 
 ## 📖 できればこれも
 
-- [spend](/word/spend/)：使う（お金・時間を）
-- [save](/word/save/)：貯める、節約する
+- [spend](/spend)：使う（お金・時間を）
+- [save](/save)：貯める、節約する
 
-<!-- cvid: aid06_bid06 -->
+<!-- cvid: aid47_bid28 -->

@@ -81,15 +81,19 @@ TOEICでは主に製品説明や仕様書などで「stainless steel」の形で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に製品説明や仕様書などで「stainless steel」の形で
 ## 🤔  spotless との違いは？
 
 - **stainless**：汚れやさびがつかない、特に金属などの素材の性質を表す
-- **[spotless](/word/spotless/)**：一点の汚れもない、非常にきれいな状態を強調
+- **[spotless](/spotless)**：一点の汚れもない、非常にきれいな状態を強調
 
 「stainless」は主に物質的・科学的な性質を指し、「spotless」は見た目や清潔さを強調する場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主に製品説明や仕様書などで「stainless steel」の形で
 
 ## 🧩 あわせて覚えたい
 
-- [rustproof](/word/rustproof/)：さび止めの、さびにくい
-- [clean](/word/clean/)：きれいな、清潔な
+- [rustproof](/rustproof)：さび止めの、さびにくい
+- [clean](/clean)：きれいな、清潔な
 
 ---
 
 ## 📖 できればこれも
 
-- [durable](/word/durable/)：耐久性のある
-- [shiny](/word/shiny/)：光沢のある、ぴかぴかの
+- [durable](/durable)：耐久性のある
+- [shiny](/shiny)：光沢のある、ぴかぴかの
 
-<!-- cvid: aid07_bid47 -->
+<!-- cvid: aid10_bid12 -->

@@ -81,15 +81,19 @@ TOEICでは最上級表現の文法問題や、成果・業績を強調する文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは最上級表現の文法問題や、成果・業績を強調する文
 ## 🤔  best との違いは？
 
 - **greatest**：偉大さや規模・影響力が最も大きいことを強調
-- **[best](/word/best/)**：質や能力が最も優れていることを強調
+- **[best](/best)**：質や能力が最も優れていることを強調
 
 greatestは「偉大さ」や「規模の大きさ」に重点があり、bestは「質の良さ」や「能力の高さ」に重点があります。
 
@@ -105,14 +109,14 @@ greatestは「偉大さ」や「規模の大きさ」に重点があり、best�
 
 ## 🧩 あわせて覚えたい
 
-- [major](/word/major/)：主要な、重要な
-- [minor](/word/minor/)：小さい、重要でない
+- [major](/major)：主要な、重要な
+- [minor](/minor)：小さい、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [bigger](/word/bigger/)：より大きい
-- [strongest](/word/strongest/)：最も強い
+- [bigger](/bigger)：より大きい
+- [strongest](/strongest)：最も強い
 
-<!-- cvid: aid00_bid26 -->
+<!-- cvid: aid32_bid47 -->

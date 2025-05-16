@@ -81,15 +81,19 @@ TOEICでは観光や娯楽、イベント紹介の記事や広告文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や娯楽、イベント紹介の記事や広告文で登場す
 ## 🤔  sing との違いは？
 
 - **karaoke**：カラオケ機器や場所で音楽に合わせて歌う娯楽やその行為。
-- **[sing](/word/sing/)**：歌うという動作全般を指す一般的な動詞。
+- **[sing](/sing)**：歌うという動作全般を指す一般的な動詞。
 
 karaokeは「カラオケ」という特定の娯楽やスタイルを指し、singは単に「歌う」こと全般を表します。
 
@@ -105,14 +109,14 @@ karaokeは「カラオケ」という特定の娯楽やスタイルを指し、s
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/word/performance/)：演奏、上演
-- [entertainment](/word/entertainment/)：娯楽、エンターテインメント
+- [performance](/performance)：演奏、上演
+- [entertainment](/entertainment)：娯楽、エンターテインメント
 
 ---
 
 ## 📖 できればこれも
 
-- [bar](/word/bar/)：バー、酒場
-- [microphone](/word/microphone/)：マイク
+- [bar](/bar)：バー、酒場
+- [microphone](/microphone)：マイク
 
-<!-- cvid: aid06_bid08 -->
+<!-- cvid: aid47_bid34 -->

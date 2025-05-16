@@ -82,15 +82,19 @@ TOEICでは主に長文読解パートで「範囲」「程度」を表す語と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に長文読解パートで「範囲」「程度」を表す語と
 ## 🤔  range との違いは？
 
 - **extent**：物事の広がりや及ぶ「範囲・程度」を抽象的に表す
-- **[range](/word/range/)**：数値や種類など「幅・範囲」を具体的に表す
+- **[range](/range)**：数値や種類など「幅・範囲」を具体的に表す
 
 extentは「どこまで及ぶか」という抽象的な広がりや程度を示し、rangeは「最小から最大まで」など具体的な幅や範囲を示します。
 
@@ -106,14 +110,14 @@ extentは「どこまで及ぶか」という抽象的な広がりや程度を�
 
 ## 🧩 あわせて覚えたい
 
-- [degree](/word/degree/)：程度、度合い
-- [scope](/word/scope/)：範囲、領域
+- [degree](/degree)：程度、度合い
+- [scope](/scope)：範囲、領域
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/word/amount/)：量、総額
-- [level](/word/level/)：水準、レベル
+- [amount](/amount)：量、総額
+- [level](/level)：水準、レベル
 
-<!-- cvid: aid35_bid17 -->
+<!-- cvid: aid48_bid27 -->

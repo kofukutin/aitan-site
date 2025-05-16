@@ -81,15 +81,19 @@ TOEICでは、物を落とす・数値が下がるなどの状況説明やグラ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物を落とす・数値が下がるなどの状況説明やグラ
 ## 🤔  fell との違いは？
 
 - **dropped**：自分や他人が「落とす」動作や、数値・価格が「下がる」ことを表す
-- **[fell](/word/fell/)**：物や人が「自然に落ちる」「倒れる」ことを表す
+- **[fell](/fell)**：物や人が「自然に落ちる」「倒れる」ことを表す
 
 **dropped** は「意図的・偶発的に落とす」や「減少させる」ニュアンスがあり、**fell** は「自然に落ちる・倒れる」動作に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、物を落とす・数値が下がるなどの状況説明やグラ
 
 ## 🧩 あわせて覚えたい
 
-- [decrease](/word/decrease/)：減少する
-- [lose](/word/lose/)：失う
+- [decrease](/decrease)：減少する
+- [lose](/lose)：失う
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [send](/word/send/)：送る
+- [deliver](/deliver)：配達する、届ける
+- [send](/send)：送る
 
-<!-- cvid: aid31_bid11 -->
+<!-- cvid: aid36_bid12 -->

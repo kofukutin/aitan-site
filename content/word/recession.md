@@ -81,15 +81,19 @@ TOEICでは経済ニュースやビジネスレポートの文脈で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid36" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid36" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは経済ニュースやビジネスレポートの文脈で頻出しま
 ## 🤔  depression との違いは？
 
 - **recession**：一時的な景気後退や不況を指す
-- **[depression](/word/depression/)**：より深刻で長期間続く経済の大不況
+- **[depression](/depression)**：より深刻で長期間続く経済の大不況
 
 recessionは比較的短期間の経済の落ち込み、depressionは歴史的な大不況など、より深刻で長期的な状況を指します。
 
@@ -105,14 +109,14 @@ recessionは比較的短期間の経済の落ち込み、depressionは歴史的�
 
 ## 🧩 あわせて覚えたい
 
-- [recovery](/word/recovery/)：回復、景気回復
-- [downturn](/word/downturn/)：（景気などの）下降、悪化
+- [recovery](/recovery)：回復、景気回復
+- [downturn](/downturn)：（景気などの）下降、悪化
 
 ---
 
 ## 📖 できればこれも
 
-- [inflation](/word/inflation/)：インフレ、物価上昇
-- [crisis](/word/crisis/)：危機、重大局面
+- [inflation](/inflation)：インフレ、物価上昇
+- [crisis](/crisis)：危機、重大局面
 
-<!-- cvid: aid27_bid16 -->
+<!-- cvid: aid04_bid36 -->

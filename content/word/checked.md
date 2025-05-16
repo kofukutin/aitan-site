@@ -81,15 +81,19 @@ TOEICでは、書類やリスト、作業の状態を表す形容詞として「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類やリスト、作業の状態を表す形容詞として「
 ## 🤔  inspected との違いは？
 
 - **checked**：一般的な「確認済み」「点検済み」の状態を表す。
-- **[inspected](/word/inspected/)**：より詳細に「検査・調査された」ことを強調する。
+- **[inspected](/inspected)**：より詳細に「検査・調査された」ことを強調する。
 
 checkedは日常的な確認や点検に使われ、inspectedは専門的・公式な検査や調査に使われることが多いです。
 
@@ -105,14 +109,14 @@ checkedは日常的な確認や点検に使われ、inspectedは専門的・公�
 
 ## 🧩 あわせて覚えたい
 
-- [verified](/word/verified/)：検証済みの、正しいと確認された
-- [unchecked](/word/unchecked/)：未確認の、チェックされていない
+- [verified](/verified)：検証済みの、正しいと確認された
+- [unchecked](/unchecked)：未確認の、チェックされていない
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/word/confirmed/)：確認された、確定した
-- [approved](/word/approved/)：承認された
+- [confirmed](/confirmed)：確認された、確定した
+- [approved](/approved)：承認された
 
-<!-- cvid: aid45_bid10 -->
+<!-- cvid: aid07_bid13 -->

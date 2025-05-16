@@ -81,15 +81,19 @@ TOEICでは環境や科学、技術関連の記事や説明文で「marine」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や科学、技術関連の記事や説明文で「marine」が
 ## 🤔  maritime との違いは？
 
 - **marine**：海そのものや海に生息する生物・環境に直接関係する
-- **[maritime](/word/maritime/)**：海運、航海、沿岸地域など「人の活動」と海の関わりに重点
+- **[maritime](/maritime)**：海運、航海、沿岸地域など「人の活動」と海の関わりに重点
 
 marineは「自然としての海」に焦点があり、maritimeは「海を利用した人間活動」に関連して使われます。
 
@@ -105,14 +109,14 @@ marineは「自然としての海」に焦点があり、maritimeは「海を利
 
 ## 🧩 あわせて覚えたい
 
-- [aquatic](/word/aquatic/)：水生の、水中の
-- [terrestrial](/word/terrestrial/)：陸生の、陸の
+- [aquatic](/aquatic)：水生の、水中の
+- [terrestrial](/terrestrial)：陸生の、陸の
 
 ---
 
 ## 📖 できればこれも
 
-- [oceanic](/word/oceanic/)：大洋の、海洋の
-- [coastal](/word/coastal/)：沿岸の
+- [oceanic](/oceanic)：大洋の、海洋の
+- [coastal](/coastal)：沿岸の
 
-<!-- cvid: aid45_bid45 -->
+<!-- cvid: aid23_bid28 -->

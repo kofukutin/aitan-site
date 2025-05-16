@@ -81,15 +81,19 @@ TOEICでは、申請や提案が「却下された」「拒否された」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、申請や提案が「却下された」「拒否された」とい
 ## 🤔  declined との違いは？
 
 - **rejected**：強く「拒否された」「却下された」という意味で、相手の提案や申請をはっきり断るニュアンス。
-- **[declined](/word/declined/)**：丁寧に「辞退する」「断る」という意味で、やんわりと断る印象。
+- **[declined](/declined)**：丁寧に「辞退する」「断る」という意味で、やんわりと断る印象。
 
 rejectedは相手の申し出や提案を明確に否定する時に使い、declinedは丁寧に断る場合に使われます。
 
@@ -105,14 +109,14 @@ rejectedは相手の申し出や提案を明確に否定する時に使い、dec
 
 ## 🧩 あわせて覚えたい
 
-- [accept](/word/accept/)：受け入れる
-- [refuse](/word/refuse/)：断る、拒む
+- [accept](/accept)：受け入れる
+- [refuse](/refuse)：断る、拒む
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [deny](/word/deny/)：否定する、拒否する
+- [approve](/approve)：承認する
+- [deny](/deny)：否定する、拒否する
 
-<!-- cvid: aid39_bid08 -->
+<!-- cvid: aid21_bid20 -->

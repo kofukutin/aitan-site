@@ -81,15 +81,19 @@ TOEICでは、記事やレビュー、ビジネスレポートなどで「高い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレビュー、ビジネスレポートなどで「高い
 ## 🤔  praise との違いは？
 
 - **acclaim**：多くの人や専門家からの公の称賛・絶賛を強調するフォーマルな表現
-- **[praise](/word/praise/)**：一般的な「褒める」「称賛する」で、日常的な場面でも使える
+- **[praise](/praise)**：一般的な「褒める」「称賛する」で、日常的な場面でも使える
 
 acclaimは公式な評価や大勢からの絶賛に使われ、praiseは個人間やカジュアルな褒め言葉にも幅広く使えます。
 
@@ -105,14 +109,14 @@ acclaimは公式な評価や大勢からの絶賛に使われ、praiseは個人�
 
 ## 🧩 あわせて覚えたい
 
-- [applause](/word/applause/)：拍手喝采
-- [recognition](/word/recognition/)：認知、評価
+- [applause](/applause)：拍手喝采
+- [recognition](/recognition)：認知、評価
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/word/honor/)：名誉、栄誉
-- [award](/word/award/)：賞、授与する
+- [honor](/honor)：名誉、栄誉
+- [award](/award)：賞、授与する
 
-<!-- cvid: aid41_bid03 -->
+<!-- cvid: aid08_bid44 -->

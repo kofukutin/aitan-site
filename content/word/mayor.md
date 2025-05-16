@@ -81,15 +81,19 @@ TOEICでは、新聞記事やお知らせ文などの長文で、市長の発言
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、新聞記事やお知らせ文などの長文で、市長の発言
 ## 🤔  governor との違いは？
 
 - **mayor**：市や町の行政トップ（市長・町長）を指す。
-- **[governor](/word/governor/)**：州や県など、より大きな行政単位の長を指す。
+- **[governor](/governor)**：州や県など、より大きな行政単位の長を指す。
 
 mayorは市や町レベル、governorは州や県レベルのリーダーで、担当する範囲が異なります。
 
@@ -105,14 +109,14 @@ mayorは市や町レベル、governorは州や県レベルのリーダーで、�
 
 ## 🧩 あわせて覚えたい
 
-- [council](/word/council/)：議会、評議会
-- [president](/word/president/)：大統領、社長
+- [council](/council)：議会、評議会
+- [president](/president)：大統領、社長
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [election](/word/election/)：選挙
+- [candidate](/candidate)：候補者
+- [election](/election)：選挙
 
-<!-- cvid: aid14_bid08 -->
+<!-- cvid: aid23_bid06 -->

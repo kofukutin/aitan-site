@@ -82,15 +82,19 @@ elevationは、科学や地理、建築、または人事異動に関する説�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ elevationは、科学や地理、建築、または人事異動に関する説�
 ## 🤔  altitude との違いは？
 
 - **elevation**：地面や海面からの高さ・標高、または地位の昇進を表すフォーマルな語
-- **[altitude](/word/altitude/)**：特に飛行機や山などの「高度」を指し、科学や航空分野でよく使う
+- **[altitude](/altitude)**：特に飛行機や山などの「高度」を指し、科学や航空分野でよく使う
 
 elevationは地表や建物の高さ、altitudeは空中や山の高さなど、使う場面が異なります。
 
@@ -106,14 +110,14 @@ elevationは地表や建物の高さ、altitudeは空中や山の高さなど、
 
 ## 🧩 あわせて覚えたい
 
-- [height](/word/height/)：高さ、身長
-- [promotion](/word/promotion/)：昇進、促進
+- [height](/height)：高さ、身長
+- [promotion](/promotion)：昇進、促進
 
 ---
 
 ## 📖 できればこれも
 
-- [altitude](/word/altitude/)：高度、標高
-- [height](/word/height/)：高さ、身長
+- [altitude](/altitude)：高度、標高
+- [height](/height)：高さ、身長
 
-<!-- cvid: aid17_bid04 -->
+<!-- cvid: aid12_bid02 -->

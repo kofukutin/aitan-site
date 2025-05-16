@@ -81,15 +81,19 @@ ITやビジネス文書、製品マニュアルなどで「module」は頻出で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、製品マニュアルなどで「module」は頻出で
 ## 🤔  component との違いは？
 
 - **module**：独立した機能や役割を持つ構成単位
-- **[component](/word/component/)**：全体を構成する「部品」「要素」
+- **[component](/component)**：全体を構成する「部品」「要素」
 
 「module」は機能や役割ごとに分かれた単位を指し、教育やITでよく使われます。「component」は物理的・抽象的な「部品」「要素」を広く指します。
 
@@ -105,14 +109,14 @@ ITやビジネス文書、製品マニュアルなどで「module」は頻出で
 
 ## 🧩 あわせて覚えたい
 
-- [unit](/word/unit/)：単位、構成要素
-- [segment](/word/segment/)：区分、部分
+- [unit](/unit)：単位、構成要素
+- [segment](/segment)：区分、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：システム、体系
-- [function](/word/function/)：機能、働き
+- [system](/system)：システム、体系
+- [function](/function)：機能、働き
 
-<!-- cvid: aid31_bid13 -->
+<!-- cvid: aid10_bid37 -->

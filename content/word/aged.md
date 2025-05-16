@@ -81,15 +81,19 @@ TOEICでは、年齢制限や対象年齢を説明する文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、年齢制限や対象年齢を説明する文脈でよく登場し
 ## 🤔  elderly との違いは？
 
 - **aged**：年齢が～歳の、または年老いた（フォーマルで客観的な表現）
-- **[elderly](/word/elderly/)**：高齢の（やや丁寧・敬意を含む表現）
+- **[elderly](/elderly)**：高齢の（やや丁寧・敬意を含む表現）
 
 「aged」は年齢を具体的に示すときや、客観的な説明で使われます。「elderly」は高齢者全般をやや敬意を込めて指すときに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、年齢制限や対象年齢を説明する文脈でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [senior](/word/senior/)：高齢者、年上の人
-- [youth](/word/youth/)：若者、青年
+- [senior](/senior)：高齢者、年上の人
+- [youth](/youth)：若者、青年
 
 ---
 
 ## 📖 できればこれも
 
-- [retired](/word/retired/)：退職した
-- [experienced](/word/experienced/)：経験豊富な
+- [retired](/retired)：退職した
+- [experienced](/experienced)：経験豊富な
 
-<!-- cvid: aid11_bid47 -->
+<!-- cvid: aid15_bid32 -->

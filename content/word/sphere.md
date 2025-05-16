@@ -81,15 +81,19 @@ TOEICでは科学やビジネスの専門的な文章、または抽象的な「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学やビジネスの専門的な文章、または抽象的な「
 ## 🤔  domain との違いは？
 
 - **sphere**：物理的な「球体」や、抽象的な「活動・影響の範囲」を表す。
-- **[domain](/word/domain/)**：主に「専門分野」「領域」「支配地」など、より限定的・専門的な範囲を指す。
+- **[domain](/domain)**：主に「専門分野」「領域」「支配地」など、より限定的・専門的な範囲を指す。
 
 sphereは「広がり」や「影響範囲」といった抽象的なニュアンスが強く、domainは「専門分野」や「所有地」など明確な区切りがある場面で使われます。
 
@@ -105,14 +109,14 @@ sphereは「広がり」や「影響範囲」といった抽象的なニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/word/circle/)：円、輪
-- [area](/word/area/)：区域、分野
+- [circle](/circle)：円、輪
+- [area](/area)：区域、分野
 
 ---
 
 ## 📖 できればこれも
 
-- [cube](/word/cube/)：立方体
-- [field](/word/field/)：分野、現場
+- [cube](/cube)：立方体
+- [field](/field)：分野、現場
 
-<!-- cvid: aid01_bid00 -->
+<!-- cvid: aid21_bid16 -->

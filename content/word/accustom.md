@@ -81,15 +81,19 @@ TOEICでは主にPart 5で、慣れる・慣れさせるという意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5で、慣れる・慣れさせるという意味で出題
 ## 🤔  adapt との違いは？
 
 - **accustom**：自分や他人を「慣れさせる」「習慣づける」ことに重点がある
-- **[adapt](/word/adapt/)**：状況や環境に「適応する」「順応する」ことに重点がある
+- **[adapt](/adapt)**：状況や環境に「適応する」「順応する」ことに重点がある
 
 accustomは「慣れる」こと自体に焦点があり、adaptは「変化に合わせて自分を変える」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ accustomは「慣れる」こと自体に焦点があり、adaptは「変化に�
 
 ## 🧩 あわせて覚えたい
 
-- [familiarize](/word/familiarize/)：慣れさせる、親しませる
-- [adjust](/word/adjust/)：調整する、適応する
+- [familiarize](/familiarize)：慣れさせる、親しませる
+- [adjust](/adjust)：調整する、適応する
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire/)：習得する、得る
-- [achieve](/word/achieve/)：達成する
+- [acquire](/acquire)：習得する、得る
+- [achieve](/achieve)：達成する
 
-<!-- cvid: aid18_bid13 -->
+<!-- cvid: aid25_bid36 -->

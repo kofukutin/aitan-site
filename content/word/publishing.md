@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【publishing】の意味・使い方・例文 ― publicationとの違い【TOEIC英単語】"
 description: "publishingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpublicationとの違いもわかりやすく学べます。"
 word: "publishing"
@@ -81,15 +81,19 @@ TOEICでは、出版業界やビジネス文書、案内文などで「publishin
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、出版業界やビジネス文書、案内文などで「publishin
 ## 🤔  publication との違いは？
 
 - **publishing**：出版業や出版する行為そのもの
-- **[publication](/word/publication/)**：出版された物（本・雑誌など）や出版という出来事
+- **[publication](/publication)**：出版された物（本・雑誌など）や出版という出来事
 
 publishingは「業界や行為」に焦点があり、publicationは「出版物」や「出版されたこと」に使います。
 
@@ -105,14 +109,14 @@ publishingは「業界や行為」に焦点があり、publicationは「出版�
 
 ## 🧩 あわせて覚えたい
 
-- [editor](/word/editor/)：編集者
-- [manuscript](/word/manuscript/)：原稿
+- [editor](/editor)：編集者
+- [manuscript](/manuscript)：原稿
 
 ---
 
 ## 📖 できればこれも
 
-- [editorial](/word/editorial/)：社説、編集の
-- [distribute](/word/distribute/)：配布する、分配する
+- [editorial](/editorial)：社説、編集の
+- [distribute](/distribute)：配布する、分配する
 
-<!-- cvid: aid02_bid28 -->
+<!-- cvid: aid09_bid08 -->

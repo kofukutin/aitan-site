@@ -82,15 +82,19 @@ TOEICでは「目指す」「狙う」という意味で、目標設定や計画
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「目指す」「狙う」という意味で、目標設定や計画
 ## 🤔  goal との違いは？
 
 - **aim**：目指す、狙う（動作や意図を表す）
-- **[goal](/word/goal/)**：目標、ゴール（達成したい具体的な結果）
+- **[goal](/goal)**：目標、ゴール（達成したい具体的な結果）
 
 aimは「目指す」という行動や意図を表し、goalは「達成したい具体的な目標」を指します。
 
@@ -106,14 +110,14 @@ aimは「目指す」という行動や意図を表し、goalは「達成した�
 
 ## 🧩 あわせて覚えたい
 
-- [target](/word/target/)：的、目標
-- [intend](/word/intend/)：意図する
+- [target](/target)：的、目標
+- [intend](/intend)：意図する
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画する
-- [achieve](/word/achieve/)：達成する
+- [plan](/plan)：計画する
+- [achieve](/achieve)：達成する
 
-<!-- cvid: aid48_bid04 -->
+<!-- cvid: aid39_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは「走る」だけでなく「運営する」「担当する」の意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「走る」だけでなく「運営する」「担当する」の意
 ## 🤔  managed との違いは？
 
 - **ran**：運営や管理を「実際に動かした」「担当した」ニュアンスが強い
-- **[managed](/word/managed/)**：管理や運営を「コントロールした」「うまくまとめた」ニュアンスが強い
+- **[managed](/managed)**：管理や運営を「コントロールした」「うまくまとめた」ニュアンスが強い
 
 ranは「自分が主導して動かした」感じ、managedは「全体をまとめて管理した」感じで使い分けます。
 
@@ -105,14 +109,14 @@ ranは「自分が主導して動かした」感じ、managedは「全体をま�
 
 ## 🧩 あわせて覚えたい
 
-- [operate](/word/operate/)：操作する、運営する
-- [lead](/word/lead/)：導く、指導する
+- [operate](/operate)：操作する、運営する
+- [lead](/lead)：導く、指導する
 
 ---
 
 ## 📖 できればこれも
 
-- [walked](/word/walked/)：歩いた
-- [organized](/word/organized/)：整理した、まとめた
+- [walked](/walked)：歩いた
+- [organized](/organized)：整理した、まとめた
 
-<!-- cvid: aid40_bid36 -->
+<!-- cvid: aid22_bid01 -->

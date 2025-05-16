@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や規則説明、職場のポリシー文書な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や規則説明、職場のポリシー文書な
 ## 🤔  erotic との違いは？
 
 - **sexual**：性に関する、性的な（広い意味で使う）
-- **[erotic](/word/erotic/)**：官能的な、性的興奮を誘う（感情や雰囲気が強い）
+- **[erotic](/erotic)**：官能的な、性的興奮を誘う（感情や雰囲気が強い）
 
 sexualは性や性別、性行為など幅広い文脈で使われますが、eroticは「官能的」「性的に刺激的」というニュアンスが強く、日常会話やビジネスではあまり使いません。
 
@@ -105,14 +109,14 @@ sexualは性や性別、性行為など幅広い文脈で使われますが、er
 
 ## 🧩 あわせて覚えたい
 
-- [gender](/word/gender/)：性別
-- [romantic](/word/romantic/)：恋愛の、ロマンチックな
+- [gender](/gender)：性別
+- [romantic](/romantic)：恋愛の、ロマンチックな
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/word/physical/)：身体的な
-- [emotional](/word/emotional/)：感情的な
+- [physical](/physical)：身体的な
+- [emotional](/emotional)：感情的な
 
-<!-- cvid: aid27_bid19 -->
+<!-- cvid: aid02_bid12 -->

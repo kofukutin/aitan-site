@@ -81,15 +81,19 @@ TOEICのPart 7（長文読解）で、過去に言及された内容を指す表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7（長文読解）で、過去に言及された内容を指す表
 ## 🤔  refer との違いは？
 
 - **mentioned**：軽く言及する、名前を挙げる
-- **[refer](/word/refer/)**：より詳細に「参照する」「言及する」
+- **[refer](/refer)**：より詳細に「参照する」「言及する」
 
 「mentioned」は単に名前を出す・触れる程度ですが、「refer」は情報源や詳細な説明に言及する際に使います。
 
@@ -105,14 +109,14 @@ TOEICのPart 7（長文読解）で、過去に言及された内容を指す表
 
 ## 🧩 あわせて覚えたい
 
-- [state](/word/state/)：述べる、明言する
-- [indicate](/word/indicate/)：示す、指し示す
+- [state](/state)：述べる、明言する
+- [indicate](/indicate)：示す、指し示す
 
 ---
 
 ## 📖 できればこれも
 
-- [describe](/word/describe/)：説明する、描写する
-- [explain](/word/explain/)：説明する、解説する
+- [describe](/describe)：説明する、描写する
+- [explain](/explain)：説明する、解説する
 
-<!-- cvid: aid26_bid37 -->
+<!-- cvid: aid20_bid39 -->

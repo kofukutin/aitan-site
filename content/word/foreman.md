@@ -80,15 +80,19 @@ The foreman will supervise the construction site today.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The foreman will supervise the construction site today.
 ## 🤔  supervisor との違いは？
 
 - **foreman**：現場作業員を直接指導・監督する現場監督や班長
-- **[supervisor](/word/supervisor/)**：現場に限らず幅広い分野で部下や作業を監督する人
+- **[supervisor](/supervisor)**：現場に限らず幅広い分野で部下や作業を監督する人
 
 foremanは主に工場や建設現場など「現場」での監督に限定されますが、supervisorはオフィスやサービス業など幅広い分野で使われます。
 
@@ -104,14 +108,14 @@ foremanは主に工場や建設現場など「現場」での監督に限定さ�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理職、部門長
-- [worker](/word/worker/)：作業員、労働者
+- [manager](/manager)：管理職、部門長
+- [worker](/worker)：作業員、労働者
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [leader](/word/leader/)：リーダー、指導者
+- [employee](/employee)：従業員
+- [leader](/leader)：リーダー、指導者
 
-<!-- cvid: aid01_bid39 -->
+<!-- cvid: aid11_bid31 -->

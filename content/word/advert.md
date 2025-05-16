@@ -82,15 +82,19 @@ TOEICでは主にPart 7の広告文や案内文で見かけます。アメリカ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 7の広告文や案内文で見かけます。アメリカ
 ## 🤔  advertisement との違いは？
 
 - **advert**：カジュアルで短い言い方。主にイギリス英語で使われる。
-- **[advertisement](/word/advertisement/)**：よりフォーマルで、アメリカ英語でも一般的。
+- **[advertisement](/advertisement)**：よりフォーマルで、アメリカ英語でも一般的。
 
 「advert」は日常会話やカジュアルな場面で使われ、「advertisement」はビジネスや公式な文書でよく使われます。
 
@@ -106,14 +110,14 @@ TOEICでは主にPart 7の広告文や案内文で見かけます。アメリカ
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice/)：お知らせ、通知
-- [announcement](/word/announcement/)：発表、告知
+- [notice](/notice)：お知らせ、通知
+- [announcement](/announcement)：発表、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/word/brochure/)：パンフレット
-- [flyer](/word/flyer/)：チラシ
+- [brochure](/brochure)：パンフレット
+- [flyer](/flyer)：チラシ
 
-<!-- cvid: aid39_bid36 -->
+<!-- cvid: aid13_bid18 -->

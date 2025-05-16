@@ -81,15 +81,19 @@ TOEICでは「mixed results（さまざまな結果）」や「mixed reviews（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「mixed results（さまざまな結果）」や「mixed reviews（�
 ## 🤔  combined との違いは？
 
 - **mixed**：異なるものが混ざり合っている状態や、さまざまな種類が一緒になっていることを表す。
-- **[combined](/word/combined/)**：複数のものを意図的に組み合わせて一つにした状態を強調する。
+- **[combined](/combined)**：複数のものを意図的に組み合わせて一つにした状態を強調する。
 
 「mixed」は自然に混ざっている場合や種類の多さを示し、「combined」は目的を持って結合したニュアンスがあります。
 
@@ -105,14 +109,14 @@ TOEICでは「mixed results（さまざまな結果）」や「mixed reviews（�
 
 ## 🧩 あわせて覚えたい
 
-- [blended](/word/blended/)：よく混ざった、調和した
-- [separate](/word/separate/)：分かれた、別々の
+- [blended](/blended)：よく混ざった、調和した
+- [separate](/separate)：分かれた、別々の
 
 ---
 
 ## 📖 できればこれも
 
-- [various](/word/various/)：さまざまな
-- [diverse](/word/diverse/)：多様な
+- [various](/various)：さまざまな
+- [diverse](/diverse)：多様な
 
-<!-- cvid: aid13_bid01 -->
+<!-- cvid: aid37_bid34 -->

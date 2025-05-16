@@ -81,15 +81,19 @@ TOEICでは主にビジネスや法務関連の長文、規約や組織の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや法務関連の長文、規約や組織の説明
 ## 🤔  regulation との違いは？
 
 - **constitution**：国や組織の根本的な原則や仕組みを定める「憲法」「規約」
-- **[regulation](/word/regulation/)**：具体的な行動や手続きを定める「規則」「規制」
+- **[regulation](/regulation)**：具体的な行動や手続きを定める「規則」「規制」
 
 constitutionは全体の枠組みや基本方針を示し、regulationはその中での細かなルールや手続きを定めます。
 
@@ -105,14 +109,14 @@ constitutionは全体の枠組みや基本方針を示し、regulationはその�
 
 ## 🧩 あわせて覚えたい
 
-- [law](/word/law/)：法律、法
-- [charter](/word/charter/)：憲章、設立趣意書
+- [law](/law)：法律、法
+- [charter](/charter)：憲章、設立趣意書
 
 ---
 
 ## 📖 できればこれも
 
-- [amendment](/word/amendment/)：修正、改正
-- [clause](/word/clause/)：条項、節
+- [amendment](/amendment)：修正、改正
+- [clause](/clause)：条項、節
 
-<!-- cvid: aid46_bid02 -->
+<!-- cvid: aid22_bid46 -->

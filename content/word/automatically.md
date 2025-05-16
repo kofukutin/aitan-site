@@ -81,15 +81,19 @@ TOEICではITやビジネスの説明文で「自動的に処理される」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの説明文で「自動的に処理される」な�
 ## 🤔  manually との違いは？
 
 - **automatically**：人の手を使わずに自動的に行われること
-- **[manually](/word/manually/)**：人の手で手動で行うこと
+- **[manually](/manually)**：人の手で手動で行うこと
 
 automaticallyは「機械やシステムが自動で」、manuallyは「人が手作業で」という違いがあります。
 
@@ -105,14 +109,14 @@ automaticallyは「機械やシステムが自動で」、manuallyは「人が�
 
 ## 🧩 あわせて覚えたい
 
-- [mechanically](/word/mechanically/)：機械的に
-- [instantly](/word/instantly/)：即座に
+- [mechanically](/mechanically)：機械的に
+- [instantly](/instantly)：即座に
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function/)：機能
-- [process](/word/process/)：処理、過程
+- [function](/function)：機能
+- [process](/process)：処理、過程
 
-<!-- cvid: aid08_bid24 -->
+<!-- cvid: aid09_bid05 -->

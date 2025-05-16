@@ -81,15 +81,19 @@ TOEICでは主にビジネスや製品管理の文脈で出題されます。品
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや製品管理の文脈で出題されます。品
 ## 🤔  faulty との違いは？
 
 - **defective**：重大な欠陥や機能不全がある場合に使う
-- **[faulty](/word/faulty/)**：小さな不具合や誤作動にも使える
+- **[faulty](/faulty)**：小さな不具合や誤作動にも使える
 
 defectiveは「使い物にならないほどの欠陥」を強調し、faultyは「部分的な不具合」や「誤作動」など幅広く使われます。
 
@@ -105,14 +109,14 @@ defectiveは「使い物にならないほどの欠陥」を強調し、faulty�
 
 ## 🧩 あわせて覚えたい
 
-- [malfunction](/word/malfunction/)：故障、不調
-- [flaw](/word/flaw/)：欠点、傷
+- [malfunction](/malfunction)：故障、不調
+- [flaw](/flaw)：欠点、傷
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/word/damaged/)：損傷した
-- [incorrect](/word/incorrect/)：間違った
+- [damaged](/damaged)：損傷した
+- [incorrect](/incorrect)：間違った
 
-<!-- cvid: aid46_bid18 -->
+<!-- cvid: aid20_bid29 -->

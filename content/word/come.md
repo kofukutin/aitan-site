@@ -81,15 +81,19 @@ TOEICではPart 2の応答問題や、会話文で「来る」「到着する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2の応答問題や、会話文で「来る」「到着する」
 ## 🤔  go との違いは？
 
 - **come**：話し手や聞き手のいる場所・話題の場所に「近づく」「やって来る」
-- **[go](/word/go/)**：話し手や聞き手から「離れて行く」「向かう」
+- **[go](/go)**：話し手や聞き手から「離れて行く」「向かう」
 
 comeは「こちらに来る」、goは「向こうへ行く」という方向の違いがあります。
 
@@ -105,14 +109,14 @@ comeは「こちらに来る」、goは「向こうへ行く」という方向�
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/word/arrive/)：到着する
-- [return](/word/return/)：戻る、帰る
+- [arrive](/arrive)：到着する
+- [return](/return)：戻る、帰る
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring/)：持ってくる
-- [leave](/word/leave/)：去る、出発する
+- [bring](/bring)：持ってくる
+- [leave](/leave)：去る、出発する
 
-<!-- cvid: aid12_bid44 -->
+<!-- cvid: aid16_bid48 -->

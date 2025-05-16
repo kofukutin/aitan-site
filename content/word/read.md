@@ -81,15 +81,19 @@ TOEICではPart 3やPart 7で「読む」「読んだことがあるか」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 3やPart 7で「読む」「読んだことがあるか」など
 ## 🤔  browse との違いは？
 
 - **read**：内容を理解しながらしっかり読む
-- **[browse](/word/browse/)**：ざっと目を通す、拾い読みする
+- **[browse](/browse)**：ざっと目を通す、拾い読みする
 
 readは「しっかり読む」こと、browseは「ざっと見る」「流し読みする」ことに使い分けます。
 
@@ -105,14 +109,14 @@ readは「しっかり読む」こと、browseは「ざっと見る」「流し�
 
 ## 🧩 あわせて覚えたい
 
-- [study](/word/study/)：勉強する、学ぶ
-- [scan](/word/scan/)：ざっと目を通す、ざっと読む
+- [study](/study)：勉強する、学ぶ
+- [scan](/scan)：ざっと目を通す、ざっと読む
 
 ---
 
 ## 📖 できればこれも
 
-- [write](/word/write/)：書く
-- [listen](/word/listen/)：聞く
+- [write](/write)：書く
+- [listen](/listen)：聞く
 
-<!-- cvid: aid37_bid20 -->
+<!-- cvid: aid06_bid30 -->

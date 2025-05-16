@@ -81,15 +81,19 @@ TOEICでは主に写真描写パートで、建物の梁や光線を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写パートで、建物の梁や光線を説明する
 ## 🤔  ray との違いは？
 
 - **beam**：幅や太さのある「光線」や「筋」、または建物の「梁」
-- **[ray](/word/ray/)**：細く鋭い「光線」や「放射線」
+- **[ray](/ray)**：細く鋭い「光線」や「放射線」
 
 beamは太くてはっきりした筋状のもの、rayは細くて鋭い光やエネルギーの線を指すことが多いです。
 
@@ -105,14 +109,14 @@ beamは太くてはっきりした筋状のもの、rayは細くて鋭い光や�
 
 ## 🧩 あわせて覚えたい
 
-- [column](/word/column/)：柱
-- [laser](/word/laser/)：レーザー（光線）
+- [column](/column)：柱
+- [laser](/laser)：レーザー（光線）
 
 ---
 
 ## 📖 できればこれも
 
-- [shine](/word/shine/)：輝く
-- [flash](/word/flash/)：閃光、ひらめき
+- [shine](/shine)：輝く
+- [flash](/flash)：閃光、ひらめき
 
-<!-- cvid: aid13_bid32 -->
+<!-- cvid: aid44_bid49 -->

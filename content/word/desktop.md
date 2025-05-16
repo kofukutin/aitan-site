@@ -81,15 +81,19 @@ TOEICではIT機器やオフィス環境に関する会話や説明で登場し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT機器やオフィス環境に関する会話や説明で登場し�
 ## 🤔  laptop との違いは？
 
 - **desktop**：机の上に据え置くタイプのパソコンや机の上自体を指す
-- **[laptop](/word/laptop/)**：持ち運びできるノート型パソコン
+- **[laptop](/laptop)**：持ち運びできるノート型パソコン
 
 desktopは据え置き型、laptopは持ち運び型という違いがあり、用途や場面で使い分けます。
 
@@ -105,14 +109,14 @@ desktopは据え置き型、laptopは持ち運び型という違いがあり、�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor/)：ディスプレイ、画面
-- [workstation](/word/workstation/)：作業用の高性能コンピュータ
+- [monitor](/monitor)：ディスプレイ、画面
+- [workstation](/workstation)：作業用の高性能コンピュータ
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard/)：キーボード
-- [screen](/word/screen/)：画面
+- [keyboard](/keyboard)：キーボード
+- [screen](/screen)：画面
 
-<!-- cvid: aid44_bid17 -->
+<!-- cvid: aid17_bid38 -->

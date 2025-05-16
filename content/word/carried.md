@@ -81,15 +81,19 @@ TOEICでは、物や書類の移動、業務の流れを説明する場面でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物や書類の移動、業務の流れを説明する場面でよ
 ## 🤔  transported との違いは？
 
 - **carried**：一般的に「手で持つ」「運ぶ」など幅広く使う
-- **[transported](/word/transported/)**：特に「大量・長距離・乗り物で運ぶ」ニュアンスが強い
+- **[transported](/transported)**：特に「大量・長距離・乗り物で運ぶ」ニュアンスが強い
 
 carriedは日常的な「運ぶ」全般に使えますが、transportedはよりフォーマルで規模の大きな移動に使われます。
 
@@ -105,14 +109,14 @@ carriedは日常的な「運ぶ」全般に使えますが、transportedはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [move](/word/move/)：動かす、移動する
+- [deliver](/deliver)：配達する、届ける
+- [move](/move)：動かす、移動する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring/)：持ってくる
-- [send](/word/send/)：送る
+- [bring](/bring)：持ってくる
+- [send](/send)：送る
 
-<!-- cvid: aid48_bid16 -->
+<!-- cvid: aid35_bid03 -->

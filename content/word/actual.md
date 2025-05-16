@@ -82,15 +82,19 @@ TOEICでは「actual cost（実際の費用）」や「actual results（実際�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「actual cost（実際の費用）」や「actual results（実際�
 ## 🤔  real との違いは？
 
 - **actual**：想像や予想と区別して「現実に存在する」「事実としての」
-- **[real](/word/real/)**：本物の、偽物でない、感情や性質が「本当」である
+- **[real](/real)**：本物の、偽物でない、感情や性質が「本当」である
 
 「actual」は「予想や計画と違って現実に起きていること」を強調し、「real」は「偽物でない本物」や「感情・性質が本当である」ことを強調します。
 
@@ -106,14 +110,14 @@ TOEICでは「actual cost（実際の費用）」や「actual results（実際�
 
 ## 🧩 あわせて覚えたい
 
-- [factual](/word/factual/)：事実に基づく
-- [theoretical](/word/theoretical/)：理論上の
+- [factual](/factual)：事実に基づく
+- [theoretical](/theoretical)：理論上の
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/word/current/)：現在の
-- [practical](/word/practical/)：実用的な
+- [current](/current)：現在の
+- [practical](/practical)：実用的な
 
-<!-- cvid: aid13_bid12 -->
+<!-- cvid: aid28_bid28 -->

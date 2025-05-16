@@ -81,15 +81,19 @@ TOEICでは請求書や通知文、メールなどで「overdue payment（延滞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や通知文、メールなどで「overdue payment（延滞
 ## 🤔  expired との違いは？
 
 - **overdue**：期限を過ぎてまだ完了していない（支払い・提出などが遅れている）状態
-- **[expired](/word/expired/)**：有効期限が切れて効力がなくなった状態
+- **[expired](/expired)**：有効期限が切れて効力がなくなった状態
 
 「overdue」は「やるべきことがまだ終わっていない遅延」を指し、「expired」は「期限切れで効力が消滅した」ことを表します。
 
@@ -105,14 +109,14 @@ TOEICでは請求書や通知文、メールなどで「overdue payment（延滞
 
 ## 🧩 あわせて覚えたい
 
-- [delayed](/word/delayed/)：遅れた、遅延した
-- [pending](/word/pending/)：未処理の、保留中の
+- [delayed](/delayed)：遅れた、遅延した
+- [pending](/pending)：未処理の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/word/outstanding/)：未払いの、未処理の
-- [unpaid](/word/unpaid/)：未払いの
+- [outstanding](/outstanding)：未払いの、未処理の
+- [unpaid](/unpaid)：未払いの
 
-<!-- cvid: aid08_bid14 -->
+<!-- cvid: aid44_bid48 -->

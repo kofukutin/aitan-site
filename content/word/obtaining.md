@@ -81,15 +81,19 @@ TOEICでは「書類を取得する」「許可を得る」など、フォーマ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「書類を取得する」「許可を得る」など、フォーマ
 ## 🤔  acquiring との違いは？
 
 - **obtaining**：努力や手続きを経て「得る」「取得する」ことを強調
-- **[acquiring](/word/acquiring/)**：知識やスキルなどを「身につける」「習得する」ニュアンスが強い
+- **[acquiring](/acquiring)**：知識やスキルなどを「身につける」「習得する」ニュアンスが強い
 
 obtainingは公式なものや許可・書類などを得る場合に多く、acquiringは知識や経験など無形のものに使われやすいです。
 
@@ -105,14 +109,14 @@ obtainingは公式なものや許可・書類などを得る場合に多く、ac
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る
-- [collect](/word/collect/)：集める
+- [receive](/receive)：受け取る
+- [collect](/collect)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [approve](/word/approve/)：承認する
+- [submit](/submit)：提出する
+- [approve](/approve)：承認する
 
-<!-- cvid: aid15_bid28 -->
+<!-- cvid: aid48_bid38 -->

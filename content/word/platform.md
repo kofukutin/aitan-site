@@ -81,15 +81,19 @@ TOEICでは駅の「ホーム」やIT関連の「プラットフォーム」と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは駅の「ホーム」やIT関連の「プラットフォーム」と�
 ## 🤔  stage との違いは？
 
 - **platform**：物理的な台やITの基盤、意見表明の場など幅広い「土台」の意味
-- **[stage](/word/stage/)**：演劇の「舞台」や物事の「段階」を指す
+- **[stage](/stage)**：演劇の「舞台」や物事の「段階」を指す
 
 platformは「支える土台」や「基盤」として使われ、stageは「見せる場所」や「進行の段階」を表します。
 
@@ -105,14 +109,14 @@ platformは「支える土台」や「基盤」として使われ、stageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [basis](/word/basis/)：基礎、根拠
-- [framework](/word/framework/)：枠組み、構造
+- [basis](/basis)：基礎、根拠
+- [framework](/framework)：枠組み、構造
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：システム、仕組み
-- [device](/word/device/)：装置、デバイス
+- [system](/system)：システム、仕組み
+- [device](/device)：装置、デバイス
 
-<!-- cvid: aid04_bid29 -->
+<!-- cvid: aid40_bid46 -->

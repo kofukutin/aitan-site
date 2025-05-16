@@ -81,15 +81,19 @@ TOEICでは、分詞構文や形容詞的用法で「involving」が空所補充
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、分詞構文や形容詞的用法で「involving」が空所補充
 ## 🤔  including との違いは？
 
 - **involving**：何かを巻き込んでいる、関与させていることを強調
-- **[including](/word/including/)**：単に「～を含む」「～を入れて」という意味
+- **[including](/including)**：単に「～を含む」「～を入れて」という意味
 
 「involving」は関与や影響のニュアンスが強く、動きやプロセスを伴う場合に使われます。「including」は単なる列挙や追加の意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、分詞構文や形容詞的用法で「involving」が空所補充
 
 ## 🧩 あわせて覚えたい
 
-- [entail](/word/entail/)：必然的に含む、伴う
-- [require](/word/require/)：必要とする
+- [entail](/entail)：必然的に含む、伴う
+- [require](/require)：必要とする
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/word/participate/)：参加する
-- [affect](/word/affect/)：影響を与える
+- [participate](/participate)：参加する
+- [affect](/affect)：影響を与える
 
-<!-- cvid: aid03_bid42 -->
+<!-- cvid: aid15_bid45 -->

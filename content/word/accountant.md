@@ -81,15 +81,19 @@ TOEICでは会社紹介や業務内容の説明文、メール文などで頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社紹介や業務内容の説明文、メール文などで頻出
 ## 🤔  bookkeeper との違いは？
 
 - **accountant**：財務諸表の作成や税務申告など、より専門的な会計業務を行う職業。
-- **[bookkeeper](/word/bookkeeper/)**：日々の取引記録や帳簿付けなど、主に記録業務を担当する職業。
+- **[bookkeeper](/bookkeeper)**：日々の取引記録や帳簿付けなど、主に記録業務を担当する職業。
 
 accountantは高度な資格や知識が必要な場合が多く、bookkeeperは日常的な記帳業務が中心です。
 
@@ -105,14 +109,14 @@ accountantは高度な資格や知識が必要な場合が多く、bookkeeperは
 
 ## 🧩 あわせて覚えたい
 
-- [auditor](/word/auditor/)：監査人、会計監査を行う人
-- [finance](/word/finance/)：財務、金融
+- [auditor](/auditor)：監査人、会計監査を行う人
+- [finance](/finance)：財務、金融
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [manager](/word/manager/)：管理職、マネージャー
+- [client](/client)：顧客、取引先
+- [manager](/manager)：管理職、マネージャー
 
-<!-- cvid: aid38_bid22 -->
+<!-- cvid: aid13_bid46 -->

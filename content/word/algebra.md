@@ -88,8 +88,12 @@ TOEICでは教育や研修、学習内容の説明文で登場することがあ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは教育や研修、学習内容の説明文で登場することがあ
 ## 🤔  arithmetic との違いは？
 
 - **algebra**：文字や記号を使って数式や方程式を扱う数学の分野
-- **[arithmetic](/word/arithmetic/)**：加減乗除などの基本的な計算を扱う数学の分野
+- **[arithmetic](/arithmetic)**：加減乗除などの基本的な計算を扱う数学の分野
 
 algebraは未知数や方程式を扱うのに対し、arithmeticは単純な計算や数の操作に焦点を当てます。
 
@@ -105,14 +109,14 @@ algebraは未知数や方程式を扱うのに対し、arithmeticは単純な計
 
 ## 🧩 あわせて覚えたい
 
-- [geometry](/word/geometry/)：幾何学（図形や空間を扱う数学の分野）
-- [equation](/word/equation/)：方程式（等式で表される数学的な関係）
+- [geometry](/geometry)：幾何学（図形や空間を扱う数学の分野）
+- [equation](/equation)：方程式（等式で表される数学的な関係）
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/word/formula/)：公式（計算や解法のための決まった式）
-- [theory](/word/theory/)：理論（体系的な知識や考え方）
+- [formula](/formula)：公式（計算や解法のための決まった式）
+- [theory](/theory)：理論（体系的な知識や考え方）
 
-<!-- cvid: aid15_bid32 -->
+<!-- cvid: aid15_bid04 -->

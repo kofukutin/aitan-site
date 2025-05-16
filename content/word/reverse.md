@@ -81,15 +81,19 @@ TOEICでは「決定を覆す」「手順を逆にする」など、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「決定を覆す」「手順を逆にする」など、ビジネス
 ## 🤔  invert との違いは？
 
 - **reverse**：順序や方向、状態を「逆にする」「元に戻す」ことに幅広く使う
-- **[invert](/word/invert/)**：上下・内外などを「ひっくり返す」「逆さまにする」ことに限定的に使う
+- **[invert](/invert)**：上下・内外などを「ひっくり返す」「逆さまにする」ことに限定的に使う
 
 reverseは抽象的な変化や決定の取り消しにも使えますが、invertは物理的な「裏返す」動作に主に使われます。
 
@@ -105,14 +109,14 @@ reverseは抽象的な変化や決定の取り消しにも使えますが、inve
 
 ## 🧩 あわせて覚えたい
 
-- [cancel](/word/cancel/)：取り消す、中止する
-- [undo](/word/undo/)：元に戻す、取り消す
+- [cancel](/cancel)：取り消す、中止する
+- [undo](/undo)：元に戻す、取り消す
 
 ---
 
 ## 📖 できればこれも
 
-- [alter](/word/alter/)：変更する、改める
-- [adjust](/word/adjust/)：調整する、適応させる
+- [alter](/alter)：変更する、改める
+- [adjust](/adjust)：調整する、適応させる
 
-<!-- cvid: aid34_bid09 -->
+<!-- cvid: aid22_bid22 -->

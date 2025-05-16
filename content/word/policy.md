@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書や案内文で「方針」「規定
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書や案内文で「方針」「規定
 ## 🤔  rule との違いは？
 
 - **policy**：組織や団体が定める全体的な方針や指針
-- **[rule](/word/rule/)**：具体的な行動や手順を定める「規則」
+- **[rule](/rule)**：具体的な行動や手順を定める「規則」
 
 policyは「大きな方向性」や「原則」を示し、ruleは「守るべき細かい決まり」を指します。policyが全体像、ruleが具体的なルールです。
 
@@ -105,14 +109,14 @@ policyは「大きな方向性」や「原則」を示し、ruleは「守るべ�
 
 ## 🧩 あわせて覚えたい
 
-- [guideline](/word/guideline/)：指針、ガイドライン
-- [strategy](/word/strategy/)：戦略
+- [guideline](/guideline)：指針、ガイドライン
+- [strategy](/strategy)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure/)：手順、手続き
-- [regulation](/word/regulation/)：規則、規制
+- [procedure](/procedure)：手順、手続き
+- [regulation](/regulation)：規則、規制
 
-<!-- cvid: aid15_bid42 -->
+<!-- cvid: aid49_bid26 -->

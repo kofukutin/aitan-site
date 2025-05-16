@@ -81,15 +81,19 @@ TOEICでは、マーケティングやビジネスレポートの文脈で「dem
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、マーケティングやビジネスレポートの文脈で「dem
 ## 🤔  population との違いは？
 
 - **demographic**：属性で区切った特定の集団や層
-- **[population](/word/population/)**：ある地域や国の「全人口」
+- **[population](/population)**：ある地域や国の「全人口」
 
 demographicは「年齢層」「性別」などで区切った集団を指し、populationは「全体の人数や住民」を表します。
 
@@ -105,14 +109,14 @@ demographicは「年齢層」「性別」などで区切った集団を指し、
 
 ## 🧩 あわせて覚えたい
 
-- [segment](/word/segment/)：区分、部分
-- [statistic](/word/statistic/)：統計値
+- [segment](/segment)：区分、部分
+- [statistic](/statistic)：統計値
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/word/trend/)：傾向
-- [survey](/word/survey/)：調査
+- [trend](/trend)：傾向
+- [survey](/survey)：調査
 
-<!-- cvid: aid02_bid48 -->
+<!-- cvid: aid47_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、景色や人物の描写で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、景色や人物の描写で出題され
 ## 🤔  pretty との違いは？
 
 - **beautiful**：より強く「美しい」「素晴らしい」と感じるときに使う。
-- **[pretty](/word/pretty/)**：かわいらしい、愛らしいというニュアンスで、beautifulよりやや控えめ。
+- **[pretty](/pretty)**：かわいらしい、愛らしいというニュアンスで、beautifulよりやや控えめ。
 
 「beautiful」は見た目や心の美しさなど幅広く使え、より感動や賞賛の気持ちが強いときに使います。「pretty」は主に外見がかわいらしい場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞の語彙問題や、景色や人物の描写で出題され
 
 ## 🧩 あわせて覚えたい
 
-- [ugly](/word/ugly/)：醜い
-- [handsome](/word/handsome/)：ハンサムな、かっこいい（主に男性に使う）
+- [ugly](/ugly)：醜い
+- [handsome](/handsome)：ハンサムな、かっこいい（主に男性に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [wonderful](/word/wonderful/)：素晴らしい
-- [attractive](/word/attractive/)：魅力的な
+- [wonderful](/wonderful)：素晴らしい
+- [attractive](/attractive)：魅力的な
 
-<!-- cvid: aid32_bid21 -->
+<!-- cvid: aid10_bid05 -->

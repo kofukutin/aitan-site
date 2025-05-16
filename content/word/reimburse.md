@@ -81,15 +81,19 @@ TOEICでは経費精算や出張報告などのビジネス文書でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは経費精算や出張報告などのビジネス文書でよく登場
 ## 🤔  refund との違いは？
 
 - **reimburse**：誰かが立て替えた費用を後から返す（主にビジネスや経費精算で使用）
-- **[refund](/word/refund/)**：購入した商品やサービスの代金を返金する（消費者と販売者の関係でよく使う）
+- **[refund](/refund)**：購入した商品やサービスの代金を返金する（消費者と販売者の関係でよく使う）
 
 reimburseは「立て替えたお金の返金」、refundは「購入代金の返金」と、使う場面や関係性が異なります。
 
@@ -105,14 +109,14 @@ reimburseは「立て替えたお金の返金」、refundは「購入代金の�
 
 ## 🧩 あわせて覚えたい
 
-- [compensate](/word/compensate/)：補償する、埋め合わせる
-- [repay](/word/repay/)：返済する、返金する
+- [compensate](/compensate)：補償する、埋め合わせる
+- [repay](/repay)：返済する、返金する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [submit](/word/submit/)：提出する
+- [approve](/approve)：承認する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid38_bid18 -->
+<!-- cvid: aid03_bid49 -->

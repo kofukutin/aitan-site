@@ -81,15 +81,19 @@ shootはTOEICの会話パートで「写真を撮る」「質問をどうぞ（S
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ shootはTOEICの会話パートで「写真を撮る」「質問をどうぞ（S
 ## 🤔  fire との違いは？
 
 - **shoot**：銃やカメラなどで「撃つ」「撮る」など、何かを勢いよく送り出す動作全般に使う
-- **[fire](/word/fire/)**：特に「銃を発射する」「火をつける」など、発射や点火の意味に特化
+- **[fire](/fire)**：特に「銃を発射する」「火をつける」など、発射や点火の意味に特化
 
 shootは「撃つ」「撮る」など幅広い動作に使えますが、fireは主に「発砲」「点火」など限定的な場面で使われます。
 
@@ -105,14 +109,14 @@ shootは「撃つ」「撮る」など幅広い動作に使えますが、fire�
 
 ## 🧩 あわせて覚えたい
 
-- [throw](/word/throw/)：投げる
-- [aim](/word/aim/)：狙う
+- [throw](/throw)：投げる
+- [aim](/aim)：狙う
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [catch](/word/catch/)：捕まえる
+- [send](/send)：送る
+- [catch](/catch)：捕まえる
 
-<!-- cvid: aid36_bid22 -->
+<!-- cvid: aid46_bid34 -->

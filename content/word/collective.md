@@ -82,15 +82,19 @@ collectiveはTOEICの長文読解パートで、組織やチームの方針、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid34" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid34" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ collectiveはTOEICの長文読解パートで、組織やチームの方針、�
 ## 🤔  corporate との違いは？
 
 - **collective**：集団やグループ全体の行動や意見を強調する語。
-- **[corporate](/word/corporate/)**：企業や法人に関する、会社組織としての性質を表す語。
+- **[corporate](/corporate)**：企業や法人に関する、会社組織としての性質を表す語。
 
 collectiveは「みんなで」「共同で」というニュアンスが強く、corporateは「会社として」「法人として」の意味合いが中心です。
 
@@ -106,14 +110,14 @@ collectiveは「みんなで」「共同で」というニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/word/individual/)：個人の、個々の
-- [collaborative](/word/collaborative/)：協力的な、共同の
+- [individual](/individual)：個人の、個々の
+- [collaborative](/collaborative)：協力的な、共同の
 
 ---
 
 ## 📖 できればこれも
 
-- [joint](/word/joint/)：共同の、連携した
-- [mutual](/word/mutual/)：相互の、共通の
+- [joint](/joint)：共同の、連携した
+- [mutual](/mutual)：相互の、共通の
 
-<!-- cvid: aid29_bid17 -->
+<!-- cvid: aid40_bid34 -->

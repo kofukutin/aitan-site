@@ -81,15 +81,19 @@ TOEICではホテルやイベント会場の案内、会議やパーティーの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやイベント会場の案内、会議やパーティーの
 ## 🤔  hall との違いは？
 
 - **ballroom**：舞踏会やダンスイベント用の広い部屋・ホール
-- **[hall](/word/hall/)**：一般的な広間、会議室、講堂など幅広い用途の部屋
+- **[hall](/hall)**：一般的な広間、会議室、講堂など幅広い用途の部屋
 
 ballroomは特にダンスや舞踏会向けの豪華な部屋を指し、hallはより汎用的な広い部屋や建物の一部を指します。
 
@@ -105,14 +109,14 @@ ballroomは特にダンスや舞踏会向けの豪華な部屋を指し、hall�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/word/auditorium/)：講堂、観客席付きの大ホール
-- [banquet_room](/word/banquet_room/)：宴会場
+- [auditorium](/auditorium)：講堂、観客席付きの大ホール
+- [banquet_room](/banquet_room)：宴会場
 
 ---
 
 ## 📖 できればこれも
 
-- [stage](/word/stage/)：舞台
-- [venue](/word/venue/)：会場、開催地
+- [stage](/stage)：舞台
+- [venue](/venue)：会場、開催地
 
-<!-- cvid: aid43_bid36 -->
+<!-- cvid: aid00_bid06 -->

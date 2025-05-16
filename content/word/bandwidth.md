@@ -82,15 +82,19 @@ ITやビジネス関連の長文やメール文で、ネットワークや業務
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ ITやビジネス関連の長文やメール文で、ネットワークや業務
 ## 🤔  capacity との違いは？
 
 - **bandwidth**：IT分野での「通信容量」や比喩的な「処理能力・余裕」を指す
-- **[capacity](/word/capacity/)**：物理的・抽象的な「最大収容力」や「能力」を幅広く指す
+- **[capacity](/capacity)**：物理的・抽象的な「最大収容力」や「能力」を幅広く指す
 
 bandwidthは主にITやネットワークの分野で使われ、capacityはより一般的な「容量」や「能力」を表します。
 
@@ -106,14 +110,14 @@ bandwidthは主にITやネットワークの分野で使われ、capacityはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [throughput](/word/throughput/)：実際に処理されるデータ量
-- [frequency](/word/frequency/)：周波数、一定期間内の回数
+- [throughput](/throughput)：実際に処理されるデータ量
+- [frequency](/frequency)：周波数、一定期間内の回数
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、通信網
-- [signal](/word/signal/)：信号、合図
+- [network](/network)：ネットワーク、通信網
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid01_bid05 -->
+<!-- cvid: aid27_bid19 -->

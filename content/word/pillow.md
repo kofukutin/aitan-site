@@ -80,15 +80,19 @@ TOEICでは主にホテルや部屋の写真描写で登場します。寝具や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid22_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にホテルや部屋の写真描写で登場します。寝具や
 ## 🤔  cushion との違いは？
 
 - **pillow**：寝るときに頭をのせるための枕
-- **[cushion](/word/cushion/)**：椅子やソファに置くクッション
+- **[cushion](/cushion)**：椅子やソファに置くクッション
 
 pillowは主に寝具として使い、cushionは座るときや背もたれ用など家具の上で使います。
 
@@ -104,14 +108,14 @@ pillowは主に寝具として使い、cushionは座るときや背もたれ用�
 
 ## 🧩 あわせて覚えたい
 
-- [blanket](/word/blanket/)：毛布
-- [mattress](/word/mattress/)：マットレス
+- [blanket](/blanket)：毛布
+- [mattress](/mattress)：マットレス
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket/)：毛布
-- [sheet](/word/sheet/)：シーツ
+- [blanket](/blanket)：毛布
+- [sheet](/sheet)：シーツ
 
-<!-- cvid: aid26_bid35 -->
+<!-- cvid: aid22_bid39 -->

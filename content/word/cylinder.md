@@ -81,15 +81,19 @@ TOEICでは説明文やマニュアル、技術系の文章で「cylinder」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文やマニュアル、技術系の文章で「cylinder」が�
 ## 🤔  tube との違いは？
 
 - **cylinder**：両端が同じ大きさの円で、側面がまっすぐな立体や機械部品の「シリンダー」を指す。
-- **[tube](/word/tube/)**：中が空洞で細長い「管」や「チューブ」を指す。
+- **[tube](/tube)**：中が空洞で細長い「管」や「チューブ」を指す。
 
 cylinderは立体的な形や機械部品を指すことが多く、tubeは液体や気体を通す細長い管を表します。
 
@@ -105,14 +109,14 @@ cylinderは立体的な形や機械部品を指すことが多く、tubeは液�
 
 ## 🧩 あわせて覚えたい
 
-- [sphere](/word/sphere/)：球体
-- [rectangle](/word/rectangle/)：長方形
+- [sphere](/sphere)：球体
+- [rectangle](/rectangle)：長方形
 
 ---
 
 ## 📖 できればこれも
 
-- [circle](/word/circle/)：円
-- [cone](/word/cone/)：円錐
+- [circle](/circle)：円
+- [cone](/cone)：円錐
 
-<!-- cvid: aid33_bid09 -->
+<!-- cvid: aid14_bid10 -->

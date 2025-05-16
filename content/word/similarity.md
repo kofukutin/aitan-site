@@ -81,7 +81,7 @@ TOEICでは、比較や分析、説明文などで「共通点」や「似てい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、比較や分析、説明文などで「共通点」や「似てい
 
 <div class="info-center">
 ＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、比較や分析、説明文などで「共通点」や「似てい
 ## 🤔  resemblance との違いは？
 
 - **similarity**：共通点や似ている部分を抽象的・全体的に表す
-- **[resemblance](/word/resemblance/)**：外見や印象など、より具体的な「見た目の似ていること」を強調
+- **[resemblance](/resemblance)**：外見や印象など、より具体的な「見た目の似ていること」を強調
 
 similarityは性質や特徴など幅広い「類似性」を指し、resemblanceは主に外見や印象の「そっくりさ」に使われます。
 
@@ -105,14 +109,14 @@ similarityは性質や特徴など幅広い「類似性」を指し、resemblanc
 
 ## 🧩 あわせて覚えたい
 
-- [difference](/word/difference/)：違い、相違点
-- [analogy](/word/analogy/)：類推、類似
+- [difference](/difference)：違い、相違点
+- [analogy](/analogy)：類推、類似
 
 ---
 
 ## 📖 できればこれも
 
-- [comparison](/word/comparison/)：比較
-- [likeness](/word/likeness/)：類似、似ていること
+- [comparison](/comparison)：比較
+- [likeness](/likeness)：類似、似ていること
 
-<!-- cvid: aid21_bid26 -->
+<!-- cvid: aid18_bid26 -->

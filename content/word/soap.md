@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【soap】の意味・使い方・例文 ― detergentとの違い【TOEIC英単語】"
 description: "soapの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdetergentとの違いもわかりやすく学べます。"
 word: "soap"
@@ -80,15 +80,19 @@ TOEICでは主にホテルやバスルームの写真描写で登場しやすい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid42" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid42" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にホテルやバスルームの写真描写で登場しやすい
 ## 🤔  detergent との違いは？
 
 - **soap**：主に体や手、食器などを洗うための「石けん」
-- **[detergent](/word/detergent/)**：洗濯や食器洗いなどに使う「合成洗剤」
+- **[detergent](/detergent)**：洗濯や食器洗いなどに使う「合成洗剤」
 
 soapは自然由来の石けんを指し、detergentはより広範囲の合成洗剤を指します。洗濯や掃除にはdetergentが使われることが多いです。
 
@@ -104,14 +108,14 @@ soapは自然由来の石けんを指し、detergentはより広範囲の合成�
 
 ## 🧩 あわせて覚えたい
 
-- [shampoo](/word/shampoo/)：シャンプー、髪を洗う洗剤
-- [lotion](/word/lotion/)：ローション、化粧水
+- [shampoo](/shampoo)：シャンプー、髪を洗う洗剤
+- [lotion](/lotion)：ローション、化粧水
 
 ---
 
 ## 📖 できればこれも
 
-- [towel](/word/towel/)：タオル
-- [shower](/word/shower/)：シャワー
+- [towel](/towel)：タオル
+- [shower](/shower)：シャワー
 
-<!-- cvid: aid44_bid20 -->
+<!-- cvid: aid24_bid42 -->

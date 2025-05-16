@@ -81,15 +81,19 @@ TOEICでは、案内や説明、ビジネス文書で「main office」「main re
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内や説明、ビジネス文書で「main office」「main re
 ## 🤔  major との違いは？
 
 - **main**：最も重要・中心となるものを指す
-- **[major](/word/major/)**：大きな割合・規模・影響力を持つものを指す
+- **[major](/major)**：大きな割合・規模・影響力を持つものを指す
 
 「main」は「中心」「最重要」のニュアンスが強く、「major」は「大部分」「大きな影響力」を持つものに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、案内や説明、ビジネス文書で「main office」「main re
 
 ## 🧩 あわせて覚えたい
 
-- [primary](/word/primary/)：第一の、主要な
-- [central](/word/central/)：中心の、重要な
+- [primary](/primary)：第一の、主要な
+- [central](/central)：中心の、重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/word/basic/)：基本的な
-- [essential](/word/essential/)：不可欠な
+- [basic](/basic)：基本的な
+- [essential](/essential)：不可欠な
 
-<!-- cvid: aid45_bid20 -->
+<!-- cvid: aid06_bid34 -->

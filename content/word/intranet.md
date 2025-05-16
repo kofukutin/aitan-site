@@ -80,15 +80,19 @@ TOEICではIT関連の社内通知やマニュアル、メール文面などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではIT関連の社内通知やマニュアル、メール文面などで�
 ## 🤔  extranet との違いは？
 
 - **intranet**：組織内部だけで利用される閉じたネットワーク
-- **[extranet](/word/extranet/)**：取引先やパートナー企業など外部関係者にも一部開放されるネットワーク
+- **[extranet](/extranet)**：取引先やパートナー企業など外部関係者にも一部開放されるネットワーク
 
 intranetは完全に社内専用ですが、extranetは社外の特定ユーザーにもアクセス権を与える点が異なります。
 
@@ -104,15 +108,15 @@ intranetは完全に社内専用ですが、extranetは社外の特定ユーザ�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、通信網
-- [firewall](/word/firewall/)：ファイアウォール、ネットワークの安全装置
+- [network](/network)：ネットワーク、通信網
+- [firewall](/firewall)：ファイアウォール、ネットワークの安全装置
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/word/database/)：データベース、情報の集まり
-- [server](/word/server/)：サーバー、ネットワーク上のサービス提供機
+- [database](/database)：データベース、情報の集まり
+- [server](/server)：サーバー、ネットワーク上のサービス提供機
 
 ---
-<!-- cvid: aid24_bid19 -->
+<!-- cvid: aid07_bid40 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、警備や空港などの場面で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、警備や空港などの場面で「
 ## 🤔  weapon との違いは？
 
 - **gun**：弾を発射する銃（ピストルやライフルなど）を指す。
-- **[weapon](/word/weapon/)**：銃だけでなく、ナイフや爆弾など「武器」全般を指す。
+- **[weapon](/weapon)**：銃だけでなく、ナイフや爆弾など「武器」全般を指す。
 
 gunは「銃」という具体的な道具を指し、weaponは攻撃や防御に使うあらゆる武器を広く指します。
 
@@ -105,14 +109,14 @@ gunは「銃」という具体的な道具を指し、weaponは攻撃や防御�
 
 ## 🧩 あわせて覚えたい
 
-- [pistol](/word/pistol/)：小型の拳銃
-- [rifle](/word/rifle/)：ライフル銃
+- [pistol](/pistol)：小型の拳銃
+- [rifle](/rifle)：ライフル銃
 
 ---
 
 ## 📖 できればこれも
 
-- [knife](/word/knife/)：ナイフ、刃物
-- [alarm](/word/alarm/)：警報、アラーム
+- [knife](/knife)：ナイフ、刃物
+- [alarm](/alarm)：警報、アラーム
 
-<!-- cvid: aid42_bid46 -->
+<!-- cvid: aid37_bid05 -->

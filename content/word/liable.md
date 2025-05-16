@@ -81,7 +81,7 @@ TOEICでは契約や規約、責任に関する長文でよく見かけます。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは契約や規約、責任に関する長文でよく見かけます。
 
 <div class="info-center">
 ＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid02" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid02" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や規約、責任に関する長文でよく見かけます。
 ## 🤔  responsible との違いは？
 
 - **liable**：法的・金銭的な責任や義務を負う場合に使う
-- **[responsible](/word/responsible/)**：一般的な責任や義務、道徳的責任にも使う
+- **[responsible](/responsible)**：一般的な責任や義務、道徳的責任にも使う
 
 liableは特に法律や契約での「責任」に限定されるのに対し、responsibleは日常的な責任や役割にも幅広く使われます。
 
@@ -105,14 +109,14 @@ liableは特に法律や契約での「責任」に限定されるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [accountable](/word/accountable/)：説明責任がある
-- [immune](/word/immune/)：免責の、責任を問われない
+- [accountable](/accountable)：説明責任がある
+- [immune](/immune)：免責の、責任を問われない
 
 ---
 
 ## 📖 できればこれも
 
-- [legitimate](/word/legitimate/)：合法的な、正当な
-- [obliged](/word/obliged/)：義務がある、～せざるを得ない
+- [legitimate](/legitimate)：合法的な、正当な
+- [obliged](/obliged)：義務がある、～せざるを得ない
 
-<!-- cvid: aid05_bid02 -->
+<!-- cvid: aid37_bid02 -->

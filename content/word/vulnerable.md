@@ -81,15 +81,19 @@ TOEICでは、セキュリティやリスク管理、ビジネス上の弱点な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、セキュリティやリスク管理、ビジネス上の弱点な
 ## 🤔  sensitive との違いは？
 
 - **vulnerable**：外部からの攻撃や影響に「弱い」「傷つきやすい」状態
-- **[sensitive](/word/sensitive/)**：感情や感覚が「敏感な」「感じやすい」状態
+- **[sensitive](/sensitive)**：感情や感覚が「敏感な」「感じやすい」状態
 
 vulnerableは「守りが弱く、被害を受けやすい」ニュアンス、sensitiveは「感受性が強い」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ vulnerableは「守りが弱く、被害を受けやすい」ニュアンス、s
 
 ## 🧩 あわせて覚えたい
 
-- [resistant](/word/resistant/)：耐性がある、強い
-- [fragile](/word/fragile/)：壊れやすい、もろい
+- [resistant](/resistant)：耐性がある、強い
+- [fragile](/fragile)：壊れやすい、もろい
 
 ---
 
 ## 📖 できればこれも
 
-- [secure](/word/secure/)：安全な、守られている
-- [exposed](/word/exposed/)：さらされた、むき出しの
+- [secure](/secure)：安全な、守られている
+- [exposed](/exposed)：さらされた、むき出しの
 
-<!-- cvid: aid12_bid26 -->
+<!-- cvid: aid48_bid33 -->

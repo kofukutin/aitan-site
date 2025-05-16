@@ -81,15 +81,19 @@ TOEICでは、感情や意見を述べる場面でよく登場します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、感情や意見を述べる場面でよく登場します。特に
 ## 🤔  sense との違いは？
 
 - **feel**：自分の感覚や感情を直接「感じる」「思う」ときに使う
-- **[sense](/word/sense/)**：五感や直感で「察知する」「気づく」ときに使う
+- **[sense](/sense)**：五感や直感で「察知する」「気づく」ときに使う
 
 feelは主観的な感覚や感情に、senseは客観的な知覚や直感に使われることが多いです。
 
@@ -105,14 +109,14 @@ feelは主観的な感覚や感情に、senseは客観的な知覚や直感に�
 
 ## 🧩 あわせて覚えたい
 
-- [touch](/word/touch/)：触れる、接触する
-- [perceive](/word/perceive/)：知覚する、認識する
+- [touch](/touch)：触れる、接触する
+- [perceive](/perceive)：知覚する、認識する
 
 ---
 
 ## 📖 できればこれも
 
-- [think](/word/think/)：考える、思う
-- [believe](/word/believe/)：信じる、思う
+- [think](/think)：考える、思う
+- [believe](/believe)：信じる、思う
 
-<!-- cvid: aid01_bid34 -->
+<!-- cvid: aid26_bid16 -->

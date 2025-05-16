@@ -81,15 +81,19 @@ TOEICではITやビジネス文脈で「linking」が名詞として出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文脈で「linking」が名詞として出題され
 ## 🤔  connection との違いは？
 
 - **linking**：物や情報などを「つなげる行為」や「つなげている状態」を強調
-- **[connection](/word/connection/)**：つながっている「関係」や「接続そのもの」を指す
+- **[connection](/connection)**：つながっている「関係」や「接続そのもの」を指す
 
 linkingは「つなげる動作や過程」に焦点があり、connectionは「つながった結果や関係性」を表します。
 
@@ -105,14 +109,14 @@ linkingは「つなげる動作や過程」に焦点があり、connectionは「
 
 ## 🧩 あわせて覚えたい
 
-- [association](/word/association/)：関連、連想
-- [integration](/word/integration/)：統合、統一
+- [association](/association)：関連、連想
+- [integration](/integration)：統合、統一
 
 ---
 
 ## 📖 できればこれも
 
-- [relation](/word/relation/)：関係、関連
-- [combination](/word/combination/)：組み合わせ、結合
+- [relation](/relation)：関係、関連
+- [combination](/combination)：組み合わせ、結合
 
-<!-- cvid: aid11_bid11 -->
+<!-- cvid: aid17_bid01 -->

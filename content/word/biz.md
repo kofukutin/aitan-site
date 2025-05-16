@@ -80,15 +80,19 @@ TOEICではカジュアルなメールやチャット文面などでまれに登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではカジュアルなメールやチャット文面などでまれに登
 ## 🤔  business との違いは？
 
 - **biz**：カジュアルな場面や口語で使う「ビジネス」の略語
-- **[business](/word/business/)**：フォーマル・カジュアル両方で使える正式な「ビジネス」
+- **[business](/business)**：フォーマル・カジュアル両方で使える正式な「ビジネス」
 
 「biz」は友人や同僚との軽い会話やメールで使われ、「business」は公式な文書や会議など幅広い場面で使われます。
 
@@ -104,14 +108,14 @@ TOEICではカジュアルなメールやチャット文面などでまれに登
 
 ## 🧩 あわせて覚えたい
 
-- [company](/word/company/)：会社
-- [firm](/word/firm/)：企業、事務所
+- [company](/company)：会社
+- [firm](/firm)：企業、事務所
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal/)：取引
-- [client](/word/client/)：顧客
+- [deal](/deal)：取引
+- [client](/client)：顧客
 
-<!-- cvid: aid38_bid09 -->
+<!-- cvid: aid41_bid03 -->

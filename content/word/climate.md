@@ -81,15 +81,19 @@ TOEICでは環境問題やビジネスの社会的責任に関する長文でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題やビジネスの社会的責任に関する長文でよ
 ## 🤔  weather との違いは？
 
 - **climate**：長期間の天候の傾向や特徴
-- **[weather](/word/weather/)**：その日の天気や短期間の気象
+- **[weather](/weather)**：その日の天気や短期間の気象
 
 climateは「その地域の平均的な天候」、weatherは「今日や今の天気」を指します。
 
@@ -105,14 +109,14 @@ climateは「その地域の平均的な天候」、weatherは「今日や今の
 
 ## 🧩 あわせて覚えたい
 
-- [atmosphere](/word/atmosphere/)：大気、雰囲気
-- [temperature](/word/temperature/)：気温
+- [atmosphere](/atmosphere)：大気、雰囲気
+- [temperature](/temperature)：気温
 
 ---
 
 ## 📖 できればこれも
 
-- [environment](/word/environment/)：環境
-- [season](/word/season/)：季節
+- [environment](/environment)：環境
+- [season](/season)：季節
 
-<!-- cvid: aid48_bid29 -->
+<!-- cvid: aid24_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは「allow 人 to do」や「be allowed to do」の形で頻出しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「allow 人 to do」や「be allowed to do」の形で頻出しま�
 ## 🤔  permit との違いは？
 
 - **allow**：日常的・一般的に「許す」「認める」という意味で幅広く使う
-- **[permit](/word/permit/)**：よりフォーマルで公式な許可や認可を表す
+- **[permit](/permit)**：よりフォーマルで公式な許可や認可を表す
 
 allowはカジュアルからビジネスまで幅広く使えますが、permitは法律や規則など公式な場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ allowはカジュアルからビジネスまで幅広く使えますが、permit
 
 ## 🧩 あわせて覚えたい
 
-- [forbid](/word/forbid/)：禁止する
-- [authorize](/word/authorize/)：正式に許可する
+- [forbid](/forbid)：禁止する
+- [authorize](/authorize)：正式に許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/word/accept/)：受け入れる
-- [enable](/word/enable/)：可能にする
+- [accept](/accept)：受け入れる
+- [enable](/enable)：可能にする
 
-<!-- cvid: aid07_bid03 -->
+<!-- cvid: aid16_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で、物事や人物の魅力を強調する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で、物事や人物の魅力を強調する際に
 ## 🤔  interesting との違いは？
 
 - **fascinating**：とても強く心を引きつける、うっとりするほど魅力的
-- **[interesting](/word/interesting/)**：興味を引く、面白い
+- **[interesting](/interesting)**：興味を引く、面白い
 
 fascinatingは「夢中になるほど魅力的」という強い印象を与え、interestingは「関心を持つ程度の面白さ」を表します。
 
@@ -105,14 +109,14 @@ fascinatingは「夢中になるほど魅力的」という強い印象を与え
 
 ## 🧩 あわせて覚えたい
 
-- [captivating](/word/captivating/)：心を奪うような、非常に魅力的な
-- [boring](/word/boring/)：退屈な
+- [captivating](/captivating)：心を奪うような、非常に魅力的な
+- [boring](/boring)：退屈な
 
 ---
 
 ## 📖 できればこれも
 
-- [impressive](/word/impressive/)：印象的な
-- [remarkable](/word/remarkable/)：注目すべき、際立った
+- [impressive](/impressive)：印象的な
+- [remarkable](/remarkable)：注目すべき、際立った
 
-<!-- cvid: aid47_bid48 -->
+<!-- cvid: aid35_bid16 -->

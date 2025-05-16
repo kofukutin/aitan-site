@@ -81,15 +81,19 @@ TOEICでは会議や職場での指示、案内、管理に関する文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や職場での指示、案内、管理に関する文脈でよ
 ## 🤔  manage との違いは？
 
 - **direct**：具体的な指示や方向づけを行う、導く
-- **[manage](/word/manage/)**：全体を管理・運営する、うまく扱う
+- **[manage](/manage)**：全体を管理・運営する、うまく扱う
 
 directは「どのように進めるかを指示する」ニュアンスが強く、manageは「全体をまとめて運営する」意味合いが強いです。
 
@@ -105,14 +109,14 @@ directは「どのように進めるかを指示する」ニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise/)：監督する、見守る
-- [lead](/word/lead/)：率いる、導く
+- [supervise](/supervise)：監督する、見守る
+- [lead](/lead)：率いる、導く
 
 ---
 
 ## 📖 できればこれも
 
-- [control](/word/control/)：制御する、管理する
-- [guide](/word/guide/)：案内する、導く
+- [control](/control)：制御する、管理する
+- [guide](/guide)：案内する、導く
 
-<!-- cvid: aid39_bid09 -->
+<!-- cvid: aid33_bid45 -->

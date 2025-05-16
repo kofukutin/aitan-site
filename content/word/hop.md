@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人や動物が跳ねている場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人や動物が跳ねている場面
 ## 🤔  jump との違いは？
 
 - **hop**：片足や両足で軽くぴょんと跳ぶ、小さなジャンプ
-- **[jump](/word/jump/)**：両足で大きく跳ぶ、または高く・遠く跳ぶ
+- **[jump](/jump)**：両足で大きく跳ぶ、または高く・遠く跳ぶ
 
 hopは軽く短い距離を跳ぶ動作、jumpはより大きく高く跳ぶ動作に使われます。
 
@@ -105,14 +109,14 @@ hopは軽く短い距離を跳ぶ動作、jumpはより大きく高く跳ぶ動�
 
 ## 🧩 あわせて覚えたい
 
-- [skip](/word/skip/)：スキップする、軽く跳ねながら進む
-- [leap](/word/leap/)：大きく跳ぶ、跳躍する
+- [skip](/skip)：スキップする、軽く跳ねながら進む
+- [leap](/leap)：大きく跳ぶ、跳躍する
 
 ---
 
 ## 📖 できればこれも
 
-- [walk](/word/walk/)：歩く
-- [run](/word/run/)：走る
+- [walk](/walk)：歩く
+- [run](/run)：走る
 
-<!-- cvid: aid34_bid47 -->
+<!-- cvid: aid29_bid00 -->

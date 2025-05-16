@@ -81,15 +81,19 @@ testamentはTOEICの長文読解パートで、契約や遺言、証拠に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ testamentはTOEICの長文読解パートで、契約や遺言、証拠に関す
 ## 🤔  will との違いは？
 
 - **testament**：証拠や証し、または法的な「遺言書」を指すフォーマルな語。
-- **[will](/word/will/)**：日常的な「意志」や「遺言書」を指すが、testamentよりカジュアル。
+- **[will](/will)**：日常的な「意志」や「遺言書」を指すが、testamentよりカジュアル。
 
 testamentは特に法的な文書や証拠としての意味が強く、willは日常会話や一般的な遺言書に使われます。
 
@@ -105,14 +109,14 @@ testamentは特に法的な文書や証拠としての意味が強く、willは�
 
 ## 🧩 あわせて覚えたい
 
-- [evidence](/word/evidence/)：証拠
-- [legacy](/word/legacy/)：遺産、受け継がれたもの
+- [evidence](/evidence)：証拠
+- [legacy](/legacy)：遺産、受け継がれたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [document](/word/document/)：書類
+- [contract](/contract)：契約
+- [document](/document)：書類
 
-<!-- cvid: aid22_bid13 -->
+<!-- cvid: aid02_bid14 -->

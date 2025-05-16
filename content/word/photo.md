@@ -81,15 +81,19 @@ TOEICのPart 1（写真描写問題）で頻出。写真や画像に関する指
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1（写真描写問題）で頻出。写真や画像に関する指
 ## 🤔  picture との違いは？
 
 - **photo**：カメラで撮影した「写真」を指すカジュアルな単語
-- **[picture](/word/picture/)**：写真だけでなく絵やイラストなど「画像全般」を指す
+- **[picture](/picture)**：写真だけでなく絵やイラストなど「画像全般」を指す
 
 photoは「カメラで撮った写真」に限定されるのに対し、pictureは絵やイラストも含む幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ photoは「カメラで撮った写真」に限定されるのに対し、pictur
 
 ## 🧩 あわせて覚えたい
 
-- [image](/word/image/)：画像、映像
-- [snapshot](/word/snapshot/)：スナップ写真、瞬間写真
+- [image](/image)：画像、映像
+- [snapshot](/snapshot)：スナップ写真、瞬間写真
 
 ---
 
 ## 📖 できればこれも
 
-- [camera](/word/camera/)：カメラ、撮影機器
-- [album](/word/album/)：アルバム、写真集
+- [camera](/camera)：カメラ、撮影機器
+- [album](/album)：アルバム、写真集
 
-<!-- cvid: aid06_bid10 -->
+<!-- cvid: aid48_bid40 -->

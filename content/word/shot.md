@@ -81,15 +81,19 @@ She gave her best shot during the presentation.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ She gave her best shot during the presentation.
 ## 🤔  attempt との違いは？
 
 - **shot**：カジュアルに「試しにやってみる」「挑戦」の意味で使う
-- **[attempt](/word/attempt/)**：ややフォーマルで「努力して試みる」という意味
+- **[attempt](/attempt)**：ややフォーマルで「努力して試みる」という意味
 
 shotは日常会話で気軽な挑戦や試しに使い、attemptは真剣な努力や公式な場面で使われます。
 
@@ -105,14 +109,14 @@ shotは日常会話で気軽な挑戦や試しに使い、attemptは真剣な努
 
 ## 🧩 あわせて覚えたい
 
-- [try](/word/try/)：試す、やってみる
-- [chance](/word/chance/)：機会、チャンス
+- [try](/try)：試す、やってみる
+- [chance](/chance)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal/)：目標、ゴール
-- [risk](/word/risk/)：リスク、危険
+- [goal](/goal)：目標、ゴール
+- [risk](/risk)：リスク、危険
 
-<!-- cvid: aid04_bid40 -->
+<!-- cvid: aid41_bid15 -->

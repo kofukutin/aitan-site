@@ -81,15 +81,19 @@ moderateは、ビジネス文書や会議の議事録などで「適度な」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ moderateは、ビジネス文書や会議の議事録などで「適度な」「
 ## 🤔  mild との違いは？
 
 - **moderate**：極端でなく中間的、適度な、バランスが取れている
-- **[mild](/word/mild/)**：刺激や強さが弱い、穏やかな
+- **[mild](/mild)**：刺激や強さが弱い、穏やかな
 
 moderateは「中間・適度・バランス」を強調し、mildは「刺激や強さが弱い」「やさしい」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ moderateは「中間・適度・バランス」を強調し、mildは「刺激�
 
 ## 🧩 あわせて覚えたい
 
-- [average](/word/average/)：平均的な
-- [reasonable](/word/reasonable/)：妥当な、合理的な
+- [average](/average)：平均的な
+- [reasonable](/reasonable)：妥当な、合理的な
 
 ---
 
 ## 📖 できればこれも
 
-- [considerable](/word/considerable/)：かなりの、相当な
-- [adequate](/word/adequate/)：十分な、適切な
+- [considerable](/considerable)：かなりの、相当な
+- [adequate](/adequate)：十分な、適切な
 
-<!-- cvid: aid31_bid00 -->
+<!-- cvid: aid47_bid26 -->

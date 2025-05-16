@@ -80,15 +80,19 @@ TOEICではPart 7の学校や教育関連の長文、案内文などでよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではPart 7の学校や教育関連の長文、案内文などでよく登
 ## 🤔  reference book との違いは？
 
 - **textbook**：学習や授業のために体系的にまとめられた教科書
-- **[reference book](/word/reference_book/)**：調べ物や情報検索のための参考書
+- **[reference book](/reference_book)**：調べ物や情報検索のための参考書
 
 textbookは授業や学習の流れに沿って使う本、reference bookは必要な情報を調べるために使う本という違いがあります。
 
@@ -104,14 +108,14 @@ textbookは授業や学習の流れに沿って使う本、reference bookは必�
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual/)：手引き書、マニュアル
-- [curriculum](/word/curriculum/)：カリキュラム、教育課程
+- [manual](/manual)：手引き書、マニュアル
+- [curriculum](/curriculum)：カリキュラム、教育課程
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture/)：講義
-- [assignment](/word/assignment/)：課題
+- [lecture](/lecture)：講義
+- [assignment](/assignment)：課題
 
-<!-- cvid: aid18_bid37 -->
+<!-- cvid: aid29_bid45 -->

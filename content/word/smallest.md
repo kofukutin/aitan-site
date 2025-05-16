@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【smallest】の意味・使い方・例文 ― leastとの違い【TOEIC英単語】"
 description: "smallestの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでleastとの違いもわかりやすく学べます。"
 word: "smallest"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、比較・最上級を問う文法問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid05_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、比較・最上級を問う文法問
 ## 🤔  least との違いは？
 
 - **smallest**：大きさや量が「最も小さい」ことを表す最上級の形容詞。
-- **[least](/word/least/)**：程度や重要性などが「最も少ない」「最も低い」ことを表す形容詞・副詞。
+- **[least](/least)**：程度や重要性などが「最も少ない」「最も低い」ことを表す形容詞・副詞。
 
 smallestは物理的な大きさや数量に使い、leastは抽象的な程度や重要性などに使います。
 
@@ -105,14 +109,14 @@ smallestは物理的な大きさや数量に使い、leastは抽象的な程度�
 
 ## 🧩 あわせて覚えたい
 
-- [tiny](/word/tiny/)：とても小さい
-- [minor](/word/minor/)：重要でない、小さい（規模や重要性が小さい）
+- [tiny](/tiny)：とても小さい
+- [minor](/minor)：重要でない、小さい（規模や重要性が小さい）
 
 ---
 
 ## 📖 できればこれも
 
-- [shortest](/word/shortest/)：最も短い
-- [largest](/word/largest/)：最も大きい
+- [shortest](/shortest)：最も短い
+- [largest](/largest)：最も大きい
 
-<!-- cvid: aid03_bid27 -->
+<!-- cvid: aid05_bid26 -->

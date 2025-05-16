@@ -81,15 +81,19 @@ TOEICでは、役職や賞の候補者を指名する文脈でよく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、役職や賞の候補者を指名する文脈でよく出題され
 ## 🤔  appointed との違いは？
 
 - **nominated**：候補として指名・推薦する（最終決定前の段階）
-- **[appointed](/word/appointed/)**：正式に任命・就任させる（決定後）
+- **[appointed](/appointed)**：正式に任命・就任させる（決定後）
 
 nominatedは「候補に挙げる」段階、appointedは「正式に任命する」段階で使い分けます。
 
@@ -105,14 +109,14 @@ nominatedは「候補に挙げる」段階、appointedは「正式に任命す�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend/)：推薦する
-- [elect](/word/elect/)：選挙で選ぶ
+- [recommend](/recommend)：推薦する
+- [elect](/elect)：選挙で選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [select](/word/select/)：選ぶ
+- [approve](/approve)：承認する
+- [select](/select)：選ぶ
 
-<!-- cvid: aid12_bid10 -->
+<!-- cvid: aid09_bid45 -->

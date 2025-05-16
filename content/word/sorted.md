@@ -81,15 +81,19 @@ TOEICでは「sorted files（整理されたファイル）」や「sorted by na
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「sorted files（整理されたファイル）」や「sorted by na
 ## 🤔  organized との違いは？
 
 - **sorted**：物や情報が順序や基準に従って並べ替えられている状態を強調。
-- **[organized](/word/organized/)**：全体的に秩序立って管理・整頓されている状態を強調。
+- **[organized](/organized)**：全体的に秩序立って管理・整頓されている状態を強調。
 
 sortedは「順番や基準で並べた」ことに焦点があり、organizedは「全体的にきちんと整っている」ニュアンスです。
 
@@ -105,14 +109,14 @@ sortedは「順番や基準で並べた」ことに焦点があり、organized�
 
 ## 🧩 あわせて覚えたい
 
-- [arranged](/word/arranged/)：配置された、整えられた
-- [classified](/word/classified/)：分類された
+- [arranged](/arranged)：配置された、整えられた
+- [classified](/classified)：分類された
 
 ---
 
 ## 📖 できればこれも
 
-- [fixed](/word/fixed/)：修理された、固定された
-- [prepared](/word/prepared/)：準備された
+- [fixed](/fixed)：修理された、固定された
+- [prepared](/prepared)：準備された
 
-<!-- cvid: aid06_bid32 -->
+<!-- cvid: aid18_bid34 -->

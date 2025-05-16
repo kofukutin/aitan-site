@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、人物の外見を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、人物の外見を説明する
 ## 🤔  fair との違いは？
 
 - **blond**：髪の色が明るい金色や黄色であることを指す。
-- **[fair](/word/fair/)**：髪や肌の色が明るい、色白の意味でも使われるが、blondほど髪の色に特化していない。
+- **[fair](/fair)**：髪や肌の色が明るい、色白の意味でも使われるが、blondほど髪の色に特化していない。
 
 blondは主に髪の色に限定して使われ、fairは髪や肌など全体的な色の明るさを表します。
 
@@ -105,14 +109,14 @@ blondは主に髪の色に限定して使われ、fairは髪や肌など全体�
 
 ## 🧩 あわせて覚えたい
 
-- [dark](/word/dark/)：暗い、黒っぽい
-- [light](/word/light/)：明るい、薄い
+- [dark](/dark)：暗い、黒っぽい
+- [light](/light)：明るい、薄い
 
 ---
 
 ## 📖 できればこれも
 
-- [curly](/word/curly/)：巻き毛の
-- [tall](/word/tall/)：背が高い
+- [curly](/curly)：巻き毛の
+- [tall](/tall)：背が高い
 
-<!-- cvid: aid41_bid38 -->
+<!-- cvid: aid32_bid37 -->

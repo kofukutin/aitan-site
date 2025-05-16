@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【butter】の意味・使い方・例文 ― margarineとの違い【TOEIC英単語】"
 description: "butterの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmargarineとの違いもわかりやすく学べます。"
 word: "butter"
@@ -80,15 +80,19 @@ TOEICでは主に写真描写問題で、食事やキッチンの場面で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に写真描写問題で、食事やキッチンの場面で登場
 ## 🤔  margarine との違いは？
 
 - **butter**：牛乳から作られる天然の乳製品。コクと風味が強い。
-- **[margarine](/word/margarine/)**：植物油などから作られる人工的なスプレッド。バターより軽い味わい。
+- **[margarine](/margarine)**：植物油などから作られる人工的なスプレッド。バターより軽い味わい。
 
 butterは動物性、margarineは植物性が主で、健康志向や味の好みによって使い分けられます。
 
@@ -104,14 +108,14 @@ butterは動物性、margarineは植物性が主で、健康志向や味の好�
 
 ## 🧩 あわせて覚えたい
 
-- [cheese](/word/cheese/)：チーズ（乳製品の一種）
-- [spread](/word/spread/)：スプレッド（パンなどに塗る食品）
+- [cheese](/cheese)：チーズ（乳製品の一種）
+- [spread](/spread)：スプレッド（パンなどに塗る食品）
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread/)：パン
-- [milk](/word/milk/)：牛乳
+- [bread](/bread)：パン
+- [milk](/milk)：牛乳
 
-<!-- cvid: aid05_bid37 -->
+<!-- cvid: aid49_bid18 -->

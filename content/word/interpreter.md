@@ -81,15 +81,19 @@ TOEICでは、国際会議やビジネスシーンの長文で「interpreter」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、国際会議やビジネスシーンの長文で「interpreter」�
 ## 🤔  translator との違いは？
 
 - **interpreter**：話し言葉をその場で訳す「通訳者」
-- **[translator](/word/translator/)**：書かれた文章を別の言語に訳す「翻訳者」
+- **[translator](/translator)**：書かれた文章を別の言語に訳す「翻訳者」
 
 interpreterは会話やスピーチなど口頭での通訳、translatorは文書や本など書かれたものの翻訳に使います。
 
@@ -105,13 +109,13 @@ interpreterは会話やスピーチなど口頭での通訳、translatorは文�
 
 ## 🧩 あわせて覚えたい
 
-- [bilingual](/word/bilingual/)：2か国語を話せる人
-- [mediator](/word/mediator/)：仲介者、調停者
+- [bilingual](/bilingual)：2か国語を話せる人
+- [mediator](/mediator)：仲介者、調停者
 
 ---
 
 ## 📖 できればこれも
 
-- [translate](/word/translate/)：翻訳する、訳す
-- [conference](/word/conference/)：会議、協議会
-<!-- cvid: aid31_bid34 -->
+- [translate](/translate)：翻訳する、訳す
+- [conference](/conference)：会議、協議会
+<!-- cvid: aid37_bid10 -->

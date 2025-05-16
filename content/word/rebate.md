@@ -81,15 +81,19 @@ TOEICでは主に広告やビジネス文書、メールの中で「返金」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に広告やビジネス文書、メールの中で「返金」「
 ## 🤔  discount との違いは？
 
 - **rebate**：購入後に申請して受け取る払い戻しや割戻し。
-- **[discount](/word/discount/)**：購入時にその場で適用される値引き。
+- **[discount](/discount)**：購入時にその場で適用される値引き。
 
 rebateは「後から返金」、discountは「その場で値引き」と使い分けます。
 
@@ -105,14 +109,14 @@ rebateは「後から返金」、discountは「その場で値引き」と使い
 
 ## 🧩 あわせて覚えたい
 
-- [refund](/word/refund/)：返金、払い戻し
-- [deduction](/word/deduction/)：控除、差し引き
+- [refund](/refund)：返金、払い戻し
+- [deduction](/deduction)：控除、差し引き
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice/)：請求書
-- [receipt](/word/receipt/)：領収書
+- [invoice](/invoice)：請求書
+- [receipt](/receipt)：領収書
 
-<!-- cvid: aid35_bid43 -->
+<!-- cvid: aid36_bid28 -->

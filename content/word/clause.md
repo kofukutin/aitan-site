@@ -81,7 +81,7 @@ TOEICでは契約書や規約、ビジネス文書の読解問題で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+成長を止めないで👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは契約書や規約、ビジネス文書の読解問題で頻出しま
 
 <div class="info-center">
 ＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や規約、ビジネス文書の読解問題で頻出しま
 ## 🤔  provision との違いは？
 
 - **clause**：契約書や文書内の「条項」や文法上の「節」を指す
-- **[provision](/word/provision/)**：契約や法律の「規定」「供給」など、より広い意味で使われる
+- **[provision](/provision)**：契約や法律の「規定」「供給」など、より広い意味で使われる
 
 clauseは文書内の個別の条項や文法の節に限定されるのに対し、provisionは規定全体や供給の意味も持ち、より包括的です。
 
@@ -105,14 +109,14 @@ clauseは文書内の個別の条項や文法の節に限定されるのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article/)：（法律や契約の）条、項
-- [condition](/word/condition/)：条件、状況
+- [article](/article)：（法律や契約の）条、項
+- [condition](/condition)：条件、状況
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [agreement](/word/agreement/)：合意、契約
+- [contract](/contract)：契約
+- [agreement](/agreement)：合意、契約
 
-<!-- cvid: aid43_bid38 -->
+<!-- cvid: aid22_bid38 -->

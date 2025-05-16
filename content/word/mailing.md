@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【mailing】の意味・使い方・例文 ― shipmentとの違い【TOEIC英単語】"
 description: "mailingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでshipmentとの違いもわかりやすく学べます。"
 word: "mailing"
@@ -81,15 +81,19 @@ TOEICでは、メールや案内文、ビジネス文書の中で「郵送」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文、ビジネス文書の中で「郵送」や
 ## 🤔  shipment との違いは？
 
 - **mailing**：主に郵便物や書類などを郵送すること・郵送物を指す
-- **[shipment](/word/shipment/)**：貨物や商品などの「発送」「出荷」を指し、規模が大きい場合や物流で使われる
+- **[shipment](/shipment)**：貨物や商品などの「発送」「出荷」を指し、規模が大きい場合や物流で使われる
 
 mailingは手紙や書類など比較的小さなものの郵送に使われ、shipmentは商品や荷物など大きなものの発送・出荷に使われます。
 
@@ -105,14 +109,14 @@ mailingは手紙や書類など比較的小さなものの郵送に使われ、s
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery/)：配達、配送
-- [correspondence](/word/correspondence/)：通信、文書のやりとり
+- [delivery](/delivery)：配達、配送
+- [correspondence](/correspondence)：通信、文書のやりとり
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/word/envelope/)：封筒
-- [postage](/word/postage/)：郵便料金
+- [envelope](/envelope)：封筒
+- [postage](/postage)：郵便料金
 
-<!-- cvid: aid11_bid34 -->
+<!-- cvid: aid34_bid02 -->

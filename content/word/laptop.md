@@ -80,7 +80,7 @@ TOEICでは会議やビジネスシーンで「laptop」がよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できた自分を信じよう👇️
 
 ---
 
@@ -88,7 +88,11 @@ TOEICでは会議やビジネスシーンで「laptop」がよく登場します
 
 <div class="info-center">
 ＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは会議やビジネスシーンで「laptop」がよく登場します
 ## 🤔  notebook との違いは？
 
 - **laptop**：持ち運びできるノートパソコン全般を指す。
-- **[notebook](/word/notebook/)**：薄型・軽量のノートパソコンを指すことが多い。
+- **[notebook](/notebook)**：薄型・軽量のノートパソコンを指すことが多い。
 
 laptopは一般的なノートパソコン全体を指し、notebookはより薄型・軽量なモデルに使われることが多いです。
 
@@ -104,14 +108,14 @@ laptopは一般的なノートパソコン全体を指し、notebookはより薄
 
 ## 🧩 あわせて覚えたい
 
-- [desktop](/word/desktop/)：据え置き型パソコン
-- [tablet](/word/tablet/)：タブレット端末
+- [desktop](/desktop)：据え置き型パソコン
+- [tablet](/tablet)：タブレット端末
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor/)：モニター、画面
-- [keyboard](/word/keyboard/)：キーボード
+- [monitor](/monitor)：モニター、画面
+- [keyboard](/keyboard)：キーボード
 
-<!-- cvid: aid26_bid46 -->
+<!-- cvid: aid49_bid46 -->

@@ -77,15 +77,19 @@ TOEICでは、疑問文や否定文、条件文で「だれか」「だれでも
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、疑問文や否定文、条件文で「だれか」「だれでも
 ## 🤔  someone との違いは？
 
 - **anyone**：だれでも／だれか（疑問文・否定文・条件文で使う）
-- **[someone](/word/someone/)**：だれか（肯定文や申し出・依頼で使う）
+- **[someone](/someone)**：だれか（肯定文や申し出・依頼で使う）
 
 anyoneは「だれでも」「だれか」と幅広く使い、特に疑問文や否定文で使われます。someoneは「特定はしないが、だれか一人」というニュアンスで、肯定文や申し出に使います。
 
@@ -101,14 +105,14 @@ anyoneは「だれでも」「だれか」と幅広く使い、特に疑問文�
 
 ## 🧩 あわせて覚えたい
 
-- [anybody](/word/anybody/)：anyoneと同じ意味で、より口語的
-- [everyone](/word/everyone/)：みんな、全員
+- [anybody](/anybody)：anyoneと同じ意味で、より口語的
+- [everyone](/everyone)：みんな、全員
 
 ---
 
 ## 📖 できればこれも
 
-- [anything](/word/anything/)：何でも、何か
-- [everyone](/word/everyone/)：みんな、全員
+- [anything](/anything)：何でも、何か
+- [everyone](/everyone)：みんな、全員
 
-<!-- cvid: aid02_bid01 -->
+<!-- cvid: aid39_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは、保険に関する案内や契約内容の説明文などで頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、保険に関する案内や契約内容の説明文などで頻出
 ## 🤔  assurance との違いは？
 
 - **insurance**：事故や損害など予期せぬ出来事に備える「保険」
-- **[assurance](/word/assurance/)**：主に生命保険や将来の確実な出来事に備える「保証」
+- **[assurance](/assurance)**：主に生命保険や将来の確実な出来事に備える「保証」
 
 insuranceは偶発的なリスクへの備え、assuranceは必ず起こる事象（死亡など）への備えに使われます。
 
@@ -105,14 +109,14 @@ insuranceは偶発的なリスクへの備え、assuranceは必ず起こる事�
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee/)：保証、約束
-- [coverage](/word/coverage/)：補償範囲
+- [guarantee](/guarantee)：保証、約束
+- [coverage](/coverage)：補償範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：保険証券、方針
-- [premium](/word/premium/)：保険料
+- [policy](/policy)：保険証券、方針
+- [premium](/premium)：保険料
 
-<!-- cvid: aid35_bid48 -->
+<!-- cvid: aid10_bid04 -->

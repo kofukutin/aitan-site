@@ -81,15 +81,19 @@ disagreementは会議や交渉、意見交換の場面で出題されやすい�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ disagreementは会議や交渉、意見交換の場面で出題されやすい�
 ## 🤔  conflict との違いは？
 
 - **disagreement**：意見や考え方の不一致、比較的軽い対立
-- **[conflict](/word/conflict/)**：深刻な対立や衝突、感情的な争い
+- **[conflict](/conflict)**：深刻な対立や衝突、感情的な争い
 
 disagreementは日常的な意見の食い違いに使われ、conflictはより深刻で感情的な対立や争いを指します。
 
@@ -105,14 +109,14 @@ disagreementは日常的な意見の食い違いに使われ、conflictはより
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement/)：同意、合意
-- [debate](/word/debate/)：討論、議論
+- [agreement](/agreement)：同意、合意
+- [debate](/debate)：討論、議論
 
 ---
 
 ## 📖 できればこれも
 
-- [discussion](/word/discussion/)：話し合い、討議
-- [argument](/word/argument/)：口論、議論
+- [discussion](/discussion)：話し合い、討議
+- [argument](/argument)：口論、議論
 
-<!-- cvid: aid01_bid31 -->
+<!-- cvid: aid11_bid39 -->

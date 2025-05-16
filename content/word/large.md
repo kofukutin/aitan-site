@@ -82,15 +82,19 @@ TOEICでは、数量や規模を表す文脈で「large」が頻出します。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、数量や規模を表す文脈で「large」が頻出します。�
 ## 🤔  big との違いは？
 
 - **large**：数量や規模、面積など客観的な「大きさ」を表す
-- **[big](/word/big/)**：物理的な大きさや印象的な「大きさ」を表す
+- **[big](/big)**：物理的な大きさや印象的な「大きさ」を表す
 
 「large」は客観的な規模や数量に使われやすく、ビジネスやフォーマルな場面で好まれます。一方「big」はよりカジュアルで、印象や感覚的な大きさを表す際に使われます。
 
@@ -106,14 +110,14 @@ TOEICでは、数量や規模を表す文脈で「large」が頻出します。�
 
 ## 🧩 あわせて覚えたい
 
-- [huge](/word/huge/)：とても大きい
-- [small](/word/small/)：小さい
+- [huge](/huge)：とても大きい
+- [small](/small)：小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/word/wide/)：幅が広い
-- [tall](/word/tall/)：背が高い
+- [wide](/wide)：幅が広い
+- [tall](/tall)：背が高い
 
-<!-- cvid: aid11_bid34 -->
+<!-- cvid: aid22_bid38 -->

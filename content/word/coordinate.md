@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクトの進行、イベント運営などの場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクトの進行、イベント運営などの場
 ## 🤔  organize との違いは？
 
 - **coordinate**：複数の人や物事をうまく連携・調整することに重点がある
-- **[organize](/word/organize/)**：物事を計画・整理してまとめることに重点がある
+- **[organize](/organize)**：物事を計画・整理してまとめることに重点がある
 
 coordinateは「関係者同士の動きを合わせる」ニュアンス、organizeは「全体を計画的に整える」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ coordinateは「関係者同士の動きを合わせる」ニュアンス、orga
 
 ## 🧩 あわせて覚えたい
 
-- [collaborate](/word/collaborate/)：協力する
-- [arrange](/word/arrange/)：手配する、整える
+- [collaborate](/collaborate)：協力する
+- [arrange](/arrange)：手配する、整える
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/word/manage/)：管理する
-- [supervise](/word/supervise/)：監督する
+- [manage](/manage)：管理する
+- [supervise](/supervise)：監督する
 
-<!-- cvid: aid39_bid16 -->
+<!-- cvid: aid48_bid47 -->

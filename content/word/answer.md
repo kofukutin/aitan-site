@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「答え」「返事」として頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「答え」「返事」として頻出します
 ## 🤔  reply との違いは？
 
 - **answer**：質問や問題に対する「答え」や「正解」を意味し、内容の正誤や解決を重視します。
-- **[reply](/word/reply/)**：返事や応答そのものを指し、内容の正誤は問わず、やりとりの行為自体に焦点があります。
+- **[reply](/reply)**：返事や応答そのものを指し、内容の正誤は問わず、やりとりの行為自体に焦点があります。
 
 「answer」は正しい内容や解決策を求める場面で使い、「reply」は単なる返事や応答のやりとりに使います。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「答え」「返事」として頻出します
 
 ## 🧩 あわせて覚えたい
 
-- [solution](/word/solution/)：解決策
-- [response](/word/response/)：反応、返答
+- [solution](/solution)：解決策
+- [response](/response)：反応、返答
 
 ---
 
 ## 📖 できればこれも
 
-- [question](/word/question/)：質問
-- [ask](/word/ask/)：尋ねる
+- [question](/question)：質問
+- [ask](/ask)：尋ねる
 
-<!-- cvid: aid43_bid09 -->
+<!-- cvid: aid15_bid37 -->

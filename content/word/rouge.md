@@ -81,15 +81,19 @@ TOEICでは化粧品や美容関連の広告や案内文で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは化粧品や美容関連の広告や案内文で見かけることが
 ## 🤔  blush との違いは？
 
 - **rouge**：主に頬や唇に塗る赤系の化粧品全般を指すフォーマルな表現。
-- **[blush](/word/blush/)**：特に頬紅（チーク）を指し、日常的でカジュアルな表現。
+- **[blush](/blush)**：特に頬紅（チーク）を指し、日常的でカジュアルな表現。
 
 rougeはフランス語由来でややフォーマル、blushは英語で日常的に使われます。
 
@@ -105,14 +109,14 @@ rougeはフランス語由来でややフォーマル、blushは英語で日常�
 
 ## 🧩 あわせて覚えたい
 
-- [lipstick](/word/lipstick/)：口紅
-- [powder](/word/powder/)：フェイスパウダー
+- [lipstick](/lipstick)：口紅
+- [powder](/powder)：フェイスパウダー
 
 ---
 
 ## 📖 できればこれも
 
-- [perfume](/word/perfume/)：香水
-- [cosmetic](/word/cosmetic/)：化粧品
+- [perfume](/perfume)：香水
+- [cosmetic](/cosmetic)：化粧品
 
-<!-- cvid: aid20_bid13 -->
+<!-- cvid: aid23_bid23 -->

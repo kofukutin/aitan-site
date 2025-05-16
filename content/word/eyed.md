@@ -81,15 +81,19 @@ eyedは形容詞として、他の単語と複合して出題されることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ eyedは形容詞として、他の単語と複合して出題されることが�
 ## 🤔  watched との違いは？
 
 - **eyed**：～の目を持った、～の目つきの（形容詞）
-- **[watched](/word/watched/)**：見られた、監視された（動詞の過去分詞・形容詞的用法）
+- **[watched](/watched)**：見られた、監視された（動詞の過去分詞・形容詞的用法）
 
 eyedは「目の特徴」を表す形容詞、watchedは「誰かに見られる・監視される」状態を表します。
 
@@ -105,14 +109,14 @@ eyedは「目の特徴」を表す形容詞、watchedは「誰かに見られる
 
 ## 🧩 あわせて覚えたい
 
-- [observed](/word/observed/)：観察された、注目された
-- [noticed](/word/noticed/)：気づかれた
+- [observed](/observed)：観察された、注目された
+- [noticed](/noticed)：気づかれた
 
 ---
 
 ## 📖 できればこれも
 
-- [viewed](/word/viewed/)：見られた、見なされた
-- [seen](/word/seen/)：見られた、見たことがある
+- [viewed](/viewed)：見られた、見なされた
+- [seen](/seen)：見られた、見たことがある
 
-<!-- cvid: aid28_bid37 -->
+<!-- cvid: aid22_bid27 -->

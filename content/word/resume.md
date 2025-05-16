@@ -81,15 +81,19 @@ TOEICでは会議や業務の中断・再開に関する会話やアナウンス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務の中断・再開に関する会話やアナウンス
 ## 🤔  continue との違いは？
 
 - **resume**：一度中断したものを再び始める
-- **[continue](/word/continue/)**：中断せずにそのまま続ける
+- **[continue](/continue)**：中断せずにそのまま続ける
 
 resumeは「一時的な中断の後に再開する」ニュアンスがあり、continueは「途切れずに続ける」ことを表します。
 
@@ -105,14 +109,14 @@ resumeは「一時的な中断の後に再開する」ニュアンスがあり�
 
 ## 🧩 あわせて覚えたい
 
-- [restart](/word/restart/)：再起動する、再び始める
-- [interrupt](/word/interrupt/)：中断する、妨げる
+- [restart](/restart)：再起動する、再び始める
+- [interrupt](/interrupt)：中断する、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [attend](/word/attend/)：出席する
+- [submit](/submit)：提出する
+- [attend](/attend)：出席する
 
-<!-- cvid: aid35_bid26 -->
+<!-- cvid: aid36_bid03 -->

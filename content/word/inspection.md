@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や工場・オフィスの場面で「検査
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や工場・オフィスの場面で「検査
 ## 🤔  investigation との違いは？
 
 - **inspection**：基準や手順に従って行う公式な「検査」「点検」
-- **[investigation](/word/investigation/)**：原因や事実を詳しく調べる「調査」「捜査」
+- **[investigation](/investigation)**：原因や事実を詳しく調べる「調査」「捜査」
 
 inspectionは主に安全や品質などをチェックする場面で使い、investigationは問題や事件の原因を探るときに使います。
 
@@ -105,14 +109,14 @@ inspectionは主に安全や品質などをチェックする場面で使い、i
 
 ## 🧩 あわせて覚えたい
 
-- [audit](/word/audit/)：監査、会計検査
-- [review](/word/review/)：見直し、再検討
+- [audit](/audit)：監査、会計検査
+- [review](/review)：見直し、再検討
 
 ---
 
 ## 📖 できればこれも
 
-- [supervision](/word/supervision/)：監督、管理
-- [assessment](/word/assessment/)：評価、査定
+- [supervision](/supervision)：監督、管理
+- [assessment](/assessment)：評価、査定
 
-<!-- cvid: aid30_bid32 -->
+<!-- cvid: aid37_bid22 -->

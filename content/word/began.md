@@ -82,15 +82,19 @@ TOEICでは、会議やイベントの開始時刻、過去の出来事の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会議やイベントの開始時刻、過去の出来事の説明
 ## 🤔  started との違いは？
 
 - **began**：ややフォーマルで、物事の始まり全般に使える
-- **[started](/word/started/)**：よりカジュアルで、機械や作業の開始にもよく使う
+- **[started](/started)**：よりカジュアルで、機械や作業の開始にもよく使う
 
 「began」は出来事やプロセスの始まりに幅広く使われ、「started」はより日常的・実務的な場面や機械の始動などにも使われます。
 
@@ -106,14 +110,14 @@ TOEICでは、会議やイベントの開始時刻、過去の出来事の説明
 
 ## 🧩 あわせて覚えたい
 
-- [finish](/word/finish/)：終える、終わる
-- [continue](/word/continue/)：続ける
+- [finish](/finish)：終える、終わる
+- [continue](/continue)：続ける
 
 ---
 
 ## 📖 できればこれも
 
-- [decided](/word/decided/)：決めた
-- [planned](/word/planned/)：計画した
+- [decided](/decided)：決めた
+- [planned](/planned)：計画した
 
-<!-- cvid: aid33_bid10 -->
+<!-- cvid: aid28_bid28 -->

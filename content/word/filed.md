@@ -81,15 +81,19 @@ TOEICでは「書類を提出する」「申請する」という意味で、主
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「書類を提出する」「申請する」という意味で、主
 ## 🤔  submitted との違いは？
 
 - **filed**：正式な書類や申請を「提出する」「記録する」ニュアンスが強い
-- **[submitted](/word/submitted/)**：一般的に「提出する」全般に使える
+- **[submitted](/submitted)**：一般的に「提出する」全般に使える
 
 filedは特に公式な手続きや記録として残す場合に使われ、submittedはより広く「提出」全般に使われます。
 
@@ -105,14 +109,14 @@ filedは特に公式な手続きや記録として残す場合に使われ、sub
 
 ## 🧩 あわせて覚えたい
 
-- [register](/word/register/)：登録する
-- [approve](/word/approve/)：承認する
+- [register](/register)：登録する
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録する
-- [apply](/word/apply/)：申し込む
+- [record](/record)：記録する
+- [apply](/apply)：申し込む
 
-<!-- cvid: aid25_bid36 -->
+<!-- cvid: aid28_bid09 -->

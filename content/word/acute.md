@@ -81,15 +81,19 @@ TOEICでは医療やビジネスの文脈で「急性の」「深刻な」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療やビジネスの文脈で「急性の」「深刻な」とい
 ## 🤔  severe との違いは？
 
 - **acute**：短期間で急激に現れる、鋭い・急性の
-- **[severe](/word/severe/)**：程度が非常に強い、厳しい・重度の
+- **[severe](/severe)**：程度が非常に強い、厳しい・重度の
 
 acuteは「急性」や「鋭さ」に重点があり、severeは「深刻さ」や「厳しさ」に重点があります。医療ではacuteは「急性」、severeは「重症」と訳されることが多いです。
 
@@ -105,13 +109,13 @@ acuteは「急性」や「鋭さ」に重点があり、severeは「深刻さ」
 
 ## 🧩 あわせて覚えたい
 
-- [chronic](/word/chronic/)：慢性的な、長期にわたる
-- [intense](/word/intense/)：強烈な、非常に強い
+- [chronic](/chronic)：慢性的な、長期にわたる
+- [intense](/intense)：強烈な、非常に強い
 
 ---
 
 ## 📖 できればこれも
 
-- [critical](/word/critical/)：危機的な、重大な
-- [urgent](/word/urgent/)：緊急の、差し迫った
-<!-- cvid: aid04_bid21 -->
+- [critical](/critical)：危機的な、重大な
+- [urgent](/urgent)：緊急の、差し迫った
+<!-- cvid: aid20_bid26 -->

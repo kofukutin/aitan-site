@@ -81,15 +81,19 @@ TOEICでは契約書や規則、公式文書の読解問題で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid25_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や規則、公式文書の読解問題で頻出します。
 ## 🤔  revision との違いは？
 
 - **amendment**：主に法律や契約など公式文書の修正・改正を指す
-- **[revision](/word/revision/)**：一般的な見直しや改訂、幅広い文書や内容の修正
+- **[revision](/revision)**：一般的な見直しや改訂、幅広い文書や内容の修正
 
 amendmentは公式・法的な修正に限定されることが多く、revisionは書類や計画など幅広い内容の見直し・改訂に使われます。
 
@@ -105,14 +109,14 @@ amendmentは公式・法的な修正に限定されることが多く、revision
 
 ## 🧩 あわせて覚えたい
 
-- [correction](/word/correction/)：訂正、修正
-- [modification](/word/modification/)：変更、修正
+- [correction](/correction)：訂正、修正
+- [modification](/modification)：変更、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause/)：条項、節
-- [regulation](/word/regulation/)：規則、規定
+- [clause](/clause)：条項、節
+- [regulation](/regulation)：規則、規定
 
-<!-- cvid: aid36_bid02 -->
+<!-- cvid: aid25_bid14 -->

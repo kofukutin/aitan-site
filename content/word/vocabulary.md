@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や説明文で「語彙」や「単語集」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や説明文で「語彙」や「単語集」と
 ## 🤔  glossary との違いは？
 
 - **vocabulary**：ある言語や分野で使われる単語の集まりや語彙全体
-- **[glossary](/word/glossary/)**：特定の本や分野に関する用語集・用語解説リスト
+- **[glossary](/glossary)**：特定の本や分野に関する用語集・用語解説リスト
 
 vocabularyは一般的な語彙全体を指し、glossaryは特定のテーマや本に限定した用語集を指します。
 
@@ -105,14 +109,14 @@ vocabularyは一般的な語彙全体を指し、glossaryは特定のテーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [terminology](/word/terminology/)：専門用語
-- [lexicon](/word/lexicon/)：辞書、語彙集
+- [terminology](/terminology)：専門用語
+- [lexicon](/lexicon)：辞書、語彙集
 
 ---
 
 ## 📖 できればこれも
 
-- [phrase](/word/phrase/)：句、フレーズ
-- [definition](/word/definition/)：定義
+- [phrase](/phrase)：句、フレーズ
+- [definition](/definition)：定義
 
-<!-- cvid: aid37_bid14 -->
+<!-- cvid: aid11_bid21 -->

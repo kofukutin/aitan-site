@@ -80,15 +80,19 @@ TOEICでは、国際ニュースやビジネス文書、公式な案内文など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid44_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、国際ニュースやビジネス文書、公式な案内文など
 ## 🤔  congress との違いは？
 
 - **parliament**：主にイギリスや英連邦諸国の「議会」を指し、上下両院制が一般的です。
-- **[congress](/word/congress/)**：主にアメリカの「連邦議会」を指し、上院と下院から成ります。
+- **[congress](/congress)**：主にアメリカの「連邦議会」を指し、上院と下院から成ります。
 
 parliamentはイギリス型の議会制度、congressはアメリカ型の議会制度を指す点が大きな違いです。
 
@@ -104,14 +108,14 @@ parliamentはイギリス型の議会制度、congressはアメリカ型の議�
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly/)：集会、議会
-- [legislation](/word/legislation/)：法律、立法
+- [assembly](/assembly)：集会、議会
+- [legislation](/legislation)：法律、立法
 
 ---
 
 ## 📖 できればこれも
 
-- [constitution](/word/constitution/)：憲法
-- [minister](/word/minister/)：大臣
+- [constitution](/constitution)：憲法
+- [minister](/minister)：大臣
 
-<!-- cvid: aid38_bid43 -->
+<!-- cvid: aid44_bid25 -->

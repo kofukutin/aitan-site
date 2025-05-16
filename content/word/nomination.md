@@ -81,15 +81,19 @@ TOEICでは、役職や賞の候補者選出、推薦に関する文脈で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、役職や賞の候補者選出、推薦に関する文脈で出題
 ## 🤔  appointment との違いは？
 
 - **nomination**：候補者として指名・推薦すること（決定前の段階）
-- **[appointment](/word/appointment/)**：正式に任命・就任させること（決定後の段階）
+- **[appointment](/appointment)**：正式に任命・就任させること（決定後の段階）
 
 nominationは「候補に挙げる」段階、appointmentは「実際に役職などに就ける」段階で使い分けます。
 
@@ -105,14 +109,14 @@ nominationは「候補に挙げる」段階、appointmentは「実際に役職�
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/word/recommendation/)：推薦、推薦状
-- [election](/word/election/)：選挙、選出
+- [recommendation](/recommendation)：推薦、推薦状
+- [election](/election)：選挙、選出
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [selection](/word/selection/)：選択、選抜
+- [candidate](/candidate)：候補者
+- [selection](/selection)：選択、選抜
 
-<!-- cvid: aid47_bid15 -->
+<!-- cvid: aid07_bid39 -->

@@ -81,15 +81,19 @@ lockingはITや設備管理、セキュリティ関連の会話や説明文で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ lockingはITや設備管理、セキュリティ関連の会話や説明文で�
 ## 🤔  fastening との違いは？
 
 - **locking**：鍵や装置で「ロックすること」「施錠」を指す
-- **[fastening](/word/fastening/)**：ひもやボタンなどで「留めること」「固定すること」を指す
+- **[fastening](/fastening)**：ひもやボタンなどで「留めること」「固定すること」を指す
 
 lockingは「鍵」や「ロック機構」による施錠、fasteningは広く「何かを留める・固定する」場合に使います。
 
@@ -105,14 +109,14 @@ lockingは「鍵」や「ロック機構」による施錠、fasteningは広く�
 
 ## 🧩 あわせて覚えたい
 
-- [unlocking](/word/unlocking/)：解錠、ロック解除
-- [securing](/word/securing/)：確保、固定
+- [unlocking](/unlocking)：解錠、ロック解除
+- [securing](/securing)：確保、固定
 
 ---
 
 ## 📖 できればこれも
 
 - [locking mechanism](/locking mechanism)：ロック機構
-- [unlock](/word/unlock/)：解錠する
+- [unlock](/unlock)：解錠する
 
-<!-- cvid: aid25_bid38 -->
+<!-- cvid: aid49_bid35 -->

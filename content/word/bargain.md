@@ -81,15 +81,19 @@ TOEICでは広告やEメール、店舗案内などの長文で「bargain」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やEメール、店舗案内などの長文で「bargain」が�
 ## 🤔  discount との違いは？
 
 - **bargain**：通常より安く買える「お買い得品」や「掘り出し物」を指す。
-- **[discount](/word/discount/)**：価格から差し引かれる「割引」そのものを指す。
+- **[discount](/discount)**：価格から差し引かれる「割引」そのものを指す。
 
 bargainは「商品や取引そのものがお得」であることを強調し、discountは「値引き」という行為や金額に焦点を当てます。
 
@@ -105,14 +109,14 @@ bargainは「商品や取引そのものがお得」であることを強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [deal](/word/deal/)：取引、契約
-- [negotiation](/word/negotiation/)：交渉
+- [deal](/deal)：取引、契約
+- [negotiation](/negotiation)：交渉
 
 ---
 
 ## 📖 できればこれも
 
-- [sale](/word/sale/)：セール、特売
-- [offer](/word/offer/)：提案、特典
+- [sale](/sale)：セール、特売
+- [offer](/offer)：提案、特典
 
-<!-- cvid: aid01_bid19 -->
+<!-- cvid: aid43_bid02 -->

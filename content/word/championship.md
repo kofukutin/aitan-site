@@ -81,15 +81,19 @@ TOEICではスポーツイベントや大会の案内、記事、広告文など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではスポーツイベントや大会の案内、記事、広告文など
 ## 🤔  tournament との違いは？
 
 - **championship**：最も優れた個人やチームを決めるための「選手権大会」やそのタイトル。
-- **[tournament](/word/tournament/)**：複数の試合が行われる「トーナメント形式の大会」全般。
+- **[tournament](/tournament)**：複数の試合が行われる「トーナメント形式の大会」全般。
 
 championshipは「最終的な優勝者を決める大会やタイトル」に焦点があり、tournamentは予選や複数ラウンドを含む広い意味の大会を指します。
 
@@ -105,14 +109,14 @@ championshipは「最終的な優勝者を決める大会やタイトル」に�
 
 ## 🧩 あわせて覚えたい
 
-- [victory](/word/victory/)：勝利
-- [contest](/word/contest/)：コンテスト、競技会
+- [victory](/victory)：勝利
+- [contest](/contest)：コンテスト、競技会
 
 ---
 
 ## 📖 できればこれも
 
-- [athlete](/word/athlete/)：運動選手
-- [competition](/word/competition/)：競争、競技会
+- [athlete](/athlete)：運動選手
+- [competition](/competition)：競争、競技会
 
-<!-- cvid: aid15_bid04 -->
+<!-- cvid: aid09_bid24 -->

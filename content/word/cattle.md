@@ -77,15 +77,19 @@ TOEICでは農業や環境、食品関連の記事や説明文で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは農業や環境、食品関連の記事や説明文で登場するこ
 ## 🤔  livestock との違いは？
 
 - **cattle**：ウシ類のみを指す家畜の総称
-- **[livestock](/word/livestock/)**：牛・羊・豚などすべての家畜をまとめて指す
+- **[livestock](/livestock)**：牛・羊・豚などすべての家畜をまとめて指す
 
 cattleはウシ限定、livestockは家畜全般を指すので、使い分けに注意しましょう。
 
@@ -101,14 +105,14 @@ cattleはウシ限定、livestockは家畜全般を指すので、使い分け�
 
 ## 🧩 あわせて覚えたい
 
-- [herd](/word/herd/)：（動物の）群れ
-- [pasture](/word/pasture/)：牧草地
+- [herd](/herd)：（動物の）群れ
+- [pasture](/pasture)：牧草地
 
 ---
 
 ## 📖 できればこれも
 
-- [sheep](/word/sheep/)：ヒツジ
-- [farm](/word/farm/)：農場
+- [sheep](/sheep)：ヒツジ
+- [farm](/farm)：農場
 
-<!-- cvid: aid18_bid41 -->
+<!-- cvid: aid41_bid34 -->

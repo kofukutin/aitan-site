@@ -81,15 +81,19 @@ TOEICでは、契約書やウェブサイトの利用規約、出版物の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書やウェブサイトの利用規約、出版物の説明
 ## 🤔  patent との違いは？
 
 - **copyright**：本・音楽・映画などの創作物の権利を守る
-- **[patent](/word/patent/)**：発明や新技術などの独占的な権利を守る
+- **[patent](/patent)**：発明や新技術などの独占的な権利を守る
 
 copyrightは「表現された作品」に、patentは「新しいアイデアや技術」に使われます。守る対象が異なります。
 
@@ -105,14 +109,14 @@ copyrightは「表現された作品」に、patentは「新しいアイデア�
 
 ## 🧩 あわせて覚えたい
 
-- [trademark](/word/trademark/)：商標、ブランド名やロゴの権利
-- [license](/word/license/)：許可、使用権
+- [trademark](/trademark)：商標、ブランド名やロゴの権利
+- [license](/license)：許可、使用権
 
 ---
 
 ## 📖 できればこれも
 
-- [permission](/word/permission/)：許可
-- [document](/word/document/)：文書、書類
+- [permission](/permission)：許可
+- [document](/document)：文書、書類
 
-<!-- cvid: aid44_bid14 -->
+<!-- cvid: aid38_bid02 -->

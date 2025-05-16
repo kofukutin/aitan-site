@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、説明書などで「navigation」がウェ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、説明書などで「navigation」がウェ
 ## 🤔  direction との違いは？
 
 - **navigation**：目的地までの案内や進路決定、またはそのシステムや技術を指す。
-- **[direction](/word/direction/)**：方向、指示、道順など幅広く「向き」や「指導」の意味で使う。
+- **[direction](/direction)**：方向、指示、道順など幅広く「向き」や「指導」の意味で使う。
 
 navigationは「案内する仕組み」や「航行技術」に特化し、directionは「方向」や「指示」など抽象的な意味も含みます。
 
@@ -105,14 +109,14 @@ navigationは「案内する仕組み」や「航行技術」に特化し、dire
 
 ## 🧩 あわせて覚えたい
 
-- [route](/word/route/)：経路、道筋
-- [guidance](/word/guidance/)：指導、案内
+- [route](/route)：経路、道筋
+- [guidance](/guidance)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [system](/word/system/)：システム、仕組み
+- [device](/device)：装置、機器
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid43_bid35 -->
+<!-- cvid: aid41_bid23 -->

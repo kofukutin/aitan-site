@@ -81,15 +81,19 @@ TOEICでは医療やビジネスのトラブル報告、FAQなどで「再発す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療やビジネスのトラブル報告、FAQなどで「再発す
 ## 🤔  repeat との違いは？
 
 - **recur**：自然現象や問題などが「（何度も）再発する」「周期的に起こる」ことを強調
-- **[repeat](/word/repeat/)**：人為的・意図的に「繰り返す」、単純な反復
+- **[repeat](/repeat)**：人為的・意図的に「繰り返す」、単純な反復
 
 recurは「自然にまた起こる」ニュアンスが強く、repeatは「意図的な繰り返し」や「動作の反復」に使われます。
 
@@ -105,14 +109,14 @@ recurは「自然にまた起こる」ニュアンスが強く、repeatは「意
 
 ## 🧩 あわせて覚えたい
 
-- [occur](/word/occur/)：起こる、発生する
-- [persist](/word/persist/)：持続する、しつこく続く
+- [occur](/occur)：起こる、発生する
+- [persist](/persist)：持続する、しつこく続く
 
 ---
 
 ## 📖 できればこれも
 
-- [recover](/word/recover/)：回復する
-- [reduce](/word/reduce/)：減らす
+- [recover](/recover)：回復する
+- [reduce](/reduce)：減らす
 
-<!-- cvid: aid02_bid26 -->
+<!-- cvid: aid30_bid22 -->

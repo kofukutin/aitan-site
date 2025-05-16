@@ -81,15 +81,19 @@ TOEICでは「基準」「標準」として、品質管理や業務手順に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「基準」「標準」として、品質管理や業務手順に関
 ## 🤔  norm との違いは？
 
 - **standard**：公式な基準や標準、ルールとして定められたもの
-- **[norm](/word/norm/)**：社会的・文化的に一般的とされる「普通」「規範」
+- **[norm](/norm)**：社会的・文化的に一般的とされる「普通」「規範」
 
 standardは明確に定められた基準、normは社会的な「当たり前」や慣習を指します。
 
@@ -105,14 +109,14 @@ standardは明確に定められた基準、normは社会的な「当たり前�
 
 ## 🧩 あわせて覚えたい
 
-- [criterion](/word/criterion/)：評価基準
-- [benchmark](/word/benchmark/)：指標、基準点
+- [criterion](/criterion)：評価基準
+- [benchmark](/benchmark)：指標、基準点
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針
-- [procedure](/word/procedure/)：手順
+- [policy](/policy)：方針
+- [procedure](/procedure)：手順
 
-<!-- cvid: aid11_bid07 -->
+<!-- cvid: aid07_bid39 -->

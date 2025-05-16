@@ -81,15 +81,19 @@ TOEICではPart 2の短い応答問題や、依頼・希望を伝える場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2の短い応答問題や、依頼・希望を伝える場面で
 ## 🤔  need との違いは？
 
 - **want**：自分の希望や欲求を表す。「～したい」「～が欲しい」
-- **[need](/word/need/)**：必要性や義務を表す。「～する必要がある」「～が必要だ」
+- **[need](/need)**：必要性や義務を表す。「～する必要がある」「～が必要だ」
 
 wantは「欲しい」という気持ち、needは「必要」という状況で使い分けます。
 
@@ -105,14 +109,14 @@ wantは「欲しい」という気持ち、needは「必要」という状況で
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire/)：強い願望、欲求
-- [wish](/word/wish/)：願い、希望
+- [desire](/desire)：強い願望、欲求
+- [wish](/wish)：願い、希望
 
 ---
 
 ## 📖 できればこれも
 
-- [like](/word/like/)：好きである
-- [prefer](/word/prefer/)：より好む
+- [like](/like)：好きである
+- [prefer](/prefer)：より好む
 
-<!-- cvid: aid05_bid22 -->
+<!-- cvid: aid39_bid26 -->

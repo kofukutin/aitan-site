@@ -81,15 +81,19 @@ TOEICでは、職場環境や待遇、商品・サービスの質などを表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場環境や待遇、商品・サービスの質などを表す
 ## 🤔  respectable との違いは？
 
 - **decent**：社会的に受け入れられる、基準を満たしている
-- **[respectable](/word/respectable/)**：尊敬に値する、立派な
+- **[respectable](/respectable)**：尊敬に値する、立派な
 
 decentは「最低限の基準を満たしている」ニュアンスで、respectableは「他人から尊敬されるほど立派」という意味合いが強いです。
 
@@ -105,14 +109,14 @@ decentは「最低限の基準を満たしている」ニュアンスで、respe
 
 ## 🧩 あわせて覚えたい
 
-- [proper](/word/proper/)：適切な、正しい
-- [adequate](/word/adequate/)：十分な、適切な
+- [proper](/proper)：適切な、正しい
+- [adequate](/adequate)：十分な、適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [modest](/word/modest/)：控えめな、質素な
-- [reasonable](/word/reasonable/)：妥当な、合理的な
+- [modest](/modest)：控えめな、質素な
+- [reasonable](/reasonable)：妥当な、合理的な
 
-<!-- cvid: aid45_bid10 -->
+<!-- cvid: aid19_bid31 -->

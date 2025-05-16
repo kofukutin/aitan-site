@@ -81,15 +81,19 @@ TOEICでは契約や法務関連の長文で登場しやすく、ビジネス文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や法務関連の長文で登場しやすく、ビジネス文
 ## 🤔  lawsuit との違いは？
 
 - **litigation**：訴訟という法的手続き全体やその過程を指すフォーマルな表現
-- **[lawsuit](/word/lawsuit/)**：特定の訴訟事件や訴えそのものを指すややカジュアルな単語
+- **[lawsuit](/lawsuit)**：特定の訴訟事件や訴えそのものを指すややカジュアルな単語
 
 litigationは「訴訟手続き全般」、lawsuitは「個別の訴訟案件」を指す点で使い分けます。
 
@@ -105,14 +109,14 @@ litigationは「訴訟手続き全般」、lawsuitは「個別の訴訟案件」
 
 ## 🧩 あわせて覚えたい
 
-- [arbitration](/word/arbitration/)：仲裁（裁判外での紛争解決）
-- [settlement](/word/settlement/)：和解（争いの解決）
+- [arbitration](/arbitration)：仲裁（裁判外での紛争解決）
+- [settlement](/settlement)：和解（争いの解決）
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [evidence](/word/evidence/)：証拠
+- [contract](/contract)：契約
+- [evidence](/evidence)：証拠
 
-<!-- cvid: aid33_bid08 -->
+<!-- cvid: aid10_bid27 -->

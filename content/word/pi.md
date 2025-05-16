@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pi】の意味・使い方・例文 ― circleとの違い【TOEIC英単語】"
 description: "piの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcircleとの違いもわかりやすく学べます。"
 word: "pi"
@@ -80,15 +80,19 @@ TOEICでは科学や数学に関する説明文や記事で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは科学や数学に関する説明文や記事で登場することが
 ## 🤔  circle との違いは？
 
 - **pi**：円周と直径の比率を表す数学定数
-- **[circle](/word/circle/)**：円という図形そのもの
+- **[circle](/circle)**：円という図形そのもの
 
 piは数値や定数を指し、circleは形や図形を指します。数学の説明で混同しないよう注意しましょう。
 
@@ -104,14 +108,14 @@ piは数値や定数を指し、circleは形や図形を指します。数学の
 
 ## 🧩 あわせて覚えたい
 
-- [radius](/word/radius/)：半径
-- [diameter](/word/diameter/)：直径
+- [radius](/radius)：半径
+- [diameter](/diameter)：直径
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/word/formula/)：公式
-- [ratio](/word/ratio/)：比率
+- [formula](/formula)：公式
+- [ratio](/ratio)：比率
 
-<!-- cvid: aid41_bid33 -->
+<!-- cvid: aid15_bid08 -->

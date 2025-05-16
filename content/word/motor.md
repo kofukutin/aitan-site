@@ -81,15 +81,19 @@ TOEICでは、工場やオフィスの設備、製品説明などで「motor」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場やオフィスの設備、製品説明などで「motor」�
 ## 🤔  engine との違いは？
 
 - **motor**：電気や燃料などで動く「動力装置」全般。特に電動モーターを指すことが多い。
-- **[engine](/word/engine/)**：主に燃料（ガソリン・ディーゼルなど）で動く「エンジン」を指し、車や飛行機など大型機械に使われる。
+- **[engine](/engine)**：主に燃料（ガソリン・ディーゼルなど）で動く「エンジン」を指し、車や飛行機など大型機械に使われる。
 
 motorは電気で動く装置に多く使われ、engineは燃焼による動力装置に使われる点が大きな違いです。
 
@@ -105,14 +109,14 @@ motorは電気で動く装置に多く使われ、engineは燃焼による動力
 
 ## 🧩 あわせて覚えたい
 
-- [machine](/word/machine/)：機械、装置
-- [device](/word/device/)：装置、機器
+- [machine](/machine)：機械、装置
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/word/circuit/)：回路
-- [battery](/word/battery/)：電池
+- [circuit](/circuit)：回路
+- [battery](/battery)：電池
 
-<!-- cvid: aid13_bid11 -->
+<!-- cvid: aid02_bid43 -->

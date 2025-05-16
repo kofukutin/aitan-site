@@ -81,15 +81,19 @@ TOEICでは主にPart 5の文法・語彙問題で「comply with ～（～に従
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の文法・語彙問題で「comply with ～（～に従
 ## 🤔  obey との違いは？
 
 - **comply**：規則や要求などにフォーマルに従う
-- **[obey](/word/obey/)**：命令や権威に従う、より個人的・直接的
+- **[obey](/obey)**：命令や権威に従う、より個人的・直接的
 
 complyはルールや規則などに形式的・義務的に従う場合に使い、obeyは命令や権威者に対して従う場合に使われます。
 
@@ -105,14 +109,14 @@ complyはルールや規則などに形式的・義務的に従う場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [conform](/word/conform/)：（慣習・規範などに）従う、順応する
-- [violate](/word/violate/)：（規則などを）違反する、破る
+- [conform](/conform)：（慣習・規範などに）従う、順応する
+- [violate](/violate)：（規則などを）違反する、破る
 
 ---
 
 ## 📖 できればこれも
 
-- [adhere](/word/adhere/)：（規則・方針などを）守る、固守する
-- [follow](/word/follow/)：（指示・ルールなどに）従う、ついていく
+- [adhere](/adhere)：（規則・方針などを）守る、固守する
+- [follow](/follow)：（指示・ルールなどに）従う、ついていく
 
-<!-- cvid: aid36_bid27 -->
+<!-- cvid: aid13_bid19 -->

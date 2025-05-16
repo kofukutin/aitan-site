@@ -82,15 +82,19 @@ TOEICでは主にビジネス文書や会議議事録などで「範囲」「領
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にビジネス文書や会議議事録などで「範囲」「領
 ## 🤔  range との違いは？
 
 - **scope**：活動や議論などの「枠組み」や「限定された範囲」を強調
-- **[range](/word/range/)**：数値や種類など「広がり」や「幅」を強調
+- **[range](/range)**：数値や種類など「広がり」や「幅」を強調
 
 scopeは「何を含むか・含まないか」という枠組みを示すときに使い、rangeは「広がり」や「多様性」を表すときに使います。
 
@@ -106,14 +110,14 @@ scopeは「何を含むか・含まないか」という枠組みを示すとき
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/word/limit/)：限界、制限
-- [extent](/word/extent/)：程度、範囲
+- [limit](/limit)：限界、制限
+- [extent](/extent)：程度、範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/word/objective/)：目的、目標
-- [topic](/word/topic/)：話題、テーマ
+- [objective](/objective)：目的、目標
+- [topic](/topic)：話題、テーマ
 
-<!-- cvid: aid37_bid41 -->
+<!-- cvid: aid20_bid13 -->

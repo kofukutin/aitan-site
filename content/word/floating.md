@@ -81,15 +81,19 @@ TOEICでは、科学的な説明やビジネス用語（例：浮動株）とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学的な説明やビジネス用語（例：浮動株）とし
 ## 🤔  drifting との違いは？
 
 - **floating**：水や空気の上に静かに浮かんでいる状態
-- **[drifting](/word/drifting/)**：流れに乗ってゆっくり動いている状態
+- **[drifting](/drifting)**：流れに乗ってゆっくり動いている状態
 
 floatingは「その場に浮かんでいる」イメージ、driftingは「流されて動いている」イメージです。
 
@@ -105,14 +109,14 @@ floatingは「その場に浮かんでいる」イメージ、driftingは「流�
 
 ## 🧩 あわせて覚えたい
 
-- [sinking](/word/sinking/)：沈んでいる
-- [hovering](/word/hovering/)：空中にとどまっている
+- [sinking](/sinking)：沈んでいる
+- [hovering](/hovering)：空中にとどまっている
 
 ---
 
 ## 📖 できればこれも
 
-- [liquid](/word/liquid/)：液体
-- [surface](/word/surface/)：表面
+- [liquid](/liquid)：液体
+- [surface](/surface)：表面
 
-<!-- cvid: aid05_bid44 -->
+<!-- cvid: aid01_bid31 -->

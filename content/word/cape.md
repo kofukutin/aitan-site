@@ -89,8 +89,12 @@ The hotel offers a stunning view of the cape.
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ The hotel offers a stunning view of the cape.
 ## 🤔  peninsula との違いは？
 
 - **cape**：海や湖に細長く突き出した「岬」
-- **[peninsula](/word/peninsula/)**：三方を水に囲まれた「半島」
+- **[peninsula](/peninsula)**：三方を水に囲まれた「半島」
 
 「cape」は先端が細く突き出した地形、「peninsula」はより大きく陸地が水に囲まれている地形を指します。
 
@@ -106,14 +110,14 @@ The hotel offers a stunning view of the cape.
 
 ## 🧩 あわせて覚えたい
 
-- [island](/word/island/)：島
-- [bay](/word/bay/)：湾
+- [island](/island)：島
+- [bay](/bay)：湾
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/word/coast/)：海岸
-- [harbor](/word/harbor/)：港
+- [coast](/coast)：海岸
+- [harbor](/harbor)：港
 
-<!-- cvid: aid42_bid00 -->
+<!-- cvid: aid42_bid21 -->

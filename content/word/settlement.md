@@ -81,15 +81,19 @@ TOEICでは契約や法的な文脈、ビジネス上のトラブル解決に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や法的な文脈、ビジネス上のトラブル解決に関
 ## 🤔  agreement との違いは？
 
 - **settlement**：争いごとや問題の「解決」「和解」など、特に対立の終結や法的な合意に使う
-- **[agreement](/word/agreement/)**：一般的な「合意」「契約」など、広く使われる
+- **[agreement](/agreement)**：一般的な「合意」「契約」など、広く使われる
 
 settlementは対立や紛争の解決に重点があり、agreementは単なる合意や契約全般に使われます。
 
@@ -105,14 +109,14 @@ settlementは対立や紛争の解決に重点があり、agreementは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [dispute](/word/dispute/)：紛争、争い
-- [resolution](/word/resolution/)：解決、決議
+- [dispute](/dispute)：紛争、争い
+- [resolution](/resolution)：解決、決議
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [negotiation](/word/negotiation/)：交渉
+- [contract](/contract)：契約
+- [negotiation](/negotiation)：交渉
 
-<!-- cvid: aid00_bid23 -->
+<!-- cvid: aid37_bid05 -->

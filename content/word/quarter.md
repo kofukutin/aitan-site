@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の議事録、財務報告などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の議事録、財務報告などで
 ## 🤔  fourth との違いは？
 
 - **quarter**：4分の1、四半期、25セント硬貨など「4つに分けた1つ」の意味
-- **[fourth](/word/fourth/)**：順序としての「4番目」、または「4分の1」（主に序数）
+- **[fourth](/fourth)**：順序としての「4番目」、または「4分の1」（主に序数）
 
 quarterは「期間」や「部分」としての4分の1を表し、fourthは順序や並びを強調する時に使います。
 
@@ -105,14 +109,14 @@ quarterは「期間」や「部分」としての4分の1を表し、fourthは�
 
 ## 🧩 あわせて覚えたい
 
-- [half](/word/half/)：2分の1、半分
-- [period](/word/period/)：期間、時期
+- [half](/half)：2分の1、半分
+- [period](/period)：期間、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [annual](/word/annual/)：年1回の、年間の
-- [monthly](/word/monthly/)：毎月の、月ごとの
+- [annual](/annual)：年1回の、年間の
+- [monthly](/monthly)：毎月の、月ごとの
 
-<!-- cvid: aid46_bid19 -->
+<!-- cvid: aid48_bid10 -->

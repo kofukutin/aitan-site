@@ -81,15 +81,19 @@ TOEICでは、報告書やデータ、資料を「まとめる」「編集する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書やデータ、資料を「まとめる」「編集する
 ## 🤔  collected との違いは？
 
 - **compiled**：集めた情報を整理・編集して一つにまとめる
-- **[collected](/word/collected/)**：単に集める、集まった状態
+- **[collected](/collected)**：単に集める、集まった状態
 
 compiledは「編集・整理してまとめる」ニュアンスがあり、collectedは「集める」だけで編集や整理の意味は含みません。
 
@@ -105,14 +109,14 @@ compiledは「編集・整理してまとめる」ニュアンスがあり、col
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：集めて組み立てる
-- [edit](/word/edit/)：編集する
+- [assemble](/assemble)：集めて組み立てる
+- [edit](/edit)：編集する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [summarize](/word/summarize/)：要約する
+- [analyze](/analyze)：分析する
+- [summarize](/summarize)：要約する
 
-<!-- cvid: aid39_bid36 -->
+<!-- cvid: aid12_bid49 -->

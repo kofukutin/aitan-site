@@ -81,15 +81,19 @@ troubleはTOEICの会話パートで「問題が起きた」「困っている�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ troubleはTOEICの会話パートで「問題が起きた」「困っている�
 ## 🤔  problem との違いは？
 
 - **trouble**：漠然とした困難や面倒ごと、悩みなど幅広く使う
-- **[problem](/word/problem/)**：明確な「問題」や「課題」を指す
+- **[problem](/problem)**：明確な「問題」や「課題」を指す
 
 troubleは「なんとなく困っている」感覚や心配ごとにも使えますが、problemは「解決すべき具体的な問題」に使われます。
 
@@ -105,14 +109,14 @@ troubleは「なんとなく困っている」感覚や心配ごとにも使え�
 
 ## 🧩 あわせて覚えたい
 
-- [difficulty](/word/difficulty/)：困難、難しさ
-- [solution](/word/solution/)：解決策
+- [difficulty](/difficulty)：困難、難しさ
+- [solution](/solution)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue/)：（議論や解決が必要な）問題
-- [concern](/word/concern/)：懸念、心配事
+- [issue](/issue)：（議論や解決が必要な）問題
+- [concern](/concern)：懸念、心配事
 
-<!-- cvid: aid05_bid14 -->
+<!-- cvid: aid46_bid23 -->

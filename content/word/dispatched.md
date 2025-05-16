@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール文で「発送する」「派遣す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール文で「発送する」「派遣す
 ## 🤔  sent との違いは？
 
 - **dispatched**：公式・業務的に「派遣した」「発送した」というフォーマルな表現
-- **[sent](/word/sent/)**：一般的に「送った」という幅広い意味で使われるカジュアルな表現
+- **[sent](/sent)**：一般的に「送った」という幅広い意味で使われるカジュアルな表現
 
 dispatchedはビジネスや公式な場面で使われ、sentは日常的な「送る」全般に使われます。
 
@@ -105,14 +109,14 @@ dispatchedはビジネスや公式な場面で使われ、sentは日常的な「
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [assign](/word/assign/)：割り当てる、任命する
+- [deliver](/deliver)：配達する、届ける
+- [assign](/assign)：割り当てる、任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [notify](/word/notify/)：通知する
+- [submit](/submit)：提出する
+- [notify](/notify)：通知する
 
-<!-- cvid: aid12_bid14 -->
+<!-- cvid: aid36_bid37 -->

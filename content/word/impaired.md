@@ -81,7 +81,7 @@ The company provides services for hearing-impaired customers.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ The company provides services for hearing-impaired customers.
 
 <div class="info-center">
 ＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company provides services for hearing-impaired customers.
 ## 🤔  disabled との違いは？
 
 - **impaired**：機能や能力が部分的に損なわれている状態を指す
-- **[disabled](/word/disabled/)**：機能や能力が大きく失われ、日常生活に支障がある状態を指す
+- **[disabled](/disabled)**：機能や能力が大きく失われ、日常生活に支障がある状態を指す
 
 「impaired」は一部の機能が弱まっている場合に使い、「disabled」はより広範で重度の障害を指すことが多いです。
 
@@ -105,14 +109,14 @@ The company provides services for hearing-impaired customers.
 
 ## 🧩 あわせて覚えたい
 
-- [damaged](/word/damaged/)：損傷した
-- [deficient](/word/deficient/)：不足している、不十分な
+- [damaged](/damaged)：損傷した
+- [deficient](/deficient)：不足している、不十分な
 
 ---
 
 ## 📖 できればこれも
 
-- [chronic](/word/chronic/)：慢性的な
-- [temporary](/word/temporary/)：一時的な
+- [chronic](/chronic)：慢性的な
+- [temporary](/temporary)：一時的な
 
-<!-- cvid: aid47_bid00 -->
+<!-- cvid: aid32_bid00 -->

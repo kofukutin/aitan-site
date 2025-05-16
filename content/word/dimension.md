@@ -81,15 +81,19 @@ TOEICでは主に説明文や仕様書、ビジネス文書で「寸法」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に説明文や仕様書、ビジネス文書で「寸法」や「
 ## 🤔  measurement との違いは？
 
 - **dimension**：物の「縦・横・高さ」などの具体的な寸法や、物事の「側面・観点」を表す
-- **[measurement](/word/measurement/)**：測定した「値」や「測定行為」そのものを指す
+- **[measurement](/measurement)**：測定した「値」や「測定行為」そのものを指す
 
 dimensionは「どの部分の大きさ・側面か」に焦点があり、measurementは「測った結果の数値や行為」に重点があります。
 
@@ -105,14 +109,14 @@ dimensionは「どの部分の大きさ・側面か」に焦点があり、measu
 
 ## 🧩 あわせて覚えたい
 
-- [aspect](/word/aspect/)：側面、観点
-- [scale](/word/scale/)：規模、尺度
+- [aspect](/aspect)：側面、観点
+- [scale](/scale)：規模、尺度
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor/)：要因、要素
-- [volume](/word/volume/)：体積、量
+- [factor](/factor)：要因、要素
+- [volume](/volume)：体積、量
 
-<!-- cvid: aid24_bid36 -->
+<!-- cvid: aid09_bid29 -->

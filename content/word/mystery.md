@@ -81,15 +81,19 @@ TOEICでは、記事や物語文、Eメールなどの長文中で「謎」や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や物語文、Eメールなどの長文中で「謎」や�
 ## 🤔  puzzle との違いは？
 
 - **mystery**：解明されていない謎や神秘、または推理小説を指す
-- **[puzzle](/word/puzzle/)**：解くことができるパズルや頭の体操、難問を指す
+- **[puzzle](/puzzle)**：解くことができるパズルや頭の体操、難問を指す
 
 「mystery」は答えが分からないままの「謎」や「神秘」に使い、「puzzle」は解決できる問題やパズルに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、記事や物語文、Eメールなどの長文中で「謎」や�
 
 ## 🧩 あわせて覚えたい
 
-- [secret](/word/secret/)：秘密
-- [enigma](/word/enigma/)：不可解なもの、謎
+- [secret](/secret)：秘密
+- [enigma](/enigma)：不可解なもの、謎
 
 ---
 
 ## 📖 できればこれも
 
-- [clue](/word/clue/)：手がかり
-- [detective](/word/detective/)：探偵
+- [clue](/clue)：手がかり
+- [detective](/detective)：探偵
 
-<!-- cvid: aid36_bid24 -->
+<!-- cvid: aid09_bid28 -->

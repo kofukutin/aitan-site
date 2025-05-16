@@ -81,15 +81,19 @@ TOEICでは主に契約書や規則、法律関連の文脈で出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に契約書や規則、法律関連の文脈で出題されるこ
 ## 🤔  revise との違いは？
 
 - **amend**：主に法律や規則、公式文書などを「より良くするために修正・改正する」ことを指す
-- **[revise](/word/revise/)**：内容全体を見直して「修正・改訂する」ことを広く指し、エッセイや計画などにも使う
+- **[revise](/revise)**：内容全体を見直して「修正・改訂する」ことを広く指し、エッセイや計画などにも使う
 
 amendはフォーマルで限定的な修正、reviseは幅広い内容の見直しや修正に使われます。
 
@@ -105,14 +109,14 @@ amendはフォーマルで限定的な修正、reviseは幅広い内容の見直
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify/)：（部分的に）変更する
-- [approve](/word/approve/)：承認する
+- [modify](/modify)：（部分的に）変更する
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [enact](/word/enact/)：（法律などを）制定する
-- [adjust](/word/adjust/)：調整する
+- [enact](/enact)：（法律などを）制定する
+- [adjust](/adjust)：調整する
 
-<!-- cvid: aid26_bid11 -->
+<!-- cvid: aid10_bid18 -->

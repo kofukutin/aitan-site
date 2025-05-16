@@ -81,15 +81,19 @@ panicは、トラブルや緊急事態の会話で登場することがあり、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ panicは、トラブルや緊急事態の会話で登場することがあり、
 ## 🤔  fear との違いは？
 
 - **panic**：突然の強い恐怖や混乱で、理性を失うような状態
-- **[fear](/word/fear/)**：一般的な恐れや不安、持続的な感情
+- **[fear](/fear)**：一般的な恐れや不安、持続的な感情
 
 panicは突発的で制御できない恐怖、fearは広く一般的な恐れや不安を指します。
 
@@ -105,14 +109,14 @@ panicは突発的で制御できない恐怖、fearは広く一般的な恐れ�
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm/)：落ち着き、冷静
-- [anxiety](/word/anxiety/)：不安、心配
+- [calm](/calm)：落ち着き、冷静
+- [anxiety](/anxiety)：不安、心配
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress/)：ストレス、緊張
-- [worry](/word/worry/)：心配、気がかり
+- [stress](/stress)：ストレス、緊張
+- [worry](/worry)：心配、気がかり
 
-<!-- cvid: aid45_bid01 -->
+<!-- cvid: aid21_bid19 -->

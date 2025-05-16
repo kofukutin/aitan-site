@@ -81,15 +81,19 @@ TOEICでは、契約書や提案書などビジネス文書の「下書き」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や提案書などビジネス文書の「下書き」「
 ## 🤔  outline との違いは？
 
 - **draft**：下書きや草案。内容がある程度具体的に書かれている未完成の文書。
-- **[outline](/word/outline/)**：概要や要点のみを箇条書きしたもの。詳細は含まれない。
+- **[outline](/outline)**：概要や要点のみを箇条書きしたもの。詳細は含まれない。
 
 draftは文章や計画の「たたき台」として使われ、outlineは「骨組み」や「要点整理」に使われます。
 
@@ -105,14 +109,14 @@ draftは文章や計画の「たたき台」として使われ、outlineは「�
 
 ## 🧩 あわせて覚えたい
 
-- [proposal](/word/proposal/)：提案書
-- [revision](/word/revision/)：修正、改訂
+- [proposal](/proposal)：提案書
+- [revision](/revision)：修正、改訂
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書
-- [report](/word/report/)：報告書
+- [document](/document)：文書
+- [report](/report)：報告書
 
-<!-- cvid: aid25_bid48 -->
+<!-- cvid: aid15_bid01 -->

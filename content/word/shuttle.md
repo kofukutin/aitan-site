@@ -81,15 +81,19 @@ TOEICでは、空港やホテル、オフィス間の移動手段として案内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、空港やホテル、オフィス間の移動手段として案内
 ## 🤔  commute との違いは？
 
 - **shuttle**：2地点間を定期的に往復する乗り物やサービス
-- **[commute](/word/commute/)**：通勤・通学など、日常的に移動する行為
+- **[commute](/commute)**：通勤・通学など、日常的に移動する行為
 
 shuttleは「乗り物やサービス」自体を指し、commuteは「移動する行為」を指します。shuttleでcommuteする、という使い方も可能です。
 
@@ -105,14 +109,14 @@ shuttleは「乗り物やサービス」自体を指し、commuteは「移動す
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/word/transfer/)：乗り換え、移動
-- [route](/word/route/)：経路、ルート
+- [transfer](/transfer)：乗り換え、移動
+- [route](/route)：経路、ルート
 
 ---
 
 ## 📖 できればこれも
 
-- [vehicle](/word/vehicle/)：乗り物
-- [station](/word/station/)：駅
+- [vehicle](/vehicle)：乗り物
+- [station](/station)：駅
 
-<!-- cvid: aid05_bid29 -->
+<!-- cvid: aid41_bid43 -->

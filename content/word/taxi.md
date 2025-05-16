@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【taxi】の意味・使い方・例文 ― cabとの違い【TOEIC英単語】"
 description: "taxiの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcabとの違いもわかりやすく学べます。"
 word: "taxi"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、交通手段や移動の場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid29" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid29" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、交通手段や移動の場面
 ## 🤔  cab との違いは？
 
 - **taxi**：一般的・標準的な表現で、世界中で通じる。
-- **[cab](/word/cab/)**：主にアメリカやイギリスで使われるややカジュアルな言い方。
+- **[cab](/cab)**：主にアメリカやイギリスで使われるややカジュアルな言い方。
 
 taxiはフォーマル・標準的、cabは口語的で親しみやすいニュアンスがあります。
 
@@ -105,14 +109,14 @@ taxiはフォーマル・標準的、cabは口語的で親しみやすいニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [bus](/word/bus/)：バス
-- [train](/word/train/)：電車
+- [bus](/bus)：バス
+- [train](/train)：電車
 
 ---
 
 ## 📖 できればこれも
 
-- [airport](/word/airport/)：空港
-- [station](/word/station/)：駅
+- [airport](/airport)：空港
+- [station](/station)：駅
 
-<!-- cvid: aid16_bid28 -->
+<!-- cvid: aid36_bid29 -->

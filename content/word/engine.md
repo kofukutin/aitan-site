@@ -81,15 +81,19 @@ TOEICでは、工場やオフィスの設備説明、トラブル対応の会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場やオフィスの設備説明、トラブル対応の会話
 ## 🤔  motor との違いは？
 
 - **engine**：燃料を使って動力を生み出す装置全般（例：ガソリンエンジン）
-- **[motor](/word/motor/)**：電気や空気圧などで動く小型の動力装置
+- **[motor](/motor)**：電気や空気圧などで動く小型の動力装置
 
 engineは主に燃焼などで大きな動力を生み出す装置、motorは電気などで比較的小さな動きを生み出す装置に使われます。
 
@@ -105,14 +109,14 @@ engineは主に燃焼などで大きな動力を生み出す装置、motorは電
 
 ## 🧩 あわせて覚えたい
 
-- [machine](/word/machine/)：機械
-- [device](/word/device/)：装置、デバイス
+- [machine](/machine)：機械
+- [device](/device)：装置、デバイス
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：システム、体系
-- [mechanism](/word/mechanism/)：仕組み、機構
+- [system](/system)：システム、体系
+- [mechanism](/mechanism)：仕組み、機構
 
-<!-- cvid: aid13_bid07 -->
+<!-- cvid: aid41_bid04 -->

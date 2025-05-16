@@ -81,15 +81,19 @@ TOEICでは、学術的な記事やビジネス文書の中で「conceptual fram
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、学術的な記事やビジネス文書の中で「conceptual fram
 ## 🤔  theoretical との違いは？
 
 - **conceptual**：概念やアイデアそのものに関する、抽象的な
-- **[theoretical](/word/theoretical/)**：理論上の、理論的な
+- **[theoretical](/theoretical)**：理論上の、理論的な
 
 「conceptual」はアイデアや枠組みなどの「概念」に焦点を当てますが、「theoretical」は理論や学説など、体系的な理論に基づくことを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、学術的な記事やビジネス文書の中で「conceptual fram
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical/)：実践的な、実用的な
-- [abstract](/word/abstract/)：抽象的な
+- [practical](/practical)：実践的な、実用的な
+- [abstract](/abstract)：抽象的な
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical/)：論理的な
-- [analytical](/word/analytical/)：分析的な
+- [logical](/logical)：論理的な
+- [analytical](/analytical)：分析的な
 
-<!-- cvid: aid29_bid26 -->
+<!-- cvid: aid39_bid43 -->

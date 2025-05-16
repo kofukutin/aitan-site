@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や説明文で、商品やサービスの比較
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や説明文で、商品やサービスの比較
 ## 🤔  similar との違いは？
 
 - **comparable**：重要な点で比較できる、同等・匹敵する
-- **[similar](/word/similar/)**：似ている、類似している
+- **[similar](/similar)**：似ている、類似している
 
 **comparable**は「比較して同じくらい価値やレベルがある」場合に使い、**similar**は「見た目や性質が似ている」場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7の長文や説明文で、商品やサービスの比較
 
 ## 🧩 あわせて覚えたい
 
-- [equivalent](/word/equivalent/)：同等の、同価値の
-- [contrast](/word/contrast/)：対照、対比
+- [equivalent](/equivalent)：同等の、同価値の
+- [contrast](/contrast)：対照、対比
 
 ---
 
 ## 📖 できればこれも
 
-- [compatible](/word/compatible/)：互換性のある、両立できる
-- [relative](/word/relative/)：相対的な、比較上の
+- [compatible](/compatible)：互換性のある、両立できる
+- [relative](/relative)：相対的な、比較上の
 
-<!-- cvid: aid30_bid08 -->
+<!-- cvid: aid34_bid33 -->

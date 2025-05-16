@@ -81,15 +81,19 @@ integrationはTOEICの長文読解パートで、ITやビジネスの文脈で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ integrationはTOEICの長文読解パートで、ITやビジネスの文脈で�
 ## 🤔  combination との違いは？
 
 - **integration**：複数のものを一つにまとめて全体として機能させる「統合」や「融合」。
-- **[combination](/word/combination/)**：単に複数のものを組み合わせる「組み合わせ」。
+- **[combination](/combination)**：単に複数のものを組み合わせる「組み合わせ」。
 
 integrationは「一体化して新しい全体を作る」ニュアンスがあり、combinationは「個々の要素がそのまま集まる」イメージです。
 
@@ -105,14 +109,14 @@ integrationは「一体化して新しい全体を作る」ニュアンスがあ
 
 ## 🧩 あわせて覚えたい
 
-- [merger](/word/merger/)：合併（特に企業の合併）
-- [unification](/word/unification/)：統一、一本化
+- [merger](/merger)：合併（特に企業の合併）
+- [unification](/unification)：統一、一本化
 
 ---
 
 ## 📖 できればこれも
 
-- [implementation](/word/implementation/)：実装、導入
-- [collaboration](/word/collaboration/)：協力、共同
+- [implementation](/implementation)：実装、導入
+- [collaboration](/collaboration)：協力、共同
 
-<!-- cvid: aid13_bid35 -->
+<!-- cvid: aid24_bid12 -->

@@ -81,15 +81,19 @@ TOEICでは「原因」「理由」として名詞・動詞ともによく出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「原因」「理由」として名詞・動詞ともによく出題
 ## 🤔  reason との違いは？
 
 - **cause**：出来事や結果を直接引き起こす「原因」
-- **[reason](/word/reason/)**：人の考えや説明としての「理由」
+- **[reason](/reason)**：人の考えや説明としての「理由」
 
 causeは客観的な出来事の「原因」、reasonは人が説明する「理由」や動機に使われることが多いです。
 
@@ -105,14 +109,14 @@ causeは客観的な出来事の「原因」、reasonは人が説明する「理
 
 ## 🧩 あわせて覚えたい
 
-- [effect](/word/effect/)：結果、影響
-- [factor](/word/factor/)：要因、要素
+- [effect](/effect)：結果、影響
+- [factor](/factor)：要因、要素
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result/)：結果
-- [purpose](/word/purpose/)：目的
+- [result](/result)：結果
+- [purpose](/purpose)：目的
 
-<!-- cvid: aid45_bid38 -->
+<!-- cvid: aid11_bid49 -->

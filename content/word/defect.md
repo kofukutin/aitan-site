@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や品質管理に関する文脈で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や品質管理に関する文脈で出題さ
 ## 🤔  flaw との違いは？
 
 - **defect**：主に製品やシステムなどの「機能的な欠陥」や「不良」を指す。
-- **[flaw](/word/flaw/)**：性格や論理、物の「小さな傷」「弱点」など幅広く使われる。
+- **[flaw](/flaw)**：性格や論理、物の「小さな傷」「弱点」など幅広く使われる。
 
 defectは実用面での重大な欠陥、flawは小さな傷や抽象的な弱点にも使われます。
 
@@ -105,14 +109,14 @@ defectは実用面での重大な欠陥、flawは小さな傷や抽象的な弱�
 
 ## 🧩 あわせて覚えたい
 
-- [fault](/word/fault/)：過失、責任、（機械などの）故障
-- [malfunction](/word/malfunction/)：機能不全、故障
+- [fault](/fault)：過失、責任、（機械などの）故障
+- [malfunction](/malfunction)：機能不全、故障
 
 ---
 
 ## 📖 できればこれも
 
-- [error](/word/error/)：誤り、ミス
-- [issue](/word/issue/)：問題、課題
+- [error](/error)：誤り、ミス
+- [issue](/issue)：問題、課題
 
-<!-- cvid: aid29_bid22 -->
+<!-- cvid: aid00_bid32 -->

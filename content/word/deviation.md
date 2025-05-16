@@ -81,15 +81,19 @@ TOEICでは、報告書や統計データの説明文で「deviation」が使わ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書や統計データの説明文で「deviation」が使わ
 ## 🤔  variance との違いは？
 
 - **deviation**：基準や標準からの「ずれ」や「逸脱」を個別に表す。
-- **[variance](/word/variance/)**：データ全体の「ばらつき」や「分散」を統計的に表す。
+- **[variance](/variance)**：データ全体の「ばらつき」や「分散」を統計的に表す。
 
 deviationは「1つ1つのずれ」に注目し、varianceは「全体のばらつき具合」を示します。
 
@@ -105,14 +109,14 @@ deviationは「1つ1つのずれ」に注目し、varianceは「全体のばら�
 
 ## 🧩 あわせて覚えたい
 
-- [anomaly](/word/anomaly/)：異常、例外
-- [standard_deviation](/word/standard_deviation/)：標準偏差（データのばらつきの指標）
+- [anomaly](/anomaly)：異常、例外
+- [standard_deviation](/standard_deviation)：標準偏差（データのばらつきの指標）
 
 ---
 
 ## 📖 できればこれも
 
-- [fluctuation](/word/fluctuation/)：変動
-- [discrepancy](/word/discrepancy/)：不一致、食い違い
+- [fluctuation](/fluctuation)：変動
+- [discrepancy](/discrepancy)：不一致、食い違い
 
-<!-- cvid: aid37_bid27 -->
+<!-- cvid: aid21_bid38 -->

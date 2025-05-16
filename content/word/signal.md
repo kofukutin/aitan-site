@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「合図」「信号」として使われるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「合図」「信号」として使われるこ
 ## 🤔  sign との違いは？
 
 - **signal**：意図的に何かを伝えるための合図や信号
-- **[sign](/word/sign/)**：一般的なしるしや標識、兆候
+- **[sign](/sign)**：一般的なしるしや標識、兆候
 
 signalは「動作や装置で伝える合図」、signは「目に見えるしるしやサイン」として使い分けます。
 
@@ -105,14 +109,14 @@ signalは「動作や装置で伝える合図」、signは「目に見えるし�
 
 ## 🧩 あわせて覚えたい
 
-- [indication](/word/indication/)：兆候、指示
-- [alert](/word/alert/)：警報、注意喚起
+- [indication](/indication)：兆候、指示
+- [alert](/alert)：警報、注意喚起
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message/)：伝言、メッセージ
-- [notice](/word/notice/)：通知、お知らせ
+- [message](/message)：伝言、メッセージ
+- [notice](/notice)：通知、お知らせ
 
-<!-- cvid: aid18_bid37 -->
+<!-- cvid: aid14_bid17 -->

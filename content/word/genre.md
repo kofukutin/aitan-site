@@ -81,15 +81,19 @@ TOEICでは、記事やレポート、広告文などの長文中で「ジャン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレポート、広告文などの長文中で「ジャン
 ## 🤔  category との違いは？
 
 - **genre**：芸術や文学などの「ジャンル」「様式」を指すフォーマルな語
-- **[category](/word/category/)**：より広い意味で「カテゴリー」「分類」を指し、日常的な分野にも使える
+- **[category](/category)**：より広い意味で「カテゴリー」「分類」を指し、日常的な分野にも使える
 
 genreは主に芸術や文化的な分野で使われ、categoryはあらゆる物事の分類に幅広く使われます。
 
@@ -105,14 +109,14 @@ genreは主に芸術や文化的な分野で使われ、categoryはあらゆる�
 
 ## 🧩 あわせて覚えたい
 
-- [type](/word/type/)：種類、型
-- [style](/word/style/)：様式、スタイル
+- [type](/type)：種類、型
+- [style](/style)：様式、スタイル
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/word/topic/)：話題、テーマ
-- [subject](/word/subject/)：主題、科目
+- [topic](/topic)：話題、テーマ
+- [subject](/subject)：主題、科目
 
-<!-- cvid: aid16_bid38 -->
+<!-- cvid: aid07_bid46 -->

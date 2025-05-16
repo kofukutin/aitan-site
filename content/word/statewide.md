@@ -81,15 +81,19 @@ TOEICでは、アメリカのビジネスや行政に関する説明文やお知
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、アメリカのビジネスや行政に関する説明文やお知
 ## 🤔  nationwide との違いは？
 
 - **statewide**：州全体の、州全域で
-- **[nationwide](/word/nationwide/)**：全国的な、全国で
+- **[nationwide](/nationwide)**：全国的な、全国で
 
 statewideは「州」という行政単位全体を指し、nationwideは「国全体」を指します。アメリカなど州制度のある国で特に使い分けられます。
 
@@ -105,14 +109,14 @@ statewideは「州」という行政単位全体を指し、nationwideは「国�
 
 ## 🧩 あわせて覚えたい
 
-- [regional](/word/regional/)：地域の、地方の
-- [local](/word/local/)：地元の、地域の
+- [regional](/regional)：地域の、地方の
+- [local](/local)：地元の、地域の
 
 ---
 
 ## 📖 できればこれも
 
-- [federal](/word/federal/)：連邦の、連邦政府の
-- [municipal](/word/municipal/)：市の、自治体の
+- [federal](/federal)：連邦の、連邦政府の
+- [municipal](/municipal)：市の、自治体の
 
-<!-- cvid: aid23_bid08 -->
+<!-- cvid: aid27_bid42 -->

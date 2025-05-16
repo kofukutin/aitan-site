@@ -82,15 +82,19 @@ TOEICでは、日常会話や簡単な質問の中で「favorite」がよく登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、日常会話や簡単な質問の中で「favorite」がよく登�
 ## 🤔  prefer との違いは？
 
 - **favorite**：最も好きなものや人を指し、1つに絞るニュアンスが強い
-- **[prefer](/word/prefer/)**：複数の中から「より好む」という比較のニュアンス
+- **[prefer](/prefer)**：複数の中から「より好む」という比較のニュアンス
 
 favoriteは「一番のお気に入り」を表し、preferは「どちらかと言えば好き」という比較的な好みを表します。
 
@@ -106,14 +110,14 @@ favoriteは「一番のお気に入り」を表し、preferは「どちらかと
 
 ## 🧩 あわせて覚えたい
 
-- [beloved](/word/beloved/)：とても愛されている
-- [select](/word/select/)：選ばれた、特別な
+- [beloved](/beloved)：とても愛されている
+- [select](/select)：選ばれた、特別な
 
 ---
 
 ## 📖 できればこれも
 
-- [famous](/word/famous/)：有名な
-- [special](/word/special/)：特別な
+- [famous](/famous)：有名な
+- [special](/special)：特別な
 
-<!-- cvid: aid33_bid21 -->
+<!-- cvid: aid27_bid30 -->

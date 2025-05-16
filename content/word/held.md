@@ -81,15 +81,19 @@ TOEICでは「会議やイベントが開催された」という文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「会議やイベントが開催された」という文脈でよく
 ## 🤔  organize との違いは？
 
 - **held**：会議やイベントなどを「開催した」「実施した」という事実を表す。
-- **[organize](/word/organize/)**：会議やイベントを「企画・準備する」ことに重点がある。
+- **[organize](/organize)**：会議やイベントを「企画・準備する」ことに重点がある。
 
 「held」は実際にイベントが行われたことを示し、「organize」はその準備や計画に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは「会議やイベントが開催された」という文脈でよく
 
 ## 🧩 あわせて覚えたい
 
-- [host](/word/host/)：主催する、開催する
-- [attend](/word/attend/)：出席する
+- [host](/host)：主催する、開催する
+- [attend](/attend)：出席する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [schedule](/word/schedule/)：予定する、スケジュールを組む
+- [arrange](/arrange)：手配する、準備する
+- [schedule](/schedule)：予定する、スケジュールを組む
 
-<!-- cvid: aid29_bid06 -->
+<!-- cvid: aid33_bid21 -->

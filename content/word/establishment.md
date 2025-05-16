@@ -81,15 +81,19 @@ TOEICでは、会社や組織の設立、施設や店舗の説明など、ビジ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や組織の設立、施設や店舗の説明など、ビジ
 ## 🤔  institution との違いは？
 
 - **establishment**：設立や設置そのもの、または設立された施設や組織を指す
-- **[institution](/word/institution/)**：社会的に重要な公共機関や制度を指す
+- **[institution](/institution)**：社会的に重要な公共機関や制度を指す
 
 establishmentは「設立」や「店舗・組織」など幅広く使われますが、institutionは「大学・銀行・病院」など社会的に認知された大きな組織や制度に限定されることが多いです。
 
@@ -105,14 +109,14 @@ establishmentは「設立」や「店舗・組織」など幅広く使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [foundation](/word/foundation/)：設立、基盤
-- [organization](/word/organization/)：組織、団体
+- [foundation](/foundation)：設立、基盤
+- [organization](/organization)：組織、団体
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：施設、設備
-- [enterprise](/word/enterprise/)：企業、事業
+- [facility](/facility)：施設、設備
+- [enterprise](/enterprise)：企業、事業
 
-<!-- cvid: aid13_bid38 -->
+<!-- cvid: aid48_bid07 -->

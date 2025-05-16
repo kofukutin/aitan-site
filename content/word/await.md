@@ -81,15 +81,19 @@ TOEICでは主にPart 5で、フォーマルな「待つ」の表現として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5で、フォーマルな「待つ」の表現として出
 ## 🤔  wait との違いは？
 
 - **await**：フォーマルで、目的語を直接取る「待つ」
-- **[wait](/word/wait/)**：カジュアルで、「for」と一緒に使うことが多い
+- **[wait](/wait)**：カジュアルで、「for」と一緒に使うことが多い
 
 awaitはビジネスや公式文書でよく使われ、waitは日常会話で使われます。
 
@@ -105,14 +109,14 @@ awaitはビジネスや公式文書でよく使われ、waitは日常会話で�
 
 ## 🧩 あわせて覚えたい
 
-- [anticipate](/word/anticipate/)：予期する、期待する
-- [delay](/word/delay/)：遅らせる、延期する
+- [anticipate](/anticipate)：予期する、期待する
+- [delay](/delay)：遅らせる、延期する
 
 ---
 
 ## 📖 できればこれも
 
-- [respond](/word/respond/)：返答する
-- [notify](/word/notify/)：通知する
+- [respond](/respond)：返答する
+- [notify](/notify)：通知する
 
-<!-- cvid: aid40_bid14 -->
+<!-- cvid: aid36_bid00 -->

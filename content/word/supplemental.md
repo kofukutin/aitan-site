@@ -81,15 +81,19 @@ TOEICでは、契約書や案内文、説明資料などで「補足の」「追
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid05_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や案内文、説明資料などで「補足の」「追
 ## 🤔  additional との違いは？
 
 - **supplemental**：本来のものに「補う」目的で追加される、補足的な
-- **[additional](/word/additional/)**：単に「追加の」「さらに加えた」という意味で、補足のニュアンスは薄い
+- **[additional](/additional)**：単に「追加の」「さらに加えた」という意味で、補足のニュアンスは薄い
 
 supplementalは「不足を補う」ための追加、additionalは「単純な追加」として使い分けます。
 
@@ -105,14 +109,14 @@ supplementalは「不足を補う」ための追加、additionalは「単純な�
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [auxiliary](/word/auxiliary/)：補助の、補助的な
+- [optional](/optional)：任意の、選択できる
+- [auxiliary](/auxiliary)：補助の、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory/)：必須の、義務的な
-- [complementary](/word/complementary/)：補完的な、相補的な
+- [mandatory](/mandatory)：必須の、義務的な
+- [complementary](/complementary)：補完的な、相補的な
 
-<!-- cvid: aid38_bid37 -->
+<!-- cvid: aid05_bid42 -->

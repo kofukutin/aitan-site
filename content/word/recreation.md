@@ -81,15 +81,19 @@ TOEICでは、福利厚生や施設紹介、従業員向けの案内文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、福利厚生や施設紹介、従業員向けの案内文などで
 ## 🤔  leisure との違いは？
 
 - **recreation**：積極的に楽しむための活動や気晴らしを指す
-- **[leisure](/word/leisure/)**：自由時間や余暇そのものを指し、活動内容は問わない
+- **[leisure](/leisure)**：自由時間や余暇そのものを指し、活動内容は問わない
 
 recreationは「何かをして楽しむ」ことに重点があり、leisureは「自由に使える時間」自体を表します。
 
@@ -105,14 +109,14 @@ recreationは「何かをして楽しむ」ことに重点があり、leisureは
 
 ## 🧩 あわせて覚えたい
 
-- [entertainment](/word/entertainment/)：娯楽、エンターテインメント
-- [work](/word/work/)：仕事、労働
+- [entertainment](/entertainment)：娯楽、エンターテインメント
+- [work](/work)：仕事、労働
 
 ---
 
 ## 📖 できればこれも
 
-- [activity](/word/activity/)：活動、行動
-- [facility](/word/facility/)：施設、設備
+- [activity](/activity)：活動、行動
+- [facility](/facility)：施設、設備
 
-<!-- cvid: aid36_bid07 -->
+<!-- cvid: aid11_bid47 -->

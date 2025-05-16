@@ -81,15 +81,19 @@ TOEICでは、データや統計、分析に関する長文や説明文で「num
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、データや統計、分析に関する長文や説明文で「num
 ## 🤔  quantitative との違いは？
 
 - **numerical**：数字そのもの、または数字で表されることに焦点を当てる
-- **[quantitative](/word/quantitative/)**：数量や量的な側面、測定できることに焦点を当てる
+- **[quantitative](/quantitative)**：数量や量的な側面、測定できることに焦点を当てる
 
 numericalは「数字で表現されている」ことを強調し、quantitativeは「量として測定できる」ことを強調します。
 
@@ -105,14 +109,14 @@ numericalは「数字で表現されている」ことを強調し、quantitativ
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital/)：デジタルの、数字で表す
-- [statistical](/word/statistical/)：統計の、統計的な
+- [digital](/digital)：デジタルの、数字で表す
+- [statistical](/statistical)：統計の、統計的な
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：数字、図
-- [statistic](/word/statistic/)：統計値、統計データ
+- [figure](/figure)：数字、図
+- [statistic](/statistic)：統計値、統計データ
 
-<!-- cvid: aid45_bid10 -->
+<!-- cvid: aid48_bid28 -->

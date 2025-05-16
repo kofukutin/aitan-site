@@ -81,15 +81,19 @@ TOEICではITやビジネス分野の長文で、異なる要素が一つにま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid43_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス分野の長文で、異なる要素が一つにま�
 ## 🤔  integration との違いは？
 
 - **convergence**：異なるものが一つの方向や形にまとまること、特に動きや流れの「収束」に重点。
-- **[integration](/word/integration/)**：異なるものを組み合わせて一体化・統合すること、構造やシステムの「統合」に重点。
+- **[integration](/integration)**：異なるものを組み合わせて一体化・統合すること、構造やシステムの「統合」に重点。
 
 convergenceは「流れや傾向が一つに集まる」ニュアンス、integrationは「機能や構造が一体化する」ニュアンスです。
 
@@ -105,14 +109,14 @@ convergenceは「流れや傾向が一つに集まる」ニュアンス、integr
 
 ## 🧩 あわせて覚えたい
 
-- [divergence](/word/divergence/)：分岐、発散
-- [merger](/word/merger/)：合併、統合
+- [divergence](/divergence)：分岐、発散
+- [merger](/merger)：合併、統合
 
 ---
 
 ## 📖 できればこれも
 
-- [innovation](/word/innovation/)：革新
-- [collaboration](/word/collaboration/)：協力、共同作業
+- [innovation](/innovation)：革新
+- [collaboration](/collaboration)：協力、共同作業
 
-<!-- cvid: aid41_bid24 -->
+<!-- cvid: aid43_bid39 -->

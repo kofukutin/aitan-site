@@ -81,15 +81,19 @@ TOEICでは、面接や自己紹介、職歴・学歴に関する会話で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、面接や自己紹介、職歴・学歴に関する会話で頻出
 ## 🤔  experience との違いは？
 
 - **background**：学歴や職歴など、過去の全体的な経歴や環境を指す
-- **[experience](/word/experience/)**：特定の出来事や実際に体験したことを指す
+- **[experience](/experience)**：特定の出来事や実際に体験したことを指す
 
 backgroundは「どんな環境・経歴を持っているか」という広い意味で使い、experienceは「実際に何を経験したか」という具体的な体験を表します。
 
@@ -105,14 +109,14 @@ backgroundは「どんな環境・経歴を持っているか」という広い�
 
 ## 🧩 あわせて覚えたい
 
-- [qualification](/word/qualification/)：資格、能力
-- [history](/word/history/)：歴史、履歴
+- [qualification](/qualification)：資格、能力
+- [history](/history)：歴史、履歴
 
 ---
 
 ## 📖 できればこれも
 
-- [skill](/word/skill/)：技能、スキル
-- [career](/word/career/)：職業、経歴
+- [skill](/skill)：技能、スキル
+- [career](/career)：職業、経歴
 
-<!-- cvid: aid27_bid32 -->
+<!-- cvid: aid18_bid47 -->

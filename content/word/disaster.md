@@ -81,15 +81,19 @@ TOEICでは主にニュース記事やお知らせ文、災害対策に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にニュース記事やお知らせ文、災害対策に関する
 ## 🤔  accident との違いは？
 
 - **disaster**：大規模で深刻な被害や混乱をもたらす災害・惨事
-- **[accident](/word/accident/)**：予期せぬ出来事や小規模な事故
+- **[accident](/accident)**：予期せぬ出来事や小規模な事故
 
 disasterは自然災害や大きな失敗など深刻な事態に使い、accidentは日常的な事故や小さなトラブルに使います。
 
@@ -105,14 +109,14 @@ disasterは自然災害や大きな失敗など深刻な事態に使い、accide
 
 ## 🧩 あわせて覚えたい
 
-- [catastrophe](/word/catastrophe/)：大惨事、破滅的な出来事
-- [emergency](/word/emergency/)：緊急事態
+- [catastrophe](/catastrophe)：大惨事、破滅的な出来事
+- [emergency](/emergency)：緊急事態
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage/)：損害、被害
-- [crisis](/word/crisis/)：危機、重大局面
+- [damage](/damage)：損害、被害
+- [crisis](/crisis)：危機、重大局面
 
-<!-- cvid: aid25_bid17 -->
+<!-- cvid: aid38_bid49 -->

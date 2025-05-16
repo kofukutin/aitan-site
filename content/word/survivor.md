@@ -81,15 +81,19 @@ TOEICでは主に記事やインタビューなどの長文で、事故や病気
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やインタビューなどの長文で、事故や病気
 ## 🤔  victim との違いは？
 
 - **survivor**：困難や事故などを生き延びた人
-- **[victim](/word/victim/)**：事故や犯罪などで被害を受けた人
+- **[victim](/victim)**：事故や犯罪などで被害を受けた人
 
 survivorは「生き残った人」に焦点があり、victimは「被害を受けた人」に重点があります。
 
@@ -105,14 +109,14 @@ survivorは「生き残った人」に焦点があり、victimは「被害を受
 
 ## 🧩 あわせて覚えたい
 
-- [patient](/word/patient/)：患者、病人
-- [witness](/word/witness/)：目撃者、証人
+- [patient](/patient)：患者、病人
+- [witness](/witness)：目撃者、証人
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが、負傷
-- [recover](/word/recover/)：回復する
+- [injury](/injury)：けが、負傷
+- [recover](/recover)：回復する
 
-<!-- cvid: aid26_bid47 -->
+<!-- cvid: aid06_bid27 -->

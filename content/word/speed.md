@@ -81,15 +81,19 @@ TOEICでは、交通や業務の進行状況、作業効率などの文脈で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、交通や業務の進行状況、作業効率などの文脈で「
 ## 🤔  velocity との違いは？
 
 - **speed**：一般的な「速さ」「速度」を表し、日常会話やビジネスでも幅広く使われる。
-- **[velocity](/word/velocity/)**：物理や科学分野で使われる「速度」（特に方向性を含む場合）を指す。
+- **[velocity](/velocity)**：物理や科学分野で使われる「速度」（特に方向性を含む場合）を指す。
 
 speedは日常的な「速さ」全般に使われますが、velocityは専門的・理論的な文脈で「方向を持つ速度」を表します。
 
@@ -105,14 +109,14 @@ speedは日常的な「速さ」全般に使われますが、velocityは専門�
 
 ## 🧩 あわせて覚えたい
 
-- [pace](/word/pace/)：歩調、進み具合
-- [delay](/word/delay/)：遅れ、延期
+- [pace](/pace)：歩調、進み具合
+- [delay](/delay)：遅れ、延期
 
 ---
 
 ## 📖 できればこれも
 
-- [rate](/word/rate/)：割合、速度
-- [progress](/word/progress/)：進捗、進行
+- [rate](/rate)：割合、速度
+- [progress](/progress)：進捗、進行
 
-<!-- cvid: aid35_bid33 -->
+<!-- cvid: aid15_bid20 -->

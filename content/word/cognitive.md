@@ -81,15 +81,19 @@ TOEICでは、科学や教育、医療系の記事や説明文で「cognitive fu
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid08" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid08" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や教育、医療系の記事や説明文で「cognitive fu
 ## 🤔  intellectual との違いは？
 
 - **cognitive**：知覚・記憶・思考など「認知」に関する
-- **[intellectual](/word/intellectual/)**：知性や知的活動全般に関する
+- **[intellectual](/intellectual)**：知性や知的活動全般に関する
 
 cognitiveは「脳の働きや認知プロセス」に焦点を当て、intellectualは「知的能力や知識の深さ」など広い意味で使われます。
 
@@ -105,14 +109,14 @@ cognitiveは「脳の働きや認知プロセス」に焦点を当て、intellec
 
 ## 🧩 あわせて覚えたい
 
-- [mental](/word/mental/)：精神の、心の
-- [perception](/word/perception/)：知覚、認識
+- [mental](/mental)：精神の、心の
+- [perception](/perception)：知覚、認識
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical/)：論理的な
-- [conscious](/word/conscious/)：意識している
+- [logical](/logical)：論理的な
+- [conscious](/conscious)：意識している
 
-<!-- cvid: aid41_bid31 -->
+<!-- cvid: aid01_bid08 -->

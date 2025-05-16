@@ -81,15 +81,19 @@ TOEICでは科学や宗教、比喩表現の説明文で登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や宗教、比喩表現の説明文で登場することがあ
 ## 🤔  aura との違いは？
 
 - **halo**：物理的・視覚的な「光の輪」や宗教画の「後光」を指すことが多い
-- **[aura](/word/aura/)**：目に見えない「雰囲気」や「オーラ」を表す
+- **[aura](/aura)**：目に見えない「雰囲気」や「オーラ」を表す
 
 haloは実際に見える光の輪や宗教的な象徴に使われ、auraは人や物が持つ目に見えない雰囲気や印象に使われます。
 
@@ -105,13 +109,13 @@ haloは実際に見える光の輪や宗教的な象徴に使われ、auraは人
 
 ## 🧩 あわせて覚えたい
 
-- [ring](/word/ring/)：輪、指輪
-- [glow](/word/glow/)：輝き、ほのかな光
+- [ring](/ring)：輪、指輪
+- [glow](/glow)：輝き、ほのかな光
 
 ---
 
 ## 📖 できればこれも
 
-- [sphere](/word/sphere/)：球体
-- [circle](/word/circle/)：円、輪
-<!-- cvid: aid40_bid06 -->
+- [sphere](/sphere)：球体
+- [circle](/circle)：円、輪
+<!-- cvid: aid02_bid15 -->

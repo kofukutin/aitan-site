@@ -81,15 +81,19 @@ TOEICでは契約書や同意書、社内規定などの文書で頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や同意書、社内規定などの文書で頻出します
 ## 🤔  approval との違いは？
 
 - **consent**：正式な許可や同意を強調し、特に法的・倫理的な場面で使われる
-- **[approval](/word/approval/)**：承認や賛成の意味で、より広く一般的な許可や評価にも使われる
+- **[approval](/approval)**：承認や賛成の意味で、より広く一般的な許可や評価にも使われる
 
 consentは「許可を与える」というニュアンスが強く、approvalは「評価して認める」イメージです。
 
@@ -105,14 +109,14 @@ consentは「許可を与える」というニュアンスが強く、approval�
 
 ## 🧩 あわせて覚えたい
 
-- [permission](/word/permission/)：許可
-- [agreement](/word/agreement/)：合意
+- [permission](/permission)：許可
+- [agreement](/agreement)：合意
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [authorize](/word/authorize/)：許可する
+- [contract](/contract)：契約
+- [authorize](/authorize)：許可する
 
-<!-- cvid: aid19_bid48 -->
+<!-- cvid: aid12_bid02 -->

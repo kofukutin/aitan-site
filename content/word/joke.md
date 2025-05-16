@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で「冗談」や「和やかな雰囲気」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で「冗談」や「和やかな雰囲気」
 ## 🤔  humor との違いは？
 
 - **joke**：人を笑わせるための具体的な冗談や言葉
-- **[humor](/word/humor/)**：ユーモア、面白さという抽象的な性質や感覚
+- **[humor](/humor)**：ユーモア、面白さという抽象的な性質や感覚
 
 jokeは「冗談」という具体的な内容、humorは「ユーモア」という性格や雰囲気を表します。
 
@@ -105,14 +109,14 @@ jokeは「冗談」という具体的な内容、humorは「ユーモア」と�
 
 ## 🧩 あわせて覚えたい
 
-- [prank](/word/prank/)：いたずら、悪ふざけ
-- [pun](/word/pun/)：ダジャレ、語呂合わせ
+- [prank](/prank)：いたずら、悪ふざけ
+- [pun](/pun)：ダジャレ、語呂合わせ
 
 ---
 
 ## 📖 できればこれも
 
-- [laugh](/word/laugh/)：笑う
-- [smile](/word/smile/)：ほほえむ
+- [laugh](/laugh)：笑う
+- [smile](/smile)：ほほえむ
 
-<!-- cvid: aid27_bid41 -->
+<!-- cvid: aid20_bid45 -->

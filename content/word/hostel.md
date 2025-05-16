@@ -81,15 +81,19 @@ The hostel offers free Wi-Fi and breakfast for guests.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hostel offers free Wi-Fi and breakfast for guests.
 ## 🤔  hotel との違いは？
 
 - **hostel**：相部屋が多く、安価で簡素な宿泊施設。主に若者やバックパッカー向け。
-- **[hotel](/word/hotel/)**：個室が基本で、設備やサービスが充実した一般的な宿泊施設。
+- **[hotel](/hotel)**：個室が基本で、設備やサービスが充実した一般的な宿泊施設。
 
 hostelは「安く泊まれる共同部屋中心の宿」、hotelは「個室で快適なサービス付きの宿」と覚えると区別しやすいです。
 
@@ -105,14 +109,14 @@ hostelは「安く泊まれる共同部屋中心の宿」、hotelは「個室で
 
 ## 🧩 あわせて覚えたい
 
-- [dormitory](/word/dormitory/)：寮、共同生活のための建物
-- [guesthouse](/word/guesthouse/)：小規模な宿泊施設、民宿
+- [dormitory](/dormitory)：寮、共同生活のための建物
+- [guesthouse](/guesthouse)：小規模な宿泊施設、民宿
 
 ---
 
 ## 📖 できればこれも
 
-- [lodge](/word/lodge/)：山小屋、ロッジ
-- [inn](/word/inn/)：旅館、宿屋
+- [lodge](/lodge)：山小屋、ロッジ
+- [inn](/inn)：旅館、宿屋
 
-<!-- cvid: aid31_bid13 -->
+<!-- cvid: aid09_bid23 -->

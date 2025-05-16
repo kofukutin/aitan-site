@@ -81,15 +81,19 @@ TOEICでは、都市と田舎の比較や、地域の説明文などでruralが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、都市と田舎の比較や、地域の説明文などでruralが�
 ## 🤔  suburban との違いは？
 
 - **rural**：都市から離れた田舎や農村を指す
-- **[suburban](/word/suburban/)**：都市の周辺にある郊外を指す
+- **[suburban](/suburban)**：都市の周辺にある郊外を指す
 
 ruralは「田舎・農村」、suburbanは「都市近郊の住宅地」と、場所や雰囲気が異なります。
 
@@ -105,14 +109,14 @@ ruralは「田舎・農村」、suburbanは「都市近郊の住宅地」と、�
 
 ## 🧩 あわせて覚えたい
 
-- [urban](/word/urban/)：都市の、都会の
-- [countryside](/word/countryside/)：田舎、農村地帯
+- [urban](/urban)：都市の、都会の
+- [countryside](/countryside)：田舎、農村地帯
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/word/remote/)：遠隔の、人里離れた
-- [agricultural](/word/agricultural/)：農業の
+- [remote](/remote)：遠隔の、人里離れた
+- [agricultural](/agricultural)：農業の
 
-<!-- cvid: aid21_bid24 -->
+<!-- cvid: aid15_bid28 -->

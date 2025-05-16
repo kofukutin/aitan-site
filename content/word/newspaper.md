@@ -81,15 +81,19 @@ TOEICではPart 7の長文読解で、記事や広告、案内文などの文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文読解で、記事や広告、案内文などの文脈
 ## 🤔  magazine との違いは？
 
 - **newspaper**：日々のニュースや時事情報を主に伝える印刷物
-- **[magazine](/word/magazine/)**：特定のテーマや趣味、専門分野に特化した定期刊行物
+- **[magazine](/magazine)**：特定のテーマや趣味、専門分野に特化した定期刊行物
 
 newspaperは速報性や時事性が重視されるのに対し、magazineは特集や連載など深掘りした内容が多い点が異なります。
 
@@ -105,14 +109,14 @@ newspaperは速報性や時事性が重視されるのに対し、magazineは特
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article/)：記事
-- [journal](/word/journal/)：学術誌、日誌
+- [article](/article)：記事
+- [journal](/journal)：学術誌、日誌
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report/)：報告書、レポート
-- [editor](/word/editor/)：編集者
+- [report](/report)：報告書、レポート
+- [editor](/editor)：編集者
 
-<!-- cvid: aid24_bid25 -->
+<!-- cvid: aid20_bid39 -->

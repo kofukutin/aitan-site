@@ -81,15 +81,19 @@ TOEICでは主に輸送や物流、貿易関連の長文やEメール文中で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に輸送や物流、貿易関連の長文やEメール文中で�
 ## 🤔  freight との違いは？
 
 - **cargo**：特に船や飛行機などで運ばれる「貨物」「積み荷」を指す。
-- **[freight](/word/freight/)**：運送される「貨物」全般や、その運送料金も指す。
+- **[freight](/freight)**：運送される「貨物」全般や、その運送料金も指す。
 
 cargoは「積み荷そのもの」を強調し、freightは「運送される物」や「運送料金」まで幅広く使われます。
 
@@ -105,14 +109,14 @@ cargoは「積み荷そのもの」を強調し、freightは「運送される�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/word/shipment/)：発送、出荷
-- [load](/word/load/)：積み荷、荷物
+- [shipment](/shipment)：発送、出荷
+- [load](/load)：積み荷、荷物
 
 ---
 
 ## 📖 できればこれも
 
-- [vessel](/word/vessel/)：船舶
-- [container](/word/container/)：コンテナ（貨物用の箱）
+- [vessel](/vessel)：船舶
+- [container](/container)：コンテナ（貨物用の箱）
 
-<!-- cvid: aid21_bid08 -->
+<!-- cvid: aid29_bid41 -->

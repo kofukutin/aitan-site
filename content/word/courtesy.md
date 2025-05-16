@@ -81,15 +81,19 @@ TOEICでは、案内文やビジネスメール、ホテル・サービス業の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内文やビジネスメール、ホテル・サービス業の
 ## 🤔  politeness との違いは？
 
 - **courtesy**：行動や具体的な親切・礼儀正しさを強調するフォーマルな表現
-- **[politeness](/word/politeness/)**：態度や言葉遣いなど一般的な礼儀正しさを表す
+- **[politeness](/politeness)**：態度や言葉遣いなど一般的な礼儀正しさを表す
 
 courtesyは「行動としての親切や礼儀」に焦点があり、politenessは「態度やマナー全般」に使われます。
 
@@ -105,14 +109,14 @@ courtesyは「行動としての親切や礼儀」に焦点があり、politenes
 
 ## 🧩 あわせて覚えたい
 
-- [rudeness](/word/rudeness/)：無礼、失礼
-- [favor](/word/favor/)：親切な行為、好意
+- [rudeness](/rudeness)：無礼、失礼
+- [favor](/favor)：親切な行為、好意
 
 ---
 
 ## 📖 できればこれも
 
-- [gesture](/word/gesture/)：しぐさ、身振り
-- [respect](/word/respect/)：尊敬、敬意
+- [gesture](/gesture)：しぐさ、身振り
+- [respect](/respect)：尊敬、敬意
 
-<!-- cvid: aid28_bid36 -->
+<!-- cvid: aid02_bid32 -->

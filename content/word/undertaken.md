@@ -81,15 +81,19 @@ TOEICでは、受動態や完了形で「has/have been undertaken」の形で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や完了形で「has/have been undertaken」の形で出
 ## 🤔  performed との違いは？
 
 - **undertaken**：責任を持って何かに着手・引き受けたことを強調
-- **[performed](/word/performed/)**：実際に行動や作業を「実行した」ことを強調
+- **[performed](/performed)**：実際に行動や作業を「実行した」ことを強調
 
 「undertaken」は「始める・引き受ける」ニュアンスが強く、performedは「実際にやり遂げた」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、受動態や完了形で「has/have been undertaken」の形で出
 
 ## 🧩 あわせて覚えたい
 
-- [attempt](/word/attempt/)：試みる、挑戦する
-- [commit](/word/commit/)：（責任をもって）取り組む、約束する
+- [attempt](/attempt)：試みる、挑戦する
+- [commit](/commit)：（責任をもって）取り組む、約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [accomplish](/word/accomplish/)：成し遂げる、達成する
-- [proceed](/word/proceed/)：進む、続ける
+- [accomplish](/accomplish)：成し遂げる、達成する
+- [proceed](/proceed)：進む、続ける
 
-<!-- cvid: aid35_bid22 -->
+<!-- cvid: aid05_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは、広告や観光案内、商品説明などで「funky」が使わ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告や観光案内、商品説明などで「funky」が使わ�
 ## 🤔  unique との違いは？
 
 - **funky**：独特で個性的、かっこよさや変わった雰囲気を含むカジュアルな表現
-- **[unique](/word/unique/)**：唯一無二で他にない、フォーマルでも使える
+- **[unique](/unique)**：唯一無二で他にない、フォーマルでも使える
 
 「funky」はポジティブなカジュアルさやおしゃれ感を含みますが、「unique」は単に「他にない」という意味で、必ずしもかっこよさやおしゃれさを含みません。
 
@@ -105,14 +109,14 @@ TOEICでは、広告や観光案内、商品説明などで「funky」が使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [stylish](/word/stylish/)：おしゃれな
-- [eccentric](/word/eccentric/)：風変わりな、奇抜な
+- [stylish](/stylish)：おしゃれな
+- [eccentric](/eccentric)：風変わりな、奇抜な
 
 ---
 
 ## 📖 できればこれも
 
-- [trendy](/word/trendy/)：流行の
-- [colorful](/word/colorful/)：カラフルな
+- [trendy](/trendy)：流行の
+- [colorful](/colorful)：カラフルな
 
-<!-- cvid: aid26_bid34 -->
+<!-- cvid: aid29_bid22 -->

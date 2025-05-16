@@ -82,15 +82,19 @@ TOEICでは、商品の種類やサービスの幅、価格帯など「範囲」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、商品の種類やサービスの幅、価格帯など「範囲」
 ## 🤔  scope との違いは？
 
 - **range**：数量や種類、距離などの「広がり」や「幅」を表す
-- **[scope](/word/scope/)**：活動や責任、調査などの「範囲」「領域」を表す
+- **[scope](/scope)**：活動や責任、調査などの「範囲」「領域」を表す
 
 「range」は物理的・数量的な広がり、「scope」は抽象的な活動や責任の範囲に使うことが多いです。
 
@@ -106,14 +110,14 @@ TOEICでは、商品の種類やサービスの幅、価格帯など「範囲」
 
 ## 🧩 あわせて覚えたい
 
-- [variety](/word/variety/)：多様性、種類
-- [limit](/word/limit/)：限界、制限
+- [variety](/variety)：多様性、種類
+- [limit](/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/word/area/)：区域、分野
-- [extent](/word/extent/)：範囲、程度
+- [area](/area)：区域、分野
+- [extent](/extent)：範囲、程度
 
-<!-- cvid: aid18_bid11 -->
+<!-- cvid: aid09_bid30 -->

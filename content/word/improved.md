@@ -81,15 +81,19 @@ TOEICでは、製品やサービスの説明、業績の報告などで「improv
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やサービスの説明、業績の報告などで「improv
 ## 🤔  enhanced との違いは？
 
 - **improved**：以前より良くなった、改良された
-- **[enhanced](/word/enhanced/)**：強化された、より高められた
+- **[enhanced](/enhanced)**：強化された、より高められた
 
 「improved」は一般的な改善や改良を指し、「enhanced」は特定の機能や特徴が強化された場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、製品やサービスの説明、業績の報告などで「improv
 
 ## 🧩 あわせて覚えたい
 
-- [better](/word/better/)：より良い
-- [upgrade](/word/upgrade/)：（名詞）アップグレード、（動詞）アップグレードする
+- [better](/better)：より良い
+- [upgrade](/upgrade)：（名詞）アップグレード、（動詞）アップグレードする
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [effective](/word/effective/)：効果的な
+- [efficient](/efficient)：効率的な
+- [effective](/effective)：効果的な
 
-<!-- cvid: aid02_bid24 -->
+<!-- cvid: aid01_bid25 -->

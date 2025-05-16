@@ -81,15 +81,19 @@ TOEICでは「what kind of ～」の形で頻出し、種類や分類を問う�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「what kind of ～」の形で頻出し、種類や分類を問う�
 ## 🤔  type との違いは？
 
 - **kind**：性質や特徴による「種類」を表す
-- **[type](/word/type/)**：形や機能などの「型」「タイプ」を表す
+- **[type](/type)**：形や機能などの「型」「タイプ」を表す
 
 kindは「ざっくりとした分類」、typeは「技術的・機能的な分類」に使われることが多いです。
 
@@ -105,14 +109,14 @@ kindは「ざっくりとした分類」、typeは「技術的・機能的な分
 
 ## 🧩 あわせて覚えたい
 
-- [category](/word/category/)：カテゴリー、部門
-- [sort](/word/sort/)：種類、タイプ
+- [category](/category)：カテゴリー、部門
+- [sort](/sort)：種類、タイプ
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form/)：形、形式
-- [class](/word/class/)：クラス、分類
+- [form](/form)：形、形式
+- [class](/class)：クラス、分類
 
-<!-- cvid: aid02_bid17 -->
+<!-- cvid: aid06_bid20 -->

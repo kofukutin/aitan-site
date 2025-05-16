@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、ビーチやレジャーの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、ビーチやレジャーの場面で
 ## 🤔  swimming との違いは？
 
 - **surfing**：波に乗るスポーツやネット閲覧を指す
-- **[swimming](/word/swimming/)**：水中や水面を泳ぐこと
+- **[swimming](/swimming)**：水中や水面を泳ぐこと
 
 surfingは波やインターネット上で「乗る・移動する」イメージ、swimmingは「泳ぐ」動作そのものを表します。
 
@@ -105,14 +109,14 @@ surfingは波やインターネット上で「乗る・移動する」イメー�
 
 ## 🧩 あわせて覚えたい
 
-- [diving](/word/diving/)：ダイビング、水中に潜ること
-- [snowboarding](/word/snowboarding/)：スノーボード、雪の上を滑るスポーツ
+- [diving](/diving)：ダイビング、水中に潜ること
+- [snowboarding](/snowboarding)：スノーボード、雪の上を滑るスポーツ
 
 ---
 
 ## 📖 できればこれも
 
-- [hiking](/word/hiking/)：ハイキング、山歩き
-- [fishing](/word/fishing/)：釣り
+- [hiking](/hiking)：ハイキング、山歩き
+- [fishing](/fishing)：釣り
 
-<!-- cvid: aid02_bid35 -->
+<!-- cvid: aid08_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネスメールや契約書、案内文などで「保証
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスメールや契約書、案内文などで「保証
 ## 🤔  guarantee との違いは？
 
 - **assurance**：確実性や自信、約束をフォーマルに示す言葉。精神的な「安心感」も含む。
-- **[guarantee](/word/guarantee/)**：法的・契約的な「保証」を意味し、物理的・金銭的な裏付けがある場合に使う。
+- **[guarantee](/guarantee)**：法的・契約的な「保証」を意味し、物理的・金銭的な裏付けがある場合に使う。
 
 assuranceは「気持ちの上での保証」や「自信」にも使えますが、guaranteeは「契約や法律に基づく保証」に限定されます。
 
@@ -105,14 +109,14 @@ assuranceは「気持ちの上での保証」や「自信」にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [confidence](/word/confidence/)：自信、信頼
-- [insurance](/word/insurance/)：保険、保険制度
+- [confidence](/confidence)：自信、信頼
+- [insurance](/insurance)：保険、保険制度
 
 ---
 
 ## 📖 できればこれも
 
-- [commitment](/word/commitment/)：約束、責任
-- [confirmation](/word/confirmation/)：確認、確証
+- [commitment](/commitment)：約束、責任
+- [confirmation](/confirmation)：確認、確証
 
-<!-- cvid: aid11_bid15 -->
+<!-- cvid: aid19_bid09 -->

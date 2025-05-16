@@ -77,15 +77,19 @@ TOEICでは丁寧な依頼や提案、可能性を表す表現として頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは丁寧な依頼や提案、可能性を表す表現として頻出し
 ## 🤔  can との違いは？
 
 - **could**：丁寧さや控えめなニュアンス、過去の能力・可能性も表す
-- **[can](/word/can/)**：現在の能力や可能性、カジュアルな依頼
+- **[can](/can)**：現在の能力や可能性、カジュアルな依頼
 
 「could」は「can」よりも丁寧で控えめな印象を与え、依頼や提案の際に相手への配慮を示します。
 
@@ -101,14 +105,14 @@ TOEICでは丁寧な依頼や提案、可能性を表す表現として頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [may](/word/may/)：～かもしれない（可能性・許可を表す助動詞）
-- [would](/word/would/)：～だろう、～していただけませんか（丁寧な依頼や仮定）
+- [may](/may)：～かもしれない（可能性・許可を表す助動詞）
+- [would](/would)：～だろう、～していただけませんか（丁寧な依頼や仮定）
 
 ---
 
 ## 📖 できればこれも
 
-- [should](/word/should/)：～すべき、～した方がよい
-- [might](/word/might/)：～かもしれない（mayより控えめな可能性）
+- [should](/should)：～すべき、～した方がよい
+- [might](/might)：～かもしれない（mayより控えめな可能性）
 
-<!-- cvid: aid10_bid37 -->
+<!-- cvid: aid33_bid01 -->

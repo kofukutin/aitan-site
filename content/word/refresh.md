@@ -81,15 +81,19 @@ refreshはITやビジネスの会話で「更新する」「気分転換する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ refreshはITやビジネスの会話で「更新する」「気分転換する�
 ## 🤔  renew との違いは？
 
 - **refresh**：気分や画面などを「新しくする」「元気づける」意味で使う
-- **[renew](/word/renew/)**：契約や有効期限などを「更新する」「延長する」意味で使う
+- **[renew](/renew)**：契約や有効期限などを「更新する」「延長する」意味で使う
 
 refreshは一時的な回復や再読み込みに使い、renewは期間や契約などの正式な更新に使います。
 
@@ -105,14 +109,14 @@ refreshは一時的な回復や再読み込みに使い、renewは期間や契�
 
 ## 🧩 あわせて覚えたい
 
-- [update](/word/update/)：最新の状態にする、更新する
-- [restore](/word/restore/)：元の状態に戻す、回復させる
+- [update](/update)：最新の状態にする、更新する
+- [restore](/restore)：元の状態に戻す、回復させる
 
 ---
 
 ## 📖 できればこれも
 
-- [restart](/word/restart/)：再起動する、再び始める
-- [revise](/word/revise/)：修正する、見直す
+- [restart](/restart)：再起動する、再び始める
+- [revise](/revise)：修正する、見直す
 
-<!-- cvid: aid09_bid47 -->
+<!-- cvid: aid22_bid45 -->

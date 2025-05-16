@@ -81,15 +81,19 @@ TOEICでは、商品説明や広告文、Eメールなどで「vintage」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品説明や広告文、Eメールなどで「vintage」が登�
 ## 🤔  antique との違いは？
 
 - **vintage**：特定の時代の高品質で価値のあるもの、主に20世紀以降のものに使われることが多い
-- **[antique](/word/antique/)**：100年以上前の骨董品や美術品など、より古いものに使われる
+- **[antique](/antique)**：100年以上前の骨董品や美術品など、より古いものに使われる
 
 「vintage」は比較的新しい年代物やファッション、車などに、「antique」はより歴史的価値のある古い物に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、商品説明や広告文、Eメールなどで「vintage」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [retro](/word/retro/)：懐かしい雰囲気の、昔風の
-- [classic](/word/classic/)：古典的な、定番の
+- [retro](/retro)：懐かしい雰囲気の、昔風の
+- [classic](/classic)：古典的な、定番の
 
 ---
 
 ## 📖 できればこれも
 
-- [authentic](/word/authentic/)：本物の、正真正銘の
-- [unique](/word/unique/)：唯一の、独特な
+- [authentic](/authentic)：本物の、正真正銘の
+- [unique](/unique)：唯一の、独特な
 
-<!-- cvid: aid30_bid43 -->
+<!-- cvid: aid41_bid47 -->

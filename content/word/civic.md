@@ -81,15 +81,19 @@ TOEICでは、都市計画や地域社会、公共サービスに関する長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、都市計画や地域社会、公共サービスに関する長文
 ## 🤔  civil との違いは？
 
 - **civic**：市民や都市、自治体に関することを指す
-- **[civil](/word/civil/)**：市民全体や民間、または「礼儀正しい」など幅広い意味を持つ
+- **[civil](/civil)**：市民全体や民間、または「礼儀正しい」など幅広い意味を持つ
 
 「civic」は地域社会や都市の活動に特化した語で、「civil」はより広く「市民の」「民間の」「礼儀正しい」など多様な文脈で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、都市計画や地域社会、公共サービスに関する長文
 
 ## 🧩 あわせて覚えたい
 
-- [municipal](/word/municipal/)：自治体の、都市の
-- [public](/word/public/)：公共の、一般の
+- [municipal](/municipal)：自治体の、都市の
+- [public](/public)：公共の、一般の
 
 ---
 
 ## 📖 できればこれも
 
-- [community](/word/community/)：地域社会、共同体
-- [citizen](/word/citizen/)：市民
+- [community](/community)：地域社会、共同体
+- [citizen](/citizen)：市民
 
-<!-- cvid: aid03_bid24 -->
+<!-- cvid: aid17_bid14 -->

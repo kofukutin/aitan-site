@@ -81,15 +81,19 @@ TOEICではビジネスの売買や取引に関する会話で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの売買や取引に関する会話で頻出します。
 ## 🤔  offer との違いは？
 
 - **sell**：実際に商品やサービスを「売る」ことを指します。
-- **[offer](/word/offer/)**：商品やサービスを「提供する」「申し出る」ことを指します。
+- **[offer](/offer)**：商品やサービスを「提供する」「申し出る」ことを指します。
 
 sellは「売買成立」を強調し、offerは「提案・提示」や「売る前の段階」を表します。
 
@@ -105,14 +109,14 @@ sellは「売買成立」を強調し、offerは「提案・提示」や「売�
 
 ## 🧩 あわせて覚えたい
 
-- [buy](/word/buy/)：買う
-- [promote](/word/promote/)：宣伝する、促進する
+- [buy](/buy)：買う
+- [promote](/promote)：宣伝する、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [purchase](/word/purchase/)：購入する
-- [provide](/word/provide/)：提供する
+- [purchase](/purchase)：購入する
+- [provide](/provide)：提供する
 
-<!-- cvid: aid01_bid30 -->
+<!-- cvid: aid46_bid15 -->

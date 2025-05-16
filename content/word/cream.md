@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cream】の意味・使い方・例文 ― lotionとの違い【TOEIC英単語】"
 description: "creamの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlotionとの違いもわかりやすく学べます。"
 word: "cream"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、食品や医薬品、化粧品の場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、食品や医薬品、化粧品の場
 ## 🤔  lotion との違いは？
 
 - **cream**：乳脂肪や薬・化粧品などの「クリーム状のもの」。やや濃厚で油分が多い。
-- **[lotion](/word/lotion/)**：液体に近い「ローション」。さらっとしていて水分が多い。
+- **[lotion](/lotion)**：液体に近い「ローション」。さらっとしていて水分が多い。
 
 creamは油分が多くしっとりした質感、lotionは水分が多くさっぱりした質感で、保湿や塗布の目的によって使い分けます。
 
@@ -105,14 +109,14 @@ creamは油分が多くしっとりした質感、lotionは水分が多くさっ
 
 ## 🧩 あわせて覚えたい
 
-- [ointment](/word/ointment/)：軟膏（薬用の塗り薬）
-- [butter](/word/butter/)：バター（乳製品）
+- [ointment](/ointment)：軟膏（薬用の塗り薬）
+- [butter](/butter)：バター（乳製品）
 
 ---
 
 ## 📖 できればこれも
 
-- [milk](/word/milk/)：牛乳
-- [cheese](/word/cheese/)：チーズ
+- [milk](/milk)：牛乳
+- [cheese](/cheese)：チーズ
 
-<!-- cvid: aid38_bid06 -->
+<!-- cvid: aid47_bid14 -->

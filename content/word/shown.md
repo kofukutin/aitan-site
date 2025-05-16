@@ -81,15 +81,19 @@ shownは、TOEICの会話や説明文で受動態や完了形の一部として�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ shownは、TOEICの会話や説明文で受動態や完了形の一部として�
 ## 🤔  displayed との違いは？
 
 - **shown**：見せる・示す（一般的な「見せる」動作や結果に幅広く使う）
-- **[displayed](/word/displayed/)**：展示する・表示する（特に「陳列」「画面表示」など目立つ形で見せる）
+- **[displayed](/displayed)**：展示する・表示する（特に「陳列」「画面表示」など目立つ形で見せる）
 
 shownは「見せる」全般に使えますが、displayedは「展示」「ディスプレイ」など、より目立つ形で見せる場合に使います。
 
@@ -105,14 +109,14 @@ shownは「見せる」全般に使えますが、displayedは「展示」「デ
 
 ## 🧩 あわせて覚えたい
 
-- [present](/word/present/)：提示する、発表する
-- [indicate](/word/indicate/)：指し示す、示す
+- [present](/present)：提示する、発表する
+- [indicate](/indicate)：指し示す、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [prove](/word/prove/)：証明する
-- [demonstrate](/word/demonstrate/)：実演する、明示する
+- [prove](/prove)：証明する
+- [demonstrate](/demonstrate)：実演する、明示する
 
-<!-- cvid: aid04_bid18 -->
+<!-- cvid: aid11_bid33 -->

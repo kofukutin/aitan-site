@@ -82,15 +82,19 @@ TOEICでは環境や資源、製品説明の文脈で「virgin materials（未�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは環境や資源、製品説明の文脈で「virgin materials（未�
 ## 🤔  pure との違いは？
 
 - **virgin**：未使用・手つかず・未経験のニュアンスが強い
-- **[pure](/word/pure/)**：混じりけがない、純粋なという意味
+- **[pure](/pure)**：混じりけがない、純粋なという意味
 
 virginは「まだ使われていない」「人の手が入っていない」ことを強調し、pureは「他のものが混ざっていない」ことを表します。
 
@@ -106,14 +110,14 @@ virginは「まだ使われていない」「人の手が入っていない」�
 
 ## 🧩 あわせて覚えたい
 
-- [untouched](/word/untouched/)：手つかずの、未開発の
-- [original](/word/original/)：元の、最初の
+- [untouched](/untouched)：手つかずの、未開発の
+- [original](/original)：元の、最初の
 
 ---
 
 ## 📖 できればこれも
 
-- [raw](/word/raw/)：生の、未加工の
-- [natural](/word/natural/)：自然の、天然の
+- [raw](/raw)：生の、未加工の
+- [natural](/natural)：自然の、天然の
 
-<!-- cvid: aid13_bid23 -->
+<!-- cvid: aid31_bid21 -->

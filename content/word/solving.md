@@ -81,15 +81,19 @@ TOEICでは「solving a problem」や「solving issues」など、問題解決�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「solving a problem」や「solving issues」など、問題解決�
 ## 🤔  resolving との違いは？
 
 - **solving**：問題や課題を「解く」「答えを出す」ことに重点
-- **[resolving](/word/resolving/)**：対立やトラブルなどを「解決して収める」ことに重点
+- **[resolving](/resolving)**：対立やトラブルなどを「解決して収める」ことに重点
 
 solvingは数学やパズルなど「答えを見つける」場面で使い、resolvingは人間関係や紛争など「もめごとを収める」場面で使います。
 
@@ -105,14 +109,14 @@ solvingは数学やパズルなど「答えを見つける」場面で使い、r
 
 ## 🧩 あわせて覚えたい
 
-- [fix](/word/fix/)：修理する、直す
-- [address](/word/address/)：（問題に）対処する
+- [fix](/fix)：修理する、直す
+- [address](/address)：（問題に）対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [improve](/word/improve/)：改善する
+- [analyze](/analyze)：分析する
+- [improve](/improve)：改善する
 
-<!-- cvid: aid09_bid13 -->
+<!-- cvid: aid15_bid14 -->

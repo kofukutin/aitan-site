@@ -81,15 +81,19 @@ TOEICでは「～を意味する」「意図する」の意味で、空所補充
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「～を意味する」「意図する」の意味で、空所補充
 ## 🤔  intend との違いは？
 
 - **mean**：言葉や行動が「何を意味するか」「どんな意図があるか」を表す。
-- **[intend](/word/intend/)**：計画や意志として「～するつもり」「意図する」を表す。
+- **[intend](/intend)**：計画や意志として「～するつもり」「意図する」を表す。
 
 「mean」は言葉や行動の意味や意図を説明する時に使い、「intend」は自分の目的や計画を強調したい時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「～を意味する」「意図する」の意味で、空所補充
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/word/imply/)：暗に示す
-- [signify](/word/signify/)：意味する、表す
+- [imply](/imply)：暗に示す
+- [signify](/signify)：意味する、表す
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/word/suggest/)：提案する、示唆する
-- [indicate](/word/indicate/)：指し示す、示す
+- [suggest](/suggest)：提案する、示唆する
+- [indicate](/indicate)：指し示す、示す
 
-<!-- cvid: aid10_bid21 -->
+<!-- cvid: aid38_bid06 -->

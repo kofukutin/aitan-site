@@ -81,15 +81,19 @@ The hotel offers a beautiful view of the cove.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hotel offers a beautiful view of the cove.
 ## 🤔  bay との違いは？
 
 - **cove**：小さくて奥まった入り江や湾
-- **[bay](/word/bay/)**：より大きく開けた湾
+- **[bay](/bay)**：より大きく開けた湾
 
 coveは小規模で囲まれた印象、bayは広くて開放的な湾を指します。
 
@@ -105,14 +109,14 @@ coveは小規模で囲まれた印象、bayは広くて開放的な湾を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [inlet](/word/inlet/)：入り江、狭い水路
-- [cliff](/word/cliff/)：崖
+- [inlet](/inlet)：入り江、狭い水路
+- [cliff](/cliff)：崖
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/word/coast/)：海岸
-- [beach](/word/beach/)：浜辺
+- [coast](/coast)：海岸
+- [beach](/beach)：浜辺
 
-<!-- cvid: aid28_bid42 -->
+<!-- cvid: aid11_bid49 -->

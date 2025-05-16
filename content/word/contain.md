@@ -81,15 +81,19 @@ TOEICでは「書類や箱が何かを含む」「情報が含まれている」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「書類や箱が何かを含む」「情報が含まれている」
 ## 🤔  include との違いは？
 
 - **contain**：物理的・抽象的に「中に含む」「収容する」ことを強調
-- **[include](/word/include/)**：一部として「含める」「加える」ことを強調
+- **[include](/include)**：一部として「含める」「加える」ことを強調
 
 「contain」は"中身"や"収容"のニュアンスが強く、箱や文書などの中に何かが入っている場合に使います。「include」はリストやグループの一部として加える場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「書類や箱が何かを含む」「情報が含まれている」
 
 ## 🧩 あわせて覚えたい
 
-- [consist](/word/consist/)：成り立つ、構成される
-- [hold](/word/hold/)：保持する、収容する
+- [consist](/consist)：成り立つ、構成される
+- [hold](/hold)：保持する、収容する
 
 ---
 
 ## 📖 できればこれも
 
-- [store](/word/store/)：保存する、蓄える
-- [involve](/word/involve/)：含む、関与させる
+- [store](/store)：保存する、蓄える
+- [involve](/involve)：含む、関与させる
 
-<!-- cvid: aid14_bid38 -->
+<!-- cvid: aid12_bid34 -->

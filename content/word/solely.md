@@ -77,7 +77,7 @@ TOEICでは、主に文法や語彙の選択肢として「only」や「exclusiv
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
@@ -85,7 +85,11 @@ TOEICでは、主に文法や語彙の選択肢として「only」や「exclusiv
 
 <div class="info-center">
 ＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、主に文法や語彙の選択肢として「only」や「exclusiv
 ## 🤔  only との違いは？
 
 - **solely**：よりフォーマルで「それだけに限定して」という強調が強い
-- **[only](/word/only/)**：日常的で「ただ～だけ」という意味だが、強調度はやや弱い
+- **[only](/only)**：日常的で「ただ～だけ」という意味だが、強調度はやや弱い
 
 「solely」はビジネスや公式な場面で限定性を強調したいときに使い、「only」は日常会話など幅広い場面で使われます。
 
@@ -101,14 +105,14 @@ TOEICでは、主に文法や語彙の選択肢として「only」や「exclusiv
 
 ## 🧩 あわせて覚えたい
 
-- [exclusively](/word/exclusively/)：排他的に、限定的に
-- [entirely](/word/entirely/)：完全に、まったく
+- [exclusively](/exclusively)：排他的に、限定的に
+- [entirely](/entirely)：完全に、まったく
 
 ---
 
 ## 📖 できればこれも
 
-- [primarily](/word/primarily/)：主に
-- [mainly](/word/mainly/)：主として
+- [primarily](/primarily)：主に
+- [mainly](/mainly)：主として
 
-<!-- cvid: aid49_bid13 -->
+<!-- cvid: aid33_bid13 -->

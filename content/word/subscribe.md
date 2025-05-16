@@ -81,7 +81,7 @@ TOEICでは主にメールや案内文、ウェブサイトの説明文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+このまま続けよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にメールや案内文、ウェブサイトの説明文などで
 
 <div class="info-center">
 ＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや案内文、ウェブサイトの説明文などで
 ## 🤔  register との違いは？
 
 - **subscribe**：主にサービスや情報の「購読・定期利用」に登録すること
-- **[register](/word/register/)**：イベントやアカウントなどに「登録・記入」すること
+- **[register](/register)**：イベントやアカウントなどに「登録・記入」すること
 
 subscribeは「定期的に受け取る」ニュアンスが強く、registerは「名簿やシステムに名前を記入する」場面で使います。
 
@@ -105,14 +109,14 @@ subscribeは「定期的に受け取る」ニュアンスが強く、registerは
 
 ## 🧩 あわせて覚えたい
 
-- [unsubscribe](/word/unsubscribe/)：購読をやめる
-- [enroll](/word/enroll/)：（学校や講座に）登録する
+- [unsubscribe](/unsubscribe)：購読をやめる
+- [enroll](/enroll)：（学校や講座に）登録する
 
 ---
 
 ## 📖 できればこれも
 
-- [renew](/word/renew/)：更新する
-- [apply](/word/apply/)：申し込む
+- [renew](/renew)：更新する
+- [apply](/apply)：申し込む
 
-<!-- cvid: aid11_bid00 -->
+<!-- cvid: aid00_bid00 -->

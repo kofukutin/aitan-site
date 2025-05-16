@@ -81,15 +81,19 @@ TOEICでは、人物の性格や会社の社会貢献活動などを説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物の性格や会社の社会貢献活動などを説明する
 ## 🤔  kind との違いは？
 
 - **generous**：物やお金、時間などを惜しみなく与える「気前のよさ」「寛大さ」を強調。
-- **[kind](/word/kind/)**：思いやりや親切心を持って接する「やさしさ」を強調。
+- **[kind](/kind)**：思いやりや親切心を持って接する「やさしさ」を強調。
 
 generousは「与える量や行動の大きさ」に焦点があり、kindは「思いやりや態度」に重点があります。
 
@@ -105,14 +109,14 @@ generousは「与える量や行動の大きさ」に焦点があり、kindは�
 
 ## 🧩 あわせて覚えたい
 
-- [stingy](/word/stingy/)：けちな、しみったれた
-- [charitable](/word/charitable/)：慈善的な、寛大な
+- [stingy](/stingy)：けちな、しみったれた
+- [charitable](/charitable)：慈善的な、寛大な
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/word/polite/)：礼儀正しい
-- [thoughtful](/word/thoughtful/)：思いやりのある
+- [polite](/polite)：礼儀正しい
+- [thoughtful](/thoughtful)：思いやりのある
 
-<!-- cvid: aid39_bid32 -->
+<!-- cvid: aid02_bid19 -->

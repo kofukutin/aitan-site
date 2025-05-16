@@ -81,15 +81,19 @@ TOEICではリスニングパートでよく登場し、特に会話の中で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではリスニングパートでよく登場し、特に会話の中で「
 ## 🤔  listen との違いは？
 
 - **hear**：自然に音が耳に入る、意識しなくても「聞こえる」
-- **[listen](/word/listen/)**：意識して注意深く「耳を傾ける」
+- **[listen](/listen)**：意識して注意深く「耳を傾ける」
 
 hearは受動的に音が入る場合、listenは積極的に注意して聞く場合に使います。
 
@@ -105,14 +109,14 @@ hearは受動的に音が入る場合、listenは積極的に注意して聞く�
 
 ## 🧩 あわせて覚えたい
 
-- [overhear](/word/overhear/)：ふと耳にする、偶然聞く
-- [ignore](/word/ignore/)：無視する
+- [overhear](/overhear)：ふと耳にする、偶然聞く
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [see](/word/see/)：見える、目に入る
-- [notice](/word/notice/)：気づく、認識する
+- [see](/see)：見える、目に入る
+- [notice](/notice)：気づく、認識する
 
-<!-- cvid: aid47_bid06 -->
+<!-- cvid: aid32_bid18 -->

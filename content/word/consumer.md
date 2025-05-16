@@ -81,15 +81,19 @@ TOEICでは広告やビジネス文書、アンケート結果などで「consum
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やビジネス文書、アンケート結果などで「consum
 ## 🤔  customer との違いは？
 
 - **consumer**：商品やサービスを実際に使う「消費者」
-- **[customer](/word/customer/)**：商品やサービスを「購入する人」
+- **[customer](/customer)**：商品やサービスを「購入する人」
 
 「consumer」は使う人、「customer」は買う人を指し、両者が一致しない場合もあります（例：親がcustomer、子どもがconsumer）。
 
@@ -105,14 +109,14 @@ TOEICでは広告やビジネス文書、アンケート結果などで「consum
 
 ## 🧩 あわせて覚えたい
 
-- [client](/word/client/)：依頼人、顧客（特にサービス業で使う）
-- [producer](/word/producer/)：生産者、製造者
+- [client](/client)：依頼人、顧客（特にサービス業で使う）
+- [producer](/producer)：生産者、製造者
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給者、納入業者
-- [purchase](/word/purchase/)：購入、買うこと
+- [supplier](/supplier)：供給者、納入業者
+- [purchase](/purchase)：購入、買うこと
 
-<!-- cvid: aid25_bid21 -->
+<!-- cvid: aid24_bid38 -->

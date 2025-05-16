@@ -81,15 +81,19 @@ TOEICでは会議やプレゼン、業務準備などの場面で頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプレゼン、業務準備などの場面で頻出します
 ## 🤔  arrange との違いは？
 
 - **prepare**：何かをするために必要な準備や用意をする
-- **[arrange](/word/arrange/)**：物事をきちんと整える、手配する
+- **[arrange](/arrange)**：物事をきちんと整える、手配する
 
 prepareは「準備する」全般に使い、arrangeは「段取りをつける」「手配する」など、より整理や調整のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ prepareは「準備する」全般に使い、arrangeは「段取りをつける
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan/)：計画する
-- [organize](/word/organize/)：整理する、まとめる
+- [plan](/plan)：計画する
+- [organize](/organize)：整理する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定を立てる
-- [complete](/word/complete/)：完了する
+- [schedule](/schedule)：予定を立てる
+- [complete](/complete)：完了する
 
-<!-- cvid: aid41_bid10 -->
+<!-- cvid: aid46_bid44 -->

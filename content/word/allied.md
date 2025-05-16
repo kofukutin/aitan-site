@@ -81,15 +81,19 @@ TOEICでは、企業や国同士の提携・協力関係を説明する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業や国同士の提携・協力関係を説明する文脈で
 ## 🤔  associated との違いは？
 
 - **allied**：同盟や提携など、目的のために強く結びついた関係を表す
-- **[associated](/word/associated/)**：単に「関連がある」「関係している」という広い意味
+- **[associated](/associated)**：単に「関連がある」「関係している」という広い意味
 
 alliedは「協力・同盟」など積極的な結びつきを強調し、associatedは「関係がある」程度のゆるやかなつながりを表します。
 
@@ -105,13 +109,13 @@ alliedは「協力・同盟」など積極的な結びつきを強調し、assoc
 
 ## 🧩 あわせて覚えたい
 
-- [affiliated](/word/affiliated/)：（組織などが）提携している、関連している
-- [independent](/word/independent/)：独立した、自立した
+- [affiliated](/affiliated)：（組織などが）提携している、関連している
+- [independent](/independent)：独立した、自立した
 
 ---
 
 ## 📖 できればこれも
 
-- [cooperative](/word/cooperative/)：協力的な、協同の
-- [collaborative](/word/collaborative/)：共同の、協力的な
-<!-- cvid: aid45_bid09 -->
+- [cooperative](/cooperative)：協力的な、協同の
+- [collaborative](/collaborative)：共同の、協力的な
+<!-- cvid: aid22_bid33 -->

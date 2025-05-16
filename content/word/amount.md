@@ -81,15 +81,19 @@ TOEICでは、金額や数量、合計を問う文脈で頻出します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、金額や数量、合計を問う文脈で頻出します。特に
 ## 🤔  quantity との違いは？
 
 - **amount**：数えられないものの「量」や「金額」に使う
-- **[quantity](/word/quantity/)**：数えられるものの「数量」に使う
+- **[quantity](/quantity)**：数えられるものの「数量」に使う
 
 amountは水や情報、時間など漠然とした量に、quantityは本や商品など個数がはっきりしたものに使います。
 
@@ -105,14 +109,14 @@ amountは水や情報、時間など漠然とした量に、quantityは本や商
 
 ## 🧩 あわせて覚えたい
 
-- [sum](/word/sum/)：合計、総額
-- [total](/word/total/)：合計、総計
+- [sum](/sum)：合計、総額
+- [total](/total)：合計、総計
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用、コスト
-- [value](/word/value/)：価値、値段
+- [cost](/cost)：費用、コスト
+- [value](/value)：価値、値段
 
-<!-- cvid: aid19_bid46 -->
+<!-- cvid: aid26_bid29 -->

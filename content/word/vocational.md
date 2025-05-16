@@ -81,15 +81,19 @@ TOEICでは、教育や人材育成、研修制度などの文脈で "vocational
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、教育や人材育成、研修制度などの文脈で "vocational
 ## 🤔  occupational との違いは？
 
 - **vocational**：職業訓練や実務スキルの習得に特化した意味
-- **[occupational](/word/occupational/)**：職業全般や仕事に関する幅広い意味
+- **[occupational](/occupational)**：職業全般や仕事に関する幅広い意味
 
 "vocational" は「職業訓練」や「専門技術の習得」に焦点があり、"occupational" は「職業に関する一般的な事柄」や「職業病」など幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、教育や人材育成、研修制度などの文脈で "vocational
 
 ## 🧩 あわせて覚えたい
 
-- [professional](/word/professional/)：専門職の、職業的な
-- [academic](/word/academic/)：学問の、学業の
+- [professional](/professional)：専門職の、職業的な
+- [academic](/academic)：学問の、学業の
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical/)：実践的な、実用的な
-- [technical](/word/technical/)：技術的な、専門的な
+- [practical](/practical)：実践的な、実用的な
+- [technical](/technical)：技術的な、専門的な
 
-<!-- cvid: aid25_bid18 -->
+<!-- cvid: aid48_bid02 -->

@@ -81,15 +81,19 @@ IT関連の説明や指示で「clicking」が使われることが多く、パ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連の説明や指示で「clicking」が使われることが多く、パ�
 ## 🤔  pressing との違いは？
 
 - **clicking**：マウスやボタンを「カチッ」と押す動作や音を表す。
-- **[pressing](/word/pressing/)**：ボタンや物を「押す」動作全般を表し、音や一瞬の動作には限らない。
+- **[pressing](/pressing)**：ボタンや物を「押す」動作全般を表し、音や一瞬の動作には限らない。
 
 clickingは「カチッ」という短い動作や音に焦点があり、pressingは押し続ける動作や力を入れる場面で使います。
 
@@ -105,14 +109,14 @@ clickingは「カチッ」という短い動作や音に焦点があり、pressi
 
 ## 🧩 あわせて覚えたい
 
-- [double click](/word/double_click/)：ダブルクリック（素早く2回クリックすること）
-- [tap](/word/tap/)：（軽く）たたく、スマホ画面をタップする
+- [double click](/double_click)：ダブルクリック（素早く2回クリックすること）
+- [tap](/tap)：（軽く）たたく、スマホ画面をタップする
 
 ---
 
 ## 📖 できればこれも
 
-- [scroll](/word/scroll/)：スクロールする、画面を上下に動かす
-- [select](/word/select/)：選択する
+- [scroll](/scroll)：スクロールする、画面を上下に動かす
+- [select](/select)：選択する
 
-<!-- cvid: aid08_bid47 -->
+<!-- cvid: aid47_bid35 -->

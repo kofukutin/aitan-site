@@ -81,15 +81,19 @@ TOEICでは説明文や手順書、IT関連の長文で「sequence」が使わ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や手順書、IT関連の長文で「sequence」が使わ�
 ## 🤔  series との違いは？
 
 - **sequence**：特定の順序や手順に従って並んでいることを強調
-- **[series](/word/series/)**：順序よりも「一連のもの」「連続したもの」というまとまりを強調
+- **[series](/series)**：順序よりも「一連のもの」「連続したもの」というまとまりを強調
 
 sequenceは「順番」や「手順」が重要な場面で使い、seriesは「関連するものが続く」ことに重点があります。
 
@@ -105,14 +109,14 @@ sequenceは「順番」や「手順」が重要な場面で使い、seriesは「
 
 ## 🧩 あわせて覚えたい
 
-- [order](/word/order/)：順序、秩序
-- [succession](/word/succession/)：連続、継承
+- [order](/order)：順序、秩序
+- [succession](/succession)：連続、継承
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、手順
-- [pattern](/word/pattern/)：パターン、型
+- [process](/process)：過程、手順
+- [pattern](/pattern)：パターン、型
 
-<!-- cvid: aid09_bid40 -->
+<!-- cvid: aid05_bid27 -->

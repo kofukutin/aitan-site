@@ -81,15 +81,19 @@ TOEICでは、設立年や会社紹介の文脈で過去分詞としてよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、設立年や会社紹介の文脈で過去分詞としてよく出
 ## 🤔  established との違いは？
 
 - **founded**：新しく組織や会社などを「設立した」ことを強調
-- **[established](/word/established/)**：制度や関係、伝統などを「確立した」「定着させた」ことを強調
+- **[established](/established)**：制度や関係、伝統などを「確立した」「定着させた」ことを強調
 
 foundedは「ゼロから始めた」ニュアンスが強く、establishedは「安定させた」「しっかり根付かせた」意味合いで使い分けます。
 
@@ -105,14 +109,14 @@ foundedは「ゼロから始めた」ニュアンスが強く、establishedは�
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch/)：開始する、立ち上げる
-- [abolish](/word/abolish/)：廃止する
+- [launch](/launch)：開始する、立ち上げる
+- [abolish](/abolish)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [create](/word/create/)：作り出す
-- [organize](/word/organize/)：組織する、まとめる
+- [create](/create)：作り出す
+- [organize](/organize)：組織する、まとめる
 
-<!-- cvid: aid12_bid28 -->
+<!-- cvid: aid31_bid40 -->

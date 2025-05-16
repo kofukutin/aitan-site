@@ -81,15 +81,19 @@ secはTOEICでは会話文や口語表現でまれに登場しますが、正式
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid19" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid19" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ secはTOEICでは会話文や口語表現でまれに登場しますが、正式
 ## 🤔  moment との違いは？
 
 - **sec**：「秒」や「ほんの少しの時間」を指すカジュアルな略語
-- **[moment](/word/moment/)**：「瞬間」「ちょっとの間」を表すややフォーマルな単語
+- **[moment](/moment)**：「瞬間」「ちょっとの間」を表すややフォーマルな単語
 
 secは「second」の略で、より短く・口語的に「すぐ」を表現しますが、momentは「ある瞬間」や「短い時間」をやや丁寧に表します。
 
@@ -105,14 +109,14 @@ secは「second」の略で、より短く・口語的に「すぐ」を表現�
 
 ## 🧩 あわせて覚えたい
 
-- [minute](/word/minute/)：分（60秒）
-- [instant](/word/instant/)：瞬間、即時
+- [minute](/minute)：分（60秒）
+- [instant](/instant)：瞬間、即時
 
 ---
 
 ## 📖 できればこれも
 
-- [hour](/word/hour/)：時間、1時間
-- [second](/word/second/)：秒（正式な表現）
+- [hour](/hour)：時間、1時間
+- [second](/second)：秒（正式な表現）
 
-<!-- cvid: aid12_bid05 -->
+<!-- cvid: aid43_bid19 -->

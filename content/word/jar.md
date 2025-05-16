@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【jar】の意味・使い方・例文 ― bottleとの違い【TOEIC英単語】"
 description: "jarの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbottleとの違いもわかりやすく学べます。"
 word: "jar"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物の説明や工場・キッチン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物の説明や工場・キッチン
 ## 🤔  bottle との違いは？
 
 - **jar**：口が広く、主に固形物や保存食品を入れる容器
-- **[bottle](/word/bottle/)**：口が狭く、主に液体を入れる容器
+- **[bottle](/bottle)**：口が狭く、主に液体を入れる容器
 
 jarはジャムやピクルスなどの保存に、bottleは水やジュースなどの液体に使われることが多いです。
 
@@ -105,14 +109,14 @@ jarはジャムやピクルスなどの保存に、bottleは水やジュース�
 
 ## 🧩 あわせて覚えたい
 
-- [can](/word/can/)：缶、金属製の容器
-- [container](/word/container/)：容器、入れ物全般
+- [can](/can)：缶、金属製の容器
+- [container](/container)：容器、入れ物全般
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box/)：箱
-- [package](/word/package/)：包装、パッケージ
+- [box](/box)：箱
+- [package](/package)：包装、パッケージ
 
-<!-- cvid: aid01_bid03 -->
+<!-- cvid: aid27_bid14 -->

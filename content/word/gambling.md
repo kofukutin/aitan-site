@@ -81,15 +81,19 @@ TOEICでは、カジノやリスクに関する記事や広告文などで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、カジノやリスクに関する記事や広告文などで登場
 ## 🤔  betting との違いは？
 
 - **gambling**：お金や価値のあるものを賭けて勝負する行為全般を指す。
-- **[betting](/word/betting/)**：特に「賭けること」「賭け金をかける行為」に焦点を当てる。
+- **[betting](/betting)**：特に「賭けること」「賭け金をかける行為」に焦点を当てる。
 
 gamblingは賭博全体を指し、bettingは個々の「賭ける」行為やそのプロセスに注目します。
 
@@ -105,14 +109,14 @@ gamblingは賭博全体を指し、bettingは個々の「賭ける」行為や�
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk/)：リスク、危険
-- [lottery](/word/lottery/)：宝くじ
+- [risk](/risk)：リスク、危険
+- [lottery](/lottery)：宝くじ
 
 ---
 
 ## 📖 できればこれも
 
-- [investment](/word/investment/)：投資
-- [chance](/word/chance/)：機会、可能性
+- [investment](/investment)：投資
+- [chance](/chance)：機会、可能性
 
-<!-- cvid: aid42_bid34 -->
+<!-- cvid: aid25_bid03 -->

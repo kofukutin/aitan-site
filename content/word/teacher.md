@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文やEメール文中で、教育現場や研修�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文やEメール文中で、教育現場や研修�
 ## 🤔  instructor との違いは？
 
 - **teacher**：主に学校や塾などで生徒に幅広い知識や技能を教える人
-- **[instructor](/word/instructor/)**：特定の技能や実技を指導する人
+- **[instructor](/instructor)**：特定の技能や実技を指導する人
 
 teacherは一般的な「先生」で、instructorはスポーツや運転など専門的な指導者に使われることが多いです。
 
@@ -105,14 +109,14 @@ teacherは一般的な「先生」で、instructorはスポーツや運転など
 
 ## 🧩 あわせて覚えたい
 
-- [student](/word/student/)：生徒、学生
-- [professor](/word/professor/)：大学教授
+- [student](/student)：生徒、学生
+- [professor](/professor)：大学教授
 
 ---
 
 ## 📖 できればこれも
 
-- [lesson](/word/lesson/)：授業、レッスン
-- [classroom](/word/classroom/)：教室
+- [lesson](/lesson)：授業、レッスン
+- [classroom](/classroom)：教室
 
-<!-- cvid: aid21_bid05 -->
+<!-- cvid: aid09_bid36 -->

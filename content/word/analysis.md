@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やレポート、メールの中で「分析結
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やレポート、メールの中で「分析結
 ## 🤔  examination との違いは？
 
 - **analysis**：物事を細かく分解して本質や原因を明らかにする「分析」。
-- **[examination](/word/examination/)**：物事を詳しく調べる「検査」「調査」。
+- **[examination](/examination)**：物事を詳しく調べる「検査」「調査」。
 
 analysisは「分解して深く考察する」ニュアンスが強く、examinationは「全体を詳しく調べる」イメージです。
 
@@ -105,14 +109,14 @@ analysisは「分解して深く考察する」ニュアンスが強く、examin
 
 ## 🧩 あわせて覚えたい
 
-- [synthesis](/word/synthesis/)：統合、総合
-- [assessment](/word/assessment/)：評価、査定
+- [synthesis](/synthesis)：統合、総合
+- [assessment](/assessment)：評価、査定
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report/)：報告書、レポート
-- [research](/word/research/)：研究、調査
+- [report](/report)：報告書、レポート
+- [research](/research)：研究、調査
 
-<!-- cvid: aid34_bid19 -->
+<!-- cvid: aid37_bid37 -->

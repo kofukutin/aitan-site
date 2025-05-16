@@ -81,15 +81,19 @@ TOEICでは、可算名詞と不可算名詞の区別を問う文法問題で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid00_bid42" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid42" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、可算名詞と不可算名詞の区別を問う文法問題で頻
 ## 🤔  much との違いは？
 
 - **many**：数えられる名詞（複数形）に使い、「たくさんの」という意味。
-- **[much](/word/much/)**：数えられない名詞（不可算名詞）に使い、「たくさんの」という意味。
+- **[much](/much)**：数えられない名詞（不可算名詞）に使い、「たくさんの」という意味。
 
 manyは「本・人」など数えられるもの、muchは「水・時間」など数えられないものに使います。
 
@@ -105,14 +109,14 @@ manyは「本・人」など数えられるもの、muchは「水・時間」な
 
 ## 🧩 あわせて覚えたい
 
-- [several](/word/several/)：いくつかの（3つ以上の少数を表す）
-- [few](/word/few/)：ほとんどない、少ししかない（可算名詞に使う）
+- [several](/several)：いくつかの（3つ以上の少数を表す）
+- [few](/few)：ほとんどない、少ししかない（可算名詞に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [some](/word/some/)：いくつかの、いくらかの
-- [any](/word/any/)：どれでも、いくらかの
+- [some](/some)：いくつかの、いくらかの
+- [any](/any)：どれでも、いくらかの
 
-<!-- cvid: aid22_bid44 -->
+<!-- cvid: aid00_bid42 -->

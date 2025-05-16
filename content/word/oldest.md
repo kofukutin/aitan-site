@@ -81,15 +81,19 @@ oldestは比較級・最上級の文法問題や、年齢・歴史に関する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ oldestは比較級・最上級の文法問題や、年齢・歴史に関する�
 ## 🤔  eldest との違いは？
 
 - **oldest**：最も古い、最年長の（一般的な最上級表現。人・物どちらにも使える）
-- **[eldest](/word/eldest/)**：最年長の（特に家族や兄弟姉妹の中で使われるフォーマルな表現）
+- **[eldest](/eldest)**：最年長の（特に家族や兄弟姉妹の中で使われるフォーマルな表現）
 
 oldestは人にも物にも幅広く使えますが、eldestは主に家族内の最年長者を指すときに使われ、ややフォーマルです。
 
@@ -105,14 +109,14 @@ oldestは人にも物にも幅広く使えますが、eldestは主に家族内�
 
 ## 🧩 あわせて覚えたい
 
-- [ancient](/word/ancient/)：非常に古い
-- [youngest](/word/youngest/)：最も若い、最年少の
+- [ancient](/ancient)：非常に古い
+- [youngest](/youngest)：最も若い、最年少の
 
 ---
 
 ## 📖 できればこれも
 
-- [older](/word/older/)：より年上の、より古い
-- [younger](/word/younger/)：より若い、年下の
+- [older](/older)：より年上の、より古い
+- [younger](/younger)：より若い、年下の
 
-<!-- cvid: aid41_bid46 -->
+<!-- cvid: aid21_bid17 -->

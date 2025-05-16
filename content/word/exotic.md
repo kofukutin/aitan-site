@@ -81,15 +81,19 @@ TOEICでは観光やレストラン、商品紹介などの長文で「珍しい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やレストラン、商品紹介などの長文で「珍しい
 ## 🤔  foreign との違いは？
 
 - **exotic**：異国的で珍しく、魅力的なニュアンスがある
-- **[foreign](/word/foreign/)**：単に「外国の」「自国でない」という意味
+- **[foreign](/foreign)**：単に「外国の」「自国でない」という意味
 
 exoticは「珍しさ」や「魅力」を含みますが、foreignは単に「外国の」という事実を表します。
 
@@ -105,15 +109,15 @@ exoticは「珍しさ」や「魅力」を含みますが、foreignは単に「�
 
 ## 🧩 あわせて覚えたい
 
-- [unusual](/word/unusual/)：珍しい、普通でない
-- [native](/word/native/)：その土地の、土着の
+- [unusual](/unusual)：珍しい、普通でない
+- [native](/native)：その土地の、土着の
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique/)：唯一の、独特な
-- [tropical](/word/tropical/)：熱帯の
+- [unique](/unique)：唯一の、独特な
+- [tropical](/tropical)：熱帯の
 
 ---
-<!-- cvid: aid07_bid37 -->
+<!-- cvid: aid42_bid25 -->

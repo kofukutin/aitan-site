@@ -82,15 +82,19 @@ walkはTOEIC Part 1の写真描写問題でよく登場し、「歩いている�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid06" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid06" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ walkはTOEIC Part 1の写真描写問題でよく登場し、「歩いている�
 ## 🤔  stroll との違いは？
 
 - **walk**：目的地に向かって普通に歩く、移動手段としての「歩く」
-- **[stroll](/word/stroll/)**：ゆっくりぶらぶら歩く、散歩する
+- **[stroll](/stroll)**：ゆっくりぶらぶら歩く、散歩する
 
 walkは「歩く」という基本的な動作全般を指し、strollは「のんびり歩く」「ぶらぶらする」といったリラックスしたニュアンスがあります。
 
@@ -106,14 +110,14 @@ walkは「歩く」という基本的な動作全般を指し、strollは「の�
 
 ## 🧩 あわせて覚えたい
 
-- [run](/word/run/)：走る
-- [march](/word/march/)：行進する
+- [run](/run)：走る
+- [march](/march)：行進する
 
 ---
 
 ## 📖 できればこれも
 
-- [stand](/word/stand/)：立つ
-- [move](/word/move/)：動く
+- [stand](/stand)：立つ
+- [move](/move)：動く
 
-<!-- cvid: aid20_bid36 -->
+<!-- cvid: aid26_bid06 -->

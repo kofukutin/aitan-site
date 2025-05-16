@@ -81,15 +81,19 @@ TOEICでは、会話の流れや出来事の説明でよく出題されます。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話の流れや出来事の説明でよく出題されます。
 ## 🤔  occurred との違いは？
 
 - **happened**：日常的な出来事や偶然の出来事に幅広く使うカジュアルな表現
-- **[occurred](/word/occurred/)**：ややフォーマルで、特に出来事や事件が「発生した」ときに使う
+- **[occurred](/occurred)**：ややフォーマルで、特に出来事や事件が「発生した」ときに使う
 
 happenedは日常会話でよく使われ、occurredはビジネスやニュースなどフォーマルな場面で使われやすいです。
 
@@ -105,14 +109,14 @@ happenedは日常会話でよく使われ、occurredはビジネスやニュー�
 
 ## 🧩 あわせて覚えたい
 
-- [take place](/word/take_place/)：（予定されたことが）行われる
-- [arise](/word/arise/)：（問題・状況などが）生じる
+- [take place](/take_place)：（予定されたことが）行われる
+- [arise](/arise)：（問題・状況などが）生じる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear/)：現れる
-- [become](/word/become/)：～になる
+- [appear](/appear)：現れる
+- [become](/become)：～になる
 
-<!-- cvid: aid33_bid14 -->
+<!-- cvid: aid21_bid38 -->

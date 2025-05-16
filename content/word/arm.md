@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【arm】の意味・使い方・例文 ― handとの違い【TOEIC英単語】"
 description: "armの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhandとの違いもわかりやすく学べます。"
 word: "arm"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で「腕を上げる」「腕に何かを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で「腕を上げる」「腕に何かを
 ## 🤔  hand との違いは？
 
 - **arm**：肩から手首までの「腕」全体を指す
-- **[hand](/word/hand/)**：手首から先の「手」を指す
+- **[hand](/hand)**：手首から先の「手」を指す
 
 armは「腕」全体、handは「手」の部分だけを指すので、動作や部位を正確に区別して使います。
 
@@ -105,14 +109,14 @@ armは「腕」全体、handは「手」の部分だけを指すので、動作�
 
 ## 🧩 あわせて覚えたい
 
-- [leg](/word/leg/)：脚
-- [shoulder](/word/shoulder/)：肩
+- [leg](/leg)：脚
+- [shoulder](/shoulder)：肩
 
 ---
 
 ## 📖 できればこれも
 
-- [foot](/word/foot/)：足
-- [head](/word/head/)：頭
+- [foot](/foot)：足
+- [head](/head)：頭
 
-<!-- cvid: aid25_bid47 -->
+<!-- cvid: aid46_bid30 -->

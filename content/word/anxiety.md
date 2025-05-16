@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、健康や職場環境、メンタル
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、健康や職場環境、メンタル
 ## 🤔  concern との違いは？
 
 - **anxiety**：将来への強い不安や緊張、心配を表す
-- **[concern](/word/concern/)**：比較的穏やかな心配や気がかり
+- **[concern](/concern)**：比較的穏やかな心配や気がかり
 
 anxietyは感情的に強い不安や緊張を指し、concernはもう少し冷静で一般的な心配を表します。
 
@@ -105,14 +109,14 @@ anxietyは感情的に強い不安や緊張を指し、concernはもう少し冷
 
 ## 🧩 あわせて覚えたい
 
-- [worry](/word/worry/)：心配、悩み
-- [relief](/word/relief/)：安心、安堵
+- [worry](/worry)：心配、悩み
+- [relief](/relief)：安心、安堵
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress/)：ストレス、緊張
-- [fear](/word/fear/)：恐れ、不安
+- [stress](/stress)：ストレス、緊張
+- [fear](/fear)：恐れ、不安
 
-<!-- cvid: aid02_bid10 -->
+<!-- cvid: aid21_bid42 -->

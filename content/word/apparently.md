@@ -77,15 +77,19 @@ TOEICのPart 7で、推測や伝聞を表す文脈でよく登場します。メ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICのPart 7で、推測や伝聞を表す文脈でよく登場します。メ
 ## 🤔  obviously との違いは？
 
 - **apparently**：見た目や情報から「どうやら～らしい」と推測する時に使う
-- **[obviously](/word/obviously/)**：誰が見ても明らかな事実や状況に使う
+- **[obviously](/obviously)**：誰が見ても明らかな事実や状況に使う
 
 apparentlyは「確実ではないが、見たところそう思える」時に使い、obviouslyは「疑いなく明らか」な時に使います。
 
@@ -101,14 +105,14 @@ apparentlyは「確実ではないが、見たところそう思える」時に�
 
 ## 🧩 あわせて覚えたい
 
-- [seemingly](/word/seemingly/)：一見したところ、外見上は
-- [evidently](/word/evidently/)：明らかに、どうやら
+- [seemingly](/seemingly)：一見したところ、外見上は
+- [evidently](/evidently)：明らかに、どうやら
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/word/probably/)：おそらく
-- [clearly](/word/clearly/)：はっきりと
+- [probably](/probably)：おそらく
+- [clearly](/clearly)：はっきりと
 
-<!-- cvid: aid29_bid10 -->
+<!-- cvid: aid15_bid36 -->

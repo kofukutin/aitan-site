@@ -81,15 +81,19 @@ TOEICでは「年齢」や「時代」を問う文脈でよく出題されます
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「年齢」や「時代」を問う文脈でよく出題されます
 ## 🤔  era との違いは？
 
 - **age**：人や物の年齢、または歴史上の時代を表す
-- **[era](/word/era/)**：特徴的な出来事や人物によって区切られる「時代」
+- **[era](/era)**：特徴的な出来事や人物によって区切られる「時代」
 
 「age」は個人の年齢や広い意味での時代を指し、「era」は歴史的・社会的に特徴づけられる特定の時代を強調します。
 
@@ -105,13 +109,13 @@ TOEICでは「年齢」や「時代」を問う文脈でよく出題されます
 
 ## 🧩 あわせて覚えたい
 
-- [generation](/word/generation/)：世代
-- [period](/word/period/)：期間、時期
+- [generation](/generation)：世代
+- [period](/period)：期間、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [date](/word/date/)：日付
-- [stage](/word/stage/)：段階、舞台
-<!-- cvid: aid14_bid02 -->
+- [date](/date)：日付
+- [stage](/stage)：段階、舞台
+<!-- cvid: aid46_bid46 -->

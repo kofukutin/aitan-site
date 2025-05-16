@@ -81,15 +81,19 @@ TOEICでは「反映する」「熟考する」の意味で、文脈に合う動
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「反映する」「熟考する」の意味で、文脈に合う動
 ## 🤔  consider との違いは？
 
 - **reflect**：じっくり振り返って考える、または何かを映し出す
-- **[consider](/word/consider/)**：何かを検討・考慮する
+- **[consider](/consider)**：何かを検討・考慮する
 
 reflectは「過去の出来事や自分の行動を深く振り返る」ニュアンスが強く、considerは「選択肢や提案などを検討する」場面で使います。
 
@@ -105,14 +109,14 @@ reflectは「過去の出来事や自分の行動を深く振り返る」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [mirror](/word/mirror/)：鏡、映す
-- [ponder](/word/ponder/)：熟考する
+- [mirror](/mirror)：鏡、映す
+- [ponder](/ponder)：熟考する
 
 ---
 
 ## 📖 できればこれも
 
-- [indicate](/word/indicate/)：示す、指し示す
-- [review](/word/review/)：見直す、再検討する
+- [indicate](/indicate)：示す、指し示す
+- [review](/review)：見直す、再検討する
 
-<!-- cvid: aid15_bid00 -->
+<!-- cvid: aid48_bid44 -->

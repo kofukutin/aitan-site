@@ -81,15 +81,19 @@ TOEICでは「operating cost（運営費）」や「operating system（オペレ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「operating cost（運営費）」や「operating system（オペレ
 ## 🤔  operational との違いは？
 
 - **operating**：実際に動作・運用している状態や、その過程に関する意味が強い
-- **[operational](/word/operational/)**：機能している、稼働可能な、運用上の（より抽象的・広範囲）
+- **[operational](/operational)**：機能している、稼働可能な、運用上の（より抽象的・広範囲）
 
 operatingは「今まさに動いている・運用している」ことを強調し、operationalは「機能する状態にある」「運用可能」というやや抽象的な意味で使い分けます。
 
@@ -105,14 +109,14 @@ operatingは「今まさに動いている・運用している」ことを強�
 
 ## 🧩 あわせて覚えたい
 
-- [functioning](/word/functioning/)：機能している
-- [maintenance](/word/maintenance/)：保守、メンテナンス
+- [functioning](/functioning)：機能している
+- [maintenance](/maintenance)：保守、メンテナンス
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure/)：手順、手続き
-- [install](/word/install/)：設置する、インストールする
+- [procedure](/procedure)：手順、手続き
+- [install](/install)：設置する、インストールする
 
-<!-- cvid: aid01_bid23 -->
+<!-- cvid: aid25_bid24 -->

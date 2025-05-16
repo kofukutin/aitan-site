@@ -81,15 +81,19 @@ TOEICでは、環境やインフラ、建設関連の記事や説明文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境やインフラ、建設関連の記事や説明文で登場
 ## 🤔  asphalt との違いは？
 
 - **tar**：石炭や木材から作られる黒い粘着性の液体で、道路や防水に使われる。
-- **[asphalt](/word/asphalt/)**：主に石油から作られる舗装用の黒い物質で、現代の道路舗装で一般的。
+- **[asphalt](/asphalt)**：主に石油から作られる舗装用の黒い物質で、現代の道路舗装で一般的。
 
 tarは伝統的な素材で、asphaltは現代の道路舗装で主流です。用途は似ていますが、原料や使われ方に違いがあります。
 
@@ -105,14 +109,14 @@ tarは伝統的な素材で、asphaltは現代の道路舗装で主流です。�
 
 ## 🧩 あわせて覚えたい
 
-- [pitch](/word/pitch/)：タールに似た黒い粘着性物質
-- [resin](/word/resin/)：樹脂、植物や合成の粘着性物質
+- [pitch](/pitch)：タールに似た黒い粘着性物質
+- [resin](/resin)：樹脂、植物や合成の粘着性物質
 
 ---
 
 ## 📖 できればこれも
 
-- [coal](/word/coal/)：石炭
-- [oil](/word/oil/)：油、石油
+- [coal](/coal)：石炭
+- [oil](/oil)：油、石油
 
-<!-- cvid: aid21_bid23 -->
+<!-- cvid: aid13_bid45 -->

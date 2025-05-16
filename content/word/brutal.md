@@ -81,15 +81,19 @@ TOEICでは、厳しい状況や容赦ない評価などを説明する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、厳しい状況や容赦ない評価などを説明する文脈で
 ## 🤔  cruel との違いは？
 
 - **brutal**：物理的・精神的に極めて過酷で容赦ない様子を強調する。
-- **[cruel](/word/cruel/)**：他人に苦痛を与えることを楽しむ、意図的な残酷さを表す。
+- **[cruel](/cruel)**：他人に苦痛を与えることを楽しむ、意図的な残酷さを表す。
 
 brutalは状況や行動の激しさ・過酷さに重点があり、cruelは「意図的な悪意」を含む点が異なります。
 
@@ -105,14 +109,14 @@ brutalは状況や行動の激しさ・過酷さに重点があり、cruelは「
 
 ## 🧩 あわせて覚えたい
 
-- [harsh](/word/harsh/)：厳しい、過酷な
-- [gentle](/word/gentle/)：優しい、穏やかな
+- [harsh](/harsh)：厳しい、過酷な
+- [gentle](/gentle)：優しい、穏やかな
 
 ---
 
 ## 📖 できればこれも
 
-- [severe](/word/severe/)：深刻な、厳しい
-- [tough](/word/tough/)：困難な、たくましい
+- [severe](/severe)：深刻な、厳しい
+- [tough](/tough)：困難な、たくましい
 
-<!-- cvid: aid47_bid00 -->
+<!-- cvid: aid13_bid08 -->

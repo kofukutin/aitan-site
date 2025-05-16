@@ -81,15 +81,19 @@ TOEICでは、契約書や規則、組織の説明文などで「governing body�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や規則、組織の説明文などで「governing body�
 ## 🤔  controlling との違いは？
 
 - **governing**：組織や制度などを公式に統治・管理するニュアンス
-- **[controlling](/word/controlling/)**：より広く「制御する」「管理する」意味で、公式性は問わない
+- **[controlling](/controlling)**：より広く「制御する」「管理する」意味で、公式性は問わない
 
 「governing」は法律や組織などの公式な枠組みで使われることが多く、「controlling」は日常的な管理や制御にも使えます。
 
@@ -105,14 +109,14 @@ TOEICでは、契約書や規則、組織の説明文などで「governing body�
 
 ## 🧩 あわせて覚えたい
 
-- [regulating](/word/regulating/)：規制する、調整する
-- [administrative](/word/administrative/)：管理の、行政の
+- [regulating](/regulating)：規制する、調整する
+- [administrative](/administrative)：管理の、行政の
 
 ---
 
 ## 📖 できればこれも
 
-- [legislative](/word/legislative/)：立法の
-- [executive](/word/executive/)：執行の、経営の
+- [legislative](/legislative)：立法の
+- [executive](/executive)：執行の、経営の
 
-<!-- cvid: aid24_bid34 -->
+<!-- cvid: aid48_bid28 -->

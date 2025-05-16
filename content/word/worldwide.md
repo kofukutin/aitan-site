@@ -81,7 +81,7 @@ TOEICでは広告や会社紹介、製品説明などで「世界的に」「世
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+感覚があるうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは広告や会社紹介、製品説明などで「世界的に」「世
 
 <div class="info-center">
 ＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告や会社紹介、製品説明などで「世界的に」「世
 ## 🤔  global との違いは？
 
 - **worldwide**：世界中に広がっている、または世界のあらゆる場所で
-- **[global](/word/global/)**：地球規模の、全世界に関わる
+- **[global](/global)**：地球規模の、全世界に関わる
 
 「worldwide」は「世界のどこでも」という広がりを強調し、「global」は「地球全体」や「全体的な規模・影響」を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは広告や会社紹介、製品説明などで「世界的に」「世
 
 ## 🧩 あわせて覚えたい
 
-- [international](/word/international/)：国際的な
-- [domestic](/word/domestic/)：国内の
+- [international](/international)：国際的な
+- [domestic](/domestic)：国内の
 
 ---
 
 ## 📖 できればこれも
 
-- [nationwide](/word/nationwide/)：全国的な
-- [regional](/word/regional/)：地域の
+- [nationwide](/nationwide)：全国的な
+- [regional](/regional)：地域の
 
-<!-- cvid: aid33_bid25 -->
+<!-- cvid: aid25_bid25 -->

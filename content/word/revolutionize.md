@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「革新的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「革新的
 ## 🤔  innovate との違いは？
 
 - **revolutionize**：既存の仕組みや状況を根本から一変させるほど大きく変える
-- **[innovate](/word/innovate/)**：新しいアイデアや方法を導入して改善・革新する
+- **[innovate](/innovate)**：新しいアイデアや方法を導入して改善・革新する
 
 「revolutionize」は「劇的な変化」「革命的な変化」を強調し、「innovate」は「新しいものを生み出す」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「革新的
 
 ## 🧩 あわせて覚えたい
 
-- [transform](/word/transform/)：変形させる、変える
-- [modernize](/word/modernize/)：近代化する、現代的にする
+- [transform](/transform)：変形させる、変える
+- [modernize](/modernize)：近代化する、現代的にする
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement/)：実行する、導入する
-- [improve](/word/improve/)：改善する、向上させる
+- [implement](/implement)：実行する、導入する
+- [improve](/improve)：改善する、向上させる
 
-<!-- cvid: aid19_bid46 -->
+<!-- cvid: aid28_bid11 -->

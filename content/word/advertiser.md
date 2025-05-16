@@ -81,15 +81,19 @@ TOEICでは広告文やビジネスメールの中で頻出し、広告主とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告文やビジネスメールの中で頻出し、広告主とし
 ## 🤔  sponsor との違いは？
 
 - **advertiser**：広告を出す人・企業（広告主）を指す
-- **[sponsor](/word/sponsor/)**：スポンサー、資金提供者や後援者を指す
+- **[sponsor](/sponsor)**：スポンサー、資金提供者や後援者を指す
 
 advertiserは広告掲載の対価を支払う「広告主」、sponsorはイベントや番組などに資金提供する「スポンサー」で、目的や関わり方が異なります。
 
@@ -105,14 +109,14 @@ advertiserは広告掲載の対価を支払う「広告主」、sponsorはイベ
 
 ## 🧩 あわせて覚えたい
 
-- [client](/word/client/)：顧客、取引先
-- [publisher](/word/publisher/)：出版社、発行者
+- [client](/client)：顧客、取引先
+- [publisher](/publisher)：出版社、発行者
 
 ---
 
 ## 📖 できればこれも
 
-- [advertisement](/word/advertisement/)：広告（名詞）
-- [agency](/word/agency/)：代理店、仲介業者
+- [advertisement](/advertisement)：広告（名詞）
+- [agency](/agency)：代理店、仲介業者
 
-<!-- cvid: aid39_bid14 -->
+<!-- cvid: aid48_bid35 -->

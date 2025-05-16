@@ -81,15 +81,19 @@ TOEICでは「be opposed to ～」の形で頻出し、反対の立場や意見�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be opposed to ～」の形で頻出し、反対の立場や意見�
 ## 🤔  against との違いは？
 
 - **opposed**：意見や立場として「反対している」ことを強調する形容詞
-- **[against](/word/against/)**：物理的・抽象的に「～に対して」「～に反して」という広い意味の前置詞
+- **[against](/against)**：物理的・抽象的に「～に対して」「～に反して」という広い意味の前置詞
 
 **opposed**は主に意見や立場の対立を表し、「be opposed to ～」の形で使われます。**against**はより広く使われ、物理的な接触や抽象的な反対など幅広い意味を持ちます。
 
@@ -105,14 +109,14 @@ TOEICでは「be opposed to ～」の形で頻出し、反対の立場や意見�
 
 ## 🧩 あわせて覚えたい
 
-- [resistant](/word/resistant/)：抵抗する、耐性がある
-- [supportive](/word/supportive/)：支持する、支援的な
+- [resistant](/resistant)：抵抗する、耐性がある
+- [supportive](/supportive)：支持する、支援的な
 
 ---
 
 ## 📖 できればこれも
 
-- [contrary](/word/contrary/)：反対の、逆の
-- [approve](/word/approve/)：賛成する、承認する
+- [contrary](/contrary)：反対の、逆の
+- [approve](/approve)：賛成する、承認する
 
-<!-- cvid: aid35_bid32 -->
+<!-- cvid: aid49_bid05 -->

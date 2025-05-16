@@ -81,15 +81,19 @@ TOEICでは交通や移動、IT関連の会話でよく登場します。特に�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは交通や移動、IT関連の会話でよく登場します。特に�
 ## 🤔  operator との違いは？
 
 - **driver**：車やバスなどの運転手、またはIT分野の制御ソフト
-- **[operator](/word/operator/)**：機械や装置を操作する人、電話交換手
+- **[operator](/operator)**：機械や装置を操作する人、電話交換手
 
 driverは主に「乗り物の運転手」を指し、operatorは「機械や装置を操作する人」全般を指します。
 
@@ -105,14 +109,14 @@ driverは主に「乗り物の運転手」を指し、operatorは「機械や装
 
 ## 🧩 あわせて覚えたい
 
-- [passenger](/word/passenger/)：乗客
-- [conductor](/word/conductor/)：車掌
+- [passenger](/passenger)：乗客
+- [conductor](/conductor)：車掌
 
 ---
 
 ## 📖 できればこれも
 
-- [vehicle](/word/vehicle/)：車両、乗り物
-- [license](/word/license/)：免許、許可証
+- [vehicle](/vehicle)：車両、乗り物
+- [license](/license)：免許、許可証
 
-<!-- cvid: aid36_bid00 -->
+<!-- cvid: aid49_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクトの説明場面でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクトの説明場面でよく登場します。
 ## 🤔  meeting との違いは？
 
 - **briefing**：短時間で要点や指示を伝える「事前説明」や「打ち合わせ」
-- **[meeting](/word/meeting/)**：議論や情報共有など幅広い目的の「会議」
+- **[meeting](/meeting)**：議論や情報共有など幅広い目的の「会議」
 
 briefingは主に「情報伝達」や「指示」に特化し、meetingは意見交換や議論も含む点が異なります。
 
@@ -105,14 +109,14 @@ briefingは主に「情報伝達」や「指示」に特化し、meetingは意�
 
 ## 🧩 あわせて覚えたい
 
-- [presentation](/word/presentation/)：発表、プレゼンテーション
-- [report](/word/report/)：報告、レポート
+- [presentation](/presentation)：発表、プレゼンテーション
+- [report](/report)：報告、レポート
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約、まとめ
-- [session](/word/session/)：集まり、セッション
+- [summary](/summary)：要約、まとめ
+- [session](/session)：集まり、セッション
 
-<!-- cvid: aid08_bid24 -->
+<!-- cvid: aid13_bid22 -->

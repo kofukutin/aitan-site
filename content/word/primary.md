@@ -81,15 +81,19 @@ TOEICでは「primary reason（主な理由）」や「primary objective（主�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「primary reason（主な理由）」や「primary objective（主�
 ## 🤔  main との違いは？
 
 - **primary**：最も重要・根本的・第一の
-- **[main](/word/main/)**：主な、中心となる
+- **[main](/main)**：主な、中心となる
 
 「primary」は「最初」「最重要」「根本的」といったニュアンスが強く、順位や優先度を強調します。「main」は単に「主な」「中心の」という意味で、primaryほど順位や根本性を強調しません。
 
@@ -105,14 +109,14 @@ TOEICでは「primary reason（主な理由）」や「primary objective（主�
 
 ## 🧩 あわせて覚えたい
 
-- [principal](/word/principal/)：主要な、最も重要な
-- [secondary](/word/secondary/)：二次的な、補助的な
+- [principal](/principal)：主要な、最も重要な
+- [secondary](/secondary)：二次的な、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [major](/word/major/)：主要な、重要な
-- [essential](/word/essential/)：不可欠な、本質的な
+- [major](/major)：主要な、重要な
+- [essential](/essential)：不可欠な、本質的な
 
-<!-- cvid: aid40_bid05 -->
+<!-- cvid: aid06_bid03 -->

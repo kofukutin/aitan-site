@@ -88,8 +88,12 @@ TOEICでは会話やプレゼンの場面で「新しい人や製品を紹介す
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やプレゼンの場面で「新しい人や製品を紹介す
 ## 🤔  presenting との違いは？
 
 - **introducing**：新しい人や物事を初めて場に出す・紹介する
-- **[presenting](/word/presenting/)**：情報や物事を正式に提示・発表する
+- **[presenting](/presenting)**：情報や物事を正式に提示・発表する
 
 introducingは「初めて紹介する」ニュアンスが強く、presentingは「詳しく説明・発表する」場面で使います。
 
@@ -105,14 +109,14 @@ introducingは「初めて紹介する」ニュアンスが強く、presenting�
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce/)：発表する、告知する
-- [recommend](/word/recommend/)：推薦する、勧める
+- [announce](/announce)：発表する、告知する
+- [recommend](/recommend)：推薦する、勧める
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain/)：説明する
-- [suggest](/word/suggest/)：提案する
+- [explain](/explain)：説明する
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid18_bid16 -->
+<!-- cvid: aid18_bid03 -->

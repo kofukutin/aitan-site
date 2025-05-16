@@ -81,15 +81,19 @@ TOEICでは主にPart 5の文法・語彙問題で、動詞の適切な形や意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の文法・語彙問題で、動詞の適切な形や意
 ## 🤔  assessing との違いは？
 
 - **evaluating**：基準や目的に沿って、価値や有用性を客観的に判断する。
-- **[assessing](/word/assessing/)**：状況や能力などを幅広く評価・査定する。
+- **[assessing](/assessing)**：状況や能力などを幅広く評価・査定する。
 
 evaluatingは「価値や有用性」に重点を置き、assessingは「全体的な状態や程度」を測るニュアンスがあります。
 
@@ -105,14 +109,14 @@ evaluatingは「価値や有用性」に重点を置き、assessingは「全体�
 
 ## 🧩 あわせて覚えたい
 
-- [judge](/word/judge/)：判断する、裁く
-- [estimate](/word/estimate/)：見積もる、推定する
+- [judge](/judge)：判断する、裁く
+- [estimate](/estimate)：見積もる、推定する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [review](/word/review/)：見直す、再検討する
+- [analyze](/analyze)：分析する
+- [review](/review)：見直す、再検討する
 
-<!-- cvid: aid17_bid06 -->
+<!-- cvid: aid45_bid28 -->

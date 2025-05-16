@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、旅行・買い物の場面で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、旅行・買い物の場面で登場
 ## 🤔  lingerie との違いは？
 
 - **underwear**：男女問わず使える「下着」全般を指す一般的な表現
-- **[lingerie](/word/lingerie/)**：主に女性用の装飾的な下着を指す
+- **[lingerie](/lingerie)**：主に女性用の装飾的な下着を指す
 
 underwearは日常的な下着全般、lingerieは女性用でデザイン性の高い下着に限定されます。
 
@@ -105,14 +109,14 @@ underwearは日常的な下着全般、lingerieは女性用でデザイン性の
 
 ## 🧩 あわせて覚えたい
 
-- [clothing](/word/clothing/)：衣類、服
-- [outfit](/word/outfit/)：服装、コーディネート
+- [clothing](/clothing)：衣類、服
+- [outfit](/outfit)：服装、コーディネート
 
 ---
 
 ## 📖 できればこれも
 
-- [sock](/word/sock/)：靴下
-- [shirt](/word/shirt/)：シャツ
+- [sock](/sock)：靴下
+- [shirt](/shirt)：シャツ
 
-<!-- cvid: aid30_bid27 -->
+<!-- cvid: aid03_bid13 -->

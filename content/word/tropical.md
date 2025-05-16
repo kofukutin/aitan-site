@@ -81,15 +81,19 @@ tropicalはTOEICの長文読解（Part 7）で、気候や地域、観光、環�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tropicalはTOEICの長文読解（Part 7）で、気候や地域、観光、環�
 ## 🤔  subtropical との違いは？
 
 - **tropical**：熱帯の、赤道に近い高温多湿な地域を指す
-- **[subtropical](/word/subtropical/)**：亜熱帯の、熱帯と温帯の間に位置するやや温暖な地域を指す
+- **[subtropical](/subtropical)**：亜熱帯の、熱帯と温帯の間に位置するやや温暖な地域を指す
 
 tropicalはより赤道に近い高温多湿な地域、subtropicalはその外側のやや温暖な地域を表します。
 
@@ -105,14 +109,14 @@ tropicalはより赤道に近い高温多湿な地域、subtropicalはその外�
 
 ## 🧩 あわせて覚えたい
 
-- [temperate](/word/temperate/)：温帯の、温暖な
-- [humid](/word/humid/)：湿度の高い、湿った
+- [temperate](/temperate)：温帯の、温暖な
+- [humid](/humid)：湿度の高い、湿った
 
 ---
 
 ## 📖 できればこれも
 
-- [rainforest](/word/rainforest/)：熱帯雨林
-- [climate](/word/climate/)：気候
+- [rainforest](/rainforest)：熱帯雨林
+- [climate](/climate)：気候
 
-<!-- cvid: aid25_bid13 -->
+<!-- cvid: aid01_bid24 -->

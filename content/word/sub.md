@@ -81,15 +81,19 @@ subはTOEICでは主に会話パートで、カジュアルな場面や教育現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ subはTOEICでは主に会話パートで、カジュアルな場面や教育現
 ## 🤔  substitute との違いは？
 
 - **sub**：カジュアルな口語表現で、特に学校やスポーツで「代理」「代理教師」を指す。
-- **[substitute](/word/substitute/)**：よりフォーマルで幅広い場面で使われる「代理人」「代用品」。
+- **[substitute](/substitute)**：よりフォーマルで幅広い場面で使われる「代理人」「代用品」。
 
 subは日常会話やカジュアルな場面で使われ、substituteはフォーマルな文書や広い意味で使われます。
 
@@ -105,14 +109,14 @@ subは日常会話やカジュアルな場面で使われ、substituteはフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [replacement](/word/replacement/)：代わりの人・物
-- [backup](/word/backup/)：予備、控え
+- [replacement](/replacement)：代わりの人・物
+- [backup](/backup)：予備、控え
 
 ---
 
 ## 📖 できればこれも
 
-- [coach](/word/coach/)：コーチ、指導者
-- [tutor](/word/tutor/)：家庭教師、個別指導者
+- [coach](/coach)：コーチ、指導者
+- [tutor](/tutor)：家庭教師、個別指導者
 
-<!-- cvid: aid16_bid48 -->
+<!-- cvid: aid44_bid33 -->

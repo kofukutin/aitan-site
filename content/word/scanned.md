@@ -81,15 +81,19 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 ## 🤔  checked との違いは？
 
 - **scanned**：機械で読み取る、またはざっと目を通すニュアンス
-- **[checked](/word/checked/)**：注意深く確認・点検するニュアンス
+- **[checked](/checked)**：注意深く確認・点検するニュアンス
 
 「scanned」は機械的な処理や表面的な確認、「checked」は細かく丁寧に確認する場面で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/word/inspect/)：詳しく調べる
-- [review](/word/review/)：見直す、再検討する
+- [inspect](/inspect)：詳しく調べる
+- [review](/review)：見直す、再検討する
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print/)：印刷する
-- [copy](/word/copy/)：コピーする
+- [print](/print)：印刷する
+- [copy](/copy)：コピーする
 
-<!-- cvid: aid06_bid29 -->
+<!-- cvid: aid36_bid02 -->

@@ -88,8 +88,12 @@ TOEICではITやビジネス関連の長文で、独自技術や専有製品に�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス関連の長文で、独自技術や専有製品に�
 ## 🤔  exclusive との違いは？
 
 - **proprietary**：特定の所有者が持つ独自の、専有の
-- **[exclusive](/word/exclusive/)**：排他的な、他にない、限定的な
+- **[exclusive](/exclusive)**：排他的な、他にない、限定的な
 
 proprietaryは「所有権」や「独自仕様」に重点があり、exclusiveは「他を排除して唯一」や「限定的」というニュアンスが強いです。
 
@@ -105,14 +109,14 @@ proprietaryは「所有権」や「独自仕様」に重点があり、exclusive
 
 ## 🧩 あわせて覚えたい
 
-- [licensed](/word/licensed/)：認可された、ライセンスを受けた
-- [patented](/word/patented/)：特許を取得した
+- [licensed](/licensed)：認可された、ライセンスを受けた
+- [patented](/patented)：特許を取得した
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/word/confidential/)：機密の、内密の
-- [authorized](/word/authorized/)：認可された、権限のある
+- [confidential](/confidential)：機密の、内密の
+- [authorized](/authorized)：認可された、権限のある
 
-<!-- cvid: aid02_bid34 -->
+<!-- cvid: aid02_bid18 -->

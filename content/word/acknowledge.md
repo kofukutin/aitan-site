@@ -81,15 +81,19 @@ TOEICではビジネスメールや通知文で「受領を認める」「事実
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスメールや通知文で「受領を認める」「事実
 ## 🤔  admit との違いは？
 
 - **acknowledge**：事実や相手の存在・依頼などをフォーマルに「認める」「受領を知らせる」
-- **[admit](/word/admit/)**：自分の過失や罪などを「しぶしぶ認める」ニュアンスが強い
+- **[admit](/admit)**：自分の過失や罪などを「しぶしぶ認める」ニュアンスが強い
 
 acknowledgeはビジネスや公式な場面で使われ、admitは個人的な過ちや否定しにくい事実を認める時に使います。
 
@@ -105,14 +109,14 @@ acknowledgeはビジネスや公式な場面で使われ、admitは個人的な�
 
 ## 🧩 あわせて覚えたい
 
-- [recognize](/word/recognize/)：見てそれとわかる、認識する
-- [deny](/word/deny/)：否定する、認めない
+- [recognize](/recognize)：見てそれとわかる、認識する
+- [deny](/deny)：否定する、認めない
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する、確かめる
-- [respond](/word/respond/)：返答する、応答する
+- [confirm](/confirm)：確認する、確かめる
+- [respond](/respond)：返答する、応答する
 
-<!-- cvid: aid17_bid33 -->
+<!-- cvid: aid34_bid40 -->

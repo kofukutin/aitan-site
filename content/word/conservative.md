@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や記事の中で「保守的な戦略」「控
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や記事の中で「保守的な戦略」「控
 ## 🤔  cautious との違いは？
 
 - **conservative**：伝統や現状維持を重視し、変化を避ける姿勢を表す
-- **[cautious](/word/cautious/)**：危険やリスクを避けるために慎重な態度をとる
+- **[cautious](/cautious)**：危険やリスクを避けるために慎重な態度をとる
 
 conservativeは「変化を避ける」「伝統を守る」ニュアンスが強く、cautiousは「危険や失敗を避けるための慎重さ」に重点があります。
 
@@ -105,14 +109,14 @@ conservativeは「変化を避ける」「伝統を守る」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/word/radical/)：急進的な、革新的な
-- [traditional](/word/traditional/)：伝統的な
+- [radical](/radical)：急進的な、革新的な
+- [traditional](/traditional)：伝統的な
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical/)：実用的な
-- [flexible](/word/flexible/)：柔軟な
+- [practical](/practical)：実用的な
+- [flexible](/flexible)：柔軟な
 
-<!-- cvid: aid27_bid12 -->
+<!-- cvid: aid21_bid25 -->

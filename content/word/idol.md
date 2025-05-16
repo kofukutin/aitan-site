@@ -81,15 +81,19 @@ TOEICでは主に記事や広告文などで、芸能人や有名人を指す文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事や広告文などで、芸能人や有名人を指す文
 ## 🤔  hero との違いは？
 
 - **idol**：憧れや人気の対象となる人物や偶像
-- **[hero](/word/hero/)**：勇敢な行動や偉業で称賛される人物
+- **[hero](/hero)**：勇敢な行動や偉業で称賛される人物
 
 **idol**は「憧れ」や「人気」が中心で、必ずしも偉業を成し遂げていなくても使えますが、**hero**は「勇気」や「偉業」が強調されます。
 
@@ -105,14 +109,14 @@ TOEICでは主に記事や広告文などで、芸能人や有名人を指す文
 
 ## 🧩 あわせて覚えたい
 
-- [celebrity](/word/celebrity/)：有名人
-- [icon](/word/icon/)：象徴的存在、アイコン
+- [celebrity](/celebrity)：有名人
+- [icon](/icon)：象徴的存在、アイコン
 
 ---
 
 ## 📖 できればこれも
 
-- [fan](/word/fan/)：ファン、支持者
-- [star](/word/star/)：スター、有名人
+- [fan](/fan)：ファン、支持者
+- [star](/star)：スター、有名人
 
-<!-- cvid: aid22_bid33 -->
+<!-- cvid: aid16_bid04 -->

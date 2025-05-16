@@ -81,15 +81,19 @@ TOEICでは「安全対策」や「職場の安全」など、ビジネス現場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「安全対策」や「職場の安全」など、ビジネス現場
 ## 🤔  security との違いは？
 
 - **safety**：事故や危険から守られている「安全」や「無事」の状態
-- **[security](/word/security/)**：犯罪や攻撃などから守る「防犯」「警備」の意味が強い
+- **[security](/security)**：犯罪や攻撃などから守る「防犯」「警備」の意味が強い
 
 safetyは「事故防止」や「健康・無事」に重点があり、securityは「犯罪・侵入防止」など外部からの脅威への対策に使います。
 
@@ -105,14 +109,14 @@ safetyは「事故防止」や「健康・無事」に重点があり、security
 
 ## 🧩 あわせて覚えたい
 
-- [danger](/word/danger/)：危険
-- [protection](/word/protection/)：保護
+- [danger](/danger)：危険
+- [protection](/protection)：保護
 
 ---
 
 ## 📖 できればこれも
 
-- [risk](/word/risk/)：リスク、危険性
-- [accident](/word/accident/)：事故
+- [risk](/risk)：リスク、危険性
+- [accident](/accident)：事故
 
-<!-- cvid: aid33_bid40 -->
+<!-- cvid: aid45_bid35 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【breath】の意味・使い方・例文 ― breatheとの違い【TOEIC英単語】"
 description: "breathの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbreatheとの違いもわかりやすく学べます。"
 word: "breath"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や健康・医療に関する場面で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid05_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や健康・医療に関する場面で出
 ## 🤔  breathe との違いは？
 
 - **breath**：息、呼吸（名詞）―「息そのもの」や「一回分の呼吸」を表す
-- **[breathe](/word/breathe/)**：呼吸する（動詞）―「息をする」という動作を表す
+- **[breathe](/breathe)**：呼吸する（動詞）―「息をする」という動作を表す
 
 「breath」は名詞で「息」や「呼吸」そのものを指し、「breathe」は動詞で「息をする」という行為を表します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写や健康・医療に関する場面で出
 
 ## 🧩 あわせて覚えたい
 
-- [inhale](/word/inhale/)：吸い込む、息を吸う
-- [exhale](/word/exhale/)：吐き出す、息を吐く
+- [inhale](/inhale)：吸い込む、息を吸う
+- [exhale](/exhale)：吐き出す、息を吐く
 
 ---
 
 ## 📖 できればこれも
 
-- [cough](/word/cough/)：咳をする
-- [sneeze](/word/sneeze/)：くしゃみをする
+- [cough](/cough)：咳をする
+- [sneeze](/sneeze)：くしゃみをする
 
-<!-- cvid: aid15_bid18 -->
+<!-- cvid: aid05_bid40 -->

@@ -81,15 +81,19 @@ TOEICでは「残念なこと」「恥」という意味で名詞として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「残念なこと」「恥」という意味で名詞として出題
 ## 🤔  embarrassment との違いは？
 
 - **shame**：道徳的・社会的な「恥」や「残念」を強く表す。
-- **[embarrassment](/word/embarrassment/)**：一時的な「気まずさ」や「恥ずかしさ」を表す。
+- **[embarrassment](/embarrassment)**：一時的な「気まずさ」や「恥ずかしさ」を表す。
 
 shameは「自分の行動に対する深い恥」や「残念な気持ち」に使い、embarrassmentは「ちょっとした気まずさ」や「軽い恥ずかしさ」に使います。
 
@@ -105,14 +109,14 @@ shameは「自分の行動に対する深い恥」や「残念な気持ち」に
 
 ## 🧩 あわせて覚えたい
 
-- [guilt](/word/guilt/)：罪悪感
-- [pride](/word/pride/)：誇り
+- [guilt](/guilt)：罪悪感
+- [pride](/pride)：誇り
 
 ---
 
 ## 📖 できればこれも
 
-- [regret](/word/regret/)：後悔
-- [honor](/word/honor/)：名誉
+- [regret](/regret)：後悔
+- [honor](/honor)：名誉
 
-<!-- cvid: aid06_bid03 -->
+<!-- cvid: aid28_bid38 -->

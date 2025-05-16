@@ -81,15 +81,19 @@ terrorはTOEICの長文読解パートで、事件や危機管理、社会問題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ terrorはTOEICの長文読解パートで、事件や危機管理、社会問題
 ## 🤔  horror との違いは？
 
 - **terror**：突然襲う強い恐怖やパニック、または恐怖を与える存在
-- **[horror](/word/horror/)**：ぞっとするような恐怖や嫌悪感、主に長く続く感情
+- **[horror](/horror)**：ぞっとするような恐怖や嫌悪感、主に長く続く感情
 
 terrorは「突発的で圧倒的な恐怖」、horrorは「じわじわと感じる恐怖や嫌悪感」に使い分けます。
 
@@ -105,14 +109,14 @@ terrorは「突発的で圧倒的な恐怖」、horrorは「じわじわと感�
 
 ## 🧩 あわせて覚えたい
 
-- [fear](/word/fear/)：恐れ、恐怖（一般的な恐怖）
-- [panic](/word/panic/)：パニック、突然の恐怖や混乱
+- [fear](/fear)：恐れ、恐怖（一般的な恐怖）
+- [panic](/panic)：パニック、突然の恐怖や混乱
 
 ---
 
 ## 📖 できればこれも
 
-- [threat](/word/threat/)：脅威、危険
-- [violence](/word/violence/)：暴力
+- [threat](/threat)：脅威、危険
+- [violence](/violence)：暴力
 
-<!-- cvid: aid48_bid29 -->
+<!-- cvid: aid15_bid03 -->

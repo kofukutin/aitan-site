@@ -81,7 +81,7 @@ caringは、職場や日常の会話で「思いやりのある人」や「配�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解したら一歩前へ👇️
 
 ---
 
@@ -89,7 +89,11 @@ caringは、職場や日常の会話で「思いやりのある人」や「配�
 
 <div class="info-center">
 ＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ caringは、職場や日常の会話で「思いやりのある人」や「配�
 ## 🤔  considerate との違いは？
 
 - **caring**：相手の気持ちや状況に寄り添い、実際に世話をしたり助けたりする優しさを強調。
-- **[considerate](/word/considerate/)**：他人の立場や気持ちを考えて配慮する、思慮深い。
+- **[considerate](/considerate)**：他人の立場や気持ちを考えて配慮する、思慮深い。
 
 caringは「行動で示す優しさ」、considerateは「気配りや配慮の心」を表す点が異なります。
 
@@ -105,14 +109,14 @@ caringは「行動で示す優しさ」、considerateは「気配りや配慮の
 
 ## 🧩 あわせて覚えたい
 
-- [selfish](/word/selfish/)：自己中心的な
-- [thoughtful](/word/thoughtful/)：思慮深い、気配りができる
+- [selfish](/selfish)：自己中心的な
+- [thoughtful](/thoughtful)：思慮深い、気配りができる
 
 ---
 
 ## 📖 できればこれも
 
-- [helpful](/word/helpful/)：助けになる、親切な
-- [friendly](/word/friendly/)：親しみやすい、友好的な
+- [helpful](/helpful)：助けになる、親切な
+- [friendly](/friendly)：親しみやすい、友好的な
 
-<!-- cvid: aid11_bid46 -->
+<!-- cvid: aid40_bid46 -->

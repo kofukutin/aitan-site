@@ -81,15 +81,19 @@ TOEICでは、ビジネスや学術分野の人物紹介や表彰、スピーチ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや学術分野の人物紹介や表彰、スピーチ
 ## 🤔  outstanding との違いは？
 
 - **distinguished**：社会的評価や地位、実績などで「他と区別されるほど優れている」「著名な」というフォーマルな響き。
-- **[outstanding](/word/outstanding/)**：目立って優れている、傑出しているという意味で、フォーマル・カジュアル両方で使える。
+- **[outstanding](/outstanding)**：目立って優れている、傑出しているという意味で、フォーマル・カジュアル両方で使える。
 
 「distinguished」は特に社会的な評価や格式ある場面で使われ、「outstanding」は一般的な「すごい」「目立つ」という意味で幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスや学術分野の人物紹介や表彰、スピーチ
 
 ## 🧩 あわせて覚えたい
 
-- [notable](/word/notable/)：注目に値する、顕著な
-- [ordinary](/word/ordinary/)：普通の、平凡な
+- [notable](/notable)：注目に値する、顕著な
+- [ordinary](/ordinary)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [prominent](/word/prominent/)：有名な、卓越した
-- [renowned](/word/renowned/)：名高い、有名な
+- [prominent](/prominent)：有名な、卓越した
+- [renowned](/renowned)：名高い、有名な
 
-<!-- cvid: aid44_bid32 -->
+<!-- cvid: aid16_bid23 -->

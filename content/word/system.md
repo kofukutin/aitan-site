@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で頻出し、制度や仕組みを説明�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で頻出し、制度や仕組みを説明�
 ## 🤔  structure との違いは？
 
 - **system**：複数の要素が連携して機能する仕組みや制度
-- **[structure](/word/structure/)**：物理的・抽象的な「構造」や「枠組み」
+- **[structure](/structure)**：物理的・抽象的な「構造」や「枠組み」
 
 systemは「機能する仕組み」、structureは「形や枠組み」に重点があり、systemの方が動きや働きを強調します。
 
@@ -105,14 +109,14 @@ systemは「機能する仕組み」、structureは「形や枠組み」に重�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、つながり
-- [process](/word/process/)：過程、手順
+- [network](/network)：ネットワーク、つながり
+- [process](/process)：過程、手順
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method/)：方法、やり方
-- [device](/word/device/)：装置、機器
+- [method](/method)：方法、やり方
+- [device](/device)：装置、機器
 
-<!-- cvid: aid23_bid37 -->
+<!-- cvid: aid16_bid04 -->

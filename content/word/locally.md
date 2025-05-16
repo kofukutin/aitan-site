@@ -81,15 +81,19 @@ TOEICでは、現地でのサービスや地域限定の話題で使われるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、現地でのサービスや地域限定の話題で使われるこ
 ## 🤔  regionally との違いは？
 
 - **locally**：特定の町や小さな地域など、より狭い範囲で「地元で」「現地で」という意味。
-- **[regionally](/word/regionally/)**：広い地域や地方単位で「地域的に」という意味。
+- **[regionally](/regionally)**：広い地域や地方単位で「地域的に」という意味。
 
 locallyは「町」や「市」など狭い範囲、regionallyは「県」や「地方」など広い範囲を指す点が異なります。
 
@@ -105,14 +109,14 @@ locallyは「町」や「市」など狭い範囲、regionallyは「県」や「
 
 ## 🧩 あわせて覚えたい
 
-- [globally](/word/globally/)：世界的に
-- [domestically](/word/domestically/)：国内で
+- [globally](/globally)：世界的に
+- [domestically](/domestically)：国内で
 
 ---
 
 ## 📖 できればこれも
 
-- [nearby](/word/nearby/)：近くに
-- [site](/word/site/)：現場、場所
+- [nearby](/nearby)：近くに
+- [site](/site)：現場、場所
 
-<!-- cvid: aid45_bid34 -->
+<!-- cvid: aid49_bid20 -->

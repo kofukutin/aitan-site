@@ -81,15 +81,19 @@ TOEICでは、商品説明や証明書、レストラン紹介などで「本物
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品説明や証明書、レストラン紹介などで「本物
 ## 🤔  genuine との違いは？
 
 - **authentic**：本物であること、特に「由緒正しい」「信頼できる」ニュアンスが強い
-- **[genuine](/word/genuine/)**：偽りがなく「純粋」「誠実」であることを強調
+- **[genuine](/genuine)**：偽りがなく「純粋」「誠実」であることを強調
 
 authenticは「出所や伝統が正しい本物」であることを強調し、genuineは「偽りがない・心からの」という誠実さや純粋さに重点があります。
 
@@ -105,14 +109,14 @@ authenticは「出所や伝統が正しい本物」であることを強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [fake](/word/fake/)：偽物、偽の
-- [original](/word/original/)：原物、独自の
+- [fake](/fake)：偽物、偽の
+- [original](/original)：原物、独自の
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [credible](/word/credible/)：信用できる
+- [reliable](/reliable)：信頼できる
+- [credible](/credible)：信用できる
 
-<!-- cvid: aid34_bid26 -->
+<!-- cvid: aid39_bid42 -->

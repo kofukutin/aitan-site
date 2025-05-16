@@ -81,15 +81,19 @@ TOEICでは主に記事やビジネス文書、公式発表などの長文中で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid37" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid37" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やビジネス文書、公式発表などの長文中で
 ## 🤔  executive との違いは？
 
 - **presidential**：大統領や大統領職に直接関係することを表す。
-- **[executive](/word/executive/)**：経営幹部や執行権を持つ人・組織全般に関することを表す。
+- **[executive](/executive)**：経営幹部や執行権を持つ人・組織全般に関することを表す。
 
 presidentialは「大統領」に特化した形容詞ですが、executiveは企業や組織の「執行部」「経営陣」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ presidentialは「大統領」に特化した形容詞ですが、executiveは�
 
 ## 🧩 あわせて覚えたい
 
-- [official](/word/official/)：公式の、公務員
-- [administrative](/word/administrative/)：管理の、行政の
+- [official](/official)：公式の、公務員
+- [administrative](/administrative)：管理の、行政の
 
 ---
 
 ## 📖 できればこれも
 
-- [parliamentary](/word/parliamentary/)：議会の、国会の
-- [legislative](/word/legislative/)：立法の、法律制定の
+- [parliamentary](/parliamentary)：議会の、国会の
+- [legislative](/legislative)：立法の、法律制定の
 
-<!-- cvid: aid37_bid22 -->
+<!-- cvid: aid09_bid37 -->

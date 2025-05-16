@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、動物や物の「しっぽ」「端
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、動物や物の「しっぽ」「端
 ## 🤔  trail との違いは？
 
 - **tail**：動物や物の「しっぽ」「端」を指す。
-- **[trail](/word/trail/)**：道や足跡、引きずった跡などを指す。
+- **[trail](/trail)**：道や足跡、引きずった跡などを指す。
 
 tailは生き物や物体の末端部分、trailは道や跡など「続くもの」を表します。
 
@@ -105,14 +109,14 @@ tailは生き物や物体の末端部分、trailは道や跡など「続くも�
 
 ## 🧩 あわせて覚えたい
 
-- [wing](/word/wing/)：翼
-- [fin](/word/fin/)：ひれ
+- [wing](/wing)：翼
+- [fin](/fin)：ひれ
 
 ---
 
 ## 📖 できればこれも
 
-- [feather](/word/feather/)：羽
-- [fur](/word/fur/)：毛皮
+- [feather](/feather)：羽
+- [fur](/fur)：毛皮
 
-<!-- cvid: aid44_bid24 -->
+<!-- cvid: aid07_bid11 -->

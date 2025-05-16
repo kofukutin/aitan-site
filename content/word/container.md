@@ -81,15 +81,19 @@ TOEICでは物流やオフィスの会話で「container」が荷物や保管に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは物流やオフィスの会話で「container」が荷物や保管に
 ## 🤔  package との違いは？
 
 - **container**：物を入れて運ぶための容器や大型のコンテナ全般を指す
-- **[package](/word/package/)**：小包や包装された荷物、梱包されたものを指す
+- **[package](/package)**：小包や包装された荷物、梱包されたものを指す
 
 containerは中身を入れる「入れ物」自体を強調し、packageは「梱包された状態」や「配送物」としての側面を強調します。
 
@@ -105,14 +109,14 @@ containerは中身を入れる「入れ物」自体を強調し、packageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [box](/word/box/)：箱
-- [vessel](/word/vessel/)：容器、器
+- [box](/box)：箱
+- [vessel](/vessel)：容器、器
 
 ---
 
 ## 📖 できればこれも
 
-- [storage](/word/storage/)：保管、収納
-- [shipment](/word/shipment/)：発送、出荷
+- [storage](/storage)：保管、収納
+- [shipment](/shipment)：発送、出荷
 
-<!-- cvid: aid19_bid17 -->
+<!-- cvid: aid28_bid37 -->

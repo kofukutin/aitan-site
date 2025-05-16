@@ -81,15 +81,19 @@ TOEICでは、国際関係や歴史、法律に関する長文や記事で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid03_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、国際関係や歴史、法律に関する長文や記事で見か
 ## 🤔  federation との違いは？
 
 - **commonwealth**：共通の利益や歴史的なつながりを持つ国家や共同体を指すことが多い。
-- **[federation](/word/federation/)**：複数の州や国が統一された政府のもとに連合する仕組みを指す。
+- **[federation](/federation)**：複数の州や国が統一された政府のもとに連合する仕組みを指す。
 
 commonwealthは歴史的・文化的な結びつきや象徴的な意味合いが強く、federationは政治的・制度的な連合体を指します。
 
@@ -105,14 +109,14 @@ commonwealthは歴史的・文化的な結びつきや象徴的な意味合い�
 
 ## 🧩 あわせて覚えたい
 
-- [republic](/word/republic/)：共和国、国民が主権を持つ国家
-- [colony](/word/colony/)：植民地、他国に支配されている地域
+- [republic](/republic)：共和国、国民が主権を持つ国家
+- [colony](/colony)：植民地、他国に支配されている地域
 
 ---
 
 ## 📖 できればこれも
 
-- [constitution](/word/constitution/)：憲法、基本法
-- [sovereignty](/word/sovereignty/)：主権、国家の独立権
+- [constitution](/constitution)：憲法、基本法
+- [sovereignty](/sovereignty)：主権、国家の独立権
 
-<!-- cvid: aid16_bid06 -->
+<!-- cvid: aid03_bid33 -->

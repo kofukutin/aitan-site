@@ -81,15 +81,19 @@ TOEICでは会話やビジネスシーンで、情報収集や秘密保持に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やビジネスシーンで、情報収集や秘密保持に関
 ## 🤔  agent との違いは？
 
 - **spy**：秘密裏に情報を集める人、スパイ
-- **[agent](/word/agent/)**：代理人、または公式な組織の職員
+- **[agent](/agent)**：代理人、または公式な組織の職員
 
 spyは主に秘密活動や諜報活動を行う人物を指し、agentはより広く「代理人」や「職員」として使われ、必ずしも秘密活動を意味しません。
 
@@ -105,14 +109,14 @@ spyは主に秘密活動や諜報活動を行う人物を指し、agentはより
 
 ## 🧩 あわせて覚えたい
 
-- [detective](/word/detective/)：探偵、捜査官
-- [informant](/word/informant/)：情報提供者、密告者
+- [detective](/detective)：探偵、捜査官
+- [informant](/informant)：情報提供者、密告者
 
 ---
 
 ## 📖 できればこれも
 
-- [secret](/word/secret/)：秘密
-- [mission](/word/mission/)：任務、使命
+- [secret](/secret)：秘密
+- [mission](/mission)：任務、使命
 
-<!-- cvid: aid30_bid41 -->
+<!-- cvid: aid09_bid28 -->

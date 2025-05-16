@@ -81,15 +81,19 @@ TOEICでは、受動態や過去分詞として文法問題で出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や過去分詞として文法問題で出題されるこ
 ## 🤔  overlooked との違いは？
 
 - **ignored**：意図的に無視する、関心を持たない
-- **[overlooked](/word/overlooked/)**：うっかり見落とす、気づかずに通り過ぎる
+- **[overlooked](/overlooked)**：うっかり見落とす、気づかずに通り過ぎる
 
 ignoredは「わざと無視する」ニュアンスが強く、overlookedは「気づかずに見逃す」など意図しない場合に使います。
 
@@ -105,14 +109,14 @@ ignoredは「わざと無視する」ニュアンスが強く、overlookedは「
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice/)：気づく
-- [neglect](/word/neglect/)：怠る、放置する
+- [notice](/notice)：気づく
+- [neglect](/neglect)：怠る、放置する
 
 ---
 
 ## 📖 できればこれも
 
-- [avoid](/word/avoid/)：避ける
-- [reject](/word/reject/)：拒否する
+- [avoid](/avoid)：避ける
+- [reject](/reject)：拒否する
 
-<!-- cvid: aid17_bid10 -->
+<!-- cvid: aid16_bid46 -->

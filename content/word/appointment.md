@@ -81,15 +81,19 @@ TOEICでは、ビジネスの会話や電話でのやり取り、医療やサー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスの会話や電話でのやり取り、医療やサー
 ## 🤔  reservation との違いは？
 
 - **appointment**：人と会うための公式な約束や面会の予約
-- **[reservation](/word/reservation/)**：席や部屋など「物」の予約
+- **[reservation](/reservation)**：席や部屋など「物」の予約
 
 appointmentは「人と会う」ことに重点があり、reservationは「場所や物を確保する」場合に使います。
 
@@ -105,14 +109,14 @@ appointmentは「人と会う」ことに重点があり、reservationは「場�
 
 ## 🧩 あわせて覚えたい
 
-- [interview](/word/interview/)：面接、インタビュー
-- [schedule](/word/schedule/)：予定、スケジュール
+- [interview](/interview)：面接、インタビュー
+- [schedule](/schedule)：予定、スケジュール
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議、打ち合わせ
-- [arrangement](/word/arrangement/)：取り決め、準備
+- [meeting](/meeting)：会議、打ち合わせ
+- [arrangement](/arrangement)：取り決め、準備
 
-<!-- cvid: aid49_bid33 -->
+<!-- cvid: aid06_bid18 -->

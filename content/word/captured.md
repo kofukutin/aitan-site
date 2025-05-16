@@ -81,15 +81,19 @@ TOEICでは、会議やビジネスの場面で「記録する」「捉える」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議やビジネスの場面で「記録する」「捉える」
 ## 🤔  seized との違いは？
 
 - **captured**：物理的に捕まえるだけでなく、データや映像などを「記録する」意味もある
-- **[seized](/word/seized/)**：主に力や権力で「押収する」「奪い取る」ニュアンスが強い
+- **[seized](/seized)**：主に力や権力で「押収する」「奪い取る」ニュアンスが強い
 
 capturedは幅広く「捉える・記録する」に使えますが、seizedは「強制的に奪う」場面で使われます。
 
@@ -105,14 +109,14 @@ capturedは幅広く「捉える・記録する」に使えますが、seizedは
 
 ## 🧩 あわせて覚えたい
 
-- [arrest](/word/arrest/)：逮捕する
-- [release](/word/release/)：解放する
+- [arrest](/arrest)：逮捕する
+- [release](/release)：解放する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録する
-- [collect](/word/collect/)：集める
+- [record](/record)：記録する
+- [collect](/collect)：集める
 
-<!-- cvid: aid38_bid04 -->
+<!-- cvid: aid35_bid01 -->

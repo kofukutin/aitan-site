@@ -77,15 +77,19 @@ TOEICでは条件を表す接続詞としてPart 5の文法問題でよく出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは条件を表す接続詞としてPart 5の文法問題でよく出題
 ## 🤔  as long as との違いは？
 
 - **provided**：フォーマルで、条件を強調したいときに使う
-- **[as long as](/word/as_long_as/)**：カジュアルで、条件が満たされていればOKというニュアンス
+- **[as long as](/as_long_as)**：カジュアルで、条件が満たされていればOKというニュアンス
 
 providedはビジネスや公式な場面で使われやすく、as long asは日常会話でよく使われます。
 
@@ -101,14 +105,14 @@ providedはビジネスや公式な場面で使われやすく、as long asは�
 
 ## 🧩 あわせて覚えたい
 
-- [unless](/word/unless/)：～でない限り
-- [in case](/word/in_case/)：～の場合に備えて
+- [unless](/unless)：～でない限り
+- [in case](/in_case)：～の場合に備えて
 
 ---
 
 ## 📖 できればこれも
 
-- [suppose](/word/suppose/)：もし～ならばと仮定する
-- [assuming](/word/assuming/)：～と仮定して
+- [suppose](/suppose)：もし～ならばと仮定する
+- [assuming](/assuming)：～と仮定して
 
-<!-- cvid: aid11_bid02 -->
+<!-- cvid: aid06_bid43 -->

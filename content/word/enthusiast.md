@@ -81,15 +81,19 @@ TOEICでは、趣味や特定分野への情熱を表す文脈で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、趣味や特定分野への情熱を表す文脈で登場するこ
 ## 🤔  fan との違いは？
 
 - **enthusiast**：特定の分野や活動に強い情熱を持つ人
-- **[fan](/word/fan/)**：有名人やスポーツチームなどの「ファン」、ややカジュアルな表現
+- **[fan](/fan)**：有名人やスポーツチームなどの「ファン」、ややカジュアルな表現
 
 「enthusiast」は知識や情熱の深さを強調し、専門的な愛好家にも使われますが、「fan」はより広く一般的な支持者やファンに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、趣味や特定分野への情熱を表す文脈で登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/word/amateur/)：アマチュア、素人
-- [professional](/word/professional/)：プロ、専門家
+- [amateur](/amateur)：アマチュア、素人
+- [professional](/professional)：プロ、専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [passion](/word/passion/)：情熱
-- [dedicate](/word/dedicate/)：捧げる、専念する
+- [passion](/passion)：情熱
+- [dedicate](/dedicate)：捧げる、専念する
 
-<!-- cvid: aid13_bid06 -->
+<!-- cvid: aid21_bid13 -->

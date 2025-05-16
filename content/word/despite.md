@@ -77,15 +77,19 @@ TOEICでは文法問題で「in spite of」や「although」との使い分け�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは文法問題で「in spite of」や「although」との使い分け�
 ## 🤔  although との違いは？
 
 - **despite**：前置詞で、後ろに名詞や名詞句を置く。「～にもかかわらず」
-- **[although](/word/although/)**：接続詞で、後ろに主語＋動詞の文を置く。「～だけれども」
+- **[although](/although)**：接続詞で、後ろに主語＋動詞の文を置く。「～だけれども」
 
 despiteは名詞句、althoughは文を導く点が大きな違いです。
 
@@ -101,14 +105,14 @@ despiteは名詞句、althoughは文を導く点が大きな違いです。
 
 ## 🧩 あわせて覚えたい
 
-- [in spite of](/word/in_spite_of/)：despiteと同じ意味の前置詞
-- [however](/word/however/)：しかしながら（副詞）
+- [in spite of](/in_spite_of)：despiteと同じ意味の前置詞
+- [however](/however)：しかしながら（副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [due to](/word/due_to/)：～が原因で（前置詞）
-- [unless](/word/unless/)：もし～でなければ（接続詞）
+- [due to](/due_to)：～が原因で（前置詞）
+- [unless](/unless)：もし～でなければ（接続詞）
 
-<!-- cvid: aid19_bid11 -->
+<!-- cvid: aid00_bid15 -->

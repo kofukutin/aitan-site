@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【asleep】の意味・使い方・例文 ― sleepingとの違い【TOEIC英単語】"
 description: "asleepの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsleepingとの違いもわかりやすく学べます。"
 word: "asleep"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人が眠っている様子を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid38_bid08" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid08" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人が眠っている様子を説明
 ## 🤔  sleeping との違いは？
 
 - **asleep**：眠っている状態を表す形容詞。be動詞と一緒に使う。
-- **[sleeping](/word/sleeping/)**：sleepの現在分詞で「眠っている最中」の動作や状態を表す。
+- **[sleeping](/sleeping)**：sleepの現在分詞で「眠っている最中」の動作や状態を表す。
 
 asleepは「状態」を、sleepingは「動作」や「進行中の状態」を強調します。
 
@@ -105,14 +109,14 @@ asleepは「状態」を、sleepingは「動作」や「進行中の状態」を
 
 ## 🧩 あわせて覚えたい
 
-- [awake](/word/awake/)：目が覚めている
-- [nap](/word/nap/)：うたた寝、短い昼寝
+- [awake](/awake)：目が覚めている
+- [nap](/nap)：うたた寝、短い昼寝
 
 ---
 
 ## 📖 できればこれも
 
-- [tired](/word/tired/)：疲れている
-- [rest](/word/rest/)：休む、休息
+- [tired](/tired)：疲れている
+- [rest](/rest)：休む、休息
 
-<!-- cvid: aid27_bid48 -->
+<!-- cvid: aid38_bid08 -->

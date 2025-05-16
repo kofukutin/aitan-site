@@ -80,15 +80,19 @@ She called in sick because of a sore throat.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ She called in sick because of a sore throat.
 ## 🤔  neck との違いは？
 
 - **throat**：口の奥から首の内側、食べ物や空気が通る「のど」
-- **[neck](/word/neck/)**：頭と胴体をつなぐ外側の「首」
+- **[neck](/neck)**：頭と胴体をつなぐ外側の「首」
 
 throatは体の内側の「のど」を指し、neckは外側の「首」全体を指します。痛みや症状を表すときは使い分けが必要です。
 
@@ -104,14 +108,14 @@ throatは体の内側の「のど」を指し、neckは外側の「首」全体�
 
 ## 🧩 あわせて覚えたい
 
-- [voice](/word/voice/)：声
-- [cough](/word/cough/)：せき
+- [voice](/voice)：声
+- [cough](/cough)：せき
 
 ---
 
 ## 📖 できればこれも
 
-- [stomach](/word/stomach/)：胃、おなか
-- [tongue](/word/tongue/)：舌
+- [stomach](/stomach)：胃、おなか
+- [tongue](/tongue)：舌
 
-<!-- cvid: aid36_bid40 -->
+<!-- cvid: aid19_bid38 -->

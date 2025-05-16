@@ -81,7 +81,7 @@ governanceはTOEICの長文読解やビジネス関連の文書で、企業統�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このまま続けよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ governanceはTOEICの長文読解やビジネス関連の文書で、企業統�
 
 <div class="info-center">
 ＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ governanceはTOEICの長文読解やビジネス関連の文書で、企業統�
 ## 🤔  management との違いは？
 
 - **governance**：組織や国の統治・管理の仕組みや枠組みを指す
-- **[management](/word/management/)**：日々の運営や管理、経営そのものを指す
+- **[management](/management)**：日々の運営や管理、経営そのものを指す
 
 governanceは「ルールや仕組み」に焦点があり、managementは「実際の運営や管理業務」に重点があります。
 
@@ -105,14 +109,14 @@ governanceは「ルールや仕組み」に焦点があり、managementは「実
 
 ## 🧩 あわせて覚えたい
 
-- [regulation](/word/regulation/)：規則、規制
-- [administration](/word/administration/)：運営、管理
+- [regulation](/regulation)：規則、規制
+- [administration](/administration)：運営、管理
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [compliance](/word/compliance/)：法令遵守
+- [policy](/policy)：方針、政策
+- [compliance](/compliance)：法令遵守
 
-<!-- cvid: aid07_bid15 -->
+<!-- cvid: aid00_bid15 -->

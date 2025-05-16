@@ -81,15 +81,19 @@ TOEICでは計算や数量の説明、請求書や会計に関する文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは計算や数量の説明、請求書や会計に関する文脈で出
 ## 🤔  deduct との違いは？
 
 - **subtract**：主に数学や計算で「数値を引く」ことに使う
-- **[deduct](/word/deduct/)**：ビジネスや会計で「金額や費用を差し引く」際によく使う
+- **[deduct](/deduct)**：ビジネスや会計で「金額や費用を差し引く」際によく使う
 
 subtractは計算や数学的な場面で使われるのに対し、deductは会計や実務的な「控除」に使われることが多いです。
 
@@ -105,14 +109,14 @@ subtractは計算や数学的な場面で使われるのに対し、deductは会
 
 ## 🧩 あわせて覚えたい
 
-- [add](/word/add/)：加える
-- [remove](/word/remove/)：取り除く
+- [add](/add)：加える
+- [remove](/remove)：取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [divide](/word/divide/)：割る、分ける
-- [calculate](/word/calculate/)：計算する
+- [divide](/divide)：割る、分ける
+- [calculate](/calculate)：計算する
 
-<!-- cvid: aid12_bid07 -->
+<!-- cvid: aid40_bid25 -->

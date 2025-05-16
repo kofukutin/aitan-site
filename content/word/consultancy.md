@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、会社紹介などで「consultancy
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、会社紹介などで「consultancy
 ## 🤔  consulting との違いは？
 
 - **consultancy**：コンサルタント業やコンサル会社そのものを指す
-- **[consulting](/word/consulting/)**：コンサルティングという行為や業務全般を指す
+- **[consulting](/consulting)**：コンサルティングという行為や業務全般を指す
 
 「consultancy」は会社や組織を、「consulting」はサービスや活動そのものを表す点が異なります。
 
@@ -105,14 +109,14 @@ TOEICではビジネス文書やEメール、会社紹介などで「consultancy
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/word/advice/)：助言、アドバイス
-- [agency](/word/agency/)：代理店、仲介業者
+- [advice](/advice)：助言、アドバイス
+- [agency](/agency)：代理店、仲介業者
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/word/consultant/)：コンサルタント（専門的助言を行う人）
-- [proposal](/word/proposal/)：提案、企画書
+- [consultant](/consultant)：コンサルタント（専門的助言を行う人）
+- [proposal](/proposal)：提案、企画書
 
-<!-- cvid: aid02_bid40 -->
+<!-- cvid: aid31_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは歴史や社会問題、比喩表現として登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や社会問題、比喩表現として登場することがあ
 ## 🤔  servant との違いは？
 
 - **slave**：自由を奪われ、強制的に働かされる人
-- **[servant](/word/servant/)**：雇われて働く使用人や召使い
+- **[servant](/servant)**：雇われて働く使用人や召使い
 
 slaveは人権や自由がなく、強制的に従わされる点が特徴ですが、servantは雇用関係にあり、一定の自由や権利があります。
 
@@ -105,14 +109,14 @@ slaveは人権や自由がなく、強制的に従わされる点が特徴です
 
 ## 🧩 あわせて覚えたい
 
-- [master](/word/master/)：主人、支配者
-- [labor](/word/labor/)：労働、仕事
+- [master](/master)：主人、支配者
+- [labor](/labor)：労働、仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [worker](/word/worker/)：労働者
+- [employee](/employee)：従業員
+- [worker](/worker)：労働者
 
-<!-- cvid: aid43_bid12 -->
+<!-- cvid: aid39_bid41 -->

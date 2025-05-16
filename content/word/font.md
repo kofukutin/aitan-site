@@ -80,15 +80,19 @@ TOEICではIT関連や資料作成の説明文で出題されることが多い�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではIT関連や資料作成の説明文で出題されることが多い�
 ## 🤔  typeface との違いは？
 
 - **font**：特定のサイズや太さなどを含む具体的な文字セット
-- **[typeface](/word/typeface/)**：デザインとしての書体全体
+- **[typeface](/typeface)**：デザインとしての書体全体
 
 fontは「Arialの12ポイント太字」など具体的なスタイルを指し、typefaceは「Arial」などデザイン全体を指します。
 
@@ -104,13 +108,13 @@ fontは「Arialの12ポイント太字」など具体的なスタイルを指し
 
 ## 🧩 あわせて覚えたい
 
-- [format](/word/format/)：書式、形式
-- [layout](/word/layout/)：配置、レイアウト
+- [format](/format)：書式、形式
+- [layout](/layout)：配置、レイアウト
 
 ---
 
 ## 📖 できればこれも
 
-- [style](/word/style/)：スタイル、様式
-- [design](/word/design/)：デザイン、設計
-<!-- cvid: aid42_bid10 -->
+- [style](/style)：スタイル、様式
+- [design](/design)：デザイン、設計
+<!-- cvid: aid00_bid11 -->

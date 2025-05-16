@@ -82,15 +82,19 @@ gainはTOEICの語彙問題やビジネス文脈で頻出です。特に「利�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ gainはTOEICの語彙問題やビジネス文脈で頻出です。特に「利�
 ## 🤔  obtain との違いは？
 
 - **gain**：努力や変化を通じて得る、増やす（成果・利益・知識など幅広い対象）
-- **[obtain](/word/obtain/)**：主に「手続きや方法によって手に入れる」、ややフォーマル
+- **[obtain](/obtain)**：主に「手続きや方法によって手に入れる」、ややフォーマル
 
 gainは「成長」や「進歩」のニュアンスがあり、obtainは「入手」や「取得」といった事務的な場面で使われることが多いです。
 
@@ -106,14 +110,14 @@ gainは「成長」や「進歩」のニュアンスがあり、obtainは「入�
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/word/lose/)：失う
-- [acquire](/word/acquire/)：（努力して）習得する
+- [lose](/lose)：失う
+- [acquire](/acquire)：（努力して）習得する
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [improve](/word/improve/)：改善する
+- [achieve](/achieve)：達成する
+- [improve](/improve)：改善する
 
-<!-- cvid: aid09_bid17 -->
+<!-- cvid: aid06_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネスや技術関連の文脈で出題されます。名
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや技術関連の文脈で出題されます。名
 ## 🤔  innovation との違いは？
 
 - **invention**：まったく新しいものや技術を生み出すこと、またはその発明品。
-- **[innovation](/word/innovation/)**：既存のものに新しい工夫や改良を加えること、革新。
+- **[innovation](/innovation)**：既存のものに新しい工夫や改良を加えること、革新。
 
 inventionは「ゼロから生み出す」ニュアンスが強く、innovationは「改良・刷新」に重点があります。
 
@@ -105,15 +109,15 @@ inventionは「ゼロから生み出す」ニュアンスが強く、innovation�
 
 ## 🧩 あわせて覚えたい
 
-- [discovery](/word/discovery/)：発見（すでに存在していたものを見つけること）
-- [creation](/word/creation/)：創造（何かを作り出すこと全般）
+- [discovery](/discovery)：発見（すでに存在していたものを見つけること）
+- [creation](/creation)：創造（何かを作り出すこと全般）
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [patent](/word/patent/)：特許
+- [device](/device)：装置、機器
+- [patent](/patent)：特許
 
 
-<!-- cvid: aid39_bid05 -->
+<!-- cvid: aid03_bid03 -->

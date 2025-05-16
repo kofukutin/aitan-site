@@ -81,15 +81,19 @@ ITやビジネスの文脈で、システムやプロセスの改善に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの文脈で、システムやプロセスの改善に関する
 ## 🤔  improvement との違いは？
 
 - **optimization**：最適な状態や最大限の効率を目指して調整すること
-- **[improvement](/word/improvement/)**：現状より良くすること全般
+- **[improvement](/improvement)**：現状より良くすること全般
 
 optimizationは「最も良い状態」を目指すニュアンスが強く、improvementは「少しでも良くする」幅広い改善に使われます。
 
@@ -105,14 +109,14 @@ optimizationは「最も良い状態」を目指すニュアンスが強く、im
 
 ## 🧩 あわせて覚えたい
 
-- [efficiency](/word/efficiency/)：効率
-- [adjustment](/word/adjustment/)：調整
+- [efficiency](/efficiency)：効率
+- [adjustment](/adjustment)：調整
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [maximize](/word/maximize/)：最大化する
+- [analyze](/analyze)：分析する
+- [maximize](/maximize)：最大化する
 
-<!-- cvid: aid27_bid32 -->
+<!-- cvid: aid30_bid38 -->

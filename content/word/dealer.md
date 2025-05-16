@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や広告、契約書などで「販売業者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や広告、契約書などで「販売業者
 ## 🤔  distributor との違いは？
 
 - **dealer**：商品を仕入れて直接顧客に販売する業者や代理店
-- **[distributor](/word/distributor/)**：メーカーと小売店・ディーラーの間で商品を広く流通させる卸売業者
+- **[distributor](/distributor)**：メーカーと小売店・ディーラーの間で商品を広く流通させる卸売業者
 
 dealerは「最終的に顧客に売る人・会社」、distributorは「流通経路の中間で商品を広く配る人・会社」という違いがあります。
 
@@ -105,14 +109,14 @@ dealerは「最終的に顧客に売る人・会社」、distributorは「流通
 
 ## 🧩 あわせて覚えたい
 
-- [retailer](/word/retailer/)：小売業者
-- [supplier](/word/supplier/)：供給業者
+- [retailer](/retailer)：小売業者
+- [supplier](/supplier)：供給業者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客（特に法人顧客）
-- [customer](/word/customer/)：顧客（一般消費者）
+- [client](/client)：顧客（特に法人顧客）
+- [customer](/customer)：顧客（一般消費者）
 
-<!-- cvid: aid34_bid41 -->
+<!-- cvid: aid04_bid21 -->

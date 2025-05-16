@@ -81,15 +81,19 @@ foughtは会話文や過去の出来事を説明する場面で出題される�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ foughtは会話文や過去の出来事を説明する場面で出題される�
 ## 🤔  struggled との違いは？
 
 - **fought**：実際に争ったり、強く対立したりすることを表す。
-- **[struggled](/word/struggled/)**：困難や障害に苦しみながら努力することを表す。
+- **[struggled](/struggled)**：困難や障害に苦しみながら努力することを表す。
 
 foughtは「戦い」や「対立」に焦点があり、struggledは「苦労」や「努力」に重点があります。
 
@@ -105,14 +109,14 @@ foughtは「戦い」や「対立」に焦点があり、struggledは「苦労�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend/)：守る、防御する
-- [argue](/word/argue/)：主張する、言い争う
+- [defend](/defend)：守る、防御する
+- [argue](/argue)：主張する、言い争う
 
 ---
 
 ## 📖 できればこれも
 
-- [win](/word/win/)：勝つ
-- [lose](/word/lose/)：負ける
+- [win](/win)：勝つ
+- [lose](/lose)：負ける
 
-<!-- cvid: aid27_bid20 -->
+<!-- cvid: aid25_bid18 -->

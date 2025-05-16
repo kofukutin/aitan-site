@@ -81,15 +81,19 @@ TOEICでは契約書やビジネスメール、法的文書の中で「breach of
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid42_bid13" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid13" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書やビジネスメール、法的文書の中で「breach of
 ## 🤔  violation との違いは？
 
 - **breach**：契約や約束など、特定のルールや合意を破ることに強く使われる
-- **[violation](/word/violation/)**：法律や規則など、広い範囲の「違反」に使われる
+- **[violation](/violation)**：法律や規則など、広い範囲の「違反」に使われる
 
 **breach**は主に契約や約束など「合意事項の破り」に焦点があり、**violation**は法律や規則など一般的な違反全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは契約書やビジネスメール、法的文書の中で「breach of
 
 ## 🧩 あわせて覚えたい
 
-- [compliance](/word/compliance/)：法令遵守
-- [infringement](/word/infringement/)：権利侵害
+- [compliance](/compliance)：法令遵守
+- [infringement](/infringement)：権利侵害
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause/)：条項
-- [penalty](/word/penalty/)：罰則
+- [clause](/clause)：条項
+- [penalty](/penalty)：罰則
 
-<!-- cvid: aid44_bid40 -->
+<!-- cvid: aid42_bid13 -->

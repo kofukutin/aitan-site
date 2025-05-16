@@ -81,15 +81,19 @@ TOEICではPart 7のメール文や案内文で頻出します。指示や連絡
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7のメール文や案内文で頻出します。指示や連絡
 ## 🤔  mail との違いは？
 
 - **email**：電子的に送るメッセージや仕組みを指す
-- **[mail](/word/mail/)**：郵便物全般やEメール両方を指すが、文脈によって意味が変わる
+- **[mail](/mail)**：郵便物全般やEメール両方を指すが、文脈によって意味が変わる
 
 emailはインターネット経由の通信に限定されますが、mailは郵便やEメールなど幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ emailはインターネット経由の通信に限定されますが、mailは�
 
 ## 🧩 あわせて覚えたい
 
-- [message](/word/message/)：メッセージ、伝言
-- [attachment](/word/attachment/)：添付ファイル
+- [message](/message)：メッセージ、伝言
+- [attachment](/attachment)：添付ファイル
 
 ---
 
 ## 📖 できればこれも
 
-- [contact](/word/contact/)：連絡する、連絡先
-- [reply](/word/reply/)：返信する
+- [contact](/contact)：連絡する、連絡先
+- [reply](/reply)：返信する
 
-<!-- cvid: aid29_bid00 -->
+<!-- cvid: aid03_bid29 -->

@@ -81,7 +81,7 @@ TOEICではメールやお知らせ文などで「失望」や「期待外れ」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+覚えやすいタイミング👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICではメールやお知らせ文などで「失望」や「期待外れ」
 
 <div class="info-center">
 ＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールやお知らせ文などで「失望」や「期待外れ」
 ## 🤔  regret との違いは？
 
 - **disappointment**：期待が裏切られたときの「失望」や「がっかり」
-- **[regret](/word/regret/)**：自分の行動や選択を「後悔」する気持ち
+- **[regret](/regret)**：自分の行動や選択を「後悔」する気持ち
 
 disappointmentは「期待していたことが叶わなかった」時の感情、regretは「自分の判断や行動を悔やむ」時に使います。
 
@@ -105,14 +109,14 @@ disappointmentは「期待していたことが叶わなかった」時の感情
 
 ## 🧩 あわせて覚えたい
 
-- [satisfaction](/word/satisfaction/)：満足
-- [frustration](/word/frustration/)：欲求不満、いらだち
+- [satisfaction](/satisfaction)：満足
+- [frustration](/frustration)：欲求不満、いらだち
 
 ---
 
 ## 📖 できればこれも
 
-- [failure](/word/failure/)：失敗
-- [success](/word/success/)：成功
+- [failure](/failure)：失敗
+- [success](/success)：成功
 
-<!-- cvid: aid02_bid06 -->
+<!-- cvid: aid31_bid06 -->

@@ -82,15 +82,19 @@ TOEICでは、ビジネス文書や会議の場面で「過剰なコスト」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、ビジネス文書や会議の場面で「過剰なコスト」「
 ## 🤔  extreme との違いは？
 
 - **excessive**：基準や適量を超えて「やりすぎ」「多すぎ」と否定的に表現する
-- **[extreme](/word/extreme/)**：極端・極度であることを強調し、良い意味・悪い意味どちらにも使える
+- **[extreme](/extreme)**：極端・極度であることを強調し、良い意味・悪い意味どちらにも使える
 
 excessiveは「必要以上で困る」ニュアンス、extremeは「極端である」こと自体を強調します。
 
@@ -106,14 +110,14 @@ excessiveは「必要以上で困る」ニュアンス、extremeは「極端で�
 
 ## 🧩 あわせて覚えたい
 
-- [moderate](/word/moderate/)：適度な、穏やかな
-- [surplus](/word/surplus/)：余剰、黒字
+- [moderate](/moderate)：適度な、穏やかな
+- [surplus](/surplus)：余剰、黒字
 
 ---
 
 ## 📖 できればこれも
 
-- [sufficient](/word/sufficient/)：十分な
-- [adequate](/word/adequate/)：適切な、十分な
+- [sufficient](/sufficient)：十分な
+- [adequate](/adequate)：適切な、十分な
 
-<!-- cvid: aid20_bid41 -->
+<!-- cvid: aid30_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは「選択肢」「オプション」という意味で、設問や説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「選択肢」「オプション」という意味で、設問や説
 ## 🤔  choice との違いは？
 
 - **option**：選択肢そのもの、選べるもの
-- **[choice](/word/choice/)**：実際に選んだもの、または選ぶ行為
+- **[choice](/choice)**：実際に選んだもの、または選ぶ行為
 
 **option**は「選択肢」自体を指し、**choice**は「選ぶこと」や「選んだ結果」を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは「選択肢」「オプション」という意味で、設問や説
 
 ## 🧩 あわせて覚えたい
 
-- [alternative](/word/alternative/)：代替案、別の選択肢
-- [preference](/word/preference/)：好み、優先されるもの
+- [alternative](/alternative)：代替案、別の選択肢
+- [preference](/preference)：好み、優先されるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [select](/word/select/)：選ぶ
-- [decision](/word/decision/)：決定、判断
+- [select](/select)：選ぶ
+- [decision](/decision)：決定、判断
 
-<!-- cvid: aid35_bid32 -->
+<!-- cvid: aid02_bid25 -->

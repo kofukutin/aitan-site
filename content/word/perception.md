@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やアンケート結果の説明などで「per
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やアンケート結果の説明などで「per
 ## 🤔  awareness との違いは？
 
 - **perception**：物事や状況に対する知覚・認識・見方（主観的な印象や評価を含む）
-- **[awareness](/word/awareness/)**：存在や事実に「気づいていること」「意識していること」
+- **[awareness](/awareness)**：存在や事実に「気づいていること」「意識していること」
 
 perceptionは「どう感じるか」「どんな印象を持つか」に焦点があり、awarenessは「知っているかどうか」「意識しているか」に重点があります。
 
@@ -105,14 +109,14 @@ perceptionは「どう感じるか」「どんな印象を持つか」に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [insight](/word/insight/)：洞察、深い理解
-- [bias](/word/bias/)：偏見、先入観
+- [insight](/insight)：洞察、深い理解
+- [bias](/bias)：偏見、先入観
 
 ---
 
 ## 📖 できればこれも
 
-- [perspective](/word/perspective/)：視点、観点
-- [assumption](/word/assumption/)：仮定、前提
+- [perspective](/perspective)：視点、観点
+- [assumption](/assumption)：仮定、前提
 
-<!-- cvid: aid13_bid44 -->
+<!-- cvid: aid01_bid23 -->

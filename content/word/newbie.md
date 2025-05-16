@@ -88,8 +88,12 @@ TOEICではITやビジネスの文脈で、カジュアルな表現としてメ�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で、カジュアルな表現としてメ�
 ## 🤔  beginner との違いは？
 
 - **newbie**：カジュアルでネットやIT分野でよく使われる「初心者」
-- **[beginner](/word/beginner/)**：一般的でフォーマル・カジュアル両方で使える「初心者」
+- **[beginner](/beginner)**：一般的でフォーマル・カジュアル両方で使える「初心者」
 
 newbieは親しみやすい響きで、特にネットや趣味のコミュニティで使われますが、beginnerはより広い場面で使えます。
 
@@ -105,14 +109,14 @@ newbieは親しみやすい響きで、特にネットや趣味のコミュニ�
 
 ## 🧩 あわせて覚えたい
 
-- [novice](/word/novice/)：初心者（ややフォーマル）
-- [expert](/word/expert/)：専門家、熟練者
+- [novice](/novice)：初心者（ややフォーマル）
+- [expert](/expert)：専門家、熟練者
 
 ---
 
 ## 📖 できればこれも
 
-- [mentor](/word/mentor/)：指導者、助言者
-- [skill](/word/skill/)：技能、スキル
+- [mentor](/mentor)：指導者、助言者
+- [skill](/skill)：技能、スキル
 
-<!-- cvid: aid24_bid29 -->
+<!-- cvid: aid24_bid15 -->

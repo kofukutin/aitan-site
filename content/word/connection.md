@@ -81,15 +81,19 @@ TOEICでは、ネットワークや人間関係、ビジネス上の「つなが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ネットワークや人間関係、ビジネス上の「つなが
 ## 🤔  relation との違いは？
 
 - **connection**：物理的・人的な「つながり」や「接続」を幅広く表す
-- **[relation](/word/relation/)**：主に「関係性」や「関連性」を抽象的に表す
+- **[relation](/relation)**：主に「関係性」や「関連性」を抽象的に表す
 
 connectionは実際のつながりやネットワーク、relationは抽象的な関係や関連性を指す場面で使い分けます。
 
@@ -105,14 +109,14 @@ connectionは実際のつながりやネットワーク、relationは抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [link](/word/link/)：リンク、関連、つなぐもの
-- [network](/word/network/)：ネットワーク、人的なつながり
+- [link](/link)：リンク、関連、つなぐもの
+- [network](/network)：ネットワーク、人的なつながり
 
 ---
 
 ## 📖 できればこれも
 
-- [contact](/word/contact/)：連絡先、接触
-- [association](/word/association/)：協会、連想、関係
+- [contact](/contact)：連絡先、接触
+- [association](/association)：協会、連想、関係
 
-<!-- cvid: aid15_bid14 -->
+<!-- cvid: aid12_bid25 -->

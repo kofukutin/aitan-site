@@ -81,15 +81,19 @@ TOEICでは「才能」「有能な人材」といった意味で、採用や人
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「才能」「有能な人材」といった意味で、採用や人
 ## 🤔  skill との違いは？
 
 - **talent**：生まれつきや自然に備わった才能や素質
-- **[skill](/word/skill/)**：訓練や経験によって身につけた技術や能力
+- **[skill](/skill)**：訓練や経験によって身につけた技術や能力
 
 talentは「先天的な能力」、skillは「後天的に習得した技術」という違いがあります。
 
@@ -105,14 +109,14 @@ talentは「先天的な能力」、skillは「後天的に習得した技術」
 
 ## 🧩 あわせて覚えたい
 
-- [ability](/word/ability/)：能力、できる力
-- [gift](/word/gift/)：天賦の才能、特別な才能
+- [ability](/ability)：能力、できる力
+- [gift](/gift)：天賦の才能、特別な才能
 
 ---
 
 ## 📖 できればこれも
 
-- [strength](/word/strength/)：強み、長所
-- [potential](/word/potential/)：潜在能力、可能性
+- [strength](/strength)：強み、長所
+- [potential](/potential)：潜在能力、可能性
 
-<!-- cvid: aid34_bid36 -->
+<!-- cvid: aid31_bid41 -->

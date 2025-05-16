@@ -81,15 +81,19 @@ TOEICでは説明文やビジネスメールなどで「単なる～」「ほん
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文やビジネスメールなどで「単なる～」「ほん
 ## 🤔  only との違いは？
 
 - **mere**：取るに足らない・重要でないことを強調する「単なる」
-- **[only](/word/only/)**：限定や唯一であることを示す「～だけ」
+- **[only](/only)**：限定や唯一であることを示す「～だけ」
 
 「mere」は「それだけでは大したことがない」という軽視のニュアンスがあり、「only」は数量や範囲を限定する語です。
 
@@ -105,14 +109,14 @@ TOEICでは説明文やビジネスメールなどで「単なる～」「ほん
 
 ## 🧩 あわせて覚えたい
 
-- [slight](/word/slight/)：わずかな、少しの
-- [bare](/word/bare/)：むき出しの、最低限の
+- [slight](/slight)：わずかな、少しの
+- [bare](/bare)：むき出しの、最低限の
 
 ---
 
 ## 📖 できればこれも
 
-- [minor](/word/minor/)：小さい、重要でない
-- [simple](/word/simple/)：単純な、簡単な
+- [minor](/minor)：小さい、重要でない
+- [simple](/simple)：単純な、簡単な
 
-<!-- cvid: aid13_bid21 -->
+<!-- cvid: aid20_bid34 -->

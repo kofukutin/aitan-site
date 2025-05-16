@@ -81,15 +81,19 @@ TOEICでは、メールやレポート、記事の要約部分や、要点をま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールやレポート、記事の要約部分や、要点をま
 ## 🤔  overview との違いは？
 
 - **summary**：重要なポイントを簡潔にまとめた「要約」
-- **[overview](/word/overview/)**：全体像や概要をざっと説明する「概観」
+- **[overview](/overview)**：全体像や概要をざっと説明する「概観」
 
 summaryは詳細を省いて要点だけを短くまとめるのに対し、overviewは全体の流れや構成をざっくり説明する時に使います。
 
@@ -105,14 +109,14 @@ summaryは詳細を省いて要点だけを短くまとめるのに対し、over
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline/)：概要、輪郭
-- [detail](/word/detail/)：詳細、細部
+- [outline](/outline)：概要、輪郭
+- [detail](/detail)：詳細、細部
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report/)：報告書、レポート
-- [conclusion](/word/conclusion/)：結論
+- [report](/report)：報告書、レポート
+- [conclusion](/conclusion)：結論
 
-<!-- cvid: aid42_bid44 -->
+<!-- cvid: aid25_bid03 -->

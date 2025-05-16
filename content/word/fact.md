@@ -81,15 +81,19 @@ TOEICでは「事実」「実際のこと」として、選択肢や文中でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「事実」「実際のこと」として、選択肢や文中でよ
 ## 🤔  information との違いは？
 
 - **fact**：証拠や現実に基づく「事実」
-- **[information](/word/information/)**：知識やデータなど広い意味の「情報」
+- **[information](/information)**：知識やデータなど広い意味の「情報」
 
 factは「正しいと証明できる事実」、informationは「事実・意見・データなどを含む情報全般」を指します。
 
@@ -105,14 +109,14 @@ factは「正しいと証明できる事実」、informationは「事実・意�
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion/)：意見、考え
-- [evidence](/word/evidence/)：証拠、根拠
+- [opinion](/opinion)：意見、考え
+- [evidence](/evidence)：証拠、根拠
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/word/detail/)：詳細、細部
-- [data](/word/data/)：データ、資料
+- [detail](/detail)：詳細、細部
+- [data](/data)：データ、資料
 
-<!-- cvid: aid30_bid43 -->
+<!-- cvid: aid33_bid32 -->

@@ -80,15 +80,19 @@ TOEICでは、契約書や議事録、公式文書などで「会議室」「議
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、契約書や議事録、公式文書などで「会議室」「議
 ## 🤔  room との違いは？
 
 - **chamber**：特定の目的や公式な用途のための部屋、特に会議や議会などで使われる
-- **[room](/word/room/)**：一般的な「部屋」、用途や格式を問わず幅広く使う
+- **[room](/room)**：一般的な「部屋」、用途や格式を問わず幅広く使う
 
 chamberは格式や用途が限定された部屋を指し、roomは日常的なあらゆる部屋に使えます。
 
@@ -104,14 +108,14 @@ chamberは格式や用途が限定された部屋を指し、roomは日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [hall](/word/hall/)：広間、ホール
-- [committee](/word/committee/)：委員会
+- [hall](/hall)：広間、ホール
+- [committee](/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/word/court/)：法廷、裁判所
-- [council](/word/council/)：評議会、協議会
+- [court](/court)：法廷、裁判所
+- [council](/council)：評議会、協議会
 
-<!-- cvid: aid00_bid37 -->
+<!-- cvid: aid07_bid25 -->

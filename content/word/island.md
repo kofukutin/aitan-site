@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、風景や地理に関する説明と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、風景や地理に関する説明と
 ## 🤔  isle との違いは？
 
 - **island**：一般的な「島」を指し、日常会話や正式な文書で広く使われる。
-- **[isle](/word/isle/)**：詩的・文学的な表現や地名で使われることが多い、ややフォーマルな「島」。
+- **[isle](/isle)**：詩的・文学的な表現や地名で使われることが多い、ややフォーマルな「島」。
 
 islandは最も一般的な「島」の表現で、isleは詩的・文学的な響きや地名で使われることが多いです。
 
@@ -105,13 +109,13 @@ islandは最も一般的な「島」の表現で、isleは詩的・文学的な�
 
 ## 🧩 あわせて覚えたい
 
-- [peninsula](/word/peninsula/)：半島
-- [continent](/word/continent/)：大陸
+- [peninsula](/peninsula)：半島
+- [continent](/continent)：大陸
 
 ---
 
 ## 📖 できればこれも
 
-- [beach](/word/beach/)：浜辺
-- [coast](/word/coast/)：海岸
-<!-- cvid: aid01_bid29 -->
+- [beach](/beach)：浜辺
+- [coast](/coast)：海岸
+<!-- cvid: aid26_bid16 -->

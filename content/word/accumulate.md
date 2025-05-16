@@ -84,15 +84,19 @@ TOEICでは、ビジネス文書やレポートで「蓄積する」「積み上
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICでは、ビジネス文書やレポートで「蓄積する」「積み上
 ## 🤔  collect との違いは？
 
 - **accumulate**：時間をかけて徐々に蓄積・積み上げるニュアンス
-- **[collect](/word/collect/)**：意図的に集める、収集するという意味が強い
+- **[collect](/collect)**：意図的に集める、収集するという意味が強い
 
 accumulateは自然に増えていく場合や長期間にわたる蓄積に使われ、collectは目的を持って集める場合に使われます。
 
@@ -108,14 +112,14 @@ accumulateは自然に増えていく場合や長期間にわたる蓄積に使�
 
 ## 🧩 あわせて覚えたい
 
-- [gather](/word/gather/)：集める（人や物をまとめるニュアンス）
-- [amass](/word/amass/)：（大量に）集める、蓄積する
+- [gather](/gather)：集める（人や物をまとめるニュアンス）
+- [amass](/amass)：（大量に）集める、蓄積する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [achieve](/word/achieve/)：達成する
+- [analyze](/analyze)：分析する
+- [achieve](/achieve)：達成する
 
-<!-- cvid: aid16_bid25 -->
+<!-- cvid: aid18_bid39 -->

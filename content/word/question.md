@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で「質問」や「疑問点」を表す語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で「質問」や「疑問点」を表す語
 ## 🤔  inquiry との違いは？
 
 - **question**：日常的な「質問」や「疑問」を幅広く指す。
-- **[inquiry](/word/inquiry/)**：ややフォーマルで「調査」「問い合わせ」など深く調べるニュアンス。
+- **[inquiry](/inquiry)**：ややフォーマルで「調査」「問い合わせ」など深く調べるニュアンス。
 
 questionは日常会話やカジュアルな場面で使われ、inquiryはビジネスや公的な問い合わせ・調査に使われます。
 
@@ -105,14 +109,14 @@ questionは日常会話やカジュアルな場面で使われ、inquiryはビ�
 
 ## 🧩 あわせて覚えたい
 
-- [answer](/word/answer/)：答え、回答
-- [problem](/word/problem/)：問題、課題
+- [answer](/answer)：答え、回答
+- [problem](/problem)：問題、課題
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue/)：（議論すべき）問題、争点
-- [topic](/word/topic/)：話題、テーマ
+- [issue](/issue)：（議論すべき）問題、争点
+- [topic](/topic)：話題、テーマ
 
-<!-- cvid: aid15_bid26 -->
+<!-- cvid: aid09_bid31 -->

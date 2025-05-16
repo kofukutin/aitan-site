@@ -81,15 +81,19 @@ armedはTOEICの文法・語彙問題で、特に「armed with ～（～を備�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ armedはTOEICの文法・語彙問題で、特に「armed with ～（～を備�
 ## 🤔  equipped との違いは？
 
 - **armed**：武器や防護具など、特に「武装」や「防御」のための装備を持っていることを強調
-- **[equipped](/word/equipped/)**：必要な道具や設備全般を備えていることを表し、武器に限らない
+- **[equipped](/equipped)**：必要な道具や設備全般を備えていることを表し、武器に限らない
 
 armedは「武器」や「防御」に特化した装備を指し、equippedはより広く「必要なものを備えている」場合に使います。
 
@@ -105,14 +109,14 @@ armedは「武器」や「防御」に特化した装備を指し、equippedは�
 
 ## 🧩 あわせて覚えたい
 
-- [unarmed](/word/unarmed/)：武装していない、非武装の
-- [weapon](/word/weapon/)：武器
+- [unarmed](/unarmed)：武装していない、非武装の
+- [weapon](/weapon)：武器
 
 ---
 
 ## 📖 できればこれも
 
-- [dangerous](/word/dangerous/)：危険な
-- [protect](/word/protect/)：守る
+- [dangerous](/dangerous)：危険な
+- [protect](/protect)：守る
 
-<!-- cvid: aid42_bid08 -->
+<!-- cvid: aid26_bid49 -->

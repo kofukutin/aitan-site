@@ -81,15 +81,19 @@ TOEICでは、写真描写や位置関係を説明する場面でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、写真描写や位置関係を説明する場面でよく登場し
 ## 🤔  peak との違いは？
 
 - **top**：物や場所の「一番上」や「最上位」を幅広く指す
-- **[peak](/word/peak/)**：山や数字などの「頂点」「絶頂」を強調
+- **[peak](/peak)**：山や数字などの「頂点」「絶頂」を強調
 
 topは一般的な「上部」や「最上位」に使い、peakは「山の頂上」や「絶頂期」など特に尖った頂点を表します。
 
@@ -105,14 +109,14 @@ topは一般的な「上部」や「最上位」に使い、peakは「山の頂�
 
 ## 🧩 あわせて覚えたい
 
-- [bottom](/word/bottom/)：一番下、底
-- [summit](/word/summit/)：山頂、首脳会談
+- [bottom](/bottom)：一番下、底
+- [summit](/summit)：山頂、首脳会談
 
 ---
 
 ## 📖 できればこれも
 
-- [side](/word/side/)：側面、横
-- [edge](/word/edge/)：端、へり
+- [side](/side)：側面、横
+- [edge](/edge)：端、へり
 
-<!-- cvid: aid46_bid07 -->
+<!-- cvid: aid02_bid31 -->

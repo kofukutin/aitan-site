@@ -78,15 +78,19 @@ The company hereby agrees to the terms stated above.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ The company hereby agrees to the terms stated above.
 ## 🤔  therefore との違いは？
 
 - **hereby**：この文書や行為によって公式に何かを実行・宣言する際に使うフォーマルな副詞
-- **[therefore](/word/therefore/)**：理由や結果を述べるときに使う「したがって」「それゆえに」という意味の副詞
+- **[therefore](/therefore)**：理由や結果を述べるときに使う「したがって」「それゆえに」という意味の副詞
 
 herebyは「この手続き・文書によって」という公式な場面限定で使われ、thereforeは因果関係を説明する一般的な副詞です。
 
@@ -102,14 +106,14 @@ herebyは「この手続き・文書によって」という公式な場面限�
 
 ## 🧩 あわせて覚えたい
 
-- [whereas](/word/whereas/)：一方で（対比を示す接続詞）
-- [thus](/word/thus/)：したがって、それゆえに（結果を示す副詞）
+- [whereas](/whereas)：一方で（対比を示す接続詞）
+- [thus](/thus)：したがって、それゆえに（結果を示す副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [herein](/word/herein/)：この中で（文書内を指すフォーマルな副詞）
-- [therein](/word/therein/)：その中で（他の文書や場所を指すフォーマルな副詞）
+- [herein](/herein)：この中で（文書内を指すフォーマルな副詞）
+- [therein](/therein)：その中で（他の文書や場所を指すフォーマルな副詞）
 
-<!-- cvid: aid05_bid49 -->
+<!-- cvid: aid31_bid16 -->

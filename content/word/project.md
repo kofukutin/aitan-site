@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「project」が頻出します。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「project」が頻出します。�
 ## 🤔  plan との違いは？
 
 - **project**：具体的な目標や成果物があり、一定期間で実行される活動や事業
-- **[plan](/word/plan/)**：実行前の「計画」自体やその内容
+- **[plan](/plan)**：実行前の「計画」自体やその内容
 
 projectは「実際に動き出す仕事や活動」、planは「その前段階の設計や構想」を指す点が異なります。
 
@@ -105,14 +109,14 @@ projectは「実際に動き出す仕事や活動」、planは「その前段階
 
 ## 🧩 あわせて覚えたい
 
-- [proposal](/word/proposal/)：提案、企画書
-- [assignment](/word/assignment/)：課題、割り当て
+- [proposal](/proposal)：提案、企画書
+- [assignment](/assignment)：課題、割り当て
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/word/task/)：作業、任務
-- [goal](/word/goal/)：目標
+- [task](/task)：作業、任務
+- [goal](/goal)：目標
 
-<!-- cvid: aid45_bid13 -->
+<!-- cvid: aid09_bid32 -->

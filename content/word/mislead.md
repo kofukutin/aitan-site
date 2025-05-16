@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメールで「誤解を招く」「誤った
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid15_bid13" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid13" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメールで「誤解を招く」「誤った
 ## 🤔  deceive との違いは？
 
 - **mislead**：意図的・無意識にかかわらず、相手を誤った方向に導くこと。
-- **[deceive](/word/deceive/)**：意図的にだまして相手を信じ込ませること。
+- **[deceive](/deceive)**：意図的にだまして相手を信じ込ませること。
 
 misleadは「誤解させる」ニュアンスが強く、deceiveは「だまして信じ込ませる」意図がより明確です。
 
@@ -105,14 +109,14 @@ misleadは「誤解させる」ニュアンスが強く、deceiveは「だまし
 
 ## 🧩 あわせて覚えたい
 
-- [confuse](/word/confuse/)：混乱させる
-- [clarify](/word/clarify/)：明確にする
+- [confuse](/confuse)：混乱させる
+- [clarify](/clarify)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [distort](/word/distort/)：歪める
-- [misinterpret](/word/misinterpret/)：誤解する
+- [distort](/distort)：歪める
+- [misinterpret](/misinterpret)：誤解する
 
-<!-- cvid: aid47_bid36 -->
+<!-- cvid: aid15_bid13 -->

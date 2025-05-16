@@ -81,15 +81,19 @@ The company collapsed due to financial problems.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company collapsed due to financial problems.
 ## 🤔  fall との違いは？
 
 - **collapse**：急激に崩れる、組織や建物が一気に壊れる
-- **[fall](/word/fall/)**：単に落ちる、倒れる（重力で下に動く）
+- **[fall](/fall)**：単に落ちる、倒れる（重力で下に動く）
 
 collapseは「突然の崩壊」や「機能停止」のニュアンスが強く、fallは「物理的に落ちる・倒れる」ときに使います。
 
@@ -105,14 +109,14 @@ collapseは「突然の崩壊」や「機能停止」のニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [break_down](/word/break_down/)：故障する、分解する
-- [crash](/word/crash/)：激しく壊れる、衝突する
+- [break_down](/break_down)：故障する、分解する
+- [crash](/crash)：激しく壊れる、衝突する
 
 ---
 
 ## 📖 できればこれも
 
-- [fail](/word/fail/)：失敗する、うまくいかない
-- [decline](/word/decline/)：減少する、衰える
+- [fail](/fail)：失敗する、うまくいかない
+- [decline](/decline)：減少する、衰える
 
-<!-- cvid: aid36_bid47 -->
+<!-- cvid: aid28_bid17 -->

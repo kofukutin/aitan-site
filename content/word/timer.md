@@ -81,15 +81,19 @@ TOEICでは、会議室やオフィス機器の説明、日常的な会話で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議室やオフィス機器の説明、日常的な会話で「
 ## 🤔  stopwatch との違いは？
 
 - **timer**：あらかじめ設定した時間をカウントダウンし、終了時に知らせる装置や機能。
-- **[stopwatch](/word/stopwatch/)**：スタートからの経過時間を計測する装置や機能。
+- **[stopwatch](/stopwatch)**：スタートからの経過時間を計測する装置や機能。
 
 timerは「残り時間」を測るのに使い、stopwatchは「経過時間」を測るのに使います。
 
@@ -105,14 +109,14 @@ timerは「残り時間」を測るのに使い、stopwatchは「経過時間」
 
 ## 🧩 あわせて覚えたい
 
-- [alarm](/word/alarm/)：アラーム、警報
-- [clock](/word/clock/)：時計
+- [alarm](/alarm)：アラーム、警報
+- [clock](/clock)：時計
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [button](/word/button/)：ボタン
+- [device](/device)：装置、機器
+- [button](/button)：ボタン
 
-<!-- cvid: aid42_bid27 -->
+<!-- cvid: aid19_bid02 -->

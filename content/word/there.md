@@ -77,15 +77,19 @@ TOEICではPart 2の応答問題や、場所・存在を尋ねる会話で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid02_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart 2の応答問題や、場所・存在を尋ねる会話で頻出
 ## 🤔  here との違いは？
 
 - **there**：話し手から離れた場所や、存在を示すときに使う
-- **[here](/word/here/)**：話し手の近くや「ここ」を指す
+- **[here](/here)**：話し手の近くや「ここ」を指す
 
 「there」は「そこ・あそこ」など話し手から離れた場所や、存在を表すときに使い、「here」は話し手の近くを指します。
 
@@ -101,14 +105,14 @@ TOEICではPart 2の応答問題や、場所・存在を尋ねる会話で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [over there](/word/over_there/)：あちらに、向こうに
-- [everywhere](/word/everywhere/)：どこでも、あらゆる場所で
+- [over there](/over_there)：あちらに、向こうに
+- [everywhere](/everywhere)：どこでも、あらゆる場所で
 
 ---
 
 ## 📖 できればこれも
 
-- [then](/word/then/)：そのとき、それから
-- [where](/word/where/)：どこ、どこで
+- [then](/then)：そのとき、それから
+- [where](/where)：どこ、どこで
 
-<!-- cvid: aid17_bid49 -->
+<!-- cvid: aid02_bid04 -->

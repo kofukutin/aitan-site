@@ -81,15 +81,19 @@ TOEICでは、時刻やスケジュールに関する会話や写真描写でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid42" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid42" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、時刻やスケジュールに関する会話や写真描写でよ
 ## 🤔  midday との違いは？
 
 - **noon**：正確に12時（正午）を指す
-- **[midday](/word/midday/)**：午前と午後の境目付近、正午前後の時間帯を指す
+- **[midday](/midday)**：午前と午後の境目付近、正午前後の時間帯を指す
 
 noonは「12時ちょうど」を意味し、middayは「昼ごろ」や「昼間の時間帯」とやや幅広く使われます。
 
@@ -105,14 +109,14 @@ noonは「12時ちょうど」を意味し、middayは「昼ごろ」や「昼�
 
 ## 🧩 あわせて覚えたい
 
-- [afternoon](/word/afternoon/)：午後
-- [midnight](/word/midnight/)：真夜中、午前0時
+- [afternoon](/afternoon)：午後
+- [midnight](/midnight)：真夜中、午前0時
 
 ---
 
 ## 📖 できればこれも
 
-- [morning](/word/morning/)：朝
-- [evening](/word/evening/)：夕方
+- [morning](/morning)：朝
+- [evening](/evening)：夕方
 
-<!-- cvid: aid11_bid34 -->
+<!-- cvid: aid28_bid42 -->

@@ -81,15 +81,19 @@ TOEICでは、駐車や交通、トラブル対応の会話で「けん引する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、駐車や交通、トラブル対応の会話で「けん引する
 ## 🤔  pull との違いは？
 
 - **tow**：ロープやチェーンなどで重いものを引っ張る、特に車や船などに使う
-- **[pull](/word/pull/)**：一般的に「引く」、人や物を手で引くなど幅広い場面で使う
+- **[pull](/pull)**：一般的に「引く」、人や物を手で引くなど幅広い場面で使う
 
 towは機械的・物理的に重いものを引っ張る場合に使い、pullはもっと広い意味で「引く」全般に使います。
 
@@ -105,14 +109,14 @@ towは機械的・物理的に重いものを引っ張る場合に使い、pull�
 
 ## 🧩 あわせて覚えたい
 
-- [drag](/word/drag/)：（地面をこすりながら）引きずる
-- [haul](/word/haul/)：（重いものを）力を入れて引っ張る
+- [drag](/drag)：（地面をこすりながら）引きずる
+- [haul](/haul)：（重いものを）力を入れて引っ張る
 
 ---
 
 ## 📖 できればこれも
 
-- [lift](/word/lift/)：持ち上げる
-- [carry](/word/carry/)：運ぶ
+- [lift](/lift)：持ち上げる
+- [carry](/carry)：運ぶ
 
-<!-- cvid: aid40_bid28 -->
+<!-- cvid: aid08_bid47 -->

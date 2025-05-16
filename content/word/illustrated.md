@@ -81,15 +81,19 @@ TOEICでは、説明文や記事、マニュアルなどで「illustrated book�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文や記事、マニュアルなどで「illustrated book�
 ## 🤔  described との違いは？
 
 - **illustrated**：挿絵や図解など、視覚的な説明が加えられていることを強調
-- **[described](/word/described/)**：言葉や文章で説明されていることを強調
+- **[described](/described)**：言葉や文章で説明されていることを強調
 
 「illustrated」は図や絵で説明されている場合、「described」は文章や言葉で説明されている場合に使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、説明文や記事、マニュアルなどで「illustrated book�
 
 ## 🧩 あわせて覚えたい
 
-- [depicted](/word/depicted/)：描写された、描かれた
-- [explained](/word/explained/)：説明された
+- [depicted](/depicted)：描写された、描かれた
+- [explained](/explained)：説明された
 
 ---
 
 ## 📖 できればこれも
 
-- [detailed](/word/detailed/)：詳細な
-- [outlined](/word/outlined/)：概要が示された
+- [detailed](/detailed)：詳細な
+- [outlined](/outlined)：概要が示された
 
-<!-- cvid: aid11_bid05 -->
+<!-- cvid: aid14_bid40 -->

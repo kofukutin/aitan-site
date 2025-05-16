@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【lift】の意味・使い方・例文 ― raiseとの違い【TOEIC英単語】"
 description: "liftの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでraiseとの違いもわかりやすく学べます。"
 word: "lift"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、人や物を「持ち上げる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、人や物を「持ち上げる
 ## 🤔  raise との違いは？
 
 - **lift**：物や人を物理的に持ち上げる動作に使う
-- **[raise](/word/raise/)**：物理的にも抽象的にも「上げる」「高める」に使える
+- **[raise](/raise)**：物理的にも抽象的にも「上げる」「高める」に使える
 
 liftは「持ち上げる」動作そのものに焦点があり、raiseは「位置やレベルを上げる」広い意味で使われます。
 
@@ -105,14 +109,14 @@ liftは「持ち上げる」動作そのものに焦点があり、raiseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [lower](/word/lower/)：下げる
-- [elevate](/word/elevate/)：（地位・レベルなどを）高める、昇進させる
+- [lower](/lower)：下げる
+- [elevate](/elevate)：（地位・レベルなどを）高める、昇進させる
 
 ---
 
 ## 📖 できればこれも
 
-- [carry](/word/carry/)：運ぶ
-- [move](/word/move/)：動かす
+- [carry](/carry)：運ぶ
+- [move](/move)：動かす
 
-<!-- cvid: aid01_bid05 -->
+<!-- cvid: aid22_bid18 -->

@@ -81,15 +81,19 @@ TOEICでは、教育や研修、イベント案内などの文脈でschoolが登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid05_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、教育や研修、イベント案内などの文脈でschoolが登
 ## 🤔  academy との違いは？
 
 - **school**：一般的な学校。初等・中等教育機関や広い意味での学びの場。
-- **[academy](/word/academy/)**：専門的な教育機関や特定分野の学校を指すことが多い。
+- **[academy](/academy)**：専門的な教育機関や特定分野の学校を指すことが多い。
 
 schoolは幅広い教育機関を指しますが、academyは特定分野や専門性の高い教育機関に使われます。
 
@@ -105,14 +109,14 @@ schoolは幅広い教育機関を指しますが、academyは特定分野や専�
 
 ## 🧩 あわせて覚えたい
 
-- [university](/word/university/)：大学
-- [classroom](/word/classroom/)：教室
+- [university](/university)：大学
+- [classroom](/classroom)：教室
 
 ---
 
 ## 📖 できればこれも
 
-- [teacher](/word/teacher/)：先生
-- [student](/word/student/)：生徒
+- [teacher](/teacher)：先生
+- [student](/student)：生徒
 
-<!-- cvid: aid04_bid49 -->
+<!-- cvid: aid05_bid14 -->

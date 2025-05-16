@@ -81,15 +81,19 @@ TOEICでは、荷物や建物の寸法、身長などを問う文脈で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、荷物や建物の寸法、身長などを問う文脈で出題さ
 ## 🤔  altitude との違いは？
 
 - **height**：物や人の高さ、身長、地面からの高さなど一般的な「高さ」
-- **[altitude](/word/altitude/)**：海抜や地表からの「高度」、特に飛行機や山などの高さ
+- **[altitude](/altitude)**：海抜や地表からの「高度」、特に飛行機や山などの高さ
 
 heightは日常的な「高さ」全般に使い、altitudeは特に地表や海抜からの「高度」に限定して使います。
 
@@ -105,14 +109,14 @@ heightは日常的な「高さ」全般に使い、altitudeは特に地表や海
 
 ## 🧩 あわせて覚えたい
 
-- [depth](/word/depth/)：深さ
-- [length](/word/length/)：長さ
+- [depth](/depth)：深さ
+- [length](/length)：長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [width](/word/width/)：幅
-- [size](/word/size/)：大きさ
+- [width](/width)：幅
+- [size](/size)：大きさ
 
-<!-- cvid: aid43_bid45 -->
+<!-- cvid: aid12_bid09 -->

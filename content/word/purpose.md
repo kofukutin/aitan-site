@@ -82,7 +82,7 @@ TOEICでは、会議やビジネス文書の中で「目的」を問う文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+冴えたうちに進もう👇️
 
 ---
 
@@ -90,7 +90,11 @@ TOEICでは、会議やビジネス文書の中で「目的」を問う文脈で
 
 <div class="info-center">
 ＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会議やビジネス文書の中で「目的」を問う文脈で
 ## 🤔  goal との違いは？
 
 - **purpose**：行動や計画の根本的な「目的」や「意図」を指す
-- **[goal](/word/goal/)**：達成すべき「具体的な目標」や「ゴール」を指す
+- **[goal](/goal)**：達成すべき「具体的な目標」や「ゴール」を指す
 
 purposeは「なぜそれをするのか」という理由や意図に焦点があり、goalは「何を達成するか」という具体的な到達点に焦点があります。
 
@@ -106,14 +110,14 @@ purposeは「なぜそれをするのか」という理由や意図に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [objective](/word/objective/)：達成すべき具体的な目標
-- [intention](/word/intention/)：意図、意思
+- [objective](/objective)：達成すべき具体的な目標
+- [intention](/intention)：意図、意思
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [reason](/word/reason/)：理由
+- [plan](/plan)：計画
+- [reason](/reason)：理由
 
-<!-- cvid: aid19_bid04 -->
+<!-- cvid: aid48_bid04 -->

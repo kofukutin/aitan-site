@@ -81,15 +81,19 @@ TOEICでは主に長文読解や説明文で「部門」「区分」「節」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解や説明文で「部門」「区分」「節」な
 ## 🤔  part との違いは？
 
 - **section**：全体を明確に区切った「区分」「部門」「節」など、構造的なまとまりを強調。
-- **[part](/word/part/)**：全体の「一部」「部分」として、必ずしも明確な区切りや構造を持たない場合にも使う。
+- **[part](/part)**：全体の「一部」「部分」として、必ずしも明確な区切りや構造を持たない場合にも使う。
 
 sectionは組織や文書などで明確に分けられたまとまりを指し、partはより広く「一部分」として使われます。
 
@@ -105,14 +109,14 @@ sectionは組織や文書などで明確に分けられたまとまりを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division/)：分割、部門
-- [segment](/word/segment/)：区切り、部分
+- [division](/division)：分割、部門
+- [segment](/segment)：区切り、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [chapter](/word/chapter/)：（本などの）章
-- [paragraph](/word/paragraph/)：段落
+- [chapter](/chapter)：（本などの）章
+- [paragraph](/paragraph)：段落
 
-<!-- cvid: aid05_bid27 -->
+<!-- cvid: aid02_bid49 -->

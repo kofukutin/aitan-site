@@ -81,15 +81,19 @@ TOEICではIT機器の接続や人と人との連絡に関する会話でよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT機器の接続や人と人との連絡に関する会話でよく�
 ## 🤔  link との違いは？
 
 - **connect**：物理的・論理的に「つなぐ」「接続する」こと全般に使う
-- **[link](/word/link/)**：主に「関連付ける」「リンクする」など、より抽象的・間接的なつながりに使う
+- **[link](/link)**：主に「関連付ける」「リンクする」など、より抽象的・間接的なつながりに使う
 
 connectは実際にケーブルやネットワークなどを「つなぐ」場合によく使い、linkは情報や概念などの「関連付け」に使われます。
 
@@ -105,14 +109,14 @@ connectは実際にケーブルやネットワークなどを「つなぐ」場�
 
 ## 🧩 あわせて覚えたい
 
-- [attach](/word/attach/)：取り付ける、添付する
-- [disconnect](/word/disconnect/)：切断する、接続を解除する
+- [attach](/attach)：取り付ける、添付する
+- [disconnect](/disconnect)：切断する、接続を解除する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [access](/word/access/)：アクセスする、利用する
+- [install](/install)：インストールする、設置する
+- [access](/access)：アクセスする、利用する
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid03_bid22 -->

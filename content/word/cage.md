@@ -81,15 +81,19 @@ TOEICでは主に動物園やペットショップの写真描写で「cage」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に動物園やペットショップの写真描写で「cage」�
 ## 🤔  enclosure との違いは？
 
 - **cage**：金属や木の枠でできた「おり」や「かご」。主に動物や鳥を閉じ込める小さめの囲い。
-- **[enclosure](/word/enclosure/)**：広い範囲を囲った「囲い」や「柵」。動物園の大型動物用スペースなど。
+- **[enclosure](/enclosure)**：広い範囲を囲った「囲い」や「柵」。動物園の大型動物用スペースなど。
 
 cageは小型動物や鳥などを閉じ込める「おり」、enclosureはより広いスペースを囲った「囲い」を指します。
 
@@ -105,14 +109,14 @@ cageは小型動物や鳥などを閉じ込める「おり」、enclosureはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [pen](/word/pen/)：家畜などを囲う「囲い」
-- [prison](/word/prison/)：人を閉じ込める「刑務所」
+- [pen](/pen)：家畜などを囲う「囲い」
+- [prison](/prison)：人を閉じ込める「刑務所」
 
 ---
 
 ## 📖 できればこれも
 
-- [zoo](/word/zoo/)：動物園
-- [animal](/word/animal/)：動物
+- [zoo](/zoo)：動物園
+- [animal](/animal)：動物
 
-<!-- cvid: aid24_bid14 -->
+<!-- cvid: aid31_bid30 -->

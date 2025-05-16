@@ -82,15 +82,19 @@ TOEICではPart 2のリスニングや会話文で、過去の出来事を尋ね
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 2のリスニングや会話文で、過去の出来事を尋ね
 ## 🤔  eat との違いは？
 
 - **ate**：過去に「食べた」という意味で使う
-- **[eat](/word/eat/)**：現在や習慣的に「食べる」という意味で使う
+- **[eat](/eat)**：現在や習慣的に「食べる」という意味で使う
 
 「ate」は過去の出来事、「eat」は現在や普段の行動を表します。
 
@@ -106,14 +110,14 @@ TOEICではPart 2のリスニングや会話文で、過去の出来事を尋ね
 
 ## 🧩 あわせて覚えたい
 
-- [consume](/word/consume/)：消費する、食べる（フォーマルな表現）
-- [devour](/word/devour/)：むさぼり食う、がつがつ食べる
+- [consume](/consume)：消費する、食べる（フォーマルな表現）
+- [devour](/devour)：むさぼり食う、がつがつ食べる
 
 ---
 
 ## 📖 できればこれも
 
-- [drink](/word/drink/)：飲む
-- [cook](/word/cook/)：料理する
+- [drink](/drink)：飲む
+- [cook](/cook)：料理する
 
-<!-- cvid: aid36_bid37 -->
+<!-- cvid: aid12_bid27 -->

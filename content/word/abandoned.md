@@ -13,12 +13,12 @@ tags:
   - 説明
 compared_word: "deserted"
 related_words:
-  - "neglected"
   - "vacant"
+  - "neglected"
 next_words:
   - "damaged"
   - "ruined"
-last_update: "2025-05-04"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 abandonedの発音と意味
@@ -32,18 +32,11 @@ last_update: "2025-05-04"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
-
 [形容詞] 見捨てられた、放棄された
 
-**abandoned** は、「人や物が見捨てられて放置された」「所有者や管理者がいなくなった」状態を表す形容詞です。建物や場所、動物などによく使われます。
+**abandoned** は、「人が住まなくなった」「使われなくなった」「見捨てられた」など、もともとあったものが放置されている状態を表す形容詞です。
 
-語源は「abandon（捨てる、放棄する）」の過去分詞形で、「完全に（ab-）＋支配をやめる（bandon）」から来ています。元々は「自由にする」という意味もありましたが、現代では「放棄された」という否定的な意味で使われます。
+語源は「abandon（捨てる、放棄する）」の過去分詞形で、「完全に（ab-）＋支配から解放する（bandon）」が由来です。もともと所有や管理されていたものが、意図的に手放されたニュアンスがあります。
 
 他の品詞：  
 - abandon：捨てる、放棄する（動詞）
@@ -54,12 +47,12 @@ function playTTS(word) {
 ## ✏️ abandonedの例文
 
 【日常会話】  
-We found an abandoned cat in the park.  
-　私たちは公園で捨てられた猫を見つけました。
+The old house looks abandoned.  
+　その古い家は見捨てられているように見える。
 
 【ビジネス英語】  
-The company moved to a new office and left the old building abandoned.  
-　その会社は新しいオフィスに移転し、古い建物は放置されました。
+The abandoned factory will be demolished next month.  
+　その放置された工場は来月取り壊されます。
 
 ---
 
@@ -68,7 +61,7 @@ The company moved to a new office and left the old building abandoned.
 - 難易度：★★★☆☆
 - 出題パート：Part 5（文法・語彙問題）
 
-TOEICでは、abandonedは主に建物やプロジェクト、物が「放棄された」状態を説明する文脈で出題されます。形容詞として空所補充問題などでよく見かけます。
+TOEICでは、建物や施設、プロジェクトなどが「放棄された」「使われなくなった」ことを説明する文脈で出題されることが多いです。形容詞として空所補充問題でよく見かけます。
 
 ---
 
@@ -76,50 +69,54 @@ TOEICでは、abandonedは主に建物やプロジェクト、物が「放棄さ
 
 正しい使い方はどっち？
 
-1. The abandoned house was very old.  
-2. The abandon house was very old.
+1. The abandoned building was dangerous to enter.  
+2. The abandoning building was dangerous to enter.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：abandonedは「放棄された」という意味の形容詞で、名詞の前に使います。abandonは動詞なので文法的に誤りです。
+- 解説：「abandoned」は「見捨てられた」という状態を表す形容詞で、buildingを修飾できます。「abandoning」は誤用です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  deserted との違いは？
 
-- **abandoned**：人や管理者が意図的に見捨てて放置されたニュアンスが強い
-- **[deserted](/word/deserted/)**：一時的・偶発的に「誰もいない」「人気がない」状態を表す
+- **abandoned**：人や管理者が意図的に放棄した、見捨てられた状態
+- **[deserted](/deserted)**：人がいなくて寂しい、人気（ひとけ）のない状態
 
-abandonedは「所有者が捨てた」否定的な意味合いが強く、desertedは「一時的に人がいない」など状況的な空虚さを表します。
+abandonedは「所有者や管理者が放棄した」ニュアンスが強く、desertedは「誰もいなくて寂しい」雰囲気を強調します。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [neglected](/word/neglected/)：無視された、手入れされていない
-- [vacant](/word/vacant/)：空いている、空の
+- [vacant](/vacant)：空いている、空室の
+- [neglected](/neglected)：手入れされていない、無視された
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/word/damaged/)：損傷した
-- [ruined](/word/ruined/)：壊れた、荒廃した
+- [damaged](/damaged)：損傷した
+- [ruined](/ruined)：荒廃した、台無しになった
 
-<!-- cvid: aid21_bid46 -->
+<!-- cvid: aid34_bid37 -->

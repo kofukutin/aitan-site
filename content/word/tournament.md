@@ -80,15 +80,19 @@ tournamentは、TOEICの案内文やイベント告知、社内報などで登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ tournamentは、TOEICの案内文やイベント告知、社内報などで登�
 ## 🤔  competition との違いは？
 
 - **tournament**：勝ち抜き方式の大会やトーナメントを指す
-- **[competition](/word/competition/)**：広く「競争」「競技会」全般を指す
+- **[competition](/competition)**：広く「競争」「競技会」全般を指す
 
 tournamentは複数の試合を通じて勝者を決める大会、competitionは形式を問わず競い合う場全般に使います。
 
@@ -104,14 +108,14 @@ tournamentは複数の試合を通じて勝者を決める大会、competition�
 
 ## 🧩 あわせて覚えたい
 
-- [match](/word/match/)：試合、対戦
-- [league](/word/league/)：リーグ戦、連盟
+- [match](/match)：試合、対戦
+- [league](/league)：リーグ戦、連盟
 
 ---
 
 ## 📖 できればこれも
 
-- [contest](/word/contest/)：コンテスト、競技会
-- [event](/word/event/)：イベント、行事
+- [contest](/contest)：コンテスト、競技会
+- [event](/event)：イベント、行事
 
-<!-- cvid: aid09_bid45 -->
+<!-- cvid: aid06_bid22 -->

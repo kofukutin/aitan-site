@@ -81,15 +81,19 @@ shoreはTOEICのPart 1（写真描写）で、水辺や景色の説明として�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ shoreはTOEICのPart 1（写真描写）で、水辺や景色の説明として�
 ## 🤔  coast との違いは？
 
 - **shore**：水と陸の境界である「岸」や「岸辺」を指し、湖や川にも使える。
-- **[coast](/word/coast/)**：特に「海岸線」や「沿岸地域」を指し、広い範囲の海沿いの土地を表す。
+- **[coast](/coast)**：特に「海岸線」や「沿岸地域」を指し、広い範囲の海沿いの土地を表す。
 
 shoreは水辺のすぐそばの陸地を指し、coastはより広い海沿いの地域や海岸線全体を指します。
 
@@ -105,14 +109,14 @@ shoreは水辺のすぐそばの陸地を指し、coastはより広い海沿い�
 
 ## 🧩 あわせて覚えたい
 
-- [beach](/word/beach/)：砂浜
-- [bank](/word/bank/)：川岸、土手
+- [beach](/beach)：砂浜
+- [bank](/bank)：川岸、土手
 
 ---
 
 ## 📖 できればこれも
 
-- [harbor](/word/harbor/)：港
-- [island](/word/island/)：島
+- [harbor](/harbor)：港
+- [island](/island)：島
 
-<!-- cvid: aid38_bid27 -->
+<!-- cvid: aid29_bid25 -->

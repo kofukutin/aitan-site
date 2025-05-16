@@ -81,15 +81,19 @@ TOEICでは、メールや報告書の書式や体裁に関する設問で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや報告書の書式や体裁に関する設問で出題
 ## 🤔  layout との違いは？
 
 - **formatting**：書式や体裁を整える作業やその状態
-- **[layout](/word/layout/)**：配置や構成そのもの、見た目の並び
+- **[layout](/layout)**：配置や構成そのもの、見た目の並び
 
 formattingは「見た目や体裁を整える行為や方法」、layoutは「要素の配置や構成」を指し、formattingは細部の体裁、layoutは全体の配置に焦点があります。
 
@@ -105,14 +109,14 @@ formattingは「見た目や体裁を整える行為や方法」、layoutは「�
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement/)：配置、並べ方
-- [structure](/word/structure/)：構造、組み立て
+- [arrangement](/arrangement)：配置、並べ方
+- [structure](/structure)：構造、組み立て
 
 ---
 
 ## 📖 できればこれも
 
-- [editing](/word/editing/)：編集
-- [template](/word/template/)：ひな形、テンプレート
+- [editing](/editing)：編集
+- [template](/template)：ひな形、テンプレート
 
-<!-- cvid: aid32_bid18 -->
+<!-- cvid: aid26_bid30 -->

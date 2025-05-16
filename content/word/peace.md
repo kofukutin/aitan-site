@@ -81,15 +81,19 @@ TOEICでは、国際関係やビジネスの話題で「peace」が登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、国際関係やビジネスの話題で「peace」が登場する�
 ## 🤔  calm との違いは？
 
 - **peace**：争いがない状態や心の安らぎを指す
-- **[calm](/word/calm/)**：落ち着いている様子や静けさを指す
+- **[calm](/calm)**：落ち着いている様子や静けさを指す
 
 「peace」は社会的な平和や心の安らぎなど広い意味で使われ、「calm」は主に感情や天候などが静かな状態を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、国際関係やビジネスの話題で「peace」が登場する�
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict/)：争い、対立
-- [harmony](/word/harmony/)：調和、一致
+- [conflict](/conflict)：争い、対立
+- [harmony](/harmony)：調和、一致
 
 ---
 
 ## 📖 できればこれも
 
-- [quiet](/word/quiet/)：静かな
-- [order](/word/order/)：秩序、順序
+- [quiet](/quiet)：静かな
+- [order](/order)：秩序、順序
 
-<!-- cvid: aid13_bid40 -->
+<!-- cvid: aid43_bid38 -->

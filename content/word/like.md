@@ -81,15 +81,19 @@ TOEICではPart 2やPart 3で「～が好きですか？」などの質問や、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid05" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid05" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2やPart 3で「～が好きですか？」などの質問や、
 ## 🤔  prefer との違いは？
 
 - **like**：単純に「好き」「好む」という意味で、幅広い場面で使う。
-- **[prefer](/word/prefer/)**：複数の選択肢の中で「より好む」という意味。
+- **[prefer](/prefer)**：複数の選択肢の中で「より好む」という意味。
 
 likeは一般的な好みを表し、preferは比較してどちらかを選ぶときに使います。
 
@@ -105,14 +109,14 @@ likeは一般的な好みを表し、preferは比較してどちらかを選ぶ�
 
 ## 🧩 あわせて覚えたい
 
-- [love](/word/love/)：大好きである
-- [enjoy](/word/enjoy/)：楽しむ
+- [love](/love)：大好きである
+- [enjoy](/enjoy)：楽しむ
 
 ---
 
 ## 📖 できればこれも
 
-- [want](/word/want/)：欲しい、～したい
-- [need](/word/need/)：必要とする
+- [want](/want)：欲しい、～したい
+- [need](/need)：必要とする
 
-<!-- cvid: aid27_bid19 -->
+<!-- cvid: aid28_bid05 -->

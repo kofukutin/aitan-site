@@ -81,15 +81,19 @@ spillはTOEICのPart 1で、飲み物や液体がこぼれている場面の描�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ spillはTOEICのPart 1で、飲み物や液体がこぼれている場面の描�
 ## 🤔  pour との違いは？
 
 - **spill**：意図せずに液体や粉をこぼすこと
-- **[pour](/word/pour/)**：意図的に液体を注ぐこと
+- **[pour](/pour)**：意図的に液体を注ぐこと
 
 spillは「うっかりこぼす」ニュアンス、pourは「注ぐ」動作を意図的に行う点が異なります。
 
@@ -105,14 +109,14 @@ spillは「うっかりこぼす」ニュアンス、pourは「注ぐ」動作�
 
 ## 🧩 あわせて覚えたい
 
-- [leak](/word/leak/)：液体や気体が漏れる
-- [scatter](/word/scatter/)：ばらまく、散らす
+- [leak](/leak)：液体や気体が漏れる
+- [scatter](/scatter)：ばらまく、散らす
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/word/drop/)：落とす
-- [break](/word/break/)：壊す
+- [drop](/drop)：落とす
+- [break](/break)：壊す
 
-<!-- cvid: aid08_bid08 -->
+<!-- cvid: aid21_bid15 -->

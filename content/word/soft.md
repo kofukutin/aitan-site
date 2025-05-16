@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【soft】の意味・使い方・例文 ― gentleとの違い【TOEIC英単語】"
 description: "softの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでgentleとの違いもわかりやすく学べます。"
 word: "soft"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物の質感や状態を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid08_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物の質感や状態を説明する
 ## 🤔  gentle との違いは？
 
 - **soft**：物理的な「柔らかさ」や、音・態度などの「やさしさ」を幅広く表す
-- **[gentle](/word/gentle/)**：人の性格や動作が「穏やか」「優しい」ことを主に表す
+- **[gentle](/gentle)**：人の性格や動作が「穏やか」「優しい」ことを主に表す
 
 softは感触や音、雰囲気など幅広い対象に使えますが、gentleは主に人や動作の「やさしさ」「穏やかさ」に使われます。
 
@@ -105,14 +109,14 @@ softは感触や音、雰囲気など幅広い対象に使えますが、gentle�
 
 ## 🧩 あわせて覚えたい
 
-- [hard](/word/hard/)：硬い、難しい
-- [smooth](/word/smooth/)：なめらかな、すべらかな
+- [hard](/hard)：硬い、難しい
+- [smooth](/smooth)：なめらかな、すべらかな
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light/)：軽い、明るい
-- [quiet](/word/quiet/)：静かな
+- [light](/light)：軽い、明るい
+- [quiet](/quiet)：静かな
 
-<!-- cvid: aid23_bid14 -->
+<!-- cvid: aid08_bid24 -->

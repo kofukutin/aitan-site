@@ -77,15 +77,19 @@ accordinglyはTOEICの長文読解パートで、因果関係や手順の説明�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ accordinglyはTOEICの長文読解パートで、因果関係や手順の説明�
 ## 🤔  therefore との違いは？
 
 - **accordingly**：前述の状況や条件に「応じて」「それに従って」という意味合いが強い
-- **[therefore](/word/therefore/)**：理由や原因から「したがって」「それゆえに」と結論を述べる
+- **[therefore](/therefore)**：理由や原因から「したがって」「それゆえに」と結論を述べる
 
 accordinglyは状況への対応や行動の変化を示すときに使い、thereforeは論理的な結論や結果を述べるときに使います。
 
@@ -101,14 +105,14 @@ accordinglyは状況への対応や行動の変化を示すときに使い、the
 
 ## 🧩 あわせて覚えたい
 
-- [consequently](/word/consequently/)：その結果として
-- [thus](/word/thus/)：このようにして、それゆえに
+- [consequently](/consequently)：その結果として
+- [thus](/thus)：このようにして、それゆえに
 
 ---
 
 ## 📖 できればこれも
 
-- [consequently](/word/consequently/)：その結果として
-- [hence](/word/hence/)：それゆえに
+- [consequently](/consequently)：その結果として
+- [hence](/hence)：それゆえに
 
-<!-- cvid: aid17_bid03 -->
+<!-- cvid: aid24_bid23 -->

@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写で、物や人の位置・動作を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid09" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid09" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や人の位置・動作を説明
 ## 🤔  above との違いは？
 
 - **up**：下から上への動きや方向を表す。
-- **[above](/word/above/)**：ある基準より「上の位置」にあることを表す。
+- **[above](/above)**：ある基準より「上の位置」にあることを表す。
 
 **up**は「上へ向かう動き」、**above**は「上の位置にある状態」を表す点が異なります。
 
@@ -101,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、物や人の位置・動作を説明
 
 ## 🧩 あわせて覚えたい
 
-- [down](/word/down/)：下へ、下がって
-- [over](/word/over/)：～の上を越えて、～の上に
+- [down](/down)：下へ、下がって
+- [over](/over)：～の上を越えて、～の上に
 
 ---
 
 ## 📖 できればこれも
 
-- [under](/word/under/)：～の下に
-- [across](/word/across/)：～を横切って
+- [under](/under)：～の下に
+- [across](/across)：～を横切って
 
-<!-- cvid: aid02_bid48 -->
+<!-- cvid: aid01_bid09 -->

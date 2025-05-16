@@ -81,15 +81,19 @@ TOEICでは医療や社会問題を扱う長文でまれに登場します。フ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や社会問題を扱う長文でまれに登場します。フ
 ## 🤔  transgender との違いは？
 
 - **transsexual**：医学的な処置を受けて身体的な性別を変更した人を指す、ややフォーマルな表現。
-- **[transgender](/word/transgender/)**：生まれた性別と異なる性自認を持つ人全般を指し、医学的処置の有無は問わない。
+- **[transgender](/transgender)**：生まれた性別と異なる性自認を持つ人全般を指し、医学的処置の有無は問わない。
 
 transsexualは医学的な側面を強調し、transgenderはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ transsexualは医学的な側面を強調し、transgenderはより広い意味�
 
 ## 🧩 あわせて覚えたい
 
-- [cisgender](/word/cisgender/)：生まれた性別と自認する性が一致する人
-- [transition](/word/transition/)：性別移行、移行すること
+- [cisgender](/cisgender)：生まれた性別と自認する性が一致する人
+- [transition](/transition)：性別移行、移行すること
 
 ---
 
 ## 📖 できればこれも
 
-- [gender](/word/gender/)：性、ジェンダー
-- [identity](/word/identity/)：アイデンティティ、自己認識
+- [gender](/gender)：性、ジェンダー
+- [identity](/identity)：アイデンティティ、自己認識
 
-<!-- cvid: aid43_bid14 -->
+<!-- cvid: aid09_bid47 -->

@@ -80,15 +80,19 @@ TOEICでは主にITやビジネス文書、製品案内などで「バージョ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にITやビジネス文書、製品案内などで「バージョ�
 ## 🤔  edition との違いは？
 
 - **version**：あるものの異なる型や改訂された形、特にソフトや製品の「バージョン」
-- **[edition](/word/edition/)**：書籍や雑誌などの「版」「刷り」
+- **[edition](/edition)**：書籍や雑誌などの「版」「刷り」
 
 versionは主にソフトウェアや製品の改訂・型に使い、editionは出版物の「第○版」などに使います。
 
@@ -104,14 +108,14 @@ versionは主にソフトウェアや製品の改訂・型に使い、editionは
 
 ## 🧩 あわせて覚えたい
 
-- [update](/word/update/)：更新、アップデート
-- [variant](/word/variant/)：変種、バリエーション
+- [update](/update)：更新、アップデート
+- [variant](/variant)：変種、バリエーション
 
 ---
 
 ## 📖 できればこれも
 
-- [feature](/word/feature/)：特徴、機能
-- [option](/word/option/)：選択肢、オプション
+- [feature](/feature)：特徴、機能
+- [option](/option)：選択肢、オプション
 
-<!-- cvid: aid42_bid26 -->
+<!-- cvid: aid29_bid06 -->

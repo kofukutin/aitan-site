@@ -82,15 +82,19 @@ TOEICでは「具体的な」「明確な」という意味で形容詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「具体的な」「明確な」という意味で形容詞として
 ## 🤔  specific との違いは？
 
 - **concrete**：抽象的でなく、実際に形や内容があることを強調
-- **[specific](/word/specific/)**：範囲や内容が限定されていることを強調
+- **[specific](/specific)**：範囲や内容が限定されていることを強調
 
 concreteは「実体がある」「目に見える」ニュアンス、specificは「限定的」「詳細に特定された」ニュアンスです。
 
@@ -106,14 +110,14 @@ concreteは「実体がある」「目に見える」ニュアンス、specific�
 
 ## 🧩 あわせて覚えたい
 
-- [abstract](/word/abstract/)：抽象的な
-- [tangible](/word/tangible/)：触れられる、明確な
+- [abstract](/abstract)：抽象的な
+- [tangible](/tangible)：触れられる、明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise/)：正確な
-- [detail](/word/detail/)：詳細
+- [precise](/precise)：正確な
+- [detail](/detail)：詳細
 
-<!-- cvid: aid14_bid13 -->
+<!-- cvid: aid47_bid43 -->

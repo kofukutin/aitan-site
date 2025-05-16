@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【ball】の意味・使い方・例文 ― sphereとの違い【TOEIC英単語】"
 description: "ballの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsphereとの違いもわかりやすく学べます。"
 word: "ball"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、スポーツや遊びの場面を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、スポーツや遊びの場面を説
 ## 🤔  sphere との違いは？
 
 - **ball**：スポーツや遊びで使う「ボール」、または球状の物体
-- **[sphere](/word/sphere/)**：数学や科学で使う「球体」、形状そのもの
+- **[sphere](/sphere)**：数学や科学で使う「球体」、形状そのもの
 
 ballは実際に使う物体や遊具を指し、sphereは「球体」という抽象的・学術的な形状を表します。
 
@@ -105,14 +109,14 @@ ballは実際に使う物体や遊具を指し、sphereは「球体」という�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/word/circle/)：円、丸
-- [cube](/word/cube/)：立方体
+- [circle](/circle)：円、丸
+- [cube](/cube)：立方体
 
 ---
 
 ## 📖 できればこれも
 
-- [game](/word/game/)：ゲーム、試合
-- [team](/word/team/)：チーム
+- [game](/game)：ゲーム、試合
+- [team](/team)：チーム
 
-<!-- cvid: aid37_bid16 -->
+<!-- cvid: aid45_bid49 -->

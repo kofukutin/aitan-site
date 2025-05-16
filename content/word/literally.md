@@ -77,15 +77,19 @@ TOEICでは、説明文や記事の中で「誇張ではなく事実である」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、説明文や記事の中で「誇張ではなく事実である」
 ## 🤔  actually との違いは？
 
 - **literally**：比喩や誇張ではなく「本当に」「文字通り」という意味を強調する
-- **[actually](/word/actually/)**：実際に、現実には、という意味で事実や真実を述べる
+- **[actually](/actually)**：実際に、現実には、という意味で事実や真実を述べる
 
 「literally」は「本当にその通り」という強調、「actually」は「思っていたことと違い実際はこう」というニュアンスの違いがあります。
 
@@ -101,14 +105,14 @@ TOEICでは、説明文や記事の中で「誇張ではなく事実である」
 
 ## 🧩 あわせて覚えたい
 
-- [figuratively](/word/figuratively/)：比喩的に
-- [exactly](/word/exactly/)：正確に、まさに
+- [figuratively](/figuratively)：比喩的に
+- [exactly](/exactly)：正確に、まさに
 
 ---
 
 ## 📖 できればこれも
 
-- [precisely](/word/precisely/)：正確に、まさしく
-- [simply](/word/simply/)：単純に、ただ
+- [precisely](/precisely)：正確に、まさしく
+- [simply](/simply)：単純に、ただ
 
-<!-- cvid: aid04_bid10 -->
+<!-- cvid: aid39_bid46 -->

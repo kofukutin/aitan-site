@@ -81,15 +81,19 @@ TOEICでは会議やビジネス文書の中で「意見の一致」や「合意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid14_bid36" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid36" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネス文書の中で「意見の一致」や「合意
 ## 🤔  agreement との違いは？
 
 - **consensus**：集団全体の意見の一致や総意を強調するフォーマルな語。
-- **[agreement](/word/agreement/)**：個人間・集団間の合意や契約など幅広く使える一般的な語。
+- **[agreement](/agreement)**：個人間・集団間の合意や契約など幅広く使える一般的な語。
 
 consensusは「全体のまとまり」や「満場一致」に近いニュアンスがあり、agreementは「合意」や「契約」など個人間でも使える点が異なります。
 
@@ -105,14 +109,14 @@ consensusは「全体のまとまり」や「満場一致」に近いニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [disagreement](/word/disagreement/)：意見の不一致
-- [unanimity](/word/unanimity/)：全会一致
+- [disagreement](/disagreement)：意見の不一致
+- [unanimity](/unanimity)：全会一致
 
 ---
 
 ## 📖 できればこれも
 
-- [compromise](/word/compromise/)：妥協
-- [proposal](/word/proposal/)：提案
+- [compromise](/compromise)：妥協
+- [proposal](/proposal)：提案
 
-<!-- cvid: aid44_bid08 -->
+<!-- cvid: aid14_bid36 -->

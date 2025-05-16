@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「良い」「素晴らしい」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「良い」「素晴らしい」といった意
 ## 🤔  excellent との違いは？
 
 - **great**：カジュアルで幅広く「すばらしい」「良い」と褒めるときに使う
-- **[excellent](/word/excellent/)**：よりフォーマルで「非常に優れている」「申し分ない」と強調したいときに使う
+- **[excellent](/excellent)**：よりフォーマルで「非常に優れている」「申し分ない」と強調したいときに使う
 
 「great」は日常会話やビジネスでも気軽に使える褒め言葉ですが、「excellent」はより高い評価やフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「良い」「素晴らしい」といった意
 
 ## 🧩 あわせて覚えたい
 
-- [good](/word/good/)：良い
-- [wonderful](/word/wonderful/)：素晴らしい
+- [good](/good)：良い
+- [wonderful](/wonderful)：素晴らしい
 
 ---
 
 ## 📖 できればこれも
 
-- [amazing](/word/amazing/)：驚くほど素晴らしい
-- [fantastic](/word/fantastic/)：とても素晴らしい
+- [amazing](/amazing)：驚くほど素晴らしい
+- [fantastic](/fantastic)：とても素晴らしい
 
-<!-- cvid: aid26_bid12 -->
+<!-- cvid: aid31_bid45 -->

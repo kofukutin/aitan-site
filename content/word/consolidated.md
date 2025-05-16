@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や財務関連の長文で「統合された
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や財務関連の長文で「統合された
 ## 🤔  integrated との違いは？
 
 - **consolidated**：複数のものを一つにまとめて強化・安定化した状態
-- **[integrated](/word/integrated/)**：異なる要素を組み合わせて全体として機能させる状態
+- **[integrated](/integrated)**：異なる要素を組み合わせて全体として機能させる状態
 
 consolidatedは「まとめて強くする」イメージ、integratedは「異なるものを組み合わせて一体化する」イメージです。
 
@@ -105,14 +109,14 @@ consolidatedは「まとめて強くする」イメージ、integratedは「異�
 
 ## 🧩 あわせて覚えたい
 
-- [merged](/word/merged/)：合併した
-- [unified](/word/unified/)：統一された
+- [merged](/merged)：合併した
+- [unified](/unified)：統一された
 
 ---
 
 ## 📖 できればこれも
 
-- [comprehensive](/word/comprehensive/)：包括的な
-- [streamlined](/word/streamlined/)：効率化された
+- [comprehensive](/comprehensive)：包括的な
+- [streamlined](/streamlined)：効率化された
 
-<!-- cvid: aid25_bid46 -->
+<!-- cvid: aid17_bid22 -->

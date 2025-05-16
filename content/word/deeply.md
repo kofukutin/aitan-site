@@ -79,15 +79,19 @@ TOEICでは感謝や謝罪、感情の強調表現として会話文やスピー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -95,7 +99,7 @@ TOEICでは感謝や謝罪、感情の強調表現として会話文やスピー
 ## 🤔  strongly との違いは？
 
 - **deeply**：感情や状態の「深さ」や「心から」のニュアンスを強調
-- **[strongly](/word/strongly/)**：意見や主張、影響の「強さ」を強調
+- **[strongly](/strongly)**：意見や主張、影響の「強さ」を強調
 
 「deeply」は心の奥底や感情の深さを表し、「strongly」は力強さや断固とした態度を表すときに使います。
 
@@ -103,14 +107,14 @@ TOEICでは感謝や謝罪、感情の強調表現として会話文やスピー
 
 ## 🧩 あわせて覚えたい
 
-- [profoundly](/word/profoundly/)：非常に深く、徹底的に
-- [slightly](/word/slightly/)：わずかに、少しだけ
+- [profoundly](/profoundly)：非常に深く、徹底的に
+- [slightly](/slightly)：わずかに、少しだけ
 
 ---
 
 ## 📖 できればこれも
 
-- [highly](/word/highly/)：非常に、高度に
-- [greatly](/word/greatly/)：大いに、とても
+- [highly](/highly)：非常に、高度に
+- [greatly](/greatly)：大いに、とても
 
-<!-- cvid: aid43_bid38 -->
+<!-- cvid: aid01_bid49 -->

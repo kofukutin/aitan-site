@@ -80,15 +80,19 @@ TOEICでは衣類や素材、商品の説明などで登場することが多い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは衣類や素材、商品の説明などで登場することが多い
 ## 🤔  fabric との違いは？
 
 - **cotton**：綿という素材そのものや綿花を指す。
-- **[fabric](/word/fabric/)**：布地全般を指し、素材は綿・ウール・ポリエステルなどさまざま。
+- **[fabric](/fabric)**：布地全般を指し、素材は綿・ウール・ポリエステルなどさまざま。
 
 cottonは「綿」という特定の素材を指しますが、fabricは素材を問わず「布地」全般を表します。
 
@@ -104,14 +108,14 @@ cottonは「綿」という特定の素材を指しますが、fabricは素材�
 
 ## 🧩 あわせて覚えたい
 
-- [wool](/word/wool/)：羊毛、ウール
-- [silk](/word/silk/)：絹、シルク
+- [wool](/wool)：羊毛、ウール
+- [silk](/silk)：絹、シルク
 
 ---
 
 ## 📖 できればこれも
 
-- [thread](/word/thread/)：糸
-- [material](/word/material/)：材料、素材
+- [thread](/thread)：糸
+- [material](/material)：材料、素材
 
-<!-- cvid: aid45_bid09 -->
+<!-- cvid: aid44_bid44 -->

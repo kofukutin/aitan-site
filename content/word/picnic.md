@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【picnic】の意味・使い方・例文 ― barbecueとの違い【TOEIC英単語】"
 description: "picnicの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbarbecueとの違いもわかりやすく学べます。"
 word: "picnic"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、公園や屋外での活動を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、公園や屋外での活動を説明
 ## 🤔  barbecue との違いは？
 
 - **picnic**：屋外で食事やレクリエーションを楽しむこと全般。特に料理方法は問わず、サンドイッチやお弁当など手軽な食事が多い。
-- **[barbecue](/word/barbecue/)**：屋外で肉や野菜などを焼いて食べるイベント。調理方法が「焼く」に限定される。
+- **[barbecue](/barbecue)**：屋外で肉や野菜などを焼いて食べるイベント。調理方法が「焼く」に限定される。
 
 picnicは食事のスタイルや雰囲気を重視し、barbecueは調理方法（焼く）に焦点を当てます。
 
@@ -105,14 +109,14 @@ picnicは食事のスタイルや雰囲気を重視し、barbecueは調理方法
 
 ## 🧩 あわせて覚えたい
 
-- [excursion](/word/excursion/)：遠足、小旅行
-- [outing](/word/outing/)：外出、遠足
+- [excursion](/excursion)：遠足、小旅行
+- [outing](/outing)：外出、遠足
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/word/trip/)：旅行
-- [lunch](/word/lunch/)：昼食
+- [trip](/trip)：旅行
+- [lunch](/lunch)：昼食
 
-<!-- cvid: aid18_bid27 -->
+<!-- cvid: aid06_bid32 -->

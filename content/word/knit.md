@@ -81,15 +81,19 @@ TOEICでは「編む」以外にも「結びつける」という比喩的な意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「編む」以外にも「結びつける」という比喩的な意
 ## 🤔  weave との違いは？
 
 - **knit**：毛糸などを使ってループ状に編む、または人や物をしっかり結びつける
-- **[weave](/word/weave/)**：糸や素材を縦横に交差させて織る
+- **[weave](/weave)**：糸や素材を縦横に交差させて織る
 
 knitは主に編み物や人の結束に使い、weaveは布を織るなど「交差させる」動作に使います。
 
@@ -105,14 +109,14 @@ knitは主に編み物や人の結束に使い、weaveは布を織るなど「�
 
 ## 🧩 あわせて覚えたい
 
-- [sew](/word/sew/)：縫う
-- [tie](/word/tie/)：結ぶ
+- [sew](/sew)：縫う
+- [tie](/tie)：結ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [fold](/word/fold/)：折る
-- [wrap](/word/wrap/)：包む
+- [fold](/fold)：折る
+- [wrap](/wrap)：包む
 
-<!-- cvid: aid44_bid41 -->
+<!-- cvid: aid01_bid48 -->

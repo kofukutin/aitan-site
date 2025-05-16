@@ -81,15 +81,19 @@ TOEICでは、レポートやメール、説明文の冒頭部分でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レポートやメール、説明文の冒頭部分でよく登場
 ## 🤔  preface との違いは？
 
 - **introduction**：本題に入る前の説明や背景、全体の概要を述べる部分
-- **[preface](/word/preface/)**：著者が本を書く動機や経緯、感謝などを述べる序文
+- **[preface](/preface)**：著者が本を書く動機や経緯、感謝などを述べる序文
 
 introductionは内容の説明や導入、prefaceは著者の個人的なメッセージや背景説明に使われます。
 
@@ -105,14 +109,14 @@ introductionは内容の説明や導入、prefaceは著者の個人的なメッ�
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/word/summary/)：要約
-- [conclusion](/word/conclusion/)：結論
+- [summary](/summary)：要約
+- [conclusion](/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、プレゼン
-- [overview](/word/overview/)：概要
+- [presentation](/presentation)：発表、プレゼン
+- [overview](/overview)：概要
 
-<!-- cvid: aid00_bid28 -->
+<!-- cvid: aid41_bid18 -->

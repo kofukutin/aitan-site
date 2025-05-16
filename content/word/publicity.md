@@ -81,15 +81,19 @@ TOEICでは広告文や記事、ビジネスメールなどで「宣伝」「知
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告文や記事、ビジネスメールなどで「宣伝」「知
 ## 🤔  advertisement との違いは？
 
 - **publicity**：宣伝活動や注目そのもの（無料・有料問わず幅広い）
-- **[advertisement](/word/advertisement/)**：広告（有料で出す具体的な広告物）
+- **[advertisement](/advertisement)**：広告（有料で出す具体的な広告物）
 
 publicityは「世間の注目」や「宣伝活動全般」を指し、advertisementは「広告」という具体的な媒体や広告物を意味します。
 
@@ -105,14 +109,14 @@ publicityは「世間の注目」や「宣伝活動全般」を指し、advertis
 
 ## 🧩 あわせて覚えたい
 
-- [promotion](/word/promotion/)：販促、販売促進
-- [reputation](/word/reputation/)：評判、名声
+- [promotion](/promotion)：販促、販売促進
+- [reputation](/reputation)：評判、名声
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/word/campaign/)：キャンペーン、宣伝活動
-- [announcement](/word/announcement/)：発表、告知
+- [campaign](/campaign)：キャンペーン、宣伝活動
+- [announcement](/announcement)：発表、告知
 
-<!-- cvid: aid04_bid25 -->
+<!-- cvid: aid17_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やプレゼン資料、契約書などで「rep
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やプレゼン資料、契約書などで「rep
 ## 🤔  description との違いは？
 
 - **representation**：何かを図や絵、行動などで「表現」したもの、または「代理・代表」すること
-- **[description](/word/description/)**：言葉で「説明」や「描写」すること
+- **[description](/description)**：言葉で「説明」や「描写」すること
 
 representationは視覚的・象徴的な表現や代理を指し、descriptionは言葉による説明や描写に使います。
 
@@ -105,14 +109,14 @@ representationは視覚的・象徴的な表現や代理を指し、description�
 
 ## 🧩 あわせて覚えたい
 
-- [depiction](/word/depiction/)：描写、描画
-- [symbol](/word/symbol/)：象徴、記号
+- [depiction](/depiction)：描写、描画
+- [symbol](/symbol)：象徴、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、提示
-- [illustration](/word/illustration/)：イラスト、図解
+- [presentation](/presentation)：発表、提示
+- [illustration](/illustration)：イラスト、図解
 
-<!-- cvid: aid18_bid34 -->
+<!-- cvid: aid47_bid46 -->

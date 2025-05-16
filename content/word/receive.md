@@ -81,15 +81,19 @@ TOEICではメールや書類、荷物の「受け取り」に関する会話や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや書類、荷物の「受け取り」に関する会話や
 ## 🤔  accept との違いは？
 
 - **receive**：物理的・形式的に「受け取る」ことを表す
-- **[accept](/word/accept/)**：受け取ったものを「受け入れる」「承諾する」ニュアンス
+- **[accept](/accept)**：受け取ったものを「受け入れる」「承諾する」ニュアンス
 
 receiveは単に物や情報を受け取る場合に使い、acceptはそれを認めたり同意したりする場合に使います。
 
@@ -105,14 +109,14 @@ receiveは単に物や情報を受け取る場合に使い、acceptはそれを�
 
 ## 🧩 あわせて覚えたい
 
-- [obtain](/word/obtain/)：（努力して）手に入れる
-- [deliver](/word/deliver/)：配達する、届ける
+- [obtain](/obtain)：（努力して）手に入れる
+- [deliver](/deliver)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [reply](/word/reply/)：返事をする
+- [send](/send)：送る
+- [reply](/reply)：返事をする
 
-<!-- cvid: aid42_bid00 -->
+<!-- cvid: aid24_bid45 -->

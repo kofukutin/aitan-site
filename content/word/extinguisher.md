@@ -81,15 +81,19 @@ TOEICではオフィスや施設の安全に関する会話や説明文で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではオフィスや施設の安全に関する会話や説明文で出題
 ## 🤔  suppressor との違いは？
 
 - **extinguisher**：火や煙などを「消すための装置」を指す（特に消火器）。
-- **[suppressor](/word/suppressor/)**：何かを「抑える・抑制する装置」全般を指す（例：消音器など）。
+- **[suppressor](/suppressor)**：何かを「抑える・抑制する装置」全般を指す（例：消音器など）。
 
 extinguisherは主に火を消す装置、suppressorは音や動きなど広い意味で抑える装置に使われます。
 
@@ -105,14 +109,14 @@ extinguisherは主に火を消す装置、suppressorは音や動きなど広い�
 
 ## 🧩 あわせて覚えたい
 
-- [alarm](/word/alarm/)：警報、アラーム
-- [hydrant](/word/hydrant/)：消火栓
+- [alarm](/alarm)：警報、アラーム
+- [hydrant](/hydrant)：消火栓
 
 ---
 
 ## 📖 できればこれも
 
-- [equipment](/word/equipment/)：設備、備品
-- [device](/word/device/)：装置、機器
+- [equipment](/equipment)：設備、備品
+- [device](/device)：装置、機器
 
-<!-- cvid: aid21_bid21 -->
+<!-- cvid: aid12_bid04 -->

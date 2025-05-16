@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【rarely】の意味・使い方・例文 ― seldomとの違い【TOEIC英単語】"
 description: "rarelyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでseldomとの違いもわかりやすく学べます。"
 word: "rarely"
@@ -78,15 +78,19 @@ TOEICでは副詞の語順や頻度を問う文法問題でよく出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは副詞の語順や頻度を問う文法問題でよく出題されま
 ## 🤔  seldom との違いは？
 
 - **rarely**：ややフォーマルで、日常会話・ビジネスどちらでも使える「めったに～ない」
-- **[seldom](/word/seldom/)**：rarelyよりさらに堅い印象で、書き言葉やフォーマルな場面で使われやすい
+- **[seldom](/seldom)**：rarelyよりさらに堅い印象で、書き言葉やフォーマルな場面で使われやすい
 
 rarelyはseldomよりもやや口語的で、現代英語ではrarelyの方が一般的に使われます。
 
@@ -102,14 +106,14 @@ rarelyはseldomよりもやや口語的で、現代英語ではrarelyの方が�
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently/)：頻繁に
-- [occasionally](/word/occasionally/)：時々
+- [frequently](/frequently)：頻繁に
+- [occasionally](/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [barely](/word/barely/)：かろうじて、ほとんど～ない
-- [hardly](/word/hardly/)：ほとんど～ない
+- [barely](/barely)：かろうじて、ほとんど～ない
+- [hardly](/hardly)：ほとんど～ない
 
-<!-- cvid: aid17_bid34 -->
+<!-- cvid: aid42_bid00 -->

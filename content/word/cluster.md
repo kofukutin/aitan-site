@@ -81,15 +81,19 @@ clusterはITやビジネス分野の説明文や記事で見かけることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ clusterはITやビジネス分野の説明文や記事で見かけることが�
 ## 🤔  group との違いは？
 
 - **cluster**：同種のものが密集している集まりや群れ
-- **[group](/word/group/)**：種類や密集度に関係なく、何かのまとまり
+- **[group](/group)**：種類や密集度に関係なく、何かのまとまり
 
 clusterは「密集している」ニュアンスが強く、groupは単なる「集まり」として幅広く使われます。
 
@@ -105,14 +109,14 @@ clusterは「密集している」ニュアンスが強く、groupは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [collection](/word/collection/)：収集物、集めたもの
-- [array](/word/array/)：配列、整然と並んだもの
+- [collection](/collection)：収集物、集めたもの
+- [array](/array)：配列、整然と並んだもの
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、網状のつながり
-- [segment](/word/segment/)：部分、区分
+- [network](/network)：ネットワーク、網状のつながり
+- [segment](/segment)：部分、区分
 
-<!-- cvid: aid46_bid04 -->
+<!-- cvid: aid04_bid19 -->

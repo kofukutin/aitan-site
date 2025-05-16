@@ -81,15 +81,19 @@ TOEICでは副詞の語彙問題や空所補充でよく出題されます。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは副詞の語彙問題や空所補充でよく出題されます。特
 ## 🤔  often との違いは？
 
 - **frequently**：ややフォーマルで「頻繁に」「しばしば」という意味。書き言葉やビジネスでよく使う。
-- **[often](/word/often/)**：よりカジュアルで「よく」「たびたび」という意味。日常会話で幅広く使う。
+- **[often](/often)**：よりカジュアルで「よく」「たびたび」という意味。日常会話で幅広く使う。
 
 frequentlyは頻度が高いことを強調したいときや、やや改まった場面で使われます。oftenは日常的な会話で自然に使える単語です。
 
@@ -105,14 +109,14 @@ frequentlyは頻度が高いことを強調したいときや、やや改まっ�
 
 ## 🧩 あわせて覚えたい
 
-- [regularly](/word/regularly/)：定期的に
-- [occasionally](/word/occasionally/)：時々
+- [regularly](/regularly)：定期的に
+- [occasionally](/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [rarely](/word/rarely/)：めったに～ない
-- [usually](/word/usually/)：たいてい、普通は
+- [rarely](/rarely)：めったに～ない
+- [usually](/usually)：たいてい、普通は
 
-<!-- cvid: aid08_bid10 -->
+<!-- cvid: aid12_bid26 -->

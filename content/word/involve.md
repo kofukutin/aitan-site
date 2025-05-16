@@ -81,15 +81,19 @@ TOEICでは「含む」「関与する」という意味で、主に文法や語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「含む」「関与する」という意味で、主に文法や語
 ## 🤔  include との違いは？
 
 - **involve**：何かを含み、さらに積極的な関与や影響を示す
-- **[include](/word/include/)**：単に一部として含む、関与のニュアンスは弱い
+- **[include](/include)**：単に一部として含む、関与のニュアンスは弱い
 
 involveは「巻き込む」「関与させる」など、より深い関わりや影響を表しますが、includeは単に「含む」という意味で使われます。
 
@@ -105,14 +109,14 @@ involveは「巻き込む」「関与させる」など、より深い関わり�
 
 ## 🧩 あわせて覚えたい
 
-- [require](/word/require/)：必要とする
-- [engage](/word/engage/)：従事させる、関与させる
+- [require](/require)：必要とする
+- [engage](/engage)：従事させる、関与させる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect/)：影響を与える
-- [relate](/word/relate/)：関係する
+- [affect](/affect)：影響を与える
+- [relate](/relate)：関係する
 
-<!-- cvid: aid48_bid33 -->
+<!-- cvid: aid01_bid42 -->

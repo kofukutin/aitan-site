@@ -78,15 +78,19 @@ TOEICでは、誰かが「今ここにいない」「出かけている」状況
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは、誰かが「今ここにいない」「出かけている」状況
 ## 🤔  absent との違いは？
 
 - **away**：一時的にその場から離れている、物理的にいないことを強調
-- **[absent](/word/absent/)**：特定の場（学校・会議など）に「欠席している」「不在である」ことを強調
+- **[absent](/absent)**：特定の場（学校・会議など）に「欠席している」「不在である」ことを強調
 
 awayは「ちょっと席を外している」など一時的な離席や外出に使い、absentは「公式に欠席している」などフォーマルな場面で使われます。
 
@@ -102,14 +106,14 @@ awayは「ちょっと席を外している」など一時的な離席や外出�
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart/)：出発する、離れる
-- [leave](/word/leave/)：去る、出発する
+- [depart](/depart)：出発する、離れる
+- [leave](/leave)：去る、出発する
 
 ---
 
 ## 📖 できればこれも
 
-- [back](/word/back/)：戻って、後ろに
-- [near](/word/near/)：近くに、近い
+- [back](/back)：戻って、後ろに
+- [near](/near)：近くに、近い
 
-<!-- cvid: aid21_bid49 -->
+<!-- cvid: aid47_bid46 -->

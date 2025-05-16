@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【mount】の意味・使い方・例文 ― installとの違い【TOEIC英単語】"
 description: "mountの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでinstallとの違いもわかりやすく学べます。"
 word: "mount"
@@ -81,15 +81,19 @@ ITや機械の設置に関する文脈で出題されることが多く、名詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや機械の設置に関する文脈で出題されることが多く、名詞
 ## 🤔  install との違いは？
 
 - **mount**：物理的にしっかりと取り付けたり、機器を設置するニュアンスが強い
-- **[install](/word/install/)**：ソフトウェアや機器を「導入・インストール」する意味で、物理的な取り付け以外にも使える
+- **[install](/install)**：ソフトウェアや機器を「導入・インストール」する意味で、物理的な取り付け以外にも使える
 
 mountは「固定して設置する」イメージ、installは「使える状態にする」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ mountは「固定して設置する」イメージ、installは「使える状�
 
 ## 🧩 あわせて覚えたい
 
-- [attach](/word/attach/)：取り付ける、添付する
-- [assemble](/word/assemble/)：組み立てる
+- [attach](/attach)：取り付ける、添付する
+- [assemble](/assemble)：組み立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate/)：操作する、動かす
-- [connect](/word/connect/)：接続する
+- [operate](/operate)：操作する、動かす
+- [connect](/connect)：接続する
 
-<!-- cvid: aid18_bid17 -->
+<!-- cvid: aid44_bid47 -->

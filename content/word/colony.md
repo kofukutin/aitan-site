@@ -81,15 +81,19 @@ TOEICでは歴史や観光、科学分野の長文で「colony」が登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や観光、科学分野の長文で「colony」が登場する
 ## 🤔  settlement との違いは？
 
 - **colony**：他国の支配下にある植民地や、同種の生物の集団を指す
-- **[settlement](/word/settlement/)**：新しく定住した場所や開拓地を指す
+- **[settlement](/settlement)**：新しく定住した場所や開拓地を指す
 
 「colony」は支配や集団性のニュアンスが強く、「settlement」は単に人が住み始めた場所を表します。
 
@@ -105,14 +109,14 @@ TOEICでは歴史や観光、科学分野の長文で「colony」が登場する
 
 ## 🧩 あわせて覚えたい
 
-- [territory](/word/territory/)：領土、領域
-- [community](/word/community/)：共同体、地域社会
+- [territory](/territory)：領土、領域
+- [community](/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [empire](/word/empire/)：帝国
-- [inhabitant](/word/inhabitant/)：住民
+- [empire](/empire)：帝国
+- [inhabitant](/inhabitant)：住民
 
-<!-- cvid: aid07_bid41 -->
+<!-- cvid: aid45_bid10 -->

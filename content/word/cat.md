@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cat】の意味・使い方・例文 ― kittenとの違い【TOEIC英単語】"
 description: "catの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでkittenとの違いもわかりやすく学べます。"
 word: "cat"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で、動物や日常的なシーンの説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid42" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid42" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、動物や日常的なシーンの説
 ## 🤔  kitten との違いは？
 
 - **cat**：成猫や猫全般を指す一般的な単語
-- **[kitten](/word/kitten/)**：子猫（生後1年未満の猫）を指す
+- **[kitten](/kitten)**：子猫（生後1年未満の猫）を指す
 
 catは年齢を問わず猫全体を指しますが、kittenは特に子猫だけを意味します。
 
@@ -105,14 +109,14 @@ catは年齢を問わず猫全体を指しますが、kittenは特に子猫だ�
 
 ## 🧩 あわせて覚えたい
 
-- [dog](/word/dog/)：犬
-- [pet](/word/pet/)：ペット、飼い動物
+- [dog](/dog)：犬
+- [pet](/pet)：ペット、飼い動物
 
 ---
 
 ## 📖 できればこれも
 
-- [dog](/word/dog/)：犬
-- [pet](/word/pet/)：ペット、飼い動物
+- [dog](/dog)：犬
+- [pet](/pet)：ペット、飼い動物
 
-<!-- cvid: aid15_bid03 -->
+<!-- cvid: aid25_bid42 -->

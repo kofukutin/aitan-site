@@ -81,15 +81,19 @@ ITやビジネス文書、説明文で「array」はデータや商品などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、説明文で「array」はデータや商品などの�
 ## 🤔  list との違いは？
 
 - **array**：同じ種類のものが整然と並んだ集まりや、IT分野での「配列」を指す
-- **[list](/word/list/)**：順序や種類を問わず、項目を列挙した「リスト」を指す
+- **[list](/list)**：順序や種類を問わず、項目を列挙した「リスト」を指す
 
 arrayは「整然と並んだ」「構造化された」ニュアンスが強く、listは単なる項目の羅列に使われます。
 
@@ -105,14 +109,14 @@ arrayは「整然と並んだ」「構造化された」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [sequence](/word/sequence/)：順序、連続
-- [collection](/word/collection/)：収集物、集まり
+- [sequence](/sequence)：順序、連続
+- [collection](/collection)：収集物、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function/)：機能、関数
-- [structure](/word/structure/)：構造、仕組み
+- [function](/function)：機能、関数
+- [structure](/structure)：構造、仕組み
 
-<!-- cvid: aid06_bid22 -->
+<!-- cvid: aid29_bid21 -->

@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「ベルトを締める」「書類を留め
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「ベルトを締める」「書類を留め
 ## 🤔  attach との違いは？
 
 - **fasten**：物をしっかりと固定したり、締めたり、留めたりすることに重点がある
-- **[attach](/word/attach/)**：物を他の物に「取り付ける」「貼り付ける」ことに重点がある
+- **[attach](/attach)**：物を他の物に「取り付ける」「貼り付ける」ことに重点がある
 
 fastenは「しっかり固定する」ニュアンスが強く、attachは「付け加える」「取り付ける」イメージです。
 
@@ -105,14 +109,14 @@ fastenは「しっかり固定する」ニュアンスが強く、attachは「�
 
 ## 🧩 あわせて覚えたい
 
-- [secure](/word/secure/)：しっかり固定する、確保する
-- [loosen](/word/loosen/)：緩める
+- [secure](/secure)：しっかり固定する、確保する
+- [loosen](/loosen)：緩める
 
 ---
 
 ## 📖 できればこれも
 
-- [tie](/word/tie/)：結ぶ
-- [lock](/word/lock/)：鍵をかける
+- [tie](/tie)：結ぶ
+- [lock](/lock)：鍵をかける
 
-<!-- cvid: aid29_bid13 -->
+<!-- cvid: aid26_bid22 -->

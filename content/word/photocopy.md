@@ -82,15 +82,19 @@ TOEICでは主にオフィスやビジネスシーンの文脈で、動詞・名
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にオフィスやビジネスシーンの文脈で、動詞・名
 ## 🤔  duplicate との違いは？
 
 - **photocopy**：コピー機で紙の書類などを物理的に複写すること
-- **[duplicate](/word/duplicate/)**：まったく同じものを作ること（物理・デジタル両方で使う）
+- **[duplicate](/duplicate)**：まったく同じものを作ること（物理・デジタル両方で使う）
 
 photocopyは主にコピー機を使った紙の複写に限定されますが、duplicateは内容やデータなど幅広く「複製する」意味で使われます。
 
@@ -106,14 +110,14 @@ photocopyは主にコピー機を使った紙の複写に限定されますが�
 
 ## 🧩 あわせて覚えたい
 
-- [scan](/word/scan/)：スキャンする、画像として取り込む
-- [print](/word/print/)：印刷する
+- [scan](/scan)：スキャンする、画像として取り込む
+- [print](/print)：印刷する
 
 ---
 
 ## 📖 できればこれも
 
-- [fax](/word/fax/)：ファックスを送る
-- [copy](/word/copy/)：写す、コピーする
+- [fax](/fax)：ファックスを送る
+- [copy](/copy)：写す、コピーする
 
-<!-- cvid: aid34_bid47 -->
+<!-- cvid: aid48_bid49 -->

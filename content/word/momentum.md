@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【momentum】の意味・使い方・例文 ― impetusとの違い【TOEIC英単語】"
 description: "momentumの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでimpetusとの違いもわかりやすく学べます。"
 word: "momentum"
@@ -88,8 +88,12 @@ TOEICではビジネス文書や会議の議事録、プロジェクトの進捗
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid04" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid04" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議の議事録、プロジェクトの進捗
 ## 🤔  impetus との違いは？
 
 - **momentum**：進行中の物事の「勢い」や「流れ」を表す
-- **[impetus](/word/impetus/)**：何かを始める・加速させる「きっかけ」や「推進力」を表す
+- **[impetus](/impetus)**：何かを始める・加速させる「きっかけ」や「推進力」を表す
 
 momentumは継続的な勢い、impetusは新たな動きや変化のきっかけに使われます。
 
@@ -105,14 +109,14 @@ momentumは継続的な勢い、impetusは新たな動きや変化のきっか�
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/word/progress/)：進歩、前進
-- [decline](/word/decline/)：減少、衰退
+- [progress](/progress)：進歩、前進
+- [decline](/decline)：減少、衰退
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/word/trend/)：傾向、流行
-- [initiative](/word/initiative/)：主導権、新しい取り組み
+- [trend](/trend)：傾向、流行
+- [initiative](/initiative)：主導権、新しい取り組み
 
-<!-- cvid: aid47_bid20 -->
+<!-- cvid: aid47_bid04 -->

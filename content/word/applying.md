@@ -81,15 +81,19 @@ TOEICでは「apply for（応募する）」や「apply to（適用する）」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「apply for（応募する）」や「apply to（適用する）」�
 ## 🤔  submitting との違いは？
 
 - **applying**：応募や申請など、何かに「申し込む」ことを表す。
-- **[submitting](/word/submitting/)**：書類や課題などを「提出する」ことを表す。
+- **[submitting](/submitting)**：書類や課題などを「提出する」ことを表す。
 
 applyingは「応募・申請」の行為全体を指し、submittingは「書類などを提出する」動作に焦点があります。
 
@@ -105,14 +109,14 @@ applyingは「応募・申請」の行為全体を指し、submittingは「書�
 
 ## 🧩 あわせて覚えたい
 
-- [enroll](/word/enroll/)：（学校などに）登録する、入学する
-- [register](/word/register/)：登録する、記録する
+- [enroll](/enroll)：（学校などに）登録する、入学する
+- [register](/register)：登録する、記録する
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview/)：面接
-- [resume](/word/resume/)：履歴書
+- [interview](/interview)：面接
+- [resume](/resume)：履歴書
 
-<!-- cvid: aid08_bid22 -->
+<!-- cvid: aid22_bid20 -->

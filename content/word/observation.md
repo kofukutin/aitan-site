@@ -81,15 +81,19 @@ TOEICでは、報告書やメール、科学的な説明文などで「観察」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書やメール、科学的な説明文などで「観察」
 ## 🤔  inspection との違いは？
 
 - **observation**：注意深く見て気づきを得ること、またはその所見
-- **[inspection](/word/inspection/)**：検査や点検など、基準に照らして詳しく調べること
+- **[inspection](/inspection)**：検査や点検など、基準に照らして詳しく調べること
 
 observationは「観察して気づきを得る」ニュアンスが強く、inspectionは「基準やルールに沿って調べる」場面で使われます。
 
@@ -105,14 +109,14 @@ observationは「観察して気づきを得る」ニュアンスが強く、ins
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/word/analysis/)：分析
-- [remark](/word/remark/)：意見、所見
+- [analysis](/analysis)：分析
+- [remark](/remark)：意見、所見
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment/)：実験
-- [evidence](/word/evidence/)：証拠
+- [experiment](/experiment)：実験
+- [evidence](/evidence)：証拠
 
-<!-- cvid: aid29_bid38 -->
+<!-- cvid: aid01_bid04 -->

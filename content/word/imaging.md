@@ -81,15 +81,19 @@ Our company specializes in medical imaging solutions.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our company specializes in medical imaging solutions.
 ## 🤔  scanning との違いは？
 
 - **imaging**：画像を作り出す技術や行為全体を指す
-- **[scanning](/word/scanning/)**：何かをスキャンして情報を読み取る行為
+- **[scanning](/scanning)**：何かをスキャンして情報を読み取る行為
 
 imagingは「画像化する技術やプロセス」全体を指し、scanningは「スキャンして読み取る動作」に焦点があります。
 
@@ -105,14 +109,14 @@ imagingは「画像化する技術やプロセス」全体を指し、scanning�
 
 ## 🧩 あわせて覚えたい
 
-- [diagnosis](/word/diagnosis/)：診断
-- [visualization](/word/visualization/)：可視化
+- [diagnosis](/diagnosis)：診断
+- [visualization](/visualization)：可視化
 
 ---
 
 ## 📖 できればこれも
 
-- [diagnose](/word/diagnose/)：診断する
-- [visualize](/word/visualize/)：可視化する
+- [diagnose](/diagnose)：診断する
+- [visualize](/visualize)：可視化する
 
-<!-- cvid: aid06_bid43 -->
+<!-- cvid: aid14_bid14 -->

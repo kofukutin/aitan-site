@@ -81,15 +81,19 @@ TOEICでは設立や創設に関する文脈で、動詞としてのfoundが選�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは設立や創設に関する文脈で、動詞としてのfoundが選�
 ## 🤔  establish との違いは？
 
 - **found**：組織や制度などを「最初に作る」「設立する」ことに特化したフォーマルな表現
-- **[establish](/word/establish/)**：設立だけでなく、「確立する」「地位を築く」など幅広い意味で使える
+- **[establish](/establish)**：設立だけでなく、「確立する」「地位を築く」など幅広い意味で使える
 
 foundは「ゼロから新しく作る」ニュアンスが強く、establishは「制度や関係をしっかり築く」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ foundは「ゼロから新しく作る」ニュアンスが強く、establishは
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch/)：（新事業などを）開始する
-- [abolish](/word/abolish/)：廃止する
+- [launch](/launch)：（新事業などを）開始する
+- [abolish](/abolish)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：組織する、まとめる
-- [create](/word/create/)：創造する、作り出す
+- [organize](/organize)：組織する、まとめる
+- [create](/create)：創造する、作り出す
 
-<!-- cvid: aid13_bid11 -->
+<!-- cvid: aid19_bid36 -->

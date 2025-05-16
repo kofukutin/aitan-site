@@ -81,15 +81,19 @@ TOEICでは医療や科学分野の長文記事や説明文で見かけること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や科学分野の長文記事や説明文で見かけること
 ## 🤔  microbiology との違いは？
 
 - **immunology**：免疫システムや体の防御機構を研究する学問
-- **[microbiology](/word/microbiology/)**：微生物（細菌・ウイルスなど）全般を研究する学問
+- **[microbiology](/microbiology)**：微生物（細菌・ウイルスなど）全般を研究する学問
 
 immunologyは体の免疫反応や防御機構に特化し、microbiologyは微生物そのものの性質や働きを広く扱います。
 
@@ -105,14 +109,14 @@ immunologyは体の免疫反応や防御機構に特化し、microbiologyは微�
 
 ## 🧩 あわせて覚えたい
 
-- [pathology](/word/pathology/)：病理学（病気の原因や変化を研究する学問）
-- [vaccine](/word/vaccine/)：ワクチン（免疫をつけるための薬）
+- [pathology](/pathology)：病理学（病気の原因や変化を研究する学問）
+- [vaccine](/vaccine)：ワクチン（免疫をつけるための薬）
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology/)：生物学
-- [infection](/word/infection/)：感染、感染症
+- [biology](/biology)：生物学
+- [infection](/infection)：感染、感染症
 
-<!-- cvid: aid05_bid34 -->
+<!-- cvid: aid31_bid23 -->

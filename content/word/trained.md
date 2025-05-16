@@ -81,15 +81,19 @@ TOEICでは、職務経歴や人材募集、業務内容の説明などで「tra
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職務経歴や人材募集、業務内容の説明などで「tra
 ## 🤔  skilled との違いは？
 
 - **trained**：訓練や指導を受けて能力を身につけている
-- **[skilled](/word/skilled/)**：特定の技術や能力に優れている
+- **[skilled](/skilled)**：特定の技術や能力に優れている
 
 「trained」は訓練や教育を受けたことに重点があり、「skilled」は実際の技術や腕前の高さに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、職務経歴や人材募集、業務内容の説明などで「tra
 
 ## 🧩 あわせて覚えたい
 
-- [qualified](/word/qualified/)：資格のある、適任の
-- [experienced](/word/experienced/)：経験豊富な
+- [qualified](/qualified)：資格のある、適任の
+- [experienced](/experienced)：経験豊富な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [capable](/word/capable/)：有能な
+- [efficient](/efficient)：効率的な
+- [capable](/capable)：有能な
 
-<!-- cvid: aid46_bid10 -->
+<!-- cvid: aid04_bid35 -->

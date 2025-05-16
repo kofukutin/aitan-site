@@ -81,15 +81,19 @@ TOEICでは数値や統計、結果を説明する文脈でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは数値や統計、結果を説明する文脈でよく登場します
 ## 🤔  nil との違いは？
 
 - **zero**：数字の0や「全くないこと」を表す最も一般的な単語。
-- **[nil](/word/nil/)**：主にスポーツや専門分野で「ゼロ」「無」を表すややフォーマルな単語。
+- **[nil](/nil)**：主にスポーツや専門分野で「ゼロ」「無」を表すややフォーマルな単語。
 
 zeroは日常的・科学的な「0」に幅広く使い、nilは限定的な場面で使われます。
 
@@ -105,14 +109,14 @@ zeroは日常的・科学的な「0」に幅広く使い、nilは限定的な場
 
 ## 🧩 あわせて覚えたい
 
-- [nothing](/word/nothing/)：何もないこと
-- [void](/word/void/)：空白、空虚
+- [nothing](/nothing)：何もないこと
+- [void](/void)：空白、空虚
 
 ---
 
 ## 📖 できればこれも
 
-- [minus](/word/minus/)：マイナス、負の
-- [sum](/word/sum/)：合計
+- [minus](/minus)：マイナス、負の
+- [sum](/sum)：合計
 
-<!-- cvid: aid25_bid07 -->
+<!-- cvid: aid24_bid34 -->

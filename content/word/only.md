@@ -84,15 +84,19 @@ TOEICでは、文中の限定表現や強調、副詞の位置を問う問題で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICでは、文中の限定表現や強調、副詞の位置を問う問題で
 ## 🤔  just との違いは？
 
 - **only**：限定して「～だけ」と強調する
-- **[just](/word/just/)**：直前・ちょうど・単に、など幅広い意味で使う
+- **[just](/just)**：直前・ちょうど・単に、など幅広い意味で使う
 
 onlyは「それ以外はない」と限定するニュアンスが強く、justは「ちょうど」「単に」など状況や程度を表す場合が多いです。
 
@@ -108,14 +112,14 @@ onlyは「それ以外はない」と限定するニュアンスが強く、just
 
 ## 🧩 あわせて覚えたい
 
-- [merely](/word/merely/)：単に、ただ
-- [solely](/word/solely/)：もっぱら、ただ～だけ
+- [merely](/merely)：単に、ただ
+- [solely](/solely)：もっぱら、ただ～だけ
 
 ---
 
 ## 📖 できればこれも
 
-- [even](/word/even/)：～でさえ
-- [mainly](/word/mainly/)：主に
+- [even](/even)：～でさえ
+- [mainly](/mainly)：主に
 
-<!-- cvid: aid01_bid48 -->
+<!-- cvid: aid47_bid39 -->

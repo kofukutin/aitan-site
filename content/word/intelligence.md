@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やレポート、メールなどで「情報
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid14_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やレポート、メールなどで「情報
 ## 🤔  wisdom との違いは？
 
 - **intelligence**：物事を理解し、分析・判断する知能や知性、または情報。
-- **[wisdom](/word/wisdom/)**：経験や知識に基づく「賢さ」や「分別」。
+- **[wisdom](/wisdom)**：経験や知識に基づく「賢さ」や「分別」。
 
 intelligenceは「頭の良さ」や「情報収集力」を指し、wisdomは「人生経験からくる賢さ」や「判断力」を表します。
 
@@ -105,14 +109,14 @@ intelligenceは「頭の良さ」や「情報収集力」を指し、wisdomは�
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/word/knowledge/)：知識
-- [insight](/word/insight/)：洞察、見抜く力
+- [knowledge](/knowledge)：知識
+- [insight](/insight)：洞察、見抜く力
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [strategy](/word/strategy/)：戦略
+- [analysis](/analysis)：分析
+- [strategy](/strategy)：戦略
 
-<!-- cvid: aid46_bid20 -->
+<!-- cvid: aid14_bid24 -->

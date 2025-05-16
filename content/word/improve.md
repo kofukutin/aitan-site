@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、業務の効率化やサービス向上などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、業務の効率化やサービス向上などの
 ## 🤔  enhance との違いは？
 
 - **improve**：全体的に良くする、一般的な「改善」
-- **[enhance](/word/enhance/)**：価値や質を高める、より強調した「向上」
+- **[enhance](/enhance)**：価値や質を高める、より強調した「向上」
 
 「improve」は幅広い改善に使われ、「enhance」は特定の機能や価値をより高める場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICではPart 5を中心に、業務の効率化やサービス向上などの
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop/)：発展させる、開発する
-- [worsen](/word/worsen/)：悪化させる、悪くなる
+- [develop](/develop)：発展させる、開発する
+- [worsen](/worsen)：悪化させる、悪くなる
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増やす、増加する
-- [progress](/word/progress/)：進歩する、前進する
+- [increase](/increase)：増やす、増加する
+- [progress](/progress)：進歩する、前進する
 
-<!-- cvid: aid49_bid00 -->
+<!-- cvid: aid45_bid14 -->

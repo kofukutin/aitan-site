@@ -81,15 +81,19 @@ TOEICでは科学や医療、研究に関する長文や記事で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や医療、研究に関する長文や記事で見かけるこ
 ## 🤔  organic との違いは？
 
 - **biological**：生物学や生命現象に関する、科学的・学術的な文脈で使う
-- **[organic](/word/organic/)**：有機的な、または有機栽培の、化学的に「炭素を含む」ものや「自然由来」の意味で使う
+- **[organic](/organic)**：有機的な、または有機栽培の、化学的に「炭素を含む」ものや「自然由来」の意味で使う
 
 **biological**は生物学や生命現象に焦点を当てるのに対し、**organic**は「有機物」や「自然由来」「有機栽培」など化学や食品分野で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは科学や医療、研究に関する長文や記事で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [chemical](/word/chemical/)：化学の、化学物質
-- [genetic](/word/genetic/)：遺伝の、遺伝子の
+- [chemical](/chemical)：化学の、化学物質
+- [genetic](/genetic)：遺伝の、遺伝子の
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/word/physical/)：物理的な、身体の
-- [natural](/word/natural/)：自然の、自然な
+- [physical](/physical)：物理的な、身体の
+- [natural](/natural)：自然の、自然な
 
-<!-- cvid: aid18_bid25 -->
+<!-- cvid: aid11_bid41 -->

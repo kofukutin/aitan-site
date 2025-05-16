@@ -81,15 +81,19 @@ TOEICでは地理や国際ビジネスに関する長文や説明文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは地理や国際ビジネスに関する長文や説明文で見かけ
 ## 🤔  country との違いは？
 
 - **continent**：地球上の大きな陸地のまとまり（例：アジア、ヨーロッパなど）
-- **[country](/word/country/)**：国、国家（例：日本、フランスなど）
+- **[country](/country)**：国、国家（例：日本、フランスなど）
 
 continentは「大陸」という地理的な単位、countryは「国」という政治的な単位を指します。
 
@@ -105,14 +109,14 @@ continentは「大陸」という地理的な単位、countryは「国」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [island](/word/island/)：島
-- [region](/word/region/)：地域
+- [island](/island)：島
+- [region](/region)：地域
 
 ---
 
 ## 📖 できればこれも
 
-- [ocean](/word/ocean/)：海洋、大洋
-- [border](/word/border/)：国境、境界
+- [ocean](/ocean)：海洋、大洋
+- [border](/border)：国境、境界
 
-<!-- cvid: aid20_bid27 -->
+<!-- cvid: aid09_bid05 -->

@@ -81,15 +81,19 @@ TOEICでは、履歴書や学歴紹介、人物説明などで「学士号」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、履歴書や学歴紹介、人物説明などで「学士号」や
 ## 🤔  single との違いは？
 
 - **bachelor**：結婚していない男性、または学士号取得者を指すフォーマルな語。
-- **[single](/word/single/)**：独身者全般（男女問わず）や「ひとつだけ」の意味でも使うカジュアルな語。
+- **[single](/single)**：独身者全般（男女問わず）や「ひとつだけ」の意味でも使うカジュアルな語。
 
 bachelorは男性限定かつややフォーマル、singleは性別問わず幅広く使えます。
 
@@ -105,14 +109,14 @@ bachelorは男性限定かつややフォーマル、singleは性別問わず幅
 
 ## 🧩 あわせて覚えたい
 
-- [bridegroom](/word/bridegroom/)：新郎
-- [degree](/word/degree/)：学位
+- [bridegroom](/bridegroom)：新郎
+- [degree](/degree)：学位
 
 ---
 
 ## 📖 できればこれも
 
-- [graduate](/word/graduate/)：卒業する、卒業生
-- [master](/word/master/)：修士、習得する
+- [graduate](/graduate)：卒業する、卒業生
+- [master](/master)：修士、習得する
 
-<!-- cvid: aid34_bid32 -->
+<!-- cvid: aid14_bid18 -->

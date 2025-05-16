@@ -80,15 +80,19 @@ TOEICでは主に記事やレポート、スピーチ文などで比喩的な「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid15_bid17" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid17" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に記事やレポート、スピーチ文などで比喩的な「
 ## 🤔  turning point との違いは？
 
 - **watershed**：歴史や人生の「重大な分岐点」や「転機」をややフォーマルに表現
-- **[turning point](/word/turning_point/)**：物事の流れが変わる「転機」「転換点」をカジュアルにも使える
+- **[turning point](/turning_point)**：物事の流れが変わる「転機」「転換点」をカジュアルにも使える
 
 watershedは歴史的・社会的な大きな変化や分岐点に使われることが多く、turning pointは日常的な変化や個人の出来事にも幅広く使えます。
 
@@ -104,14 +108,14 @@ watershedは歴史的・社会的な大きな変化や分岐点に使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [milestone](/word/milestone/)：重要な出来事・節目
-- [boundary](/word/boundary/)：境界、限界
+- [milestone](/milestone)：重要な出来事・節目
+- [boundary](/boundary)：境界、限界
 
 ---
 
 ## 📖 できればこれも
 
-- [landmark](/word/landmark/)：画期的な出来事、目印
-- [threshold](/word/threshold/)：入り口、始まり、閾値
+- [landmark](/landmark)：画期的な出来事、目印
+- [threshold](/threshold)：入り口、始まり、閾値
 
-<!-- cvid: aid32_bid25 -->
+<!-- cvid: aid15_bid17 -->

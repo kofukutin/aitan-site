@@ -81,15 +81,19 @@ TOEICでは、依頼や感謝を表すメールや手紙の文面でよく出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、依頼や感謝を表すメールや手紙の文面でよく出題
 ## 🤔  thankful との違いは？
 
 - **grateful**：誰かの親切や具体的な行為に対して感謝している気持ちを表す
-- **[thankful](/word/thankful/)**：困難を乗り越えたことや無事であることに対する安堵や感謝の気持ちを表す
+- **[thankful](/thankful)**：困難を乗り越えたことや無事であることに対する安堵や感謝の気持ちを表す
 
 gratefulは「人や行為」に対する感謝、thankfulは「状況や結果」に対する感謝で使い分けます。
 
@@ -105,14 +109,14 @@ gratefulは「人や行為」に対する感謝、thankfulは「状況や結果�
 
 ## 🧩 あわせて覚えたい
 
-- [appreciate](/word/appreciate/)：感謝する、ありがたく思う（動詞）
-- [gratitude](/word/gratitude/)：感謝（名詞）
+- [appreciate](/appreciate)：感謝する、ありがたく思う（動詞）
+- [gratitude](/gratitude)：感謝（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/word/polite/)：礼儀正しい（形容詞）
-- [generous](/word/generous/)：寛大な、気前の良い（形容詞）
+- [polite](/polite)：礼儀正しい（形容詞）
+- [generous](/generous)：寛大な、気前の良い（形容詞）
 
-<!-- cvid: aid45_bid19 -->
+<!-- cvid: aid32_bid09 -->

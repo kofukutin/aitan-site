@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、公園や街路樹などの場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、公園や街路樹などの場
 ## 🤔  plant との違いは？
 
 - **tree**：幹があり、比較的大きな「木」を指す
-- **[plant](/word/plant/)**：草花や木など、すべての「植物」を指す
+- **[plant](/plant)**：草花や木など、すべての「植物」を指す
 
 treeは「木」限定、plantは「植物」全般を指すので、木以外の小さな草花などにはplantを使います。
 
@@ -105,14 +109,14 @@ treeは「木」限定、plantは「植物」全般を指すので、木以外�
 
 ## 🧩 あわせて覚えたい
 
-- [forest](/word/forest/)：森
-- [bush](/word/bush/)：低木、茂み
+- [forest](/forest)：森
+- [bush](/bush)：低木、茂み
 
 ---
 
 ## 📖 できればこれも
 
-- [flower](/word/flower/)：花
-- [leaf](/word/leaf/)：葉
+- [flower](/flower)：花
+- [leaf](/leaf)：葉
 
-<!-- cvid: aid39_bid30 -->
+<!-- cvid: aid44_bid34 -->

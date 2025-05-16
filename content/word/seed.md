@@ -81,15 +81,19 @@ TOEICでは、農業やビジネスの文脈で「seed」が名詞や形容詞�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、農業やビジネスの文脈で「seed」が名詞や形容詞�
 ## 🤔  grain との違いは？
 
 - **seed**：植物を育てるための「種」や「種子」を指す。
-- **[grain](/word/grain/)**：穀物の「粒」や「穀粒」、または砂糖や塩などの「粒」を指す。
+- **[grain](/grain)**：穀物の「粒」や「穀粒」、または砂糖や塩などの「粒」を指す。
 
 seedは「発芽して成長するもの」、grainは「食用や加工用の粒」として使い分けます。
 
@@ -105,14 +109,14 @@ seedは「発芽して成長するもの」、grainは「食用や加工用の�
 
 ## 🧩 あわせて覚えたい
 
-- [sprout](/word/sprout/)：芽、発芽する
-- [fruit](/word/fruit/)：果実
+- [sprout](/sprout)：芽、発芽する
+- [fruit](/fruit)：果実
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/word/plant/)：植物、植える
-- [root](/word/root/)：根
+- [plant](/plant)：植物、植える
+- [root](/root)：根
 
-<!-- cvid: aid22_bid48 -->
+<!-- cvid: aid07_bid49 -->

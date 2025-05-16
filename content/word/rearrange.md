@@ -81,15 +81,19 @@ TOEICでは会議や予定の変更、物の配置換えなどの場面で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や予定の変更、物の配置換えなどの場面で出題
 ## 🤔  reschedule との違いは？
 
 - **rearrange**：物の配置や予定などを「再び並べ直す」「再調整する」幅広い意味で使う
-- **[reschedule](/word/reschedule/)**：主に「予定や日程を変更する」ことに特化
+- **[reschedule](/reschedule)**：主に「予定や日程を変更する」ことに特化
 
 rearrangeは物理的な配置換えにも使えますが、rescheduleは時間や日程の変更に限定されます。
 
@@ -105,14 +109,14 @@ rearrangeは物理的な配置換えにも使えますが、rescheduleは時間�
 
 ## 🧩 あわせて覚えたい
 
-- [organize](/word/organize/)：整理する、まとめる
-- [modify](/word/modify/)：修正する、変更する
+- [organize](/organize)：整理する、まとめる
+- [modify](/modify)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust/)：調整する、適応させる
-- [arrange](/word/arrange/)：手配する、並べる
+- [adjust](/adjust)：調整する、適応させる
+- [arrange](/arrange)：手配する、並べる
 
-<!-- cvid: aid34_bid31 -->
+<!-- cvid: aid20_bid06 -->

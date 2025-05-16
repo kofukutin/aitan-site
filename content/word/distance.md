@@ -81,15 +81,19 @@ TOEICでは、場所の説明や移動、指示の場面で「distance」が使�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、場所の説明や移動、指示の場面で「distance」が使�
 ## 🤔  interval との違いは？
 
 - **distance**：物理的な距離や空間的な隔たりを表す
-- **[interval](/word/interval/)**：時間や空間の「区切り」「間隔」を表す
+- **[interval](/interval)**：時間や空間の「区切り」「間隔」を表す
 
 distanceは主に「点Aから点Bまでの長さ」に使い、intervalは「2つの出来事や物の間の区切りや間隔」に使います。
 
@@ -105,14 +109,14 @@ distanceは主に「点Aから点Bまでの長さ」に使い、intervalは「2�
 
 ## 🧩 あわせて覚えたい
 
-- [proximity](/word/proximity/)：近接、近いこと
-- [gap](/word/gap/)：隙間、隔たり
+- [proximity](/proximity)：近接、近いこと
+- [gap](/gap)：隙間、隔たり
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/word/length/)：長さ
-- [range](/word/range/)：範囲
+- [length](/length)：長さ
+- [range](/range)：範囲
 
-<!-- cvid: aid44_bid22 -->
+<!-- cvid: aid24_bid05 -->

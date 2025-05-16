@@ -81,15 +81,19 @@ TOEICでは技術系やビジネス系の長文で、製品説明や業界ニュ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは技術系やビジネス系の長文で、製品説明や業界ニュ
 ## 🤔  insulator との違いは？
 
 - **semiconductor**：電気を一部通す性質を持つ物質
-- **[insulator](/word/insulator/)**：電気をほとんど通さない物質
+- **[insulator](/insulator)**：電気をほとんど通さない物質
 
 semiconductorは導体と絶縁体の中間的な性質を持ち、insulatorは電気を遮断する役割を持ちます。
 
@@ -105,14 +109,14 @@ semiconductorは導体と絶縁体の中間的な性質を持ち、insulatorは�
 
 ## 🧩 あわせて覚えたい
 
-- [conductor](/word/conductor/)：導体（電気をよく通す物質）
-- [transistor](/word/transistor/)：トランジスタ（半導体を使った電子部品）
+- [conductor](/conductor)：導体（電気をよく通す物質）
+- [transistor](/transistor)：トランジスタ（半導体を使った電子部品）
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/word/circuit/)：回路
-- [device](/word/device/)：装置、デバイス
+- [circuit](/circuit)：回路
+- [device](/device)：装置、デバイス
 
-<!-- cvid: aid05_bid24 -->
+<!-- cvid: aid13_bid07 -->

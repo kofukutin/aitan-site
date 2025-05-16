@@ -81,15 +81,19 @@ wisdomはTOEICの長文読解やスピーチ文で、判断力や賢明さを表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ wisdomはTOEICの長文読解やスピーチ文で、判断力や賢明さを表
 ## 🤔  knowledge との違いは？
 
 - **wisdom**：経験や知識をもとに正しく判断する力や賢明さ
-- **[knowledge](/word/knowledge/)**：知識そのもの、情報や事実の蓄積
+- **[knowledge](/knowledge)**：知識そのもの、情報や事実の蓄積
 
 wisdomは「知識を活かして賢く判断する力」、knowledgeは「知っている内容や情報」を指します。
 
@@ -105,14 +109,14 @@ wisdomは「知識を活かして賢く判断する力」、knowledgeは「知�
 
 ## 🧩 あわせて覚えたい
 
-- [insight](/word/insight/)：洞察、物事の本質を見抜く力
-- [foolishness](/word/foolishness/)：愚かさ、賢明でないこと
+- [insight](/insight)：洞察、物事の本質を見抜く力
+- [foolishness](/foolishness)：愚かさ、賢明でないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice/)：助言、アドバイス
-- [intelligence](/word/intelligence/)：知能、知性
+- [advice](/advice)：助言、アドバイス
+- [intelligence](/intelligence)：知能、知性
 
-<!-- cvid: aid43_bid43 -->
+<!-- cvid: aid32_bid19 -->

@@ -80,15 +80,19 @@ TOEICでは、イベント案内やEメール、広告文などで「concert」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、イベント案内やEメール、広告文などで「concert」�
 ## 🤔  performance との違いは？
 
 - **concert**：音楽の演奏会やライブイベントなど、観客の前で行われる音楽会を指す。
-- **[performance](/word/performance/)**：演劇やダンス、音楽など幅広い「公演」「演技」「上演」を指す。
+- **[performance](/performance)**：演劇やダンス、音楽など幅広い「公演」「演技」「上演」を指す。
 
 concertは主に音楽イベントに限定されるのに対し、performanceは音楽以外の舞台芸術全般にも使われます。
 
@@ -104,14 +108,14 @@ concertは主に音楽イベントに限定されるのに対し、performance�
 
 ## 🧩 あわせて覚えたい
 
-- [recital](/word/recital/)：（小規模な）独奏会、発表会
-- [festival](/word/festival/)：祭り、フェスティバル
+- [recital](/recital)：（小規模な）独奏会、発表会
+- [festival](/festival)：祭り、フェスティバル
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event/)：イベント、行事
-- [show](/word/show/)：ショー、見せ物
+- [event](/event)：イベント、行事
+- [show](/show)：ショー、見せ物
 
-<!-- cvid: aid45_bid23 -->
+<!-- cvid: aid42_bid49 -->

@@ -81,15 +81,19 @@ TOEICでは主にメールや記事、案内文などの長文中で「有益な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや記事、案内文などの長文中で「有益な
 ## 🤔  instructive との違いは？
 
 - **informative**：役立つ情報や知識を与えてくれる
-- **[instructive](/word/instructive/)**：教訓や指導的な内容で学びがある
+- **[instructive](/instructive)**：教訓や指導的な内容で学びがある
 
 「informative」は客観的な情報や知識を得られる場合に使い、「instructive」は何かを教えたり、教訓を与えるニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは主にメールや記事、案内文などの長文中で「有益な
 
 ## 🧩 あわせて覚えたい
 
-- [educational](/word/educational/)：教育的な、学びになる
-- [descriptive](/word/descriptive/)：描写的な、説明的な
+- [educational](/educational)：教育的な、学びになる
+- [descriptive](/descriptive)：描写的な、説明的な
 
 ---
 
 ## 📖 できればこれも
 
-- [detailed](/word/detailed/)：詳細な
-- [concise](/word/concise/)：簡潔な
+- [detailed](/detailed)：詳細な
+- [concise](/concise)：簡潔な
 
-<!-- cvid: aid42_bid03 -->
+<!-- cvid: aid15_bid00 -->

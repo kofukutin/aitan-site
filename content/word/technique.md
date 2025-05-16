@@ -81,15 +81,19 @@ TOEICでは説明文やマニュアル、業務手順の解説などでよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文やマニュアル、業務手順の解説などでよく登
 ## 🤔  method との違いは？
 
 - **technique**：専門的・実践的な「技術」や「手法」を指し、熟練やコツのニュアンスが強い。
-- **[method](/word/method/)**：体系的・論理的な「方法」や「方式」を指し、手順やプロセスの意味が強い。
+- **[method](/method)**：体系的・論理的な「方法」や「方式」を指し、手順やプロセスの意味が強い。
 
 techniqueは「どうやって上手にやるか」、methodは「どんな手順でやるか」に重点があります。
 
@@ -105,14 +109,14 @@ techniqueは「どうやって上手にやるか」、methodは「どんな手�
 
 ## 🧩 あわせて覚えたい
 
-- [skill](/word/skill/)：技能、能力
-- [procedure](/word/procedure/)：手順、手続き
+- [skill](/skill)：技能、能力
+- [procedure](/procedure)：手順、手続き
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy/)：戦略
-- [approach](/word/approach/)：取り組み方、アプローチ
+- [strategy](/strategy)：戦略
+- [approach](/approach)：取り組み方、アプローチ
 
-<!-- cvid: aid30_bid15 -->
+<!-- cvid: aid27_bid22 -->

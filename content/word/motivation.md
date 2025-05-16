@@ -81,15 +81,19 @@ motivationはTOEICの長文読解（Part 7）で、社員のやる気や職場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ motivationはTOEICの長文読解（Part 7）で、社員のやる気や職場�
 ## 🤔  incentive との違いは？
 
 - **motivation**：内面的なやる気や意欲、行動の理由
-- **[incentive](/word/incentive/)**：外部から与えられる報酬や刺激
+- **[incentive](/incentive)**：外部から与えられる報酬や刺激
 
 motivationは自分の内側から湧き上がる気持ちを指し、incentiveはボーナスや特典など外部から与えられる動機付けを指します。
 
@@ -105,14 +109,14 @@ motivationは自分の内側から湧き上がる気持ちを指し、incentive�
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiasm](/word/enthusiasm/)：熱意、情熱
-- [goal](/word/goal/)：目標
+- [enthusiasm](/enthusiasm)：熱意、情熱
+- [goal](/goal)：目標
 
 ---
 
 ## 📖 できればこれも
 
-- [inspire](/word/inspire/)：刺激を与える、やる気にさせる
-- [achievement](/word/achievement/)：達成、成果
+- [inspire](/inspire)：刺激を与える、やる気にさせる
+- [achievement](/achievement)：達成、成果
 
-<!-- cvid: aid12_bid43 -->
+<!-- cvid: aid49_bid07 -->

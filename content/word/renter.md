@@ -81,15 +81,19 @@ TOEICでは賃貸契約や不動産関連の長文で「renter」が登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは賃貸契約や不動産関連の長文で「renter」が登場する
 ## 🤔  tenant との違いは？
 
 - **renter**：一般的に「借り手」。特にアメリカ英語で使われ、短期・長期どちらにも使える。
-- **[tenant](/word/tenant/)**：法律的・正式な「賃借人」。長期契約や不動産でよく使われる。
+- **[tenant](/tenant)**：法律的・正式な「賃借人」。長期契約や不動産でよく使われる。
 
 renterは幅広く「借りる人」を指し、tenantは特に不動産の正式な賃借人を指します。
 
@@ -105,14 +109,14 @@ renterは幅広く「借りる人」を指し、tenantは特に不動産の正�
 
 ## 🧩 あわせて覚えたい
 
-- [landlord](/word/landlord/)：大家、家主
-- [lease](/word/lease/)：賃貸契約
+- [landlord](/landlord)：大家、家主
+- [lease](/lease)：賃貸契約
 
 ---
 
 ## 📖 できればこれも
 
-- [borrower](/word/borrower/)：借りる人（主にお金や物）
-- [buyer](/word/buyer/)：買い手、購入者
+- [borrower](/borrower)：借りる人（主にお金や物）
+- [buyer](/buyer)：買い手、購入者
 
-<!-- cvid: aid37_bid23 -->
+<!-- cvid: aid10_bid18 -->

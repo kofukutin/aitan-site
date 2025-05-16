@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【uncertainty】の意味・使い方・例文 ― doubtとの違い【TOEIC英単語】"
 description: "uncertaintyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdoubtとの違いもわかりやすく学べます。"
 word: "uncertainty"
@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、記事などで「不確実性」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、記事などで「不確実性」
 ## 🤔  doubt との違いは？
 
 - **uncertainty**：状況や結果がどうなるかわからない「不確実さ」や「不透明さ」を表す。
-- **[doubt](/word/doubt/)**：何かが正しいかどうか「疑う気持ち」や「疑念」を表す。
+- **[doubt](/doubt)**：何かが正しいかどうか「疑う気持ち」や「疑念」を表す。
 
 uncertaintyは状況全体の不透明さ、doubtは特定の事実や意見に対する疑いを表す点が異なります。
 
@@ -105,14 +109,14 @@ uncertaintyは状況全体の不透明さ、doubtは特定の事実や意見に�
 
 ## 🧩 あわせて覚えたい
 
-- [confidence](/word/confidence/)：自信、確信
-- [risk](/word/risk/)：リスク、危険
+- [confidence](/confidence)：自信、確信
+- [risk](/risk)：リスク、危険
 
 ---
 
 ## 📖 できればこれも
 
-- [possibility](/word/possibility/)：可能性
-- [assumption](/word/assumption/)：仮定、想定
+- [possibility](/possibility)：可能性
+- [assumption](/assumption)：仮定、想定
 
-<!-- cvid: aid09_bid40 -->
+<!-- cvid: aid06_bid47 -->

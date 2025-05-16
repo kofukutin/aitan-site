@@ -78,15 +78,19 @@ TOEICでは会話や説明文で「～の間に」という意味で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは会話や説明文で「～の間に」という意味で頻出しま
 ## 🤔  while との違いは？
 
 - **during**：名詞（期間や出来事）の「間」を表す前置詞
-- **[while](/word/while/)**：主語＋動詞の「間」を表す接続詞
+- **[while](/while)**：主語＋動詞の「間」を表す接続詞
 
 duringは名詞とセット、whileは文（主語＋動詞）とセットで使う点が大きな違いです。
 
@@ -102,14 +106,14 @@ duringは名詞とセット、whileは文（主語＋動詞）とセットで使
 
 ## 🧩 あわせて覚えたい
 
-- [throughout](/word/throughout/)：～の間ずっと、～の至る所に
-- [after](/word/after/)：～の後で
+- [throughout](/throughout)：～の間ずっと、～の至る所に
+- [after](/after)：～の後で
 
 ---
 
 ## 📖 できればこれも
 
-- [before](/word/before/)：～の前に
-- [until](/word/until/)：～までずっと
+- [before](/before)：～の前に
+- [until](/until)：～までずっと
 
-<!-- cvid: aid30_bid32 -->
+<!-- cvid: aid13_bid01 -->

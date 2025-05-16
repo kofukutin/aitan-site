@@ -81,15 +81,19 @@ TOEICでは、メールや案内文などで「updated information」「updated 
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文などで「updated information」「updated 
 ## 🤔  renewed との違いは？
 
 - **updated**：情報や内容が新しく追加・修正されて最新になった
-- **[renewed](/word/renewed/)**：期限や契約などが「再び有効になった」「新たにされた」
+- **[renewed](/renewed)**：期限や契約などが「再び有効になった」「新たにされた」
 
 updatedは「情報の新しさ・最新状態」を強調し、renewedは「再開・再契約・再び有効になる」ことを強調します。
 
@@ -105,14 +109,14 @@ updatedは「情報の新しさ・最新状態」を強調し、renewedは「再
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current/)：現在の、最新の
-- [revised](/word/revised/)：修正された、改訂された
+- [current](/current)：現在の、最新の
+- [revised](/revised)：修正された、改訂された
 
 ---
 
 ## 📖 できればこれも
 
-- [recent](/word/recent/)：最近の
-- [modern](/word/modern/)：現代的な、最新の
+- [recent](/recent)：最近の
+- [modern](/modern)：現代的な、最新の
 
-<!-- cvid: aid08_bid27 -->
+<!-- cvid: aid16_bid02 -->

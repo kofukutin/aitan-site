@@ -81,15 +81,19 @@ TOEICでは、公式な発表や税関での申告など、ビジネスや公的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、公式な発表や税関での申告など、ビジネスや公的
 ## 🤔  announce との違いは？
 
 - **declare**：公式・公的に「宣言する」「申告する」など、フォーマルな場面で使う
-- **[announce](/word/announce/)**：広く「発表する」「知らせる」など、フォーマル・カジュアル両方で使える
+- **[announce](/announce)**：広く「発表する」「知らせる」など、フォーマル・カジュアル両方で使える
 
 declareは「公式な宣言」や「義務的な申告」に使われ、announceは「ニュースやイベントの発表」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ declareは「公式な宣言」や「義務的な申告」に使われ、announc
 
 ## 🧩 あわせて覚えたい
 
-- [proclaim](/word/proclaim/)：（公式に）宣言する
-- [state](/word/state/)：述べる、明言する
+- [proclaim](/proclaim)：（公式に）宣言する
+- [state](/state)：述べる、明言する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する、確かめる
-- [report](/word/report/)：報告する、伝える
+- [confirm](/confirm)：確認する、確かめる
+- [report](/report)：報告する、伝える
 
-<!-- cvid: aid00_bid31 -->
+<!-- cvid: aid14_bid28 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、オフィスや家庭の設備とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、オフィスや家庭の設備とし
 ## 🤔  radiator との違いは？
 
 - **heater**：一般的な暖房器具全般を指す
-- **[radiator](/word/radiator/)**：主にお湯や蒸気を使った金属製の放熱器
+- **[radiator](/radiator)**：主にお湯や蒸気を使った金属製の放熱器
 
 heaterは電気・ガス・オイルなど様々なタイプの暖房器具を広く指しますが、radiatorは特にお湯や蒸気を使って熱を放出するタイプの暖房器具を指します。
 
@@ -105,14 +109,14 @@ heaterは電気・ガス・オイルなど様々なタイプの暖房器具を�
 
 ## 🧩 あわせて覚えたい
 
-- [air conditioner](/word/air_conditioner/)：エアコン、冷暖房機
-- [boiler](/word/boiler/)：ボイラー、湯沸かし器
+- [air conditioner](/air_conditioner)：エアコン、冷暖房機
+- [boiler](/boiler)：ボイラー、湯沸かし器
 
 ---
 
 ## 📖 できればこれも
 
-- [fan](/word/fan/)：扇風機、送風機
-- [lamp](/word/lamp/)：ランプ、照明
+- [fan](/fan)：扇風機、送風機
+- [lamp](/lamp)：ランプ、照明
 
-<!-- cvid: aid07_bid15 -->
+<!-- cvid: aid24_bid03 -->

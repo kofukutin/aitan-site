@@ -81,15 +81,19 @@ TOEICでは、依頼や提案に対して前向きな姿勢を示す文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、依頼や提案に対して前向きな姿勢を示す文脈でよ
 ## 🤔  eagerness との違いは？
 
 - **willingness**：頼まれたことや必要なことに対して「進んでやる気持ち」「快く応じる姿勢」を表す
-- **[eagerness](/word/eagerness/)**：何かを「強く望む気持ち」「熱心さ」を表す
+- **[eagerness](/eagerness)**：何かを「強く望む気持ち」「熱心さ」を表す
 
 willingnessは「頼まれたことに前向きに応じる」ニュアンス、eagernessは「自分から積極的にやりたい」という強い熱意を表します。
 
@@ -105,14 +109,14 @@ willingnessは「頼まれたことに前向きに応じる」ニュアンス、
 
 ## 🧩 あわせて覚えたい
 
-- [reluctance](/word/reluctance/)：気が進まないこと、消極的な態度
-- [readiness](/word/readiness/)：準備ができていること、即応性
+- [reluctance](/reluctance)：気が進まないこと、消極的な態度
+- [readiness](/readiness)：準備ができていること、即応性
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/word/motivation/)：やる気、動機
-- [attitude](/word/attitude/)：態度、考え方
+- [motivation](/motivation)：やる気、動機
+- [attitude](/attitude)：態度、考え方
 
-<!-- cvid: aid06_bid37 -->
+<!-- cvid: aid17_bid34 -->

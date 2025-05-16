@@ -81,15 +81,19 @@ TOEICでは、製品や機械の不具合、品質管理に関する文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品や機械の不具合、品質管理に関する文脈で出
 ## 🤔  defective との違いは？
 
 - **faulty**：欠陥や誤りがあり、正常に機能しない状態を幅広く指す
-- **[defective](/word/defective/)**：製品や部品などに「重大な欠陥」があることを強調
+- **[defective](/defective)**：製品や部品などに「重大な欠陥」があることを強調
 
 「faulty」は一般的な不具合や誤りにも使えますが、「defective」は特に製品の品質検査や工業的な場面で「重大な欠陥」を強調する時に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、製品や機械の不具合、品質管理に関する文脈で出
 
 ## 🧩 あわせて覚えたい
 
-- [malfunction](/word/malfunction/)：故障、不具合
-- [flaw](/word/flaw/)：欠陥、傷
+- [malfunction](/malfunction)：故障、不具合
+- [flaw](/flaw)：欠陥、傷
 
 ---
 
 ## 📖 できればこれも
 
-- [broken](/word/broken/)：壊れた
-- [incorrect](/word/incorrect/)：間違った、不正確な
+- [broken](/broken)：壊れた
+- [incorrect](/incorrect)：間違った、不正確な
 
-<!-- cvid: aid42_bid21 -->
+<!-- cvid: aid32_bid22 -->

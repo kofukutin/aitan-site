@@ -81,15 +81,19 @@ TOEICでは、業務や問題への「対応」「処理」を表す文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、業務や問題への「対応」「処理」を表す文脈でよ
 ## 🤔  dealt との違いは？
 
 - **handled**：物事や問題を適切に処理・対応したことを強調
-- **[dealt](/word/dealt/)**：特に困難や対立などに「対処した」ニュアンスが強い
+- **[dealt](/dealt)**：特に困難や対立などに「対処した」ニュアンスが強い
 
 handledは幅広い「処理・対応」に使われ、dealtは「困難な状況への対処」によく使われます。
 
@@ -105,14 +109,14 @@ handledは幅広い「処理・対応」に使われ、dealtは「困難な状�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、うまくやる
-- [process](/word/process/)：処理する、手続きを進める
+- [manage](/manage)：管理する、うまくやる
+- [process](/process)：処理する、手続きを進める
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [organize](/word/organize/)：整理する、まとめる
+- [arrange](/arrange)：手配する、整える
+- [organize](/organize)：整理する、まとめる
 
-<!-- cvid: aid19_bid30 -->
+<!-- cvid: aid01_bid17 -->

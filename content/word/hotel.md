@@ -81,15 +81,19 @@ TOEICでは宿泊や出張、旅行に関する長文や案内文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは宿泊や出張、旅行に関する長文や案内文でよく登場
 ## 🤔  inn との違いは？
 
 - **hotel**：都市や観光地に多く、設備やサービスが充実した宿泊施設。
-- **[inn](/word/inn/)**：小規模で家庭的な雰囲気の宿や旅館。
+- **[inn](/inn)**：小規模で家庭的な雰囲気の宿や旅館。
 
 hotelは近代的でサービスが整った施設、innは伝統的・家庭的な小さな宿に使われることが多いです。
 
@@ -105,14 +109,14 @@ hotelは近代的でサービスが整った施設、innは伝統的・家庭的
 
 ## 🧩 あわせて覚えたい
 
-- [resort](/word/resort/)：リゾート、休暇用の大型宿泊施設
-- [hostel](/word/hostel/)：ホステル、安価な宿泊施設
+- [resort](/resort)：リゾート、休暇用の大型宿泊施設
+- [hostel](/hostel)：ホステル、安価な宿泊施設
 
 ---
 
 ## 📖 できればこれも
 
-- [restaurant](/word/restaurant/)：レストラン、飲食店
-- [airport](/word/airport/)：空港
+- [restaurant](/restaurant)：レストラン、飲食店
+- [airport](/airport)：空港
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid19_bid49 -->

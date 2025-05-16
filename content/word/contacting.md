@@ -81,15 +81,19 @@ TOEICでは、電話やメールでのやり取り、問い合わせの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電話やメールでのやり取り、問い合わせの場面で
 ## 🤔  reaching との違いは？
 
 - **contacting**：相手に連絡を取る、意思を伝えるためにアクションを起こすこと
-- **[reaching](/word/reaching/)**：物理的・心理的に「到達する」「届く」こと
+- **[reaching](/reaching)**：物理的・心理的に「到達する」「届く」こと
 
 contactingは「連絡する」という意図的な行動を表し、reachingは「到達する」「届く」という結果や状態を強調します。
 
@@ -105,14 +109,14 @@ contactingは「連絡する」という意図的な行動を表し、reaching�
 
 ## 🧩 あわせて覚えたい
 
-- [notify](/word/notify/)：通知する、知らせる
-- [inform](/word/inform/)：情報を伝える、知らせる
+- [notify](/notify)：通知する、知らせる
+- [inform](/inform)：情報を伝える、知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [call](/word/call/)：電話する
-- [reply](/word/reply/)：返事をする
+- [call](/call)：電話する
+- [reply](/reply)：返事をする
 
-<!-- cvid: aid34_bid13 -->
+<!-- cvid: aid45_bid21 -->

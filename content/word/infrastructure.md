@@ -80,15 +80,19 @@ infrastructureはTOEICの長文読解パートで、都市開発やビジネス�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid04" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid04" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ infrastructureはTOEICの長文読解パートで、都市開発やビジネス�
 ## 🤔  facility との違いは？
 
 - **infrastructure**：社会や組織の基盤となる大規模な設備や仕組み全体
-- **[facility](/word/facility/)**：特定の目的のための建物や設備
+- **[facility](/facility)**：特定の目的のための建物や設備
 
 infrastructureは「全体の土台」、facilityは「個別の施設や設備」を指し、規模や用途が異なります。
 
@@ -104,14 +108,14 @@ infrastructureは「全体の土台」、facilityは「個別の施設や設備�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、通信網
-- [foundation](/word/foundation/)：基礎、土台
+- [network](/network)：ネットワーク、通信網
+- [foundation](/foundation)：基礎、土台
 
 ---
 
 ## 📖 できればこれも
 
-- [resource](/word/resource/)：資源、財源
-- [system](/word/system/)：システム、仕組み
+- [resource](/resource)：資源、財源
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid48_bid05 -->
+<!-- cvid: aid33_bid04 -->

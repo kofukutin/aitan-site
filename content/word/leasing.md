@@ -81,15 +81,19 @@ TOEICではビジネス文書や契約書、広告などで「leasing」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や契約書、広告などで「leasing」が登�
 ## 🤔  rental との違いは？
 
 - **leasing**：長期間・契約に基づいて設備や車などを借りること
-- **[rental](/word/rental/)**：短期間・比較的気軽に物を借りること
+- **[rental](/rental)**：短期間・比較的気軽に物を借りること
 
 leasingは主にビジネスや高額な物品に使われ、rentalは日常的なレンタル（例：DVD、部屋）に使われることが多いです。
 
@@ -105,14 +109,14 @@ leasingは主にビジネスや高額な物品に使われ、rentalは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [lease](/word/lease/)：賃貸する、賃貸契約
-- [ownership](/word/ownership/)：所有権
+- [lease](/lease)：賃貸する、賃貸契約
+- [ownership](/ownership)：所有権
 
 ---
 
 ## 📖 できればこれも
 
-- [installment](/word/installment/)：分割払い
-- [contract](/word/contract/)：契約
+- [installment](/installment)：分割払い
+- [contract](/contract)：契約
 
-<!-- cvid: aid07_bid29 -->
+<!-- cvid: aid37_bid03 -->

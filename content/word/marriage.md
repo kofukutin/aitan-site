@@ -81,15 +81,19 @@ TOEICでは、結婚や家族に関する話題や、福利厚生の説明文な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、結婚や家族に関する話題や、福利厚生の説明文な
 ## 🤔  wedding との違いは？
 
 - **marriage**：結婚そのものや結婚生活を指す
-- **[wedding](/word/wedding/)**：結婚式（儀式やイベント）を指す
+- **[wedding](/wedding)**：結婚式（儀式やイベント）を指す
 
 marriageは「結婚生活」や「結婚という状態」を表し、weddingは「結婚式」という一度きりのイベントを指します。
 
@@ -105,14 +109,14 @@ marriageは「結婚生活」や「結婚という状態」を表し、wedding�
 
 ## 🧩 あわせて覚えたい
 
-- [divorce](/word/divorce/)：離婚
-- [engagement](/word/engagement/)：婚約
+- [divorce](/divorce)：離婚
+- [engagement](/engagement)：婚約
 
 ---
 
 ## 📖 できればこれも
 
-- [relationship](/word/relationship/)：人間関係、交際
-- [ceremony](/word/ceremony/)：式典、儀式
+- [relationship](/relationship)：人間関係、交際
+- [ceremony](/ceremony)：式典、儀式
 
-<!-- cvid: aid20_bid17 -->
+<!-- cvid: aid02_bid28 -->

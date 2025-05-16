@@ -83,15 +83,19 @@ OKはTOEICのリスニング応答問題（Part 2）でよく使われます。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ OKはTOEICのリスニング応答問題（Part 2）でよく使われます。�
 ## 🤔  agree との違いは？
 
 - **OK**：カジュアルに「大丈夫」「いいよ」と同意や許可を表す。
-- **[agree](/word/agree/)**：「同意する」「賛成する」とややフォーマルに意見や考えが一致することを表す。
+- **[agree](/agree)**：「同意する」「賛成する」とややフォーマルに意見や考えが一致することを表す。
 
 OKは日常的な軽い同意や許可、agreeは意見や提案に賛成するフォーマルな場面で使います。
 
@@ -107,14 +111,14 @@ OKは日常的な軽い同意や許可、agreeは意見や提案に賛成する�
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/word/approve/)：承認する、認める
-- [fine](/word/fine/)：問題ない、良い
+- [approve](/approve)：承認する、認める
+- [fine](/fine)：問題ない、良い
 
 ---
 
 ## 📖 できればこれも
 
-- [sure](/word/sure/)：もちろん、いいよ
-- [alright](/word/alright/)：大丈夫、問題ない
+- [sure](/sure)：もちろん、いいよ
+- [alright](/alright)：大丈夫、問題ない
 
-<!-- cvid: aid27_bid42 -->
+<!-- cvid: aid39_bid30 -->

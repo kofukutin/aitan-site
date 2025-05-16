@@ -88,8 +88,12 @@ TOEICでは「labor cost（人件費）」や「labor force（労働力）」な
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「labor cost（人件費）」や「labor force（労働力）」な
 ## 🤔  work との違いは？
 
 - **labor**：肉体的・精神的な努力や労働、または労働力を指し、ややフォーマル。
-- **[work](/word/work/)**：一般的な「仕事」「作業」全般を指し、日常的で幅広い意味。
+- **[work](/work)**：一般的な「仕事」「作業」全般を指し、日常的で幅広い意味。
 
 laborは特に「労働力」や「人件費」など経済・ビジネスの文脈で使われ、workは日常のあらゆる「仕事」に使われます。
 
@@ -105,14 +109,14 @@ laborは特に「労働力」や「人件費」など経済・ビジネスの文
 
 ## 🧩 あわせて覚えたい
 
-- [employment](/word/employment/)：雇用、就職
-- [effort](/word/effort/)：努力、尽力
+- [employment](/employment)：雇用、就職
+- [effort](/effort)：努力、尽力
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/word/task/)：課題、仕事
-- [project](/word/project/)：プロジェクト、計画
+- [task](/task)：課題、仕事
+- [project](/project)：プロジェクト、計画
 
-<!-- cvid: aid23_bid08 -->
+<!-- cvid: aid23_bid15 -->

@@ -81,15 +81,19 @@ virtuallyはTOEICの長文読解パートで「ほとんど」「実質的に」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ virtuallyはTOEICの長文読解パートで「ほとんど」「実質的に」
 ## 🤔  practically との違いは？
 
 - **virtually**：実際には完全ではないが、ほぼそうである状態を強調
-- **[practically](/word/practically/)**：実用的・現実的な観点から「ほとんど」「実際に」を強調
+- **[practically](/practically)**：実用的・現実的な観点から「ほとんど」「実際に」を強調
 
 virtuallyは「理論上・事実上ほぼそうである」ニュアンス、practicallyは「実用面・現実的に見てほぼそうである」違いがあります。
 
@@ -105,14 +109,14 @@ virtuallyは「理論上・事実上ほぼそうである」ニュアンス、pr
 
 ## 🧩 あわせて覚えたい
 
-- [literally](/word/literally/)：文字通り、本当に
-- [actually](/word/actually/)：実際に、現実に
+- [literally](/literally)：文字通り、本当に
+- [actually](/actually)：実際に、現実に
 
 ---
 
 ## 📖 できればこれも
 
-- [approximately](/word/approximately/)：おおよそ、約
-- [essentially](/word/essentially/)：本質的に、基本的に
+- [approximately](/approximately)：おおよそ、約
+- [essentially](/essentially)：本質的に、基本的に
 
-<!-- cvid: aid37_bid24 -->
+<!-- cvid: aid49_bid02 -->

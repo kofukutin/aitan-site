@@ -81,15 +81,19 @@ TOEICでは「承認」「認可」を問う文脈で頻出します。特にビ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「承認」「認可」を問う文脈で頻出します。特にビ
 ## 🤔  permission との違いは？
 
 - **approval**：正式な承認や賛成を意味し、上司や組織など権限のある人が認めるニュアンスが強い
-- **[permission](/word/permission/)**：許可、特に「してもよい」という許しを意味し、日常的な許可にも使われる
+- **[permission](/permission)**：許可、特に「してもよい」という許しを意味し、日常的な許可にも使われる
 
 approvalは「認める・賛成する」ニュアンス、permissionは「許す・してもよいと認める」ニュアンスの違いがあります。
 
@@ -105,13 +109,13 @@ approvalは「認める・賛成する」ニュアンス、permissionは「許�
 
 ## 🧩 あわせて覚えたい
 
-- [rejection](/word/rejection/)：拒否、却下
-- [authorization](/word/authorization/)：認可、許可
+- [rejection](/rejection)：拒否、却下
+- [authorization](/authorization)：認可、許可
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、同意
-- [confirmation](/word/confirmation/)：確認、承認
-<!-- cvid: aid28_bid24 -->
+- [agreement](/agreement)：合意、同意
+- [confirmation](/confirmation)：確認、承認
+<!-- cvid: aid07_bid03 -->

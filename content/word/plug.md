@@ -81,15 +81,19 @@ plugはIT機器やオフィスの設備に関する会話でよく登場しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ plugはIT機器やオフィスの設備に関する会話でよく登場しま�
 ## 🤔  insert との違いは？
 
 - **plug**：主に電気機器やケーブルなどを「差し込む」「接続する」時に使う
-- **[insert](/word/insert/)**：一般的に「挿入する」「差し込む」全般に使う
+- **[insert](/insert)**：一般的に「挿入する」「差し込む」全般に使う
 
 plugは特に電源や電子機器の接続に使われ、insertは書類やカードなど幅広い対象に使われます。
 
@@ -105,14 +109,14 @@ plugは特に電源や電子機器の接続に使われ、insertは書類やカ�
 
 ## 🧩 あわせて覚えたい
 
-- [unplug](/word/unplug/)：（コンセントなどから）抜く
-- [connect](/word/connect/)：接続する
+- [unplug](/unplug)：（コンセントなどから）抜く
+- [connect](/connect)：接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [switch](/word/switch/)：切り替える、スイッチ
-- [charge](/word/charge/)：充電する
+- [switch](/switch)：切り替える、スイッチ
+- [charge](/charge)：充電する
 
-<!-- cvid: aid13_bid26 -->
+<!-- cvid: aid37_bid11 -->

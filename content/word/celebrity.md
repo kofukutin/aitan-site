@@ -81,15 +81,19 @@ TOEICでは、記事や広告、インタビュー文などで「有名人」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や広告、インタビュー文などで「有名人」や
 ## 🤔  famous との違いは？
 
 - **celebrity**：有名人そのもの、特定の人物を指す
-- **[famous](/word/famous/)**：有名な（形容詞）、人や物・事柄にも使える
+- **[famous](/famous)**：有名な（形容詞）、人や物・事柄にも使える
 
 celebrityは「有名な人」という名詞、famousは「有名な」という形容詞で、celebrityは人限定、famousは人・物・事柄すべてに使えます。
 
@@ -105,14 +109,14 @@ celebrityは「有名な人」という名詞、famousは「有名な」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [star](/word/star/)：スター、人気者
-- [notable](/word/notable/)：著名な人、注目すべき人
+- [star](/star)：スター、人気者
+- [notable](/notable)：著名な人、注目すべき人
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event/)：イベント、出来事
-- [public](/word/public/)：公衆、一般の人々
+- [event](/event)：イベント、出来事
+- [public](/public)：公衆、一般の人々
 
-<!-- cvid: aid46_bid24 -->
+<!-- cvid: aid15_bid05 -->

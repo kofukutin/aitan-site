@@ -82,15 +82,19 @@ TOEICでは、フォーマルな「試みる」という意味で動詞・名詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、フォーマルな「試みる」という意味で動詞・名詞
 ## 🤔  try との違いは？
 
 - **attempt**：フォーマルで計画的な「試みる」「挑戦する」
-- **[try](/word/try/)**：日常的で幅広く使える「やってみる」「試す」
+- **[try](/try)**：日常的で幅広く使える「やってみる」「試す」
 
 attemptは書き言葉やビジネスで使われ、tryはカジュアルな会話でよく使われます。
 
@@ -106,14 +110,14 @@ attemptは書き言葉やビジネスで使われ、tryはカジュアルな会�
 
 ## 🧩 あわせて覚えたい
 
-- [undertake](/word/undertake/)：（責任を持って）引き受ける
-- [effort](/word/effort/)：努力
+- [undertake](/undertake)：（責任を持って）引き受ける
+- [effort](/effort)：努力
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [complete](/word/complete/)：完了する
+- [achieve](/achieve)：達成する
+- [complete](/complete)：完了する
 
-<!-- cvid: aid20_bid10 -->
+<!-- cvid: aid16_bid13 -->

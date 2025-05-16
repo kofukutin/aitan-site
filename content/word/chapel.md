@@ -81,15 +81,19 @@ The wedding ceremony will be held in the chapel.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The wedding ceremony will be held in the chapel.
 ## 🤔  church との違いは？
 
 - **chapel**：教会や施設内の小規模な礼拝堂、特定目的の礼拝所
-- **[church](/word/church/)**：一般的な教会、宗教活動の中心となる建物
+- **[church](/church)**：一般的な教会、宗教活動の中心となる建物
 
 chapelはchurchの一部や付属施設として使われることが多く、churchは地域の宗教活動の中心的な建物を指します。
 
@@ -105,14 +109,14 @@ chapelはchurchの一部や付属施設として使われることが多く、ch
 
 ## 🧩 あわせて覚えたい
 
-- [cathedral](/word/cathedral/)：大聖堂
-- [temple](/word/temple/)：寺院
+- [cathedral](/cathedral)：大聖堂
+- [temple](/temple)：寺院
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum/)：博物館
-- [gallery](/word/gallery/)：美術館
+- [museum](/museum)：博物館
+- [gallery](/gallery)：美術館
 
-<!-- cvid: aid25_bid46 -->
+<!-- cvid: aid15_bid36 -->

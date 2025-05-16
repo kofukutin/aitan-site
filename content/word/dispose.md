@@ -81,15 +81,19 @@ TOEICでは「dispose of ～（～を処分する）」の形で頻出し、特�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「dispose of ～（～を処分する）」の形で頻出し、特�
 ## 🤔  discard との違いは？
 
 - **dispose**：不要なものを正式に処分・廃棄する、または配置する意味もある
-- **[discard](/word/discard/)**：不要なものを捨てる、手放す（よりカジュアル）
+- **[discard](/discard)**：不要なものを捨てる、手放す（よりカジュアル）
 
 「dispose」はフォーマルで手順やルールに従って処分するニュアンスが強く、「discard」は単純に不要なものを捨てる時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「dispose of ～（～を処分する）」の形で頻出し、特�
 
 ## 🧩 あわせて覚えたい
 
-- [retain](/word/retain/)：保持する、保有する
-- [eliminate](/word/eliminate/)：除去する、排除する
+- [retain](/retain)：保持する、保有する
+- [eliminate](/eliminate)：除去する、排除する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：整える、手配する
-- [remove](/word/remove/)：取り除く、除去する
+- [arrange](/arrange)：整える、手配する
+- [remove](/remove)：取り除く、除去する
 
-<!-- cvid: aid21_bid14 -->
+<!-- cvid: aid05_bid47 -->

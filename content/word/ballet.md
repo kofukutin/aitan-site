@@ -81,15 +81,19 @@ TOEICでは、劇場やイベントの案内、文化に関する長文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、劇場やイベントの案内、文化に関する長文で登場
 ## 🤔  dance との違いは？
 
 - **ballet**：クラシック音楽に合わせて踊る舞台芸術の一種で、特有の技法や形式がある
-- **[dance](/word/dance/)**：踊り全般を指し、ジャンルや形式を問わない
+- **[dance](/dance)**：踊り全般を指し、ジャンルや形式を問わない
 
 balletは「バレエ」という特定の舞台芸術を指し、danceはあらゆる種類の踊りを広く指します。
 
@@ -105,14 +109,14 @@ balletは「バレエ」という特定の舞台芸術を指し、danceはあら
 
 ## 🧩 あわせて覚えたい
 
-- [opera](/word/opera/)：オペラ（歌劇）
-- [performance](/word/performance/)：公演、上演
+- [opera](/opera)：オペラ（歌劇）
+- [performance](/performance)：公演、上演
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/word/theater/)：劇場
-- [music](/word/music/)：音楽
+- [theater](/theater)：劇場
+- [music](/music)：音楽
 
-<!-- cvid: aid12_bid39 -->
+<!-- cvid: aid32_bid06 -->

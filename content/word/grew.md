@@ -81,15 +81,19 @@ TOEICでは、売上や会社の規模、個人のスキルなどが「増えた
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、売上や会社の規模、個人のスキルなどが「増えた
 ## 🤔  increased との違いは？
 
 - **grew**：自然に成長・増加したことを表す
-- **[increased](/word/increased/)**：数量や数値が上がったことを強調
+- **[increased](/increased)**：数量や数値が上がったことを強調
 
 「grew」は自然な成長や発展、「increased」は数値や量が上がったことを客観的に述べる時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、売上や会社の規模、個人のスキルなどが「増えた
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/word/expand/)：拡大する
-- [develop](/word/develop/)：発展する
+- [expand](/expand)：拡大する
+- [develop](/develop)：発展する
 
 ---
 
 ## 📖 できればこれも
 
-- [rise](/word/rise/)：上昇する
-- [improve](/word/improve/)：改善する
+- [rise](/rise)：上昇する
+- [improve](/improve)：改善する
 
-<!-- cvid: aid07_bid33 -->
+<!-- cvid: aid48_bid12 -->

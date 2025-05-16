@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、記事やメールの中で「普通
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、記事やメールの中で「普通
 ## 🤔  strange との違いは？
 
 - **bizarre**：普通では考えられないほど極端に奇妙・異様な
-- **[strange](/word/strange/)**：一般的に「変だな」と感じる程度の奇妙さ
+- **[strange](/strange)**：一般的に「変だな」と感じる程度の奇妙さ
 
 bizarreはstrangeよりも強い違和感や異様さを表し、見た目や行動が極端に変わっている場合に使います。
 
@@ -105,14 +109,14 @@ bizarreはstrangeよりも強い違和感や異様さを表し、見た目や行
 
 ## 🧩 あわせて覚えたい
 
-- [peculiar](/word/peculiar/)：独特な、風変わりな
-- [normal](/word/normal/)：普通の、標準的な
+- [peculiar](/peculiar)：独特な、風変わりな
+- [normal](/normal)：普通の、標準的な
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique/)：唯一の、独特な
-- [odd](/word/odd/)：変な、奇妙な
+- [unique](/unique)：唯一の、独特な
+- [odd](/odd)：変な、奇妙な
 
-<!-- cvid: aid27_bid37 -->
+<!-- cvid: aid41_bid00 -->

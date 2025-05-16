@@ -81,15 +81,19 @@ TOEICでは、展示や説明文、観光案内などで「replica」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、展示や説明文、観光案内などで「replica」が登場�
 ## 🤔  imitation との違いは？
 
 - **replica**：オリジナルとほぼ同じように正確に再現された複製品
-- **[imitation](/word/imitation/)**：本物に似せて作った模造品（質や忠実度は問わない）
+- **[imitation](/imitation)**：本物に似せて作った模造品（質や忠実度は問わない）
 
 replicaは「忠実な再現」に重点があり、imitationは「似せて作ったもの」全般を指します。
 
@@ -105,14 +109,14 @@ replicaは「忠実な再現」に重点があり、imitationは「似せて作�
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy/)：コピー、写し
-- [original](/word/original/)：原物、本物
+- [copy](/copy)：コピー、写し
+- [original](/original)：原物、本物
 
 ---
 
 ## 📖 できればこれも
 
-- [artifact](/word/artifact/)：工芸品、人工遺物
-- [exhibit](/word/exhibit/)：展示物
+- [artifact](/artifact)：工芸品、人工遺物
+- [exhibit](/exhibit)：展示物
 
-<!-- cvid: aid13_bid22 -->
+<!-- cvid: aid27_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは、空港や銀行、オフィスの受付などの場面で「counte
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、空港や銀行、オフィスの受付などの場面で「counte
 ## 🤔  desk との違いは？
 
 - **counter**：店や銀行などの「カウンター」「窓口」や、物を数える「計器」を指す
-- **[desk](/word/desk/)**：主に「机」や「受付（デスク）」を指し、個人の作業スペースやオフィスの受付に使う
+- **[desk](/desk)**：主に「机」や「受付（デスク）」を指し、個人の作業スペースやオフィスの受付に使う
 
 「counter」は接客やサービスの場で使われる台や窓口を指し、「desk」は個人の作業用の机やオフィスの受付に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、空港や銀行、オフィスの受付などの場面で「counte
 
 ## 🧩 あわせて覚えたい
 
-- [window](/word/window/)：窓口、受付
-- [booth](/word/booth/)：ブース、小部屋
+- [window](/window)：窓口、受付
+- [booth](/booth)：ブース、小部屋
 
 ---
 
 ## 📖 できればこれも
 
-- [register](/word/register/)：レジ、登録する
-- [reception](/word/reception/)：受付、歓迎会
+- [register](/register)：レジ、登録する
+- [reception](/reception)：受付、歓迎会
 
-<!-- cvid: aid16_bid42 -->
+<!-- cvid: aid15_bid30 -->

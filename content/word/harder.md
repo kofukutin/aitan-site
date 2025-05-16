@@ -81,15 +81,19 @@ You need to work harder to meet the deadline.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ You need to work harder to meet the deadline.
 ## 🤔  more difficult との違いは？
 
 - **harder**：より難しい、またはより一生懸命な（カジュアルで幅広い場面で使う）
-- **[more difficult](/word/more_difficult/)**：より困難な（ややフォーマルで「難しさ」に特化）
+- **[more difficult](/more_difficult)**：より困難な（ややフォーマルで「難しさ」に特化）
 
 harderは「難しさ」だけでなく「努力の度合い」にも使えますが、more difficultは「難しさ」に限定され、ややフォーマルな響きがあります。
 
@@ -105,14 +109,14 @@ harderは「難しさ」だけでなく「努力の度合い」にも使えま�
 
 ## 🧩 あわせて覚えたい
 
-- [tough](/word/tough/)：骨の折れる、手ごわい
-- [easy](/word/easy/)：簡単な
+- [tough](/tough)：骨の折れる、手ごわい
+- [easy](/easy)：簡単な
 
 ---
 
 ## 📖 できればこれも
 
-- [hard](/word/hard/)：難しい、一生懸命な
-- [easier](/word/easier/)：より簡単な
+- [hard](/hard)：難しい、一生懸命な
+- [easier](/easier)：より簡単な
 
-<!-- cvid: aid19_bid19 -->
+<!-- cvid: aid24_bid49 -->

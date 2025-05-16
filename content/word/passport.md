@@ -81,15 +81,19 @@ TOEICでは、旅行や出張、本人確認に関する長文やEメールの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、旅行や出張、本人確認に関する長文やEメールの�
 ## 🤔  visa との違いは？
 
 - **passport**：国が発行する身分証明書で、海外渡航の際に必要。
-- **[visa](/word/visa/)**：渡航先の国が発行する入国許可証。
+- **[visa](/visa)**：渡航先の国が発行する入国許可証。
 
 passportは「自国が発行する身分証明書」、visaは「渡航先が発行する入国許可証」と覚えましょう。
 
@@ -105,14 +109,14 @@ passportは「自国が発行する身分証明書」、visaは「渡航先が�
 
 ## 🧩 あわせて覚えたい
 
-- [identification](/word/identification/)：身分証明書
-- [document](/word/document/)：書類
+- [identification](/identification)：身分証明書
+- [document](/document)：書類
 
 ---
 
 ## 📖 できればこれも
 
-- [ticket](/word/ticket/)：切符、チケット
-- [reservation](/word/reservation/)：予約
+- [ticket](/ticket)：切符、チケット
+- [reservation](/reservation)：予約
 
-<!-- cvid: aid15_bid31 -->
+<!-- cvid: aid24_bid38 -->

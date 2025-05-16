@@ -81,15 +81,19 @@ All new employees will attend a guided orientation session.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ All new employees will attend a guided orientation session.
 ## 🤔  instructed との違いは？
 
 - **guided**：案内人や指導者によって導かれた、ガイド付きの
-- **[instructed](/word/instructed/)**：指示や命令を受けて行動する、指導された
+- **[instructed](/instructed)**：指示や命令を受けて行動する、指導された
 
 guidedは「案内や同行によるサポート」、instructedは「明確な指示や命令を受けた」ニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ guidedは「案内や同行によるサポート」、instructedは「明確な�
 
 ## 🧩 あわせて覚えたい
 
-- [directed](/word/directed/)：指示された、方向付けられた
-- [assisted](/word/assisted/)：補助された、手伝われた
+- [directed](/directed)：指示された、方向付けられた
+- [assisted](/assisted)：補助された、手伝われた
 
 ---
 
 ## 📖 できればこれも
 
-- [organized](/word/organized/)：組織された、整理された
-- [scheduled](/word/scheduled/)：予定された、スケジュールされた
+- [organized](/organized)：組織された、整理された
+- [scheduled](/scheduled)：予定された、スケジュールされた
 
-<!-- cvid: aid47_bid41 -->
+<!-- cvid: aid25_bid48 -->

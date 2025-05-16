@@ -81,15 +81,19 @@ TOEICでは、科学やビジネス文書、契約書などの長文中で「複
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学やビジネス文書、契約書などの長文中で「複
 ## 🤔  duplication との違いは？
 
 - **reproduction**：元のものを再現・再生・複製することや、生物の繁殖を指す。
-- **[duplication](/word/duplication/)**：主に「まったく同じものを二重にする」こと、コピーや写しの意味が強い。
+- **[duplication](/duplication)**：主に「まったく同じものを二重にする」こと、コピーや写しの意味が強い。
 
 reproductionは「再現」や「繁殖」など幅広い意味を持ち、芸術や生物学でも使われますが、duplicationは「コピー」や「重複」に限定される傾向があります。
 
@@ -105,14 +109,14 @@ reproductionは「再現」や「繁殖」など幅広い意味を持ち、芸�
 
 ## 🧩 あわせて覚えたい
 
-- [replication](/word/replication/)：（実験などの）再現、複製
-- [imitation](/word/imitation/)：模倣、まね
+- [replication](/replication)：（実験などの）再現、複製
+- [imitation](/imitation)：模倣、まね
 
 ---
 
 ## 📖 できればこれも
 
-- [generation](/word/generation/)：世代、発生
-- [production](/word/production/)：生産、製造
+- [generation](/generation)：世代、発生
+- [production](/production)：生産、製造
 
-<!-- cvid: aid02_bid47 -->
+<!-- cvid: aid48_bid24 -->

@@ -81,15 +81,19 @@ decorateはTOEICの会話パートで、イベントやオフィスの話題な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ decorateはTOEICの会話パートで、イベントやオフィスの話題な�
 ## 🤔  adorn との違いは？
 
 - **decorate**：一般的に物や場所を飾ることを指し、日常的な場面でよく使われます。
-- **[adorn](/word/adorn/)**：よりフォーマルで、上品に美しく飾るニュアンスがあります。
+- **[adorn](/adorn)**：よりフォーマルで、上品に美しく飾るニュアンスがあります。
 
 decorateは日常的な「飾る」、adornは文学的・フォーマルな「美しく装飾する」という違いがあります。
 
@@ -105,14 +109,14 @@ decorateは日常的な「飾る」、adornは文学的・フォーマルな「�
 
 ## 🧩 あわせて覚えたい
 
-- [embellish](/word/embellish/)：さらに美しく飾る、装飾する
-- [arrange](/word/arrange/)：整える、配置する
+- [embellish](/embellish)：さらに美しく飾る、装飾する
+- [arrange](/arrange)：整える、配置する
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：デザインする、設計する
-- [organize](/word/organize/)：整理する、まとめる
+- [design](/design)：デザインする、設計する
+- [organize](/organize)：整理する、まとめる
 
-<!-- cvid: aid38_bid38 -->
+<!-- cvid: aid16_bid03 -->

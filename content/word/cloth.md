@@ -81,15 +81,19 @@ TOEICでは、clothは主に製品説明や素材に関する文脈で出題さ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、clothは主に製品説明や素材に関する文脈で出題さ�
 ## 🤔  fabric との違いは？
 
 - **cloth**：衣服や日用品に使う「布」や「生地」を指す、やや具体的な表現
-- **[fabric](/word/fabric/)**：織物・編み物などの「生地」全般を指し、工業的・素材的なニュアンスが強い
+- **[fabric](/fabric)**：織物・編み物などの「生地」全般を指し、工業的・素材的なニュアンスが強い
 
 clothは日常的な「布」や「ふきん」など具体的な用途に使われ、fabricは素材や構造に注目した専門的な場面で使われます。
 
@@ -105,14 +109,14 @@ clothは日常的な「布」や「ふきん」など具体的な用途に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [material](/word/material/)：材料、素材
-- [garment](/word/garment/)：衣服
+- [material](/material)：材料、素材
+- [garment](/garment)：衣服
 
 ---
 
 ## 📖 できればこれも
 
-- [thread](/word/thread/)：糸
-- [towel](/word/towel/)：タオル
+- [thread](/thread)：糸
+- [towel](/towel)：タオル
 
-<!-- cvid: aid35_bid39 -->
+<!-- cvid: aid18_bid26 -->

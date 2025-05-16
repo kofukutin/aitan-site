@@ -83,15 +83,19 @@ TOEICでは、誰かを迎える場面や、来客対応のフレーズとして
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、誰かを迎える場面や、来客対応のフレーズとして
 ## 🤔  greet との違いは？
 
 - **welcome**：相手を温かく迎え入れる、歓迎する
-- **[greet](/word/greet/)**：挨拶する、声をかける
+- **[greet](/greet)**：挨拶する、声をかける
 
 「welcome」は相手を受け入れる気持ちを強調し、「greet」は単に挨拶や声かけを指します。
 
@@ -107,14 +111,14 @@ TOEICでは、誰かを迎える場面や、来客対応のフレーズとして
 
 ## 🧩 あわせて覚えたい
 
-- [invite](/word/invite/)：招待する
-- [accept](/word/accept/)：受け入れる
+- [invite](/invite)：招待する
+- [accept](/accept)：受け入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [join](/word/join/)：参加する
-- [meet](/word/meet/)：会う
+- [join](/join)：参加する
+- [meet](/meet)：会う
 
-<!-- cvid: aid43_bid44 -->
+<!-- cvid: aid16_bid36 -->

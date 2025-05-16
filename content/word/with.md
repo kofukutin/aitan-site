@@ -77,15 +77,19 @@ TOEICでは前置詞の使い分け問題で頻出です。特に「by」「for�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid11_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは前置詞の使い分け問題で頻出です。特に「by」「for�
 ## 🤔  by との違いは？
 
 - **with**：道具や一緒にいる人など「一緒」「手段」を表す
-- **[by](/word/by/)**：手段や方法、行為者（受動態）を表す
+- **[by](/by)**：手段や方法、行為者（受動態）を表す
 
 withは「何かを使って」「誰かと一緒に」という具体的な同伴や道具を示し、byは「方法」や「手段」「行為者」をより抽象的に表します。
 
@@ -101,14 +105,14 @@ withは「何かを使って」「誰かと一緒に」という具体的な同�
 
 ## 🧩 あわせて覚えたい
 
-- [beside](/word/beside/)：～のそばに
-- [without](/word/without/)：～なしで
+- [beside](/beside)：～のそばに
+- [without](/without)：～なしで
 
 ---
 
 ## 📖 できればこれも
 
-- [for](/word/for/)：～のために
-- [about](/word/about/)：～について
+- [for](/for)：～のために
+- [about](/about)：～について
 
-<!-- cvid: aid32_bid16 -->
+<!-- cvid: aid11_bid24 -->

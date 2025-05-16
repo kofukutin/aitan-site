@@ -81,15 +81,19 @@ TOEICではIT関連の説明文やマニュアル、業務手順の中で「conf
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連の説明文やマニュアル、業務手順の中で「conf
 ## 🤔  setting との違いは？
 
 - **configuring**：システムや機器の詳細な設定や構成を行うこと
-- **[setting](/word/setting/)**：一般的な「設定」や「調整」を指し、幅広い場面で使われる
+- **[setting](/setting)**：一般的な「設定」や「調整」を指し、幅広い場面で使われる
 
 「configuring」は専門的・技術的な場面で使われ、より細かく調整するニュアンスがありますが、「setting」は日常的な設定全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICではIT関連の説明文やマニュアル、業務手順の中で「conf
 
 ## 🧩 あわせて覚えたい
 
-- [install](/word/install/)：インストールする
-- [customize](/word/customize/)：カスタマイズする、好みに合わせて変更する
+- [install](/install)：インストールする
+- [customize](/customize)：カスタマイズする、好みに合わせて変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新する
-- [adjust](/word/adjust/)：調整する
+- [update](/update)：更新する
+- [adjust](/adjust)：調整する
 
-<!-- cvid: aid49_bid09 -->
+<!-- cvid: aid35_bid49 -->

@@ -82,15 +82,19 @@ TOEICでは、文中で「何かを作り出す」場面や、進行中のプロ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、文中で「何かを作り出す」場面や、進行中のプロ
 ## 🤔  making との違いは？
 
 - **creating**：新しく何かを生み出す、創造する
-- **[making](/word/making/)**：材料や既存のものを使って作る、製作する
+- **[making](/making)**：材料や既存のものを使って作る、製作する
 
 「creating」はゼロから新しいものを生み出すイメージ、「making」は既存の材料やアイデアを使って作るイメージです。
 
@@ -106,14 +110,14 @@ TOEICでは、文中で「何かを作り出す」場面や、進行中のプロ
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop/)：開発する、発展させる
-- [design](/word/design/)：設計する、デザインする
+- [develop](/develop)：開発する、発展させる
+- [design](/design)：設計する、デザインする
 
 ---
 
 ## 📖 できればこれも
 
-- [produce](/word/produce/)：生産する、作り出す
-- [build](/word/build/)：建てる、築く
+- [produce](/produce)：生産する、作り出す
+- [build](/build)：建てる、築く
 
-<!-- cvid: aid05_bid29 -->
+<!-- cvid: aid35_bid47 -->

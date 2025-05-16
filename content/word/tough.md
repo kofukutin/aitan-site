@@ -81,15 +81,19 @@ toughはTOEICの会話や説明文で「困難な状況」や「厳しい条件�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ toughはTOEICの会話や説明文で「困難な状況」や「厳しい条件�
 ## 🤔  strict との違いは？
 
 - **tough**：困難さやたくましさ、物理的・精神的な「強さ」を表す
-- **[strict](/word/strict/)**：規則やルールに「厳格」なことを表す
+- **[strict](/strict)**：規則やルールに「厳格」なことを表す
 
 toughは「困難に耐える」「打たれ強い」ニュアンス、strictは「規則や態度が厳しい」点で使い分けます。
 
@@ -105,14 +109,14 @@ toughは「困難に耐える」「打たれ強い」ニュアンス、strictは
 
 ## 🧩 あわせて覚えたい
 
-- [hard](/word/hard/)：難しい、かたい
-- [resilient](/word/resilient/)：回復力がある、しなやかな
+- [hard](/hard)：難しい、かたい
+- [resilient](/resilient)：回復力がある、しなやかな
 
 ---
 
 ## 📖 できればこれも
 
-- [strong](/word/strong/)：強い
-- [firm](/word/firm/)：堅い、しっかりした
+- [strong](/strong)：強い
+- [firm](/firm)：堅い、しっかりした
 
-<!-- cvid: aid47_bid13 -->
+<!-- cvid: aid33_bid03 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文脈で「費用を負担する」「損失をこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid30" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid30" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文脈で「費用を負担する」「損失をこ
 ## 🤔  suffer との違いは？
 
 - **incur**：自分の行動や状況の結果として、費用・損失・責任などを負う（主にフォーマル・ビジネスで使用）
-- **[suffer](/word/suffer/)**：苦痛や損害などを受けて苦しむ（感情的・身体的な痛みも含む）
+- **[suffer](/suffer)**：苦痛や損害などを受けて苦しむ（感情的・身体的な痛みも含む）
 
 incurは「責任や費用などを負う」など客観的な結果に使い、sufferは「苦しむ」など主観的な痛みや被害に使います。
 
@@ -105,14 +109,14 @@ incurは「責任や費用などを負う」など客観的な結果に使い、
 
 ## 🧩 あわせて覚えたい
 
-- [avoid](/word/avoid/)：避ける
-- [assume](/word/assume/)：（責任などを）引き受ける
+- [avoid](/avoid)：避ける
+- [assume](/assume)：（責任などを）引き受ける
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire/)：獲得する
-- [deduct](/word/deduct/)：差し引く
+- [acquire](/acquire)：獲得する
+- [deduct](/deduct)：差し引く
 
-<!-- cvid: aid00_bid09 -->
+<!-- cvid: aid19_bid30 -->

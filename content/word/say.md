@@ -81,15 +81,19 @@ TOEICでは、会話の中で「何と言ったか」を問う設問や、発言
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話の中で「何と言ったか」を問う設問や、発言
 ## 🤔  tell との違いは？
 
 - **say**：内容や言葉そのものを伝えるときに使う
-- **[tell](/word/tell/)**：相手（聞き手）を明確にして「伝える」ときに使う
+- **[tell](/tell)**：相手（聞き手）を明確にして「伝える」ときに使う
 
 sayは「何を言ったか」に焦点があり、tellは「誰に伝えたか」に焦点があります。
 
@@ -105,15 +109,15 @@ sayは「何を言ったか」に焦点があり、tellは「誰に伝えたか�
 
 ## 🧩 あわせて覚えたい
 
-- [speak](/word/speak/)：話す（言語能力や会話全般を指す）
-- [mention](/word/mention/)：（簡単に）言及する
+- [speak](/speak)：話す（言語能力や会話全般を指す）
+- [mention](/mention)：（簡単に）言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [ask](/word/ask/)：尋ねる
-- [talk](/word/talk/)：話す（会話する）
+- [ask](/ask)：尋ねる
+- [talk](/talk)：話す（会話する）
 
 
-<!-- cvid: aid07_bid22 -->
+<!-- cvid: aid30_bid48 -->

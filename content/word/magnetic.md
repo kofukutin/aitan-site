@@ -81,15 +81,19 @@ TOEICでは科学技術や製品説明の文脈で「magnetic」が登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術や製品説明の文脈で「magnetic」が登場する�
 ## 🤔  attractive との違いは？
 
 - **magnetic**：磁気の性質や、人を強く惹きつける魅力を表す
-- **[attractive](/word/attractive/)**：見た目や性格など、広い意味で「魅力的な」を表す
+- **[attractive](/attractive)**：見た目や性格など、広い意味で「魅力的な」を表す
 
 magneticは物理的な「磁気」や、強い引力のような魅力に使われ、attractiveは一般的な「魅力的な」全般に使われます。
 
@@ -105,14 +109,14 @@ magneticは物理的な「磁気」や、強い引力のような魅力に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [electric](/word/electric/)：電気の、電動の
-- [repellent](/word/repellent/)：はじく、寄せ付けない
+- [electric](/electric)：電気の、電動の
+- [repellent](/repellent)：はじく、寄せ付けない
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/word/mechanical/)：機械の、機械的な
-- [chemical](/word/chemical/)：化学の、化学的な
+- [mechanical](/mechanical)：機械の、機械的な
+- [chemical](/chemical)：化学の、化学的な
 
-<!-- cvid: aid15_bid04 -->
+<!-- cvid: aid44_bid28 -->

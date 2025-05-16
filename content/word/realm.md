@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や記事、専門的な説明文で「分野」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や記事、専門的な説明文で「分野」
 ## 🤔  domain との違いは？
 
 - **realm**：抽象的・専門的な「分野」「領域」や「王国」を指し、ややフォーマル。
-- **[domain](/word/domain/)**：主に「活動・知識の範囲」「インターネットのドメイン」など、より広く一般的な「領域」。
+- **[domain](/domain)**：主に「活動・知識の範囲」「インターネットのドメイン」など、より広く一般的な「領域」。
 
 realmは特定の専門分野や抽象的な世界観を強調する時に使い、domainはより一般的な範囲や分野に幅広く使われます。
 
@@ -105,14 +109,14 @@ realmは特定の専門分野や抽象的な世界観を強調する時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [field](/word/field/)：分野、領域
-- [territory](/word/territory/)：領土、縄張り
+- [field](/field)：分野、領域
+- [territory](/territory)：領土、縄張り
 
 ---
 
 ## 📖 できればこれも
 
-- [sector](/word/sector/)：部門、分野
-- [sphere](/word/sphere/)：範囲、領域
+- [sector](/sector)：部門、分野
+- [sphere](/sphere)：範囲、領域
 
-<!-- cvid: aid24_bid41 -->
+<!-- cvid: aid22_bid40 -->

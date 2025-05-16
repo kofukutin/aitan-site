@@ -81,15 +81,19 @@ TOEICでは主に記事やニュース文で「killer disease（致命的な病�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やニュース文で「killer disease（致命的な病�
 ## 🤔  murderer との違いは？
 
 - **killer**：殺人者全般や命を奪うもの（病気・事故など）にも使う
-- **[murderer](/word/murderer/)**：法律上の「殺人犯」、意図的に人を殺した人
+- **[murderer](/murderer)**：法律上の「殺人犯」、意図的に人を殺した人
 
 「killer」は広く「命を奪うもの」全般に使えますが、「murderer」は法律的に人を殺した犯人に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは主に記事やニュース文で「killer disease（致命的な病�
 
 ## 🧩 あわせて覚えたい
 
-- [victim](/word/victim/)：被害者
-- [criminal](/word/criminal/)：犯罪者
+- [victim](/victim)：被害者
+- [criminal](/criminal)：犯罪者
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime/)：犯罪
-- [dangerous](/word/dangerous/)：危険な
+- [crime](/crime)：犯罪
+- [dangerous](/dangerous)：危険な
 
-<!-- cvid: aid05_bid16 -->
+<!-- cvid: aid15_bid09 -->

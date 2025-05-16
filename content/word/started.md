@@ -81,15 +81,19 @@ TOEICでは会議や業務の開始、プロジェクトの始動など、ビジ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務の開始、プロジェクトの始動など、ビジ
 ## 🤔  began との違いは？
 
 - **started**：一般的に「始めた」「開始した」と幅広く使う
-- **[began](/word/began/)**：ややフォーマルで、物事の始まりを強調したいときに使う
+- **[began](/began)**：ややフォーマルで、物事の始まりを強調したいときに使う
 
 「started」は日常会話やビジネスで幅広く使われ、「began」は少し硬い印象や物語的な場面で使われやすいです。
 
@@ -105,14 +109,14 @@ TOEICでは会議や業務の開始、プロジェクトの始動など、ビジ
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch/)：（新製品などを）開始する、立ち上げる
-- [finish](/word/finish/)：終える、終わる
+- [launch](/launch)：（新製品などを）開始する、立ち上げる
+- [finish](/finish)：終える、終わる
 
 ---
 
 ## 📖 できればこれも
 
-- [open](/word/open/)：開ける、始める
-- [create](/word/create/)：作る、創造する
+- [open](/open)：開ける、始める
+- [create](/create)：作る、創造する
 
-<!-- cvid: aid02_bid25 -->
+<!-- cvid: aid19_bid49 -->

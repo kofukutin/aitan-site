@@ -81,15 +81,19 @@ IT関連やデジタル操作を説明する文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やデジタル操作を説明する文脈で出題されることが多
 ## 🤔  swipe との違いは？
 
 - **scroll**：画面やページを連続的に上下・左右に動かす操作
-- **[swipe](/word/swipe/)**：指やマウスで一度払うように動かす操作
+- **[swipe](/swipe)**：指やマウスで一度払うように動かす操作
 
 scrollは長いページやリストを「連続的に動かす」イメージ、swipeは「一回の動きで切り替える」イメージです。
 
@@ -105,14 +109,14 @@ scrollは長いページやリストを「連続的に動かす」イメージ�
 
 ## 🧩 あわせて覚えたい
 
-- [click](/word/click/)：クリックする
-- [browse](/word/browse/)：閲覧する
+- [click](/click)：クリックする
+- [browse](/browse)：閲覧する
 
 ---
 
 ## 📖 できればこれも
 
-- [type](/word/type/)：入力する
-- [select](/word/select/)：選択する
+- [type](/type)：入力する
+- [select](/select)：選択する
 
-<!-- cvid: aid45_bid00 -->
+<!-- cvid: aid35_bid45 -->

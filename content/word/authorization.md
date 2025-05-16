@@ -81,15 +81,19 @@ TOEICでは主にメールや社内文書、IT関連の長文で「許可」「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや社内文書、IT関連の長文で「許可」「�
 ## 🤔  permission との違いは？
 
 - **authorization**：正式な手続きや権限付与を強調し、特にビジネスやITで使われる
-- **[permission](/word/permission/)**：一般的な「許可」で、日常的な場面でも幅広く使う
+- **[permission](/permission)**：一般的な「許可」で、日常的な場面でも幅広く使う
 
 authorizationは公式な権限や手続きのニュアンスが強く、permissionはもっと広く「許可」を表します。
 
@@ -105,14 +109,14 @@ authorizationは公式な権限や手続きのニュアンスが強く、permiss
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval/)：承認
-- [certification](/word/certification/)：証明、認証
+- [approval](/approval)：承認
+- [certification](/certification)：証明、認証
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access/)：アクセス、接近
-- [authentication](/word/authentication/)：認証
+- [access](/access)：アクセス、接近
+- [authentication](/authentication)：認証
 
-<!-- cvid: aid40_bid04 -->
+<!-- cvid: aid35_bid13 -->

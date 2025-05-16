@@ -81,15 +81,19 @@ TOEICでは「問題が解決した」「状況が安定した」などの意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「問題が解決した」「状況が安定した」などの意味
 ## 🤔  stable との違いは？
 
 - **settled**：物事や状況が「落ち着いている」「解決している」状態を表す。
-- **[stable](/word/stable/)**：変化が少なく「安定している」状態を表す。
+- **[stable](/stable)**：変化が少なく「安定している」状態を表す。
 
 「settled」は問題や気持ちが落ち着いた時にも使い、「stable」は物理的・経済的な安定に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「問題が解決した」「状況が安定した」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [resolved](/word/resolved/)：解決した
-- [permanent](/word/permanent/)：永久的な
+- [resolved](/resolved)：解決した
+- [permanent](/permanent)：永久的な
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/word/confirmed/)：確認された
-- [final](/word/final/)：最終的な
+- [confirmed](/confirmed)：確認された
+- [final](/final)：最終的な
 
-<!-- cvid: aid11_bid42 -->
+<!-- cvid: aid29_bid44 -->

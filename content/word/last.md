@@ -81,15 +81,19 @@ lastはTOEICの文法・語彙問題で「最後の」「この前の」など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ lastはTOEICの文法・語彙問題で「最後の」「この前の」など�
 ## 🤔  final との違いは？
 
 - **last**：順番や時間の「最後の」「直前の」
-- **[final](/word/final/)**：最終的な、決定的な
+- **[final](/final)**：最終的な、決定的な
 
 lastは日常的な「最後の」や「直前の」に使い、finalは「最終的な」「決定的な」などフォーマルで強調したい場面で使います。
 
@@ -105,14 +109,14 @@ lastは日常的な「最後の」や「直前の」に使い、finalは「最�
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/word/previous/)：前の、以前の
-- [latest](/word/latest/)：最新の
+- [previous](/previous)：前の、以前の
+- [latest](/latest)：最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [next](/word/next/)：次の
-- [early](/word/early/)：早い
+- [next](/next)：次の
+- [early](/early)：早い
 
-<!-- cvid: aid07_bid48 -->
+<!-- cvid: aid28_bid12 -->

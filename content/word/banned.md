@@ -81,15 +81,19 @@ TOEICでは、規則やルールに関する文脈で「banned」が形容詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、規則やルールに関する文脈で「banned」が形容詞と
 ## 🤔  prohibited との違いは？
 
 - **banned**：法律や規則で公式に「完全に禁止された」状態を強調
-- **[prohibited](/word/prohibited/)**：ややフォーマルで「禁止されている」ことを表すが、bannedよりも一般的・広い意味
+- **[prohibited](/prohibited)**：ややフォーマルで「禁止されている」ことを表すが、bannedよりも一般的・広い意味
 
 「banned」は特定の物や行為が厳しく締め出されているニュアンスが強く、「prohibited」は規則や標識などで一般的に禁止されている場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、規則やルールに関する文脈で「banned」が形容詞と
 
 ## 🧩 あわせて覚えたい
 
-- [illegal](/word/illegal/)：違法の
-- [restricted](/word/restricted/)：制限された
+- [illegal](/illegal)：違法の
+- [restricted](/restricted)：制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [forbidden](/word/forbidden/)：（道徳的・規則的に）禁じられた
-- [allowed](/word/allowed/)：許可された
+- [forbidden](/forbidden)：（道徳的・規則的に）禁じられた
+- [allowed](/allowed)：許可された
 
-<!-- cvid: aid12_bid25 -->
+<!-- cvid: aid32_bid39 -->

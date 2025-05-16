@@ -80,15 +80,19 @@ TOEICでは工場や製造、建築などの場面で素材として登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは工場や製造、建築などの場面で素材として登場する
 ## 🤔  metal との違いは？
 
 - **aluminum**：アルミニウムという特定の金属元素を指す
-- **[metal](/word/metal/)**：金属全般を指す一般的な言葉
+- **[metal](/metal)**：金属全般を指す一般的な言葉
 
 aluminumは「アルミニウム」という特定の金属を指し、metalは鉄や銅なども含む広い意味で使われます。
 
@@ -104,14 +108,14 @@ aluminumは「アルミニウム」という特定の金属を指し、metalは�
 
 ## 🧩 あわせて覚えたい
 
-- [copper](/word/copper/)：銅（金属元素）
-- [plastic](/word/plastic/)：プラスチック（合成樹脂）
+- [copper](/copper)：銅（金属元素）
+- [plastic](/plastic)：プラスチック（合成樹脂）
 
 ---
 
 ## 📖 できればこれも
 
-- [iron](/word/iron/)：鉄（金属元素）
-- [material](/word/material/)：材料、素材
+- [iron](/iron)：鉄（金属元素）
+- [material](/material)：材料、素材
 
-<!-- cvid: aid05_bid31 -->
+<!-- cvid: aid21_bid30 -->

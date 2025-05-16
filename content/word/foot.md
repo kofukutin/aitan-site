@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【foot】の意味・使い方・例文 ― legとの違い【TOEIC英単語】"
 description: "footの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlegとの違いもわかりやすく学べます。"
 word: "foot"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人や物の位置説明、長さの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人や物の位置説明、長さの
 ## 🤔  leg との違いは？
 
 - **foot**：くるぶしから下の「足」部分や長さの単位を指す
-- **[leg](/word/leg/)**：太ももから足首までの「脚」全体を指す
+- **[leg](/leg)**：太ももから足首までの「脚」全体を指す
 
 footは足の先端部分、legは脚全体を指すので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ footは足の先端部分、legは脚全体を指すので、使い分けに注�
 
 ## 🧩 あわせて覚えたい
 
-- [hand](/word/hand/)：手
-- [meter](/word/meter/)：メートル（長さの単位）
+- [hand](/hand)：手
+- [meter](/meter)：メートル（長さの単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [arm](/word/arm/)：腕
-- [toe](/word/toe/)：足の指
+- [arm](/arm)：腕
+- [toe](/toe)：足の指
 
-<!-- cvid: aid38_bid15 -->
+<!-- cvid: aid16_bid47 -->

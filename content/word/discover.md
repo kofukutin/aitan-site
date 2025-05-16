@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「新しい事実や問題点を発見する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「新しい事実や問題点を発見する」
 ## 🤔  find との違いは？
 
 - **discover**：今まで知られていなかったものを新たに発見する
-- **[find](/word/find/)**：探していたものや偶然に「見つける」
+- **[find](/find)**：探していたものや偶然に「見つける」
 
 discoverは「未知のもの」「新しい事実」を明らかにするニュアンスが強く、findは「探していたものを見つける」や「偶然見つかる」といった日常的な発見に使われます。
 
@@ -105,14 +109,14 @@ discoverは「未知のもの」「新しい事実」を明らかにするニュ
 
 ## 🧩 あわせて覚えたい
 
-- [detect](/word/detect/)：（隠れていたものを）見つける、検出する
-- [invent](/word/invent/)：発明する、考案する
+- [detect](/detect)：（隠れていたものを）見つける、検出する
+- [invent](/invent)：発明する、考案する
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/word/explore/)：探検する、調査する
-- [reveal](/word/reveal/)：明らかにする、公開する
+- [explore](/explore)：探検する、調査する
+- [reveal](/reveal)：明らかにする、公開する
 
-<!-- cvid: aid43_bid36 -->
+<!-- cvid: aid32_bid38 -->

@@ -77,15 +77,19 @@ TOEICでは主にPart 7のビジネス文書や案内文で、「～に関して
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や案内文で、「～に関して
 ## 🤔  regarding との違いは？
 
 - **concerning**：ややフォーマルで、書き言葉やビジネス文書でよく使われる。「～に関して」
-- **[regarding](/word/regarding/)**：同じく「～に関して」だが、concerningよりもさらにフォーマルな印象を与えることがある。
+- **[regarding](/regarding)**：同じく「～に関して」だが、concerningよりもさらにフォーマルな印象を与えることがある。
 
 どちらも「～について」という意味だが、regardingの方がより堅い印象で、concerningはやや柔らかいフォーマルさがあります。
 
@@ -101,14 +105,14 @@ TOEICでは主にPart 7のビジネス文書や案内文で、「～に関して
 
 ## 🧩 あわせて覚えたい
 
-- [about](/word/about/)：～について（よりカジュアルな表現）
-- [with respect to](/word/with_respect_to/)：～に関して（非常にフォーマルな表現）
+- [about](/about)：～について（よりカジュアルな表現）
+- [with respect to](/with_respect_to)：～に関して（非常にフォーマルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [according to](/word/according_to/)：～によれば
-- [despite](/word/despite/)：～にもかかわらず
+- [according to](/according_to)：～によれば
+- [despite](/despite)：～にもかかわらず
 
-<!-- cvid: aid41_bid19 -->
+<!-- cvid: aid10_bid05 -->

@@ -81,15 +81,19 @@ TOEICでは、会話や意見交換の場面でdialogueが使われることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や意見交換の場面でdialogueが使われることが�
 ## 🤔  conversation との違いは？
 
 - **dialogue**：意見交換やフォーマルな対話、劇中の会話文などに使う
-- **[conversation](/word/conversation/)**：日常的な会話や雑談全般に使う
+- **[conversation](/conversation)**：日常的な会話や雑談全般に使う
 
 dialogueは「意見交換」や「形式的な対話」に重点があり、conversationは「日常的なやりとり」や「雑談」に幅広く使われます。
 
@@ -105,14 +109,14 @@ dialogueは「意見交換」や「形式的な対話」に重点があり、con
 
 ## 🧩 あわせて覚えたい
 
-- [discussion](/word/discussion/)：討論、話し合い
-- [debate](/word/debate/)：討論、ディベート
+- [discussion](/discussion)：討論、話し合い
+- [debate](/debate)：討論、ディベート
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview/)：面接、インタビュー
-- [speech](/word/speech/)：スピーチ、演説
+- [interview](/interview)：面接、インタビュー
+- [speech](/speech)：スピーチ、演説
 
-<!-- cvid: aid26_bid12 -->
+<!-- cvid: aid01_bid04 -->

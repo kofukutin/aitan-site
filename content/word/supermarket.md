@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【supermarket】の意味・使い方・例文 ― grocery storeとの違い【TOEIC英単語】"
 description: "supermarketの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでgrocery storeとの違いもわかりやすく学べます。"
 word: "supermarket"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、買い物や店舗の場面でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、買い物や店舗の場面でよく
 ## 🤔  grocery store との違いは？
 
 - **supermarket**：大型で品ぞろえ豊富なセルフサービス式の店
-- **[grocery store](/word/grocery_store/)**：食料品中心の小規模な店
+- **[grocery store](/grocery_store)**：食料品中心の小規模な店
 
 「supermarket」は規模が大きく、日用品も多く扱うのに対し、「grocery store」は主に食料品を扱う小さめの店を指します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、買い物や店舗の場面でよく
 
 ## 🧩 あわせて覚えたい
 
-- [convenience store](/word/convenience_store/)：コンビニエンスストア
-- [department store](/word/department_store/)：百貨店
+- [convenience store](/convenience_store)：コンビニエンスストア
+- [department store](/department_store)：百貨店
 
 ---
 
 ## 📖 できればこれも
 
-- [bakery](/word/bakery/)：パン屋
-- [pharmacy](/word/pharmacy/)：薬局
+- [bakery](/bakery)：パン屋
+- [pharmacy](/pharmacy)：薬局
 
-<!-- cvid: aid03_bid14 -->
+<!-- cvid: aid43_bid49 -->

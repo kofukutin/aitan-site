@@ -81,15 +81,19 @@ The hotel provides basic toiletries in every room.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hotel provides basic toiletries in every room.
 ## 🤔  amenity との違いは？
 
 - **toiletry**：洗面や身だしなみに使う個人用の道具（石けん・歯ブラシなど）を指す
-- **[amenity](/word/amenity/)**：快適さを提供する設備や備品全般（例：Wi-Fi、プール、洗面用具など）
+- **[amenity](/amenity)**：快適さを提供する設備や備品全般（例：Wi-Fi、プール、洗面用具など）
 
 toiletryは「洗面用具」に限定されますが、amenityは「快適さを与える備品・サービス」全般を指し、toiletryもその一部です。
 
@@ -105,14 +109,14 @@ toiletryは「洗面用具」に限定されますが、amenityは「快適さ�
 
 ## 🧩 あわせて覚えたい
 
-- [cosmetic](/word/cosmetic/)：化粧品
-- [necessity](/word/necessity/)：必需品
+- [cosmetic](/cosmetic)：化粧品
+- [necessity](/necessity)：必需品
 
 ---
 
 ## 📖 できればこれも
 
-- [luggage](/word/luggage/)：荷物
-- [gadget](/word/gadget/)：小型機器・便利グッズ
+- [luggage](/luggage)：荷物
+- [gadget](/gadget)：小型機器・便利グッズ
 
-<!-- cvid: aid42_bid22 -->
+<!-- cvid: aid11_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは、宿泊施設や旅行に関する長文や広告、案内文で見
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、宿泊施設や旅行に関する長文や広告、案内文で見
 ## 🤔  hotel との違いは？
 
 - **inn**：小規模で家庭的な雰囲気の宿や旅館を指す
-- **[hotel](/word/hotel/)**：設備が整った一般的なホテルを指す
+- **[hotel](/hotel)**：設備が整った一般的なホテルを指す
 
 innはアットホームで伝統的な雰囲気、hotelはより大規模でサービスが充実した施設を指すことが多いです。
 
@@ -105,14 +109,14 @@ innはアットホームで伝統的な雰囲気、hotelはより大規模でサ
 
 ## 🧩 あわせて覚えたい
 
-- [hostel](/word/hostel/)：安価な宿泊施設、相部屋が多い
-- [lodge](/word/lodge/)：山小屋やロッジ、自然の中の宿泊施設
+- [hostel](/hostel)：安価な宿泊施設、相部屋が多い
+- [lodge](/lodge)：山小屋やロッジ、自然の中の宿泊施設
 
 ---
 
 ## 📖 できればこれも
 
-- [guesthouse](/word/guesthouse/)：ゲストハウス、民宿
-- [motel](/word/motel/)：モーテル、車利用者向けの宿泊施設
+- [guesthouse](/guesthouse)：ゲストハウス、民宿
+- [motel](/motel)：モーテル、車利用者向けの宿泊施設
 
-<!-- cvid: aid36_bid48 -->
+<!-- cvid: aid17_bid19 -->

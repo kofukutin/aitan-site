@@ -81,15 +81,19 @@ TOEICでは、レンタカーや出張、車の説明などの場面で「mileag
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レンタカーや出張、車の説明などの場面で「mileag
 ## 🤔  distance との違いは？
 
 - **mileage**：車や乗り物が実際に走った距離や燃費を表す
-- **[distance](/word/distance/)**：2点間の物理的な距離や間隔を表す
+- **[distance](/distance)**：2点間の物理的な距離や間隔を表す
 
 mileageは主に車や乗り物の「走行距離」や「燃費」に使い、distanceは一般的な「距離」や「間隔」に使います。
 
@@ -105,14 +109,14 @@ mileageは主に車や乗り物の「走行距離」や「燃費」に使い、d
 
 ## 🧩 あわせて覚えたい
 
-- [fuel_efficiency](/word/fuel_efficiency/)：燃費
-- [kilometer](/word/kilometer/)：キロメートル（距離の単位）
+- [fuel_efficiency](/fuel_efficiency)：燃費
+- [kilometer](/kilometer)：キロメートル（距離の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/word/route/)：経路、ルート
-- [destination](/word/destination/)：目的地
+- [route](/route)：経路、ルート
+- [destination](/destination)：目的地
 
-<!-- cvid: aid06_bid04 -->
+<!-- cvid: aid32_bid47 -->

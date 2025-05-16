@@ -81,15 +81,19 @@ acceptanceは、ビジネス文書やメール文の中で「承認」「受諾�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ acceptanceは、ビジネス文書やメール文の中で「承認」「受諾�
 ## 🤔  approval との違いは？
 
 - **acceptance**：受け入れること、受諾や承認の意味でやや広く使う
-- **[approval](/word/approval/)**：公式な許可や賛成の意味が強い
+- **[approval](/approval)**：公式な許可や賛成の意味が強い
 
 acceptanceは「受け入れる」というニュアンスが中心で、approvalは「正式な許可・賛成」の意味が強い点が異なります。
 
@@ -105,14 +109,14 @@ acceptanceは「受け入れる」というニュアンスが中心で、approva
 
 ## 🧩 あわせて覚えたい
 
-- [rejection](/word/rejection/)：拒否、却下
-- [confirmation](/word/confirmation/)：確認、承認
+- [rejection](/rejection)：拒否、却下
+- [confirmation](/confirmation)：確認、承認
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [invitation](/word/invitation/)：招待、招待状
+- [agreement](/agreement)：合意、契約
+- [invitation](/invitation)：招待、招待状
 
-<!-- cvid: aid14_bid17 -->
+<!-- cvid: aid38_bid43 -->

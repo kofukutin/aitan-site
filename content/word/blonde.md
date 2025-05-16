@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物の髪の色を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物の髪の色を説明する際
 ## 🤔  fair との違いは？
 
 - **blonde**：髪の色が明るい金色や淡い黄色であることを指す。
-- **[fair](/word/fair/)**：髪や肌の色が「明るい」「色白」の意味で使われるが、blondeほど髪の色に特化しない。
+- **[fair](/fair)**：髪や肌の色が「明るい」「色白」の意味で使われるが、blondeほど髪の色に特化しない。
 
 blondeは主に髪の色に限定されるのに対し、fairは髪や肌など全体的な「明るさ」を表します。
 
@@ -105,14 +109,14 @@ blondeは主に髪の色に限定されるのに対し、fairは髪や肌など�
 
 ## 🧩 あわせて覚えたい
 
-- [brunette](/word/brunette/)：黒髪または濃い茶髪の女性
-- [pale](/word/pale/)：（肌などが）青白い、血色が薄い
+- [brunette](/brunette)：黒髪または濃い茶髪の女性
+- [pale](/pale)：（肌などが）青白い、血色が薄い
 
 ---
 
 ## 📖 できればこれも
 
-- [curly](/word/curly/)：巻き毛の
-- [tall](/word/tall/)：背が高い
+- [curly](/curly)：巻き毛の
+- [tall](/tall)：背が高い
 
-<!-- cvid: aid48_bid10 -->
+<!-- cvid: aid13_bid30 -->

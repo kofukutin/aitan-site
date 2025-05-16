@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、報告書などで頻出します�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、報告書などで頻出します�
 ## 🤔  bookkeeping との違いは？
 
 - **accounting**：お金の流れ全体を管理・分析する「会計」や「経理」のこと
-- **[bookkeeping](/word/bookkeeping/)**：日々の取引を帳簿に記録する「簿記」のこと
+- **[bookkeeping](/bookkeeping)**：日々の取引を帳簿に記録する「簿記」のこと
 
 accountingは財務分析や報告まで含む広い意味、bookkeepingは記録作業に特化しています。
 
@@ -105,14 +109,14 @@ accountingは財務分析や報告まで含む広い意味、bookkeepingは記�
 
 ## 🧩 あわせて覚えたい
 
-- [finance](/word/finance/)：財務、金融
-- [audit](/word/audit/)：監査
+- [finance](/finance)：財務、金融
+- [audit](/audit)：監査
 
 ---
 
 ## 📖 できればこれも
 
-- [statement](/word/statement/)：明細書、報告書
-- [expense](/word/expense/)：費用
+- [statement](/statement)：明細書、報告書
+- [expense](/expense)：費用
 
-<!-- cvid: aid10_bid42 -->
+<!-- cvid: aid26_bid24 -->

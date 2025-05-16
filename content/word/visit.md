@@ -81,15 +81,19 @@ TOEICでは「顧客を訪問する」「オフィスを訪れる」など、ビ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「顧客を訪問する」「オフィスを訪れる」など、ビ
 ## 🤔  go との違いは？
 
 - **visit**：目的を持って人や場所を「訪問する」
-- **[go](/word/go/)**：単に「行く」、移動すること全般
+- **[go](/go)**：単に「行く」、移動すること全般
 
 visitは「誰かに会う」「何かを見に行く」など目的が明確な場合に使い、goは単なる移動や出発を表します。
 
@@ -105,14 +109,14 @@ visitは「誰かに会う」「何かを見に行く」など目的が明確な
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/word/attend/)：出席する、参加する
-- [meet](/word/meet/)：会う
+- [attend](/attend)：出席する、参加する
+- [meet](/meet)：会う
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/word/invite/)：招待する
-- [arrive](/word/arrive/)：到着する
+- [invite](/invite)：招待する
+- [arrive](/arrive)：到着する
 
-<!-- cvid: aid35_bid30 -->
+<!-- cvid: aid47_bid15 -->

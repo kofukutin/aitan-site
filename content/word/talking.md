@@ -81,15 +81,19 @@ TOEICでは会話の進行や、話している内容を問う設問でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話の進行や、話している内容を問う設問でよく登
 ## 🤔  speaking との違いは？
 
 - **talking**：カジュアルな会話や日常的な「話す」行為を指す
-- **[speaking](/word/speaking/)**：よりフォーマルで、発表やスピーチなど「話す」こと全般を指す
+- **[speaking](/speaking)**：よりフォーマルで、発表やスピーチなど「話す」こと全般を指す
 
 talkingは友人同士の会話などカジュアルな場面で使われ、speakingは公式な場やスピーチなどフォーマルな場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ talkingは友人同士の会話などカジュアルな場面で使われ、spea
 
 ## 🧩 あわせて覚えたい
 
-- [chat](/word/chat/)：おしゃべりする、雑談する
-- [discuss](/word/discuss/)：議論する、話し合う
+- [chat](/chat)：おしゃべりする、雑談する
+- [discuss](/discuss)：議論する、話し合う
 
 ---
 
 ## 📖 できればこれも
 
-- [listen](/word/listen/)：聞く、耳を傾ける
-- [say](/word/say/)：言う、述べる
+- [listen](/listen)：聞く、耳を傾ける
+- [say](/say)：言う、述べる
 
-<!-- cvid: aid31_bid06 -->
+<!-- cvid: aid36_bid33 -->

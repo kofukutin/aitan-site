@@ -81,15 +81,19 @@ TOEICでは主にITやオフィス環境に関する会話や説明文で登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやオフィス環境に関する会話や説明文で登場�
 ## 🤔  cordless との違いは？
 
 - **wireless**：通信や信号のやりとりに「線が不要」なことを強調する
-- **[cordless](/word/cordless/)**：主に「電源コードが不要」なことを強調する
+- **[cordless](/cordless)**：主に「電源コードが不要」なことを強調する
 
 wirelessはネットワークや通信機器に、cordlessは電話や掃除機など電源コードがない機器に使われることが多いです。
 
@@ -105,14 +109,14 @@ wirelessはネットワークや通信機器に、cordlessは電話や掃除機�
 
 ## 🧩 あわせて覚えたい
 
-- [wired](/word/wired/)：有線の
+- [wired](/wired)：有線の
 - [Bluetooth](/Bluetooth)：無線通信規格の一つ
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、通信網
-- [signal](/word/signal/)：信号、合図
+- [network](/network)：ネットワーク、通信網
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid04_bid24 -->
+<!-- cvid: aid06_bid23 -->

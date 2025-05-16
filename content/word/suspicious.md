@@ -81,15 +81,19 @@ TOEICでは、eメールや報告書などの長文中で「怪しい取引」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、eメールや報告書などの長文中で「怪しい取引」�
 ## 🤔  doubtful との違いは？
 
 - **suspicious**：何かが「怪しい」「信用できない」と感じて疑う気持ちを表す。
-- **[doubtful](/word/doubtful/)**：物事が「起こりそうにない」「信じがたい」と思うときに使う。
+- **[doubtful](/doubtful)**：物事が「起こりそうにない」「信じがたい」と思うときに使う。
 
 suspiciousは「怪しい」と感じて警戒するニュアンス、doubtfulは「実現や真実性に疑いを持つ」ニュアンスです。
 
@@ -105,14 +109,14 @@ suspiciousは「怪しい」と感じて警戒するニュアンス、doubtful�
 
 ## 🧩 あわせて覚えたい
 
-- [trust](/word/trust/)：信頼する
-- [skeptical](/word/skeptical/)：懐疑的な
+- [trust](/trust)：信頼する
+- [skeptical](/skeptical)：懐疑的な
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [uncertain](/word/uncertain/)：不確かな
+- [reliable](/reliable)：信頼できる
+- [uncertain](/uncertain)：不確かな
 
-<!-- cvid: aid26_bid13 -->
+<!-- cvid: aid27_bid26 -->

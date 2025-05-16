@@ -81,15 +81,19 @@ TOEICでは主に長文読解で、出来事や方針が人や組織に与える
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解で、出来事や方針が人や組織に与える
 ## 🤔  influencing との違いは？
 
 - **affecting**：感情や状況に強く作用し、感動や影響を与える様子
-- **[influencing](/word/influencing/)**：主に行動や考え方に働きかけて変化を促すこと
+- **[influencing](/influencing)**：主に行動や考え方に働きかけて変化を促すこと
 
 「affecting」は感情面や心に響く影響を強調し、「influencing」は行動や意見の変化に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは主に長文読解で、出来事や方針が人や組織に与える
 
 ## 🧩 あわせて覚えたい
 
-- [impactful](/word/impactful/)：強い影響力がある
-- [touching](/word/touching/)：感動的な
+- [impactful](/impactful)：強い影響力がある
+- [touching](/touching)：感動的な
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な
-- [influential](/word/influential/)：影響力のある
+- [effective](/effective)：効果的な
+- [influential](/influential)：影響力のある
 
-<!-- cvid: aid06_bid39 -->
+<!-- cvid: aid21_bid38 -->

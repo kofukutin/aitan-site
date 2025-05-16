@@ -81,15 +81,19 @@ TOEICでは主にビジネスや日常の説明場面で、エネルギーや資
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや日常の説明場面で、エネルギーや資
 ## 🤔  energy との違いは？
 
 - **fuel**：物理的な「燃料」や「エネルギー源」を指す
-- **[energy](/word/energy/)**：力や活力など抽象的な「エネルギー」全般を指す
+- **[energy](/energy)**：力や活力など抽象的な「エネルギー」全般を指す
 
 fuelはガソリンや石炭など具体的な物質を指し、energyは物理的・精神的な力や活動力など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ fuelはガソリンや石炭など具体的な物質を指し、energyは物理�
 
 ## 🧩 あわせて覚えたい
 
-- [gasoline](/word/gasoline/)：ガソリン
-- [resource](/word/resource/)：資源
+- [gasoline](/gasoline)：ガソリン
+- [resource](/resource)：資源
 
 ---
 
 ## 📖 できればこれも
 
-- [power](/word/power/)：動力、電力
-- [supply](/word/supply/)：供給
+- [power](/power)：動力、電力
+- [supply](/supply)：供給
 
-<!-- cvid: aid15_bid33 -->
+<!-- cvid: aid40_bid26 -->

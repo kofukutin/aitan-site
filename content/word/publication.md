@@ -81,15 +81,19 @@ TOEICでは、記事や報告書、案内文などの長文中で「publication�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や報告書、案内文などの長文中で「publication�
 ## 🤔  release との違いは？
 
 - **publication**：出版や発行そのもの、または出版物を指す
-- **[release](/word/release/)**：公開・発売・解放など幅広く「世に出すこと」を指す
+- **[release](/release)**：公開・発売・解放など幅広く「世に出すこと」を指す
 
 publicationは「本や雑誌などを正式に出版すること」に特化し、releaseは「新商品や情報などを世に出す」広い意味で使われます。
 
@@ -105,14 +109,14 @@ publicationは「本や雑誌などを正式に出版すること」に特化し
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/word/issue/)：（雑誌などの）号、発行
-- [journal](/word/journal/)：専門誌、学術誌
+- [issue](/issue)：（雑誌などの）号、発行
+- [journal](/journal)：専門誌、学術誌
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor/)：編集者
-- [article](/word/article/)：記事
+- [editor](/editor)：編集者
+- [article](/article)：記事
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid19_bid39 -->

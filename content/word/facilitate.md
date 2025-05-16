@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクト進行の文脈でよく出題されます
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクト進行の文脈でよく出題されます
 ## 🤔  promote との違いは？
 
 - **facilitate**：物事やプロセスを円滑に進める・容易にする
-- **[promote](/word/promote/)**：積極的に推進・宣伝する、広める
+- **[promote](/promote)**：積極的に推進・宣伝する、広める
 
 facilitateは「進行を助ける」ニュアンス、promoteは「積極的に広める・推進する」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ facilitateは「進行を助ける」ニュアンス、promoteは「積極的に
 
 ## 🧩 あわせて覚えたい
 
-- [assist](/word/assist/)：手助けする、補助する
-- [hinder](/word/hinder/)：妨げる、邪魔する
+- [assist](/assist)：手助けする、補助する
+- [hinder](/hinder)：妨げる、邪魔する
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate/)：調整する、まとめる
-- [arrange](/word/arrange/)：手配する、準備する
+- [coordinate](/coordinate)：調整する、まとめる
+- [arrange](/arrange)：手配する、準備する
 
-<!-- cvid: aid27_bid48 -->
+<!-- cvid: aid36_bid01 -->

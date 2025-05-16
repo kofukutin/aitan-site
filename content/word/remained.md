@@ -82,15 +82,19 @@ TOEICでは、remainの過去形remainedが空欄補充や時制の問題でよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、remainの過去形remainedが空欄補充や時制の問題でよ�
 ## 🤔  stay との違いは？
 
 - **remained**：そのままの状態で残る、変わらずにいる（ややフォーマル）
-- **[stay](/word/stay/)**：とどまる、滞在する（カジュアル・日常的）
+- **[stay](/stay)**：とどまる、滞在する（カジュアル・日常的）
 
 remainedは「変化せずにそのまま残る」ニュアンスが強く、stayは「場所にとどまる」「滞在する」ときに使います。
 
@@ -106,14 +110,14 @@ remainedは「変化せずにそのまま残る」ニュアンスが強く、sta
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/word/leave/)：去る、離れる
-- [persist](/word/persist/)：持続する、粘り強く続く
+- [leave](/leave)：去る、離れる
+- [persist](/persist)：持続する、粘り強く続く
 
 ---
 
 ## 📖 できればこれも
 
-- [continue](/word/continue/)：続ける、続く
-- [occur](/word/occur/)：起こる、発生する
+- [continue](/continue)：続ける、続く
+- [occur](/occur)：起こる、発生する
 
-<!-- cvid: aid18_bid20 -->
+<!-- cvid: aid05_bid33 -->

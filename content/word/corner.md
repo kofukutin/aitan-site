@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、建物や部屋の「角」や「隅
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、建物や部屋の「角」や「隅
 ## 🤔  edge との違いは？
 
 - **corner**：2つの面や道が交わる「角」や「隅」を指す
-- **[edge](/word/edge/)**：物や場所の「端」「へり」を指す
+- **[edge](/edge)**：物や場所の「端」「へり」を指す
 
 cornerは「交わる点」や「曲がり角」、edgeは「外側の端」や「境界」を表すので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ cornerは「交わる点」や「曲がり角」、edgeは「外側の端」や�
 
 ## 🧩 あわせて覚えたい
 
-- [intersection](/word/intersection/)：交差点
-- [side](/word/side/)：側、側面
+- [intersection](/intersection)：交差点
+- [side](/side)：側、側面
 
 ---
 
 ## 📖 できればこれも
 
-- [block](/word/block/)：街区、ブロック
-- [street](/word/street/)：通り、道路
+- [block](/block)：街区、ブロック
+- [street](/street)：通り、道路
 
-<!-- cvid: aid23_bid39 -->
+<!-- cvid: aid33_bid12 -->

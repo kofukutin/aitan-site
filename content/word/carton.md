@@ -81,15 +81,19 @@ TOEICでは、商品の梱包や発送、オフィスでの備品管理などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品の梱包や発送、オフィスでの備品管理などの
 ## 🤔  box との違いは？
 
 - **carton**：紙や厚紙でできた箱や容器を指す
-- **[box](/word/box/)**：素材や大きさを問わず、一般的な「箱」を指す
+- **[box](/box)**：素材や大きさを問わず、一般的な「箱」を指す
 
 「carton」は主に紙製の箱やパックに限定されるのに対し、「box」は木製・金属製など素材を問わず幅広い箱を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、商品の梱包や発送、オフィスでの備品管理などの
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container/)：容器、入れ物
-- [package](/word/package/)：包装、荷物
+- [container](/container)：容器、入れ物
+- [package](/package)：包装、荷物
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/word/envelope/)：封筒
-- [bottle](/word/bottle/)：ボトル、瓶
+- [envelope](/envelope)：封筒
+- [bottle](/bottle)：ボトル、瓶
 
-<!-- cvid: aid38_bid29 -->
+<!-- cvid: aid35_bid39 -->

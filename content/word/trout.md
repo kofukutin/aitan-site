@@ -81,15 +81,19 @@ TOEICでは観光案内やレストランのメニュー、釣りや自然に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光案内やレストランのメニュー、釣りや自然に関
 ## 🤔  salmon との違いは？
 
 - **trout**：淡水に生息するマス。やや小型で、釣りや食用で人気。
-- **[salmon](/word/salmon/)**：サケ。海と川を行き来し、サイズが大きく脂が多い。
+- **[salmon](/salmon)**：サケ。海と川を行き来し、サイズが大きく脂が多い。
 
 troutは主に淡水魚で、salmonは海と川を回遊する魚です。味や大きさ、用途にも違いがあります。
 
@@ -105,14 +109,14 @@ troutは主に淡水魚で、salmonは海と川を回遊する魚です。味や
 
 ## 🧩 あわせて覚えたい
 
-- [carp](/word/carp/)：コイ。淡水魚で観賞用や食用として知られる。
-- [bass](/word/bass/)：バス。淡水魚でスポーツフィッシングの対象。
+- [carp](/carp)：コイ。淡水魚で観賞用や食用として知られる。
+- [bass](/bass)：バス。淡水魚でスポーツフィッシングの対象。
 
 ---
 
 ## 📖 できればこれも
 
-- [shrimp](/word/shrimp/)：エビ。小型の甲殻類。
-- [crab](/word/crab/)：カニ。甲羅を持つ甲殻類。
+- [shrimp](/shrimp)：エビ。小型の甲殻類。
+- [crab](/crab)：カニ。甲羅を持つ甲殻類。
 
-<!-- cvid: aid03_bid45 -->
+<!-- cvid: aid07_bid13 -->

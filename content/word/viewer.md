@@ -81,15 +81,19 @@ TOEICでは、ウェブサイトや広告、テレビ番組の説明文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ウェブサイトや広告、テレビ番組の説明文などで
 ## 🤔  audience との違いは？
 
 - **viewer**：テレビや動画など「画面を見る人」「視聴者」
-- **[audience](/word/audience/)**：コンサートや講演など「聴衆」「観客」
+- **[audience](/audience)**：コンサートや講演など「聴衆」「観客」
 
 「viewer」は主に映像や画面を見る人を指し、「audience」は音楽や演劇などを聴いたり観たりする集団全体を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、ウェブサイトや広告、テレビ番組の説明文などで
 
 ## 🧩 あわせて覚えたい
 
-- [spectator](/word/spectator/)：（スポーツなどの）観客
-- [user](/word/user/)：利用者、ユーザー
+- [spectator](/spectator)：（スポーツなどの）観客
+- [user](/user)：利用者、ユーザー
 
 ---
 
 ## 📖 できればこれも
 
-- [subscriber](/word/subscriber/)：購読者、登録者
-- [participant](/word/participant/)：参加者
+- [subscriber](/subscriber)：購読者、登録者
+- [participant](/participant)：参加者
 
-<!-- cvid: aid05_bid39 -->
+<!-- cvid: aid36_bid21 -->

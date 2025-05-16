@@ -81,15 +81,19 @@ TOEICでは観光やエンターテインメント関連の記事や広告文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やエンターテインメント関連の記事や広告文で
 ## 🤔  miracle との違いは？
 
 - **magic**：魔法や手品、不思議な力を指し、意図的に起こすものや演出も含む
-- **[miracle](/word/miracle/)**：奇跡、神の力など人間の力を超えた出来事
+- **[miracle](/miracle)**：奇跡、神の力など人間の力を超えた出来事
 
 magicは人が演じたり使ったりできる「不思議さ」、miracleは偶然や神秘的な「奇跡」を表します。
 
@@ -105,14 +109,14 @@ magicは人が演じたり使ったりできる「不思議さ」、miracleは�
 
 ## 🧩 あわせて覚えたい
 
-- [illusion](/word/illusion/)：錯覚、幻想
-- [charm](/word/charm/)：お守り、魅力
+- [illusion](/illusion)：錯覚、幻想
+- [charm](/charm)：お守り、魅力
 
 ---
 
 ## 📖 できればこれも
 
-- [trick](/word/trick/)：トリック、手品の技
-- [mystery](/word/mystery/)：謎、不思議
+- [trick](/trick)：トリック、手品の技
+- [mystery](/mystery)：謎、不思議
 
-<!-- cvid: aid33_bid14 -->
+<!-- cvid: aid10_bid18 -->

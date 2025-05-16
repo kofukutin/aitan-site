@@ -81,15 +81,19 @@ TOEICでは、計算や数値の説明、データ処理に関する文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、計算や数値の説明、データ処理に関する文脈で出
 ## 🤔  fraction との違いは？
 
 - **decimal**：小数（10進法で表す数）
-- **[fraction](/word/fraction/)**：分数（1/2や3/4など分けて表す数）
+- **[fraction](/fraction)**：分数（1/2や3/4など分けて表す数）
 
 decimalは「0.5」や「3.14」のような小数点を使う表現、fractionは「1/2」や「3/4」のような分数表現です。用途や表記方法が異なります。
 
@@ -105,14 +109,14 @@ decimalは「0.5」や「3.14」のような小数点を使う表現、fraction�
 
 ## 🧩 あわせて覚えたい
 
-- [integer](/word/integer/)：整数
-- [percentage](/word/percentage/)：パーセンテージ、百分率
+- [integer](/integer)：整数
+- [percentage](/percentage)：パーセンテージ、百分率
 
 ---
 
 ## 📖 できればこれも
 
-- [digit](/word/digit/)：数字、桁
-- [calculate](/word/calculate/)：計算する
+- [digit](/digit)：数字、桁
+- [calculate](/calculate)：計算する
 
-<!-- cvid: aid10_bid02 -->
+<!-- cvid: aid16_bid16 -->

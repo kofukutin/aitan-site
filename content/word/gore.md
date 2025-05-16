@@ -81,15 +81,19 @@ TOEICでは医療や事故、映画のレビューなどの長文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や事故、映画のレビューなどの長文で見かける
 ## 🤔  blood との違いは？
 
 - **gore**：血のりや血まみれの状態、特に暴力的な場面で使う
-- **[blood](/word/blood/)**：血そのもの、医学的・一般的な意味
+- **[blood](/blood)**：血そのもの、医学的・一般的な意味
 
 goreは「血のり」や「血まみれの状態」を強調し、主に残酷な場面や映画・小説で使われます。bloodは「血」そのものを指し、より広く一般的に使われます。
 
@@ -105,14 +109,14 @@ goreは「血のり」や「血まみれの状態」を強調し、主に残酷�
 
 ## 🧩 あわせて覚えたい
 
-- [wound](/word/wound/)：傷
-- [injury](/word/injury/)：けが
+- [wound](/wound)：傷
+- [injury](/injury)：けが
 
 ---
 
 ## 📖 できればこれも
 
-- [scar](/word/scar/)：傷跡
-- [bruise](/word/bruise/)：あざ
+- [scar](/scar)：傷跡
+- [bruise](/bruise)：あざ
 
-<!-- cvid: aid39_bid35 -->
+<!-- cvid: aid02_bid46 -->

@@ -81,15 +81,19 @@ ITや技術関連の説明文や仕様書で見かけることが多い単語で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや技術関連の説明文や仕様書で見かけることが多い単語で
 ## 🤔  stationary との違いは？
 
 - **static**：動きや変化がない状態、特に技術やIT分野で「静的な」として使われる
-- **[stationary](/word/stationary/)**：物理的に「動かない」「静止している」状態を指す
+- **[stationary](/stationary)**：物理的に「動かない」「静止している」状態を指す
 
 staticは「変化しない性質」や「一定であること」に焦点があり、stationaryは「物理的にその場から動かない」ことを強調します。
 
@@ -105,14 +109,14 @@ staticは「変化しない性質」や「一定であること」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [dynamic](/word/dynamic/)：動的な、変化する
-- [stable](/word/stable/)：安定した、しっかりした
+- [dynamic](/dynamic)：動的な、変化する
+- [stable](/stable)：安定した、しっかりした
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual/)：手動の、手引き
-- [digital](/word/digital/)：デジタルの、電子的な
+- [manual](/manual)：手動の、手引き
+- [digital](/digital)：デジタルの、電子的な
 
-<!-- cvid: aid02_bid41 -->
+<!-- cvid: aid11_bid08 -->

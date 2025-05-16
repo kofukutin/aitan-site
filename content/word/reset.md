@@ -81,15 +81,19 @@ resetはITやビジネスの設定変更、トラブル対応の会話でよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ resetはITやビジネスの設定変更、トラブル対応の会話でよく�
 ## 🤔  restart との違いは？
 
 - **reset**：完全に初期状態に戻す、設定やデータを消去して最初からやり直すニュアンス
-- **[restart](/word/restart/)**：一度止めてから再び動かす、再起動する意味
+- **[restart](/restart)**：一度止めてから再び動かす、再起動する意味
 
 resetは「ゼロからやり直す」イメージ、restartは「一時停止して再開する」イメージです。
 
@@ -105,14 +109,14 @@ resetは「ゼロからやり直す」イメージ、restartは「一時停止�
 
 ## 🧩 あわせて覚えたい
 
-- [initialize](/word/initialize/)：初期化する
-- [restore](/word/restore/)：元の状態に戻す
+- [initialize](/initialize)：初期化する
+- [restore](/restore)：元の状態に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新する
-- [install](/word/install/)：インストールする
+- [update](/update)：更新する
+- [install](/install)：インストールする
 
-<!-- cvid: aid14_bid27 -->
+<!-- cvid: aid26_bid07 -->

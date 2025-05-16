@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、水辺でボートに乗っている
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、水辺でボートに乗っている
 ## 🤔  sailing との違いは？
 
 - **boating**：ボート全般で水上を楽しむこと。手漕ぎやモーターボートも含む。
-- **[sailing](/word/sailing/)**：帆を使って進む「ヨット」や「セーリング」のこと。
+- **[sailing](/sailing)**：帆を使って進む「ヨット」や「セーリング」のこと。
 
 boatingは幅広いボート遊び全般を指し、sailingは帆船やヨットで風を使って進む活動に限定されます。
 
@@ -105,14 +109,14 @@ boatingは幅広いボート遊び全般を指し、sailingは帆船やヨット
 
 ## 🧩 あわせて覚えたい
 
-- [rowing](/word/rowing/)：ボートをオールで漕ぐこと
-- [fishing](/word/fishing/)：釣り
+- [rowing](/rowing)：ボートをオールで漕ぐこと
+- [fishing](/fishing)：釣り
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/word/swimming/)：泳ぐこと
-- [hiking](/word/hiking/)：ハイキング、山歩き
+- [swimming](/swimming)：泳ぐこと
+- [hiking](/hiking)：ハイキング、山歩き
 
-<!-- cvid: aid33_bid32 -->
+<!-- cvid: aid46_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは、業務の流れやシステムの稼働状況など、何かが「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、業務の流れやシステムの稼働状況など、何かが「
 ## 🤔  constantly との違いは？
 
 - **continuously**：途切れずに連続して
-- **[constantly](/word/constantly/)**：頻繁に、しょっちゅう（必ずしも途切れずではない）
+- **[constantly](/constantly)**：頻繁に、しょっちゅう（必ずしも途切れずではない）
 
 「continuously」は中断がない状態を強調し、「constantly」は頻度が高いことを表しますが、間に短い中断があっても使えます。
 
@@ -105,14 +109,14 @@ TOEICでは、業務の流れやシステムの稼働状況など、何かが「
 
 ## 🧩 あわせて覚えたい
 
-- [repeatedly](/word/repeatedly/)：繰り返し
-- [intermittently](/word/intermittently/)：断続的に
+- [repeatedly](/repeatedly)：繰り返し
+- [intermittently](/intermittently)：断続的に
 
 ---
 
 ## 📖 できればこれも
 
-- [gradually](/word/gradually/)：徐々に
-- [eventually](/word/eventually/)：最終的に
+- [gradually](/gradually)：徐々に
+- [eventually](/eventually)：最終的に
 
-<!-- cvid: aid02_bid05 -->
+<!-- cvid: aid42_bid32 -->

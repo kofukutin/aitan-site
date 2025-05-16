@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【treaty】の意味・使い方・例文 ― agreementとの違い【TOEIC英単語】"
 description: "treatyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでagreementとの違いもわかりやすく学べます。"
 word: "treaty"
@@ -81,15 +81,19 @@ treatyはTOEICの長文読解パートで、国際関係やビジネス契約に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid42_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ treatyはTOEICの長文読解パートで、国際関係やビジネス契約に
 ## 🤔  agreement との違いは？
 
 - **treaty**：国や団体間で結ばれる公式な条約・協定
-- **[agreement](/word/agreement/)**：一般的な合意や取り決め、契約
+- **[agreement](/agreement)**：一般的な合意や取り決め、契約
 
 treatyは国際的・法的な重みがあり、agreementはより広く日常的な合意や契約にも使われます。
 
@@ -105,15 +109,15 @@ treatyは国際的・法的な重みがあり、agreementはより広く日常�
 
 ## 🧩 あわせて覚えたい
 
-- [contract](/word/contract/)：契約（法的拘束力のある取り決め）
-- [negotiation](/word/negotiation/)：交渉（合意に至るための話し合い）
+- [contract](/contract)：契約（法的拘束力のある取り決め）
+- [negotiation](/negotiation)：交渉（合意に至るための話し合い）
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause/)：条項（契約や条約の一部となる文）
-- [settlement](/word/settlement/)：和解、解決（争いごとの解決策）
+- [clause](/clause)：条項（契約や条約の一部となる文）
+- [settlement](/settlement)：和解、解決（争いごとの解決策）
 
 ---
-<!-- cvid: aid49_bid07 -->
+<!-- cvid: aid42_bid40 -->

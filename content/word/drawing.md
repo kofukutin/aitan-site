@@ -81,15 +81,19 @@ drawingはTOEICの写真描写問題（Part 1）で、人物が「絵を描い�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ drawingはTOEICの写真描写問題（Part 1）で、人物が「絵を描い�
 ## 🤔  sketch との違いは？
 
 - **drawing**：完成度の高い絵や図、設計図など幅広く使える
-- **[sketch](/word/sketch/)**：下書きやラフなスケッチ、素早く描いたもの
+- **[sketch](/sketch)**：下書きやラフなスケッチ、素早く描いたもの
 
 drawingは完成品や正式な図面にも使われますが、sketchはアイデア段階やラフな下書きに使われることが多いです。
 
@@ -105,14 +109,14 @@ drawingは完成品や正式な図面にも使われますが、sketchはアイ�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/word/painting/)：絵画（絵の具で描いたもの）
-- [diagram](/word/diagram/)：図、図解（構造や関係を示す図）
+- [painting](/painting)：絵画（絵の具で描いたもの）
+- [diagram](/diagram)：図、図解（構造や関係を示す図）
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：設計、デザイン
-- [plan](/word/plan/)：計画、案
+- [design](/design)：設計、デザイン
+- [plan](/plan)：計画、案
 
-<!-- cvid: aid28_bid35 -->
+<!-- cvid: aid30_bid46 -->

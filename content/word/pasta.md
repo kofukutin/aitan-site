@@ -81,15 +81,19 @@ TOEICではレストランのメニューや観光案内、食事に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid21" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid21" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランのメニューや観光案内、食事に関する長
 ## 🤔  noodle との違いは？
 
 - **pasta**：イタリア料理の麺類全般を指し、主に小麦粉から作られる。
-- **[noodle](/word/noodle/)**：アジア料理を中心とした麺類全般を指し、材料や形状も幅広い。
+- **[noodle](/noodle)**：アジア料理を中心とした麺類全般を指し、材料や形状も幅広い。
 
 pastaはイタリアの麺類、noodleはアジアの麺類など幅広く使われ、料理のジャンルや文化によって使い分けます。
 
@@ -105,14 +109,14 @@ pastaはイタリアの麺類、noodleはアジアの麺類など幅広く使わ
 
 ## 🧩 あわせて覚えたい
 
-- [spaghetti](/word/spaghetti/)：スパゲッティ（細長いパスタの一種）
-- [macaroni](/word/macaroni/)：マカロニ（短い管状のパスタ）
+- [spaghetti](/spaghetti)：スパゲッティ（細長いパスタの一種）
+- [macaroni](/macaroni)：マカロニ（短い管状のパスタ）
 
 ---
 
 ## 📖 できればこれも
 
-- [pizza](/word/pizza/)：ピザ（イタリアの代表的な料理）
-- [bread](/word/bread/)：パン（小麦粉を焼いた食品）
+- [pizza](/pizza)：ピザ（イタリアの代表的な料理）
+- [bread](/bread)：パン（小麦粉を焼いた食品）
 
-<!-- cvid: aid47_bid48 -->
+<!-- cvid: aid13_bid21 -->

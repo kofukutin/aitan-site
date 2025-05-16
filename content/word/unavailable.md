@@ -81,15 +81,19 @@ TOEICでは電話対応や会議の出欠、予約状況など「利用できな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは電話対応や会議の出欠、予約状況など「利用できな
 ## 🤔  absent との違いは？
 
 - **unavailable**：利用できない、応対できない（理由は不明な場合も多い）
-- **[absent](/word/absent/)**：物理的にその場にいない、不在
+- **[absent](/absent)**：物理的にその場にいない、不在
 
 unavailable は「応答できない」「使えない」など幅広い状況で使われ、absent は「その場にいない」ことを強調します。
 
@@ -105,14 +109,14 @@ unavailable は「応答できない」「使えない」など幅広い状況�
 
 ## 🧩 あわせて覚えたい
 
-- [accessible](/word/accessible/)：利用できる、アクセスできる
-- [vacant](/word/vacant/)：空いている、空席の
+- [accessible](/accessible)：利用できる、アクセスできる
+- [vacant](/vacant)：空いている、空席の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる、手が空いている
-- [occupied](/word/occupied/)：使用中の、ふさがっている
+- [available](/available)：利用できる、手が空いている
+- [occupied](/occupied)：使用中の、ふさがっている
 
-<!-- cvid: aid21_bid09 -->
+<!-- cvid: aid19_bid17 -->

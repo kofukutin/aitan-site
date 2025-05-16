@@ -81,15 +81,19 @@ TOEICでは「列」「線」「電話回線」など、写真描写や会話文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「列」「線」「電話回線」など、写真描写や会話文
 ## 🤔  row との違いは？
 
 - **line**：まっすぐに並んだ「線」や「列」、または電話回線など幅広い意味で使う
-- **[row](/word/row/)**：横一列に並んだ「列」を指し、特に座席や建物などで使う
+- **[row](/row)**：横一列に並んだ「列」を指し、特に座席や建物などで使う
 
 lineは「線」や「列」など直線的な並び全般を指し、rowは「横並びの列」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ lineは「線」や「列」など直線的な並び全般を指し、rowは「�
 
 ## 🧩 あわせて覚えたい
 
-- [queue](/word/queue/)：順番待ちの列
-- [border](/word/border/)：境界線
+- [queue](/queue)：順番待ちの列
+- [border](/border)：境界線
 
 ---
 
 ## 📖 できればこれも
 
-- [shape](/word/shape/)：形、形状
-- [form](/word/form/)：形、書式
+- [shape](/shape)：形、形状
+- [form](/form)：形、書式
 
-<!-- cvid: aid45_bid42 -->
+<!-- cvid: aid33_bid25 -->

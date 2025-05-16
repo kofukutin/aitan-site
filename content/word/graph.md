@@ -81,15 +81,19 @@ TOEICではPart 7の図表付き問題や説明文でよく登場します。グ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の図表付き問題や説明文でよく登場します。グ
 ## 🤔  chart との違いは？
 
 - **graph**：数値やデータの変化・関係性を線や棒などで視覚的に示す図。
-- **[chart](/word/chart/)**：情報やデータを整理して示す表や図の総称。グラフもchartの一種。
+- **[chart](/chart)**：情報やデータを整理して示す表や図の総称。グラフもchartの一種。
 
 graphは特に数値の変化や比較を強調する図、chartはより広く「表」や「図」を指します。
 
@@ -105,14 +109,14 @@ graphは特に数値の変化や比較を強調する図、chartはより広く�
 
 ## 🧩 あわせて覚えたい
 
-- [diagram](/word/diagram/)：構造や仕組みを示す図
-- [table](/word/table/)：データを行と列で整理した表
+- [diagram](/diagram)：構造や仕組みを示す図
+- [table](/table)：データを行と列で整理した表
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：図、イラスト、数値
-- [data](/word/data/)：データ、資料
+- [figure](/figure)：図、イラスト、数値
+- [data](/data)：データ、資料
 
-<!-- cvid: aid10_bid23 -->
+<!-- cvid: aid14_bid18 -->

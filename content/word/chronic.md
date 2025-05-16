@@ -81,15 +81,19 @@ The company is facing chronic financial problems.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company is facing chronic financial problems.
 ## 🤔  persistent との違いは？
 
 - **chronic**：長期間続く、特に病気や問題が慢性的であることを強調
-- **[persistent](/word/persistent/)**：しつこく続く、粘り強い、症状や行動がなかなか止まらないこと
+- **[persistent](/persistent)**：しつこく続く、粘り強い、症状や行動がなかなか止まらないこと
 
 「chronic」は特に医療や問題の長期化に使われ、「persistent」はしつこさや粘り強さに焦点があります。
 
@@ -105,14 +109,14 @@ The company is facing chronic financial problems.
 
 ## 🧩 あわせて覚えたい
 
-- [acute](/word/acute/)：急性の、突然発症する
-- [terminal](/word/terminal/)：末期の、治療が困難な
+- [acute](/acute)：急性の、突然発症する
+- [terminal](/terminal)：末期の、治療が困難な
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/word/symptom/)：症状
-- [treatment](/word/treatment/)：治療
+- [symptom](/symptom)：症状
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid07_bid18 -->
+<!-- cvid: aid17_bid33 -->

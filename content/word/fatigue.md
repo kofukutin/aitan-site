@@ -81,15 +81,19 @@ TOEICでは主に健康や労働環境、医療関連の長文で登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に健康や労働環境、医療関連の長文で登場します
 ## 🤔  exhaustion との違いは？
 
 - **fatigue**：長時間の活動やストレスによる持続的な疲労や倦怠感を表す。
-- **[exhaustion](/word/exhaustion/)**：極度の疲労や完全に力が尽きた状態を強調する。
+- **[exhaustion](/exhaustion)**：極度の疲労や完全に力が尽きた状態を強調する。
 
 fatigueは「慢性的な疲れ」、exhaustionは「限界まで疲れ切った状態」といった違いがあります。
 
@@ -105,14 +109,14 @@ fatigueは「慢性的な疲れ」、exhaustionは「限界まで疲れ切った
 
 ## 🧩 あわせて覚えたい
 
-- [tiredness](/word/tiredness/)：疲れ（より一般的・カジュアルな表現）
-- [refreshment](/word/refreshment/)：元気回復、リフレッシュ
+- [tiredness](/tiredness)：疲れ（より一般的・カジュアルな表現）
+- [refreshment](/refreshment)：元気回復、リフレッシュ
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress/)：ストレス、緊張
-- [symptom](/word/symptom/)：症状
+- [stress](/stress)：ストレス、緊張
+- [symptom](/symptom)：症状
 
-<!-- cvid: aid13_bid25 -->
+<!-- cvid: aid12_bid16 -->

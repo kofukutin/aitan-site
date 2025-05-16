@@ -82,15 +82,19 @@ TOEICでは主にメールや掲示、ウェブサイトの案内文などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にメールや掲示、ウェブサイトの案内文などで「
 ## 🤔  information との違いは？
 
 - **info**：カジュアルな場面や口語・IT分野で使う「情報」の略語
-- **[information](/word/information/)**：フォーマル・書き言葉で使う「情報」
+- **[information](/information)**：フォーマル・書き言葉で使う「情報」
 
 「info」は親しい間柄や簡単なやりとり、掲示などで使われ、「information」はビジネス文書や公式な場面で使われます。
 
@@ -106,14 +110,14 @@ TOEICでは主にメールや掲示、ウェブサイトの案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [detail](/word/detail/)：詳細、細部
-- [data](/word/data/)：データ、資料
+- [detail](/detail)：詳細、細部
+- [data](/data)：データ、資料
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新、最新情報
-- [notice](/word/notice/)：通知、お知らせ
+- [update](/update)：更新、最新情報
+- [notice](/notice)：通知、お知らせ
 
-<!-- cvid: aid07_bid23 -->
+<!-- cvid: aid03_bid49 -->

@@ -81,15 +81,19 @@ TOEICでは会議やプレゼン、説明の場面で「計画や提案の要点
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプレゼン、説明の場面で「計画や提案の要点
 ## 🤔  described との違いは？
 
 - **outlined**：要点や概要を簡潔に示す
-- **[described](/word/described/)**：詳細や特徴を説明する
+- **[described](/described)**：詳細や特徴を説明する
 
 outlinedは全体像やポイントを短くまとめるとき、describedは細かく説明したいときに使います。
 
@@ -105,14 +109,14 @@ outlinedは全体像やポイントを短くまとめるとき、describedは細
 
 ## 🧩 あわせて覚えたい
 
-- [summarize](/word/summarize/)：要約する
-- [specify](/word/specify/)：具体的に述べる
+- [summarize](/summarize)：要約する
+- [specify](/specify)：具体的に述べる
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、発表する
-- [explain](/word/explain/)：説明する
+- [present](/present)：提示する、発表する
+- [explain](/explain)：説明する
 
-<!-- cvid: aid36_bid17 -->
+<!-- cvid: aid22_bid33 -->

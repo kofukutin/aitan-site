@@ -81,15 +81,19 @@ TOEICでは説明文や技術的な文章で「仕組み」や「機構」を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や技術的な文章で「仕組み」や「機構」を説
 ## 🤔  device との違いは？
 
 - **mechanism**：仕組みや構造、動作の原理に焦点を当てる
-- **[device](/word/device/)**：具体的な道具や装置そのものを指す
+- **[device](/device)**：具体的な道具や装置そのものを指す
 
 mechanismは「どう動くか・どう機能するか」という仕組みや原理を表し、deviceは「実際の道具や機器」を指します。
 
@@ -105,14 +109,14 @@ mechanismは「どう動くか・どう機能するか」という仕組みや�
 
 ## 🧩 あわせて覚えたい
 
-- [system](/word/system/)：体系、システム
-- [structure](/word/structure/)：構造、組織
+- [system](/system)：体系、システム
+- [structure](/structure)：構造、組織
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function/)：機能、働き
-- [component](/word/component/)：構成要素、部品
+- [function](/function)：機能、働き
+- [component](/component)：構成要素、部品
 
-<!-- cvid: aid18_bid14 -->
+<!-- cvid: aid26_bid12 -->

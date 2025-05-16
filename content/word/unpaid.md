@@ -81,15 +81,19 @@ TOEICでは請求書や給与、契約に関する文脈で「unpaid」が形容
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や給与、契約に関する文脈で「unpaid」が形容
 ## 🤔  overdue との違いは？
 
 - **unpaid**：未払いの（支払いがまだ行われていない状態全般）
-- **[overdue](/word/overdue/)**：期限を過ぎて未払いの（支払期限を過ぎている状態）
+- **[overdue](/overdue)**：期限を過ぎて未払いの（支払期限を過ぎている状態）
 
 「unpaid」は単に支払いが済んでいないことを指し、「overdue」は支払期限を過ぎている場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは請求書や給与、契約に関する文脈で「unpaid」が形容
 
 ## 🧩 あわせて覚えたい
 
-- [outstanding](/word/outstanding/)：未払いの、未処理の
-- [payable](/word/payable/)：支払うべき、支払可能な
+- [outstanding](/outstanding)：未払いの、未処理の
+- [payable](/payable)：支払うべき、支払可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [pending](/word/pending/)：未処理の、保留中の
-- [due](/word/due/)：支払期日の、期限が来た
+- [pending](/pending)：未処理の、保留中の
+- [due](/due)：支払期日の、期限が来た
 
-<!-- cvid: aid01_bid44 -->
+<!-- cvid: aid00_bid35 -->

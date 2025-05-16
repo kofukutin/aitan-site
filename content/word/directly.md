@@ -81,15 +81,19 @@ TOEICでは、指示や連絡の方法、対応の速さを問う会話や説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、指示や連絡の方法、対応の速さを問う会話や説明
 ## 🤔  immediately との違いは？
 
 - **directly**：直接に、まっすぐに、または「すぐに」の意味でも使われるが、物理的・経路的な「直接さ」も強調する。
-- **[immediately](/word/immediately/)**：時間的な「すぐに」「直後に」を強調し、物理的な「直接さ」は含まない。
+- **[immediately](/immediately)**：時間的な「すぐに」「直後に」を強調し、物理的な「直接さ」は含まない。
 
 directlyは「直接」「まっすぐ」というニュアンスがあり、immediatelyは「時間的な即時性」に特化しています。
 
@@ -105,14 +109,14 @@ directlyは「直接」「まっすぐ」というニュアンスがあり、imm
 
 ## 🧩 あわせて覚えたい
 
-- [indirectly](/word/indirectly/)：間接的に
-- [straight](/word/straight/)：まっすぐに
+- [indirectly](/indirectly)：間接的に
+- [straight](/straight)：まっすぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [clearly](/word/clearly/)：はっきりと
+- [quickly](/quickly)：速く
+- [clearly](/clearly)：はっきりと
 
-<!-- cvid: aid29_bid09 -->
+<!-- cvid: aid21_bid26 -->

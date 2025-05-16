@@ -81,15 +81,19 @@ TOEICでは主に履歴書や求人情報、語学力証明などの文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に履歴書や求人情報、語学力証明などの文脈で出
 ## 🤔  competence との違いは？
 
 - **proficiency**：実践的な熟達度や高い技能レベルを強調
-- **[competence](/word/competence/)**：基準を満たす能力や適性を指し、最低限の力にも使う
+- **[competence](/competence)**：基準を満たす能力や適性を指し、最低限の力にも使う
 
 proficiencyは「上手さ・堪能さ」に重点があり、competenceは「できるかどうか・適性があるか」に焦点を当てます。
 
@@ -105,14 +109,14 @@ proficiencyは「上手さ・堪能さ」に重点があり、competenceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/word/expertise/)：専門知識、専門的技能
-- [skill](/word/skill/)：技術、能力
+- [expertise](/expertise)：専門知識、専門的技能
+- [skill](/skill)：技術、能力
 
 ---
 
 ## 📖 できればこれも
 
-- [qualification](/word/qualification/)：資格、適格性
-- [ability](/word/ability/)：能力、才能
+- [qualification](/qualification)：資格、適格性
+- [ability](/ability)：能力、才能
 
-<!-- cvid: aid30_bid05 -->
+<!-- cvid: aid36_bid47 -->

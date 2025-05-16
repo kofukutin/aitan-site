@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、レポートなどで「invaluabl
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid06_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、レポートなどで「invaluabl
 ## 🤔  priceless との違いは？
 
 - **invaluable**：計り知れないほど価値がある、特に助けや経験などに使う
-- **[priceless](/word/priceless/)**：値段がつけられないほど貴重、主に物や芸術品に使う
+- **[priceless](/priceless)**：値段がつけられないほど貴重、主に物や芸術品に使う
 
 「invaluable」は人の助けや経験など抽象的な価値に、「priceless」は美術品や思い出など具体的な物に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やメール、レポートなどで「invaluabl
 
 ## 🧩 あわせて覚えたい
 
-- [valuable](/word/valuable/)：価値のある、有益な
-- [worthless](/word/worthless/)：価値のない
+- [valuable](/valuable)：価値のある、有益な
+- [worthless](/worthless)：価値のない
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、絶対必要な
-- [significant](/word/significant/)：重要な、意味のある
+- [essential](/essential)：不可欠な、絶対必要な
+- [significant](/significant)：重要な、意味のある
 
-<!-- cvid: aid38_bid14 -->
+<!-- cvid: aid06_bid07 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文書や規則説明の中で「裁量」「慎重さ」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や規則説明の中で「裁量」「慎重さ」
 ## 🤔  prudence との違いは？
 
 - **discretion**：状況に応じて自分の判断で行動する慎重さや裁量
-- **[prudence](/word/prudence/)**：将来を見越した用心深さや分別
+- **[prudence](/prudence)**：将来を見越した用心深さや分別
 
 discretionは「その場その場での判断や秘密保持」に重点があり、prudenceは「リスクを避けるための用心深さ」に重点があります。
 
@@ -105,13 +109,13 @@ discretionは「その場その場での判断や秘密保持」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [confidentiality](/word/confidentiality/)：機密性、秘密を守ること
-- [judgment](/word/judgment/)：判断、判決
+- [confidentiality](/confidentiality)：機密性、秘密を守ること
+- [judgment](/judgment)：判断、判決
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/word/confidential/)：機密の、秘密の
-- [deliberation](/word/deliberation/)：熟考、慎重な検討
-<!-- cvid: aid41_bid31 -->
+- [confidential](/confidential)：機密の、秘密の
+- [deliberation](/deliberation)：熟考、慎重な検討
+<!-- cvid: aid32_bid45 -->

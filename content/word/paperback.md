@@ -81,15 +81,19 @@ TOEICでは書籍や出版物に関する話題で、hardcoverやmagazineなど�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは書籍や出版物に関する話題で、hardcoverやmagazineなど�
 ## 🤔  hardcover との違いは？
 
 - **paperback**：紙の表紙で作られた本。軽くて安価。
-- **[hardcover](/word/hardcover/)**：厚いボール紙などで作られた堅い表紙の本。高価で丈夫。
+- **[hardcover](/hardcover)**：厚いボール紙などで作られた堅い表紙の本。高価で丈夫。
 
 paperbackは持ち運びやすさや価格重視、hardcoverは保存性や高級感重視の場面で使い分けます。
 
@@ -105,14 +109,14 @@ paperbackは持ち運びやすさや価格重視、hardcoverは保存性や高�
 
 ## 🧩 あわせて覚えたい
 
-- [magazine](/word/magazine/)：雑誌
-- [brochure](/word/brochure/)：パンフレット
+- [magazine](/magazine)：雑誌
+- [brochure](/brochure)：パンフレット
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/word/novel/)：小説
-- [author](/word/author/)：著者
+- [novel](/novel)：小説
+- [author](/author)：著者
 
-<!-- cvid: aid30_bid27 -->
+<!-- cvid: aid19_bid37 -->

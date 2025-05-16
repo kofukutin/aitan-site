@@ -81,15 +81,19 @@ TOEICでは、趣味やライフスタイル、環境に関する長文やEメ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、趣味やライフスタイル、環境に関する長文やEメ�
 ## 🤔  agriculture との違いは？
 
 - **gardening**：家庭や趣味で行う小規模な園芸やガーデニング
-- **[agriculture](/word/agriculture/)**：大規模な農業や作物の生産全般
+- **[agriculture](/agriculture)**：大規模な農業や作物の生産全般
 
 gardeningは個人や家庭で楽しむ園芸を指し、agricultureは産業としての農業や大規模な作物生産を意味します。
 
@@ -105,14 +109,14 @@ gardeningは個人や家庭で楽しむ園芸を指し、agricultureは産業と
 
 ## 🧩 あわせて覚えたい
 
-- [landscape](/word/landscape/)：景観、風景
-- [horticulture](/word/horticulture/)：園芸学、園芸技術
+- [landscape](/landscape)：景観、風景
+- [horticulture](/horticulture)：園芸学、園芸技術
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/word/plant/)：植物、植える
-- [flower](/word/flower/)：花
+- [plant](/plant)：植物、植える
+- [flower](/flower)：花
 
-<!-- cvid: aid40_bid20 -->
+<!-- cvid: aid35_bid24 -->

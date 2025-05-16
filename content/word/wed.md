@@ -81,15 +81,19 @@ TOEICでは主にフォーマルな記事や通知文で見かけることがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にフォーマルな記事や通知文で見かけることがあ
 ## 🤔  marry との違いは？
 
 - **wed**：フォーマルで書き言葉やニュース記事で使われやすい「結婚する」。
-- **[marry](/word/marry/)**：日常会話からフォーマルまで幅広く使える「結婚する」。
+- **[marry](/marry)**：日常会話からフォーマルまで幅広く使える「結婚する」。
 
 wedは格式ばった響きがあり、marryはより一般的で口語的にも使われます。
 
@@ -105,14 +109,14 @@ wedは格式ばった響きがあり、marryはより一般的で口語的にも
 
 ## 🧩 あわせて覚えたい
 
-- [divorce](/word/divorce/)：離婚する
-- [engage](/word/engage/)：婚約する
+- [divorce](/divorce)：離婚する
+- [engage](/engage)：婚約する
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/word/announce/)：発表する
-- [invite](/word/invite/)：招待する
+- [announce](/announce)：発表する
+- [invite](/invite)：招待する
 
-<!-- cvid: aid42_bid44 -->
+<!-- cvid: aid29_bid19 -->

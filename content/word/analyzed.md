@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やレポートの中で「分析した」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やレポートの中で「分析した」とい
 ## 🤔  examined との違いは？
 
 - **analyzed**：細かく分けて論理的に調べる、分析する
-- **[examined](/word/examined/)**：注意深く調べる、検査する
+- **[examined](/examined)**：注意深く調べる、検査する
 
 「analyzed」はデータや情報を論理的に分解して考察する時に使い、「examined」は物や状況を注意深く観察・点検する時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やレポートの中で「分析した」とい
 
 ## 🧩 あわせて覚えたい
 
-- [investigate](/word/investigate/)：詳しく調査する
-- [assess](/word/assess/)：評価する、査定する
+- [investigate](/investigate)：詳しく調査する
+- [assess](/assess)：評価する、査定する
 
 ---
 
 ## 📖 できればこれも
 
-- [evaluate](/word/evaluate/)：評価する
-- [review](/word/review/)：見直す、再検討する
+- [evaluate](/evaluate)：評価する
+- [review](/review)：見直す、再検討する
 
-<!-- cvid: aid10_bid14 -->
+<!-- cvid: aid04_bid10 -->

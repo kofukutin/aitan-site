@@ -81,15 +81,19 @@ TOEICでは趣味や余暇、教育に関する長文やEメール文中で登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは趣味や余暇、教育に関する長文やEメール文中で登�
 ## 🤔  checkers との違いは？
 
 - **chess**：白黒の駒とキングを使い、戦略的に相手を詰ませるボードゲーム。
-- **[checkers](/word/checkers/)**：同じくボード上で駒を動かすが、駒の動きやルールが異なるシンプルなゲーム。
+- **[checkers](/checkers)**：同じくボード上で駒を動かすが、駒の動きやルールが異なるシンプルなゲーム。
 
 chessはより複雑で戦略的なゲーム、checkersはルールが簡単で直感的なゲームです。
 
@@ -105,14 +109,14 @@ chessはより複雑で戦略的なゲーム、checkersはルールが簡単で�
 
 ## 🧩 あわせて覚えたい
 
-- [board game](/word/board_game/)：ボードゲーム
-- [strategy](/word/strategy/)：戦略
+- [board game](/board_game)：ボードゲーム
+- [strategy](/strategy)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [puzzle](/word/puzzle/)：パズル
-- [card](/word/card/)：カード（カードゲーム）
+- [puzzle](/puzzle)：パズル
+- [card](/card)：カード（カードゲーム）
 
-<!-- cvid: aid08_bid25 -->
+<!-- cvid: aid42_bid37 -->

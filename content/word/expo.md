@@ -81,15 +81,19 @@ TOEICでは、展示会やイベントの案内文や広告、Eメールなど�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、展示会やイベントの案内文や広告、Eメールなど�
 ## 🤔  exhibition との違いは？
 
 - **expo**：カジュアルで大規模な博覧会や展示会を指し、略語として使われることが多い
-- **[exhibition](/word/exhibition/)**：ややフォーマルで、芸術作品や製品などの展示全般を指す
+- **[exhibition](/exhibition)**：ややフォーマルで、芸術作品や製品などの展示全般を指す
 
 expoはビジネスや産業イベントなど大規模な催しに使われやすく、exhibitionは美術展や一般的な展示に幅広く使われます。
 
@@ -105,14 +109,14 @@ expoはビジネスや産業イベントなど大規模な催しに使われや�
 
 ## 🧩 あわせて覚えたい
 
-- [fair](/word/fair/)：見本市、フェア
-- [conference](/word/conference/)：会議、学会
+- [fair](/fair)：見本市、フェア
+- [conference](/conference)：会議、学会
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event/)：イベント、催し
-- [seminar](/word/seminar/)：セミナー、講習会
+- [event](/event)：イベント、催し
+- [seminar](/seminar)：セミナー、講習会
 
-<!-- cvid: aid46_bid10 -->
+<!-- cvid: aid38_bid21 -->

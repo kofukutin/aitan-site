@@ -81,15 +81,19 @@ TOEICでは、環境や地理に関する話題で「desert」が登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境や地理に関する話題で「desert」が登場するこ
 ## 🤔  abandon との違いは？
 
 - **desert**：雨が少なく乾燥した「砂漠」を指す名詞。
-- **[abandon](/word/abandon/)**：何かを「見捨てる」「放棄する」という動詞。
+- **[abandon](/abandon)**：何かを「見捨てる」「放棄する」という動詞。
 
 desertは場所や地形を表し、abandonは行動や状態を表します。
 
@@ -105,14 +109,14 @@ desertは場所や地形を表し、abandonは行動や状態を表します。
 
 ## 🧩 あわせて覚えたい
 
-- [oasis](/word/oasis/)：オアシス（砂漠の中の水と緑のある場所）
-- [wilderness](/word/wilderness/)：荒野、手つかずの自然地帯
+- [oasis](/oasis)：オアシス（砂漠の中の水と緑のある場所）
+- [wilderness](/wilderness)：荒野、手つかずの自然地帯
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest/)：森林
-- [island](/word/island/)：島
+- [forest](/forest)：森林
+- [island](/island)：島
 
-<!-- cvid: aid02_bid02 -->
+<!-- cvid: aid23_bid32 -->

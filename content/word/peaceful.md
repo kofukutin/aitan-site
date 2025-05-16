@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、文脈に合う形容詞を選ぶ問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、文脈に合う形容詞を選ぶ問
 ## 🤔  calm との違いは？
 
 - **peaceful**：争いや混乱がなく、平和で穏やかな様子を表す。
-- **[calm](/word/calm/)**：静かで落ち着いている状態、感情や天候にも使える。
+- **[calm](/calm)**：静かで落ち着いている状態、感情や天候にも使える。
 
 peacefulは「争いがない」ことに重点があり、calmは「静けさ」や「落ち着き」に重点があります。
 
@@ -105,14 +109,14 @@ peacefulは「争いがない」ことに重点があり、calmは「静けさ�
 
 ## 🧩 あわせて覚えたい
 
-- [quiet](/word/quiet/)：静かな
-- [violent](/word/violent/)：暴力的な、激しい
+- [quiet](/quiet)：静かな
+- [violent](/violent)：暴力的な、激しい
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/word/friendly/)：友好的な
-- [safe](/word/safe/)：安全な
+- [friendly](/friendly)：友好的な
+- [safe](/safe)：安全な
 
-<!-- cvid: aid28_bid35 -->
+<!-- cvid: aid07_bid45 -->

@@ -81,15 +81,19 @@ TOEICでは、展示会や広告、出版物に関する長文で「artwork」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、展示会や広告、出版物に関する長文で「artwork」�
 ## 🤔  illustration との違いは？
 
 - **artwork**：芸術作品全般や印刷物の図版・挿絵を幅広く指す
-- **[illustration](/word/illustration/)**：説明や装飾のための挿絵・イラストに特化
+- **[illustration](/illustration)**：説明や装飾のための挿絵・イラストに特化
 
 artworkは芸術作品全般や図版を指し、illustrationは特に説明や装飾目的の挿絵に使われます。
 
@@ -105,14 +109,14 @@ artworkは芸術作品全般や図版を指し、illustrationは特に説明や�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/word/painting/)：絵画
-- [design](/word/design/)：デザイン、設計
+- [painting](/painting)：絵画
+- [design](/design)：デザイン、設計
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/word/artist/)：芸術家
-- [gallery](/word/gallery/)：美術館、画廊
+- [artist](/artist)：芸術家
+- [gallery](/gallery)：美術館、画廊
 
-<!-- cvid: aid34_bid03 -->
+<!-- cvid: aid32_bid15 -->

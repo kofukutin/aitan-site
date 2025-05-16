@@ -81,15 +81,19 @@ TOEICでは会議や打ち合わせの場面で頻出し、議題や進行内容
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や打ち合わせの場面で頻出し、議題や進行内容
 ## 🤔  schedule との違いは？
 
 - **agenda**：会議や打ち合わせで話し合うべき「議題」や「項目」の一覧を指す
-- **[schedule](/word/schedule/)**：時間や日付ごとの「予定表」や「スケジュール」を指す
+- **[schedule](/schedule)**：時間や日付ごとの「予定表」や「スケジュール」を指す
 
 agendaは「何を話すか」に焦点があり、scheduleは「いつ何をするか」という時間軸に重点があります。
 
@@ -105,14 +109,14 @@ agendaは「何を話すか」に焦点があり、scheduleは「いつ何をす
 
 ## 🧩 あわせて覚えたい
 
-- [minutes](/word/minutes/)：議事録
-- [proposal](/word/proposal/)：提案書
+- [minutes](/minutes)：議事録
+- [proposal](/proposal)：提案書
 
 ---
 
 ## 📖 できればこれも
 
-- [memo](/word/memo/)：メモ、覚書
-- [document](/word/document/)：文書、書類
+- [memo](/memo)：メモ、覚書
+- [document](/document)：文書、書類
 
-<!-- cvid: aid14_bid24 -->
+<!-- cvid: aid24_bid44 -->

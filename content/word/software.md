@@ -80,15 +80,19 @@ TOEICではIT関連の説明や製品案内、業務手順の文脈でよく登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではIT関連の説明や製品案内、業務手順の文脈でよく登�
 ## 🤔  application との違いは？
 
 - **software**：コンピュータを動かすためのプログラム全般を指す広い言葉。
-- **[application](/word/application/)**：特定の目的のために使う個別のソフトウェア（例：ワープロや表計算ソフト）。
+- **[application](/application)**：特定の目的のために使う個別のソフトウェア（例：ワープロや表計算ソフト）。
 
 softwareは全体を指し、applicationはその中の一部（特定の用途のプログラム）を指します。
 
@@ -104,14 +108,14 @@ softwareは全体を指し、applicationはその中の一部（特定の用途�
 
 ## 🧩 あわせて覚えたい
 
-- [hardware](/word/hardware/)：ハードウェア（物理的な機械部分）
-- [program](/word/program/)：プログラム（命令の集まり、ソフトウェアの一種）
+- [hardware](/hardware)：ハードウェア（物理的な機械部分）
+- [program](/program)：プログラム（命令の集まり、ソフトウェアの一種）
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：システム（複数の要素が組み合わさった仕組み）
-- [device](/word/device/)：デバイス（機器、装置）
+- [system](/system)：システム（複数の要素が組み合わさった仕組み）
+- [device](/device)：デバイス（機器、装置）
 
-<!-- cvid: aid40_bid13 -->
+<!-- cvid: aid20_bid34 -->

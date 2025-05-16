@@ -81,15 +81,19 @@ TOEICでは、製品やサービスの説明、プレゼン、会話文で「fea
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やサービスの説明、プレゼン、会話文で「fea
 ## 🤔  function との違いは？
 
 - **feature**：製品やサービスの「特徴」や「目立つ機能」を指す
-- **[function](/word/function/)**：主に「役割」や「働き」「機能そのもの」を指す
+- **[function](/function)**：主に「役割」や「働き」「機能そのもの」を指す
 
 featureは「目立つ特長」や「付加価値的な機能」に焦点を当て、functionは「本来の役割」や「働き」に重点を置きます。
 
@@ -105,14 +109,14 @@ featureは「目立つ特長」や「付加価値的な機能」に焦点を当�
 
 ## 🧩 あわせて覚えたい
 
-- [characteristic](/word/characteristic/)：特徴、特性
-- [aspect](/word/aspect/)：側面、観点
+- [characteristic](/characteristic)：特徴、特性
+- [aspect](/aspect)：側面、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/word/option/)：選択肢、オプション
-- [detail](/word/detail/)：詳細、細部
+- [option](/option)：選択肢、オプション
+- [detail](/detail)：詳細、細部
 
-<!-- cvid: aid38_bid21 -->
+<!-- cvid: aid44_bid45 -->

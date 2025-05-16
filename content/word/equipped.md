@@ -81,15 +81,19 @@ TOEICでは、オフィスや施設の説明、チームや人材の能力に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや施設の説明、チームや人材の能力に関
 ## 🤔  prepared との違いは？
 
 - **equipped**：必要な物や能力が「備わっている」状態を強調
-- **[prepared](/word/prepared/)**：準備や心構えが「できている」状態を強調
+- **[prepared](/prepared)**：準備や心構えが「できている」状態を強調
 
 equippedは物理的・能力的な「装備」に焦点があり、preparedは「準備」や「心の準備」に重点があります。
 
@@ -105,14 +109,14 @@ equippedは物理的・能力的な「装備」に焦点があり、preparedは�
 
 ## 🧩 あわせて覚えたい
 
-- [furnished](/word/furnished/)：家具などが備え付けられた
-- [ready](/word/ready/)：準備ができている
+- [furnished](/furnished)：家具などが備え付けられた
+- [ready](/ready)：準備ができている
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/word/qualified/)：資格がある、適任の
-- [suitable](/word/suitable/)：適切な、ふさわしい
+- [qualified](/qualified)：資格がある、適任の
+- [suitable](/suitable)：適切な、ふさわしい
 
-<!-- cvid: aid04_bid30 -->
+<!-- cvid: aid11_bid38 -->

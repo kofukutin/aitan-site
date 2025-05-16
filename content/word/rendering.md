@@ -81,15 +81,19 @@ ITやデザイン、建築関連の説明文や仕様書で出題されること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid26_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやデザイン、建築関連の説明文や仕様書で出題されること
 ## 🤔  depiction との違いは？
 
 - **rendering**：技術的・芸術的な「表現」「描写」、特にITやアートでの具体的なアウトプットに使う
-- **[depiction](/word/depiction/)**：物事や場面を「描写」すること、説明や絵画など幅広い文脈で使う
+- **[depiction](/depiction)**：物事や場面を「描写」すること、説明や絵画など幅広い文脈で使う
 
 renderingは「実際に形にする」ニュアンスが強く、depictionは「説明や描写」に重点があります。
 
@@ -105,14 +109,14 @@ renderingは「実際に形にする」ニュアンスが強く、depictionは�
 
 ## 🧩 あわせて覚えたい
 
-- [interpretation](/word/interpretation/)：解釈
-- [illustration](/word/illustration/)：図解、イラスト
+- [interpretation](/interpretation)：解釈
+- [illustration](/illustration)：図解、イラスト
 
 ---
 
 ## 📖 できればこれも
 
-- [output](/word/output/)：出力、成果物
-- [conversion](/word/conversion/)：変換
+- [output](/output)：出力、成果物
+- [conversion](/conversion)：変換
 
-<!-- cvid: aid02_bid24 -->
+<!-- cvid: aid26_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは会議や業務の進め方、参加姿勢を問う文脈でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務の進め方、参加姿勢を問う文脈でよく登
 ## 🤔  proactively との違いは？
 
 - **actively**：積極的に、活発に行動すること
-- **[proactively](/word/proactively/)**：先を見越して主体的に行動すること
+- **[proactively](/proactively)**：先を見越して主体的に行動すること
 
 activelyは「積極的に」動くこと全般を指し、proactivelyは「予測して先回りする」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ activelyは「積極的に」動くこと全般を指し、proactivelyは「予�
 
 ## 🧩 あわせて覚えたい
 
-- [passively](/word/passively/)：受け身で、消極的に
-- [energetically](/word/energetically/)：精力的に、元気よく
+- [passively](/passively)：受け身で、消極的に
+- [energetically](/energetically)：精力的に、元気よく
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/word/efficiently/)：効率的に
-- [regularly](/word/regularly/)：定期的に
+- [efficiently](/efficiently)：効率的に
+- [regularly](/regularly)：定期的に
 
-<!-- cvid: aid33_bid08 -->
+<!-- cvid: aid17_bid31 -->

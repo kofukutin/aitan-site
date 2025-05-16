@@ -81,15 +81,19 @@ TOEICでは「other」「another」「the other」などの使い分けを問う
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「other」「another」「the other」などの使い分けを問う
 ## 🤔  another との違いは？
 
 - **other**：他の（複数や不特定のもの・人に使う）
-- **[another](/word/another/)**：もう1つの、もう1人の（同じ種類の中で追加や別の1つを指す）
+- **[another](/another)**：もう1つの、もう1人の（同じ種類の中で追加や別の1つを指す）
 
 「other」は複数や不特定のものに、「another」は同じ種類の中で追加の1つに使います。
 
@@ -105,14 +109,14 @@ TOEICでは「other」「another」「the other」などの使い分けを問う
 
 ## 🧩 あわせて覚えたい
 
-- [different](/word/different/)：異なる、違う
-- [else](/word/else/)：他に、他の
+- [different](/different)：異なる、違う
+- [else](/else)：他に、他の
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each/)：それぞれの
-- [every](/word/every/)：すべての
+- [each](/each)：それぞれの
+- [every](/every)：すべての
 
-<!-- cvid: aid28_bid46 -->
+<!-- cvid: aid03_bid04 -->

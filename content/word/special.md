@@ -81,7 +81,7 @@ TOEICでは「特別な割引」「特別なイベント」など、広告や案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+知識を定着させよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは「特別な割引」「特別なイベント」など、広告や案
 
 <div class="info-center">
 ＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「特別な割引」「特別なイベント」など、広告や案
 ## 🤔  unique との違いは？
 
 - **special**：他と比べて特別・重要・珍しいと感じるもの
-- **[unique](/word/unique/)**：唯一無二で他に全く同じものがない
+- **[unique](/unique)**：唯一無二で他に全く同じものがない
 
 「special」は「特別な日」「特別なサービス」など、他と違って価値がある場合に使いますが、「unique」は「世界に一つだけ」「全く同じものが存在しない」場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「特別な割引」「特別なイベント」など、広告や案
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/word/ordinary/)：普通の、平凡な
-- [specific](/word/specific/)：特定の、明確な
+- [ordinary](/ordinary)：普通の、平凡な
+- [specific](/specific)：特定の、明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [particular](/word/particular/)：特定の、特有の
-- [general](/word/general/)：一般的な、全体の
+- [particular](/particular)：特定の、特有の
+- [general](/general)：一般的な、全体の
 
-<!-- cvid: aid05_bid29 -->
+<!-- cvid: aid10_bid29 -->

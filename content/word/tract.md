@@ -81,15 +81,19 @@ The company purchased a large tract of land for the new factory.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid44_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company purchased a large tract of land for the new factory.
 ## 🤔  region との違いは？
 
 - **tract**：広い土地の一区画や体内の器官系・管を指すフォーマルな語
-- **[region](/word/region/)**：地理的・行政的な「地域」「領域」を幅広く指す一般的な語
+- **[region](/region)**：地理的・行政的な「地域」「領域」を幅広く指す一般的な語
 
 tractは「まとまった広い土地」や「体内の管状部分」に限定され、regionは「地域」全般に使われます。
 
@@ -105,14 +109,14 @@ tractは「まとまった広い土地」や「体内の管状部分」に限定
 
 ## 🧩 あわせて覚えたい
 
-- [organ](/word/organ/)：器官、臓器
-- [system](/word/system/)：体系、系統
+- [organ](/organ)：器官、臓器
+- [system](/system)：体系、系統
 
 ---
 
 ## 📖 できればこれも
 
-- [tissue](/word/tissue/)：組織（生物学的な）
-- [section](/word/section/)：区分、部分
+- [tissue](/tissue)：組織（生物学的な）
+- [section](/section)：区分、部分
 
-<!-- cvid: aid21_bid00 -->
+<!-- cvid: aid44_bid05 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、科学・研究関連の文脈で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、科学・研究関連の文脈で登
 ## 🤔  rat との違いは？
 
 - **mice**：小型のネズミ全般（mouseの複数形）、主に家ネズミや実験用など
-- **[rat](/word/rat/)**：大型のネズミ、ドブネズミなど
+- **[rat](/rat)**：大型のネズミ、ドブネズミなど
 
 miceは小さくて可愛らしいネズミを指すことが多く、ratは大きくて野生的なネズミを指します。
 
@@ -105,14 +109,14 @@ miceは小さくて可愛らしいネズミを指すことが多く、ratは大�
 
 ## 🧩 あわせて覚えたい
 
-- [mouse](/word/mouse/)：ネズミ、マウス（単数形）
-- [hamster](/word/hamster/)：ハムスター（小型のげっ歯類）
+- [mouse](/mouse)：ネズミ、マウス（単数形）
+- [hamster](/hamster)：ハムスター（小型のげっ歯類）
 
 ---
 
 ## 📖 できればこれも
 
-- [cat](/word/cat/)：ネコ
-- [rabbit](/word/rabbit/)：ウサギ
+- [cat](/cat)：ネコ
+- [rabbit](/rabbit)：ウサギ
 
-<!-- cvid: aid04_bid30 -->
+<!-- cvid: aid43_bid01 -->

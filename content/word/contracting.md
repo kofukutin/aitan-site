@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や契約関連の長文で登場し、建設
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や契約関連の長文で登場し、建設
 ## 🤔  construction との違いは？
 
 - **contracting**：契約すること、請負うこと、または請負業そのもの
-- **[construction](/word/construction/)**：建設、建築という「物理的な作業」や「建物そのもの」
+- **[construction](/construction)**：建設、建築という「物理的な作業」や「建物そのもの」
 
 contractingは「契約」や「請負業務」に焦点があり、constructionは「建設作業」や「建物」に焦点があります。
 
@@ -105,14 +109,14 @@ contractingは「契約」や「請負業務」に焦点があり、construction
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/word/expand/)：拡大する、広げる
-- [agreement](/word/agreement/)：合意、契約
+- [expand](/expand)：拡大する、広げる
+- [agreement](/agreement)：合意、契約
 
 ---
 
 ## 📖 できればこれも
 
-- [negotiate](/word/negotiate/)：交渉する
-- [sign](/word/sign/)：署名する、契約する
+- [negotiate](/negotiate)：交渉する
+- [sign](/sign)：署名する、契約する
 
-<!-- cvid: aid05_bid46 -->
+<!-- cvid: aid19_bid20 -->

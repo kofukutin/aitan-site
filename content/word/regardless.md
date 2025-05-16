@@ -78,15 +78,19 @@ TOEICでは文法や語彙問題で「〜に関係なく」という意味を問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは文法や語彙問題で「〜に関係なく」という意味を問
 ## 🤔  nevertheless との違いは？
 
 - **regardless**：「〜に関係なく」「〜を無視して」という意味で、条件や状況を気にせず行動するニュアンス。
-- **[nevertheless](/word/nevertheless/)**：「それにもかかわらず」という意味で、前の内容を受けて逆接的に話を進めるときに使う。
+- **[nevertheless](/nevertheless)**：「それにもかかわらず」という意味で、前の内容を受けて逆接的に話を進めるときに使う。
 
 regardlessは「条件を無視する」感覚、neverthelessは「逆の結果が起きた」ことを強調する違いがあります。
 
@@ -102,14 +106,14 @@ regardlessは「条件を無視する」感覚、neverthelessは「逆の結果�
 
 ## 🧩 あわせて覚えたい
 
-- [despite](/word/despite/)：〜にもかかわらず
-- [however](/word/however/)：しかしながら
+- [despite](/despite)：〜にもかかわらず
+- [however](/however)：しかしながら
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [consequently](/word/consequently/)：その結果として
+- [therefore](/therefore)：それゆえに
+- [consequently](/consequently)：その結果として
 
-<!-- cvid: aid04_bid27 -->
+<!-- cvid: aid05_bid19 -->

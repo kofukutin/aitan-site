@@ -81,15 +81,19 @@ TOEICでは主に科学や技術、ビジネス文書の説明文やマニュア
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学や技術、ビジネス文書の説明文やマニュア
 ## 🤔  equipment との違いは？
 
 - **apparatus**：特定の目的や機能のための装置や器具、または組織の仕組みを指し、ややフォーマルで専門的な場面で使われる。
-- **[equipment](/word/equipment/)**：一般的な「機器・装備一式」を指し、日常的・広範囲に使われる。
+- **[equipment](/equipment)**：一般的な「機器・装備一式」を指し、日常的・広範囲に使われる。
 
 apparatusは科学や医療など専門的な分野で使われることが多く、equipmentはより広い意味で日常的に使われます。
 
@@ -105,14 +109,14 @@ apparatusは科学や医療など専門的な分野で使われることが多�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [instrument](/word/instrument/)：器具、計器
+- [device](/device)：装置、機器
+- [instrument](/instrument)：器具、計器
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：施設、設備
-- [tool](/word/tool/)：道具、工具
+- [facility](/facility)：施設、設備
+- [tool](/tool)：道具、工具
 
-<!-- cvid: aid01_bid03 -->
+<!-- cvid: aid34_bid07 -->

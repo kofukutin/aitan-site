@@ -81,15 +81,19 @@ TOEICでは、プレゼンやイベント紹介などで「注目」「脚光」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、プレゼンやイベント紹介などで「注目」「脚光」
 ## 🤔  highlight との違いは？
 
 - **spotlight**：注目や脚光そのもの、またはスポットライトの光
-- **[highlight](/word/highlight/)**：最も重要な部分、強調点
+- **[highlight](/highlight)**：最も重要な部分、強調点
 
 **spotlight**は「注目される状態」や「光を当てること」を指し、**highlight**は「最も目立つ部分」や「強調点」を意味します。場面によって使い分けましょう。
 
@@ -105,14 +109,14 @@ TOEICでは、プレゼンやイベント紹介などで「注目」「脚光」
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/word/focus/)：焦点、集中
-- [attention](/word/attention/)：注意、注目
+- [focus](/focus)：焦点、集中
+- [attention](/attention)：注意、注目
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、プレゼンテーション
-- [feature](/word/feature/)：特徴、特集
+- [presentation](/presentation)：発表、プレゼンテーション
+- [feature](/feature)：特徴、特集
 
-<!-- cvid: aid20_bid37 -->
+<!-- cvid: aid15_bid44 -->

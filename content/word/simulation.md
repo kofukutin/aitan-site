@@ -81,15 +81,19 @@ simulationはITやビジネスの文脈で、説明文や事例紹介の中で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ simulationはITやビジネスの文脈で、説明文や事例紹介の中で�
 ## 🤔  imitation との違いは？
 
 - **simulation**：現実の状況やシステムを再現・模擬すること
-- **[imitation](/word/imitation/)**：外見や動作などをまねること、模倣
+- **[imitation](/imitation)**：外見や動作などをまねること、模倣
 
 simulationは仕組みやプロセス全体を再現するニュアンスがあり、imitationは見た目や行動を単純にまねる場合に使います。
 
@@ -105,14 +109,14 @@ simulationは仕組みやプロセス全体を再現するニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/word/model/)：模型、モデル
-- [replica](/word/replica/)：複製、レプリカ
+- [model](/model)：模型、モデル
+- [replica](/replica)：複製、レプリカ
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [experiment](/word/experiment/)：実験
+- [analysis](/analysis)：分析
+- [experiment](/experiment)：実験
 
-<!-- cvid: aid37_bid09 -->
+<!-- cvid: aid11_bid03 -->

@@ -81,15 +81,19 @@ TOEICではレストランやカフェの会話、メニュー説明などで登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランやカフェの会話、メニュー説明などで登
 ## 🤔  sweet との違いは？
 
 - **dessert**：食事の最後に出される甘い料理や果物
-- **[sweet](/word/sweet/)**：甘いもの全般や「甘い」という形容詞
+- **[sweet](/sweet)**：甘いもの全般や「甘い」という形容詞
 
 dessertは「食後のデザート」という特定の場面で使い、sweetは「甘いもの」や「甘い味」を広く指します。
 
@@ -105,13 +109,13 @@ dessertは「食後のデザート」という特定の場面で使い、sweet�
 
 ## 🧩 あわせて覚えたい
 
-- [main_course](/word/main_course/)：メインディッシュ、主菜
-- [snack](/word/snack/)：軽食、おやつ
+- [main_course](/main_course)：メインディッシュ、主菜
+- [snack](/snack)：軽食、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [beverage](/word/beverage/)：飲み物
-- [dish](/word/dish/)：料理、皿
-<!-- cvid: aid40_bid20 -->
+- [beverage](/beverage)：飲み物
+- [dish](/dish)：料理、皿
+<!-- cvid: aid44_bid07 -->

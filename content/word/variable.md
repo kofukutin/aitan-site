@@ -81,15 +81,19 @@ TOEICではITや科学分野の説明文、仕様書などで「variable」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや科学分野の説明文、仕様書などで「variable」が�
 ## 🤔  parameter との違いは？
 
 - **variable**：値が変化する要素や変数そのもの
-- **[parameter](/word/parameter/)**：関数やシステムの「設定値」「引数」など、操作や条件を指定する値
+- **[parameter](/parameter)**：関数やシステムの「設定値」「引数」など、操作や条件を指定する値
 
 variableは「変化するもの」自体を指し、parameterは「操作や関数に与える条件や設定値」を指します。
 
@@ -105,14 +109,14 @@ variableは「変化するもの」自体を指し、parameterは「操作や関
 
 ## 🧩 あわせて覚えたい
 
-- [constant](/word/constant/)：定数、変わらない値
-- [factor](/word/factor/)：要因、要素
+- [constant](/constant)：定数、変わらない値
+- [factor](/factor)：要因、要素
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function/)：関数、機能
-- [value](/word/value/)：値
+- [function](/function)：関数、機能
+- [value](/value)：値
 
-<!-- cvid: aid16_bid49 -->
+<!-- cvid: aid17_bid34 -->

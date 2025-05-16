@@ -81,15 +81,19 @@ TOEICでは、価格や数量の変化、割引、コスト削減などの文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、価格や数量の変化、割引、コスト削減などの文脈
 ## 🤔  decreased との違いは？
 
 - **reduced**：通常よりも減らされた、特に価格や数量が下がったことを強調
-- **[decreased](/word/decreased/)**：単に「減少した」という事実を表す
+- **[decreased](/decreased)**：単に「減少した」という事実を表す
 
 「reduced」は意図的な削減や割引など、何かの働きかけで減った場合によく使われますが、「decreased」は自然な減少や変化を表すときに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、価格や数量の変化、割引、コスト削減などの文脈
 
 ## 🧩 あわせて覚えたい
 
-- [discount](/word/discount/)：割引
-- [lower](/word/lower/)：下げる、より低い
+- [discount](/discount)：割引
+- [lower](/lower)：下げる、より低い
 
 ---
 
 ## 📖 できればこれも
 
-- [limited](/word/limited/)：限定された
-- [available](/word/available/)：利用できる
+- [limited](/limited)：限定された
+- [available](/available)：利用できる
 
-<!-- cvid: aid22_bid18 -->
+<!-- cvid: aid33_bid17 -->

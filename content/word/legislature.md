@@ -81,15 +81,19 @@ legislatureはTOEICの長文読解（Part 7）で、法務や政治に関する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ legislatureはTOEICの長文読解（Part 7）で、法務や政治に関する�
 ## 🤔  parliament との違いは？
 
 - **legislature**：法律を制定する機関全般を指し、国や州レベルなど幅広く使われる。
-- **[parliament](/word/parliament/)**：特にイギリスやカナダなどの「議会」を指し、固有名詞的な使い方が多い。
+- **[parliament](/parliament)**：特にイギリスやカナダなどの「議会」を指し、固有名詞的な使い方が多い。
 
 legislatureは一般的な「立法機関」を指し、parliamentは特定の国の議会を指す場合が多いです。
 
@@ -105,14 +109,14 @@ legislatureは一般的な「立法機関」を指し、parliamentは特定の�
 
 ## 🧩 あわせて覚えたい
 
-- [congress](/word/congress/)：（米国などの）議会
-- [statute](/word/statute/)：制定法、法律
+- [congress](/congress)：（米国などの）議会
+- [statute](/statute)：制定法、法律
 
 ---
 
 ## 📖 できればこれも
 
-- [amendment](/word/amendment/)：修正、改正
-- [enact](/word/enact/)：制定する
+- [amendment](/amendment)：修正、改正
+- [enact](/enact)：制定する
 
-<!-- cvid: aid17_bid27 -->
+<!-- cvid: aid48_bid42 -->

@@ -80,15 +80,19 @@ TOEICでは契約書やビジネスメール、報告書などで「情報開示
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは契約書やビジネスメール、報告書などで「情報開示
 ## 🤔  reveal との違いは？
 
 - **disclose**：公式・フォーマルな場面で「隠されていた情報を開示する」ニュアンス
-- **[reveal](/word/reveal/)**：一般的に「明らかにする」「見せる」幅広い場面で使う
+- **[reveal](/reveal)**：一般的に「明らかにする」「見せる」幅広い場面で使う
 
 discloseは特にビジネスや法的な文脈で使われ、revealは日常的な「見せる・明かす」にも使えます。
 
@@ -104,14 +108,14 @@ discloseは特にビジネスや法的な文脈で使われ、revealは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [conceal](/word/conceal/)：隠す、秘密にする
-- [announce](/word/announce/)：発表する、公表する
+- [conceal](/conceal)：隠す、秘密にする
+- [announce](/announce)：発表する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [expose](/word/expose/)：さらす、暴露する
-- [inform](/word/inform/)：知らせる、通知する
+- [expose](/expose)：さらす、暴露する
+- [inform](/inform)：知らせる、通知する
 
-<!-- cvid: aid31_bid01 -->
+<!-- cvid: aid36_bid18 -->

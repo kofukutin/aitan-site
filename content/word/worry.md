@@ -81,15 +81,19 @@ TOEICでは会話やメール文で「心配しないでください」「ご心
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やメール文で「心配しないでください」「ご心
 ## 🤔  concern との違いは？
 
 - **worry**：強い不安や心配を感じること
-- **[concern](/word/concern/)**：ややフォーマルで、気にかける・関心を持つニュアンス
+- **[concern](/concern)**：ややフォーマルで、気にかける・関心を持つニュアンス
 
 worryは感情的な不安や心配を表し、concernはもう少し冷静に「気にかける」「関心がある」という意味で使われます。
 
@@ -105,14 +109,14 @@ worryは感情的な不安や心配を表し、concernはもう少し冷静に�
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety/)：不安、心配（名詞）
-- [relieve](/word/relieve/)：安心させる、和らげる（動詞）
+- [anxiety](/anxiety)：不安、心配（名詞）
+- [relieve](/relieve)：安心させる、和らげる（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress/)：ストレス、緊張（名詞）
-- [fear](/word/fear/)：恐れ、恐怖（名詞）
+- [stress](/stress)：ストレス、緊張（名詞）
+- [fear](/fear)：恐れ、恐怖（名詞）
 
-<!-- cvid: aid08_bid41 -->
+<!-- cvid: aid44_bid26 -->

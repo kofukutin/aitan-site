@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【hungry】の意味・使い方・例文 ― starvingとの違い【TOEIC英単語】"
 description: "hungryの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでstarvingとの違いもわかりやすく学べます。"
 word: "hungry"
@@ -88,8 +88,12 @@ TOEICではPart 1の写真描写や、日常的な会話文で「空腹」を表
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid31_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写や、日常的な会話文で「空腹」を表
 ## 🤔  starving との違いは？
 
 - **hungry**：お腹がすいている、空腹の（一般的な空腹）
-- **[starving](/word/starving/)**：飢えている、非常にお腹がすいている（強い空腹）
+- **[starving](/starving)**：飢えている、非常にお腹がすいている（強い空腹）
 
 hungryは日常的な「お腹がすいた」ですが、starvingは「死にそうなくらいお腹がすいた」と強調したいときに使います。
 
@@ -105,14 +109,14 @@ hungryは日常的な「お腹がすいた」ですが、starvingは「死にそ
 
 ## 🧩 あわせて覚えたい
 
-- [thirsty](/word/thirsty/)：のどが渇いた
-- [full](/word/full/)：お腹がいっぱいの
+- [thirsty](/thirsty)：のどが渇いた
+- [full](/full)：お腹がいっぱいの
 
 ---
 
 ## 📖 できればこれも
 
-- [tired](/word/tired/)：疲れた
-- [sleepy](/word/sleepy/)：眠い
+- [tired](/tired)：疲れた
+- [sleepy](/sleepy)：眠い
 
-<!-- cvid: aid31_bid23 -->
+<!-- cvid: aid31_bid26 -->

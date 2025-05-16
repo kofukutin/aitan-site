@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【father】の意味・使い方・例文 ― parentとの違い【TOEIC英単語】"
 description: "fatherの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでparentとの違いもわかりやすく学べます。"
 word: "father"
@@ -81,15 +81,19 @@ TOEICでは家族や人物を描写する写真問題でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは家族や人物を描写する写真問題でよく登場します。
 ## 🤔  parent との違いは？
 
 - **father**：家族の中で「父親」という男性の親を指す。
-- **[parent](/word/parent/)**：父母どちらか、または両方の「親」を指すより広い言い方。
+- **[parent](/parent)**：父母どちらか、または両方の「親」を指すより広い言い方。
 
 fatherは男性の親を限定的に指し、parentは性別を問わず親全体を指します。
 
@@ -105,14 +109,14 @@ fatherは男性の親を限定的に指し、parentは性別を問わず親全�
 
 ## 🧩 あわせて覚えたい
 
-- [mother](/word/mother/)：母、母親
-- [son](/word/son/)：息子
+- [mother](/mother)：母、母親
+- [son](/son)：息子
 
 ---
 
 ## 📖 できればこれも
 
-- [brother](/word/brother/)：兄、弟
-- [family](/word/family/)：家族
+- [brother](/brother)：兄、弟
+- [family](/family)：家族
 
-<!-- cvid: aid22_bid32 -->
+<!-- cvid: aid39_bid17 -->

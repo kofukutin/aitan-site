@@ -81,15 +81,19 @@ TOEICでは、形容詞として「positive attitude（前向きな態度）」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「positive attitude（前向きな態度）」�
 ## 🤔  optimistic との違いは？
 
 - **positive**：現実的な状況でも前向き・肯定的な態度や考え方を表す
-- **[optimistic](/word/optimistic/)**：将来や結果が良くなると楽観的に期待する気持ちを表す
+- **[optimistic](/optimistic)**：将来や結果が良くなると楽観的に期待する気持ちを表す
 
 **positive**は「前向き」「肯定的」で、現状を受け入れつつ良い面を見ようとする姿勢、**optimistic**は「楽観的」で、将来がうまくいくと信じる気持ちに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「positive attitude（前向きな態度）」�
 
 ## 🧩 あわせて覚えたい
 
-- [negative](/word/negative/)：否定的な、消極的な
-- [constructive](/word/constructive/)：建設的な、前向きな
+- [negative](/negative)：否定的な、消極的な
+- [constructive](/constructive)：建設的な、前向きな
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/word/active/)：積極的な、活動的な
-- [confident](/word/confident/)：自信がある
+- [active](/active)：積極的な、活動的な
+- [confident](/confident)：自信がある
 
-<!-- cvid: aid20_bid31 -->
+<!-- cvid: aid09_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは、環境や状況描写、比喩表現の中で「暗闇」や「暗
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境や状況描写、比喩表現の中で「暗闇」や「暗
 ## 🤔  shadow との違いは？
 
 - **darkness**：光がない状態そのものや、全体的な「暗闇」を指す。
-- **[shadow](/word/shadow/)**：物体が光を遮ることでできる「影」を指す。
+- **[shadow](/shadow)**：物体が光を遮ることでできる「影」を指す。
 
 「darkness」は空間全体の暗さや抽象的な暗闇を表し、「shadow」は物体によってできる部分的な影を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、環境や状況描写、比喩表現の中で「暗闇」や「暗
 
 ## 🧩 あわせて覚えたい
 
-- [light](/word/light/)：光、明るさ
-- [gloom](/word/gloom/)：薄暗がり、憂うつ
+- [light](/light)：光、明るさ
+- [gloom](/gloom)：薄暗がり、憂うつ
 
 ---
 
 ## 📖 できればこれも
 
-- [night](/word/night/)：夜
-- [silence](/word/silence/)：静けさ
+- [night](/night)：夜
+- [silence](/silence)：静けさ
 
-<!-- cvid: aid41_bid11 -->
+<!-- cvid: aid05_bid24 -->

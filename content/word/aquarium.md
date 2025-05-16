@@ -81,15 +81,19 @@ The new aquarium exhibit will open next month.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The new aquarium exhibit will open next month.
 ## 🤔  zoo との違いは？
 
 - **aquarium**：水生生物を中心に展示する施設や水槽
-- **[zoo](/word/zoo/)**：主に陸上動物を展示する動物園
+- **[zoo](/zoo)**：主に陸上動物を展示する動物園
 
 aquariumは魚や水中の生き物、zooは陸上や空の動物を展示する施設で、展示される生物の種類が異なります。
 
@@ -105,14 +109,14 @@ aquariumは魚や水中の生き物、zooは陸上や空の動物を展示する
 
 ## 🧩 あわせて覚えたい
 
-- [tank](/word/tank/)：水槽
-- [exhibit](/word/exhibit/)：展示、展示物
+- [tank](/tank)：水槽
+- [exhibit](/exhibit)：展示、展示物
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum/)：博物館
-- [gallery](/word/gallery/)：美術館、ギャラリー
+- [museum](/museum)：博物館
+- [gallery](/gallery)：美術館、ギャラリー
 
-<!-- cvid: aid16_bid31 -->
+<!-- cvid: aid21_bid00 -->

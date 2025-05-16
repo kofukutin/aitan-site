@@ -81,15 +81,19 @@ TOEICでは文学や出版、文化に関する長文でまれに登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文学や出版、文化に関する長文でまれに登場します
 ## 🤔  pornography との違いは？
 
 - **erotica**：芸術性や文学性を重視した性愛表現や作品
-- **[pornography](/word/pornography/)**：露骨で商業的な性的表現や作品
+- **[pornography](/pornography)**：露骨で商業的な性的表現や作品
 
 eroticaは芸術や文学の文脈で使われ、pornographyはより直接的・刺激的な性的表現を指します。
 
@@ -105,14 +109,14 @@ eroticaは芸術や文学の文脈で使われ、pornographyはより直接的�
 
 ## 🧩 あわせて覚えたい
 
-- [romance](/word/romance/)：恋愛小説、ロマンス
-- [sensuality](/word/sensuality/)：官能性、感覚的な魅力
+- [romance](/romance)：恋愛小説、ロマンス
+- [sensuality](/sensuality)：官能性、感覚的な魅力
 
 ---
 
 ## 📖 できればこれも
 
-- [literature](/word/literature/)：文学
-- [novel](/word/novel/)：小説
+- [literature](/literature)：文学
+- [novel](/novel)：小説
 
-<!-- cvid: aid48_bid40 -->
+<!-- cvid: aid36_bid24 -->

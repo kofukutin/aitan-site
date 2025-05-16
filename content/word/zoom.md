@@ -81,15 +81,19 @@ ITやビジネスシーンでの「画面を拡大する」「ズームする」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスシーンでの「画面を拡大する」「ズームする」
 ## 🤔  enlarge との違いは？
 
 - **zoom**：カメラや画面などで部分的に拡大する、または急に動くニュアンス
-- **[enlarge](/word/enlarge/)**：物理的・全体的に大きくする、拡大する
+- **[enlarge](/enlarge)**：物理的・全体的に大きくする、拡大する
 
 zoomは主にデジタルや映像の一部を拡大する時に使い、enlargeは物や画像全体を大きくする時に使います。
 
@@ -105,14 +109,14 @@ zoomは主にデジタルや映像の一部を拡大する時に使い、enlarge
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/word/focus/)：焦点を合わせる
-- [magnify](/word/magnify/)：拡大する（詳細や大きさを強調）
+- [focus](/focus)：焦点を合わせる
+- [magnify](/magnify)：拡大する（詳細や大きさを強調）
 
 ---
 
 ## 📖 できればこれも
 
-- [click](/word/click/)：クリックする
-- [scroll](/word/scroll/)：スクロールする
+- [click](/click)：クリックする
+- [scroll](/scroll)：スクロールする
 
-<!-- cvid: aid07_bid36 -->
+<!-- cvid: aid35_bid04 -->

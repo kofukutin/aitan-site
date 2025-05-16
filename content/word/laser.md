@@ -81,15 +81,19 @@ TOEICでは、技術や製品の説明文、特に科学や工業分野の長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、技術や製品の説明文、特に科学や工業分野の長文
 ## 🤔  ray との違いは？
 
 - **laser**：人工的に作られた強い光線やその装置を指す
-- **[ray](/word/ray/)**：自然界の光線や放射線など、広く「線状の光」を指す
+- **[ray](/ray)**：自然界の光線や放射線など、広く「線状の光」を指す
 
 laserは特定の技術で作られる光線や装置を指し、rayは太陽光線やX線など自然・人工問わず幅広い「光線」を表します。
 
@@ -105,14 +109,14 @@ laserは特定の技術で作られる光線や装置を指し、rayは太陽光
 
 ## 🧩 あわせて覚えたい
 
-- [beam](/word/beam/)：（光やエネルギーの）束、ビーム
-- [device](/word/device/)：装置、機器
+- [beam](/beam)：（光やエネルギーの）束、ビーム
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [sensor](/word/sensor/)：センサー、感知器
-- [signal](/word/signal/)：信号、合図
+- [sensor](/sensor)：センサー、感知器
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid44_bid36 -->
+<!-- cvid: aid06_bid32 -->

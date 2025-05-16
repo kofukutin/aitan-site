@@ -81,15 +81,19 @@ plainはTOEICの語彙問題で「明白な」「飾り気のない」という�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ plainはTOEICの語彙問題で「明白な」「飾り気のない」という�
 ## 🤔  simple との違いは？
 
 - **plain**：飾り気がなく、地味でわかりやすいことを強調
-- **[simple](/word/simple/)**：構造や内容が複雑でなく、理解しやすいことを強調
+- **[simple](/simple)**：構造や内容が複雑でなく、理解しやすいことを強調
 
 plainは「見た目や表現が地味・質素」であることに重点があり、simpleは「複雑でない」ことに重点があります。
 
@@ -105,14 +109,14 @@ plainは「見た目や表現が地味・質素」であることに重点があ
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/word/obvious/)：明らかな
-- [clear](/word/clear/)：はっきりした
+- [obvious](/obvious)：明らかな
+- [clear](/clear)：はっきりした
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/word/basic/)：基本的な
-- [ordinary](/word/ordinary/)：普通の
+- [basic](/basic)：基本的な
+- [ordinary](/ordinary)：普通の
 
-<!-- cvid: aid21_bid31 -->
+<!-- cvid: aid44_bid39 -->

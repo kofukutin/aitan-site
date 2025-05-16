@@ -81,15 +81,19 @@ retrievalはITやビジネス文書の中で、データや情報の「検索」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid43_bid36" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid36" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ retrievalはITやビジネス文書の中で、データや情報の「検索」
 ## 🤔  recovery との違いは？
 
 - **retrieval**：主に情報や物を「検索・取り出す」ことに焦点
-- **[recovery](/word/recovery/)**：失ったものを「回復・復旧」することに焦点
+- **[recovery](/recovery)**：失ったものを「回復・復旧」することに焦点
 
 retrievalは「探して取り出す」ニュアンス、recoveryは「失ったものを元に戻す」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ retrievalは「探して取り出す」ニュアンス、recoveryは「失った
 
 ## 🧩 あわせて覚えたい
 
-- [extraction](/word/extraction/)：抽出、取り出し
-- [access](/word/access/)：アクセス、接近
+- [extraction](/extraction)：抽出、取り出し
+- [access](/access)：アクセス、接近
 
 ---
 
 ## 📖 できればこれも
 
-- [archive](/word/archive/)：保管、アーカイブ
-- [storage](/word/storage/)：保存、保管
+- [archive](/archive)：保管、アーカイブ
+- [storage](/storage)：保存、保管
 
-<!-- cvid: aid17_bid14 -->
+<!-- cvid: aid43_bid36 -->

@@ -81,15 +81,19 @@ TOEICでは広告文やビジネス関連の長文で頻出します。広告活
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告文やビジネス関連の長文で頻出します。広告活
 ## 🤔  advertisement との違いは？
 
 - **advertising**：広告活動や広告業界全体を指す（不可算名詞）
-- **[advertisement](/word/advertisement/)**：個々の広告（広告物）を指す（可算名詞）
+- **[advertisement](/advertisement)**：個々の広告（広告物）を指す（可算名詞）
 
 advertisingは「広告活動」や「広告業界」といった広い意味、advertisementは「1つ1つの広告物」を指します。
 
@@ -105,14 +109,14 @@ advertisingは「広告活動」や「広告業界」といった広い意味、
 
 ## 🧩 あわせて覚えたい
 
-- [promotion](/word/promotion/)：販促活動、販売促進
-- [publicity](/word/publicity/)：宣伝、知名度
+- [promotion](/promotion)：販促活動、販売促進
+- [publicity](/publicity)：宣伝、知名度
 
 ---
 
 ## 📖 できればこれも
 
-- [marketing](/word/marketing/)：マーケティング、販売戦略
-- [campaign](/word/campaign/)：キャンペーン、運動
+- [marketing](/marketing)：マーケティング、販売戦略
+- [campaign](/campaign)：キャンペーン、運動
 
-<!-- cvid: aid11_bid18 -->
+<!-- cvid: aid19_bid44 -->

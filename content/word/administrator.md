@@ -81,15 +81,19 @@ TOEICでは、会社や団体の役職名や担当者を説明する文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や団体の役職名や担当者を説明する文脈でよ
 ## 🤔  manager との違いは？
 
 - **administrator**：主に事務的・運営的な管理を担当する人
-- **[manager](/word/manager/)**：人やチーム、業務全体を統括・指導する責任者
+- **[manager](/manager)**：人やチーム、業務全体を統括・指導する責任者
 
 administratorは運営や手続きの管理に重点があり、managerは人や業務の統括・指導に重点があります。
 
@@ -105,14 +109,14 @@ administratorは運営や手続きの管理に重点があり、managerは人や
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/word/executive/)：経営幹部、重役
-- [supervisor](/word/supervisor/)：監督者、指導者
+- [executive](/executive)：経営幹部、重役
+- [supervisor](/supervisor)：監督者、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [director](/word/director/)：取締役、部長
-- [officer](/word/officer/)：役員、担当者
+- [director](/director)：取締役、部長
+- [officer](/officer)：役員、担当者
 
-<!-- cvid: aid23_bid03 -->
+<!-- cvid: aid30_bid08 -->

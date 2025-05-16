@@ -81,15 +81,19 @@ TOEICでは、職務や役割分担、義務に関する文脈で頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職務や役割分担、義務に関する文脈で頻出します
 ## 🤔  duty との違いは？
 
 - **responsibility**：自分が果たすべき責任や役割、義務を強調
-- **[duty](/word/duty/)**：社会的・職業的に課せられた義務や任務を強調
+- **[duty](/duty)**：社会的・職業的に課せられた義務や任務を強調
 
 responsibilityは個人の役割や自覚に基づく責任、dutyは外部から与えられる義務や任務という違いがあります。
 
@@ -105,14 +109,14 @@ responsibilityは個人の役割や自覚に基づく責任、dutyは外部か�
 
 ## 🧩 あわせて覚えたい
 
-- [obligation](/word/obligation/)：義務、責務
-- [authority](/word/authority/)：権限、権威
+- [obligation](/obligation)：義務、責務
+- [authority](/authority)：権限、権威
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement/)：必要条件、要件
-- [assignment](/word/assignment/)：任務、課題
+- [requirement](/requirement)：必要条件、要件
+- [assignment](/assignment)：任務、課題
 
-<!-- cvid: aid46_bid03 -->
+<!-- cvid: aid28_bid31 -->

@@ -81,15 +81,19 @@ TOEICではITやビジネスの会話で「ネットワークにつながって�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの会話で「ネットワークにつながって�
 ## 🤔  related との違いは？
 
 - **connected**：物理的・論理的につながっている、直接的な結びつきがある
-- **[related](/word/related/)**：関係があるが、必ずしも直接つながっているとは限らない
+- **[related](/related)**：関係があるが、必ずしも直接つながっているとは限らない
 
 connectedは「直接つながっている」イメージ、relatedは「何らかの関係がある」イメージです。
 
@@ -105,14 +109,14 @@ connectedは「直接つながっている」イメージ、relatedは「何ら�
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate/)：分かれている、別々の
-- [attached](/word/attached/)：取り付けられた、付属の
+- [separate](/separate)：分かれている、別々の
+- [attached](/attached)：取り付けられた、付属の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる、手に入る
-- [active](/word/active/)：活動している、作動中の
+- [available](/available)：利用できる、手に入る
+- [active](/active)：活動している、作動中の
 
-<!-- cvid: aid01_bid11 -->
+<!-- cvid: aid35_bid17 -->

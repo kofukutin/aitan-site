@@ -81,15 +81,19 @@ TOEICでは、enlargementは主にビジネスや施設の拡張、写真の拡�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、enlargementは主にビジネスや施設の拡張、写真の拡�
 ## 🤔  expansion との違いは？
 
 - **enlargement**：物理的・具体的な「拡大」「拡張」によく使われる。
-- **[expansion](/word/expansion/)**：範囲や規模の「拡大」「発展」など、より抽象的・広範囲な成長にも使われる。
+- **[expansion](/expansion)**：範囲や規模の「拡大」「発展」など、より抽象的・広範囲な成長にも使われる。
 
 enlargementは目に見える大きさの変化に、expansionは事業や市場など抽象的な広がりにも使われる点が異なります。
 
@@ -105,14 +109,14 @@ enlargementは目に見える大きさの変化に、expansionは事業や市場
 
 ## 🧩 あわせて覚えたい
 
-- [reduction](/word/reduction/)：縮小、削減
-- [extension](/word/extension/)：延長、拡張
+- [reduction](/reduction)：縮小、削減
+- [extension](/extension)：延長、拡張
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増加
-- [growth](/word/growth/)：成長、発展
+- [increase](/increase)：増加
+- [growth](/growth)：成長、発展
 
-<!-- cvid: aid11_bid28 -->
+<!-- cvid: aid22_bid38 -->

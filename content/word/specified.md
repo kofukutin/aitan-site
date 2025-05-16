@@ -81,7 +81,7 @@ TOEICでは契約や手順、条件を説明する文脈で「specified」がよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは契約や手順、条件を説明する文脈で「specified」がよ
 
 <div class="info-center">
 ＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や手順、条件を説明する文脈で「specified」がよ
 ## 🤔  designated との違いは？
 
 - **specified**：明確に指定・明記された（書面や説明でよく使う）
-- **[designated](/word/designated/)**：公式に指名・指定された（役割や場所などに使う）
+- **[designated](/designated)**：公式に指名・指定された（役割や場所などに使う）
 
 「specified」は書類や条件などで「明記された」ことを強調し、「designated」は役割や場所などを「公式に割り当てられた」場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは契約や手順、条件を説明する文脈で「specified」がよ
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general/)：一般的な、全体的な
-- [detailed](/word/detailed/)：詳細な
+- [general](/general)：一般的な、全体的な
+- [detailed](/detailed)：詳細な
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/word/required/)：必要とされる、必須の
-- [stated](/word/stated/)：述べられた、明記された
+- [required](/required)：必要とされる、必須の
+- [stated](/stated)：述べられた、明記された
 
-<!-- cvid: aid17_bid30 -->
+<!-- cvid: aid43_bid30 -->

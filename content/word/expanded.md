@@ -81,15 +81,19 @@ TOEICでは、形容詞として「expanded team」「expanded services」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「expanded team」「expanded services」など
 ## 🤔  extended との違いは？
 
 - **expanded**：もともとあったものが範囲や規模を広げて「拡大した」状態
-- **[extended](/word/extended/)**：時間や長さ、期間などが「延長された」状態
+- **[extended](/extended)**：時間や長さ、期間などが「延長された」状態
 
 expandedは「広がる・大きくなる」イメージ、extendedは「長くなる・延びる」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ expandedは「広がる・大きくなる」イメージ、extendedは「長く�
 
 ## 🧩 あわせて覚えたい
 
-- [broadened](/word/broadened/)：広げられた、広くなった
-- [enlarged](/word/enlarged/)：（物理的に）大きくなった、拡大された
+- [broadened](/broadened)：広げられた、広くなった
+- [enlarged](/enlarged)：（物理的に）大きくなった、拡大された
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡大する、広げる
-- [expansion](/word/expansion/)：拡大、拡張
+- [expand](/expand)：拡大する、広げる
+- [expansion](/expansion)：拡大、拡張
 
-<!-- cvid: aid46_bid36 -->
+<!-- cvid: aid03_bid17 -->

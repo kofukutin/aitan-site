@@ -82,15 +82,19 @@ TOEICでは「private room」「private lesson」など、形容詞として名�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「private room」「private lesson」など、形容詞として名�
 ## 🤔  personal との違いは？
 
 - **private**：他人に公開されていない、非公開の、個人所有の
-- **[personal](/word/personal/)**：個人に直接関係する、個人的な
+- **[personal](/personal)**：個人に直接関係する、個人的な
 
 「private」は「他人に見せない」「公的でない」ことを強調し、「personal」は「自分自身に関係する」ことを強調します。
 
@@ -106,14 +110,14 @@ TOEICでは「private room」「private lesson」など、形容詞として名�
 
 ## 🧩 あわせて覚えたい
 
-- [public](/word/public/)：公の、公開の
-- [confidential](/word/confidential/)：機密の、内密の
+- [public](/public)：公の、公開の
+- [confidential](/confidential)：機密の、内密の
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：公式の、公的な
-- [individual](/word/individual/)：個人の、個々の
+- [official](/official)：公式の、公的な
+- [individual](/individual)：個人の、個々の
 
-<!-- cvid: aid38_bid44 -->
+<!-- cvid: aid05_bid45 -->

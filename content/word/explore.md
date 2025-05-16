@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「新しい方法を探る」「可
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「新しい方法を探る」「可
 ## 🤔  investigate との違いは？
 
 - **explore**：未知のものを積極的に探したり、幅広く調べるニュアンス
-- **[investigate](/word/investigate/)**：原因や事実を詳しく調査・究明するニュアンス
+- **[investigate](/investigate)**：原因や事実を詳しく調査・究明するニュアンス
 
 exploreは新しい分野や可能性を「探る」イメージ、investigateは問題や事件などを「徹底的に調査する」イメージです。
 
@@ -105,14 +109,14 @@ exploreは新しい分野や可能性を「探る」イメージ、investigate�
 
 ## 🧩 あわせて覚えたい
 
-- [search](/word/search/)：探す、検索する
-- [discover](/word/discover/)：発見する
+- [search](/search)：探す、検索する
+- [discover](/discover)：発見する
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/word/examine/)：詳しく調べる
-- [analyze](/word/analyze/)：分析する
+- [examine](/examine)：詳しく調べる
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid10_bid26 -->
+<!-- cvid: aid04_bid24 -->

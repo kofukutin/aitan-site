@@ -80,15 +80,19 @@ TOEICでは医療や健康、書類管理の文脈で登場することがあり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは医療や健康、書類管理の文脈で登場することがあり
 ## 🤔  backbone との違いは？
 
 - **spine**：医学的・解剖学的な「背骨」、または本の「背表紙」
-- **[backbone](/word/backbone/)**：体の「背骨」だが、比喩的に「中核」「支え」「根幹」の意味も強い
+- **[backbone](/backbone)**：体の「背骨」だが、比喩的に「中核」「支え」「根幹」の意味も強い
 
 spineは主に物理的な背骨や本の背を指し、backboneは比喩的に「組織の中核」など抽象的な意味でもよく使われます。
 
@@ -104,14 +108,14 @@ spineは主に物理的な背骨や本の背を指し、backboneは比喩的に�
 
 ## 🧩 あわせて覚えたい
 
-- [vertebra](/word/vertebra/)：椎骨（背骨を構成する一つ一つの骨）
-- [skeleton](/word/skeleton/)：骨格、骸骨
+- [vertebra](/vertebra)：椎骨（背骨を構成する一つ一つの骨）
+- [skeleton](/skeleton)：骨格、骸骨
 
 ---
 
 ## 📖 できればこれも
 
-- [rib](/word/rib/)：肋骨
-- [skull](/word/skull/)：頭蓋骨
+- [rib](/rib)：肋骨
+- [skull](/skull)：頭蓋骨
 
-<!-- cvid: aid05_bid48 -->
+<!-- cvid: aid23_bid11 -->

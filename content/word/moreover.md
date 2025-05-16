@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【moreover】の意味・使い方・例文 ― furthermoreとの違い【TOEIC英単語】"
 description: "moreoverの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfurthermoreとの違いもわかりやすく学べます。"
 word: "moreover"
@@ -77,15 +77,19 @@ TOEICの長文読解やビジネス文書で、情報を追加する接続副詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICの長文読解やビジネス文書で、情報を追加する接続副詞
 ## 🤔  furthermore との違いは？
 
 - **moreover**：前述の内容に「さらに重要な情報」を加えるときに使う、ややフォーマルな副詞。
-- **[furthermore](/word/furthermore/)**：同様に「さらに」を意味するが、moreoverよりもやや堅い印象で、論理的な文章やレポートでよく使われる。
+- **[furthermore](/furthermore)**：同様に「さらに」を意味するが、moreoverよりもやや堅い印象で、論理的な文章やレポートでよく使われる。
 
 両者とも「その上」「さらに」を意味しますが、moreoverは会話やビジネス文書でも使われ、furthermoreはより論文的・硬い印象があります。
 
@@ -101,14 +105,14 @@ TOEICの長文読解やビジネス文書で、情報を追加する接続副詞
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however/)：しかしながら
-- [besides](/word/besides/)：そのうえ、さらに
+- [however](/however)：しかしながら
+- [besides](/besides)：そのうえ、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [consequently](/word/consequently/)：その結果として
+- [therefore](/therefore)：それゆえに
+- [consequently](/consequently)：その結果として
 
-<!-- cvid: aid45_bid15 -->
+<!-- cvid: aid30_bid38 -->

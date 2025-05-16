@@ -81,15 +81,19 @@ TOEICでは科学や健康関連の記事や広告文で見かけることがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid38_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や健康関連の記事や広告文で見かけることがあ
 ## 🤔  catalyst との違いは？
 
 - **enzyme**：生体内で働くタンパク質性の触媒
-- **[catalyst](/word/catalyst/)**：一般的な化学反応を促進する触媒（生体・非生体問わず）
+- **[catalyst](/catalyst)**：一般的な化学反応を促進する触媒（生体・非生体問わず）
 
 enzymeは生物の体内で働くタンパク質に限定されますが、catalystは無機物なども含めて広く使われます。
 
@@ -105,14 +109,14 @@ enzymeは生物の体内で働くタンパク質に限定されますが、catal
 
 ## 🧩 あわせて覚えたい
 
-- [protein](/word/protein/)：タンパク質
-- [substrate](/word/substrate/)：基質（酵素が作用する物質）
+- [protein](/protein)：タンパク質
+- [substrate](/substrate)：基質（酵素が作用する物質）
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/word/cell/)：細胞
-- [reaction](/word/reaction/)：反応
+- [cell](/cell)：細胞
+- [reaction](/reaction)：反応
 
-<!-- cvid: aid23_bid41 -->
+<!-- cvid: aid38_bid20 -->

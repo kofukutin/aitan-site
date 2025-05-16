@@ -80,15 +80,19 @@ The hotel offers a roulette table for its guests.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The hotel offers a roulette table for its guests.
 ## 🤔  lottery との違いは？
 
 - **roulette**：カジノで円盤を回して当たりを決めるギャンブルゲーム。
-- **[lottery](/word/lottery/)**：くじ引きや宝くじのように、無作為に当選者を決める仕組み。
+- **[lottery](/lottery)**：くじ引きや宝くじのように、無作為に当選者を決める仕組み。
 
 rouletteは物理的な円盤を使ったゲームで、lotteryは紙や番号などで当選を決める点が異なります。
 
@@ -104,14 +108,14 @@ rouletteは物理的な円盤を使ったゲームで、lotteryは紙や番号�
 
 ## 🧩 あわせて覚えたい
 
-- [gamble](/word/gamble/)：ギャンブルをする、賭け事をする
-- [casino](/word/casino/)：カジノ、賭博場
+- [gamble](/gamble)：ギャンブルをする、賭け事をする
+- [casino](/casino)：カジノ、賭博場
 
 ---
 
 ## 📖 できればこれも
 
-- [poker](/word/poker/)：ポーカー（トランプゲームの一種）
-- [bet](/word/bet/)：賭け、賭ける
+- [poker](/poker)：ポーカー（トランプゲームの一種）
+- [bet](/bet)：賭け、賭ける
 
-<!-- cvid: aid48_bid17 -->
+<!-- cvid: aid04_bid12 -->

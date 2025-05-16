@@ -81,15 +81,19 @@ TOEICでは「人材のプール」「資金のプール」など、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「人材のプール」「資金のプール」など、ビジネス
 ## 🤔  fund との違いは？
 
 - **pool**：人や資源・お金など「集めて一つにしたもの」全般に使える
-- **[fund](/word/fund/)**：主に「お金の蓄え・基金」に限定される
+- **[fund](/fund)**：主に「お金の蓄え・基金」に限定される
 
 「pool」は人材や情報など幅広い「集まり」に使えますが、「fund」はお金に特化しています。
 
@@ -105,14 +109,14 @@ TOEICでは「人材のプール」「資金のプール」など、ビジネス
 
 ## 🧩 あわせて覚えたい
 
-- [resource](/word/resource/)：資源、リソース
-- [collection](/word/collection/)：収集、集めたもの
+- [resource](/resource)：資源、リソース
+- [collection](/collection)：収集、集めたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget/)：予算
-- [share](/word/share/)：分け前、共有する
+- [budget](/budget)：予算
+- [share](/share)：分け前、共有する
 
-<!-- cvid: aid24_bid29 -->
+<!-- cvid: aid34_bid14 -->

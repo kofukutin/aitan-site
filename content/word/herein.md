@@ -77,15 +77,19 @@ TOEICでは主にPart 7の契約書や公式文書の読解問題で見かけま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid25_bid46" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid46" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 7の契約書や公式文書の読解問題で見かけま
 ## 🤔  hereby との違いは？
 
 - **herein**：この文書・契約書の中に（内容や範囲を指す）
-- **[hereby](/word/hereby/)**：これによって（行為や宣言を指す）
+- **[hereby](/hereby)**：これによって（行為や宣言を指す）
 
 「herein」は文書内の内容や範囲を示し、「hereby」はその文書によって何かを行うことを表します。
 
@@ -101,14 +105,14 @@ TOEICでは主にPart 7の契約書や公式文書の読解問題で見かけま
 
 ## 🧩 あわせて覚えたい
 
-- [therein](/word/therein/)：その中に（別の文書や場所の中に）
-- [wherein](/word/wherein/)：その中で（どこで、どの点で）
+- [therein](/therein)：その中に（別の文書や場所の中に）
+- [wherein](/wherein)：その中で（どこで、どの点で）
 
 ---
 
 ## 📖 できればこれも
 
-- [thereby](/word/thereby/)：それによって
-- [hereto](/word/hereto/)：これに関して
+- [thereby](/thereby)：それによって
+- [hereto](/hereto)：これに関して
 
-<!-- cvid: aid04_bid28 -->
+<!-- cvid: aid25_bid46 -->

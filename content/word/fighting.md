@@ -81,15 +81,19 @@ TOEICでは、職場や会議での対立やトラブルの文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や会議での対立やトラブルの文脈で出題され
 ## 🤔  battle との違いは？
 
 - **fighting**：争いそのものや戦闘状態を広く指す。
-- **[battle](/word/battle/)**：特定の戦いや大きな争い、戦闘を指す。
+- **[battle](/battle)**：特定の戦いや大きな争い、戦闘を指す。
 
 fightingは一般的な争いやけんか全般に使われ、battleは特定の戦いや重要な争いに使われます。
 
@@ -105,14 +109,14 @@ fightingは一般的な争いやけんか全般に使われ、battleは特定の
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict/)：対立、衝突
-- [argument](/word/argument/)：口論、議論
+- [conflict](/conflict)：対立、衝突
+- [argument](/argument)：口論、議論
 
 ---
 
 ## 📖 できればこれも
 
-- [struggle](/word/struggle/)：苦闘、もがき
-- [competition](/word/competition/)：競争
+- [struggle](/struggle)：苦闘、もがき
+- [competition](/competition)：競争
 
-<!-- cvid: aid42_bid48 -->
+<!-- cvid: aid36_bid06 -->

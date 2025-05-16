@@ -88,8 +88,12 @@ TOEICでは空港やホテル、旅行関連の長文や案内文でよく登場
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港やホテル、旅行関連の長文や案内文でよく登場
 ## 🤔  tourist との違いは？
 
 - **traveler**：旅行者全般を指し、観光・出張・冒険など幅広い目的で旅をする人。
-- **[tourist](/word/tourist/)**：観光目的で旅をする人。
+- **[tourist](/tourist)**：観光目的で旅をする人。
 
 travelerは「旅をする人」全般、touristは「観光客」として使い分けます。出張や長期滞在の場合はtravelerが自然です。
 
@@ -105,14 +109,14 @@ travelerは「旅をする人」全般、touristは「観光客」として使�
 
 ## 🧩 あわせて覚えたい
 
-- [commuter](/word/commuter/)：通勤者
-- [passenger](/word/passenger/)：乗客
+- [commuter](/commuter)：通勤者
+- [passenger](/passenger)：乗客
 
 ---
 
 ## 📖 できればこれも
 
-- [journey](/word/journey/)：旅、道のり
-- [trip](/word/trip/)：（短期間の）旅行
+- [journey](/journey)：旅、道のり
+- [trip](/trip)：（短期間の）旅行
 
-<!-- cvid: aid49_bid04 -->
+<!-- cvid: aid49_bid18 -->

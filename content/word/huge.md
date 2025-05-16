@@ -88,8 +88,12 @@ TOEICでは形容詞の語彙問題や、比較表現の文脈でよく出題さ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、比較表現の文脈でよく出題さ
 ## 🤔  enormous との違いは？
 
 - **huge**：カジュアルに「とても大きい」「すごく多い」を表す。
-- **[enormous](/word/enormous/)**：ややフォーマルで「非常に大きい」「莫大な」を強調。
+- **[enormous](/enormous)**：ややフォーマルで「非常に大きい」「莫大な」を強調。
 
 「huge」は日常会話でよく使われ、感覚的な大きさを表現します。「enormous」は書き言葉やフォーマルな場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞の語彙問題や、比較表現の文脈でよく出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [massive](/word/massive/)：重くてどっしりした大きさ
-- [tiny](/word/tiny/)：とても小さい
+- [massive](/massive)：重くてどっしりした大きさ
+- [tiny](/tiny)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [large](/word/large/)：大きい（一般的な表現）
-- [giant](/word/giant/)：巨大な（特に生き物や物体に使う）
+- [large](/large)：大きい（一般的な表現）
+- [giant](/giant)：巨大な（特に生き物や物体に使う）
 
-<!-- cvid: aid47_bid31 -->
+<!-- cvid: aid47_bid35 -->

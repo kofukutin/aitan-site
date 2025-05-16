@@ -81,15 +81,19 @@ TOEICでは、企業情報や商品説明、公式文書の中で「listed」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業情報や商品説明、公式文書の中で「listed」が
 ## 🤔  registered との違いは？
 
 - **listed**：リストや一覧に載っている、証券取引所に上場している
-- **[registered](/word/registered/)**：公式に登録されている、届け出されている
+- **[registered](/registered)**：公式に登録されている、届け出されている
 
 「listed」は単にリストや一覧に載っていることを指し、特に証券取引所の「上場」も意味します。「registered」は公式な登録や届け出が完了していることを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、企業情報や商品説明、公式文書の中で「listed」が
 
 ## 🧩 あわせて覚えたい
 
-- [included](/word/included/)：含まれている
-- [unlisted](/word/unlisted/)：リストに載っていない、非上場の
+- [included](/included)：含まれている
+- [unlisted](/unlisted)：リストに載っていない、非上場の
 
 ---
 
 ## 📖 できればこれも
 
-- [approved](/word/approved/)：承認された
-- [recorded](/word/recorded/)：記録された
+- [approved](/approved)：承認された
+- [recorded](/recorded)：記録された
 
-<!-- cvid: aid07_bid05 -->
+<!-- cvid: aid26_bid32 -->

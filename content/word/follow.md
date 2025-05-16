@@ -81,15 +81,19 @@ TOEICでは会話や指示の中で「従う」「ついていく」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示の中で「従う」「ついていく」という意
 ## 🤔  track との違いは？
 
 - **follow**：誰かや何かの後ろについて行く、または指示・ルールに従う
-- **[track](/word/track/)**：動きや進行状況を追跡・記録する
+- **[track](/track)**：動きや進行状況を追跡・記録する
 
 「follow」は実際に後ろをついて行ったり、指示に従う場合に使い、「track」は進捗や動きを記録・監視する場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは会話や指示の中で「従う」「ついていく」という意
 
 ## 🧩 あわせて覚えたい
 
-- [lead](/word/lead/)：導く、先導する
-- [obey](/word/obey/)：（命令・規則に）従う
+- [lead](/lead)：導く、先導する
+- [obey](/obey)：（命令・規則に）従う
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/word/guide/)：案内する、導く
-- [attend](/word/attend/)：出席する、参加する
+- [guide](/guide)：案内する、導く
+- [attend](/attend)：出席する、参加する
 
-<!-- cvid: aid06_bid17 -->
+<!-- cvid: aid43_bid06 -->

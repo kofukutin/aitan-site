@@ -88,8 +88,12 @@ verticalはITやビジネス文書の説明文、図表の説明などで出題�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ verticalはITやビジネス文書の説明文、図表の説明などで出題�
 ## 🤔  horizontal との違いは？
 
 - **vertical**：地面や水平面に対して直角、縦方向を表す
-- **[horizontal](/word/horizontal/)**：地面や水平面と平行、横方向を表す
+- **[horizontal](/horizontal)**：地面や水平面と平行、横方向を表す
 
 verticalは「上から下」「下から上」など縦の方向性を強調し、horizontalは「左右」「横並び」など横の広がりを表します。図や表の説明でよく対比されます。
 
@@ -105,14 +109,14 @@ verticalは「上から下」「下から上」など縦の方向性を強調し
 
 ## 🧩 あわせて覚えたい
 
-- [upright](/word/upright/)：直立した、まっすぐ立った
-- [parallel](/word/parallel/)：平行な
+- [upright](/upright)：直立した、まっすぐ立った
+- [parallel](/parallel)：平行な
 
 ---
 
 ## 📖 できればこれも
 
-- [diagonal](/word/diagonal/)：斜めの
-- [perpendicular](/word/perpendicular/)：直角の、垂直な
+- [diagonal](/diagonal)：斜めの
+- [perpendicular](/perpendicular)：直角の、垂直な
 
-<!-- cvid: aid45_bid19 -->
+<!-- cvid: aid45_bid10 -->

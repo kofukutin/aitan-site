@@ -81,15 +81,19 @@ drawbackはTOEICの長文読解パートで、提案や計画の「欠点」や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ drawbackはTOEICの長文読解パートで、提案や計画の「欠点」や�
 ## 🤔  disadvantage との違いは？
 
 - **drawback**：主に計画や物事の「具体的な欠点・障害」をやや中立的に指す
-- **[disadvantage](/word/disadvantage/)**：より広く「不利な点・弱点」を指し、競争や比較の場面で使われやすい
+- **[disadvantage](/disadvantage)**：より広く「不利な点・弱点」を指し、競争や比較の場面で使われやすい
 
 drawbackは「何かの良い面とセットで出てくる具体的な難点」、disadvantageは「他と比べて劣る点」や「不利な状況」を強調する時に使います。
 
@@ -105,14 +109,14 @@ drawbackは「何かの良い面とセットで出てくる具体的な難点」
 
 ## 🧩 あわせて覚えたい
 
-- [benefit](/word/benefit/)：利益、利点
-- [obstacle](/word/obstacle/)：障害、妨げ
+- [benefit](/benefit)：利益、利点
+- [obstacle](/obstacle)：障害、妨げ
 
 ---
 
 ## 📖 できればこれも
 
-- [advantage](/word/advantage/)：有利な点、利点
-- [issue](/word/issue/)：問題、課題
+- [advantage](/advantage)：有利な点、利点
+- [issue](/issue)：問題、課題
 
-<!-- cvid: aid05_bid06 -->
+<!-- cvid: aid19_bid03 -->

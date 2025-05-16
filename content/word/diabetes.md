@@ -81,15 +81,19 @@ The company offers health programs for employees with diabetes.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company offers health programs for employees with diabetes.
 ## 🤔  obesity との違いは？
 
 - **diabetes**：血糖値が高くなる慢性的な病気（糖尿病）を指します。
-- **[obesity](/word/obesity/)**：体脂肪が過剰に蓄積した状態（肥満）を指します。
+- **[obesity](/obesity)**：体脂肪が過剰に蓄積した状態（肥満）を指します。
 
 diabetesは病気そのもの、obesityは体の状態を表します。肥満が糖尿病の原因になることもありますが、意味は異なります。
 
@@ -105,14 +109,14 @@ diabetesは病気そのもの、obesityは体の状態を表します。肥満�
 
 ## 🧩 あわせて覚えたい
 
-- [hypertension](/word/hypertension/)：高血圧
-- [insulin](/word/insulin/)：インスリン（血糖値を下げるホルモン）
+- [hypertension](/hypertension)：高血圧
+- [insulin](/insulin)：インスリン（血糖値を下げるホルモン）
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [symptom](/word/symptom/)：症状
+- [disease](/disease)：病気
+- [symptom](/symptom)：症状
 
-<!-- cvid: aid33_bid35 -->
+<!-- cvid: aid16_bid07 -->

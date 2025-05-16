@@ -81,15 +81,19 @@ TOEICでは、選択肢の中で「明らかな」「はっきりした」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、選択肢の中で「明らかな」「はっきりした」とい
 ## 🤔  clear との違いは？
 
 - **obvious**：誰が見ても疑いようがないほど明らか
-- **[clear](/word/clear/)**：はっきりしていて分かりやすい、混乱がない
+- **[clear](/clear)**：はっきりしていて分かりやすい、混乱がない
 
 obviousは「誰でもすぐ分かるほど明白」という強いニュアンス、clearは「説明や状況が分かりやすい」という意味で使い分けます。
 
@@ -105,14 +109,14 @@ obviousは「誰でもすぐ分かるほど明白」という強いニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [apparent](/word/apparent/)：見たところ明らかな
-- [evident](/word/evident/)：証拠があって明白な
+- [apparent](/apparent)：見たところ明らかな
+- [evident](/evident)：証拠があって明白な
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical/)：典型的な
-- [typical](/word/typical/)：典型的な
+- [typical](/typical)：典型的な
+- [typical](/typical)：典型的な
 
-<!-- cvid: aid49_bid09 -->
+<!-- cvid: aid22_bid49 -->

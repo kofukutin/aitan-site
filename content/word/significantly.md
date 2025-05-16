@@ -81,15 +81,19 @@ TOEICでは、グラフや統計、変化の大きさを説明する文脈で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、グラフや統計、変化の大きさを説明する文脈で頻
 ## 🤔  considerably との違いは？
 
 - **significantly**：変化や違いが「重要」「意味がある」ほど大きいことを強調
-- **[considerably](/word/considerably/)**：単に「かなり」「相当」大きいことを表す
+- **[considerably](/considerably)**：単に「かなり」「相当」大きいことを表す
 
 significantlyは「重要性」や「意味のある変化」を含意しますが、considerablyは単に量や程度の大きさを表します。
 
@@ -105,14 +109,14 @@ significantlyは「重要性」や「意味のある変化」を含意します�
 
 ## 🧩 あわせて覚えたい
 
-- [slightly](/word/slightly/)：わずかに、少し
-- [substantially](/word/substantially/)：大幅に、実質的に
+- [slightly](/slightly)：わずかに、少し
+- [substantially](/substantially)：大幅に、実質的に
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、かなりの
-- [remarkably](/word/remarkably/)：著しく、目立って
+- [significant](/significant)：重要な、かなりの
+- [remarkably](/remarkably)：著しく、目立って
 
-<!-- cvid: aid39_bid41 -->
+<!-- cvid: aid46_bid39 -->

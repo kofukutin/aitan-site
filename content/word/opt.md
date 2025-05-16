@@ -81,15 +81,19 @@ TOEICではPart 5の語彙問題や、選択肢を示す文脈で出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙問題や、選択肢を示す文脈で出題される
 ## 🤔  choose との違いは？
 
 - **opt**：慎重に選択肢から選ぶ、ややフォーマル
-- **[choose](/word/choose/)**：一般的に「選ぶ」、カジュアルでもフォーマルでも使える
+- **[choose](/choose)**：一般的に「選ぶ」、カジュアルでもフォーマルでも使える
 
 optは「複数の選択肢から意志をもって選ぶ」ニュアンスがあり、chooseよりもフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ optは「複数の選択肢から意志をもって選ぶ」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [select](/word/select/)：（選んで）選択する
-- [decline](/word/decline/)：（申し出などを）断る
+- [select](/select)：（選んで）選択する
+- [decline](/decline)：（申し出などを）断る
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer/)：より好む
-- [decide](/word/decide/)：決める
+- [prefer](/prefer)：より好む
+- [decide](/decide)：決める
 
-<!-- cvid: aid46_bid28 -->
+<!-- cvid: aid29_bid25 -->

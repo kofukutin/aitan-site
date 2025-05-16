@@ -81,15 +81,19 @@ TOEICでは表彰や受賞に関する文脈で登場することがあり、名
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは表彰や受賞に関する文脈で登場することがあり、名
 ## 🤔  award との違いは？
 
 - **medal**：金属製の記章や賞牌など、形のある「メダル」を指す。
-- **[award](/word/award/)**：賞そのものや表彰全般を指し、形のないものも含む。
+- **[award](/award)**：賞そのものや表彰全般を指し、形のないものも含む。
 
 medalは具体的な物体としての賞、awardは広く「賞」や「表彰」を意味します。
 
@@ -105,14 +109,14 @@ medalは具体的な物体としての賞、awardは広く「賞」や「表彰�
 
 ## 🧩 あわせて覚えたい
 
-- [trophy](/word/trophy/)：トロフィー、優勝杯
-- [certificate](/word/certificate/)：証明書、認定証
+- [trophy](/trophy)：トロフィー、優勝杯
+- [certificate](/certificate)：証明書、認定証
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize/)：賞、賞品
-- [honor](/word/honor/)：名誉、栄誉
+- [prize](/prize)：賞、賞品
+- [honor](/honor)：名誉、栄誉
 
-<!-- cvid: aid48_bid27 -->
+<!-- cvid: aid47_bid37 -->

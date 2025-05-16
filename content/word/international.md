@@ -81,15 +81,19 @@ TOEICではビジネス文書やメール、案内文などで「国際的な」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やメール、案内文などで「国際的な」
 ## 🤔  global との違いは？
 
 - **international**：国と国の間、複数の国が関わることを強調
-- **[global](/word/global/)**：地球規模、全世界的な広がりを強調
+- **[global](/global)**：地球規模、全世界的な広がりを強調
 
 **international**は「国際間のやりとり」など国同士の関係に焦点があり、**global**は「世界全体」「地球規模」の広がりを表します。
 
@@ -105,14 +109,14 @@ TOEICではビジネス文書やメール、案内文などで「国際的な」
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic/)：国内の
-- [overseas](/word/overseas/)：海外の、海外へ
+- [domestic](/domestic)：国内の
+- [overseas](/overseas)：海外の、海外へ
 
 ---
 
 ## 📖 できればこれも
 
-- [national](/word/national/)：国の、国家の
-- [local](/word/local/)：地域の、地元の
+- [national](/national)：国の、国家の
+- [local](/local)：地域の、地元の
 
-<!-- cvid: aid18_bid07 -->
+<!-- cvid: aid01_bid08 -->

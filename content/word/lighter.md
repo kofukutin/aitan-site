@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で、物の名前として出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、物の名前として出題される
 ## 🤔  match との違いは？
 
 - **lighter**：ガスやオイルを使う再利用可能な火をつける道具
-- **[match](/word/match/)**：使い捨ての木や紙の棒で、こすって火をつけるもの
+- **[match](/match)**：使い捨ての木や紙の棒で、こすって火をつけるもの
 
 lighterは繰り返し使える道具、matchは一度きりの使い捨てという違いがあります。
 
@@ -105,14 +109,14 @@ lighterは繰り返し使える道具、matchは一度きりの使い捨てと�
 
 ## 🧩 あわせて覚えたい
 
-- [candle](/word/candle/)：ろうそく
-- [torch](/word/torch/)：懐中電灯、たいまつ
+- [candle](/candle)：ろうそく
+- [torch](/torch)：懐中電灯、たいまつ
 
 ---
 
 ## 📖 できればこれも
 
-- [battery](/word/battery/)：電池
-- [flashlight](/word/flashlight/)：懐中電灯
+- [battery](/battery)：電池
+- [flashlight](/flashlight)：懐中電灯
 
-<!-- cvid: aid36_bid22 -->
+<!-- cvid: aid39_bid43 -->

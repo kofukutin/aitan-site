@@ -80,15 +80,19 @@ TOEICでは、海外旅行やビジネスの支払い場面で通貨名として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、海外旅行やビジネスの支払い場面で通貨名として
 ## 🤔  dollar との違いは？
 
 - **euro**：ヨーロッパの多くの国で使われる通貨
-- **[dollar](/word/dollar/)**：アメリカや他の国で使われる通貨
+- **[dollar](/dollar)**：アメリカや他の国で使われる通貨
 
 euroはEU圏の通貨、dollarはアメリカなどで使われる通貨で、国や地域によって使い分けます。
 
@@ -104,14 +108,14 @@ euroはEU圏の通貨、dollarはアメリカなどで使われる通貨で、�
 
 ## 🧩 あわせて覚えたい
 
-- [yen](/word/yen/)：日本の通貨、円
-- [currency](/word/currency/)：通貨、貨幣
+- [yen](/yen)：日本の通貨、円
+- [currency](/currency)：通貨、貨幣
 
 ---
 
 ## 📖 できればこれも
 
-- [coin](/word/coin/)：硬貨
-- [bill](/word/bill/)：紙幣
+- [coin](/coin)：硬貨
+- [bill](/bill)：紙幣
 
-<!-- cvid: aid29_bid31 -->
+<!-- cvid: aid37_bid01 -->

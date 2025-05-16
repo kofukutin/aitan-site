@@ -81,15 +81,19 @@ TOEICではPart 7の長文やメール文中で「関連する情報」「関係
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文やメール文中で「関連する情報」「関係
 ## 🤔  relevant との違いは？
 
 - **related**：何かと関係・つながりがあることを広く表す
-- **[relevant](/word/relevant/)**：今の話題や目的に直接関係があることを強調
+- **[relevant](/relevant)**：今の話題や目的に直接関係があることを強調
 
 relatedは「関係がある」こと全般を指し、relevantは「今まさに重要な関係がある」ことを強調します。
 
@@ -105,14 +109,14 @@ relatedは「関係がある」こと全般を指し、relevantは「今まさ�
 
 ## 🧩 あわせて覚えたい
 
-- [unrelated](/word/unrelated/)：無関係の
-- [associated](/word/associated/)：関連した、結びついた
+- [unrelated](/unrelated)：無関係の
+- [associated](/associated)：関連した、結びついた
 
 ---
 
 ## 📖 できればこれも
 
-- [connected](/word/connected/)：つながった、接続された
-- [similar](/word/similar/)：似ている
+- [connected](/connected)：つながった、接続された
+- [similar](/similar)：似ている
 
-<!-- cvid: aid09_bid49 -->
+<!-- cvid: aid02_bid11 -->

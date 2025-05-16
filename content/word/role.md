@@ -80,15 +80,19 @@ TOEICでは会議やプロジェクトの会話で「役割」や「担当」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは会議やプロジェクトの会話で「役割」や「担当」を
 ## 🤔  position との違いは？
 
 - **role**：果たすべき「役割」や「任務」を指す
-- **[position](/word/position/)**：組織内での「地位」や「職位」を指す
+- **[position](/position)**：組織内での「地位」や「職位」を指す
 
 「role」は何をするか、「position」はどの立場かを表します。たとえば「manager」というpositionでも、実際に担うroleは会社によって異なります。
 
@@ -104,14 +108,14 @@ TOEICでは会議やプロジェクトの会話で「役割」や「担当」を
 
 ## 🧩 あわせて覚えたい
 
-- [function](/word/function/)：機能、役割
-- [duty](/word/duty/)：義務、職務
+- [function](/function)：機能、役割
+- [duty](/duty)：義務、職務
 
 ---
 
 ## 📖 できればこれも
 
-- [responsibility](/word/responsibility/)：責任、担当
-- [task](/word/task/)：課題、仕事
+- [responsibility](/responsibility)：責任、担当
+- [task](/task)：課題、仕事
 
-<!-- cvid: aid14_bid15 -->
+<!-- cvid: aid37_bid19 -->

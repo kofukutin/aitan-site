@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、文章や登場人物の特徴説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid13" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid13" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、文章や登場人物の特徴説明
 ## 🤔  description との違いは？
 
 - **characterization**：人物や物事の性格・特徴を詳しく描写すること
-- **[description](/word/description/)**：物事や状況を説明・描写すること全般
+- **[description](/description)**：物事や状況を説明・描写すること全般
 
 characterizationは特に「性格や特徴」に焦点を当てて描写する場合に使い、descriptionはより広く一般的な説明や描写に使います。
 
@@ -105,14 +109,14 @@ characterizationは特に「性格や特徴」に焦点を当てて描写する�
 
 ## 🧩 あわせて覚えたい
 
-- [portrayal](/word/portrayal/)：描写、表現
-- [depiction](/word/depiction/)：描写、描画
+- [portrayal](/portrayal)：描写、表現
+- [depiction](/depiction)：描写、描画
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [interpretation](/word/interpretation/)：解釈
+- [analysis](/analysis)：分析
+- [interpretation](/interpretation)：解釈
 
-<!-- cvid: aid06_bid46 -->
+<!-- cvid: aid41_bid13 -->

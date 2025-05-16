@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、ダムや水辺の風景を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、ダムや水辺の風景を説明す
 ## 🤔  reservoir との違いは？
 
 - **dam**：水をせき止めるための構造物や堤防
-- **[reservoir](/word/reservoir/)**：貯水池やため池（ダムによってできる水のたまり場）
+- **[reservoir](/reservoir)**：貯水池やため池（ダムによってできる水のたまり場）
 
 damは「せき止める建造物」、reservoirは「せき止められてできた水の貯蔵場所」を指します。
 
@@ -105,14 +109,14 @@ damは「せき止める建造物」、reservoirは「せき止められてで�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier/)：障壁、バリア
-- [canal](/word/canal/)：運河
+- [barrier](/barrier)：障壁、バリア
+- [canal](/canal)：運河
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/word/bridge/)：橋
-- [river](/word/river/)：川
+- [bridge](/bridge)：橋
+- [river](/river)：川
 
-<!-- cvid: aid20_bid38 -->
+<!-- cvid: aid31_bid42 -->

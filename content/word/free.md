@@ -82,15 +82,19 @@ TOEICでは「空いている」「無料の」「自由な」など複数の意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「空いている」「無料の」「自由な」など複数の意
 ## 🤔  available との違いは？
 
 - **free**：予定や場所が「空いている」、または「無料」の意味で使う
-- **[available](/word/available/)**：利用可能・入手可能という意味で、物や人が「使える」状態
+- **[available](/available)**：利用可能・入手可能という意味で、物や人が「使える」状態
 
 「free」は「何も予定がない」「制限がない」ニュアンスが強く、  
 「available」は「使える状態」「手が空いている」ことに重点があります。
@@ -107,14 +111,14 @@ TOEICでは「空いている」「無料の」「自由な」など複数の意
 
 ## 🧩 あわせて覚えたい
 
-- [vacant](/word/vacant/)：空いている（特に部屋や席などに使う）
-- [occupied](/word/occupied/)：使用中の、ふさがっている
+- [vacant](/vacant)：空いている（特に部屋や席などに使う）
+- [occupied](/occupied)：使用中の、ふさがっている
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/word/busy/)：忙しい、予定が詰まっている
-- [open](/word/open/)：開いている、営業している
+- [busy](/busy)：忙しい、予定が詰まっている
+- [open](/open)：開いている、営業している
 
-<!-- cvid: aid46_bid34 -->
+<!-- cvid: aid06_bid48 -->

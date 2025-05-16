@@ -81,15 +81,19 @@ TOEICでは「自信」「信頼」という意味で頻出し、特にビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「自信」「信頼」という意味で頻出し、特にビジネ
 ## 🤔  trust との違いは？
 
 - **confidence**：自分や他人への「自信」「確信」「信頼」を幅広く表す
-- **[trust](/word/trust/)**：主に「人や物事を信じる気持ち・信頼」を表す
+- **[trust](/trust)**：主に「人や物事を信じる気持ち・信頼」を表す
 
 confidenceは自分自身への自信や確信にも使えますが、trustは他者や物事への信頼に特化しています。
 
@@ -105,14 +109,14 @@ confidenceは自分自身への自信や確信にも使えますが、trustは�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt/)：疑い、不信
-- [assurance](/word/assurance/)：保証、確信
+- [doubt](/doubt)：疑い、不信
+- [assurance](/assurance)：保証、確信
 
 ---
 
 ## 📖 できればこれも
 
-- [belief](/word/belief/)：信念、信じること
-- [courage](/word/courage/)：勇気
+- [belief](/belief)：信念、信じること
+- [courage](/courage)：勇気
 
-<!-- cvid: aid13_bid41 -->
+<!-- cvid: aid18_bid02 -->

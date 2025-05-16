@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【spider】の意味・使い方・例文 ― insectとの違い【TOEIC英単語】"
 description: "spiderの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでinsectとの違いもわかりやすく学べます。"
 word: "spider"
@@ -80,7 +80,7 @@ TOEICでは主にPart 1の写真描写で、動物や物の説明として登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+スキマ時間を使おう👇️
 
 ---
 
@@ -88,7 +88,11 @@ TOEICでは主にPart 1の写真描写で、動物や物の説明として登場
 
 <div class="info-center">
 ＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写で、動物や物の説明として登場
 ## 🤔  insect との違いは？
 
 - **spider**：8本脚のクモ。昆虫とは異なる分類。
-- **[insect](/word/insect/)**：6本脚の昆虫全般。アリやハチなど。
+- **[insect](/insect)**：6本脚の昆虫全般。アリやハチなど。
 
 spiderはクモ類（arachnid）で、insectは昆虫類。脚の数や体の構造が異なります。
 
@@ -104,14 +108,14 @@ spiderはクモ類（arachnid）で、insectは昆虫類。脚の数や体の構
 
 ## 🧩 あわせて覚えたい
 
-- [web](/word/web/)：クモの巣
-- [arachnid](/word/arachnid/)：クモ類（クモやサソリなど）
+- [web](/web)：クモの巣
+- [arachnid](/arachnid)：クモ類（クモやサソリなど）
 
 ---
 
 ## 📖 できればこれも
 
-- [ant](/word/ant/)：アリ
-- [bee](/word/bee/)：ハチ
+- [ant](/ant)：アリ
+- [bee](/bee)：ハチ
 
-<!-- cvid: aid14_bid30 -->
+<!-- cvid: aid17_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは、報告書やEメール、説明文などで「identified risks（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書やEメール、説明文などで「identified risks（�
 ## 🤔  recognized との違いは？
 
 - **identified**：誰・何であるかが明確に特定された状態
-- **[recognized](/word/recognized/)**：見て知っているものだと気づく、認識する
+- **[recognized](/recognized)**：見て知っているものだと気づく、認識する
 
 「identified」は客観的に特定・識別されたことを強調し、「recognized」は以前から知っていたものだと気づくニュアンスがあります。
 
@@ -105,14 +109,14 @@ TOEICでは、報告書やEメール、説明文などで「identified risks（�
 
 ## 🧩 あわせて覚えたい
 
-- [confirmed](/word/confirmed/)：確認された、確定した
-- [verified](/word/verified/)：検証された、確認済みの
+- [confirmed](/confirmed)：確認された、確定した
+- [verified](/verified)：検証された、確認済みの
 
 ---
 
 ## 📖 できればこれも
 
-- [specified](/word/specified/)：指定された、明記された
-- [classified](/word/classified/)：分類された、機密扱いの
+- [specified](/specified)：指定された、明記された
+- [classified](/classified)：分類された、機密扱いの
 
-<!-- cvid: aid25_bid10 -->
+<!-- cvid: aid20_bid14 -->

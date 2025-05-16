@@ -81,15 +81,19 @@ TOEICでは、勤務条件や働き方、対応力などを表す文脈で「fle
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、勤務条件や働き方、対応力などを表す文脈で「fle
 ## 🤔  adaptable との違いは？
 
 - **flexible**：状況や条件に応じて変化・対応できる、または物理的に曲げやすい
-- **[adaptable](/word/adaptable/)**：新しい環境や状況に適応できる
+- **[adaptable](/adaptable)**：新しい環境や状況に適応できる
 
 flexibleは「柔軟に対応できる」ことに重点があり、adaptableは「新しい環境に適応できる」ことに重点があります。
 
@@ -105,14 +109,14 @@ flexibleは「柔軟に対応できる」ことに重点があり、adaptableは
 
 ## 🧩 あわせて覚えたい
 
-- [rigid](/word/rigid/)：硬直した、柔軟性がない
-- [versatile](/word/versatile/)：多才な、多用途の
+- [rigid](/rigid)：硬直した、柔軟性がない
+- [versatile](/versatile)：多才な、多用途の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [reliable](/word/reliable/)：信頼できる
+- [efficient](/efficient)：効率的な
+- [reliable](/reliable)：信頼できる
 
-<!-- cvid: aid17_bid17 -->
+<!-- cvid: aid11_bid44 -->

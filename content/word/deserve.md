@@ -81,15 +81,19 @@ TOEICでは「deserve to do」や「deserve + 名詞」の形で、適切な動�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「deserve to do」や「deserve + 名詞」の形で、適切な動�
 ## 🤔  earn との違いは？
 
 - **deserve**：努力や状況から「～に値する」「ふさわしい」と評価されること
-- **[earn](/word/earn/)**：働きや努力によって「実際に得る」「稼ぐ」こと
+- **[earn](/earn)**：働きや努力によって「実際に得る」「稼ぐ」こと
 
 deserveは「ふさわしい資格がある」ことを示し、earnは「実際に報酬や成果を得る」ことに重点があります。
 
@@ -105,14 +109,14 @@ deserveは「ふさわしい資格がある」ことを示し、earnは「実際
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る
-- [reward](/word/reward/)：報酬、褒美
+- [receive](/receive)：受け取る
+- [reward](/reward)：報酬、褒美
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [obtain](/word/obtain/)：手に入れる
+- [achieve](/achieve)：達成する
+- [obtain](/obtain)：手に入れる
 
-<!-- cvid: aid21_bid48 -->
+<!-- cvid: aid02_bid00 -->

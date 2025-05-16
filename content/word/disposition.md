@@ -80,15 +80,19 @@ TOEICではビジネス文書や人物描写、契約書などで「性質」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではビジネス文書や人物描写、契約書などで「性質」「
 ## 🤔  temperament との違いは？
 
 - **disposition**：生まれ持った性質や傾向、または物の配置・処分
-- **[temperament](/word/temperament/)**：主に感情や気分の起伏など、気質・気性
+- **[temperament](/temperament)**：主に感情や気分の起伏など、気質・気性
 
 dispositionは全体的な性質や傾向を指し、temperamentは感情面や気分の変化に焦点を当てる点が異なります。
 
@@ -104,14 +108,14 @@ dispositionは全体的な性質や傾向を指し、temperamentは感情面や�
 
 ## 🧩 あわせて覚えたい
 
-- [attitude](/word/attitude/)：態度、考え方
-- [inclination](/word/inclination/)：傾向、好み
+- [attitude](/attitude)：態度、考え方
+- [inclination](/inclination)：傾向、好み
 
 ---
 
 ## 📖 できればこれも
 
-- [preference](/word/preference/)：好み、優先
-- [tendency](/word/tendency/)：傾向、性向
+- [preference](/preference)：好み、優先
+- [tendency](/tendency)：傾向、性向
 
-<!-- cvid: aid49_bid25 -->
+<!-- cvid: aid35_bid40 -->

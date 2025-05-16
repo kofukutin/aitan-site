@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や説明文で「透明性」や「明白さ」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や説明文で「透明性」や「明白さ」
 ## 🤔  clear との違いは？
 
 - **transparent**：物理的に「透けて見える」または比喩的に「隠しごとがないほど明白」
-- **[clear](/word/clear/)**：曖昧さがなく「はっきりしている」、視界や説明が「明快」
+- **[clear](/clear)**：曖昧さがなく「はっきりしている」、視界や説明が「明快」
 
 transparentは「中身が見える」「隠しごとがない」ニュアンスが強く、clearは「邪魔がなくて見やすい」「説明が分かりやすい」といった意味で使い分けます。
 
@@ -105,14 +109,14 @@ transparentは「中身が見える」「隠しごとがない」ニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [opaque](/word/opaque/)：不透明な
-- [obvious](/word/obvious/)：明らかな
+- [opaque](/opaque)：不透明な
+- [obvious](/obvious)：明らかな
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible/)：目に見える
-- [accurate](/word/accurate/)：正確な
+- [visible](/visible)：目に見える
+- [accurate](/accurate)：正確な
 
-<!-- cvid: aid09_bid19 -->
+<!-- cvid: aid22_bid35 -->

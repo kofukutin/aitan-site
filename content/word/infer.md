@@ -81,15 +81,19 @@ TOEICの長文読解パートで、文脈や情報から結論を導く設問で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、文脈や情報から結論を導く設問で
 ## 🤔  deduce との違いは？
 
 - **infer**：証拠や状況から一般的に推測・推論する
-- **[deduce](/word/deduce/)**：論理的な手順や根拠に基づいて結論を導き出す
+- **[deduce](/deduce)**：論理的な手順や根拠に基づいて結論を導き出す
 
 inferは幅広い状況で使われ、deduceはより厳密な論理的推論に使われます。
 
@@ -105,14 +109,14 @@ inferは幅広い状況で使われ、deduceはより厳密な論理的推論に
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/word/imply/)：暗示する、ほのめかす
-- [conclude](/word/conclude/)：結論を下す
+- [imply](/imply)：暗示する、ほのめかす
+- [conclude](/conclude)：結論を下す
 
 ---
 
 ## 📖 できればこれも
 
-- [assume](/word/assume/)：仮定する、思い込む
-- [interpret](/word/interpret/)：解釈する
+- [assume](/assume)：仮定する、思い込む
+- [interpret](/interpret)：解釈する
 
-<!-- cvid: aid16_bid23 -->
+<!-- cvid: aid09_bid16 -->

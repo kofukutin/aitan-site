@@ -81,15 +81,19 @@ TOEICでは、文書や会話のトーンを問う問題や、フォーマル／
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文書や会話のトーンを問う問題や、フォーマル／
 ## 🤔  casual との違いは？
 
 - **informal**：公式でなく、堅苦しくないことを表す。場面や言葉遣いに幅広く使う。
-- **[casual](/word/casual/)**：気軽さや普段着のようなラフさを強調。服装や態度に多く使う。
+- **[casual](/casual)**：気軽さや普段着のようなラフさを強調。服装や態度に多く使う。
 
 informalは「公式でない」こと全般に使い、casualは「気軽さ・ラフさ」により重点があります。
 
@@ -105,14 +109,14 @@ informalは「公式でない」こと全般に使い、casualは「気軽さ・
 
 ## 🧩 あわせて覚えたい
 
-- [formal](/word/formal/)：公式の、形式的な
-- [relaxed](/word/relaxed/)：くつろいだ、リラックスした
+- [formal](/formal)：公式の、形式的な
+- [relaxed](/relaxed)：くつろいだ、リラックスした
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：公式の、公的な
-- [friendly](/word/friendly/)：親しみやすい、友好的な
+- [official](/official)：公式の、公的な
+- [friendly](/friendly)：親しみやすい、友好的な
 
-<!-- cvid: aid14_bid33 -->
+<!-- cvid: aid09_bid02 -->

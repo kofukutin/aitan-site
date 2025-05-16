@@ -81,15 +81,19 @@ TOEICの長文読解問題で、文章から推論を求める設問や、推論
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解問題で、文章から推論を求める設問や、推論
 ## 🤔  deduction との違いは？
 
 - **inference**：観察や証拠から論理的に導き出す推論全般
-- **[deduction](/word/deduction/)**：一般的な原理から個別の事例を論理的に導く「演繹」
+- **[deduction](/deduction)**：一般的な原理から個別の事例を論理的に導く「演繹」
 
 inferenceは広く「推論」全般を指しますが、deductionは特に「演繹的推論（一般→個別）」を意味します。
 
@@ -105,14 +109,14 @@ inferenceは広く「推論」全般を指しますが、deductionは特に「�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/word/assumption/)：仮定、前提
-- [conclusion](/word/conclusion/)：結論
+- [assumption](/assumption)：仮定、前提
+- [conclusion](/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠、根拠
-- [analysis](/word/analysis/)：分析
+- [evidence](/evidence)：証拠、根拠
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid31_bid23 -->
+<!-- cvid: aid33_bid10 -->

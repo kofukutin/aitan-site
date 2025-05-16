@@ -81,15 +81,19 @@ TOEICでは主にITや動物に関する長文や説明文で登場すること�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITや動物に関する長文や説明文で登場すること�
 ## 🤔  snake との違いは？
 
 - **python**：ニシキヘビ（特定の大型ヘビ）やプログラミング言語を指す
-- **[snake](/word/snake/)**：ヘビ全般を指す一般的な単語
+- **[snake](/snake)**：ヘビ全般を指す一般的な単語
 
 pythonは特定の種類や用途（言語名）に使われ、snakeは広くヘビ全体を指します。
 
@@ -105,14 +109,14 @@ pythonは特定の種類や用途（言語名）に使われ、snakeは広くヘ
 
 ## 🧩 あわせて覚えたい
 
-- [anaconda](/word/anaconda/)：アナコンダ（大型のヘビ）
-- [cobra](/word/cobra/)：コブラ（毒ヘビの一種）
+- [anaconda](/anaconda)：アナコンダ（大型のヘビ）
+- [cobra](/cobra)：コブラ（毒ヘビの一種）
 
 ---
 
 ## 📖 できればこれも
 
-- [program](/word/program/)：プログラム、番組
-- [language](/word/language/)：言語
+- [program](/program)：プログラム、番組
+- [language](/language)：言語
 
-<!-- cvid: aid36_bid16 -->
+<!-- cvid: aid42_bid18 -->

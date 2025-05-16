@@ -82,15 +82,19 @@ TOEICでは、銀行での手続きや口座に関する会話、振込や支払
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、銀行での手続きや口座に関する会話、振込や支払
 ## 🤔  bench との違いは？
 
 - **bank**：お金を預けたり借りたりする「銀行」や、川の「土手」などを指す。
-- **[bench](/word/bench/)**：座るための「ベンチ」や長椅子を指す。
+- **[bench](/bench)**：座るための「ベンチ」や長椅子を指す。
 
 bankは金融機関や地形、benchは座る場所と、意味も使う場面も大きく異なります。
 
@@ -106,14 +110,14 @@ bankは金融機関や地形、benchは座る場所と、意味も使う場面�
 
 ## 🧩 あわせて覚えたい
 
-- [account](/word/account/)：口座、アカウント
-- [loan](/word/loan/)：ローン、貸付
+- [account](/account)：口座、アカウント
+- [loan](/loan)：ローン、貸付
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/word/branch/)：支店、枝
-- [cash](/word/cash/)：現金
+- [branch](/branch)：支店、枝
+- [cash](/cash)：現金
 
-<!-- cvid: aid11_bid23 -->
+<!-- cvid: aid25_bid27 -->

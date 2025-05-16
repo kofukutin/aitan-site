@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「電子機器」「装置」として�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「電子機器」「装置」として�
 ## 🤔  equipment との違いは？
 
 - **device**：特定の目的のために設計された個々の装置や機器
-- **[equipment](/word/equipment/)**：作業や活動に必要な道具や備品全体
+- **[equipment](/equipment)**：作業や活動に必要な道具や備品全体
 
 deviceは「1つ1つの装置」を指し、equipmentは「道具一式」や「備品全体」を指します。
 
@@ -105,14 +109,14 @@ deviceは「1つ1つの装置」を指し、equipmentは「道具一式」や「
 
 ## 🧩 あわせて覚えたい
 
-- [gadget](/word/gadget/)：小型で便利な機器
-- [appliance](/word/appliance/)：家庭用の電気製品
+- [gadget](/gadget)：小型で便利な機器
+- [appliance](/appliance)：家庭用の電気製品
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool/)：道具、工具
-- [instrument](/word/instrument/)：精密機器、楽器
+- [tool](/tool)：道具、工具
+- [instrument](/instrument)：精密機器、楽器
 
-<!-- cvid: aid03_bid10 -->
+<!-- cvid: aid09_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは、契約や規則、法的な話題で「illegal」が形容詞と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や規則、法的な話題で「illegal」が形容詞と�
 ## 🤔  unlawful との違いは？
 
 - **illegal**：法律で明確に禁止されていることに使う
-- **[unlawful](/word/unlawful/)**：法律や規則に反しているが、必ずしも刑事罰の対象とは限らない
+- **[unlawful](/unlawful)**：法律や規則に反しているが、必ずしも刑事罰の対象とは限らない
 
 「illegal」は刑事罰や明確な法的禁止に重点があり、「unlawful」はより広く「法に反する」行為全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、契約や規則、法的な話題で「illegal」が形容詞と�
 
 ## 🧩 あわせて覚えたい
 
-- [legal](/word/legal/)：合法の、法律にかなった
-- [prohibited](/word/prohibited/)：禁止された
+- [legal](/legal)：合法の、法律にかなった
+- [prohibited](/prohibited)：禁止された
 
 ---
 
 ## 📖 できればこれも
 
-- [legitimate](/word/legitimate/)：正当な、合法の
-- [ban](/word/ban/)：禁止する
+- [legitimate](/legitimate)：正当な、合法の
+- [ban](/ban)：禁止する
 
-<!-- cvid: aid23_bid47 -->
+<!-- cvid: aid02_bid24 -->

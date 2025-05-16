@@ -81,15 +81,19 @@ TOEICでは、メールやお知らせ文などで謝罪や案内の表現とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールやお知らせ文などで謝罪や案内の表現とし
 ## 🤔  trouble との違いは？
 
 - **inconvenience**：主に「不便さ」や「迷惑」を丁寧に表現するフォーマルな言い方
-- **[trouble](/word/trouble/)**：より広く「問題」「困難」「トラブル」全般を指し、カジュアルな場面でも使う
+- **[trouble](/trouble)**：より広く「問題」「困難」「トラブル」全般を指し、カジュアルな場面でも使う
 
 inconvenienceは謝罪や案内など丁寧な場面で使われ、troubleは日常的な問題や困難にも幅広く使われます。
 
@@ -105,14 +109,14 @@ inconvenienceは謝罪や案内など丁寧な場面で使われ、troubleは日
 
 ## 🧩 あわせて覚えたい
 
-- [disturbance](/word/disturbance/)：妨害、邪魔
-- [comfort](/word/comfort/)：快適さ、安心
+- [disturbance](/disturbance)：妨害、邪魔
+- [comfort](/comfort)：快適さ、安心
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay/)：遅れ、延期
-- [issue](/word/issue/)：問題、課題
+- [delay](/delay)：遅れ、延期
+- [issue](/issue)：問題、課題
 
-<!-- cvid: aid05_bid10 -->
+<!-- cvid: aid48_bid11 -->

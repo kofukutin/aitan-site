@@ -81,15 +81,19 @@ TOEICでは、交通機関や会議、納品の遅れなど、ビジネスシー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、交通機関や会議、納品の遅れなど、ビジネスシー
 ## 🤔  postponed との違いは？
 
 - **delayed**：予定より遅れている、進行中のものが遅延している
-- **[postponed](/word/postponed/)**：予定そのものを後日に変更した
+- **[postponed](/postponed)**：予定そのものを後日に変更した
 
 delayedは「すでに始まっているものが遅れる」場合に使い、postponedは「予定自体を後ろにずらす」場合に使います。
 
@@ -105,14 +109,14 @@ delayedは「すでに始まっているものが遅れる」場合に使い、p
 
 ## 🧩 あわせて覚えたい
 
-- [canceled](/word/canceled/)：中止された
-- [rescheduled](/word/rescheduled/)：再調整された、予定変更された
+- [canceled](/canceled)：中止された
+- [rescheduled](/rescheduled)：再調整された、予定変更された
 
 ---
 
 ## 📖 できればこれも
 
-- [late](/word/late/)：遅い、遅れて
-- [pending](/word/pending/)：未決定の、保留中の
+- [late](/late)：遅い、遅れて
+- [pending](/pending)：未決定の、保留中の
 
-<!-- cvid: aid11_bid05 -->
+<!-- cvid: aid13_bid02 -->

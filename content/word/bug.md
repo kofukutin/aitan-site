@@ -81,15 +81,19 @@ IT関連のメールや説明文で「バグ（不具合）」として出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連のメールや説明文で「バグ（不具合）」として出題さ
 ## 🤔  error との違いは？
 
 - **bug**：主にプログラムやシステムの「不具合」「バグ」を指すカジュアルな表現。
-- **[error](/word/error/)**：より広く「誤り」「ミス」「エラー」を指し、フォーマルな場面でも使われる。
+- **[error](/error)**：より広く「誤り」「ミス」「エラー」を指し、フォーマルな場面でも使われる。
 
 bugはIT分野で「バグ」として使われ、errorはシステムや人為的な「エラー」全般に使われます。
 
@@ -105,14 +109,14 @@ bugはIT分野で「バグ」として使われ、errorはシステムや人為�
 
 ## 🧩 あわせて覚えたい
 
-- [glitch](/word/glitch/)：一時的な小さな不具合
-- [virus](/word/virus/)：コンピュータウイルス
+- [glitch](/glitch)：一時的な小さな不具合
+- [virus](/virus)：コンピュータウイルス
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue/)：問題、課題
-- [feature](/word/feature/)：機能、特徴
+- [issue](/issue)：問題、課題
+- [feature](/feature)：機能、特徴
 
-<!-- cvid: aid26_bid44 -->
+<!-- cvid: aid24_bid43 -->

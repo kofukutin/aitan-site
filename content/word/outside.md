@@ -77,15 +77,19 @@ TOEICでは主に写真描写問題で「外にいる」「外に置かれてい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主に写真描写問題で「外にいる」「外に置かれてい
 ## 🤔  exterior との違いは？
 
 - **outside**：日常的に「外側」「外に」と場所や範囲の外を表す。
-- **[exterior](/word/exterior/)**：建物や物の「外観」「外部」といったフォーマルな表現。
+- **[exterior](/exterior)**：建物や物の「外観」「外部」といったフォーマルな表現。
 
 outsideはカジュアルで広く使われ、exteriorは建築やデザインなど専門的・フォーマルな場面で使われます。
 
@@ -101,14 +105,14 @@ outsideはカジュアルで広く使われ、exteriorは建築やデザイン�
 
 ## 🧩 あわせて覚えたい
 
-- [inside](/word/inside/)：内側、～の中に
-- [beyond](/word/beyond/)：～を越えて、～の向こうに
+- [inside](/inside)：内側、～の中に
+- [beyond](/beyond)：～を越えて、～の向こうに
 
 ---
 
 ## 📖 できればこれも
 
-- [above](/word/above/)：～の上に
-- [around](/word/around/)：～の周りに
+- [above](/above)：～の上に
+- [around](/around)：～の周りに
 
-<!-- cvid: aid27_bid03 -->
+<!-- cvid: aid17_bid10 -->

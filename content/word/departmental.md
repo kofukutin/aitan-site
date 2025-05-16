@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や社内通知、メールなどで「部門
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や社内通知、メールなどで「部門
 ## 🤔  divisional との違いは？
 
 - **departmental**：部門や部署など、比較的小さな組織単位に関する
-- **[divisional](/word/divisional/)**：会社や組織の「事業部」など、より大きな区分に関する
+- **[divisional](/divisional)**：会社や組織の「事業部」など、より大きな区分に関する
 
 「departmental」は一般的な部署や部門に、「divisional」は大規模な事業部や区分に使われることが多く、規模や組織階層の違いがあります。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書や社内通知、メールなどで「部門
 
 ## 🧩 あわせて覚えたい
 
-- [sectional](/word/sectional/)：区分の、部分的な
-- [organizational](/word/organizational/)：組織の、組織的な
+- [sectional](/sectional)：区分の、部分的な
+- [organizational](/organizational)：組織の、組織的な
 
 ---
 
 ## 📖 できればこれも
 
-- [corporate](/word/corporate/)：企業の、法人の
-- [managerial](/word/managerial/)：管理職の、経営の
+- [corporate](/corporate)：企業の、法人の
+- [managerial](/managerial)：管理職の、経営の
 
-<!-- cvid: aid29_bid13 -->
+<!-- cvid: aid47_bid31 -->

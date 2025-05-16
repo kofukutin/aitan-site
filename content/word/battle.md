@@ -81,15 +81,19 @@ TOEICでは、企業間の競争や困難な状況を表す文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業間の競争や困難な状況を表す文脈で出題され
 ## 🤔  fight との違いは？
 
 - **battle**：組織的・大規模な戦い、または比喩的な困難との闘い
-- **[fight](/word/fight/)**：個人間や小規模な争い、けんか
+- **[fight](/fight)**：個人間や小規模な争い、けんか
 
 battleは計画的・組織的な戦いや困難との闘争に使われ、fightはより直接的・個人的な争いに使われます。
 
@@ -105,14 +109,14 @@ battleは計画的・組織的な戦いや困難との闘争に使われ、fight
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict/)：対立、衝突
-- [competition](/word/competition/)：競争
+- [conflict](/conflict)：対立、衝突
+- [competition](/competition)：競争
 
 ---
 
 ## 📖 できればこれも
 
-- [challenge](/word/challenge/)：挑戦、課題
-- [debate](/word/debate/)：討論、議論
+- [challenge](/challenge)：挑戦、課題
+- [debate](/debate)：討論、議論
 
-<!-- cvid: aid43_bid30 -->
+<!-- cvid: aid41_bid26 -->

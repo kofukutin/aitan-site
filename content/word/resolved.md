@@ -81,15 +81,19 @@ TOEICでは「問題が解決された」「決意している」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「問題が解決された」「決意している」といった意
 ## 🤔  determined との違いは？
 
 - **resolved**：強い決意がある、または問題が解決された状態を表す
-- **[determined](/word/determined/)**：困難に負けずにやり抜く強い意志を表す
+- **[determined](/determined)**：困難に負けずにやり抜く強い意志を表す
 
 「resolved」は決意や問題解決の結果に焦点があり、「determined」は行動を貫く強い意志に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「問題が解決された」「決意している」といった意
 
 ## 🧩 あわせて覚えたい
 
-- [settled](/word/settled/)：解決した、落ち着いた
-- [undecided](/word/undecided/)：決まっていない、未決定の
+- [settled](/settled)：解決した、落ち着いた
+- [undecided](/undecided)：決まっていない、未決定の
 
 ---
 
 ## 📖 できればこれも
 
-- [pending](/word/pending/)：未解決の、保留中の
-- [confirmed](/word/confirmed/)：確認された、確定した
+- [pending](/pending)：未解決の、保留中の
+- [confirmed](/confirmed)：確認された、確定した
 
-<!-- cvid: aid35_bid41 -->
+<!-- cvid: aid44_bid49 -->

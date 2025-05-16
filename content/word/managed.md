@@ -81,15 +81,19 @@ TOEICでは「manage to do（なんとか～する）」や「be managed by（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「manage to do（なんとか～する）」や「be managed by（�
 ## 🤔  handled との違いは？
 
 - **managed**：全体を計画・管理したり、困難を乗り越えたニュアンス
-- **[handled](/word/handled/)**：具体的な作業や問題を「対処した」「処理した」ニュアンス
+- **[handled](/handled)**：具体的な作業や問題を「対処した」「処理した」ニュアンス
 
 managedは「全体をまとめて管理した」や「困難をなんとかした」時に使い、handledは「個別の作業や問題に対応した」時に使います。
 
@@ -105,14 +109,14 @@ managedは「全体をまとめて管理した」や「困難をなんとかし�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise/)：監督する、指導する
-- [control](/word/control/)：制御する、抑制する
+- [supervise](/supervise)：監督する、指導する
+- [control](/control)：制御する、抑制する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [organize](/word/organize/)：組織する、まとめる
+- [arrange](/arrange)：手配する、整える
+- [organize](/organize)：組織する、まとめる
 
-<!-- cvid: aid44_bid29 -->
+<!-- cvid: aid23_bid35 -->

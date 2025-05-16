@@ -81,15 +81,19 @@ TOEICでは価格や支払い、請求書などの文脈でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは価格や支払い、請求書などの文脈でよく登場します
 ## 🤔  bill との違いは？
 
 - **dollar**：通貨単位としての「ドル」
-- **[bill](/word/bill/)**：紙幣や請求書
+- **[bill](/bill)**：紙幣や請求書
 
 dollarは金額や通貨単位を指し、billは紙幣そのものや請求書を指します。
 
@@ -105,14 +109,14 @@ dollarは金額や通貨単位を指し、billは紙幣そのものや請求書�
 
 ## 🧩 あわせて覚えたい
 
-- [cent](/word/cent/)：セント（ドルの1/100の単位）
-- [currency](/word/currency/)：通貨
+- [cent](/cent)：セント（ドルの1/100の単位）
+- [currency](/currency)：通貨
 
 ---
 
 ## 📖 できればこれも
 
-- [coin](/word/coin/)：硬貨
-- [price](/word/price/)：価格
+- [coin](/coin)：硬貨
+- [price](/price)：価格
 
-<!-- cvid: aid10_bid06 -->
+<!-- cvid: aid36_bid48 -->

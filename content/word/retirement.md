@@ -81,15 +81,19 @@ TOEICでは、退職や定年に関するお知らせや案内文、メールな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、退職や定年に関するお知らせや案内文、メールな
 ## 🤔  resignation との違いは？
 
 - **retirement**：長年働いた後の「退職」や「引退」を指し、通常は定年などポジティブな意味合い。
-- **[resignation](/word/resignation/)**：自分の意思で「辞職」すること。理由は問わず、ややフォーマルで中立的。
+- **[resignation](/resignation)**：自分の意思で「辞職」すること。理由は問わず、ややフォーマルで中立的。
 
 retirementは「引退」や「定年退職」のニュアンスが強く、resignationは「辞表を出して辞める」など幅広い理由の退職に使います。
 
@@ -105,14 +109,14 @@ retirementは「引退」や「定年退職」のニュアンスが強く、resi
 
 ## 🧩 あわせて覚えたい
 
-- [pension](/word/pension/)：年金
-- [dismissal](/word/dismissal/)：解雇
+- [pension](/pension)：年金
+- [dismissal](/dismissal)：解雇
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/word/promotion/)：昇進
-- [transfer](/word/transfer/)：異動
+- [promotion](/promotion)：昇進
+- [transfer](/transfer)：異動
 
-<!-- cvid: aid45_bid44 -->
+<!-- cvid: aid07_bid30 -->

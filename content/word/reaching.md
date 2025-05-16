@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「到達する」「手を伸ばす」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「到達する」「手を伸ばす」などの
 ## 🤔  approaching との違いは？
 
 - **reaching**：物理的・比喩的に「到達する」「手を伸ばす」動作や状態を表す。
-- **[approaching](/word/approaching/)**：何かに「近づく」「接近する」ことを表す。
+- **[approaching](/approaching)**：何かに「近づく」「接近する」ことを表す。
 
 reachingは「目標や物に実際に届く」ニュアンス、approachingは「まだ到達していないが近づいている」ニュアンスです。
 
@@ -105,14 +109,14 @@ reachingは「目標や物に実際に届く」ニュアンス、approachingは�
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/word/contact/)：連絡する、接触する
-- [achieve](/word/achieve/)：達成する
+- [contact](/contact)：連絡する、接触する
+- [achieve](/achieve)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive/)：到着する
-- [extend](/word/extend/)：伸ばす、広げる
+- [arrive](/arrive)：到着する
+- [extend](/extend)：伸ばす、広げる
 
-<!-- cvid: aid12_bid48 -->
+<!-- cvid: aid19_bid40 -->

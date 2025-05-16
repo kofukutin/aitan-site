@@ -81,15 +81,19 @@ TOEICでは、趣味やスポーツイベントの話題で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、趣味やスポーツイベントの話題で登場することが
 ## 🤔  softball との違いは？
 
 - **baseball**：バットと小さめの硬球を使い、広いフィールドで行う野球。
-- **[softball](/word/softball/)**：やや大きくて柔らかいボールを使い、フィールドもやや狭いソフトボール。
+- **[softball](/softball)**：やや大きくて柔らかいボールを使い、フィールドもやや狭いソフトボール。
 
 baseballはより本格的で競技性が高く、softballはレクリエーションや女性向けスポーツとしても親しまれています。
 
@@ -105,14 +109,14 @@ baseballはより本格的で競技性が高く、softballはレクリエーシ�
 
 ## 🧩 あわせて覚えたい
 
-- [bat](/word/bat/)：バット、野球の打撃用の棒
-- [pitcher](/word/pitcher/)：投手、ピッチャー
+- [bat](/bat)：バット、野球の打撃用の棒
+- [pitcher](/pitcher)：投手、ピッチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [soccer](/word/soccer/)：サッカー
-- [basketball](/word/basketball/)：バスケットボール
+- [soccer](/soccer)：サッカー
+- [basketball](/basketball)：バスケットボール
 
-<!-- cvid: aid02_bid04 -->
+<!-- cvid: aid15_bid37 -->

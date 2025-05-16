@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や説明文で「vast experience（豊富な経
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や説明文で「vast experience（豊富な経
 ## 🤔  huge との違いは？
 
 - **vast**：面積や数量、規模が非常に大きく、広がりや圧倒的なスケール感を強調するフォーマルな語。
-- **[huge](/word/huge/)**：単純に「とても大きい」「巨大な」という意味で、カジュアルな場面でもよく使われる。
+- **[huge](/huge)**：単純に「とても大きい」「巨大な」という意味で、カジュアルな場面でもよく使われる。
 
 「vast」は広がりや範囲の大きさを強調し、ややフォーマルな印象。「huge」は大きさそのものを強調し、日常会話でもよく使います。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や説明文で「vast experience（豊富な経
 
 ## 🧩 あわせて覚えたい
 
-- [enormous](/word/enormous/)：非常に大きい、莫大な
-- [tiny](/word/tiny/)：とても小さい
+- [enormous](/enormous)：非常に大きい、莫大な
+- [tiny](/tiny)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [broad](/word/broad/)：広い、幅広い
-- [extensive](/word/extensive/)：広範囲にわたる
+- [broad](/broad)：広い、幅広い
+- [extensive](/extensive)：広範囲にわたる
 
-<!-- cvid: aid37_bid19 -->
+<!-- cvid: aid16_bid02 -->

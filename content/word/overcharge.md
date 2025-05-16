@@ -81,15 +81,19 @@ TOEICでは請求書やクレーム対応の文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書やクレーム対応の文脈で出題されることが多
 ## 🤔  charge との違いは？
 
 - **overcharge**：本来よりも高く請求する、過剰請求する
-- **[charge](/word/charge/)**：料金を請求する（中立的な意味）
+- **[charge](/charge)**：料金を請求する（中立的な意味）
 
 「overcharge」は「不当に高い金額を請求する」否定的な意味ですが、「charge」は単に「請求する」で、金額の多寡や正当性には触れません。
 
@@ -105,14 +109,14 @@ TOEICでは請求書やクレーム対応の文脈で出題されることが多
 
 ## 🧩 あわせて覚えたい
 
-- [refund](/word/refund/)：返金、払い戻し
-- [undercharge](/word/undercharge/)：請求額が少なすぎる、安く請求する
+- [refund](/refund)：返金、払い戻し
+- [undercharge](/undercharge)：請求額が少なすぎる、安く請求する
 
 ---
 
 ## 📖 できればこれも
 
-- [bill](/word/bill/)：請求書
-- [invoice](/word/invoice/)：送り状、請求書
+- [bill](/bill)：請求書
+- [invoice](/invoice)：送り状、請求書
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid24_bid49 -->

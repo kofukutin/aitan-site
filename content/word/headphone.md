@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、人物がヘッドフォンを着用し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、人物がヘッドフォンを着用し
 ## 🤔  earphone との違いは？
 
 - **headphone**：頭にかけて両耳を覆うタイプの音響機器
-- **[earphone](/word/earphone/)**：耳の中や耳に直接差し込む小型の音響機器
+- **[earphone](/earphone)**：耳の中や耳に直接差し込む小型の音響機器
 
 headphoneは大きめで耳全体を覆うのに対し、earphoneは小型で耳に差し込むタイプです。用途や装着感が異なります。
 
@@ -105,14 +109,14 @@ headphoneは大きめで耳全体を覆うのに対し、earphoneは小型で耳
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/word/microphone/)：マイク、音声を拾う機器
-- [speaker](/word/speaker/)：スピーカー、音を出す機器
+- [microphone](/microphone)：マイク、音声を拾う機器
+- [speaker](/speaker)：スピーカー、音を出す機器
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard/)：キーボード、入力装置
-- [monitor](/word/monitor/)：モニター、画面表示装置
+- [keyboard](/keyboard)：キーボード、入力装置
+- [monitor](/monitor)：モニター、画面表示装置
 
-<!-- cvid: aid02_bid23 -->
+<!-- cvid: aid22_bid07 -->

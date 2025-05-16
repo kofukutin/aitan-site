@@ -88,8 +88,12 @@ TOEICでは、ビジネス文書や人事関連の文脈で「retain」が「雇
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や人事関連の文脈で「retain」が「雇
 ## 🤔  keep との違いは？
 
 - **retain**：フォーマルで「維持する」「保有し続ける」の意味。主にビジネスや公式文書で使われる。
-- **[keep](/word/keep/)**：日常的で幅広く使われ、「持ち続ける」「保つ」などカジュアルな表現。
+- **[keep](/keep)**：日常的で幅広く使われ、「持ち続ける」「保つ」などカジュアルな表現。
 
 retainは形式的・公式な場面で使われ、keepは日常会話やカジュアルな場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ retainは形式的・公式な場面で使われ、keepは日常会話やカジ�
 
 ## 🧩 あわせて覚えたい
 
-- [preserve](/word/preserve/)：保存する、保護する
-- [dismiss](/word/dismiss/)：解雇する、退ける
+- [preserve](/preserve)：保存する、保護する
+- [dismiss](/dismiss)：解雇する、退ける
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain/)：維持する、保守する
-- [store](/word/store/)：保存する、蓄える
+- [maintain](/maintain)：維持する、保守する
+- [store](/store)：保存する、蓄える
 
-<!-- cvid: aid41_bid25 -->
+<!-- cvid: aid41_bid38 -->

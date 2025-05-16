@@ -81,15 +81,19 @@ TOEICでは歴史や文化を紹介する長文や観光案内の文脈で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や文化を紹介する長文や観光案内の文脈で登場
 ## 🤔  soldier との違いは？
 
 - **warrior**：伝統的・歴史的な戦士や個人の勇敢さを強調する言葉
-- **[soldier](/word/soldier/)**：現代の軍隊に所属する兵士を指す
+- **[soldier](/soldier)**：現代の軍隊に所属する兵士を指す
 
 warriorは個人の勇気や伝説的な存在を表し、soldierは組織的な軍人を意味します。
 
@@ -105,14 +109,14 @@ warriorは個人の勇気や伝説的な存在を表し、soldierは組織的な
 
 ## 🧩 あわせて覚えたい
 
-- [hero](/word/hero/)：英雄、勇者
-- [fighter](/word/fighter/)：戦う人、格闘家
+- [hero](/hero)：英雄、勇者
+- [fighter](/fighter)：戦う人、格闘家
 
 ---
 
 ## 📖 できればこれも
 
-- [battle](/word/battle/)：戦い、戦闘
-- [brave](/word/brave/)：勇敢な
+- [battle](/battle)：戦い、戦闘
+- [brave](/brave)：勇敢な
 
-<!-- cvid: aid09_bid08 -->
+<!-- cvid: aid22_bid23 -->

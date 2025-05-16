@@ -81,15 +81,19 @@ clarifyはTOEICの会議や説明の場面で、内容を明確にする意図�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ clarifyはTOEICの会議や説明の場面で、内容を明確にする意図�
 ## 🤔  explain との違いは？
 
 - **clarify**：あいまいな点や誤解を「明確にする」「はっきりさせる」
-- **[explain](/word/explain/)**：物事を「説明する」、理由や仕組みを伝える
+- **[explain](/explain)**：物事を「説明する」、理由や仕組みを伝える
 
 clarifyは「すでにある情報をよりクリアにする」ニュアンスが強く、explainは「初めて内容を説明する」場面で使われます。
 
@@ -105,14 +109,14 @@ clarifyは「すでにある情報をよりクリアにする」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [specify](/word/specify/)：具体的に述べる
-- [elaborate](/word/elaborate/)：詳しく述べる
+- [specify](/specify)：具体的に述べる
+- [elaborate](/elaborate)：詳しく述べる
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する
-- [summarize](/word/summarize/)：要約する
+- [confirm](/confirm)：確認する
+- [summarize](/summarize)：要約する
 
-<!-- cvid: aid12_bid06 -->
+<!-- cvid: aid17_bid02 -->

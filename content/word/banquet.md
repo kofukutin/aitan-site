@@ -81,15 +81,19 @@ TOEICでは、ホテルやイベント、ビジネスの案内文や招待状な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやイベント、ビジネスの案内文や招待状な
 ## 🤔  party との違いは？
 
 - **banquet**：フォーマルで大規模な宴会や祝宴を指す
-- **[party](/word/party/)**：カジュアルからフォーマルまで幅広い集まりを指し、必ずしも食事が中心とは限らない
+- **[party](/party)**：カジュアルからフォーマルまで幅広い集まりを指し、必ずしも食事が中心とは限らない
 
 banquetは格式のある食事会や式典で使われ、partyは友人同士の集まりなど幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ banquetは格式のある食事会や式典で使われ、partyは友人同士�
 
 ## 🧩 あわせて覚えたい
 
-- [reception](/word/reception/)：（公式な）歓迎会、レセプション
-- [gathering](/word/gathering/)：集まり、会合
+- [reception](/reception)：（公式な）歓迎会、レセプション
+- [gathering](/gathering)：集まり、会合
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議、協議会
-- [ceremony](/word/ceremony/)：式典、儀式
+- [conference](/conference)：会議、協議会
+- [ceremony](/ceremony)：式典、儀式
 
-<!-- cvid: aid06_bid49 -->
+<!-- cvid: aid08_bid08 -->

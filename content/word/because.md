@@ -77,15 +77,19 @@ TOEICでは理由を問う文脈や、接続詞の使い分け問題で頻出で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid08" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid08" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは理由を問う文脈や、接続詞の使い分け問題で頻出で
 ## 🤔  since との違いは？
 
 - **because**：理由を明確に説明したいときに使う
-- **[since](/word/since/)**：理由だけでなく「～以来」という時間の意味もあり、理由の場合はややフォーマル
+- **[since](/since)**：理由だけでなく「～以来」という時間の意味もあり、理由の場合はややフォーマル
 
 becauseは理由を強調したいとき、sinceは理由を補足的に述べるときや時間の起点を表すときに使い分けます。
 
@@ -101,14 +105,14 @@ becauseは理由を強調したいとき、sinceは理由を補足的に述べ�
 
 ## 🧩 あわせて覚えたい
 
-- [although](/word/although/)：～だけれども（逆接の接続詞）
-- [so](/word/so/)：だから、それで（結果を表す接続詞）
+- [although](/although)：～だけれども（逆接の接続詞）
+- [so](/so)：だから、それで（結果を表す接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [if](/word/if/)：もし～なら（条件を表す接続詞）
-- [but](/word/but/)：しかし（逆接の接続詞）
+- [if](/if)：もし～なら（条件を表す接続詞）
+- [but](/but)：しかし（逆接の接続詞）
 
-<!-- cvid: aid36_bid01 -->
+<!-- cvid: aid25_bid08 -->

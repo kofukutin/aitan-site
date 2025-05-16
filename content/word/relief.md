@@ -81,15 +81,19 @@ TOEICでは、災害支援やストレス軽減、安心感などの文脈で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、災害支援やストレス軽減、安心感などの文脈で登
 ## 🤔  comfort との違いは？
 
 - **relief**：苦痛や不安が和らいだときの「ほっとした安心感」や「救済」
-- **[comfort](/word/comfort/)**：心地よさや物理的・精神的な「快適さ」
+- **[comfort](/comfort)**：心地よさや物理的・精神的な「快適さ」
 
 reliefは「苦しみや不安から解放された安心感」、comfortは「心地よさや安らぎ」を指し、reliefの方が「苦痛からの解放」に重点があります。
 
@@ -105,14 +109,14 @@ reliefは「苦しみや不安から解放された安心感」、comfortは「�
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety/)：不安、心配
-- [assistance](/word/assistance/)：援助、手助け
+- [anxiety](/anxiety)：不安、心配
+- [assistance](/assistance)：援助、手助け
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support/)：支援、サポート
-- [aid](/word/aid/)：援助、救援
+- [support](/support)：支援、サポート
+- [aid](/aid)：援助、救援
 
-<!-- cvid: aid35_bid30 -->
+<!-- cvid: aid23_bid15 -->

@@ -82,15 +82,19 @@ TOEICでは会議や電話の場面で「話題や担当を切り替える」意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議や電話の場面で「話題や担当を切り替える」意
 ## 🤔  change との違いは？
 
 - **switch**：あるものから別のものへ「切り替える」「交代する」ニュアンス
-- **[change](/word/change/)**：全体的に「変える」「変更する」幅広い意味
+- **[change](/change)**：全体的に「変える」「変更する」幅広い意味
 
 switchは「AからBへ切り替える」ような限定的な変化、changeは「内容や状態を変える」広い意味で使います。
 
@@ -106,14 +110,14 @@ switchは「AからBへ切り替える」ような限定的な変化、changeは
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace/)：取り替える、交換する
-- [toggle](/word/toggle/)：（スイッチなどを）切り替える
+- [replace](/replace)：取り替える、交換する
+- [toggle](/toggle)：（スイッチなどを）切り替える
 
 ---
 
 ## 📖 できればこれも
 
-- [select](/word/select/)：選ぶ、選択する
-- [shift](/word/shift/)：移す、移動する
+- [select](/select)：選ぶ、選択する
+- [shift](/shift)：移す、移動する
 
-<!-- cvid: aid37_bid23 -->
+<!-- cvid: aid35_bid20 -->

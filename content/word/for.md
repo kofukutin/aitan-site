@@ -77,15 +77,19 @@ TOEICでは前置詞の使い分け問題で頻出です。期間や目的を問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは前置詞の使い分け問題で頻出です。期間や目的を問
 ## 🤔  during との違いは？
 
 - **for**：期間の「長さ」や「目的」を表す前置詞
-- **[during](/word/during/)**：特定の期間「の間に」何かが起こることを表す前置詞
+- **[during](/during)**：特定の期間「の間に」何かが起こることを表す前置詞
 
 forは「～の間（何年、何時間など）」という長さや目的に使い、duringは「～の間に（イベントや期間中）」という出来事に使います。
 
@@ -101,14 +105,14 @@ forは「～の間（何年、何時間など）」という長さや目的に�
 
 ## 🧩 あわせて覚えたい
 
-- [since](/word/since/)：～以来、～からずっと
-- [until](/word/until/)：～まで（ずっと）
+- [since](/since)：～以来、～からずっと
+- [until](/until)：～まで（ずっと）
 
 ---
 
 ## 📖 できればこれも
 
-- [with](/word/with/)：～と一緒に、～を使って
-- [by](/word/by/)：～までに、～によって
+- [with](/with)：～と一緒に、～を使って
+- [by](/by)：～までに、～によって
 
-<!-- cvid: aid34_bid44 -->
+<!-- cvid: aid01_bid12 -->

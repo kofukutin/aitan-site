@@ -81,15 +81,19 @@ TOEICではビジネス文書や会議の議事録、企業戦略に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議の議事録、企業戦略に関する長
 ## 🤔  tactical との違いは？
 
 - **strategic**：全体の目標や長期的な計画に関わる「戦略的な」
-- **[tactical](/word/tactical/)**：具体的な方法や短期的な手段に関わる「戦術的な」
+- **[tactical](/tactical)**：具体的な方法や短期的な手段に関わる「戦術的な」
 
 strategicは「大きな方向性や長期的な視点」、tacticalは「具体的な手段や短期的な行動」に使い分けます。
 
@@ -105,14 +109,14 @@ strategicは「大きな方向性や長期的な視点」、tacticalは「具体
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan/)：計画
-- [policy](/word/policy/)：方針
+- [plan](/plan)：計画
+- [policy](/policy)：方針
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [objective](/word/objective/)：目標、目的
+- [efficient](/efficient)：効率的な
+- [objective](/objective)：目標、目的
 
-<!-- cvid: aid08_bid19 -->
+<!-- cvid: aid24_bid35 -->

@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、海岸や沿岸の風景を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、海岸や沿岸の風景を説明する
 ## 🤔  shore との違いは？
 
 - **coast**：広い範囲の「海岸」や「沿岸」を指す
-- **[shore](/word/shore/)**：水際の「岸辺」や「浜辺」を指す
+- **[shore](/shore)**：水際の「岸辺」や「浜辺」を指す
 
 coastは国や地域の長い海岸線全体を指すことが多く、shoreは水と陸が接する狭い部分（浜辺や岸辺）を表します。
 
@@ -105,14 +109,14 @@ coastは国や地域の長い海岸線全体を指すことが多く、shoreは�
 
 ## 🧩 あわせて覚えたい
 
-- [beach](/word/beach/)：砂浜
-- [border](/word/border/)：国境、境界
+- [beach](/beach)：砂浜
+- [border](/border)：国境、境界
 
 ---
 
 ## 📖 できればこれも
 
-- [harbor](/word/harbor/)：港
-- [island](/word/island/)：島
+- [harbor](/harbor)：港
+- [island](/island)：島
 
-<!-- cvid: aid49_bid49 -->
+<!-- cvid: aid44_bid36 -->

@@ -81,15 +81,19 @@ TOEICでは製品説明や素材に関する長文、仕様書などで見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは製品説明や素材に関する長文、仕様書などで見かけ
 ## 🤔  plastic との違いは？
 
 - **acrylic**：アクリル樹脂やアクリル製品など、特定の合成樹脂を指す。
-- **[plastic](/word/plastic/)**：プラスチック全般を指し、アクリルもその一種。
+- **[plastic](/plastic)**：プラスチック全般を指し、アクリルもその一種。
 
 acrylicはplasticの一種で、特に透明度や耐久性が求められる場面で使われます。plasticはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ acrylicはplasticの一種で、特に透明度や耐久性が求められる場
 
 ## 🧩 あわせて覚えたい
 
-- [fiber](/word/fiber/)：繊維
-- [resin](/word/resin/)：樹脂
+- [fiber](/fiber)：繊維
+- [resin](/resin)：樹脂
 
 ---
 
 ## 📖 できればこれも
 
-- [nylon](/word/nylon/)：ナイロン（合成繊維の一種）
-- [polyester](/word/polyester/)：ポリエステル（合成繊維の一種）
+- [nylon](/nylon)：ナイロン（合成繊維の一種）
+- [polyester](/polyester)：ポリエステル（合成繊維の一種）
 
-<!-- cvid: aid14_bid18 -->
+<!-- cvid: aid45_bid27 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【persistent】の意味・使い方・例文 ― tenaciousとの違い【TOEIC英単語】"
 description: "persistentの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtenaciousとの違いもわかりやすく学べます。"
 word: "persistent"
@@ -81,15 +81,19 @@ TOEICでは、形容詞として「persistent effort（粘り強い努力）」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid17" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid17" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「persistent effort（粘り強い努力）」�
 ## 🤔  tenacious との違いは？
 
 - **persistent**：困難があってもあきらめずに続ける、または長く続く様子
-- **[tenacious](/word/tenacious/)**：強い意志でしがみつくように粘り強い
+- **[tenacious](/tenacious)**：強い意志でしがみつくように粘り強い
 
 persistentは「継続する力」に重点があり、tenaciousは「決して手放さない強い意志」に重点があります。tenaciousの方がより強い執着や粘着性を感じさせます。
 
@@ -105,14 +109,14 @@ persistentは「継続する力」に重点があり、tenaciousは「決して�
 
 ## 🧩 あわせて覚えたい
 
-- [stubborn](/word/stubborn/)：頑固な、意地を張る
-- [consistent](/word/consistent/)：一貫した、変わらない
+- [stubborn](/stubborn)：頑固な、意地を張る
+- [consistent](/consistent)：一貫した、変わらない
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [determined](/word/determined/)：決意が固い
+- [reliable](/reliable)：信頼できる
+- [determined](/determined)：決意が固い
 
-<!-- cvid: aid44_bid42 -->
+<!-- cvid: aid37_bid17 -->

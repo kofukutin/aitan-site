@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や説明文で「systematic approach」など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や説明文で「systematic approach」など�
 ## 🤔  methodical との違いは？
 
 - **systematic**：全体のシステムや計画に従って組織的に行う
-- **[methodical](/word/methodical/)**：一つ一つの手順や方法を丁寧に守って行う
+- **[methodical](/methodical)**：一つ一つの手順や方法を丁寧に守って行う
 
 systematicは「全体の枠組みやシステムに沿っている」ニュアンスが強く、methodicalは「細かい手順や順序を守る」点が強調されます。
 
@@ -105,14 +109,14 @@ systematicは「全体の枠組みやシステムに沿っている」ニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [organized](/word/organized/)：整理された、組織的な
-- [chaotic](/word/chaotic/)：混沌とした、無秩序な
+- [organized](/organized)：整理された、組織的な
+- [chaotic](/chaotic)：混沌とした、無秩序な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [logical](/word/logical/)：論理的な
+- [efficient](/efficient)：効率的な
+- [logical](/logical)：論理的な
 
-<!-- cvid: aid23_bid38 -->
+<!-- cvid: aid21_bid07 -->

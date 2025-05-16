@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sweater】の意味・使い方・例文 ― cardiganとの違い【TOEIC英単語】"
 description: "sweaterの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcardiganとの違いもわかりやすく学べます。"
 word: "sweater"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、服装や人物の説明として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、服装や人物の説明として出
 ## 🤔  cardigan との違いは？
 
 - **sweater**：頭からかぶって着るセーター全般を指す。
-- **[cardigan](/word/cardigan/)**：前開きでボタンやジッパーが付いたセーター。
+- **[cardigan](/cardigan)**：前開きでボタンやジッパーが付いたセーター。
 
 sweaterはかぶって着るタイプが一般的ですが、cardiganは前開きで羽織るタイプのセーターです。
 
@@ -105,14 +109,14 @@ sweaterはかぶって着るタイプが一般的ですが、cardiganは前開�
 
 ## 🧩 あわせて覚えたい
 
-- [jacket](/word/jacket/)：ジャケット、上着
-- [pullover](/word/pullover/)：プルオーバー（かぶって着るセーター）
+- [jacket](/jacket)：ジャケット、上着
+- [pullover](/pullover)：プルオーバー（かぶって着るセーター）
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt/)：シャツ
-- [scarf](/word/scarf/)：マフラー、スカーフ
+- [shirt](/shirt)：シャツ
+- [scarf](/scarf)：マフラー、スカーフ
 
-<!-- cvid: aid32_bid48 -->
+<!-- cvid: aid24_bid07 -->

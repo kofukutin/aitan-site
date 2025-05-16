@@ -81,15 +81,19 @@ TOEICではビジネスシーンの会話や説明文で「需要」や「要求
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスシーンの会話や説明文で「需要」や「要求
 ## 🤔  request との違いは？
 
 - **demand**：強く求める要求や需要。相手に圧力をかけるニュアンスがある。
-- **[request](/word/request/)**：丁寧に頼む、控えめなお願い。
+- **[request](/request)**：丁寧に頼む、控えめなお願い。
 
 demandは「当然の権利」として強く求める時に使い、requestは丁寧にお願いする時に使います。
 
@@ -105,14 +109,14 @@ demandは「当然の権利」として強く求める時に使い、requestは�
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply/)：供給
-- [requirement](/word/requirement/)：必要条件
+- [supply](/supply)：供給
+- [requirement](/requirement)：必要条件
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer/)：申し出
-- [proposal](/word/proposal/)：提案
+- [offer](/offer)：申し出
+- [proposal](/proposal)：提案
 
-<!-- cvid: aid40_bid09 -->
+<!-- cvid: aid20_bid03 -->

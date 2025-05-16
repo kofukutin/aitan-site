@@ -81,15 +81,19 @@ boltは、工場やオフィスの設備、修理に関する会話や説明で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ boltは、工場やオフィスの設備、修理に関する会話や説明で�
 ## 🤔  screw との違いは？
 
 - **bolt**：ナットと組み合わせて使う、頭部が六角形などの金属製の留め具
-- **[screw](/word/screw/)**：ねじ山があり、単体で物を固定できる留め具
+- **[screw](/screw)**：ねじ山があり、単体で物を固定できる留め具
 
 boltはナットと一緒に使うのが基本で、screwは単体で木材や金属にねじ込んで使います。
 
@@ -105,14 +109,14 @@ boltはナットと一緒に使うのが基本で、screwは単体で木材や�
 
 ## 🧩 あわせて覚えたい
 
-- [nut](/word/nut/)：ナット（ボルトと組み合わせて使う金具）
-- [fastener](/word/fastener/)：留め具、締結具
+- [nut](/nut)：ナット（ボルトと組み合わせて使う金具）
+- [fastener](/fastener)：留め具、締結具
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool/)：道具、工具
-- [lock](/word/lock/)：錠、ロック
+- [tool](/tool)：道具、工具
+- [lock](/lock)：錠、ロック
 
-<!-- cvid: aid43_bid29 -->
+<!-- cvid: aid30_bid02 -->

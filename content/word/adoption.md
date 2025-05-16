@@ -81,15 +81,19 @@ TOEICでは、会社の方針や新しい制度の「採用」に関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の方針や新しい制度の「採用」に関する文脈
 ## 🤔  approval との違いは？
 
 - **adoption**：新しい制度や方法を「正式に採用・導入」すること
-- **[approval](/word/approval/)**：提案や計画などを「承認」すること
+- **[approval](/approval)**：提案や計画などを「承認」すること
 
 adoptionは「実際に取り入れる」ニュアンスが強く、approvalは「認める・許可する」意味合いが中心です。
 
@@ -105,14 +109,14 @@ adoptionは「実際に取り入れる」ニュアンスが強く、approvalは�
 
 ## 🧩 あわせて覚えたい
 
-- [implementation](/word/implementation/)：実施、導入
-- [selection](/word/selection/)：選択
+- [implementation](/implementation)：実施、導入
+- [selection](/selection)：選択
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案
-- [decision](/word/decision/)：決定
+- [proposal](/proposal)：提案
+- [decision](/decision)：決定
 
-<!-- cvid: aid45_bid12 -->
+<!-- cvid: aid08_bid48 -->

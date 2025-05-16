@@ -81,15 +81,19 @@ TOEICでは、場所やサービスの「便利さ」や「アクセスの良さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、場所やサービスの「便利さ」や「アクセスの良さ
 ## 🤔  comfortably との違いは？
 
 - **conveniently**：便利に、都合よく（利用やアクセスがしやすいことを強調）
-- **[comfortably](/word/comfortably/)**：快適に、心地よく（居心地や気分の良さを強調）
+- **[comfortably](/comfortably)**：快適に、心地よく（居心地や気分の良さを強調）
 
 「conveniently」は利便性やアクセスの良さ、「comfortably」は快適さや心地よさを表すため、使う場面や強調点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは、場所やサービスの「便利さ」や「アクセスの良さ
 
 ## 🧩 あわせて覚えたい
 
-- [efficiently](/word/efficiently/)：効率的に
-- [accessibly](/word/accessibly/)：アクセスしやすく
+- [efficiently](/efficiently)：効率的に
+- [accessibly](/accessibly)：アクセスしやすく
 
 ---
 
 ## 📖 できればこれも
 
-- [easily](/word/easily/)：簡単に
-- [quickly](/word/quickly/)：素早く
+- [easily](/easily)：簡単に
+- [quickly](/quickly)：素早く
 
-<!-- cvid: aid29_bid31 -->
+<!-- cvid: aid26_bid20 -->

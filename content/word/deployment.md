@@ -81,15 +81,19 @@ ITやビジネスの現場での導入や展開に関する文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの現場での導入や展開に関する文脈で出題され
 ## 🤔  installation との違いは？
 
 - **deployment**：計画的な配置やシステム・サービスの導入全体を指す
-- **[installation](/word/installation/)**：機器やソフトを物理的・技術的に設置・インストールすること
+- **[installation](/installation)**：機器やソフトを物理的・技術的に設置・インストールすること
 
 deploymentは「展開・導入」という広い意味で使われ、installationは「設置・インストール」という具体的な作業を指します。
 
@@ -105,14 +109,14 @@ deploymentは「展開・導入」という広い意味で使われ、installati
 
 ## 🧩 あわせて覚えたい
 
-- [implementation](/word/implementation/)：実装、実行
-- [distribution](/word/distribution/)：配布、分配
+- [implementation](/implementation)：実装、実行
+- [distribution](/distribution)：配布、分配
 
 ---
 
 ## 📖 できればこれも
 
-- [launch](/word/launch/)：開始、立ち上げ
-- [update](/word/update/)：更新、アップデート
+- [launch](/launch)：開始、立ち上げ
+- [update](/update)：更新、アップデート
 
-<!-- cvid: aid26_bid40 -->
+<!-- cvid: aid02_bid35 -->

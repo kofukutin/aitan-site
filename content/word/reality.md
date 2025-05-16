@@ -81,15 +81,19 @@ TOEICでは、記事やレポート、ビジネス文書の中で「現実」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレポート、ビジネス文書の中で「現実」「
 ## 🤔  fact との違いは？
 
 - **reality**：現実そのものや現実の状態を指す
-- **[fact](/word/fact/)**：証拠や根拠に基づく「事実」を指す
+- **[fact](/fact)**：証拠や根拠に基づく「事実」を指す
 
 realityは「現実世界」や「現状」といった広い意味で使われ、factは「証明できる事実」に限定されます。
 
@@ -105,14 +109,14 @@ realityは「現実世界」や「現状」といった広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [illusion](/word/illusion/)：幻想、錯覚
-- [truth](/word/truth/)：真実
+- [illusion](/illusion)：幻想、錯覚
+- [truth](/truth)：真実
 
 ---
 
 ## 📖 できればこれも
 
-- [actuality](/word/actuality/)：実際、現実
-- [situation](/word/situation/)：状況、事態
+- [actuality](/actuality)：実際、現実
+- [situation](/situation)：状況、事態
 
-<!-- cvid: aid25_bid31 -->
+<!-- cvid: aid01_bid05 -->

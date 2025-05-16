@@ -81,15 +81,19 @@ The company offers sessions with a therapist for employees.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company offers sessions with a therapist for employees.
 ## 🤔  counselor との違いは？
 
 - **therapist**：治療やリハビリなど、専門的な治療行為を行う人
-- **[counselor](/word/counselor/)**：主に助言やカウンセリングを行う人
+- **[counselor](/counselor)**：主に助言やカウンセリングを行う人
 
 therapistは治療やリハビリの専門家、counselorは相談や助言が中心で、治療行為は行いません。
 
@@ -105,14 +109,14 @@ therapistは治療やリハビリの専門家、counselorは相談や助言が�
 
 ## 🧩 あわせて覚えたい
 
-- [psychologist](/word/psychologist/)：心理学者、心理士
-- [doctor](/word/doctor/)：医師
+- [psychologist](/psychologist)：心理学者、心理士
+- [doctor](/doctor)：医師
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy/)：治療、療法
-- [patient](/word/patient/)：患者
+- [therapy](/therapy)：治療、療法
+- [patient](/patient)：患者
 
-<!-- cvid: aid37_bid01 -->
+<!-- cvid: aid34_bid07 -->

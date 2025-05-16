@@ -81,15 +81,19 @@ TOEICでは、事故やトラブル、または急激な変化を説明する場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、事故やトラブル、または急激な変化を説明する場
 ## 🤔  burst との違いは？
 
 - **explosion**：大きな音や力を伴う爆発、または急激な増加を表す。
-- **[burst](/word/burst/)**：何かが突然破裂すること。規模や音はexplosionより小さい場合が多い。
+- **[burst](/burst)**：何かが突然破裂すること。規模や音はexplosionより小さい場合が多い。
 
 「explosion」は大規模で劇的な爆発や急増に使われ、「burst」は小規模な破裂や一瞬の出来事に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、事故やトラブル、または急激な変化を説明する場
 
 ## 🧩 あわせて覚えたい
 
-- [implosion](/word/implosion/)：内向きの爆発、内爆
-- [eruption](/word/eruption/)：噴火、突発
+- [implosion](/implosion)：内向きの爆発、内爆
+- [eruption](/eruption)：噴火、突発
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡大する、広がる
-- [explode](/word/explode/)：爆発する
+- [expand](/expand)：拡大する、広がる
+- [explode](/explode)：爆発する
 
-<!-- cvid: aid43_bid20 -->
+<!-- cvid: aid04_bid02 -->

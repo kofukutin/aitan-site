@@ -80,15 +80,19 @@ TOEICではコンサートやイベントの案内、文化施設の説明文な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではコンサートやイベントの案内、文化施設の説明文な
 ## 🤔  band との違いは？
 
 - **orchestra**：クラシック音楽を中心に、多数の楽器奏者で構成される大規模な団体。
-- **[band](/word/band/)**：ロックやジャズなど幅広いジャンルで使われ、小規模なグループにも用いられる。
+- **[band](/band)**：ロックやジャズなど幅広いジャンルで使われ、小規模なグループにも用いられる。
 
 orchestraは主にクラシック音楽の大人数編成、bandはジャンルや規模を問わず幅広く使われます。
 
@@ -104,14 +108,14 @@ orchestraは主にクラシック音楽の大人数編成、bandはジャンル�
 
 ## 🧩 あわせて覚えたい
 
-- [ensemble](/word/ensemble/)：アンサンブル、小規模な合奏団
-- [choir](/word/choir/)：合唱団
+- [ensemble](/ensemble)：アンサンブル、小規模な合奏団
+- [choir](/choir)：合唱団
 
 ---
 
 ## 📖 できればこれも
 
-- [concert](/word/concert/)：コンサート、演奏会
-- [performance](/word/performance/)：公演、演奏
+- [concert](/concert)：コンサート、演奏会
+- [performance](/performance)：公演、演奏
 
-<!-- cvid: aid21_bid28 -->
+<!-- cvid: aid33_bid09 -->

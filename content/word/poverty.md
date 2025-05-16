@@ -81,15 +81,19 @@ TOEICでは社会問題や経済に関する長文や記事で登場しやすい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは社会問題や経済に関する長文や記事で登場しやすい
 ## 🤔  shortage との違いは？
 
 - **poverty**：経済的・社会的な「貧困」や「困窮」を指す。
-- **[shortage](/word/shortage/)**：物や資源など「不足」「欠乏」を指す。
+- **[shortage](/shortage)**：物や資源など「不足」「欠乏」を指す。
 
 povertyは主に人や社会の経済的な困窮を表し、shortageは特定の物や資源が足りない状況に使います。
 
@@ -105,14 +109,14 @@ povertyは主に人や社会の経済的な困窮を表し、shortageは特定�
 
 ## 🧩 あわせて覚えたい
 
-- [wealth](/word/wealth/)：富、財産
-- [scarcity](/word/scarcity/)：不足、希少
+- [wealth](/wealth)：富、財産
+- [scarcity](/scarcity)：不足、希少
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/word/income/)：収入
-- [crisis](/word/crisis/)：危機
+- [income](/income)：収入
+- [crisis](/crisis)：危機
 
-<!-- cvid: aid23_bid30 -->
+<!-- cvid: aid41_bid22 -->

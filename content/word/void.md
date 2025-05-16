@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【void】の意味・使い方・例文 ― blankとの違い【TOEIC英単語】"
 description: "voidの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでblankとの違いもわかりやすく学べます。"
 word: "void"
@@ -83,15 +83,19 @@ TOEICでは契約書や規約などの長文で「無効」「空白」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは契約書や規約などの長文で「無効」「空白」などの
 ## 🤔  blank との違いは？
 
 - **void**：空虚・無効（法律や契約などで効力がない状態や、心の空白など抽象的な「空」を表す）
-- **[blank](/word/blank/)**：空欄・白紙（物理的に何も書かれていないスペースや用紙を指す）
+- **[blank](/blank)**：空欄・白紙（物理的に何も書かれていないスペースや用紙を指す）
 
 voidは抽象的・法的な「無効」「空虚」に使い、blankは具体的な「空欄」「白紙」に使います。
 
@@ -107,14 +111,14 @@ voidは抽象的・法的な「無効」「空虚」に使い、blankは具体�
 
 ## 🧩 あわせて覚えたい
 
-- [null](/word/null/)：無効、値がない
-- [invalid](/word/invalid/)：無効な、効力がない
+- [null](/null)：無効、値がない
+- [invalid](/invalid)：無効な、効力がない
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause/)：条項、節
-- [contract](/word/contract/)：契約
+- [clause](/clause)：条項、節
+- [contract](/contract)：契約
 
-<!-- cvid: aid38_bid37 -->
+<!-- cvid: aid21_bid22 -->

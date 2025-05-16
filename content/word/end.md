@@ -81,15 +81,19 @@ TOEICでは会議やスケジュール、プロジェクトの「終了」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やスケジュール、プロジェクトの「終了」や「
 ## 🤔  finish との違いは？
 
 - **end**：出来事や期間の「終わり」や「端」を指す名詞。
-- **[finish](/word/finish/)**：何かを「仕上げる」「完了する」行為やその結果を指す名詞・動詞。
+- **[finish](/finish)**：何かを「仕上げる」「完了する」行為やその結果を指す名詞・動詞。
 
 endは「時間や場所の区切り」としての終わり、finishは「作業や行動の完了」に焦点があります。
 
@@ -105,14 +109,14 @@ endは「時間や場所の区切り」としての終わり、finishは「作�
 
 ## 🧩 あわせて覚えたい
 
-- [beginning](/word/beginning/)：始まり
-- [goal](/word/goal/)：目標、ゴール
+- [beginning](/beginning)：始まり
+- [goal](/goal)：目標、ゴール
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result/)：結果
-- [purpose](/word/purpose/)：目的
+- [result](/result)：結果
+- [purpose](/purpose)：目的
 
-<!-- cvid: aid00_bid47 -->
+<!-- cvid: aid33_bid16 -->

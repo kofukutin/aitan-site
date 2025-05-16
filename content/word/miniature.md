@@ -81,15 +81,19 @@ miniatureは、観光地の説明や展示物の紹介、商品説明などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ miniatureは、観光地の説明や展示物の紹介、商品説明などで�
 ## 🤔  tiny との違いは？
 
 - **miniature**：実物を小さく再現した模型や、縮小版のもの
-- **[tiny](/word/tiny/)**：とても小さい（サイズが小さいこと自体を強調）
+- **[tiny](/tiny)**：とても小さい（サイズが小さいこと自体を強調）
 
 miniatureは「模型」や「縮小版」として形や機能を保った小さいもの、tinyは単に「とても小さい」ことを表します。
 
@@ -105,14 +109,14 @@ miniatureは「模型」や「縮小版」として形や機能を保った小�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/word/model/)：模型、モデル
-- [replica](/word/replica/)：複製、レプリカ
+- [model](/model)：模型、モデル
+- [replica](/replica)：複製、レプリカ
 
 ---
 
 ## 📖 できればこれも
 
-- [figurine](/word/figurine/)：小さな人形、置物
-- [scale](/word/scale/)：縮尺、スケール
+- [figurine](/figurine)：小さな人形、置物
+- [scale](/scale)：縮尺、スケール
 
-<!-- cvid: aid49_bid21 -->
+<!-- cvid: aid45_bid20 -->

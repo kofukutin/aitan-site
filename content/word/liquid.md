@@ -84,15 +84,19 @@ TOEICでは、説明文や指示文で「液体」や「液状のもの」を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICでは、説明文や指示文で「液体」や「液状のもの」を表
 ## 🤔  fluid との違いは？
 
 - **liquid**：水や油など、常温で液体の状態にあるものを指す。
-- **[fluid](/word/fluid/)**：液体だけでなく気体も含む「流動体」を指す。
+- **[fluid](/fluid)**：液体だけでなく気体も含む「流動体」を指す。
 
 liquidは「液体」に限定されますが、fluidは「流れる性質を持つもの」全般（液体＋気体）を指します。
 
@@ -108,14 +112,14 @@ liquidは「液体」に限定されますが、fluidは「流れる性質を持
 
 ## 🧩 あわせて覚えたい
 
-- [solid](/word/solid/)：固体
-- [gas](/word/gas/)：気体
+- [solid](/solid)：固体
+- [gas](/gas)：気体
 
 ---
 
 ## 📖 できればこれも
 
-- [mixture](/word/mixture/)：混合物
-- [solution](/word/solution/)：溶液
+- [mixture](/mixture)：混合物
+- [solution](/solution)：溶液
 
-<!-- cvid: aid41_bid19 -->
+<!-- cvid: aid11_bid08 -->

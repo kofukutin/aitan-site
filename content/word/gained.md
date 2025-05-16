@@ -81,15 +81,19 @@ TOEICでは「得る」「増える」という意味で、主に動詞の過去
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「得る」「増える」という意味で、主に動詞の過去
 ## 🤔  acquired との違いは？
 
 - **gained**：努力や行動の結果として得る、増える
-- **[acquired](/word/acquired/)**：習得する、身につける（特に知識やスキル）
+- **[acquired](/acquired)**：習得する、身につける（特に知識やスキル）
 
 gainedは「増える・得る」という広い意味で使われ、acquiredは「習得する」など知識やスキルに特化して使われます。
 
@@ -105,14 +109,14 @@ gainedは「増える・得る」という広い意味で使われ、acquiredは
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/word/lose/)：失う
-- [earn](/word/earn/)：稼ぐ、努力して得る
+- [lose](/lose)：失う
+- [earn](/earn)：稼ぐ、努力して得る
 
 ---
 
 ## 📖 できればこれも
 
-- [improved](/word/improved/)：改善した、向上した
-- [achieve](/word/achieve/)：達成する
+- [improved](/improved)：改善した、向上した
+- [achieve](/achieve)：達成する
 
-<!-- cvid: aid42_bid20 -->
+<!-- cvid: aid00_bid44 -->

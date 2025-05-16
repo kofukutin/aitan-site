@@ -81,15 +81,19 @@ TOEICの長文や記事、ビジネスレターで「経済的に」や「経済
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文や記事、ビジネスレターで「経済的に」や「経済
 ## 🤔  financially との違いは？
 
 - **economically**：経済全体や経済活動に関して「経済的に」という広い意味。
-- **[financially](/word/financially/)**：お金や財政状態に直接関わる「財政的に」「金銭的に」という意味。
+- **[financially](/financially)**：お金や財政状態に直接関わる「財政的に」「金銭的に」という意味。
 
 economicallyは経済全体や効率性など広い視点、financiallyはお金や資金繰りなど狭い財政面に焦点を当てます。
 
@@ -105,14 +109,14 @@ economicallyは経済全体や効率性など広い視点、financiallyはお金
 
 ## 🧩 あわせて覚えたい
 
-- [efficiently](/word/efficiently/)：効率的に
-- [profitably](/word/profitably/)：利益を上げて
+- [efficiently](/efficiently)：効率的に
+- [profitably](/profitably)：利益を上げて
 
 ---
 
 ## 📖 できればこれも
 
-- [economic](/word/economic/)：経済の、経済に関する
-- [economical](/word/economical/)：節約になる、経済的な
+- [economic](/economic)：経済の、経済に関する
+- [economical](/economical)：節約になる、経済的な
 
-<!-- cvid: aid46_bid03 -->
+<!-- cvid: aid29_bid29 -->

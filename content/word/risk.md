@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【risk】の意味・使い方・例文 ― hazardとの違い【TOEIC英単語】"
 description: "riskの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhazardとの違いもわかりやすく学べます。"
 word: "risk"
@@ -81,15 +81,19 @@ TOEICではビジネス文脈で「リスクを取る」「リスクを評価す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文脈で「リスクを取る」「リスクを評価す
 ## 🤔  hazard との違いは？
 
 - **risk**：危険が起こる「可能性」や「リスクそのもの」を指す
-- **[hazard](/word/hazard/)**：実際に存在する「危険要因」や「危険物」を指す
+- **[hazard](/hazard)**：実際に存在する「危険要因」や「危険物」を指す
 
 riskは「まだ起きていない危険の可能性」、hazardは「現実にある危険なものや状況」を表します。
 
@@ -105,14 +109,14 @@ riskは「まだ起きていない危険の可能性」、hazardは「現実に�
 
 ## 🧩 あわせて覚えたい
 
-- [chance](/word/chance/)：機会、可能性
-- [security](/word/security/)：安全、警備
+- [chance](/chance)：機会、可能性
+- [security](/security)：安全、警備
 
 ---
 
 ## 📖 できればこれも
 
-- [danger](/word/danger/)：危険（実際に害を及ぼす可能性が高い状況）
-- [loss](/word/loss/)：損失、失うこと
+- [danger](/danger)：危険（実際に害を及ぼす可能性が高い状況）
+- [loss](/loss)：損失、失うこと
 
-<!-- cvid: aid27_bid13 -->
+<!-- cvid: aid33_bid16 -->

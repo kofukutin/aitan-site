@@ -81,15 +81,19 @@ TOEICでは、オフィスや工場の設備説明、IT関連の会話で「冷�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや工場の設備説明、IT関連の会話で「冷�
 ## 🤔  refrigeration との違いは？
 
 - **cooling**：一般的な「冷却」や「冷やすこと」を広く指す
-- **[refrigeration](/word/refrigeration/)**：特に「冷蔵」や「冷凍」など、より低温で保存するための冷却を指す
+- **[refrigeration](/refrigeration)**：特に「冷蔵」や「冷凍」など、より低温で保存するための冷却を指す
 
 coolingは温度を下げる全般に使い、refrigerationは食品や薬品などを保存するための専門的な冷却に使われます。
 
@@ -105,14 +109,14 @@ coolingは温度を下げる全般に使い、refrigerationは食品や薬品な
 
 ## 🧩 あわせて覚えたい
 
-- [heating](/word/heating/)：加熱、暖房
-- [ventilation](/word/ventilation/)：換気
+- [heating](/heating)：加熱、暖房
+- [ventilation](/ventilation)：換気
 
 ---
 
 ## 📖 できればこれも
 
-- [temperature](/word/temperature/)：温度
-- [system](/word/system/)：システム、仕組み
+- [temperature](/temperature)：温度
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid48_bid39 -->
+<!-- cvid: aid13_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメールの中で「重要な役割を果
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメールの中で「重要な役割を果
 ## 🤔  essential との違いは？
 
 - **instrumental**：何かを達成するのに「重要な役割を果たす」「手段となる」
-- **[essential](/word/essential/)**：絶対に欠かせない、不可欠な
+- **[essential](/essential)**：絶対に欠かせない、不可欠な
 
 instrumentalは「成功や達成に大きく貢献する」ニュアンスで、essentialは「それがなければ成り立たない」ほどの必須性を表します。
 
@@ -105,14 +109,14 @@ instrumentalは「成功や達成に大きく貢献する」ニュアンスで�
 
 ## 🧩 あわせて覚えたい
 
-- [contributory](/word/contributory/)：貢献する、寄与する
-- [incidental](/word/incidental/)：付随的な、偶発的な
+- [contributory](/contributory)：貢献する、寄与する
+- [incidental](/incidental)：付随的な、偶発的な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、意味のある
-- [crucial](/word/crucial/)：極めて重要な、決定的な
+- [significant](/significant)：重要な、意味のある
+- [crucial](/crucial)：極めて重要な、決定的な
 
-<!-- cvid: aid09_bid01 -->
+<!-- cvid: aid16_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7の案内文やメール、パンフレットなどで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の案内文やメール、パンフレットなどで「
 ## 🤔  informative との違いは？
 
 - **informational**：情報を提供するための、情報に関する（中立的・客観的）
-- **[informative](/word/informative/)**：有益な情報を与える、ためになる（内容が役立つ・知識を増やす）
+- **[informative](/informative)**：有益な情報を与える、ためになる（内容が役立つ・知識を増やす）
 
 informationalは「情報提供の目的」に焦点があり、informativeは「役立つ・知識が増える」といった主観的な価値に重点があります。
 
@@ -105,14 +109,14 @@ informationalは「情報提供の目的」に焦点があり、informativeは�
 
 ## 🧩 あわせて覚えたい
 
-- [instructional](/word/instructional/)：指導用の、教育的な
-- [descriptive](/word/descriptive/)：描写的な、説明的な
+- [instructional](/instructional)：指導用の、教育的な
+- [descriptive](/descriptive)：描写的な、説明的な
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：公式の
-- [educational](/word/educational/)：教育の、教育的な
+- [official](/official)：公式の
+- [educational](/educational)：教育の、教育的な
 
-<!-- cvid: aid39_bid20 -->
+<!-- cvid: aid11_bid14 -->

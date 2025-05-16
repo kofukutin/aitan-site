@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「提供する」「用意する」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「提供する」「用意する」という意
 ## 🤔  supply との違いは？
 
 - **provide**：必要なものを「用意して与える」ニュアンスが強い
-- **[supply](/word/supply/)**：物資や商品などを「大量に供給する」イメージ
+- **[supply](/supply)**：物資や商品などを「大量に供給する」イメージ
 
 provideは「準備して与える」ことに重点があり、supplyは「物資などを継続的・大量に送る」場面で使われます。
 
@@ -105,14 +109,14 @@ provideは「準備して与える」ことに重点があり、supplyは「物�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：申し出る、提供する
-- [grant](/word/grant/)：（公式に）与える、許可する
+- [offer](/offer)：申し出る、提供する
+- [grant](/grant)：（公式に）与える、許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare/)：準備する
-- [deliver](/word/deliver/)：配達する、届ける
+- [prepare](/prepare)：準備する
+- [deliver](/deliver)：配達する、届ける
 
-<!-- cvid: aid00_bid30 -->
+<!-- cvid: aid46_bid17 -->

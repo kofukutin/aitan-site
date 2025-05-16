@@ -81,15 +81,19 @@ The company supports the healing process for injured employees.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company supports the healing process for injured employees.
 ## 🤔  cure との違いは？
 
 - **healing**：自然な回復や癒やしの過程を指す
-- **[cure](/word/cure/)**：病気やけがを完全に治すこと、治療法
+- **[cure](/cure)**：病気やけがを完全に治すこと、治療法
 
 healingは「治っていく過程」や「癒やし」に焦点があり、cureは「完全に治すこと」や「治療法」に重点があります。
 
@@ -105,14 +109,14 @@ healingは「治っていく過程」や「癒やし」に焦点があり、cure
 
 ## 🧩 あわせて覚えたい
 
-- [recovery](/word/recovery/)：回復、復旧
-- [treatment](/word/treatment/)：治療、処置
+- [recovery](/recovery)：回復、復旧
+- [treatment](/treatment)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが
-- [illness](/word/illness/)：病気
+- [injury](/injury)：けが
+- [illness](/illness)：病気
 
-<!-- cvid: aid19_bid43 -->
+<!-- cvid: aid29_bid03 -->

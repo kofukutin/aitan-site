@@ -81,15 +81,19 @@ TOEICでは「adopted child（養子）」や「adopted policy（採用された
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「adopted child（養子）」や「adopted policy（採用された
 ## 🤔  adapted との違いは？
 
 - **adopted**：正式に受け入れられた、養子になった
-- **[adapted](/word/adapted/)**：適応した、改作された
+- **[adapted](/adapted)**：適応した、改作された
 
 「adopted」は「新しく取り入れた」「養子にした」など受け入れるニュアンス、「adapted」は「状況に合わせて変えた」というニュアンスです。
 
@@ -105,14 +109,14 @@ TOEICでは「adopted child（養子）」や「adopted policy（採用された
 
 ## 🧩 あわせて覚えたい
 
-- [foster](/word/foster/)：里親の、育てる
-- [approve](/word/approve/)：承認する
+- [foster](/foster)：里親の、育てる
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [adopt](/word/adopt/)：採用する、養子にする
-- [adapt](/word/adapt/)：適応する、順応する
+- [adopt](/adopt)：採用する、養子にする
+- [adapt](/adapt)：適応する、順応する
 
-<!-- cvid: aid45_bid18 -->
+<!-- cvid: aid13_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは「make an effort」や「effort to ～」の形で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「make an effort」や「effort to ～」の形で頻出します。
 ## 🤔  attempt との違いは？
 
 - **effort**：目標達成のために注ぐ「努力」や「尽力」を幅広く表す。
-- **[attempt](/word/attempt/)**：何かを「試みる」「挑戦する」行為自体を指す。
+- **[attempt](/attempt)**：何かを「試みる」「挑戦する」行為自体を指す。
 
 effortは「がんばり」や「努力」の量や質に焦点があり、attemptは「試みる」という行動そのものに重点があります。
 
@@ -105,14 +109,14 @@ effortは「がんばり」や「努力」の量や質に焦点があり、attem
 
 ## 🧩 あわせて覚えたい
 
-- [achievement](/word/achievement/)：達成、業績
-- [struggle](/word/struggle/)：苦闘、奮闘
+- [achievement](/achievement)：達成、業績
+- [struggle](/struggle)：苦闘、奮闘
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result/)：結果
-- [progress](/word/progress/)：進歩
+- [result](/result)：結果
+- [progress](/progress)：進歩
 
-<!-- cvid: aid26_bid48 -->
+<!-- cvid: aid21_bid01 -->

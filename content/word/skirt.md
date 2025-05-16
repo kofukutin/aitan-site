@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、服装や人物の説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、服装や人物の説明とし
 ## 🤔  dress との違いは？
 
 - **skirt**：腰から下だけを覆う衣服
-- **[dress](/word/dress/)**：上半身と下半身を一体で覆うワンピース型の衣服
+- **[dress](/dress)**：上半身と下半身を一体で覆うワンピース型の衣服
 
 skirtは下半身のみ、dressは全身を覆う衣服で、着用シーンやデザインが異なります。
 
@@ -105,14 +109,14 @@ skirtは下半身のみ、dressは全身を覆う衣服で、着用シーンや�
 
 ## 🧩 あわせて覚えたい
 
-- [pants](/word/pants/)：ズボン
-- [blouse](/word/blouse/)：女性用のブラウス
+- [pants](/pants)：ズボン
+- [blouse](/blouse)：女性用のブラウス
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt/)：シャツ
-- [jacket](/word/jacket/)：ジャケット
+- [shirt](/shirt)：シャツ
+- [jacket](/jacket)：ジャケット
 
-<!-- cvid: aid01_bid24 -->
+<!-- cvid: aid29_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、報告書などで「予算�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、報告書などで「予算�
 ## 🤔  estimate との違いは？
 
 - **budget**：実際に使うお金の計画やその金額
-- **[estimate](/word/estimate/)**：見積もり、だいたいの金額や数量を予測したもの
+- **[estimate](/estimate)**：見積もり、だいたいの金額や数量を予測したもの
 
 budgetは「決められた予算」、estimateは「予想や見積もり」で、確定度や使う場面が異なります。
 
@@ -105,14 +109,14 @@ budgetは「決められた予算」、estimateは「予想や見積もり」で
 
 ## 🧩 あわせて覚えたい
 
-- [expense](/word/expense/)：費用、出費
-- [revenue](/word/revenue/)：収入、売上
+- [expense](/expense)：費用、出費
+- [revenue](/revenue)：収入、売上
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用、コスト
-- [plan](/word/plan/)：計画
+- [cost](/cost)：費用、コスト
+- [plan](/plan)：計画
 
-<!-- cvid: aid39_bid30 -->
+<!-- cvid: aid29_bid06 -->

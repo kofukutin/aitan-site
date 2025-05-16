@@ -81,15 +81,19 @@ IT分野の長文や説明文で、システムやソフトウェアの不具合
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT分野の長文や説明文で、システムやソフトウェアの不具合
 ## 🤔  troubleshoot との違いは？
 
 - **debug**：主にプログラムやシステムのバグ（エラー）を見つけて修正すること
-- **[troubleshoot](/word/troubleshoot/)**：問題や不具合の原因を調べて解決策を探すこと全般
+- **[troubleshoot](/troubleshoot)**：問題や不具合の原因を調べて解決策を探すこと全般
 
 debugはプログラムのバグ修正に特化し、troubleshootはより広い問題解決全般に使われます。
 
@@ -105,14 +109,14 @@ debugはプログラムのバグ修正に特化し、troubleshootはより広い
 
 ## 🧩 あわせて覚えたい
 
-- [fix](/word/fix/)：修理する、直す
-- [analyze](/word/analyze/)：分析する
+- [fix](/fix)：修理する、直す
+- [analyze](/analyze)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする
-- [configure](/word/configure/)：設定する
+- [install](/install)：インストールする
+- [configure](/configure)：設定する
 
-<!-- cvid: aid30_bid41 -->
+<!-- cvid: aid05_bid22 -->

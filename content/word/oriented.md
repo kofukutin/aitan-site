@@ -81,15 +81,19 @@ TOEICではビジネス文書や説明文で「customer-oriented」「result-ori
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や説明文で「customer-oriented」「result-ori
 ## 🤔  focused との違いは？
 
 - **oriented**：特定の方向や目的に向けて設計・志向されている
-- **[focused](/word/focused/)**：注意や意識が一点に集中している
+- **[focused](/focused)**：注意や意識が一点に集中している
 
 「oriented」は設計や方針などの"志向性"を表し、「focused」は"集中している状態"を表します。
 
@@ -105,14 +109,14 @@ TOEICではビジネス文書や説明文で「customer-oriented」「result-ori
 
 ## 🧩 あわせて覚えたい
 
-- [objective](/word/objective/)：目的、目標
-- [direction](/word/direction/)：方向、指針
+- [objective](/objective)：目的、目標
+- [direction](/direction)：方向、指針
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical/)：実用的な
-- [efficient](/word/efficient/)：効率的な
+- [practical](/practical)：実用的な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid01_bid26 -->
+<!-- cvid: aid48_bid45 -->

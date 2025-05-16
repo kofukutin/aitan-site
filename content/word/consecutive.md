@@ -81,15 +81,19 @@ TOEICでは「consecutive days（連続した日々）」や「consecutive years
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「consecutive days（連続した日々）」や「consecutive years
 ## 🤔  successive との違いは？
 
 - **consecutive**：順番通りに間を空けず連続していることを強調
-- **[successive](/word/successive/)**：順序よく続くが、必ずしも間が空いていないとは限らない
+- **[successive](/successive)**：順序よく続くが、必ずしも間が空いていないとは限らない
 
 consecutiveは「途切れずに続く」ことを強調し、successiveは「順番に続く」ことに重点があります。
 
@@ -105,14 +109,14 @@ consecutiveは「途切れずに続く」ことを強調し、successiveは「�
 
 ## 🧩 あわせて覚えたい
 
-- [continuous](/word/continuous/)：継続的な、絶え間ない
-- [intermittent](/word/intermittent/)：断続的な、時々途切れる
+- [continuous](/continuous)：継続的な、絶え間ない
+- [intermittent](/intermittent)：断続的な、時々途切れる
 
 ---
 
 ## 📖 できればこれも
 
-- [simultaneous](/word/simultaneous/)：同時の
-- [subsequent](/word/subsequent/)：その後の、次の
+- [simultaneous](/simultaneous)：同時の
+- [subsequent](/subsequent)：その後の、次の
 
-<!-- cvid: aid20_bid22 -->
+<!-- cvid: aid44_bid36 -->

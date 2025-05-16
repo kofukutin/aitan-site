@@ -81,15 +81,19 @@ TOEICでは「運転する」だけでなく、「推進する」「動かす」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「運転する」だけでなく、「推進する」「動かす」
 ## 🤔  operate との違いは？
 
 - **drive**：車や機械を「運転する」「動かす」こと。特に車両や推進力を意識。
-- **[operate](/word/operate/)**：機械や装置を「操作する」「運転する」こと。専門的・技術的なニュアンス。
+- **[operate](/operate)**：機械や装置を「操作する」「運転する」こと。専門的・技術的なニュアンス。
 
 driveは主に車や車両、または比喩的に「推進する」場面で使い、operateは機械や装置の操作に使われます。
 
@@ -105,14 +109,14 @@ driveは主に車や車両、または比喩的に「推進する」場面で使
 
 ## 🧩 あわせて覚えたい
 
-- [ride](/word/ride/)：（自転車・馬など）に乗る
-- [control](/word/control/)：制御する、管理する
+- [ride](/ride)：（自転車・馬など）に乗る
+- [control](/control)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [travel](/word/travel/)：旅行する、移動する
-- [move](/word/move/)：動く、動かす
+- [travel](/travel)：旅行する、移動する
+- [move](/move)：動く、動かす
 
-<!-- cvid: aid30_bid22 -->
+<!-- cvid: aid06_bid44 -->

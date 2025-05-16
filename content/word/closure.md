@@ -81,15 +81,19 @@ TOEICでは、会社や店舗の「閉鎖」やプロジェクトの「終了」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や店舗の「閉鎖」やプロジェクトの「終了」
 ## 🤔  termination との違いは？
 
 - **closure**：物理的・心理的な「閉鎖」「終結」を幅広く表す
-- **[termination](/word/termination/)**：契約や雇用などの「終了」「打ち切り」を強調
+- **[termination](/termination)**：契約や雇用などの「終了」「打ち切り」を強調
 
 closureは「店の閉店」や「会議の終結」など幅広い「終わり」に使い、terminationは特に契約や雇用の「打ち切り」に使われます。
 
@@ -105,14 +109,14 @@ closureは「店の閉店」や「会議の終結」など幅広い「終わり�
 
 ## 🧩 あわせて覚えたい
 
-- [completion](/word/completion/)：完了、完成
-- [shutdown](/word/shutdown/)：（一時的・完全な）停止、閉鎖
+- [completion](/completion)：完了、完成
+- [shutdown](/shutdown)：（一時的・完全な）停止、閉鎖
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval/)：承認
-- [extension](/word/extension/)：延長
+- [approval](/approval)：承認
+- [extension](/extension)：延長
 
-<!-- cvid: aid44_bid26 -->
+<!-- cvid: aid46_bid49 -->

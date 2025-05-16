@@ -81,15 +81,19 @@ The doctor is treating the patient for a cold.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The doctor is treating the patient for a cold.
 ## 🤔  handling との違いは？
 
 - **treating**：人や物事を特定の方法で扱う、または治療することを強調
-- **[handling](/word/handling/)**：物理的・実務的に「取り扱う」「処理する」ことを強調
+- **[handling](/handling)**：物理的・実務的に「取り扱う」「処理する」ことを強調
 
 treatingは「接し方」や「治療」のニュアンスがあり、handlingは「操作」や「管理」の意味合いが強いです。
 
@@ -105,14 +109,14 @@ treatingは「接し方」や「治療」のニュアンスがあり、handling�
 
 ## 🧩 あわせて覚えたい
 
-- [cure](/word/cure/)：治す、治療する
-- [process](/word/process/)：処理する、加工する
+- [cure](/cure)：治す、治療する
+- [process](/process)：処理する、加工する
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/word/examine/)：調べる、診察する
-- [manage](/word/manage/)：管理する、うまく扱う
+- [examine](/examine)：調べる、診察する
+- [manage](/manage)：管理する、うまく扱う
 
-<!-- cvid: aid28_bid46 -->
+<!-- cvid: aid46_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「痛み」や「損害」「気持ちを傷つ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「痛み」や「損害」「気持ちを傷つ
 ## 🤔  injure との違いは？
 
 - **hurt**：痛みや傷を与える、または感じる（身体・心の両方に使える）
-- **[injure](/word/injure/)**：事故や外傷などで「けがをさせる」（主に身体的なダメージ）
+- **[injure](/injure)**：事故や外傷などで「けがをさせる」（主に身体的なダメージ）
 
 「hurt」は日常的な痛みや心の傷にも使えますが、「injure」は主に事故やスポーツなどでの物理的なけがに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「痛み」や「損害」「気持ちを傷つ
 
 ## 🧩 あわせて覚えたい
 
-- [heal](/word/heal/)：治す、治る
-- [pain](/word/pain/)：痛み
+- [heal](/heal)：治す、治る
+- [pain](/pain)：痛み
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break/)：壊す、折る
-- [damage](/word/damage/)：損害を与える
+- [break](/break)：壊す、折る
+- [damage](/damage)：損害を与える
 
-<!-- cvid: aid41_bid30 -->
+<!-- cvid: aid37_bid44 -->

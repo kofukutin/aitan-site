@@ -81,15 +81,19 @@ TOEICでは、衣料品やインテリア関連の記事や広告文で「satin�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、衣料品やインテリア関連の記事や広告文で「satin�
 ## 🤔  silk との違いは？
 
 - **satin**：なめらかで光沢のある織り方の布地（素材は問わない）
-- **[silk](/word/silk/)**：シルク（絹）という天然素材そのもの
+- **[silk](/silk)**：シルク（絹）という天然素材そのもの
 
 satinは「織り方・質感」を指し、silkは「素材（絹）」を指します。サテンは必ずしもシルク製とは限りません。
 
@@ -105,14 +109,14 @@ satinは「織り方・質感」を指し、silkは「素材（絹）」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [velvet](/word/velvet/)：ビロード、なめらかで柔らかい布地
-- [fabric](/word/fabric/)：布地、織物全般
+- [velvet](/velvet)：ビロード、なめらかで柔らかい布地
+- [fabric](/fabric)：布地、織物全般
 
 ---
 
 ## 📖 できればこれも
 
-- [cotton](/word/cotton/)：綿、コットン
-- [wool](/word/wool/)：羊毛、ウール
+- [cotton](/cotton)：綿、コットン
+- [wool](/wool)：羊毛、ウール
 
-<!-- cvid: aid12_bid23 -->
+<!-- cvid: aid20_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは教育や研修に関する長文や案内文でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは教育や研修に関する長文や案内文でよく登場します
 ## 🤔  lecture hall との違いは？
 
 - **classroom**：主に小中高校や少人数の授業で使われる一般的な教室
-- **[lecture hall](/word/lecture_hall/)**：大学などで使われる大人数向けの講義室
+- **[lecture hall](/lecture_hall)**：大学などで使われる大人数向けの講義室
 
 classroomは少人数向けの一般的な教室、lecture hallは大学などの大規模な講義室を指します。
 
@@ -105,14 +109,14 @@ classroomは少人数向けの一般的な教室、lecture hallは大学など�
 
 ## 🧩 あわせて覚えたい
 
-- [laboratory](/word/laboratory/)：実験室
-- [school](/word/school/)：学校
+- [laboratory](/laboratory)：実験室
+- [school](/school)：学校
 
 ---
 
 ## 📖 できればこれも
 
-- [teacher](/word/teacher/)：教師
-- [student](/word/student/)：生徒
+- [teacher](/teacher)：教師
+- [student](/student)：生徒
 
-<!-- cvid: aid16_bid36 -->
+<!-- cvid: aid45_bid48 -->

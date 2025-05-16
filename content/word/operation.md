@@ -81,15 +81,19 @@ TOEICでは「事業」「運営」「操作」などの意味で頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「事業」「運営」「操作」などの意味で頻出します
 ## 🤔  procedure との違いは？
 
 - **operation**：実際の運営や活動、または手術など「動き」や「実行」に重点
-- **[procedure](/word/procedure/)**：手順や方法など「順序立てたやり方」に重点
+- **[procedure](/procedure)**：手順や方法など「順序立てたやり方」に重点
 
 operationは「実際に動かすこと」、procedureは「やり方や手順」に焦点がある点が異なります。
 
@@ -105,14 +109,14 @@ operationは「実際に動かすこと」、procedureは「やり方や手順�
 
 ## 🧩 あわせて覚えたい
 
-- [transaction](/word/transaction/)：取引、処理
-- [function](/word/function/)：機能、役割
+- [transaction](/transaction)：取引、処理
+- [function](/function)：機能、役割
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、処理
-- [activity](/word/activity/)：活動、行動
+- [process](/process)：過程、処理
+- [activity](/activity)：活動、行動
 
-<!-- cvid: aid18_bid35 -->
+<!-- cvid: aid06_bid30 -->

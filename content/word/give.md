@@ -81,15 +81,19 @@ giveはTOEICのリスニングや会話文で頻出し、依頼や指示、情�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ giveはTOEICのリスニングや会話文で頻出し、依頼や指示、情�
 ## 🤔  provide との違いは？
 
 - **give**：物や情報を直接「与える」「渡す」ときに使う、最も基本的な動詞。
-- **[provide](/word/provide/)**：必要なものを「供給する」「提供する」ときに使い、ややフォーマル。
+- **[provide](/provide)**：必要なものを「供給する」「提供する」ときに使い、ややフォーマル。
 
 giveは日常的な「手渡し」や「プレゼント」にも使えますが、provideはサービスや物資などを体系的に「用意して与える」ニュアンスです。
 
@@ -105,14 +109,14 @@ giveは日常的な「手渡し」や「プレゼント」にも使えますが�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：申し出る、提供する
-- [receive](/word/receive/)：受け取る
+- [offer](/offer)：申し出る、提供する
+- [receive](/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [bring](/word/bring/)：持ってくる
+- [send](/send)：送る
+- [bring](/bring)：持ってくる
 
-<!-- cvid: aid23_bid05 -->
+<!-- cvid: aid32_bid45 -->

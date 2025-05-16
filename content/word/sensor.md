@@ -81,15 +81,19 @@ TOEICでは、IT機器や設備の説明、トラブル対応の会話で登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、IT機器や設備の説明、トラブル対応の会話で登場�
 ## 🤔  detector との違いは？
 
 - **sensor**：物理的な変化を感知し、信号として出力する装置
-- **[detector](/word/detector/)**：特定の物質や現象の有無を検出する装置
+- **[detector](/detector)**：特定の物質や現象の有無を検出する装置
 
 sensorは幅広い物理的変化を感知する一般的な装置、detectorは特定のもの（例：金属、煙など）を検出する装置に使われます。
 
@@ -105,14 +109,14 @@ sensorは幅広い物理的変化を感知する一般的な装置、detectorは
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [gauge](/word/gauge/)：計器、測定器
+- [device](/device)：装置、機器
+- [gauge](/gauge)：計器、測定器
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor/)：監視する、モニター
-- [alarm](/word/alarm/)：警報、アラーム
+- [monitor](/monitor)：監視する、モニター
+- [alarm](/alarm)：警報、アラーム
 
-<!-- cvid: aid17_bid45 -->
+<!-- cvid: aid24_bid20 -->

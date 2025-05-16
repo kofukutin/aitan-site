@@ -81,15 +81,19 @@ The pharmacist will prepare your prescription shortly.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The pharmacist will prepare your prescription shortly.
 ## 🤔  doctor との違いは？
 
 - **pharmacist**：薬を調剤し、服薬指導を行う専門職
-- **[doctor](/word/doctor/)**：診断や治療を行う医師
+- **[doctor](/doctor)**：診断や治療を行う医師
 
 pharmacistは薬の専門家で、doctorは診断や治療の専門家です。役割が明確に分かれています。
 
@@ -105,14 +109,14 @@ pharmacistは薬の専門家で、doctorは診断や治療の専門家です。�
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription/)：処方箋
-- [pharmacy](/word/pharmacy/)：薬局
+- [prescription](/prescription)：処方箋
+- [pharmacy](/pharmacy)：薬局
 
 ---
 
 ## 📖 できればこれも
 
-- [nurse](/word/nurse/)：看護師
-- [medicine](/word/medicine/)：薬
+- [nurse](/nurse)：看護師
+- [medicine](/medicine)：薬
 
-<!-- cvid: aid12_bid04 -->
+<!-- cvid: aid14_bid34 -->

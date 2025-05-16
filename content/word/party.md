@@ -84,15 +84,19 @@ TOEICでは「パーティー（宴会）」の意味で日常会話に、「当
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICでは「パーティー（宴会）」の意味で日常会話に、「当
 ## 🤔  group との違いは？
 
 - **party**：目的やイベントのために集まった人々の集団、または契約・交渉の当事者
-- **[group](/word/group/)**：共通点や目的で集まった一般的な集団
+- **[group](/group)**：共通点や目的で集まった一般的な集団
 
 partyは「特定の目的やイベントのための集まり」や「当事者」を指し、groupはより広く「集団」全般を指します。
 
@@ -108,14 +112,14 @@ partyは「特定の目的やイベントのための集まり」や「当事者
 
 ## 🧩 あわせて覚えたい
 
-- [team](/word/team/)：チーム、共同作業をする集団
-- [event](/word/event/)：出来事、行事
+- [team](/team)：チーム、共同作業をする集団
+- [event](/event)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議、打ち合わせ
-- [celebrate](/word/celebrate/)：祝う
+- [meeting](/meeting)：会議、打ち合わせ
+- [celebrate](/celebrate)：祝う
 
-<!-- cvid: aid05_bid09 -->
+<!-- cvid: aid10_bid06 -->

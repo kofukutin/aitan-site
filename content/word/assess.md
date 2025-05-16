@@ -81,15 +81,19 @@ TOEICではビジネス文脈で「評価する」「査定する」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文脈で「評価する」「査定する」という意
 ## 🤔  evaluate との違いは？
 
 - **assess**：価値や状況を慎重に評価・査定する（特に金額やリスクなど客観的な判断に使う）
-- **[evaluate](/word/evaluate/)**：物事の価値や効果を総合的に評価する（主観的な判断や意見も含む）
+- **[evaluate](/evaluate)**：物事の価値や効果を総合的に評価する（主観的な判断や意見も含む）
 
 assessは客観的・数値的な評価に使われやすく、evaluateはより広い意味で「良し悪しを判断する」時に使われます。
 
@@ -105,14 +109,14 @@ assessは客観的・数値的な評価に使われやすく、evaluateはより
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate/)：見積もる、概算する
-- [analyze](/word/analyze/)：分析する
+- [estimate](/estimate)：見積もる、概算する
+- [analyze](/analyze)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/word/review/)：見直す、再検討する
-- [measure](/word/measure/)：測定する、評価する
+- [review](/review)：見直す、再検討する
+- [measure](/measure)：測定する、評価する
 
-<!-- cvid: aid31_bid32 -->
+<!-- cvid: aid25_bid20 -->

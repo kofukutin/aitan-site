@@ -81,15 +81,19 @@ TOEICでは「品質管理」や「サービスの質」など、ビジネス文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「品質管理」や「サービスの質」など、ビジネス文
 ## 🤔  characteristic との違いは？
 
 - **quality**：物やサービスの「良し悪し」や「品質」を表す
-- **[characteristic](/word/characteristic/)**：物や人の「特徴」「特性」を表す
+- **[characteristic](/characteristic)**：物や人の「特徴」「特性」を表す
 
 qualityは「優れているかどうか」などの評価に使い、characteristicは「そのものらしさ」や「特徴」を説明する時に使います。
 
@@ -105,14 +109,14 @@ qualityは「優れているかどうか」などの評価に使い、characteri
 
 ## 🧩 あわせて覚えたい
 
-- [feature](/word/feature/)：特徴、機能
-- [value](/word/value/)：価値
+- [feature](/feature)：特徴、機能
+- [value](/value)：価値
 
 ---
 
 ## 📖 できればこれも
 
-- [standard](/word/standard/)：基準、標準
-- [condition](/word/condition/)：状態、条件
+- [standard](/standard)：基準、標準
+- [condition](/condition)：状態、条件
 
-<!-- cvid: aid26_bid00 -->
+<!-- cvid: aid44_bid46 -->

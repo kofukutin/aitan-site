@@ -81,15 +81,19 @@ TOEICでは文房具やオフィス用品の文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文房具やオフィス用品の文脈で出題されることが多
 ## 🤔  highlighter との違いは？
 
 - **marker**：一般的なマーカーペンや目印全般を指す
-- **[highlighter](/word/highlighter/)**：特に蛍光ペン（重要部分を目立たせるペン）を指す
+- **[highlighter](/highlighter)**：特に蛍光ペン（重要部分を目立たせるペン）を指す
 
 markerは幅広く「印をつけるもの」全般を指しますが、highlighterは「蛍光ペン」として使われることが多いです。
 
@@ -105,14 +109,14 @@ markerは幅広く「印をつけるもの」全般を指しますが、highligh
 
 ## 🧩 あわせて覚えたい
 
-- [pen](/word/pen/)：ペン、筆記用具
-- [label](/word/label/)：ラベル、貼り札
+- [pen](/pen)：ペン、筆記用具
+- [label](/label)：ラベル、貼り札
 
 ---
 
 ## 📖 できればこれも
 
-- [notebook](/word/notebook/)：ノート
-- [eraser](/word/eraser/)：消しゴム
+- [notebook](/notebook)：ノート
+- [eraser](/eraser)：消しゴム
 
-<!-- cvid: aid44_bid18 -->
+<!-- cvid: aid49_bid44 -->

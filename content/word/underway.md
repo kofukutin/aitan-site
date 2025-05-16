@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【underway】の意味・使い方・例文 ― ongoingとの違い【TOEIC英単語】"
 description: "underwayの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでongoingとの違いもわかりやすく学べます。"
 word: "underway"
@@ -77,15 +77,19 @@ TOEICでは会議やプロジェクトの進捗を説明する場面でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会議やプロジェクトの進捗を説明する場面でよく登
 ## 🤔  ongoing との違いは？
 
 - **underway**：すでに始まっていて進行中であることを強調
-- **[ongoing](/word/ongoing/)**：継続的に続いている状態を表す
+- **[ongoing](/ongoing)**：継続的に続いている状態を表す
 
 「underway」は「始まったばかり」や「動き出した」ニュアンスがあり、「ongoing」は「継続中」の意味が強いです。
 
@@ -101,14 +105,14 @@ TOEICでは会議やプロジェクトの進捗を説明する場面でよく登
 
 ## 🧩 あわせて覚えたい
 
-- [commence](/word/commence/)：開始する
-- [progress](/word/progress/)：進行、進歩
+- [commence](/commence)：開始する
+- [progress](/progress)：進行、進歩
 
 ---
 
 ## 📖 できればこれも
 
-- [launch](/word/launch/)：開始する、立ち上げる
-- [proceed](/word/proceed/)：進む、続行する
+- [launch](/launch)：開始する、立ち上げる
+- [proceed](/proceed)：進む、続行する
 
-<!-- cvid: aid49_bid19 -->
+<!-- cvid: aid12_bid13 -->

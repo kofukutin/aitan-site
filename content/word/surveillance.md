@@ -81,15 +81,19 @@ TOEICではセキュリティや法務、ビジネスの説明文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではセキュリティや法務、ビジネスの説明文で見かける
 ## 🤔  monitoring との違いは？
 
 - **surveillance**：犯罪防止や安全確保など、特定の目的で人や場所を継続的に監視すること
-- **[monitoring](/word/monitoring/)**：状況やデータなどを観察・記録し続けること（監視以外にも幅広く使う）
+- **[monitoring](/monitoring)**：状況やデータなどを観察・記録し続けること（監視以外にも幅広く使う）
 
 surveillanceは「見張る」「警戒する」などのニュアンスが強く、monitoringは「観察・記録」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ surveillanceは「見張る」「警戒する」などのニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection/)：検査、点検
-- [observation](/word/observation/)：観察
+- [inspection](/inspection)：検査、点検
+- [observation](/observation)：観察
 
 ---
 
 ## 📖 できればこれも
 
-- [investigation](/word/investigation/)：調査、捜査
-- [security](/word/security/)：安全、警備
+- [investigation](/investigation)：調査、捜査
+- [security](/security)：安全、警備
 
-<!-- cvid: aid16_bid07 -->
+<!-- cvid: aid36_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは「組み合わせ」や「結合」を表す名詞として、選択
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「組み合わせ」や「結合」を表す名詞として、選択
 ## 🤔  mixture との違いは？
 
 - **combination**：異なるものが一緒になって新しい効果や目的を生む「組み合わせ」
-- **[mixture](/word/mixture/)**：物理的に混ざり合った「混合物」や「ミックス」
+- **[mixture](/mixture)**：物理的に混ざり合った「混合物」や「ミックス」
 
 combinationは「意図的な組み合わせ」や「機能的な結合」に使われ、mixtureは「混ぜ合わせた状態」や「物質的な混合」に使われます。
 
@@ -105,14 +109,14 @@ combinationは「意図的な組み合わせ」や「機能的な結合」に使
 
 ## 🧩 あわせて覚えたい
 
-- [blend](/word/blend/)：混ぜ合わせる、調和させる
-- [union](/word/union/)：結合、連合
+- [blend](/blend)：混ぜ合わせる、調和させる
+- [union](/union)：結合、連合
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/word/component/)：構成要素、部品
-- [compose](/word/compose/)：構成する、作曲する
+- [component](/component)：構成要素、部品
+- [compose](/compose)：構成する、作曲する
 
-<!-- cvid: aid28_bid18 -->
+<!-- cvid: aid39_bid15 -->

@@ -81,7 +81,7 @@ TOEICでは、メールや案内文、旅行計画などの文脈で「trip」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できたら応用も試そう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、メールや案内文、旅行計画などの文脈で「trip」�
 
 <div class="info-center">
 ＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文、旅行計画などの文脈で「trip」�
 ## 🤔  travel との違いは？
 
 - **trip**：比較的短期間・目的地が明確な旅行や外出
-- **[travel](/word/travel/)**：移動そのものや長期間の旅行、抽象的な「旅」
+- **[travel](/travel)**：移動そのものや長期間の旅行、抽象的な「旅」
 
 「trip」は具体的な行き先や短い旅行に、「travel」は移動行為や長期・抽象的な旅に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、メールや案内文、旅行計画などの文脈で「trip」�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/word/journey/)：長い旅、道のり
-- [excursion](/word/excursion/)：遠足、小旅行
+- [journey](/journey)：長い旅、道のり
+- [excursion](/excursion)：遠足、小旅行
 
 ---
 
 ## 📖 できればこれも
 
-- [tour](/word/tour/)：見学、周遊旅行
-- [visit](/word/visit/)：訪問、見学
+- [tour](/tour)：見学、周遊旅行
+- [visit](/visit)：訪問、見学
 
-<!-- cvid: aid26_bid47 -->
+<!-- cvid: aid44_bid47 -->

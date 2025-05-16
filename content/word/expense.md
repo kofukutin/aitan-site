@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメール、経費精算に関する話題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメール、経費精算に関する話題
 ## 🤔  cost との違いは？
 
 - **expense**：主にビジネスや会計で使われる「費用」「出費」を指し、公式なニュアンスが強い。
-- **[cost](/word/cost/)**：一般的に「かかるお金・コスト」を指し、日常会話からビジネスまで幅広く使われる。
+- **[cost](/cost)**：一般的に「かかるお金・コスト」を指し、日常会話からビジネスまで幅広く使われる。
 
 expenseは経費や会計処理などフォーマルな場面で使われることが多く、costはより広い意味で「かかるお金」全般に使われます。
 
@@ -105,14 +109,14 @@ expenseは経費や会計処理などフォーマルな場面で使われるこ�
 
 ## 🧩 あわせて覚えたい
 
-- [expenditure](/word/expenditure/)：支出、出費
-- [income](/word/income/)：収入
+- [expenditure](/expenditure)：支出、出費
+- [income](/income)：収入
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget/)：予算
-- [receipt](/word/receipt/)：領収書
+- [budget](/budget)：予算
+- [receipt](/receipt)：領収書
 
-<!-- cvid: aid31_bid41 -->
+<!-- cvid: aid13_bid44 -->

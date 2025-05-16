@@ -81,15 +81,19 @@ IT関連や日常的な描写で登場することがあり、特に「floppy di
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連や日常的な描写で登場することがあり、特に「floppy di
 ## 🤔  flexible との違いは？
 
 - **floppy**：だらんと垂れ下がるほど柔らかい、しっかり形を保てない
-- **[flexible](/word/flexible/)**：柔軟性があり曲げられるが、元の形に戻ることもできる
+- **[flexible](/flexible)**：柔軟性があり曲げられるが、元の形に戻ることもできる
 
 floppyは「だらしなく垂れる」ニュアンス、flexibleは「しなやかで曲げられるが丈夫」なニュアンスです。
 
@@ -105,14 +109,14 @@ floppyは「だらしなく垂れる」ニュアンス、flexibleは「しなや
 
 ## 🧩 あわせて覚えたい
 
-- [rigid](/word/rigid/)：硬い、柔軟性がない
-- [loose](/word/loose/)：ゆるい、締まっていない
+- [rigid](/rigid)：硬い、柔軟性がない
+- [loose](/loose)：ゆるい、締まっていない
 
 ---
 
 ## 📖 できればこれも
 
-- [soft](/word/soft/)：柔らかい
-- [bendy](/word/bendy/)：曲がりやすい
+- [soft](/soft)：柔らかい
+- [bendy](/bendy)：曲がりやすい
 
-<!-- cvid: aid22_bid20 -->
+<!-- cvid: aid40_bid21 -->

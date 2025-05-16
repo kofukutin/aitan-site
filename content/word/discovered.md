@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、研究や調査、発見に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、研究や調査、発見に関する
 ## 🤔  found との違いは？
 
 - **discovered**：未知のものや新しいものを発見したときに使う
-- **[found](/word/found/)**：すでに存在していたものを偶然見つけたときに使う
+- **[found](/found)**：すでに存在していたものを偶然見つけたときに使う
 
 discoveredは「新発見」や「未知のもの」に強調があり、foundは「なくした物や既知の物を見つける」ニュアンスです。
 
@@ -105,14 +109,14 @@ discoveredは「新発見」や「未知のもの」に強調があり、found�
 
 ## 🧩 あわせて覚えたい
 
-- [invent](/word/invent/)：発明する
-- [detect](/word/detect/)：（隠れているものを）見つける、検出する
+- [invent](/invent)：発明する
+- [detect](/detect)：（隠れているものを）見つける、検出する
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/word/explore/)：探検する、調査する
-- [reveal](/word/reveal/)：明らかにする、公開する
+- [explore](/explore)：探検する、調査する
+- [reveal](/reveal)：明らかにする、公開する
 
-<!-- cvid: aid24_bid37 -->
+<!-- cvid: aid43_bid07 -->

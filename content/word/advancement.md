@@ -81,15 +81,19 @@ TOEICでは主にビジネスシーンでの「昇進」や「進歩」の意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスシーンでの「昇進」や「進歩」の意味
 ## 🤔  promotion との違いは？
 
 - **advancement**：全体的な進歩や昇進、発展を幅広く表すフォーマルな語。
-- **[promotion](/word/promotion/)**：特に職場での「昇進」や「販促活動」を指す。
+- **[promotion](/promotion)**：特に職場での「昇進」や「販促活動」を指す。
 
 advancementは個人や物事の全体的な進歩や発展を指し、promotionは主に職場での昇進や商品の販促活動など、より具体的な場面で使われます。
 
@@ -105,14 +109,14 @@ advancementは個人や物事の全体的な進歩や発展を指し、promotion
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/word/progress/)：進歩、前進
-- [development](/word/development/)：発展、開発
+- [progress](/progress)：進歩、前進
+- [development](/development)：発展、開発
 
 ---
 
 ## 📖 できればこれも
 
-- [achievement](/word/achievement/)：達成、業績
-- [improvement](/word/improvement/)：改善、向上
+- [achievement](/achievement)：達成、業績
+- [improvement](/improvement)：改善、向上
 
-<!-- cvid: aid42_bid42 -->
+<!-- cvid: aid32_bid17 -->

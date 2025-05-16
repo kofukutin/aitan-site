@@ -81,15 +81,19 @@ TOEICでは、会議やビジネスシーンで「問題や困難に遭遇する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議やビジネスシーンで「問題や困難に遭遇する
 ## 🤔  faced との違いは？
 
 - **encountered**：思いがけず何かに遭遇した、偶然出会った
-- **[faced](/word/faced/)**：困難や問題に「直面した」、向き合った
+- **[faced](/faced)**：困難や問題に「直面した」、向き合った
 
 encounteredは「予期せず出会う」ニュアンスが強く、facedは「避けられない問題に立ち向かう」場面で使われます。
 
@@ -105,14 +109,14 @@ encounteredは「予期せず出会う」ニュアンスが強く、facedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [meet](/word/meet/)：会う、出会う
-- [overcome](/word/overcome/)：克服する
+- [meet](/meet)：会う、出会う
+- [overcome](/overcome)：克服する
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/word/address/)：対処する、取り組む
-- [handle](/word/handle/)：扱う、処理する
+- [address](/address)：対処する、取り組む
+- [handle](/handle)：扱う、処理する
 
-<!-- cvid: aid44_bid37 -->
+<!-- cvid: aid15_bid39 -->

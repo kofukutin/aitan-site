@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【gym】の意味・使い方・例文 ― fitness centerとの違い【TOEIC英単語】"
 description: "gymの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfitness centerとの違いもわかりやすく学べます。"
 word: "gym"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、運動施設や健康に関する場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、運動施設や健康に関する場
 ## 🤔  fitness center との違いは？
 
 - **gym**：カジュアルに使われる運動施設やトレーニングジム全般
-- **[fitness center](/word/fitness_center/)**：より設備が整った総合的なフィットネス施設
+- **[fitness center](/fitness_center)**：より設備が整った総合的なフィットネス施設
 
 「gym」は気軽な運動施設全般を指し、「fitness center」はプールやスタジオなども備えた本格的な施設を指すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、運動施設や健康に関する場
 
 ## 🧩 あわせて覚えたい
 
-- [stadium](/word/stadium/)：競技場
-- [exercise](/word/exercise/)：運動、エクササイズ
+- [stadium](/stadium)：競技場
+- [exercise](/exercise)：運動、エクササイズ
 
 ---
 
 ## 📖 できればこれも
 
-- [pool](/word/pool/)：プール
-- [track](/word/track/)：陸上トラック
+- [pool](/pool)：プール
+- [track](/track)：陸上トラック
 
-<!-- cvid: aid23_bid43 -->
+<!-- cvid: aid16_bid26 -->

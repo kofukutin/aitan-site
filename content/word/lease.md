@@ -81,15 +81,19 @@ TOEICでは主に不動産やビジネス契約に関する長文やEメール�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に不動産やビジネス契約に関する長文やEメール�
 ## 🤔  rent との違いは？
 
 - **lease**：一定期間の正式な賃貸契約（特に長期・ビジネス向け）を指す
-- **[rent](/word/rent/)**：物や場所を借りる行為全般や短期の賃貸にも使う
+- **[rent](/rent)**：物や場所を借りる行為全般や短期の賃貸にも使う
 
 leaseは契約書やフォーマルな場面で使われ、rentは日常的な「借りる」全般に使われます。
 
@@ -105,14 +109,14 @@ leaseは契約書やフォーマルな場面で使われ、rentは日常的な�
 
 ## 🧩 あわせて覚えたい
 
-- [contract](/word/contract/)：契約
-- [tenant](/word/tenant/)：借り手、入居者
+- [contract](/contract)：契約
+- [tenant](/tenant)：借り手、入居者
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [property](/word/property/)：不動産、財産
+- [agreement](/agreement)：合意、契約
+- [property](/property)：不動産、財産
 
-<!-- cvid: aid45_bid22 -->
+<!-- cvid: aid19_bid18 -->

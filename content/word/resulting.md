@@ -81,15 +81,19 @@ TOEICでは、主に文法問題や説明文中で「resulting from」「resulti
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主に文法問題や説明文中で「resulting from」「resulti
 ## 🤔  consequent との違いは？
 
 - **resulting**：何かの直接的な結果として生じたことを強調する。
-- **[consequent](/word/consequent/)**：ややフォーマルで、論理的・必然的な結果を表す。
+- **[consequent](/consequent)**：ややフォーマルで、論理的・必然的な結果を表す。
 
 「resulting」は具体的な出来事や変化の直接的な結果に使われ、「consequent」はより抽象的・論理的な因果関係を示すときに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、主に文法問題や説明文中で「resulting from」「resulti
 
 ## 🧩 あわせて覚えたい
 
-- [subsequent](/word/subsequent/)：その後の、次に起こる
-- [outcome](/word/outcome/)：結果、成果
+- [subsequent](/subsequent)：その後の、次に起こる
+- [outcome](/outcome)：結果、成果
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な、有効な
-- [due](/word/due/)：～が原因の、予定された
+- [effective](/effective)：効果的な、有効な
+- [due](/due)：～が原因の、予定された
 
-<!-- cvid: aid38_bid19 -->
+<!-- cvid: aid24_bid32 -->

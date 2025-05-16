@@ -77,15 +77,19 @@ TOEICでは、企業の沿革や人物紹介、変更事項の説明などでよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、企業の沿革や人物紹介、変更事項の説明などでよ
 ## 🤔  previously との違いは？
 
 - **formerly**：過去のある時点でそうだったことを、ややフォーマルに表現
-- **[previously](/word/previously/)**：単に「以前に」「前に」と時系列を示す
+- **[previously](/previously)**：単に「以前に」「前に」と時系列を示す
 
 「formerly」は特に立場や名称などが「かつてそうだった」と強調したいときに使い、よりフォーマルな響きがあります。「previously」は出来事や行動の時系列を説明する際に幅広く使われます。
 
@@ -101,14 +105,14 @@ TOEICでは、企業の沿革や人物紹介、変更事項の説明などでよ
 
 ## 🧩 あわせて覚えたい
 
-- [once](/word/once/)：一度、かつて
-- [originally](/word/originally/)：もともと、最初は
+- [once](/once)：一度、かつて
+- [originally](/originally)：もともと、最初は
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/word/currently/)：現在は
-- [recently](/word/recently/)：最近
+- [currently](/currently)：現在は
+- [recently](/recently)：最近
 
-<!-- cvid: aid44_bid24 -->
+<!-- cvid: aid13_bid29 -->

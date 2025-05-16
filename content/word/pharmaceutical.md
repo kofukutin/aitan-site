@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や記事、広告文で医療や製薬業界に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid25_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や記事、広告文で医療や製薬業界に
 ## 🤔  medicine との違いは？
 
 - **pharmaceutical**：製薬業界や医薬品そのものを指すフォーマルな形容詞
-- **[medicine](/word/medicine/)**：薬そのものや医学全般を指す名詞
+- **[medicine](/medicine)**：薬そのものや医学全般を指す名詞
 
 pharmaceuticalは「製薬の」「医薬品の」といった業界や製品に関する形容詞で、medicineは「薬」や「医学」という意味の名詞です。
 
@@ -105,14 +109,14 @@ pharmaceuticalは「製薬の」「医薬品の」といった業界や製品に
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription/)：処方箋
-- [pharmacy](/word/pharmacy/)：薬局
+- [prescription](/prescription)：処方箋
+- [pharmacy](/pharmacy)：薬局
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/word/clinical/)：臨床の
-- [therapy](/word/therapy/)：治療
+- [clinical](/clinical)：臨床の
+- [therapy](/therapy)：治療
 
-<!-- cvid: aid34_bid41 -->
+<!-- cvid: aid25_bid15 -->

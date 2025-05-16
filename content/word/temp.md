@@ -81,15 +81,19 @@ TOEICではPart 7の求人広告や社内通知などで「temp」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の求人広告や社内通知などで「temp」が登場す�
 ## 🤔  substitute との違いは？
 
 - **temp**：短期間だけ雇われる臨時スタッフや派遣社員を指すカジュアルな言い方
-- **[substitute](/word/substitute/)**：何かや誰かの「代わり」になる人や物を指し、状況や対象を問わず幅広く使う
+- **[substitute](/substitute)**：何かや誰かの「代わり」になる人や物を指し、状況や対象を問わず幅広く使う
 
 「temp」は主に雇用形態に焦点を当てた言葉で、職場で一時的に働く人を指します。「substitute」は「代役」「代理人」など、置き換えや代用の意味が強いです。
 
@@ -105,14 +109,14 @@ TOEICではPart 7の求人広告や社内通知などで「temp」が登場す�
 
 ## 🧩 あわせて覚えたい
 
-- [intern](/word/intern/)：インターン、研修生
-- [contractor](/word/contractor/)：契約社員、請負業者
+- [intern](/intern)：インターン、研修生
+- [contractor](/contractor)：契約社員、請負業者
 
 ---
 
 ## 📖 できればこれも
 
-- [staff](/word/staff/)：スタッフ、職員
-- [employee](/word/employee/)：従業員
+- [staff](/staff)：スタッフ、職員
+- [employee](/employee)：従業員
 
-<!-- cvid: aid03_bid15 -->
+<!-- cvid: aid20_bid07 -->

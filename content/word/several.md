@@ -80,15 +80,19 @@ TOEICでは「いくつかの」という数量表現として、空所補充や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは「いくつかの」という数量表現として、空所補充や
 ## 🤔  various との違いは？
 
 - **several**：いくつかの（数が3つ以上で、種類よりも「数」に注目）
-- **[various](/word/various/)**：さまざまな（種類やバリエーションに注目）
+- **[various](/various)**：さまざまな（種類やバリエーションに注目）
 
 severalは「数の多さ」に焦点を当て、variousは「種類の多さ・多様性」に焦点を当てます。
 
@@ -104,14 +108,14 @@ severalは「数の多さ」に焦点を当て、variousは「種類の多さ・
 
 ## 🧩 あわせて覚えたい
 
-- [few](/word/few/)：少しの（ほとんどない、という否定的なニュアンス）
-- [numerous](/word/numerous/)：非常に多くの
+- [few](/few)：少しの（ほとんどない、という否定的なニュアンス）
+- [numerous](/numerous)：非常に多くの
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each/)：それぞれの
-- [another](/word/another/)：もう一つの、別の
+- [each](/each)：それぞれの
+- [another](/another)：もう一つの、別の
 
-<!-- cvid: aid41_bid20 -->
+<!-- cvid: aid36_bid18 -->

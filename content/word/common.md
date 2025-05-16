@@ -81,15 +81,19 @@ TOEICでは「一般的な」「共通の」という意味で形容詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「一般的な」「共通の」という意味で形容詞として
 ## 🤔  ordinary との違いは？
 
 - **common**：よく見かける、広く分布している、共通している
-- **[ordinary](/word/ordinary/)**：特別ではない、平凡な、普通の
+- **[ordinary](/ordinary)**：特別ではない、平凡な、普通の
 
 commonは「多くの人に当てはまる」「共有されている」ことを強調し、ordinaryは「特別ではない」「目立たない」ことを強調します。
 
@@ -105,14 +109,14 @@ commonは「多くの人に当てはまる」「共有されている」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [typical](/word/typical/)：典型的な、代表的な
-- [rare](/word/rare/)：珍しい、まれな
+- [typical](/typical)：典型的な、代表的な
+- [rare](/rare)：珍しい、まれな
 
 ---
 
 ## 📖 できればこれも
 
-- [general](/word/general/)：全体的な、一般的な
-- [usual](/word/usual/)：いつもの、通常の
+- [general](/general)：全体的な、一般的な
+- [usual](/usual)：いつもの、通常の
 
-<!-- cvid: aid30_bid48 -->
+<!-- cvid: aid32_bid12 -->

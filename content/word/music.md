@@ -81,15 +81,19 @@ TOEICでは、カフェやホテル、イベントなど日常的な場面の会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、カフェやホテル、イベントなど日常的な場面の会
 ## 🤔  song との違いは？
 
 - **music**：音楽全般や音のまとまりを指す広い意味
-- **[song](/word/song/)**：歌詞がある「歌」や1曲ごとの作品
+- **[song](/song)**：歌詞がある「歌」や1曲ごとの作品
 
 musicはジャンルや雰囲気など幅広く使い、songは「1曲」「歌」として具体的な作品を指します。
 
@@ -105,14 +109,14 @@ musicはジャンルや雰囲気など幅広く使い、songは「1曲」「歌�
 
 ## 🧩 あわせて覚えたい
 
-- [melody](/word/melody/)：旋律、メロディー
-- [sound](/word/sound/)：音、音響
+- [melody](/melody)：旋律、メロディー
+- [sound](/sound)：音、音響
 
 ---
 
 ## 📖 できればこれも
 
-- [movie](/word/movie/)：映画
-- [art](/word/art/)：芸術
+- [movie](/movie)：映画
+- [art](/art)：芸術
 
-<!-- cvid: aid38_bid04 -->
+<!-- cvid: aid15_bid27 -->

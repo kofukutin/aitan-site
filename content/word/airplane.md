@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「飛行機が滑走路にいる」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「飛行機が滑走路にいる」な
 ## 🤔  aircraft との違いは？
 
 - **airplane**：エンジン付きの「飛行機」を指し、主に乗客や貨物を運ぶ機体。
-- **[aircraft](/word/aircraft/)**：飛行機だけでなく、ヘリコプターや気球など空を飛ぶすべての航空機を指す総称。
+- **[aircraft](/aircraft)**：飛行機だけでなく、ヘリコプターや気球など空を飛ぶすべての航空機を指す総称。
 
 airplaneは「飛行機」に限定されますが、aircraftは空を飛ぶ乗り物全般を指すため、より広い意味で使われます。
 
@@ -105,14 +109,14 @@ airplaneは「飛行機」に限定されますが、aircraftは空を飛ぶ乗�
 
 ## 🧩 あわせて覚えたい
 
-- [helicopter](/word/helicopter/)：ヘリコプター
-- [airport](/word/airport/)：空港
+- [helicopter](/helicopter)：ヘリコプター
+- [airport](/airport)：空港
 
 ---
 
 ## 📖 できればこれも
 
-- [train](/word/train/)：列車
-- [flight](/word/flight/)：（飛行機の）便
+- [train](/train)：列車
+- [flight](/flight)：（飛行機の）便
 
-<!-- cvid: aid39_bid01 -->
+<!-- cvid: aid01_bid44 -->

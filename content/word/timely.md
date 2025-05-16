@@ -81,15 +81,19 @@ TOEICでは主にメールや通知文、ビジネス文書の中で「適切な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや通知文、ビジネス文書の中で「適切な
 ## 🤔  punctual との違いは？
 
 - **timely**：タイミングが良い、時宜を得た
-- **[punctual](/word/punctual/)**：時間を守る、時間通りの
+- **[punctual](/punctual)**：時間を守る、時間通りの
 
 timelyは「ちょうど良い時期・タイミング」であることを指し、punctualは「決められた時間を守る」ことに重点があります。timelyは状況や出来事の適切さ、punctualは人や行動の正確さに使われます。
 
@@ -105,14 +109,14 @@ timelyは「ちょうど良い時期・タイミング」であることを指�
 
 ## 🧩 あわせて覚えたい
 
-- [prompt](/word/prompt/)：即座の、迅速な
-- [delayed](/word/delayed/)：遅れた
+- [prompt](/prompt)：即座の、迅速な
+- [delayed](/delayed)：遅れた
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [relevant](/word/relevant/)：関連する
+- [efficient](/efficient)：効率的な
+- [relevant](/relevant)：関連する
 
-<!-- cvid: aid39_bid26 -->
+<!-- cvid: aid20_bid08 -->

@@ -77,15 +77,19 @@ TOEICでは、否定文や疑問文、条件文での適切な使い方を問う
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、否定文や疑問文、条件文での適切な使い方を問う
 ## 🤔  some との違いは？
 
 - **any**：疑問文・否定文で「いくつか」「どれでも」「何か」を表す。条件文や肯定文で「どれでも」という意味にもなる。
-- **[some](/word/some/)**：主に肯定文で「いくつかの」「何か」を表す。申し出や依頼の疑問文でも使う。
+- **[some](/some)**：主に肯定文で「いくつかの」「何か」を表す。申し出や依頼の疑問文でも使う。
 
 anyは「どれでも」「何か」と幅広く使えますが、someは「いくつかの」と具体的な数量感や親しみを込めて使うことが多いです。
 
@@ -101,14 +105,14 @@ anyは「どれでも」「何か」と幅広く使えますが、someは「い�
 
 ## 🧩 あわせて覚えたい
 
-- [every](/word/every/)：すべての
-- [no](/word/no/)：ひとつも～ない
+- [every](/every)：すべての
+- [no](/no)：ひとつも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each/)：それぞれの
-- [another](/word/another/)：もう一つの
+- [each](/each)：それぞれの
+- [another](/another)：もう一つの
 
-<!-- cvid: aid26_bid08 -->
+<!-- cvid: aid44_bid35 -->

@@ -81,15 +81,19 @@ touchedはPart 3の会話やメール文で、感謝や感動を表す表現と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ touchedはPart 3の会話やメール文で、感謝や感動を表す表現と�
 ## 🤔  moved との違いは？
 
 - **touched**：やさしさや思いやりなど、心温まる感動を表す
-- **[moved](/word/moved/)**：強い感情や深い感動を表す
+- **[moved](/moved)**：強い感情や深い感動を表す
 
 touchedは「ほっこり」や「じんわり」した感動、movedは「心を大きく揺さぶられる」ような強い感動に使われます。
 
@@ -105,14 +109,14 @@ touchedは「ほっこり」や「じんわり」した感動、movedは「心�
 
 ## 🧩 あわせて覚えたい
 
-- [impressed](/word/impressed/)：感銘を受けた
-- [affected](/word/affected/)：影響を受けた、感動した
+- [impressed](/impressed)：感銘を受けた
+- [affected](/affected)：影響を受けた、感動した
 
 ---
 
 ## 📖 できればこれも
 
-- [grateful](/word/grateful/)：感謝している
-- [pleased](/word/pleased/)：うれしい
+- [grateful](/grateful)：感謝している
+- [pleased](/pleased)：うれしい
 
-<!-- cvid: aid17_bid28 -->
+<!-- cvid: aid21_bid23 -->

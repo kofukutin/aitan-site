@@ -81,15 +81,19 @@ TOEICでは請求書や契約書、サービス案内などの文書で「料金
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や契約書、サービス案内などの文書で「料金
 ## 🤔  bill との違いは？
 
 - **charge**：サービスや商品の「料金」「手数料」を指す
-- **[bill](/word/bill/)**：支払いを求める「請求書」や「勘定書」を指す
+- **[bill](/bill)**：支払いを求める「請求書」や「勘定書」を指す
 
 「charge」は実際に支払うべき金額や手数料そのもの、「bill」はその金額をまとめて記載した書類や伝票を指します。
 
@@ -105,14 +109,14 @@ TOEICでは請求書や契約書、サービス案内などの文書で「料金
 
 ## 🧩 あわせて覚えたい
 
-- [fee](/word/fee/)：（特定のサービスに対する）料金
-- [expense](/word/expense/)：費用、出費
+- [fee](/fee)：（特定のサービスに対する）料金
+- [expense](/expense)：費用、出費
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用、原価
-- [payment](/word/payment/)：支払い、支払金
+- [cost](/cost)：費用、原価
+- [payment](/payment)：支払い、支払金
 
-<!-- cvid: aid44_bid11 -->
+<!-- cvid: aid23_bid40 -->

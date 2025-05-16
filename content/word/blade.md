@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、ナイフや機械の部品、扇風機
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、ナイフや機械の部品、扇風機
 ## 🤔  edge との違いは？
 
 - **blade**：刃物の「刃」やプロペラの「羽根」など、薄くて平たい部分全体を指す。
-- **[edge](/word/edge/)**：物の「端」や「縁」、特に鋭い部分や境界を指す。
+- **[edge](/edge)**：物の「端」や「縁」、特に鋭い部分や境界を指す。
 
 bladeは「全体の刃」や「羽根」などの部品名、edgeは「端」や「鋭い部分」として使い分けます。
 
@@ -105,14 +109,14 @@ bladeは「全体の刃」や「羽根」などの部品名、edgeは「端」�
 
 ## 🧩 あわせて覚えたい
 
-- [knife](/word/knife/)：ナイフ、刃物
-- [leaf](/word/leaf/)：（植物の）葉
+- [knife](/knife)：ナイフ、刃物
+- [leaf](/leaf)：（植物の）葉
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：取っ手、持ち手
-- [surface](/word/surface/)：表面
+- [handle](/handle)：取っ手、持ち手
+- [surface](/surface)：表面
 
-<!-- cvid: aid08_bid34 -->
+<!-- cvid: aid18_bid18 -->

@@ -81,15 +81,19 @@ TOEICではニュース記事や規則説明、社会問題に関する長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではニュース記事や規則説明、社会問題に関する長文で
 ## 🤔  force との違いは？
 
 - **violence**：人や物に危害を加える「乱暴な力」や「暴力行為」を強調
-- **[force](/word/force/)**：単に「力」や「強制力」全般を指し、必ずしも乱暴・危害の意味は含まない
+- **[force](/force)**：単に「力」や「強制力」全般を指し、必ずしも乱暴・危害の意味は含まない
 
 violenceは「危害を伴う乱暴な力」、forceは「物理的・抽象的な力」全般を指すため、感情や場面の強さが異なります。
 
@@ -105,14 +109,14 @@ violenceは「危害を伴う乱暴な力」、forceは「物理的・抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [aggression](/word/aggression/)：攻撃性、侵略
-- [peace](/word/peace/)：平和、安らぎ
+- [aggression](/aggression)：攻撃性、侵略
+- [peace](/peace)：平和、安らぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime/)：犯罪
-- [threat](/word/threat/)：脅威、脅し
+- [crime](/crime)：犯罪
+- [threat](/threat)：脅威、脅し
 
-<!-- cvid: aid43_bid45 -->
+<!-- cvid: aid07_bid36 -->

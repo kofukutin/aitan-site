@@ -81,15 +81,19 @@ TOEICでは科学や技術、比喩的な表現を含む説明文や記事で見
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術、比喩的な表現を含む説明文や記事で見
 ## 🤔  ultimate との違いは？
 
 - **omega**：ギリシャ文字の最後で「終わり」「究極」を象徴する名詞。比喩的にも使われる。
-- **[ultimate](/word/ultimate/)**：最終的な、究極の、最高のという意味の形容詞や名詞。
+- **[ultimate](/ultimate)**：最終的な、究極の、最高のという意味の形容詞や名詞。
 
 omegaは象徴的・比喩的に「終わり」や「究極」を表す名詞、ultimateは「最終的な」「究極の」と形容詞的に幅広く使われます。
 
@@ -105,14 +109,14 @@ omegaは象徴的・比喩的に「終わり」や「究極」を表す名詞、
 
 ## 🧩 あわせて覚えたい
 
-- [alpha](/word/alpha/)：アルファ、ギリシャ文字の最初の文字
-- [end](/word/end/)：終わり、終了
+- [alpha](/alpha)：アルファ、ギリシャ文字の最初の文字
+- [end](/end)：終わり、終了
 
 ---
 
 ## 📖 できればこれも
 
-- [symbol](/word/symbol/)：記号、象徴
-- [final](/word/final/)：最終の、最後の
+- [symbol](/symbol)：記号、象徴
+- [final](/final)：最終の、最後の
 
-<!-- cvid: aid35_bid11 -->
+<!-- cvid: aid12_bid38 -->

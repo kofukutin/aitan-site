@@ -81,15 +81,19 @@ TOEICでは企業理念や倫理に関する長文、ビジネス文書で「誠
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは企業理念や倫理に関する長文、ビジネス文書で「誠
 ## 🤔  honesty との違いは？
 
 - **integrity**：道徳的な強さや一貫した誠実さを強調
-- **[honesty](/word/honesty/)**：嘘をつかない、正直であることを強調
+- **[honesty](/honesty)**：嘘をつかない、正直であることを強調
 
 integrityは「信念を守る高潔さ」まで含み、honestyは「嘘をつかない素直さ」に焦点があります。
 
@@ -105,14 +109,14 @@ integrityは「信念を守る高潔さ」まで含み、honestyは「嘘をつ�
 
 ## 🧩 あわせて覚えたい
 
-- [morality](/word/morality/)：道徳、倫理
-- [corruption](/word/corruption/)：腐敗、不正
+- [morality](/morality)：道徳、倫理
+- [corruption](/corruption)：腐敗、不正
 
 ---
 
 ## 📖 できればこれも
 
-- [ethics](/word/ethics/)：倫理、道徳規範
-- [reputation](/word/reputation/)：評判、名声
+- [ethics](/ethics)：倫理、道徳規範
+- [reputation](/reputation)：評判、名声
 
-<!-- cvid: aid48_bid22 -->
+<!-- cvid: aid01_bid47 -->

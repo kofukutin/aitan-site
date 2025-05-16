@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「ちょっとしたアドバイス」や「心
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「ちょっとしたアドバイス」や「心
 ## 🤔  hint との違いは？
 
 - **tip**：実用的で具体的なアドバイスやコツを指す
-- **[hint](/word/hint/)**：問題解決のヒントや手がかり、暗示的な助言
+- **[hint](/hint)**：問題解決のヒントや手がかり、暗示的な助言
 
 tipは「すぐに役立つアドバイス」、hintは「答えに近づくためのヒントや手がかり」として使い分けます。
 
@@ -105,14 +109,14 @@ tipは「すぐに役立つアドバイス」、hintは「答えに近づくた�
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/word/advice/)：助言、アドバイス
-- [suggestion](/word/suggestion/)：提案、提言
+- [advice](/advice)：助言、アドバイス
+- [suggestion](/suggestion)：提案、提言
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：メモ、注意
-- [point](/word/point/)：要点、ポイント
+- [note](/note)：メモ、注意
+- [point](/point)：要点、ポイント
 
-<!-- cvid: aid28_bid31 -->
+<!-- cvid: aid47_bid41 -->

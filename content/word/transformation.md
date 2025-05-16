@@ -81,15 +81,19 @@ TOEICではビジネスやIT分野の長文で「transformation」が使われ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスやIT分野の長文で「transformation」が使われ�
 ## 🤔  conversion との違いは？
 
 - **transformation**：質や本質が大きく変わる「変革」や「変身」を強調
-- **[conversion](/word/conversion/)**：主に「用途や形式の変更」など、機能や状態の切り替えを指す
+- **[conversion](/conversion)**：主に「用途や形式の変更」など、機能や状態の切り替えを指す
 
 transformationは「根本的な変化」、conversionは「用途や形式の切り替え」といった違いがあります。
 
@@ -105,14 +109,14 @@ transformationは「根本的な変化」、conversionは「用途や形式の�
 
 ## 🧩 あわせて覚えたい
 
-- [innovation](/word/innovation/)：革新、新しいアイデアや方法
-- [modification](/word/modification/)：修正、部分的な変更
+- [innovation](/innovation)：革新、新しいアイデアや方法
+- [modification](/modification)：修正、部分的な変更
 
 ---
 
 ## 📖 できればこれも
 
-- [transition](/word/transition/)：移行、変わり目
-- [adaptation](/word/adaptation/)：適応、順応
+- [transition](/transition)：移行、変わり目
+- [adaptation](/adaptation)：適応、順応
 
-<!-- cvid: aid25_bid18 -->
+<!-- cvid: aid08_bid35 -->

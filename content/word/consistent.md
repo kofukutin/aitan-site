@@ -81,15 +81,19 @@ TOEICでは、consistentは「一貫性」や「安定性」を問う文脈で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、consistentは「一貫性」や「安定性」を問う文脈で�
 ## 🤔  constant との違いは？
 
 - **consistent**：一貫性や矛盾のなさを強調し、方針や行動が変わらないことを表す
-- **[constant](/word/constant/)**：絶え間なく続く、変化しない状態そのものを表す
+- **[constant](/constant)**：絶え間なく続く、変化しない状態そのものを表す
 
 consistentは「方針や態度がブレない」こと、constantは「量や状態がずっと続く」ことに重点があります。
 
@@ -105,14 +109,14 @@ consistentは「方針や態度がブレない」こと、constantは「量や�
 
 ## 🧩 あわせて覚えたい
 
-- [reliable](/word/reliable/)：信頼できる
-- [stable](/word/stable/)：安定した
+- [reliable](/reliable)：信頼できる
+- [stable](/stable)：安定した
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [accurate](/word/accurate/)：正確な
+- [efficient](/efficient)：効率的な
+- [accurate](/accurate)：正確な
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid18_bid41 -->

@@ -81,15 +81,19 @@ TOEICでは、受動態や過去分詞として「be awarded」などの形で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や過去分詞として「be awarded」などの形で�
 ## 🤔  granted との違いは？
 
 - **awarded**：選考や評価の結果として公式に「授与された」
-- **[granted](/word/granted/)**：申請や要求に対して「許可・承認された」
+- **[granted](/granted)**：申請や要求に対して「許可・承認された」
 
 awardedは「賞や契約などを与える」フォーマルな場面で使い、grantedは「権利や許可を与える」場合に使われます。
 
@@ -105,14 +109,14 @@ awardedは「賞や契約などを与える」フォーマルな場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る
-- [honor](/word/honor/)：名誉、栄誉
+- [receive](/receive)：受け取る
+- [honor](/honor)：名誉、栄誉
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：贈る、授与する
-- [nominate](/word/nominate/)：推薦する、指名する
+- [present](/present)：贈る、授与する
+- [nominate](/nominate)：推薦する、指名する
 
-<!-- cvid: aid12_bid49 -->
+<!-- cvid: aid26_bid23 -->

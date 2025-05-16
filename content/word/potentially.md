@@ -81,15 +81,19 @@ TOEICの長文読解パートで、可能性やリスク、将来性について
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、可能性やリスク、将来性について
 ## 🤔  possibly との違いは？
 
 - **potentially**：何かが起こる「可能性」や「潜在的な力」を強調
-- **[possibly](/word/possibly/)**：起こる「かもしれない」という不確実性を表現
+- **[possibly](/possibly)**：起こる「かもしれない」という不確実性を表現
 
 「potentially」は「起こる力や可能性がある」ことに焦点を当て、「possibly」は単に「起こるかもしれない」という不確実さを表します。
 
@@ -105,14 +109,14 @@ TOEICの長文読解パートで、可能性やリスク、将来性について
 
 ## 🧩 あわせて覚えたい
 
-- [likely](/word/likely/)：ありそうな、起こりそうな
-- [eventually](/word/eventually/)：最終的に、やがて
+- [likely](/likely)：ありそうな、起こりそうな
+- [eventually](/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [significantly](/word/significantly/)：著しく、かなり
-- [effectively](/word/effectively/)：効果的に、事実上
+- [significantly](/significantly)：著しく、かなり
+- [effectively](/effectively)：効果的に、事実上
 
-<!-- cvid: aid29_bid01 -->
+<!-- cvid: aid42_bid22 -->

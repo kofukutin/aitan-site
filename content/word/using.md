@@ -81,15 +81,19 @@ TOEICでは、動名詞や現在分詞の文法問題で頻出です。手段や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動名詞や現在分詞の文法問題で頻出です。手段や
 ## 🤔  utilizing との違いは？
 
 - **using**：一般的に「使う」「利用する」という意味で幅広く使われる。
-- **[utilizing](/word/utilizing/)**：よりフォーマルで「有効活用する」「最大限に活かす」というニュアンスが強い。
+- **[utilizing](/utilizing)**：よりフォーマルで「有効活用する」「最大限に活かす」というニュアンスが強い。
 
 「using」は日常的な「使う」に対し、「utilizing」は資源や機会を効果的に活用する場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、動名詞や現在分詞の文法問題で頻出です。手段や
 
 ## 🧩 あわせて覚えたい
 
-- [employ](/word/employ/)：（方法・手段などを）用いる
-- [apply](/word/apply/)：（知識・技術などを）応用する
+- [employ](/employ)：（方法・手段などを）用いる
+- [apply](/apply)：（知識・技術などを）応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [choose](/word/choose/)：選ぶ
-- [operate](/word/operate/)：操作する
+- [choose](/choose)：選ぶ
+- [operate](/operate)：操作する
 
-<!-- cvid: aid15_bid35 -->
+<!-- cvid: aid43_bid26 -->

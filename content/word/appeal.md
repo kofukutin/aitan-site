@@ -81,15 +81,19 @@ appealはTOEICの長文読解（Part 7）で、広告や案内文、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ appealはTOEICの長文読解（Part 7）で、広告や案内文、ビジネス
 ## 🤔  request との違いは？
 
 - **appeal**：感情や理性に「訴えかける」、魅力を感じさせる
-- **[request](/word/request/)**：具体的に「依頼する」「頼む」
+- **[request](/request)**：具体的に「依頼する」「頼む」
 
 appealは「心に響くように働きかける」ニュアンス、requestは「何かをしてほしいと直接頼む」ニュアンスです。
 
@@ -105,14 +109,14 @@ appealは「心に響くように働きかける」ニュアンス、requestは�
 
 ## 🧩 あわせて覚えたい
 
-- [attract](/word/attract/)：引きつける、魅了する
-- [petition](/word/petition/)：嘆願する、請願する
+- [attract](/attract)：引きつける、魅了する
+- [petition](/petition)：嘆願する、請願する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：申し込む、適用する
-- [suggest](/word/suggest/)：提案する
+- [apply](/apply)：申し込む、適用する
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid36_bid38 -->
+<!-- cvid: aid23_bid49 -->

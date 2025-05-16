@@ -81,15 +81,19 @@ thingはTOEICの文法・語彙問題で頻出し、特に「something」「anyt
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ thingはTOEICの文法・語彙問題で頻出し、特に「something」「anyt
 ## 🤔  object との違いは？
 
 - **thing**：物やこと全般を指し、抽象的な内容にも使える
-- **[object](/word/object/)**：主に物体や具体的な「物」を指す
+- **[object](/object)**：主に物体や具体的な「物」を指す
 
 thingは「こと」や「もの」など幅広い意味で使えますが、objectは「物体」や「目に見える物」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ thingは「こと」や「もの」など幅広い意味で使えますが、obj
 
 ## 🧩 あわせて覚えたい
 
-- [item](/word/item/)：品目、項目
-- [matter](/word/matter/)：事柄、問題
+- [item](/item)：品目、項目
+- [matter](/matter)：事柄、問題
 
 ---
 
 ## 📖 できればこれも
 
-- [stuff](/word/stuff/)：もの、こと（口語的）
-- [issue](/word/issue/)：問題、課題
+- [stuff](/stuff)：もの、こと（口語的）
+- [issue](/issue)：問題、課題
 
-<!-- cvid: aid20_bid14 -->
+<!-- cvid: aid06_bid41 -->

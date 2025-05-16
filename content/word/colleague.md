@@ -81,15 +81,19 @@ TOEICでは主にメールや社内文書、会議の議事録などで「同僚
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや社内文書、会議の議事録などで「同僚
 ## 🤔  coworker との違いは？
 
 - **colleague**：フォーマルで、専門職やオフィスワークなど幅広い職場で使われる「同僚」
-- **[coworker](/word/coworker/)**：ややカジュアルで、特にアメリカ英語で一般的な「同僚」
+- **[coworker](/coworker)**：ややカジュアルで、特にアメリカ英語で一般的な「同僚」
 
 「colleague」は職場での協力関係や専門性を強調する場面で使われ、「coworker」はより日常的・カジュアルなニュアンスです。
 
@@ -105,14 +109,14 @@ TOEICでは主にメールや社内文書、会議の議事録などで「同僚
 
 ## 🧩 あわせて覚えたい
 
-- [associate](/word/associate/)：仕事仲間、同僚
-- [supervisor](/word/supervisor/)：上司、監督者
+- [associate](/associate)：仕事仲間、同僚
+- [supervisor](/supervisor)：上司、監督者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [manager](/word/manager/)：管理職、マネージャー
+- [client](/client)：顧客、取引先
+- [manager](/manager)：管理職、マネージャー
 
-<!-- cvid: aid36_bid14 -->
+<!-- cvid: aid26_bid04 -->

@@ -81,15 +81,19 @@ townshipはTOEICの長文読解（Part 7）で、行政区画や地域の説明�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ townshipはTOEICの長文読解（Part 7）で、行政区画や地域の説明�
 ## 🤔  district との違いは？
 
 - **township**：特定の行政区画や地方自治体を指し、主にアメリカや南アフリカなどで使われる。
-- **[district](/word/district/)**：行政区や学区など、より広い意味での「区」を指し、用途が幅広い。
+- **[district](/district)**：行政区や学区など、より広い意味での「区」を指し、用途が幅広い。
 
 townshipは特定の国や地域の行政単位に限定されることが多いですが、districtは一般的に「区」全般を指し、教育・行政・商業など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ townshipは特定の国や地域の行政単位に限定されることが多い
 
 ## 🧩 あわせて覚えたい
 
-- [municipality](/word/municipality/)：自治体、地方公共団体
-- [suburb](/word/suburb/)：郊外
+- [municipality](/municipality)：自治体、地方公共団体
+- [suburb](/suburb)：郊外
 
 ---
 
 ## 📖 できればこれも
 
-- [province](/word/province/)：州、地方
-- [county](/word/county/)：郡
+- [province](/province)：州、地方
+- [county](/county)：郡
 
-<!-- cvid: aid02_bid12 -->
+<!-- cvid: aid01_bid10 -->

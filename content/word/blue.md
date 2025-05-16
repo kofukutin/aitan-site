@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【blue】の意味・使い方・例文 ― navyとの違い【TOEIC英単語】"
 description: "blueの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでnavyとの違いもわかりやすく学べます。"
 word: "blue"
@@ -82,15 +82,19 @@ TOEICではPart 1の写真描写で、服や物の色を説明する際によく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 1の写真描写で、服や物の色を説明する際によく
 ## 🤔  navy との違いは？
 
 - **blue**：一般的な「青」「青い」を表す基本的な色の単語。
-- **[navy](/word/navy/)**：より濃い「紺色」「ネイビー」を指し、特定の色合いを表す。
+- **[navy](/navy)**：より濃い「紺色」「ネイビー」を指し、特定の色合いを表す。
 
 「blue」は幅広い青色全般を指しますが、「navy」は特に濃い青色（紺色）を表します。服やデザインで色の細かい違いを伝えたいときに使い分けます。
 
@@ -106,14 +110,14 @@ TOEICではPart 1の写真描写で、服や物の色を説明する際によく
 
 ## 🧩 あわせて覚えたい
 
-- [green](/word/green/)：緑色
-- [sad](/word/sad/)：悲しい（blueの感情的な意味と関連）
+- [green](/green)：緑色
+- [sad](/sad)：悲しい（blueの感情的な意味と関連）
 
 ---
 
 ## 📖 できればこれも
 
-- [red](/word/red/)：赤い
-- [bright](/word/bright/)：明るい
+- [red](/red)：赤い
+- [bright](/bright)：明るい
 
-<!-- cvid: aid02_bid33 -->
+<!-- cvid: aid48_bid22 -->

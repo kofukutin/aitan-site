@@ -80,15 +80,19 @@ TOEICでは住所や地図、案内文などで略語として登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは住所や地図、案内文などで略語として登場すること
 ## 🤔  ave との違いは？
 
 - **blvd**：幅の広い大通りや並木道を指す略語
-- **[ave](/word/ave/)**：avenue（アベニュー）の略で、主に都市の主要道路や通りを指す
+- **[ave](/ave)**：avenue（アベニュー）の略で、主に都市の主要道路や通りを指す
 
 blvdは特に広くて景観の良い大通り、aveは都市の主要な通りや道を指す点で使い分けます。
 
@@ -104,14 +108,14 @@ blvdは特に広くて景観の良い大通り、aveは都市の主要な通り�
 
 ## 🧩 あわせて覚えたい
 
-- [street](/word/street/)：通り、街路
-- [road](/word/road/)：道路、道
+- [street](/street)：通り、街路
+- [road](/road)：道路、道
 
 ---
 
 ## 📖 できればこれも
 
-- [apt](/word/apt/)：アパート、部屋番号
-- [suite](/word/suite/)：スイート、部屋番号
+- [apt](/apt)：アパート、部屋番号
+- [suite](/suite)：スイート、部屋番号
 
-<!-- cvid: aid42_bid20 -->
+<!-- cvid: aid20_bid32 -->

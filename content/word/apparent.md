@@ -81,15 +81,19 @@ TOEICでは、文書やメールの内容説明で「明らかな」「見たと
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文書やメールの内容説明で「明らかな」「見たと
 ## 🤔  obvious との違いは？
 
 - **apparent**：見た目や状況から「明らかに見える」「一見してそう思える」
-- **[obvious](/word/obvious/)**：誰が見ても疑いなく「明白な」「はっきりした」
+- **[obvious](/obvious)**：誰が見ても疑いなく「明白な」「はっきりした」
 
 apparentは「見た目上そう見える」場合にも使い、obviousは「誰が見ても明らか」な場合に使います。
 
@@ -105,14 +109,14 @@ apparentは「見た目上そう見える」場合にも使い、obviousは「�
 
 ## 🧩 あわせて覚えたい
 
-- [evident](/word/evident/)：証拠や理由があって明らかな
-- [seem](/word/seem/)：〜のように見える、思われる
+- [evident](/evident)：証拠や理由があって明らかな
+- [seem](/seem)：〜のように見える、思われる
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible/)：目に見える
-- [clear](/word/clear/)：はっきりした、明確な
+- [visible](/visible)：目に見える
+- [clear](/clear)：はっきりした、明確な
 
-<!-- cvid: aid26_bid40 -->
+<!-- cvid: aid49_bid35 -->

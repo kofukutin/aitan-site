@@ -81,15 +81,19 @@ holdingは、TOEICの長文読解パートで企業の資産や株式に関す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ holdingは、TOEICの長文読解パートで企業の資産や株式に関す�
 ## 🤔  possession との違いは？
 
 - **holding**：主にビジネスや金融で使われる「持ち株」「資産」などの所有物
-- **[possession](/word/possession/)**：一般的な「所有物」「所持品」全般
+- **[possession](/possession)**：一般的な「所有物」「所持品」全般
 
 holdingは企業や投資の文脈で使われることが多く、possessionは日常的な持ち物や所有全般に使われます。
 
@@ -105,14 +109,14 @@ holdingは企業や投資の文脈で使われることが多く、possessionは
 
 ## 🧩 あわせて覚えたい
 
-- [subsidiary](/word/subsidiary/)：子会社
-- [asset](/word/asset/)：資産
+- [subsidiary](/subsidiary)：子会社
+- [asset](/asset)：資産
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/word/share/)：株式、分け前
-- [ownership](/word/ownership/)：所有権
+- [share](/share)：株式、分け前
+- [ownership](/ownership)：所有権
 
-<!-- cvid: aid43_bid29 -->
+<!-- cvid: aid27_bid28 -->

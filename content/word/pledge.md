@@ -81,15 +81,19 @@ pledgeはTOEICの長文読解パートで、企業の声明や社会的責任に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ pledgeはTOEICの長文読解パートで、企業の声明や社会的責任に
 ## 🤔  promise との違いは？
 
 - **pledge**：公式で重みのある「誓約」や「約束」。責任や義務が強調される。
-- **[promise](/word/promise/)**：日常的な「約束」。カジュアルな場面でも使える。
+- **[promise](/promise)**：日常的な「約束」。カジュアルな場面でも使える。
 
 pledgeはフォーマルで責任の重い約束、promiseは日常的な軽い約束にも使える点が異なります。
 
@@ -105,14 +109,14 @@ pledgeはフォーマルで責任の重い約束、promiseは日常的な軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [oath](/word/oath/)：宣誓、誓い
-- [commitment](/word/commitment/)：約束、責任
+- [oath](/oath)：宣誓、誓い
+- [commitment](/commitment)：約束、責任
 
 ---
 
 ## 📖 できればこれも
 
-- [guarantee](/word/guarantee/)：保証、約束
-- [assure](/word/assure/)：保証する、請け合う
+- [guarantee](/guarantee)：保証、約束
+- [assure](/assure)：保証する、請け合う
 
-<!-- cvid: aid11_bid31 -->
+<!-- cvid: aid04_bid15 -->

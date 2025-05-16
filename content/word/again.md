@@ -81,15 +81,19 @@ againはTOEICのリスニングや会話文で頻出し、指示や依頼、説�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ againは日常会話やビジネスで幅広く使われ、once moreは強調や
 
 ## 🧩 あわせて覚えたい
 
-- [repeat](/word/repeat/)：繰り返す
-- [still](/word/still/)：まだ、いまだに
+- [repeat](/repeat)：繰り返す
+- [still](/still)：まだ、いまだに
 
 ---
 
 ## 📖 できればこれも
 
-- [already](/word/already/)：すでに
-- [soon](/word/soon/)：まもなく
+- [already](/already)：すでに
+- [soon](/soon)：まもなく
 
-<!-- cvid: aid08_bid21 -->
+<!-- cvid: aid44_bid10 -->

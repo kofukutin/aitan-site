@@ -81,15 +81,19 @@ hideは会話文や説明文で「隠す」「隠れる」という意味で出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ hideは会話文や説明文で「隠す」「隠れる」という意味で出�
 ## 🤔  cover との違いは？
 
 - **hide**：見えないように完全に隠す、または自分が隠れる
-- **[cover](/word/cover/)**：何かを覆って見えなくする、または保護する
+- **[cover](/cover)**：何かを覆って見えなくする、または保護する
 
 hideは「存在自体を見えなくする」イメージ、coverは「表面を覆う」イメージで、隠す度合いや方法が異なります。
 
@@ -105,14 +109,14 @@ hideは「存在自体を見えなくする」イメージ、coverは「表面�
 
 ## 🧩 あわせて覚えたい
 
-- [reveal](/word/reveal/)：明らかにする、見せる
-- [conceal](/word/conceal/)：（意図的に）隠す
+- [reveal](/reveal)：明らかにする、見せる
+- [conceal](/conceal)：（意図的に）隠す
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/word/find/)：見つける
-- [search](/word/search/)：探す
+- [find](/find)：見つける
+- [search](/search)：探す
 
-<!-- cvid: aid20_bid01 -->
+<!-- cvid: aid26_bid09 -->

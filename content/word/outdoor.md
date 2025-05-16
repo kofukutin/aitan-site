@@ -81,15 +81,19 @@ TOEICでは、イベントや施設の説明、活動内容の話題で「outdoo
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、イベントや施設の説明、活動内容の話題で「outdoo
 ## 🤔  outside との違いは？
 
 - **outdoor**：屋外の（形容詞）。名詞の前で「屋外の～」と限定する。
-- **[outside](/word/outside/)**：外で、外側に（副詞・前置詞）。場所や位置を表す。
+- **[outside](/outside)**：外で、外側に（副詞・前置詞）。場所や位置を表す。
 
 「outdoor」は名詞の前で「屋外の」と限定する形容詞、「outside」は場所や位置を表す副詞・前置詞です。
 
@@ -105,14 +109,14 @@ TOEICでは、イベントや施設の説明、活動内容の話題で「outdoo
 
 ## 🧩 あわせて覚えたい
 
-- [indoor](/word/indoor/)：屋内の
-- [external](/word/external/)：外部の、外側の
+- [indoor](/indoor)：屋内の
+- [external](/external)：外部の、外側の
 
 ---
 
 ## 📖 できればこれも
 
-- [outside](/word/outside/)：外で、外側に
-- [open](/word/open/)：開いている、開放的な
+- [outside](/outside)：外で、外側に
+- [open](/open)：開いている、開放的な
 
-<!-- cvid: aid02_bid39 -->
+<!-- cvid: aid13_bid17 -->

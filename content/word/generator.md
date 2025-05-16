@@ -81,15 +81,19 @@ TOEICでは、設備や機械の説明、オフィスや工場の案内などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、設備や機械の説明、オフィスや工場の案内などで
 ## 🤔  producer との違いは？
 
 - **generator**：機械や装置として「発電機」や「何かを生み出すもの」を指すことが多い
-- **[producer](/word/producer/)**：人や組織が「生産者」「製作者」として何かを作り出す場合に使う
+- **[producer](/producer)**：人や組織が「生産者」「製作者」として何かを作り出す場合に使う
 
 generatorは主に機械や装置に使われ、producerは人や組織に使われる点が大きな違いです。
 
@@ -105,14 +109,14 @@ generatorは主に機械や装置に使われ、producerは人や組織に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [transformer](/word/transformer/)：変圧器
-- [engine](/word/engine/)：エンジン、原動機
+- [transformer](/transformer)：変圧器
+- [engine](/engine)：エンジン、原動機
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [battery](/word/battery/)：電池、バッテリー
+- [device](/device)：装置、機器
+- [battery](/battery)：電池、バッテリー
 
-<!-- cvid: aid17_bid04 -->
+<!-- cvid: aid35_bid10 -->

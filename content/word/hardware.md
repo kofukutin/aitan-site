@@ -89,7 +89,11 @@ TOEICではIT関連やオフィス環境の説明文、メール、案内文な�
 
 <div class="info-center">
 ＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連やオフィス環境の説明文、メール、案内文な�
 ## 🤔  equipment との違いは？
 
 - **hardware**：コンピュータや機械の物理的な装置や部品を指す
-- **[equipment](/word/equipment/)**：特定の目的のために使う道具や装置全般を指す
+- **[equipment](/equipment)**：特定の目的のために使う道具や装置全般を指す
 
 hardwareは主にITや機械分野で使われ、equipmentはより広い分野で使われます。
 
@@ -105,14 +109,14 @@ hardwareは主にITや機械分野で使われ、equipmentはより広い分野�
 
 ## 🧩 あわせて覚えたい
 
-- [software](/word/software/)：ソフトウェア、プログラム
-- [device](/word/device/)：装置、機器
+- [software](/software)：ソフトウェア、プログラム
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [component](/word/component/)：部品、構成要素
+- [install](/install)：インストールする、設置する
+- [component](/component)：部品、構成要素
 
 <!-- cvid: aid27_bid20 -->

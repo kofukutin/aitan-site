@@ -81,15 +81,19 @@ TOEICでは「exist」の過去形として、過去の事実や状態を説明�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「exist」の過去形として、過去の事実や状態を説明�
 ## 🤔  lived との違いは？
 
 - **existed**：単に「存在した」「あった」という意味で、生命や活動に限らず幅広く使う。
-- **[lived](/word/lived/)**：「生きていた」「生活していた」という意味で、主に人や動物など生命体に使う。
+- **[lived](/lived)**：「生きていた」「生活していた」という意味で、主に人や動物など生命体に使う。
 
 「existed」は物や概念にも使えるが、「lived」は生命のあるものに限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは「exist」の過去形として、過去の事実や状態を説明�
 
 ## 🧩 あわせて覚えたい
 
-- [survive](/word/survive/)：生き残る
-- [occur](/word/occur/)：起こる、発生する
+- [survive](/survive)：生き残る
+- [occur](/occur)：起こる、発生する
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear/)：現れる
-- [remain](/word/remain/)：残る、留まる
+- [appear](/appear)：現れる
+- [remain](/remain)：残る、留まる
 
-<!-- cvid: aid08_bid13 -->
+<!-- cvid: aid39_bid45 -->

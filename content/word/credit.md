@@ -81,15 +81,19 @@ TOEICでは、銀行やビジネスの文脈で「信用」「預金」「クレ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、銀行やビジネスの文脈で「信用」「預金」「クレ
 ## 🤔  trust との違いは？
 
 - **credit**：主に経済的な「信用」や「功績」の意味で使われる。
-- **[trust](/word/trust/)**：人や組織への「信頼」や「信じる気持ち」を表す。
+- **[trust](/trust)**：人や組織への「信頼」や「信じる気持ち」を表す。
 
 creditはビジネスや金融の場面で使われることが多く、trustは人間関係や感情的な信頼に使われます。
 
@@ -105,13 +109,13 @@ creditはビジネスや金融の場面で使われることが多く、trustは
 
 ## 🧩 あわせて覚えたい
 
-- [debt](/word/debt/)：借金、負債
-- [reputation](/word/reputation/)：評判、名声
+- [debt](/debt)：借金、負債
+- [reputation](/reputation)：評判、名声
 
 ---
 
 ## 📖 できればこれも
 
-- [loan](/word/loan/)：ローン、貸付
-- [account](/word/account/)：口座、勘定
-<!-- cvid: aid40_bid33 -->
+- [loan](/loan)：ローン、貸付
+- [account](/account)：口座、勘定
+<!-- cvid: aid21_bid44 -->

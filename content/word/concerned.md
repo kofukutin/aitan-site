@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「心配している」「関係している」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「心配している」「関係している」
 ## 🤔  worried との違いは？
 
 - **concerned**：やや丁寧で控えめに「心配している」「気にかけている」と表現する
-- **[worried](/word/worried/)**：より直接的に「不安でたまらない」「心配で落ち着かない」と強く表現する
+- **[worried](/worried)**：より直接的に「不安でたまらない」「心配で落ち着かない」と強く表現する
 
 concernedはやんわりとした心配や配慮を示すのに対し、worriedは強い不安や心配を表します。
 
@@ -105,14 +109,14 @@ concernedはやんわりとした心配や配慮を示すのに対し、worried�
 
 ## 🧩 あわせて覚えたい
 
-- [anxious](/word/anxious/)：不安な、切望して
-- [involved](/word/involved/)：関与している、巻き込まれている
+- [anxious](/anxious)：不安な、切望して
+- [involved](/involved)：関与している、巻き込まれている
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident/)：自信がある
-- [responsible](/word/responsible/)：責任がある
+- [confident](/confident)：自信がある
+- [responsible](/responsible)：責任がある
 
-<!-- cvid: aid41_bid06 -->
+<!-- cvid: aid43_bid18 -->

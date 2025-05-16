@@ -81,15 +81,19 @@ TOEICでは、メールや記事、広告文などで料理のレシピや「成
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや記事、広告文などで料理のレシピや「成
 ## 🤔  instruction との違いは？
 
 - **recipe**：料理や成功のための「手順」や「秘訣」を指す、ややカジュアルな語。
-- **[instruction](/word/instruction/)**：一般的な「指示」「説明書」「手順書」など幅広い場面で使うフォーマルな語。
+- **[instruction](/instruction)**：一般的な「指示」「説明書」「手順書」など幅広い場面で使うフォーマルな語。
 
 recipeは主に料理や比喩的な成功法則に使い、instructionは機械や作業全般の手順・説明に使います。
 
@@ -105,14 +109,14 @@ recipeは主に料理や比喩的な成功法則に使い、instructionは機械
 
 ## 🧩 あわせて覚えたい
 
-- [formula](/word/formula/)：公式、決まった方法
-- [method](/word/method/)：方法、やり方
+- [formula](/formula)：公式、決まった方法
+- [method](/method)：方法、やり方
 
 ---
 
 ## 📖 できればこれも
 
-- [ingredient](/word/ingredient/)：材料、成分
-- [procedure](/word/procedure/)：手順、手続き
+- [ingredient](/ingredient)：材料、成分
+- [procedure](/procedure)：手順、手続き
 
-<!-- cvid: aid39_bid48 -->
+<!-- cvid: aid24_bid39 -->

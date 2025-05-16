@@ -81,15 +81,19 @@ titleはTOEICのPart 5で「役職名」や「題名」を問う文脈でよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ titleはTOEICのPart 5で「役職名」や「題名」を問う文脈でよく�
 ## 🤔  position との違いは？
 
 - **title**：役職名や肩書き、または本・映画などの題名を指す。
-- **[position](/word/position/)**：組織内での「地位」や「役割」を指す。
+- **[position](/position)**：組織内での「地位」や「役割」を指す。
 
 titleは「名前」や「称号」に焦点があり、positionは「役割」や「立場」に重点があります。
 
@@ -105,14 +109,14 @@ titleは「名前」や「称号」に焦点があり、positionは「役割」�
 
 ## 🧩 あわせて覚えたい
 
-- [role](/word/role/)：役割
-- [degree](/word/degree/)：学位、程度
+- [role](/role)：役割
+- [degree](/degree)：学位、程度
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject/)：主題、科目
-- [topic](/word/topic/)：話題、トピック
+- [subject](/subject)：主題、科目
+- [topic](/topic)：話題、トピック
 
-<!-- cvid: aid25_bid04 -->
+<!-- cvid: aid23_bid13 -->

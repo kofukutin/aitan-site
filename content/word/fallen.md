@@ -81,15 +81,19 @@ TOEICでは、売上や数値、物の状態が「落ちた」「減った」こ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、売上や数値、物の状態が「落ちた」「減った」こ
 ## 🤔  dropped との違いは？
 
 - **fallen**：自分の力や自然な流れで「落ちた」「倒れた」状態を表す
-- **[dropped](/word/dropped/)**：誰かが「落とした」など、外部の力で落ちたことを強調
+- **[dropped](/dropped)**：誰かが「落とした」など、外部の力で落ちたことを強調
 
 fallenは自然現象や自発的な動作の結果を表し、droppedは人や何かの作用で落ちた場合に使います。
 
@@ -105,14 +109,14 @@ fallenは自然現象や自発的な動作の結果を表し、droppedは人や�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/word/decline/)：減少する、下落する
-- [lower](/word/lower/)：下げる、低くする
+- [decline](/decline)：減少する、下落する
+- [lower](/lower)：下げる、低くする
 
 ---
 
 ## 📖 できればこれも
 
-- [broken](/word/broken/)：壊れた
-- [damaged](/word/damaged/)：損傷した
+- [broken](/broken)：壊れた
+- [damaged](/damaged)：損傷した
 
-<!-- cvid: aid04_bid01 -->
+<!-- cvid: aid19_bid42 -->

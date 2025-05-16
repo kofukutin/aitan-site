@@ -82,15 +82,19 @@ TOEICでは「swift response（迅速な対応）」や「swift action（素早�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「swift response（迅速な対応）」や「swift action（素早�
 ## 🤔  rapid との違いは？
 
 - **swift**：動きや反応が「素早い」「即座に」というニュアンスが強い
-- **[rapid](/word/rapid/)**：変化や進行が「急速な」「速い」という意味で、プロセスやスピード感を強調
+- **[rapid](/rapid)**：変化や進行が「急速な」「速い」という意味で、プロセスやスピード感を強調
 
 **swift**は「瞬時の動き」や「即座の対応」に使われ、**rapid**は「進行や変化の速さ」に使われることが多いです。
 
@@ -106,14 +110,14 @@ TOEICでは「swift response（迅速な対応）」や「swift action（素早�
 
 ## 🧩 あわせて覚えたい
 
-- [prompt](/word/prompt/)：即座の、迅速な
-- [slow](/word/slow/)：遅い
+- [prompt](/prompt)：即座の、迅速な
+- [slow](/slow)：遅い
 
 ---
 
 ## 📖 できればこれも
 
-- [quick](/word/quick/)：速い、素早い
-- [efficient](/word/efficient/)：効率的な
+- [quick](/quick)：速い、素早い
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid01_bid25 -->
+<!-- cvid: aid45_bid27 -->

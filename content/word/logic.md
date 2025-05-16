@@ -81,15 +81,19 @@ TOEICでは、ITやビジネスの説明文、提案書などで「logic」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネスの説明文、提案書などで「logic」が�
 ## 🤔  reason との違いは？
 
 - **logic**：物事の筋道や推論のルールそのもの
-- **[reason](/word/reason/)**：理由や根拠、動機
+- **[reason](/reason)**：理由や根拠、動機
 
 logicは「考え方の仕組み」や「論理構造」を指し、reasonは「なぜそうするのか」という理由や動機を表します。
 
@@ -105,14 +109,14 @@ logicは「考え方の仕組み」や「論理構造」を指し、reasonは「
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/word/analysis/)：分析
-- [intuition](/word/intuition/)：直感
+- [analysis](/analysis)：分析
+- [intuition](/intuition)：直感
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method/)：方法
-- [concept](/word/concept/)：概念
+- [method](/method)：方法
+- [concept](/concept)：概念
 
-<!-- cvid: aid34_bid39 -->
+<!-- cvid: aid06_bid13 -->

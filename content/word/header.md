@@ -88,8 +88,12 @@ ITやビジネス文書、メールの説明文で「header」は頻出です。
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、メールの説明文で「header」は頻出です。
 ## 🤔  heading との違いは？
 
 - **header**：文書やウェブページの上部欄や情報部分
-- **[heading](/word/heading/)**：章や段落のタイトル、見出し
+- **[heading](/heading)**：章や段落のタイトル、見出し
 
 headerは「上部の情報欄」全体を指し、headingは「タイトルや見出し」そのものを指します。
 
@@ -105,14 +109,14 @@ headerは「上部の情報欄」全体を指し、headingは「タイトルや�
 
 ## 🧩 あわせて覚えたい
 
-- [footer](/word/footer/)：フッター、下部欄
-- [title](/word/title/)：タイトル、題名
+- [footer](/footer)：フッター、下部欄
+- [title](/title)：タイトル、題名
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject/)：件名、主題
-- [section](/word/section/)：区分、セクション
+- [subject](/subject)：件名、主題
+- [section](/section)：区分、セクション
 
-<!-- cvid: aid06_bid06 -->
+<!-- cvid: aid06_bid26 -->

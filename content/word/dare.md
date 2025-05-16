@@ -82,15 +82,19 @@ TOEICでは、疑問文や否定文で「dare」が使われることがあり�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、疑問文や否定文で「dare」が使われることがあり�
 ## 🤔  challenge との違いは？
 
 - **dare**：勇気を出して何かをする、あえて挑戦する
-- **[challenge](/word/challenge/)**：困難なことに挑む、挑戦する
+- **[challenge](/challenge)**：困難なことに挑む、挑戦する
 
 dareは「勇気」や「恐れを乗り越える」ことに焦点があり、challengeは「困難な課題に取り組む」ことに重点があります。
 
@@ -106,14 +110,14 @@ dareは「勇気」や「恐れを乗り越える」ことに焦点があり、c
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk/)：危険を冒す、リスク
-- [venture](/word/venture/)：思い切ってやる、冒険する
+- [risk](/risk)：危険を冒す、リスク
+- [venture](/venture)：思い切ってやる、冒険する
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/word/attempt/)：試みる、挑戦する
-- [face](/word/face/)：直面する、立ち向かう
+- [attempt](/attempt)：試みる、挑戦する
+- [face](/face)：直面する、立ち向かう
 
-<!-- cvid: aid25_bid45 -->
+<!-- cvid: aid14_bid30 -->

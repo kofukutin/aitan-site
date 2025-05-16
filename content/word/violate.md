@@ -81,15 +81,19 @@ TOEICでは「規則違反」「契約違反」などの文脈で出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「規則違反」「契約違反」などの文脈で出題される
 ## 🤔  infringe との違いは？
 
 - **violate**：法律や規則、権利などを明確に破る・侵害することを幅広く表す
-- **[infringe](/word/infringe/)**：特に権利や特許などの「侵害」に使われ、ややフォーマル
+- **[infringe](/infringe)**：特に権利や特許などの「侵害」に使われ、ややフォーマル
 
 **violate**は「ルールや法律を破る」全般に使えますが、**infringe**は「権利・特許の侵害」など限定的・フォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「規則違反」「契約違反」などの文脈で出題される
 
 ## 🧩 あわせて覚えたい
 
-- [comply](/word/comply/)：従う、順守する
-- [breach](/word/breach/)：違反、破ること
+- [comply](/comply)：従う、順守する
+- [breach](/breach)：違反、破ること
 
 ---
 
 ## 📖 できればこれも
 
-- [enforce](/word/enforce/)：施行する、実施する
-- [prohibit](/word/prohibit/)：禁止する
+- [enforce](/enforce)：施行する、実施する
+- [prohibit](/prohibit)：禁止する
 
-<!-- cvid: aid10_bid05 -->
+<!-- cvid: aid47_bid28 -->

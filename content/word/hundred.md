@@ -81,15 +81,19 @@ TOEICでは数字や数量を問う問題で頻出します。特に金額や人
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid28" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid28" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは数字や数量を問う問題で頻出します。特に金額や人
 ## 🤔  thousand との違いは？
 
 - **hundred**：100や100個、100人などを表す基本的な数詞
-- **[thousand](/word/thousand/)**：1,000や1,000個、1,000人などを表す数詞
+- **[thousand](/thousand)**：1,000や1,000個、1,000人などを表す数詞
 
 hundredは「100」、thousandは「1,000」と、表す数が異なります。どちらも数量を表すときに使いますが、規模が違います。
 
@@ -105,15 +109,15 @@ hundredは「100」、thousandは「1,000」と、表す数が異なります。
 
 ## 🧩 あわせて覚えたい
 
-- [dozen](/word/dozen/)：12（ダース）
-- [score](/word/score/)：20（スコア、20個）
+- [dozen](/dozen)：12（ダース）
+- [score](/score)：20（スコア、20個）
 
 ---
 
 ## 📖 できればこれも
 
-- [dozen](/word/dozen/)：12（ダース）
-- [million](/word/million/)：100万
+- [dozen](/dozen)：12（ダース）
+- [million](/million)：100万
 
 
-<!-- cvid: aid36_bid13 -->
+<!-- cvid: aid16_bid28 -->

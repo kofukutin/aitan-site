@@ -81,15 +81,19 @@ spiritualは、TOEICの長文読解（Part 7）で、価値観や自己啓発、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ spiritualは、TOEICの長文読解（Part 7）で、価値観や自己啓発、
 ## 🤔  religious との違いは？
 
 - **spiritual**：宗教に限らず、心や魂、精神的な側面全般を指す
-- **[religious](/word/religious/)**：宗教や信仰に直接関係する
+- **[religious](/religious)**：宗教や信仰に直接関係する
 
 spiritualは宗教に限らず広く精神的なことを指しますが、religiousは宗教や信仰そのものに関わる場合に使います。
 
@@ -105,14 +109,14 @@ spiritualは宗教に限らず広く精神的なことを指しますが、relig
 
 ## 🧩 あわせて覚えたい
 
-- [mental](/word/mental/)：精神の、心の
-- [physical](/word/physical/)：身体の、物理的な
+- [mental](/mental)：精神の、心の
+- [physical](/physical)：身体の、物理的な
 
 ---
 
 ## 📖 できればこれも
 
-- [emotional](/word/emotional/)：感情の、感情的な
-- [cultural](/word/cultural/)：文化の、文化的な
+- [emotional](/emotional)：感情の、感情的な
+- [cultural](/cultural)：文化の、文化的な
 
-<!-- cvid: aid16_bid13 -->
+<!-- cvid: aid25_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは副詞の語法や頻度を問う問題でよく出題されます。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは副詞の語法や頻度を問う問題でよく出題されます。
 ## 🤔  routinely との違いは？
 
 - **regularly**：決まった間隔やスケジュールで、規則的に行うことを強調。
-- **[routinely](/word/routinely/)**：習慣や決まりきった手順として、当然のように繰り返すことを強調。
+- **[routinely](/routinely)**：習慣や決まりきった手順として、当然のように繰り返すことを強調。
 
 「regularly」は「定期的な間隔」に焦点があり、「routinely」は「習慣化・ルーチン化」された行動に焦点があります。
 
@@ -105,14 +109,14 @@ TOEICでは副詞の語法や頻度を問う問題でよく出題されます。
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently/)：頻繁に
-- [occasionally](/word/occasionally/)：時々
+- [frequently](/frequently)：頻繁に
+- [occasionally](/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [usually](/word/usually/)：たいてい、普通は
-- [periodically](/word/periodically/)：周期的に、定期的に
+- [usually](/usually)：たいてい、普通は
+- [periodically](/periodically)：周期的に、定期的に
 
-<!-- cvid: aid08_bid27 -->
+<!-- cvid: aid32_bid29 -->

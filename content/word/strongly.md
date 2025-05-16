@@ -81,15 +81,19 @@ TOEICでは、意見や提案、態度を強調する副詞として頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、意見や提案、態度を強調する副詞として頻出しま
 ## 🤔  firmly との違いは？
 
 - **strongly**：感情や意見、態度などを「強く」「はっきり」と表現する
-- **[firmly](/word/firmly/)**：物理的・精神的に「しっかりと」「堅く」動かない様子を表す
+- **[firmly](/firmly)**：物理的・精神的に「しっかりと」「堅く」動かない様子を表す
 
 stronglyは気持ちや意見の強さを強調し、firmlyは「揺るがない」「しっかり固定された」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ stronglyは気持ちや意見の強さを強調し、firmlyは「揺るがない
 
 ## 🧩 あわせて覚えたい
 
-- [intensely](/word/intensely/)：非常に強く、激しく
-- [vigorously](/word/vigorously/)：精力的に、活発に
+- [intensely](/intensely)：非常に強く、激しく
+- [vigorously](/vigorously)：精力的に、活発に
 
 ---
 
 ## 📖 できればこれも
 
-- [clearly](/word/clearly/)：はっきりと、明確に
-- [seriously](/word/seriously/)：真剣に、本気で
+- [clearly](/clearly)：はっきりと、明確に
+- [seriously](/seriously)：真剣に、本気で
 
-<!-- cvid: aid49_bid25 -->
+<!-- cvid: aid21_bid47 -->

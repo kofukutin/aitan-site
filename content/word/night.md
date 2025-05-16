@@ -81,15 +81,19 @@ TOEICではPart 1やPart 2で、時間帯や日常のシーンを説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1やPart 2で、時間帯や日常のシーンを説明する際
 ## 🤔  evening との違いは？
 
 - **night**：日が完全に沈んだ後から朝までの暗い時間帯
-- **[evening](/word/evening/)**：日没から寝る前までの比較的早い時間帯
+- **[evening](/evening)**：日没から寝る前までの比較的早い時間帯
 
 nightは「夜全体」や「深夜」も含みますが、eveningは「夕方から夜の初め」までの時間を指します。
 
@@ -105,14 +109,14 @@ nightは「夜全体」や「深夜」も含みますが、eveningは「夕方�
 
 ## 🧩 あわせて覚えたい
 
-- [midnight](/word/midnight/)：真夜中、午前0時
-- [day](/word/day/)：昼間、日中
+- [midnight](/midnight)：真夜中、午前0時
+- [day](/day)：昼間、日中
 
 ---
 
 ## 📖 できればこれも
 
-- [morning](/word/morning/)：朝
-- [afternoon](/word/afternoon/)：午後
+- [morning](/morning)：朝
+- [afternoon](/afternoon)：午後
 
-<!-- cvid: aid28_bid08 -->
+<!-- cvid: aid01_bid16 -->

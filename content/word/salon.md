@@ -81,15 +81,19 @@ TOEICでは、広告や案内文、ビジネス関連の長文で「美容院」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告や案内文、ビジネス関連の長文で「美容院」
 ## 🤔  lounge との違いは？
 
 - **salon**：社交や美容、芸術などの目的で人が集まる場所。
-- **[lounge](/word/lounge/)**：くつろぐための待合室や休憩スペース。
+- **[lounge](/lounge)**：くつろぐための待合室や休憩スペース。
 
 salonは「集まり」や「サービス提供」の場、loungeは「休憩」や「待機」の場という違いがあります。
 
@@ -105,14 +109,14 @@ salonは「集まり」や「サービス提供」の場、loungeは「休憩」
 
 ## 🧩 あわせて覚えたい
 
-- [parlor](/word/parlor/)：応接間、談話室
-- [studio](/word/studio/)：スタジオ、仕事場
+- [parlor](/parlor)：応接間、談話室
+- [studio](/studio)：スタジオ、仕事場
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/word/gallery/)：画廊、美術館
-- [reception](/word/reception/)：受付、歓迎会
+- [gallery](/gallery)：画廊、美術館
+- [reception](/reception)：受付、歓迎会
 
-<!-- cvid: aid37_bid43 -->
+<!-- cvid: aid01_bid02 -->

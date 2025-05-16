@@ -82,15 +82,19 @@ TOEICでは会議や予約、注文のやり取りで「cancel」が頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議や予約、注文のやり取りで「cancel」が頻出しま
 ## 🤔  withdraw との違いは？
 
 - **cancel**：予定や予約、注文などを「取り消す」「中止する」
-- **[withdraw](/word/withdraw/)**：申し込みや参加、資金などを「撤回する」「引き出す」
+- **[withdraw](/withdraw)**：申し込みや参加、資金などを「撤回する」「引き出す」
 
 cancelは「予定や手続きをなかったことにする」ニュアンス、withdrawは「自分の意思で引き下がる・取り下げる」ニュアンスがあります。
 
@@ -106,14 +110,14 @@ cancelは「予定や手続きをなかったことにする」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [postpone](/word/postpone/)：延期する
-- [approve](/word/approve/)：承認する
+- [postpone](/postpone)：延期する
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [reschedule](/word/reschedule/)：予定を変更する
-- [confirm](/word/confirm/)：確認する
+- [reschedule](/reschedule)：予定を変更する
+- [confirm](/confirm)：確認する
 
-<!-- cvid: aid26_bid09 -->
+<!-- cvid: aid38_bid30 -->

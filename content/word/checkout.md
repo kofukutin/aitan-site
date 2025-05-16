@@ -82,15 +82,19 @@ Please proceed to the checkout to complete your purchase.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ Please proceed to the checkout to complete your purchase.
 ## 🤔  payment との違いは？
 
 - **checkout**：会計場所や精算手続きそのもの
-- **[payment](/word/payment/)**：支払いという行為や金額
+- **[payment](/payment)**：支払いという行為や金額
 
 checkoutは「レジ」や「チェックアウト手続き」など場所や手続き自体を指し、paymentは「支払い」という動作や金額を指します。
 
@@ -106,14 +110,14 @@ checkoutは「レジ」や「チェックアウト手続き」など場所や手
 
 ## 🧩 あわせて覚えたい
 
-- [register](/word/register/)：レジ、登録
-- [invoice](/word/invoice/)：請求書
+- [register](/register)：レジ、登録
+- [invoice](/invoice)：請求書
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/word/receipt/)：領収書
-- [counter](/word/counter/)：カウンター、窓口
+- [receipt](/receipt)：領収書
+- [counter](/counter)：カウンター、窓口
 
-<!-- cvid: aid37_bid07 -->
+<!-- cvid: aid04_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネスや教育、公共機関に関する長文で「instit
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや教育、公共機関に関する長文で「instit
 ## 🤔  organizational との違いは？
 
 - **institutional**：制度や組織そのもの、またはその性質・特徴に関する
-- **[organizational](/word/organizational/)**：組織の構造や運営、管理体制に関する
+- **[organizational](/organizational)**：組織の構造や運営、管理体制に関する
 
 institutionalは「制度・機関」自体やその性質を強調し、organizationalは「組織の運営や構造」に焦点を当てる点が異なります。
 
@@ -105,14 +109,14 @@ institutionalは「制度・機関」自体やその性質を強調し、organiz
 
 ## 🧩 あわせて覚えたい
 
-- [corporate](/word/corporate/)：企業の、法人の
-- [official](/word/official/)：公式の、公的な
+- [corporate](/corporate)：企業の、法人の
+- [official](/official)：公式の、公的な
 
 ---
 
 ## 📖 できればこれも
 
-- [administrative](/word/administrative/)：管理の、行政の
-- [regulatory](/word/regulatory/)：規制の、取り締まりの
+- [administrative](/administrative)：管理の、行政の
+- [regulatory](/regulatory)：規制の、取り締まりの
 
-<!-- cvid: aid04_bid24 -->
+<!-- cvid: aid37_bid38 -->

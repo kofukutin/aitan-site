@@ -81,15 +81,19 @@ TOEICでは「代表する」「代理を務める」「象徴する」といっ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「代表する」「代理を務める」「象徴する」といっ
 ## 🤔  symbolize との違いは？
 
 - **represent**：具体的に「代表する」「代理を務める」「表現する」など幅広く使う
-- **[symbolize](/word/symbolize/)**：抽象的に「象徴する」「シンボルとして表す」
+- **[symbolize](/symbolize)**：抽象的に「象徴する」「シンボルとして表す」
 
 「represent」は人や団体の代理や、何かを具体的に表現する場合に使い、「symbolize」は抽象的な意味や象徴的な表現に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「代表する」「代理を務める」「象徴する」といっ
 
 ## 🧩 あわせて覚えたい
 
-- [delegate](/word/delegate/)：代表者、代理人
-- [indicate](/word/indicate/)：示す、指し示す
+- [delegate](/delegate)：代表者、代理人
+- [indicate](/indicate)：示す、指し示す
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、発表する
-- [describe](/word/describe/)：説明する、描写する
+- [present](/present)：提示する、発表する
+- [describe](/describe)：説明する、描写する
 
-<!-- cvid: aid21_bid25 -->
+<!-- cvid: aid02_bid09 -->

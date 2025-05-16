@@ -81,15 +81,19 @@ TOEICでは、採用や選挙、賞の選考などの文脈で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、採用や選挙、賞の選考などの文脈で頻出します。
 ## 🤔  applicant との違いは？
 
 - **candidate**：選ばれる可能性のある「候補者」全般。選挙や賞、職など幅広く使う。
-- **[applicant](/word/applicant/)**：主に「応募者」。特に仕事や学校などに正式に申し込んだ人。
+- **[applicant](/applicant)**：主に「応募者」。特に仕事や学校などに正式に申し込んだ人。
 
 candidateは「候補者」として幅広い場面で使われ、applicantは「応募手続きをした人」に限定されます。
 
@@ -105,14 +109,14 @@ candidateは「候補者」として幅広い場面で使われ、applicantは�
 
 ## 🧩 あわせて覚えたい
 
-- [nominee](/word/nominee/)：（賞や役職などの）指名された人、ノミネートされた人
-- [contestant](/word/contestant/)：（コンテストや競技の）参加者、出場者
+- [nominee](/nominee)：（賞や役職などの）指名された人、ノミネートされた人
+- [contestant](/contestant)：（コンテストや競技の）参加者、出場者
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview/)：面接、インタビュー
-- [position](/word/position/)：職、役職
+- [interview](/interview)：面接、インタビュー
+- [position](/position)：職、役職
 
-<!-- cvid: aid32_bid19 -->
+<!-- cvid: aid17_bid33 -->

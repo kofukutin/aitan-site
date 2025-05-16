@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、建物や人が何かに囲まれて
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、建物や人が何かに囲まれて
 ## 🤔  encircled との違いは？
 
 - **surrounded**：一般的に「周囲を取り囲まれている」状態を幅広く表す。
-- **[encircled](/word/encircled/)**：よりフォーマルで、完全に円状に囲まれているニュアンスが強い。
+- **[encircled](/encircled)**：よりフォーマルで、完全に円状に囲まれているニュアンスが強い。
 
 surroundedは日常的な「囲まれている」状態全般に使い、encircledは物理的・比喩的に「輪になって囲む」イメージが強いです。
 
@@ -105,14 +109,14 @@ surroundedは日常的な「囲まれている」状態全般に使い、encircl
 
 ## 🧩 あわせて覚えたい
 
-- [enclosed](/word/enclosed/)：囲まれた、閉じ込められた
-- [isolated](/word/isolated/)：孤立した、隔離された
+- [enclosed](/enclosed)：囲まれた、閉じ込められた
+- [isolated](/isolated)：孤立した、隔離された
 
 ---
 
 ## 📖 できればこれも
 
-- [located](/word/located/)：位置している
-- [covered](/word/covered/)：覆われている
+- [located](/located)：位置している
+- [covered](/covered)：覆われている
 
-<!-- cvid: aid25_bid30 -->
+<!-- cvid: aid16_bid49 -->

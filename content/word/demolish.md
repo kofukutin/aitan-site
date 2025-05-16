@@ -81,15 +81,19 @@ TOEICでは、建物や施設の取り壊し、または計画の否定に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建物や施設の取り壊し、または計画の否定に関す
 ## 🤔  destroy との違いは？
 
 - **demolish**：建物や構造物を意図的・計画的に取り壊す、または理論などを徹底的に打ち砕く
-- **[destroy](/word/destroy/)**：物や抽象的なものを完全に壊す・破壊する（意図的でなくてもよい）
+- **[destroy](/destroy)**：物や抽象的なものを完全に壊す・破壊する（意図的でなくてもよい）
 
 demolishは「計画的な取り壊し」に重点があり、destroyは「完全な破壊」全般に使われます。
 
@@ -105,14 +109,14 @@ demolishは「計画的な取り壊し」に重点があり、destroyは「完�
 
 ## 🧩 あわせて覚えたい
 
-- [dismantle](/word/dismantle/)：分解する、解体する
-- [ruin](/word/ruin/)：台無しにする、破滅させる
+- [dismantle](/dismantle)：分解する、解体する
+- [ruin](/ruin)：台無しにする、破滅させる
 
 ---
 
 ## 📖 できればこれも
 
-- [construct](/word/construct/)：建設する、組み立てる
-- [remove](/word/remove/)：取り除く、撤去する
+- [construct](/construct)：建設する、組み立てる
+- [remove](/remove)：取り除く、撤去する
 
-<!-- cvid: aid38_bid24 -->
+<!-- cvid: aid49_bid31 -->

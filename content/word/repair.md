@@ -82,15 +82,19 @@ TOEICでは、オフィスやサービスの場面で「修理する」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、オフィスやサービスの場面で「修理する」という
 ## 🤔  fix との違いは？
 
 - **repair**：壊れたものを元の正常な状態に戻す（ややフォーマル）
-- **[fix](/word/fix/)**：壊れたものを直す（カジュアルで幅広い場面）
+- **[fix](/fix)**：壊れたものを直す（カジュアルで幅広い場面）
 
 repairはフォーマルな場面や書き言葉でよく使われ、fixは日常会話で幅広く使われます。
 
@@ -106,14 +110,14 @@ repairはフォーマルな場面や書き言葉でよく使われ、fixは日�
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/word/restore/)：元の状態に戻す
-- [replace](/word/replace/)：交換する
+- [restore](/restore)：元の状態に戻す
+- [replace](/replace)：交換する
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain/)：維持する
-- [install](/word/install/)：設置する
+- [maintain](/maintain)：維持する
+- [install](/install)：設置する
 
-<!-- cvid: aid10_bid33 -->
+<!-- cvid: aid44_bid34 -->

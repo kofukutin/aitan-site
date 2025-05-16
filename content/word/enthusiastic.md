@@ -83,15 +83,19 @@ TOEICでは会議やビジネスの会話文で、人物の態度や気持ちを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは会議やビジネスの会話文で、人物の態度や気持ちを
 ## 🤔  eager との違いは？
 
 - **enthusiastic**：熱意や情熱を持って積極的に行動する様子
-- **[eager](/word/eager/)**：何かを強く望んで待ちきれない気持ち
+- **[eager](/eager)**：何かを強く望んで待ちきれない気持ち
 
 enthusiasticは「熱心で積極的な態度」、eagerは「何かをしたくてたまらない気持ち」を表し、enthusiasticの方が行動的なニュアンスが強いです。
 
@@ -107,14 +111,14 @@ enthusiasticは「熱心で積極的な態度」、eagerは「何かをしたく
 
 ## 🧩 あわせて覚えたい
 
-- [reluctant](/word/reluctant/)：気が進まない、しぶしぶの
-- [passionate](/word/passionate/)：情熱的な、熱烈な
+- [reluctant](/reluctant)：気が進まない、しぶしぶの
+- [passionate](/passionate)：情熱的な、熱烈な
 
 ---
 
 ## 📖 できればこれも
 
-- [motivated](/word/motivated/)：やる気がある、動機づけられた
-- [dedicated](/word/dedicated/)：献身的な、熱心な
+- [motivated](/motivated)：やる気がある、動機づけられた
+- [dedicated](/dedicated)：献身的な、熱心な
 
-<!-- cvid: aid32_bid41 -->
+<!-- cvid: aid23_bid47 -->

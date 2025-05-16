@@ -81,15 +81,19 @@ TOEICでは「確保する」「安全にする」という意味で、ビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「確保する」「安全にする」という意味で、ビジネ
 ## 🤔  ensure との違いは？
 
 - **secure**：実際に「確保する」「手に入れる」「安全にする」など、行動や結果を強調
-- **[ensure](/word/ensure/)**：「必ず～する」「保証する」といった意味で、結果が確実になるようにすることを強調
+- **[ensure](/ensure)**：「必ず～する」「保証する」といった意味で、結果が確実になるようにすることを強調
 
 secureは「実際に手に入れる・守る」行動に重点があり、ensureは「確実にそうなるようにする」保証のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ secureは「実際に手に入れる・守る」行動に重点があり、ensur
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee/)：保証する、約束する
-- [protect](/word/protect/)：守る、防御する
+- [guarantee](/guarantee)：保証する、約束する
+- [protect](/protect)：守る、防御する
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/word/obtain/)：手に入れる、獲得する
-- [confirm](/word/confirm/)：確認する、確かめる
+- [obtain](/obtain)：手に入れる、獲得する
+- [confirm](/confirm)：確認する、確かめる
 
-<!-- cvid: aid34_bid08 -->
+<!-- cvid: aid20_bid44 -->

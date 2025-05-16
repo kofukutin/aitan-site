@@ -81,15 +81,19 @@ TOEICでは、調査や分析に関する長文やレポートで「sampling」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、調査や分析に関する長文やレポートで「sampling」�
 ## 🤔  selection との違いは？
 
 - **sampling**：全体から一部を抽出して調査・分析すること
-- **[selection](/word/selection/)**：複数の中から選ぶこと自体や選ばれたもの
+- **[selection](/selection)**：複数の中から選ぶこと自体や選ばれたもの
 
 samplingは「調査や分析のために一部を抜き出す」ニュアンスが強く、selectionは「選択そのもの」に重点があります。
 
@@ -105,14 +109,14 @@ samplingは「調査や分析のために一部を抜き出す」ニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [survey](/word/survey/)：調査、アンケート
-- [analysis](/word/analysis/)：分析
+- [survey](/survey)：調査、アンケート
+- [analysis](/analysis)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment/)：実験
-- [data](/word/data/)：データ
+- [experiment](/experiment)：実験
+- [data](/data)：データ
 
-<!-- cvid: aid49_bid48 -->
+<!-- cvid: aid05_bid38 -->

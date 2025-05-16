@@ -81,15 +81,19 @@ TOEICでは職場やビジネスの会話で「assistant」がよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは職場やビジネスの会話で「assistant」がよく登場しま
 ## 🤔  secretary との違いは？
 
 - **assistant**：一般的に補佐や手伝いをする人。役職や仕事内容は幅広い。
-- **[secretary](/word/secretary/)**：主に事務作業やスケジュール管理などを担当する秘書。
+- **[secretary](/secretary)**：主に事務作業やスケジュール管理などを担当する秘書。
 
 assistantは幅広い補佐役を指し、secretaryは特に事務や秘書業務に特化しています。
 
@@ -105,14 +109,14 @@ assistantは幅広い補佐役を指し、secretaryは特に事務や秘書業�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理者、マネージャー
-- [colleague](/word/colleague/)：同僚
+- [manager](/manager)：管理者、マネージャー
+- [colleague](/colleague)：同僚
 
 ---
 
 ## 📖 できればこれも
 
-- [supervisor](/word/supervisor/)：監督者、上司
-- [employee](/word/employee/)：従業員
+- [supervisor](/supervisor)：監督者、上司
+- [employee](/employee)：従業員
 
-<!-- cvid: aid17_bid13 -->
+<!-- cvid: aid06_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは、農業や食品、環境に関する長文や記事で「grain」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、農業や食品、環境に関する長文や記事で「grain」�
 ## 🤔  seed との違いは？
 
 - **grain**：食用になる穀物や小さな粒を指す
-- **[seed](/word/seed/)**：植物を育てるための「種」
+- **[seed](/seed)**：植物を育てるための「種」
 
 grainは主に食べ物や材料としての「粒」や「穀物」を指し、seedは植物を育てるための「種」という意味で使い分けます。
 
@@ -105,14 +109,14 @@ grainは主に食べ物や材料としての「粒」や「穀物」を指し、
 
 ## 🧩 あわせて覚えたい
 
-- [rice](/word/rice/)：米
-- [wheat](/word/wheat/)：小麦
+- [rice](/rice)：米
+- [wheat](/wheat)：小麦
 
 ---
 
 ## 📖 できればこれも
 
-- [crop](/word/crop/)：作物
-- [harvest](/word/harvest/)：収穫
+- [crop](/crop)：作物
+- [harvest](/harvest)：収穫
 
-<!-- cvid: aid46_bid35 -->
+<!-- cvid: aid07_bid42 -->

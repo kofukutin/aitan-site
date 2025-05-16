@@ -81,15 +81,19 @@ TOEICでは医療や健康に関する長文や説明文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康に関する長文や説明文で登場することが
 ## 🤔  rheumatism との違いは？
 
 - **arthritis**：関節そのものの炎症や痛みを指す医学用語。
-- **[rheumatism](/word/rheumatism/)**：関節や筋肉など運動器全体の痛みやこわばりを広く指すやや古い表現。
+- **[rheumatism](/rheumatism)**：関節や筋肉など運動器全体の痛みやこわばりを広く指すやや古い表現。
 
 arthritisは関節の炎症に限定され、rheumatismはより広い範囲の痛みや症状を含みます。
 
@@ -105,14 +109,14 @@ arthritisは関節の炎症に限定され、rheumatismはより広い範囲の�
 
 ## 🧩 あわせて覚えたい
 
-- [inflammation](/word/inflammation/)：炎症
-- [osteoarthritis](/word/osteoarthritis/)：変形性関節症
+- [inflammation](/inflammation)：炎症
+- [osteoarthritis](/osteoarthritis)：変形性関節症
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/word/symptom/)：症状
-- [therapy](/word/therapy/)：治療
+- [symptom](/symptom)：症状
+- [therapy](/therapy)：治療
 
-<!-- cvid: aid27_bid33 -->
+<!-- cvid: aid39_bid23 -->

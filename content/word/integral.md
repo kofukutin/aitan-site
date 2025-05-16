@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やレポート、説明文などで「不可欠
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid29" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid29" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やレポート、説明文などで「不可欠
 ## 🤔  essential との違いは？
 
 - **integral**：全体を構成するのに欠かせない、組み込まれている不可欠な
-- **[essential](/word/essential/)**：絶対に必要な、生命線となるような
+- **[essential](/essential)**：絶対に必要な、生命線となるような
 
 integralは「全体の一部として不可欠」という構造的なニュアンスが強く、essentialは「絶対に必要」という重要性を強調します。
 
@@ -105,14 +109,14 @@ integralは「全体の一部として不可欠」という構造的なニュア
 
 ## 🧩 あわせて覚えたい
 
-- [indispensable](/word/indispensable/)：絶対に欠かせない
-- [component](/word/component/)：構成要素、部品
+- [indispensable](/indispensable)：絶対に欠かせない
+- [component](/component)：構成要素、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [fundamental](/word/fundamental/)：基本的な、根本的な
-- [crucial](/word/crucial/)：極めて重要な
+- [fundamental](/fundamental)：基本的な、根本的な
+- [crucial](/crucial)：極めて重要な
 
-<!-- cvid: aid41_bid33 -->
+<!-- cvid: aid39_bid29 -->

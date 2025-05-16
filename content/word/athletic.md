@@ -81,15 +81,19 @@ TOEICでは、健康やスポーツ、社員の福利厚生などの文脈で形
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、健康やスポーツ、社員の福利厚生などの文脈で形
 ## 🤔  sporty との違いは？
 
 - **athletic**：運動能力が高い、または運動選手のような
-- **[sporty](/word/sporty/)**：スポーツ好き、またはスポーティな雰囲気
+- **[sporty](/sporty)**：スポーツ好き、またはスポーティな雰囲気
 
 **athletic**は運動能力や体格に焦点があり、**sporty**はスポーツを好む性格やカジュアルなスタイルを指すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、健康やスポーツ、社員の福利厚生などの文脈で形
 
 ## 🧩 あわせて覚えたい
 
-- [physical](/word/physical/)：身体の、肉体的な
-- [fit](/word/fit/)：健康で体力がある
+- [physical](/physical)：身体の、肉体的な
+- [fit](/fit)：健康で体力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [energetic](/word/energetic/)：元気な、活発な
-- [active](/word/active/)：活動的な、積極的な
+- [energetic](/energetic)：元気な、活発な
+- [active](/active)：活動的な、積極的な
 
-<!-- cvid: aid21_bid05 -->
+<!-- cvid: aid23_bid25 -->

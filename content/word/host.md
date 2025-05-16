@@ -81,15 +81,19 @@ TOEICでは会議やイベント、ビジネスシーンで「主催者」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベント、ビジネスシーンで「主催者」や「
 ## 🤔  owner との違いは？
 
 - **host**：イベントや集まりを主催・もてなす人
-- **[owner](/word/owner/)**：物や場所などの「所有者」
+- **[owner](/owner)**：物や場所などの「所有者」
 
 hostは「その場を取り仕切る人」、ownerは「所有権を持つ人」と使い分けます。イベントの主催者が必ずしも会場の所有者とは限りません。
 
@@ -105,14 +109,14 @@ hostは「その場を取り仕切る人」、ownerは「所有権を持つ人�
 
 ## 🧩 あわせて覚えたい
 
-- [guest](/word/guest/)：招待客、ゲスト
-- [organizer](/word/organizer/)：企画者、運営者
+- [guest](/guest)：招待客、ゲスト
+- [organizer](/organizer)：企画者、運営者
 
 ---
 
 ## 📖 できればこれも
 
-- [attendee](/word/attendee/)：出席者
-- [participant](/word/participant/)：参加者
+- [attendee](/attendee)：出席者
+- [participant](/participant)：参加者
 
-<!-- cvid: aid06_bid19 -->
+<!-- cvid: aid12_bid07 -->

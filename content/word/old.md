@@ -81,15 +81,19 @@ TOEICでは形容詞として「古い」「以前の」という意味で、比
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid00_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞として「古い」「以前の」という意味で、比
 ## 🤔  ancient との違いは？
 
 - **old**：単に「古い」「年をとった」という意味で、日常的な物や人にも使える。
-- **[ancient](/word/ancient/)**：非常に古い、歴史的に古代のものに使う。
+- **[ancient](/ancient)**：非常に古い、歴史的に古代のものに使う。
 
 **old**は一般的な「古さ」を表し、**ancient**は「太古」「歴史的に非常に古い」ものに限定して使います。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞として「古い」「以前の」という意味で、比
 
 ## 🧩 あわせて覚えたい
 
-- [new](/word/new/)：新しい
-- [former](/word/former/)：以前の、前の
+- [new](/new)：新しい
+- [former](/former)：以前の、前の
 
 ---
 
 ## 📖 できればこれも
 
-- [young](/word/young/)：若い
-- [recent](/word/recent/)：最近の
+- [young](/young)：若い
+- [recent](/recent)：最近の
 
-<!-- cvid: aid18_bid07 -->
+<!-- cvid: aid00_bid48 -->

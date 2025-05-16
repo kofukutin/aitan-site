@@ -81,15 +81,19 @@ TOEICでは会話やスピーチの中で「感動した」という気持ちを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やスピーチの中で「感動した」という気持ちを
 ## 🤔  touched との違いは？
 
 - **moved**：心が深く動かされて感動した状態を表す。
-- **[touched](/word/touched/)**：やや控えめに「心に触れた」「ほっこりした」感情を表す。
+- **[touched](/touched)**：やや控えめに「心に触れた」「ほっこりした」感情を表す。
 
 movedは強い感動や心の動きを表し、touchedは優しく心に響いたときに使います。
 
@@ -105,14 +109,14 @@ movedは強い感動や心の動きを表し、touchedは優しく心に響い�
 
 ## 🧩 あわせて覚えたい
 
-- [impressed](/word/impressed/)：感銘を受けた
-- [inspired](/word/inspired/)：刺激を受けた、触発された
+- [impressed](/impressed)：感銘を受けた
+- [inspired](/inspired)：刺激を受けた、触発された
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited/)：わくわくした
-- [affected](/word/affected/)：影響を受けた
+- [excited](/excited)：わくわくした
+- [affected](/affected)：影響を受けた
 
-<!-- cvid: aid43_bid00 -->
+<!-- cvid: aid48_bid23 -->

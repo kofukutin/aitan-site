@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 ## 🤔  various との違いは？
 
 - **different**：2つ以上のものが「互いに異なる」ことを強調
-- **[various](/word/various/)**：多様な種類やバリエーションがあることを強調
+- **[various](/various)**：多様な種類やバリエーションがあることを強調
 
 「different」は「違い」に焦点を当て、「various」は「多様性」や「いろいろある」ことに焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [similar](/word/similar/)：似ている
-- [distinct](/word/distinct/)：はっきり異なる、明確に違う
+- [similar](/similar)：似ている
+- [distinct](/distinct)：はっきり異なる、明確に違う
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique/)：唯一の、独特な
-- [another](/word/another/)：もう一つの、別の
+- [unique](/unique)：唯一の、独特な
+- [another](/another)：もう一つの、別の
 
-<!-- cvid: aid28_bid26 -->
+<!-- cvid: aid23_bid06 -->

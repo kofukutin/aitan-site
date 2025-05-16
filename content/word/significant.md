@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やレポートの中で「重要な」「大き
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やレポートの中で「重要な」「大き
 ## 🤔  important との違いは？
 
 - **significant**：客観的に見て「影響が大きい」「意味がある」と強調したいときに使う
-- **[important](/word/important/)**：主観的・一般的に「大事」「重要」と言いたいときに使う
+- **[important](/important)**：主観的・一般的に「大事」「重要」と言いたいときに使う
 
 「significant」は統計やビジネスで「結果や影響が大きい」と客観的に述べる時に使い、「important」は日常的な「大切さ」を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やレポートの中で「重要な」「大き
 
 ## 🧩 あわせて覚えたい
 
-- [crucial](/word/crucial/)：極めて重要な
-- [minor](/word/minor/)：ささいな、重要でない
+- [crucial](/crucial)：極めて重要な
+- [minor](/minor)：ささいな、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、絶対必要な
-- [considerable](/word/considerable/)：かなりの、相当な
+- [essential](/essential)：不可欠な、絶対必要な
+- [considerable](/considerable)：かなりの、相当な
 
-<!-- cvid: aid15_bid27 -->
+<!-- cvid: aid02_bid03 -->

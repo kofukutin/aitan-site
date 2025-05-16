@@ -81,15 +81,19 @@ TOEICでは求人広告や健康診断、イベント案内などで「選考」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や健康診断、イベント案内などで「選考」
 ## 🤔  examination との違いは？
 
 - **screening**：ふるい分けや初期段階の選考・検査に使うことが多い
-- **[examination](/word/examination/)**：詳細な調査や本格的な試験・検査を指す
+- **[examination](/examination)**：詳細な調査や本格的な試験・検査を指す
 
 screeningは「ざっとふるいにかける」イメージ、examinationは「詳しく調べる」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ screeningは「ざっとふるいにかける」イメージ、examinationは「
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/word/assessment/)：評価、査定
-- [filter](/word/filter/)：フィルター、ふるい分け
+- [assessment](/assessment)：評価、査定
+- [filter](/filter)：フィルター、ふるい分け
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview/)：面接
-- [evaluation](/word/evaluation/)：評価
+- [interview](/interview)：面接
+- [evaluation](/evaluation)：評価
 
-<!-- cvid: aid31_bid28 -->
+<!-- cvid: aid09_bid08 -->

@@ -82,15 +82,19 @@ hungerは、社会問題や環境、健康に関する長文で登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ hungerは、社会問題や環境、健康に関する長文で登場するこ�
 ## 🤔  appetite との違いは？
 
 - **hunger**：生理的な「空腹」や「飢え」、または強い欲求を表す
-- **[appetite](/word/appetite/)**：食べたいという「食欲」や、何かを楽しみたい気持ち
+- **[appetite](/appetite)**：食べたいという「食欲」や、何かを楽しみたい気持ち
 
 hungerは「生きるための切実な空腹感」や「強い渇望」を指し、appetiteは「食事を楽しみたい気分」などより軽い意味で使われます。
 
@@ -106,14 +110,14 @@ hungerは「生きるための切実な空腹感」や「強い渇望」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [starvation](/word/starvation/)：飢餓、極度の空腹
-- [thirst](/word/thirst/)：のどの渇き、渇望
+- [starvation](/starvation)：飢餓、極度の空腹
+- [thirst](/thirst)：のどの渇き、渇望
 
 ---
 
 ## 📖 できればこれも
 
-- [poverty](/word/poverty/)：貧困
-- [disease](/word/disease/)：病気
+- [poverty](/poverty)：貧困
+- [disease](/disease)：病気
 
-<!-- cvid: aid08_bid48 -->
+<!-- cvid: aid19_bid19 -->

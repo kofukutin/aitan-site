@@ -81,15 +81,19 @@ TOEICでは「標識」「合図」「署名」など複数の意味で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「標識」「合図」「署名」など複数の意味で出題さ
 ## 🤔  signal との違いは？
 
 - **sign**：目に見えるしるしや標識、または署名など幅広い「しるし」を指す
-- **[signal](/word/signal/)**：特に「信号」や「合図」としての意味が強く、通信や交通などで使われる
+- **[signal](/signal)**：特に「信号」や「合図」としての意味が強く、通信や交通などで使われる
 
 signは一般的な「しるし」や「標識」全般を指し、signalは特定の動作や通信での「合図」に使われます。
 
@@ -105,14 +109,14 @@ signは一般的な「しるし」や「標識」全般を指し、signalは特�
 
 ## 🧩 あわせて覚えたい
 
-- [indication](/word/indication/)：兆候、指示
-- [notice](/word/notice/)：通知、掲示
+- [indication](/indication)：兆候、指示
+- [notice](/notice)：通知、掲示
 
 ---
 
 ## 📖 できればこれも
 
-- [mark](/word/mark/)：印、記号
-- [symbol](/word/symbol/)：象徴、記号
+- [mark](/mark)：印、記号
+- [symbol](/symbol)：象徴、記号
 
-<!-- cvid: aid19_bid14 -->
+<!-- cvid: aid37_bid34 -->

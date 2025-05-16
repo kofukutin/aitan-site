@@ -77,15 +77,19 @@ TOEICでは、日常的な習慣や業務の流れを説明する際によく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、日常的な習慣や業務の流れを説明する際によく登
 ## 🤔  usually との違いは？
 
 - **always**：例外なく「いつも」「必ず」行われることを表す
-- **[usually](/word/usually/)**：大抵の場合にそうだが、例外もあることを表す
+- **[usually](/usually)**：大抵の場合にそうだが、例外もあることを表す
 
 alwaysは100%の頻度、usuallyは80～90%程度の頻度で使われる違いがあります。
 
@@ -101,14 +105,14 @@ alwaysは100%の頻度、usuallyは80～90%程度の頻度で使われる違い�
 
 ## 🧩 あわせて覚えたい
 
-- [constantly](/word/constantly/)：絶えず、しょっちゅう
-- [never](/word/never/)：決して～ない
+- [constantly](/constantly)：絶えず、しょっちゅう
+- [never](/never)：決して～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [often](/word/often/)：しばしば
-- [sometimes](/word/sometimes/)：ときどき
+- [often](/often)：しばしば
+- [sometimes](/sometimes)：ときどき
 
-<!-- cvid: aid48_bid37 -->
+<!-- cvid: aid30_bid09 -->

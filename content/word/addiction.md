@@ -81,15 +81,19 @@ addictionは医療や健康、社会問題を扱う長文読解パートで見�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ addictionは医療や健康、社会問題を扱う長文読解パートで見�
 ## 🤔  dependence との違いは？
 
 - **addiction**：自分の意思でやめられない強い依存や中毒を指し、否定的な意味合いが強い。
-- **[dependence](/word/dependence/)**：依存状態全般を指し、addictionより広い意味で使われるが、必ずしも中毒的・否定的とは限らない。
+- **[dependence](/dependence)**：依存状態全般を指し、addictionより広い意味で使われるが、必ずしも中毒的・否定的とは限らない。
 
 addictionは主に薬物やアルコールなどの「やめたくてもやめられない」深刻な依存に使い、dependenceは人や物への一般的な依存にも使われます。
 
@@ -105,14 +109,14 @@ addictionは主に薬物やアルコールなどの「やめたくてもやめ�
 
 ## 🧩 あわせて覚えたい
 
-- [abuse](/word/abuse/)：乱用、虐待
-- [habit](/word/habit/)：習慣、癖
+- [abuse](/abuse)：乱用、虐待
+- [habit](/habit)：習慣、癖
 
 ---
 
 ## 📖 できればこれも
 
-- [treatment](/word/treatment/)：治療、処置
-- [symptom](/word/symptom/)：症状
+- [treatment](/treatment)：治療、処置
+- [symptom](/symptom)：症状
 
-<!-- cvid: aid24_bid45 -->
+<!-- cvid: aid34_bid25 -->

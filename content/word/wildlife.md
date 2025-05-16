@@ -81,15 +81,19 @@ TOEICでは環境や自然保護に関する長文や記事でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や自然保護に関する長文や記事でよく登場しま
 ## 🤔  nature との違いは？
 
 - **wildlife**：自然の中で生きる野生動物や生き物そのものを指す
-- **[nature](/word/nature/)**：山や川、空気なども含めた「自然」全体を指す
+- **[nature](/nature)**：山や川、空気なども含めた「自然」全体を指す
 
 wildlifeは「生き物」に限定され、natureは環境や景色なども含む広い意味です。
 
@@ -105,14 +109,14 @@ wildlifeは「生き物」に限定され、natureは環境や景色なども含
 
 ## 🧩 あわせて覚えたい
 
-- [ecosystem](/word/ecosystem/)：生態系
-- [habitat](/word/habitat/)：生息地
+- [ecosystem](/ecosystem)：生態系
+- [habitat](/habitat)：生息地
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest/)：森林
-- [species](/word/species/)：種（しゅ）
+- [forest](/forest)：森林
+- [species](/species)：種（しゅ）
 
-<!-- cvid: aid23_bid45 -->
+<!-- cvid: aid31_bid33 -->

@@ -80,15 +80,19 @@ TOEICではレストランや食事、買い物の場面で「meat」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではレストランや食事、買い物の場面で「meat」が登場�
 ## 🤔  flesh との違いは？
 
 - **meat**：食用の肉全般を指す、日常的な表現。
-- **[flesh](/word/flesh/)**：動物や人間の「肉体の肉」や果物の「果肉」など、より広い意味や生物学的な文脈で使う。
+- **[flesh](/flesh)**：動物や人間の「肉体の肉」や果物の「果肉」など、より広い意味や生物学的な文脈で使う。
 
 meatは「食べる肉」、fleshは「体の肉」や「果肉」など食用以外も含む点が異なります。
 
@@ -104,14 +108,14 @@ meatは「食べる肉」、fleshは「体の肉」や「果肉」など食用�
 
 ## 🧩 あわせて覚えたい
 
-- [fish](/word/fish/)：魚（食用の魚も含む）
-- [beef](/word/beef/)：牛肉
+- [fish](/fish)：魚（食用の魚も含む）
+- [beef](/beef)：牛肉
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread/)：パン
-- [fruit](/word/fruit/)：果物
+- [bread](/bread)：パン
+- [fruit](/fruit)：果物
 
-<!-- cvid: aid43_bid37 -->
+<!-- cvid: aid20_bid40 -->

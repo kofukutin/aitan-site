@@ -81,15 +81,19 @@ TOEICでは会議や業務の話題で「focusing on ～」の形で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務の話題で「focusing on ～」の形で頻出しま
 ## 🤔  concentrating との違いは？
 
 - **focusing**：特定の対象や目的に意識や注意を向けること。
-- **[concentrating](/word/concentrating/)**：より強く意識を集めて他を排除するニュアンス。
+- **[concentrating](/concentrating)**：より強く意識を集めて他を排除するニュアンス。
 
 focusingは「焦点を合わせる」イメージで、concentratingは「他を遮断して一心に取り組む」印象です。
 
@@ -105,14 +109,14 @@ focusingは「焦点を合わせる」イメージで、concentratingは「他�
 
 ## 🧩 あわせて覚えたい
 
-- [ignore](/word/ignore/)：無視する
-- [highlight](/word/highlight/)：強調する
+- [ignore](/ignore)：無視する
+- [highlight](/highlight)：強調する
 
 ---
 
 ## 📖 できればこれも
 
-- [organizing](/word/organizing/)：整理する
-- [discussing](/word/discussing/)：議論する
+- [organizing](/organizing)：整理する
+- [discussing](/discussing)：議論する
 
-<!-- cvid: aid00_bid06 -->
+<!-- cvid: aid48_bid33 -->

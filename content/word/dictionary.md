@@ -81,15 +81,19 @@ TOEICでは、説明文やEメール、案内文などの読解問題で「dicti
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文やEメール、案内文などの読解問題で「dicti
 ## 🤔  glossary との違いは？
 
 - **dictionary**：単語や用語をアルファベット順に詳しく解説した本やデータベース
-- **[glossary](/word/glossary/)**：特定の本や分野に出てくる専門用語の簡単な一覧
+- **[glossary](/glossary)**：特定の本や分野に出てくる専門用語の簡単な一覧
 
 dictionaryは幅広い単語を網羅的に解説しますが、glossaryは特定分野や本の中の専門用語を簡潔にまとめたリストです。
 
@@ -105,14 +109,14 @@ dictionaryは幅広い単語を網羅的に解説しますが、glossaryは特�
 
 ## 🧩 あわせて覚えたい
 
-- [encyclopedia](/word/encyclopedia/)：百科事典
-- [thesaurus](/word/thesaurus/)：類語辞典
+- [encyclopedia](/encyclopedia)：百科事典
+- [thesaurus](/thesaurus)：類語辞典
 
 ---
 
 ## 📖 できればこれも
 
-- [textbook](/word/textbook/)：教科書
-- [reference](/word/reference/)：参考文献、参照
+- [textbook](/textbook)：教科書
+- [reference](/reference)：参考文献、参照
 
-<!-- cvid: aid26_bid25 -->
+<!-- cvid: aid46_bid44 -->

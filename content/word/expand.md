@@ -81,15 +81,19 @@ TOEICではビジネスの成長や事業拡大の文脈でよく出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの成長や事業拡大の文脈でよく出題されま
 ## 🤔  extend との違いは？
 
 - **expand**：範囲や規模を全体的に広げる、内容を増やす
-- **[extend](/word/extend/)**：長さや期間、時間を「伸ばす」「延長する」
+- **[extend](/extend)**：長さや期間、時間を「伸ばす」「延長する」
 
 expandは「全体的に広がる」イメージ、extendは「一方向に伸びる」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ expandは「全体的に広がる」イメージ、extendは「一方向に伸�
 
 ## 🧩 あわせて覚えたい
 
-- [contract](/word/contract/)：縮小する、契約（動詞・名詞）
-- [enlarge](/word/enlarge/)：大きくする、拡大する（動詞）
+- [contract](/contract)：縮小する、契約（動詞・名詞）
+- [enlarge](/enlarge)：大きくする、拡大する（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増やす、増加する（動詞・名詞）
-- [develop](/word/develop/)：発展させる、開発する（動詞）
+- [increase](/increase)：増やす、増加する（動詞・名詞）
+- [develop](/develop)：発展させる、開発する（動詞）
 
-<!-- cvid: aid41_bid02 -->
+<!-- cvid: aid22_bid40 -->

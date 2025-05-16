@@ -81,15 +81,19 @@ TOEICでは「保護する」「守る」という意味で、主にPart 5の語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「保護する」「守る」という意味で、主にPart 5の語
 ## 🤔  defend との違いは？
 
 - **protect**：危険や損害から守る・保護する
-- **[defend](/word/defend/)**：攻撃や非難から防御する・守る
+- **[defend](/defend)**：攻撃や非難から防御する・守る
 
 protectは「一般的な保護」、defendは「攻撃や批判に対して積極的に防御する」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ protectは「一般的な保護」、defendは「攻撃や批判に対して積�
 
 ## 🧩 あわせて覚えたい
 
-- [guard](/word/guard/)：見張る、警備する
-- [preserve](/word/preserve/)：保存する、保護する
+- [guard](/guard)：見張る、警備する
+- [preserve](/preserve)：保存する、保護する
 
 ---
 
 ## 📖 できればこれも
 
-- [prevent](/word/prevent/)：防ぐ、予防する
-- [support](/word/support/)：支える、支援する
+- [prevent](/prevent)：防ぐ、予防する
+- [support](/support)：支える、支援する
 
-<!-- cvid: aid05_bid27 -->
+<!-- cvid: aid23_bid42 -->

@@ -81,15 +81,19 @@ TOEICではレストランの案内や食事に関する長文、メニュー説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランの案内や食事に関する長文、メニュー説
 ## 🤔  vegan との違いは？
 
 - **vegetarian**：肉や魚を食べないが、卵や乳製品は食べる場合が多い。
-- **[vegan](/word/vegan/)**：肉・魚だけでなく卵や乳製品など動物性食品を一切食べない。
+- **[vegan](/vegan)**：肉・魚だけでなく卵や乳製品など動物性食品を一切食べない。
 
 vegetarianは動物性食品の一部（卵や乳製品）を許容することが多いですが、veganはより厳格に動物性食品を避けます。
 
@@ -105,14 +109,14 @@ vegetarianは動物性食品の一部（卵や乳製品）を許容すること�
 
 ## 🧩 あわせて覚えたい
 
-- [omnivore](/word/omnivore/)：雑食動物（肉も植物も食べる人・動物）
-- [pescatarian](/word/pescatarian/)：魚は食べる菜食主義者
+- [omnivore](/omnivore)：雑食動物（肉も植物も食べる人・動物）
+- [pescatarian](/pescatarian)：魚は食べる菜食主義者
 
 ---
 
 ## 📖 できればこれも
 
-- [diet](/word/diet/)：食事、食生活
-- [nutrition](/word/nutrition/)：栄養
+- [diet](/diet)：食事、食生活
+- [nutrition](/nutrition)：栄養
 
-<!-- cvid: aid03_bid44 -->
+<!-- cvid: aid36_bid05 -->

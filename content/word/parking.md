@@ -88,8 +88,12 @@ TOEICでは主にPart 1の写真描写や、施設案内・指示の場面でよ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、施設案内・指示の場面でよ
 ## 🤔  lot との違いは？
 
 - **parking**：駐車すること、または駐車場全体を指すこともある
-- **[lot](/word/lot/)**：特に「駐車場（parking lot）」のように、区画された土地やスペースを指す
+- **[lot](/lot)**：特に「駐車場（parking lot）」のように、区画された土地やスペースを指す
 
 「parking」は行為や場所全体を指し、「lot」は区画されたスペースや土地を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写や、施設案内・指示の場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [garage](/word/garage/)：車庫、ガレージ
-- [permit](/word/permit/)：許可証
+- [garage](/garage)：車庫、ガレージ
+- [permit](/permit)：許可証
 
 ---
 
 ## 📖 できればこれも
 
-- [ticket](/word/ticket/)：（駐車）券、切符
-- [space](/word/space/)：スペース、空き（駐車スペースなど）
+- [ticket](/ticket)：（駐車）券、切符
+- [space](/space)：スペース、空き（駐車スペースなど）
 
-<!-- cvid: aid47_bid23 -->
+<!-- cvid: aid47_bid25 -->

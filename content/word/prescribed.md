@@ -81,15 +81,19 @@ TOEICでは医療やビジネスの文書、手順書などで「prescribed proc
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療やビジネスの文書、手順書などで「prescribed proc
 ## 🤔  recommended との違いは？
 
 - **prescribed**：権威や規則によって「正式に定められた」「処方された」
-- **[recommended](/word/recommended/)**：推奨された、勧められた
+- **[recommended](/recommended)**：推奨された、勧められた
 
 prescribedは「必ず守るべき」ニュアンスが強く、recommendedは「守ると良い」程度の柔らかい表現です。
 
@@ -105,14 +109,14 @@ prescribedは「必ず守るべき」ニュアンスが強く、recommendedは�
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [authorized](/word/authorized/)：公認の、許可された
+- [mandatory](/mandatory)：義務的な、強制の
+- [authorized](/authorized)：公認の、許可された
 
 ---
 
 ## 📖 できればこれも
 
-- [prohibited](/word/prohibited/)：禁止された
-- [approved](/word/approved/)：承認された
+- [prohibited](/prohibited)：禁止された
+- [approved](/approved)：承認された
 
-<!-- cvid: aid20_bid21 -->
+<!-- cvid: aid38_bid13 -->

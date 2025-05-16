@@ -81,15 +81,19 @@ TOEICでは主に大学や教育機関をテーマにした長文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に大学や教育機関をテーマにした長文で登場する
 ## 🤔  square との違いは？
 
 - **quad**：大学や学校の建物に囲まれた四角い中庭を指すカジュアルな表現
-- **[square](/word/square/)**：都市の広場や四角い形そのものを指す一般的な単語
+- **[square](/square)**：都市の広場や四角い形そのものを指す一般的な単語
 
 quadは教育機関の中庭に特化した言い方で、squareは街中の広場や形状全般に使います。
 
@@ -105,14 +109,14 @@ quadは教育機関の中庭に特化した言い方で、squareは街中の広�
 
 ## 🧩 あわせて覚えたい
 
-- [courtyard](/word/courtyard/)：建物に囲まれた中庭
-- [campus](/word/campus/)：大学などの敷地
+- [courtyard](/courtyard)：建物に囲まれた中庭
+- [campus](/campus)：大学などの敷地
 
 ---
 
 ## 📖 できればこれも
 
-- [hall](/word/hall/)：ホール、会館
-- [lawn](/word/lawn/)：芝生
+- [hall](/hall)：ホール、会館
+- [lawn](/lawn)：芝生
 
-<!-- cvid: aid09_bid47 -->
+<!-- cvid: aid01_bid30 -->

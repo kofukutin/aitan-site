@@ -81,15 +81,19 @@ TOEICでは、ITやオフィス機器の設置・導入に関する会話や説�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやオフィス機器の設置・導入に関する会話や説�
 ## 🤔  set up との違いは？
 
 - **installed**：機器やソフトを正式に設置・導入したことを強調
-- **[set up](/word/set_up/)**：準備や設定をして使える状態にすること全般
+- **[set up](/set_up)**：準備や設定をして使える状態にすること全般
 
 「installed」は特にITや機械の「設置・導入」にフォーカスし、「set up」は幅広く「準備・設定」全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやオフィス機器の設置・導入に関する会話や説�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り外す、削除する
-- [update](/word/update/)：更新する
+- [remove](/remove)：取り外す、削除する
+- [update](/update)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate/)：操作する、動かす
-- [connect](/word/connect/)：接続する
+- [operate](/operate)：操作する、動かす
+- [connect](/connect)：接続する
 
-<!-- cvid: aid08_bid36 -->
+<!-- cvid: aid34_bid21 -->

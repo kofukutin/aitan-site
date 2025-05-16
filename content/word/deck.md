@@ -81,15 +81,19 @@ deckはTOEICの写真描写問題で、船や建物の屋外スペースを説�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ deckはTOEICの写真描写問題で、船や建物の屋外スペースを説�
 ## 🤔  floor との違いは？
 
 - **deck**：船や屋外の平らなスペース、または建物のテラスなどを指す
-- **[floor](/word/floor/)**：建物の「床」や「階」を指す
+- **[floor](/floor)**：建物の「床」や「階」を指す
 
 deckは主に屋外や乗り物の平らな部分、floorは建物内部の床や階層を表します。
 
@@ -105,14 +109,14 @@ deckは主に屋外や乗り物の平らな部分、floorは建物内部の床�
 
 ## 🧩 あわせて覚えたい
 
-- [balcony](/word/balcony/)：バルコニー、建物の外に張り出した小さなスペース
-- [platform](/word/platform/)：プラットフォーム、駅のホームや壇上
+- [balcony](/balcony)：バルコニー、建物の外に張り出した小さなスペース
+- [platform](/platform)：プラットフォーム、駅のホームや壇上
 
 ---
 
 ## 📖 できればこれも
 
-- [cabin](/word/cabin/)：（船や飛行機の）客室、小屋
-- [bridge](/word/bridge/)：（船の）操舵室、橋
+- [cabin](/cabin)：（船や飛行機の）客室、小屋
+- [bridge](/bridge)：（船の）操舵室、橋
 
-<!-- cvid: aid15_bid48 -->
+<!-- cvid: aid45_bid41 -->

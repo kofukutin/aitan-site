@@ -81,15 +81,19 @@ TOEICでは主にビジネスや経済関連の長文で「赤字」や「不足
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや経済関連の長文で「赤字」や「不足
 ## 🤔  shortage との違いは？
 
 - **deficit**：主に財務や数量で「赤字」「不足額」として使われるフォーマルな表現
-- **[shortage](/word/shortage/)**：物資や人手など「不足」全般に使われるややカジュアルな表現
+- **[shortage](/shortage)**：物資や人手など「不足」全般に使われるややカジュアルな表現
 
 deficitは特にお金や数量の「赤字・不足額」に限定されるのに対し、shortageは物や人など幅広い「不足」に使われます。
 
@@ -105,14 +109,14 @@ deficitは特にお金や数量の「赤字・不足額」に限定されるの�
 
 ## 🧩 あわせて覚えたい
 
-- [surplus](/word/surplus/)：黒字、余剰
-- [debt](/word/debt/)：借金、負債
+- [surplus](/surplus)：黒字、余剰
+- [debt](/debt)：借金、負債
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/word/revenue/)：収益
-- [expense](/word/expense/)：費用
+- [revenue](/revenue)：収益
+- [expense](/expense)：費用
 
-<!-- cvid: aid22_bid34 -->
+<!-- cvid: aid28_bid35 -->

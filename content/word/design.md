@@ -81,15 +81,19 @@ TOEICでは、製品やプロジェクトの説明文、広告、社内文書な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やプロジェクトの説明文、広告、社内文書な
 ## 🤔  plan との違いは？
 
 - **design**：見た目や機能を考えた設計や図案、またはその過程。
-- **[plan](/word/plan/)**：目的達成のための計画や手順。
+- **[plan](/plan)**：目的達成のための計画や手順。
 
 designは「形や構造を考えること」、planは「何をどう進めるかの計画」を指し、designは見た目や機能に重点があります。
 
@@ -105,14 +109,14 @@ designは「形や構造を考えること」、planは「何をどう進める�
 
 ## 🧩 あわせて覚えたい
 
-- [draft](/word/draft/)：下書き、草案
-- [concept](/word/concept/)：概念、コンセプト
+- [draft](/draft)：下書き、草案
+- [concept](/concept)：概念、コンセプト
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：計画、プロジェクト
-- [layout](/word/layout/)：配置、レイアウト
+- [project](/project)：計画、プロジェクト
+- [layout](/layout)：配置、レイアウト
 
-<!-- cvid: aid13_bid49 -->
+<!-- cvid: aid36_bid39 -->

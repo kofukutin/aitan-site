@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文読解で、貿易や輸送、国際ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文読解で、貿易や輸送、国際ビジネス
 ## 🤔  marine との違いは？
 
 - **maritime**：海事の、海運の、沿岸の（特に人間の活動や法律・ビジネスに関連）
-- **[marine](/word/marine/)**：海の、海洋の（生物や自然環境、科学的な文脈で使うことが多い）
+- **[marine](/marine)**：海の、海洋の（生物や自然環境、科学的な文脈で使うことが多い）
 
 maritimeは「海運・海事・沿岸地域」など人間の活動や制度に関わる場面で使い、marineは「海洋生物」「海の環境」など自然や科学の文脈で使われます。
 
@@ -105,14 +109,14 @@ maritimeは「海運・海事・沿岸地域」など人間の活動や制度に
 
 ## 🧩 あわせて覚えたい
 
-- [naval](/word/naval/)：海軍の、軍艦の
-- [oceanic](/word/oceanic/)：大洋の、海洋性の
+- [naval](/naval)：海軍の、軍艦の
+- [oceanic](/oceanic)：大洋の、海洋性の
 
 ---
 
 ## 📖 できればこれも
 
-- [logistics](/word/logistics/)：物流、兵站
-- [freight](/word/freight/)：貨物、輸送
+- [logistics](/logistics)：物流、兵站
+- [freight](/freight)：貨物、輸送
 
-<!-- cvid: aid28_bid47 -->
+<!-- cvid: aid13_bid10 -->

@@ -82,15 +82,19 @@ TOEICでは比較級や数量表現、追加説明の文脈で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは比較級や数量表現、追加説明の文脈で頻出します。
 ## 🤔  much との違いは？
 
 - **more**：比較して「より多く」「さらに」という意味で使う
-- **[much](/word/much/)**：量が「たくさん」「多い」という意味で、比較ではなく絶対量を表す
+- **[much](/much)**：量が「たくさん」「多い」という意味で、比較ではなく絶対量を表す
 
 「more」は比較や追加を表し、「much」は単に量が多いことを表します。
 
@@ -106,14 +110,14 @@ TOEICでは比較級や数量表現、追加説明の文脈で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [less](/word/less/)：より少ない
-- [additional](/word/additional/)：追加の
+- [less](/less)：より少ない
+- [additional](/additional)：追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [most](/word/most/)：最も多い
-- [another](/word/another/)：もう一つの
+- [most](/most)：最も多い
+- [another](/another)：もう一つの
 
-<!-- cvid: aid05_bid49 -->
+<!-- cvid: aid06_bid12 -->

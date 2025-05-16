@@ -81,15 +81,19 @@ TOEICでは、ニュース記事や会社の発表文などで「公表された
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事や会社の発表文などで「公表された
 ## 🤔  launched との違いは？
 
 - **released**：公表・発売・解放など「世に出す」全般に使える
-- **[launched](/word/launched/)**：新商品やサービスの「開始」「立ち上げ」に特化
+- **[launched](/launched)**：新商品やサービスの「開始」「立ち上げ」に特化
 
 releasedは幅広く「公開・発表」全般に使えますが、launchedは特に新しいものを「始める」「立ち上げる」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ releasedは幅広く「公開・発表」全般に使えますが、launchedは�
 
 ## 🧩 あわせて覚えたい
 
-- [publish](/word/publish/)：出版する、公表する
-- [disclose](/word/disclose/)：開示する、明らかにする
+- [publish](/publish)：出版する、公表する
+- [disclose](/disclose)：開示する、明らかにする
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/word/announce/)：発表する
-- [update](/word/update/)：更新する
+- [announce](/announce)：発表する
+- [update](/update)：更新する
 
-<!-- cvid: aid09_bid20 -->
+<!-- cvid: aid10_bid01 -->

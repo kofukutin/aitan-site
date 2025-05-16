@@ -81,15 +81,19 @@ TOEICでは会社や組織の説明、部署の案内、業務分担などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社や組織の説明、部署の案内、業務分担などの文
 ## 🤔  department との違いは？
 
 - **division**：大きな組織の中の主要な部門や区分を指すことが多い
-- **[department](/word/department/)**：より一般的な「部門」「課」など、divisionより小規模な単位にも使える
+- **[department](/department)**：より一般的な「部門」「課」など、divisionより小規模な単位にも使える
 
 divisionは会社の大きな区分や主要部門に使われ、departmentはより幅広く一般的な部署や課に使われます。
 
@@ -105,14 +109,14 @@ divisionは会社の大きな区分や主要部門に使われ、departmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [section](/word/section/)：（部門より小さい）部、課
-- [unit](/word/unit/)：単位、部署
+- [section](/section)：（部門より小さい）部、課
+- [unit](/unit)：単位、部署
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/word/branch/)：支店、支部
-- [category](/word/category/)：カテゴリー、分類
+- [branch](/branch)：支店、支部
+- [category](/category)：カテゴリー、分類
 
-<!-- cvid: aid07_bid39 -->
+<!-- cvid: aid09_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは主に健康や食品、医療関連の記事や広告文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に健康や食品、医療関連の記事や広告文で見かけ
 ## 🤔  nutritious との違いは？
 
 - **nutritional**：栄養に関する、栄養学的な（主に情報や側面を説明）
-- **[nutritious](/word/nutritious/)**：栄養価が高い、栄養のある（主に食べ物自体を説明）
+- **[nutritious](/nutritious)**：栄養価が高い、栄養のある（主に食べ物自体を説明）
 
 nutritionalは「栄養に関する情報や側面」に使い、nutritiousは「実際に栄養が豊富な食品」に使います。
 
@@ -105,14 +109,14 @@ nutritionalは「栄養に関する情報や側面」に使い、nutritiousは�
 
 ## 🧩 あわせて覚えたい
 
-- [diet](/word/diet/)：食事、食生活
-- [supplement](/word/supplement/)：サプリメント、補助食品
+- [diet](/diet)：食事、食生活
+- [supplement](/supplement)：サプリメント、補助食品
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/word/medical/)：医療の、医学の
-- [essential](/word/essential/)：不可欠な、必須の
+- [medical](/medical)：医療の、医学の
+- [essential](/essential)：不可欠な、必須の
 
-<!-- cvid: aid45_bid20 -->
+<!-- cvid: aid34_bid40 -->

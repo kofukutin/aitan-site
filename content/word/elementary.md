@@ -81,15 +81,19 @@ TOEICでは、教育や説明に関する文脈で「elementary」が選択肢�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、教育や説明に関する文脈で「elementary」が選択肢�
 ## 🤔  basic との違いは？
 
 - **elementary**：初歩的で、最も基礎的な段階を強調する
-- **[basic](/word/basic/)**：必要最低限の基本や土台を指す
+- **[basic](/basic)**：必要最低限の基本や土台を指す
 
 elementaryは「入門レベル」や「最初の段階」を強調し、basicは「基礎」や「基本的な性質」を幅広く指します。
 
@@ -105,14 +109,14 @@ elementaryは「入門レベル」や「最初の段階」を強調し、basic�
 
 ## 🧩 あわせて覚えたい
 
-- [fundamental](/word/fundamental/)：根本的な、基本的な
-- [advanced](/word/advanced/)：上級の、進んだ
+- [fundamental](/fundamental)：根本的な、基本的な
+- [advanced](/advanced)：上級の、進んだ
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/word/primary/)：第一の、主要な
-- [simple](/word/simple/)：簡単な、単純な
+- [primary](/primary)：第一の、主要な
+- [simple](/simple)：簡単な、単純な
 
-<!-- cvid: aid11_bid42 -->
+<!-- cvid: aid07_bid08 -->

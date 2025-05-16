@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【plus】の意味・使い方・例文 ― addとの違い【TOEIC英単語】"
 description: "plusの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでaddとの違いもわかりやすく学べます。"
 word: "plus"
@@ -77,15 +77,19 @@ TOEICでは、価格や数量の説明、条件を追加する場面でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、価格や数量の説明、条件を追加する場面でよく出
 ## 🤔  add との違いは？
 
 - **plus**：前置詞や接続詞として「～に加えて」「さらに」を表す。
-- **[add](/word/add/)**：動詞で「加える」「足す」という動作を表す。
+- **[add](/add)**：動詞で「加える」「足す」という動作を表す。
 
 「plus」は名詞や数の前に置いて「～プラス～」と情報を追加する時に使い、「add」は実際に何かを加える動作や計算の時に使います。
 
@@ -101,14 +105,14 @@ TOEICでは、価格や数量の説明、条件を追加する場面でよく出
 
 ## 🧩 あわせて覚えたい
 
-- [minus](/word/minus/)：マイナス、引く
-- [additional](/word/additional/)：追加の、さらに
+- [minus](/minus)：マイナス、引く
+- [additional](/additional)：追加の、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total/)：合計、総計
-- [include](/word/include/)：含む、含める
+- [total](/total)：合計、総計
+- [include](/include)：含む、含める
 
-<!-- cvid: aid22_bid21 -->
+<!-- cvid: aid19_bid41 -->

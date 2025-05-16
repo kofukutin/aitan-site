@@ -81,15 +81,19 @@ TOEICでは、地図や距離を説明する場面で写真描写やリスニン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、地図や距離を説明する場面で写真描写やリスニン
 ## 🤔  mile との違いは？
 
 - **kilometer**：メートル法の距離単位で、1,000メートルを表す。
-- **[mile](/word/mile/)**：主にアメリカやイギリスで使われる距離単位で、約1,609メートル。
+- **[mile](/mile)**：主にアメリカやイギリスで使われる距離単位で、約1,609メートル。
 
 kilometerは国際的なメートル法、mileは主に英米圏で使われる単位なので、国や場面によって使い分けます。
 
@@ -105,14 +109,14 @@ kilometerは国際的なメートル法、mileは主に英米圏で使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [meter](/word/meter/)：メートル（長さの基本単位）
-- [centimeter](/word/centimeter/)：センチメートル（1メートルの100分の1）
+- [meter](/meter)：メートル（長さの基本単位）
+- [centimeter](/centimeter)：センチメートル（1メートルの100分の1）
 
 ---
 
 ## 📖 できればこれも
 
-- [distance](/word/distance/)：距離
-- [length](/word/length/)：長さ
+- [distance](/distance)：距離
+- [length](/length)：長さ
 
-<!-- cvid: aid12_bid16 -->
+<!-- cvid: aid28_bid43 -->

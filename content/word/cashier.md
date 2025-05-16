@@ -81,15 +81,19 @@ TOEICでは主に店舗や銀行の写真描写問題で「cashier」が使わ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に店舗や銀行の写真描写問題で「cashier」が使わ�
 ## 🤔  teller との違いは？
 
 - **cashier**：店舗やレストランなどで会計を担当する人
-- **[teller](/word/teller/)**：銀行の窓口で現金の出し入れを担当する人
+- **[teller](/teller)**：銀行の窓口で現金の出し入れを担当する人
 
 cashierは一般的なレジ係、tellerは銀行の窓口係と使い分けます。
 
@@ -105,14 +109,14 @@ cashierは一般的なレジ係、tellerは銀行の窓口係と使い分けま�
 
 ## 🧩 あわせて覚えたい
 
-- [clerk](/word/clerk/)：店員、事務員
-- [counter](/word/counter/)：カウンター、窓口
+- [clerk](/clerk)：店員、事務員
+- [counter](/counter)：カウンター、窓口
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/word/receipt/)：レシート、領収書
-- [customer](/word/customer/)：顧客、客
+- [receipt](/receipt)：レシート、領収書
+- [customer](/customer)：顧客、客
 
-<!-- cvid: aid17_bid00 -->
+<!-- cvid: aid25_bid09 -->

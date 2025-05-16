@@ -81,15 +81,19 @@ TOEICでは、記事や広告、説明文などで「現実離れした」「信
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や広告、説明文などで「現実離れした」「信
 ## 🤔  imaginary との違いは？
 
 - **unreal**：現実ではない、現実離れしている（実際に存在しない・信じがたい）
-- **[imaginary](/word/imaginary/)**：想像上の、頭の中で作り出した
+- **[imaginary](/imaginary)**：想像上の、頭の中で作り出した
 
 unrealは「現実に存在しない」や「信じられないほどすごい」など現実とのギャップを強調し、imaginaryは「想像の産物」であることを強調します。
 
@@ -105,14 +109,14 @@ unrealは「現実に存在しない」や「信じられないほどすごい�
 
 ## 🧩 あわせて覚えたい
 
-- [genuine](/word/genuine/)：本物の、正真正銘の
-- [fantastic](/word/fantastic/)：素晴らしい、空想的な
+- [genuine](/genuine)：本物の、正真正銘の
+- [fantastic](/fantastic)：素晴らしい、空想的な
 
 ---
 
 ## 📖 できればこれも
 
-- [unlikely](/word/unlikely/)：ありそうもない
-- [virtual](/word/virtual/)：仮想の、事実上の
+- [unlikely](/unlikely)：ありそうもない
+- [virtual](/virtual)：仮想の、事実上の
 
-<!-- cvid: aid43_bid49 -->
+<!-- cvid: aid40_bid24 -->

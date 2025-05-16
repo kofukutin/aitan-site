@@ -80,15 +80,19 @@ TOEICではグラフや統計、売上などの説明で頻出します。数字
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではグラフや統計、売上などの説明で頻出します。数字
 ## 🤔  percentage との違いは？
 
 - **percent**：具体的な数値とセットで「～パーセント」と表現する
-- **[percentage](/word/percentage/)**：割合や比率そのものを抽象的に表す
+- **[percentage](/percentage)**：割合や比率そのものを抽象的に表す
 
 percentは「10 percent」のように数字と一緒に使い、percentageは「a high percentage」のように漠然とした割合を指します。
 
@@ -104,14 +108,14 @@ percentは「10 percent」のように数字と一緒に使い、percentageは�
 
 ## 🧩 あわせて覚えたい
 
-- [rate](/word/rate/)：比率、割合
-- [proportion](/word/proportion/)：部分、割合
+- [rate](/rate)：比率、割合
+- [proportion](/proportion)：部分、割合
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：数字、数値
-- [amount](/word/amount/)：量、総額
+- [figure](/figure)：数字、数値
+- [amount](/amount)：量、総額
 
-<!-- cvid: aid12_bid16 -->
+<!-- cvid: aid10_bid17 -->

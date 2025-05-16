@@ -81,15 +81,19 @@ TOEICでは、企業の歴史や製品の起源などを説明する文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業の歴史や製品の起源などを説明する文脈でよ
 ## 🤔  initially との違いは？
 
 - **originally**：もともと、最初は（起源や出発点を強調）
-- **[initially](/word/initially/)**：最初の段階で、当初（物事の始まりの時点を強調）
+- **[initially](/initially)**：最初の段階で、当初（物事の始まりの時点を強調）
 
 「originally」は「もともとどうだったか」という起源や本来の状態を指し、「initially」は「最初の段階でどうだったか」という時系列の最初を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、企業の歴史や製品の起源などを説明する文脈でよ
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually/)：最終的に
-- [formerly](/word/formerly/)：以前は
+- [eventually](/eventually)：最終的に
+- [formerly](/formerly)：以前は
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently/)：最近
-- [finally](/word/finally/)：ついに
+- [recently](/recently)：最近
+- [finally](/finally)：ついに
 
-<!-- cvid: aid38_bid19 -->
+<!-- cvid: aid26_bid10 -->

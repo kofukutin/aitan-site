@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメール、報告書などの長文読解
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメール、報告書などの長文読解
 ## 🤔  examine との違いは？
 
 - **investigate**：事実や原因を徹底的に調査・捜査する
-- **[examine](/word/examine/)**：物や内容を詳しく調べる、検査する
+- **[examine](/examine)**：物や内容を詳しく調べる、検査する
 
 investigateは「事件や問題の真相を明らかにするための調査」、examineは「物や人、内容を詳しく見る・調べる」というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ investigateは「事件や問題の真相を明らかにするための調査」
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/word/inspect/)：点検する、検査する
-- [research](/word/research/)：研究する、調査する
+- [inspect](/inspect)：点検する、検査する
+- [research](/research)：研究する、調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [explore](/word/explore/)：探検する、探る
+- [analyze](/analyze)：分析する
+- [explore](/explore)：探検する、探る
 
-<!-- cvid: aid36_bid11 -->
+<!-- cvid: aid03_bid34 -->

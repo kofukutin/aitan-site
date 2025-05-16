@@ -81,15 +81,19 @@ TOEICではビジネスの会話や説明文で「販売活動」や「売るこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの会話や説明文で「販売活動」や「売るこ
 ## 🤔  sales との違いは？
 
 - **selling**：販売という行為やプロセス自体を指す
-- **[sales](/word/sales/)**：売上高や販売数、または営業部門を指す
+- **[sales](/sales)**：売上高や販売数、または営業部門を指す
 
 sellingは「売る活動」そのもの、salesは「売れた結果」や「営業部門」を意味し、使い分けが必要です。
 
@@ -105,14 +109,14 @@ sellingは「売る活動」そのもの、salesは「売れた結果」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [purchase](/word/purchase/)：購入、買うこと
-- [marketing](/word/marketing/)：マーケティング、販売促進活動
+- [purchase](/purchase)：購入、買うこと
+- [marketing](/marketing)：マーケティング、販売促進活動
 
 ---
 
 ## 📖 できればこれも
 
-- [buyer](/word/buyer/)：買い手、購入者
-- [promotion](/word/promotion/)：販促、昇進
+- [buyer](/buyer)：買い手、購入者
+- [promotion](/promotion)：販促、昇進
 
-<!-- cvid: aid41_bid00 -->
+<!-- cvid: aid00_bid35 -->

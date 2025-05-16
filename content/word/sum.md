@@ -81,15 +81,19 @@ TOEICでは請求書や会計、計算に関する文脈で「sum」が出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や会計、計算に関する文脈で「sum」が出題さ
 ## 🤔  total との違いは？
 
 - **sum**：数値や金額を足し合わせた合計、特に計算結果や金銭面で使うことが多い
-- **[total](/word/total/)**：全体の総数や総量、数値以外にも幅広く使える
+- **[total](/total)**：全体の総数や総量、数値以外にも幅広く使える
 
 sumは計算や金額の合計に特化し、totalはより広い意味で「全体」を表します。
 
@@ -105,14 +109,14 @@ sumは計算や金額の合計に特化し、totalはより広い意味で「全
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/word/amount/)：量、金額
-- [balance](/word/balance/)：残高、差額
+- [amount](/amount)：量、金額
+- [balance](/balance)：残高、差額
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用
-- [figure](/word/figure/)：数字、金額
+- [cost](/cost)：費用
+- [figure](/figure)：数字、金額
 
-<!-- cvid: aid29_bid36 -->
+<!-- cvid: aid39_bid32 -->

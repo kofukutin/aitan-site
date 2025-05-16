@@ -81,15 +81,19 @@ TOEICでは「選択肢」や「選ぶこと」に関連する文脈で頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「選択肢」や「選ぶこと」に関連する文脈で頻出し
 ## 🤔  option との違いは？
 
 - **choice**：選ぶ行為や選ばれたもの、または選択肢そのもの
-- **[option](/word/option/)**：複数ある中の「選択肢」の一つ一つ
+- **[option](/option)**：複数ある中の「選択肢」の一つ一つ
 
 「choice」は「選ぶこと」や「選ばれた結果」も含みますが、「option」は単に「選択肢の一つ」を指します。
 
@@ -105,14 +109,14 @@ TOEICでは「選択肢」や「選ぶこと」に関連する文脈で頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision/)：決定、判断
-- [selection](/word/selection/)：選択、選ばれたもの
+- [decision](/decision)：決定、判断
+- [selection](/selection)：選択、選ばれたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer/)：より好む
-- [decide](/word/decide/)：決める
+- [prefer](/prefer)：より好む
+- [decide](/decide)：決める
 
-<!-- cvid: aid48_bid02 -->
+<!-- cvid: aid46_bid42 -->

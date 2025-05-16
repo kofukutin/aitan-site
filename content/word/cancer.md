@@ -80,15 +80,19 @@ The company is developing a new drug to treat cancer.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The company is developing a new drug to treat cancer.
 ## 🤔  tumor との違いは？
 
 - **cancer**：悪性のがん全般を指し、転移や命に関わる深刻な病気を意味します。
-- **[tumor](/word/tumor/)**：腫瘍全般（良性・悪性どちらも）を指し、必ずしもがんとは限りません。
+- **[tumor](/tumor)**：腫瘍全般（良性・悪性どちらも）を指し、必ずしもがんとは限りません。
 
 cancerは「悪性腫瘍＝がん」に限定されますが、tumorは「腫瘍」全体を指し、良性の場合も含みます。
 
@@ -104,14 +108,14 @@ cancerは「悪性腫瘍＝がん」に限定されますが、tumorは「腫瘍
 
 ## 🧩 あわせて覚えたい
 
-- [disease](/word/disease/)：病気
-- [chemotherapy](/word/chemotherapy/)：化学療法（がん治療の一種）
+- [disease](/disease)：病気
+- [chemotherapy](/chemotherapy)：化学療法（がん治療の一種）
 
 ---
 
 ## 📖 できればこれも
 
-- [virus](/word/virus/)：ウイルス
-- [infection](/word/infection/)：感染
+- [virus](/virus)：ウイルス
+- [infection](/infection)：感染
 
-<!-- cvid: aid47_bid31 -->
+<!-- cvid: aid09_bid30 -->

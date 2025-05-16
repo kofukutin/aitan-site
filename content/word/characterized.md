@@ -81,15 +81,19 @@ TOEICでは説明文や企業紹介、製品の特徴を述べる文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や企業紹介、製品の特徴を述べる文脈でよく
 ## 🤔  defined との違いは？
 
 - **characterized**：特徴や性質を際立たせて説明する
-- **[defined](/word/defined/)**：定義や意味を明確にする
+- **[defined](/defined)**：定義や意味を明確にする
 
 characterizedは「何がそのものを特徴づけているか」を示し、definedは「意味や範囲をはっきりさせる」時に使います。
 
@@ -105,14 +109,14 @@ characterizedは「何がそのものを特徴づけているか」を示し、d
 
 ## 🧩 あわせて覚えたい
 
-- [describe](/word/describe/)：～を説明する、描写する
-- [distinguish](/word/distinguish/)：区別する、見分ける
+- [describe](/describe)：～を説明する、描写する
+- [distinguish](/distinguish)：区別する、見分ける
 
 ---
 
 ## 📖 できればこれも
 
-- [indicate](/word/indicate/)：示す、指し示す
-- [represent](/word/represent/)：表す、代表する
+- [indicate](/indicate)：示す、指し示す
+- [represent](/represent)：表す、代表する
 
-<!-- cvid: aid22_bid04 -->
+<!-- cvid: aid17_bid06 -->

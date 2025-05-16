@@ -81,15 +81,19 @@ TOEICでは、機械や電子機器の説明、トラブルシューティング
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械や電子機器の説明、トラブルシューティング
 ## 🤔  blinking との違いは？
 
 - **flashing**：素早く明るく点滅すること、特に注意や警告を示す場合に多い
-- **[blinking](/word/blinking/)**：まばたきのようにゆっくり点滅すること、自然な点滅や短い消灯を含む
+- **[blinking](/blinking)**：まばたきのようにゆっくり点滅すること、自然な点滅や短い消灯を含む
 
 「flashing」は警告灯や信号など、強調された点滅に使われることが多く、「blinking」はより自然な点滅やまばたきの動作に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、機械や電子機器の説明、トラブルシューティング
 
 ## 🧩 あわせて覚えたい
 
-- [signal](/word/signal/)：信号、合図
-- [warning](/word/warning/)：警告、注意
+- [signal](/signal)：信号、合図
+- [warning](/warning)：警告、注意
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/word/display/)：表示、ディスプレイ
-- [indicator](/word/indicator/)：指示灯、インジケーター
+- [display](/display)：表示、ディスプレイ
+- [indicator](/indicator)：指示灯、インジケーター
 
-<!-- cvid: aid38_bid03 -->
+<!-- cvid: aid05_bid24 -->

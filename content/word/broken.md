@@ -81,15 +81,19 @@ TOEICでは、機械や設備の故障、トラブルに関する会話や説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械や設備の故障、トラブルに関する会話や説明
 ## 🤔  damaged との違いは？
 
 - **broken**：完全に壊れて使えない、機能しない状態
-- **[damaged](/word/damaged/)**：一部が損傷しているが、使える場合もある
+- **[damaged](/damaged)**：一部が損傷しているが、使える場合もある
 
 brokenは「完全に壊れて使えない」ニュアンスが強く、damagedは「損傷しているが使える可能性がある」点が異なります。
 
@@ -105,14 +109,14 @@ brokenは「完全に壊れて使えない」ニュアンスが強く、damaged�
 
 ## 🧩 あわせて覚えたい
 
-- [repaired](/word/repaired/)：修理された
-- [faulty](/word/faulty/)：欠陥のある
+- [repaired](/repaired)：修理された
+- [faulty](/faulty)：欠陥のある
 
 ---
 
 ## 📖 できればこれも
 
-- [fixed](/word/fixed/)：修理された、直された
-- [cracked](/word/cracked/)：ひびが入った
+- [fixed](/fixed)：修理された、直された
+- [cracked](/cracked)：ひびが入った
 
-<!-- cvid: aid27_bid43 -->
+<!-- cvid: aid06_bid14 -->

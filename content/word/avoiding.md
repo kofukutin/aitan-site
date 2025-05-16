@@ -81,15 +81,19 @@ TOEICでは動名詞や進行形の文法問題で頻出です。avoidの派生�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは動名詞や進行形の文法問題で頻出です。avoidの派生�
 ## 🤔  prevent との違いは？
 
 - **avoiding**：自分が何かを意識的に避ける・回避すること
-- **[prevent](/word/prevent/)**：何かが起こるのを未然に防ぐこと
+- **[prevent](/prevent)**：何かが起こるのを未然に防ぐこと
 
 avoidingは「自分が関わらないようにする」ニュアンス、preventは「出来事自体を阻止する」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ avoidingは「自分が関わらないようにする」ニュアンス、preven
 
 ## 🧩 あわせて覚えたい
 
-- [escape](/word/escape/)：逃げる、脱出する
-- [ignore](/word/ignore/)：無視する
+- [escape](/escape)：逃げる、脱出する
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay/)：遅らせる
-- [postpone](/word/postpone/)：延期する
+- [delay](/delay)：遅らせる
+- [postpone](/postpone)：延期する
 
-<!-- cvid: aid13_bid28 -->
+<!-- cvid: aid48_bid17 -->

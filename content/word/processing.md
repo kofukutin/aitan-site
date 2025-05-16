@@ -88,8 +88,12 @@ TOEICではITやビジネス文書、工場の説明などで「processing」が
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、工場の説明などで「processing」が
 ## 🤔  process との違いは？
 
 - **processing**：処理や加工という「作業」や「進行中の状態」を表す
-- **[process](/word/process/)**：一連の「過程」や「手順」、または「処理する」という動詞
+- **[process](/process)**：一連の「過程」や「手順」、または「処理する」という動詞
 
 processingは「実際に処理している作業や状態」を指し、processは「手順」や「流れ」そのものを指します。
 
@@ -105,14 +109,14 @@ processingは「実際に処理している作業や状態」を指し、process
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/word/procedure/)：手順、手続き
-- [operation](/word/operation/)：操作、運用
+- [procedure](/procedure)：手順、手続き
+- [operation](/operation)：操作、運用
 
 ---
 
 ## 📖 できればこれも
 
-- [input](/word/input/)：入力
-- [output](/word/output/)：出力
+- [input](/input)：入力
+- [output](/output)：出力
 
-<!-- cvid: aid03_bid23 -->
+<!-- cvid: aid03_bid45 -->

@@ -80,15 +80,19 @@ The report states that the tumor is benign and not life-threatening.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The report states that the tumor is benign and not life-threatening.
 ## 🤔  cancer との違いは？
 
 - **tumor**：体内にできる「腫瘍」全般（良性・悪性どちらも含む）
-- **[cancer](/word/cancer/)**：悪性腫瘍、つまり「がん」のみを指す
+- **[cancer](/cancer)**：悪性腫瘍、つまり「がん」のみを指す
 
 tumorは必ずしも命に関わるものではありませんが、cancerは悪性で治療が必要な場合を指します。
 
@@ -104,14 +108,14 @@ tumorは必ずしも命に関わるものではありませんが、cancerは悪
 
 ## 🧩 あわせて覚えたい
 
-- [growth](/word/growth/)：成長、腫瘍（医学用語で使われることも）
-- [benign](/word/benign/)：良性の（腫瘍などが悪性でないこと）
+- [growth](/growth)：成長、腫瘍（医学用語で使われることも）
+- [benign](/benign)：良性の（腫瘍などが悪性でないこと）
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [symptom](/word/symptom/)：症状
+- [disease](/disease)：病気
+- [symptom](/symptom)：症状
 
-<!-- cvid: aid30_bid36 -->
+<!-- cvid: aid16_bid12 -->

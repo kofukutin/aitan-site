@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの会話で「生産している」「作り出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの会話で「生産している」「作り出
 ## 🤔  manufacturing との違いは？
 
 - **producing**：広く「生産する」「作り出す」全般に使う
-- **[manufacturing](/word/manufacturing/)**：特に「工場などで大量生産する」場合に使う
+- **[manufacturing](/manufacturing)**：特に「工場などで大量生産する」場合に使う
 
 producingは一般的な「作る・生み出す」動作全体を指し、manufacturingは工業的な大量生産に限定されることが多いです。
 
@@ -105,14 +109,14 @@ producingは一般的な「作る・生み出す」動作全体を指し、manuf
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create/)：創造する、作り出す
-- [supply](/word/supply/)：供給する
+- [create](/create)：創造する、作り出す
+- [supply](/supply)：供給する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop/)：開発する
-- [deliver](/word/deliver/)：届ける
+- [develop](/develop)：開発する
+- [deliver](/deliver)：届ける
 
-<!-- cvid: aid36_bid37 -->
+<!-- cvid: aid05_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは、依頼や感謝、協力を表す文脈で頻出します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、依頼や感謝、協力を表す文脈で頻出します。特に
 ## 🤔  support との違いは？
 
 - **assistance**：具体的な「手助け」や「支援」をフォーマルに表現
-- **[support](/word/support/)**：広く「支える」「支援する」意味で、精神的・物理的な支えも含む
+- **[support](/support)**：広く「支える」「支援する」意味で、精神的・物理的な支えも含む
 
 assistanceは実際の行動や手助けを強調し、supportは気持ちや全体的な支えも含めて幅広く使われます。
 
@@ -105,14 +109,14 @@ assistanceは実際の行動や手助けを強調し、supportは気持ちや全
 
 ## 🧩 あわせて覚えたい
 
-- [aid](/word/aid/)：援助、救済
-- [cooperation](/word/cooperation/)：協力
+- [aid](/aid)：援助、救済
+- [cooperation](/cooperation)：協力
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice/)：助言
-- [guidance](/word/guidance/)：指導
+- [advice](/advice)：助言
+- [guidance](/guidance)：指導
 
-<!-- cvid: aid31_bid03 -->
+<!-- cvid: aid05_bid09 -->

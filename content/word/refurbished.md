@@ -81,15 +81,19 @@ TOEICでは、製品説明やオフィスの案内文などで「refurbished」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品説明やオフィスの案内文などで「refurbished」�
 ## 🤔  renovated との違いは？
 
 - **refurbished**：主に機械や製品が修理・再生されて新品同様になった状態
-- **[renovated](/word/renovated/)**：建物や部屋などが大規模に改装・リフォームされた状態
+- **[renovated](/renovated)**：建物や部屋などが大規模に改装・リフォームされた状態
 
 「refurbished」は製品や機器の再生に使われることが多く、「renovated」は建物や部屋の大規模な改装に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、製品説明やオフィスの案内文などで「refurbished」�
 
 ## 🧩 あわせて覚えたい
 
-- [restored](/word/restored/)：元の状態に戻された
-- [updated](/word/updated/)：最新の状態にされた
+- [restored](/restored)：元の状態に戻された
+- [updated](/updated)：最新の状態にされた
 
 ---
 
 ## 📖 できればこれも
 
-- [repaired](/word/repaired/)：修理された
-- [maintained](/word/maintained/)：維持された
+- [repaired](/repaired)：修理された
+- [maintained](/maintained)：維持された
 
-<!-- cvid: aid37_bid25 -->
+<!-- cvid: aid30_bid00 -->

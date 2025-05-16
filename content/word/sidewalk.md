@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、歩道を歩く人や歩道の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid02_bid06" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid06" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、歩道を歩く人や歩道の
 ## 🤔  pavement との違いは？
 
 - **sidewalk**：アメリカ英語で「歩道」を意味し、車道の横の歩行者専用スペースを指す。
-- **[pavement](/word/pavement/)**：イギリス英語で「歩道」を意味するが、アメリカ英語では「舗装路面」全般を指すこともある。
+- **[pavement](/pavement)**：イギリス英語で「歩道」を意味するが、アメリカ英語では「舗装路面」全般を指すこともある。
 
 sidewalkはアメリカで一般的、pavementはイギリスで一般的に使われます。国によって使い分けが必要です。
 
@@ -105,14 +109,14 @@ sidewalkはアメリカで一般的、pavementはイギリスで一般的に使�
 
 ## 🧩 あわせて覚えたい
 
-- [street](/word/street/)：通り、道路
-- [crosswalk](/word/crosswalk/)：横断歩道
+- [street](/street)：通り、道路
+- [crosswalk](/crosswalk)：横断歩道
 
 ---
 
 ## 📖 できればこれも
 
-- [road](/word/road/)：道路
-- [corner](/word/corner/)：角、曲がり角
+- [road](/road)：道路
+- [corner](/corner)：角、曲がり角
 
-<!-- cvid: aid38_bid07 -->
+<!-- cvid: aid02_bid06 -->

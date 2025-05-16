@@ -80,15 +80,19 @@ TOEICではレストランのメニューやレシピ、食材説明などで登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではレストランのメニューやレシピ、食材説明などで登
 ## 🤔  onion との違いは？
 
 - **garlic**：香りが強く、主に香辛料や薬味として使われるニンニク。
-- **[onion](/word/onion/)**：辛味や甘みがあり、主に野菜として使われるタマネギ。
+- **[onion](/onion)**：辛味や甘みがあり、主に野菜として使われるタマネギ。
 
 garlicは香りや風味づけが主な用途で、onionは料理のベースや具材として使われることが多いです。
 
@@ -104,14 +108,14 @@ garlicは香りや風味づけが主な用途で、onionは料理のベースや
 
 ## 🧩 あわせて覚えたい
 
-- [ginger](/word/ginger/)：ショウガ
-- [herb](/word/herb/)：ハーブ（香草）
+- [ginger](/ginger)：ショウガ
+- [herb](/herb)：ハーブ（香草）
 
 ---
 
 ## 📖 できればこれも
 
-- [pepper](/word/pepper/)：コショウ
-- [salt](/word/salt/)：塩
+- [pepper](/pepper)：コショウ
+- [salt](/salt)：塩
 
-<!-- cvid: aid02_bid36 -->
+<!-- cvid: aid13_bid01 -->

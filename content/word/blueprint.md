@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やプロジェクト資料、建築関連の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やプロジェクト資料、建築関連の
 ## 🤔  plan との違いは？
 
 - **blueprint**：詳細で具体的な設計図や計画、特に実現のための手順が明確なもの
-- **[plan](/word/plan/)**：目的や目標に向けた一般的な計画や案
+- **[plan](/plan)**：目的や目標に向けた一般的な計画や案
 
 blueprintは「実行のための詳細な設計図」、planは「幅広い意味での計画」として使い分けます。
 
@@ -105,14 +109,14 @@ blueprintは「実行のための詳細な設計図」、planは「幅広い意�
 
 ## 🧩 あわせて覚えたい
 
-- [design](/word/design/)：設計、デザイン
-- [strategy](/word/strategy/)：戦略
+- [design](/design)：設計、デザイン
+- [strategy](/strategy)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案、計画案
-- [outline](/word/outline/)：概要、要点
+- [proposal](/proposal)：提案、計画案
+- [outline](/outline)：概要、要点
 
-<!-- cvid: aid40_bid19 -->
+<!-- cvid: aid18_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは、製品仕様や説明文で「厚さ」を問う文脈で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品仕様や説明文で「厚さ」を問う文脈で出題さ
 ## 🤔  density との違いは？
 
 - **thickness**：物体や層の「厚さ」「厚み」を表す。
-- **[density](/word/density/)**：物質の「密度」や「濃度」を表す。
+- **[density](/density)**：物質の「密度」や「濃度」を表す。
 
 thicknessは物理的な厚み、densityは物質がどれだけ詰まっているか（密度）を表すので、使い分けが必要です。
 
@@ -105,14 +109,14 @@ thicknessは物理的な厚み、densityは物質がどれだけ詰まってい�
 
 ## 🧩 あわせて覚えたい
 
-- [width](/word/width/)：幅
-- [depth](/word/depth/)：深さ
+- [width](/width)：幅
+- [depth](/depth)：深さ
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/word/length/)：長さ
-- [height](/word/height/)：高さ
+- [length](/length)：長さ
+- [height](/height)：高さ
 
-<!-- cvid: aid48_bid36 -->
+<!-- cvid: aid16_bid32 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【twisted】の意味・使い方・例文 ― tangledとの違い【TOEIC英単語】"
 description: "twistedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtangledとの違いもわかりやすく学べます。"
 word: "twisted"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、物の形状や状態を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、物の形状や状態を説明する際
 ## 🤔  tangled との違いは？
 
 - **twisted**：物がねじれている、または考え方がひねくれている
-- **[tangled](/word/tangled/)**：物が絡まってほどけない状態
+- **[tangled](/tangled)**：物が絡まってほどけない状態
 
 twistedは「ねじれ」や「ゆがみ」に焦点があり、tangledは「絡まり」に重点があります。
 
@@ -105,14 +109,14 @@ twistedは「ねじれ」や「ゆがみ」に焦点があり、tangledは「絡
 
 ## 🧩 あわせて覚えたい
 
-- [curved](/word/curved/)：曲がった
-- [bent](/word/bent/)：曲げられた
+- [curved](/curved)：曲がった
+- [bent](/bent)：曲げられた
 
 ---
 
 ## 📖 できればこれも
 
-- [straight](/word/straight/)：まっすぐな
-- [spiral](/word/spiral/)：らせん状の
+- [straight](/straight)：まっすぐな
+- [spiral](/spiral)：らせん状の
 
-<!-- cvid: aid16_bid45 -->
+<!-- cvid: aid38_bid00 -->

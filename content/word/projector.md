@@ -81,15 +81,19 @@ TOEICでは会議やプレゼンテーションの説明文、アナウンスな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプレゼンテーションの説明文、アナウンスな
 ## 🤔  screen との違いは？
 
 - **projector**：映像や画像を投影する機械
-- **[screen](/word/screen/)**：投影された映像を映し出す「スクリーン」や「画面」
+- **[screen](/screen)**：投影された映像を映し出す「スクリーン」や「画面」
 
 projectorは「投影する装置」、screenは「投影されたものを映す面」を指し、役割が異なります。
 
@@ -105,14 +109,14 @@ projectorは「投影する装置」、screenは「投影されたものを映�
 
 ## 🧩 あわせて覚えたい
 
-- [display](/word/display/)：表示装置、ディスプレイ
-- [monitor](/word/monitor/)：モニター、画面
+- [display](/display)：表示装置、ディスプレイ
+- [monitor](/monitor)：モニター、画面
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：プレゼンテーション、発表
-- [pointer](/word/pointer/)：指示棒、ポインター
+- [presentation](/presentation)：プレゼンテーション、発表
+- [pointer](/pointer)：指示棒、ポインター
 
-<!-- cvid: aid31_bid32 -->
+<!-- cvid: aid09_bid39 -->

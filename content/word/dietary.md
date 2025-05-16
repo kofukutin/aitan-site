@@ -81,15 +81,19 @@ TOEICでは健康や医療、イベント案内などの長文で「dietary rest
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や医療、イベント案内などの長文で「dietary rest
 ## 🤔  nutrition との違いは？
 
 - **dietary**：食事や食生活に関する（形容詞）
-- **[nutrition](/word/nutrition/)**：栄養、栄養摂取（名詞）
+- **[nutrition](/nutrition)**：栄養、栄養摂取（名詞）
 
 **dietary**は「食事内容や食生活」に焦点を当てる形容詞で、**nutrition**は「栄養そのもの」や「栄養摂取」を指す名詞です。食事の制限や方針を述べるときはdietary、栄養素や健康効果を述べるときはnutritionを使います。
 
@@ -105,14 +109,14 @@ TOEICでは健康や医療、イベント案内などの長文で「dietary rest
 
 ## 🧩 あわせて覚えたい
 
-- [nutritious](/word/nutritious/)：栄養のある（形容詞）
-- [allergy](/word/allergy/)：アレルギー（名詞）
+- [nutritious](/nutritious)：栄養のある（形容詞）
+- [allergy](/allergy)：アレルギー（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/word/medical/)：医療の、医学の（形容詞）
-- [healthy](/word/healthy/)：健康的な（形容詞）
+- [medical](/medical)：医療の、医学の（形容詞）
+- [healthy](/healthy)：健康的な（形容詞）
 
-<!-- cvid: aid07_bid08 -->
+<!-- cvid: aid02_bid37 -->

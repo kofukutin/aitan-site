@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、報告書などで「制約条件�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、報告書などで「制約条件�
 ## 🤔  restriction との違いは？
 
 - **constraint**：外部や状況による「制約」「抑制」など、自由を狭める条件や要因を指す
-- **[restriction](/word/restriction/)**：主に「規則やルールによる制限」を意味し、公式な禁止や制約を強調
+- **[restriction](/restriction)**：主に「規則やルールによる制限」を意味し、公式な禁止や制約を強調
 
 constraintは状況やリソースなどの「やむを得ない制約」に使われ、restrictionは法律や規則など「明確な禁止・制限」に使われます。
 
@@ -105,14 +109,14 @@ constraintは状況やリソースなどの「やむを得ない制約」に使�
 
 ## 🧩 あわせて覚えたい
 
-- [limitation](/word/limitation/)：限界、制限
-- [obstacle](/word/obstacle/)：障害、妨げ
+- [limitation](/limitation)：限界、制限
+- [obstacle](/obstacle)：障害、妨げ
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement/)：要件、必要条件
-- [condition](/word/condition/)：条件、状況
+- [requirement](/requirement)：要件、必要条件
+- [condition](/condition)：条件、状況
 
-<!-- cvid: aid13_bid23 -->
+<!-- cvid: aid07_bid26 -->

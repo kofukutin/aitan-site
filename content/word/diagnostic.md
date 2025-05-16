@@ -81,15 +81,19 @@ Our company uses diagnostic tools to identify system errors.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our company uses diagnostic tools to identify system errors.
 ## 🤔  diagnosis との違いは？
 
 - **diagnostic**：診断に関する、診断用の（形容詞）
-- **[diagnosis](/word/diagnosis/)**：診断（名詞）
+- **[diagnosis](/diagnosis)**：診断（名詞）
 
 diagnosticは「診断の」「診断に使う」といった形容詞で、diagnosisは「診断」という名詞です。たとえばdiagnostic test（診断テスト）、a diagnosis（診断）と使い分けます。
 
@@ -105,14 +109,14 @@ diagnosticは「診断の」「診断に使う」といった形容詞で、diag
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/word/symptom/)：症状
-- [treatment](/word/treatment/)：治療
+- [symptom](/symptom)：症状
+- [treatment](/treatment)：治療
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/word/clinical/)：臨床の
-- [prescription](/word/prescription/)：処方箋
+- [clinical](/clinical)：臨床の
+- [prescription](/prescription)：処方箋
 
-<!-- cvid: aid22_bid04 -->
+<!-- cvid: aid00_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは科学や技術、建築関連の長文や図解説明で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術、建築関連の長文や図解説明で見かける
 ## 🤔  apex との違いは？
 
 - **vertex**：図形や立体の「頂点」や「角の先端」を指す、数学・科学的な用語。
-- **[apex](/word/apex/)**：物体や構造物の「最上部」「先端」を指し、より一般的・比喩的にも使われる。
+- **[apex](/apex)**：物体や構造物の「最上部」「先端」を指し、より一般的・比喩的にも使われる。
 
 vertexは幾何学的な「角の点」に限定されるのに対し、apexは「最上部」や「頂点」という意味で幅広く使われます。
 
@@ -105,14 +109,14 @@ vertexは幾何学的な「角の点」に限定されるのに対し、apexは�
 
 ## 🧩 あわせて覚えたい
 
-- [summit](/word/summit/)：山や会議などの「頂上」「首脳会談」
-- [base](/word/base/)：基部、土台
+- [summit](/summit)：山や会議などの「頂上」「首脳会談」
+- [base](/base)：基部、土台
 
 ---
 
 ## 📖 できればこれも
 
-- [edge](/word/edge/)：辺、端
-- [angle](/word/angle/)：角、角度
+- [edge](/edge)：辺、端
+- [angle](/angle)：角、角度
 
-<!-- cvid: aid34_bid47 -->
+<!-- cvid: aid40_bid44 -->

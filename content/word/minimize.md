@@ -81,15 +81,19 @@ TOEICでは主にビジネス文脈で「コストやリスクを最小限にす
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文脈で「コストやリスクを最小限にす
 ## 🤔  reduce との違いは？
 
 - **minimize**：できるだけ小さく・最小限に抑える
-- **[reduce](/word/reduce/)**：単に減らす、少なくする
+- **[reduce](/reduce)**：単に減らす、少なくする
 
 minimizeは「最小限まで抑える」強いニュアンスがあり、reduceは「減らす」一般的な表現です。
 
@@ -105,14 +109,14 @@ minimizeは「最小限まで抑える」強いニュアンスがあり、reduce
 
 ## 🧩 あわせて覚えたい
 
-- [maximize](/word/maximize/)：最大化する
-- [decrease](/word/decrease/)：減少する、減らす
+- [maximize](/maximize)：最大化する
+- [decrease](/decrease)：減少する、減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [eliminate](/word/eliminate/)：排除する、取り除く
-- [limit](/word/limit/)：制限する、限度を設ける
+- [eliminate](/eliminate)：排除する、取り除く
+- [limit](/limit)：制限する、限度を設ける
 
-<!-- cvid: aid14_bid09 -->
+<!-- cvid: aid01_bid17 -->

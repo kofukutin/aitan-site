@@ -87,8 +87,12 @@ TOEICでは、ダイバーシティや職場環境、多様性に関する長文
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、ダイバーシティや職場環境、多様性に関する長文
 ## 🤔  international との違いは？
 
 - **interracial**：異なる人種間の
-- **[international](/word/international/)**：異なる国同士の、国際的な
+- **[international](/international)**：異なる国同士の、国際的な
 
 interracialは「人種の違い」に焦点があり、internationalは「国の違い」に焦点があります。使い分けに注意しましょう。
 
@@ -104,14 +108,14 @@ interracialは「人種の違い」に焦点があり、internationalは「国�
 
 ## 🧩 あわせて覚えたい
 
-- [multicultural](/word/multicultural/)：多文化の
-- [domestic](/word/domestic/)：国内の
+- [multicultural](/multicultural)：多文化の
+- [domestic](/domestic)：国内の
 
 ---
 
 ## 📖 できればこれも
 
-- [racial](/word/racial/)：人種の
-- [ethnic](/word/ethnic/)：民族の
+- [racial](/racial)：人種の
+- [ethnic](/ethnic)：民族の
 
-<!-- cvid: aid30_bid49 -->
+<!-- cvid: aid30_bid13 -->

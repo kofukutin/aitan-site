@@ -81,15 +81,19 @@ TOEICでは主に記事やレポート、スピーチ文などで「偉業」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やレポート、スピーチ文などで「偉業」や
 ## 🤔  achievement との違いは？
 
 - **feat**：困難なことを成し遂げた「偉業」や「妙技」を強調する。
-- **[achievement](/word/achievement/)**：努力や計画によって達成した「成果」や「達成」を幅広く指す。
+- **[achievement](/achievement)**：努力や計画によって達成した「成果」や「達成」を幅広く指す。
 
 「feat」は特に難易度やすごさに焦点を当てるのに対し、「achievement」は努力や目標達成そのものを指します。
 
@@ -105,14 +109,14 @@ TOEICでは主に記事やレポート、スピーチ文などで「偉業」や
 
 ## 🧩 あわせて覚えたい
 
-- [challenge](/word/challenge/)：挑戦、課題
-- [failure](/word/failure/)：失敗
+- [challenge](/challenge)：挑戦、課題
+- [failure](/failure)：失敗
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/word/honor/)：名誉、栄誉
-- [success](/word/success/)：成功
+- [honor](/honor)：名誉、栄誉
+- [success](/success)：成功
 
-<!-- cvid: aid39_bid48 -->
+<!-- cvid: aid38_bid19 -->

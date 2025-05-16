@@ -81,15 +81,19 @@ TOEICではニュース記事やビジネス文書、報告書などの長文中
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではニュース記事やビジネス文書、報告書などの長文中
 ## 🤔  video との違いは？
 
 - **footage**：編集前や素材としての「映像」「動画」を指すことが多い
-- **[video](/word/video/)**：完成した動画や映像作品、一般的な「ビデオ」
+- **[video](/video)**：完成した動画や映像作品、一般的な「ビデオ」
 
 footageは「素材」としての映像、videoは「完成品」や一般的な動画を指す点が異なります。
 
@@ -105,14 +109,14 @@ footageは「素材」としての映像、videoは「完成品」や一般的�
 
 ## 🧩 あわせて覚えたい
 
-- [clip](/word/clip/)：短い映像、クリップ
-- [recording](/word/recording/)：録音・録画されたもの
+- [clip](/clip)：短い映像、クリップ
+- [recording](/recording)：録音・録画されたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [broadcast](/word/broadcast/)：放送する
-- [edit](/word/edit/)：編集する
+- [broadcast](/broadcast)：放送する
+- [edit](/edit)：編集する
 
-<!-- cvid: aid29_bid45 -->
+<!-- cvid: aid04_bid02 -->

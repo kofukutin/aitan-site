@@ -81,15 +81,19 @@ TOEICでは観光やイベント紹介の記事、サーカスの案内文など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント紹介の記事、サーカスの案内文など
 ## 🤔  gymnast との違いは？
 
 - **acrobat**：サーカスやショーで曲芸を披露する人
-- **[gymnast](/word/gymnast/)**：体操競技の選手
+- **[gymnast](/gymnast)**：体操競技の選手
 
 acrobatは主にエンターテインメントやサーカスで観客を楽しませる人、gymnastはスポーツ競技として体操を行う選手を指します。
 
@@ -105,14 +109,14 @@ acrobatは主にエンターテインメントやサーカスで観客を楽し�
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/word/performer/)：演技者、出演者
-- [clown](/word/clown/)：道化師
+- [performer](/performer)：演技者、出演者
+- [clown](/clown)：道化師
 
 ---
 
 ## 📖 できればこれも
 
-- [circus](/word/circus/)：サーカス
-- [juggler](/word/juggler/)：ジャグラー、曲芸師
+- [circus](/circus)：サーカス
+- [juggler](/juggler)：ジャグラー、曲芸師
 
-<!-- cvid: aid02_bid30 -->
+<!-- cvid: aid23_bid45 -->

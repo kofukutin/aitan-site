@@ -81,15 +81,19 @@ TOEICでは、道に迷う・物をなくす・情報が失われるなどの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、道に迷う・物をなくす・情報が失われるなどの文
 ## 🤔  missing との違いは？
 
 - **lost**：自分が失った、または道に迷った状態を表す
-- **[missing](/word/missing/)**：本来あるべきものが見当たらない状態を表す
+- **[missing](/missing)**：本来あるべきものが見当たらない状態を表す
 
 「lost」は自分が道に迷ったり、何かを失ったときに使い、「missing」は物や人が行方不明で見つからないときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、道に迷う・物をなくす・情報が失われるなどの文
 
 ## 🧩 あわせて覚えたい
 
-- [confused](/word/confused/)：混乱した、困惑した
-- [found](/word/found/)：見つかった
+- [confused](/confused)：混乱した、困惑した
+- [found](/found)：見つかった
 
 ---
 
 ## 📖 できればこれも
 
-- [late](/word/late/)：遅れた
-- [absent](/word/absent/)：不在の
+- [late](/late)：遅れた
+- [absent](/absent)：不在の
 
-<!-- cvid: aid48_bid17 -->
+<!-- cvid: aid11_bid00 -->

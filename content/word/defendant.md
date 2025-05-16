@@ -81,7 +81,7 @@ TOEICでは契約書や法的文書、裁判に関する長文問題で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このまま習慣化しよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは契約書や法的文書、裁判に関する長文問題で見かけ
 
 <div class="info-center">
 ＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や法的文書、裁判に関する長文問題で見かけ
 ## 🤔  suspect との違いは？
 
 - **defendant**：裁判で訴えられている「被告人」や「被告」
-- **[suspect](/word/suspect/)**：犯罪の「容疑者」、まだ正式に訴えられていない段階
+- **[suspect](/suspect)**：犯罪の「容疑者」、まだ正式に訴えられていない段階
 
 defendantは裁判で訴えられた人、suspectは犯罪の疑いをかけられている人で、法的な立場や段階が異なります。
 
@@ -105,14 +109,14 @@ defendantは裁判で訴えられた人、suspectは犯罪の疑いをかけら�
 
 ## 🧩 あわせて覚えたい
 
-- [plaintiff](/word/plaintiff/)：原告（訴えを起こす側）
-- [accused](/word/accused/)：被告人（刑事事件での被告）
+- [plaintiff](/plaintiff)：原告（訴えを起こす側）
+- [accused](/accused)：被告人（刑事事件での被告）
 
 ---
 
 ## 📖 できればこれも
 
-- [trial](/word/trial/)：裁判、公判
-- [verdict](/word/verdict/)：評決、判決
+- [trial](/trial)：裁判、公判
+- [verdict](/verdict)：評決、判決
 
-<!-- cvid: aid31_bid41 -->
+<!-- cvid: aid29_bid41 -->

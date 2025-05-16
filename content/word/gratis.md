@@ -77,15 +77,19 @@ TOEICでは主にPart 7の広告や案内文などで「無料で」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid29" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid29" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 7の広告や案内文などで「無料で」という意
 ## 🤔  free との違いは？
 
 - **gratis**：フォーマルな場面や書き言葉で「無料で」を表す副詞。
-- **[free](/word/free/)**：日常的で幅広く使える「無料の」「自由な」などの形容詞・副詞。
+- **[free](/free)**：日常的で幅広く使える「無料の」「自由な」などの形容詞・副詞。
 
 「gratis」は特に書き言葉やビジネス文書で使われ、日常会話では「free」が一般的です。
 
@@ -101,14 +105,14 @@ TOEICでは主にPart 7の広告や案内文などで「無料で」という意
 
 ## 🧩 あわせて覚えたい
 
-- [complimentary](/word/complimentary/)：無料の（特にサービスや贈り物として）
-- [charge](/word/charge/)：料金、請求
+- [complimentary](/complimentary)：無料の（特にサービスや贈り物として）
+- [charge](/charge)：料金、請求
 
 ---
 
 ## 📖 できればこれも
 
-- [fee](/word/fee/)：料金、手数料
-- [discount](/word/discount/)：割引
+- [fee](/fee)：料金、手数料
+- [discount](/discount)：割引
 
-<!-- cvid: aid00_bid06 -->
+<!-- cvid: aid41_bid29 -->

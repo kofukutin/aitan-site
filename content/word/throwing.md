@@ -81,15 +81,19 @@ throwingはTOEICのPart 1（写真描写）で、人が何かを投げている�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ throwingはTOEICのPart 1（写真描写）で、人が何かを投げている�
 ## 🤔  pitching との違いは？
 
 - **throwing**：一般的に物を手で投げる動作全般を指す。
-- **[pitching](/word/pitching/)**：特に野球などで「投球する」「ピッチャーとして投げる」意味で使われる。
+- **[pitching](/pitching)**：特に野球などで「投球する」「ピッチャーとして投げる」意味で使われる。
 
 throwingは日常的な「投げる」全般、pitchingはスポーツや特定の場面での「投球」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ throwingは日常的な「投げる」全般、pitchingはスポーツや特定�
 
 ## 🧩 あわせて覚えたい
 
-- [toss](/word/toss/)：軽く投げる
-- [catch](/word/catch/)：つかむ、受け取る
+- [toss](/toss)：軽く投げる
+- [catch](/catch)：つかむ、受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/word/drop/)：落とす
-- [grab](/word/grab/)：つかむ
+- [drop](/drop)：落とす
+- [grab](/grab)：つかむ
 
-<!-- cvid: aid10_bid23 -->
+<!-- cvid: aid35_bid29 -->

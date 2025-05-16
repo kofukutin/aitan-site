@@ -81,15 +81,19 @@ TOEICでは広告やEメール、案内文などで「money（お金、資金）
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid25" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid25" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やEメール、案内文などで「money（お金、資金）
 ## 🤔  cash との違いは？
 
 - **money**：お金全般（現金・預金・資産など広い意味）
-- **[cash](/word/cash/)**：現金（紙幣や硬貨）に限定
+- **[cash](/cash)**：現金（紙幣や硬貨）に限定
 
 moneyは「お金」全体を指し、cashは「手元の現金」に限定されるため、ATMや財布の中身など具体的な現金を表すときはcashを使います。
 
@@ -105,14 +109,14 @@ moneyは「お金」全体を指し、cashは「手元の現金」に限定さ�
 
 ## 🧩 あわせて覚えたい
 
-- [fund](/word/fund/)：資金、基金
-- [income](/word/income/)：収入
+- [fund](/fund)：資金、基金
+- [income](/income)：収入
 
 ---
 
 ## 📖 できればこれも
 
-- [price](/word/price/)：価格
-- [cost](/word/cost/)：費用
+- [price](/price)：価格
+- [cost](/cost)：費用
 
-<!-- cvid: aid43_bid44 -->
+<!-- cvid: aid17_bid25 -->

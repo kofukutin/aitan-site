@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、記事などで「認められた
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、記事などで「認められた
 ## 🤔  admitted との違いは？
 
 - **acknowledged**：広く認められた、公に認知された
-- **[admitted](/word/admitted/)**：しぶしぶ認められた、受け入れられた
+- **[admitted](/admitted)**：しぶしぶ認められた、受け入れられた
 
 「acknowledged」は肯定的・公的な評価を受けた場合に使い、「admitted」は否定的な事実や過ちをしぶしぶ認める場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やメール、記事などで「認められた
 
 ## 🧩 あわせて覚えたい
 
-- [recognized](/word/recognized/)：認められた、評価された
-- [confirmed](/word/confirmed/)：確認された、確定した
+- [recognized](/recognized)：認められた、評価された
+- [confirmed](/confirmed)：確認された、確定した
 
 ---
 
 ## 📖 できればこれも
 
-- [authorized](/word/authorized/)：公認の、権限を与えられた
-- [designated](/word/designated/)：指定された、任命された
+- [authorized](/authorized)：公認の、権限を与えられた
+- [designated](/designated)：指定された、任命された
 
-<!-- cvid: aid48_bid24 -->
+<!-- cvid: aid02_bid25 -->

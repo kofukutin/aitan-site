@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【air】の意味・使い方・例文 ― atmosphereとの違い【TOEIC英単語】"
 description: "airの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでatmosphereとの違いもわかりやすく学べます。"
 word: "air"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「空気」「大気」や「空港」「飛
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「空気」「大気」や「空港」「飛
 ## 🤔  atmosphere との違いは？
 
 - **air**：呼吸できる「空気」や、物理的な「大気」を指す。
-- **[atmosphere](/word/atmosphere/)**：地球全体を包む「大気」や、比喩的に「雰囲気」を強調する。
+- **[atmosphere](/atmosphere)**：地球全体を包む「大気」や、比喩的に「雰囲気」を強調する。
 
 airは日常的な「空気」、atmosphereは科学的・比喩的な「大気」や「雰囲気」に使い分けます。
 
@@ -105,14 +109,14 @@ airは日常的な「空気」、atmosphereは科学的・比喩的な「大気�
 
 ## 🧩 あわせて覚えたい
 
-- [oxygen](/word/oxygen/)：酸素
-- [wind](/word/wind/)：風
+- [oxygen](/oxygen)：酸素
+- [wind](/wind)：風
 
 ---
 
 ## 📖 できればこれも
 
-- [water](/word/water/)：水
-- [cloud](/word/cloud/)：雲
+- [water](/water)：水
+- [cloud](/cloud)：雲
 
-<!-- cvid: aid31_bid42 -->
+<!-- cvid: aid12_bid01 -->

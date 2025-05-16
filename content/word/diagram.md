@@ -81,15 +81,19 @@ TOEICでは主にPart 7の図表付き問題や説明文で登場し、図やフ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の図表付き問題や説明文で登場し、図やフ
 ## 🤔  chart との違いは？
 
 - **diagram**：構造や関係性、仕組みなどを視覚的に示す図や図表
-- **[chart](/word/chart/)**：データや数値をグラフや表で示すもの
+- **[chart](/chart)**：データや数値をグラフや表で示すもの
 
 diagramは構造や流れを説明する図に使い、chartは数値やデータの比較・推移を示すグラフに使います。
 
@@ -105,14 +109,14 @@ diagramは構造や流れを説明する図に使い、chartは数値やデー�
 
 ## 🧩 あわせて覚えたい
 
-- [illustration](/word/illustration/)：イラスト、挿絵
-- [blueprint](/word/blueprint/)：設計図、青写真
+- [illustration](/illustration)：イラスト、挿絵
+- [blueprint](/blueprint)：設計図、青写真
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：図、図形
-- [outline](/word/outline/)：概要、アウトライン
+- [figure](/figure)：図、図形
+- [outline](/outline)：概要、アウトライン
 
-<!-- cvid: aid26_bid47 -->
+<!-- cvid: aid01_bid03 -->

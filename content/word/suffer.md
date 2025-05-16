@@ -81,15 +81,19 @@ sufferは、健康や経済的損失、困難な状況を表す文脈で会話�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ sufferは、健康や経済的損失、困難な状況を表す文脈で会話�
 ## 🤔  undergo との違いは？
 
 - **suffer**：苦しみや損害など、否定的な経験を強調する
-- **[undergo](/word/undergo/)**：治療や変化など、良し悪しに関係なく「経験する」
+- **[undergo](/undergo)**：治療や変化など、良し悪しに関係なく「経験する」
 
 sufferは「つらい思いをする」ことに焦点があり、undergoは単に「何かを受ける・経験する」ときに使います。
 
@@ -105,14 +109,14 @@ sufferは「つらい思いをする」ことに焦点があり、undergoは単�
 
 ## 🧩 あわせて覚えたい
 
-- [endure](/word/endure/)：耐える、我慢する
-- [recover](/word/recover/)：回復する
+- [endure](/endure)：耐える、我慢する
+- [recover](/recover)：回復する
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/word/hurt/)：傷つける、痛む
-- [heal](/word/heal/)：治す、癒す
+- [hurt](/hurt)：傷つける、痛む
+- [heal](/heal)：治す、癒す
 
-<!-- cvid: aid10_bid23 -->
+<!-- cvid: aid01_bid49 -->

@@ -81,15 +81,19 @@ TOEICではグラフや統計、売上報告などの長文で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではグラフや統計、売上報告などの長文で頻出します。
 ## 🤔  proportion との違いは？
 
 - **percentage**：全体に対する「パーセント（%）」で表す割合
-- **[proportion](/word/proportion/)**：全体に対する「比率」や「部分」の意味で、必ずしも%で表すとは限らない
+- **[proportion](/proportion)**：全体に対する「比率」や「部分」の意味で、必ずしも%で表すとは限らない
 
 percentageは数値を%で明示する時に使い、proportionは割合や比率を広く表現する時に使います。
 
@@ -105,14 +109,14 @@ percentageは数値を%で明示する時に使い、proportionは割合や比�
 
 ## 🧩 あわせて覚えたい
 
-- [rate](/word/rate/)：比率、速度
-- [fraction](/word/fraction/)：分数、部分
+- [rate](/rate)：比率、速度
+- [fraction](/fraction)：分数、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/word/amount/)：量、総額
-- [ratio](/word/ratio/)：比率、割合
+- [amount](/amount)：量、総額
+- [ratio](/ratio)：比率、割合
 
-<!-- cvid: aid44_bid21 -->
+<!-- cvid: aid04_bid29 -->

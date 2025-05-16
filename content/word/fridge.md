@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fridge】の意味・使い方・例文 ― refrigeratorとの違い【TOEIC英単語】"
 description: "fridgeの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrefrigeratorとの違いもわかりやすく学べます。"
 word: "fridge"
@@ -81,7 +81,7 @@ TOEICでは主にPart 1の写真描写で、キッチンやオフィスの備品
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+迷いを力に変えよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 1の写真描写で、キッチンやオフィスの備品
 
 <div class="info-center">
 ＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、キッチンやオフィスの備品
 ## 🤔  refrigerator との違いは？
 
 - **fridge**：カジュアルな「冷蔵庫」の言い方。日常会話でよく使う。
-- **[refrigerator](/word/refrigerator/)**：フォーマルまたは正式な「冷蔵庫」。説明書やビジネス文書で使われやすい。
+- **[refrigerator](/refrigerator)**：フォーマルまたは正式な「冷蔵庫」。説明書やビジネス文書で使われやすい。
 
 fridgeはrefrigeratorの略で、親しい間柄や日常会話で使われますが、refrigeratorはよりフォーマルな場面や書き言葉で使われます。
 
@@ -105,14 +109,14 @@ fridgeはrefrigeratorの略で、親しい間柄や日常会話で使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [freezer](/word/freezer/)：冷凍庫
-- [microwave](/word/microwave/)：電子レンジ
+- [freezer](/freezer)：冷凍庫
+- [microwave](/microwave)：電子レンジ
 
 ---
 
 ## 📖 できればこれも
 
-- [oven](/word/oven/)：オーブン
-- [sink](/word/sink/)：流し台
+- [oven](/oven)：オーブン
+- [sink](/sink)：流し台
 
-<!-- cvid: aid14_bid37 -->
+<!-- cvid: aid03_bid37 -->

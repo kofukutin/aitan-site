@@ -80,15 +80,19 @@ The new skincare product helps reduce acne.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The new skincare product helps reduce acne.
 ## 🤔  pimple との違いは？
 
 - **acne**：医学的な「にきび」全般を指し、複数の吹き出物や慢性的な症状にも使う。
-- **[pimple](/word/pimple/)**：単発の「にきび」や「吹き出物」をカジュアルに指す。
+- **[pimple](/pimple)**：単発の「にきび」や「吹き出物」をカジュアルに指す。
 
 acneは医学用語で広範囲や慢性的な症状に、pimpleは日常的に単発のにきびに使います。
 
@@ -104,14 +108,14 @@ acneは医学用語で広範囲や慢性的な症状に、pimpleは日常的に�
 
 ## 🧩 あわせて覚えたい
 
-- [rash](/word/rash/)：発疹
-- [scar](/word/scar/)：傷跡
+- [rash](/rash)：発疹
+- [scar](/scar)：傷跡
 
 ---
 
 ## 📖 できればこれも
 
-- [allergy](/word/allergy/)：アレルギー
-- [treatment](/word/treatment/)：治療
+- [allergy](/allergy)：アレルギー
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid39_bid08 -->
+<!-- cvid: aid33_bid40 -->

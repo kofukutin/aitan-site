@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、広告などで「価格設�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、広告などで「価格設�
 ## 🤔  cost との違いは？
 
 - **pricing**：価格設定や値付けの方法・戦略を指す
-- **[cost](/word/cost/)**：実際にかかる費用や原価を指す
+- **[cost](/cost)**：実際にかかる費用や原価を指す
 
 「pricing」は売り手が決める値付けや戦略、「cost」は買い手や企業が実際に支払う費用や原価を表します。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書やEメール、広告などで「価格設�
 
 ## 🧩 あわせて覚えたい
 
-- [rate](/word/rate/)：（単位あたりの）料金、比率
-- [fee](/word/fee/)：（サービスなどの）料金、手数料
+- [rate](/rate)：（単位あたりの）料金、比率
+- [fee](/fee)：（サービスなどの）料金、手数料
 
 ---
 
 ## 📖 できればこれも
 
-- [discount](/word/discount/)：割引
-- [quotation](/word/quotation/)：見積もり
+- [discount](/discount)：割引
+- [quotation](/quotation)：見積もり
 
-<!-- cvid: aid48_bid04 -->
+<!-- cvid: aid05_bid25 -->

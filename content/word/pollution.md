@@ -81,15 +81,19 @@ The company is working to reduce water pollution.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company is working to reduce water pollution.
 ## 🤔  contamination との違いは？
 
 - **pollution**：主に環境全体の汚染（空気・水・土壌など）を指す
-- **[contamination](/word/contamination/)**：特定の物質や場所への有害物質の混入・汚染を指す
+- **[contamination](/contamination)**：特定の物質や場所への有害物質の混入・汚染を指す
 
 pollutionは広い意味での環境汚染、contaminationは食品や水など特定対象への混入・汚染に使われます。
 
@@ -105,14 +109,14 @@ pollutionは広い意味での環境汚染、contaminationは食品や水など�
 
 ## 🧩 あわせて覚えたい
 
-- [waste](/word/waste/)：廃棄物、ごみ
-- [purification](/word/purification/)：浄化
+- [waste](/waste)：廃棄物、ごみ
+- [purification](/purification)：浄化
 
 ---
 
 ## 📖 できればこれも
 
-- [recycle](/word/recycle/)：リサイクルする
-- [damage](/word/damage/)：損害、被害
+- [recycle](/recycle)：リサイクルする
+- [damage](/damage)：損害、被害
 
-<!-- cvid: aid06_bid35 -->
+<!-- cvid: aid44_bid49 -->

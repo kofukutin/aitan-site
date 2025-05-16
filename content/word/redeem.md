@@ -81,15 +81,19 @@ redeemはTOEICのPart 5で、クーポンやポイントの引き換え、債券
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid44_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ redeemはTOEICのPart 5で、クーポンやポイントの引き換え、債券
 ## 🤔  recover との違いは？
 
 - **redeem**：失った価値や名誉、ポイントなどを「取り戻す」「埋め合わせる」「引き換える」など、フォーマルで限定的な場面で使う。
-- **[recover](/word/recover/)**：健康や損失、データなど「回復する」「取り戻す」と広く使う。
+- **[recover](/recover)**：健康や損失、データなど「回復する」「取り戻す」と広く使う。
 
 redeemは「価値や名誉、ポイントなどを回復・交換する」など限定的・フォーマルな場面で使い、recoverは「健康・損失・データ」など幅広い「回復」に使います。
 
@@ -105,13 +109,13 @@ redeemは「価値や名誉、ポイントなどを回復・交換する」な�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange/)：交換する
-- [compensate](/word/compensate/)：補償する、埋め合わせる
+- [exchange](/exchange)：交換する
+- [compensate](/compensate)：補償する、埋め合わせる
 
 ---
 
 ## 📖 できればこれも
 
-- [refund](/word/refund/)：返金する
-- [replace](/word/replace/)：取り替える、交換する
-<!-- cvid: aid12_bid33 -->
+- [refund](/refund)：返金する
+- [replace](/replace)：取り替える、交換する
+<!-- cvid: aid44_bid15 -->

@@ -82,15 +82,19 @@ imperativeは、TOEICの文法や語彙問題で「必須」「緊急性」を�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ imperativeは、TOEICの文法や語彙問題で「必須」「緊急性」を�
 ## 🤔  mandatory との違いは？
 
 - **imperative**：絶対に必要で、緊急性や重要性が強調される
-- **[mandatory](/word/mandatory/)**：法的・規則的に「義務付けられている」
+- **[mandatory](/mandatory)**：法的・規則的に「義務付けられている」
 
 imperativeは「重要性・緊急性」に重点があり、mandatoryは「規則や法律による義務」で使い分けます。
 
@@ -106,14 +110,14 @@ imperativeは「重要性・緊急性」に重点があり、mandatoryは「規�
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [urgent](/word/urgent/)：緊急の、急を要する
+- [optional](/optional)：任意の、選択できる
+- [urgent](/urgent)：緊急の、急を要する
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、非常に重要な
-- [crucial](/word/crucial/)：極めて重要な
+- [essential](/essential)：不可欠な、非常に重要な
+- [crucial](/crucial)：極めて重要な
 
-<!-- cvid: aid46_bid25 -->
+<!-- cvid: aid04_bid23 -->

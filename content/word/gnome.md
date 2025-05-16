@@ -80,15 +80,19 @@ TOEICでは童話や観光案内、広告文などで登場することがあり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは童話や観光案内、広告文などで登場することがあり
 ## 🤔  dwarf との違いは？
 
 - **gnome**：伝説や童話で地中に住む小さな精霊や小人。主にファンタジーや装飾で使われる。
-- **[dwarf](/word/dwarf/)**：小人全般を指し、特に力強いキャラクターや鉱山労働者として描かれることが多い。
+- **[dwarf](/dwarf)**：小人全般を指し、特に力強いキャラクターや鉱山労働者として描かれることが多い。
 
 gnomeは装飾的・神秘的なイメージ、dwarfは力強さや物理的な特徴が強調される点が異なります。
 
@@ -104,14 +108,14 @@ gnomeは装飾的・神秘的なイメージ、dwarfは力強さや物理的な�
 
 ## 🧩 あわせて覚えたい
 
-- [elf](/word/elf/)：エルフ（森の精霊、耳が尖った妖精）
-- [fairy](/word/fairy/)：妖精（小さな羽のある魔法的存在）
+- [elf](/elf)：エルフ（森の精霊、耳が尖った妖精）
+- [fairy](/fairy)：妖精（小さな羽のある魔法的存在）
 
 ---
 
 ## 📖 できればこれも
 
-- [troll](/word/troll/)：トロール（北欧神話の巨人や怪物）
-- [sprite](/word/sprite/)：スプライト（小さな妖精、精霊）
+- [troll](/troll)：トロール（北欧神話の巨人や怪物）
+- [sprite](/sprite)：スプライト（小さな妖精、精霊）
 
-<!-- cvid: aid20_bid49 -->
+<!-- cvid: aid28_bid27 -->

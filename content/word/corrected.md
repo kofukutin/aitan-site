@@ -81,15 +81,19 @@ TOEICでは、書類やデータの修正・訂正に関する文脈で形容詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類やデータの修正・訂正に関する文脈で形容詞
 ## 🤔  fixed との違いは？
 
 - **corrected**：間違いが訂正・修正されて正しい状態になったことを強調
-- **[fixed](/word/fixed/)**：壊れたものや不具合が「直された」ことを強調
+- **[fixed](/fixed)**：壊れたものや不具合が「直された」ことを強調
 
 「corrected」は誤りやミスが正しく直された場合に使い、「fixed」は物理的な修理や問題の解決に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、書類やデータの修正・訂正に関する文脈で形容詞
 
 ## 🧩 あわせて覚えたい
 
-- [revised](/word/revised/)：改訂された、見直された
-- [amended](/word/amended/)：（文書などが）修正された、改正された
+- [revised](/revised)：改訂された、見直された
+- [amended](/amended)：（文書などが）修正された、改正された
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/word/accurate/)：正確な
-- [adjusted](/word/adjusted/)：調整された
+- [accurate](/accurate)：正確な
+- [adjusted](/adjusted)：調整された
 
-<!-- cvid: aid32_bid00 -->
+<!-- cvid: aid28_bid49 -->

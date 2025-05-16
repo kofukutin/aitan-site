@@ -81,7 +81,7 @@ TOEICでは会話や案内文で「喫煙」「禁煙」などの表現として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+思考が冴えてるときに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは会話や案内文で「喫煙」「禁煙」などの表現として
 
 <div class="info-center">
 ＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や案内文で「喫煙」「禁煙」などの表現として
 ## 🤔  smoke との違いは？
 
 - **smoking**：喫煙という行為や状態を指す
-- **[smoke](/word/smoke/)**：煙そのもの、または「たばこを吸う」という動詞
+- **[smoke](/smoke)**：煙そのもの、または「たばこを吸う」という動詞
 
 smokingは「喫煙」という行為や状態を表し、smokeは「煙」や「たばこを吸う」という動作や物質を指します。
 
@@ -105,14 +109,14 @@ smokingは「喫煙」という行為や状態を表し、smokeは「煙」や�
 
 ## 🧩 あわせて覚えたい
 
-- [cigarette](/word/cigarette/)：たばこ
-- [non smoking](/word/non_smoking/)：禁煙
+- [cigarette](/cigarette)：たばこ
+- [non smoking](/non_smoking)：禁煙
 
 ---
 
 ## 📖 できればこれも
 
-- [drinking](/word/drinking/)：飲酒
-- [eating](/word/eating/)：飲食
+- [drinking](/drinking)：飲酒
+- [eating](/eating)：飲食
 
-<!-- cvid: aid22_bid07 -->
+<!-- cvid: aid15_bid07 -->

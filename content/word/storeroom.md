@@ -81,15 +81,19 @@ storeroomはTOEICの長文読解パートで、オフィスや店舗の説明文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ storeroomはTOEICの長文読解パートで、オフィスや店舗の説明文
 ## 🤔  warehouse との違いは？
 
 - **storeroom**：建物内の比較的小さな物置部屋や貯蔵室
-- **[warehouse](/word/warehouse/)**：大規模な倉庫や物流用の建物
+- **[warehouse](/warehouse)**：大規模な倉庫や物流用の建物
 
 storeroomは家庭やオフィスの一室など小規模な保管場所、warehouseは企業や工場の大きな倉庫を指します。
 
@@ -105,14 +109,14 @@ storeroomは家庭やオフィスの一室など小規模な保管場所、wareh
 
 ## 🧩 あわせて覚えたい
 
-- [closet](/word/closet/)：クローゼット、衣類などを収納する小部屋
-- [storage](/word/storage/)：保管、貯蔵（名詞）
+- [closet](/closet)：クローゼット、衣類などを収納する小部屋
+- [storage](/storage)：保管、貯蔵（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [locker](/word/locker/)：ロッカー、小型の個人用収納箱
-- [cabinet](/word/cabinet/)：キャビネット、戸棚や収納棚
+- [locker](/locker)：ロッカー、小型の個人用収納箱
+- [cabinet](/cabinet)：キャビネット、戸棚や収納棚
 
-<!-- cvid: aid28_bid32 -->
+<!-- cvid: aid43_bid39 -->

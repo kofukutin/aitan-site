@@ -81,15 +81,19 @@ TOEICでは会議や職場の雰囲気、個人の気分について話す場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や職場の雰囲気、個人の気分について話す場面
 ## 🤔  atmosphere との違いは？
 
 - **mood**：人や場の「気分」や「雰囲気」を指し、感情的なニュアンスが強い。
-- **[atmosphere](/word/atmosphere/)**：場所や状況の「空気感」「雰囲気」を広く表し、物理的・抽象的な場面両方で使う。
+- **[atmosphere](/atmosphere)**：場所や状況の「空気感」「雰囲気」を広く表し、物理的・抽象的な場面両方で使う。
 
 moodは主に感情や心理的な状態に焦点を当て、atmosphereは空間全体の雰囲気や環境を表すときに使います。
 
@@ -105,14 +109,14 @@ moodは主に感情や心理的な状態に焦点を当て、atmosphereは空間
 
 ## 🧩 あわせて覚えたい
 
-- [emotion](/word/emotion/)：感情、情緒
-- [tone](/word/tone/)：口調、雰囲気
+- [emotion](/emotion)：感情、情緒
+- [tone](/tone)：口調、雰囲気
 
 ---
 
 ## 📖 できればこれも
 
-- [attitude](/word/attitude/)：態度、考え方
-- [spirit](/word/spirit/)：精神、気分
+- [attitude](/attitude)：態度、考え方
+- [spirit](/spirit)：精神、気分
 
-<!-- cvid: aid09_bid23 -->
+<!-- cvid: aid18_bid31 -->

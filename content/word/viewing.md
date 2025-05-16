@@ -81,7 +81,7 @@ TOEICでは、物件の内覧や展示会の見学など、説明や案内の会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+迷いを力に変えよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、物件の内覧や展示会の見学など、説明や案内の会
 
 <div class="info-center">
 ＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物件の内覧や展示会の見学など、説明や案内の会
 ## 🤔  inspection との違いは？
 
 - **viewing**：見学や鑑賞、特に家や展示物などを「見ること」
-- **[inspection](/word/inspection/)**：検査や点検、細かくチェックすること
+- **[inspection](/inspection)**：検査や点検、細かくチェックすること
 
 「viewing」は主に見学や鑑賞の意味で使われ、楽しみや確認のニュアンスが強いですが、「inspection」は問題がないかを調べるための点検や検査の意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、物件の内覧や展示会の見学など、説明や案内の会
 
 ## 🧩 あわせて覚えたい
 
-- [tour](/word/tour/)：見学、案内
-- [exhibition](/word/exhibition/)：展示会
+- [tour](/tour)：見学、案内
+- [exhibition](/exhibition)：展示会
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、プレゼン
-- [demonstration](/word/demonstration/)：実演、デモ
+- [presentation](/presentation)：発表、プレゼン
+- [demonstration](/demonstration)：実演、デモ
 
-<!-- cvid: aid43_bid21 -->
+<!-- cvid: aid03_bid21 -->

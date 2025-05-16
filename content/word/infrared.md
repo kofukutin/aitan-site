@@ -81,15 +81,19 @@ TOEICでは科学技術や製品説明の文脈で登場することが多い単
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid21" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid21" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術や製品説明の文脈で登場することが多い単
 ## 🤔  ultraviolet との違いは？
 
 - **infrared**：赤より波長が長い「赤外線」のこと。主に熱検知やリモコンなどに使われる。
-- **[ultraviolet](/word/ultraviolet/)**：紫より波長が短い「紫外線」のこと。殺菌や日焼けなどに関係する。
+- **[ultraviolet](/ultraviolet)**：紫より波長が短い「紫外線」のこと。殺菌や日焼けなどに関係する。
 
 infraredは「赤外線」、ultravioletは「紫外線」で、波長の位置や用途が異なります。
 
@@ -105,14 +109,14 @@ infraredは「赤外線」、ultravioletは「紫外線」で、波長の位置�
 
 ## 🧩 あわせて覚えたい
 
-- [thermal](/word/thermal/)：熱の、温度の
-- [visible](/word/visible/)：目に見える
+- [thermal](/thermal)：熱の、温度の
+- [visible](/visible)：目に見える
 
 ---
 
 ## 📖 できればこれも
 
-- [laser](/word/laser/)：レーザー
-- [spectrum](/word/spectrum/)：スペクトル、範囲
+- [laser](/laser)：レーザー
+- [spectrum](/spectrum)：スペクトル、範囲
 
-<!-- cvid: aid04_bid02 -->
+<!-- cvid: aid21_bid21 -->

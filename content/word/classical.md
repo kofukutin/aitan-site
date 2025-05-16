@@ -81,15 +81,19 @@ TOEICでは「classical music」や「classical style」など、形容詞とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「classical music」や「classical style」など、形容詞とし
 ## 🤔  classic との違いは？
 
 - **classical**：歴史的・伝統的な様式や時代、特に古代ギリシャ・ローマやクラシック音楽などを指す
-- **[classic](/word/classic/)**：模範的・代表的・名作の意味で、時代を問わず優れたものに使う
+- **[classic](/classic)**：模範的・代表的・名作の意味で、時代を問わず優れたものに使う
 
 classicalは「伝統や歴史に根ざしたもの」、classicは「時代を超えて評価される名作や代表的なもの」に使い分けます。
 
@@ -105,14 +109,14 @@ classicalは「伝統や歴史に根ざしたもの」、classicは「時代を�
 
 ## 🧩 あわせて覚えたい
 
-- [traditional](/word/traditional/)：伝統的な
-- [modern](/word/modern/)：現代的な
+- [traditional](/traditional)：伝統的な
+- [modern](/modern)：現代的な
 
 ---
 
 ## 📖 できればこれも
 
-- [ancient](/word/ancient/)：古代の
-- [contemporary](/word/contemporary/)：現代の
+- [ancient](/ancient)：古代の
+- [contemporary](/contemporary)：現代の
 
-<!-- cvid: aid16_bid34 -->
+<!-- cvid: aid30_bid38 -->

@@ -81,15 +81,19 @@ TOEICでは、製品説明や手順書、化学・食品関連の文脈で「pow
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品説明や手順書、化学・食品関連の文脈で「pow
 ## 🤔  dust との違いは？
 
 - **powder**：意図的に作られた細かい粉や粉末（例：小麦粉、化粧品の粉）
-- **[dust](/word/dust/)**：自然に発生するほこりや微粒子、汚れの粉
+- **[dust](/dust)**：自然に発生するほこりや微粒子、汚れの粉
 
 powderは用途や目的がある粉末を指し、dustは自然にたまる細かいごみやほこりを指します。
 
@@ -105,14 +109,14 @@ powderは用途や目的がある粉末を指し、dustは自然にたまる細�
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/word/liquid/)：液体
-- [granule](/word/granule/)：粒、顆粒
+- [liquid](/liquid)：液体
+- [granule](/granule)：粒、顆粒
 
 ---
 
 ## 📖 できればこれも
 
-- [solid](/word/solid/)：固体
-- [mixture](/word/mixture/)：混合物
+- [solid](/solid)：固体
+- [mixture](/mixture)：混合物
 
-<!-- cvid: aid23_bid40 -->
+<!-- cvid: aid37_bid01 -->

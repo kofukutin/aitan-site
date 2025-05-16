@@ -81,15 +81,19 @@ TOEIC Part 1の写真描写で、工場やオフィス機器の説明時によ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEIC Part 1の写真描写で、工場やオフィス機器の説明時によ�
 ## 🤔  cylinder との違いは？
 
 - **roller**：転がしたり、塗ったりするための道具や部品
-- **[cylinder](/word/cylinder/)**：円柱形の物体全般（道具に限らない）
+- **[cylinder](/cylinder)**：円柱形の物体全般（道具に限らない）
 
 rollerは「機能的な道具」として使われることが多く、cylinderは「形状」を指す一般的な単語です。
 
@@ -105,14 +109,14 @@ rollerは「機能的な道具」として使われることが多く、cylinder
 
 ## 🧩 あわせて覚えたい
 
-- [wheel](/word/wheel/)：車輪
-- [brush](/word/brush/)：ブラシ
+- [wheel](/wheel)：車輪
+- [brush](/brush)：ブラシ
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：取っ手
-- [machine](/word/machine/)：機械
+- [handle](/handle)：取っ手
+- [machine](/machine)：機械
 
-<!-- cvid: aid19_bid31 -->
+<!-- cvid: aid41_bid45 -->

@@ -81,15 +81,19 @@ TOEICでは会議室やイベント会場、交通機関など「混雑した状
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議室やイベント会場、交通機関など「混雑した状
 ## 🤔  crowded との違いは？
 
 - **packed**：ぎっしり詰まっていて、ほとんど余裕がない状態
-- **[crowded](/word/crowded/)**：人や物が多くて混雑している状態
+- **[crowded](/crowded)**：人や物が多くて混雑している状態
 
 「packed」は「隙間がないほど詰まっている」ニュアンスが強く、「crowded」は「混み合っているが多少の余裕がある」場合にも使えます。
 
@@ -105,14 +109,14 @@ TOEICでは会議室やイベント会場、交通機関など「混雑した状
 
 ## 🧩 あわせて覚えたい
 
-- [full](/word/full/)：満ちている、いっぱいの
-- [empty](/word/empty/)：空の、誰もいない
+- [full](/full)：満ちている、いっぱいの
+- [empty](/empty)：空の、誰もいない
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/word/busy/)：忙しい、混み合っている
-- [available](/word/available/)：利用できる、空いている
+- [busy](/busy)：忙しい、混み合っている
+- [available](/available)：利用できる、空いている
 
-<!-- cvid: aid05_bid28 -->
+<!-- cvid: aid46_bid41 -->

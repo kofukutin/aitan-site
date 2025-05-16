@@ -82,15 +82,19 @@ TOEICでは主に記事や広告文などで「初めての」「最初の」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に記事や広告文などで「初めての」「最初の」と
 ## 🤔  virgin との違いは？
 
 - **maiden**：未婚女性や「初めての」という意味で、フォーマルな場面や文学的表現で使われる。
-- **[virgin](/word/virgin/)**：性的に未経験な人を指し、直接的な意味合いが強い。
+- **[virgin](/virgin)**：性的に未経験な人を指し、直接的な意味合いが強い。
 
 "maiden"は純粋さや新しさを強調し、"virgin"は性的な意味が中心です。場面によって使い分けましょう。
 
@@ -106,14 +110,14 @@ TOEICでは主に記事や広告文などで「初めての」「最初の」と
 
 ## 🧩 あわせて覚えたい
 
-- [spinster](/word/spinster/)：独身女性（やや古風・否定的な響き）
-- [debut](/word/debut/)：初登場、デビュー
+- [spinster](/spinster)：独身女性（やや古風・否定的な響き）
+- [debut](/debut)：初登場、デビュー
 
 ---
 
 ## 📖 できればこれも
 
-- [bride](/word/bride/)：花嫁
-- [novice](/word/novice/)：初心者、未経験者
+- [bride](/bride)：花嫁
+- [novice](/novice)：初心者、未経験者
 
-<!-- cvid: aid36_bid10 -->
+<!-- cvid: aid18_bid36 -->

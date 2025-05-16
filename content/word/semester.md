@@ -81,15 +81,19 @@ TOEICでは大学や教育機関の案内、スケジュール表などの長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは大学や教育機関の案内、スケジュール表などの長文
 ## 🤔  term との違いは？
 
 - **semester**：1年を2分割した「半年間の学期」を指す
-- **[term](/word/term/)**：学期全般を指し、期間の長さは学校や国によって異なる
+- **[term](/term)**：学期全般を指し、期間の長さは学校や国によって異なる
 
 「semester」は特にアメリカで使われる半年間の学期、「term」はより広く「学期」全般を指します。イギリス英語では「term」が一般的です。
 
@@ -105,14 +109,14 @@ TOEICでは大学や教育機関の案内、スケジュール表などの長文
 
 ## 🧩 あわせて覚えたい
 
-- [quarter](/word/quarter/)：4分の1学期（1年を4つに分けた期間）
-- [session](/word/session/)：授業期間、会期
+- [quarter](/quarter)：4分の1学期（1年を4つに分けた期間）
+- [session](/session)：授業期間、会期
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture/)：講義
-- [syllabus](/word/syllabus/)：シラバス、講義概要
+- [lecture](/lecture)：講義
+- [syllabus](/syllabus)：シラバス、講義概要
 
-<!-- cvid: aid10_bid24 -->
+<!-- cvid: aid32_bid43 -->

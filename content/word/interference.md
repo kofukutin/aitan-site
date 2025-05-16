@@ -81,15 +81,19 @@ TOEICでは、ビジネス上の妨害や技術的な「干渉」について説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid38_bid04" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid04" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス上の妨害や技術的な「干渉」について説
 ## 🤔  intervention との違いは？
 
 - **interference**：相手の意志に反して妨げたり、余計に口出しする「干渉」「妨害」
-- **[intervention](/word/intervention/)**：問題解決や状況改善のために積極的に「介入」すること
+- **[intervention](/intervention)**：問題解決や状況改善のために積極的に「介入」すること
 
 interferenceは否定的なニュアンスで「余計な口出し」や「妨害」を指し、interventionは中立～肯定的に「助けるための介入」を表します。
 
@@ -105,14 +109,14 @@ interferenceは否定的なニュアンスで「余計な口出し」や「妨�
 
 ## 🧩 あわせて覚えたい
 
-- [obstacle](/word/obstacle/)：障害、妨げ
-- [disturbance](/word/disturbance/)：混乱、妨害
+- [obstacle](/obstacle)：障害、妨げ
+- [disturbance](/disturbance)：混乱、妨害
 
 ---
 
 ## 📖 できればこれも
 
-- [interrupt](/word/interrupt/)：中断する、邪魔をする
-- [disturb](/word/disturb/)：邪魔をする、妨げる
+- [interrupt](/interrupt)：中断する、邪魔をする
+- [disturb](/disturb)：邪魔をする、妨げる
 
-<!-- cvid: aid04_bid14 -->
+<!-- cvid: aid38_bid04 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7のメールや掲示文、案内文などで「郵便」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のメールや掲示文、案内文などで「郵便」
 ## 🤔  mail との違いは？
 
 - **post**：イギリス英語で「郵便」「郵便物」、または掲示・投稿の意味もある
-- **[mail](/word/mail/)**：アメリカ英語で「郵便」「郵便物」、電子メールの意味も強い
+- **[mail](/mail)**：アメリカ英語で「郵便」「郵便物」、電子メールの意味も強い
 
 postはイギリス英語で使われることが多く、mailはアメリカ英語で一般的です。電子メールの場合はmailが主流です。
 
@@ -105,14 +109,14 @@ postはイギリス英語で使われることが多く、mailはアメリカ英
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice/)：お知らせ、通知
-- [message](/word/message/)：メッセージ、伝言
+- [notice](/notice)：お知らせ、通知
+- [message](/message)：メッセージ、伝言
 
 ---
 
 ## 📖 できればこれも
 
-- [letter](/word/letter/)：手紙
-- [package](/word/package/)：小包
+- [letter](/letter)：手紙
+- [package](/package)：小包
 
-<!-- cvid: aid02_bid08 -->
+<!-- cvid: aid35_bid39 -->

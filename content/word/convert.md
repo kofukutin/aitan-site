@@ -81,15 +81,19 @@ TOEICでは「データを変換する」「書類を別形式にする」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「データを変換する」「書類を別形式にする」など
 ## 🤔  transform との違いは？
 
 - **convert**：用途や形式、状態などを「別のものに変える」ことに重点がある
-- **[transform](/word/transform/)**：形や性質を「大きく変化させる」ことに重点がある
+- **[transform](/transform)**：形や性質を「大きく変化させる」ことに重点がある
 
 convertは「AをBに変える」といった実用的な変換、transformは「劇的な変化」や「姿・性質の大きな変化」に使われます。
 
@@ -105,14 +109,14 @@ convertは「AをBに変える」といった実用的な変換、transformは�
 
 ## 🧩 あわせて覚えたい
 
-- [adapt](/word/adapt/)：適応させる、順応する
-- [modify](/word/modify/)：修正する、変更する
+- [adapt](/adapt)：適応させる、順応する
+- [modify](/modify)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace/)：取り替える、交換する
-- [adjust](/word/adjust/)：調整する、適応させる
+- [replace](/replace)：取り替える、交換する
+- [adjust](/adjust)：調整する、適応させる
 
-<!-- cvid: aid47_bid03 -->
+<!-- cvid: aid31_bid48 -->

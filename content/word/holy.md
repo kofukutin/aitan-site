@@ -81,15 +81,19 @@ The ceremony will be held at a holy site.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The ceremony will be held at a holy site.
 ## 🤔  sacred との違いは？
 
 - **holy**：宗教的に神聖で、信仰の対象として特に敬われるものに使う。
-- **[sacred](/word/sacred/)**：神聖であるが、宗教以外にも「大切に守るべきもの」にも使える。
+- **[sacred](/sacred)**：神聖であるが、宗教以外にも「大切に守るべきもの」にも使える。
 
 「holy」はより宗教的な意味合いが強く、「sacred」は宗教以外の大切なものにも幅広く使われます。
 
@@ -105,14 +109,14 @@ The ceremony will be held at a holy site.
 
 ## 🧩 あわせて覚えたい
 
-- [divine](/word/divine/)：神の、神聖な
-- [profane](/word/profane/)：不敬な、世俗的な
+- [divine](/divine)：神の、神聖な
+- [profane](/profane)：不敬な、世俗的な
 
 ---
 
 ## 📖 できればこれも
 
-- [spiritual](/word/spiritual/)：精神的な、霊的な
-- [religious](/word/religious/)：宗教の、信心深い
+- [spiritual](/spiritual)：精神的な、霊的な
+- [religious](/religious)：宗教の、信心深い
 
-<!-- cvid: aid39_bid36 -->
+<!-- cvid: aid40_bid20 -->

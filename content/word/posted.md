@@ -81,15 +81,19 @@ TOEICでは、メールや掲示文、ウェブサイトの案内文などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや掲示文、ウェブサイトの案内文などで「
 ## 🤔  uploaded との違いは？
 
 - **posted**：情報を公開・掲示すること全般に使い、SNSや掲示板など幅広い場面で使われる。
-- **[uploaded](/word/uploaded/)**：主にファイルやデータをインターネット上にアップロードすることを指す。
+- **[uploaded](/uploaded)**：主にファイルやデータをインターネット上にアップロードすることを指す。
 
 「posted」は内容を公開する行為全般に使い、「uploaded」はデータ転送のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、メールや掲示文、ウェブサイトの案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce/)：発表する、知らせる
-- [publish](/word/publish/)：出版する、公開する
+- [announce](/announce)：発表する、知らせる
+- [publish](/publish)：出版する、公開する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [attach](/word/attach/)：添付する
+- [send](/send)：送る
+- [attach](/attach)：添付する
 
-<!-- cvid: aid42_bid03 -->
+<!-- cvid: aid18_bid00 -->

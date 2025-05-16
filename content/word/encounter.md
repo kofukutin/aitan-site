@@ -82,15 +82,19 @@ TOEICでは会話や説明文で「問題や困難に直面する」「人と出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話や説明文で「問題や困難に直面する」「人と出
 ## 🤔  face との違いは？
 
 - **encounter**：予期せず何かに出会う・直面する（ややフォーマル）
-- **[face](/word/face/)**：困難や問題に「立ち向かう」「直面する」（意識的・直接的）
+- **[face](/face)**：困難や問題に「立ち向かう」「直面する」（意識的・直接的）
 
 encounterは偶然や予期せぬ出会い・問題に使い、faceは意識的に向き合う・対処する場面で使います。
 
@@ -106,14 +110,14 @@ encounterは偶然や予期せぬ出会い・問題に使い、faceは意識的�
 
 ## 🧩 あわせて覚えたい
 
-- [meet](/word/meet/)：会う、出会う（一般的な「会う」）
-- [overcome](/word/overcome/)：克服する、乗り越える
+- [meet](/meet)：会う、出会う（一般的な「会う」）
+- [overcome](/overcome)：克服する、乗り越える
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal/)：対処する、扱う
-- [address](/word/address/)：（問題などに）取り組む、対処する
+- [deal](/deal)：対処する、扱う
+- [address](/address)：（問題などに）取り組む、対処する
 
-<!-- cvid: aid17_bid14 -->
+<!-- cvid: aid01_bid38 -->

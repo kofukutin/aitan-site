@@ -84,8 +84,12 @@ til はTOEICでは until よりも出題頻度は低いですが、カジュア�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid33" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid33" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ til はTOEICでは until よりも出題頻度は低いですが、カジュア�
 ## 🤔  until との違いは？
 
 - **til**：カジュアルな口語表現で「～まで」
-- **[until](/word/until/)**：フォーマル・カジュアル両方で使える「～まで」
+- **[until](/until)**：フォーマル・カジュアル両方で使える「～まで」
 
 til は主に話し言葉やカジュアルな文脈で使われ、until はフォーマル・カジュアル問わず幅広く使われます。
 
@@ -101,14 +105,14 @@ til は主に話し言葉やカジュアルな文脈で使われ、until はフ�
 
 ## 🧩 あわせて覚えたい
 
-- [by](/word/by/)：～までに（期限を強調）
-- [through](/word/through/)：～を通じて、～の間ずっと
+- [by](/by)：～までに（期限を強調）
+- [through](/through)：～を通じて、～の間ずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [since](/word/since/)：～以来、～からずっと
-- [during](/word/during/)：～の間に
+- [since](/since)：～以来、～からずっと
+- [during](/during)：～の間に
 
-<!-- cvid: aid48_bid29 -->
+<!-- cvid: aid48_bid33 -->

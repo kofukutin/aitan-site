@@ -80,15 +80,19 @@ TOEICでは、会議や組織運営に関する長文やEメール文中で「su
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、会議や組織運営に関する長文やEメール文中で「su
 ## 🤔  committee との違いは？
 
 - **subcommittee**：委員会の中の特定の課題を扱う小委員会
-- **[committee](/word/committee/)**：全体の意思決定や運営を担う委員会
+- **[committee](/committee)**：全体の意思決定や運営を担う委員会
 
 subcommitteeはcommitteeの一部で、特定のテーマや業務に特化している点が異なります。
 
@@ -104,14 +108,14 @@ subcommitteeはcommitteeの一部で、特定のテーマや業務に特化し�
 
 ## 🧩 あわせて覚えたい
 
-- [panel](/word/panel/)：専門家などによる審査団・討論グループ
-- [board](/word/board/)：取締役会や理事会などの意思決定機関
+- [panel](/panel)：専門家などによる審査団・討論グループ
+- [board](/board)：取締役会や理事会などの意思決定機関
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/word/agenda/)：議題、会議の予定表
-- [proposal](/word/proposal/)：提案、計画案
+- [agenda](/agenda)：議題、会議の予定表
+- [proposal](/proposal)：提案、計画案
 
-<!-- cvid: aid43_bid44 -->
+<!-- cvid: aid08_bid15 -->

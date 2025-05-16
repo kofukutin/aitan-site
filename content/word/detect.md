@@ -81,15 +81,19 @@ TOEICではITやセキュリティ、品質管理などの文脈で「detect」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやセキュリティ、品質管理などの文脈で「detect」�
 ## 🤔  discover との違いは？
 
 - **detect**：隠れていたり目立たないものを「検出する」「感知する」ニュアンス
-- **[discover](/word/discover/)**：新しいものや未知のものを「発見する」ニュアンス
+- **[discover](/discover)**：新しいものや未知のものを「発見する」ニュアンス
 
 detectは機械や感覚で見つける場合が多く、discoverは知識や経験で新しい事実を見つける時に使います。
 
@@ -105,14 +109,14 @@ detectは機械や感覚で見つける場合が多く、discoverは知識や経
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify/)：特定する、識別する
-- [notice](/word/notice/)：気づく、注意する
+- [identify](/identify)：特定する、識別する
+- [notice](/notice)：気づく、注意する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [monitor](/word/monitor/)：監視する
+- [analyze](/analyze)：分析する
+- [monitor](/monitor)：監視する
 
-<!-- cvid: aid17_bid08 -->
+<!-- cvid: aid39_bid29 -->

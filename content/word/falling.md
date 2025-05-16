@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「何かが落ちている」「下が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「何かが落ちている」「下が
 ## 🤔  dropping との違いは？
 
 - **falling**：自然に落ちる、下がる動作や状態全般を表す。
-- **[dropping](/word/dropping/)**：何かを意図的に落とす、または急激に下がる場合に使う。
+- **[dropping](/dropping)**：何かを意図的に落とす、または急激に下がる場合に使う。
 
 fallingは自然現象や全体的な減少に使われ、droppingは人が物を落とす場合や、急激な変化を強調したいときに使います。
 
@@ -105,14 +109,14 @@ fallingは自然現象や全体的な減少に使われ、droppingは人が物�
 
 ## 🧩 あわせて覚えたい
 
-- [rise](/word/rise/)：上昇する
-- [decline](/word/decline/)：減少する、衰える
+- [rise](/rise)：上昇する
+- [decline](/decline)：減少する、衰える
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/word/drop/)：落とす、下がる
-- [decrease](/word/decrease/)：減少する
+- [drop](/drop)：落とす、下がる
+- [decrease](/decrease)：減少する
 
-<!-- cvid: aid02_bid27 -->
+<!-- cvid: aid22_bid46 -->

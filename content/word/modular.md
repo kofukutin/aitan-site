@@ -81,15 +81,19 @@ TOEICではITやビジネス分野の説明文や製品紹介で見かけるこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid43_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス分野の説明文や製品紹介で見かけるこ�
 ## 🤔  flexible との違いは？
 
 - **modular**：部品や要素が独立していて、組み合わせや交換ができる構造を強調
-- **[flexible](/word/flexible/)**：柔軟性があり、状況や用途に応じて変化できることを強調
+- **[flexible](/flexible)**：柔軟性があり、状況や用途に応じて変化できることを強調
 
 「modular」は物理的・構造的な分割や組み合わせのしやすさを指し、「flexible」は用途や対応の幅広さ・柔軟さを指します。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス分野の説明文や製品紹介で見かけるこ�
 
 ## 🧩 あわせて覚えたい
 
-- [component](/word/component/)：構成要素、部品
-- [integrated](/word/integrated/)：統合された、一体化した
+- [component](/component)：構成要素、部品
+- [integrated](/integrated)：統合された、一体化した
 
 ---
 
 ## 📖 できればこれも
 
-- [customizable](/word/customizable/)：カスタマイズ可能な
-- [adaptable](/word/adaptable/)：適応できる、順応性のある
+- [customizable](/customizable)：カスタマイズ可能な
+- [adaptable](/adaptable)：適応できる、順応性のある
 
-<!-- cvid: aid03_bid10 -->
+<!-- cvid: aid43_bid00 -->

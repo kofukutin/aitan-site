@@ -81,15 +81,19 @@ TOEICでは、研修や教育、進行の流れに関する会話や説明でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、研修や教育、進行の流れに関する会話や説明でよ
 ## 🤔  route との違いは？
 
 - **course**：学習や進行の「課程」「コース」「流れ」を表す。
-- **[route](/word/route/)**：物理的な「道筋」「経路」を表す。
+- **[route](/route)**：物理的な「道筋」「経路」を表す。
 
 courseは抽象的な流れや教育課程に使い、routeは実際の道やルートに使います。
 
@@ -105,14 +109,14 @@ courseは抽象的な流れや教育課程に使い、routeは実際の道やル
 
 ## 🧩 あわせて覚えたい
 
-- [path](/word/path/)：小道、進路
-- [curriculum](/word/curriculum/)：カリキュラム、教育課程
+- [path](/path)：小道、進路
+- [curriculum](/curriculum)：カリキュラム、教育課程
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject/)：科目、主題
-- [direction](/word/direction/)：方向、指示
+- [subject](/subject)：科目、主題
+- [direction](/direction)：方向、指示
 
-<!-- cvid: aid23_bid42 -->
+<!-- cvid: aid29_bid14 -->

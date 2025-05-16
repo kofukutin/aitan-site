@@ -81,15 +81,19 @@ TOEICでは、設備や機器の設置状況を説明する場面で「mounted�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、設備や機器の設置状況を説明する場面で「mounted�
 ## 🤔  installed との違いは？
 
 - **mounted**：物理的にしっかりと取り付けられている状態を強調
-- **[installed](/word/installed/)**：機器やソフトウェアが設置・導入された状態全般を指す
+- **[installed](/installed)**：機器やソフトウェアが設置・導入された状態全般を指す
 
 「mounted」は壁や天井などにしっかり固定されているニュアンスが強く、「installed」は設置や導入が完了した広い意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、設備や機器の設置状況を説明する場面で「mounted�
 
 ## 🧩 あわせて覚えたい
 
-- [attached](/word/attached/)：取り付けられた、付属した
-- [fixed](/word/fixed/)：固定された、しっかりと動かないようにされた
+- [attached](/attached)：取り付けられた、付属した
+- [fixed](/fixed)：固定された、しっかりと動かないようにされた
 
 ---
 
 ## 📖 できればこれも
 
-- [connected](/word/connected/)：接続された
-- [configured](/word/configured/)：設定された
+- [connected](/connected)：接続された
+- [configured](/configured)：設定された
 
-<!-- cvid: aid32_bid16 -->
+<!-- cvid: aid29_bid31 -->

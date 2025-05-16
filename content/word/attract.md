@@ -81,15 +81,19 @@ TOEICでは、商品やサービスが顧客を「引きつける」場面や、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品やサービスが顧客を「引きつける」場面や、
 ## 🤔  appeal との違いは？
 
 - **attract**：物理的・心理的に「引きつける」こと全般に使う
-- **[appeal](/word/appeal/)**：感情や興味に「訴える」「魅力を感じさせる」ニュアンス
+- **[appeal](/appeal)**：感情や興味に「訴える」「魅力を感じさせる」ニュアンス
 
 attractは「引き寄せる」動作や現象全般に使い、appealは「心に訴える」「魅力を感じさせる」時に使います。
 
@@ -105,14 +109,14 @@ attractは「引き寄せる」動作や現象全般に使い、appealは「心�
 
 ## 🧩 あわせて覚えたい
 
-- [repel](/word/repel/)：追い払う、寄せ付けない
-- [draw](/word/draw/)：引く、引き寄せる
+- [repel](/repel)：追い払う、寄せ付けない
+- [draw](/draw)：引く、引き寄せる
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/word/invite/)：招待する、誘う
-- [impress](/word/impress/)：感銘を与える、印象づける
+- [invite](/invite)：招待する、誘う
+- [impress](/impress)：感銘を与える、印象づける
 
-<!-- cvid: aid42_bid12 -->
+<!-- cvid: aid10_bid10 -->

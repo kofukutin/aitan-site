@@ -81,7 +81,7 @@ TOEICでは、研究機関や教育機関、専門団体の名称や説明文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた自分を信じよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、研究機関や教育機関、専門団体の名称や説明文で
 
 <div class="info-center">
 ＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、研究機関や教育機関、専門団体の名称や説明文で
 ## 🤔  organization との違いは？
 
 - **institute**：特定の目的（研究・教育など）のために設立された専門的な機関や団体
-- **[organization](/word/organization/)**：目的や規模を問わず、あらゆる種類の組織全般
+- **[organization](/organization)**：目的や規模を問わず、あらゆる種類の組織全般
 
 instituteは「専門性・研究・教育」に特化した機関を指し、organizationは一般的な組織全体を広く指します。
 
@@ -105,14 +109,14 @@ instituteは「専門性・研究・教育」に特化した機関を指し、or
 
 ## 🧩 あわせて覚えたい
 
-- [foundation](/word/foundation/)：財団、設立
-- [academy](/word/academy/)：学会、専門学校
+- [foundation](/foundation)：財団、設立
+- [academy](/academy)：学会、専門学校
 
 ---
 
 ## 📖 できればこれも
 
-- [association](/word/association/)：協会、団体
-- [committee](/word/committee/)：委員会
+- [association](/association)：協会、団体
+- [committee](/committee)：委員会
 
-<!-- cvid: aid38_bid41 -->
+<!-- cvid: aid49_bid41 -->

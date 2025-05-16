@@ -81,15 +81,19 @@ TOEICでは飲食やサービスの会話で「セット」や「組み合わせ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは飲食やサービスの会話で「セット」や「組み合わせ
 ## 🤔  set との違いは？
 
 - **combo**：カジュアルで、特に飲食やサービスの「お得な組み合わせ」に使う
-- **[set](/word/set/)**：より一般的で、物や道具など幅広い「セット」に使える
+- **[set](/set)**：より一般的で、物や道具など幅広い「セット」に使える
 
 comboは「セットメニュー」などカジュアルな場面で使われ、setはよりフォーマルで幅広い用途に使われます。
 
@@ -105,14 +109,14 @@ comboは「セットメニュー」などカジュアルな場面で使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [package](/word/package/)：パッケージ、包装された商品や一式
-- [bundle](/word/bundle/)：束、複数をまとめたもの
+- [package](/package)：パッケージ、包装された商品や一式
+- [bundle](/bundle)：束、複数をまとめたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/word/option/)：選択肢
-- [plan](/word/plan/)：計画、プラン
+- [option](/option)：選択肢
+- [plan](/plan)：計画、プラン
 
-<!-- cvid: aid37_bid47 -->
+<!-- cvid: aid46_bid05 -->

@@ -81,15 +81,19 @@ TOEICでは「手段」「措置」「基準」などの意味で頻出し、特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「手段」「措置」「基準」などの意味で頻出し、特
 ## 🤔  assess との違いは？
 
 - **measure**：手段・措置・基準など「何かを実行するための方法や基準」を指す
-- **[assess](/word/assess/)**：評価する、査定するなど「価値や状況を判断すること」を指す
+- **[assess](/assess)**：評価する、査定するなど「価値や状況を判断すること」を指す
 
 measureは「実際に取る行動や基準」、assessは「評価・判断する行為」に使い分けます。
 
@@ -105,14 +109,14 @@ measureは「実際に取る行動や基準」、assessは「評価・判断す�
 
 ## 🧩 あわせて覚えたい
 
-- [evaluate](/word/evaluate/)：評価する
-- [standard](/word/standard/)：基準、標準
+- [evaluate](/evaluate)：評価する
+- [standard](/standard)：基準、標準
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [method](/word/method/)：方法、やり方
+- [policy](/policy)：方針、政策
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid39_bid35 -->
+<!-- cvid: aid26_bid03 -->

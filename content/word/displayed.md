@@ -81,15 +81,19 @@ TOEICでは、画面や資料に「表示された」内容について問う設
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、画面や資料に「表示された」内容について問う設
 ## 🤔  show との違いは？
 
 - **displayed**：情報や物を「見えるように表示・展示した」ことをややフォーマルに表現
-- **[show](/word/show/)**：もっと広く「見せる」「示す」をカジュアルに表現
+- **[show](/show)**：もっと広く「見せる」「示す」をカジュアルに表現
 
 「displayed」は特に画面や展示などで「見せる」ことを強調し、showは日常的な「見せる」に幅広く使います。
 
@@ -105,14 +109,14 @@ TOEICでは、画面や資料に「表示された」内容について問う設
 
 ## 🧩 あわせて覚えたい
 
-- [present](/word/present/)：提示する、発表する
-- [exhibit](/word/exhibit/)：展示する、公開する
+- [present](/present)：提示する、発表する
+- [exhibit](/exhibit)：展示する、公開する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [update](/word/update/)：更新する
+- [install](/install)：インストールする、設置する
+- [update](/update)：更新する
 
-<!-- cvid: aid24_bid33 -->
+<!-- cvid: aid29_bid15 -->

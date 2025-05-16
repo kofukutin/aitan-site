@@ -81,15 +81,19 @@ TOEICでは会議室やオフィスの設備、施設の説明などで「lighti
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議室やオフィスの設備、施設の説明などで「lighti
 ## 🤔  illumination との違いは？
 
 - **lighting**：照明設備や照明の状態を指し、実用的な場面で使われることが多い
-- **[illumination](/word/illumination/)**：光で照らすこと自体や、特別なライトアップなどややフォーマル・抽象的な場面で使われる
+- **[illumination](/illumination)**：光で照らすこと自体や、特別なライトアップなどややフォーマル・抽象的な場面で使われる
 
 lightingは日常的な「照明」や「照明設備」を指し、illuminationは「照らすこと」や「ライトアップ」など特別な演出や抽象的な意味合いで使われます。
 
@@ -105,14 +109,14 @@ lightingは日常的な「照明」や「照明設備」を指し、illumination
 
 ## 🧩 あわせて覚えたい
 
-- [fixture](/word/fixture/)：備品、器具
-- [brightness](/word/brightness/)：明るさ
+- [fixture](/fixture)：備品、器具
+- [brightness](/brightness)：明るさ
 
 ---
 
 ## 📖 できればこれも
 
-- [equipment](/word/equipment/)：設備、機器
-- [facility](/word/facility/)：施設、設備
+- [equipment](/equipment)：設備、機器
+- [facility](/facility)：施設、設備
 
-<!-- cvid: aid20_bid45 -->
+<!-- cvid: aid48_bid23 -->

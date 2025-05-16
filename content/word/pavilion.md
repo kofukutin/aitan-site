@@ -81,15 +81,19 @@ The company set up a pavilion at the international trade fair.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company set up a pavilion at the international trade fair.
 ## 🤔  hall との違いは？
 
 - **pavilion**：公園や展示会場などの仮設・軽量な建物や休憩所
-- **[hall](/word/hall/)**：大きな屋内空間や集会所、講堂など恒久的な建物
+- **[hall](/hall)**：大きな屋内空間や集会所、講堂など恒久的な建物
 
 pavilionは一時的・屋外的な建物に使われ、hallは恒久的な大きな建物や室内空間に使われます。
 
@@ -105,14 +109,14 @@ pavilionは一時的・屋外的な建物に使われ、hallは恒久的な大�
 
 ## 🧩 あわせて覚えたい
 
-- [booth](/word/booth/)：小さな展示ブース、屋台
-- [tent](/word/tent/)：テント、仮設の布製建物
+- [booth](/booth)：小さな展示ブース、屋台
+- [tent](/tent)：テント、仮設の布製建物
 
 ---
 
 ## 📖 できればこれも
 
-- [exhibit](/word/exhibit/)：展示、展示品
-- [structure](/word/structure/)：構造物、建造物
+- [exhibit](/exhibit)：展示、展示品
+- [structure](/structure)：構造物、建造物
 
-<!-- cvid: aid04_bid32 -->
+<!-- cvid: aid39_bid20 -->

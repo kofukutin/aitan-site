@@ -81,15 +81,19 @@ TOEICでは、オフィスや工場の設備説明、資源管理などの文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや工場の設備説明、資源管理などの文脈
 ## 🤔  exhaust との違いは？
 
 - **drain**：液体や資源などが「流れ出る」「徐々になくなる」ことを表す
-- **[exhaust](/word/exhaust/)**：資源や体力などを「完全に使い果たす」「枯渇させる」ことを強調
+- **[exhaust](/exhaust)**：資源や体力などを「完全に使い果たす」「枯渇させる」ことを強調
 
 「drain」は徐々に減っていくニュアンス、「exhaust」は完全に使い切る強さがあります。
 
@@ -105,14 +109,14 @@ TOEICでは、オフィスや工場の設備説明、資源管理などの文脈
 
 ## 🧩 あわせて覚えたい
 
-- [leak](/word/leak/)：漏れる、漏らす
-- [fill](/word/fill/)：満たす、いっぱいにする
+- [leak](/leak)：漏れる、漏らす
+- [fill](/fill)：満たす、いっぱいにする
 
 ---
 
 ## 📖 できればこれも
 
-- [pour](/word/pour/)：注ぐ、流し込む
-- [collect](/word/collect/)：集める
+- [pour](/pour)：注ぐ、流し込む
+- [collect](/collect)：集める
 
-<!-- cvid: aid49_bid13 -->
+<!-- cvid: aid09_bid28 -->

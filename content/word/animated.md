@@ -81,15 +81,19 @@ animatedは、TOEICの会話パートで「活気のある議論」や「生き�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ animatedは、TOEICの会話パートで「活気のある議論」や「生き�
 ## 🤔  lively との違いは？
 
 - **animated**：活気があり、感情や動きが強調される様子
-- **[lively](/word/lively/)**：元気でにぎやかな雰囲気や場所、人を表す
+- **[lively](/lively)**：元気でにぎやかな雰囲気や場所、人を表す
 
 animatedは特に「感情や動きがはっきり表れる」場面で使い、livelyは「全体的に元気で明るい」雰囲気に使います。
 
@@ -105,14 +109,14 @@ animatedは特に「感情や動きがはっきり表れる」場面で使い、
 
 ## 🧩 あわせて覚えたい
 
-- [dynamic](/word/dynamic/)：動的な、活発な
-- [enthusiastic](/word/enthusiastic/)：熱心な、熱意のある
+- [dynamic](/dynamic)：動的な、活発な
+- [enthusiastic](/enthusiastic)：熱心な、熱意のある
 
 ---
 
 ## 📖 できればこれも
 
-- [energetic](/word/energetic/)：エネルギッシュな
-- [passionate](/word/passionate/)：情熱的な
+- [energetic](/energetic)：エネルギッシュな
+- [passionate](/passionate)：情熱的な
 
-<!-- cvid: aid16_bid04 -->
+<!-- cvid: aid14_bid21 -->

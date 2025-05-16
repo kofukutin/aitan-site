@@ -82,15 +82,19 @@ TOEICでは主にビジネスや競争の文脈で「打ち負かす」「敗北
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にビジネスや競争の文脈で「打ち負かす」「敗北
 ## 🤔  beat との違いは？
 
 - **defeat**：相手を完全に打ち負かす、公式な勝利を強調
-- **[beat](/word/beat/)**：単に相手より優れる、カジュアルな「勝つ」
+- **[beat](/beat)**：単に相手より優れる、カジュアルな「勝つ」
 
 「defeat」はフォーマルで公式な場面や大きな勝負に使われやすく、「beat」は日常的な「勝つ」にも幅広く使われます。
 
@@ -106,14 +110,14 @@ TOEICでは主にビジネスや競争の文脈で「打ち負かす」「敗北
 
 ## 🧩 あわせて覚えたい
 
-- [win](/word/win/)：勝つ
-- [lose](/word/lose/)：負ける
+- [win](/win)：勝つ
+- [lose](/lose)：負ける
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [overcome](/word/overcome/)：克服する
+- [achieve](/achieve)：達成する
+- [overcome](/overcome)：克服する
 
-<!-- cvid: aid05_bid09 -->
+<!-- cvid: aid38_bid27 -->

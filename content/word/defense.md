@@ -81,15 +81,19 @@ TOEICではビジネスやIT関連の記事、または会社の方針説明な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスやIT関連の記事、または会社の方針説明な�
 ## 🤔  protection との違いは？
 
 - **defense**：攻撃や批判など「外からの脅威」に対して守る行為や仕組みを指す
-- **[protection](/word/protection/)**：広く「危険や損害から守ること」全般を指す
+- **[protection](/protection)**：広く「危険や損害から守ること」全般を指す
 
 defenseは「防御のための行動や体制」に焦点があり、protectionは「安全を保つこと」自体に重点があります。
 
@@ -105,14 +109,14 @@ defenseは「防御のための行動や体制」に焦点があり、protection
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/word/attack/)：攻撃
-- [security](/word/security/)：安全、警備
+- [attack](/attack)：攻撃
+- [security](/security)：安全、警備
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy/)：戦略
-- [policy](/word/policy/)：方針
+- [strategy](/strategy)：戦略
+- [policy](/policy)：方針
 
-<!-- cvid: aid17_bid04 -->
+<!-- cvid: aid47_bid02 -->

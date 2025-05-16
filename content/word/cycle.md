@@ -81,15 +81,19 @@ TOEICでは、ビジネスの流れや工程、経済活動の「サイクル」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスの流れや工程、経済活動の「サイクル」
 ## 🤔  period との違いは？
 
 - **cycle**：繰り返し起こる一連の流れや循環を強調
-- **[period](/word/period/)**：特定の「期間」や「時期」を指す
+- **[period](/period)**：特定の「期間」や「時期」を指す
 
 cycleは「繰り返し」や「循環」のニュアンスがあり、periodは単なる「区切られた時間」を表します。
 
@@ -105,14 +109,14 @@ cycleは「繰り返し」や「循環」のニュアンスがあり、periodは
 
 ## 🧩 あわせて覚えたい
 
-- [sequence](/word/sequence/)：順序、連続
-- [phase](/word/phase/)：段階、局面
+- [sequence](/sequence)：順序、連続
+- [phase](/phase)：段階、局面
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、プロセス
-- [pattern](/word/pattern/)：パターン、型
+- [process](/process)：過程、プロセス
+- [pattern](/pattern)：パターン、型
 
-<!-- cvid: aid47_bid21 -->
+<!-- cvid: aid06_bid06 -->

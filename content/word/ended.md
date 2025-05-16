@@ -81,15 +81,19 @@ TOEICでは会議やイベントの終了を表す場面でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの終了を表す場面でよく登場します
 ## 🤔  finished との違いは？
 
 - **ended**：単に「終わった」「終了した」という事実を表す。
-- **[finished](/word/finished/)**：やるべきことを「やり終えた」「完成させた」という達成感がある。
+- **[finished](/finished)**：やるべきことを「やり終えた」「完成させた」という達成感がある。
 
 endedは出来事や状態の終了を示し、finishedは作業や課題をやり遂げたニュアンスが強いです。
 
@@ -105,14 +109,14 @@ endedは出来事や状態の終了を示し、finishedは作業や課題をや�
 
 ## 🧩 あわせて覚えたい
 
-- [terminate](/word/terminate/)：正式に終わらせる、打ち切る
-- [conclude](/word/conclude/)：締めくくる、結論づける
+- [terminate](/terminate)：正式に終わらせる、打ち切る
+- [conclude](/conclude)：締めくくる、結論づける
 
 ---
 
 ## 📖 できればこれも
 
-- [start](/word/start/)：始める
-- [begin](/word/begin/)：始まる、始める
+- [start](/start)：始める
+- [begin](/begin)：始まる、始める
 
-<!-- cvid: aid21_bid01 -->
+<!-- cvid: aid39_bid33 -->

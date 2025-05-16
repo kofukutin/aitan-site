@@ -81,15 +81,19 @@ TOEICでは、書類や計画、仕様などの「修正」「変更」を表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類や計画、仕様などの「修正」「変更」を表す
 ## 🤔  adjustment との違いは？
 
 - **modification**：もとのものに手を加えて部分的に変更・修正すること
-- **[adjustment](/word/adjustment/)**：状況や条件に合わせて微調整すること
+- **[adjustment](/adjustment)**：状況や条件に合わせて微調整すること
 
 modificationは「内容や構造を変える」イメージが強く、adjustmentは「細かい調整」や「適応」のニュアンスが中心です。
 
@@ -105,14 +109,14 @@ modificationは「内容や構造を変える」イメージが強く、adjustme
 
 ## 🧩 あわせて覚えたい
 
-- [revision](/word/revision/)：改訂、修正版
-- [alteration](/word/alteration/)：変更、改変
+- [revision](/revision)：改訂、修正版
+- [alteration](/alteration)：変更、改変
 
 ---
 
 ## 📖 できればこれも
 
-- [amendment](/word/amendment/)：修正、改正（特に法律や契約書で使う）
-- [update](/word/update/)：更新、最新情報
+- [amendment](/amendment)：修正、改正（特に法律や契約書で使う）
+- [update](/update)：更新、最新情報
 
-<!-- cvid: aid47_bid33 -->
+<!-- cvid: aid05_bid21 -->

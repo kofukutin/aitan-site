@@ -80,15 +80,19 @@ TOEICでは、オフィスや家庭の設備に関する会話や説明で「bul
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、オフィスや家庭の設備に関する会話や説明で「bul
 ## 🤔  lamp との違いは？
 
 - **bulb**：電球や球根など、丸い形状の「中身」や「部品」を指す
-- **[lamp](/word/lamp/)**：照明器具全体やランプ本体を指す
+- **[lamp](/lamp)**：照明器具全体やランプ本体を指す
 
 bulbは「電球」そのもの、lampは「照明器具」全体を指すので、使い分けに注意しましょう。
 
@@ -104,14 +108,14 @@ bulbは「電球」そのもの、lampは「照明器具」全体を指すので
 
 ## 🧩 あわせて覚えたい
 
-- [tube](/word/tube/)：管、チューブ
-- [socket](/word/socket/)：ソケット、差込口
+- [tube](/tube)：管、チューブ
+- [socket](/socket)：ソケット、差込口
 
 ---
 
 ## 📖 できればこれも
 
-- [wire](/word/wire/)：ワイヤー、電線
-- [switch](/word/switch/)：スイッチ
+- [wire](/wire)：ワイヤー、電線
+- [switch](/switch)：スイッチ
 
-<!-- cvid: aid10_bid02 -->
+<!-- cvid: aid44_bid49 -->

@@ -81,15 +81,19 @@ TOEICでは、質問への返答や確認の場面でよく登場します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、質問への返答や確認の場面でよく登場します。特
 ## 🤔  certain との違いは？
 
 - **sure**：話し手の主観的な確信や気軽な同意を表す
-- **[certain](/word/certain/)**：より客観的・フォーマルに「確実」「間違いない」と述べる
+- **[certain](/certain)**：より客観的・フォーマルに「確実」「間違いない」と述べる
 
 sureは日常会話で「もちろん」「大丈夫」と気軽に使われ、certainは書き言葉やフォーマルな場面で使われやすいです。
 
@@ -105,14 +109,14 @@ sureは日常会話で「もちろん」「大丈夫」と気軽に使われ、c
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/word/confident/)：自信がある
-- [positive](/word/positive/)：確信している、前向きな
+- [confident](/confident)：自信がある
+- [positive](/positive)：確信している、前向きな
 
 ---
 
 ## 📖 できればこれも
 
-- [clear](/word/clear/)：明確な
-- [safe](/word/safe/)：安全な
+- [clear](/clear)：明確な
+- [safe](/safe)：安全な
 
-<!-- cvid: aid17_bid27 -->
+<!-- cvid: aid23_bid20 -->

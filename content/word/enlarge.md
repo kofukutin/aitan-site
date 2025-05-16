@@ -81,15 +81,19 @@ TOEICでは、enlargeは主に文法や語彙問題で「拡大する」「広�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、enlargeは主に文法や語彙問題で「拡大する」「広�
 ## 🤔  expand との違いは？
 
 - **enlarge**：物理的な大きさや範囲を拡大することに主に使う
-- **[expand](/word/expand/)**：規模や範囲、内容など抽象的なものも広げる
+- **[expand](/expand)**：規模や範囲、内容など抽象的なものも広げる
 
 enlargeは「目に見えるものを大きくする」ニュアンスが強く、expandは「事業や活動範囲など抽象的なものを広げる」ときにも使います。
 
@@ -105,14 +109,14 @@ enlargeは「目に見えるものを大きくする」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [reduce](/word/reduce/)：減らす、縮小する
-- [magnify](/word/magnify/)：（レンズなどで）拡大する
+- [reduce](/reduce)：減らす、縮小する
+- [magnify](/magnify)：（レンズなどで）拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [extend](/word/extend/)：延長する、広げる
-- [increase](/word/increase/)：増やす、増加する
+- [extend](/extend)：延長する、広げる
+- [increase](/increase)：増やす、増加する
 
-<!-- cvid: aid13_bid13 -->
+<!-- cvid: aid32_bid39 -->

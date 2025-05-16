@@ -88,8 +88,12 @@ semiはTOEICの語彙問題や説明文で、接頭辞として「半～」「�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ semiはTOEICの語彙問題や説明文で、接頭辞として「半～」「�
 ## 🤔  partial との違いは？
 
 - **semi**：半分の、または半分に近い部分的な状態を表す
-- **[partial](/word/partial/)**：一部の、全体の一部分であることを強調
+- **[partial](/partial)**：一部の、全体の一部分であることを強調
 
 semiは「半分」や「半～」の意味が強く、partialは「一部」や「部分的」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ semiは「半分」や「半～」の意味が強く、partialは「一部」や
 
 ## 🧩 あわせて覚えたい
 
-- [half](/word/half/)：半分
-- [quasi](/word/quasi/)：準～、ほぼ～
+- [half](/half)：半分
+- [quasi](/quasi)：準～、ほぼ～
 
 ---
 
 ## 📖 できればこれも
 
-- [partial](/word/partial/)：部分的な
-- [halfway](/word/halfway/)：途中で、半分だけ
+- [partial](/partial)：部分的な
+- [halfway](/halfway)：途中で、半分だけ
 
-<!-- cvid: aid30_bid41 -->
+<!-- cvid: aid30_bid32 -->

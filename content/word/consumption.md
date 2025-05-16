@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やレポート、環境問題に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やレポート、環境問題に関する長
 ## 🤔  expenditure との違いは？
 
 - **consumption**：物やエネルギーなどを実際に使う・消費すること
-- **[expenditure](/word/expenditure/)**：主にお金や資源の「支出」「費用」を指す
+- **[expenditure](/expenditure)**：主にお金や資源の「支出」「費用」を指す
 
 consumptionは「使う行為」自体を強調し、expenditureは「支払った金額や費用」に焦点を当てます。
 
@@ -105,14 +109,14 @@ consumptionは「使う行為」自体を強調し、expenditureは「支払っ�
 
 ## 🧩 あわせて覚えたい
 
-- [usage](/word/usage/)：使用、利用
-- [production](/word/production/)：生産
+- [usage](/usage)：使用、利用
+- [production](/production)：生産
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense/)：費用、出費
-- [utilize](/word/utilize/)：活用する、利用する
+- [expense](/expense)：費用、出費
+- [utilize](/utilize)：活用する、利用する
 
-<!-- cvid: aid08_bid16 -->
+<!-- cvid: aid35_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは主に工場や建物の写真描写で「pipe」が登場し、水�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に工場や建物の写真描写で「pipe」が登場し、水�
 ## 🤔  tube との違いは？
 
 - **pipe**：主に建物や工場などで使われる太めの管、配管全般を指す
-- **[tube](/word/tube/)**：細長く柔らかいチューブや、医療・理科実験などで使う細い管を指す
+- **[tube](/tube)**：細長く柔らかいチューブや、医療・理科実験などで使う細い管を指す
 
 pipeはインフラや建築、工業用途のしっかりした管を指し、tubeは柔らかい素材や細い管、医療・理科用途で使われることが多いです。
 
@@ -105,14 +109,14 @@ pipeはインフラや建築、工業用途のしっかりした管を指し、t
 
 ## 🧩 あわせて覚えたい
 
-- [hose](/word/hose/)：ホース（柔らかくて水を通す管）
-- [wire](/word/wire/)：ワイヤー、針金（電気や信号を通す細い金属線）
+- [hose](/hose)：ホース（柔らかくて水を通す管）
+- [wire](/wire)：ワイヤー、針金（電気や信号を通す細い金属線）
 
 ---
 
 ## 📖 できればこれも
 
-- [valve](/word/valve/)：バルブ、弁（流れを制御する装置）
-- [cable](/word/cable/)：ケーブル（電気や信号を伝える太い線）
+- [valve](/valve)：バルブ、弁（流れを制御する装置）
+- [cable](/cable)：ケーブル（電気や信号を伝える太い線）
 
-<!-- cvid: aid34_bid02 -->
+<!-- cvid: aid29_bid20 -->

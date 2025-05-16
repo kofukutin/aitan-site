@@ -80,15 +80,19 @@ TOEICでは、法務や社会問題を扱う長文で「prisoner」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、法務や社会問題を扱う長文で「prisoner」が登場す�
 ## 🤔  inmate との違いは？
 
 - **prisoner**：犯罪や戦争などで拘束されている人全般を指す。
-- **[inmate](/word/inmate/)**：刑務所や施設の「入所者」「同居人」を指し、特に刑務所の収容者を意味する。
+- **[inmate](/inmate)**：刑務所や施設の「入所者」「同居人」を指し、特に刑務所の収容者を意味する。
 
 prisonerは「囚人」「捕虜」など広く使われ、inmateは「刑務所の入所者」としてやや限定的・中立的な響きがあります。
 
@@ -104,14 +108,14 @@ prisonerは「囚人」「捕虜」など広く使われ、inmateは「刑務所
 
 ## 🧩 あわせて覚えたい
 
-- [criminal](/word/criminal/)：犯罪者
-- [guard](/word/guard/)：看守
+- [criminal](/criminal)：犯罪者
+- [guard](/guard)：看守
 
 ---
 
 ## 📖 できればこれも
 
-- [sentence](/word/sentence/)：判決、刑
-- [arrest](/word/arrest/)：逮捕
+- [sentence](/sentence)：判決、刑
+- [arrest](/arrest)：逮捕
 
-<!-- cvid: aid49_bid26 -->
+<!-- cvid: aid38_bid48 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネスシーンやフォーマルな問い合わせの場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスシーンやフォーマルな問い合わせの場
 ## 🤔  ask との違いは？
 
 - **inquire**：フォーマルに情報や詳細を尋ねるときに使う
-- **[ask](/word/ask/)**：カジュアルからフォーマルまで幅広く使え、単純な「質問する」にも使える
+- **[ask](/ask)**：カジュアルからフォーマルまで幅広く使え、単純な「質問する」にも使える
 
 inquireはビジネスや公式な場面で使われることが多く、askは日常的な質問全般に使えます。
 
@@ -105,14 +109,14 @@ inquireはビジネスや公式な場面で使われることが多く、askは�
 
 ## 🧩 あわせて覚えたい
 
-- [investigate](/word/investigate/)：調査する
-- [request](/word/request/)：依頼する、要請する
+- [investigate](/investigate)：調査する
+- [request](/request)：依頼する、要請する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する
-- [inform](/word/inform/)：知らせる
+- [confirm](/confirm)：確認する
+- [inform](/inform)：知らせる
 
-<!-- cvid: aid14_bid44 -->
+<!-- cvid: aid37_bid17 -->

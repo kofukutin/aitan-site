@@ -81,15 +81,19 @@ TOEICでは主に法務やビジネス文書の中で「warrant」が登場し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に法務やビジネス文書の中で「warrant」が登場し�
 ## 🤔  guarantee との違いは？
 
 - **warrant**：法的・公式な「令状」や「正当な理由」「保証」を意味し、特に根拠や権限を強調する。
-- **[guarantee](/word/guarantee/)**：主に「保証（する）」の意味で、製品やサービスの品質・安全性などを約束する際に使う。
+- **[guarantee](/guarantee)**：主に「保証（する）」の意味で、製品やサービスの品質・安全性などを約束する際に使う。
 
 warrantは法的・公式な場面での「根拠」や「権限」を示し、guaranteeは一般的な「保証」や「約束」に使われます。
 
@@ -105,14 +109,14 @@ warrantは法的・公式な場面での「根拠」や「権限」を示し、g
 
 ## 🧩 あわせて覚えたい
 
-- [permit](/word/permit/)：許可証、許可
-- [authorization](/word/authorization/)：認可、権限付与
+- [permit](/permit)：許可証、許可
+- [authorization](/authorization)：認可、権限付与
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠
-- [certificate](/word/certificate/)：証明書
+- [evidence](/evidence)：証拠
+- [certificate](/certificate)：証明書
 
-<!-- cvid: aid30_bid45 -->
+<!-- cvid: aid34_bid44 -->

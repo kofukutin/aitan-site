@@ -81,15 +81,19 @@ ITや技術系の長文やEメール文中で、業務内容やスキル説明�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや技術系の長文やEメール文中で、業務内容やスキル説明�
 ## 🤔  programming との違いは？
 
 - **coding**：プログラム言語で実際にコードを書く作業や行為
-- **[programming](/word/programming/)**：設計・構築・テストなども含む広い意味の「プログラミング」
+- **[programming](/programming)**：設計・構築・テストなども含む広い意味の「プログラミング」
 
 「coding」は「書くこと」に特化し、「programming」は設計や全体の流れも含む幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ ITや技術系の長文やEメール文中で、業務内容やスキル説明�
 
 ## 🧩 あわせて覚えたい
 
-- [debug](/word/debug/)：バグを見つけて修正すること
-- [algorithm](/word/algorithm/)：問題解決のための手順や計算方法
+- [debug](/debug)：バグを見つけて修正すること
+- [algorithm](/algorithm)：問題解決のための手順や計算方法
 
 ---
 
 ## 📖 できればこれも
 
-- [script](/word/script/)：簡単なプログラムやスクリプト
-- [compile](/word/compile/)：プログラムをコンピュータが実行できる形に変換すること
+- [script](/script)：簡単なプログラムやスクリプト
+- [compile](/compile)：プログラムをコンピュータが実行できる形に変換すること
 
-<!-- cvid: aid03_bid03 -->
+<!-- cvid: aid24_bid10 -->

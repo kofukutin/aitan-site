@@ -81,15 +81,19 @@ The company policy prescribes the procedures for handling complaints.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid37" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid37" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company policy prescribes the procedures for handling complaints.
 ## 🤔  recommend との違いは？
 
 - **prescribe**：医師や権威ある立場の人が「処方する」「規定する」ときに使うフォーマルな表現
-- **[recommend](/word/recommend/)**：誰でも「勧める」「推薦する」ときに使える一般的な表現
+- **[recommend](/recommend)**：誰でも「勧める」「推薦する」ときに使える一般的な表現
 
 prescribeは専門家や規則が「必ず従うべきこと」を指示するニュアンスがあり、recommendは「提案・助言」程度の柔らかい表現です。
 
@@ -105,14 +109,14 @@ prescribeは専門家や規則が「必ず従うべきこと」を指示する�
 
 ## 🧩 あわせて覚えたい
 
-- [prohibit](/word/prohibit/)：禁止する
-- [authorize](/word/authorize/)：許可する
+- [prohibit](/prohibit)：禁止する
+- [authorize](/authorize)：許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [diagnose](/word/diagnose/)：診断する
-- [administer](/word/administer/)：（薬などを）投与する
+- [diagnose](/diagnose)：診断する
+- [administer](/administer)：（薬などを）投与する
 
-<!-- cvid: aid18_bid34 -->
+<!-- cvid: aid00_bid37 -->

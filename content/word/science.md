@@ -82,15 +82,19 @@ TOEICでは、科学技術や研究に関する記事や説明文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、科学技術や研究に関する記事や説明文でよく登場
 ## 🤔  technology との違いは？
 
 - **science**：自然や社会の法則・原理を探求する学問や活動
-- **[technology](/word/technology/)**：科学の知識を応用して作られた技術や製品
+- **[technology](/technology)**：科学の知識を応用して作られた技術や製品
 
 scienceは「知識や理論の探求」、technologyは「その知識を使った実用的な技術や道具」を指します。
 
@@ -106,14 +110,14 @@ scienceは「知識や理論の探求」、technologyは「その知識を使っ
 
 ## 🧩 あわせて覚えたい
 
-- [research](/word/research/)：研究、調査
-- [experiment](/word/experiment/)：実験
+- [research](/research)：研究、調査
+- [experiment](/experiment)：実験
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/word/laboratory/)：実験室、研究室
-- [theory](/word/theory/)：理論
+- [laboratory](/laboratory)：実験室、研究室
+- [theory](/theory)：理論
 
-<!-- cvid: aid40_bid28 -->
+<!-- cvid: aid23_bid33 -->

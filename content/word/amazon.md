@@ -81,15 +81,19 @@ TOEICでは観光や環境に関する長文で「Amazon」が地名や自然環
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や環境に関する長文で「Amazon」が地名や自然環
 ## 🤔  jungle との違いは？
 
 - **amazon**：南米のアマゾン川やその流域の熱帯雨林を指す固有名詞
-- **[jungle](/word/jungle/)**：熱帯の密林全般を指す一般名詞
+- **[jungle](/jungle)**：熱帯の密林全般を指す一般名詞
 
 amazonは特定の地名や地域を表し、jungleは世界中の熱帯密林を広く指します。
 
@@ -105,14 +109,14 @@ amazonは特定の地名や地域を表し、jungleは世界中の熱帯密林�
 
 ## 🧩 あわせて覚えたい
 
-- [rainforest](/word/rainforest/)：熱帯雨林
-- [river](/word/river/)：川
+- [rainforest](/rainforest)：熱帯雨林
+- [river](/river)：川
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest/)：森林
-- [mountain](/word/mountain/)：山
+- [forest](/forest)：森林
+- [mountain](/mountain)：山
 
-<!-- cvid: aid16_bid04 -->
+<!-- cvid: aid03_bid47 -->

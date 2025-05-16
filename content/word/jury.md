@@ -88,8 +88,12 @@ TOEICでは法務や裁判に関する記事や、コンテストの審査に関
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは法務や裁判に関する記事や、コンテストの審査に関
 ## 🤔  judge との違いは？
 
 - **jury**：複数人で構成される陪審員団や審査員団。集団で判断を下す。
-- **[judge](/word/judge/)**：裁判官や審査員など、個人で判断を下す人。
+- **[judge](/judge)**：裁判官や審査員など、個人で判断を下す人。
 
 juryは集団で評決を出すのに対し、judgeは個人で最終判断を下す点が異なります。
 
@@ -105,14 +109,14 @@ juryは集団で評決を出すのに対し、judgeは個人で最終判断を�
 
 ## 🧩 あわせて覚えたい
 
-- [verdict](/word/verdict/)：評決、判決
-- [trial](/word/trial/)：裁判、公判
+- [verdict](/verdict)：評決、判決
+- [trial](/trial)：裁判、公判
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/word/court/)：法廷、裁判所
-- [evidence](/word/evidence/)：証拠
+- [court](/court)：法廷、裁判所
+- [evidence](/evidence)：証拠
 
-<!-- cvid: aid44_bid28 -->
+<!-- cvid: aid44_bid35 -->

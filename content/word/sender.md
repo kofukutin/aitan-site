@@ -81,15 +81,19 @@ TOEICではメールや通知文、荷物の伝票などで「sender（送信者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや通知文、荷物の伝票などで「sender（送信者
 ## 🤔  recipient との違いは？
 
 - **sender**：送信者、差出人（何かを送る側）
-- **[recipient](/word/recipient/)**：受信者、受取人（何かを受け取る側）
+- **[recipient](/recipient)**：受信者、受取人（何かを受け取る側）
 
 senderは「送る人」、recipientは「受け取る人」と役割が正反対です。
 
@@ -105,14 +109,14 @@ senderは「送る人」、recipientは「受け取る人」と役割が正反�
 
 ## 🧩 あわせて覚えたい
 
-- [transmitter](/word/transmitter/)：送信機、伝送者
-- [originator](/word/originator/)：発信者、創始者
+- [transmitter](/transmitter)：送信機、伝送者
+- [originator](/originator)：発信者、創始者
 
 ---
 
 ## 📖 できればこれも
 
-- [receiver](/word/receiver/)：受信者、受取人
-- [address](/word/address/)：宛先、住所
+- [receiver](/receiver)：受信者、受取人
+- [address](/address)：宛先、住所
 
-<!-- cvid: aid13_bid29 -->
+<!-- cvid: aid38_bid20 -->

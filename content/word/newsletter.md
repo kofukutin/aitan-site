@@ -80,15 +80,19 @@ TOEICでは会社や団体からの案内文やメール文でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは会社や団体からの案内文やメール文でよく登場しま
 ## 🤔  bulletin との違いは？
 
 - **newsletter**：定期的に発行される会報やお知らせの文書
-- **[bulletin](/word/bulletin/)**：速報や短い公式発表、掲示板のような告知
+- **[bulletin](/bulletin)**：速報や短い公式発表、掲示板のような告知
 
 newsletterは継続的な情報提供、bulletinは短く要点を伝える公式な発表や掲示に使われます。
 
@@ -104,14 +108,14 @@ newsletterは継続的な情報提供、bulletinは短く要点を伝える公�
 
 ## 🧩 あわせて覚えたい
 
-- [announcement](/word/announcement/)：お知らせ、発表
-- [memo](/word/memo/)：社内メモ、伝言
+- [announcement](/announcement)：お知らせ、発表
+- [memo](/memo)：社内メモ、伝言
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/word/brochure/)：パンフレット
-- [leaflet](/word/leaflet/)：チラシ、小冊子
+- [brochure](/brochure)：パンフレット
+- [leaflet](/leaflet)：チラシ、小冊子
 
-<!-- cvid: aid29_bid33 -->
+<!-- cvid: aid19_bid35 -->

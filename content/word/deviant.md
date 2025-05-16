@@ -81,15 +81,19 @@ TOEICでは、法務や社会規範に関する長文や記事で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid46_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、法務や社会規範に関する長文や記事で見かけるこ
 ## 🤔  abnormal との違いは？
 
 - **deviant**：社会的な規範や道徳から逸脱している（否定的なニュアンスが強い）
-- **[abnormal](/word/abnormal/)**：通常とは異なる、標準から外れている（必ずしも否定的ではない）
+- **[abnormal](/abnormal)**：通常とは異なる、標準から外れている（必ずしも否定的ではない）
 
 deviantは「社会的に許容されない逸脱」に重点があり、abnormalは単に「普通でない」ことを指します。
 
@@ -105,14 +109,14 @@ deviantは「社会的に許容されない逸脱」に重点があり、abnorma
 
 ## 🧩 あわせて覚えたい
 
-- [conventional](/word/conventional/)：慣習的な、従来の
-- [eccentric](/word/eccentric/)：風変わりな、常軌を逸した
+- [conventional](/conventional)：慣習的な、従来の
+- [eccentric](/eccentric)：風変わりな、常軌を逸した
 
 ---
 
 ## 📖 できればこれも
 
-- [deviate](/word/deviate/)：逸脱する、外れる
-- [norm](/word/norm/)：基準、規範
+- [deviate](/deviate)：逸脱する、外れる
+- [norm](/norm)：基準、規範
 
-<!-- cvid: aid00_bid43 -->
+<!-- cvid: aid46_bid01 -->

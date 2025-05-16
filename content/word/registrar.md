@@ -81,15 +81,19 @@ The registrar will prepare the official documents for the meeting.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid30" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid30" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The registrar will prepare the official documents for the meeting.
 ## 🤔  clerk との違いは？
 
 - **registrar**：公式な記録や登録を専門に管理する担当者や役職
-- **[clerk](/word/clerk/)**：一般的な事務員や窓口係
+- **[clerk](/clerk)**：一般的な事務員や窓口係
 
 registrarは「記録・登録の専門職」、clerkは「一般的な事務職」として使い分けます。
 
@@ -105,14 +109,14 @@ registrarは「記録・登録の専門職」、clerkは「一般的な事務職
 
 ## 🧩 あわせて覚えたい
 
-- [administrator](/word/administrator/)：管理者、運営責任者
-- [secretary](/word/secretary/)：秘書、書記
+- [administrator](/administrator)：管理者、運営責任者
+- [secretary](/secretary)：秘書、書記
 
 ---
 
 ## 📖 できればこれも
 
-- [register](/word/register/)：登録する、記録する
-- [certificate](/word/certificate/)：証明書
+- [register](/register)：登録する、記録する
+- [certificate](/certificate)：証明書
 
-<!-- cvid: aid32_bid45 -->
+<!-- cvid: aid31_bid30 -->

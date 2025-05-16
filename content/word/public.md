@@ -83,15 +83,19 @@ TOEICでは「public transportation」「public event」など、形容詞とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは「public transportation」「public event」など、形容詞とし
 ## 🤔  private との違いは？
 
 - **public**：多くの人に開かれている、公の
-- **[private](/word/private/)**：個人の、非公開の
+- **[private](/private)**：個人の、非公開の
 
 「public」は「誰でも利用できる・見られる」ことを強調し、「private」は「限られた人だけ・個人的」なことを表します。
 
@@ -107,14 +111,14 @@ TOEICでは「public transportation」「public event」など、形容詞とし
 
 ## 🧩 あわせて覚えたい
 
-- [official](/word/official/)：公式の、公的な
-- [common](/word/common/)：共通の、一般的な
+- [official](/official)：公式の、公的な
+- [common](/common)：共通の、一般的な
 
 ---
 
 ## 📖 できればこれも
 
-- [general](/word/general/)：一般的な、全体の
-- [open](/word/open/)：開かれた、公開の
+- [general](/general)：一般的な、全体の
+- [open](/open)：開かれた、公開の
 
-<!-- cvid: aid27_bid38 -->
+<!-- cvid: aid09_bid40 -->

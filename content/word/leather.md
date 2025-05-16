@@ -80,15 +80,19 @@ TOEICでは、商品説明や素材に関する文脈で「leather」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、商品説明や素材に関する文脈で「leather」が登場�
 ## 🤔  skin との違いは？
 
 - **leather**：動物の皮をなめして加工した素材。主に製品や衣類に使われる。
-- **[skin](/word/skin/)**：動物や人の「皮膚」そのもの。加工前の状態や生物学的な意味で使う。
+- **[skin](/skin)**：動物や人の「皮膚」そのもの。加工前の状態や生物学的な意味で使う。
 
 leatherは加工された素材、skinは生き物の皮膚そのものを指し、用途や文脈が異なります。
 
@@ -104,14 +108,14 @@ leatherは加工された素材、skinは生き物の皮膚そのものを指し
 
 ## 🧩 あわせて覚えたい
 
-- [fabric](/word/fabric/)：布地、織物
-- [fur](/word/fur/)：（動物の）毛皮
+- [fabric](/fabric)：布地、織物
+- [fur](/fur)：（動物の）毛皮
 
 ---
 
 ## 📖 できればこれも
 
-- [cotton](/word/cotton/)：綿、コットン
-- [material](/word/material/)：材料、素材
+- [cotton](/cotton)：綿、コットン
+- [material](/material)：材料、素材
 
-<!-- cvid: aid35_bid26 -->
+<!-- cvid: aid30_bid47 -->

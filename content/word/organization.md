@@ -81,15 +81,19 @@ TOEICではPart 7の長文やメール文、案内文などで「組織」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文やメール文、案内文などで「組織」や「
 ## 🤔  company との違いは？
 
 - **organization**：目的のために集まった「組織」や「団体」全般を指す
-- **[company](/word/company/)**：営利目的の「会社」を指す
+- **[company](/company)**：営利目的の「会社」を指す
 
 organizationは非営利団体や学校など幅広い「組織」に使えますが、companyは主にビジネスの「会社」に限定されます。
 
@@ -105,14 +109,14 @@ organizationは非営利団体や学校など幅広い「組織」に使えま�
 
 ## 🧩 あわせて覚えたい
 
-- [institution](/word/institution/)：公共機関、施設
-- [association](/word/association/)：協会、団体
+- [institution](/institution)：公共機関、施設
+- [association](/association)：協会、団体
 
 ---
 
 ## 📖 できればこれも
 
-- [department](/word/department/)：部門、部署
-- [structure](/word/structure/)：構造、仕組み
+- [department](/department)：部門、部署
+- [structure](/structure)：構造、仕組み
 
-<!-- cvid: aid34_bid38 -->
+<!-- cvid: aid26_bid43 -->

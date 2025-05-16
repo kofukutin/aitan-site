@@ -81,7 +81,7 @@ ITやエンターテインメント関連の記事や広告文で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+学びの波に乗ろう👇️
 
 ---
 
@@ -89,7 +89,11 @@ ITやエンターテインメント関連の記事や広告文で登場するこ
 
 <div class="info-center">
 ＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやエンターテインメント関連の記事や広告文で登場するこ
 ## 🤔  gambling との違いは？
 
 - **gaming**：コンピューターゲームやビデオゲームをすること、またはその産業
-- **[gambling](/word/gambling/)**：賭け事、ギャンブル
+- **[gambling](/gambling)**：賭け事、ギャンブル
 
 gamingは主に娯楽としてのゲームプレイを指し、gamblingはお金を賭けるギャンブル行為を指します。
 
@@ -105,14 +109,14 @@ gamingは主に娯楽としてのゲームプレイを指し、gamblingはお金
 
 ## 🧩 あわせて覚えたい
 
-- [play](/word/play/)：遊ぶ、プレイする
-- [competition](/word/competition/)：競争、コンテスト
+- [play](/play)：遊ぶ、プレイする
+- [competition](/competition)：競争、コンテスト
 
 ---
 
 ## 📖 できればこれも
 
-- [console](/word/console/)：（ゲーム）機、コンソール
-- [tournament](/word/tournament/)：トーナメント、競技会
+- [console](/console)：（ゲーム）機、コンソール
+- [tournament](/tournament)：トーナメント、競技会
 
-<!-- cvid: aid27_bid34 -->
+<!-- cvid: aid01_bid34 -->

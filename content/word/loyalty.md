@@ -81,15 +81,19 @@ loyaltyはTOEICの長文読解パートで、顧客や従業員の忠誠心に�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ loyaltyはTOEICの長文読解パートで、顧客や従業員の忠誠心に�
 ## 🤔  faithfulness との違いは？
 
 - **loyalty**：人や組織、ブランドなどへの継続的な忠誠心や帰属意識を強調。
-- **[faithfulness](/word/faithfulness/)**：主に約束や信念、恋愛関係などでの誠実さや浮気しないことを強調。
+- **[faithfulness](/faithfulness)**：主に約束や信念、恋愛関係などでの誠実さや浮気しないことを強調。
 
 loyaltyは「組織や人への一貫した忠誠心」、faithfulnessは「約束や関係に対する誠実さ」に重点があります。
 
@@ -105,14 +109,14 @@ loyaltyは「組織や人への一貫した忠誠心」、faithfulnessは「約�
 
 ## 🧩 あわせて覚えたい
 
-- [betrayal](/word/betrayal/)：裏切り
-- [commitment](/word/commitment/)：約束、献身
+- [betrayal](/betrayal)：裏切り
+- [commitment](/commitment)：約束、献身
 
 ---
 
 ## 📖 できればこれも
 
-- [trust](/word/trust/)：信頼
-- [support](/word/support/)：支援
+- [trust](/trust)：信頼
+- [support](/support)：支援
 
-<!-- cvid: aid00_bid36 -->
+<!-- cvid: aid28_bid49 -->

@@ -81,15 +81,19 @@ TOEICでは主に科学やビジネスの文脈で「進化」「発展」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid46_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学やビジネスの文脈で「進化」「発展」とい
 ## 🤔  development との違いは？
 
 - **evolution**：徐々に段階を経て進化・発展すること
-- **[development](/word/development/)**：新しいものを作り出す、成長・発展すること
+- **[development](/development)**：新しいものを作り出す、成長・発展すること
 
 evolutionは「自然な変化や進化」のニュアンスが強く、developmentは「計画的な成長や開発」に使われます。
 
@@ -105,14 +109,14 @@ evolutionは「自然な変化や進化」のニュアンスが強く、developm
 
 ## 🧩 あわせて覚えたい
 
-- [revolution](/word/revolution/)：革命、急激な変化
-- [adaptation](/word/adaptation/)：適応、順応
+- [revolution](/revolution)：革命、急激な変化
+- [adaptation](/adaptation)：適応、順応
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/word/progress/)：進歩、前進
-- [growth](/word/growth/)：成長、増加
+- [progress](/progress)：進歩、前進
+- [growth](/growth)：成長、増加
 
-<!-- cvid: aid39_bid17 -->
+<!-- cvid: aid46_bid16 -->

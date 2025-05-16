@@ -81,15 +81,19 @@ TOEICでは会話やメール文で「ほめる」「感謝する」場面によ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やメール文で「ほめる」「感謝する」場面によ
 ## 🤔  praise との違いは？
 
 - **compliment**：個人の外見や行動など、日常的なことをほめるときに使う賛辞
-- **[praise](/word/praise/)**：努力や成果など、よりフォーマルで大きな評価を表す
+- **[praise](/praise)**：努力や成果など、よりフォーマルで大きな評価を表す
 
 complimentはカジュアルな「ほめ言葉」、praiseは公式な「称賛」という違いがあります。
 
@@ -105,14 +109,14 @@ complimentはカジュアルな「ほめ言葉」、praiseは公式な「称賛�
 
 ## 🧩 あわせて覚えたい
 
-- [criticism](/word/criticism/)：批判
-- [flatter](/word/flatter/)：お世辞を言う
+- [criticism](/criticism)：批判
+- [flatter](/flatter)：お世辞を言う
 
 ---
 
 ## 📖 できればこれも
 
-- [recommendation](/word/recommendation/)：推薦、推薦状
-- [comment](/word/comment/)：コメント、意見
+- [recommendation](/recommendation)：推薦、推薦状
+- [comment](/comment)：コメント、意見
 
-<!-- cvid: aid27_bid20 -->
+<!-- cvid: aid04_bid01 -->

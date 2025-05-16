@@ -81,15 +81,19 @@ TOEICでは、職場環境や労働条件、従業員向けのお知らせなど
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場環境や労働条件、従業員向けのお知らせなど
 ## 🤔  office との違いは？
 
 - **workplace**：職場全般（オフィス・工場・店舗などすべて含む）
-- **[office](/word/office/)**：主に事務所やオフィスビルなどの「オフィス」を指す
+- **[office](/office)**：主に事務所やオフィスビルなどの「オフィス」を指す
 
 **workplace**は働く場所全体を指し、**office**はその中でも事務作業をする場所に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは、職場環境や労働条件、従業員向けのお知らせなど
 
 ## 🧩 あわせて覚えたい
 
-- [factory](/word/factory/)：工場
-- [workforce](/word/workforce/)：労働力、従業員全体
+- [factory](/factory)：工場
+- [workforce](/workforce)：労働力、従業員全体
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [department](/word/department/)：部門、部署
+- [employee](/employee)：従業員
+- [department](/department)：部門、部署
 
-<!-- cvid: aid29_bid16 -->
+<!-- cvid: aid06_bid01 -->

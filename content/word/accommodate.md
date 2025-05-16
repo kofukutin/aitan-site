@@ -81,15 +81,19 @@ TOEICでは、ホテルや会議室の「収容人数」や「要望への対応
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルや会議室の「収容人数」や「要望への対応
 ## 🤔  adapt との違いは？
 
 - **accommodate**：人や物を受け入れて収容したり、要望に応じて便宜を図る
-- **[adapt](/word/adapt/)**：状況や環境に合わせて自分や物事を変化させる
+- **[adapt](/adapt)**：状況や環境に合わせて自分や物事を変化させる
 
 「accommodate」は外部の要望や人に合わせて「受け入れる・対応する」イメージ、「adapt」は自分自身や物事が「変化する・適応する」イメージです。
 
@@ -105,14 +109,14 @@ TOEICでは、ホテルや会議室の「収容人数」や「要望への対応
 
 ## 🧩 あわせて覚えたい
 
-- [adjust](/word/adjust/)：調整する、適応させる
-- [house](/word/house/)：住まわせる、収容する
+- [adjust](/adjust)：調整する、適応させる
+- [house](/house)：住まわせる、収容する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [facilitate](/word/facilitate/)：容易にする、促進する
+- [arrange](/arrange)：手配する、整える
+- [facilitate](/facilitate)：容易にする、促進する
 
-<!-- cvid: aid12_bid24 -->
+<!-- cvid: aid00_bid47 -->

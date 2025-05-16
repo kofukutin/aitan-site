@@ -81,15 +81,19 @@ TOEICでは請求書や契約書、ビジネス文書の中で「tax」が頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や契約書、ビジネス文書の中で「tax」が頻出
 ## 🤔  fee との違いは？
 
 - **tax**：政府や自治体が徴収する税金
-- **[fee](/word/fee/)**：サービスや手続きに対して支払う料金・手数料
+- **[fee](/fee)**：サービスや手続きに対して支払う料金・手数料
 
 「tax」は国や自治体が公共のために集めるお金、「fee」は特定のサービスや利用に対して支払うお金です。
 
@@ -105,14 +109,14 @@ TOEICでは請求書や契約書、ビジネス文書の中で「tax」が頻出
 
 ## 🧩 あわせて覚えたい
 
-- [duty](/word/duty/)：関税、義務
-- [refund](/word/refund/)：払い戻し
+- [duty](/duty)：関税、義務
+- [refund](/refund)：払い戻し
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用、コスト
-- [charge](/word/charge/)：請求額、料金
+- [cost](/cost)：費用、コスト
+- [charge](/charge)：請求額、料金
 
-<!-- cvid: aid15_bid31 -->
+<!-- cvid: aid27_bid29 -->

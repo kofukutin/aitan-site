@@ -81,15 +81,19 @@ TOEICではビジネスの会話や協力関係を表す場面でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの会話や協力関係を表す場面でよく登場し
 ## 🤔  colleague との違いは？
 
 - **partner**：一緒に何かを行う相手や共同経営者、協力者を指す。
-- **[colleague](/word/colleague/)**：同じ職場や組織で働く「同僚」を指す。
+- **[colleague](/colleague)**：同じ職場や組織で働く「同僚」を指す。
 
 partnerは「協力して何かを成し遂げる相手」、colleagueは「職場の同僚」として使い分けます。
 
@@ -105,14 +109,14 @@ partnerは「協力して何かを成し遂げる相手」、colleagueは「職�
 
 ## 🧩 あわせて覚えたい
 
-- [associate](/word/associate/)：仕事上の仲間、同僚
-- [companion](/word/companion/)：同行者、仲間
+- [associate](/associate)：仕事上の仲間、同僚
+- [companion](/companion)：同行者、仲間
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [team](/word/team/)：チーム、団体
+- [client](/client)：顧客、取引先
+- [team](/team)：チーム、団体
 
-<!-- cvid: aid01_bid27 -->
+<!-- cvid: aid07_bid37 -->

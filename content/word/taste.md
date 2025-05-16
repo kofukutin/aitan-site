@@ -81,15 +81,19 @@ tasteは、飲食や好みに関する会話や説明でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tasteは、飲食や好みに関する会話や説明でよく登場します。
 ## 🤔  flavor との違いは？
 
 - **taste**：舌で感じる「味」や「味覚」、または「好み・センス」
-- **[flavor](/word/flavor/)**：食べ物や飲み物の「風味」や「香りを含めた味」
+- **[flavor](/flavor)**：食べ物や飲み物の「風味」や「香りを含めた味」
 
 tasteは「味覚」や「好み」全般を指し、flavorは香りや風味を含めた「味わい」に重点があります。
 
@@ -105,14 +109,14 @@ tasteは「味覚」や「好み」全般を指し、flavorは香りや風味を
 
 ## 🧩 あわせて覚えたい
 
-- [preference](/word/preference/)：好み、選好
-- [smell](/word/smell/)：におい、嗅覚
+- [preference](/preference)：好み、選好
+- [smell](/smell)：におい、嗅覚
 
 ---
 
 ## 📖 できればこれも
 
-- [touch](/word/touch/)：触覚、手触り
-- [scent](/word/scent/)：香り、匂い
+- [touch](/touch)：触覚、手触り
+- [scent](/scent)：香り、匂い
 
-<!-- cvid: aid26_bid37 -->
+<!-- cvid: aid01_bid16 -->

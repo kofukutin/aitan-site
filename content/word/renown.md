@@ -80,15 +80,19 @@ TOEICでは主に記事や紹介文などで、著名人や有名企業を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid11_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に記事や紹介文などで、著名人や有名企業を説明
 ## 🤔  reputation との違いは？
 
 - **renown**：広く知られた名声や著名さを強調し、フォーマルな場面で使われる。
-- **[reputation](/word/reputation/)**：一般的な「評判」を指し、良い・悪い両方に使える。
+- **[reputation](/reputation)**：一般的な「評判」を指し、良い・悪い両方に使える。
 
 renownは「輝かしい名声」に焦点を当て、reputationは「人々の評価全般」を表します。
 
@@ -104,14 +108,14 @@ renownは「輝かしい名声」に焦点を当て、reputationは「人々の�
 
 ## 🧩 あわせて覚えたい
 
-- [prestige](/word/prestige/)：高い評価、威信
-- [obscurity](/word/obscurity/)：無名、知られていないこと
+- [prestige](/prestige)：高い評価、威信
+- [obscurity](/obscurity)：無名、知られていないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [fame](/word/fame/)：名声、有名であること
-- [honor](/word/honor/)：名誉、栄誉
+- [fame](/fame)：名声、有名であること
+- [honor](/honor)：名誉、栄誉
 
-<!-- cvid: aid02_bid32 -->
+<!-- cvid: aid11_bid22 -->

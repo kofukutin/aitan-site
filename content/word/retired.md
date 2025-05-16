@@ -81,15 +81,19 @@ TOEICでは、人物紹介や経歴説明、福利厚生に関する文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物紹介や経歴説明、福利厚生に関する文脈でよ
 ## 🤔  resigned との違いは？
 
 - **retired**：定年や長年の勤務の後に「引退した」「退職した」という意味で使う。
-- **[resigned](/word/resigned/)**：自分の意思や事情で「辞職した」「辞任した」という意味。
+- **[resigned](/resigned)**：自分の意思や事情で「辞職した」「辞任した」という意味。
 
 「retired」は年齢や勤続年数による自然な退職、「resigned」は自分の意思や理由による辞職を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、人物紹介や経歴説明、福利厚生に関する文脈でよ
 
 ## 🧩 あわせて覚えたい
 
-- [pension](/word/pension/)：年金
-- [unemployed](/word/unemployed/)：失業中の
+- [pension](/pension)：年金
+- [unemployed](/unemployed)：失業中の
 
 ---
 
 ## 📖 できればこれも
 
-- [former](/word/former/)：前の、かつての
-- [experienced](/word/experienced/)：経験豊富な
+- [former](/former)：前の、かつての
+- [experienced](/experienced)：経験豊富な
 
-<!-- cvid: aid28_bid01 -->
+<!-- cvid: aid35_bid40 -->

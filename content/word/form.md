@@ -81,15 +81,19 @@ TOEICでは「申込用紙」「書式」などの意味で頻出します。書
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「申込用紙」「書式」などの意味で頻出します。書
 ## 🤔  format との違いは？
 
 - **form**：形や用紙、記入するための書式を指す
-- **[format](/word/format/)**：情報や文書の配置・構成など「形式」や「書式設定」を指す
+- **[format](/format)**：情報や文書の配置・構成など「形式」や「書式設定」を指す
 
 「form」は実際に記入する用紙や、物の形そのものを指し、「format」は情報や文書の配置・構成などの「形式」を表します。
 
@@ -105,14 +109,14 @@ TOEICでは「申込用紙」「書式」などの意味で頻出します。書
 
 ## 🧩 あわせて覚えたい
 
-- [application](/word/application/)：申込書、応募
-- [document](/word/document/)：文書、書類
+- [application](/application)：申込書、応募
+- [document](/document)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file/)：ファイル、書類
-- [shape](/word/shape/)：形、外形
+- [file](/file)：ファイル、書類
+- [shape](/shape)：形、外形
 
-<!-- cvid: aid27_bid40 -->
+<!-- cvid: aid30_bid25 -->

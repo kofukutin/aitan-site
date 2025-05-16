@@ -88,8 +88,12 @@ TOEICでは主にビジネスや科学的な文脈で「違い」「ばらつき
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid44_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや科学的な文脈で「違い」「ばらつき
 ## 🤔  variation との違いは？
 
 - **variance**：主に統計や科学分野で「ばらつき」「分散」といった数値的な違いを表す。
-- **[variation](/word/variation/)**：一般的な「変化」「多様性」「違い」を幅広く表す。
+- **[variation](/variation)**：一般的な「変化」「多様性」「違い」を幅広く表す。
 
 varianceは数値やデータの「散らばり具合」に特化し、variationは日常的な「変化」や「違い」全般に使われます。
 
@@ -105,14 +109,14 @@ varianceは数値やデータの「散らばり具合」に特化し、variation
 
 ## 🧩 あわせて覚えたい
 
-- [consistency](/word/consistency/)：一貫性、安定性
-- [deviation](/word/deviation/)：逸脱、偏差
+- [consistency](/consistency)：一貫性、安定性
+- [deviation](/deviation)：逸脱、偏差
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/word/average/)：平均
-- [fluctuation](/word/fluctuation/)：変動
+- [average](/average)：平均
+- [fluctuation](/fluctuation)：変動
 
-<!-- cvid: aid44_bid46 -->
+<!-- cvid: aid44_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは展示会やイベントの案内、ビジネスメール、広告文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは展示会やイベントの案内、ビジネスメール、広告文
 ## 🤔  exposition との違いは？
 
 - **exhibition**：一般向けの展示会や展覧会。芸術や製品など幅広い分野で使う。
-- **[exposition](/word/exposition/)**：より大規模で公式な博覧会や産業展示会を指すことが多い。
+- **[exposition](/exposition)**：より大規模で公式な博覧会や産業展示会を指すことが多い。
 
 exhibitionは日常的な展示会や展覧会に幅広く使われ、expositionは国際博覧会など大規模・公式なイベントに使われやすいです。
 
@@ -105,14 +109,14 @@ exhibitionは日常的な展示会や展覧会に幅広く使われ、exposition
 
 ## 🧩 あわせて覚えたい
 
-- [display](/word/display/)：展示、陳列
-- [fair](/word/fair/)：見本市、フェア
+- [display](/display)：展示、陳列
+- [fair](/fair)：見本市、フェア
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議、協議会
-- [presentation](/word/presentation/)：発表、プレゼンテーション
+- [conference](/conference)：会議、協議会
+- [presentation](/presentation)：発表、プレゼンテーション
 
-<!-- cvid: aid17_bid43 -->
+<!-- cvid: aid44_bid41 -->

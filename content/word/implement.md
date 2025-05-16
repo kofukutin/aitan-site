@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の文脈で「実行する」「導
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の文脈で「実行する」「導
 ## 🤔  execute との違いは？
 
 - **implement**：計画や方針を現実に移す、導入する
-- **[execute](/word/execute/)**：命令や計画を「実行」する、特に手順通りに遂行する
+- **[execute](/execute)**：命令や計画を「実行」する、特に手順通りに遂行する
 
 「implement」は新しい仕組みや方針を現場に導入するニュアンスが強く、「execute」は決められたことを正確に実行する意味合いが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書や会議の文脈で「実行する」「導
 
 ## 🧩 あわせて覚えたい
 
-- [enforce](/word/enforce/)：（法律・規則などを）施行する
-- [apply](/word/apply/)：適用する、応用する
+- [enforce](/enforce)：（法律・規則などを）施行する
+- [apply](/apply)：適用する、応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish/)：設立する、確立する
-- [develop](/word/develop/)：開発する、発展させる
+- [establish](/establish)：設立する、確立する
+- [develop](/develop)：開発する、発展させる
 
-<!-- cvid: aid02_bid36 -->
+<!-- cvid: aid36_bid21 -->

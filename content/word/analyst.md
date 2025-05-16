@@ -81,15 +81,19 @@ TOEICではビジネスレポートやメール、記事などで頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスレポートやメール、記事などで頻出します
 ## 🤔  consultant との違いは？
 
 - **analyst**：データや状況を分析し、評価や意見を出す専門家
-- **[consultant](/word/consultant/)**：助言や提案を行う専門家
+- **[consultant](/consultant)**：助言や提案を行う専門家
 
 analystは「分析」に特化し、consultantは「助言・提案」に重点を置く点が異なります。
 
@@ -105,14 +109,14 @@ analystは「分析」に特化し、consultantは「助言・提案」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [advisor](/word/advisor/)：助言者、アドバイザー
-- [specialist](/word/specialist/)：専門家
+- [advisor](/advisor)：助言者、アドバイザー
+- [specialist](/specialist)：専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [strategy](/word/strategy/)：戦略
+- [analysis](/analysis)：分析
+- [strategy](/strategy)：戦略
 
-<!-- cvid: aid33_bid45 -->
+<!-- cvid: aid34_bid22 -->

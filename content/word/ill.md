@@ -81,15 +81,19 @@ TOEICでは、体調や健康状態を尋ねる会話文で出題されること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、体調や健康状態を尋ねる会話文で出題されること
 ## 🤔  sick との違いは？
 
 - **ill**：イギリス英語で「病気の」「体調が悪い」を表すややフォーマルな表現
-- **[sick](/word/sick/)**：アメリカ英語で一般的な「病気の」、または「吐き気がする」も含む
+- **[sick](/sick)**：アメリカ英語で一般的な「病気の」、または「吐き気がする」も含む
 
 illはイギリス英語でよく使われ、sickはアメリカ英語でよりカジュアルに使われます。
 
@@ -105,14 +109,14 @@ illはイギリス英語でよく使われ、sickはアメリカ英語でより�
 
 ## 🧩 あわせて覚えたい
 
-- [healthy](/word/healthy/)：健康な
-- [disease](/word/disease/)：病気（特に具体的な病名や疾患）
+- [healthy](/healthy)：健康な
+- [disease](/disease)：病気（特に具体的な病名や疾患）
 
 ---
 
 ## 📖 できればこれも
 
-- [injured](/word/injured/)：けがをした
-- [weak](/word/weak/)：弱い、体力がない
+- [injured](/injured)：けがをした
+- [weak](/weak)：弱い、体力がない
 
-<!-- cvid: aid10_bid02 -->
+<!-- cvid: aid23_bid47 -->

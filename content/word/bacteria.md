@@ -81,15 +81,19 @@ TOEICでは、健康や環境、科学関連の長文で「bacteria」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、健康や環境、科学関連の長文で「bacteria」が登場�
 ## 🤔  germ との違いは？
 
 - **bacteria**：科学的に「細菌」を指し、専門的・中立的な表現。
-- **[germ](/word/germ/)**：病気の原因となる微生物全般を指し、日常会話でよく使われるカジュアルな表現。
+- **[germ](/germ)**：病気の原因となる微生物全般を指し、日常会話でよく使われるカジュアルな表現。
 
 bacteriaは専門的な文脈で使われ、germは子どもや一般向けの会話で幅広く使われます。
 
@@ -105,14 +109,14 @@ bacteriaは専門的な文脈で使われ、germは子どもや一般向けの�
 
 ## 🧩 あわせて覚えたい
 
-- [virus](/word/virus/)：ウイルス（感染症の原因となる微生物）
-- [microbe](/word/microbe/)：微生物（細菌やウイルスなどの総称）
+- [virus](/virus)：ウイルス（感染症の原因となる微生物）
+- [microbe](/microbe)：微生物（細菌やウイルスなどの総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [fungus](/word/fungus/)：菌類（カビやキノコなど）
-- [infection](/word/infection/)：感染（病原体による体への侵入）
+- [fungus](/fungus)：菌類（カビやキノコなど）
+- [infection](/infection)：感染（病原体による体への侵入）
 
-<!-- cvid: aid00_bid17 -->
+<!-- cvid: aid33_bid26 -->

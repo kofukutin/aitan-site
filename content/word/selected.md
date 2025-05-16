@@ -81,15 +81,19 @@ TOEICでは、形容詞として「selected items（厳選商品）」や「sele
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「selected items（厳選商品）」や「sele
 ## 🤔  chosen との違いは？
 
 - **selected**：複数から基準に従って選ばれた、ややフォーマル
-- **[chosen](/word/chosen/)**：選ばれた、特に意志や好みが強調される
+- **[chosen](/chosen)**：選ばれた、特に意志や好みが強調される
 
 「selected」は客観的・基準的な選抜、「chosen」は主観的・個人的な選択を強調する場面で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「selected items（厳選商品）」や「sele
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：選択できる、任意の
-- [appointed](/word/appointed/)：任命された、指名された
+- [optional](/optional)：選択できる、任意の
+- [appointed](/appointed)：任命された、指名された
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible/)：資格がある、適格な
-- [preferred](/word/preferred/)：好ましい、優先される
+- [eligible](/eligible)：資格がある、適格な
+- [preferred](/preferred)：好ましい、優先される
 
-<!-- cvid: aid11_bid46 -->
+<!-- cvid: aid23_bid24 -->

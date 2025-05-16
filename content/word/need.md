@@ -82,15 +82,19 @@ TOEICではPart 5を中心に、「必要」「～が必要だ」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid28" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid28" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 5を中心に、「必要」「～が必要だ」という意味
 ## 🤔  require との違いは？
 
 - **need**：必要性や要求を幅広く表す一般的な単語
-- **[require](/word/require/)**：よりフォーマルで「必須」「義務」など強い必要性を表す
+- **[require](/require)**：よりフォーマルで「必須」「義務」など強い必要性を表す
 
 needは日常的な「必要」、requireは規則や条件などで「必須」とされる場合に使われます。
 
@@ -106,14 +110,14 @@ needは日常的な「必要」、requireは規則や条件などで「必須」
 
 ## 🧩 あわせて覚えたい
 
-- [necessity](/word/necessity/)：必要性、不可欠なもの
-- [demand](/word/demand/)：需要、要求
+- [necessity](/necessity)：必要性、不可欠なもの
+- [demand](/demand)：需要、要求
 
 ---
 
 ## 📖 できればこれも
 
-- [want](/word/want/)：欲しい、望む
-- [request](/word/request/)：依頼、要請
+- [want](/want)：欲しい、望む
+- [request](/request)：依頼、要請
 
-<!-- cvid: aid13_bid38 -->
+<!-- cvid: aid37_bid28 -->

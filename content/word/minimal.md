@@ -81,15 +81,19 @@ minimalはPart 5の語彙問題や文脈判断で出題されることが多い�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ minimalはPart 5の語彙問題や文脈判断で出題されることが多い�
 ## 🤔  minimum との違いは？
 
 - **minimal**：ごくわずかな、最小限の（程度や量が非常に小さいことを強調）
-- **[minimum](/word/minimum/)**：最小値、最低限（数量や基準としての「最小」）
+- **[minimum](/minimum)**：最小値、最低限（数量や基準としての「最小」）
 
 minimalは「ごくわずかである状態」を形容詞として表し、minimumは「最小値」や「最低限」という名詞・形容詞で使われます。
 
@@ -105,14 +109,14 @@ minimalは「ごくわずかである状態」を形容詞として表し、mini
 
 ## 🧩 あわせて覚えたい
 
-- [slight](/word/slight/)：わずかな、少しの
-- [maximum](/word/maximum/)：最大、最高
+- [slight](/slight)：わずかな、少しの
+- [maximum](/maximum)：最大、最高
 
 ---
 
 ## 📖 できればこれも
 
-- [moderate](/word/moderate/)：適度な、ほどほどの
-- [essential](/word/essential/)：不可欠な、必要不可欠な
+- [moderate](/moderate)：適度な、ほどほどの
+- [essential](/essential)：不可欠な、必要不可欠な
 
-<!-- cvid: aid42_bid42 -->
+<!-- cvid: aid20_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは環境や自然災害、清掃に関する長文や説明文で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や自然災害、清掃に関する長文や説明文で見か
 ## 🤔  dust との違いは？
 
 - **ash**：燃えた後に残る「灰」や「燃えかす」
-- **[dust](/word/dust/)**：一般的な「ほこり」や「ちり」
+- **[dust](/dust)**：一般的な「ほこり」や「ちり」
 
 **ash**は燃焼の結果生じる灰を指し、**dust**は空気中や物の表面にたまる細かいちりやほこりを指します。火や燃焼が関係する場合はashを使います。
 
@@ -105,14 +109,14 @@ TOEICでは環境や自然災害、清掃に関する長文や説明文で見か
 
 ## 🧩 あわせて覚えたい
 
-- [soot](/word/soot/)：すす（煙や燃焼で出る黒い粉）
-- [charcoal](/word/charcoal/)：木炭
+- [soot](/soot)：すす（煙や燃焼で出る黒い粉）
+- [charcoal](/charcoal)：木炭
 
 ---
 
 ## 📖 できればこれも
 
-- [soil](/word/soil/)：土
-- [mud](/word/mud/)：泥
+- [soil](/soil)：土
+- [mud](/mud)：泥
 
-<!-- cvid: aid10_bid05 -->
+<!-- cvid: aid47_bid08 -->

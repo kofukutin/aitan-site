@@ -88,8 +88,12 @@ TOEICでは「assigned seat（指定席）」や「assigned tasks（割り当て
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「assigned seat（指定席）」や「assigned tasks（割り当て
 ## 🤔  allocated との違いは？
 
 - **assigned**：特定の人や目的に仕事・役割・席などを割り当てるときに使う
-- **[allocated](/word/allocated/)**：主に資源や予算、時間などを分配・配分する際に使う
+- **[allocated](/allocated)**：主に資源や予算、時間などを分配・配分する際に使う
 
 assignedは「人や物に役割や場所を与える」ニュアンスが強く、allocatedは「数量や資源を分けて配る」場面で使われます。
 
@@ -105,14 +109,14 @@ assignedは「人や物に役割や場所を与える」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [appointed](/word/appointed/)：任命された
-- [designated](/word/designated/)：指定された
+- [appointed](/appointed)：任命された
+- [designated](/designated)：指定された
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible/)：責任がある
-- [scheduled](/word/scheduled/)：予定された
+- [responsible](/responsible)：責任がある
+- [scheduled](/scheduled)：予定された
 
-<!-- cvid: aid39_bid37 -->
+<!-- cvid: aid39_bid27 -->

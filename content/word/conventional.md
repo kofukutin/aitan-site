@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議の場面で「従来の方法」「慣
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議の場面で「従来の方法」「慣
 ## 🤔  traditional との違いは？
 
 - **conventional**：一般的に広く受け入れられている、型にはまった、慣習的な
-- **[traditional](/word/traditional/)**：伝統的な、長い歴史や文化に根ざした
+- **[traditional](/traditional)**：伝統的な、長い歴史や文化に根ざした
 
 conventionalは「今よく使われている普通の方法」、traditionalは「昔から続く伝統や文化」に重点があります。
 
@@ -105,14 +109,14 @@ conventionalは「今よく使われている普通の方法」、traditionalは
 
 ## 🧩 あわせて覚えたい
 
-- [innovative](/word/innovative/)：革新的な、新しい
-- [customary](/word/customary/)：習慣的な、慣例の
+- [innovative](/innovative)：革新的な、新しい
+- [customary](/customary)：習慣的な、慣例の
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical/)：典型的な
-- [standard](/word/standard/)：標準の、基準の
+- [typical](/typical)：典型的な
+- [standard](/standard)：標準の、基準の
 
-<!-- cvid: aid11_bid27 -->
+<!-- cvid: aid32_bid21 -->

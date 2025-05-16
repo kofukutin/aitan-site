@@ -81,15 +81,19 @@ TOEICでは「財産」「幸運」などの意味で名詞として出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「財産」「幸運」などの意味で名詞として出題され
 ## 🤔  luck との違いは？
 
 - **fortune**：運や幸運、または財産・大金を指すフォーマルな語。
-- **[luck](/word/luck/)**：日常的な「運」や「幸運」を指し、カジュアルな場面でよく使う。
+- **[luck](/luck)**：日常的な「運」や「幸運」を指し、カジュアルな場面でよく使う。
 
 fortuneは「財産」や「大きな幸運」など幅広い意味で使われ、luckは日常的な「運の良さ」に限定されます。
 
@@ -105,14 +109,14 @@ fortuneは「財産」や「大きな幸運」など幅広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [wealth](/word/wealth/)：富、財産
-- [destiny](/word/destiny/)：運命
+- [wealth](/wealth)：富、財産
+- [destiny](/destiny)：運命
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/word/success/)：成功
-- [opportunity](/word/opportunity/)：機会
+- [success](/success)：成功
+- [opportunity](/opportunity)：機会
 
-<!-- cvid: aid06_bid22 -->
+<!-- cvid: aid02_bid39 -->

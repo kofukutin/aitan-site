@@ -81,15 +81,19 @@ TOEICでは、科学や環境に関する説明文や記事で「mercury」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や環境に関する説明文や記事で「mercury」が�
 ## 🤔  silver との違いは？
 
 - **mercury**：常温で液体の金属「水銀」や惑星・神名を指す。
-- **[silver](/word/silver/)**：常温で固体の貴金属「銀」を指す。
+- **[silver](/silver)**：常温で固体の貴金属「銀」を指す。
 
 mercuryは液体の金属で毒性があり、科学や環境の話題で使われますが、silverは装飾品や通貨など幅広い用途のある固体金属です。
 
@@ -105,14 +109,14 @@ mercuryは液体の金属で毒性があり、科学や環境の話題で使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [thermometer](/word/thermometer/)：温度計
-- [element](/word/element/)：元素
+- [thermometer](/thermometer)：温度計
+- [element](/element)：元素
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper/)：銅（金属元素）
-- [lead](/word/lead/)：鉛（金属元素）
+- [copper](/copper)：銅（金属元素）
+- [lead](/lead)：鉛（金属元素）
 
-<!-- cvid: aid48_bid31 -->
+<!-- cvid: aid20_bid09 -->

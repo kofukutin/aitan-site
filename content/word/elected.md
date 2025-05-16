@@ -81,15 +81,19 @@ TOEICでは、役職や委員会のメンバーが「選挙で選ばれた」こ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、役職や委員会のメンバーが「選挙で選ばれた」こ
 ## 🤔  appointed との違いは？
 
 - **elected**：選挙や投票で選ばれた
-- **[appointed](/word/appointed/)**：任命や指名によって選ばれた
+- **[appointed](/appointed)**：任命や指名によって選ばれた
 
 「elected」は投票などの民主的な手続きで選ばれる場合に使い、「appointed」は上司や組織による指名・任命で選ばれる場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、役職や委員会のメンバーが「選挙で選ばれた」こ
 
 ## 🧩 あわせて覚えたい
 
-- [chosen](/word/chosen/)：選ばれた（一般的に選択された）
-- [selected](/word/selected/)：選抜された、選ばれた
+- [chosen](/chosen)：選ばれた（一般的に選択された）
+- [selected](/selected)：選抜された、選ばれた
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：役人、公務員、公式の
-- [candidate](/word/candidate/)：候補者
+- [official](/official)：役人、公務員、公式の
+- [candidate](/candidate)：候補者
 
-<!-- cvid: aid49_bid25 -->
+<!-- cvid: aid43_bid27 -->

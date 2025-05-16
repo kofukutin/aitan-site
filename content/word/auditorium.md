@@ -81,15 +81,19 @@ auditoriumはTOEICのリスニングパートで、会場案内やイベント�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ auditoriumはTOEICのリスニングパートで、会場案内やイベント�
 ## 🤔  hall との違いは？
 
 - **auditorium**：講演や発表、演奏などを目的とした大きな講堂や観客席
-- **[hall](/word/hall/)**：建物内の広い部屋や廊下、集会所など幅広い用途の空間
+- **[hall](/hall)**：建物内の広い部屋や廊下、集会所など幅広い用途の空間
 
 auditoriumは主に聴衆が集まる正式な講堂や劇場を指し、hallは会議室や集会所など用途が幅広い点が異なります。
 
@@ -105,14 +109,14 @@ auditoriumは主に聴衆が集まる正式な講堂や劇場を指し、hallは
 
 ## 🧩 あわせて覚えたい
 
-- [theater](/word/theater/)：劇場、映画館
-- [venue](/word/venue/)：会場、開催地
+- [theater](/theater)：劇場、映画館
+- [venue](/venue)：会場、開催地
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture/)：講義、講演
-- [conference](/word/conference/)：会議、学会
+- [lecture](/lecture)：講義、講演
+- [conference](/conference)：会議、学会
 
-<!-- cvid: aid38_bid30 -->
+<!-- cvid: aid28_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは「関係を築く」「契約を結ぶ」などの意味でビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid05_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「関係を築く」「契約を結ぶ」などの意味でビジネ
 ## 🤔  fabricate との違いは？
 
 - **forge**：関係や契約を「築く」、または「偽造する」など幅広い意味で使う
-- **[fabricate](/word/fabricate/)**：主に「でっちあげる」「偽造する」など、作り話や虚偽の作成に使う
+- **[fabricate](/fabricate)**：主に「でっちあげる」「偽造する」など、作り話や虚偽の作成に使う
 
 forgeは肯定的な「築く」と否定的な「偽造する」の両方の意味があり、fabricateは主に「嘘や偽りを作る」否定的な意味で使われます。
 
@@ -105,14 +109,14 @@ forgeは肯定的な「築く」と否定的な「偽造する」の両方の意
 
 ## 🧩 あわせて覚えたい
 
-- [counterfeit](/word/counterfeit/)：偽造する、特にお金や商品に使う
-- [establish](/word/establish/)：設立する、確立する
+- [counterfeit](/counterfeit)：偽造する、特にお金や商品に使う
+- [establish](/establish)：設立する、確立する
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form/)：形作る、結成する
-- [create](/word/create/)：創造する、作り出す
+- [form](/form)：形作る、結成する
+- [create](/create)：創造する、作り出す
 
-<!-- cvid: aid33_bid35 -->
+<!-- cvid: aid05_bid44 -->

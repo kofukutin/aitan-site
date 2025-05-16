@@ -81,15 +81,19 @@ TOEICではイベントやプレゼン、ショーの案内などで「performer
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではイベントやプレゼン、ショーの案内などで「performer
 ## 🤔  presenter との違いは？
 
 - **performer**：舞台やイベントで何かを演じたり披露したりする人
-- **[presenter](/word/presenter/)**：プレゼンや番組などで情報を伝える人
+- **[presenter](/presenter)**：プレゼンや番組などで情報を伝える人
 
 performerは「演技・パフォーマンス」をする人、presenterは「情報や内容を伝える人」と役割が異なります。
 
@@ -105,14 +109,14 @@ performerは「演技・パフォーマンス」をする人、presenterは「�
 
 ## 🧩 あわせて覚えたい
 
-- [entertainer](/word/entertainer/)：芸能人、エンターテイナー
-- [participant](/word/participant/)：参加者
+- [entertainer](/entertainer)：芸能人、エンターテイナー
+- [participant](/participant)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [audience](/word/audience/)：観客
-- [speaker](/word/speaker/)：話し手、講演者
+- [audience](/audience)：観客
+- [speaker](/speaker)：話し手、講演者
 
-<!-- cvid: aid24_bid10 -->
+<!-- cvid: aid11_bid38 -->

@@ -81,15 +81,19 @@ TOEICでは「pose a risk/problem」などの形で、問題やリスクを「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「pose a risk/problem」などの形で、問題やリスクを「�
 ## 🤔  present との違いは？
 
 - **pose**：問題やリスクなどを「提起する」「もたらす」
-- **[present](/word/present/)**：情報やアイデアを「提示する」「発表する」
+- **[present](/present)**：情報やアイデアを「提示する」「発表する」
 
 「pose」は主に問題や危険などネガティブなものを持ち出す時に使い、「present」は中立的に情報や意見を示す時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「pose a risk/problem」などの形で、問題やリスクを「�
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/word/suggest/)：提案する
-- [raise](/word/raise/)：（問題などを）提起する
+- [suggest](/suggest)：提案する
+- [raise](/raise)：（問題などを）提起する
 
 ---
 
 ## 📖 できればこれも
 
-- [state](/word/state/)：述べる
-- [indicate](/word/indicate/)：示す
+- [state](/state)：述べる
+- [indicate](/indicate)：示す
 
-<!-- cvid: aid38_bid14 -->
+<!-- cvid: aid46_bid49 -->

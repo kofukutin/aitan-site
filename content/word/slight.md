@@ -82,15 +82,19 @@ TOEICでは、形容詞として「わずかな変化」「小さな違い」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、形容詞として「わずかな変化」「小さな違い」な
 ## 🤔  subtle との違いは？
 
 - **slight**：量や程度が「とても小さい」「わずか」で、主に物理的・数量的な違いを表す。
-- **[subtle](/word/subtle/)**：目立たない・微妙な違い、感覚的・抽象的なニュアンスを含む。
+- **[subtle](/subtle)**：目立たない・微妙な違い、感覚的・抽象的なニュアンスを含む。
 
 slightは「数値や大きさが小さい」ことに焦点があり、subtleは「気づきにくい」「微妙な」違いを強調します。
 
@@ -106,14 +110,14 @@ slightは「数値や大きさが小さい」ことに焦点があり、subtle�
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/word/minor/)：小さい、重要でない
-- [negligible](/word/negligible/)：無視できるほど小さい
+- [minor](/minor)：小さい、重要でない
+- [negligible](/negligible)：無視できるほど小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [tiny](/word/tiny/)：とても小さい
-- [barely](/word/barely/)：かろうじて、ほとんど～ない
+- [tiny](/tiny)：とても小さい
+- [barely](/barely)：かろうじて、ほとんど～ない
 
-<!-- cvid: aid18_bid46 -->
+<!-- cvid: aid44_bid45 -->

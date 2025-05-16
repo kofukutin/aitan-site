@@ -81,15 +81,19 @@ TOEICでは会議やスケジュール調整の場面で「timing」が使われ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やスケジュール調整の場面で「timing」が使われ
 ## 🤔  schedule との違いは？
 
 - **timing**：出来事が起こる「時機」や「タイミング」、その良し悪しに注目
-- **[schedule](/word/schedule/)**：予定や計画された「日程」「スケジュール」そのもの
+- **[schedule](/schedule)**：予定や計画された「日程」「スケジュール」そのもの
 
 **timing**は「いつ行うか」「その時点が適切か」に焦点があり、**schedule**は「計画された日程」自体を指します。
 
@@ -105,14 +109,14 @@ TOEICでは会議やスケジュール調整の場面で「timing」が使われ
 
 ## 🧩 あわせて覚えたい
 
-- [deadline](/word/deadline/)：締め切り
-- [opportunity](/word/opportunity/)：機会、チャンス
+- [deadline](/deadline)：締め切り
+- [opportunity](/opportunity)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [moment](/word/moment/)：瞬間、時点
+- [plan](/plan)：計画
+- [moment](/moment)：瞬間、時点
 
-<!-- cvid: aid45_bid07 -->
+<!-- cvid: aid00_bid15 -->

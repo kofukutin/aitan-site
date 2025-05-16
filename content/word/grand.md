@@ -81,15 +81,19 @@ TOEICでは、grandは主に形容詞として「壮大な」「立派な」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、grandは主に形容詞として「壮大な」「立派な」な�
 ## 🤔  magnificent との違いは？
 
 - **grand**：規模や雰囲気が大きく、威厳や格式を感じさせる「壮大な」「堂々とした」
-- **[magnificent](/word/magnificent/)**：美しさや素晴らしさが際立つ「壮麗な」「壮観な」
+- **[magnificent](/magnificent)**：美しさや素晴らしさが際立つ「壮麗な」「壮観な」
 
 grandは「大きさ・威厳・格式」に重点があり、magnificentは「美しさ・素晴らしさ」に焦点があります。
 
@@ -105,14 +109,14 @@ grandは「大きさ・威厳・格式」に重点があり、magnificentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [splendid](/word/splendid/)：素晴らしい、華やかな
-- [humble](/word/humble/)：控えめな、質素な
+- [splendid](/splendid)：素晴らしい、華やかな
+- [humble](/humble)：控えめな、質素な
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/word/formal/)：正式な、格式ばった
-- [impressive](/word/impressive/)：印象的な、感動的な
+- [formal](/formal)：正式な、格式ばった
+- [impressive](/impressive)：印象的な、感動的な
 
-<!-- cvid: aid47_bid29 -->
+<!-- cvid: aid07_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは主にキッチンや実験室の写真描写で登場し、火を使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にキッチンや実験室の写真描写で登場し、火を使
 ## 🤔  stove との違いは？
 
 - **burner**：火を出す部分や燃焼装置そのものを指す
-- **[stove](/word/stove/)**：調理や暖房用の「ストーブ」「コンロ」全体を指す
+- **[stove](/stove)**：調理や暖房用の「ストーブ」「コンロ」全体を指す
 
 burnerはstoveの一部（火口やバーナー）を指し、stoveは全体の装置を指します。
 
@@ -105,14 +109,14 @@ burnerはstoveの一部（火口やバーナー）を指し、stoveは全体の�
 
 ## 🧩 あわせて覚えたい
 
-- [heater](/word/heater/)：ヒーター、暖房器具
-- [oven](/word/oven/)：オーブン、焼き物用の加熱装置
+- [heater](/heater)：ヒーター、暖房器具
+- [oven](/oven)：オーブン、焼き物用の加熱装置
 
 ---
 
 ## 📖 できればこれも
 
-- [switch](/word/switch/)：スイッチ、切り替え装置
-- [plug](/word/plug/)：プラグ、差し込み口
+- [switch](/switch)：スイッチ、切り替え装置
+- [plug](/plug)：プラグ、差し込み口
 
-<!-- cvid: aid02_bid18 -->
+<!-- cvid: aid19_bid01 -->

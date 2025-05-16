@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、会議記録などで「consultant�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、会議記録などで「consultant�
 ## 🤔  advisor との違いは？
 
 - **consultant**：専門的な知識や経験をもとに、具体的な課題解決や戦略提案を行う外部の専門家。
-- **[advisor](/word/advisor/)**：一般的な助言や指導を行う人。必ずしも専門家や外部とは限らない。
+- **[advisor](/advisor)**：一般的な助言や指導を行う人。必ずしも専門家や外部とは限らない。
 
 consultantは実務的・専門的なアドバイスを提供し、advisorは幅広い分野で助言を行う点が異なります。
 
@@ -105,14 +109,14 @@ consultantは実務的・専門的なアドバイスを提供し、advisorは幅
 
 ## 🧩 あわせて覚えたい
 
-- [specialist](/word/specialist/)：専門家
-- [client](/word/client/)：顧客、依頼人
+- [specialist](/specialist)：専門家
+- [client](/client)：顧客、依頼人
 
 ---
 
 ## 📖 できればこれも
 
-- [consult](/word/consult/)：相談する
-- [consultation](/word/consultation/)：相談、協議
+- [consult](/consult)：相談する
+- [consultation](/consultation)：相談、協議
 
-<!-- cvid: aid16_bid30 -->
+<!-- cvid: aid33_bid06 -->

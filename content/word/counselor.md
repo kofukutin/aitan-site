@@ -81,15 +81,19 @@ TOEICでは、職業や役割を説明する長文やEメール文中で登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業や役割を説明する長文やEメール文中で登場�
 ## 🤔  consultant との違いは？
 
 - **counselor**：主に心理的・個人的な悩みや問題に対して助言やサポートを行う専門家。
-- **[consultant](/word/consultant/)**：ビジネスや専門分野でのアドバイスや提案を行う専門家。
+- **[consultant](/consultant)**：ビジネスや専門分野でのアドバイスや提案を行う専門家。
 
 counselorは個人の心の問題や進路相談などに寄り添うイメージ、consultantは企業や組織向けの専門的なアドバイスを提供するイメージです。
 
@@ -105,14 +109,14 @@ counselorは個人の心の問題や進路相談などに寄り添うイメー�
 
 ## 🧩 あわせて覚えたい
 
-- [advisor](/word/advisor/)：助言者、アドバイザー
-- [therapist](/word/therapist/)：治療士、セラピスト
+- [advisor](/advisor)：助言者、アドバイザー
+- [therapist](/therapist)：治療士、セラピスト
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：依頼人、顧客
-- [interview](/word/interview/)：面接、インタビュー
+- [client](/client)：依頼人、顧客
+- [interview](/interview)：面接、インタビュー
 
-<!-- cvid: aid37_bid11 -->
+<!-- cvid: aid29_bid18 -->

@@ -81,15 +81,19 @@ TOEICでは主に教育や評価に関する文脈で出題されます。成績
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に教育や評価に関する文脈で出題されます。成績
 ## 🤔  score との違いは？
 
 - **grade**：成績や評価、学年など広い意味で使う
-- **[score](/word/score/)**：テストや試合の「点数」に特化
+- **[score](/score)**：テストや試合の「点数」に特化
 
 gradeは「A」「B」などの評価や学年にも使えますが、scoreは主に数値の点数を指します。
 
@@ -105,14 +109,14 @@ gradeは「A」「B」などの評価や学年にも使えますが、scoreは�
 
 ## 🧩 あわせて覚えたい
 
-- [mark](/word/mark/)：点数、印
-- [rank](/word/rank/)：順位、ランク
+- [mark](/mark)：点数、印
+- [rank](/rank)：順位、ランク
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/word/level/)：レベル、段階
-- [class](/word/class/)：クラス、学級
+- [level](/level)：レベル、段階
+- [class](/class)：クラス、学級
 
-<!-- cvid: aid03_bid06 -->
+<!-- cvid: aid02_bid10 -->

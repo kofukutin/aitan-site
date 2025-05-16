@@ -81,15 +81,19 @@ TOEICでは、failedは主に形容詞として「失敗した計画」「不合
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、failedは主に形容詞として「失敗した計画」「不合
 ## 🤔  unsuccessful との違いは？
 
 - **failed**：明確に「失敗した」「不合格の」と結果がはっきりしているニュアンス
-- **[unsuccessful](/word/unsuccessful/)**：成功しなかったが、必ずしも「大きな失敗」とは限らないやや柔らかい表現
+- **[unsuccessful](/unsuccessful)**：成功しなかったが、必ずしも「大きな失敗」とは限らないやや柔らかい表現
 
 failedは「完全な失敗」や「不合格」といった強い否定を表し、unsuccessfulは「うまくいかなかった」程度のやんわりした表現です。
 
@@ -105,14 +109,14 @@ failedは「完全な失敗」や「不合格」といった強い否定を表�
 
 ## 🧩 あわせて覚えたい
 
-- [pass](/word/pass/)：合格する、通過する
-- [decline](/word/decline/)：断る、減少する
+- [pass](/pass)：合格する、通過する
+- [decline](/decline)：断る、減少する
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/word/attempt/)：試み、挑戦
-- [reject](/word/reject/)：拒否する、却下する
+- [attempt](/attempt)：試み、挑戦
+- [reject](/reject)：拒否する、却下する
 
-<!-- cvid: aid28_bid38 -->
+<!-- cvid: aid46_bid17 -->

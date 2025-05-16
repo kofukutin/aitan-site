@@ -81,15 +81,19 @@ TOEICでは空港や旅行、物流の会話でよく登場します。リスニ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や旅行、物流の会話でよく登場します。リスニ
 ## 🤔  goal との違いは？
 
 - **destination**：物理的な「目的地」や「到着地」を指す
-- **[goal](/word/goal/)**：達成したい「目標」や「ゴール」を指す
+- **[goal](/goal)**：達成したい「目標」や「ゴール」を指す
 
 destinationは実際に到達する場所、goalは達成したい目的や抽象的な目標を表します。
 
@@ -105,14 +109,14 @@ destinationは実際に到達する場所、goalは達成したい目的や抽�
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure/)：出発、出発地
-- [route](/word/route/)：経路、道筋
+- [departure](/departure)：出発、出発地
+- [route](/route)：経路、道筋
 
 ---
 
 ## 📖 できればこれも
 
-- [journey](/word/journey/)：旅、旅行
-- [arrival](/word/arrival/)：到着
+- [journey](/journey)：旅、旅行
+- [arrival](/arrival)：到着
 
-<!-- cvid: aid06_bid15 -->
+<!-- cvid: aid14_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「速い」「迅速な」などの意味でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「速い」「迅速な」などの意味でよ
 ## 🤔  quick との違いは？
 
 - **fast**：動きやスピードそのものが速いことを表す
-- **[quick](/word/quick/)**：反応や行動が素早いことを表す
+- **[quick](/quick)**：反応や行動が素早いことを表す
 
 fastは物理的なスピード、quickは反応や判断などの素早さに使われることが多いです。
 
@@ -105,14 +109,14 @@ fastは物理的なスピード、quickは反応や判断などの素早さに�
 
 ## 🧩 あわせて覚えたい
 
-- [rapid](/word/rapid/)：（短時間で進む）急速な
-- [slow](/word/slow/)：遅い
+- [rapid](/rapid)：（短時間で進む）急速な
+- [slow](/slow)：遅い
 
 ---
 
 ## 📖 できればこれも
 
-- [early](/word/early/)：早い（時間的に）
-- [late](/word/late/)：遅い（時間的に）
+- [early](/early)：早い（時間的に）
+- [late](/late)：遅い（時間的に）
 
-<!-- cvid: aid23_bid37 -->
+<!-- cvid: aid31_bid16 -->

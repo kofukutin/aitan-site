@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「広場」や「正方形の物体」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「広場」や「正方形の物体」
 ## 🤔  plaza との違いは？
 
 - **square**：伝統的な「広場」や「正方形」の形を指すことが多い
-- **[plaza](/word/plaza/)**：ショッピングモールや現代的な「広場」を指すことが多い
+- **[plaza](/plaza)**：ショッピングモールや現代的な「広場」を指すことが多い
 
 squareは歴史的な町の中心や、形が四角い場所を指すことが多く、plazaはより現代的・商業的な広場に使われます。
 
@@ -105,14 +109,14 @@ squareは歴史的な町の中心や、形が四角い場所を指すことが�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/word/circle/)：円、サークル
-- [rectangle](/word/rectangle/)：長方形
+- [circle](/circle)：円、サークル
+- [rectangle](/rectangle)：長方形
 
 ---
 
 ## 📖 できればこれも
 
-- [street](/word/street/)：通り、道路
-- [park](/word/park/)：公園
+- [street](/street)：通り、道路
+- [park](/park)：公園
 
-<!-- cvid: aid14_bid08 -->
+<!-- cvid: aid30_bid21 -->

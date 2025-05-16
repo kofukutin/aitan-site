@@ -81,15 +81,19 @@ TOEICでは「限界」「範囲」などの意味で、文脈に応じて正し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「限界」「範囲」などの意味で、文脈に応じて正し
 ## 🤔  limit との違いは？
 
 - **bound**：物理的・抽象的な「境界」や「限界」を示し、範囲の外に出られないニュアンスが強い
-- **[limit](/word/limit/)**：数値や量など「制限」や「上限」を明確に示す
+- **[limit](/limit)**：数値や量など「制限」や「上限」を明確に示す
 
 boundは「枠」や「境界線」といったイメージで、limitは「数値的な制限」や「最大値」に焦点が当たります。
 
@@ -105,14 +109,14 @@ boundは「枠」や「境界線」といったイメージで、limitは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [restriction](/word/restriction/)：制限、規制
-- [border](/word/border/)：国境、境界線
+- [restriction](/restriction)：制限、規制
+- [border](/border)：国境、境界線
 
 ---
 
 ## 📖 できればこれも
 
-- [range](/word/range/)：範囲、幅
-- [scope](/word/scope/)：範囲、領域
+- [range](/range)：範囲、幅
+- [scope](/scope)：範囲、領域
 
-<!-- cvid: aid38_bid28 -->
+<!-- cvid: aid08_bid15 -->

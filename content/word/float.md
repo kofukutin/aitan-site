@@ -81,15 +81,19 @@ TOEICでは、写真描写問題で「浮かぶ」「漂う」などの動作を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、写真描写問題で「浮かぶ」「漂う」などの動作を
 ## 🤔  drift との違いは？
 
 - **float**：水や空気の上に浮かぶ、または浮かせることを表す。
-- **[drift](/word/drift/)**：流れや風に流されてゆっくり動くことを表す。
+- **[drift](/drift)**：流れや風に流されてゆっくり動くことを表す。
 
 floatは「浮かぶ」こと自体に焦点があり、driftは「流されて動く」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ floatは「浮かぶ」こと自体に焦点があり、driftは「流されて�
 
 ## 🧩 あわせて覚えたい
 
-- [sink](/word/sink/)：沈む
-- [hover](/word/hover/)：空中に浮かぶ、漂う
+- [sink](/sink)：沈む
+- [hover](/hover)：空中に浮かぶ、漂う
 
 ---
 
 ## 📖 できればこれも
 
-- [lift](/word/lift/)：持ち上げる
-- [drop](/word/drop/)：落とす
+- [lift](/lift)：持ち上げる
+- [drop](/drop)：落とす
 
-<!-- cvid: aid40_bid17 -->
+<!-- cvid: aid31_bid36 -->

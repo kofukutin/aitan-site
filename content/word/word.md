@@ -81,15 +81,19 @@ TOEICではPart 5の文法・語彙問題でよく登場します。基本語彙
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid29" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid29" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の文法・語彙問題でよく登場します。基本語彙
 ## 🤔  term との違いは？
 
 - **word**：一般的な「単語」や「言葉」を指す。
-- **[term](/word/term/)**：特定の分野や状況で使われる「専門用語」や「期間」を指す。
+- **[term](/term)**：特定の分野や状況で使われる「専門用語」や「期間」を指す。
 
 wordは日常的な単語全般、termは専門的・限定的な意味で使われることが多いです。
 
@@ -105,14 +109,14 @@ wordは日常的な単語全般、termは専門的・限定的な意味で使わ
 
 ## 🧩 あわせて覚えたい
 
-- [phrase](/word/phrase/)：句、フレーズ
-- [statement](/word/statement/)：陳述、声明
+- [phrase](/phrase)：句、フレーズ
+- [statement](/statement)：陳述、声明
 
 ---
 
 ## 📖 できればこれも
 
-- [sentence](/word/sentence/)：文
-- [letter](/word/letter/)：文字
+- [sentence](/sentence)：文
+- [letter](/letter)：文字
 
-<!-- cvid: aid06_bid38 -->
+<!-- cvid: aid09_bid29 -->

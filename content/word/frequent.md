@@ -81,15 +81,19 @@ TOEICでは形容詞として「頻繁な」「よくある」という意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞として「頻繁な」「よくある」という意味で
 ## 🤔  common との違いは？
 
 - **frequent**：短い間隔で何度も起こる、頻度が高い
-- **[common](/word/common/)**：多くの人や場所で見られる、一般的な
+- **[common](/common)**：多くの人や場所で見られる、一般的な
 
 「frequent」は「回数・頻度」に焦点があり、「common」は「広く普及している・一般的」というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞として「頻繁な」「よくある」という意味で
 
 ## 🧩 あわせて覚えたい
 
-- [occasional](/word/occasional/)：時々の、たまの
-- [regular](/word/regular/)：規則的な、定期的な
+- [occasional](/occasional)：時々の、たまの
+- [regular](/regular)：規則的な、定期的な
 
 ---
 
 ## 📖 できればこれも
 
-- [rare](/word/rare/)：まれな、珍しい
-- [usual](/word/usual/)：いつもの、通常の
+- [rare](/rare)：まれな、珍しい
+- [usual](/usual)：いつもの、通常の
 
-<!-- cvid: aid40_bid17 -->
+<!-- cvid: aid38_bid22 -->

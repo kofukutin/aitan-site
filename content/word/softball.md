@@ -81,15 +81,19 @@ TOEICでは、社内イベントや趣味、スポーツに関する長文や案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社内イベントや趣味、スポーツに関する長文や案
 ## 🤔  baseball との違いは？
 
 - **softball**：野球に似ているが、より大きく柔らかいボールを使い、フィールドやルールもやや異なるスポーツ。
-- **[baseball](/word/baseball/)**：一般的な野球。硬いボールを使い、世界的に広く行われている。
+- **[baseball](/baseball)**：一般的な野球。硬いボールを使い、世界的に広く行われている。
 
 softballは野球よりもボールが大きく柔らかく、ピッチャーの投げ方やフィールドの広さも異なります。主に女性や子ども向けに行われることが多いです。
 
@@ -105,14 +109,14 @@ softballは野球よりもボールが大きく柔らかく、ピッチャーの
 
 ## 🧩 あわせて覚えたい
 
-- [pitch](/word/pitch/)：投球、投げること
-- [bat](/word/bat/)：バット、バットで打つ
+- [pitch](/pitch)：投球、投げること
+- [bat](/bat)：バット、バットで打つ
 
 ---
 
 ## 📖 できればこれも
 
-- [basketball](/word/basketball/)：バスケットボール
-- [tennis](/word/tennis/)：テニス
+- [basketball](/basketball)：バスケットボール
+- [tennis](/tennis)：テニス
 
-<!-- cvid: aid05_bid20 -->
+<!-- cvid: aid48_bid13 -->

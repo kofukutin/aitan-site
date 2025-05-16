@@ -81,15 +81,19 @@ TOEICでは、ウェブサイトやIT関連の話題が出る長文問題で「b
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ウェブサイトやIT関連の話題が出る長文問題で「b
 ## 🤔  website との違いは？
 
 - **blog**：個人や団体が定期的に記事や日記を投稿するウェブサイト、またはその記事自体を指す。
-- **[website](/word/website/)**：インターネット上のあらゆるウェブページの集合体を指し、内容や形式は問わない。
+- **[website](/website)**：インターネット上のあらゆるウェブページの集合体を指し、内容や形式は問わない。
 
 blogは「更新される記事が中心」のサイト、websiteは「全般的なウェブページ」を指す点が異なります。
 
@@ -105,14 +109,14 @@ blogは「更新される記事が中心」のサイト、websiteは「全般的
 
 ## 🧩 あわせて覚えたい
 
-- [journal](/word/journal/)：日記、記録
-- [platform](/word/platform/)：基盤、サービスの場
+- [journal](/journal)：日記、記録
+- [platform](/platform)：基盤、サービスの場
 
 ---
 
 ## 📖 できればこれも
 
-- [post](/word/post/)：投稿、記事
-- [content](/word/content/)：内容、中身
+- [post](/post)：投稿、記事
+- [content](/content)：内容、中身
 
-<!-- cvid: aid21_bid47 -->
+<!-- cvid: aid24_bid43 -->

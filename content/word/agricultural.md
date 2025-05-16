@@ -81,15 +81,19 @@ TOEICでは、農業や環境、産業に関する長文や記事で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、農業や環境、産業に関する長文や記事で出題され
 ## 🤔  farming との違いは？
 
 - **agricultural**：農業に関する（形容詞）。農業分野や農産物、農村など幅広く使う。
-- **[farming](/word/farming/)**：農業（名詞）。実際の農作業や農業活動そのものを指す。
+- **[farming](/farming)**：農業（名詞）。実際の農作業や農業活動そのものを指す。
 
 「agricultural」は形容詞で幅広い農業関連の事柄に使い、「farming」は名詞で実際の農作業や営みを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、農業や環境、産業に関する長文や記事で出題され
 
 ## 🧩 あわせて覚えたい
 
-- [industrial](/word/industrial/)：産業の、工業の
-- [rural](/word/rural/)：田舎の、農村の
+- [industrial](/industrial)：産業の、工業の
+- [rural](/rural)：田舎の、農村の
 
 ---
 
 ## 📖 できればこれも
 
-- [environmental](/word/environmental/)：環境の
-- [economic](/word/economic/)：経済の
+- [environmental](/environmental)：環境の
+- [economic](/economic)：経済の
 
-<!-- cvid: aid03_bid19 -->
+<!-- cvid: aid38_bid38 -->

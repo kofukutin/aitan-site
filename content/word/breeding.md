@@ -81,15 +81,19 @@ TOEICでは、農業や科学、ビジネスの分野での説明文や記事で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、農業や科学、ビジネスの分野での説明文や記事で
 ## 🤔  raising との違いは？
 
 - **breeding**：動物や植物を意図的に繁殖・育種することに重点がある
-- **[raising](/word/raising/)**：動物や子どもなどを育てること全般を指し、繁殖だけでなく成長や世話も含む
+- **[raising](/raising)**：動物や子どもなどを育てること全般を指し、繁殖だけでなく成長や世話も含む
 
 breedingは「繁殖・品種改良」に特化した意味で、raisingは「育てる」全般に使われます。
 
@@ -105,14 +109,14 @@ breedingは「繁殖・品種改良」に特化した意味で、raisingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [reproduction](/word/reproduction/)：生殖、再生産
-- [cultivation](/word/cultivation/)：栽培、耕作
+- [reproduction](/reproduction)：生殖、再生産
+- [cultivation](/cultivation)：栽培、耕作
 
 ---
 
 ## 📖 できればこれも
 
-- [genetics](/word/genetics/)：遺伝学
-- [species](/word/species/)：種（生物分類上の単位）
+- [genetics](/genetics)：遺伝学
+- [species](/species)：種（生物分類上の単位）
 
-<!-- cvid: aid41_bid00 -->
+<!-- cvid: aid08_bid36 -->

@@ -81,15 +81,19 @@ TOEICでは、assessedは主にビジネス文書や報告書の文脈で、過�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、assessedは主にビジネス文書や報告書の文脈で、過�
 ## 🤔  evaluate との違いは？
 
 - **assessed**：価値や状況を客観的・公式に評価する
-- **[evaluate](/word/evaluate/)**：広く「評価する」「価値を見極める」
+- **[evaluate](/evaluate)**：広く「評価する」「価値を見極める」
 
 assessは公式な基準や手順に従って評価するニュアンスが強く、evaluateはより一般的・幅広い評価に使われます。
 
@@ -105,14 +109,14 @@ assessは公式な基準や手順に従って評価するニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate/)：見積もる、概算する
-- [appraise](/word/appraise/)：（専門的に）鑑定する、評価する
+- [estimate](/estimate)：見積もる、概算する
+- [appraise](/appraise)：（専門的に）鑑定する、評価する
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/word/review/)：見直す、再検討する
-- [analyze](/word/analyze/)：分析する
+- [review](/review)：見直す、再検討する
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid34_bid41 -->
+<!-- cvid: aid37_bid27 -->

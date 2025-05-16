@@ -81,15 +81,19 @@ TOEICでは主に環境やエネルギーに関する長文で登場し、太陽
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に環境やエネルギーに関する長文で登場し、太陽
 ## 🤔  lunar との違いは？
 
 - **solar**：太陽の、太陽に関する
-- **[lunar](/word/lunar/)**：月の、月に関する
+- **[lunar](/lunar)**：月の、月に関する
 
 solarは「太陽」に関する事柄、lunarは「月」に関する事柄を指します。天体やカレンダーの話題で使い分けます。
 
@@ -105,14 +109,14 @@ solarは「太陽」に関する事柄、lunarは「月」に関する事柄を�
 
 ## 🧩 あわせて覚えたい
 
-- [sun](/word/sun/)：太陽
-- [photovoltaic](/word/photovoltaic/)：光起電性の（太陽光発電の）
+- [sun](/sun)：太陽
+- [photovoltaic](/photovoltaic)：光起電性の（太陽光発電の）
 
 ---
 
 ## 📖 できればこれも
 
-- [planet](/word/planet/)：惑星
-- [energy](/word/energy/)：エネルギー
+- [planet](/planet)：惑星
+- [energy](/energy)：エネルギー
 
-<!-- cvid: aid18_bid17 -->
+<!-- cvid: aid41_bid02 -->

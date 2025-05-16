@@ -81,15 +81,19 @@ TOEICでは、科学や技術、ビジネスの説明文や記事で「experimen
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid29" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid29" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や技術、ビジネスの説明文や記事で「experimen
 ## 🤔  trial との違いは？
 
 - **experimental**：実験や試験的な性質を持つ、まだ確立されていないものに使う
-- **[trial](/word/trial/)**：試みや試用、裁判など「試すこと」自体やその期間を指す
+- **[trial](/trial)**：試みや試用、裁判など「試すこと」自体やその期間を指す
 
 experimentalは「実験的な性質」や「新しい方法を試す」ことに重点があり、trialは「試す行為」や「試用期間」など具体的な試み自体を指します。
 
@@ -105,14 +109,14 @@ experimentalは「実験的な性質」や「新しい方法を試す」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [theoretical](/word/theoretical/)：理論的な
-- [innovative](/word/innovative/)：革新的な
+- [theoretical](/theoretical)：理論的な
+- [innovative](/innovative)：革新的な
 
 ---
 
 ## 📖 できればこれも
 
-- [hypothesis](/word/hypothesis/)：仮説
-- [method](/word/method/)：方法
+- [hypothesis](/hypothesis)：仮説
+- [method](/method)：方法
 
-<!-- cvid: aid47_bid40 -->
+<!-- cvid: aid12_bid29 -->

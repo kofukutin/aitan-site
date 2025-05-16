@@ -81,15 +81,19 @@ TOEICでは自然や環境、IT分野の会話で「stream」が登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは自然や環境、IT分野の会話で「stream」が登場するこ�
 ## 🤔  river との違いは？
 
 - **stream**：小さめの川や流れを指し、規模が小さい。
-- **[river](/word/river/)**：大きな川を指し、流域や規模が広い。
+- **[river](/river)**：大きな川を指し、流域や規模が広い。
 
 streamは「小川」や「細い流れ」、riverは「大きな川」と使い分けます。
 
@@ -105,14 +109,14 @@ streamは「小川」や「細い流れ」、riverは「大きな川」と使い
 
 ## 🧩 あわせて覚えたい
 
-- [brook](/word/brook/)：小川（streamよりさらに小さい）
-- [flow](/word/flow/)：流れ、流れること
+- [brook](/brook)：小川（streamよりさらに小さい）
+- [flow](/flow)：流れ、流れること
 
 ---
 
 ## 📖 できればこれも
 
-- [lake](/word/lake/)：湖
-- [mountain](/word/mountain/)：山
+- [lake](/lake)：湖
+- [mountain](/mountain)：山
 
-<!-- cvid: aid43_bid02 -->
+<!-- cvid: aid10_bid20 -->

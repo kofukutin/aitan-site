@@ -77,15 +77,19 @@ TOEICでは、疑問文や否定文で「だれか」「だれでも」と尋ね
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、疑問文や否定文で「だれか」「だれでも」と尋ね
 ## 🤔  anyone との違いは？
 
 - **anybody**：ややカジュアルで口語的。「だれでも」「だれか」
-- **[anyone](/word/anyone/)**：ややフォーマルで書き言葉にもよく使われる。「だれでも」「だれか」
+- **[anyone](/anyone)**：ややフォーマルで書き言葉にもよく使われる。「だれでも」「だれか」
 
 どちらも意味はほぼ同じですが、anybodyは会話で、anyoneは書き言葉やフォーマルな場面で使われやすいです。
 
@@ -101,14 +105,14 @@ TOEICでは、疑問文や否定文で「だれか」「だれでも」と尋ね
 
 ## 🧩 あわせて覚えたい
 
-- [somebody](/word/somebody/)：だれか（肯定文でよく使う）
-- [nobody](/word/nobody/)：だれも～ない
+- [somebody](/somebody)：だれか（肯定文でよく使う）
+- [nobody](/nobody)：だれも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [everyone](/word/everyone/)：みんな、全員
-- [someone](/word/someone/)：だれか（somebodyと同義）
+- [everyone](/everyone)：みんな、全員
+- [someone](/someone)：だれか（somebodyと同義）
 
-<!-- cvid: aid07_bid27 -->
+<!-- cvid: aid25_bid11 -->

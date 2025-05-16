@@ -81,15 +81,19 @@ TOEICでは、科学的な説明やビジネス文書の中で「誤認」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid32" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid32" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学的な説明やビジネス文書の中で「誤認」や「
 ## 🤔  mistake との違いは？
 
 - **misidentify**：人や物を「誤って識別する」「間違ったものと認識する」こと
-- **[mistake](/word/mistake/)**：広く「間違える」「誤る」こと全般
+- **[mistake](/mistake)**：広く「間違える」「誤る」こと全般
 
 misidentifyは「誰か・何かを別のものと誤認する」場面で使い、mistakeは内容や行動など幅広い「間違い」に使います。
 
@@ -105,14 +109,14 @@ misidentifyは「誰か・何かを別のものと誤認する」場面で使い
 
 ## 🧩 あわせて覚えたい
 
-- [recognize](/word/recognize/)：認識する、見分ける
-- [misinterpret](/word/misinterpret/)：誤解する、誤って解釈する
+- [recognize](/recognize)：認識する、見分ける
+- [misinterpret](/misinterpret)：誤解する、誤って解釈する
 
 ---
 
 ## 📖 できればこれも
 
-- [detect](/word/detect/)：発見する、検出する
-- [analyze](/word/analyze/)：分析する
+- [detect](/detect)：発見する、検出する
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid38_bid30 -->
+<!-- cvid: aid09_bid32 -->

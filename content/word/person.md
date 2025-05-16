@@ -82,15 +82,19 @@ TOEICでは主に写真描写や人物の説明で頻出します。基本語な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に写真描写や人物の説明で頻出します。基本語な
 ## 🤔  people との違いは？
 
 - **person**：1人の人間を指す単数形
-- **[people](/word/people/)**：2人以上の「人々」を指す複数形
+- **[people](/people)**：2人以上の「人々」を指す複数形
 
 personは「1人」、peopleは「複数人」を表すので、人数によって使い分けます。
 
@@ -106,14 +110,14 @@ personは「1人」、peopleは「複数人」を表すので、人数によっ�
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/word/individual/)：個人、個体
-- [employee](/word/employee/)：従業員
+- [individual](/individual)：個人、個体
+- [employee](/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [human](/word/human/)：人間
-- [staff](/word/staff/)：職員、スタッフ
+- [human](/human)：人間
+- [staff](/staff)：職員、スタッフ
 
-<!-- cvid: aid05_bid16 -->
+<!-- cvid: aid26_bid12 -->

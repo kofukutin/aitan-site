@@ -81,15 +81,19 @@ TOEICではホテルやオフィス、IT関連の説明文で「suite」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやオフィス、IT関連の説明文で「suite」が登�
 ## 🤔  set との違いは？
 
 - **suite**：主に「一続きの部屋」や「関連する一式（特にフォーマル）」を指す
-- **[set](/word/set/)**：一般的な「セット」「組」全般を指し、より幅広い用途
+- **[set](/set)**：一般的な「セット」「組」全般を指し、より幅広い用途
 
 「suite」はホテルやソフトウェアなど、まとまりや高級感を強調する場面で使われ、「set」は日常的な「セット」全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICではホテルやオフィス、IT関連の説明文で「suite」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [series](/word/series/)：連続、シリーズ
-- [package](/word/package/)：パッケージ、一括
+- [series](/series)：連続、シリーズ
+- [package](/package)：パッケージ、一括
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：施設、設備
-- [option](/word/option/)：選択肢、オプション
+- [facility](/facility)：施設、設備
+- [option](/option)：選択肢、オプション
 
-<!-- cvid: aid00_bid23 -->
+<!-- cvid: aid32_bid33 -->

@@ -82,15 +82,19 @@ TOEICでは、会話文や説明文で「初めて会う人」「その場に慣
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会話文や説明文で「初めて会う人」「その場に慣
 ## 🤔  foreigner との違いは？
 
 - **stranger**：その場や集団にとって「見知らぬ人」「初対面の人」
-- **[foreigner](/word/foreigner/)**：国籍や出身地が「外国」の人
+- **[foreigner](/foreigner)**：国籍や出身地が「外国」の人
 
 strangerは「知らない人」という広い意味で使い、国籍は関係ありません。foreignerは「外国人」という意味で、主に国や地域の違いを強調します。
 
@@ -106,14 +110,14 @@ strangerは「知らない人」という広い意味で使い、国籍は関係
 
 ## 🧩 あわせて覚えたい
 
-- [guest](/word/guest/)：客、招待客
-- [acquaintance](/word/acquaintance/)：知人、面識のある人
+- [guest](/guest)：客、招待客
+- [acquaintance](/acquaintance)：知人、面識のある人
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor/)：隣人、近所の人
-- [visitor](/word/visitor/)：訪問者、来客
+- [neighbor](/neighbor)：隣人、近所の人
+- [visitor](/visitor)：訪問者、来客
 
-<!-- cvid: aid23_bid32 -->
+<!-- cvid: aid15_bid24 -->

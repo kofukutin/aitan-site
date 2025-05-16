@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、日常的な場面の説明で「ご
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、日常的な場面の説明で「ご
 ## 🤔  garbage との違いは？
 
 - **trash**：紙くずや空き缶など、乾いたごみを指すことが多い
-- **[garbage](/word/garbage/)**：生ごみなど、湿ったごみを指すことが多い
+- **[garbage](/garbage)**：生ごみなど、湿ったごみを指すことが多い
 
 trashはアメリカ英語で乾いたごみに、garbageは台所の生ごみに使われる傾向があります。
 
@@ -105,14 +109,14 @@ trashはアメリカ英語で乾いたごみに、garbageは台所の生ごみ�
 
 ## 🧩 あわせて覚えたい
 
-- [waste](/word/waste/)：廃棄物、無駄
-- [recycle](/word/recycle/)：リサイクルする、再利用する
+- [waste](/waste)：廃棄物、無駄
+- [recycle](/recycle)：リサイクルする、再利用する
 
 ---
 
 ## 📖 できればこれも
 
-- [bin](/word/bin/)：ごみ箱
-- [clean](/word/clean/)：掃除する、きれいな
+- [bin](/bin)：ごみ箱
+- [clean](/clean)：掃除する、きれいな
 
-<!-- cvid: aid28_bid40 -->
+<!-- cvid: aid09_bid17 -->

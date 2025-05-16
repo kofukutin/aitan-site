@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、建設現場や港などの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、建設現場や港などの場面で
 ## 🤔  hoist との違いは？
 
 - **crane**：重い物を持ち上げたり移動させる大型の機械、または首の長い鳥。
-- **[hoist](/word/hoist/)**：物を持ち上げるための装置や動作そのもの。
+- **[hoist](/hoist)**：物を持ち上げるための装置や動作そのもの。
 
 craneは主に大型の機械や鳥を指し、hoistは「持ち上げる動作」や「持ち上げるための装置」を意味します。
 
@@ -105,14 +109,14 @@ craneは主に大型の機械や鳥を指し、hoistは「持ち上げる動作�
 
 ## 🧩 あわせて覚えたい
 
-- [lift](/word/lift/)：持ち上げる（動詞・名詞）
-- [tower](/word/tower/)：塔、高い建物（名詞）
+- [lift](/lift)：持ち上げる（動詞・名詞）
+- [tower](/tower)：塔、高い建物（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [ladder](/word/ladder/)：はしご（名詞）
-- [truck](/word/truck/)：トラック（名詞）
+- [ladder](/ladder)：はしご（名詞）
+- [truck](/truck)：トラック（名詞）
 
-<!-- cvid: aid11_bid37 -->
+<!-- cvid: aid14_bid29 -->

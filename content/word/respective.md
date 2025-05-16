@@ -80,15 +80,19 @@ TOEICのPart 7（長文読解）で、複数の人や部署が「それぞれ」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid34" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid34" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICのPart 7（長文読解）で、複数の人や部署が「それぞれ」
 ## 🤔  individual との違いは？
 
 - **respective**：複数の人や物に対して「それぞれの」「各自の」とまとめて言うときに使う
-- **[individual](/word/individual/)**：一人ひとり、または個々のものを強調する
+- **[individual](/individual)**：一人ひとり、または個々のものを強調する
 
 **respective**は「それぞれのA、B、C」とまとめて言うときに使い、**individual**は「個々の」「一人ひとりの」と個別性を強調したいときに使います。
 
@@ -104,14 +108,14 @@ TOEICのPart 7（長文読解）で、複数の人や部署が「それぞれ」
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate/)：別々の、分かれた
-- [collective](/word/collective/)：集団の、共同の
+- [separate](/separate)：別々の、分かれた
+- [collective](/collective)：集団の、共同の
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant/)：関連する
-- [specific](/word/specific/)：特定の、具体的な
+- [relevant](/relevant)：関連する
+- [specific](/specific)：特定の、具体的な
 
-<!-- cvid: aid14_bid28 -->
+<!-- cvid: aid20_bid34 -->

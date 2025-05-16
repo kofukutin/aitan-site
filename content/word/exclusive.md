@@ -81,15 +81,19 @@ TOEICでは、契約やサービス、会員制度などの文脈で「限定的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約やサービス、会員制度などの文脈で「限定的
 ## 🤔  unique との違いは？
 
 - **exclusive**：他を排除して「限定的」「独占的」であることを強調
-- **[unique](/word/unique/)**：唯一無二で「他にない」「特有の」という意味
+- **[unique](/unique)**：唯一無二で「他にない」「特有の」という意味
 
 exclusiveは「限られた人・範囲だけに当てはまる」こと、uniqueは「他と全く同じものがない」ことを表します。
 
@@ -105,14 +109,14 @@ exclusiveは「限られた人・範囲だけに当てはまる」こと、uniqu
 
 ## 🧩 あわせて覚えたい
 
-- [limited](/word/limited/)：限定された、限られた
-- [private](/word/private/)：私的な、個人的な
+- [limited](/limited)：限定された、限られた
+- [private](/private)：私的な、個人的な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific/)：特定の、明確な
-- [particular](/word/particular/)：特定の、特別な
+- [specific](/specific)：特定の、明確な
+- [particular](/particular)：特定の、特別な
 
-<!-- cvid: aid15_bid26 -->
+<!-- cvid: aid22_bid33 -->

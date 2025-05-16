@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で自動車の部品として登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で自動車の部品として登場しま
 ## 🤔  fender との違いは？
 
 - **bumper**：車の前後にある衝撃吸収用の部品
-- **[fender](/word/fender/)**：車輪の上にある泥よけや保護カバー
+- **[fender](/fender)**：車輪の上にある泥よけや保護カバー
 
 bumperは衝突時のダメージを和らげる部品、fenderはタイヤ周りの泥よけや保護カバーを指します。用途と位置が異なります。
 
@@ -105,14 +109,14 @@ bumperは衝突時のダメージを和らげる部品、fenderはタイヤ周�
 
 ## 🧩 あわせて覚えたい
 
-- [shield](/word/shield/)：盾、防御するもの
-- [guard](/word/guard/)：守るもの、ガード
+- [shield](/shield)：盾、防御するもの
+- [guard](/guard)：守るもの、ガード
 
 ---
 
 ## 📖 できればこれも
 
-- [mirror](/word/mirror/)：鏡、ミラー
-- [license](/word/license/)：免許、許可証
+- [mirror](/mirror)：鏡、ミラー
+- [license](/license)：免許、許可証
 
-<!-- cvid: aid23_bid13 -->
+<!-- cvid: aid22_bid35 -->

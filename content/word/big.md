@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【big】の意味・使い方・例文 ― largeとの違い【TOEIC英単語】"
 description: "bigの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlargeとの違いもわかりやすく学べます。"
 word: "big"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「大きい物」や「規模の大きさ」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「大きい物」や「規模の大きさ」
 ## 🤔  large との違いは？
 
 - **big**：カジュアルで、物の大きさや規模、または重要性を幅広く表す。
-- **[large](/word/large/)**：ややフォーマルで、物理的な大きさや容量を客観的に表す。
+- **[large](/large)**：ややフォーマルで、物理的な大きさや容量を客観的に表す。
 
 「big」は感覚的・主観的な「大きい」に使われやすく、「large」はサイズや容量など客観的な「大きい」に使われます。
 
@@ -105,14 +109,14 @@ TOEICではPart 1の写真描写で「大きい物」や「規模の大きさ」
 
 ## 🧩 あわせて覚えたい
 
-- [huge](/word/huge/)：とても大きい、巨大な
-- [small](/word/small/)：小さい
+- [huge](/huge)：とても大きい、巨大な
+- [small](/small)：小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [tall](/word/tall/)：背が高い
-- [long](/word/long/)：長い
+- [tall](/tall)：背が高い
+- [long](/long)：長い
 
-<!-- cvid: aid04_bid34 -->
+<!-- cvid: aid19_bid17 -->

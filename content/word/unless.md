@@ -77,15 +77,19 @@ TOEICでは文法問題や条件文の選択肢として頻出です。特にif�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは文法問題や条件文の選択肢として頻出です。特にif�
 ## 🤔  except との違いは？
 
 - **unless**：条件文で「～でない限り」「もし～でなければ」と使う
-- **[except](/word/except/)**：名詞や句を除外する「～を除いて」
+- **[except](/except)**：名詞や句を除外する「～を除いて」
 
 unlessは主に文の条件を表す接続詞、exceptは名詞や句を除外する前置詞・接続詞として使い分けます。
 
@@ -101,14 +105,14 @@ unlessは主に文の条件を表す接続詞、exceptは名詞や句を除外�
 
 ## 🧩 あわせて覚えたい
 
-- [if](/word/if/)：もし～なら（条件を表す接続詞）
-- [otherwise](/word/otherwise/)：さもなければ（別の条件や結果を示す副詞）
+- [if](/if)：もし～なら（条件を表す接続詞）
+- [otherwise](/otherwise)：さもなければ（別の条件や結果を示す副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [although](/word/although/)：～だけれども（譲歩を表す接続詞）
-- [since](/word/since/)：～なので、～以来（理由・時を表す接続詞）
+- [although](/although)：～だけれども（譲歩を表す接続詞）
+- [since](/since)：～なので、～以来（理由・時を表す接続詞）
 
-<!-- cvid: aid32_bid19 -->
+<!-- cvid: aid43_bid34 -->

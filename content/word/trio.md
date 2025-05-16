@@ -80,15 +80,19 @@ TOEICでは、チームやグループの説明文や、イベント案内など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、チームやグループの説明文や、イベント案内など
 ## 🤔  threesome との違いは？
 
 - **trio**：主に音楽やビジネスなどフォーマルな場面で使う「3人組」や「三重奏」。
-- **[threesome](/word/threesome/)**：カジュアルな「3人組」や、時に親密な関係を指すこともある。
+- **[threesome](/threesome)**：カジュアルな「3人組」や、時に親密な関係を指すこともある。
 
 trioはフォーマルなグループや音楽用語で使われるのに対し、threesomeは日常的・カジュアルな3人組や親密な関係を指す場合があります。
 
@@ -104,14 +108,14 @@ trioはフォーマルなグループや音楽用語で使われるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [quartet](/word/quartet/)：4人組、四重奏
-- [duo](/word/duo/)：2人組、二重奏
+- [quartet](/quartet)：4人組、四重奏
+- [duo](/duo)：2人組、二重奏
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/word/group/)：グループ、集団
-- [team](/word/team/)：チーム、組
+- [group](/group)：グループ、集団
+- [team](/team)：チーム、組
 
-<!-- cvid: aid28_bid49 -->
+<!-- cvid: aid42_bid37 -->

@@ -81,15 +81,19 @@ TOEICではプレゼンや会議、イベントの場面で「audience」がよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではプレゼンや会議、イベントの場面で「audience」がよ�
 ## 🤔  spectator との違いは？
 
 - **audience**：舞台や講演、テレビなどを「聞いたり見たりする」聴衆・観客の集団
-- **[spectator](/word/spectator/)**：スポーツやイベントなどを「見る」観客
+- **[spectator](/spectator)**：スポーツやイベントなどを「見る」観客
 
 audienceは「聞く・見る」両方に使え、フォーマルな場面や室内イベントでよく使われます。spectatorは主にスポーツや屋外イベントの「見る」観客に使われます。
 
@@ -105,14 +109,14 @@ audienceは「聞く・見る」両方に使え、フォーマルな場面や室
 
 ## 🧩 あわせて覚えたい
 
-- [listener](/word/listener/)：聞き手
-- [participant](/word/participant/)：参加者
+- [listener](/listener)：聞き手
+- [participant](/participant)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：プレゼンテーション
-- [lecture](/word/lecture/)：講義
+- [presentation](/presentation)：プレゼンテーション
+- [lecture](/lecture)：講義
 
-<!-- cvid: aid25_bid25 -->
+<!-- cvid: aid24_bid15 -->

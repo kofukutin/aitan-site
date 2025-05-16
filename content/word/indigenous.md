@@ -81,15 +81,19 @@ TOEICでは環境や文化、社会問題に関する長文で「indigenous」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や文化、社会問題に関する長文で「indigenous」�
 ## 🤔  native との違いは？
 
 - **indigenous**：その土地に元々存在する、自然発生的な（特に人や動植物に使う）
-- **[native](/word/native/)**：生まれつきその土地に属する、または出身の（人・動植物・言語など幅広く使う）
+- **[native](/native)**：生まれつきその土地に属する、または出身の（人・動植物・言語など幅広く使う）
 
 indigenousは「先住」や「固有」のニュアンスが強く、nativeは「生まれつき」や「出身」の意味でより広く使われます。
 
@@ -105,14 +109,14 @@ indigenousは「先住」や「固有」のニュアンスが強く、nativeは�
 
 ## 🧩 あわせて覚えたい
 
-- [foreign](/word/foreign/)：外国の、異国の
-- [aboriginal](/word/aboriginal/)：（特にオーストラリアの）先住の、原住の
+- [foreign](/foreign)：外国の、異国の
+- [aboriginal](/aboriginal)：（特にオーストラリアの）先住の、原住の
 
 ---
 
 ## 📖 できればこれも
 
-- [domestic](/word/domestic/)：国内の、家庭の
-- [local](/word/local/)：地元の、地域の
+- [domestic](/domestic)：国内の、家庭の
+- [local](/local)：地元の、地域の
 
-<!-- cvid: aid42_bid36 -->
+<!-- cvid: aid04_bid45 -->

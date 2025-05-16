@@ -82,15 +82,19 @@ TOEICではPart 5の語彙・文法問題で頻出です。必要性や条件を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 5の語彙・文法問題で頻出です。必要性や条件を
 ## 🤔  essential との違いは？
 
 - **necessary**：目的達成や状況に応じて「必要な」「欠かせない」
-- **[essential](/word/essential/)**：絶対に欠かせない、本質的に必要な
+- **[essential](/essential)**：絶対に欠かせない、本質的に必要な
 
 **necessary**は状況や目的によって必要なものを指し、**essential**はそれがなければ成り立たないほど重要なものを指します。
 
@@ -106,14 +110,14 @@ TOEICではPart 5の語彙・文法問題で頻出です。必要性や条件を
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [required](/word/required/)：要求された、必須の
+- [optional](/optional)：任意の、選択できる
+- [required](/required)：要求された、必須の
 
 ---
 
 ## 📖 できればこれも
 
-- [important](/word/important/)：重要な
-- [basic](/word/basic/)：基本的な
+- [important](/important)：重要な
+- [basic](/basic)：基本的な
 
-<!-- cvid: aid12_bid43 -->
+<!-- cvid: aid06_bid10 -->

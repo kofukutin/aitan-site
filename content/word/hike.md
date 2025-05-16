@@ -82,15 +82,19 @@ TOEICでは、旅行やレジャー、アウトドア活動の話題で「hike�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、旅行やレジャー、アウトドア活動の話題で「hike�
 ## 🤔  walk との違いは？
 
 - **hike**：自然の中を長距離歩く、または値上げの意味もある
-- **[walk](/word/walk/)**：一般的に歩くこと全般を指す
+- **[walk](/walk)**：一般的に歩くこと全般を指す
 
 hikeは特に「山や自然の中を長距離歩く」ニュアンスが強く、walkは「日常的に歩く」など幅広く使われます。
 
@@ -106,14 +110,14 @@ hikeは特に「山や自然の中を長距離歩く」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [climb](/word/climb/)：登る
-- [trek](/word/trek/)：長く困難な道を歩く
+- [climb](/climb)：登る
+- [trek](/trek)：長く困難な道を歩く
 
 ---
 
 ## 📖 できればこれも
 
-- [camp](/word/camp/)：キャンプする
-- [explore](/word/explore/)：探検する
+- [camp](/camp)：キャンプする
+- [explore](/explore)：探検する
 
-<!-- cvid: aid32_bid41 -->
+<!-- cvid: aid19_bid03 -->

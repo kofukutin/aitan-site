@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメール、契約関連の長文で「入
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメール、契約関連の長文で「入
 ## 🤔  offer との違いは？
 
 - **bid**：競争やオークションなどで「値段や条件を提示して申し出る」「入札する」こと。
-- **[offer](/word/offer/)**：一般的に「申し出る」「提供する」こと。競争や入札のニュアンスはない。
+- **[offer](/offer)**：一般的に「申し出る」「提供する」こと。競争や入札のニュアンスはない。
 
 bidは競争や入札の場面で使われ、offerは広く「申し出る」場合に使われます。
 
@@ -105,14 +109,14 @@ bidは競争や入札の場面で使われ、offerは広く「申し出る」場
 
 ## 🧩 あわせて覚えたい
 
-- [propose](/word/propose/)：提案する
-- [tender](/word/tender/)：（正式に）入札する、提出する
+- [propose](/propose)：提案する
+- [tender](/tender)：（正式に）入札する、提出する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：申し込む、応募する
-- [submit](/word/submit/)：提出する
+- [apply](/apply)：申し込む、応募する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid18_bid13 -->
+<!-- cvid: aid31_bid49 -->

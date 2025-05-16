@@ -81,15 +81,19 @@ TOEICでは会議やイベントの案内、出席依頼などの場面でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの案内、出席依頼などの場面でよく
 ## 🤔  request との違いは？
 
 - **invite**：人をイベントや行動に「招待する」「誘う」意味で、相手に参加を促すニュアンス。
-- **[request](/word/request/)**：何かを「依頼する」「要請する」意味で、相手に行動を求めるが、招待の意味は含まない。
+- **[request](/request)**：何かを「依頼する」「要請する」意味で、相手に行動を求めるが、招待の意味は含まない。
 
 inviteは「一緒に来てほしい」「参加してほしい」と相手を歓迎する気持ちが強く、requestは「してほしいこと」を丁寧に頼む時に使います。
 
@@ -105,14 +109,14 @@ inviteは「一緒に来てほしい」「参加してほしい」と相手を�
 
 ## 🧩 あわせて覚えたい
 
-- [accept](/word/accept/)：受け入れる、承諾する
-- [decline](/word/decline/)：断る、辞退する
+- [accept](/accept)：受け入れる、承諾する
+- [decline](/decline)：断る、辞退する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [schedule](/word/schedule/)：予定する、スケジュールを組む
+- [arrange](/arrange)：手配する、準備する
+- [schedule](/schedule)：予定する、スケジュールを組む
 
-<!-- cvid: aid08_bid45 -->
+<!-- cvid: aid48_bid35 -->

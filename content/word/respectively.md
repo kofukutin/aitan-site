@@ -77,15 +77,19 @@ TOEICの長文読解パートで、データや複数の項目を順に説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICの長文読解パートで、データや複数の項目を順に説明す
 ## 🤔  individually との違いは？
 
 - **respectively**：前に述べた複数のものに「順番に対応して」それぞれ当てはまることを表す
-- **[individually](/word/individually/)**：一つ一つ「個別に」「単独で」という意味
+- **[individually](/individually)**：一つ一つ「個別に」「単独で」という意味
 
 respectivelyは「順番に対応する」ことを強調し、individuallyは「一つずつ分けて」扱うニュアンスです。
 
@@ -101,14 +105,14 @@ respectivelyは「順番に対応する」ことを強調し、individuallyは�
 
 ## 🧩 あわせて覚えたい
 
-- [separately](/word/separately/)：別々に、分けて
-- [collectively](/word/collectively/)：まとめて、集団で
+- [separately](/separately)：別々に、分けて
+- [collectively](/collectively)：まとめて、集団で
 
 ---
 
 ## 📖 できればこれも
 
-- [simultaneously](/word/simultaneously/)：同時に
-- [alternately](/word/alternately/)：交互に
+- [simultaneously](/simultaneously)：同時に
+- [alternately](/alternately)：交互に
 
-<!-- cvid: aid35_bid26 -->
+<!-- cvid: aid34_bid49 -->

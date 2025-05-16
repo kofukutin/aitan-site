@@ -81,15 +81,19 @@ TOEICでは医療やビジネスの文脈で「管理する」「実施する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療やビジネスの文脈で「管理する」「実施する」
 ## 🤔  manage との違いは？
 
 - **administered**：フォーマルに「管理する」「施行する」「投与する」など、公式な手続きを強調
-- **[manage](/word/manage/)**：より広く「管理する」「うまく扱う」など柔軟な意味
+- **[manage](/manage)**：より広く「管理する」「うまく扱う」など柔軟な意味
 
 「administered」は公式な場面や医療・試験などで使われ、手続きや規則に従って何かを行うニュアンスが強いです。一方「manage」は日常的な管理や運営全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは医療やビジネスの文脈で「管理する」「実施する」
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise/)：監督する
-- [execute](/word/execute/)：実行する
+- [supervise](/supervise)：監督する
+- [execute](/execute)：実行する
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe/)：処方する
-- [conduct](/word/conduct/)：実施する
+- [prescribe](/prescribe)：処方する
+- [conduct](/conduct)：実施する
 
-<!-- cvid: aid14_bid17 -->
+<!-- cvid: aid32_bid10 -->

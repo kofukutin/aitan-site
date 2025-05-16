@@ -81,15 +81,19 @@ TOEICでは、スケジュールや計画、方針の「調整」や「修正」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、スケジュールや計画、方針の「調整」や「修正」
 ## 🤔  modification との違いは？
 
 - **adjustment**：状況に合わせて少し変える調整や修正
-- **[modification](/word/modification/)**：元のものに手を加えて部分的に変更すること
+- **[modification](/modification)**：元のものに手を加えて部分的に変更すること
 
 adjustmentは微調整や適応のニュアンスが強く、modificationはより明確な変更や改造を指します。
 
@@ -105,14 +109,14 @@ adjustmentは微調整や適応のニュアンスが強く、modificationはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [correction](/word/correction/)：訂正、修正
-- [adaptation](/word/adaptation/)：適応、順応
+- [correction](/correction)：訂正、修正
+- [adaptation](/adaptation)：適応、順応
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/word/arrangement/)：手配、準備
-- [revision](/word/revision/)：改訂、見直し
+- [arrangement](/arrangement)：手配、準備
+- [revision](/revision)：改訂、見直し
 
-<!-- cvid: aid12_bid45 -->
+<!-- cvid: aid31_bid06 -->

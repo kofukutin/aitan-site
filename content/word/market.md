@@ -82,15 +82,19 @@ TOEICではビジネス文書や広告、Eメールなどで「市場」「マ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではビジネス文書や広告、Eメールなどで「市場」「マ�
 ## 🤔  store との違いは？
 
 - **market**：商品やサービスが売買される場所や経済的な市場全体を指す
-- **[store](/word/store/)**：商品を販売する個々の店舗やお店を指す
+- **[store](/store)**：商品を販売する個々の店舗やお店を指す
 
 marketは「市場」や「マーケット」として広い範囲や経済的な意味も持ちますが、storeは「お店」「店舗」として個別の販売場所を指します。
 
@@ -106,14 +110,14 @@ marketは「市場」や「マーケット」として広い範囲や経済的�
 
 ## 🧩 あわせて覚えたい
 
-- [shop](/word/shop/)：小売店、商店
-- [bazaar](/word/bazaar/)：バザー、市場（特に東洋や中東の市場）
+- [shop](/shop)：小売店、商店
+- [bazaar](/bazaar)：バザー、市場（特に東洋や中東の市場）
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer/)：顧客
-- [product](/word/product/)：製品
+- [customer](/customer)：顧客
+- [product](/product)：製品
 
-<!-- cvid: aid10_bid39 -->
+<!-- cvid: aid12_bid27 -->

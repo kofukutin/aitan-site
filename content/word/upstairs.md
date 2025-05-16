@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写問題で、人物や物の位置を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、人物や物の位置を説明
 ## 🤔  above との違いは？
 
 - **upstairs**：建物の「上の階」や「階上」を表すカジュアルな副詞
-- **[above](/word/above/)**：物理的に「上方に」「上にある」ことを表す前置詞・副詞
+- **[above](/above)**：物理的に「上方に」「上にある」ことを表す前置詞・副詞
 
 upstairsは建物内の階層を指し、aboveは単純に上下関係や高さを表します。階段やフロアの話ならupstairs、位置関係ならaboveを使います。
 
@@ -101,14 +105,14 @@ upstairsは建物内の階層を指し、aboveは単純に上下関係や高さ�
 
 ## 🧩 あわせて覚えたい
 
-- [downstairs](/word/downstairs/)：下の階へ、階下で
-- [overhead](/word/overhead/)：頭上に、上方に
+- [downstairs](/downstairs)：下の階へ、階下で
+- [overhead](/overhead)：頭上に、上方に
 
 ---
 
 ## 📖 できればこれも
 
-- [inside](/word/inside/)：中に、屋内で
-- [outside](/word/outside/)：外に、屋外で
+- [inside](/inside)：中に、屋内で
+- [outside](/outside)：外に、屋外で
 
-<!-- cvid: aid45_bid27 -->
+<!-- cvid: aid47_bid17 -->

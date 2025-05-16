@@ -81,15 +81,19 @@ TOEICでは観光やイベント紹介の記事、広告文などで登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント紹介の記事、広告文などで登場する
 ## 🤔  club との違いは？
 
 - **disco**：ダンス音楽を流して踊ることが中心のクラブや会場
-- **[club](/word/club/)**：会員制の社交クラブや、バー・ライブハウスなど幅広い意味で使われる
+- **[club](/club)**：会員制の社交クラブや、バー・ライブハウスなど幅広い意味で使われる
 
 discoは特にダンスや音楽に特化した場所を指し、clubはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ discoは特にダンスや音楽に特化した場所を指し、clubはより�
 
 ## 🧩 あわせて覚えたい
 
-- [bar](/word/bar/)：バー、酒場
-- [dance](/word/dance/)：踊る、ダンス
+- [bar](/bar)：バー、酒場
+- [dance](/dance)：踊る、ダンス
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music/)：音楽
-- [party](/word/party/)：パーティー、集まり
+- [music](/music)：音楽
+- [party](/party)：パーティー、集まり
 
-<!-- cvid: aid43_bid31 -->
+<!-- cvid: aid49_bid28 -->

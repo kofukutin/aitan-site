@@ -77,15 +77,19 @@ TOEICでは、代名詞の使い分けや「none of＋複数名詞」の形で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、代名詞の使い分けや「none of＋複数名詞」の形で�
 ## 🤔  nothing との違いは？
 
 - **none**：前に出た名詞を受けて「その中のどれもない」と言う時に使う。
-- **[nothing](/word/nothing/)**：物や事柄が「何もない」と言う時に使う。
+- **[nothing](/nothing)**：物や事柄が「何もない」と言う時に使う。
 
 noneは「none of the people」など具体的な集団や物の中から「ゼロ」を表すのに対し、nothingは「何も存在しない」という抽象的な意味で使います。
 
@@ -101,14 +105,14 @@ noneは「none of the people」など具体的な集団や物の中から「ゼ�
 
 ## 🧩 あわせて覚えたい
 
-- [neither](/word/neither/)：どちらも～ない
-- [any](/word/any/)：どれか、いくらか（否定文で「どれも～ない」）
+- [neither](/neither)：どちらも～ない
+- [any](/any)：どれか、いくらか（否定文で「どれも～ない」）
 
 ---
 
 ## 📖 できればこれも
 
-- [some](/word/some/)：いくつかの
-- [all](/word/all/)：すべての
+- [some](/some)：いくつかの
+- [all](/all)：すべての
 
-<!-- cvid: aid24_bid23 -->
+<!-- cvid: aid28_bid09 -->

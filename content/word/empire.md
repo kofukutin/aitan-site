@@ -81,15 +81,19 @@ She built a business empire from scratch.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ She built a business empire from scratch.
 ## 🤔  kingdom との違いは？
 
 - **empire**：複数の国や地域を支配する大規模な「帝国」や巨大組織
-- **[kingdom](/word/kingdom/)**：王が治める「王国」、単一国家の意味が強い
+- **[kingdom](/kingdom)**：王が治める「王国」、単一国家の意味が強い
 
 empireは広範囲・多民族を支配する大きな組織や国家、kingdomは一人の王が治める比較的まとまった国を指します。
 
@@ -105,14 +109,14 @@ empireは広範囲・多民族を支配する大きな組織や国家、kingdom�
 
 ## 🧩 あわせて覚えたい
 
-- [dynasty](/word/dynasty/)：王朝、同じ家系による支配
-- [republic](/word/republic/)：共和国、国民が主権を持つ国家
+- [dynasty](/dynasty)：王朝、同じ家系による支配
+- [republic](/republic)：共和国、国民が主権を持つ国家
 
 ---
 
 ## 📖 できればこれも
 
-- [emperor](/word/emperor/)：皇帝
-- [colony](/word/colony/)：植民地
+- [emperor](/emperor)：皇帝
+- [colony](/colony)：植民地
 
-<!-- cvid: aid06_bid22 -->
+<!-- cvid: aid31_bid32 -->

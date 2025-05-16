@@ -81,15 +81,19 @@ TOEICの長文読解パートで、説明文や比較、要約の中で「本質
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、説明文や比較、要約の中で「本質
 ## 🤔  basically との違いは？
 
 - **essentially**：本質や根本的な部分を強調して「本質的に」「根本的には」と言いたいときに使う
-- **[basically](/word/basically/)**：細かい点を除いて「基本的に」「大まかに」と言いたいときに使う
+- **[basically](/basically)**：細かい点を除いて「基本的に」「大まかに」と言いたいときに使う
 
 「essentially」は物事の本質や根本に焦点を当てるのに対し、「basically」は細部を省略して大まかな特徴を述べるときに使います。
 
@@ -105,14 +109,14 @@ TOEICの長文読解パートで、説明文や比較、要約の中で「本質
 
 ## 🧩 あわせて覚えたい
 
-- [fundamentally](/word/fundamentally/)：根本的に
-- [primarily](/word/primarily/)：主に
+- [fundamentally](/fundamentally)：根本的に
+- [primarily](/primarily)：主に
 
 ---
 
 ## 📖 できればこれも
 
-- [significantly](/word/significantly/)：著しく、かなり
-- [particularly](/word/particularly/)：特に
+- [significantly](/significantly)：著しく、かなり
+- [particularly](/particularly)：特に
 
-<!-- cvid: aid38_bid13 -->
+<!-- cvid: aid22_bid49 -->

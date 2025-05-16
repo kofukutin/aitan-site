@@ -81,15 +81,19 @@ TOEICでは環境問題や企業の社会的責任（CSR）に関する長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や企業の社会的責任（CSR）に関する長文で
 ## 🤔  durability との違いは？
 
 - **sustainability**：環境や社会全体が長く続くこと、持続可能性
-- **[durability](/word/durability/)**：物や製品が壊れず長持ちすること、耐久性
+- **[durability](/durability)**：物や製品が壊れず長持ちすること、耐久性
 
 sustainabilityは社会や環境など広い視点での「持続可能性」を指し、durabilityは主に物の「壊れにくさ・長持ち」を表します。
 
@@ -105,14 +109,14 @@ sustainabilityは社会や環境など広い視点での「持続可能性」を
 
 ## 🧩 あわせて覚えたい
 
-- [environment](/word/environment/)：環境
-- [conservation](/word/conservation/)：保護、保存
+- [environment](/environment)：環境
+- [conservation](/conservation)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [renewable](/word/renewable/)：再生可能な
-- [efficiency](/word/efficiency/)：効率
+- [renewable](/renewable)：再生可能な
+- [efficiency](/efficiency)：効率
 
-<!-- cvid: aid04_bid48 -->
+<!-- cvid: aid33_bid01 -->

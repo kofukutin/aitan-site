@@ -81,15 +81,19 @@ TOEICでは、社会問題や福祉関連の長文、寄付や支援に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社会問題や福祉関連の長文、寄付や支援に関する
 ## 🤔  poor との違いは？
 
 - **needy**：経済的・精神的に「助けや支援を必要としている」状態を強調
-- **[poor](/word/poor/)**：単に「貧しい」「お金がない」状態を表す
+- **[poor](/poor)**：単に「貧しい」「お金がない」状態を表す
 
 「needy」は「支援を求めている」ニュアンスが強く、福祉や心理的な文脈でも使われます。「poor」は単なる経済状態を指すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、社会問題や福祉関連の長文、寄付や支援に関する
 
 ## 🧩 あわせて覚えたい
 
-- [impoverished](/word/impoverished/)：極度に貧しい
-- [dependent](/word/dependent/)：依存している、頼っている
+- [impoverished](/impoverished)：極度に貧しい
+- [dependent](/dependent)：依存している、頼っている
 
 ---
 
 ## 📖 できればこれも
 
-- [generous](/word/generous/)：気前が良い、寛大な
-- [supportive](/word/supportive/)：支援的な、協力的な
+- [generous](/generous)：気前が良い、寛大な
+- [supportive](/supportive)：支援的な、協力的な
 
-<!-- cvid: aid38_bid15 -->
+<!-- cvid: aid02_bid18 -->

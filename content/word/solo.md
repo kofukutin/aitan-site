@@ -81,15 +81,19 @@ TOEICでは、会話やプレゼンテーション、音楽イベントの話題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話やプレゼンテーション、音楽イベントの話題
 ## 🤔  alone との違いは？
 
 - **solo**：音楽や発表など「一人で行う演奏・活動」を指す名詞や形容詞。
-- **[alone](/word/alone/)**：単に「一人で」「孤独に」という状態を表す形容詞・副詞。
+- **[alone](/alone)**：単に「一人で」「孤独に」という状態を表す形容詞・副詞。
 
 soloは「一人で行う特定の行為」に焦点があり、aloneは「誰もいない状態」や「孤独さ」に重点があります。
 
@@ -105,14 +109,14 @@ soloは「一人で行う特定の行為」に焦点があり、aloneは「誰�
 
 ## 🧩 あわせて覚えたい
 
-- [duet](/word/duet/)：二重奏、二人で行う演奏
-- [individual](/word/individual/)：個人、個々の
+- [duet](/duet)：二重奏、二人で行う演奏
+- [individual](/individual)：個人、個々の
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [group](/word/group/)：グループ、集団
+- [team](/team)：チーム、団体
+- [group](/group)：グループ、集団
 
-<!-- cvid: aid43_bid02 -->
+<!-- cvid: aid02_bid16 -->

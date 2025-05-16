@@ -81,15 +81,19 @@ TOEICではホテルやイベントの案内文、広告などで「無料の」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやイベントの案内文、広告などで「無料の」
 ## 🤔  free との違いは？
 
 - **complimentary**：サービスや好意で「無料で提供される」ものに使う。ややフォーマル。
-- **[free](/word/free/)**：制限や支払いがなく「自由」「無料」であること全般に使う。
+- **[free](/free)**：制限や支払いがなく「自由」「無料」であること全般に使う。
 
 「complimentary」はホテルやイベントなどで「特典として無料」のニュアンスが強く、「free」はもっと広く一般的な「無料」に使われます。
 
@@ -105,14 +109,14 @@ TOEICではホテルやイベントの案内文、広告などで「無料の」
 
 ## 🧩 あわせて覚えたい
 
-- [gratuity](/word/gratuity/)：心づけ、チップ
-- [courtesy](/word/courtesy/)：礼儀、好意
+- [gratuity](/gratuity)：心づけ、チップ
+- [courtesy](/courtesy)：礼儀、好意
 
 ---
 
 ## 📖 できればこれも
 
-- [generous](/word/generous/)：気前のよい
-- [voucher](/word/voucher/)：引換券、クーポン
+- [generous](/generous)：気前のよい
+- [voucher](/voucher)：引換券、クーポン
 
-<!-- cvid: aid31_bid28 -->
+<!-- cvid: aid13_bid00 -->

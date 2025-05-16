@@ -81,15 +81,19 @@ TOEICでは「情報を集める」「料金を回収する」などの意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「情報を集める」「料金を回収する」などの意味で
 ## 🤔  gather との違いは？
 
 - **collect**：目的を持って計画的に集めるニュアンスが強い
-- **[gather](/word/gather/)**：人や物が自然に集まる、または広く集めるイメージ
+- **[gather](/gather)**：人や物が自然に集まる、または広く集めるイメージ
 
 collectは「意図的・計画的に集める」、gatherは「自然に集まる・広く集める」場面で使い分けます。
 
@@ -105,14 +109,14 @@ collectは「意図的・計画的に集める」、gatherは「自然に集ま�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：集めて組み立てる、集合する
-- [accumulate](/word/accumulate/)：（長期間にわたり）蓄積する
+- [assemble](/assemble)：集めて組み立てる、集合する
+- [accumulate](/accumulate)：（長期間にわたり）蓄積する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：整理する、まとめる
-- [receive](/word/receive/)：受け取る
+- [organize](/organize)：整理する、まとめる
+- [receive](/receive)：受け取る
 
-<!-- cvid: aid10_bid14 -->
+<!-- cvid: aid30_bid02 -->

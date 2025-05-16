@@ -83,15 +83,19 @@ TOEICでは「去る」「休暇を取る」「残す」など複数の意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは「去る」「休暇を取る」「残す」など複数の意味で
 ## 🤔  remain との違いは？
 
 - **leave**：その場を去る、または何かを残していく
-- **[remain](/word/remain/)**：その場にとどまる、残り続ける
+- **[remain](/remain)**：その場にとどまる、残り続ける
 
 leaveは「離れる・去る」動作、remainは「そのままいる」状態を表します。  
 「誰かが部屋をleaveすれば、その人はもういませんが、remainならまだそこにいます。」
@@ -108,14 +112,14 @@ leaveは「離れる・去る」動作、remainは「そのままいる」状態
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart/)：出発する、離れる
-- [abandon](/word/abandon/)：見捨てる、放棄する
+- [depart](/depart)：出発する、離れる
+- [abandon](/abandon)：見捨てる、放棄する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive/)：到着する
-- [stay](/word/stay/)：滞在する、とどまる
+- [arrive](/arrive)：到着する
+- [stay](/stay)：滞在する、とどまる
 
-<!-- cvid: aid03_bid17 -->
+<!-- cvid: aid22_bid48 -->

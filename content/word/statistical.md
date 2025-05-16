@@ -81,15 +81,19 @@ TOEICでは主にレポートや調査結果、分析に関する長文で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にレポートや調査結果、分析に関する長文で出題
 ## 🤔  quantitative との違いは？
 
 - **statistical**：統計に関する、統計手法や統計データを扱う際に使う
-- **[quantitative](/word/quantitative/)**：量的な、数量で表せるものに使う
+- **[quantitative](/quantitative)**：量的な、数量で表せるものに使う
 
 「statistical」は統計学や統計データに直接関係する場合に使い、「quantitative」は単に「数値で表せる」ことを指します。
 
@@ -105,14 +109,14 @@ TOEICでは主にレポートや調査結果、分析に関する長文で出題
 
 ## 🧩 あわせて覚えたい
 
-- [numerical](/word/numerical/)：数値の、数字で表した
-- [analytical](/word/analytical/)：分析的な
+- [numerical](/numerical)：数値の、数字で表した
+- [analytical](/analytical)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [statistic](/word/statistic/)：統計値、統計資料
-- [analyze](/word/analyze/)：分析する
+- [statistic](/statistic)：統計値、統計資料
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid43_bid02 -->
+<!-- cvid: aid21_bid42 -->

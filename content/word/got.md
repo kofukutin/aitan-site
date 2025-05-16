@@ -81,15 +81,19 @@ TOEICではPart 2の会話応答や、日常的なやりとりの中でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2の会話応答や、日常的なやりとりの中でよく登
 ## 🤔  received との違いは？
 
 - **got**：カジュアルで幅広く「得た」「受け取った」を表す
-- **[received](/word/received/)**：フォーマルで「正式に受け取った」を表す
+- **[received](/received)**：フォーマルで「正式に受け取った」を表す
 
 gotは日常会話やカジュアルな場面で使われ、receivedはビジネスやフォーマルな文脈で使われることが多いです。
 
@@ -105,14 +109,14 @@ gotは日常会話やカジュアルな場面で使われ、receivedはビジネ
 
 ## 🧩 あわせて覚えたい
 
-- [obtain](/word/obtain/)：（努力して）得る
-- [gain](/word/gain/)：（徐々に）獲得する
+- [obtain](/obtain)：（努力して）得る
+- [gain](/gain)：（徐々に）獲得する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring/)：持ってくる
-- [take](/word/take/)：持っていく
+- [bring](/bring)：持ってくる
+- [take](/take)：持っていく
 
-<!-- cvid: aid16_bid33 -->
+<!-- cvid: aid33_bid45 -->

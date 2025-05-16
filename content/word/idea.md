@@ -81,15 +81,19 @@ TOEICでは会議や提案、意見交換の文脈でよく登場します。選
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や提案、意見交換の文脈でよく登場します。選
 ## 🤔  concept との違いは？
 
 - **idea**：具体的な考えやひらめき、提案を指すことが多い
-- **[concept](/word/concept/)**：抽象的な概念や理論的な枠組みを指す
+- **[concept](/concept)**：抽象的な概念や理論的な枠組みを指す
 
 「idea」は日常的な「思いつき」や「提案」に使われ、「concept」はより抽象的で理論的な内容に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会議や提案、意見交換の文脈でよく登場します。選
 
 ## 🧩 あわせて覚えたい
 
-- [notion](/word/notion/)：漠然とした考え、観念
-- [plan](/word/plan/)：計画、案
+- [notion](/notion)：漠然とした考え、観念
+- [plan](/plan)：計画、案
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion/)：意見
-- [suggestion](/word/suggestion/)：提案
+- [opinion](/opinion)：意見
+- [suggestion](/suggestion)：提案
 
-<!-- cvid: aid32_bid04 -->
+<!-- cvid: aid37_bid31 -->

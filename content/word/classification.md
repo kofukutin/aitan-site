@@ -81,15 +81,19 @@ TOEICでは、科学的な説明やビジネス文書、データ整理の文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学的な説明やビジネス文書、データ整理の文脈
 ## 🤔  categorization との違いは？
 
 - **classification**：体系的・公式な基準で分ける「分類」
-- **[categorization](/word/categorization/)**：より一般的・日常的な「カテゴリー分け」
+- **[categorization](/categorization)**：より一般的・日常的な「カテゴリー分け」
 
 classificationは科学やビジネスなどで使われるフォーマルな分類、categorizationは日常的なグループ分けに使われます。
 
@@ -105,14 +109,14 @@ classificationは科学やビジネスなどで使われるフォーマルな分
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division/)：分割、区分
-- [arrangement](/word/arrangement/)：配置、整理
+- [division](/division)：分割、区分
+- [arrangement](/arrangement)：配置、整理
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [identification](/word/identification/)：識別
+- [analysis](/analysis)：分析
+- [identification](/identification)：識別
 
-<!-- cvid: aid31_bid35 -->
+<!-- cvid: aid16_bid11 -->

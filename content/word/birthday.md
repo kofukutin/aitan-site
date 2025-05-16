@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【birthday】の意味・使い方・例文 ― anniversaryとの違い【TOEIC英単語】"
 description: "birthdayの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでanniversaryとの違いもわかりやすく学べます。"
 word: "birthday"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1や日常会話の場面で、人物の紹介やイベン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1や日常会話の場面で、人物の紹介やイベン
 ## 🤔  anniversary との違いは？
 
 - **birthday**：人や動物が生まれた日やその記念日
-- **[anniversary](/word/anniversary/)**：結婚記念日や創立記念日など、特定の出来事の記念日
+- **[anniversary](/anniversary)**：結婚記念日や創立記念日など、特定の出来事の記念日
 
 birthdayは「誕生日」限定ですが、anniversaryは「記念日」全般に使われます。
 
@@ -105,14 +109,14 @@ birthdayは「誕生日」限定ですが、anniversaryは「記念日」全般�
 
 ## 🧩 あわせて覚えたい
 
-- [holiday](/word/holiday/)：祝日、休日
-- [celebration](/word/celebration/)：お祝い、祝賀
+- [holiday](/holiday)：祝日、休日
+- [celebration](/celebration)：お祝い、祝賀
 
 ---
 
 ## 📖 できればこれも
 
-- [gift](/word/gift/)：贈り物
-- [party](/word/party/)：パーティー
+- [gift](/gift)：贈り物
+- [party](/party)：パーティー
 
-<!-- cvid: aid12_bid49 -->
+<!-- cvid: aid23_bid07 -->

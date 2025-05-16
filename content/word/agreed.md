@@ -81,15 +81,19 @@ TOEICでは会議やビジネスのやりとりで「合意事項」や「同意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスのやりとりで「合意事項」や「同意
 ## 🤔  accepted との違いは？
 
 - **agreed**：複数人や組織が話し合いの上で「合意した」「同意した」状態を表す。
-- **[accepted](/word/accepted/)**：受け入れられた、承認されたという意味で、必ずしも話し合いによる合意を含まない。
+- **[accepted](/accepted)**：受け入れられた、承認されたという意味で、必ずしも話し合いによる合意を含まない。
 
 「agreed」は協議や交渉の結果としての合意を強調し、「accepted」は単に受け入れられた事実を表します。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスのやりとりで「合意事項」や「同意
 
 ## 🧩 あわせて覚えたい
 
-- [approved](/word/approved/)：承認された
-- [confirmed](/word/confirmed/)：確認された
+- [approved](/approved)：承認された
+- [confirmed](/confirmed)：確認された
 
 ---
 
 ## 📖 できればこれも
 
-- [final](/word/final/)：最終の
-- [pending](/word/pending/)：保留中の
+- [final](/final)：最終の
+- [pending](/pending)：保留中の
 
-<!-- cvid: aid09_bid08 -->
+<!-- cvid: aid00_bid47 -->

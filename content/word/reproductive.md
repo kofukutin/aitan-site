@@ -81,15 +81,19 @@ The company is developing new reproductive health products.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company is developing new reproductive health products.
 ## 🤔  productive との違いは？
 
 - **reproductive**：生殖や繁殖に関する性質や機能を表す
-- **[productive](/word/productive/)**：生産的な、成果を生み出すという意味
+- **[productive](/productive)**：生産的な、成果を生み出すという意味
 
 reproductiveは「生殖」に特化した表現で、productiveは「生産的」「効率的」など幅広い成果や生産性に使います。
 
@@ -105,14 +109,14 @@ reproductiveは「生殖」に特化した表現で、productiveは「生産的�
 
 ## 🧩 あわせて覚えたい
 
-- [fertile](/word/fertile/)：肥沃な、繁殖力のある
-- [sterile](/word/sterile/)：不妊の、無菌の
+- [fertile](/fertile)：肥沃な、繁殖力のある
+- [sterile](/sterile)：不妊の、無菌の
 
 ---
 
 ## 📖 できればこれも
 
-- [biological](/word/biological/)：生物学的な
-- [genetic](/word/genetic/)：遺伝の、遺伝子の
+- [biological](/biological)：生物学的な
+- [genetic](/genetic)：遺伝の、遺伝子の
 
-<!-- cvid: aid02_bid48 -->
+<!-- cvid: aid16_bid26 -->

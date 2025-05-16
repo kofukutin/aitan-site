@@ -81,15 +81,19 @@ TOEICでは契約書や証明書、調査結果の説明文などで「validity�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid38_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や証明書、調査結果の説明文などで「validity�
 ## 🤔  accuracy との違いは？
 
 - **validity**：妥当性・有効性（そのものが正当か、認められるか）
-- **[accuracy](/word/accuracy/)**：正確さ（誤りがないこと、精度）
+- **[accuracy](/accuracy)**：正確さ（誤りがないこと、精度）
 
 validityは「有効かどうか」「認められるか」に焦点があり、accuracyは「どれだけ正確か」に重点があります。
 
@@ -105,14 +109,14 @@ validityは「有効かどうか」「認められるか」に焦点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [legitimacy](/word/legitimacy/)：合法性、正当性
-- [reliability](/word/reliability/)：信頼性
+- [legitimacy](/legitimacy)：合法性、正当性
+- [reliability](/reliability)：信頼性
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/word/certificate/)：証明書
-- [approval](/word/approval/)：承認
+- [certificate](/certificate)：証明書
+- [approval](/approval)：承認
 
-<!-- cvid: aid18_bid35 -->
+<!-- cvid: aid38_bid05 -->

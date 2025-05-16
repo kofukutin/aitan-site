@@ -81,15 +81,19 @@ TOEICでは道案内や説明、または意見を率直に述べる場面で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは道案内や説明、または意見を率直に述べる場面で出
 ## 🤔  direct との違いは？
 
 - **straight**：物理的・比喩的に「曲がりのない」「率直な」
-- **[direct](/word/direct/)**：目的地や対象に「直接向かう」「遠回りしない」
+- **[direct](/direct)**：目的地や対象に「直接向かう」「遠回りしない」
 
 straightは「一直線」や「ごまかしのない」ニュアンス、directは「中間を挟まず直接的」という違いがあります。
 
@@ -105,14 +109,14 @@ straightは「一直線」や「ごまかしのない」ニュアンス、direct
 
 ## 🧩 あわせて覚えたい
 
-- [honest](/word/honest/)：正直な
-- [vertical](/word/vertical/)：垂直な
+- [honest](/honest)：正直な
+- [vertical](/vertical)：垂直な
 
 ---
 
 ## 📖 できればこれも
 
-- [clear](/word/clear/)：明確な
-- [simple](/word/simple/)：簡単な
+- [clear](/clear)：明確な
+- [simple](/simple)：簡単な
 
-<!-- cvid: aid14_bid16 -->
+<!-- cvid: aid09_bid27 -->

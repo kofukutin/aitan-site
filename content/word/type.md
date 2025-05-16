@@ -81,15 +81,19 @@ TOEICでは「type of ～」の形で名詞の分類や説明を問う問題が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「type of ～」の形で名詞の分類や説明を問う問題が�
 ## 🤔  kind との違いは？
 
 - **type**：客観的な分類や技術的な「型」「種類」に使う
-- **[kind](/word/kind/)**：より日常的で、感覚的な「種類」に使う
+- **[kind](/kind)**：より日常的で、感覚的な「種類」に使う
 
 **type**は科学的・技術的な分類や、明確な基準がある場合に使われやすいのに対し、**kind**は人の感覚や印象による大まかな分類に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「type of ～」の形で名詞の分類や説明を問う問題が�
 
 ## 🧩 あわせて覚えたい
 
-- [category](/word/category/)：カテゴリー、部門
-- [form](/word/form/)：形、形式
+- [category](/category)：カテゴリー、部門
+- [form](/form)：形、形式
 
 ---
 
 ## 📖 できればこれも
 
-- [sort](/word/sort/)：種類、分類
-- [class](/word/class/)：階級、等級
+- [sort](/sort)：種類、分類
+- [class](/class)：階級、等級
 
-<!-- cvid: aid44_bid32 -->
+<!-- cvid: aid20_bid40 -->

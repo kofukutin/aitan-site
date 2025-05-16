@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書やEメール、議事録などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、議事録などで�
 ## 🤔  proposal との違いは？
 
 - **proposition**：ビジネスや議論での「提案」「主張」「命題」など、ややフォーマルで論理的なニュアンス。
-- **[proposal](/word/proposal/)**：一般的な「提案」「申し出」。書類や口頭での提案全般に幅広く使う。
+- **[proposal](/proposal)**：一般的な「提案」「申し出」。書類や口頭での提案全般に幅広く使う。
 
 propositionは論理的・抽象的な提案や主張に使われ、proposalは具体的な計画や申し出に幅広く使われます。
 
@@ -105,14 +109,14 @@ propositionは論理的・抽象的な提案や主張に使われ、proposalは�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：申し出、オファー
-- [suggestion](/word/suggestion/)：提案、助言
+- [offer](/offer)：申し出、オファー
+- [suggestion](/suggestion)：提案、助言
 
 ---
 
 ## 📖 できればこれも
 
-- [assumption](/word/assumption/)：仮定、前提
-- [premise](/word/premise/)：前提、根拠
+- [assumption](/assumption)：仮定、前提
+- [premise](/premise)：前提、根拠
 
-<!-- cvid: aid14_bid31 -->
+<!-- cvid: aid39_bid25 -->

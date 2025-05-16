@@ -81,15 +81,19 @@ TOEICでは請求書や案内文、注文書などの説明文でよく見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や案内文、注文書などの説明文でよく見かけ
 ## 🤔  shipping との違いは？
 
 - **postage**：郵便で送る際の料金を指す
-- **[shipping](/word/shipping/)**：配送全般の送料や運送を指す
+- **[shipping](/shipping)**：配送全般の送料や運送を指す
 
 postageは主に郵便物の料金、shippingは宅配便や貨物など広い範囲の配送・送料に使います。
 
@@ -105,14 +109,14 @@ postageは主に郵便物の料金、shippingは宅配便や貨物など広い�
 
 ## 🧩 あわせて覚えたい
 
-- [fee](/word/fee/)：料金、手数料
-- [mail](/word/mail/)：郵便、手紙
+- [fee](/fee)：料金、手数料
+- [mail](/mail)：郵便、手紙
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/word/envelope/)：封筒
-- [parcel](/word/parcel/)：小包
+- [envelope](/envelope)：封筒
+- [parcel](/parcel)：小包
 
-<!-- cvid: aid04_bid34 -->
+<!-- cvid: aid25_bid35 -->

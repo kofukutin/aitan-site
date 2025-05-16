@@ -81,15 +81,19 @@ TOEICでは会議やディスカッションの場面で「主張した」「議
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やディスカッションの場面で「主張した」「議
 ## 🤔  insisted との違いは？
 
 - **argued**：理由や根拠を示しながら主張・議論する
-- **[insisted](/word/insisted/)**：強く言い張る、譲らずに主張する
+- **[insisted](/insisted)**：強く言い張る、譲らずに主張する
 
 arguedは論理的に説明しながら意見を述べるニュアンスがあり、insistedは感情的に「どうしても譲らない」強い主張に使われます。
 
@@ -105,14 +109,14 @@ arguedは論理的に説明しながら意見を述べるニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate/)：討論する、議論する
-- [discuss](/word/discuss/)：話し合う、議論する
+- [debate](/debate)：討論する、議論する
+- [discuss](/discuss)：話し合う、議論する
 
 ---
 
 ## 📖 できればこれも
 
-- [claim](/word/claim/)：主張する、要求する
-- [suggest](/word/suggest/)：提案する、示唆する
+- [claim](/claim)：主張する、要求する
+- [suggest](/suggest)：提案する、示唆する
 
-<!-- cvid: aid44_bid26 -->
+<!-- cvid: aid27_bid35 -->

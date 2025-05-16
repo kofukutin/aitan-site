@@ -77,15 +77,19 @@ TOEICでは会話文や応答で「～もです」「あまりに～」の意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid41_bid28" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid28" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話文や応答で「～もです」「あまりに～」の意味
 ## 🤔  also との違いは？
 
 - **too**：カジュアルな会話で「～もまた」と言うときによく使う。主に文末に置く。
-- **[also](/word/also/)**：ややフォーマルで、文中や動詞の前に置くことが多い。
+- **[also](/also)**：ややフォーマルで、文中や動詞の前に置くことが多い。
 
 「too」は日常会話でよく使われ、文末に置くのが基本ですが、「also」は書き言葉やフォーマルな場面で使われやすく、語順も異なります。
 
@@ -101,14 +105,14 @@ TOEICでは会話文や応答で「～もです」「あまりに～」の意味
 
 ## 🧩 あわせて覚えたい
 
-- [either](/word/either/)：（否定文で）～もまた
-- [as well](/word/as_well/)：～もまた（tooとほぼ同じ意味だがややフォーマル）
+- [either](/either)：（否定文で）～もまた
+- [as well](/as_well)：～もまた（tooとほぼ同じ意味だがややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [very](/word/very/)：とても
-- [so](/word/so/)：とても、だから
+- [very](/very)：とても
+- [so](/so)：とても、だから
 
-<!-- cvid: aid36_bid04 -->
+<!-- cvid: aid41_bid28 -->

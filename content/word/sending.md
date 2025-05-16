@@ -81,15 +81,19 @@ sendingは、TOEICの文法・語彙問題で動詞sendの名詞形として出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ sendingは、TOEICの文法・語彙問題で動詞sendの名詞形として出�
 ## 🤔  shipment との違いは？
 
 - **sending**：送る行為全般や送信そのものを幅広く指す
-- **[shipment](/word/shipment/)**：特に「貨物の発送」「出荷」など物流・配送に特化
+- **[shipment](/shipment)**：特に「貨物の発送」「出荷」など物流・配送に特化
 
 sendingは「送る」という動作全体を指し、shipmentは「商品や荷物の発送・出荷」に限定される点が異なります。
 
@@ -105,14 +109,14 @@ sendingは「送る」という動作全体を指し、shipmentは「商品や�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery/)：配達、配送
-- [dispatch](/word/dispatch/)：発送、派遣
+- [delivery](/delivery)：配達、配送
+- [dispatch](/dispatch)：発送、派遣
 
 ---
 
 ## 📖 できればこれも
 
-- [receiving](/word/receiving/)：受け取り
-- [transfer](/word/transfer/)：移動、転送
+- [receiving](/receiving)：受け取り
+- [transfer](/transfer)：移動、転送
 
-<!-- cvid: aid06_bid48 -->
+<!-- cvid: aid42_bid05 -->

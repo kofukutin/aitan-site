@@ -81,15 +81,19 @@ TOEICでは、attemptingは主に文法問題や語彙問題で進行形やto不
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、attemptingは主に文法問題や語彙問題で進行形やto不
 ## 🤔  trying との違いは？
 
 - **attempting**：難しいことや成功が保証されないことに「挑戦する」「試みている」というフォーマルな響き。
-- **[trying](/word/trying/)**：一般的に「やってみる」「試す」という意味で、カジュアルな場面でも使える。
+- **[trying](/trying)**：一般的に「やってみる」「試す」という意味で、カジュアルな場面でも使える。
 
 attemptingはtryingよりも「困難さ」や「真剣さ」が強調され、ビジネスやフォーマルな場面でよく使われます。
 
@@ -105,14 +109,14 @@ attemptingはtryingよりも「困難さ」や「真剣さ」が強調され、�
 
 ## 🧩 あわせて覚えたい
 
-- [endeavor](/word/endeavor/)：努力する、試みる（より堅い表現）
-- [undertake](/word/undertake/)：引き受ける、着手する
+- [endeavor](/endeavor)：努力する、試みる（より堅い表現）
+- [undertake](/undertake)：引き受ける、着手する
 
 ---
 
 ## 📖 できればこれも
 
-- [complete](/word/complete/)：完了する、仕上げる
-- [achieve](/word/achieve/)：達成する、成し遂げる
+- [complete](/complete)：完了する、仕上げる
+- [achieve](/achieve)：達成する、成し遂げる
 
-<!-- cvid: aid38_bid04 -->
+<!-- cvid: aid08_bid41 -->

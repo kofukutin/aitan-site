@@ -81,15 +81,19 @@ TOEICでは日付や期間、年次報告などの文脈で頻繁に登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付や期間、年次報告などの文脈で頻繁に登場しま
 ## 🤔  annual との違いは？
 
 - **year**：1年間、年という「名詞」
-- **[annual](/word/annual/)**：毎年の、年1回のという「形容詞」
+- **[annual](/annual)**：毎年の、年1回のという「形容詞」
 
 「year」は期間や年数そのものを指し、「annual」は「毎年の」「年1回の」といった頻度や性質を表します。
 
@@ -105,14 +109,14 @@ TOEICでは日付や期間、年次報告などの文脈で頻繁に登場しま
 
 ## 🧩 あわせて覚えたい
 
-- [month](/word/month/)：月、1か月
-- [decade](/word/decade/)：10年間、10年
+- [month](/month)：月、1か月
+- [decade](/decade)：10年間、10年
 
 ---
 
 ## 📖 できればこれも
 
-- [date](/word/date/)：日付、日時
-- [season](/word/season/)：季節
+- [date](/date)：日付、日時
+- [season](/season)：季節
 
-<!-- cvid: aid14_bid20 -->
+<!-- cvid: aid42_bid22 -->

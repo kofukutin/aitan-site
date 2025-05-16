@@ -81,15 +81,19 @@ chargedは、会議や議論の場面で「感情的な」「緊張した」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ chargedは、会議や議論の場面で「感情的な」「緊張した」な�
 ## 🤔  energetic との違いは？
 
 - **charged**：感情や雰囲気が高ぶっている、緊張感がある
-- **[energetic](/word/energetic/)**：エネルギッシュな、活力にあふれている
+- **[energetic](/energetic)**：エネルギッシュな、活力にあふれている
 
 chargedは「感情や空気がピリピリしている」など、強い影響や緊張感を表しますが、energeticは「元気がある」「活発」といったポジティブな活力を指します。
 
@@ -105,14 +109,14 @@ chargedは「感情や空気がピリピリしている」など、強い影響�
 
 ## 🧩 あわせて覚えたい
 
-- [neutral](/word/neutral/)：中立的な、感情がこもっていない
-- [intense](/word/intense/)：強烈な、激しい
+- [neutral](/neutral)：中立的な、感情がこもっていない
+- [intense](/intense)：強烈な、激しい
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/word/active/)：活動的な
-- [dynamic](/word/dynamic/)：ダイナミックな、活発な
+- [active](/active)：活動的な
+- [dynamic](/dynamic)：ダイナミックな、活発な
 
-<!-- cvid: aid17_bid02 -->
+<!-- cvid: aid33_bid35 -->

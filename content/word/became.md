@@ -81,15 +81,19 @@ TOEICでは動詞の時制や語形変化を問う文法問題でよく出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは動詞の時制や語形変化を問う文法問題でよく出題さ
 ## 🤔  got との違いは？
 
 - **became**：ある状態や職業などに「変化してなった」ことを表す。
-- **[got](/word/got/)**：より口語的で、「手に入れる」「～になる」など幅広い意味で使われる。
+- **[got](/got)**：より口語的で、「手に入れる」「～になる」など幅広い意味で使われる。
 
 becameはフォーマルで状態の変化を強調し、gotはカジュアルで幅広い状況に使われます。
 
@@ -105,14 +109,14 @@ becameはフォーマルで状態の変化を強調し、gotはカジュアル�
 
 ## 🧩 あわせて覚えたい
 
-- [turn](/word/turn/)：変わる、向きを変える
-- [remain](/word/remain/)：～のままでいる
+- [turn](/turn)：変わる、向きを変える
+- [remain](/remain)：～のままでいる
 
 ---
 
 ## 📖 できればこれも
 
-- [begin](/word/begin/)：始める
-- [seem](/word/seem/)：～のように見える
+- [begin](/begin)：始める
+- [seem](/seem)：～のように見える
 
-<!-- cvid: aid33_bid23 -->
+<!-- cvid: aid45_bid30 -->

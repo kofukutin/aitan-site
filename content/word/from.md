@@ -77,15 +77,19 @@ TOEICでは、出身地や開始時刻、出発点などを問う設問で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid15" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid15" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、出身地や開始時刻、出発点などを問う設問で頻出
 ## 🤔  since との違いは？
 
 - **from**：起点や出発点を表す（物理的・時間的どちらも可）
-- **[since](/word/since/)**：ある時点から今までの継続を強調
+- **[since](/since)**：ある時点から今までの継続を強調
 
 fromは単に「～から」という起点を示すのに対し、sinceは「～以来ずっと」と継続を表す時に使います。
 
@@ -101,14 +105,14 @@ fromは単に「～から」という起点を示すのに対し、sinceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [to](/word/to/)：～へ、～まで
-- [off](/word/off/)：離れて、切れて
+- [to](/to)：～へ、～まで
+- [off](/off)：離れて、切れて
 
 ---
 
 ## 📖 できればこれも
 
-- [for](/word/for/)：～の間、～のために
-- [by](/word/by/)：～までに、～によって
+- [for](/for)：～の間、～のために
+- [by](/by)：～までに、～によって
 
-<!-- cvid: aid49_bid42 -->
+<!-- cvid: aid25_bid15 -->

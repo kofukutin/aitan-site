@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「アイロンをかける」動作や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「アイロンをかける」動作や
 ## 🤔  steel との違いは？
 
 - **iron**：純粋な鉄やアイロン（道具）を指す
-- **[steel](/word/steel/)**：鉄に炭素などを加えて強度を増した合金
+- **[steel](/steel)**：鉄に炭素などを加えて強度を増した合金
 
 ironは自然界に存在する「鉄」や家庭用の「アイロン」を指し、steelは加工されて強度が高い「鋼」を指します。
 
@@ -105,14 +109,14 @@ ironは自然界に存在する「鉄」や家庭用の「アイロン」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [metal](/word/metal/)：金属
-- [magnet](/word/magnet/)：磁石
+- [metal](/metal)：金属
+- [magnet](/magnet)：磁石
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper/)：銅
-- [silver](/word/silver/)：銀
+- [copper](/copper)：銅
+- [silver](/silver)：銀
 
-<!-- cvid: aid07_bid36 -->
+<!-- cvid: aid03_bid12 -->

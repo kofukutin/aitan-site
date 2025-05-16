@@ -81,15 +81,19 @@ TOEICでは「到着する」「連絡を取る」などの意味で会話文や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「到着する」「連絡を取る」などの意味で会話文や
 ## 🤔  arrive との違いは？
 
 - **reach**：目的地や目標に「到達する」ことを強調し、目的語を直接とる。
-- **[arrive](/word/arrive/)**：到着の事実を表し、通常はatやinなどの前置詞と一緒に使う。
+- **[arrive](/arrive)**：到着の事実を表し、通常はatやinなどの前置詞と一緒に使う。
 
 reachは「努力してたどり着く」ニュアンスがあり、arriveは「到着した」という事実を淡々と述べる時に使います。
 
@@ -105,14 +109,14 @@ reachは「努力してたどり着く」ニュアンスがあり、arriveは「
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/word/contact/)：連絡する
-- [obtain](/word/obtain/)：手に入れる
+- [contact](/contact)：連絡する
+- [obtain](/obtain)：手に入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [receive](/word/receive/)：受け取る
+- [send](/send)：送る
+- [receive](/receive)：受け取る
 
-<!-- cvid: aid04_bid45 -->
+<!-- cvid: aid24_bid09 -->

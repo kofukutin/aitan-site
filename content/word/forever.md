@@ -77,15 +77,19 @@ TOEICでは会話文や説明文で「ずっと」「永遠に」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話文や説明文で「ずっと」「永遠に」といった意
 ## 🤔  permanently との違いは？
 
 - **forever**：感情や口語的な場面で「永遠に」「ずっと」を表す
-- **[permanently](/word/permanently/)**：よりフォーマルで「恒久的に」「永久に」を表す
+- **[permanently](/permanently)**：よりフォーマルで「恒久的に」「永久に」を表す
 
 「forever」は日常会話や感情表現で使われやすく、「permanently」は公式文書やビジネスでの恒久的な状態に使われます。
 
@@ -101,14 +105,14 @@ TOEICでは会話文や説明文で「ずっと」「永遠に」といった意
 
 ## 🧩 あわせて覚えたい
 
-- [constantly](/word/constantly/)：絶えず、常に
-- [temporarily](/word/temporarily/)：一時的に
+- [constantly](/constantly)：絶えず、常に
+- [temporarily](/temporarily)：一時的に
 
 ---
 
 ## 📖 できればこれも
 
-- [always](/word/always/)：いつも
-- [eventually](/word/eventually/)：最終的に
+- [always](/always)：いつも
+- [eventually](/eventually)：最終的に
 
-<!-- cvid: aid47_bid38 -->
+<!-- cvid: aid33_bid18 -->

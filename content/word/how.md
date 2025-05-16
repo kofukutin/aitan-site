@@ -77,15 +77,19 @@ TOEICではPart 2の応答問題で頻出です。質問文や説明文で「方
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart 2の応答問題で頻出です。質問文や説明文で「方
 ## 🤔  what との違いは？
 
 - **how**：方法や程度、状態をたずねる
-- **[what](/word/what/)**：物や内容、種類をたずねる
+- **[what](/what)**：物や内容、種類をたずねる
 
 howは「どのように」「どうやって」とやり方や様子を聞くとき、whatは「何」「どんなもの」と内容や物自体を聞くときに使います。
 
@@ -101,14 +105,14 @@ howは「どのように」「どうやって」とやり方や様子を聞く�
 
 ## 🧩 あわせて覚えたい
 
-- [why](/word/why/)：なぜ、理由をたずねる
-- [which](/word/which/)：どちら、どれをたずねる
+- [why](/why)：なぜ、理由をたずねる
+- [which](/which)：どちら、どれをたずねる
 
 ---
 
 ## 📖 できればこれも
 
-- [when](/word/when/)：いつ、時期をたずねる
-- [where](/word/where/)：どこ、場所をたずねる
+- [when](/when)：いつ、時期をたずねる
+- [where](/where)：どこ、場所をたずねる
 
-<!-- cvid: aid27_bid01 -->
+<!-- cvid: aid20_bid38 -->

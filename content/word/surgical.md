@@ -81,15 +81,19 @@ The hospital has advanced surgical equipment.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hospital has advanced surgical equipment.
 ## 🤔  medical との違いは？
 
 - **surgical**：外科や手術に直接関係することを表す
-- **[medical](/word/medical/)**：医療全般や医学に関することを広く表す
+- **[medical](/medical)**：医療全般や医学に関することを広く表す
 
 surgicalは「外科的な」「手術の」と限定的に使い、medicalは「医療の」「医学の」とより広い意味で使われます。
 
@@ -105,14 +109,14 @@ surgicalは「外科的な」「手術の」と限定的に使い、medicalは�
 
 ## 🧩 あわせて覚えたい
 
-- [operation](/word/operation/)：手術
-- [clinical](/word/clinical/)：臨床の、診療の
+- [operation](/operation)：手術
+- [clinical](/clinical)：臨床の、診療の
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy/)：治療、療法
-- [procedure](/word/procedure/)：手順、処置
+- [therapy](/therapy)：治療、療法
+- [procedure](/procedure)：手順、処置
 
-<!-- cvid: aid36_bid11 -->
+<!-- cvid: aid04_bid45 -->

@@ -78,15 +78,19 @@ TOEICでは現代英語が中心のため、"thy"はほとんど出題されま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid25_bid32" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid32" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは現代英語が中心のため、"thy"はほとんど出題されま�
 ## 🤔  your との違いは？
 
 - **thy**：古語・詩的な「あなたの」。親しい相手や神に対して使う。
-- **[your](/word/your/)**：現代英語で一般的な「あなたの」。
+- **[your](/your)**：現代英語で一般的な「あなたの」。
 
 "thy"は現代英語ではほぼ使われず、詩や聖書、古典文学でのみ登場します。"your"は日常会話やビジネスなど、あらゆる場面で使われます。
 
@@ -102,14 +106,14 @@ TOEICでは現代英語が中心のため、"thy"はほとんど出題されま�
 
 ## 🧩 あわせて覚えたい
 
-- [thou](/word/thou/)：あなた（古語・主格）
-- [thee](/word/thee/)：あなたを（古語・目的格）
+- [thou](/thou)：あなた（古語・主格）
+- [thee](/thee)：あなたを（古語・目的格）
 
 ---
 
 ## 📖 できればこれも
 
-- [thine](/word/thine/)：あなたのもの（古語・所有代名詞）
-- [ye](/word/ye/)：あなたたち（古語・複数形）
+- [thine](/thine)：あなたのもの（古語・所有代名詞）
+- [ye](/ye)：あなたたち（古語・複数形）
 
-<!-- cvid: aid06_bid05 -->
+<!-- cvid: aid25_bid32 -->

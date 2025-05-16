@@ -81,15 +81,19 @@ TOEICでは、記事や説明文の中で「地理」や「地域の特徴」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や説明文の中で「地理」や「地域の特徴」を
 ## 🤔  geology との違いは？
 
 - **geography**：地球上の場所や地域の特徴、人間活動との関係などを扱う学問
-- **[geology](/word/geology/)**：地球の構造や岩石、地層など地質そのものを研究する学問
+- **[geology](/geology)**：地球の構造や岩石、地層など地質そのものを研究する学問
 
 geographyは「場所や人間活動」に焦点を当て、geologyは「地球の物質的な構造や成り立ち」に焦点を当てます。
 
@@ -105,14 +109,14 @@ geographyは「場所や人間活動」に焦点を当て、geologyは「地球�
 
 ## 🧩 あわせて覚えたい
 
-- [history](/word/history/)：歴史
-- [climate](/word/climate/)：気候
+- [history](/history)：歴史
+- [climate](/climate)：気候
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology/)：生物学
-- [culture](/word/culture/)：文化
+- [biology](/biology)：生物学
+- [culture](/culture)：文化
 
-<!-- cvid: aid14_bid00 -->
+<!-- cvid: aid22_bid13 -->

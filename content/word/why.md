@@ -77,15 +77,19 @@ TOEICではPart2の応答問題で「理由」をたずねる質問として頻�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart2の応答問題で「理由」をたずねる質問として頻�
 ## 🤔  how との違いは？
 
 - **why**：理由や原因をたずねるときに使う
-- **[how](/word/how/)**：方法や手段をたずねるときに使う
+- **[how](/how)**：方法や手段をたずねるときに使う
 
 whyは「なぜ」と理由を聞くのに対し、howは「どうやって」と方法を聞くときに使います。
 
@@ -101,14 +105,14 @@ whyは「なぜ」と理由を聞くのに対し、howは「どうやって」�
 
 ## 🧩 あわせて覚えたい
 
-- [because](/word/because/)：なぜなら、理由を述べるときに使う
-- [what](/word/what/)：何、物事や内容をたずねるときに使う
+- [because](/because)：なぜなら、理由を述べるときに使う
+- [what](/what)：何、物事や内容をたずねるときに使う
 
 ---
 
 ## 📖 できればこれも
 
-- [when](/word/when/)：いつ、時間をたずねるときに使う
-- [where](/word/where/)：どこ、場所をたずねるときに使う
+- [when](/when)：いつ、時間をたずねるときに使う
+- [where](/where)：どこ、場所をたずねるときに使う
 
-<!-- cvid: aid00_bid29 -->
+<!-- cvid: aid43_bid40 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の文脈で「最終決定する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の文脈で「最終決定する」
 ## 🤔  complete との違いは？
 
 - **finalize**：最終決定や仕上げの意味が強く、公式な手続きや合意に使われる。
-- **[complete](/word/complete/)**：単に「終える」「完成させる」という広い意味で使われる。
+- **[complete](/complete)**：単に「終える」「完成させる」という広い意味で使われる。
 
 finalizeは「最終的に確定する」ニュアンスがあり、completeは「全ての作業を終える」ことに重点があります。
 
@@ -105,14 +109,14 @@ finalizeは「最終的に確定する」ニュアンスがあり、completeは�
 
 ## 🧩 あわせて覚えたい
 
-- [confirm](/word/confirm/)：確認する、確定する
-- [approve](/word/approve/)：承認する
+- [confirm](/confirm)：確認する、確定する
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [submit](/word/submit/)：提出する
+- [arrange](/arrange)：手配する、準備する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid31_bid14 -->
+<!-- cvid: aid42_bid38 -->

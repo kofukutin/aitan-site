@@ -81,15 +81,19 @@ TOEICでは、経済やビジネスの話題で「sector」がよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、経済やビジネスの話題で「sector」がよく登場しま
 ## 🤔  industry との違いは？
 
 - **sector**：経済や社会の大きな部門や分野を指す
-- **[industry](/word/industry/)**：特定の産業や生産活動の分野を指す
+- **[industry](/industry)**：特定の産業や生産活動の分野を指す
 
 sectorは「公的部門」「民間部門」など広い区分に使い、industryは「自動車産業」「観光産業」など具体的な産業分野に使います。
 
@@ -105,14 +109,14 @@ sectorは「公的部門」「民間部門」など広い区分に使い、indus
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division/)：部門、区分
-- [department](/word/department/)：部署、部
+- [division](/division)：部門、区分
+- [department](/department)：部署、部
 
 ---
 
 ## 📖 できればこれも
 
-- [segment](/word/segment/)：区分、部分
-- [field](/word/field/)：分野、領域
+- [segment](/segment)：区分、部分
+- [field](/field)：分野、領域
 
-<!-- cvid: aid02_bid28 -->
+<!-- cvid: aid31_bid43 -->

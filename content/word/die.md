@@ -81,15 +81,19 @@ TOEICでは医療や事故、ニュースなどの会話や説明文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ dieはストレートで感情を込めない表現、pass awayは相手への�
 
 ## 🧩 あわせて覚えたい
 
-- [survive](/word/survive/)：生き残る
-- [decease](/word/decease/)：死去する（フォーマル）
+- [survive](/survive)：生き残る
+- [decease](/decease)：死去する（フォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [kill](/word/kill/)：殺す
-- [live](/word/live/)：生きる
+- [kill](/kill)：殺す
+- [live](/live)：生きる
 
-<!-- cvid: aid44_bid42 -->
+<!-- cvid: aid45_bid48 -->

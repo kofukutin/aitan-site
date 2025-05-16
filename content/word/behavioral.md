@@ -81,15 +81,19 @@ TOEICでは、ビジネスや科学分野の長文で「behavioral research」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid03" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid03" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや科学分野の長文で「behavioral research」�
 ## 🤔  psychological との違いは？
 
 - **behavioral**：行動やふるまい自体に関する
-- **[psychological](/word/psychological/)**：心理や精神状態に関する
+- **[psychological](/psychological)**：心理や精神状態に関する
 
 「behavioral」は外から観察できる行動に焦点を当て、「psychological」は内面の心や精神状態に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスや科学分野の長文で「behavioral research」�
 
 ## 🧩 あわせて覚えたい
 
-- [habit](/word/habit/)：習慣
-- [conduct](/word/conduct/)：行い、品行
+- [habit](/habit)：習慣
+- [conduct](/conduct)：行い、品行
 
 ---
 
 ## 📖 できればこれも
 
-- [cognitive](/word/cognitive/)：認知の、認識に関する
-- [emotional](/word/emotional/)：感情の、感情に関する
+- [cognitive](/cognitive)：認知の、認識に関する
+- [emotional](/emotional)：感情の、感情に関する
 
-<!-- cvid: aid06_bid05 -->
+<!-- cvid: aid35_bid03 -->

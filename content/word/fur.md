@@ -81,15 +81,19 @@ TOEICでは主に動物や衣服の写真描写で登場します。特に「毛
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に動物や衣服の写真描写で登場します。特に「毛
 ## 🤔  hair との違いは？
 
 - **fur**：動物の体を覆う柔らかい毛や毛皮全体を指す
-- **[hair](/word/hair/)**：人間や動物の「一本一本の毛」や「髪の毛」を指す
+- **[hair](/hair)**：人間や動物の「一本一本の毛」や「髪の毛」を指す
 
 furは主に動物の「体全体を覆う毛」や「毛皮製品」に使い、hairは人や動物の「一本の毛」や「髪の毛」に使います。
 
@@ -105,14 +109,14 @@ furは主に動物の「体全体を覆う毛」や「毛皮製品」に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [feather](/word/feather/)：鳥の羽
-- [wool](/word/wool/)：羊毛、ウール
+- [feather](/feather)：鳥の羽
+- [wool](/wool)：羊毛、ウール
 
 ---
 
 ## 📖 できればこれも
 
-- [skin](/word/skin/)：皮膚、肌
-- [leather](/word/leather/)：革、なめし革
+- [skin](/skin)：皮膚、肌
+- [leather](/leather)：革、なめし革
 
-<!-- cvid: aid35_bid28 -->
+<!-- cvid: aid30_bid05 -->

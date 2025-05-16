@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や報告書の中で「chart」が図表やグ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や報告書の中で「chart」が図表やグ�
 ## 🤔  graph との違いは？
 
 - **chart**：データや情報を視覚的に整理した図表全般を指す
-- **[graph](/word/graph/)**：特に数値データの変化や関係性を線や点で表す図
+- **[graph](/graph)**：特に数値データの変化や関係性を線や点で表す図
 
 chartはグラフだけでなく表や組織図なども含みますが、graphは主に数値の推移や関係性を示す線グラフや折れ線グラフを指します。
 
@@ -105,14 +109,14 @@ chartはグラフだけでなく表や組織図なども含みますが、graph�
 
 ## 🧩 あわせて覚えたい
 
-- [table](/word/table/)：表、一覧表
-- [diagram](/word/diagram/)：図解、図式
+- [table](/table)：表、一覧表
+- [diagram](/diagram)：図解、図式
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：図、図形
-- [list](/word/list/)：リスト、一覧
+- [figure](/figure)：図、図形
+- [list](/list)：リスト、一覧
 
-<!-- cvid: aid42_bid46 -->
+<!-- cvid: aid15_bid31 -->

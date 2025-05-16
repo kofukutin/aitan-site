@@ -81,15 +81,19 @@ TOEICでは会議や予定、交通機関など「逃す」「欠席する」場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や予定、交通機関など「逃す」「欠席する」場
 ## 🤔  lost との違いは？
 
 - **missed**：機会や予定、乗り物などを「逃した」「間に合わなかった」
-- **[lost](/word/lost/)**：物や人、道などを「失った」「なくした」
+- **[lost](/lost)**：物や人、道などを「失った」「なくした」
 
 missedは「間に合わなかった」「参加できなかった」など一時的な機会損失に使い、lostは「完全に失う」「取り戻せない」場合に使います。
 
@@ -105,14 +109,14 @@ missedは「間に合わなかった」「参加できなかった」など一�
 
 ## 🧩 あわせて覚えたい
 
-- [fail](/word/fail/)：失敗する
-- [overlook](/word/overlook/)：見落とす
+- [fail](/fail)：失敗する
+- [overlook](/overlook)：見落とす
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay/)：遅れる
-- [forget](/word/forget/)：忘れる
+- [delay](/delay)：遅れる
+- [forget](/forget)：忘れる
 
-<!-- cvid: aid19_bid19 -->
+<!-- cvid: aid06_bid10 -->

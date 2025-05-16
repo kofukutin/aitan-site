@@ -88,8 +88,12 @@ TOEICでは「情報を入力する」「会議室に入る」など、ITやビ�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「情報を入力する」「会議室に入る」など、ITやビ�
 ## 🤔  access との違いは？
 
 - **enter**：物理的・デジタル的な「中に入る」「入力する」動作を表す
-- **[access](/word/access/)**：情報や場所などに「アクセスする」「利用する」ことを表す
+- **[access](/access)**：情報や場所などに「アクセスする」「利用する」ことを表す
 
 「enter」は実際に中へ入る・入力する動作、「access」は利用権や到達のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは「情報を入力する」「会議室に入る」など、ITやビ�
 
 ## 🧩 あわせて覚えたい
 
-- [exit](/word/exit/)：出る、退出する
-- [join](/word/join/)：参加する、加わる
+- [exit](/exit)：出る、退出する
+- [join](/join)：参加する、加わる
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [register](/word/register/)：登録する
+- [submit](/submit)：提出する
+- [register](/register)：登録する
 
-<!-- cvid: aid15_bid18 -->
+<!-- cvid: aid15_bid05 -->

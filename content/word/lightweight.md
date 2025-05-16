@@ -81,15 +81,19 @@ TOEICでは製品説明や広告文、仕様書などで「軽量の」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは製品説明や広告文、仕様書などで「軽量の」という
 ## 🤔  slim との違いは？
 
 - **lightweight**：重さが軽いことを強調し、持ち運びやすさや扱いやすさに注目する表現。
-- **[slim](/word/slim/)**：幅や厚みが細い・薄いことを強調し、見た目のスリムさやスタイリッシュさを表現。
+- **[slim](/slim)**：幅や厚みが細い・薄いことを強調し、見た目のスリムさやスタイリッシュさを表現。
 
 lightweightは「重さ」、slimは「細さ・薄さ」に注目して使い分けます。
 
@@ -105,14 +109,14 @@ lightweightは「重さ」、slimは「細さ・薄さ」に注目して使い�
 
 ## 🧩 あわせて覚えたい
 
-- [heavy](/word/heavy/)：重い
-- [compact](/word/compact/)：小型の、コンパクトな
+- [heavy](/heavy)：重い
+- [compact](/compact)：小型の、コンパクトな
 
 ---
 
 ## 📖 できればこれも
 
-- [portable](/word/portable/)：持ち運びできる
-- [durable](/word/durable/)：耐久性のある
+- [portable](/portable)：持ち運びできる
+- [durable](/durable)：耐久性のある
 
-<!-- cvid: aid24_bid00 -->
+<!-- cvid: aid43_bid29 -->

@@ -81,15 +81,19 @@ TOEICではウェブサイトやカタログの説明文、案内文などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではウェブサイトやカタログの説明文、案内文などで「
 ## 🤔  search との違いは？
 
 - **browse**：目的を決めずにざっと見て回る、閲覧する
-- **[search](/word/search/)**：特定の情報や目的のものを探す
+- **[search](/search)**：特定の情報や目的のものを探す
 
 browseは「なんとなく見る」「ぶらぶら見て回る」ニュアンス、searchは「探し物があって調べる」ニュアンスです。
 
@@ -105,14 +109,14 @@ browseは「なんとなく見る」「ぶらぶら見て回る」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [scan](/word/scan/)：ざっと目を通す、スキャンする
-- [explore](/word/explore/)：探検する、詳しく調べる
+- [scan](/scan)：ざっと目を通す、スキャンする
+- [explore](/explore)：探検する、詳しく調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [click](/word/click/)：クリックする
-- [navigate](/word/navigate/)：（ウェブなどを）移動する、操作する
+- [click](/click)：クリックする
+- [navigate](/navigate)：（ウェブなどを）移動する、操作する
 
-<!-- cvid: aid30_bid30 -->
+<!-- cvid: aid41_bid13 -->

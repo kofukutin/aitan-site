@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【quoted】の意味・使い方・例文 ― citedとの違い【TOEIC英単語】"
 description: "quotedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcitedとの違いもわかりやすく学べます。"
 word: "quoted"
@@ -81,15 +81,19 @@ TOEICでは、見積もりや引用文の説明、ビジネスメールや契約
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、見積もりや引用文の説明、ビジネスメールや契約
 ## 🤔  cited との違いは？
 
 - **quoted**：文章や発言をそのまま引用する、または価格などを提示する
-- **[cited](/word/cited/)**：主に論拠や証拠として文献・例を挙げる
+- **[cited](/cited)**：主に論拠や証拠として文献・例を挙げる
 
 **quoted**は「そのままの言葉を取り上げる」ニュアンスが強く、**cited**は「参考文献や証拠として挙げる」場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、見積もりや引用文の説明、ビジネスメールや契約
 
 ## 🧩 あわせて覚えたい
 
-- [mention](/word/mention/)：言及する
-- [estimate](/word/estimate/)：見積もる
+- [mention](/mention)：言及する
+- [estimate](/estimate)：見積もる
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer/)：参照する、言及する
-- [state](/word/state/)：述べる
+- [refer](/refer)：参照する、言及する
+- [state](/state)：述べる
 
-<!-- cvid: aid37_bid08 -->
+<!-- cvid: aid25_bid00 -->

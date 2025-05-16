@@ -81,15 +81,19 @@ TOEICでは「雇用」「就業」に関する文脈で頻出し、employeeやe
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「雇用」「就業」に関する文脈で頻出し、employeeやe
 ## 🤔  recruitment との違いは？
 
 - **employment**：雇用そのものや、雇われて働く状態を指す
-- **[recruitment](/word/recruitment/)**：新たに人を募集・採用する活動を指す
+- **[recruitment](/recruitment)**：新たに人を募集・採用する活動を指す
 
 employmentは「雇用状態」や「職」に焦点があり、recruitmentは「採用活動」や「募集」に焦点があります。
 
@@ -105,14 +109,14 @@ employmentは「雇用状態」や「職」に焦点があり、recruitmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [unemployment](/word/unemployment/)：失業、無職の状態
-- [occupation](/word/occupation/)：職業、仕事
+- [unemployment](/unemployment)：失業、無職の状態
+- [occupation](/occupation)：職業、仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [position](/word/position/)：職、役職
+- [employee](/employee)：従業員
+- [position](/position)：職、役職
 
-<!-- cvid: aid43_bid01 -->
+<!-- cvid: aid05_bid44 -->

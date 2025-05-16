@@ -81,15 +81,19 @@ TOEICでは国境や境界線、または書類や図の「枠」として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは国境や境界線、または書類や図の「枠」として出題
 ## 🤔  boundary との違いは？
 
 - **border**：国や地域、物の「はっきりした境界線」や「縁」を指す
-- **[boundary](/word/boundary/)**：物理的・抽象的な「限界」や「範囲の区切り」を指す
+- **[boundary](/boundary)**：物理的・抽象的な「限界」や「範囲の区切り」を指す
 
 borderは国境や明確な線としての境界に使われ、boundaryは範囲や制限など抽象的な区切りにも使われます。
 
@@ -105,14 +109,14 @@ borderは国境や明確な線としての境界に使われ、boundaryは範囲
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/word/limit/)：限界、制限
-- [edge](/word/edge/)：端、へり
+- [limit](/limit)：限界、制限
+- [edge](/edge)：端、へり
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/word/region/)：地域、地方
-- [area](/word/area/)：区域、範囲
+- [region](/region)：地域、地方
+- [area](/area)：区域、範囲
 
-<!-- cvid: aid15_bid42 -->
+<!-- cvid: aid13_bid30 -->

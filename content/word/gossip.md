@@ -81,15 +81,19 @@ TOEICでは、職場や日常の会話文、Eメール文中で「gossip」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や日常の会話文、Eメール文中で「gossip」が�
 ## 🤔  rumor との違いは？
 
 - **gossip**：人の私生活や噂話を指し、会話や軽い話題で使われやすい
-- **[rumor](/word/rumor/)**：根拠のないうわさや流言を指し、ややフォーマルで広まりやすい
+- **[rumor](/rumor)**：根拠のないうわさや流言を指し、ややフォーマルで広まりやすい
 
 「gossip」は日常的なうわさ話、「rumor」は真偽不明のうわさや流言に使われる点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは、職場や日常の会話文、Eメール文中で「gossip」が�
 
 ## 🧩 あわせて覚えたい
 
-- [news](/word/news/)：ニュース、報道
-- [chatter](/word/chatter/)：おしゃべり、ぺちゃくちゃ話すこと
+- [news](/news)：ニュース、報道
+- [chatter](/chatter)：おしゃべり、ぺちゃくちゃ話すこと
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice/)：助言、アドバイス
-- [complaint](/word/complaint/)：苦情、クレーム
+- [advice](/advice)：助言、アドバイス
+- [complaint](/complaint)：苦情、クレーム
 
-<!-- cvid: aid02_bid44 -->
+<!-- cvid: aid29_bid48 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、記事などで「並外れた成
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、記事などで「並外れた成
 ## 🤔  exceptional との違いは？
 
 - **extraordinary**：普通では考えられないほど優れている、または異常である
-- **[exceptional](/word/exceptional/)**：例外的に優れている、特に優秀である
+- **[exceptional](/exceptional)**：例外的に優れている、特に優秀である
 
 extraordinaryは「並外れている」こと全般に使え、良い意味・悪い意味どちらにも使えますが、exceptionalは「例外的に優れている」という肯定的な意味で使われることが多いです。
 
@@ -105,14 +109,14 @@ extraordinaryは「並外れている」こと全般に使え、良い意味・�
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/word/ordinary/)：普通の、平凡な
-- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [ordinary](/ordinary)：普通の、平凡な
+- [remarkable](/remarkable)：注目すべき、著しい
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/word/outstanding/)：傑出した、際立った
-- [unique](/word/unique/)：唯一の、独特な
+- [outstanding](/outstanding)：傑出した、際立った
+- [unique](/unique)：唯一の、独特な
 
-<!-- cvid: aid32_bid21 -->
+<!-- cvid: aid10_bid45 -->

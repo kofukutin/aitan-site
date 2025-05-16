@@ -82,15 +82,19 @@ TOEICでは「study」は基本的な語彙として、動詞・名詞ともに�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「study」は基本的な語彙として、動詞・名詞ともに�
 ## 🤔  learn との違いは？
 
 - **study**：意識的に勉強する、学習する
-- **[learn](/word/learn/)**：知識や技能を身につける、習得する
+- **[learn](/learn)**：知識や技能を身につける、習得する
 
 「study」は主に「勉強する行為」に焦点があり、「learn」は「身につける結果」に焦点があります。
 
@@ -106,14 +110,14 @@ TOEICでは「study」は基本的な語彙として、動詞・名詞ともに�
 
 ## 🧩 あわせて覚えたい
 
-- [review](/word/review/)：復習する、見直す
-- [research](/word/research/)：研究する、調査する
+- [review](/review)：復習する、見直す
+- [research](/research)：研究する、調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/word/practice/)：練習する
-- [prepare](/word/prepare/)：準備する
+- [practice](/practice)：練習する
+- [prepare](/prepare)：準備する
 
-<!-- cvid: aid47_bid16 -->
+<!-- cvid: aid32_bid49 -->

@@ -80,15 +80,19 @@ TOEICでは日付や予定、スケジュールの話題でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは日付や予定、スケジュールの話題でよく登場します
 ## 🤔  weekend との違いは？
 
 - **Saturday**：週の特定の曜日（土曜日）を指す
-- **[weekend](/word/weekend/)**：土日など週末全体を指す
+- **[weekend](/weekend)**：土日など週末全体を指す
 
 Saturdayは「土曜日」だけを意味し、weekendは「週末」全体を指します。予定やイベントの日付を明確にしたいときはSaturdayを使います。
 
@@ -105,7 +109,7 @@ Saturdayは「土曜日」だけを意味し、weekendは「週末」全体を�
 ## 🧩 あわせて覚えたい
 
 - [Sunday](/Sunday)：日曜日
-- [holiday](/word/holiday/)：休日
+- [holiday](/holiday)：休日
 
 ---
 
@@ -114,4 +118,4 @@ Saturdayは「土曜日」だけを意味し、weekendは「週末」全体を�
 - [Friday](/Friday)：金曜日
 - [Monday](/Monday)：月曜日
 
-<!-- cvid: aid08_bid48 -->
+<!-- cvid: aid21_bid46 -->

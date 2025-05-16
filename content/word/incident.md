@@ -81,15 +81,19 @@ incidentはTOEICの長文読解（Part 7）で、トラブルや出来事の報�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ incidentはTOEICの長文読解（Part 7）で、トラブルや出来事の報�
 ## 🤔  accident との違いは？
 
 - **incident**：予期しない出来事や事件（必ずしも重大・悪いとは限らない）
-- **[accident](/word/accident/)**：偶発的な事故や災害（通常は悪い結果を伴う）
+- **[accident](/accident)**：偶発的な事故や災害（通常は悪い結果を伴う）
 
 incidentは中立的な「出来事」全般を指し、accidentは「事故」や「災害」など悪い結果を強調します。
 
@@ -105,14 +109,14 @@ incidentは中立的な「出来事」全般を指し、accidentは「事故」�
 
 ## 🧩 あわせて覚えたい
 
-- [event](/word/event/)：出来事、行事
-- [issue](/word/issue/)：問題、課題
+- [event](/event)：出来事、行事
+- [issue](/issue)：問題、課題
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case/)：事例、場合
-- [situation](/word/situation/)：状況、事態
+- [case](/case)：事例、場合
+- [situation](/situation)：状況、事態
 
-<!-- cvid: aid29_bid47 -->
+<!-- cvid: aid02_bid09 -->

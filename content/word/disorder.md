@@ -81,15 +81,19 @@ The report mentioned a disorder in the company's workflow.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The report mentioned a disorder in the company's workflow.
 ## 🤔  disease との違いは？
 
 - **disorder**：体や心の機能や秩序が乱れた状態、原因がはっきりしない場合も多い
-- **[disease](/word/disease/)**：感染症や病気など、明確な原因や診断がある「病気」
+- **[disease](/disease)**：感染症や病気など、明確な原因や診断がある「病気」
 
 disorderは「機能の乱れ」や「障害」として広く使われ、diseaseは「病気」として医学的に明確な診断がある場合に使われます。
 
@@ -105,15 +109,15 @@ disorderは「機能の乱れ」や「障害」として広く使われ、diseas
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/word/symptom/)：症状
-- [condition](/word/condition/)：状態、病状
+- [symptom](/symptom)：症状
+- [condition](/condition)：状態、病状
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが
-- [illness](/word/illness/)：病気（一般的な体調不良）
+- [injury](/injury)：けが
+- [illness](/illness)：病気（一般的な体調不良）
 
 
-<!-- cvid: aid20_bid07 -->
+<!-- cvid: aid30_bid02 -->

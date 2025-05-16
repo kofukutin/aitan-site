@@ -81,15 +81,19 @@ TOEICの長文読解パートで、頻度や回数を表す副詞として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、頻度や回数を表す副詞として出題
 ## 🤔  sometimes との違いは？
 
 - **occasionally**：時々（やや頻度が低い、フォーマル寄り）
-- **[sometimes](/word/sometimes/)**：時々（頻度はoccasionallyよりやや高め、カジュアル）
+- **[sometimes](/sometimes)**：時々（頻度はoccasionallyよりやや高め、カジュアル）
 
 occasionallyは「たまに」「ごく時々」というニュアンスで、sometimesよりも頻度が低い印象です。sometimesは日常会話でよく使われ、occasionallyはややフォーマルな場面でも使われます。
 
@@ -105,14 +109,14 @@ occasionallyは「たまに」「ごく時々」というニュアンスで、so
 
 ## 🧩 あわせて覚えたい
 
-- [rarely](/word/rarely/)：めったに～ない
-- [frequently](/word/frequently/)：頻繁に
+- [rarely](/rarely)：めったに～ない
+- [frequently](/frequently)：頻繁に
 
 ---
 
 ## 📖 できればこれも
 
-- [usually](/word/usually/)：たいてい、ふつうは
-- [regularly](/word/regularly/)：定期的に
+- [usually](/usually)：たいてい、ふつうは
+- [regularly](/regularly)：定期的に
 
-<!-- cvid: aid15_bid33 -->
+<!-- cvid: aid00_bid37 -->

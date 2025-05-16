@@ -81,15 +81,19 @@ TOEICでは観光や地理に関する長文や案内文で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や地理に関する長文や案内文で見かけることが
 ## 🤔  island との違いは？
 
 - **isle**：詩的・文学的、または地名で使われる「島」
-- **[island](/word/island/)**：一般的な「島」、日常会話や説明で広く使う
+- **[island](/island)**：一般的な「島」、日常会話や説明で広く使う
 
 isleは文学的・フォーマルな響きがあり、islandは日常的・一般的な表現です。
 
@@ -105,14 +109,14 @@ isleは文学的・フォーマルな響きがあり、islandは日常的・一�
 
 ## 🧩 あわせて覚えたい
 
-- [peninsula](/word/peninsula/)：半島
-- [archipelago](/word/archipelago/)：群島、諸島
+- [peninsula](/peninsula)：半島
+- [archipelago](/archipelago)：群島、諸島
 
 ---
 
 ## 📖 できればこれも
 
-- [bay](/word/bay/)：湾
-- [coast](/word/coast/)：海岸
+- [bay](/bay)：湾
+- [coast](/coast)：海岸
 
-<!-- cvid: aid29_bid23 -->
+<!-- cvid: aid17_bid15 -->

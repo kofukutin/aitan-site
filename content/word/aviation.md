@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や記事、業界説明などで「航空業界
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や記事、業界説明などで「航空業界
 ## 🤔  aerospace との違いは？
 
 - **aviation**：飛行機や航空機による飛行、航空業界全般を指す
-- **[aerospace](/word/aerospace/)**：航空（大気圏内）と宇宙（大気圏外）を含む広い分野
+- **[aerospace](/aerospace)**：航空（大気圏内）と宇宙（大気圏外）を含む広い分野
 
 aviationは「飛行機や航空機」に限定されるのに対し、aerospaceは宇宙開発も含むより広い分野を指します。
 
@@ -105,14 +109,14 @@ aviationは「飛行機や航空機」に限定されるのに対し、aerospace
 
 ## 🧩 あわせて覚えたい
 
-- [airline](/word/airline/)：航空会社
-- [pilot](/word/pilot/)：パイロット、操縦士
+- [airline](/airline)：航空会社
+- [pilot](/pilot)：パイロット、操縦士
 
 ---
 
 ## 📖 できればこれも
 
-- [navigation](/word/navigation/)：航行、ナビゲーション
-- [airport](/word/airport/)：空港
+- [navigation](/navigation)：航行、ナビゲーション
+- [airport](/airport)：空港
 
-<!-- cvid: aid21_bid37 -->
+<!-- cvid: aid13_bid11 -->

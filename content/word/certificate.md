@@ -81,15 +81,19 @@ TOEICでは、証明書や認定証に関する書類やメールの中でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、証明書や認定証に関する書類やメールの中でよく
 ## 🤔  diploma との違いは？
 
 - **certificate**：特定のスキルやコース修了、資格取得などを証明する文書
-- **[diploma](/word/diploma/)**：主に学校の卒業や学位取得を証明する文書
+- **[diploma](/diploma)**：主に学校の卒業や学位取得を証明する文書
 
 certificateは短期間のコースや特定の資格に使われ、diplomaは学校の卒業や学位取得に使われることが多いです。
 
@@ -105,14 +109,14 @@ certificateは短期間のコースや特定の資格に使われ、diplomaは�
 
 ## 🧩 あわせて覚えたい
 
-- [license](/word/license/)：免許、許可証
-- [document](/word/document/)：文書、書類
+- [license](/license)：免許、許可証
+- [document](/document)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/word/application/)：申請、応募
-- [requirement](/word/requirement/)：必要条件、要件
+- [application](/application)：申請、応募
+- [requirement](/requirement)：必要条件、要件
 
-<!-- cvid: aid26_bid47 -->
+<!-- cvid: aid15_bid01 -->

@@ -82,15 +82,19 @@ TOEICでは、企業文化やチームワーク、モチベーションに関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、企業文化やチームワーク、モチベーションに関す
 ## 🤔  mind との違いは？
 
 - **spirit**：気力や意気込み、魂など、感情や内面のエネルギーを表す。
-- **[mind](/word/mind/)**：思考や知性、考え方など、理性的な心を表す。
+- **[mind](/mind)**：思考や知性、考え方など、理性的な心を表す。
 
 spiritは「やる気」や「団結力」など感情的・情熱的な側面、mindは「考える力」や「知性」など論理的な側面を強調します。
 
@@ -106,14 +110,14 @@ spiritは「やる気」や「団結力」など感情的・情熱的な側面�
 
 ## 🧩 あわせて覚えたい
 
-- [soul](/word/soul/)：魂、精神（人間の本質や不滅の部分）
-- [enthusiasm](/word/enthusiasm/)：熱意、情熱
+- [soul](/soul)：魂、精神（人間の本質や不滅の部分）
+- [enthusiasm](/enthusiasm)：熱意、情熱
 
 ---
 
 ## 📖 できればこれも
 
-- [attitude](/word/attitude/)：態度、考え方
-- [motivation](/word/motivation/)：動機、やる気
+- [attitude](/attitude)：態度、考え方
+- [motivation](/motivation)：動機、やる気
 
-<!-- cvid: aid30_bid01 -->
+<!-- cvid: aid47_bid41 -->

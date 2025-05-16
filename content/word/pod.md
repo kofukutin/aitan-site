@@ -81,15 +81,19 @@ ITやビジネス分野の説明文や、製品紹介などで見かけること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス分野の説明文や、製品紹介などで見かけること
 ## 🤔  capsule との違いは？
 
 - **pod**：中身を包む「さや」や、IT分野で独立したユニットを指す
-- **[capsule](/word/capsule/)**：薬や宇宙船などの「カプセル」、密閉された小さな容器
+- **[capsule](/capsule)**：薬や宇宙船などの「カプセル」、密閉された小さな容器
 
 「pod」は自然物やITのまとまりに使われ、「capsule」は密閉性や保護のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ ITやビジネス分野の説明文や、製品紹介などで見かけること
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container/)：容器、入れ物
-- [shell](/word/shell/)：殻、外皮
+- [container](/container)：容器、入れ物
+- [shell](/shell)：殻、外皮
 
 ---
 
 ## 📖 できればこれも
 
-- [unit](/word/unit/)：単位、ユニット
-- [module](/word/module/)：構成要素、モジュール
+- [unit](/unit)：単位、ユニット
+- [module](/module)：構成要素、モジュール
 
-<!-- cvid: aid08_bid47 -->
+<!-- cvid: aid41_bid40 -->

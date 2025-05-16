@@ -82,15 +82,19 @@ TOEICでは、選択肢の中で「明確な違い」や「区別」を表す文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、選択肢の中で「明確な違い」や「区別」を表す文
 ## 🤔  different との違いは？
 
 - **distinct**：明確に区別できる、はっきり異なる
-- **[different](/word/different/)**：単に「異なる」、違っている
+- **[different](/different)**：単に「異なる」、違っている
 
 「distinct」は違いがはっきりしている場合に使い、「different」は単に違いがある場合に使います。
 
@@ -106,14 +110,14 @@ TOEICでは、選択肢の中で「明確な違い」や「区別」を表す文
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate/)：分かれた、別々の
-- [unique](/word/unique/)：唯一の、独特な
+- [separate](/separate)：分かれた、別々の
+- [unique](/unique)：唯一の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific/)：具体的な、特定の
-- [definite](/word/definite/)：明確な、確定した
+- [specific](/specific)：具体的な、特定の
+- [definite](/definite)：明確な、確定した
 
-<!-- cvid: aid23_bid18 -->
+<!-- cvid: aid14_bid20 -->

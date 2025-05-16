@@ -81,15 +81,19 @@ TOEICでは、製品説明や素材に関する長文、工業や科学分野の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品説明や素材に関する長文、工業や科学分野の
 ## 🤔  pottery との違いは？
 
 - **ceramic**：陶磁器全般やセラミック素材を指し、工業用途も含む幅広い意味。
-- **[pottery](/word/pottery/)**：主に手作りの陶器や焼き物を指し、芸術や伝統工芸のニュアンスが強い。
+- **[pottery](/pottery)**：主に手作りの陶器や焼き物を指し、芸術や伝統工芸のニュアンスが強い。
 
 **ceramic**は素材や工業製品にも使われる広い言葉、**pottery**は手作りや芸術的な焼き物に限定されることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、製品説明や素材に関する長文、工業や科学分野の
 
 ## 🧩 あわせて覚えたい
 
-- [porcelain](/word/porcelain/)：磁器、より白くて硬い陶磁器
-- [clay](/word/clay/)：粘土、陶磁器の原料
+- [porcelain](/porcelain)：磁器、より白くて硬い陶磁器
+- [clay](/clay)：粘土、陶磁器の原料
 
 ---
 
 ## 📖 できればこれも
 
-- [glass](/word/glass/)：ガラス、透明な固体素材
-- [material](/word/material/)：材料、素材
+- [glass](/glass)：ガラス、透明な固体素材
+- [material](/material)：材料、素材
 
-<!-- cvid: aid08_bid16 -->
+<!-- cvid: aid13_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは科学技術や宇宙開発に関する話題で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術や宇宙開発に関する話題で登場することが
 ## 🤔  missile との違いは？
 
 - **rocket**：宇宙開発や科学用途の推進装置付きの乗り物や装置を指す。
-- **[missile](/word/missile/)**：主に軍事目的で使われる誘導ミサイルを指す。
+- **[missile](/missile)**：主に軍事目的で使われる誘導ミサイルを指す。
 
 rocketは宇宙や科学の文脈で使われ、missileは兵器や軍事の文脈で使われます。
 
@@ -105,14 +109,14 @@ rocketは宇宙や科学の文脈で使われ、missileは兵器や軍事の文�
 
 ## 🧩 あわせて覚えたい
 
-- [satellite](/word/satellite/)：人工衛星
-- [launch](/word/launch/)：打ち上げる
+- [satellite](/satellite)：人工衛星
+- [launch](/launch)：打ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [engine](/word/engine/)：エンジン
-- [space](/word/space/)：宇宙
+- [engine](/engine)：エンジン
+- [space](/space)：宇宙
 
-<!-- cvid: aid37_bid32 -->
+<!-- cvid: aid35_bid49 -->

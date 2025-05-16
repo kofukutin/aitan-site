@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「退屈な会議」「つまらない仕事」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「退屈な会議」「つまらない仕事」
 ## 🤔  dull との違いは？
 
 - **boring**：人や物事が「退屈させる」性質を持つことを強調
-- **[dull](/word/dull/)**：刺激や面白みがなく「単調」な印象を与える
+- **[dull](/dull)**：刺激や面白みがなく「単調」な印象を与える
 
 boringは「つまらなくて退屈させる」ことに重点があり、dullは「活気や変化がなく単調」なニュアンスです。
 
@@ -105,14 +109,14 @@ boringは「つまらなくて退屈させる」ことに重点があり、dull�
 
 ## 🧩 あわせて覚えたい
 
-- [exciting](/word/exciting/)：わくわくさせる、刺激的な
-- [tedious](/word/tedious/)：長くて退屈な、うんざりする
+- [exciting](/exciting)：わくわくさせる、刺激的な
+- [tedious](/tedious)：長くて退屈な、うんざりする
 
 ---
 
 ## 📖 できればこれも
 
-- [interesting](/word/interesting/)：面白い、興味深い
-- [funny](/word/funny/)：おかしい、面白い
+- [interesting](/interesting)：面白い、興味深い
+- [funny](/funny)：おかしい、面白い
 
-<!-- cvid: aid47_bid18 -->
+<!-- cvid: aid04_bid00 -->

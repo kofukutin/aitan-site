@@ -81,15 +81,19 @@ TOEICでは賃貸契約や不動産関連の長文で頻出します。契約書
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは賃貸契約や不動産関連の長文で頻出します。契約書
 ## 🤔  resident との違いは？
 
 - **tenant**：賃貸契約で建物や土地を借りている人
-- **[resident](/word/resident/)**：その場所に住んでいる人（賃貸・持ち家問わず）
+- **[resident](/resident)**：その場所に住んでいる人（賃貸・持ち家問わず）
 
 tenantは「借りている」ことがポイントで、residentは「住んでいる」ことに重点があります。
 
@@ -105,14 +109,14 @@ tenantは「借りている」ことがポイントで、residentは「住んで
 
 ## 🧩 あわせて覚えたい
 
-- [landlord](/word/landlord/)：家主、大家
-- [lease](/word/lease/)：賃貸契約、賃貸する
+- [landlord](/landlord)：家主、大家
+- [lease](/lease)：賃貸契約、賃貸する
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent/)：家賃、賃貸する
-- [property](/word/property/)：不動産、財産
+- [rent](/rent)：家賃、賃貸する
+- [property](/property)：不動産、財産
 
-<!-- cvid: aid43_bid04 -->
+<!-- cvid: aid36_bid18 -->

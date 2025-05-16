@@ -81,15 +81,19 @@ TOEICでは文法や語彙の選択肢として頻出し、「一般的に」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文法や語彙の選択肢として頻出し、「一般的に」と
 ## 🤔  usually との違いは？
 
 - **generally**：全体的な傾向や広い範囲で「一般的に」と述べるときに使う
-- **[usually](/word/usually/)**：個人や状況ごとの「たいてい」「ふつうは」といった頻度を表す
+- **[usually](/usually)**：個人や状況ごとの「たいてい」「ふつうは」といった頻度を表す
 
 「generally」は広い範囲や全体の傾向、「usually」は個人や具体的なケースの頻度に使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは文法や語彙の選択肢として頻出し、「一般的に」と
 
 ## 🧩 あわせて覚えたい
 
-- [typically](/word/typically/)：典型的に、たいてい
-- [commonly](/word/commonly/)：一般的に、よく
+- [typically](/typically)：典型的に、たいてい
+- [commonly](/commonly)：一般的に、よく
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/word/mainly/)：主に
-- [mostly](/word/mostly/)：ほとんど、主として
+- [mainly](/mainly)：主に
+- [mostly](/mostly)：ほとんど、主として
 
-<!-- cvid: aid12_bid08 -->
+<!-- cvid: aid49_bid35 -->

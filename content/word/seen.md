@@ -81,15 +81,19 @@ seenは、完了形や受動態の文法問題で頻出します。seeの過去�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ seenは、完了形や受動態の文法問題で頻出します。seeの過去�
 ## 🤔  watched との違いは？
 
 - **seen**：ただ「見た」「目にした」という意味で、意識的に見るかどうかは問わない。
-- **[watched](/word/watched/)**：意識して「じっと見る」「観察する」という意味。
+- **[watched](/watched)**：意識して「じっと見る」「観察する」という意味。
 
 seenは単に目に入った場合にも使えますが、watchedは注意深く見続けるニュアンスがあります。
 
@@ -105,14 +109,14 @@ seenは単に目に入った場合にも使えますが、watchedは注意深く
 
 ## 🧩 あわせて覚えたい
 
-- [look](/word/look/)：見る（意識して視線を向ける）
-- [notice](/word/notice/)：気づく、注意する
+- [look](/look)：見る（意識して視線を向ける）
+- [notice](/notice)：気づく、注意する
 
 ---
 
 ## 📖 できればこれも
 
-- [heard](/word/heard/)：hearの過去分詞形、聞こえた
-- [shown](/word/shown/)：showの過去分詞形、見せられた
+- [heard](/heard)：hearの過去分詞形、聞こえた
+- [shown](/shown)：showの過去分詞形、見せられた
 
-<!-- cvid: aid01_bid18 -->
+<!-- cvid: aid30_bid24 -->

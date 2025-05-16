@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、農場や田舎の風景を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、農場や田舎の風景を説
 ## 🤔  shed との違いは？
 
 - **barn**：農場で家畜や干し草などを保管する大きな建物
-- **[shed](/word/shed/)**：道具や小型の物を収納する小さな小屋
+- **[shed](/shed)**：道具や小型の物を収納する小さな小屋
 
 barnは主に農場で使われる大きな建物、shedは家庭や庭などで使う小さな物置小屋を指します。
 
@@ -105,14 +109,14 @@ barnは主に農場で使われる大きな建物、shedは家庭や庭などで
 
 ## 🧩 あわせて覚えたい
 
-- [stable](/word/stable/)：馬小屋
-- [warehouse](/word/warehouse/)：倉庫
+- [stable](/stable)：馬小屋
+- [warehouse](/warehouse)：倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [field](/word/field/)：畑、野原
-- [farm](/word/farm/)：農場
+- [field](/field)：畑、野原
+- [farm](/farm)：農場
 
-<!-- cvid: aid41_bid08 -->
+<!-- cvid: aid21_bid40 -->

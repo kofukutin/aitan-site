@@ -81,15 +81,19 @@ TOEICでは歴史や文化を扱う長文や観光案内の文脈で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や文化を扱う長文や観光案内の文脈で登場する
 ## 🤔  soldier との違いは？
 
 - **knight**：中世の騎士や名誉称号を持つ人物を指し、歴史的・物語的なニュアンスが強い。
-- **[soldier](/word/soldier/)**：現代・過去を問わず軍隊に所属する一般的な兵士。
+- **[soldier](/soldier)**：現代・過去を問わず軍隊に所属する一般的な兵士。
 
 knightは特定の時代や身分、名誉を強調する語で、soldierは軍人全般を指します。
 
@@ -105,14 +109,14 @@ knightは特定の時代や身分、名誉を強調する語で、soldierは軍�
 
 ## 🧩 あわせて覚えたい
 
-- [noble](/word/noble/)：貴族
-- [hero](/word/hero/)：英雄
+- [noble](/noble)：貴族
+- [hero](/hero)：英雄
 
 ---
 
 ## 📖 できればこれも
 
-- [castle](/word/castle/)：城
-- [armor](/word/armor/)：鎧
+- [castle](/castle)：城
+- [armor](/armor)：鎧
 
-<!-- cvid: aid09_bid42 -->
+<!-- cvid: aid07_bid39 -->

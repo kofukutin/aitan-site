@@ -82,15 +82,19 @@ touchは会話文や指示文で「触れる」「連絡を取る」の意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ touchは会話文や指示文で「触れる」「連絡を取る」の意味で
 ## 🤔  contact との違いは？
 
 - **touch**：物理的に「触れる」、または比喩的に「軽く連絡する」
-- **[contact](/word/contact/)**：よりフォーマルに「連絡を取る」「接触する」
+- **[contact](/contact)**：よりフォーマルに「連絡を取る」「接触する」
 
 touchはカジュアルで直接的な「触れる」や「連絡する」に使い、contactはビジネスやフォーマルな場面での「連絡」「接触」に使われます。
 
@@ -106,14 +110,14 @@ touchはカジュアルで直接的な「触れる」や「連絡する」に使
 
 ## 🧩 あわせて覚えたい
 
-- [handle](/word/handle/)：扱う、処理する
-- [approach](/word/approach/)：近づく、取り組む
+- [handle](/handle)：扱う、処理する
+- [approach](/approach)：近づく、取り組む
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold/)：持つ、握る
-- [press](/word/press/)：押す
+- [hold](/hold)：持つ、握る
+- [press](/press)：押す
 
-<!-- cvid: aid33_bid11 -->
+<!-- cvid: aid00_bid34 -->

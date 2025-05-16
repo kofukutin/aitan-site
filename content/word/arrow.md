@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【arrow】の意味・使い方・例文 ― pointerとの違い【TOEIC英単語】"
 description: "arrowの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpointerとの違いもわかりやすく学べます。"
 word: "arrow"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で、標識や案内板の「矢印」を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で、標識や案内板の「矢印」を説明
 ## 🤔  pointer との違いは？
 
 - **arrow**：矢や矢印そのものを指す
-- **[pointer](/word/pointer/)**：何かを指し示す道具やマウスカーソルなどを指す
+- **[pointer](/pointer)**：何かを指し示す道具やマウスカーソルなどを指す
 
 arrowは「→」のような形や実際の矢を指し、pointerは指示棒やマウスの矢印型カーソルなど「指し示すもの」全般を指します。
 
@@ -105,14 +109,14 @@ arrowは「→」のような形や実際の矢を指し、pointerは指示棒�
 
 ## 🧩 あわせて覚えたい
 
-- [bow](/word/bow/)：弓
-- [direction](/word/direction/)：方向
+- [bow](/bow)：弓
+- [direction](/direction)：方向
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line/)：線
-- [sign](/word/sign/)：標識
+- [line](/line)：線
+- [sign](/sign)：標識
 
-<!-- cvid: aid01_bid28 -->
+<!-- cvid: aid34_bid17 -->

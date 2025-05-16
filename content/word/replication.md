@@ -81,15 +81,19 @@ ITや科学、ビジネス分野の説明文やマニュアルで出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや科学、ビジネス分野の説明文やマニュアルで出題される
 ## 🤔  duplication との違いは？
 
 - **replication**：主に科学やIT分野で「正確な複製」や「再現性」を強調する語。
-- **[duplication](/word/duplication/)**：単に「コピー」や「重複」を意味し、必ずしも正確さや再現性は問わない。
+- **[duplication](/duplication)**：単に「コピー」や「重複」を意味し、必ずしも正確さや再現性は問わない。
 
 replicationは「同じ結果を再現する」ニュアンスが強く、duplicationは「同じものを2つ作る」イメージです。
 
@@ -105,14 +109,14 @@ replicationは「同じ結果を再現する」ニュアンスが強く、duplic
 
 ## 🧩 あわせて覚えたい
 
-- [imitation](/word/imitation/)：模倣、まね
-- [reproduction](/word/reproduction/)：再生、複製、再現
+- [imitation](/imitation)：模倣、まね
+- [reproduction](/reproduction)：再生、複製、再現
 
 ---
 
 ## 📖 できればこれも
 
-- [transmission](/word/transmission/)：伝達、送信
-- [simulation](/word/simulation/)：模擬、シミュレーション
+- [transmission](/transmission)：伝達、送信
+- [simulation](/simulation)：模擬、シミュレーション
 
-<!-- cvid: aid06_bid23 -->
+<!-- cvid: aid07_bid38 -->

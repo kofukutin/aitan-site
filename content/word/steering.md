@@ -88,8 +88,12 @@ TOEICでは主にPart 1の写真描写で、車や船の「ハンドル操作」
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、車や船の「ハンドル操作」
 ## 🤔  control との違いは？
 
 - **steering**：物理的な方向転換や進路の操作、または運営の指導を指す。
-- **[control](/word/control/)**：全体的な支配や制御、管理を意味する。
+- **[control](/control)**：全体的な支配や制御、管理を意味する。
 
 steeringは「進路を決めて導く」ニュアンスが強く、controlは「全体を管理・支配する」意味で使い分けます。
 
@@ -105,14 +109,14 @@ steeringは「進路を決めて導く」ニュアンスが強く、controlは�
 
 ## 🧩 あわせて覚えたい
 
-- [direction](/word/direction/)：方向、指示
-- [handle](/word/handle/)：取っ手、扱う
+- [direction](/direction)：方向、指示
+- [handle](/handle)：取っ手、扱う
 
 ---
 
 ## 📖 できればこれも
 
-- [brake](/word/brake/)：ブレーキ、制動装置
-- [navigate](/word/navigate/)：進路を決める、操縦する
+- [brake](/brake)：ブレーキ、制動装置
+- [navigate](/navigate)：進路を決める、操縦する
 
-<!-- cvid: aid31_bid32 -->
+<!-- cvid: aid31_bid45 -->

@@ -81,15 +81,19 @@ TOEICでは、信頼性や品質に関する文脈でunreliableが選択肢と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、信頼性や品質に関する文脈でunreliableが選択肢と�
 ## 🤔  inconsistent との違いは？
 
 - **unreliable**：信頼できない、当てにならない
-- **[inconsistent](/word/inconsistent/)**：一貫性がない、矛盾している
+- **[inconsistent](/inconsistent)**：一貫性がない、矛盾している
 
 unreliableは「信頼できない」という意味で、物や人が期待通りに動かない場合に使います。inconsistentは「一貫性がない」「矛盾している」という意味で、行動や結果がバラバラな場合に使います。
 
@@ -105,14 +109,14 @@ unreliableは「信頼できない」という意味で、物や人が期待通�
 
 ## 🧩 あわせて覚えたい
 
-- [dependable](/word/dependable/)：頼りになる
-- [trustworthy](/word/trustworthy/)：信頼できる
+- [dependable](/dependable)：頼りになる
+- [trustworthy](/trustworthy)：信頼できる
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/word/accurate/)：正確な
-- [efficient](/word/efficient/)：効率的な
+- [accurate](/accurate)：正確な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid06_bid40 -->
+<!-- cvid: aid15_bid35 -->

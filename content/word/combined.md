@@ -82,15 +82,19 @@ TOEICでは、形容詞として「combined efforts（協力）」「combined to
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、形容詞として「combined efforts（協力）」「combined to
 ## 🤔  joint との違いは？
 
 - **combined**：複数のものが合わさって一つになった状態を強調
-- **[joint](/word/joint/)**：2者以上が「共同で」行う、または所有することを強調
+- **[joint](/joint)**：2者以上が「共同で」行う、または所有することを強調
 
 「combined」は結果として一つにまとまった状態、「joint」は協力や共同作業のニュアンスが強いです。
 
@@ -106,14 +110,14 @@ TOEICでは、形容詞として「combined efforts（協力）」「combined to
 
 ## 🧩 あわせて覚えたい
 
-- [collective](/word/collective/)：集団の、共同の
-- [separate](/word/separate/)：分かれた、別々の
+- [collective](/collective)：集団の、共同の
+- [separate](/separate)：分かれた、別々の
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total/)：合計の、総計の
-- [shared](/word/shared/)：共有の、共用の
+- [total](/total)：合計の、総計の
+- [shared](/shared)：共有の、共用の
 
-<!-- cvid: aid32_bid46 -->
+<!-- cvid: aid26_bid29 -->

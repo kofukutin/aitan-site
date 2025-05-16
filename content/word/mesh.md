@@ -81,15 +81,19 @@ meshはITや技術系の文脈で出題されることがあり、ネットワ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ meshはITや技術系の文脈で出題されることがあり、ネットワ�
 ## 🤔  net との違いは？
 
 - **mesh**：細かい網目や交差した構造を指し、構造や素材そのものを強調する。
-- **[net](/word/net/)**：魚網やネットワークなど、用途や機能を強調する。
+- **[net](/net)**：魚網やネットワークなど、用途や機能を強調する。
 
 meshは「構造」や「素材」としての網目、netは「道具」や「仕組み」としての網を指す場面で使い分けます。
 
@@ -105,14 +109,14 @@ meshは「構造」や「素材」としての網目、netは「道具」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [grid](/word/grid/)：格子、グリッド
-- [fabric](/word/fabric/)：布地、生地
+- [grid](/grid)：格子、グリッド
+- [fabric](/fabric)：布地、生地
 
 ---
 
 ## 📖 できればこれも
 
-- [layer](/word/layer/)：層
-- [pattern](/word/pattern/)：模様、パターン
+- [layer](/layer)：層
+- [pattern](/pattern)：模様、パターン
 
-<!-- cvid: aid04_bid33 -->
+<!-- cvid: aid35_bid08 -->

@@ -81,15 +81,19 @@ TOEICでは、機械の故障や業務の内訳説明など、ビジネスや日
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械の故障や業務の内訳説明など、ビジネスや日
 ## 🤔  failure との違いは？
 
 - **breakdown**：機械やシステムの物理的な故障や、物事の詳細な内訳、精神的な崩壊を指す。
-- **[failure](/word/failure/)**：失敗や機能しないこと全般を指し、原因や状況を問わず幅広く使う。
+- **[failure](/failure)**：失敗や機能しないこと全般を指し、原因や状況を問わず幅広く使う。
 
 breakdownは「壊れて動かなくなる」具体的な場面や、詳細な分解・分類にも使われますが、failureは「うまくいかない」こと全般に使います。
 
@@ -105,14 +109,14 @@ breakdownは「壊れて動かなくなる」具体的な場面や、詳細な�
 
 ## 🧩 あわせて覚えたい
 
-- [malfunction](/word/malfunction/)：（機械などの）不調、誤作動
-- [collapse](/word/collapse/)：崩壊、倒壊
+- [malfunction](/malfunction)：（機械などの）不調、誤作動
+- [collapse](/collapse)：崩壊、倒壊
 
 ---
 
 ## 📖 できればこれも
 
-- [outage](/word/outage/)：（電力・サービスなどの）停止
-- [interruption](/word/interruption/)：中断、妨害
+- [outage](/outage)：（電力・サービスなどの）停止
+- [interruption](/interruption)：中断、妨害
 
-<!-- cvid: aid29_bid10 -->
+<!-- cvid: aid46_bid00 -->

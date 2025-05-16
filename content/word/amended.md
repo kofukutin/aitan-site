@@ -81,15 +81,19 @@ TOEICでは主に契約書や規則、公式文書の修正に関する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に契約書や規則、公式文書の修正に関する文脈で
 ## 🤔  revised との違いは？
 
 - **amended**：主に法律や規則、契約など公式な文書を部分的に修正・改正したことを表す。
-- **[revised](/word/revised/)**：内容全体を見直して修正・改訂する場合に使われ、書類や計画、原稿など幅広く使われる。
+- **[revised](/revised)**：内容全体を見直して修正・改訂する場合に使われ、書類や計画、原稿など幅広く使われる。
 
 amendedは「公式な文書の一部を正す」イメージ、revisedは「全体を見直して手直しする」イメージです。
 
@@ -105,14 +109,14 @@ amendedは「公式な文書の一部を正す」イメージ、revisedは「全
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify/)：変更する、修正する
-- [approve](/word/approve/)：承認する
+- [modify](/modify)：変更する、修正する
+- [approve](/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust/)：調整する
-- [update](/word/update/)：更新する
+- [adjust](/adjust)：調整する
+- [update](/update)：更新する
 
-<!-- cvid: aid35_bid36 -->
+<!-- cvid: aid09_bid30 -->

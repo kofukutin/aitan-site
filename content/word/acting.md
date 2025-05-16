@@ -81,15 +81,19 @@ actingは、TOEICの長文読解パートで「代理の～」や「演技」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ actingは、TOEICの長文読解パートで「代理の～」や「演技」と
 ## 🤔  performance との違いは？
 
 - **acting**：演技、または一時的な代理（役職）を指す
-- **[performance](/word/performance/)**：演技や公演そのもの、または業績・成果を指す
+- **[performance](/performance)**：演技や公演そのもの、または業績・成果を指す
 
 actingは「演じる行為」や「代理の役職」を表し、performanceは「演技の内容」や「成果」を表します。actingは「役割を担うこと」、performanceは「その結果や内容」に焦点があります。
 
@@ -105,14 +109,14 @@ actingは「演じる行為」や「代理の役職」を表し、performanceは
 
 ## 🧩 あわせて覚えたい
 
-- [substitute](/word/substitute/)：代理人、代用品
-- [temporary](/word/temporary/)：一時的な
+- [substitute](/substitute)：代理人、代用品
+- [temporary](/temporary)：一時的な
 
 ---
 
 ## 📖 できればこれも
 
-- [role](/word/role/)：役割、役
-- [director](/word/director/)：部長、監督
+- [role](/role)：役割、役
+- [director](/director)：部長、監督
 
-<!-- cvid: aid15_bid07 -->
+<!-- cvid: aid41_bid26 -->

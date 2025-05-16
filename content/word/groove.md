@@ -81,15 +81,19 @@ TOEICでは、技術的な説明や製品の仕様書などで「溝」や「く
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、技術的な説明や製品の仕様書などで「溝」や「く
 ## 🤔  slot との違いは？
 
 - **groove**：物の表面に刻まれた細長い溝やくぼみ
-- **[slot](/word/slot/)**：物を差し込むための細長い穴や挿入口
+- **[slot](/slot)**：物を差し込むための細長い穴や挿入口
 
 grooveは表面の「溝」に重点があり、slotは「差し込み口」や「挿入口」として使われる点が異なります。
 
@@ -105,14 +109,14 @@ grooveは表面の「溝」に重点があり、slotは「差し込み口」や�
 
 ## 🧩 あわせて覚えたい
 
-- [ridge](/word/ridge/)：隆起、突起
-- [channel](/word/channel/)：水路、通路
+- [ridge](/ridge)：隆起、突起
+- [channel](/channel)：水路、通路
 
 ---
 
 ## 📖 できればこれも
 
-- [curve](/word/curve/)：曲線、カーブ
-- [edge](/word/edge/)：端、縁
+- [curve](/curve)：曲線、カーブ
+- [edge](/edge)：端、縁
 
-<!-- cvid: aid25_bid09 -->
+<!-- cvid: aid40_bid21 -->

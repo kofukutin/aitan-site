@@ -82,15 +82,19 @@ TOEICでは「life insurance（生命保険）」や「work-life balance」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「life insurance（生命保険）」や「work-life balance」な�
 ## 🤔  live との違いは？
 
 - **life**：名詞で「生命」「人生」「生活」などの意味。
-- **[live](/word/live/)**：動詞で「生きる」「住む」などの意味。
+- **[live](/live)**：動詞で「生きる」「住む」などの意味。
 
 「life」は名詞で状態や存在そのものを指し、「live」は動詞で「生きる」という動作を表します。
 
@@ -106,14 +110,14 @@ TOEICでは「life insurance（生命保険）」や「work-life balance」な�
 
 ## 🧩 あわせて覚えたい
 
-- [death](/word/death/)：死、死亡
-- [career](/word/career/)：経歴、職業
+- [death](/death)：死、死亡
+- [career](/career)：経歴、職業
 
 ---
 
 ## 📖 できればこれも
 
-- [work](/word/work/)：仕事、働く
-- [dream](/word/dream/)：夢、夢を見る
+- [work](/work)：仕事、働く
+- [dream](/dream)：夢、夢を見る
 
-<!-- cvid: aid21_bid31 -->
+<!-- cvid: aid48_bid22 -->

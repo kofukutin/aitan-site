@@ -81,15 +81,19 @@ triumphはTOEICの長文読解（Part 7）で、成功や成果を強調する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid11_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ triumphはTOEICの長文読解（Part 7）で、成功や成果を強調する�
 ## 🤔  victory との違いは？
 
 - **triumph**：困難を乗り越えた末の大きな勝利や達成感を強調する。
-- **[victory](/word/victory/)**：単に勝敗が決した「勝ち」を表す。
+- **[victory](/victory)**：単に勝敗が決した「勝ち」を表す。
 
 triumphは感情や達成感を伴う勝利、victoryは客観的な「勝ち」に使われることが多いです。
 
@@ -105,14 +109,14 @@ triumphは感情や達成感を伴う勝利、victoryは客観的な「勝ち」
 
 ## 🧩 あわせて覚えたい
 
-- [achievement](/word/achievement/)：達成、業績
-- [defeat](/word/defeat/)：敗北、打ち負かすこと
+- [achievement](/achievement)：達成、業績
+- [defeat](/defeat)：敗北、打ち負かすこと
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/word/success/)：成功
-- [celebrate](/word/celebrate/)：祝う
+- [success](/success)：成功
+- [celebrate](/celebrate)：祝う
 
-<!-- cvid: aid41_bid12 -->
+<!-- cvid: aid11_bid40 -->

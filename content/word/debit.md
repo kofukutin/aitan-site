@@ -81,15 +81,19 @@ TOEICでは銀行や会計に関する説明文や明細書でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは銀行や会計に関する説明文や明細書でよく登場しま
 ## 🤔  withdrawal との違いは？
 
 - **debit**：会計上の「借方」や口座からの引き落とし自体、またはその記録を指す
-- **[withdrawal](/word/withdrawal/)**：現金の「引き出し」や資金の引き落としという動作自体を指す
+- **[withdrawal](/withdrawal)**：現金の「引き出し」や資金の引き落としという動作自体を指す
 
 debitは記録や会計用語として使われ、withdrawalは実際にお金を引き出す行為を強調します。
 
@@ -105,14 +109,14 @@ debitは記録や会計用語として使われ、withdrawalは実際にお金�
 
 ## 🧩 あわせて覚えたい
 
-- [credit](/word/credit/)：貸方、預け入れ
-- [deposit](/word/deposit/)：預金、預け入れ
+- [credit](/credit)：貸方、預け入れ
+- [deposit](/deposit)：預金、預け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [balance](/word/balance/)：残高
-- [transaction](/word/transaction/)：取引
+- [balance](/balance)：残高
+- [transaction](/transaction)：取引
 
-<!-- cvid: aid04_bid17 -->
+<!-- cvid: aid00_bid44 -->

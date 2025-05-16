@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス文書の中で「保存された」「救われ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス文書の中で「保存された」「救われ�
 ## 🤔  stored との違いは？
 
 - **saved**：主に「保存した」「救った」という意味で、特にデータやファイルを意識的に保存した場合に使う。
-- **[stored](/word/stored/)**：物やデータを「保管した」「蓄えた」という意味で、長期間しまっておくニュアンスが強い。
+- **[stored](/stored)**：物やデータを「保管した」「蓄えた」という意味で、長期間しまっておくニュアンスが強い。
 
 savedは「今すぐ使うために保存する」イメージ、storedは「しばらく保管しておく」イメージです。
 
@@ -105,14 +109,14 @@ savedは「今すぐ使うために保存する」イメージ、storedは「し
 
 ## 🧩 あわせて覚えたい
 
-- [protect](/word/protect/)：守る、保護する
-- [backup](/word/backup/)：バックアップ、予備
+- [protect](/protect)：守る、保護する
+- [backup](/backup)：バックアップ、予備
 
 ---
 
 ## 📖 できればこれも
 
-- [delete](/word/delete/)：削除する
-- [update](/word/update/)：更新する
+- [delete](/delete)：削除する
+- [update](/update)：更新する
 
-<!-- cvid: aid11_bid37 -->
+<!-- cvid: aid17_bid28 -->

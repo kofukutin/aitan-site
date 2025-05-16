@@ -81,15 +81,19 @@ TOEICでは、部門間の調整やプロジェクト管理に関する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、部門間の調整やプロジェクト管理に関する文脈で
 ## 🤔  collaboration との違いは？
 
 - **coordination**：複数の人や組織がうまく連携するように「調整」すること
-- **[collaboration](/word/collaboration/)**：複数の人が「協力」して一緒に何かを作り上げること
+- **[collaboration](/collaboration)**：複数の人が「協力」して一緒に何かを作り上げること
 
 coordinationは「調整役」や「連携の仕組み」に重点があり、collaborationは「共同作業」や「協力そのもの」に重点があります。
 
@@ -105,14 +109,14 @@ coordinationは「調整役」や「連携の仕組み」に重点があり、co
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/word/organization/)：組織、整理
-- [arrangement](/word/arrangement/)：取り決め、準備
+- [organization](/organization)：組織、整理
+- [arrangement](/arrangement)：取り決め、準備
 
 ---
 
 ## 📖 できればこれも
 
-- [cooperation](/word/cooperation/)：協力
-- [management](/word/management/)：管理
+- [cooperation](/cooperation)：協力
+- [management](/management)：管理
 
-<!-- cvid: aid20_bid24 -->
+<!-- cvid: aid24_bid05 -->

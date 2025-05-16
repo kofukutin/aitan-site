@@ -81,15 +81,19 @@ TOEICでは、通勤や移動に関する記事や案内文でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、通勤や移動に関する記事や案内文でよく登場しま
 ## 🤔  passenger との違いは？
 
 - **commuter**：主に通勤・通学のために定期的に移動する人
-- **[passenger](/word/passenger/)**：乗り物に乗っている人全般（目的は問わない）
+- **[passenger](/passenger)**：乗り物に乗っている人全般（目的は問わない）
 
 commuterは「通勤・通学目的の利用者」、passengerは「乗客」全般を指し、目的や頻度の違いがあります。
 
@@ -105,14 +109,14 @@ commuterは「通勤・通学目的の利用者」、passengerは「乗客」全
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/word/employee/)：従業員
-- [resident](/word/resident/)：居住者
+- [employee](/employee)：従業員
+- [resident](/resident)：居住者
 
 ---
 
 ## 📖 できればこれも
 
-- [commute](/word/commute/)：通勤する
-- [commuting](/word/commuting/)：通勤（名詞・形容詞）
+- [commute](/commute)：通勤する
+- [commuting](/commuting)：通勤（名詞・形容詞）
 
-<!-- cvid: aid31_bid27 -->
+<!-- cvid: aid08_bid13 -->

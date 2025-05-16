@@ -81,15 +81,19 @@ TOEICでは、役職や立場の変化を表す文脈で「former」がよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、役職や立場の変化を表す文脈で「former」がよく出
 ## 🤔  previous との違いは？
 
 - **former**：以前の、元の（特に役職や立場が過去にそうだったことを強調）
-- **[previous](/word/previous/)**：直前の、前の（時間や順序的に一つ前のものを指す）
+- **[previous](/previous)**：直前の、前の（時間や順序的に一つ前のものを指す）
 
 「former」は「元社長」など過去の肩書きや立場に使い、「previous」は「前回の会議」など直前の出来事や物事に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、役職や立場の変化を表す文脈で「former」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current/)：現在の
-- [ex](/word/ex/)：元～（カジュアルな表現）
+- [current](/current)：現在の
+- [ex](/ex)：元～（カジュアルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [latter](/word/latter/)：後者の
-- [recent](/word/recent/)：最近の
+- [latter](/latter)：後者の
+- [recent](/recent)：最近の
 
-<!-- cvid: aid48_bid28 -->
+<!-- cvid: aid27_bid41 -->

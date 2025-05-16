@@ -81,15 +81,19 @@ ITやビジネス文書で「データを消す」「記録を消去する」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書で「データを消す」「記録を消去する」と
 ## 🤔  delete との違いは？
 
 - **erase**：物理的・デジタル的に「消す」全般。消しゴムやツールで消すイメージも強い。
-- **[delete](/word/delete/)**：主にコンピュータやデジタルデータで「削除する」ことに特化。
+- **[delete](/delete)**：主にコンピュータやデジタルデータで「削除する」ことに特化。
 
 「erase」は紙やホワイトボードなど物理的なものにも使えますが、「delete」は主にデジタルデータの削除に使われます。
 
@@ -105,14 +109,14 @@ ITやビジネス文書で「データを消す」「記録を消去する」と
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り除く、除去する
-- [restore](/word/restore/)：元に戻す、復元する
+- [remove](/remove)：取り除く、除去する
+- [restore](/restore)：元に戻す、復元する
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する
-- [correct](/word/correct/)：訂正する
+- [edit](/edit)：編集する
+- [correct](/correct)：訂正する
 
-<!-- cvid: aid48_bid28 -->
+<!-- cvid: aid01_bid41 -->

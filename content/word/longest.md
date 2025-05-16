@@ -81,15 +81,19 @@ TOEICでは、物の長さや時間の比較をする場面で出題されやす
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物の長さや時間の比較をする場面で出題されやす
 ## 🤔  most との違いは？
 
 - **longest**：長さや時間が「最も長い」ことを表す最上級
-- **[most](/word/most/)**：数量や程度が「最も多い」「最大の」ことを表す最上級
+- **[most](/most)**：数量や程度が「最も多い」「最大の」ことを表す最上級
 
 「longest」は長さや時間の比較に使い、「most」は数や量、程度の比較に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、物の長さや時間の比較をする場面で出題されやす
 
 ## 🧩 あわせて覚えたい
 
-- [shortest](/word/shortest/)：最も短い
-- [tallest](/word/tallest/)：最も背が高い
+- [shortest](/shortest)：最も短い
+- [tallest](/tallest)：最も背が高い
 
 ---
 
 ## 📖 できればこれも
 
-- [long](/word/long/)：長い
-- [longer](/word/longer/)：より長い
+- [long](/long)：長い
+- [longer](/longer)：より長い
 
-<!-- cvid: aid40_bid07 -->
+<!-- cvid: aid04_bid01 -->

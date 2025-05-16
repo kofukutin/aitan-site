@@ -88,8 +88,12 @@ TOEICでは新聞記事やビジネスニュースの文脈で登場しやすく
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは新聞記事やビジネスニュースの文脈で登場しやすく
 ## 🤔  journalist との違いは？
 
 - **reporter**：現場で取材し、ニュースを伝える人
-- **[journalist](/word/journalist/)**：記事を書く人全般（評論や特集も含む）
+- **[journalist](/journalist)**：記事を書く人全般（評論や特集も含む）
 
 reporterは主に現場で情報を集めて報道する人、journalistはより広く「報道に関わる人」を指します。
 
@@ -105,14 +109,14 @@ reporterは主に現場で情報を集めて報道する人、journalistはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [anchor](/word/anchor/)：ニュース番組の司会者
-- [editor](/word/editor/)：編集者
+- [anchor](/anchor)：ニュース番組の司会者
+- [editor](/editor)：編集者
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/word/article/)：記事
-- [interview](/word/interview/)：インタビュー、面接
+- [article](/article)：記事
+- [interview](/interview)：インタビュー、面接
 
-<!-- cvid: aid48_bid11 -->
+<!-- cvid: aid48_bid41 -->

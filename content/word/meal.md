@@ -81,15 +81,19 @@ TOEICではレストランやホテル、職場の福利厚生などの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid05_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランやホテル、職場の福利厚生などの場面で
 ## 🤔  dish との違いは？
 
 - **meal**：朝食・昼食など「食事」全体を指す
-- **[dish](/word/dish/)**：一皿の料理や特定の料理を指す
+- **[dish](/dish)**：一皿の料理や特定の料理を指す
 
 「meal」は食事のまとまり全体、「dish」はその中の一品や料理を指すので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ TOEICではレストランやホテル、職場の福利厚生などの場面で
 
 ## 🧩 あわせて覚えたい
 
-- [snack](/word/snack/)：軽食、おやつ
-- [refreshment](/word/refreshment/)：軽い飲食物、リフレッシュ用の飲み物や軽食
+- [snack](/snack)：軽食、おやつ
+- [refreshment](/refreshment)：軽い飲食物、リフレッシュ用の飲み物や軽食
 
 ---
 
 ## 📖 できればこれも
 
-- [breakfast](/word/breakfast/)：朝食
-- [lunch](/word/lunch/)：昼食
+- [breakfast](/breakfast)：朝食
+- [lunch](/lunch)：昼食
 
-<!-- cvid: aid17_bid15 -->
+<!-- cvid: aid05_bid18 -->

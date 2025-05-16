@@ -81,7 +81,7 @@ TOEICでは、オフィスや店舗の改装、リニューアルに関する会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、オフィスや店舗の改装、リニューアルに関する会
 
 <div class="info-center">
 ＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや店舗の改装、リニューアルに関する会
 ## 🤔  renovate との違いは？
 
 - **remodel**：構造や用途自体を大きく作り変えるニュアンス
-- **[renovate](/word/renovate/)**：古くなったものを修復・修繕して新しくするニュアンス
+- **[renovate](/renovate)**：古くなったものを修復・修繕して新しくするニュアンス
 
 remodelは「間取り変更」など大規模な改造に使われ、renovateは「元の状態に戻す」や「きれいにする」場合に使われます。
 
@@ -105,14 +109,14 @@ remodelは「間取り変更」など大規模な改造に使われ、renovate�
 
 ## 🧩 あわせて覚えたい
 
-- [redecorate](/word/redecorate/)：（部屋などを）模様替えする
-- [restore](/word/restore/)：元の状態に戻す、修復する
+- [redecorate](/redecorate)：（部屋などを）模様替えする
+- [restore](/restore)：元の状態に戻す、修復する
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡張する、広げる
-- [install](/word/install/)：設置する、取り付ける
+- [expand](/expand)：拡張する、広げる
+- [install](/install)：設置する、取り付ける
 
-<!-- cvid: aid06_bid49 -->
+<!-- cvid: aid03_bid49 -->

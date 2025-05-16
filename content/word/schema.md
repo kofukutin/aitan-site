@@ -81,15 +81,19 @@ ITやビジネス文書、技術系の長文で「schema」は設計図や構造
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid34" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid34" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、技術系の長文で「schema」は設計図や構造
 ## 🤔  diagram との違いは？
 
 - **schema**：全体の構造や概念的な枠組みを示す、抽象度が高い設計図
-- **[diagram](/word/diagram/)**：具体的な図やイラストで、関係や流れを視覚的に示す
+- **[diagram](/diagram)**：具体的な図やイラストで、関係や流れを視覚的に示す
 
 schemaはシステムやデータの「設計思想」や「枠組み」を強調し、diagramは「見た目の図解」や「具体的な関係」を示す点が異なります。
 
@@ -105,14 +109,14 @@ schemaはシステムやデータの「設計思想」や「枠組み」を強�
 
 ## 🧩 あわせて覚えたい
 
-- [structure](/word/structure/)：構造、仕組み
-- [blueprint](/word/blueprint/)：設計図、青写真
+- [structure](/structure)：構造、仕組み
+- [blueprint](/blueprint)：設計図、青写真
 
 ---
 
 ## 📖 できればこれも
 
-- [framework](/word/framework/)：枠組み、骨組み
-- [outline](/word/outline/)：概要、要点
+- [framework](/framework)：枠組み、骨組み
+- [outline](/outline)：概要、要点
 
-<!-- cvid: aid38_bid24 -->
+<!-- cvid: aid21_bid34 -->

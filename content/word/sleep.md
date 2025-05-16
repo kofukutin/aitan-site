@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sleep】の意味・使い方・例文 ― napとの違い【TOEIC英単語】"
 description: "sleepの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでnapとの違いもわかりやすく学べます。"
 word: "sleep"
@@ -82,15 +82,19 @@ TOEICではPart 1の写真描写や、健康・生活習慣に関する会話文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 1の写真描写や、健康・生活習慣に関する会話文
 ## 🤔  nap との違いは？
 
 - **sleep**：夜間や長時間の「眠る」「睡眠」を指す一般的な言葉。
-- **[nap](/word/nap/)**：短時間の「うたた寝」「昼寝」を指す。
+- **[nap](/nap)**：短時間の「うたた寝」「昼寝」を指す。
 
 sleepは通常夜や長時間の睡眠、napは昼間などの短い仮眠を表します。
 
@@ -106,14 +110,14 @@ sleepは通常夜や長時間の睡眠、napは昼間などの短い仮眠を表
 
 ## 🧩 あわせて覚えたい
 
-- [rest](/word/rest/)：休む、休息
-- [awake](/word/awake/)：目覚めている、起きる
+- [rest](/rest)：休む、休息
+- [awake](/awake)：目覚めている、起きる
 
 ---
 
 ## 📖 できればこれも
 
-- [dream](/word/dream/)：夢を見る、夢
-- [wake](/word/wake/)：目覚める、起こす
+- [dream](/dream)：夢を見る、夢
+- [wake](/wake)：目覚める、起こす
 
-<!-- cvid: aid22_bid44 -->
+<!-- cvid: aid37_bid17 -->

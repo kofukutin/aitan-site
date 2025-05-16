@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【skateboard】の意味・使い方・例文 ― scooterとの違い【TOEIC英単語】"
 description: "skateboardの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでscooterとの違いもわかりやすく学べます。"
 word: "skateboard"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物がスケートボードに乗
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid10_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物がスケートボードに乗
 ## 🤔  scooter との違いは？
 
 - **skateboard**：足で地面を蹴って進む、板状の乗り物。ハンドルはない。
-- **[scooter](/word/scooter/)**：ハンドルがついた立ち乗りの乗り物。足で地面を蹴って進む。
+- **[scooter](/scooter)**：ハンドルがついた立ち乗りの乗り物。足で地面を蹴って進む。
 
 skateboardはハンドルがなくバランスを取る必要があり、scooterはハンドル付きで安定して進めます。どちらも遊具ですが、形や操作方法が異なります。
 
@@ -105,14 +109,14 @@ skateboardはハンドルがなくバランスを取る必要があり、scooter
 
 ## 🧩 あわせて覚えたい
 
-- [rollerblade](/word/rollerblade/)：インラインスケート
-- [bicycle](/word/bicycle/)：自転車
+- [rollerblade](/rollerblade)：インラインスケート
+- [bicycle](/bicycle)：自転車
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/word/helmet/)：ヘルメット
-- [park](/word/park/)：公園
+- [helmet](/helmet)：ヘルメット
+- [park](/park)：公園
 
-<!-- cvid: aid47_bid01 -->
+<!-- cvid: aid10_bid24 -->

@@ -81,15 +81,19 @@ TOEICでは主に記事や報告書、医療・保険関連の長文で登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事や報告書、医療・保険関連の長文で登場し
 ## 🤔  demise との違いは？
 
 - **death**：一般的な「死」「死亡」を表す最も広い語。
-- **[demise](/word/demise/)**：ややフォーマルで、特に人の死や制度・組織の終焉にも使われる。
+- **[demise](/demise)**：ややフォーマルで、特に人の死や制度・組織の終焉にも使われる。
 
 deathは日常的・中立的な「死」を指し、demiseはフォーマルな場や比喩的な「終わり」にも使われます。
 
@@ -105,14 +109,14 @@ deathは日常的・中立的な「死」を指し、demiseはフォーマルな
 
 ## 🧩 あわせて覚えたい
 
-- [birth](/word/birth/)：誕生
-- [fatality](/word/fatality/)：（事故・災害などによる）死亡者
+- [birth](/birth)：誕生
+- [fatality](/fatality)：（事故・災害などによる）死亡者
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [injury](/word/injury/)：けが
+- [disease](/disease)：病気
+- [injury](/injury)：けが
 
-<!-- cvid: aid22_bid23 -->
+<!-- cvid: aid38_bid27 -->

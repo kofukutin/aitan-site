@@ -81,15 +81,19 @@ TOEICでは主に広告や案内文、保険関連の長文で「auto」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に広告や案内文、保険関連の長文で「auto」が登�
 ## 🤔  automobile との違いは？
 
 - **auto**：カジュアルで短い表現。会話や広告でよく使う。
-- **[automobile](/word/automobile/)**：ややフォーマルで正式な表現。書類や公式文書で使われやすい。
+- **[automobile](/automobile)**：ややフォーマルで正式な表現。書類や公式文書で使われやすい。
 
 「auto」は日常的・カジュアル、「automobile」はフォーマルな場面で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは主に広告や案内文、保険関連の長文で「auto」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/word/vehicle/)：乗り物、車両
-- [car](/word/car/)：車（最も一般的な表現）
+- [vehicle](/vehicle)：乗り物、車両
+- [car](/car)：車（最も一般的な表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual/)：手動の、マニュアル
-- [engine](/word/engine/)：エンジン
+- [manual](/manual)：手動の、マニュアル
+- [engine](/engine)：エンジン
 
-<!-- cvid: aid32_bid26 -->
+<!-- cvid: aid25_bid41 -->

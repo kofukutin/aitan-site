@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンで「通訳する」「解釈する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンで「通訳する」「解釈する」
 ## 🤔  translated との違いは？
 
 - **interpreted**：話し言葉をその場で通訳したり、意味や意図を自分なりに解釈すること。
-- **[translated](/word/translated/)**：文章や言葉を別の言語に書き換えること（主に書き言葉）。
+- **[translated](/translated)**：文章や言葉を別の言語に書き換えること（主に書き言葉）。
 
 interpretedは「口頭での通訳」や「意味の解釈」に使い、translatedは「文章の翻訳」に使う点が異なります。
 
@@ -105,14 +109,14 @@ interpretedは「口頭での通訳」や「意味の解釈」に使い、transl
 
 ## 🧩 あわせて覚えたい
 
-- [explain](/word/explain/)：説明する
-- [clarify](/word/clarify/)：明確にする
+- [explain](/explain)：説明する
+- [clarify](/clarify)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/word/summarize/)：要約する
-- [paraphrase](/word/paraphrase/)：言い換える
+- [summarize](/summarize)：要約する
+- [paraphrase](/paraphrase)：言い換える
 
-<!-- cvid: aid33_bid16 -->
+<!-- cvid: aid19_bid43 -->

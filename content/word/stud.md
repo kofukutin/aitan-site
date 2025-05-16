@@ -81,15 +81,19 @@ TOEICでは建築やオフィスの説明文、または部品の名称として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは建築やオフィスの説明文、または部品の名称として
 ## 🤔  bolt との違いは？
 
 - **stud**：壁や家具の骨組み、または装飾用の小さな突起やピアスの留め具など幅広い意味で使う。
-- **[bolt](/word/bolt/)**：主に「ボルト（ねじ）」として、部品同士をしっかり固定するための金属製の棒状部品。
+- **[bolt](/bolt)**：主に「ボルト（ねじ）」として、部品同士をしっかり固定するための金属製の棒状部品。
 
 studは構造材や装飾、boltは締結用の金具と、用途や形状が異なります。
 
@@ -105,14 +109,14 @@ studは構造材や装飾、boltは締結用の金具と、用途や形状が異
 
 ## 🧩 あわせて覚えたい
 
-- [nail](/word/nail/)：釘
-- [brace](/word/brace/)：補強材、支え
+- [nail](/nail)：釘
+- [brace](/brace)：補強材、支え
 
 ---
 
 ## 📖 できればこれも
 
-- [panel](/word/panel/)：パネル、板
-- [beam](/word/beam/)：梁（はり）
+- [panel](/panel)：パネル、板
+- [beam](/beam)：梁（はり）
 
-<!-- cvid: aid48_bid43 -->
+<!-- cvid: aid40_bid16 -->

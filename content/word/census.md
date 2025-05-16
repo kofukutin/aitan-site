@@ -81,15 +81,19 @@ TOEICでは、公式な報告書やニュース記事、説明文などで「cen
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、公式な報告書やニュース記事、説明文などで「cen
 ## 🤔  survey との違いは？
 
 - **census**：国や地域全体を対象に、人口や世帯などを網羅的に調査する公式なもの。
-- **[survey](/word/survey/)**：特定のテーマや対象に対して行うアンケートや調査。規模や目的が幅広い。
+- **[survey](/survey)**：特定のテーマや対象に対して行うアンケートや調査。規模や目的が幅広い。
 
 censusは「全数調査」で、surveyは「一部を対象とした調査」や「アンケート」など幅広く使われます。
 
@@ -105,14 +109,14 @@ censusは「全数調査」で、surveyは「一部を対象とした調査」�
 
 ## 🧩 あわせて覚えたい
 
-- [statistics](/word/statistics/)：統計、統計学
-- [poll](/word/poll/)：世論調査、投票
+- [statistics](/statistics)：統計、統計学
+- [poll](/poll)：世論調査、投票
 
 ---
 
 ## 📖 できればこれも
 
-- [data](/word/data/)：データ、資料
-- [analysis](/word/analysis/)：分析
+- [data](/data)：データ、資料
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid38_bid11 -->
+<!-- cvid: aid41_bid03 -->

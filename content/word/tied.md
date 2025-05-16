@@ -81,15 +81,19 @@ tiedはTOEICの会話パートで、ビジネスの状況や競争、状態の�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tiedはTOEICの会話パートで、ビジネスの状況や競争、状態の�
 ## 🤔  bound との違いは？
 
 - **tied**：物理的・比喩的に「結ばれている」「縛られている」、または「同点の」
-- **[bound](/word/bound/)**：より強い「縛られている」「拘束されている」状態や、義務・制約を強調
+- **[bound](/bound)**：より強い「縛られている」「拘束されている」状態や、義務・制約を強調
 
 tiedは「結ばれている」や「同点」の意味で幅広く使われますが、boundは「逃れられない」「強く拘束されている」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ tiedは「結ばれている」や「同点」の意味で幅広く使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [attached](/word/attached/)：取り付けられた、付属した
-- [loose](/word/loose/)：ゆるい、ほどけた
+- [attached](/attached)：取り付けられた、付属した
+- [loose](/loose)：ゆるい、ほどけた
 
 ---
 
 ## 📖 できればこれも
 
-- [fixed](/word/fixed/)：固定された、決まった
-- [connected](/word/connected/)：つながった、接続された
+- [fixed](/fixed)：固定された、決まった
+- [connected](/connected)：つながった、接続された
 
-<!-- cvid: aid40_bid00 -->
+<!-- cvid: aid22_bid07 -->

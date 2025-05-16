@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメールの中で「計画を実施する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメールの中で「計画を実施する」
 ## 🤔  executed との違いは？
 
 - **implemented**：計画やシステムを現実に導入・実施すること
-- **[executed](/word/executed/)**：命令や計画を「遂行する」「実行する」こと。法律や契約、処刑など幅広い場面で使う
+- **[executed](/executed)**：命令や計画を「遂行する」「実行する」こと。法律や契約、処刑など幅広い場面で使う
 
 「implemented」は主に計画やシステムの導入に使い、「executed」は命令や契約、タスクの遂行など幅広い実行に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やメールの中で「計画を実施する」
 
 ## 🧩 あわせて覚えたい
 
-- [enforce](/word/enforce/)：（法律・規則などを）施行する
-- [apply](/word/apply/)：適用する、応用する
+- [enforce](/enforce)：（法律・規則などを）施行する
+- [apply](/apply)：適用する、応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish/)：設立する、確立する
-- [improve](/word/improve/)：改善する
+- [establish](/establish)：設立する、確立する
+- [improve](/improve)：改善する
 
-<!-- cvid: aid13_bid30 -->
+<!-- cvid: aid26_bid39 -->

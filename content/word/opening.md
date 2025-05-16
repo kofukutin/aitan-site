@@ -81,15 +81,19 @@ TOEICでは「求人の空き」や「開始」という意味でPart 5の語彙
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「求人の空き」や「開始」という意味でPart 5の語彙
 ## 🤔  vacancy との違いは？
 
 - **opening**：主に「求人の空き」や「開始」を意味し、募集や新しい機会に使われる。
-- **[vacancy](/word/vacancy/)**：ホテルや部屋などの「空室」や「空きポスト」を指し、より物理的・公式なニュアンスが強い。
+- **[vacancy](/vacancy)**：ホテルや部屋などの「空室」や「空きポスト」を指し、より物理的・公式なニュアンスが強い。
 
 openingは新しい募集や機会に使われることが多く、vacancyは部屋やポストなどの空きを指す際に使われます。
 
@@ -105,14 +109,14 @@ openingは新しい募集や機会に使われることが多く、vacancyは部
 
 ## 🧩 あわせて覚えたい
 
-- [opportunity](/word/opportunity/)：機会、チャンス
-- [position](/word/position/)：職、地位
+- [opportunity](/opportunity)：機会、チャンス
+- [position](/position)：職、地位
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [interview](/word/interview/)：面接
+- [candidate](/candidate)：候補者
+- [interview](/interview)：面接
 
-<!-- cvid: aid35_bid32 -->
+<!-- cvid: aid07_bid45 -->

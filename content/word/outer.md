@@ -81,15 +81,19 @@ TOEICでは、物の位置や構造を説明する文脈で「outer」が選択�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物の位置や構造を説明する文脈で「outer」が選択�
 ## 🤔  external との違いは？
 
 - **outer**：物理的・空間的に「外側の」「外部の」
-- **[external](/word/external/)**：よりフォーマルで「外部の」「外面的な」など抽象的な意味も含む
+- **[external](/external)**：よりフォーマルで「外部の」「外面的な」など抽象的な意味も含む
 
 「outer」は主に物の位置や層の外側を指し、日常的・具体的な場面で使われます。「external」は書類や組織など抽象的な「外部」にも使われ、よりフォーマルな響きがあります。
 
@@ -105,14 +109,14 @@ TOEICでは、物の位置や構造を説明する文脈で「outer」が選択�
 
 ## 🧩 あわせて覚えたい
 
-- [inner](/word/inner/)：内側の
-- [outside](/word/outside/)：外側、外部
+- [inner](/inner)：内側の
+- [outside](/outside)：外側、外部
 
 ---
 
 ## 📖 できればこれも
 
-- [upper](/word/upper/)：上の、上部の
-- [lower](/word/lower/)：下の、下部の
+- [upper](/upper)：上の、上部の
+- [lower](/lower)：下の、下部の
 
-<!-- cvid: aid22_bid03 -->
+<!-- cvid: aid00_bid06 -->

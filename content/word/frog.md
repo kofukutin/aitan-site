@@ -81,15 +81,19 @@ TOEICでは自然や動物に関する長文や説明文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは自然や動物に関する長文や説明文で登場することが
 ## 🤔  toad との違いは？
 
 - **frog**：一般的に体が細く、皮膚が滑らかなカエル
-- **[toad](/word/toad/)**：体がずんぐりしていて、皮膚がざらざらしたヒキガエル
+- **[toad](/toad)**：体がずんぐりしていて、皮膚がざらざらしたヒキガエル
 
 frogは水辺に多く、ジャンプ力が高いカエルを指し、toadは陸上に多く皮膚が乾燥しているヒキガエルを指します。
 
@@ -105,14 +109,14 @@ frogは水辺に多く、ジャンプ力が高いカエルを指し、toadは陸
 
 ## 🧩 あわせて覚えたい
 
-- [tadpole](/word/tadpole/)：オタマジャクシ
-- [reptile](/word/reptile/)：爬虫類
+- [tadpole](/tadpole)：オタマジャクシ
+- [reptile](/reptile)：爬虫類
 
 ---
 
 ## 📖 できればこれも
 
-- [snake](/word/snake/)：ヘビ
-- [rabbit](/word/rabbit/)：ウサギ
+- [snake](/snake)：ヘビ
+- [rabbit](/rabbit)：ウサギ
 
-<!-- cvid: aid16_bid35 -->
+<!-- cvid: aid04_bid03 -->

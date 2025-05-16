@@ -81,15 +81,19 @@ TOEICでは、環境問題やビジネス上の注意喚起など、社会的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境問題やビジネス上の注意喚起など、社会的な
 ## 🤔  consciousness との違いは？
 
 - **awareness**：何かに気づいていること、特定の事柄への認識や意識
-- **[consciousness](/word/consciousness/)**：意識そのもの、目覚めている状態や自我
+- **[consciousness](/consciousness)**：意識そのもの、目覚めている状態や自我
 
 awarenessは「特定の物事への気づきや認識」を指し、consciousnessは「意識そのもの」や「正気・覚醒状態」を表します。
 
@@ -105,14 +109,14 @@ awarenessは「特定の物事への気づきや認識」を指し、consciousne
 
 ## 🧩 あわせて覚えたい
 
-- [ignorance](/word/ignorance/)：無知、知らないこと
-- [recognition](/word/recognition/)：認識、認めること
+- [ignorance](/ignorance)：無知、知らないこと
+- [recognition](/recognition)：認識、認めること
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/word/campaign/)：キャンペーン、運動
-- [knowledge](/word/knowledge/)：知識
+- [campaign](/campaign)：キャンペーン、運動
+- [knowledge](/knowledge)：知識
 
-<!-- cvid: aid31_bid36 -->
+<!-- cvid: aid39_bid38 -->

@@ -81,7 +81,7 @@ TOEICでは主にPart 1の写真描写問題で、服装や持ち物を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 1の写真描写問題で、服装や持ち物を説明す
 
 <div class="info-center">
 ＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、服装や持ち物を説明す
 ## 🤔  muffler との違いは？
 
 - **scarf**：ファッションや防寒用の首に巻く布全般を指す。
-- **[muffler](/word/muffler/)**：特に防寒目的で使う厚手のマフラー。
+- **[muffler](/muffler)**：特に防寒目的で使う厚手のマフラー。
 
 scarfはおしゃれ用も含め幅広く使われ、mufflerは防寒用の厚手のものに限定される傾向があります。
 
@@ -105,14 +109,14 @@ scarfはおしゃれ用も含め幅広く使われ、mufflerは防寒用の厚�
 
 ## 🧩 あわせて覚えたい
 
-- [shawl](/word/shawl/)：肩掛け、ショール
-- [bandana](/word/bandana/)：バンダナ、頭や首に巻く三角形や四角形の布
+- [shawl](/shawl)：肩掛け、ショール
+- [bandana](/bandana)：バンダナ、頭や首に巻く三角形や四角形の布
 
 ---
 
 ## 📖 できればこれも
 
-- [glove](/word/glove/)：手袋
-- [hat](/word/hat/)：帽子
+- [glove](/glove)：手袋
+- [hat](/hat)：帽子
 
-<!-- cvid: aid11_bid37 -->
+<!-- cvid: aid20_bid37 -->

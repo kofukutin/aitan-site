@@ -81,15 +81,19 @@ TOEICでは会話や説明文の進行形表現で頻出します。日常的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の進行形表現で頻出します。日常的な
 ## 🤔  obtaining との違いは？
 
 - **getting**：日常的・カジュアルに「得る」「手に入れる」「～になる」を表す
-- **[obtaining](/word/obtaining/)**：ややフォーマルで「正式に入手する」「努力して得る」を表す
+- **[obtaining](/obtaining)**：ややフォーマルで「正式に入手する」「努力して得る」を表す
 
 **getting** は日常会話やカジュアルな場面で幅広く使われますが、**obtaining** は書類や許可証など、公式なものを手に入れるときに使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文の進行形表現で頻出します。日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る
-- [acquire](/word/acquire/)：（努力して）習得する、得る
+- [receive](/receive)：受け取る
+- [acquire](/acquire)：（努力して）習得する、得る
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring/)：持ってくる
-- [take](/word/take/)：持っていく、取る
+- [bring](/bring)：持ってくる
+- [take](/take)：持っていく、取る
 
-<!-- cvid: aid11_bid10 -->
+<!-- cvid: aid09_bid02 -->

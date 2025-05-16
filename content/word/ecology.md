@@ -81,15 +81,19 @@ TOEICでは環境問題やサステナビリティに関する長文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題やサステナビリティに関する長文で登場す
 ## 🤔  environment との違いは？
 
 - **ecology**：生物と環境の関係や生態系そのもの、またはその学問
-- **[environment](/word/environment/)**：環境そのもの（自然・社会・周囲の状況など）
+- **[environment](/environment)**：環境そのもの（自然・社会・周囲の状況など）
 
 ecologyは「生き物と環境のつながり」や「生態系」に焦点があり、environmentは「場所や状況としての環境」全般を指します。
 
@@ -105,14 +109,14 @@ ecologyは「生き物と環境のつながり」や「生態系」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [ecosystem](/word/ecosystem/)：生態系（生物と環境が相互に関わるシステム）
-- [conservation](/word/conservation/)：保護、保存（自然や資源を守ること）
+- [ecosystem](/ecosystem)：生態系（生物と環境が相互に関わるシステム）
+- [conservation](/conservation)：保護、保存（自然や資源を守ること）
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology/)：生物学
-- [pollution](/word/pollution/)：汚染
+- [biology](/biology)：生物学
+- [pollution](/pollution)：汚染
 
-<!-- cvid: aid10_bid19 -->
+<!-- cvid: aid16_bid13 -->

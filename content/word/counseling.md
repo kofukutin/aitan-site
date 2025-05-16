@@ -81,15 +81,19 @@ TOEICでは、福利厚生や人事関連、医療・健康に関する長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、福利厚生や人事関連、医療・健康に関する長文で
 ## 🤔  consultation との違いは？
 
 - **counseling**：心理的・精神的なサポートや助言を専門家が行うこと
-- **[consultation](/word/consultation/)**：専門家への相談全般（医療・法律・ビジネスなど幅広い）
+- **[consultation](/consultation)**：専門家への相談全般（医療・法律・ビジネスなど幅広い）
 
 counselingは主に心のケアや個人の悩みに焦点を当て、consultationは幅広い分野での専門的な意見を求める場面で使います。
 
@@ -105,14 +109,14 @@ counselingは主に心のケアや個人の悩みに焦点を当て、consultati
 
 ## 🧩 あわせて覚えたい
 
-- [therapy](/word/therapy/)：治療、療法
-- [advice](/word/advice/)：助言、アドバイス
+- [therapy](/therapy)：治療、療法
+- [advice](/advice)：助言、アドバイス
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/word/session/)：（カウンセリングなどの）セッション、会合
-- [guidance](/word/guidance/)：指導、案内
+- [session](/session)：（カウンセリングなどの）セッション、会合
+- [guidance](/guidance)：指導、案内
 
-<!-- cvid: aid39_bid04 -->
+<!-- cvid: aid20_bid37 -->

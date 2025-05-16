@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や人事関連の記事で「retention」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や人事関連の記事で「retention」が
 ## 🤔  preservation との違いは？
 
 - **retention**：何かを維持・保持し続けること、特に人や情報などの「とどめておく」ニュアンス
-- **[preservation](/word/preservation/)**：主に「保存」「保護」など、外部から守ってそのままの状態を保つこと
+- **[preservation](/preservation)**：主に「保存」「保護」など、外部から守ってそのままの状態を保つこと
 
 retentionは「中にとどめておく」イメージ、preservationは「外部から守って保つ」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ retentionは「中にとどめておく」イメージ、preservationは「外�
 
 ## 🧩 あわせて覚えたい
 
-- [turnover](/word/turnover/)：離職率、回転率
-- [storage](/word/storage/)：保管、貯蔵
+- [turnover](/turnover)：離職率、回転率
+- [storage](/storage)：保管、貯蔵
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain/)：維持する
-- [record](/word/record/)：記録、記録する
+- [maintain](/maintain)：維持する
+- [record](/record)：記録、記録する
 
-<!-- cvid: aid32_bid20 -->
+<!-- cvid: aid45_bid35 -->

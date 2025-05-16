@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文でよく登場
 ## 🤔  climate との違いは？
 
 - **weather**：短期間の天気や天候
-- **[climate](/word/climate/)**：長期間の気候や平均的な天候
+- **[climate](/climate)**：長期間の気候や平均的な天候
 
 weatherは「今日の天気」など短期的な空模様、climateは「その地域の気候」など長期的・平均的な天候を指します。
 
@@ -105,14 +109,14 @@ weatherは「今日の天気」など短期的な空模様、climateは「その
 
 ## 🧩 あわせて覚えたい
 
-- [forecast](/word/forecast/)：天気予報
-- [temperature](/word/temperature/)：気温
+- [forecast](/forecast)：天気予報
+- [temperature](/temperature)：気温
 
 ---
 
 ## 📖 できればこれも
 
-- [rain](/word/rain/)：雨
-- [season](/word/season/)：季節
+- [rain](/rain)：雨
+- [season](/season)：季節
 
-<!-- cvid: aid15_bid36 -->
+<!-- cvid: aid06_bid23 -->

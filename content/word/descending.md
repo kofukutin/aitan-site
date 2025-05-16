@@ -81,15 +81,19 @@ TOEICでは、表やリストの説明、手順書などで「降順」「下り
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、表やリストの説明、手順書などで「降順」「下り
 ## 🤔  decreasing との違いは？
 
 - **descending**：順序や位置が「上から下へ」進むこと、特に並び順や物理的な動きに使う
-- **[decreasing](/word/decreasing/)**：数値や量が「減少する」ことに焦点を当てる
+- **[decreasing](/decreasing)**：数値や量が「減少する」ことに焦点を当てる
 
 descendingは「順序や位置の下り」を表し、decreasingは「数や量が減る」ことを表します。たとえば、リストの並び順はdescending、売上の減少はdecreasingを使います。
 
@@ -105,14 +109,14 @@ descendingは「順序や位置の下り」を表し、decreasingは「数や量
 
 ## 🧩 あわせて覚えたい
 
-- [ascending](/word/ascending/)：上昇する、昇順の
-- [reduce](/word/reduce/)：減らす
+- [ascending](/ascending)：上昇する、昇順の
+- [reduce](/reduce)：減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [decline](/word/decline/)：減少する、下落する
-- [lower](/word/lower/)：下げる、低くする
+- [decline](/decline)：減少する、下落する
+- [lower](/lower)：下げる、低くする
 
-<!-- cvid: aid25_bid20 -->
+<!-- cvid: aid45_bid35 -->

@@ -81,15 +81,19 @@ TOEICでは主に会話やメールのやりとりで「返答する」「応答
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に会話やメールのやりとりで「返答する」「応答
 ## 🤔  reply との違いは？
 
 - **responding**：ややフォーマルで、状況や要望など幅広い「応答」に使う
-- **[reply](/word/reply/)**：主に「返事をする」「返信する」など、口頭やメールでの返答に使う
+- **[reply](/reply)**：主に「返事をする」「返信する」など、口頭やメールでの返答に使う
 
 「responding」は状況や要望への反応全般に使え、ややフォーマルな響きがありますが、「reply」は特にメールや会話での返事に使われるカジュアルな表現です。
 
@@ -105,14 +109,14 @@ TOEICでは主に会話やメールのやりとりで「返答する」「応答
 
 ## 🧩 あわせて覚えたい
 
-- [react](/word/react/)：反応する
-- [ignore](/word/ignore/)：無視する
+- [react](/react)：反応する
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/word/request/)：依頼する、要請
-- [confirm](/word/confirm/)：確認する
+- [request](/request)：依頼する、要請
+- [confirm](/confirm)：確認する
 
-<!-- cvid: aid05_bid33 -->
+<!-- cvid: aid34_bid18 -->

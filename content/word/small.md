@@ -81,15 +81,19 @@ TOEICでは形容詞の比較や名詞の修飾でよく出題されます。基
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の比較や名詞の修飾でよく出題されます。基
 ## 🤔  little との違いは？
 
 - **small**：物理的な大きさや数量が小さいことを客観的に表す
-- **[little](/word/little/)**：小さいことに加え、感情や主観的なニュアンスが含まれることが多い
+- **[little](/little)**：小さいことに加え、感情や主観的なニュアンスが含まれることが多い
 
 smallは単にサイズや量が小さいことを表し、littleは親しみや感情を込めて「小さい」と言いたいときに使われます。
 
@@ -105,14 +109,14 @@ smallは単にサイズや量が小さいことを表し、littleは親しみや
 
 ## 🧩 あわせて覚えたい
 
-- [tiny](/word/tiny/)：とても小さい
-- [large](/word/large/)：大きい
+- [tiny](/tiny)：とても小さい
+- [large](/large)：大きい
 
 ---
 
 ## 📖 できればこれも
 
-- [big](/word/big/)：大きい
-- [short](/word/short/)：短い
+- [big](/big)：大きい
+- [short](/short)：短い
 
-<!-- cvid: aid10_bid26 -->
+<!-- cvid: aid04_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは、製品の保管や品質管理、環境に関する説明文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品の保管や品質管理、環境に関する説明文で「
 ## 🤔  humidity との違いは？
 
 - **moisture**：物や空気中に含まれる「水分」「湿気」全般を指す。
-- **[humidity](/word/humidity/)**：空気中の「湿度」や「湿気の度合い」を数値的・科学的に表す。
+- **[humidity](/humidity)**：空気中の「湿度」や「湿気の度合い」を数値的・科学的に表す。
 
 「moisture」は水分そのもの、「humidity」は空気中の湿度の割合を表すときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、製品の保管や品質管理、環境に関する説明文で「
 
 ## 🧩 あわせて覚えたい
 
-- [dryness](/word/dryness/)：乾燥、乾き
-- [dampness](/word/dampness/)：湿り気、じめじめ
+- [dryness](/dryness)：乾燥、乾き
+- [dampness](/dampness)：湿り気、じめじめ
 
 ---
 
 ## 📖 できればこれも
 
-- [liquid](/word/liquid/)：液体
-- [vapor](/word/vapor/)：蒸気
+- [liquid](/liquid)：液体
+- [vapor](/vapor)：蒸気
 
-<!-- cvid: aid22_bid33 -->
+<!-- cvid: aid46_bid32 -->

@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンの会話で「event」がよく登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンの会話で「event」がよく登場�
 ## 🤔  incident との違いは？
 
 - **event**：一般的な出来事や行事、特に予定された催しを指す
-- **[incident](/word/incident/)**：予期せぬ出来事や、しばしば問題やトラブルを含む出来事
+- **[incident](/incident)**：予期せぬ出来事や、しばしば問題やトラブルを含む出来事
 
 eventはポジティブ・中立的な意味で使われることが多いですが、incidentは予期しない、時にネガティブな出来事を指します。
 
@@ -105,14 +109,14 @@ eventはポジティブ・中立的な意味で使われることが多いです
 
 ## 🧩 あわせて覚えたい
 
-- [occasion](/word/occasion/)：特別な機会、出来事
-- [activity](/word/activity/)：活動、行動
+- [occasion](/occasion)：特別な機会、出来事
+- [activity](/activity)：活動、行動
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議、打ち合わせ
-- [conference](/word/conference/)：会議、大会
+- [meeting](/meeting)：会議、打ち合わせ
+- [conference](/conference)：会議、大会
 
-<!-- cvid: aid47_bid36 -->
+<!-- cvid: aid13_bid32 -->

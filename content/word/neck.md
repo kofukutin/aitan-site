@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【neck】の意味・使い方・例文 ― throatとの違い【TOEIC英単語】"
 description: "neckの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでthroatとの違いもわかりやすく学べます。"
 word: "neck"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人や動物の体の部位として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人や動物の体の部位として
 ## 🤔  throat との違いは？
 
 - **neck**：外側の「首」全体を指す
-- **[throat](/word/throat/)**：首の内側の「のど」、食道や気道の部分
+- **[throat](/throat)**：首の内側の「のど」、食道や気道の部分
 
 neckは外から見える首全体、throatは主に内側ののど部分を指します。
 
@@ -105,14 +109,14 @@ neckは外から見える首全体、throatは主に内側ののど部分を指�
 
 ## 🧩 あわせて覚えたい
 
-- [shoulder](/word/shoulder/)：肩
-- [waist](/word/waist/)：腰
+- [shoulder](/shoulder)：肩
+- [waist](/waist)：腰
 
 ---
 
 ## 📖 できればこれも
 
-- [arm](/word/arm/)：腕
-- [back](/word/back/)：背中
+- [arm](/arm)：腕
+- [back](/back)：背中
 
-<!-- cvid: aid29_bid42 -->
+<!-- cvid: aid20_bid43 -->

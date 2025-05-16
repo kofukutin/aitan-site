@@ -81,15 +81,19 @@ TOEICでは会話や指示の中で「let me」「let us」などの形で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示の中で「let me」「let us」などの形で頻出
 ## 🤔  allow との違いは？
 
 - **let**：カジュアルに「～させる」「許す」を表現し、会話でよく使う。
-- **[allow](/word/allow/)**：ややフォーマルで、規則や権限に基づく「許可」を表す。
+- **[allow](/allow)**：ややフォーマルで、規則や権限に基づく「許可」を表す。
 
 「let」は日常会話や軽い許可に使い、「allow」は公式な場やルールに従った許可で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や指示の中で「let me」「let us」などの形で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [permit](/word/permit/)：正式に許可する
-- [forbid](/word/forbid/)：禁止する
+- [permit](/permit)：正式に許可する
+- [forbid](/forbid)：禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [make](/word/make/)：～させる（強制的に）
-- [help](/word/help/)：手伝う、助ける
+- [make](/make)：～させる（強制的に）
+- [help](/help)：手伝う、助ける
 
-<!-- cvid: aid29_bid16 -->
+<!-- cvid: aid08_bid39 -->

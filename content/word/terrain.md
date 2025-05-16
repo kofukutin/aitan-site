@@ -81,15 +81,19 @@ TOEICでは、環境や建設、地理に関する長文や説明文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境や建設、地理に関する長文や説明文で見かけ
 ## 🤔  land との違いは？
 
 - **terrain**：土地の形状や特徴、起伏など「地形」に焦点を当てるフォーマルな語
-- **[land](/word/land/)**：土地そのものや所有地、国土など広い意味で使われる一般的な語
+- **[land](/land)**：土地そのものや所有地、国土など広い意味で使われる一般的な語
 
 terrainは「どんな形の土地か」に注目し、landは「土地そのもの」や「所有地」として使われます。
 
@@ -105,14 +109,14 @@ terrainは「どんな形の土地か」に注目し、landは「土地そのも
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/word/surface/)：表面、地表
-- [region](/word/region/)：地域、地方
+- [surface](/surface)：表面、地表
+- [region](/region)：地域、地方
 
 ---
 
 ## 📖 できればこれも
 
-- [soil](/word/soil/)：土、土壌
-- [area](/word/area/)：区域、範囲
+- [soil](/soil)：土、土壌
+- [area](/area)：区域、範囲
 
-<!-- cvid: aid08_bid48 -->
+<!-- cvid: aid42_bid41 -->

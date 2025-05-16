@@ -80,15 +80,19 @@ TOEICでは、通知文やメール、案内文などで「葬儀のお知らせ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、通知文やメール、案内文などで「葬儀のお知らせ
 ## 🤔  memorial との違いは？
 
 - **funeral**：亡くなった直後に行う正式な葬儀や告別式を指す。
-- **[memorial](/word/memorial/)**：故人を偲ぶための追悼式や記念行事を指し、葬儀後に行われることが多い。
+- **[memorial](/memorial)**：故人を偲ぶための追悼式や記念行事を指し、葬儀後に行われることが多い。
 
 funeralは主に埋葬や火葬の直前に行う儀式、memorialは後日行う追悼イベントや記念式典に使われます。
 
@@ -104,14 +108,14 @@ funeralは主に埋葬や火葬の直前に行う儀式、memorialは後日行�
 
 ## 🧩 あわせて覚えたい
 
-- [burial](/word/burial/)：埋葬、土葬
-- [ceremony](/word/ceremony/)：式典、儀式
+- [burial](/burial)：埋葬、土葬
+- [ceremony](/ceremony)：式典、儀式
 
 ---
 
 ## 📖 できればこれも
 
-- [wedding](/word/wedding/)：結婚式
-- [event](/word/event/)：行事、イベント
+- [wedding](/wedding)：結婚式
+- [event](/event)：行事、イベント
 
-<!-- cvid: aid41_bid41 -->
+<!-- cvid: aid29_bid30 -->

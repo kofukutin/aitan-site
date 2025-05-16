@@ -81,15 +81,19 @@ TOEICでは「規則や制限、税金を課す」という文脈で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「規則や制限、税金を課す」という文脈で頻出しま
 ## 🤔  enforce との違いは？
 
 - **impose**：義務や規則などを「課す」「押しつける」ニュアンス
-- **[enforce](/word/enforce/)**：既存の法律や規則を「実施・施行する」ニュアンス
+- **[enforce](/enforce)**：既存の法律や規則を「実施・施行する」ニュアンス
 
 imposeは「新たに負担や義務を加える」イメージ、enforceは「すでにあるルールを守らせる」イメージです。
 
@@ -105,14 +109,14 @@ imposeは「新たに負担や義務を加える」イメージ、enforceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [levy](/word/levy/)：（税金などを）課す
-- [lift](/word/lift/)：（規制などを）解除する
+- [levy](/levy)：（税金などを）課す
+- [lift](/lift)：（規制などを）解除する
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement/)：実行する、導入する
-- [regulate](/word/regulate/)：規制する、調整する
+- [implement](/implement)：実行する、導入する
+- [regulate](/regulate)：規制する、調整する
 
-<!-- cvid: aid24_bid35 -->
+<!-- cvid: aid05_bid08 -->

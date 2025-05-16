@@ -81,15 +81,19 @@ TOEICでは会話や指示文で「素早く対応する」「速やかに行う
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や指示文で「素早く対応する」「速やかに行う
 ## 🤔  rapidly との違いは？
 
 - **quickly**：日常的な「速く」「素早く」を表し、カジュアルな場面でもよく使う。
-- **[rapidly](/word/rapidly/)**：よりフォーマルで、「急速に」「短期間で大きく変化する」ニュアンスが強い。
+- **[rapidly](/rapidly)**：よりフォーマルで、「急速に」「短期間で大きく変化する」ニュアンスが強い。
 
 quicklyは日常の動作や行動の速さ、rapidlyは変化や進行のスピードに使われることが多いです。
 
@@ -105,14 +109,14 @@ quicklyは日常の動作や行動の速さ、rapidlyは変化や進行のスピ
 
 ## 🧩 あわせて覚えたい
 
-- [slowly](/word/slowly/)：ゆっくりと
-- [promptly](/word/promptly/)：即座に、すぐに
+- [slowly](/slowly)：ゆっくりと
+- [promptly](/promptly)：即座に、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [fast](/word/fast/)：速く
-- [immediately](/word/immediately/)：すぐに
+- [fast](/fast)：速く
+- [immediately](/immediately)：すぐに
 
-<!-- cvid: aid27_bid22 -->
+<!-- cvid: aid23_bid41 -->

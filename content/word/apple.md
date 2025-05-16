@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【apple】の意味・使い方・例文 ― fruitとの違い【TOEIC英単語】"
 description: "appleの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfruitとの違いもわかりやすく学べます。"
 word: "apple"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、果物や食べ物の説明として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、果物や食べ物の説明として
 ## 🤔  fruit との違いは？
 
 - **apple**：特定の果物「りんご」を指す
-- **[fruit](/word/fruit/)**：果物全般を指す
+- **[fruit](/fruit)**：果物全般を指す
 
 appleは「りんご」という具体的な果物、fruitは「果物全般」を意味します。使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ appleは「りんご」という具体的な果物、fruitは「果物全般」�
 
 ## 🧩 あわせて覚えたい
 
-- [banana](/word/banana/)：バナナ
-- [orange](/word/orange/)：オレンジ
+- [banana](/banana)：バナナ
+- [orange](/orange)：オレンジ
 
 ---
 
 ## 📖 できればこれも
 
-- [grape](/word/grape/)：ぶどう
-- [pear](/word/pear/)：洋なし
+- [grape](/grape)：ぶどう
+- [pear](/pear)：洋なし
 
-<!-- cvid: aid18_bid26 -->
+<!-- cvid: aid23_bid02 -->

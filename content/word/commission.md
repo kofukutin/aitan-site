@@ -81,15 +81,19 @@ TOEICではビジネス文書や契約書、Eメールなどで「手数料」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や契約書、Eメールなどで「手数料」�
 ## 🤔  fee との違いは？
 
 - **commission**：売上や成果に応じて支払われる手数料や、特定の任務を持つ委員会を指す
-- **[fee](/word/fee/)**：サービスや入場などに対して支払う料金・費用
+- **[fee](/fee)**：サービスや入場などに対して支払う料金・費用
 
 commissionは「成果報酬型」や「委員会」の意味があり、feeは「サービス利用料」など幅広い料金に使われます。
 
@@ -105,14 +109,14 @@ commissionは「成果報酬型」や「委員会」の意味があり、feeは�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/word/bonus/)：特別手当、賞与
-- [committee](/word/committee/)：委員会
+- [bonus](/bonus)：特別手当、賞与
+- [committee](/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [agreement](/word/agreement/)：合意、協定
+- [contract](/contract)：契約
+- [agreement](/agreement)：合意、協定
 
-<!-- cvid: aid33_bid05 -->
+<!-- cvid: aid06_bid38 -->

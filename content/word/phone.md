@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【phone】の意味・使い方・例文 ― telephoneとの違い【TOEIC英単語】"
 description: "phoneの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtelephoneとの違いもわかりやすく学べます。"
 word: "phone"
@@ -81,15 +81,19 @@ TOEICでは会話や電話対応の場面で頻出します。特にPart 3のリ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や電話対応の場面で頻出します。特にPart 3のリ
 ## 🤔  telephone との違いは？
 
 - **phone**：カジュアルで日常的な「電話」「電話機」
-- **[telephone](/word/telephone/)**：ややフォーマルで、特に正式な文書や場面で使われる「電話」
+- **[telephone](/telephone)**：ややフォーマルで、特に正式な文書や場面で使われる「電話」
 
 phoneは普段の会話でよく使われ、telephoneはフォーマルな印象や古めかしさがあります。
 
@@ -105,14 +109,14 @@ phoneは普段の会話でよく使われ、telephoneはフォーマルな印象
 
 ## 🧩 あわせて覚えたい
 
-- [call](/word/call/)：電話をかける、呼ぶ
-- [mobile](/word/mobile/)：携帯電話
+- [call](/call)：電話をかける、呼ぶ
+- [mobile](/mobile)：携帯電話
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message/)：メッセージ、伝言
-- [contact](/word/contact/)：連絡する、連絡先
+- [message](/message)：メッセージ、伝言
+- [contact](/contact)：連絡する、連絡先
 
-<!-- cvid: aid02_bid03 -->
+<!-- cvid: aid45_bid27 -->

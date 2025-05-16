@@ -81,15 +81,19 @@ TOEICでは、会社の成長や売上の増加、個人のスキルアップな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の成長や売上の増加、個人のスキルアップな
 ## 🤔  increase との違いは？
 
 - **grow**：自然に大きくなる、成長する、育てる（人や組織、植物など幅広い対象に使う）
-- **[increase](/word/increase/)**：数量や程度が増加する（主に数値や量にフォーカス）
+- **[increase](/increase)**：数量や程度が増加する（主に数値や量にフォーカス）
 
 growは「成長」や「発展」のニュアンスがあり、increaseは単純な「増加」に使われます。
 
@@ -105,14 +109,14 @@ growは「成長」や「発展」のニュアンスがあり、increaseは単�
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop/)：発展する、開発する
-- [expand](/word/expand/)：拡大する、広げる
+- [develop](/develop)：発展する、開発する
+- [expand](/expand)：拡大する、広げる
 
 ---
 
 ## 📖 できればこれも
 
-- [raise](/word/raise/)：上げる、育てる
-- [improve](/word/improve/)：改善する、良くする
+- [raise](/raise)：上げる、育てる
+- [improve](/improve)：改善する、良くする
 
-<!-- cvid: aid18_bid18 -->
+<!-- cvid: aid02_bid44 -->

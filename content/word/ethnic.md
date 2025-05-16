@@ -81,15 +81,19 @@ TOEICでは、企業の多様性や文化的背景に関する説明文や記事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業の多様性や文化的背景に関する説明文や記事
 ## 🤔  racial との違いは？
 
 - **ethnic**：文化や伝統、出自など民族集団に関するニュアンスが強い
-- **[racial](/word/racial/)**：人種そのものや人種間の違いに焦点を当てる
+- **[racial](/racial)**：人種そのものや人種間の違いに焦点を当てる
 
 「ethnic」は文化や伝統など民族的な特徴に注目し、「racial」は肌の色や人種そのものに関する話題で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、企業の多様性や文化的背景に関する説明文や記事
 
 ## 🧩 あわせて覚えたい
 
-- [cultural](/word/cultural/)：文化の、文化的な
-- [minority](/word/minority/)：少数派、少数民族
+- [cultural](/cultural)：文化の、文化的な
+- [minority](/minority)：少数派、少数民族
 
 ---
 
 ## 📖 できればこれも
 
-- [diverse](/word/diverse/)：多様な
-- [tradition](/word/tradition/)：伝統
+- [diverse](/diverse)：多様な
+- [tradition](/tradition)：伝統
 
-<!-- cvid: aid01_bid05 -->
+<!-- cvid: aid18_bid18 -->

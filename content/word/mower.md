@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【mower】の意味・使い方・例文 ― cutterとの違い【TOEIC英単語】"
 description: "mowerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcutterとの違いもわかりやすく学べます。"
 word: "mower"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、芝刈り機を使っている
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、芝刈り機を使っている
 ## 🤔  cutter との違いは？
 
 - **mower**：芝や草を刈るための機械や道具
-- **[cutter](/word/cutter/)**：何かを切るための道具全般（はさみ・カッターなど）
+- **[cutter](/cutter)**：何かを切るための道具全般（はさみ・カッターなど）
 
 mowerは主に芝や草を刈る専用の機械を指し、cutterは紙や布などさまざまなものを切る道具全般を指します。
 
@@ -105,14 +109,14 @@ mowerは主に芝や草を刈る専用の機械を指し、cutterは紙や布な
 
 ## 🧩 あわせて覚えたい
 
-- [trimmer](/word/trimmer/)：刈り込み機、トリマー
-- [lawn](/word/lawn/)：芝生
+- [trimmer](/trimmer)：刈り込み機、トリマー
+- [lawn](/lawn)：芝生
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool/)：道具
-- [machine](/word/machine/)：機械
+- [tool](/tool)：道具
+- [machine](/machine)：機械
 
-<!-- cvid: aid18_bid44 -->
+<!-- cvid: aid48_bid13 -->

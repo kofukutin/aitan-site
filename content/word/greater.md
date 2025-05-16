@@ -81,15 +81,19 @@ TOEICでは比較級表現や、数量・重要性を強調する文脈で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較級表現や、数量・重要性を強調する文脈で出題
 ## 🤔  larger との違いは？
 
 - **greater**：数量・規模だけでなく、重要性や価値が「より大きい」場合にも使う
-- **[larger](/word/larger/)**：物理的な大きさや数量が「より大きい」場合に使う
+- **[larger](/larger)**：物理的な大きさや数量が「より大きい」場合に使う
 
 「greater」は抽象的な重要性や価値にも使えますが、「larger」は主にサイズや量など具体的な大きさに使います。
 
@@ -105,14 +109,14 @@ TOEICでは比較級表現や、数量・重要性を強調する文脈で出題
 
 ## 🧩 あわせて覚えたい
 
-- [major](/word/major/)：主要な、より重要な
-- [superior](/word/superior/)：より優れた、上位の
+- [major](/major)：主要な、より重要な
+- [superior](/superior)：より優れた、上位の
 
 ---
 
 ## 📖 できればこれも
 
-- [lesser](/word/lesser/)：より小さい、重要でない
-- [higher](/word/higher/)：より高い
+- [lesser](/lesser)：より小さい、重要でない
+- [higher](/higher)：より高い
 
-<!-- cvid: aid26_bid11 -->
+<!-- cvid: aid08_bid31 -->

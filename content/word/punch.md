@@ -82,15 +82,19 @@ TOEICでは、日常的な動作やオフィスでの「打ち込む」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、日常的な動作やオフィスでの「打ち込む」などの
 ## 🤔  hit との違いは？
 
 - **punch**：こぶしで強くたたく、またはボタンなどを押すときに使う
-- **[hit](/word/hit/)**：何かに当たる・たたく全般に使う
+- **[hit](/hit)**：何かに当たる・たたく全般に使う
 
 punchは「こぶしで殴る」や「ボタンを押す」など、動作がより限定的で力強さを含みます。hitは「当たる・たたく」全般に使え、道具や手など幅広い対象に使います。
 
@@ -106,14 +110,14 @@ punchは「こぶしで殴る」や「ボタンを押す」など、動作がよ
 
 ## 🧩 あわせて覚えたい
 
-- [kick](/word/kick/)：蹴る
-- [strike](/word/strike/)：（意図的に）打つ、攻撃する
+- [kick](/kick)：蹴る
+- [strike](/strike)：（意図的に）打つ、攻撃する
 
 ---
 
 ## 📖 できればこれも
 
-- [push](/word/push/)：押す
-- [press](/word/press/)：押し付ける、押す
+- [push](/push)：押す
+- [press](/press)：押し付ける、押す
 
-<!-- cvid: aid34_bid04 -->
+<!-- cvid: aid47_bid33 -->

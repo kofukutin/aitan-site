@@ -81,15 +81,19 @@ wishの進行形や分詞形として、丁寧な表現や手紙・メール文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ wishの進行形や分詞形として、丁寧な表現や手紙・メール文�
 ## 🤔  hoping との違いは？
 
 - **wishing**：心から願う、丁寧な気持ちやフォーマルな場面で使われやすい
-- **[hoping](/word/hoping/)**：期待して待つ、現実的な可能性を意識した前向きな気持ち
+- **[hoping](/hoping)**：期待して待つ、現実的な可能性を意識した前向きな気持ち
 
 wishingは「叶うかどうか分からないけど強く願う」ニュアンス、hopingは「実現を期待して待つ」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ wishingは「叶うかどうか分からないけど強く願う」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire/)：強い願望、欲求
-- [longing](/word/longing/)：切望、憧れ
+- [desire](/desire)：強い願望、欲求
+- [longing](/longing)：切望、憧れ
 
 ---
 
 ## 📖 できればこれも
 
-- [dreaming](/word/dreaming/)：夢見る、夢を描く
-- [expecting](/word/expecting/)：期待する、予期する
+- [dreaming](/dreaming)：夢見る、夢を描く
+- [expecting](/expecting)：期待する、予期する
 
-<!-- cvid: aid09_bid32 -->
+<!-- cvid: aid26_bid00 -->

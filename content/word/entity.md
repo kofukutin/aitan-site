@@ -80,15 +80,19 @@ TOEICではビジネス文書や契約書、会社案内などで「entity」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではビジネス文書や契約書、会社案内などで「entity」が
 ## 🤔  organization との違いは？
 
 - **entity**：独立した存在や実体、法人など広い意味で使う
-- **[organization](/word/organization/)**：組織や団体（人の集まり）を指す
+- **[organization](/organization)**：組織や団体（人の集まり）を指す
 
 entityは「存在そのもの」や「法人格」を強調し、organizationは「人が集まって構成する組織」に焦点を当てます。
 
@@ -104,14 +108,14 @@ entityは「存在そのもの」や「法人格」を強調し、organization�
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/word/individual/)：個人、個体
-- [corporation](/word/corporation/)：株式会社、法人
+- [individual](/individual)：個人、個体
+- [corporation](/corporation)：株式会社、法人
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [structure](/word/structure/)：構造、組織
+- [asset](/asset)：資産
+- [structure](/structure)：構造、組織
 
-<!-- cvid: aid16_bid26 -->
+<!-- cvid: aid49_bid27 -->

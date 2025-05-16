@@ -81,15 +81,19 @@ TOEICでは、形容詞として「意図的な」「計画的な」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「意図的な」「計画的な」という意
 ## 🤔  deliberate との違いは？
 
 - **studied**：意図的で、計画的・わざとらしい印象を与える
-- **[deliberate](/word/deliberate/)**：慎重に考えた上での、故意の
+- **[deliberate](/deliberate)**：慎重に考えた上での、故意の
 
 studiedは「わざとらしさ」や「演技的」なニュアンスが強く、deliberateは「慎重さ」や「故意」の意味が中心です。
 
@@ -105,14 +109,14 @@ studiedは「わざとらしさ」や「演技的」なニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [intentional](/word/intentional/)：意図的な
-- [spontaneous](/word/spontaneous/)：自然発生的な、無意識の
+- [intentional](/intentional)：意図的な
+- [spontaneous](/spontaneous)：自然発生的な、無意識の
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/word/academic/)：学問的な、学業の
-- [methodical](/word/methodical/)：組織的な、几帳面な
+- [academic](/academic)：学問的な、学業の
+- [methodical](/methodical)：組織的な、几帳面な
 
-<!-- cvid: aid12_bid25 -->
+<!-- cvid: aid49_bid30 -->

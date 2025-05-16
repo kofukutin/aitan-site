@@ -81,15 +81,19 @@ Our company is offering a luxury safari tour package this year.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our company is offering a luxury safari tour package this year.
 ## 🤔  expedition との違いは？
 
 - **safari**：主に野生動物観察や探検を目的とした旅行やツアー
-- **[expedition](/word/expedition/)**：調査・研究・冒険などのための組織的な遠征
+- **[expedition](/expedition)**：調査・研究・冒険などのための組織的な遠征
 
 safariは観光やレジャー色が強く、expeditionは科学的・探検的な目的で使われることが多いです。
 
@@ -105,14 +109,14 @@ safariは観光やレジャー色が強く、expeditionは科学的・探検的�
 
 ## 🧩 あわせて覚えたい
 
-- [tour](/word/tour/)：観光旅行
-- [adventure](/word/adventure/)：冒険
+- [tour](/tour)：観光旅行
+- [adventure](/adventure)：冒険
 
 ---
 
 ## 📖 できればこれも
 
-- [journey](/word/journey/)：旅、道のり
-- [trip](/word/trip/)：短い旅行
+- [journey](/journey)：旅、道のり
+- [trip](/trip)：短い旅行
 
-<!-- cvid: aid20_bid21 -->
+<!-- cvid: aid24_bid11 -->

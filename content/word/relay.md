@@ -81,15 +81,19 @@ TOEICでは会議やイベントの中継、情報伝達の文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの中継、情報伝達の文脈で出題され
 ## 🤔  transfer との違いは？
 
 - **relay**：中継や交代でつなぐこと、リレー競技や装置など
-- **[transfer](/word/transfer/)**：移動・転送・譲渡など、あるものを別の場所や人に移すこと
+- **[transfer](/transfer)**：移動・転送・譲渡など、あるものを別の場所や人に移すこと
 
 relayは「つなぐ」「引き継ぐ」ニュアンスが強く、transferは「移す」「移動させる」意味が中心です。
 
@@ -105,14 +109,14 @@ relayは「つなぐ」「引き継ぐ」ニュアンスが強く、transferは�
 
 ## 🧩 あわせて覚えたい
 
-- [transmission](/word/transmission/)：伝送、送信
-- [succession](/word/succession/)：継承、連続
+- [transmission](/transmission)：伝送、送信
+- [succession](/succession)：継承、連続
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/word/circuit/)：回路
-- [switch](/word/switch/)：スイッチ
+- [circuit](/circuit)：回路
+- [switch](/switch)：スイッチ
 
-<!-- cvid: aid23_bid43 -->
+<!-- cvid: aid29_bid22 -->

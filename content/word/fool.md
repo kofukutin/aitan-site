@@ -81,15 +81,19 @@ TOEICでは会話文やカジュアルなやりとりで、軽い注意や冗談
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文やカジュアルなやりとりで、軽い注意や冗談
 ## 🤔  idiot との違いは？
 
 - **fool**：軽い冗談や注意で使う「ばか者」
-- **[idiot](/word/idiot/)**：より強い侮辱や本気の非難を含む「愚か者」
+- **[idiot](/idiot)**：より強い侮辱や本気の非難を含む「愚か者」
 
 foolは日常会話で軽く使えるのに対し、idiotは相手を強くけなす表現なので使い方に注意が必要です。
 
@@ -105,14 +109,14 @@ foolは日常会話で軽く使えるのに対し、idiotは相手を強くけ�
 
 ## 🧩 あわせて覚えたい
 
-- [trick](/word/trick/)：だます、いたずら
-- [wise](/word/wise/)：賢い
+- [trick](/trick)：だます、いたずら
+- [wise](/wise)：賢い
 
 ---
 
 ## 📖 できればこれも
 
-- [joke](/word/joke/)：冗談
-- [silly](/word/silly/)：ばかな、ふざけた
+- [joke](/joke)：冗談
+- [silly](/silly)：ばかな、ふざけた
 
-<!-- cvid: aid13_bid08 -->
+<!-- cvid: aid26_bid27 -->

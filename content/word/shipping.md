@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【shipping】の意味・使い方・例文 ― deliveryとの違い【TOEIC英単語】"
 description: "shippingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdeliveryとの違いもわかりやすく学べます。"
 word: "shipping"
@@ -81,15 +81,19 @@ TOEICでは、注文確認メールや請求書、案内文などで「shipping�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、注文確認メールや請求書、案内文などで「shipping�
 ## 🤔  delivery との違いは？
 
 - **shipping**：発送や出荷の「手続き・過程」全体を指す
-- **[delivery](/word/delivery/)**：商品が「届けられること」「配達そのもの」を指す
+- **[delivery](/delivery)**：商品が「届けられること」「配達そのもの」を指す
 
 **shipping**は「送り出す側」の視点で、発送準備や手続き全体を表します。**delivery**は「受け取る側」の視点で、実際に商品が届くことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、注文確認メールや請求書、案内文などで「shipping�
 
 ## 🧩 あわせて覚えたい
 
-- [transportation](/word/transportation/)：輸送、運送
-- [freight](/word/freight/)：貨物、運賃
+- [transportation](/transportation)：輸送、運送
+- [freight](/freight)：貨物、運賃
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice/)：請求書
-- [order](/word/order/)：注文
+- [invoice](/invoice)：請求書
+- [order](/order)：注文
 
-<!-- cvid: aid38_bid49 -->
+<!-- cvid: aid49_bid22 -->

@@ -81,15 +81,19 @@ TOEICでは主にITやマーケティング、医療関連の記事や広告文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやマーケティング、医療関連の記事や広告文�
 ## 🤔  contagious との違いは？
 
 - **viral**：ウイルス性の、またはネット上で急速に拡散する
-- **[contagious](/word/contagious/)**：感染性の、（感情や行動が）人に伝染しやすい
+- **[contagious](/contagious)**：感染性の、（感情や行動が）人に伝染しやすい
 
 「viral」はウイルスやネット拡散に、「contagious」は感染症や感情・行動の伝染に使われる点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは主にITやマーケティング、医療関連の記事や広告文�
 
 ## 🧩 あわせて覚えたい
 
-- [infectious](/word/infectious/)：感染性の、伝染しやすい
-- [trend](/word/trend/)：流行、傾向
+- [infectious](/infectious)：感染性の、伝染しやすい
+- [trend](/trend)：流行、傾向
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [spread](/word/spread/)：広がる、広める
+- [digital](/digital)：デジタルの
+- [spread](/spread)：広がる、広める
 
-<!-- cvid: aid12_bid37 -->
+<!-- cvid: aid44_bid42 -->

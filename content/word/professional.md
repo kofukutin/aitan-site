@@ -82,15 +82,19 @@ TOEICでは、求人広告やビジネス文書、メールなどで「professio
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、求人広告やビジネス文書、メールなどで「professio
 ## 🤔  expert との違いは？
 
 - **professional**：職業として専門的な知識や技能を持つ人、またはその分野で生計を立てている人。
-- **[expert](/word/expert/)**：特定分野に非常に詳しい人だが、必ずしも職業としているとは限らない。
+- **[expert](/expert)**：特定分野に非常に詳しい人だが、必ずしも職業としているとは限らない。
 
 professionalは「職業としての専門家」、expertは「知識や経験が豊富な人」という違いがあります。
 
@@ -106,14 +110,14 @@ professionalは「職業としての専門家」、expertは「知識や経験�
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/word/amateur/)：素人、アマチュア
-- [specialist](/word/specialist/)：専門家、スペシャリスト
+- [amateur](/amateur)：素人、アマチュア
+- [specialist](/specialist)：専門家、スペシャリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [career](/word/career/)：経歴、職業
-- [occupation](/word/occupation/)：職業、仕事
+- [career](/career)：経歴、職業
+- [occupation](/occupation)：職業、仕事
 
-<!-- cvid: aid15_bid00 -->
+<!-- cvid: aid44_bid48 -->

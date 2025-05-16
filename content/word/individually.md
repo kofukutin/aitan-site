@@ -81,15 +81,19 @@ TOEICでは説明文や指示文で「個別に対応する」「それぞれ別
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や指示文で「個別に対応する」「それぞれ別
 ## 🤔  separately との違いは？
 
 - **individually**：一人ひとり・一つひとつを強調して「個別に」
-- **[separately](/word/separately/)**：まとめず「別々に」、分離のニュアンスが強い
+- **[separately](/separately)**：まとめず「別々に」、分離のニュアンスが強い
 
 individuallyは「個人や個体ごと」に焦点を当てるのに対し、separatelyは「一緒ではなく分けて」という分離の意味が中心です。
 
@@ -105,14 +109,14 @@ individuallyは「個人や個体ごと」に焦点を当てるのに対し、se
 
 ## 🧩 あわせて覚えたい
 
-- [personally](/word/personally/)：個人的に、自分自身で
-- [collectively](/word/collectively/)：集団で、まとめて
+- [personally](/personally)：個人的に、自分自身で
+- [collectively](/collectively)：集団で、まとめて
 
 ---
 
 ## 📖 できればこれも
 
-- [together](/word/together/)：一緒に
-- [respectively](/word/respectively/)：それぞれ、各々
+- [together](/together)：一緒に
+- [respectively](/respectively)：それぞれ、各々
 
-<!-- cvid: aid44_bid33 -->
+<!-- cvid: aid04_bid24 -->

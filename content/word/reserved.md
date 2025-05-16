@@ -88,8 +88,12 @@ TOEICでは「予約済みの」「控えめな」という両方の意味で出
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「予約済みの」「控えめな」という両方の意味で出
 ## 🤔  shy との違いは？
 
 - **reserved**：控えめで感情をあまり表に出さない、または「予約済みの」
-- **[shy](/word/shy/)**：恥ずかしがり屋で人前で緊張しやすい
+- **[shy](/shy)**：恥ずかしがり屋で人前で緊張しやすい
 
 reservedは「落ち着いていて自分をあまり表現しない」印象、shyは「恥ずかしがりで人前が苦手」な印象です。
 
@@ -105,14 +109,14 @@ reservedは「落ち着いていて自分をあまり表現しない」印象、
 
 ## 🧩 あわせて覚えたい
 
-- [outgoing](/word/outgoing/)：社交的な
-- [confident](/word/confident/)：自信がある
+- [outgoing](/outgoing)：社交的な
+- [confident](/confident)：自信がある
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/word/polite/)：礼儀正しい
-- [formal](/word/formal/)：形式ばった、フォーマルな
+- [polite](/polite)：礼儀正しい
+- [formal](/formal)：形式ばった、フォーマルな
 
-<!-- cvid: aid03_bid45 -->
+<!-- cvid: aid03_bid17 -->

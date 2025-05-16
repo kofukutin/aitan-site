@@ -81,15 +81,19 @@ TOEICでは契約書や規約、ビジネス文書の中で「除外事項」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や規約、ビジネス文書の中で「除外事項」や
 ## 🤔  exception との違いは？
 
 - **exclusion**：意図的に何かや誰かを排除・除外すること
-- **[exception](/word/exception/)**：一般的な規則やルールから外れる「例外」
+- **[exception](/exception)**：一般的な規則やルールから外れる「例外」
 
 exclusionは「締め出し」や「排除」のニュアンスが強く、exceptionは「例外的に認める」や「特別扱い」の意味合いがあります。
 
@@ -105,14 +109,14 @@ exclusionは「締め出し」や「排除」のニュアンスが強く、excep
 
 ## 🧩 あわせて覚えたい
 
-- [ban](/word/ban/)：禁止、締め出し
-- [admission](/word/admission/)：入場、入学、受け入れ
+- [ban](/ban)：禁止、締め出し
+- [admission](/admission)：入場、入学、受け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [restriction](/word/restriction/)：制限、限定
-- [inclusion](/word/inclusion/)：包含、含めること
+- [restriction](/restriction)：制限、限定
+- [inclusion](/inclusion)：包含、含めること
 
-<!-- cvid: aid17_bid48 -->
+<!-- cvid: aid20_bid15 -->

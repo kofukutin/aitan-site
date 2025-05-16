@@ -88,8 +88,12 @@ TOEICでは会議やプロジェクトの進行、部署間のやりとりなど
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクトの進行、部署間のやりとりなど
 ## 🤔  collaborate との違いは？
 
 - **cooperate**：一般的に「協力する」、助け合うこと全般を指す
-- **[collaborate](/word/collaborate/)**：特に「共同作業する」「一緒に何かを作り上げる」ニュアンスが強い
+- **[collaborate](/collaborate)**：特に「共同作業する」「一緒に何かを作り上げる」ニュアンスが強い
 
 cooperateは幅広い協力を指し、collaborateはクリエイティブな共同作業やプロジェクトなどで使われることが多いです。
 
@@ -105,14 +109,14 @@ cooperateは幅広い協力を指し、collaborateはクリエイティブな共
 
 ## 🧩 あわせて覚えたい
 
-- [assist](/word/assist/)：手伝う、援助する
-- [compete](/word/compete/)：競争する
+- [assist](/assist)：手伝う、援助する
+- [compete](/compete)：競争する
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate/)：調整する
-- [support](/word/support/)：支援する
+- [coordinate](/coordinate)：調整する
+- [support](/support)：支援する
 
-<!-- cvid: aid23_bid16 -->
+<!-- cvid: aid23_bid07 -->

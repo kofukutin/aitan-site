@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物や人が「転がす」「巻く
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物や人が「転がす」「巻く
 ## 🤔  turned との違いは？
 
 - **rolled**：物を転がす、または巻く動作を表す。
-- **[turned](/word/turned/)**：物や体の向きを変える、回す動作を表す。
+- **[turned](/turned)**：物や体の向きを変える、回す動作を表す。
 
 rolledは「転がす」「巻く」など物体が回転しながら移動する・形を変える動作、turnedは「向きを変える」「回す」など方向転換や回転そのものを強調します。
 
@@ -105,14 +109,14 @@ rolledは「転がす」「巻く」など物体が回転しながら移動す�
 
 ## 🧩 あわせて覚えたい
 
-- [spin](/word/spin/)：素早く回す、回転させる
-- [slide](/word/slide/)：滑らせる、滑る
+- [spin](/spin)：素早く回す、回転させる
+- [slide](/slide)：滑らせる、滑る
 
 ---
 
 ## 📖 できればこれも
 
-- [fold](/word/fold/)：折りたたむ
-- [wrap](/word/wrap/)：包む、巻く
+- [fold](/fold)：折りたたむ
+- [wrap](/wrap)：包む、巻く
 
-<!-- cvid: aid40_bid37 -->
+<!-- cvid: aid44_bid08 -->

@@ -81,15 +81,19 @@ TOEICでは主に科学技術や工場、研究所の説明文で登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学技術や工場、研究所の説明文で登場します
 ## 🤔  equipment との違いは？
 
 - **instrumentation**：特に計測や制御のための機器やシステムを指す
-- **[equipment](/word/equipment/)**：一般的な「設備・備品・機器」全般を指す
+- **[equipment](/equipment)**：一般的な「設備・備品・機器」全般を指す
 
 instrumentationは「計測・制御用の専門的な機器やシステム」に限定されるのに対し、equipmentは用途を問わず幅広い機器や備品を指します。
 
@@ -105,14 +109,14 @@ instrumentationは「計測・制御用の専門的な機器やシステム」�
 
 ## 🧩 あわせて覚えたい
 
-- [apparatus](/word/apparatus/)：装置、器具
-- [device](/word/device/)：装置、機器
+- [apparatus](/apparatus)：装置、器具
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [measurement](/word/measurement/)：測定、計測
-- [installation](/word/installation/)：設置、取り付け
+- [measurement](/measurement)：測定、計測
+- [installation](/installation)：設置、取り付け
 
-<!-- cvid: aid14_bid44 -->
+<!-- cvid: aid24_bid35 -->

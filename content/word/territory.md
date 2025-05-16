@@ -81,15 +81,19 @@ TOEICではビジネス文書やメール、記事などで「営業エリア」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やメール、記事などで「営業エリア」
 ## 🤔  region との違いは？
 
 - **territory**：特定の支配・管理・担当が及ぶ領域や範囲
-- **[region](/word/region/)**：地理的・行政的な「地域」「地方」
+- **[region](/region)**：地理的・行政的な「地域」「地方」
 
 territoryは「誰かの支配や担当が及ぶ範囲」を強調し、regionは単なる地理的な区分を指します。
 
@@ -105,14 +109,14 @@ territoryは「誰かの支配や担当が及ぶ範囲」を強調し、region�
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area/)：面積、区域
-- [domain](/word/domain/)：分野、領域
+- [area](/area)：面積、区域
+- [domain](/domain)：分野、領域
 
 ---
 
 ## 📖 できればこれも
 
-- [border](/word/border/)：国境、境界
-- [district](/word/district/)：地区、区域
+- [border](/border)：国境、境界
+- [district](/district)：地区、区域
 
-<!-- cvid: aid10_bid40 -->
+<!-- cvid: aid08_bid33 -->

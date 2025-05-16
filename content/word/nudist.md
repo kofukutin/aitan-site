@@ -81,15 +81,19 @@ nudistはTOEICの長文読解（Part 7）で、観光やリゾート施設の案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ nudistはTOEICの長文読解（Part 7）で、観光やリゾート施設の案
 ## 🤔  naturist との違いは？
 
 - **nudist**：裸でいることを好む人、特にレジャーや趣味としての意味合いが強い。
-- **[naturist](/word/naturist/)**：nudistとほぼ同義だが、より自然との調和や哲学的な側面を強調する。
+- **[naturist](/naturist)**：nudistとほぼ同義だが、より自然との調和や哲学的な側面を強調する。
 
 nudistは「裸でいること自体」を指しやすく、naturistは「自然との一体感」や思想的な意味合いが強いです。
 
@@ -105,14 +109,14 @@ nudistは「裸でいること自体」を指しやすく、naturistは「自然
 
 ## 🧩 あわせて覚えたい
 
-- [clothing optional](/word/clothing_optional/)：衣服の着用が任意であること
-- [beach](/word/beach/)：海辺、ビーチ
+- [clothing optional](/clothing_optional)：衣服の着用が任意であること
+- [beach](/beach)：海辺、ビーチ
 
 ---
 
 ## 📖 できればこれも
 
-- [resort](/word/resort/)：リゾート、行楽地
-- [swimsuit](/word/swimsuit/)：水着
+- [resort](/resort)：リゾート、行楽地
+- [swimsuit](/swimsuit)：水着
 
-<!-- cvid: aid27_bid31 -->
+<!-- cvid: aid03_bid28 -->

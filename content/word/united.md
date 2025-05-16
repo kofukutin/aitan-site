@@ -81,15 +81,19 @@ TOEICでは「united effort（団結した努力）」や「united team（団結
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「united effort（団結した努力）」や「united team（団結
 ## 🤔  combined との違いは？
 
 - **united**：複数の人や組織が「目的や意見」で団結している状態
-- **[combined](/word/combined/)**：複数の要素が「物理的・機能的に」組み合わさっている状態
+- **[combined](/combined)**：複数の要素が「物理的・機能的に」組み合わさっている状態
 
 unitedは「心や目的の一致」に重点があり、combinedは「要素の合体・結合」に重点があります。
 
@@ -105,14 +109,14 @@ unitedは「心や目的の一致」に重点があり、combinedは「要素の
 
 ## 🧩 あわせて覚えたい
 
-- [joint](/word/joint/)：共同の、共有の
-- [separate](/word/separate/)：分かれた、別々の
+- [joint](/joint)：共同の、共有の
+- [separate](/separate)：分かれた、別々の
 
 ---
 
 ## 📖 できればこれも
 
-- [union](/word/union/)：組合、連合
-- [unity](/word/unity/)：団結、統一
+- [union](/union)：組合、連合
+- [unity](/unity)：団結、統一
 
-<!-- cvid: aid34_bid29 -->
+<!-- cvid: aid41_bid17 -->

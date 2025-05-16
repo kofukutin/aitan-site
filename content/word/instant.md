@@ -82,15 +82,19 @@ TOEICでは「instant coffee」や「instant reply」など、即時性やスピ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「instant coffee」や「instant reply」など、即時性やスピ
 ## 🤔  immediate との違いは？
 
 - **instant**：ほとんど待たずにすぐ起こる、瞬間的な
-- **[immediate](/word/immediate/)**：遅れなく即座に、直接的に
+- **[immediate](/immediate)**：遅れなく即座に、直接的に
 
 「instant」は「一瞬で」「即席で」というスピード感や短さを強調し、「immediate」は「遅れなく」「間をおかずに」という直接性や緊急性を強調します。
 
@@ -106,14 +110,14 @@ TOEICでは「instant coffee」や「instant reply」など、即時性やスピ
 
 ## 🧩 あわせて覚えたい
 
-- [prompt](/word/prompt/)：迅速な、すぐの
-- [sudden](/word/sudden/)：突然の
+- [prompt](/prompt)：迅速な、すぐの
+- [sudden](/sudden)：突然の
 
 ---
 
 ## 📖 できればこれも
 
-- [rapid](/word/rapid/)：急速な
-- [quick](/word/quick/)：素早い
+- [rapid](/rapid)：急速な
+- [quick](/quick)：素早い
 
-<!-- cvid: aid33_bid08 -->
+<!-- cvid: aid24_bid32 -->

@@ -77,15 +77,19 @@ ultimatelyはTOEICの長文読解（Part 7）で、結論や要点をまとめ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ ultimatelyはTOEICの長文読解（Part 7）で、結論や要点をまとめ�
 ## 🤔  finally との違いは？
 
 - **ultimately**：長い過程や議論の末に「最終的に」「結局」という意味で使う
-- **[finally](/word/finally/)**：順序や待ち時間の末に「ついに」「やっと」という意味で使う
+- **[finally](/finally)**：順序や待ち時間の末に「ついに」「やっと」という意味で使う
 
 ultimatelyは結論や最終判断を強調し、finallyは待望の瞬間や順序の最後を強調します。
 
@@ -101,14 +105,14 @@ ultimatelyは結論や最終判断を強調し、finallyは待望の瞬間や順
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually/)：やがて、最終的に
-- [initially](/word/initially/)：最初は
+- [eventually](/eventually)：やがて、最終的に
+- [initially](/initially)：最初は
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [consequently](/word/consequently/)：その結果として
+- [therefore](/therefore)：それゆえに
+- [consequently](/consequently)：その結果として
 
-<!-- cvid: aid46_bid35 -->
+<!-- cvid: aid07_bid36 -->

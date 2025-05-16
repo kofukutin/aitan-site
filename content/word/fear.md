@@ -81,15 +81,19 @@ TOEICでは「fear of ～」や「fear that ～」の形で、懸念や不安を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「fear of ～」や「fear that ～」の形で、懸念や不安を
 ## 🤔  afraid との違いは？
 
 - **fear**：名詞で「恐れ」「不安」など感情そのものや状態を表す。
-- **[afraid](/word/afraid/)**：形容詞で「恐れている」「怖い」という気持ちの状態を表す。
+- **[afraid](/afraid)**：形容詞で「恐れている」「怖い」という気持ちの状態を表す。
 
 「fear」は名詞で感情や状況を指し、「afraid」は人の気持ちや状態を直接表現する点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは「fear of ～」や「fear that ～」の形で、懸念や不安を
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety/)：不安、心配
-- [courage](/word/courage/)：勇気
+- [anxiety](/anxiety)：不安、心配
+- [courage](/courage)：勇気
 
 ---
 
 ## 📖 できればこれも
 
-- [worry](/word/worry/)：心配、悩み
-- [risk](/word/risk/)：危険、リスク
+- [worry](/worry)：心配、悩み
+- [risk](/risk)：危険、リスク
 
-<!-- cvid: aid21_bid02 -->
+<!-- cvid: aid30_bid15 -->

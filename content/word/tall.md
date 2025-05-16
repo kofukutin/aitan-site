@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【tall】の意味・使い方・例文 ― highとの違い【TOEIC英単語】"
 description: "tallの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhighとの違いもわかりやすく学べます。"
 word: "tall"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人や建物の特徴を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人や建物の特徴を説明する
 ## 🤔  high との違いは？
 
 - **tall**：人や細長い物の「高さ」に使う
-- **[high](/word/high/)**：物の上端が地面から「高い位置」にあることを表す
+- **[high](/high)**：物の上端が地面から「高い位置」にあることを表す
 
 tallは「縦に長い」もの（人・木・ビルなど）に使い、highは「位置が高い」もの（山・壁・価格など）に使います。
 
@@ -105,14 +109,14 @@ tallは「縦に長い」もの（人・木・ビルなど）に使い、highは
 
 ## 🧩 あわせて覚えたい
 
-- [short](/word/short/)：背が低い、短い
-- [long](/word/long/)：長い
+- [short](/short)：背が低い、短い
+- [long](/long)：長い
 
 ---
 
 ## 📖 できればこれも
 
-- [short](/word/short/)：背が低い、短い
-- [big](/word/big/)：大きい
+- [short](/short)：背が低い、短い
+- [big](/big)：大きい
 
-<!-- cvid: aid36_bid38 -->
+<!-- cvid: aid19_bid12 -->

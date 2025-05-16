@@ -81,15 +81,19 @@ TOEICでは、人物や製品の特徴を説明する文脈で形容詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物や製品の特徴を説明する文脈で形容詞として
 ## 🤔  smart との違いは？
 
 - **intelligent**：知識や論理的思考力が高い、知的な
-- **[smart](/word/smart/)**：頭の回転が速い、機転が利く、または見た目が洗練されている
+- **[smart](/smart)**：頭の回転が速い、機転が利く、または見た目が洗練されている
 
 intelligentは「本質的な知性」や「論理的思考力」を強調し、smartは「機転」や「実用的な賢さ」、場合によっては「見た目の良さ」も含みます。
 
@@ -105,14 +109,14 @@ intelligentは「本質的な知性」や「論理的思考力」を強調し、
 
 ## 🧩 あわせて覚えたい
 
-- [clever](/word/clever/)：賢い、要領が良い
-- [dull](/word/dull/)：鈍い、頭の回転が遅い
+- [clever](/clever)：賢い、要領が良い
+- [dull](/dull)：鈍い、頭の回転が遅い
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical/)：論理的な
-- [creative](/word/creative/)：創造的な
+- [logical](/logical)：論理的な
+- [creative](/creative)：創造的な
 
-<!-- cvid: aid38_bid49 -->
+<!-- cvid: aid46_bid41 -->

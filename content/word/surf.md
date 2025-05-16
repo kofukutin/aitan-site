@@ -81,15 +81,19 @@ TOEICでは、ITや日常会話のシーンで「ネットを見て回る」と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITや日常会話のシーンで「ネットを見て回る」と�
 ## 🤔  browse との違いは？
 
 - **surf**：気軽にいろいろなページを見て回るイメージ
-- **[browse](/word/browse/)**：じっくり選んだり、ざっと目を通すイメージ
+- **[browse](/browse)**：じっくり選んだり、ざっと目を通すイメージ
 
 surfは「ネットサーフィン」のように、目的なく幅広く見て回るときに使い、browseは商品や本などを「ざっと見る」「選ぶ」場面で使います。
 
@@ -105,14 +109,14 @@ surfは「ネットサーフィン」のように、目的なく幅広く見て�
 
 ## 🧩 あわせて覚えたい
 
-- [search](/word/search/)：検索する
-- [navigate](/word/navigate/)：（ウェブなどを）移動する、案内する
+- [search](/search)：検索する
+- [navigate](/navigate)：（ウェブなどを）移動する、案内する
 
 ---
 
 ## 📖 できればこれも
 
-- [click](/word/click/)：クリックする
-- [scroll](/word/scroll/)：スクロールする
+- [click](/click)：クリックする
+- [scroll](/scroll)：スクロールする
 
-<!-- cvid: aid22_bid02 -->
+<!-- cvid: aid06_bid41 -->

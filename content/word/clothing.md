@@ -81,15 +81,19 @@ TOEICでは説明文や案内文、広告などで「衣類」「衣料品」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や案内文、広告などで「衣類」「衣料品」と
 ## 🤔  clothes との違いは？
 
 - **clothing**：衣類全体を指すフォーマルな表現。不可算名詞。
-- **[clothes](/word/clothes/)**：普段着る服を指すカジュアルな表現。常に複数形。
+- **[clothes](/clothes)**：普段着る服を指すカジュアルな表現。常に複数形。
 
 clothingは「衣類」というカテゴリー全体や業界、商品説明などで使われ、clothesは日常的な「服」を指します。
 
@@ -105,14 +109,14 @@ clothingは「衣類」というカテゴリー全体や業界、商品説明な
 
 ## 🧩 あわせて覚えたい
 
-- [garment](/word/garment/)：衣服（1着の服や特定の衣類を指すフォーマルな単語）
-- [attire](/word/attire/)：服装（特にフォーマルな場面での服装全体）
+- [garment](/garment)：衣服（1着の服や特定の衣類を指すフォーマルな単語）
+- [attire](/attire)：服装（特にフォーマルな場面での服装全体）
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric/)：布地、織物
-- [outfit](/word/outfit/)：服装、コーディネート
+- [fabric](/fabric)：布地、織物
+- [outfit](/outfit)：服装、コーディネート
 
-<!-- cvid: aid00_bid48 -->
+<!-- cvid: aid25_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは科学や技術系の説明文で登場することがあり、特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術系の説明文で登場することがあり、特に
 ## 🤔  atom との違いは？
 
 - **ion**：電荷を持つ原子や分子
-- **[atom](/word/atom/)**：物質を構成する最小単位で、電荷を持たないことが多い
+- **[atom](/atom)**：物質を構成する最小単位で、電荷を持たないことが多い
 
 ionは電気的な性質を持つ粒子、atomは中性の基本粒子という違いがあります。
 
@@ -105,14 +109,14 @@ ionは電気的な性質を持つ粒子、atomは中性の基本粒子という�
 
 ## 🧩 あわせて覚えたい
 
-- [molecule](/word/molecule/)：分子（複数の原子が結合した粒子）
-- [electron](/word/electron/)：電子（原子を構成する微粒子）
+- [molecule](/molecule)：分子（複数の原子が結合した粒子）
+- [electron](/electron)：電子（原子を構成する微粒子）
 
 ---
 
 ## 📖 できればこれも
 
-- [compound](/word/compound/)：化合物（2種類以上の元素が結合した物質）
-- [element](/word/element/)：元素（物質を構成する基本的な成分）
+- [compound](/compound)：化合物（2種類以上の元素が結合した物質）
+- [element](/element)：元素（物質を構成する基本的な成分）
 
-<!-- cvid: aid28_bid05 -->
+<!-- cvid: aid35_bid40 -->

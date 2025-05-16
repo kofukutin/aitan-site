@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、会議資料などの中で「rep
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、会議資料などの中で「rep
 ## 🤔  announce との違いは？
 
 - **report**：出来事や調査結果をまとめた「報告書」や「レポート」
-- **[announce](/word/announce/)**：新しい情報や決定事項を「公式に発表する」
+- **[announce](/announce)**：新しい情報や決定事項を「公式に発表する」
 
 reportは文書や口頭での「報告」に使い、announceは広く人々に「知らせる・発表する」時に使います。
 
@@ -105,14 +109,14 @@ reportは文書や口頭での「報告」に使い、announceは広く人々に
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/word/statement/)：声明、発表
-- [summary](/word/summary/)：要約、まとめ
+- [statement](/statement)：声明、発表
+- [summary](/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [record](/word/record/)：記録、記録する
+- [document](/document)：文書、書類
+- [record](/record)：記録、記録する
 
-<!-- cvid: aid12_bid07 -->
+<!-- cvid: aid27_bid46 -->

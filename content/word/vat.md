@@ -80,15 +80,19 @@ VATは請求書や契約書、ビジネスメールなどの実務文書で頻�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ VATは請求書や契約書、ビジネスメールなどの実務文書で頻�
 ## 🤔  sales tax との違いは？
 
 - **VAT**：付加価値に対して段階的に課される間接税。主にヨーロッパなどで使われる。
-- **[sales tax](/word/sales_tax/)**：販売時に一度だけ課される売上税。主にアメリカで使われる。
+- **[sales tax](/sales_tax)**：販売時に一度だけ課される売上税。主にアメリカで使われる。
 
 VATは流通の各段階で課税されるのに対し、sales taxは最終消費者への販売時のみ課税される点が異なります。
 
@@ -104,14 +108,14 @@ VATは流通の各段階で課税されるのに対し、sales taxは最終消�
 
 ## 🧩 あわせて覚えたい
 
-- [tax](/word/tax/)：税金
-- [invoice](/word/invoice/)：請求書
+- [tax](/tax)：税金
+- [invoice](/invoice)：請求書
 
 ---
 
 ## 📖 できればこれも
 
-- [fee](/word/fee/)：手数料
-- [charge](/word/charge/)：料金
+- [fee](/fee)：手数料
+- [charge](/charge)：料金
 
-<!-- cvid: aid47_bid18 -->
+<!-- cvid: aid13_bid13 -->

@@ -88,8 +88,12 @@ TOEICでは「定期的な」「通常の」といった意味で、会議や業
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「定期的な」「通常の」といった意味で、会議や業
 ## 🤔  routine との違いは？
 
 - **regular**：規則的・定期的に行われること、標準的なもの
-- **[routine](/word/routine/)**：決まりきった手順や日課、型にはまったもの
+- **[routine](/routine)**：決まりきった手順や日課、型にはまったもの
 
 「regular」は「一定の間隔で繰り返す」ことに重点があり、「routine」は「習慣化・型通りで変化がない」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「定期的な」「通常の」といった意味で、会議や業
 
 ## 🧩 あわせて覚えたい
 
-- [irregular](/word/irregular/)：不規則な
-- [frequent](/word/frequent/)：頻繁な
+- [irregular](/irregular)：不規則な
+- [frequent](/frequent)：頻繁な
 
 ---
 
 ## 📖 できればこれも
 
-- [usual](/word/usual/)：いつもの、通常の
-- [standard](/word/standard/)：標準の、基準の
+- [usual](/usual)：いつもの、通常の
+- [standard](/standard)：標準の、基準の
 
-<!-- cvid: aid01_bid30 -->
+<!-- cvid: aid01_bid10 -->

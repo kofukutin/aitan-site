@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【gate】の意味・使い方・例文 ― doorとの違い【TOEIC英単語】"
 description: "gateの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdoorとの違いもわかりやすく学べます。"
 word: "gate"
@@ -81,15 +81,19 @@ gateは空港や建物の写真描写問題でよく登場します。特に「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ gateは空港や建物の写真描写問題でよく登場します。特に「�
 ## 🤔  door との違いは？
 
 - **gate**：敷地や庭、公園、空港などの「門」や「ゲート」を指す
-- **[door](/word/door/)**：建物や部屋の「ドア」を指す
+- **[door](/door)**：建物や部屋の「ドア」を指す
 
 gateは屋外や囲いの出入り口に使い、doorは建物や部屋の出入り口に使います。
 
@@ -105,14 +109,14 @@ gateは屋外や囲いの出入り口に使い、doorは建物や部屋の出入
 
 ## 🧩 あわせて覚えたい
 
-- [entrance](/word/entrance/)：入り口
-- [fence](/word/fence/)：柵、フェンス
+- [entrance](/entrance)：入り口
+- [fence](/fence)：柵、フェンス
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window/)：窓
-- [bridge](/word/bridge/)：橋
+- [window](/window)：窓
+- [bridge](/bridge)：橋
 
-<!-- cvid: aid21_bid05 -->
+<!-- cvid: aid29_bid46 -->

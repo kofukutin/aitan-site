@@ -81,15 +81,19 @@ handleはTOEICの会話パートで「対応する」「処理する」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ handleはTOEICの会話パートで「対応する」「処理する」という
 ## 🤔  deal との違いは？
 
 - **handle**：問題や仕事を「うまく処理する」「対応する」という意味で、やや幅広く使える。
-- **[deal](/word/deal/)**：困難や課題に「対処する」「取り組む」というニュアンスが強い。
+- **[deal](/deal)**：困難や課題に「対処する」「取り組む」というニュアンスが強い。
 
 handleは日常的な業務や物事の処理全般に使われ、dealは特に難しい問題や交渉などに使われることが多いです。
 
@@ -105,14 +109,14 @@ handleは日常的な業務や物事の処理全般に使われ、dealは特に�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、うまくやる
-- [process](/word/process/)：処理する、手続きを進める
+- [manage](/manage)：管理する、うまくやる
+- [process](/process)：処理する、手続きを進める
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [organize](/word/organize/)：整理する、まとめる
+- [arrange](/arrange)：手配する、整える
+- [organize](/organize)：整理する、まとめる
 
-<!-- cvid: aid44_bid25 -->
+<!-- cvid: aid00_bid37 -->

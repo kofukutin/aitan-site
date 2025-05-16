@@ -80,15 +80,19 @@ TOEICでは会社や学校の規則、手順、案内などを説明する文書
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは会社や学校の規則、手順、案内などを説明する文書
 ## 🤔  manual との違いは？
 
 - **handbook**：概要やルール、ガイドラインなどを簡潔にまとめた案内書。
-- **[manual](/word/manual/)**：機械や作業の操作方法など、手順を詳しく説明した説明書。
+- **[manual](/manual)**：機械や作業の操作方法など、手順を詳しく説明した説明書。
 
 handbookは全体のルールや概要をまとめた冊子、manualは具体的な操作や手順を詳しく説明する文書という違いがあります。
 
@@ -104,14 +108,14 @@ handbookは全体のルールや概要をまとめた冊子、manualは具体的
 
 ## 🧩 あわせて覚えたい
 
-- [guide](/word/guide/)：案内書、ガイド
-- [brochure](/word/brochure/)：パンフレット、案内冊子
+- [guide](/guide)：案内書、ガイド
+- [brochure](/brochure)：パンフレット、案内冊子
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、規則
-- [document](/word/document/)：文書、書類
+- [policy](/policy)：方針、規則
+- [document](/document)：文書、書類
 
-<!-- cvid: aid36_bid30 -->
+<!-- cvid: aid04_bid20 -->

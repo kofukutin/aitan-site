@@ -81,15 +81,19 @@ TOEICでは環境問題やサステナビリティに関する長文で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題やサステナビリティに関する長文で出題さ
 ## 🤔  ecosystem との違いは？
 
 - **biodiversity**：生物の種類や遺伝的な多様性そのものを指す
-- **[ecosystem](/word/ecosystem/)**：生物とその環境が相互に関わる「生態系」全体を指す
+- **[ecosystem](/ecosystem)**：生物とその環境が相互に関わる「生態系」全体を指す
 
 biodiversityは「どれだけ多様な生物がいるか」に焦点があり、ecosystemは生物と環境のつながりや仕組みに注目します。
 
@@ -105,14 +109,14 @@ biodiversityは「どれだけ多様な生物がいるか」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [species](/word/species/)：種、生物の種類
-- [conservation](/word/conservation/)：保護、保存
+- [species](/species)：種、生物の種類
+- [conservation](/conservation)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [habitat](/word/habitat/)：生息地
-- [sustainability](/word/sustainability/)：持続可能性
+- [habitat](/habitat)：生息地
+- [sustainability](/sustainability)：持続可能性
 
-<!-- cvid: aid15_bid43 -->
+<!-- cvid: aid18_bid23 -->

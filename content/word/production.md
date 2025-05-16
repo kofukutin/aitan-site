@@ -81,15 +81,19 @@ TOEICでは工場やビジネスの会話、製造現場の説明などで頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは工場やビジネスの会話、製造現場の説明などで頻出
 ## 🤔  manufacture との違いは？
 
 - **production**：生産全体や制作活動を幅広く指す。
-- **[manufacture](/word/manufacture/)**：特に工場などで機械的に大量生産することを強調。
+- **[manufacture](/manufacture)**：特に工場などで機械的に大量生産することを強調。
 
 productionは「生み出す行為」全般に使えますが、manufactureは「工業的な大量生産」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ productionは「生み出す行為」全般に使えますが、manufactureは�
 
 ## 🧩 あわせて覚えたい
 
-- [consumption](/word/consumption/)：消費
-- [output](/word/output/)：生産高、出力
+- [consumption](/consumption)：消費
+- [output](/output)：生産高、出力
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：工程、過程
-- [supply](/word/supply/)：供給
+- [process](/process)：工程、過程
+- [supply](/supply)：供給
 
-<!-- cvid: aid49_bid46 -->
+<!-- cvid: aid34_bid44 -->

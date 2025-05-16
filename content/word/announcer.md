@@ -81,15 +81,19 @@ TOEICでは、空港やイベント、放送に関する会話や説明文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、空港やイベント、放送に関する会話や説明文で「
 ## 🤔  broadcaster との違いは？
 
 - **announcer**：番組やイベントで情報を伝える「話し手」や「司会者」を指す。
-- **[broadcaster](/word/broadcaster/)**：放送局や放送する人全般を指し、技術者や会社も含むことがある。
+- **[broadcaster](/broadcaster)**：放送局や放送する人全般を指し、技術者や会社も含むことがある。
 
 announcerは「話す人」に特化し、broadcasterは「放送に関わる人・組織」全体を指す点が異なります。
 
@@ -105,14 +109,14 @@ announcerは「話す人」に特化し、broadcasterは「放送に関わる人
 
 ## 🧩 あわせて覚えたい
 
-- [host](/word/host/)：司会者、主催者
-- [presenter](/word/presenter/)：プレゼンター、番組の進行役
+- [host](/host)：司会者、主催者
+- [presenter](/presenter)：プレゼンター、番組の進行役
 
 ---
 
 ## 📖 できればこれも
 
-- [announcement](/word/announcement/)：発表、告知
-- [reporter](/word/reporter/)：記者、リポーター
+- [announcement](/announcement)：発表、告知
+- [reporter](/reporter)：記者、リポーター
 
-<!-- cvid: aid24_bid40 -->
+<!-- cvid: aid14_bid20 -->

@@ -81,15 +81,19 @@ gangはTOEICでは会話文や説明文で、作業チームやグループを�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ gangはTOEICでは会話文や説明文で、作業チームやグループを�
 ## 🤔  crew との違いは？
 
 - **gang**：共通の目的で集まった仲間や、時に犯罪集団を指すことが多い。
-- **[crew](/word/crew/)**：特定の作業や職務（船・飛行機・映画など）を行う公式なチーム。
+- **[crew](/crew)**：特定の作業や職務（船・飛行機・映画など）を行う公式なチーム。
 
 gangは非公式な集団や犯罪集団のニュアンスが強く、crewは職業的・公式なチームを指します。
 
@@ -105,14 +109,14 @@ gangは非公式な集団や犯罪集団のニュアンスが強く、crewは職
 
 ## 🧩 あわせて覚えたい
 
-- [team](/word/team/)：チーム、競技や仕事のための集団
-- [group](/word/group/)：グループ、一般的な集まり
+- [team](/team)：チーム、競技や仕事のための集団
+- [group](/group)：グループ、一般的な集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [band](/word/band/)：バンド、音楽グループや一団
-- [squad](/word/squad/)：分隊、小規模なチームや班
+- [band](/band)：バンド、音楽グループや一団
+- [squad](/squad)：分隊、小規模なチームや班
 
-<!-- cvid: aid10_bid16 -->
+<!-- cvid: aid25_bid22 -->

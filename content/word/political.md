@@ -81,15 +81,19 @@ TOEICでは記事やビジネス文書、公式発表などで「政治的な」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは記事やビジネス文書、公式発表などで「政治的な」
 ## 🤔  governmental との違いは？
 
 - **political**：政治全般や政治的な意図・立場に関する
-- **[governmental](/word/governmental/)**：政府そのものや行政機関に関する
+- **[governmental](/governmental)**：政府そのものや行政機関に関する
 
 **political**は「政治的な立場・活動・意見」など幅広い文脈で使われ、**governmental**は「政府の」「行政の」と組織や制度に直接関わる場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは記事やビジネス文書、公式発表などで「政治的な」
 
 ## 🧩 あわせて覚えたい
 
-- [diplomatic](/word/diplomatic/)：外交の、外交的な
-- [partisan](/word/partisan/)：党派的な、特定の政党を支持する
+- [diplomatic](/diplomatic)：外交の、外交的な
+- [partisan](/partisan)：党派的な、特定の政党を支持する
 
 ---
 
 ## 📖 できればこれも
 
-- [economic](/word/economic/)：経済の、経済に関する
-- [legal](/word/legal/)：法律の、法的な
+- [economic](/economic)：経済の、経済に関する
+- [legal](/legal)：法律の、法的な
 
-<!-- cvid: aid15_bid47 -->
+<!-- cvid: aid44_bid15 -->

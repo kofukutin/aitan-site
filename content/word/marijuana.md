@@ -81,15 +81,19 @@ TOEICでは医療や法律、社会問題に関する長文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や法律、社会問題に関する長文で登場すること
 ## 🤔  cannabis との違いは？
 
 - **marijuana**：乾燥させた大麻の葉や花（主に嗜好・医療目的）を指す
-- **[cannabis](/word/cannabis/)**：大麻植物全体や成分を指す、より学術的・広義
+- **[cannabis](/cannabis)**：大麻植物全体や成分を指す、より学術的・広義
 
 marijuanaは実際に使われる部分を指し、cannabisは植物全体や成分、法的・医学的な文脈で使われます。
 
@@ -105,14 +109,14 @@ marijuanaは実際に使われる部分を指し、cannabisは植物全体や成
 
 ## 🧩 あわせて覚えたい
 
-- [hemp](/word/hemp/)：産業用大麻（繊維や種子を取るための品種）
-- [narcotic](/word/narcotic/)：麻薬、向精神薬
+- [hemp](/hemp)：産業用大麻（繊維や種子を取るための品種）
+- [narcotic](/narcotic)：麻薬、向精神薬
 
 ---
 
 ## 📖 できればこれも
 
-- [substance](/word/substance/)：物質、薬物
-- [prescription](/word/prescription/)：処方箋
+- [substance](/substance)：物質、薬物
+- [prescription](/prescription)：処方箋
 
-<!-- cvid: aid29_bid08 -->
+<!-- cvid: aid39_bid30 -->

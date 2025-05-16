@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、説明文の中で「タグ」や「ラベ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、説明文の中で「タグ」や「ラベ�
 ## 🤔  label との違いは？
 
 - **tag**：物や情報に付ける小さな札や目印、SNSのタグなど幅広く使う
-- **[label](/word/label/)**：商品やファイルなどに貼る「ラベル」や「表示」
+- **[label](/label)**：商品やファイルなどに貼る「ラベル」や「表示」
 
 tagは目印や分類のための札やキーワード全般を指し、labelは主に説明や情報を記載したラベルや表示を意味します。
 
@@ -105,14 +109,14 @@ tagは目印や分類のための札やキーワード全般を指し、labelは
 
 ## 🧩 あわせて覚えたい
 
-- [hashtag](/word/hashtag/)：SNSで使う「#」付きのタグ
-- [sticker](/word/sticker/)：シール、貼るタイプのラベル
+- [hashtag](/hashtag)：SNSで使う「#」付きのタグ
+- [sticker](/sticker)：シール、貼るタイプのラベル
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：メモ、注記
-- [mark](/word/mark/)：印、記号
+- [note](/note)：メモ、注記
+- [mark](/mark)：印、記号
 
-<!-- cvid: aid23_bid45 -->
+<!-- cvid: aid34_bid32 -->

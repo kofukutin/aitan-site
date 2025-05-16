@@ -81,7 +81,7 @@ TOEICでは店舗広告や商品説明、売り場案内などで「housewares�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+迷いを力に変えよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは店舗広告や商品説明、売り場案内などで「housewares�
 
 <div class="info-center">
 ＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは店舗広告や商品説明、売り場案内などで「housewares�
 ## 🤔  appliance との違いは？
 
 - **housewares**：家庭で使う調理器具や掃除用具などの家庭用品全般
-- **[appliance](/word/appliance/)**：電気やガスを使う家庭用機器（例：冷蔵庫、電子レンジ）
+- **[appliance](/appliance)**：電気やガスを使う家庭用機器（例：冷蔵庫、電子レンジ）
 
 housewaresは広く「家庭用品」を指し、applianceは特に電化製品や大型の機器を指します。
 
@@ -105,14 +109,14 @@ housewaresは広く「家庭用品」を指し、applianceは特に電化製品�
 
 ## 🧩 あわせて覚えたい
 
-- [utensil](/word/utensil/)：調理器具、道具
-- [furniture](/word/furniture/)：家具
+- [utensil](/utensil)：調理器具、道具
+- [furniture](/furniture)：家具
 
 ---
 
 ## 📖 できればこれも
 
-- [merchandise](/word/merchandise/)：商品、製品
-- [inventory](/word/inventory/)：在庫、棚卸し
+- [merchandise](/merchandise)：商品、製品
+- [inventory](/inventory)：在庫、棚卸し
 
-<!-- cvid: aid34_bid04 -->
+<!-- cvid: aid03_bid04 -->

@@ -81,15 +81,19 @@ ITやオフィス設備の説明、会議室の案内などで「wired」はよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやオフィス設備の説明、会議室の案内などで「wired」はよ�
 ## 🤔  connected との違いは？
 
 - **wired**：物理的なワイヤーやケーブルでつながれている状態
-- **[connected](/word/connected/)**：物理・無線を問わず「つながっている」状態全般
+- **[connected](/connected)**：物理・無線を問わず「つながっている」状態全般
 
 「wired」は必ずケーブルなど物理的な接続を指しますが、「connected」はWi-Fiなど無線も含めて幅広く使われます。
 
@@ -105,14 +109,14 @@ ITやオフィス設備の説明、会議室の案内などで「wired」はよ�
 
 ## 🧩 あわせて覚えたい
 
-- [wireless](/word/wireless/)：無線の
-- [cable](/word/cable/)：ケーブル、電線
+- [wireless](/wireless)：無線の
+- [cable](/cable)：ケーブル、電線
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [network](/word/network/)：ネットワーク、通信網
+- [digital](/digital)：デジタルの
+- [network](/network)：ネットワーク、通信網
 
-<!-- cvid: aid23_bid32 -->
+<!-- cvid: aid19_bid49 -->

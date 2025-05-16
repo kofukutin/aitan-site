@@ -81,15 +81,19 @@ TOEICでは、環境や科学、説明文などで「animal」が登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid18_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境や科学、説明文などで「animal」が登場するこ
 ## 🤔  creature との違いは？
 
 - **animal**：一般的な「動物」。科学的・日常的な文脈で使われる。
-- **[creature](/word/creature/)**：生き物全般や想像上の存在も含む幅広い表現。
+- **[creature](/creature)**：生き物全般や想像上の存在も含む幅広い表現。
 
 **animal**は現実の動物を指すことが多く、**creature**は空想上の生き物や未知の存在にも使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、環境や科学、説明文などで「animal」が登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/word/plant/)：植物
-- [beast](/word/beast/)：獣、野獣
+- [plant](/plant)：植物
+- [beast](/beast)：獣、野獣
 
 ---
 
 ## 📖 できればこれも
 
-- [nature](/word/nature/)：自然
-- [human](/word/human/)：人間
+- [nature](/nature)：自然
+- [human](/human)：人間
 
-<!-- cvid: aid21_bid13 -->
+<!-- cvid: aid18_bid49 -->

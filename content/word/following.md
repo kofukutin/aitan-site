@@ -81,15 +81,19 @@ TOEICでは指示文や説明文で「次の～」「以下の～」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは指示文や説明文で「次の～」「以下の～」という意
 ## 🤔  after との違いは？
 
 - **following**：直後や順番で「次の」「以下の」と形容詞的に使う
-- **[after](/word/after/)**：時間的な「～の後で」を表す前置詞や接続詞
+- **[after](/after)**：時間的な「～の後で」を表す前置詞や接続詞
 
 **following**は名詞の前に置いて「次の～」と限定するのに対し、**after**は出来事や時点の「後」を表すので、使い方や文中での役割が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは指示文や説明文で「次の～」「以下の～」という意
 
 ## 🧩 あわせて覚えたい
 
-- [subsequent](/word/subsequent/)：その後の、次に続く
-- [previous](/word/previous/)：前の、以前の
+- [subsequent](/subsequent)：その後の、次に続く
+- [previous](/previous)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [prior](/word/prior/)：前の、事前の
-- [immediately](/word/immediately/)：すぐに、直ちに
+- [prior](/prior)：前の、事前の
+- [immediately](/immediately)：すぐに、直ちに
 
-<!-- cvid: aid05_bid45 -->
+<!-- cvid: aid27_bid40 -->

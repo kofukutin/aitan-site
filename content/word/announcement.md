@@ -81,15 +81,19 @@ TOEICでは、メールや掲示、社内通知などの長文中で「announcem
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや掲示、社内通知などの長文中で「announcem
 ## 🤔  notice との違いは？
 
 - **announcement**：公式な発表やお知らせ。多くの場合、口頭や文書で広く伝える。
-- **[notice](/word/notice/)**：掲示や短い文書での通知。注意喚起や情報提供が中心。
+- **[notice](/notice)**：掲示や短い文書での通知。注意喚起や情報提供が中心。
 
 **announcement**はイベントや新しい情報の発表など「広く知らせる」ニュアンスが強く、**notice**は掲示板などで「注意や情報を伝える」場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、メールや掲示、社内通知などの長文中で「announcem
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/word/statement/)：声明、発言
-- [notification](/word/notification/)：通知、告知
+- [statement](/statement)：声明、発言
+- [notification](/notification)：通知、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/word/agenda/)：議題、予定表
-- [proposal](/word/proposal/)：提案、申し出
+- [agenda](/agenda)：議題、予定表
+- [proposal](/proposal)：提案、申し出
 
-<!-- cvid: aid45_bid41 -->
+<!-- cvid: aid25_bid15 -->

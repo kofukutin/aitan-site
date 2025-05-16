@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、日常的な表現の中で「usual�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、日常的な表現の中で「usual�
 ## 🤔  ordinary との違いは？
 
 - **usual**：いつも通りの、普段の
-- **[ordinary](/word/ordinary/)**：普通の、特別ではない
+- **[ordinary](/ordinary)**：普通の、特別ではない
 
 「usual」は「いつもと同じ」という習慣や頻度に焦点があり、「ordinary」は「特別ではない」「平凡」という意味合いが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞の語彙問題や、日常的な表現の中で「usual�
 
 ## 🧩 あわせて覚えたい
 
-- [normal](/word/normal/)：正常な、標準の
-- [typical](/word/typical/)：典型的な、代表的な
+- [normal](/normal)：正常な、標準の
+- [typical](/typical)：典型的な、代表的な
 
 ---
 
 ## 📖 できればこれも
 
-- [common](/word/common/)：一般的な、よくある
-- [regular](/word/regular/)：定期的な、規則的な
+- [common](/common)：一般的な、よくある
+- [regular](/regular)：定期的な、規則的な
 
-<!-- cvid: aid39_bid28 -->
+<!-- cvid: aid27_bid22 -->

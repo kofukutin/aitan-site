@@ -81,15 +81,19 @@ TOEICでは、求人広告や人物紹介、面接の場面で「personality」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や人物紹介、面接の場面で「personality」�
 ## 🤔  character との違いは？
 
 - **personality**：その人の外に現れる性格や個性、印象
-- **[character](/word/character/)**：道徳的な性質や内面的な人格
+- **[character](/character)**：道徳的な性質や内面的な人格
 
 「personality」は明るい・社交的など外から見える特徴を指し、「character」は誠実さ・勇気など内面の資質を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、求人広告や人物紹介、面接の場面で「personality」�
 
 ## 🧩 あわせて覚えたい
 
-- [temperament](/word/temperament/)：気質、生まれ持った性格
-- [identity](/word/identity/)：自己同一性、アイデンティティ
+- [temperament](/temperament)：気質、生まれ持った性格
+- [identity](/identity)：自己同一性、アイデンティティ
 
 ---
 
 ## 📖 できればこれも
 
-- [attitude](/word/attitude/)：態度、考え方
-- [trait](/word/trait/)：特徴、特性
+- [attitude](/attitude)：態度、考え方
+- [trait](/trait)：特徴、特性
 
-<!-- cvid: aid18_bid31 -->
+<!-- cvid: aid26_bid41 -->

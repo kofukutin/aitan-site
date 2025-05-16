@@ -81,15 +81,19 @@ TOEICではニュース記事や法的文書、報告書などで「alleged」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではニュース記事や法的文書、報告書などで「alleged」�
 ## 🤔  supposed との違いは？
 
 - **alleged**：証拠がなく、公式に「～とされる」「疑惑の」と表現する時に使う
-- **[supposed](/word/supposed/)**：一般的な「～と考えられている」「～らしい」という意味で、確証の有無は問わない
+- **[supposed](/supposed)**：一般的な「～と考えられている」「～らしい」という意味で、確証の有無は問わない
 
 「alleged」は特に法的・報道の場面で使われ、証拠がないことを強調しますが、「supposed」は日常的な推測や噂にも使えます。
 
@@ -105,14 +109,14 @@ TOEICではニュース記事や法的文書、報告書などで「alleged」�
 
 ## 🧩 あわせて覚えたい
 
-- [accused](/word/accused/)：被告、告発された人
-- [suspected](/word/suspected/)：疑われている
+- [accused](/accused)：被告、告発された人
+- [suspected](/suspected)：疑われている
 
 ---
 
 ## 📖 できればこれも
 
-- [apparent](/word/apparent/)：見たところ～らしい
-- [claimed](/word/claimed/)：主張された
+- [apparent](/apparent)：見たところ～らしい
+- [claimed](/claimed)：主張された
 
-<!-- cvid: aid02_bid37 -->
+<!-- cvid: aid16_bid09 -->

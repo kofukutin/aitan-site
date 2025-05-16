@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cloudy】の意味・使い方・例文 ― overcastとの違い【TOEIC英単語】"
 description: "cloudyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでovercastとの違いもわかりやすく学べます。"
 word: "cloudy"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、天気や景色を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、天気や景色を説明する
 ## 🤔  overcast との違いは？
 
 - **cloudy**：雲が多く曇っている状態を幅広く表す。
-- **[overcast](/word/overcast/)**：空全体が厚い雲で覆われている状態を強調。
+- **[overcast](/overcast)**：空全体が厚い雲で覆われている状態を強調。
 
 「cloudy」は単に雲が多い天気全般を指し、「overcast」は空が完全に雲で覆われて太陽が全く見えないような重い曇りを表します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写問題で、天気や景色を説明する
 
 ## 🧩 あわせて覚えたい
 
-- [sunny](/word/sunny/)：晴れた
-- [foggy](/word/foggy/)：霧がかかった
+- [sunny](/sunny)：晴れた
+- [foggy](/foggy)：霧がかかった
 
 ---
 
 ## 📖 できればこれも
 
-- [rainy](/word/rainy/)：雨の
-- [windy](/word/windy/)：風の強い
+- [rainy](/rainy)：雨の
+- [windy](/windy)：風の強い
 
-<!-- cvid: aid31_bid22 -->
+<!-- cvid: aid09_bid13 -->

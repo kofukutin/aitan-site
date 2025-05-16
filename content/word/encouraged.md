@@ -81,15 +81,19 @@ encouragedはPart 5の語彙・文法問題でよく見かけます。受動態�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ encouragedはPart 5の語彙・文法問題でよく見かけます。受動態�
 ## 🤔  motivated との違いは？
 
 - **encouraged**：外部から励まされて勇気や自信をもらった状態
-- **[motivated](/word/motivated/)**：内面的にやる気や動機づけが高まった状態
+- **[motivated](/motivated)**：内面的にやる気や動機づけが高まった状態
 
 encouragedは「誰かに背中を押されて元気が出た」ニュアンス、motivatedは「自分の中からやる気が湧いている」ニュアンスです。
 
@@ -105,14 +109,14 @@ encouragedは「誰かに背中を押されて元気が出た」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [discouraged](/word/discouraged/)：落ち込んだ、やる気をなくした
-- [support](/word/support/)：支援、サポート
+- [discouraged](/discouraged)：落ち込んだ、やる気をなくした
+- [support](/support)：支援、サポート
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident/)：自信がある
-- [inspired](/word/inspired/)：刺激を受けた、感化された
+- [confident](/confident)：自信がある
+- [inspired](/inspired)：刺激を受けた、感化された
 
-<!-- cvid: aid03_bid25 -->
+<!-- cvid: aid35_bid42 -->

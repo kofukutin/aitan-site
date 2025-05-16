@@ -81,15 +81,19 @@ TOEICでは科学や環境に関する長文や記事、説明文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や環境に関する長文や記事、説明文で登場する
 ## 🤔  geography との違いは？
 
 - **geology**：地球の構造や岩石・鉱物など、地球そのものの成り立ちを研究する学問
-- **[geography](/word/geography/)**：地形や気候、人間の活動など、地球上の場所や空間の特徴を研究する学問
+- **[geography](/geography)**：地形や気候、人間の活動など、地球上の場所や空間の特徴を研究する学問
 
 geologyは「地球の中身や成り立ち」に焦点を当て、geographyは「地球上の場所や分布、人間活動」に注目します。
 
@@ -105,14 +109,14 @@ geologyは「地球の中身や成り立ち」に焦点を当て、geographyは�
 
 ## 🧩 あわせて覚えたい
 
-- [mineral](/word/mineral/)：鉱物
-- [volcano](/word/volcano/)：火山
+- [mineral](/mineral)：鉱物
+- [volcano](/volcano)：火山
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology/)：生物学
-- [chemistry](/word/chemistry/)：化学
+- [biology](/biology)：生物学
+- [chemistry](/chemistry)：化学
 
-<!-- cvid: aid06_bid42 -->
+<!-- cvid: aid47_bid30 -->

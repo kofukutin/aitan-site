@@ -81,15 +81,19 @@ honestはTOEICの語彙問題や人物の性格を問う文脈でよく出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ honestはTOEICの語彙問題や人物の性格を問う文脈でよく出題さ
 ## 🤔  sincere との違いは？
 
 - **honest**：うそをつかず、事実や本音を率直に伝えることを強調。
-- **[sincere](/word/sincere/)**：心からの気持ちや誠意がこもっていることを強調。
+- **[sincere](/sincere)**：心からの気持ちや誠意がこもっていることを強調。
 
 honestは「正直さ」、sincereは「心からの誠実さ」に重点があり、honestは事実を隠さない態度、sincereは気持ちや思いの純粋さを表します。
 
@@ -105,14 +109,14 @@ honestは「正直さ」、sincereは「心からの誠実さ」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [dishonest](/word/dishonest/)：不正直な
-- [frank](/word/frank/)：率直な
+- [dishonest](/dishonest)：不正直な
+- [frank](/frank)：率直な
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/word/polite/)：礼儀正しい
-- [reliable](/word/reliable/)：信頼できる
+- [polite](/polite)：礼儀正しい
+- [reliable](/reliable)：信頼できる
 
-<!-- cvid: aid20_bid02 -->
+<!-- cvid: aid44_bid11 -->

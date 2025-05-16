@@ -81,15 +81,19 @@ boredは会話文や感情表現でよく出題されます。人の気持ちを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ boredは会話文や感情表現でよく出題されます。人の気持ちを
 ## 🤔  boring との違いは？
 
 - **bored**：退屈している（人の感情）
-- **[boring](/word/boring/)**：退屈させる（物や出来事）
+- **[boring](/boring)**：退屈させる（物や出来事）
 
 boredは「人が感じる退屈」、boringは「物や出来事が退屈な性質」を表します。
 
@@ -105,14 +109,14 @@ boredは「人が感じる退屈」、boringは「物や出来事が退屈な性
 
 ## 🧩 あわせて覚えたい
 
-- [interested](/word/interested/)：興味を持っている
-- [tired](/word/tired/)：疲れている
+- [interested](/interested)：興味を持っている
+- [tired](/tired)：疲れている
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited/)：わくわくしている
-- [annoyed](/word/annoyed/)：イライラしている
+- [excited](/excited)：わくわくしている
+- [annoyed](/annoyed)：イライラしている
 
-<!-- cvid: aid16_bid42 -->
+<!-- cvid: aid39_bid18 -->

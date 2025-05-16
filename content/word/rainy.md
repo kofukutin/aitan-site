@@ -81,15 +81,19 @@ TOEICでは主にPart 1の天気や屋外の写真描写で登場します。基
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid11" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid11" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の天気や屋外の写真描写で登場します。基
 ## 🤔  wet との違いは？
 
 - **rainy**：雨が降っている、雨の多い（天気や気候を表す）
-- **[wet](/word/wet/)**：濡れている、水分を含んでいる（物や表面の状態を表す）
+- **[wet](/wet)**：濡れている、水分を含んでいる（物や表面の状態を表す）
 
 「rainy」は天気や気候について使い、「wet」は物や人が水で濡れている状態に使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の天気や屋外の写真描写で登場します。基
 
 ## 🧩 あわせて覚えたい
 
-- [sunny](/word/sunny/)：晴れた
-- [cloudy](/word/cloudy/)：曇った
+- [sunny](/sunny)：晴れた
+- [cloudy](/cloudy)：曇った
 
 ---
 
 ## 📖 できればこれも
 
-- [stormy](/word/stormy/)：嵐の
-- [windy](/word/windy/)：風の強い
+- [stormy](/stormy)：嵐の
+- [windy](/windy)：風の強い
 
-<!-- cvid: aid32_bid20 -->
+<!-- cvid: aid44_bid11 -->

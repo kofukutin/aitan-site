@@ -81,15 +81,19 @@ TOEICでは、記事やメール文中で「世論調査」や「アンケート
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やメール文中で「世論調査」や「アンケート
 ## 🤔  survey との違いは？
 
 - **poll**：主に簡単な質問で多数の人の意見や投票を集める調査
-- **[survey](/word/survey/)**：より詳細で体系的な調査やアンケート
+- **[survey](/survey)**：より詳細で体系的な調査やアンケート
 
 pollは「簡易的な世論調査」、surveyは「詳細な調査」という違いがあり、ビジネスや学術調査ではsurveyが使われやすいです。
 
@@ -105,14 +109,14 @@ pollは「簡易的な世論調査」、surveyは「詳細な調査」という�
 
 ## 🧩 あわせて覚えたい
 
-- [ballot](/word/ballot/)：投票用紙、投票
-- [vote](/word/vote/)：投票、票を投じる
+- [ballot](/ballot)：投票用紙、投票
+- [vote](/vote)：投票、票を投じる
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result/)：結果
-- [opinion](/word/opinion/)：意見
+- [result](/result)：結果
+- [opinion](/opinion)：意見
 
-<!-- cvid: aid46_bid08 -->
+<!-- cvid: aid23_bid05 -->

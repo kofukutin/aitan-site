@@ -81,15 +81,19 @@ TOEICでは「extra charge（追加料金）」や「extra time（追加時間�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「extra charge（追加料金）」や「extra time（追加時間�
 ## 🤔  additional との違いは？
 
 - **extra**：必要以上・標準以上の「余分」「追加」のニュアンスが強く、カジュアルな場面でもよく使う。
-- **[additional](/word/additional/)**：正式・フォーマルな「追加の」「付加的な」という意味で、書類やビジネス文書でよく使う。
+- **[additional](/additional)**：正式・フォーマルな「追加の」「付加的な」という意味で、書類やビジネス文書でよく使う。
 
 「extra」は日常的で柔らかい響き、「additional」はフォーマルで事務的な印象です。
 
@@ -105,14 +109,14 @@ TOEICでは「extra charge（追加料金）」や「extra time（追加時間�
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [surplus](/word/surplus/)：余剰、余り
+- [optional](/optional)：任意の、選択できる
+- [surplus](/surplus)：余剰、余り
 
 ---
 
 ## 📖 できればこれも
 
-- [bonus](/word/bonus/)：ボーナス、特別手当
-- [spare](/word/spare/)：予備の、余分の
+- [bonus](/bonus)：ボーナス、特別手当
+- [spare](/spare)：予備の、余分の
 
-<!-- cvid: aid45_bid22 -->
+<!-- cvid: aid09_bid10 -->

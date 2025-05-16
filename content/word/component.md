@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス関連の文脈で「部品」「構成要素」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス関連の文脈で「部品」「構成要素」�
 ## 🤔  element との違いは？
 
 - **component**：機械やシステムなど、全体を構成する「部品」「構成要素」に強調点がある
-- **[element](/word/element/)**：より抽象的な「要素」「成分」や、化学の「元素」など幅広い意味で使う
+- **[element](/element)**：より抽象的な「要素」「成分」や、化学の「元素」など幅広い意味で使う
 
 componentは物理的・機能的な「部品」に焦点があり、elementは抽象的・基本的な「要素」に使われます。
 
@@ -105,13 +109,13 @@ componentは物理的・機能的な「部品」に焦点があり、elementは�
 
 ## 🧩 あわせて覚えたい
 
-- [module](/word/module/)：モジュール、独立した構成単位
-- [part](/word/part/)：部分、部品
+- [module](/module)：モジュール、独立した構成単位
+- [part](/part)：部分、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [system](/word/system/)：システム、体系
-<!-- cvid: aid44_bid21 -->
+- [device](/device)：装置、機器
+- [system](/system)：システム、体系
+<!-- cvid: aid37_bid13 -->

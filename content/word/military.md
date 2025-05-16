@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【military】の意味・使い方・例文 ― armyとの違い【TOEIC英単語】"
 description: "militaryの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでarmyとの違いもわかりやすく学べます。"
 word: "military"
@@ -81,15 +81,19 @@ TOEICでは、ニュース記事や説明文、契約関連の長文で「milita
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事や説明文、契約関連の長文で「milita
 ## 🤔  army との違いは？
 
 - **military**：軍隊全体や軍事組織を指す、より広い意味
-- **[army](/word/army/)**：陸軍（地上部隊）を指す
+- **[army](/army)**：陸軍（地上部隊）を指す
 
 militaryは空軍・海軍なども含めた軍全体を指しますが、armyは「陸軍」だけを意味します。
 
@@ -105,14 +109,14 @@ militaryは空軍・海軍なども含めた軍全体を指しますが、army�
 
 ## 🧩 あわせて覚えたい
 
-- [civilian](/word/civilian/)：民間人、一般市民
-- [defense](/word/defense/)：防衛、守り
+- [civilian](/civilian)：民間人、一般市民
+- [defense](/defense)：防衛、守り
 
 ---
 
 ## 📖 できればこれも
 
-- [navy](/word/navy/)：海軍
-- [weapon](/word/weapon/)：武器
+- [navy](/navy)：海軍
+- [weapon](/weapon)：武器
 
-<!-- cvid: aid06_bid01 -->
+<!-- cvid: aid26_bid19 -->

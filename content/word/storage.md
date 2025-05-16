@@ -81,15 +81,19 @@ TOEICではITやビジネス文脈で「storage」が頻出します。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文脈で「storage」が頻出します。特に「
 ## 🤔  warehouse との違いは？
 
 - **storage**：物やデータの「保管」や「収納」、またはその仕組みや装置全般を指す
-- **[warehouse](/word/warehouse/)**：主に「商品や物資を大量に保管するための大きな建物（倉庫）」を指す
+- **[warehouse](/warehouse)**：主に「商品や物資を大量に保管するための大きな建物（倉庫）」を指す
 
 「storage」は抽象的な「保管」や「収納」の意味で、場所・方法・装置全般に使えますが、「warehouse」は具体的な大きな建物（倉庫）を指します。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス文脈で「storage」が頻出します。特に「
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive/)：記録保管所、アーカイブ
-- [inventory](/word/inventory/)：在庫、棚卸し
+- [archive](/archive)：記録保管所、アーカイブ
+- [inventory](/inventory)：在庫、棚卸し
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [capacity](/word/capacity/)：容量、収容力
+- [device](/device)：装置、機器
+- [capacity](/capacity)：容量、収容力
 
-<!-- cvid: aid35_bid40 -->
+<!-- cvid: aid39_bid08 -->

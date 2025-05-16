@@ -81,15 +81,19 @@ inflateは、TOEICの文法や語彙問題で「膨らませる」「価格を�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ inflateは、TOEICの文法や語彙問題で「膨らませる」「価格を�
 ## 🤔  expand との違いは？
 
 - **inflate**：空気やガスで膨らませる、または数字・価格を不当に大きくする
-- **[expand](/word/expand/)**：広げる、拡大する（範囲や規模を自然に大きくする）
+- **[expand](/expand)**：広げる、拡大する（範囲や規模を自然に大きくする）
 
 inflateは「中身を入れて膨らませる」「不当に大きくする」などやや否定的なニュアンスがあり、expandは「自然に広がる・拡大する」といった中立的な意味で使われます。
 
@@ -105,14 +109,14 @@ inflateは「中身を入れて膨らませる」「不当に大きくする」�
 
 ## 🧩 あわせて覚えたい
 
-- [deflate](/word/deflate/)：しぼませる、縮小させる
-- [enlarge](/word/enlarge/)：大きくする、拡大する
+- [deflate](/deflate)：しぼませる、縮小させる
+- [enlarge](/enlarge)：大きくする、拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce/)：減らす
-- [increase](/word/increase/)：増やす
+- [reduce](/reduce)：減らす
+- [increase](/increase)：増やす
 
-<!-- cvid: aid06_bid30 -->
+<!-- cvid: aid42_bid41 -->

@@ -80,15 +80,19 @@ TOEICでは、工場の見学や生産に関する会話・説明でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、工場の見学や生産に関する会話・説明でよく登場
 ## 🤔  plant との違いは？
 
 - **factory**：一般的な「工場」。製品を作る場所全般に使う。
-- **[plant](/word/plant/)**：大規模な工場や発電所など、より専門的・大規模な施設に使う。
+- **[plant](/plant)**：大規模な工場や発電所など、より専門的・大規模な施設に使う。
 
 factoryは日常的な「工場」全般、plantは規模が大きい工場や特定の産業施設に使われることが多いです。
 
@@ -104,14 +108,14 @@ factoryは日常的な「工場」全般、plantは規模が大きい工場や�
 
 ## 🧩 あわせて覚えたい
 
-- [workshop](/word/workshop/)：作業場、小規模な工房
-- [warehouse](/word/warehouse/)：倉庫
+- [workshop](/workshop)：作業場、小規模な工房
+- [warehouse](/warehouse)：倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/word/product/)：製品
-- [machine](/word/machine/)：機械
+- [product](/product)：製品
+- [machine](/machine)：機械
 
-<!-- cvid: aid30_bid13 -->
+<!-- cvid: aid40_bid35 -->

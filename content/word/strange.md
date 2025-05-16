@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、文脈から「普通でない」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、文脈から「普通でない」「
 ## 🤔  unusual との違いは？
 
 - **strange**：普通と違っていて、少し不思議・奇妙な印象を与える
-- **[unusual](/word/unusual/)**：めったにない、珍しい（必ずしも奇妙とは限らない）
+- **[unusual](/unusual)**：めったにない、珍しい（必ずしも奇妙とは限らない）
 
 「strange」は「変だな」と感じる主観的なニュアンスが強く、「unusual」は単に「珍しい」「普通でない」という客観的な意味合いが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞の語彙問題や、文脈から「普通でない」「
 
 ## 🧩 あわせて覚えたい
 
-- [odd](/word/odd/)：変な、奇妙な
-- [familiar](/word/familiar/)：よく知っている、なじみのある
+- [odd](/odd)：変な、奇妙な
+- [familiar](/familiar)：よく知っている、なじみのある
 
 ---
 
 ## 📖 できればこれも
 
-- [normal](/word/normal/)：普通の
-- [peculiar](/word/peculiar/)：独特な、特有の
+- [normal](/normal)：普通の
+- [peculiar](/peculiar)：独特な、特有の
 
-<!-- cvid: aid00_bid09 -->
+<!-- cvid: aid09_bid14 -->

@@ -81,15 +81,19 @@ TOEICでは、文中で「述べる」「明記する」といった意味で使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文中で「述べる」「明記する」といった意味で使
 ## 🤔  claiming との違いは？
 
 - **stating**：事実や意見を明確に述べる、公式に伝える
-- **[claiming](/word/claiming/)**：自分の主張や権利を強く訴える、要求する
+- **[claiming](/claiming)**：自分の主張や権利を強く訴える、要求する
 
 statingは客観的・中立的に「述べる」ニュアンスが強く、claimingは「主張する」「要求する」といった強い自己主張の意味合いがあります。
 
@@ -105,14 +109,14 @@ statingは客観的・中立的に「述べる」ニュアンスが強く、clai
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce/)：発表する、告知する
-- [declare](/word/declare/)：宣言する、公表する
+- [announce](/announce)：発表する、告知する
+- [declare](/declare)：宣言する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention/)：言及する
-- [explain](/word/explain/)：説明する
+- [mention](/mention)：言及する
+- [explain](/explain)：説明する
 
-<!-- cvid: aid46_bid31 -->
+<!-- cvid: aid03_bid14 -->

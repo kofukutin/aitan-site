@@ -88,8 +88,12 @@ TOEICのPart 7（長文読解）で、人物や会社の「印象」について
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7（長文読解）で、人物や会社の「印象」について
 ## 🤔  impact との違いは？
 
 - **impression**：人や物事に対して受ける「印象」や「感想」
-- **[impact](/word/impact/)**：出来事や行動が与える「影響」や「衝撃」
+- **[impact](/impact)**：出来事や行動が与える「影響」や「衝撃」
 
 impressionは主観的な「感じ方」、impactは客観的な「影響の大きさ」を表します。
 
@@ -105,14 +109,14 @@ impressionは主観的な「感じ方」、impactは客観的な「影響の大�
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion/)：意見
-- [perception](/word/perception/)：認識、知覚
+- [opinion](/opinion)：意見
+- [perception](/perception)：認識、知覚
 
 ---
 
 ## 📖 できればこれも
 
-- [influence](/word/influence/)：影響
-- [effect](/word/effect/)：効果、影響
+- [influence](/influence)：影響
+- [effect](/effect)：効果、影響
 
-<!-- cvid: aid01_bid47 -->
+<!-- cvid: aid01_bid32 -->

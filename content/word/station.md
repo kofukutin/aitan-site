@@ -81,15 +81,19 @@ TOEICでは、道案内や施設の説明、会話文で「駅」や「部署」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、道案内や施設の説明、会話文で「駅」や「部署」
 ## 🤔  terminal との違いは？
 
 - **station**：一般的な「駅」や「施設」を指す
-- **[terminal](/word/terminal/)**：主に「終点駅」「ターミナル駅」など大きな拠点を指す
+- **[terminal](/terminal)**：主に「終点駅」「ターミナル駅」など大きな拠点を指す
 
 stationはどの駅にも使えますが、terminalは路線の終点や大規模な乗換拠点に限定されます。
 
@@ -105,14 +109,14 @@ stationはどの駅にも使えますが、terminalは路線の終点や大規�
 
 ## 🧩 あわせて覚えたい
 
-- [platform](/word/platform/)：ホーム（駅の乗降場所）
-- [depot](/word/depot/)：車両基地、倉庫
+- [platform](/platform)：ホーム（駅の乗降場所）
+- [depot](/depot)：車両基地、倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [office](/word/office/)：事務所、オフィス
-- [facility](/word/facility/)：施設、設備
+- [office](/office)：事務所、オフィス
+- [facility](/facility)：施設、設備
 
-<!-- cvid: aid06_bid37 -->
+<!-- cvid: aid33_bid22 -->

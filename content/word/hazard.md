@@ -81,15 +81,19 @@ TOEICでは安全指示や注意喚起、環境・労働関連の説明文でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは安全指示や注意喚起、環境・労働関連の説明文でよ
 ## 🤔  risk との違いは？
 
 - **hazard**：実際に危険を引き起こす要因や物そのもの
-- **[risk](/word/risk/)**：危険が起こる「可能性」や「確率」
+- **[risk](/risk)**：危険が起こる「可能性」や「確率」
 
 hazardは「危険の原因」、riskは「危険が起こる確率や度合い」を指し、hazardの方が具体的な対象を表します。
 
@@ -105,14 +109,14 @@ hazardは「危険の原因」、riskは「危険が起こる確率や度合い�
 
 ## 🧩 あわせて覚えたい
 
-- [danger](/word/danger/)：危険（差し迫った危険や脅威）
-- [precaution](/word/precaution/)：予防策、用心
+- [danger](/danger)：危険（差し迫った危険や脅威）
+- [precaution](/precaution)：予防策、用心
 
 ---
 
 ## 📖 できればこれも
 
-- [threat](/word/threat/)：脅威、危険の兆し
-- [accident](/word/accident/)：事故、思いがけない出来事
+- [threat](/threat)：脅威、危険の兆し
+- [accident](/accident)：事故、思いがけない出来事
 
-<!-- cvid: aid39_bid10 -->
+<!-- cvid: aid16_bid38 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【leading】の意味・使い方・例文 ― mainとの違い【TOEIC英単語】"
 description: "leadingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmainとの違いもわかりやすく学べます。"
 word: "leading"
@@ -81,15 +81,19 @@ TOEICでは企業紹介や業界説明などで「leading company」「leading b
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは企業紹介や業界説明などで「leading company」「leading b
 ## 🤔  main との違いは？
 
 - **leading**：業界や分野でトップに立つ、最も影響力がある
-- **[main](/word/main/)**：主な、中心となる、最も重要な
+- **[main](/main)**：主な、中心となる、最も重要な
 
 **leading**は「トップ」「第一線」というニュアンスが強く、**main**は「中心」「主な」という意味で、必ずしもトップである必要はありません。
 
@@ -105,14 +109,14 @@ TOEICでは企業紹介や業界説明などで「leading company」「leading b
 
 ## 🧩 あわせて覚えたい
 
-- [prominent](/word/prominent/)：目立った、著名な
-- [minor](/word/minor/)：小さい、重要でない
+- [prominent](/prominent)：目立った、著名な
+- [minor](/minor)：小さい、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/word/outstanding/)：傑出した、際立った
-- [primary](/word/primary/)：第一の、主要な
+- [outstanding](/outstanding)：傑出した、際立った
+- [primary](/primary)：第一の、主要な
 
-<!-- cvid: aid32_bid09 -->
+<!-- cvid: aid49_bid28 -->

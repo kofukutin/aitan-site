@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や案内文の補足資料、健康や栄養に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や案内文の補足資料、健康や栄養に
 ## 🤔  complement との違いは？
 
 - **supplement**：足りない部分を「補う」ために追加するもの
-- **[complement](/word/complement/)**：何かを「完全にする」「引き立てる」ために組み合わせるもの
+- **[complement](/complement)**：何かを「完全にする」「引き立てる」ために組み合わせるもの
 
 supplementは不足を埋めるニュアンス、complementは相性よく組み合わせて全体を引き立てるニュアンスです。
 
@@ -105,14 +109,14 @@ supplementは不足を埋めるニュアンス、complementは相性よく組み
 
 ## 🧩 あわせて覚えたい
 
-- [addition](/word/addition/)：追加、加えること
-- [substitute](/word/substitute/)：代用品、代わりのもの
+- [addition](/addition)：追加、加えること
+- [substitute](/substitute)：代用品、代わりのもの
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [manual](/word/manual/)：手引き、マニュアル
+- [summary](/summary)：要約
+- [manual](/manual)：手引き、マニュアル
 
-<!-- cvid: aid07_bid32 -->
+<!-- cvid: aid26_bid47 -->

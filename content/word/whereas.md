@@ -77,15 +77,19 @@ TOEICでは主にPart 7の説明文や契約書、比較文で登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 7の説明文や契約書、比較文で登場します。
 ## 🤔  while との違いは？
 
 - **whereas**：2つの事実や状況を対比して述べるときに使う、ややフォーマルな接続詞
-- **[while](/word/while/)**：対比だけでなく「～の間」という時間的意味も持つ、より幅広い使い方ができる接続詞
+- **[while](/while)**：対比だけでなく「～の間」という時間的意味も持つ、より幅広い使い方ができる接続詞
 
 whereasは主にフォーマルな対比に使い、whileは時間や対比の両方に使える点が異なります。
 
@@ -101,14 +105,14 @@ whereasは主にフォーマルな対比に使い、whileは時間や対比の�
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however/)：しかしながら（逆接の副詞）
-- [although](/word/although/)：～だけれども（譲歩の接続詞）
+- [however](/however)：しかしながら（逆接の副詞）
+- [although](/although)：～だけれども（譲歩の接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに（結果を表す副詞）
-- [since](/word/since/)：～なので、～以来（理由・時を表す接続詞）
+- [therefore](/therefore)：それゆえに（結果を表す副詞）
+- [since](/since)：～なので、～以来（理由・時を表す接続詞）
 
-<!-- cvid: aid28_bid06 -->
+<!-- cvid: aid31_bid03 -->

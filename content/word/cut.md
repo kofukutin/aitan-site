@@ -81,15 +81,19 @@ cutはTOEICの会話や説明文で「費用を削減する」「何かを切る
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cutはTOEICの会話や説明文で「費用を削減する」「何かを切る
 ## 🤔  trim との違いは？
 
 - **cut**：物を切る、または大きく削減するニュアンス
-- **[trim](/word/trim/)**：余分な部分を少しだけ整える、きれいに切りそろえるニュアンス
+- **[trim](/trim)**：余分な部分を少しだけ整える、きれいに切りそろえるニュアンス
 
 cutは「大胆に切る・減らす」イメージ、trimは「細かく整える」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ cutは「大胆に切る・減らす」イメージ、trimは「細かく整え�
 
 ## 🧩 あわせて覚えたい
 
-- [reduce](/word/reduce/)：減らす、縮小する
-- [slice](/word/slice/)：薄く切る、スライスする
+- [reduce](/reduce)：減らす、縮小する
+- [slice](/slice)：薄く切る、スライスする
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break/)：壊す、割る
-- [open](/word/open/)：開ける、開く
+- [break](/break)：壊す、割る
+- [open](/open)：開ける、開く
 
-<!-- cvid: aid39_bid11 -->
+<!-- cvid: aid48_bid12 -->

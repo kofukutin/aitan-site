@@ -80,15 +80,19 @@ TOEICでは、事務用品やオフィスの話題で「ink」が登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、事務用品やオフィスの話題で「ink」が登場するこ
 ## 🤔  dye との違いは？
 
 - **ink**：主にペンやプリンターなどで書くための液体。
-- **[dye](/word/dye/)**：布や髪などを染めるための染料。
+- **[dye](/dye)**：布や髪などを染めるための染料。
 
 「ink」は書く・印刷する用途、「dye」は染める用途で使い分けます。
 
@@ -104,14 +108,14 @@ TOEICでは、事務用品やオフィスの話題で「ink」が登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [paint](/word/paint/)：絵の具、ペンキ
-- [pen](/word/pen/)：ペン
+- [paint](/paint)：絵の具、ペンキ
+- [pen](/pen)：ペン
 
 ---
 
 ## 📖 できればこれも
 
-- [paper](/word/paper/)：紙
-- [print](/word/print/)：印刷する
+- [paper](/paper)：紙
+- [print](/print)：印刷する
 
-<!-- cvid: aid18_bid14 -->
+<!-- cvid: aid33_bid45 -->

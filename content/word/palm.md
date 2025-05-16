@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「手のひらに何かを持つ」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「手のひらに何かを持つ」な
 ## 🤔  hand との違いは？
 
 - **palm**：手のひら（指と手首の間の平らな部分）を指す
-- **[hand](/word/hand/)**：手全体（指・手のひら・手首を含む）を指す
+- **[hand](/hand)**：手全体（指・手のひら・手首を含む）を指す
 
 palmは手のひら部分だけを限定して表現し、handは手全体を指すため、細かい部位を区別したいときに使い分けます。
 
@@ -105,14 +109,14 @@ palmは手のひら部分だけを限定して表現し、handは手全体を指
 
 ## 🧩 あわせて覚えたい
 
-- [finger](/word/finger/)：指
-- [wrist](/word/wrist/)：手首
+- [finger](/finger)：指
+- [wrist](/wrist)：手首
 
 ---
 
 ## 📖 できればこれも
 
-- [thumb](/word/thumb/)：親指
-- [grip](/word/grip/)：握る、握力
+- [thumb](/thumb)：親指
+- [grip](/grip)：握る、握力
 
-<!-- cvid: aid18_bid49 -->
+<!-- cvid: aid41_bid07 -->

@@ -81,15 +81,19 @@ requiringは、主に動詞の形（現在分詞や進行形）を問う文法�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ requiringは、主に動詞の形（現在分詞や進行形）を問う文法�
 ## 🤔  demanding との違いは？
 
 - **requiring**：何かを必要とする、求めている状態を表す動詞の進行形。
-- **[demanding](/word/demanding/)**：要求が厳しい、負担が大きいという意味の形容詞。
+- **[demanding](/demanding)**：要求が厳しい、負担が大きいという意味の形容詞。
 
 requiringは「必要としている」という事実を表し、demandingは「大変さ・厳しさ」に焦点を当てて使います。
 
@@ -105,14 +109,14 @@ requiringは「必要としている」という事実を表し、demandingは�
 
 ## 🧩 あわせて覚えたい
 
-- [request](/word/request/)：依頼する、要請する
-- [necessitate](/word/necessitate/)：必要とする、不可欠にする
+- [request](/request)：依頼する、要請する
+- [necessitate](/necessitate)：必要とする、不可欠にする
 
 ---
 
 ## 📖 できればこれも
 
-- [obligate](/word/obligate/)：義務付ける
-- [involve](/word/involve/)：含む、関与させる
+- [obligate](/obligate)：義務付ける
+- [involve](/involve)：含む、関与させる
 
-<!-- cvid: aid40_bid09 -->
+<!-- cvid: aid27_bid27 -->

@@ -81,15 +81,19 @@ IT関連やビジネス文書の説明文で、機能やサービスの状態を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やビジネス文書の説明文で、機能やサービスの状態を
 ## 🤔  allowed との違いは？
 
 - **enabled**：機能やサービスが「有効化されている」「使える状態になっている」
-- **[allowed](/word/allowed/)**：行為やアクセスが「許可されている」
+- **[allowed](/allowed)**：行為やアクセスが「許可されている」
 
 enabledは設定や機能の状態、allowedは人や行為の許可に使う点が異なります。
 
@@ -105,14 +109,14 @@ enabledは設定や機能の状態、allowedは人や行為の許可に使う点
 
 ## 🧩 あわせて覚えたい
 
-- [disabled](/word/disabled/)：無効になっている
-- [activate](/word/activate/)：有効化する
+- [disabled](/disabled)：無効になっている
+- [activate](/activate)：有効化する
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用可能な
-- [accessible](/word/accessible/)：アクセスできる
+- [available](/available)：利用可能な
+- [accessible](/accessible)：アクセスできる
 
-<!-- cvid: aid02_bid40 -->
+<!-- cvid: aid33_bid07 -->

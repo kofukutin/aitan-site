@@ -80,15 +80,19 @@ TOEICでは宝石や色に関する説明文や広告文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは宝石や色に関する説明文や広告文で登場することが
 ## 🤔  ruby との違いは？
 
 - **sapphire**：主に青色の宝石「サファイア」を指す。
-- **[ruby](/word/ruby/)**：赤色の宝石「ルビー」を指す。
+- **[ruby](/ruby)**：赤色の宝石「ルビー」を指す。
 
 sapphireは青系、rubyは赤系の宝石で、色と鉱物の違いが明確です。
 
@@ -104,14 +108,14 @@ sapphireは青系、rubyは赤系の宝石で、色と鉱物の違いが明確�
 
 ## 🧩 あわせて覚えたい
 
-- [emerald](/word/emerald/)：緑色の宝石、エメラルド
-- [gem](/word/gem/)：宝石、貴石
+- [emerald](/emerald)：緑色の宝石、エメラルド
+- [gem](/gem)：宝石、貴石
 
 ---
 
 ## 📖 できればこれも
 
-- [diamond](/word/diamond/)：ダイヤモンド、透明な宝石
-- [crystal](/word/crystal/)：水晶、結晶
+- [diamond](/diamond)：ダイヤモンド、透明な宝石
+- [crystal](/crystal)：水晶、結晶
 
-<!-- cvid: aid25_bid22 -->
+<!-- cvid: aid28_bid36 -->

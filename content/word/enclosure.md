@@ -81,15 +81,19 @@ TOEICではビジネス文書や手紙の同封物を指す語として頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や手紙の同封物を指す語として頻出し
 ## 🤔  attachment との違いは？
 
 - **enclosure**：手紙や書類に「同封」される物、または物理的に囲まれた場所
-- **[attachment](/word/attachment/)**：メールなどに「添付」されるファイルや資料
+- **[attachment](/attachment)**：メールなどに「添付」されるファイルや資料
 
 enclosureは紙の手紙や物理的な同封物に使い、attachmentは主に電子メールの添付ファイルに使います。
 
@@ -105,14 +109,14 @@ enclosureは紙の手紙や物理的な同封物に使い、attachmentは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [insert](/word/insert/)：挿入物、差し込み
-- [container](/word/container/)：容器、入れ物
+- [insert](/insert)：挿入物、差し込み
+- [container](/container)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類、文書
-- [package](/word/package/)：小包、パッケージ
+- [document](/document)：書類、文書
+- [package](/package)：小包、パッケージ
 
-<!-- cvid: aid47_bid13 -->
+<!-- cvid: aid25_bid42 -->

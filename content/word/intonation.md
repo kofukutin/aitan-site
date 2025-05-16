@@ -81,15 +81,19 @@ TOEICでは、英語学習や発音に関する説明文や会話文で「intona
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、英語学習や発音に関する説明文や会話文で「intona
 ## 🤔  accent との違いは？
 
 - **intonation**：話すときの声の上がり下がりや抑揚
-- **[accent](/word/accent/)**：発音のなまりや特有の音
+- **[accent](/accent)**：発音のなまりや特有の音
 
 intonationは「声の高低やリズム」に注目し、accentは「地域や国ごとの発音の特徴」を指します。
 
@@ -105,14 +109,14 @@ intonationは「声の高低やリズム」に注目し、accentは「地域や�
 
 ## 🧩 あわせて覚えたい
 
-- [pronunciation](/word/pronunciation/)：発音
-- [stress](/word/stress/)：（単語や文の）強勢
+- [pronunciation](/pronunciation)：発音
+- [stress](/stress)：（単語や文の）強勢
 
 ---
 
 ## 📖 できればこれも
 
-- [pronounce](/word/pronounce/)：発音する
-- [expression](/word/expression/)：表現
+- [pronounce](/pronounce)：発音する
+- [expression](/expression)：表現
 
-<!-- cvid: aid03_bid18 -->
+<!-- cvid: aid15_bid05 -->

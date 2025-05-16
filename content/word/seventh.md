@@ -81,15 +81,19 @@ TOEICでは日付や順位、手順を説明する文脈で序数として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付や順位、手順を説明する文脈で序数として出題
 ## 🤔  seventhly との違いは？
 
 - **seventh**：順序や順位を表す「7番目の」「第7の」という意味の形容詞・名詞。
-- **[seventhly](/word/seventhly/)**：列挙や説明で「第7に」と使う副詞。
+- **[seventhly](/seventhly)**：列挙や説明で「第7に」と使う副詞。
 
 seventhは物や人の順番を表し、seventhlyは説明や手順を列挙する際の「第7に」として使います。
 
@@ -105,14 +109,14 @@ seventhは物や人の順番を表し、seventhlyは説明や手順を列挙す�
 
 ## 🧩 あわせて覚えたい
 
-- [sixth](/word/sixth/)：6番目の
-- [eighth](/word/eighth/)：8番目の
+- [sixth](/sixth)：6番目の
+- [eighth](/eighth)：8番目の
 
 ---
 
 ## 📖 できればこれも
 
-- [tenth](/word/tenth/)：10番目の
-- [twelfth](/word/twelfth/)：12番目の
+- [tenth](/tenth)：10番目の
+- [twelfth](/twelfth)：12番目の
 
-<!-- cvid: aid32_bid05 -->
+<!-- cvid: aid09_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは科学技術やエネルギー関連の記事や説明文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術やエネルギー関連の記事や説明文で見かけ
 ## 🤔  nuclear との違いは？
 
 - **atomic**：原子そのものや原子レベルの性質に関する
-- **[nuclear](/word/nuclear/)**：原子核や核エネルギー、核兵器など「核」に関する
+- **[nuclear](/nuclear)**：原子核や核エネルギー、核兵器など「核」に関する
 
 atomicは「原子」全体に関する表現、nuclearは「原子核」や「核エネルギー」に特化した表現です。
 
@@ -105,14 +109,14 @@ atomicは「原子」全体に関する表現、nuclearは「原子核」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [molecular](/word/molecular/)：分子の
-- [elementary](/word/elementary/)：基本的な、初歩の
+- [molecular](/molecular)：分子の
+- [elementary](/elementary)：基本的な、初歩の
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical/)：化学の、化学的な
-- [physical](/word/physical/)：物理的な
+- [chemical](/chemical)：化学の、化学的な
+- [physical](/physical)：物理的な
 
-<!-- cvid: aid23_bid16 -->
+<!-- cvid: aid29_bid44 -->

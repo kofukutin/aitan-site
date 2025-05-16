@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cooked】の意味・使い方・例文 ― bakedとの違い【TOEIC英単語】"
 description: "cookedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbakedとの違いもわかりやすく学べます。"
 word: "cooked"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、料理や食材の状態を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、料理や食材の状態を説明する
 ## 🤔  baked との違いは？
 
 - **cooked**：加熱調理された全般（焼く・煮る・蒸すなどすべて含む）
-- **[baked](/word/baked/)**：オーブンなどで「焼いた」調理に限定
+- **[baked](/baked)**：オーブンなどで「焼いた」調理に限定
 
 「cooked」は加熱調理全般を指し、「baked」は特にオーブンなどで焼いた場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは主に写真描写問題で、料理や食材の状態を説明する
 
 ## 🧩 あわせて覚えたい
 
-- [raw](/word/raw/)：生の、未調理の
-- [boiled](/word/boiled/)：ゆでた、煮た
+- [raw](/raw)：生の、未調理の
+- [boiled](/boiled)：ゆでた、煮た
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/word/fresh/)：新鮮な
-- [grilled](/word/grilled/)：焼いた（グリルした）
+- [fresh](/fresh)：新鮮な
+- [grilled](/grilled)：焼いた（グリルした）
 
-<!-- cvid: aid06_bid05 -->
+<!-- cvid: aid03_bid22 -->

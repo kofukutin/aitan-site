@@ -81,15 +81,19 @@ ITやビジネスの文脈で「現状の記録」や「概要」を表す語と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの文脈で「現状の記録」や「概要」を表す語と
 ## 🤔  screenshot との違いは？
 
 - **snapshot**：カメラやシステムで「ある瞬間の状態や概要」を記録したもの全般。
-- **[screenshot](/word/screenshot/)**：パソコンやスマホ画面の「スクリーンショット（画面の画像）」。
+- **[screenshot](/screenshot)**：パソコンやスマホ画面の「スクリーンショット（画面の画像）」。
 
 snapshotは写真やデータの状態など幅広く使われ、screenshotは「画面の画像」に限定されます。
 
@@ -105,14 +109,14 @@ snapshotは写真やデータの状態など幅広く使われ、screenshotは�
 
 ## 🧩 あわせて覚えたい
 
-- [photo](/word/photo/)：写真
-- [capture](/word/capture/)：捕らえる、記録する
+- [photo](/photo)：写真
+- [capture](/capture)：捕らえる、記録する
 
 ---
 
 ## 📖 できればこれも
 
-- [image](/word/image/)：画像、イメージ
-- [record](/word/record/)：記録、記録する
+- [image](/image)：画像、イメージ
+- [record](/record)：記録、記録する
 
-<!-- cvid: aid38_bid34 -->
+<!-- cvid: aid16_bid32 -->

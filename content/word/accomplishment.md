@@ -81,15 +81,19 @@ TOEICでは、accomplishmentは成果や業績を問う文脈で名詞として�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、accomplishmentは成果や業績を問う文脈で名詞として�
 ## 🤔  achievement との違いは？
 
 - **accomplishment**：努力やスキルによって成し遂げた成果や業績を強調
-- **[achievement](/word/achievement/)**：困難を乗り越えて得た達成や偉業を強調
+- **[achievement](/achievement)**：困難を乗り越えて得た達成や偉業を強調
 
 accomplishmentは個人のスキルや日常的な成果にも使われ、achievementはより大きな目標や困難の克服に使われる傾向があります。
 
@@ -105,14 +109,14 @@ accomplishmentは個人のスキルや日常的な成果にも使われ、achiev
 
 ## 🧩 あわせて覚えたい
 
-- [success](/word/success/)：成功
-- [failure](/word/failure/)：失敗
+- [success](/success)：成功
+- [failure](/failure)：失敗
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal/)：目標
-- [progress](/word/progress/)：進歩
+- [goal](/goal)：目標
+- [progress](/progress)：進歩
 
-<!-- cvid: aid45_bid39 -->
+<!-- cvid: aid34_bid13 -->

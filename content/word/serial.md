@@ -81,15 +81,19 @@ ITやビジネス文書、製品マニュアルなどで「連続した」「順
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、製品マニュアルなどで「連続した」「順
 ## 🤔  sequence との違いは？
 
 - **serial**：順番に続く、連続した（特に「順序」や「連載」など、順次性を強調）
-- **[sequence](/word/sequence/)**：一連の流れ、順序（出来事や要素の「並び」自体を指す）
+- **[sequence](/sequence)**：一連の流れ、順序（出来事や要素の「並び」自体を指す）
 
 **serial**は「順番に続く」「連載」など、順次的な性質や形式を強調します。**sequence**は「並び」や「順序」そのものを指し、必ずしも連載や形式的な連続性を含みません。
 
@@ -105,14 +109,14 @@ ITやビジネス文書、製品マニュアルなどで「連続した」「順
 
 ## 🧩 あわせて覚えたい
 
-- [consecutive](/word/consecutive/)：連続した、途切れなく続く
-- [parallel](/word/parallel/)：並行した、同時進行の
+- [consecutive](/consecutive)：連続した、途切れなく続く
+- [parallel](/parallel)：並行した、同時進行の
 
 ---
 
 ## 📖 できればこれも
 
-- [consecutive](/word/consecutive/)：連続した
-- [interval](/word/interval/)：間隔、インターバル
+- [consecutive](/consecutive)：連続した
+- [interval](/interval)：間隔、インターバル
 
-<!-- cvid: aid02_bid24 -->
+<!-- cvid: aid34_bid03 -->

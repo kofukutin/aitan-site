@@ -81,15 +81,19 @@ TOEICでは、勤務条件や給与に関する長文やEメール文面で「ov
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、勤務条件や給与に関する長文やEメール文面で「ov
 ## 🤔  extra との違いは？
 
 - **overtime**：決められた勤務時間を超えて働くことや、その時間・手当を指す
-- **[extra](/word/extra/)**：追加の、余分の、という広い意味で使われる
+- **[extra](/extra)**：追加の、余分の、という広い意味で使われる
 
 overtimeは「労働時間」に特化した表現ですが、extraは「追加の」という意味で幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ overtimeは「労働時間」に特化した表現ですが、extraは「追加�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/word/bonus/)：賞与、ボーナス
-- [shift](/word/shift/)：勤務時間、シフト
+- [bonus](/bonus)：賞与、ボーナス
+- [shift](/shift)：勤務時間、シフト
 
 ---
 
 ## 📖 できればこれも
 
-- [salary](/word/salary/)：給料
-- [schedule](/word/schedule/)：予定、スケジュール
+- [salary](/salary)：給料
+- [schedule](/schedule)：予定、スケジュール
 
-<!-- cvid: aid28_bid48 -->
+<!-- cvid: aid08_bid13 -->

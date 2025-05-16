@@ -81,15 +81,19 @@ The conference will be held at the historic castle downtown.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The conference will be held at the historic castle downtown.
 ## 🤔  palace との違いは？
 
 - **castle**：防御や権力の象徴として建てられた「城」や「要塞」
-- **[palace](/word/palace/)**：王族や高官が住む「宮殿」、主に豪華さや居住性を重視
+- **[palace](/palace)**：王族や高官が住む「宮殿」、主に豪華さや居住性を重視
 
 castleは防御目的の堅牢な建物、palaceは豪華さや居住性を重視した建物で、用途や雰囲気が異なります。
 
@@ -105,14 +109,14 @@ castleは防御目的の堅牢な建物、palaceは豪華さや居住性を重�
 
 ## 🧩 あわせて覚えたい
 
-- [fortress](/word/fortress/)：要塞、防御のための堅固な建物
-- [tower](/word/tower/)：塔、高くそびえる建物
+- [fortress](/fortress)：要塞、防御のための堅固な建物
+- [tower](/tower)：塔、高くそびえる建物
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/word/bridge/)：橋
-- [museum](/word/museum/)：博物館
+- [bridge](/bridge)：橋
+- [museum](/museum)：博物館
 
-<!-- cvid: aid18_bid05 -->
+<!-- cvid: aid12_bid20 -->

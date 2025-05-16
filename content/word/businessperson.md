@@ -81,15 +81,19 @@ TOEICの長文読解パートで、職業や役職を説明する文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、職業や役職を説明する文脈でよく
 ## 🤔  entrepreneur との違いは？
 
 - **businessperson**：ビジネス全般に携わる人、実業家
-- **[entrepreneur](/word/entrepreneur/)**：起業家、新しい事業を始める人
+- **[entrepreneur](/entrepreneur)**：起業家、新しい事業を始める人
 
 businesspersonは幅広くビジネスに関わる人を指し、entrepreneurは特に新しいビジネスを立ち上げる人を強調します。
 
@@ -105,14 +109,14 @@ businesspersonは幅広くビジネスに関わる人を指し、entrepreneurは
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [employee](/word/employee/)：従業員
+- [manager](/manager)：管理職、マネージャー
+- [employee](/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [company](/word/company/)：会社
+- [client](/client)：顧客、取引先
+- [company](/company)：会社
 
-<!-- cvid: aid35_bid47 -->
+<!-- cvid: aid07_bid19 -->

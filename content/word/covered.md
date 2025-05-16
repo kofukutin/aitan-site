@@ -81,15 +81,19 @@ TOEICでは、保険や費用、議題などが「カバーされているかど
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、保険や費用、議題などが「カバーされているかど
 ## 🤔  included との違いは？
 
 - **covered**：覆われている、補償・範囲に含まれている（特に保険や費用など）
-- **[included](/word/included/)**：単に「含まれている」（リストや範囲の一部）
+- **[included](/included)**：単に「含まれている」（リストや範囲の一部）
 
 coveredは「守られている」「補償されている」など、より積極的な保護や対応のニュアンスがありますが、includedは単に「リストや範囲に入っている」だけです。
 
@@ -105,14 +109,14 @@ coveredは「守られている」「補償されている」など、より積�
 
 ## 🧩 あわせて覚えたい
 
-- [excluded](/word/excluded/)：除外された
-- [protected](/word/protected/)：保護された
+- [excluded](/excluded)：除外された
+- [protected](/protected)：保護された
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる
-- [required](/word/required/)：必要な
+- [available](/available)：利用できる
+- [required](/required)：必要な
 
-<!-- cvid: aid22_bid18 -->
+<!-- cvid: aid23_bid40 -->

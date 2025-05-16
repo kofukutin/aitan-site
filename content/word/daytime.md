@@ -81,7 +81,7 @@ TOEICでは、営業時間やスケジュール、活動時間帯の説明など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+この流れを止めないで👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、営業時間やスケジュール、活動時間帯の説明など
 
 <div class="info-center">
 ＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、営業時間やスケジュール、活動時間帯の説明など
 ## 🤔  daylight との違いは？
 
 - **daytime**：昼間という「時間帯」を指す
-- **[daylight](/word/daylight/)**：太陽の「光」や「明るさ」を指す
+- **[daylight](/daylight)**：太陽の「光」や「明るさ」を指す
 
 「daytime」は時間帯、「daylight」は光そのものを表すので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ TOEICでは、営業時間やスケジュール、活動時間帯の説明など
 
 ## 🧩 あわせて覚えたい
 
-- [nighttime](/word/nighttime/)：夜間、夜の時間帯
-- [afternoon](/word/afternoon/)：午後
+- [nighttime](/nighttime)：夜間、夜の時間帯
+- [afternoon](/afternoon)：午後
 
 ---
 
 ## 📖 できればこれも
 
-- [evening](/word/evening/)：夕方、晩
-- [morning](/word/morning/)：朝
+- [evening](/evening)：夕方、晩
+- [morning](/morning)：朝
 
-<!-- cvid: aid15_bid46 -->
+<!-- cvid: aid36_bid46 -->

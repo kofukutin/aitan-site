@@ -81,15 +81,19 @@ TOEICでは、歴史的背景や過去の出来事に関する説明文や記事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、歴史的背景や過去の出来事に関する説明文や記事
 ## 🤔  historic との違いは？
 
 - **historical**：歴史に関する、歴史上の
-- **[historic](/word/historic/)**：歴史的に重要な、歴史に残る
+- **[historic](/historic)**：歴史的に重要な、歴史に残る
 
 historicalは「歴史に関係する一般的な事柄」に使い、historicは「歴史的に重要な出来事や物」に使います。
 
@@ -105,14 +109,14 @@ historicalは「歴史に関係する一般的な事柄」に使い、historic�
 
 ## 🧩 あわせて覚えたい
 
-- [ancient](/word/ancient/)：古代の、昔の
-- [modern](/word/modern/)：現代の、近代の
+- [ancient](/ancient)：古代の、昔の
+- [modern](/modern)：現代の、近代の
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural/)：文化の、文化的な
-- [traditional](/word/traditional/)：伝統的な
+- [cultural](/cultural)：文化の、文化的な
+- [traditional](/traditional)：伝統的な
 
-<!-- cvid: aid14_bid04 -->
+<!-- cvid: aid22_bid30 -->

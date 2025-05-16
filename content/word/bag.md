@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bag】の意味・使い方・例文 ― backpackとの違い【TOEIC英単語】"
 description: "bagの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbackpackとの違いもわかりやすく学べます。"
 word: "bag"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「かばんを持つ」「袋を運ぶ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「かばんを持つ」「袋を運ぶ
 ## 🤔  backpack との違いは？
 
 - **bag**：袋やかばん全般を指す幅広い言葉
-- **[backpack](/word/backpack/)**：背負うタイプのリュックサック
+- **[backpack](/backpack)**：背負うタイプのリュックサック
 
 bagは「袋」「かばん」全体を指し、backpackは特に背中に背負うリュック型のかばんを指します。
 
@@ -105,14 +109,14 @@ bagは「袋」「かばん」全体を指し、backpackは特に背中に背負
 
 ## 🧩 あわせて覚えたい
 
-- [case](/word/case/)：ケース、入れ物
-- [suitcase](/word/suitcase/)：スーツケース、旅行かばん
+- [case](/case)：ケース、入れ物
+- [suitcase](/suitcase)：スーツケース、旅行かばん
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box/)：箱
-- [pocket](/word/pocket/)：ポケット
+- [box](/box)：箱
+- [pocket](/pocket)：ポケット
 
-<!-- cvid: aid35_bid23 -->
+<!-- cvid: aid09_bid48 -->

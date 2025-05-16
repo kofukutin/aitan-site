@@ -81,15 +81,19 @@ shakeは会話や説明文で「振る」「握手する」などの意味で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ shakeは会話や説明文で「振る」「握手する」などの意味で出
 ## 🤔  swing との違いは？
 
 - **shake**：素早く前後・上下に振る、または手を握る
-- **[swing](/word/swing/)**：ゆっくり大きく振る、またはぶら下がって揺れる
+- **[swing](/swing)**：ゆっくり大きく振る、またはぶら下がって揺れる
 
 shakeは短く速い動き、swingはゆっくり大きな動きや振り子のような揺れを表します。
 
@@ -105,14 +109,14 @@ shakeは短く速い動き、swingはゆっくり大きな動きや振り子の�
 
 ## 🧩 あわせて覚えたい
 
-- [tremble](/word/tremble/)：小刻みに震える
-- [nod](/word/nod/)：うなずく
+- [tremble](/tremble)：小刻みに震える
+- [nod](/nod)：うなずく
 
 ---
 
 ## 📖 できればこれも
 
-- [wave](/word/wave/)：手を振る
-- [move](/word/move/)：動かす、動く
+- [wave](/wave)：手を振る
+- [move](/move)：動かす、動く
 
-<!-- cvid: aid28_bid33 -->
+<!-- cvid: aid36_bid10 -->

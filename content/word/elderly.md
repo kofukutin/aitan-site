@@ -88,8 +88,12 @@ TOEICでは、医療や福祉、サービス業の文脈で「elderly」が登�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、医療や福祉、サービス業の文脈で「elderly」が登�
 ## 🤔  senior との違いは？
 
 - **elderly**：やんわりと「高齢の」「年配の」と表現し、丁寧な響きがある
-- **[senior](/word/senior/)**：年齢や地位の上下を表すが、特に「高齢者」や「上級者」の意味で使われる
+- **[senior](/senior)**：年齢や地位の上下を表すが、特に「高齢者」や「上級者」の意味で使われる
 
 elderlyは丁寧で配慮のある表現、seniorは年齢や役職の上下を幅広く指す点が異なります。
 
@@ -105,14 +109,14 @@ elderlyは丁寧で配慮のある表現、seniorは年齢や役職の上下を�
 
 ## 🧩 あわせて覚えたい
 
-- [aged](/word/aged/)：高齢の
-- [youth](/word/youth/)：若者
+- [aged](/aged)：高齢の
+- [youth](/youth)：若者
 
 ---
 
 ## 📖 できればこれも
 
-- [retire](/word/retire/)：退職する
-- [adult](/word/adult/)：大人
+- [retire](/retire)：退職する
+- [adult](/adult)：大人
 
-<!-- cvid: aid28_bid16 -->
+<!-- cvid: aid28_bid06 -->

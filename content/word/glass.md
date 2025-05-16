@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【glass】の意味・使い方・例文 ― cupとの違い【TOEIC英単語】"
 description: "glassの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcupとの違いもわかりやすく学べます。"
 word: "glass"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、コップや窓ガラスなどの物
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid10_bid33" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid33" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、コップや窓ガラスなどの物
 ## 🤔  cup との違いは？
 
 - **glass**：ガラス製のコップやグラス、またはガラス素材そのものを指す
-- **[cup](/word/cup/)**：取っ手付きのカップ（主に陶器やプラスチック製）を指す
+- **[cup](/cup)**：取っ手付きのカップ（主に陶器やプラスチック製）を指す
 
 glassは主にガラス製の飲み物用容器や素材を指し、cupは取っ手付きのカップ（コーヒーカップなど）を指します。
 
@@ -106,14 +110,14 @@ glassは主にガラス製の飲み物用容器や素材を指し、cupは取っ
 
 ## 🧩 あわせて覚えたい
 
-- [bottle](/word/bottle/)：瓶、ボトル
-- [window](/word/window/)：窓
+- [bottle](/bottle)：瓶、ボトル
+- [window](/window)：窓
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate/)：皿
-- [dish](/word/dish/)：料理、皿
+- [plate](/plate)：皿
+- [dish](/dish)：料理、皿
 
-<!-- cvid: aid17_bid11 -->
+<!-- cvid: aid10_bid33 -->

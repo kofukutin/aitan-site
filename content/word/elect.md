@@ -81,15 +81,19 @@ TOEICでは主にビジネスや組織内での役職選出に関連する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや組織内での役職選出に関連する文脈
 ## 🤔  select との違いは？
 
 - **elect**：投票や正式な手続きで人を選ぶときに使うフォーマルな表現
-- **[select](/word/select/)**：広く「選ぶ」、物や人どちらにも使え、投票などの意味は含まない
+- **[select](/select)**：広く「選ぶ」、物や人どちらにも使え、投票などの意味は含まない
 
 electは「選挙など公式な方法で人を選ぶ」場合に限定され、selectは「自由に選ぶ」一般的な動作に使います。
 
@@ -105,14 +109,14 @@ electは「選挙など公式な方法で人を選ぶ」場合に限定され、
 
 ## 🧩 あわせて覚えたい
 
-- [appoint](/word/appoint/)：任命する
-- [vote](/word/vote/)：投票する
+- [appoint](/appoint)：任命する
+- [vote](/vote)：投票する
 
 ---
 
 ## 📖 できればこれも
 
-- [nominate](/word/nominate/)：指名する
-- [choose](/word/choose/)：選ぶ
+- [nominate](/nominate)：指名する
+- [choose](/choose)：選ぶ
 
-<!-- cvid: aid34_bid42 -->
+<!-- cvid: aid26_bid20 -->

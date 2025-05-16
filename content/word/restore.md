@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「データを復元する」「サー�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「データを復元する」「サー�
 ## 🤔  recover との違いは？
 
 - **restore**：元の状態に「戻す」「修復する」ことに重点がある
-- **[recover](/word/recover/)**：失ったものを「取り戻す」「回復する」ことに重点がある
+- **[recover](/recover)**：失ったものを「取り戻す」「回復する」ことに重点がある
 
 restoreは「元通りにする」「修復する」ニュアンスが強く、recoverは「失ったものを再び得る」「健康やデータを回復する」場面で使われます。
 
@@ -105,14 +109,14 @@ restoreは「元通りにする」「修復する」ニュアンスが強く、r
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/word/repair/)：修理する、直す
-- [replace](/word/replace/)：取り替える、交換する
+- [repair](/repair)：修理する、直す
+- [replace](/replace)：取り替える、交換する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新する
-- [maintain](/word/maintain/)：維持する、保守する
+- [update](/update)：更新する
+- [maintain](/maintain)：維持する、保守する
 
-<!-- cvid: aid08_bid22 -->
+<!-- cvid: aid06_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは、家族や職場の年齢比較、自己紹介などでよく使わ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、家族や職場の年齢比較、自己紹介などでよく使わ
 ## 🤔  junior との違いは？
 
 - **younger**：年齢が「より若い」「年下の」という意味で、主に家族や人同士の年齢比較に使う。
-- **[junior](/word/junior/)**：年齢や地位が「下位」「後輩」の意味で、職場や学校などフォーマルな場面で使う。
+- **[junior](/junior)**：年齢や地位が「下位」「後輩」の意味で、職場や学校などフォーマルな場面で使う。
 
 youngerは単純な年齢差に使い、juniorは地位や学年などの上下関係にも使われます。
 
@@ -105,14 +109,14 @@ youngerは単純な年齢差に使い、juniorは地位や学年などの上下�
 
 ## 🧩 あわせて覚えたい
 
-- [elder](/word/elder/)：年上の（主に家族内で使うフォーマルな表現）
-- [older](/word/older/)：より年上の、年長の
+- [elder](/elder)：年上の（主に家族内で使うフォーマルな表現）
+- [older](/older)：より年上の、年長の
 
 ---
 
 ## 📖 できればこれも
 
-- [senior](/word/senior/)：年上の、上級の
-- [old](/word/old/)：年をとった、古い
+- [senior](/senior)：年上の、上級の
+- [old](/old)：年をとった、古い
 
-<!-- cvid: aid20_bid09 -->
+<!-- cvid: aid41_bid01 -->

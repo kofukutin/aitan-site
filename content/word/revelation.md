@@ -81,15 +81,19 @@ TOEICでは主に記事やレポート、ビジネス文書の中で「新事実
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やレポート、ビジネス文書の中で「新事実
 ## 🤔  discovery との違いは？
 
 - **revelation**：今まで隠されていた重要な事実や情報が突然明らかになること。驚きや衝撃を伴うことが多い。
-- **[discovery](/word/discovery/)**：新しいものや事実を発見すること。科学的・探究的なニュアンスが強い。
+- **[discovery](/discovery)**：新しいものや事実を発見すること。科学的・探究的なニュアンスが強い。
 
 revelationは「意外性」や「衝撃」を含み、discoveryは「探して見つける」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ revelationは「意外性」や「衝撃」を含み、discoveryは「探して�
 
 ## 🧩 あわせて覚えたい
 
-- [disclosure](/word/disclosure/)：開示、暴露
-- [announcement](/word/announcement/)：発表、告知
+- [disclosure](/disclosure)：開示、暴露
+- [announcement](/announcement)：発表、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [insight](/word/insight/)：洞察、見識
-- [exposure](/word/exposure/)：暴露、さらすこと
+- [insight](/insight)：洞察、見識
+- [exposure](/exposure)：暴露、さらすこと
 
-<!-- cvid: aid37_bid40 -->
+<!-- cvid: aid30_bid05 -->

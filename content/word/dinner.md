@@ -82,15 +82,19 @@ TOEICではレストランやホテル、日常会話のシーンで「dinner」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではレストランやホテル、日常会話のシーンで「dinner」
 ## 🤔  supper との違いは？
 
 - **dinner**：1日の主な食事、特に夕方の「夕食」を指す。フォーマル・カジュアル両方で使う。
-- **[supper](/word/supper/)**：夕方遅くの軽めの食事を指すことが多く、地域によっては夕食全般を指す。
+- **[supper](/supper)**：夕方遅くの軽めの食事を指すことが多く、地域によっては夕食全般を指す。
 
 dinnerは正式な夕食や外食にも使われ、supperは家庭的で軽い夕食に使われることが多いです。
 
@@ -106,14 +110,14 @@ dinnerは正式な夕食や外食にも使われ、supperは家庭的で軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [lunch](/word/lunch/)：昼食
-- [banquet](/word/banquet/)：宴会、祝宴
+- [lunch](/lunch)：昼食
+- [banquet](/banquet)：宴会、祝宴
 
 ---
 
 ## 📖 できればこれも
 
-- [breakfast](/word/breakfast/)：朝食
-- [meal](/word/meal/)：食事
+- [breakfast](/breakfast)：朝食
+- [meal](/meal)：食事
 
-<!-- cvid: aid21_bid14 -->
+<!-- cvid: aid47_bid38 -->

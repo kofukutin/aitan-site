@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、キッチンや調理場面の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid15" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid15" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、キッチンや調理場面の説明
 ## 🤔  pot との違いは？
 
 - **pan**：底が平らで浅い鍋やフライパン
-- **[pot](/word/pot/)**：深さがあり、煮込みや茹でるのに使う鍋
+- **[pot](/pot)**：深さがあり、煮込みや茹でるのに使う鍋
 
 panは焼く・炒めるなどの調理に、potは煮る・茹でるなどに使われる点が異なります。
 
@@ -105,14 +109,14 @@ panは焼く・炒めるなどの調理に、potは煮る・茹でるなどに�
 
 ## 🧩 あわせて覚えたい
 
-- [frying pan](/word/frying_pan/)：フライパン
-- [bowl](/word/bowl/)：ボウル、深皿
+- [frying pan](/frying_pan)：フライパン
+- [bowl](/bowl)：ボウル、深皿
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate/)：皿
-- [cup](/word/cup/)：カップ
+- [plate](/plate)：皿
+- [cup](/cup)：カップ
 
-<!-- cvid: aid40_bid38 -->
+<!-- cvid: aid24_bid15 -->

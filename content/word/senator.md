@@ -88,8 +88,12 @@ TOEICでは、政治や法務関連の長文や記事で登場することが多
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、政治や法務関連の長文や記事で登場することが多
 ## 🤔  representative との違いは？
 
 - **senator**：上院議員。主に上院（Senate）に所属する議員を指す。
-- **[representative](/word/representative/)**：下院議員。主に下院（House of Representatives）の議員を指す。
+- **[representative](/representative)**：下院議員。主に下院（House of Representatives）の議員を指す。
 
 senatorは上院、representativeは下院の議員を表し、役割や所属する議会が異なります。
 
@@ -105,14 +109,14 @@ senatorは上院、representativeは下院の議員を表し、役割や所属�
 
 ## 🧩 あわせて覚えたい
 
-- [congress](/word/congress/)：（米国の）議会
-- [parliament](/word/parliament/)：（英国などの）議会
+- [congress](/congress)：（米国の）議会
+- [parliament](/parliament)：（英国などの）議会
 
 ---
 
 ## 📖 できればこれも
 
-- [mayor](/word/mayor/)：市長
-- [governor](/word/governor/)：州知事
+- [mayor](/mayor)：市長
+- [governor](/governor)：州知事
 
-<!-- cvid: aid45_bid43 -->
+<!-- cvid: aid45_bid05 -->

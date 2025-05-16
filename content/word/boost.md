@@ -88,8 +88,12 @@ TOEICでは会議やビジネスの会話で「売上を伸ばす」「効率を
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの会話で「売上を伸ばす」「効率を
 ## 🤔  enhance との違いは？
 
 - **boost**：数量や効果を目に見えて「増やす」「高める」ニュアンスが強い
-- **[enhance](/word/enhance/)**：質や価値を「向上させる」「強化する」意味で使う
+- **[enhance](/enhance)**：質や価値を「向上させる」「強化する」意味で使う
 
 boostは「売上」「やる気」など数値や勢いを上げるときに使い、enhanceは「品質」「イメージ」など目に見えない価値を高めるときに使います。
 
@@ -105,14 +109,14 @@ boostは「売上」「やる気」など数値や勢いを上げるときに使
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase/)：増やす、増加する
-- [reduce](/word/reduce/)：減らす
+- [increase](/increase)：増やす、増加する
+- [reduce](/reduce)：減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する、良くする
-- [support](/word/support/)：支える、支援する
+- [improve](/improve)：改善する、良くする
+- [support](/support)：支える、支援する
 
-<!-- cvid: aid07_bid03 -->
+<!-- cvid: aid07_bid14 -->

@@ -81,15 +81,19 @@ TOEICでは企業や経済に関する長文やEメール、記事などで頻�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは企業や経済に関する長文やEメール、記事などで頻�
 ## 🤔  shareholder との違いは？
 
 - **investor**：広く投資を行う人全般を指し、株主に限らず債券や不動産など様々な対象に投資する人も含む。
-- **[shareholder](/word/shareholder/)**：企業の株式を保有する人、つまり株主のみを指す。
+- **[shareholder](/shareholder)**：企業の株式を保有する人、つまり株主のみを指す。
 
 investorは投資全般を行う人、shareholderは株式を持つ人に限定される点が大きな違いです。
 
@@ -105,14 +109,14 @@ investorは投資全般を行う人、shareholderは株式を持つ人に限定�
 
 ## 🧩 あわせて覚えたい
 
-- [lender](/word/lender/)：貸し手、融資者
-- [entrepreneur](/word/entrepreneur/)：起業家
+- [lender](/lender)：貸し手、融資者
+- [entrepreneur](/entrepreneur)：起業家
 
 ---
 
 ## 📖 できればこれも
 
-- [investment](/word/investment/)：投資
-- [capital](/word/capital/)：資本
+- [investment](/investment)：投資
+- [capital](/capital)：資本
 
-<!-- cvid: aid12_bid00 -->
+<!-- cvid: aid03_bid44 -->

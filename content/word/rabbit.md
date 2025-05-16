@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然の描写とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然の描写とし
 ## 🤔  hare との違いは？
 
 - **rabbit**：小型で丸っこい体型のウサギ。ペットや家畜としても一般的。
-- **[hare](/word/hare/)**：野生で足が長く、より速く走るウサギの仲間。
+- **[hare](/hare)**：野生で足が長く、より速く走るウサギの仲間。
 
 rabbitは一般的なウサギ全般を指し、hareは野生でより大きく足が長い種類を指します。
 
@@ -105,14 +109,14 @@ rabbitは一般的なウサギ全般を指し、hareは野生でより大きく�
 
 ## 🧩 あわせて覚えたい
 
-- [squirrel](/word/squirrel/)：リス
-- [fox](/word/fox/)：キツネ
+- [squirrel](/squirrel)：リス
+- [fox](/fox)：キツネ
 
 ---
 
 ## 📖 できればこれも
 
-- [mouse](/word/mouse/)：ネズミ
-- [cat](/word/cat/)：ネコ
+- [mouse](/mouse)：ネズミ
+- [cat](/cat)：ネコ
 
-<!-- cvid: aid25_bid41 -->
+<!-- cvid: aid23_bid35 -->

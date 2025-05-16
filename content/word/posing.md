@@ -81,15 +81,19 @@ posingは、TOEICの会話パートで「ふりをする」「なりすます」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ posingは、TOEICの会話パートで「ふりをする」「なりすます」
 ## 🤔  pretending との違いは？
 
 - **posing**：外見や態度で「ふりをする」「なりすます」ことに重点がある
-- **[pretending](/word/pretending/)**：実際にはそうでないことを「装う」「ふりをする」こと全般
+- **[pretending](/pretending)**：実際にはそうでないことを「装う」「ふりをする」こと全般
 
 posingは特に外見や態度、役割になりすます場合に使い、pretendingは気持ちや行動全般の「ふり」に幅広く使います。
 
@@ -105,14 +109,14 @@ posingは特に外見や態度、役割になりすます場合に使い、prete
 
 ## 🧩 あわせて覚えたい
 
-- [imitate](/word/imitate/)：まねる、模倣する
-- [disguise](/word/disguise/)：変装する、偽る
+- [imitate](/imitate)：まねる、模倣する
+- [disguise](/disguise)：変装する、偽る
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：提示する、見せる
-- [assume](/word/assume/)：（役割などを）引き受ける、仮定する
+- [present](/present)：提示する、見せる
+- [assume](/assume)：（役割などを）引き受ける、仮定する
 
-<!-- cvid: aid44_bid17 -->
+<!-- cvid: aid17_bid46 -->

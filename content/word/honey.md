@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【honey】の意味・使い方・例文 ― sweetheartとの違い【TOEIC英単語】"
 description: "honeyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsweetheartとの違いもわかりやすく学べます。"
 word: "honey"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、食べ物や飲み物の説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid31_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、食べ物や飲み物の説明とし
 ## 🤔  sweetheart との違いは？
 
 - **honey**：親しい人へのカジュアルな呼びかけや、はちみつの意味で使う
-- **[sweetheart](/word/sweetheart/)**：恋人や大切な人へのややフォーマルな愛称
+- **[sweetheart](/sweetheart)**：恋人や大切な人へのややフォーマルな愛称
 
 honeyは日常的でフレンドリーな響き、sweetheartはより愛情や思いやりを強調した呼びかけです。
 
@@ -106,14 +110,14 @@ honeyは日常的でフレンドリーな響き、sweetheartはより愛情や�
 
 ## 🧩 あわせて覚えたい
 
-- [sugar](/word/sugar/)：（呼びかけで）あなた、砂糖
-- [darling](/word/darling/)：（呼びかけで）親愛なる人
+- [sugar](/sugar)：（呼びかけで）あなた、砂糖
+- [darling](/darling)：（呼びかけで）親愛なる人
 
 ---
 
 ## 📖 できればこれも
 
-- [jam](/word/jam/)：ジャム
-- [butter](/word/butter/)：バター
+- [jam](/jam)：ジャム
+- [butter](/butter)：バター
 
-<!-- cvid: aid49_bid02 -->
+<!-- cvid: aid31_bid46 -->

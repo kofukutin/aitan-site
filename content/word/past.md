@@ -81,15 +81,19 @@ TOEICでは、時制や過去の出来事を説明する文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、時制や過去の出来事を説明する文脈でよく登場し
 ## 🤔  previous との違いは？
 
 - **past**：今より前の「過去」そのものや出来事を指す名詞。
-- **[previous](/word/previous/)**：「直前の」「前の」といった、順序的に一つ前を指す形容詞。
+- **[previous](/previous)**：「直前の」「前の」といった、順序的に一つ前を指す形容詞。
 
 「past」は時間的な「過去」全体を指し、「previous」は何かの直前や一つ前を強調する時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、時制や過去の出来事を説明する文脈でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [history](/word/history/)：歴史、経歴
-- [future](/word/future/)：未来
+- [history](/history)：歴史、経歴
+- [future](/future)：未来
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present/)：現在
-- [recent](/word/recent/)：最近の
+- [present](/present)：現在
+- [recent](/recent)：最近の
 
-<!-- cvid: aid02_bid14 -->
+<!-- cvid: aid48_bid48 -->

@@ -81,15 +81,19 @@ TOEICでは、人物描写や感情の動きを説明する長文やメール文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物描写や感情の動きを説明する長文やメール文
 ## 🤔  sensitive との違いは？
 
 - **emotional**：感情を表に出しやすい、感情に左右されやすい
-- **[sensitive](/word/sensitive/)**：敏感な、感情や刺激に反応しやすい
+- **[sensitive](/sensitive)**：敏感な、感情や刺激に反応しやすい
 
 「emotional」は感情を強く表現する様子、「sensitive」は感情や刺激に対して反応しやすい性質を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、人物描写や感情の動きを説明する長文やメール文
 
 ## 🧩 あわせて覚えたい
 
-- [rational](/word/rational/)：理性的な
-- [affection](/word/affection/)：愛情
+- [rational](/rational)：理性的な
+- [affection](/affection)：愛情
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical/)：論理的な
-- [passionate](/word/passionate/)：情熱的な
+- [logical](/logical)：論理的な
+- [passionate](/passionate)：情熱的な
 
-<!-- cvid: aid42_bid03 -->
+<!-- cvid: aid22_bid13 -->

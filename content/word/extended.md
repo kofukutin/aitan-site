@@ -81,15 +81,19 @@ TOEICでは、メールや案内文などで「延長された期間」や「広
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文などで「延長された期間」や「広
 ## 🤔  prolonged との違いは？
 
 - **extended**：通常より長くなった、または広がった（範囲や期間の拡大）
-- **[prolonged](/word/prolonged/)**：予想以上に長引いた、通常より長く続いた（特に時間の長さに焦点）
+- **[prolonged](/prolonged)**：予想以上に長引いた、通常より長く続いた（特に時間の長さに焦点）
 
 extendedは「意図的な延長」や「範囲の拡大」に使われやすく、prolongedは「予想外に長引いた」など、ややネガティブなニュアンスで使われることが多いです。
 
@@ -105,14 +109,14 @@ extendedは「意図的な延長」や「範囲の拡大」に使われやすく
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary/)：一時的な
-- [expand](/word/expand/)：拡大する
+- [temporary](/temporary)：一時的な
+- [expand](/expand)：拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [duration](/word/duration/)：期間、継続時間
-- [expandable](/word/expandable/)：拡張可能な
+- [duration](/duration)：期間、継続時間
+- [expandable](/expandable)：拡張可能な
 
-<!-- cvid: aid00_bid29 -->
+<!-- cvid: aid37_bid09 -->

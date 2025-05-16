@@ -81,7 +81,7 @@ TOEICでは、観光や国際交流、ビジネスの多様性に関する長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+知識を定着させよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、観光や国際交流、ビジネスの多様性に関する長文
 
 <div class="info-center">
 ＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、観光や国際交流、ビジネスの多様性に関する長文
 ## 🤔  traditional との違いは？
 
 - **cultural**：文化に関する、文化的な
-- **[traditional](/word/traditional/)**：伝統的な、昔から受け継がれている
+- **[traditional](/traditional)**：伝統的な、昔から受け継がれている
 
 「cultural」は広く文化全般に関することを指し、「traditional」は特に長い間受け継がれてきた伝統や慣習に焦点を当てます。
 
@@ -105,15 +109,15 @@ TOEICでは、観光や国際交流、ビジネスの多様性に関する長文
 
 ## 🧩 あわせて覚えたい
 
-- [social](/word/social/)：社会の、社交的な
-- [historical](/word/historical/)：歴史の、歴史的な
+- [social](/social)：社会の、社交的な
+- [historical](/historical)：歴史の、歴史的な
 
 ---
 
 ## 📖 できればこれも
 
-- [custom](/word/custom/)：習慣、慣習
-- [heritage](/word/heritage/)：遺産、伝統
+- [custom](/custom)：習慣、慣習
+- [heritage](/heritage)：遺産、伝統
 
 ---
-<!-- cvid: aid07_bid01 -->
+<!-- cvid: aid10_bid01 -->

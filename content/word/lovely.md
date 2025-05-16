@@ -81,15 +81,19 @@ TOEICでは会話文やカジュアルなやりとりで、好意的な感情や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文やカジュアルなやりとりで、好意的な感情や
 ## 🤔  beautiful との違いは？
 
 - **lovely**：親しみやすく、かわいらしさや温かみを感じる「すてき」「愛らしい」
-- **[beautiful](/word/beautiful/)**：よりフォーマルで、見た目や景色などが「美しい」「素晴らしい」
+- **[beautiful](/beautiful)**：よりフォーマルで、見た目や景色などが「美しい」「素晴らしい」
 
 lovelyは感情や親しみを込めて使うことが多く、beautifulは客観的な美しさや壮大さを表すときに使います。
 
@@ -105,14 +109,14 @@ lovelyは感情や親しみを込めて使うことが多く、beautifulは客�
 
 ## 🧩 あわせて覚えたい
 
-- [cute](/word/cute/)：かわいい、愛らしい
-- [pleasant](/word/pleasant/)：心地よい、快い
+- [cute](/cute)：かわいい、愛らしい
+- [pleasant](/pleasant)：心地よい、快い
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/word/friendly/)：親しみやすい、友好的な
-- [pretty](/word/pretty/)：かわいらしい、きれいな
+- [friendly](/friendly)：親しみやすい、友好的な
+- [pretty](/pretty)：かわいらしい、きれいな
 
-<!-- cvid: aid16_bid04 -->
+<!-- cvid: aid31_bid01 -->

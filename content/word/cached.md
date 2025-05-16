@@ -81,15 +81,19 @@ IT関連の説明やウェブサービスの案内文で出題されることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連の説明やウェブサービスの案内文で出題されることが
 ## 🤔  stored との違いは？
 
 - **cached**：一時的に素早くアクセスできるよう保存された（主にIT分野）
-- **[stored](/word/stored/)**：一般的に保存された（長期・短期問わず幅広く使う）
+- **[stored](/stored)**：一般的に保存された（長期・短期問わず幅広く使う）
 
 cachedは「一時的・高速アクセス用」のニュアンスが強く、storedは「単に保存された」場合に使います。
 
@@ -105,14 +109,14 @@ cachedは「一時的・高速アクセス用」のニュアンスが強く、st
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary/)：一時的な
-- [retrieve](/word/retrieve/)：取り出す、回収する
+- [temporary](/temporary)：一時的な
+- [retrieve](/retrieve)：取り出す、回収する
 
 ---
 
 ## 📖 できればこれも
 
-- [offline](/word/offline/)：オフラインの、ネット接続なしの
-- [update](/word/update/)：更新する
+- [offline](/offline)：オフラインの、ネット接続なしの
+- [update](/update)：更新する
 
-<!-- cvid: aid12_bid15 -->
+<!-- cvid: aid06_bid08 -->

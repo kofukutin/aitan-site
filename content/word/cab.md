@@ -81,15 +81,19 @@ TOEICでは空港やホテル、移動に関する会話で「cab」が登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港やホテル、移動に関する会話で「cab」が登場す
 ## 🤔  taxi との違いは？
 
 - **cab**：アメリカ英語でよく使われるカジュアルな「タクシー」
-- **[taxi](/word/taxi/)**：イギリス英語で一般的な「タクシー」
+- **[taxi](/taxi)**：イギリス英語で一般的な「タクシー」
 
 cabはアメリカで日常的に使われ、taxiはイギリスやフォーマルな場面で使われやすいです。
 
@@ -105,14 +109,14 @@ cabはアメリカで日常的に使われ、taxiはイギリスやフォーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [bus](/word/bus/)：バス
-- [driver](/word/driver/)：運転手
+- [bus](/bus)：バス
+- [driver](/driver)：運転手
 
 ---
 
 ## 📖 できればこれも
 
-- [fare](/word/fare/)：運賃
-- [ride](/word/ride/)：乗ること
+- [fare](/fare)：運賃
+- [ride](/ride)：乗ること
 
-<!-- cvid: aid20_bid20 -->
+<!-- cvid: aid35_bid34 -->

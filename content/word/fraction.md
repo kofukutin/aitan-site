@@ -81,15 +81,19 @@ TOEICでは、統計や割合、データ分析に関する長文やグラフ説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、統計や割合、データ分析に関する長文やグラフ説
 ## 🤔  portion との違いは？
 
 - **fraction**：全体の中の「ごく小さい部分」や「分数」を強調
-- **[portion](/word/portion/)**：分けられた「一部分」や「割り当て」を意味し、量の大小は問わない
+- **[portion](/portion)**：分けられた「一部分」や「割り当て」を意味し、量の大小は問わない
 
 fractionは「全体のごく一部」や「細かい割合」を指すのに対し、portionは「分けられた部分」や「割り当てられた量」を表します。
 
@@ -105,14 +109,14 @@ fractionは「全体のごく一部」や「細かい割合」を指すのに対
 
 ## 🧩 あわせて覚えたい
 
-- [segment](/word/segment/)：区分、部分
-- [percentage](/word/percentage/)：割合、パーセンテージ
+- [segment](/segment)：区分、部分
+- [percentage](/percentage)：割合、パーセンテージ
 
 ---
 
 ## 📖 できればこれも
 
-- [ratio](/word/ratio/)：比率
-- [section](/word/section/)：区分、部分
+- [ratio](/ratio)：比率
+- [section](/section)：区分、部分
 
-<!-- cvid: aid40_bid26 -->
+<!-- cvid: aid42_bid13 -->

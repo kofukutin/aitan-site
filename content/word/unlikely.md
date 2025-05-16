@@ -81,15 +81,19 @@ TOEICでは、選択肢の中で「可能性の低さ」を表現する際によ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、選択肢の中で「可能性の低さ」を表現する際によ
 ## 🤔  improbable との違いは？
 
 - **unlikely**：日常的な会話やビジネスで「可能性が低い」とややカジュアルに使う
-- **[improbable](/word/improbable/)**：ややフォーマルで「ほとんどありえない」と強調したいときに使う
+- **[improbable](/improbable)**：ややフォーマルで「ほとんどありえない」と強調したいときに使う
 
 unlikelyは一般的な否定的予測に、improbableはより堅い場面や書き言葉で使われる傾向があります。
 
@@ -105,14 +109,14 @@ unlikelyは一般的な否定的予測に、improbableはより堅い場面や�
 
 ## 🧩 あわせて覚えたい
 
-- [possible](/word/possible/)：可能な、ありうる
-- [doubtful](/word/doubtful/)：疑わしい、信じがたい
+- [possible](/possible)：可能な、ありうる
+- [doubtful](/doubtful)：疑わしい、信じがたい
 
 ---
 
 ## 📖 できればこれも
 
-- [possible](/word/possible/)：可能な
-- [rare](/word/rare/)：まれな、珍しい
+- [possible](/possible)：可能な
+- [rare](/rare)：まれな、珍しい
 
-<!-- cvid: aid11_bid49 -->
+<!-- cvid: aid48_bid08 -->

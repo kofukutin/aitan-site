@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、駅や街角の風景に登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、駅や街角の風景に登場する
 ## 🤔  kiosk との違いは？
 
 - **newsstand**：新聞や雑誌など出版物を専門に扱う売店
-- **[kiosk](/word/kiosk/)**：飲み物やスナック、雑貨など幅広い商品を扱う小型売店
+- **[kiosk](/kiosk)**：飲み物やスナック、雑貨など幅広い商品を扱う小型売店
 
 newsstandは主に新聞・雑誌を売る場所、kioskはより多目的な売店で、扱う商品が異なります。
 
@@ -105,14 +109,14 @@ newsstandは主に新聞・雑誌を売る場所、kioskはより多目的な売
 
 ## 🧩 あわせて覚えたい
 
-- [stall](/word/stall/)：屋台、仮設売店
-- [vendor](/word/vendor/)：物売り、販売業者
+- [stall](/stall)：屋台、仮設売店
+- [vendor](/vendor)：物売り、販売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [magazine](/word/magazine/)：雑誌
-- [newspaper](/word/newspaper/)：新聞
+- [magazine](/magazine)：雑誌
+- [newspaper](/newspaper)：新聞
 
-<!-- cvid: aid36_bid47 -->
+<!-- cvid: aid14_bid14 -->

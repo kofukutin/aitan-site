@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「ドアが開けられた」「箱が開か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「ドアが開けられた」「箱が開か
 ## 🤔  unlocked との違いは？
 
 - **opened**：物理的に「開けた」「開いた」状態や動作を表す。
-- **[unlocked](/word/unlocked/)**：鍵を「解除した」「ロックを外した」ことを強調。
+- **[unlocked](/unlocked)**：鍵を「解除した」「ロックを外した」ことを強調。
 
 openedは単に開ける動作や状態を指し、unlockedは鍵やロックを解除することに特化しています。
 
@@ -105,14 +109,14 @@ openedは単に開ける動作や状態を指し、unlockedは鍵やロックを
 
 ## 🧩 あわせて覚えたい
 
-- [close](/word/close/)：閉める、閉じる
-- [start](/word/start/)：始める
+- [close](/close)：閉める、閉じる
+- [start](/start)：始める
 
 ---
 
 ## 📖 できればこれも
 
-- [begin](/word/begin/)：始める
-- [enter](/word/enter/)：入る
+- [begin](/begin)：始める
+- [enter](/enter)：入る
 
-<!-- cvid: aid30_bid04 -->
+<!-- cvid: aid39_bid31 -->

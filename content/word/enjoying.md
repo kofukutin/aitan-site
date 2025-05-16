@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「楽しんでいる様子」を表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「楽しんでいる様子」を表す
 ## 🤔  having fun との違いは？
 
 - **enjoying**：ややフォーマルで、何かを積極的に楽しんでいる状態を表す。
-- **[having fun](/word/having_fun/)**：カジュアルで、気軽に楽しんでいる・面白がっている様子を表す。
+- **[having fun](/having_fun)**：カジュアルで、気軽に楽しんでいる・面白がっている様子を表す。
 
 enjoyingは「満足感」や「充実感」を含むことが多く、having funは「気軽な楽しさ」や「遊び心」を強調します。
 
@@ -105,14 +109,14 @@ enjoyingは「満足感」や「充実感」を含むことが多く、having fu
 
 ## 🧩 あわせて覚えたい
 
-- [appreciate](/word/appreciate/)：感謝する、味わう
-- [savor](/word/savor/)：（ゆっくり）味わう、楽しむ
+- [appreciate](/appreciate)：感謝する、味わう
+- [savor](/savor)：（ゆっくり）味わう、楽しむ
 
 ---
 
 ## 📖 できればこれも
 
-- [relaxing](/word/relaxing/)：くつろいでいる
-- [participating](/word/participating/)：参加している
+- [relaxing](/relaxing)：くつろいでいる
+- [participating](/participating)：参加している
 
-<!-- cvid: aid49_bid24 -->
+<!-- cvid: aid17_bid49 -->

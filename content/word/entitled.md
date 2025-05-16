@@ -80,15 +80,19 @@ TOEICでは主にPart 7のメールや案内文で「権利がある」「資格
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 7のメールや案内文で「権利がある」「資格
 ## 🤔  eligible との違いは？
 
 - **entitled**：正式に権利や資格が与えられていることを強調
-- **[eligible](/word/eligible/)**：条件を満たして「資格がある」状態
+- **[eligible](/eligible)**：条件を満たして「資格がある」状態
 
 「entitled」はすでに権利が与えられている場合に使い、「eligible」は条件を満たして資格があるが、まだ権利が与えられていない場合に使います。
 
@@ -104,14 +108,14 @@ TOEICでは主にPart 7のメールや案内文で「権利がある」「資格
 
 ## 🧩 あわせて覚えたい
 
-- [authorized](/word/authorized/)：正式に許可された
-- [qualified](/word/qualified/)：資格を持った
+- [authorized](/authorized)：正式に許可された
+- [qualified](/qualified)：資格を持った
 
 ---
 
 ## 📖 できればこれも
 
-- [permitted](/word/permitted/)：許可された
-- [applicable](/word/applicable/)：該当する、適用できる
+- [permitted](/permitted)：許可された
+- [applicable](/applicable)：該当する、適用できる
 
-<!-- cvid: aid03_bid00 -->
+<!-- cvid: aid14_bid45 -->

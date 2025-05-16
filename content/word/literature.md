@@ -81,15 +81,19 @@ TOEICでは、学術的な文献や案内文、研究資料などを指して使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、学術的な文献や案内文、研究資料などを指して使
 ## 🤔  document との違いは？
 
 - **literature**：文学作品や学術的な文献全般を指す
-- **[document](/word/document/)**：契約書や証明書など、個別の公式な書類を指す
+- **[document](/document)**：契約書や証明書など、個別の公式な書類を指す
 
 literatureは広い意味での「書かれたもの」や「文献」を指し、documentは特定の書類や記録を意味します。
 
@@ -105,14 +109,14 @@ literatureは広い意味での「書かれたもの」や「文献」を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [novel](/word/novel/)：小説
-- [publication](/word/publication/)：出版物、発行物
+- [novel](/novel)：小説
+- [publication](/publication)：出版物、発行物
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/word/journal/)：学術誌、日誌
-- [article](/word/article/)：記事、論文
+- [journal](/journal)：学術誌、日誌
+- [article](/article)：記事、論文
 
-<!-- cvid: aid04_bid44 -->
+<!-- cvid: aid14_bid04 -->

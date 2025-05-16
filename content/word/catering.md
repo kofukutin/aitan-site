@@ -80,15 +80,19 @@ TOEICでは、イベント案内やビジネスメール、会議の案内文な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、イベント案内やビジネスメール、会議の案内文な
 ## 🤔  restaurant との違いは？
 
 - **catering**：イベントや会議などに食事を届けるサービス
-- **[restaurant](/word/restaurant/)**：食事を提供する店舗・場所
+- **[restaurant](/restaurant)**：食事を提供する店舗・場所
 
 「catering」は出張型の食事サービス、「restaurant」はその場で食事をする場所という違いがあります。
 
@@ -104,14 +108,14 @@ TOEICでは、イベント案内やビジネスメール、会議の案内文な
 
 ## 🧩 あわせて覚えたい
 
-- [buffet](/word/buffet/)：ビュッフェ形式の食事
-- [delivery](/word/delivery/)：配達サービス
+- [buffet](/buffet)：ビュッフェ形式の食事
+- [delivery](/delivery)：配達サービス
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議
-- [reservation](/word/reservation/)：予約
+- [conference](/conference)：会議
+- [reservation](/reservation)：予約
 
-<!-- cvid: aid23_bid21 -->
+<!-- cvid: aid13_bid45 -->

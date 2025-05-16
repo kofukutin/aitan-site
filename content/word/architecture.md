@@ -81,15 +81,19 @@ TOEICでは主に説明文やIT関連の長文で登場し、建築やシステ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に説明文やIT関連の長文で登場し、建築やシステ�
 ## 🤔  structure との違いは？
 
 - **architecture**：全体の設計や様式、特に芸術性や計画性を強調
-- **[structure](/word/structure/)**：物理的な構造や枠組み自体を指す
+- **[structure](/structure)**：物理的な構造や枠組み自体を指す
 
 architectureは「設計思想」や「美的な様式」に焦点を当てるのに対し、structureは「骨組み」や「物理的な構造」に重点があります。
 
@@ -105,14 +109,14 @@ architectureは「設計思想」や「美的な様式」に焦点を当てる�
 
 ## 🧩 あわせて覚えたい
 
-- [design](/word/design/)：設計、デザイン
-- [framework](/word/framework/)：枠組み、骨組み
+- [design](/design)：設計、デザイン
+- [framework](/framework)：枠組み、骨組み
 
 ---
 
 ## 📖 できればこれも
 
-- [engineer](/word/engineer/)：技術者、エンジニア
-- [construction](/word/construction/)：建設、建造
+- [engineer](/engineer)：技術者、エンジニア
+- [construction](/construction)：建設、建造
 
-<!-- cvid: aid15_bid43 -->
+<!-- cvid: aid07_bid05 -->

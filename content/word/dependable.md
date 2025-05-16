@@ -81,15 +81,19 @@ TOEICでは、社員やサービスの「信頼性」を問う文脈で形容詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社員やサービスの「信頼性」を問う文脈で形容詞
 ## 🤔  reliable との違いは？
 
 - **dependable**：期待通りに行動し、頼りになることを強調
-- **[reliable](/word/reliable/)**：一貫して信頼できる、裏切らないことを強調
+- **[reliable](/reliable)**：一貫して信頼できる、裏切らないことを強調
 
 「dependable」は「頼りにできる人・物」としての実用性や安心感をやや強調し、「reliable」は「信頼性・裏切らない安定感」をより強く表します。
 
@@ -105,14 +109,14 @@ TOEICでは、社員やサービスの「信頼性」を問う文脈で形容詞
 
 ## 🧩 あわせて覚えたい
 
-- [trustworthy](/word/trustworthy/)：信用できる（誠実さや正直さを強調）
-- [consistent](/word/consistent/)：一貫性がある、変わらない
+- [trustworthy](/trustworthy)：信用できる（誠実さや正直さを強調）
+- [consistent](/consistent)：一貫性がある、変わらない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [responsible](/word/responsible/)：責任感がある
+- [efficient](/efficient)：効率的な
+- [responsible](/responsible)：責任感がある
 
-<!-- cvid: aid03_bid49 -->
+<!-- cvid: aid00_bid05 -->

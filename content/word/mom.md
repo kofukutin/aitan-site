@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、家族に関する会話で登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、家族に関する会話で登場し
 ## 🤔  mother との違いは？
 
 - **mom**：カジュアルで親しみやすい「お母さん」
-- **[mother](/word/mother/)**：フォーマルまたは書き言葉で使う「母」
+- **[mother](/mother)**：フォーマルまたは書き言葉で使う「母」
 
 「mom」は日常会話や親しい間柄で使い、「mother」は改まった場面や書類、フォーマルな会話で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写や、家族に関する会話で登場し
 
 ## 🧩 あわせて覚えたい
 
-- [dad](/word/dad/)：お父さん（カジュアル）
-- [parent](/word/parent/)：親
+- [dad](/dad)：お父さん（カジュアル）
+- [parent](/parent)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child/)：子ども
-- [family](/word/family/)：家族
+- [child](/child)：子ども
+- [family](/family)：家族
 
-<!-- cvid: aid36_bid09 -->
+<!-- cvid: aid32_bid03 -->

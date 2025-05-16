@@ -81,15 +81,19 @@ The device sends a pulse every second to monitor the system.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The device sends a pulse every second to monitor the system.
 ## 🤔  beat との違いは？
 
 - **pulse**：心臓や血管の「脈拍」、周期的な信号や振動を表す
-- **[beat](/word/beat/)**：音や心臓などの「打つ音」「拍」を広く表す
+- **[beat](/beat)**：音や心臓などの「打つ音」「拍」を広く表す
 
 pulseは医学や技術分野で「一定のリズムで繰り返す動き」に特化し、beatはより一般的な「打つ音」や「リズム」を指します。
 
@@ -105,14 +109,14 @@ pulseは医学や技術分野で「一定のリズムで繰り返す動き」に
 
 ## 🧩 あわせて覚えたい
 
-- [rhythm](/word/rhythm/)：リズム、周期的な動き
-- [signal](/word/signal/)：信号、合図
+- [rhythm](/rhythm)：リズム、周期的な動き
+- [signal](/signal)：信号、合図
 
 ---
 
 ## 📖 できればこれも
 
-- [vein](/word/vein/)：静脈
-- [scan](/word/scan/)：スキャンする、精査する
+- [vein](/vein)：静脈
+- [scan](/scan)：スキャンする、精査する
 
-<!-- cvid: aid20_bid18 -->
+<!-- cvid: aid34_bid12 -->

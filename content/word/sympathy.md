@@ -81,15 +81,19 @@ TOEICでは、メールやお知らせ文などで「お悔やみ」や「励ま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールやお知らせ文などで「お悔やみ」や「励ま
 ## 🤔  empathy との違いは？
 
 - **sympathy**：相手の気持ちを「かわいそう」と思い、外側から寄り添う感情。
-- **[empathy](/word/empathy/)**：相手の立場になって「自分ごと」として感じる深い共感。
+- **[empathy](/empathy)**：相手の立場になって「自分ごと」として感じる深い共感。
 
 sympathyは「同情」、empathyは「感情移入」といった違いがあり、empathyの方がより深く相手の気持ちを理解するニュアンスです。
 
@@ -105,14 +109,14 @@ sympathyは「同情」、empathyは「感情移入」といった違いがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [compassion](/word/compassion/)：思いやり、深い同情
-- [indifference](/word/indifference/)：無関心
+- [compassion](/compassion)：思いやり、深い同情
+- [indifference](/indifference)：無関心
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support/)：支援、サポート
-- [concern](/word/concern/)：心配、関心
+- [support](/support)：支援、サポート
+- [concern](/concern)：心配、関心
 
-<!-- cvid: aid41_bid28 -->
+<!-- cvid: aid12_bid41 -->

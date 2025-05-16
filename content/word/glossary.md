@@ -81,15 +81,19 @@ TOEICでは、説明文やマニュアル、報告書の末尾などで「glossa
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文やマニュアル、報告書の末尾などで「glossa
 ## 🤔  dictionary との違いは？
 
 - **glossary**：特定の分野や本に関連する用語を簡単に説明したリスト
-- **[dictionary](/word/dictionary/)**：あらゆる単語を網羅し、意味や用法を詳しく解説した書籍やリスト
+- **[dictionary](/dictionary)**：あらゆる単語を網羅し、意味や用法を詳しく解説した書籍やリスト
 
 glossaryは限定された範囲の用語集、dictionaryは一般的な単語全体を扱う辞書です。
 
@@ -105,14 +109,14 @@ glossaryは限定された範囲の用語集、dictionaryは一般的な単語�
 
 ## 🧩 あわせて覚えたい
 
-- [appendix](/word/appendix/)：付録
-- [index](/word/index/)：索引
+- [appendix](/appendix)：付録
+- [index](/index)：索引
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [reference](/word/reference/)：参照、参考文献
+- [summary](/summary)：要約
+- [reference](/reference)：参照、参考文献
 
-<!-- cvid: aid20_bid16 -->
+<!-- cvid: aid41_bid10 -->

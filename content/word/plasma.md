@@ -80,15 +80,19 @@ The laboratory is conducting plasma analysis for the new treatment.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The laboratory is conducting plasma analysis for the new treatment.
 ## 🤔  serum との違いは？
 
 - **plasma**：血液の液体成分で、凝固因子を含む。
-- **[serum](/word/serum/)**：血液から凝固因子を除いた液体成分。
+- **[serum](/serum)**：血液から凝固因子を除いた液体成分。
 
 plasmaは血液の液体部分全体を指し、serumは血液が固まった後に残る液体部分を指します。
 
@@ -104,14 +108,14 @@ plasmaは血液の液体部分全体を指し、serumは血液が固まった後
 
 ## 🧩 あわせて覚えたい
 
-- [cell](/word/cell/)：細胞
-- [fluid](/word/fluid/)：液体、流体
+- [cell](/cell)：細胞
+- [fluid](/fluid)：液体、流体
 
 ---
 
 ## 📖 できればこれも
 
-- [tissue](/word/tissue/)：組織（生物学）
-- [substance](/word/substance/)：物質
+- [tissue](/tissue)：組織（生物学）
+- [substance](/substance)：物質
 
-<!-- cvid: aid25_bid36 -->
+<!-- cvid: aid22_bid15 -->

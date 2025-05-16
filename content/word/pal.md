@@ -81,15 +81,19 @@ TOEICではPart 2などのリスニングで、カジュアルな会話表現と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2などのリスニングで、カジュアルな会話表現と
 ## 🤔  friend との違いは？
 
 - **pal**：カジュアルで親しみやすい「友達」「仲間」
-- **[friend](/word/friend/)**：一般的な「友人」、フォーマル・カジュアル両方で使える
+- **[friend](/friend)**：一般的な「友人」、フォーマル・カジュアル両方で使える
 
 palは特に親しい間柄やくだけた会話で使われ、friendはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ palは特に親しい間柄やくだけた会話で使われ、friendはより�
 
 ## 🧩 あわせて覚えたい
 
-- [buddy](/word/buddy/)：親しい友達、相棒
-- [acquaintance](/word/acquaintance/)：知人、顔見知り
+- [buddy](/buddy)：親しい友達、相棒
+- [acquaintance](/acquaintance)：知人、顔見知り
 
 ---
 
 ## 📖 できればこれも
 
-- [mate](/word/mate/)：仲間、友達（主にイギリス英語）
-- [partner](/word/partner/)：相棒、パートナー
+- [mate](/mate)：仲間、友達（主にイギリス英語）
+- [partner](/partner)：相棒、パートナー
 
-<!-- cvid: aid31_bid44 -->
+<!-- cvid: aid04_bid02 -->

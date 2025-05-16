@@ -77,7 +77,7 @@ TOEICでは、前置詞の使い分けやフォーマルな表現として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+自信の芽を育てよう👇️
 
 ---
 
@@ -85,7 +85,11 @@ TOEICでは、前置詞の使い分けやフォーマルな表現として出題
 
 <div class="info-center">
 ＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、前置詞の使い分けやフォーマルな表現として出題
 ## 🤔  under との違いは？
 
 - **beneath**：ややフォーマルで、物理的・抽象的な「下」に使う
-- **[under](/word/under/)**：一般的で、物理的な「下」に幅広く使う
+- **[under](/under)**：一般的で、物理的な「下」に幅広く使う
 
 beneathはフォーマルな場面や比喩的な表現で使われやすく、underは日常的な物の位置関係に広く使われます。
 
@@ -101,14 +105,14 @@ beneathはフォーマルな場面や比喩的な表現で使われやすく、u
 
 ## 🧩 あわせて覚えたい
 
-- [below](/word/below/)：～より下に（位置やレベル）
-- [above](/word/above/)：～より上に
+- [below](/below)：～より下に（位置やレベル）
+- [above](/above)：～より上に
 
 ---
 
 ## 📖 できればこれも
 
-- [beside](/word/beside/)：～のそばに
-- [between](/word/between/)：～の間に
+- [beside](/beside)：～のそばに
+- [between](/between)：～の間に
 
-<!-- cvid: aid05_bid03 -->
+<!-- cvid: aid16_bid03 -->

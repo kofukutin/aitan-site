@@ -81,15 +81,19 @@ TOEICでは「資格や権利の保有者」「カードホルダー」など、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「資格や権利の保有者」「カードホルダー」など、
 ## 🤔  owner との違いは？
 
 - **holder**：何かを持っている人・物（所有権があるとは限らない）
-- **[owner](/word/owner/)**：正式な所有者（法的な所有権を持つ人）
+- **[owner](/owner)**：正式な所有者（法的な所有権を持つ人）
 
 holderは「一時的に持っている人」や「資格・権利の保有者」も含みますが、ownerは「所有権を持つ人」に限定されます。
 
@@ -105,14 +109,14 @@ holderは「一時的に持っている人」や「資格・権利の保有者�
 
 ## 🧩 あわせて覚えたい
 
-- [possessor](/word/possessor/)：所有者（ややフォーマル）
-- [recipient](/word/recipient/)：受取人
+- [possessor](/possessor)：所有者（ややフォーマル）
+- [recipient](/recipient)：受取人
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant/)：申請者
-- [license](/word/license/)：許可証、免許
+- [applicant](/applicant)：申請者
+- [license](/license)：許可証、免許
 
-<!-- cvid: aid26_bid36 -->
+<!-- cvid: aid48_bid44 -->

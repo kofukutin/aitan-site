@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「悪い状況」や「問題」を表現する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「悪い状況」や「問題」を表現する
 ## 🤔  awful との違いは？
 
 - **terrible**：ひどく悪い、恐ろしい（ややフォーマル・深刻な響き）
-- **[awful](/word/awful/)**：とても悪い、ひどい（カジュアルで口語的）
+- **[awful](/awful)**：とても悪い、ひどい（カジュアルで口語的）
 
 terribleは深刻さや恐ろしさを強調する傾向があり、awfulは日常会話でよく使われるカジュアルな表現です。
 
@@ -105,14 +109,14 @@ terribleは深刻さや恐ろしさを強調する傾向があり、awfulは日�
 
 ## 🧩 あわせて覚えたい
 
-- [horrible](/word/horrible/)：ぞっとするほどひどい
-- [excellent](/word/excellent/)：素晴らしい、優れた
+- [horrible](/horrible)：ぞっとするほどひどい
+- [excellent](/excellent)：素晴らしい、優れた
 
 ---
 
 ## 📖 できればこれも
 
-- [wonderful](/word/wonderful/)：素晴らしい
-- [bad](/word/bad/)：悪い
+- [wonderful](/wonderful)：素晴らしい
+- [bad](/bad)：悪い
 
-<!-- cvid: aid33_bid20 -->
+<!-- cvid: aid24_bid32 -->

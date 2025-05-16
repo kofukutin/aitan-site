@@ -81,15 +81,19 @@ IT関連やサービスの障害を伝えるメールやお知らせ文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やサービスの障害を伝えるメールやお知らせ文でよく
 ## 🤔  blackout との違いは？
 
 - **outage**：電気やサービスなどの供給が一時的に停止すること全般
-- **[blackout](/word/blackout/)**：特に「停電」や「完全な遮断」を指す
+- **[blackout](/blackout)**：特に「停電」や「完全な遮断」を指す
 
 outageは電気以外にもネットや水道など幅広いサービスの中断に使われますが、blackoutは主に電気の「停電」や情報の「遮断」に限定される傾向があります。
 
@@ -105,14 +109,14 @@ outageは電気以外にもネットや水道など幅広いサービスの中�
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure/)：失敗、故障
-- [interruption](/word/interruption/)：中断、妨害
+- [failure](/failure)：失敗、故障
+- [interruption](/interruption)：中断、妨害
 
 ---
 
 ## 📖 できればこれも
 
-- [restore](/word/restore/)：復旧する、元に戻す
-- [malfunction](/word/malfunction/)：故障する、正常に動作しない
+- [restore](/restore)：復旧する、元に戻す
+- [malfunction](/malfunction)：故障する、正常に動作しない
 
-<!-- cvid: aid23_bid38 -->
+<!-- cvid: aid06_bid14 -->

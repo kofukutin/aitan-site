@@ -81,15 +81,19 @@ TOEICでは、政治や法務関連の長文や記事でsenateが登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、政治や法務関連の長文や記事でsenateが登場するこ
 ## 🤔  congress との違いは？
 
 - **senate**：議会の「上院」のみを指す。
-- **[congress](/word/congress/)**：アメリカなどで「上下両院」を含む議会全体を指す。
+- **[congress](/congress)**：アメリカなどで「上下両院」を含む議会全体を指す。
 
 senateは上院限定、congressは上下両院をまとめた議会全体を指す点が大きな違いです。
 
@@ -105,13 +109,13 @@ senateは上院限定、congressは上下両院をまとめた議会全体を指
 
 ## 🧩 あわせて覚えたい
 
-- [parliament](/word/parliament/)：議会（特にイギリスなどの立法機関）
-- [committee](/word/committee/)：委員会
+- [parliament](/parliament)：議会（特にイギリスなどの立法機関）
+- [committee](/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [legislation](/word/legislation/)：法律、立法
-- [debate](/word/debate/)：討論、議論
-<!-- cvid: aid18_bid49 -->
+- [legislation](/legislation)：法律、立法
+- [debate](/debate)：討論、議論
+<!-- cvid: aid28_bid05 -->

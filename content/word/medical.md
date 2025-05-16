@@ -81,15 +81,19 @@ TOEICでは、医療や健康に関する記事や案内文、証明書などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、医療や健康に関する記事や案内文、証明書などの
 ## 🤔  clinical との違いは？
 
 - **medical**：医療全般や医学に関する広い意味で使う
-- **[clinical](/word/clinical/)**：臨床（実際の患者を扱う現場）に特化した意味
+- **[clinical](/clinical)**：臨床（実際の患者を扱う現場）に特化した意味
 
 **medical**は医療や医学全体を指し、**clinical**は特に患者の診察や治療など現場での実践的な医療を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、医療や健康に関する記事や案内文、証明書などの
 
 ## 🧩 あわせて覚えたい
 
-- [surgical](/word/surgical/)：外科の、手術の
-- [health](/word/health/)：健康、健康状態
+- [surgical](/surgical)：外科の、手術の
+- [health](/health)：健康、健康状態
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/word/patient/)：患者
-- [treatment](/word/treatment/)：治療
+- [patient](/patient)：患者
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid40_bid33 -->
+<!-- cvid: aid02_bid32 -->

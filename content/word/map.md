@@ -81,15 +81,19 @@ TOEICでは、道案内や場所の説明、観光案内などの場面でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、道案内や場所の説明、観光案内などの場面でよく
 ## 🤔  chart との違いは？
 
 - **map**：地理的な場所や位置関係を示す図
-- **[chart](/word/chart/)**：データや情報を整理して示す図表
+- **[chart](/chart)**：データや情報を整理して示す図表
 
 mapは地形や場所を示すのに使い、chartは数値や情報の比較・分析に使います。
 
@@ -105,14 +109,14 @@ mapは地形や場所を示すのに使い、chartは数値や情報の比較・
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan/)：計画、案
-- [guide](/word/guide/)：案内、ガイド
+- [plan](/plan)：計画、案
+- [guide](/guide)：案内、ガイド
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/word/route/)：道順、ルート
-- [area](/word/area/)：地域、エリア
+- [route](/route)：道順、ルート
+- [area](/area)：地域、エリア
 
-<!-- cvid: aid27_bid24 -->
+<!-- cvid: aid29_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7の説明文や報告書、案内文などで「定期的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の説明文や報告書、案内文などで「定期的
 ## 🤔  regular との違いは？
 
 - **periodic**：一定の周期や間隔で繰り返されることを強調
-- **[regular](/word/regular/)**：規則的であること、または決まったパターンであることを強調
+- **[regular](/regular)**：規則的であること、または決まったパターンであることを強調
 
 「periodic」は「周期性」や「サイクル」に焦点があり、科学的・技術的な文脈でよく使われます。「regular」は「規則正しい」「一定の間隔で」という広い意味で、日常的な場面でも使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7の説明文や報告書、案内文などで「定期的
 
 ## 🧩 あわせて覚えたい
 
-- [occasional](/word/occasional/)：時々の、たまの
-- [frequent](/word/frequent/)：頻繁な
+- [occasional](/occasional)：時々の、たまの
+- [frequent](/frequent)：頻繁な
 
 ---
 
 ## 📖 できればこれも
 
-- [annual](/word/annual/)：年1回の、毎年の
-- [interval](/word/interval/)：間隔、休止期間
+- [annual](/annual)：年1回の、毎年の
+- [interval](/interval)：間隔、休止期間
 
-<!-- cvid: aid24_bid43 -->
+<!-- cvid: aid17_bid39 -->

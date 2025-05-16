@@ -81,15 +81,19 @@ TOEICではレストランやカフェの会話、またはIT関連の説明で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid10_bid25" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid25" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランやカフェの会話、またはIT関連の説明で�
 ## 🤔  list との違いは？
 
 - **menu**：主に飲食店やソフトウェアの選択肢一覧を指す
-- **[list](/word/list/)**：一般的な項目の並びやリスト全般を指す
+- **[list](/list)**：一般的な項目の並びやリスト全般を指す
 
 「menu」は料理や選択肢の一覧に特化し、「list」はより幅広い用途で使われます。
 
@@ -105,14 +109,14 @@ TOEICではレストランやカフェの会話、またはIT関連の説明で�
 
 ## 🧩 あわせて覚えたい
 
-- [catalog](/word/catalog/)：商品やサービスの一覧
-- [option](/word/option/)：選択肢、オプション
+- [catalog](/catalog)：商品やサービスの一覧
+- [option](/option)：選択肢、オプション
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order/)：注文する、注文
-- [dish](/word/dish/)：料理、皿
+- [order](/order)：注文する、注文
+- [dish](/dish)：料理、皿
 
-<!-- cvid: aid37_bid27 -->
+<!-- cvid: aid10_bid25 -->

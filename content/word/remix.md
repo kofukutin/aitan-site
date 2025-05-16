@@ -82,15 +82,19 @@ remixはITやメディア関連の長文やEメール、広告文などで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ remixはITやメディア関連の長文やEメール、広告文などで登場
 ## 🤔  rearrange との違いは？
 
 - **remix**：主に音楽や映像などの素材を再編集し、新しいバージョンを作ること。
-- **[rearrange](/word/rearrange/)**：順序や配置を変えること全般に使い、音楽以外にも幅広く使う。
+- **[rearrange](/rearrange)**：順序や配置を変えること全般に使い、音楽以外にも幅広く使う。
 
 remixは「創造的な再編集」に重点があり、rearrangeは「並べ替え」や「再配置」といった物理的・抽象的な順序変更に使います。
 
@@ -106,14 +110,14 @@ remixは「創造的な再編集」に重点があり、rearrangeは「並べ替
 
 ## 🧩 あわせて覚えたい
 
-- [edit](/word/edit/)：編集する
-- [modify](/word/modify/)：修正する
+- [edit](/edit)：編集する
+- [modify](/modify)：修正する
 
 ---
 
 ## 📖 できればこれも
 
-- [compose](/word/compose/)：作曲する、構成する
-- [adjust](/word/adjust/)：調整する
+- [compose](/compose)：作曲する、構成する
+- [adjust](/adjust)：調整する
 
-<!-- cvid: aid43_bid40 -->
+<!-- cvid: aid02_bid29 -->

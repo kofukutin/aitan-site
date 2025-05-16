@@ -81,15 +81,19 @@ TOEICでは契約書や社内規定、ビジネス文書の中で「confidential
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や社内規定、ビジネス文書の中で「confidential
 ## 🤔  privacy との違いは？
 
 - **confidentiality**：特定の情報を第三者に漏らさず守ること、守秘義務のニュアンスが強い
-- **[privacy](/word/privacy/)**：個人のプライバシーや私生活の権利、他人から干渉されない状態
+- **[privacy](/privacy)**：個人のプライバシーや私生活の権利、他人から干渉されない状態
 
 confidentialityは「業務上知り得た情報を守る義務」、privacyは「個人の私的領域を守る権利」という違いがあります。
 
@@ -105,14 +109,14 @@ confidentialityは「業務上知り得た情報を守る義務」、privacyは�
 
 ## 🧩 あわせて覚えたい
 
-- [disclosure](/word/disclosure/)：開示、公開
-- [secrecy](/word/secrecy/)：秘密、内密
+- [disclosure](/disclosure)：開示、公開
+- [secrecy](/secrecy)：秘密、内密
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：契約、合意
-- [consent](/word/consent/)：同意、承諾
+- [agreement](/agreement)：契約、合意
+- [consent](/consent)：同意、承諾
 
-<!-- cvid: aid10_bid34 -->
+<!-- cvid: aid47_bid10 -->

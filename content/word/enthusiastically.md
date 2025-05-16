@@ -81,15 +81,19 @@ TOEICでは、社員やチームの積極的な姿勢や、イベントへの参
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid03" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid03" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社員やチームの積極的な姿勢や、イベントへの参
 ## 🤔  eagerly との違いは？
 
 - **enthusiastically**：強い熱意や情熱をもって積極的に行動する様子
-- **[eagerly](/word/eagerly/)**：何かを強く待ち望んでいる気持ちや、期待感をもって行動する様子
+- **[eagerly](/eagerly)**：何かを強く待ち望んでいる気持ちや、期待感をもって行動する様子
 
 enthusiasticallyは「熱意・情熱」に重点があり、eagerlyは「待ちきれない・期待感」に重点があります。
 
@@ -105,14 +109,14 @@ enthusiasticallyは「熱意・情熱」に重点があり、eagerlyは「待ち
 
 ## 🧩 あわせて覚えたい
 
-- [passionately](/word/passionately/)：情熱的に
-- [reluctantly](/word/reluctantly/)：しぶしぶ、いやいやながら
+- [passionately](/passionately)：情熱的に
+- [reluctantly](/reluctantly)：しぶしぶ、いやいやながら
 
 ---
 
 ## 📖 できればこれも
 
-- [enthusiasm](/word/enthusiasm/)：熱意
-- [actively](/word/actively/)：積極的に
+- [enthusiasm](/enthusiasm)：熱意
+- [actively](/actively)：積極的に
 
-<!-- cvid: aid37_bid05 -->
+<!-- cvid: aid33_bid03 -->

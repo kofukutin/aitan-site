@@ -81,15 +81,19 @@ TOEICではオフィス機器やIT関連の話題で、会話や説明文中に�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではオフィス機器やIT関連の話題で、会話や説明文中に�
 ## 🤔  copier との違いは？
 
 - **scanner**：紙の情報をデジタルデータに変換する装置
-- **[copier](/word/copier/)**：紙の書類をそのまま紙に複製する装置（コピー機）
+- **[copier](/copier)**：紙の書類をそのまま紙に複製する装置（コピー機）
 
 scannerは「デジタル化」、copierは「紙の複製」と用途が異なります。
 
@@ -105,14 +109,14 @@ scannerは「デジタル化」、copierは「紙の複製」と用途が異な�
 
 ## 🧩 あわせて覚えたい
 
-- [printer](/word/printer/)：印刷機
-- [fax](/word/fax/)：ファクシミリ（書類送信機）
+- [printer](/printer)：印刷機
+- [fax](/fax)：ファクシミリ（書類送信機）
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor/)：ディスプレイ、画面
-- [keyboard](/word/keyboard/)：キーボード
+- [monitor](/monitor)：ディスプレイ、画面
+- [keyboard](/keyboard)：キーボード
 
-<!-- cvid: aid15_bid42 -->
+<!-- cvid: aid14_bid08 -->

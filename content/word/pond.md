@@ -88,8 +88,12 @@ TOEICでは主にPart 1の写真描写問題で、池や公園の風景を説明
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、池や公園の風景を説明
 ## 🤔  lake との違いは？
 
 - **pond**：小さな池や水たまりを指し、規模が小さい。
-- **[lake](/word/lake/)**：大きな湖を指し、pondよりも広い水域。
+- **[lake](/lake)**：大きな湖を指し、pondよりも広い水域。
 
 pondは主に小規模な水域、lakeは大規模な水域を表す点が異なります。
 
@@ -105,14 +109,14 @@ pondは主に小規模な水域、lakeは大規模な水域を表す点が異な
 
 ## 🧩 あわせて覚えたい
 
-- [pool](/word/pool/)：人工的なプールや小さな水たまり
-- [river](/word/river/)：川
+- [pool](/pool)：人工的なプールや小さな水たまり
+- [river](/river)：川
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest/)：森
-- [mountain](/word/mountain/)：山
+- [forest](/forest)：森
+- [mountain](/mountain)：山
 
-<!-- cvid: aid13_bid13 -->
+<!-- cvid: aid13_bid23 -->

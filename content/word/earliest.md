@@ -81,15 +81,19 @@ TOEICでは「at your earliest convenience」などの定型表現や、予定�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「at your earliest convenience」などの定型表現や、予定�
 ## 🤔  soon との違いは？
 
 - **earliest**：最も早い時期やタイミングを強調し、フォーマルな依頼や案内で使う。
-- **[soon](/word/soon/)**：近い将来や「まもなく」を表し、カジュアルな場面でも使える。
+- **[soon](/soon)**：近い将来や「まもなく」を表し、カジュアルな場面でも使える。
 
 「earliest」は「できるだけ早く」という最上級のニュアンスで、特にビジネスや丁寧な依頼で使われます。「soon」は単に「すぐに」「まもなく」で、より幅広い場面で使えます。
 
@@ -105,14 +109,14 @@ TOEICでは「at your earliest convenience」などの定型表現や、予定�
 
 ## 🧩 あわせて覚えたい
 
-- [latest](/word/latest/)：最も遅い、最新の
-- [immediate](/word/immediate/)：即時の、直ちに
+- [latest](/latest)：最も遅い、最新の
+- [immediate](/immediate)：即時の、直ちに
 
 ---
 
 ## 📖 できればこれも
 
-- [early](/word/early/)：早い、早く
-- [prompt](/word/prompt/)：迅速な、即座の
+- [early](/early)：早い、早く
+- [prompt](/prompt)：迅速な、即座の
 
-<!-- cvid: aid39_bid02 -->
+<!-- cvid: aid01_bid40 -->

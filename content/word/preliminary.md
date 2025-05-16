@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議の案内、調査報告などで「pre
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid31" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid31" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議の案内、調査報告などで「pre
 ## 🤔  tentative との違いは？
 
 - **preliminary**：本番や最終決定の前段階としての「予備的な」「準備の」
-- **[tentative](/word/tentative/)**：仮の、一時的な、まだ確定していない
+- **[tentative](/tentative)**：仮の、一時的な、まだ確定していない
 
 preliminaryは「本格的なものの前の準備段階」を強調し、tentativeは「まだ確定していない」「変更の可能性がある」ことを強調します。
 
@@ -105,14 +109,14 @@ preliminaryは「本格的なものの前の準備段階」を強調し、tentat
 
 ## 🧩 あわせて覚えたい
 
-- [final](/word/final/)：最終の、決定的な
-- [initial](/word/initial/)：最初の、初期の
+- [final](/final)：最終の、決定的な
+- [initial](/initial)：最初の、初期の
 
 ---
 
 ## 📖 できればこれも
 
-- [prior](/word/prior/)：前の、事前の
-- [primary](/word/primary/)：主要な、第一の
+- [prior](/prior)：前の、事前の
+- [primary](/primary)：主要な、第一の
 
-<!-- cvid: aid13_bid19 -->
+<!-- cvid: aid24_bid31 -->

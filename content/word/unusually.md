@@ -81,15 +81,19 @@ TOEICでは、文章中で「通常と異なる状況」や「例外的な出来
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文章中で「通常と異なる状況」や「例外的な出来
 ## 🤔  typically との違いは？
 
 - **unusually**：普通とは違う、例外的な様子を強調する
-- **[typically](/word/typically/)**：典型的に、普通は、という意味で「一般的な傾向」を表す
+- **[typically](/typically)**：典型的に、普通は、という意味で「一般的な傾向」を表す
 
 unusuallyは「めったにない」「異常な」状況を指し、typicallyは「よくある」「普通の」状況を指します。
 
@@ -105,14 +109,14 @@ unusuallyは「めったにない」「異常な」状況を指し、typically�
 
 ## 🧩 あわせて覚えたい
 
-- [rarely](/word/rarely/)：めったに～ない
-- [exceptionally](/word/exceptionally/)：例外的に、非常に
+- [rarely](/rarely)：めったに～ない
+- [exceptionally](/exceptionally)：例外的に、非常に
 
 ---
 
 ## 📖 できればこれも
 
-- [normally](/word/normally/)：普通は、通常は
-- [frequently](/word/frequently/)：頻繁に
+- [normally](/normally)：普通は、通常は
+- [frequently](/frequently)：頻繁に
 
-<!-- cvid: aid22_bid46 -->
+<!-- cvid: aid33_bid42 -->

@@ -81,15 +81,19 @@ TOEICでは地理や場所の説明、会社の支店や地域の話題でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは地理や場所の説明、会社の支店や地域の話題でよく
 ## 🤔  southernmost との違いは？
 
 - **southern**：南の、南部の（広く南側を指す）
-- **[southernmost](/word/southernmost/)**：最南端の（最も南に位置する）
+- **[southernmost](/southernmost)**：最南端の（最も南に位置する）
 
 「southern」は単に南側や南部を指しますが、「southernmost」は「最も南にある」という意味で、範囲の中で一番南を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは地理や場所の説明、会社の支店や地域の話題でよく
 
 ## 🧩 あわせて覚えたい
 
-- [northern](/word/northern/)：北の、北部の
-- [southernly](/word/southernly/)：南方の、南向きの
+- [northern](/northern)：北の、北部の
+- [southernly](/southernly)：南方の、南向きの
 
 ---
 
 ## 📖 できればこれも
 
-- [eastern](/word/eastern/)：東の、東部の
-- [western](/word/western/)：西の、西部の
+- [eastern](/eastern)：東の、東部の
+- [western](/western)：西の、西部の
 
-<!-- cvid: aid38_bid46 -->
+<!-- cvid: aid19_bid32 -->

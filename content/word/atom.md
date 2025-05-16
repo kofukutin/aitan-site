@@ -81,15 +81,19 @@ TOEICでは科学や技術に関する長文や説明文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術に関する長文や説明文で登場することが
 ## 🤔  molecule との違いは？
 
 - **atom**：物質を構成する最小の単位で、単独でも存在します。
-- **[molecule](/word/molecule/)**：複数の原子が結合してできる分子。
+- **[molecule](/molecule)**：複数の原子が結合してできる分子。
 
 atomは「これ以上分けられない最小単位」、moleculeは「原子が集まってできる単位」と覚えましょう。
 
@@ -105,14 +109,14 @@ atomは「これ以上分けられない最小単位」、moleculeは「原子�
 
 ## 🧩 あわせて覚えたい
 
-- [element](/word/element/)：元素、物質を構成する基本的な種類
-- [compound](/word/compound/)：化合物、異なる元素が結合したもの
+- [element](/element)：元素、物質を構成する基本的な種類
+- [compound](/compound)：化合物、異なる元素が結合したもの
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/word/cell/)：細胞、生物の基本単位
-- [particle](/word/particle/)：粒子、ごく小さな物質のかけら
+- [cell](/cell)：細胞、生物の基本単位
+- [particle](/particle)：粒子、ごく小さな物質のかけら
 
-<!-- cvid: aid02_bid10 -->
+<!-- cvid: aid19_bid32 -->

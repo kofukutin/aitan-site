@@ -81,15 +81,19 @@ TOEICでは主にPart 5の文法問題で、動詞の時制や語形選択とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の文法問題で、動詞の時制や語形選択とし
 ## 🤔  happen との違いは？
 
 - **occurred**：ややフォーマルで、出来事や事故などが「発生した」ときに使う。
-- **[happen](/word/happen/)**：カジュアルで、日常的な出来事や偶然のことに幅広く使う。
+- **[happen](/happen)**：カジュアルで、日常的な出来事や偶然のことに幅広く使う。
 
 occurredは公式な文書やビジネスシーンでよく使われ、happenは日常会話でよく使われます。
 
@@ -105,14 +109,14 @@ occurredは公式な文書やビジネスシーンでよく使われ、happenは
 
 ## 🧩 あわせて覚えたい
 
-- [arise](/word/arise/)：（問題・困難などが）生じる
-- [take place](/word/take_place/)：（予定されたことが）行われる、起こる
+- [arise](/arise)：（問題・困難などが）生じる
+- [take place](/take_place)：（予定されたことが）行われる、起こる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear/)：現れる、出現する
-- [emerge](/word/emerge/)：現れる、明らかになる
+- [appear](/appear)：現れる、出現する
+- [emerge](/emerge)：現れる、明らかになる
 
-<!-- cvid: aid00_bid13 -->
+<!-- cvid: aid07_bid33 -->

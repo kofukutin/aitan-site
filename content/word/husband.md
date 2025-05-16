@@ -81,15 +81,19 @@ TOEICでは、家族や人物紹介、日常的な会話の中で「husband」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、家族や人物紹介、日常的な会話の中で「husband」�
 ## 🤔  spouse との違いは？
 
 - **husband**：結婚している男性（夫）を指す。
-- **[spouse](/word/spouse/)**：配偶者（夫または妻）を指す、性別を問わない表現。
+- **[spouse](/spouse)**：配偶者（夫または妻）を指す、性別を問わない表現。
 
 husbandは男性限定、spouseは性別を問わず「配偶者」として使われます。
 
@@ -105,14 +109,14 @@ husbandは男性限定、spouseは性別を問わず「配偶者」として使�
 
 ## 🧩 あわせて覚えたい
 
-- [wife](/word/wife/)：妻
-- [partner](/word/partner/)：パートナー（性別問わず使える）
+- [wife](/wife)：妻
+- [partner](/partner)：パートナー（性別問わず使える）
 
 ---
 
 ## 📖 できればこれも
 
-- [marry](/word/marry/)：結婚する
-- [marriage](/word/marriage/)：結婚（名詞）
+- [marry](/marry)：結婚する
+- [marriage](/marriage)：結婚（名詞）
 
-<!-- cvid: aid39_bid01 -->
+<!-- cvid: aid48_bid24 -->

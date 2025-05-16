@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの会話文で「変化している状況」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの会話文で「変化している状況」や
 ## 🤔  altering との違いは？
 
 - **changing**：一般的に「変化している」「移り変わる」状態を広く表す。
-- **[altering](/word/altering/)**：部分的・意図的に「手を加えて変える」ニュアンスが強い。
+- **[altering](/altering)**：部分的・意図的に「手を加えて変える」ニュアンスが強い。
 
 「changing」は自然な流れや全体的な変化に使われ、「altering」は人為的・部分的な変更に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスの会話文で「変化している状況」や
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace/)：取り替える、交換する
-- [modify](/word/modify/)：修正する、変更する
+- [replace](/replace)：取り替える、交換する
+- [modify](/modify)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [dynamic](/word/dynamic/)：動的な、活発な
-- [shift](/word/shift/)：移行、変化
+- [dynamic](/dynamic)：動的な、活発な
+- [shift](/shift)：移行、変化
 
-<!-- cvid: aid10_bid02 -->
+<!-- cvid: aid00_bid23 -->

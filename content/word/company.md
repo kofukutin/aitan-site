@@ -82,15 +82,19 @@ TOEICでは「会社」「企業」という意味で頻出し、社名や組織
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「会社」「企業」という意味で頻出し、社名や組織
 ## 🤔  corporation との違いは？
 
 - **company**：一般的な「会社」「企業」を幅広く指す
-- **[corporation](/word/corporation/)**：法的に設立された大企業や法人を指す
+- **[corporation](/corporation)**：法的に設立された大企業や法人を指す
 
 companyは中小企業から大企業まで幅広く使われますが、corporationは特に大規模で法的な法人組織を強調する時に使われます。
 
@@ -106,14 +110,14 @@ companyは中小企業から大企業まで幅広く使われますが、corpora
 
 ## 🧩 あわせて覚えたい
 
-- [firm](/word/firm/)：事務所・会社（特に法律・会計などの専門職の会社）
-- [enterprise](/word/enterprise/)：企業・事業（ややフォーマルで大規模な事業にも使う）
+- [firm](/firm)：事務所・会社（特に法律・会計などの専門職の会社）
+- [enterprise](/enterprise)：企業・事業（ややフォーマルで大規模な事業にも使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [branch](/word/branch/)：支店、支社
+- [client](/client)：顧客、取引先
+- [branch](/branch)：支店、支社
 
-<!-- cvid: aid28_bid41 -->
+<!-- cvid: aid41_bid08 -->

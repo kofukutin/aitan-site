@@ -81,15 +81,19 @@ ITや技術系の説明文、製品仕様の記述で頻出します。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid02" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid02" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITや技術系の説明文、製品仕様の記述で頻出します。特に「
 ## 🤔  installed との違いは？
 
 - **embedded**：何かの内部にしっかりと組み込まれている、内蔵された
-- **[installed](/word/installed/)**：設置・インストールされた（外部から追加された）
+- **[installed](/installed)**：設置・インストールされた（外部から追加された）
 
 「embedded」は最初から内部に組み込まれているニュアンスが強く、「installed」は後から設置・導入されたことを表します。
 
@@ -105,14 +109,14 @@ ITや技術系の説明文、製品仕様の記述で頻出します。特に「
 
 ## 🧩 あわせて覚えたい
 
-- [integrated](/word/integrated/)：統合された、組み込まれた
-- [detached](/word/detached/)：分離した、切り離された
+- [integrated](/integrated)：統合された、組み込まれた
+- [detached](/detached)：分離した、切り離された
 
 ---
 
 ## 📖 できればこれも
 
-- [automated](/word/automated/)：自動化された
-- [configured](/word/configured/)：設定された
+- [automated](/automated)：自動化された
+- [configured](/configured)：設定された
 
-<!-- cvid: aid42_bid34 -->
+<!-- cvid: aid21_bid02 -->

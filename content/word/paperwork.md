@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、案内文などで「paperwork」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、案内文などで「paperwork」
 ## 🤔  document との違いは？
 
 - **paperwork**：書類仕事や事務手続き全体を指す
-- **[document](/word/document/)**：個々の書類や文書そのものを指す
+- **[document](/document)**：個々の書類や文書そのものを指す
 
 「paperwork」は書類を扱う仕事や手続き全体を指し、「document」は一枚一枚の書類やファイル自体を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やメール、案内文などで「paperwork」
 
 ## 🧩 あわせて覚えたい
 
-- [form](/word/form/)：用紙、申込書
-- [application](/word/application/)：申請書、応募書
+- [form](/form)：用紙、申込書
+- [application](/application)：申請書、応募書
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file/)：ファイル、書類をまとめたもの
-- [record](/word/record/)：記録、記録文書
+- [file](/file)：ファイル、書類をまとめたもの
+- [record](/record)：記録、記録文書
 
-<!-- cvid: aid03_bid46 -->
+<!-- cvid: aid39_bid27 -->

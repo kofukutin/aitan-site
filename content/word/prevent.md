@@ -82,15 +82,19 @@ TOEICでは「prevent A from ～ing」の形で頻出し、原因や対策を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「prevent A from ～ing」の形で頻出し、原因や対策を説
 ## 🤔  avoid との違いは？
 
 - **prevent**：何かが起こる前に積極的に防ぐ、阻止する
-- **[avoid](/word/avoid/)**：避ける、回避する（自分がその状況に入らないようにする）
+- **[avoid](/avoid)**：避ける、回避する（自分がその状況に入らないようにする）
 
 preventは「外部から働きかけて起こらないようにする」、avoidは「自分がその状況を避ける」違いがあります。
 
@@ -106,14 +110,14 @@ preventは「外部から働きかけて起こらないようにする」、avoi
 
 ## 🧩 あわせて覚えたい
 
-- [prohibit](/word/prohibit/)：禁止する
-- [allow](/word/allow/)：許可する
+- [prohibit](/prohibit)：禁止する
+- [allow](/allow)：許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce/)：減らす
-- [protect](/word/protect/)：守る
+- [reduce](/reduce)：減らす
+- [protect](/protect)：守る
 
-<!-- cvid: aid21_bid22 -->
+<!-- cvid: aid47_bid17 -->

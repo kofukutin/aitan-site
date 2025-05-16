@@ -81,15 +81,19 @@ TOEICでは、動名詞や現在分詞の形で文法問題によく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動名詞や現在分詞の形で文法問題によく出題され
 ## 🤔  joining との違いは？
 
 - **entering**：物理的・抽象的に「入る」「参加する」こと全般を表す
-- **[joining](/word/joining/)**：グループや活動に「加わる」「一員になる」ことを強調
+- **[joining](/joining)**：グループや活動に「加わる」「一員になる」ことを強調
 
 **entering** は場所や状況に「入る」こと全般に使い、**joining** は「仲間入り」や「参加」を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、動名詞や現在分詞の形で文法問題によく出題され
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/word/leave/)：去る、離れる
-- [access](/word/access/)：アクセスする、利用する
+- [leave](/leave)：去る、離れる
+- [access](/access)：アクセスする、利用する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [register](/word/register/)：登録する
+- [submit](/submit)：提出する
+- [register](/register)：登録する
 
-<!-- cvid: aid22_bid38 -->
+<!-- cvid: aid46_bid12 -->

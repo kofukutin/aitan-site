@@ -81,15 +81,19 @@ TOEICでは、地方の支社や地域経済、都市と地方の比較などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid19" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid19" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、地方の支社や地域経済、都市と地方の比較などの
 ## 🤔  rural との違いは？
 
 - **provincial**：地方の、州の、または田舎的・視野が狭いというニュアンスも含む
-- **[rural](/word/rural/)**：田舎の、農村のという意味で、都市部と対比して使う
+- **[rural](/rural)**：田舎の、農村のという意味で、都市部と対比して使う
 
 provincialは行政区画や地方都市も含み、ややフォーマルで「洗練されていない」という否定的な意味も持つことがあります。ruralは純粋に「田舎」「農村」を指します。
 
@@ -105,14 +109,14 @@ provincialは行政区画や地方都市も含み、ややフォーマルで「�
 
 ## 🧩 あわせて覚えたい
 
-- [urban](/word/urban/)：都市の、都会の
-- [local](/word/local/)：地元の、地域の
+- [urban](/urban)：都市の、都会の
+- [local](/local)：地元の、地域の
 
 ---
 
 ## 📖 できればこれも
 
-- [municipal](/word/municipal/)：市の、自治体の
-- [domestic](/word/domestic/)：国内の、家庭の
+- [municipal](/municipal)：市の、自治体の
+- [domestic](/domestic)：国内の、家庭の
 
-<!-- cvid: aid01_bid31 -->
+<!-- cvid: aid23_bid19 -->

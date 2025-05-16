@@ -81,15 +81,19 @@ TOEICでは主にメールや記事、報告書などの長文中で「内容」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや記事、報告書などの長文中で「内容」
 ## 🤔  ingredient との違いは？
 
 - **content**：全体の「内容」や「中身」を指す
-- **[ingredient](/word/ingredient/)**：料理や製品の「成分」「材料」を指す
+- **[ingredient](/ingredient)**：料理や製品の「成分」「材料」を指す
 
 contentは情報やデータの「中身」に、ingredientは食品や製品の「構成要素」に使います。
 
@@ -105,14 +109,14 @@ contentは情報やデータの「中身」に、ingredientは食品や製品の
 
 ## 🧩 あわせて覚えたい
 
-- [subject](/word/subject/)：主題、テーマ
-- [summary](/word/summary/)：要約、概要
+- [subject](/subject)：主題、テーマ
+- [summary](/summary)：要約、概要
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/word/detail/)：詳細
-- [topic](/word/topic/)：話題、トピック
+- [detail](/detail)：詳細
+- [topic](/topic)：話題、トピック
 
-<!-- cvid: aid18_bid35 -->
+<!-- cvid: aid21_bid05 -->

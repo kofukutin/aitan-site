@@ -81,15 +81,19 @@ TOEICではダイバーシティや人権、教育関連の長文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid25_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではダイバーシティや人権、教育関連の長文で見かける
 ## 🤔  gender との違いは？
 
 - **sexuality**：性的指向や性意識、性に関する個人の特徴全般
-- **[gender](/word/gender/)**：社会的・文化的な性別（男性・女性など）
+- **[gender](/gender)**：社会的・文化的な性別（男性・女性など）
 
 sexualityは「性そのものや性的傾向」に焦点があり、genderは「社会的な性別の区分」に重点があります。
 
@@ -105,14 +109,14 @@ sexualityは「性そのものや性的傾向」に焦点があり、genderは�
 
 ## 🧩 あわせて覚えたい
 
-- [orientation](/word/orientation/)：性的指向
-- [identity](/word/identity/)：自己認識、アイデンティティ
+- [orientation](/orientation)：性的指向
+- [identity](/identity)：自己認識、アイデンティティ
 
 ---
 
 ## 📖 できればこれも
 
-- [diversity](/word/diversity/)：多様性
-- [equality](/word/equality/)：平等
+- [diversity](/diversity)：多様性
+- [equality](/equality)：平等
 
-<!-- cvid: aid05_bid42 -->
+<!-- cvid: aid25_bid33 -->

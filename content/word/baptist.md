@@ -81,15 +81,19 @@ The baptist community organized a charity event.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The baptist community organized a charity event.
 ## 🤔  protestant との違いは？
 
 - **baptist**：バプテスト教会の信者や教派を指し、洗礼を重視する特徴がある。
-- **[protestant](/word/protestant/)**：キリスト教のプロテスタント全体を指し、バプテストもその一部。
+- **[protestant](/protestant)**：キリスト教のプロテスタント全体を指し、バプテストもその一部。
 
 baptistはprotestantの中の一つの教派で、特に洗礼の方法や信仰のスタイルに特徴があります。
 
@@ -105,14 +109,14 @@ baptistはprotestantの中の一つの教派で、特に洗礼の方法や信仰
 
 ## 🧩 あわせて覚えたい
 
-- [catholic](/word/catholic/)：カトリック教会の信者、カトリック派
-- [minister](/word/minister/)：（教会の）牧師、聖職者
+- [catholic](/catholic)：カトリック教会の信者、カトリック派
+- [minister](/minister)：（教会の）牧師、聖職者
 
 ---
 
 ## 📖 できればこれも
 
-- [sermon](/word/sermon/)：説教
-- [worship](/word/worship/)：礼拝
+- [sermon](/sermon)：説教
+- [worship](/worship)：礼拝
 
-<!-- cvid: aid14_bid45 -->
+<!-- cvid: aid19_bid10 -->

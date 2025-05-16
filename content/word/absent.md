@@ -17,7 +17,7 @@ related_words:
   - "leave"
 next_words:
   - "attend"
-  - "late"
+  - "vacant"
 last_update: "2025-05-04"
 ---
 
@@ -32,34 +32,27 @@ last_update: "2025-05-04"
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
+[形容詞] 欠席している、不在の
 
-[形容詞] 不在の、欠席している
+**absent** は、「その場にいない」「欠席している」という意味で、学校や職場などで人が物理的にいない場合によく使われます。
 
-**absent** は、「その場にいない」「欠席している」という意味で、学校や職場などでよく使われます。
-
-語源はラテン語の "absens"（離れている）から来ており、「物理的にその場にいない」ことを表します。
+語源はラテン語の "absens"（離れている）から来ており、「場から離れている」というニュアンスが強調されています。
 
 他の品詞：  
-- absence：不在、欠席（名詞）
-- absentee：欠席者（名詞）
+- absence：欠席、不在（名詞）
+- absently：ぼんやりと（副詞）
 
 ---
 
 ## ✏️ absentの例文
 
 【日常会話】  
-He was absent from school today.  
-　彼は今日学校を休みました。
+He was absent from school yesterday.  
+　彼は昨日学校を休みました。
 
 【ビジネス英語】  
-Several employees were absent from the meeting.  
-　数名の社員が会議を欠席していました。
+Several employees are absent today due to illness.  
+　本日、数名の従業員が病気で欠勤しています。
 
 ---
 
@@ -68,7 +61,7 @@ Several employees were absent from the meeting.
 - 難易度：★★☆☆☆
 - 出題パート：Part 5（文法・語彙問題）
 
-TOEICでは「be absent from ～」の形で、出席・欠席を問う文脈でよく出題されます。特に会議や出勤状況に関する設問で見かけます。
+TOEICでは、出欠や出席状況を問う文脈で形容詞としてよく出題されます。absence（名詞）との使い分けも問われやすいです。
 
 ---
 
@@ -76,50 +69,54 @@ TOEICでは「be absent from ～」の形で、出席・欠席を問う文脈で
 
 正しい使い方はどっち？
 
-1. She was absent from the meeting yesterday.  
-2. She was absent at the meeting yesterday.
+1. He was absent from the meeting.
+2. He was absent at the meeting.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説："absent" は "from" とセットで「～を欠席する」と表現します。
+- 解説："absent from" で「～を欠席している」となります。"at" は使いません。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  missing との違いは？
 
-- **absent**：本来いるべき場所にいない、欠席している（特に人に使う）
-- **[missing](/word/missing/)**：行方不明の、見つからない（人・物どちらにも使う）
+- **absent**：その場にいるべき人がいない（欠席・不在）
+- **[missing](/missing)**：あるべき物や人が見つからない・行方不明
 
-absentは「予定されていた場にいない」こと、missingは「どこにあるかわからない・見つからない」ことを強調します。
+absentは「予定されていた場にいない」こと、missingは「存在が確認できず行方が分からない」ことを指します。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [present](/word/present/)：出席している、存在している
-- [leave](/word/leave/)：休暇、休み
+- [present](/present)：出席している、存在している
+- [leave](/leave)：休暇、休み
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/word/attend/)：出席する
-- [late](/word/late/)：遅刻した
----
-<!-- cvid: aid14_bid17 -->
+- [attend](/attend)：出席する
+- [vacant](/vacant)：空いている、空席の
+
+<!-- cvid: aid01_bid36 -->

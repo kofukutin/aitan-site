@@ -81,15 +81,19 @@ TOEICでは主に形容詞の語彙問題や、感情・評価を表す文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に形容詞の語彙問題や、感情・評価を表す文脈で
 ## 🤔  terrible との違いは？
 
 - **horrible**：恐怖や嫌悪感を強く伴う「ひどい」「恐ろしい」
-- **[terrible](/word/terrible/)**：広く「ひどい」「恐ろしい」だが、恐怖よりも「質の悪さ」「重大さ」に重点
+- **[terrible](/terrible)**：広く「ひどい」「恐ろしい」だが、恐怖よりも「質の悪さ」「重大さ」に重点
 
 horribleは「ぞっとする」「不快でたまらない」ニュアンスが強く、terribleは「重大な悪さ」「深刻な悪影響」にも使われます。
 
@@ -105,14 +109,14 @@ horribleは「ぞっとする」「不快でたまらない」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [awful](/word/awful/)：とても悪い、ひどい
-- [pleasant](/word/pleasant/)：心地よい、楽しい
+- [awful](/awful)：とても悪い、ひどい
+- [pleasant](/pleasant)：心地よい、楽しい
 
 ---
 
 ## 📖 できればこれも
 
-- [frightening](/word/frightening/)：怖がらせるような
-- [wonderful](/word/wonderful/)：素晴らしい
+- [frightening](/frightening)：怖がらせるような
+- [wonderful](/wonderful)：素晴らしい
 
-<!-- cvid: aid08_bid16 -->
+<!-- cvid: aid44_bid30 -->

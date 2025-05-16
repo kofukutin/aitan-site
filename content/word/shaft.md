@@ -82,15 +82,19 @@ shaftは、機械や設備に関する文脈で名詞として出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ shaftは、機械や設備に関する文脈で名詞として出題されるこ
 ## 🤔  rod との違いは？
 
 - **shaft**：機械の「軸」や、光・煙などの「筋」など、用途や機能を持つ細長いものを指す。
-- **[rod](/word/rod/)**：単純な「棒」や「竿」で、特に機能や用途を限定しない。
+- **[rod](/rod)**：単純な「棒」や「竿」で、特に機能や用途を限定しない。
 
 shaftは「回転軸」や「光の筋」など、特定の役割や用途を持つ細長いものに使われますが、rodは単に形状が棒状であることを指します。
 
@@ -106,14 +110,14 @@ shaftは「回転軸」や「光の筋」など、特定の役割や用途を持
 
 ## 🧩 あわせて覚えたい
 
-- [axle](/word/axle/)：車輪などを支える「車軸」
-- [column](/word/column/)：建物などの「柱」
+- [axle](/axle)：車輪などを支える「車軸」
+- [column](/column)：建物などの「柱」
 
 ---
 
 ## 📖 できればこれも
 
-- [lever](/word/lever/)：てこ、レバー
-- [pipe](/word/pipe/)：管、パイプ
+- [lever](/lever)：てこ、レバー
+- [pipe](/pipe)：管、パイプ
 
-<!-- cvid: aid40_bid02 -->
+<!-- cvid: aid19_bid44 -->

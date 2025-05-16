@@ -81,15 +81,19 @@ TOEICでは、ホテルやレストラン、日常生活の会話で「料理」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやレストラン、日常生活の会話で「料理」
 ## 🤔  cuisine との違いは？
 
 - **cooking**：日常的な「料理」や「調理」の行為や技術を指すカジュアルな表現。
-- **[cuisine](/word/cuisine/)**：特定の国や地域の「料理」「食文化」を指すフォーマルな表現。
+- **[cuisine](/cuisine)**：特定の国や地域の「料理」「食文化」を指すフォーマルな表現。
 
 cookingは家庭や日常の「料理すること」、cuisineは「フランス料理」などジャンルや文化としての料理を表します。
 
@@ -105,14 +109,14 @@ cookingは家庭や日常の「料理すること」、cuisineは「フランス
 
 ## 🧩 あわせて覚えたい
 
-- [recipe](/word/recipe/)：レシピ、調理法
-- [bake](/word/bake/)：焼く（特にパンやお菓子を）
+- [recipe](/recipe)：レシピ、調理法
+- [bake](/bake)：焼く（特にパンやお菓子を）
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/word/kitchen/)：台所、キッチン
-- [meal](/word/meal/)：食事
+- [kitchen](/kitchen)：台所、キッチン
+- [meal](/meal)：食事
 
-<!-- cvid: aid05_bid04 -->
+<!-- cvid: aid17_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは主に長文読解や記事、スピーチ文で「平和的な」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解や記事、スピーチ文で「平和的な」「
 ## 🤔  peaceful との違いは？
 
 - **pacific**：争いを避ける、平和をもたらす（ややフォーマル・抽象的）
-- **[peaceful](/word/peaceful/)**：穏やかで静かな、平和な（より日常的・具体的）
+- **[peaceful](/peaceful)**：穏やかで静かな、平和な（より日常的・具体的）
 
 pacificは「平和を作る・維持する」意志や性質を強調し、peacefulは「静かで落ち着いた状態」を表します。
 
@@ -105,14 +109,14 @@ pacificは「平和を作る・維持する」意志や性質を強調し、peac
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm/)：穏やかな、落ち着いた
-- [aggressive](/word/aggressive/)：攻撃的な
+- [calm](/calm)：穏やかな、落ち着いた
+- [aggressive](/aggressive)：攻撃的な
 
 ---
 
 ## 📖 できればこれも
 
-- [tranquil](/word/tranquil/)：静かな、落ち着いた
-- [serene](/word/serene/)：穏やかな、晴れやかな
+- [tranquil](/tranquil)：静かな、落ち着いた
+- [serene](/serene)：穏やかな、晴れやかな
 
-<!-- cvid: aid09_bid48 -->
+<!-- cvid: aid24_bid24 -->

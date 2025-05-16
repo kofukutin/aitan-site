@@ -81,15 +81,19 @@ TOEICでは主に記事やレポート、ビジネス文書の中で、芸術や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やレポート、ビジネス文書の中で、芸術や
 ## 🤔  magnificent との違いは？
 
 - **sublime**：精神的・芸術的に非常に高貴で感動を呼ぶ
-- **[magnificent](/word/magnificent/)**：壮大で豪華、見た目や規模の大きさを強調
+- **[magnificent](/magnificent)**：壮大で豪華、見た目や規模の大きさを強調
 
 sublimeは心を打つほど高尚なものに使い、magnificentは主に外見や規模の素晴らしさを表します。
 
@@ -105,13 +109,13 @@ sublimeは心を打つほど高尚なものに使い、magnificentは主に外�
 
 ## 🧩 あわせて覚えたい
 
-- [majestic](/word/majestic/)：威厳のある、堂々とした
-- [humble](/word/humble/)：謙虚な、控えめな
+- [majestic](/majestic)：威厳のある、堂々とした
+- [humble](/humble)：謙虚な、控えめな
 
 ---
 
 ## 📖 できればこれも
 
-- [elegant](/word/elegant/)：上品な、優雅な
-- [splendid](/word/splendid/)：素晴らしい、華やかな
-<!-- cvid: aid45_bid17 -->
+- [elegant](/elegant)：上品な、優雅な
+- [splendid](/splendid)：素晴らしい、華やかな
+<!-- cvid: aid10_bid07 -->

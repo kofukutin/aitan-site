@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【kilogram】の意味・使い方・例文 ― poundとの違い【TOEIC英単語】"
 description: "kilogramの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpoundとの違いもわかりやすく学べます。"
 word: "kilogram"
@@ -81,15 +81,19 @@ TOEICでは、重さや数量を表す文脈で名詞として出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid11_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、重さや数量を表す文脈で名詞として出題されるこ
 ## 🤔  pound との違いは？
 
 - **kilogram**：国際単位系（SI）で使われる重さの単位。1kg＝1,000g。
-- **[pound](/word/pound/)**：主にアメリカやイギリスで使われる重さの単位。1ポンド＝約0.45kg。
+- **[pound](/pound)**：主にアメリカやイギリスで使われる重さの単位。1ポンド＝約0.45kg。
 
 kilogramは世界的な標準単位、poundは主に英米圏で使われる伝統的な単位です。
 
@@ -105,14 +109,14 @@ kilogramは世界的な標準単位、poundは主に英米圏で使われる伝�
 
 ## 🧩 あわせて覚えたい
 
-- [gram](/word/gram/)：グラム（重さの単位、1kg＝1,000g）
-- [liter](/word/liter/)：リットル（容量の単位）
+- [gram](/gram)：グラム（重さの単位、1kg＝1,000g）
+- [liter](/liter)：リットル（容量の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/word/meter/)：メートル（長さの単位）
-- [centimeter](/word/centimeter/)：センチメートル（長さの単位、1m＝100cm）
+- [meter](/meter)：メートル（長さの単位）
+- [centimeter](/centimeter)：センチメートル（長さの単位、1m＝100cm）
 
-<!-- cvid: aid45_bid30 -->
+<!-- cvid: aid11_bid24 -->

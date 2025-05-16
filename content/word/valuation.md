@@ -81,15 +81,19 @@ TOEICでは、財務報告やビジネス取引に関する長文で「valuation
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、財務報告やビジネス取引に関する長文で「valuation
 ## 🤔  assessment との違いは？
 
 - **valuation**：主に金銭的な価値や価格を評価・査定すること
-- **[assessment](/word/assessment/)**：広く評価や査定全般（価値以外も含む）
+- **[assessment](/assessment)**：広く評価や査定全般（価値以外も含む）
 
 valuationは「金額」や「市場価値」に焦点があり、assessmentは能力や状況など幅広い評価に使われます。
 
@@ -105,14 +109,14 @@ valuationは「金額」や「市場価値」に焦点があり、assessmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [appraisal](/word/appraisal/)：鑑定、評価（特に不動産や資産の価値判断）
-- [depreciation](/word/depreciation/)：減価償却、価値の減少
+- [appraisal](/appraisal)：鑑定、評価（特に不動産や資産の価値判断）
+- [depreciation](/depreciation)：減価償却、価値の減少
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [equity](/word/equity/)：株式、自己資本
+- [asset](/asset)：資産
+- [equity](/equity)：株式、自己資本
 
-<!-- cvid: aid05_bid47 -->
+<!-- cvid: aid35_bid01 -->

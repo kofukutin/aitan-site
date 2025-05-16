@@ -82,15 +82,19 @@ TOEICでは主にPart 7の長文やビジネス文書で「目標の追求」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 7の長文やビジネス文書で「目標の追求」や
 ## 🤔  chase との違いは？
 
 - **pursuit**：目標や理想など抽象的なものを「追求」する意味が強い。フォーマルな場面で使われやすい。
-- **[chase](/word/chase/)**：物理的に「追いかける」「追跡する」意味が中心で、日常的・カジュアルな表現。
+- **[chase](/chase)**：物理的に「追いかける」「追跡する」意味が中心で、日常的・カジュアルな表現。
 
 pursuitは目標や夢など抽象的な「追求」に使い、chaseは人や物を実際に「追いかける」場面で使います。
 
@@ -106,14 +110,14 @@ pursuitは目標や夢など抽象的な「追求」に使い、chaseは人や�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/word/goal/)：目標
-- [endeavor](/word/endeavor/)：努力、試み
+- [goal](/goal)：目標
+- [endeavor](/endeavor)：努力、試み
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/word/objective/)：目的、目標
-- [achievement](/word/achievement/)：達成、業績
+- [objective](/objective)：目的、目標
+- [achievement](/achievement)：達成、業績
 
-<!-- cvid: aid07_bid31 -->
+<!-- cvid: aid16_bid05 -->

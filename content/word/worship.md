@@ -81,15 +81,19 @@ The company founder is worshiped by many employees for his vision.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company founder is worshiped by many employees for his vision.
 ## 🤔  pray との違いは？
 
 - **worship**：神や人物などを深く敬い、崇拝すること。礼拝や尊敬の意味合いが強い。
-- **[pray](/word/pray/)**：神や何かに祈ること。願いやお願いを伝える行為。
+- **[pray](/pray)**：神や何かに祈ること。願いやお願いを伝える行為。
 
 worshipは「崇拝・礼拝」全体を指し、prayは「祈る」という具体的な行為を指します。worshipの方がより広い意味で使われます。
 
@@ -105,14 +109,14 @@ worshipは「崇拝・礼拝」全体を指し、prayは「祈る」という具
 
 ## 🧩 あわせて覚えたい
 
-- [admire](/word/admire/)：称賛する、感心する
-- [idolize](/word/idolize/)：偶像化する、熱狂的に崇拝する
+- [admire](/admire)：称賛する、感心する
+- [idolize](/idolize)：偶像化する、熱狂的に崇拝する
 
 ---
 
 ## 📖 できればこれも
 
-- [celebrate](/word/celebrate/)：祝う
-- [respect](/word/respect/)：尊敬する
+- [celebrate](/celebrate)：祝う
+- [respect](/respect)：尊敬する
 
-<!-- cvid: aid01_bid03 -->
+<!-- cvid: aid12_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、社内通知などで「confi
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、社内通知などで「confi
 ## 🤔  secret との違いは？
 
 - **confidential**：主にビジネスや公的な場面で使われる「機密の」「内密の」
-- **[secret](/word/secret/)**：一般的に「秘密の」「隠された」という広い意味
+- **[secret](/secret)**：一般的に「秘密の」「隠された」という広い意味
 
 confidentialは「信頼して預けられた機密情報」などフォーマルな場面で使い、secretは日常的な「秘密」にも幅広く使います。
 
@@ -105,14 +109,14 @@ confidentialは「信頼して預けられた機密情報」などフォーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [classified](/word/classified/)：（公的に）機密扱いの
-- [private](/word/private/)：個人的な、私的な
+- [classified](/classified)：（公的に）機密扱いの
+- [private](/private)：個人的な、私的な
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：公式の、公的な
-- [sensitive](/word/sensitive/)：（情報が）取り扱い注意の
+- [official](/official)：公式の、公的な
+- [sensitive](/sensitive)：（情報が）取り扱い注意の
 
-<!-- cvid: aid25_bid25 -->
+<!-- cvid: aid40_bid16 -->

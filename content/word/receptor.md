@@ -81,15 +81,19 @@ TOEICでは医療や科学分野の説明文や記事で見かけることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や科学分野の説明文や記事で見かけることが多
 ## 🤔  sensor との違いは？
 
 - **receptor**：生物の体内で特定の刺激や物質を受け取る受容体や感覚器官
-- **[sensor](/word/sensor/)**：機械や装置で外部の変化を感知するセンサー
+- **[sensor](/sensor)**：機械や装置で外部の変化を感知するセンサー
 
 receptorは生物学的な「受容体」、sensorは機械的な「感知器」として使い分けます。
 
@@ -105,14 +109,14 @@ receptorは生物学的な「受容体」、sensorは機械的な「感知器」
 
 ## 🧩 あわせて覚えたい
 
-- [enzyme](/word/enzyme/)：酵素（生体内で化学反応を促進する物質）
-- [transmitter](/word/transmitter/)：伝達物質（信号や情報を伝えるもの）
+- [enzyme](/enzyme)：酵素（生体内で化学反応を促進する物質）
+- [transmitter](/transmitter)：伝達物質（信号や情報を伝えるもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [hormone](/word/hormone/)：ホルモン（体内の情報伝達物質）
-- [stimulus](/word/stimulus/)：刺激（反応を引き起こす要因）
+- [hormone](/hormone)：ホルモン（体内の情報伝達物質）
+- [stimulus](/stimulus)：刺激（反応を引き起こす要因）
 
-<!-- cvid: aid37_bid20 -->
+<!-- cvid: aid18_bid01 -->

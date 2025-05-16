@@ -81,15 +81,19 @@ committeeはTOEICの長文読解（Part 7）で、会社や団体の組織構成
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ committeeはTOEICの長文読解（Part 7）で、会社や団体の組織構成
 ## 🤔  board との違いは？
 
 - **committee**：特定の目的や課題のために集められた委員会
-- **[board](/word/board/)**：会社や団体の経営・監督を行う取締役会や理事会
+- **[board](/board)**：会社や団体の経営・監督を行う取締役会や理事会
 
 committeeは一時的・限定的な課題に取り組む小規模な集団、boardは組織の意思決定や監督を担う常設の上位機関です。
 
@@ -105,14 +109,14 @@ committeeは一時的・限定的な課題に取り組む小規模な集団、bo
 
 ## 🧩 あわせて覚えたい
 
-- [council](/word/council/)：評議会、協議会
-- [panel](/word/panel/)：専門家などによる審査団・討論グループ
+- [council](/council)：評議会、協議会
+- [panel](/panel)：専門家などによる審査団・討論グループ
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議、協議会
-- [agenda](/word/agenda/)：議題、議事日程
+- [conference](/conference)：会議、協議会
+- [agenda](/agenda)：議題、議事日程
 
-<!-- cvid: aid21_bid10 -->
+<!-- cvid: aid28_bid30 -->

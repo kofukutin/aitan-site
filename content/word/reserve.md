@@ -89,7 +89,11 @@ TOEICでは「会議室やレストランの予約」「席を取っておく」
 
 <div class="info-center">
 ＼続くから力になる／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「会議室やレストランの予約」「席を取っておく」
 ## 🤔  book との違いは？
 
 - **reserve**：フォーマルな場面やビジネスで「予約する」「取っておく」ときに使う
-- **[book](/word/book/)**：日常的な「予約する」で、ホテルやチケットなど幅広く使う
+- **[book](/book)**：日常的な「予約する」で、ホテルやチケットなど幅広く使う
 
 reserveはややフォーマルで、特にビジネスや公式な予約に使われやすいのに対し、bookはカジュアルで日常的な予約全般に使われます。
 
@@ -105,14 +109,14 @@ reserveはややフォーマルで、特にビジネスや公式な予約に使�
 
 ## 🧩 あわせて覚えたい
 
-- [cancel](/word/cancel/)：取り消す、キャンセルする
-- [arrange](/word/arrange/)：手配する、準備する
+- [cancel](/cancel)：取り消す、キャンセルする
+- [arrange](/arrange)：手配する、準備する
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定を立てる、スケジュールする
-- [confirm](/word/confirm/)：確認する
+- [schedule](/schedule)：予定を立てる、スケジュールする
+- [confirm](/confirm)：確認する
 
 <!-- cvid: aid24_bid33 -->

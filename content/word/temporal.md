@@ -81,15 +81,19 @@ temporalはTOEICの長文読解や科学・技術系の文章でまれに登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ temporalはTOEICの長文読解や科学・技術系の文章でまれに登場�
 ## 🤔  temporary との違いは？
 
 - **temporal**：時間に関する、時間的な
-- **[temporary](/word/temporary/)**：一時的な、仮の
+- **[temporary](/temporary)**：一時的な、仮の
 
 temporalは「時間そのものや時間の流れに関する」意味で、temporaryは「短期間だけ続く」という意味です。temporalは科学や哲学で、temporaryは日常的な「仮の」や「臨時の」に使われます。
 
@@ -105,14 +109,14 @@ temporalは「時間そのものや時間の流れに関する」意味で、tem
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/word/permanent/)：永続的な、恒久的な
-- [chronological](/word/chronological/)：年代順の、時系列の
+- [permanent](/permanent)：永続的な、恒久的な
+- [chronological](/chronological)：年代順の、時系列の
 
 ---
 
 ## 📖 できればこれも
 
-- [spatial](/word/spatial/)：空間の、空間的な
-- [transient](/word/transient/)：一時的な、つかの間の
+- [spatial](/spatial)：空間の、空間的な
+- [transient](/transient)：一時的な、つかの間の
 
-<!-- cvid: aid00_bid02 -->
+<!-- cvid: aid48_bid24 -->

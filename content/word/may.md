@@ -78,15 +78,19 @@ mayはTOEICの会話応答や指示文でよく登場します。控えめな許
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ mayはTOEICの会話応答や指示文でよく登場します。控えめな許
 ## 🤔  might との違いは？
 
 - **may**：可能性や許可をやや控えめに表現する
-- **[might](/word/might/)**：mayよりさらに控えめ・低い可能性を表す
+- **[might](/might)**：mayよりさらに控えめ・低い可能性を表す
 
 mayは「～かもしれない」と一般的な可能性や許可に使い、mightは「もしかすると」とより弱い可能性や丁寧な表現に使います。
 
@@ -102,14 +106,14 @@ mayは「～かもしれない」と一般的な可能性や許可に使い、mi
 
 ## 🧩 あわせて覚えたい
 
-- [can](/word/can/)：～できる（能力・可能）
-- [must](/word/must/)：～しなければならない（義務）
+- [can](/can)：～できる（能力・可能）
+- [must](/must)：～しなければならない（義務）
 
 ---
 
 ## 📖 できればこれも
 
-- [should](/word/should/)：～すべき
-- [could](/word/could/)：～できた、～かもしれない
+- [should](/should)：～すべき
+- [could](/could)：～できた、～かもしれない
 
-<!-- cvid: aid18_bid10 -->
+<!-- cvid: aid03_bid48 -->

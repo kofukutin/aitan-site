@@ -81,15 +81,19 @@ TOEICでは、プロジェクトや計画の進行状況を説明する場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、プロジェクトや計画の進行状況を説明する場面で
 ## 🤔  stage との違いは？
 
 - **phase**：全体の流れの中で区切られた「段階」や「局面」を強調し、変化や進行の一部として使う。
-- **[stage](/word/stage/)**：物事の進行や発展の「段階」だが、より広く一般的な場面や発展のレベルを指す。
+- **[stage](/stage)**：物事の進行や発展の「段階」だが、より広く一般的な場面や発展のレベルを指す。
 
 「phase」は変化やプロセスの一部としての「段階」に焦点を当て、「stage」は発展や進行のレベル・時期を幅広く表します。
 
@@ -105,14 +109,14 @@ TOEICでは、プロジェクトや計画の進行状況を説明する場面で
 
 ## 🧩 あわせて覚えたい
 
-- [period](/word/period/)：期間、時期
-- [cycle](/word/cycle/)：周期、循環
+- [period](/period)：期間、時期
+- [cycle](/cycle)：周期、循環
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、プロセス
-- [step](/word/step/)：段階、手順
+- [process](/process)：過程、プロセス
+- [step](/step)：段階、手順
 
-<!-- cvid: aid26_bid00 -->
+<!-- cvid: aid02_bid27 -->

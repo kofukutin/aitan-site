@@ -81,15 +81,19 @@ TOEICでは健康や医療、食事に関する長文や広告、案内文でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や医療、食事に関する長文や広告、案内文でよ
 ## 🤔  diet との違いは？
 
 - **nutrition**：体が必要とする栄養やその摂取・状態を指す
-- **[diet](/word/diet/)**：食事内容や食習慣、または特定の食事制限を指す
+- **[diet](/diet)**：食事内容や食習慣、または特定の食事制限を指す
 
 nutritionは「栄養そのもの」や「栄養状態」に焦点があり、dietは「何を食べるか」「食事の種類」に重点があります。
 
@@ -105,14 +109,14 @@ nutritionは「栄養そのもの」や「栄養状態」に焦点があり、di
 
 ## 🧩 あわせて覚えたい
 
-- [malnutrition](/word/malnutrition/)：栄養失調
-- [vitamin](/word/vitamin/)：ビタミン
+- [malnutrition](/malnutrition)：栄養失調
+- [vitamin](/vitamin)：ビタミン
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein/)：たんぱく質
-- [calorie](/word/calorie/)：カロリー
+- [protein](/protein)：たんぱく質
+- [calorie](/calorie)：カロリー
 
-<!-- cvid: aid08_bid10 -->
+<!-- cvid: aid39_bid43 -->

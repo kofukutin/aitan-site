@@ -80,15 +80,19 @@ IT関連やソフトウェアの利用規約、製品紹介文などで見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ IT関連やソフトウェアの利用規約、製品紹介文などで見かけ
 ## 🤔  freeware との違いは？
 
 - **shareware**：一定期間無料で試用でき、継続利用には料金が必要なソフトウェア
-- **[freeware](/word/freeware/)**：完全に無料で利用できるソフトウェア
+- **[freeware](/freeware)**：完全に無料で利用できるソフトウェア
 
 sharewareは「試用後に有料」、freewareは「最初から最後まで無料」という違いがあります。
 
@@ -104,14 +108,14 @@ sharewareは「試用後に有料」、freewareは「最初から最後まで無
 
 ## 🧩 あわせて覚えたい
 
-- [trial](/word/trial/)：試用、体験版
-- [license](/word/license/)：ライセンス、使用許可
+- [trial](/trial)：試用、体験版
+- [license](/license)：ライセンス、使用許可
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/word/software/)：ソフトウェア、プログラム
-- [update](/word/update/)：更新、アップデート
+- [software](/software)：ソフトウェア、プログラム
+- [update](/update)：更新、アップデート
 
-<!-- cvid: aid02_bid49 -->
+<!-- cvid: aid33_bid13 -->

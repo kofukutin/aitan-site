@@ -81,15 +81,19 @@ TOEICではITやビジネス関連の長文やEメール、案内文などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス関連の長文やEメール、案内文などで「
 ## 🤔  distributor との違いは？
 
 - **reseller**：仕入れた商品を他の顧客や企業に再販売する業者
-- **[distributor](/word/distributor/)**：メーカーから商品を仕入れ、小売業者やresellerなどに広く分配する業者
+- **[distributor](/distributor)**：メーカーから商品を仕入れ、小売業者やresellerなどに広く分配する業者
 
 「reseller」は最終顧客や他の企業に再販売する業者を指し、「distributor」は流通経路の中で商品を広く分配する役割を持ちます。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス関連の長文やEメール、案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [retailer](/word/retailer/)：小売業者（消費者に直接販売する業者）
-- [wholesaler](/word/wholesaler/)：卸売業者（小売業者に大量販売する業者）
+- [retailer](/retailer)：小売業者（消費者に直接販売する業者）
+- [wholesaler](/wholesaler)：卸売業者（小売業者に大量販売する業者）
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給業者、納入業者
-- [vendor](/word/vendor/)：販売業者、売り手
+- [supplier](/supplier)：供給業者、納入業者
+- [vendor](/vendor)：販売業者、売り手
 
-<!-- cvid: aid19_bid17 -->
+<!-- cvid: aid49_bid26 -->

@@ -81,15 +81,19 @@ TOEICではPart 7の長文やメール文で、気分や感情の表現として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文やメール文で、気分や感情の表現として
 ## 🤔  depression との違いは？
 
 - **funk**：一時的な落ち込みや気分の沈み、または恐怖による回避をカジュアルに表現
-- **[depression](/word/depression/)**：医学的・深刻な「うつ病」や長期間の強い落ち込み
+- **[depression](/depression)**：医学的・深刻な「うつ病」や長期間の強い落ち込み
 
 funkは一時的で軽めの気分の落ち込みを指し、depressionは医学的・長期的な深刻さを持つ点が異なります。
 
@@ -105,14 +109,14 @@ funkは一時的で軽めの気分の落ち込みを指し、depressionは医学
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety/)：不安、心配
-- [panic](/word/panic/)：パニック、突然の恐怖
+- [anxiety](/anxiety)：不安、心配
+- [panic](/panic)：パニック、突然の恐怖
 
 ---
 
 ## 📖 できればこれも
 
-- [mood](/word/mood/)：気分、雰囲気
-- [stress](/word/stress/)：ストレス、緊張
+- [mood](/mood)：気分、雰囲気
+- [stress](/stress)：ストレス、緊張
 
-<!-- cvid: aid23_bid18 -->
+<!-- cvid: aid03_bid15 -->

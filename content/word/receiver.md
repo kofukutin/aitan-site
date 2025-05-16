@@ -81,15 +81,19 @@ TOEICでは電話対応や荷物の受け取りなど、ビジネスシーンの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは電話対応や荷物の受け取りなど、ビジネスシーンの
 ## 🤔  recipient との違いは？
 
 - **receiver**：受信機や受話器、または受取人（やや広い意味）
-- **[recipient](/word/recipient/)**：受取人（特にフォーマルで書類やメールの受取人）
+- **[recipient](/recipient)**：受取人（特にフォーマルで書類やメールの受取人）
 
 receiverは「機械」や「受話器」など物理的なものも指しますが、recipientは「受け取る人」に限定され、よりフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ receiverは「機械」や「受話器」など物理的なものも指します
 
 ## 🧩 あわせて覚えたい
 
-- [transmitter](/word/transmitter/)：送信機
-- [addressee](/word/addressee/)：（手紙やメールの）宛先人
+- [transmitter](/transmitter)：送信機
+- [addressee](/addressee)：（手紙やメールの）宛先人
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [operator](/word/operator/)：操作員、オペレーター
+- [device](/device)：装置、機器
+- [operator](/operator)：操作員、オペレーター
 
-<!-- cvid: aid43_bid20 -->
+<!-- cvid: aid42_bid32 -->

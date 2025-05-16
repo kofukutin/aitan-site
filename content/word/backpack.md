@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【backpack】の意味・使い方・例文 ― rucksackとの違い【TOEIC英単語】"
 description: "backpackの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrucksackとの違いもわかりやすく学べます。"
 word: "backpack"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物がリュックを背負って
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物がリュックを背負って
 ## 🤔  rucksack との違いは？
 
 - **backpack**：アメリカ英語で一般的な「リュックサック」
-- **[rucksack](/word/rucksack/)**：イギリス英語で使われる「リュックサック」
+- **[rucksack](/rucksack)**：イギリス英語で使われる「リュックサック」
 
 backpackはアメリカ英語でよく使われ、rucksackはイギリス英語でややフォーマルまたは登山用のニュアンスがあります。
 
@@ -105,14 +109,14 @@ backpackはアメリカ英語でよく使われ、rucksackはイギリス英語�
 
 ## 🧩 あわせて覚えたい
 
-- [suitcase](/word/suitcase/)：スーツケース、旅行用の大きなかばん
-- [luggage](/word/luggage/)：荷物、旅行かばん全般
+- [suitcase](/suitcase)：スーツケース、旅行用の大きなかばん
+- [luggage](/luggage)：荷物、旅行かばん全般
 
 ---
 
 ## 📖 できればこれも
 
-- [bag](/word/bag/)：かばん、袋
-- [pocket](/word/pocket/)：ポケット、衣服などの小さな入れ物
+- [bag](/bag)：かばん、袋
+- [pocket](/pocket)：ポケット、衣服などの小さな入れ物
 
-<!-- cvid: aid11_bid03 -->
+<!-- cvid: aid29_bid43 -->

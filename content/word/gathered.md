@@ -81,15 +81,19 @@ TOEICでは会議やチーム活動の場面で「集まる」「集める」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やチーム活動の場面で「集まる」「集める」と
 ## 🤔  collected との違いは？
 
 - **gathered**：人や物が一か所に集まる・集めること全般を表す
-- **[collected](/word/collected/)**：主に物や情報を意図的に集めて整理するニュアンス
+- **[collected](/collected)**：主に物や情報を意図的に集めて整理するニュアンス
 
 gatheredは「集まる・集める」動作自体に焦点があり、collectedは「集めてまとめる・整理する」意図が強いです。
 
@@ -105,14 +109,14 @@ gatheredは「集まる・集める」動作自体に焦点があり、collected
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：（人や物を）集める、組み立てる
-- [disperse](/word/disperse/)：散らす、分散させる
+- [assemble](/assemble)：（人や物を）集める、組み立てる
+- [disperse](/disperse)：散らす、分散させる
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [organize](/word/organize/)：組織する、整理する
+- [arrange](/arrange)：手配する、整える
+- [organize](/organize)：組織する、整理する
 
-<!-- cvid: aid40_bid17 -->
+<!-- cvid: aid43_bid42 -->

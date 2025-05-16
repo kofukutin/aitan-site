@@ -81,15 +81,19 @@ ITやネットワーク関連の長文やメール文面で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやネットワーク関連の長文やメール文面で見かけることが
 ## 🤔  check との違いは？
 
 - **ping**：IT分野では「信号を送って応答を確認する」、カジュアルには「軽く連絡する」
-- **[check](/word/check/)**：一般的に「確認する」「調べる」
+- **[check](/check)**：一般的に「確認する」「調べる」
 
 pingはITやメッセージ送信など「アクションを起こす」ニュアンスが強く、checkは「状態や内容を確認する」意味で使われます。
 
@@ -105,14 +109,14 @@ pingはITやメッセージ送信など「アクションを起こす」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [notify](/word/notify/)：通知する、知らせる
-- [test](/word/test/)：テストする、試す
+- [notify](/notify)：通知する、知らせる
+- [test](/test)：テストする、試す
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/word/connect/)：接続する
-- [respond](/word/respond/)：応答する
+- [connect](/connect)：接続する
+- [respond](/respond)：応答する
 
-<!-- cvid: aid19_bid22 -->
+<!-- cvid: aid00_bid48 -->

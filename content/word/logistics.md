@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、案内文などで「物流�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid45_bid48" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid48" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、案内文などで「物流�
 ## 🤔  supply との違いは？
 
 - **logistics**：物資や人員などの全体的な流れや管理・調整の仕組み
-- **[supply](/word/supply/)**：物資そのものや供給する行為
+- **[supply](/supply)**：物資そのものや供給する行為
 
 logisticsは「仕組み・段取り・管理」を指し、supplyは「物やサービスを供給すること」自体を指します。物流の全体像と、物の供給という部分的な違いがあります。
 
@@ -105,14 +109,14 @@ logisticsは「仕組み・段取り・管理」を指し、supplyは「物や�
 
 ## 🧩 あわせて覚えたい
 
-- [distribution](/word/distribution/)：流通、配布
-- [operation](/word/operation/)：運用、作業
+- [distribution](/distribution)：流通、配布
+- [operation](/operation)：運用、作業
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment/)：出荷、発送
-- [inventory](/word/inventory/)：在庫
+- [shipment](/shipment)：出荷、発送
+- [inventory](/inventory)：在庫
 
-<!-- cvid: aid28_bid40 -->
+<!-- cvid: aid45_bid48 -->

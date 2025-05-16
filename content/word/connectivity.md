@@ -88,8 +88,12 @@ ITやビジネスの文脈で、ネットワークやシステムの説明文中
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの文脈で、ネットワークやシステムの説明文中
 ## 🤔  connection との違いは？
 
 - **connectivity**：ネットワークやシステムなどの「接続性」や「つながりやすさ」を表す
-- **[connection](/word/connection/)**：物理的・人的な「つながり」や「接続」そのものを指す
+- **[connection](/connection)**：物理的・人的な「つながり」や「接続」そのものを指す
 
 connectivityは「どれだけつながりやすいか」という性質を表し、connectionは「実際のつながり」や「接続点」を指します。
 
@@ -105,14 +109,14 @@ connectivityは「どれだけつながりやすいか」という性質を表�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、通信網
-- [access](/word/access/)：アクセス、接続すること
+- [network](/network)：ネットワーク、通信網
+- [access](/access)：アクセス、接続すること
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：機器、デバイス
-- [signal](/word/signal/)：信号、電波
+- [device](/device)：機器、デバイス
+- [signal](/signal)：信号、電波
 
-<!-- cvid: aid29_bid19 -->
+<!-- cvid: aid29_bid49 -->

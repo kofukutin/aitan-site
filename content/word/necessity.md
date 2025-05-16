@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【necessity】の意味・使い方・例文 ― needとの違い【TOEIC英単語】"
 description: "necessityの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでneedとの違いもわかりやすく学べます。"
 word: "necessity"
@@ -81,15 +81,19 @@ TOEICでは、必要性や必需品を問う文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、必要性や必需品を問う文脈で出題されることが多
 ## 🤔  need との違いは？
 
 - **necessity**：避けられないほど重要な「必要性」や「必需品」を指すフォーマルな表現
-- **[need](/word/need/)**：日常的な「必要」「欲求」など幅広く使える一般的な単語
+- **[need](/need)**：日常的な「必要」「欲求」など幅広く使える一般的な単語
 
 necessityは客観的・絶対的な必要性を強調し、needは主観的・個人的な必要にも使えます。
 
@@ -105,14 +109,14 @@ necessityは客観的・絶対的な必要性を強調し、needは主観的・�
 
 ## 🧩 あわせて覚えたい
 
-- [requirement](/word/requirement/)：要件、必要条件
-- [luxury](/word/luxury/)：贅沢品
+- [requirement](/requirement)：要件、必要条件
+- [luxury](/luxury)：贅沢品
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、極めて重要な
-- [require](/word/require/)：必要とする
+- [essential](/essential)：不可欠な、極めて重要な
+- [require](/require)：必要とする
 
-<!-- cvid: aid09_bid32 -->
+<!-- cvid: aid08_bid06 -->

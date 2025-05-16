@@ -81,15 +81,19 @@ TOEICでは、コンサートやイベントの案内文、芸術関連の記事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、コンサートやイベントの案内文、芸術関連の記事
 ## 🤔  group との違いは？
 
 - **ensemble**：音楽や演劇などで調和して活動する少人数のグループや合奏団を指す
-- **[group](/word/group/)**：一般的に人や物の集まり全般を指す
+- **[group](/group)**：一般的に人や物の集まり全般を指す
 
 ensembleは特に芸術分野で「まとまり・調和」を強調し、groupはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ ensembleは特に芸術分野で「まとまり・調和」を強調し、group�
 
 ## 🧩 あわせて覚えたい
 
-- [orchestra](/word/orchestra/)：オーケストラ（大規模な管弦楽団）
-- [choir](/word/choir/)：合唱団
+- [orchestra](/orchestra)：オーケストラ（大規模な管弦楽団）
+- [choir](/choir)：合唱団
 
 ---
 
 ## 📖 できればこれも
 
-- [performance](/word/performance/)：演奏、上演
-- [audience](/word/audience/)：観客、聴衆
+- [performance](/performance)：演奏、上演
+- [audience](/audience)：観客、聴衆
 
-<!-- cvid: aid42_bid12 -->
+<!-- cvid: aid00_bid22 -->

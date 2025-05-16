@@ -81,15 +81,19 @@ legislationはTOEICの長文読解パートで、法令や規則に関する記�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ legislationはTOEICの長文読解パートで、法令や規則に関する記�
 ## 🤔  regulation との違いは？
 
 - **legislation**：議会などで制定される法律や法令全体を指す、より広い意味。
-- **[regulation](/word/regulation/)**：特定の分野や行動を細かく定める「規則」「規制」。
+- **[regulation](/regulation)**：特定の分野や行動を細かく定める「規則」「規制」。
 
 legislationは「法律そのもの」や「立法行為」を指し、regulationはその法律に基づいて定められる具体的なルールや規則を指します。
 
@@ -105,14 +109,14 @@ legislationは「法律そのもの」や「立法行為」を指し、regulatio
 
 ## 🧩 あわせて覚えたい
 
-- [statute](/word/statute/)：制定法、成文法
-- [enactment](/word/enactment/)：制定、法律の制定
+- [statute](/statute)：制定法、成文法
+- [enactment](/enactment)：制定、法律の制定
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [amendment](/word/amendment/)：修正、改正
+- [policy](/policy)：方針、政策
+- [amendment](/amendment)：修正、改正
 
-<!-- cvid: aid33_bid32 -->
+<!-- cvid: aid18_bid00 -->

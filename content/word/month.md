@@ -81,15 +81,19 @@ TOEICでは日付やスケジュール、期間を尋ねる場面で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid25" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid25" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付やスケジュール、期間を尋ねる場面で頻出しま
 ## 🤔  period との違いは？
 
 - **month**：1年を12等分した「月」や約30日間の明確な期間
-- **[period](/word/period/)**：特定の長さや区切りのある「期間」全般
+- **[period](/period)**：特定の長さや区切りのある「期間」全般
 
 **month**はカレンダー上の「月」を指し、**period**は長さや内容が決まっていない「期間」を幅広く表します。
 
@@ -105,14 +109,14 @@ TOEICでは日付やスケジュール、期間を尋ねる場面で頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [week](/word/week/)：週、7日間
-- [quarter](/word/quarter/)：四半期、3か月
+- [week](/week)：週、7日間
+- [quarter](/quarter)：四半期、3か月
 
 ---
 
 ## 📖 できればこれも
 
-- [year](/word/year/)：年、12か月
-- [calendar](/word/calendar/)：カレンダー、暦
+- [year](/year)：年、12か月
+- [calendar](/calendar)：カレンダー、暦
 
-<!-- cvid: aid15_bid08 -->
+<!-- cvid: aid44_bid25 -->

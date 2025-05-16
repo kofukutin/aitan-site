@@ -82,15 +82,19 @@ TOEICではPart 5の文法・語彙問題で「明記する」「指定する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 5の文法・語彙問題で「明記する」「指定する」
 ## 🤔  indicate との違いは？
 
 - **specify**：はっきりと具体的に内容や条件を示す
-- **[indicate](/word/indicate/)**：指し示す、示唆する（必ずしも具体的でなくてもよい）
+- **[indicate](/indicate)**：指し示す、示唆する（必ずしも具体的でなくてもよい）
 
 specifyは「詳細まで明確に述べる」ニュアンスが強く、indicateは「方向性や存在を示す」程度で使われます。
 
@@ -106,14 +110,14 @@ specifyは「詳細まで明確に述べる」ニュアンスが強く、indicat
 
 ## 🧩 あわせて覚えたい
 
-- [detail](/word/detail/)：詳細に述べる
-- [define](/word/define/)：定義する
+- [detail](/detail)：詳細に述べる
+- [define](/define)：定義する
 
 ---
 
 ## 📖 できればこれも
 
-- [clarify](/word/clarify/)：明確にする
-- [state](/word/state/)：述べる
+- [clarify](/clarify)：明確にする
+- [state](/state)：述べる
 
-<!-- cvid: aid41_bid32 -->
+<!-- cvid: aid44_bid41 -->

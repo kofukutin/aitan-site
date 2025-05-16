@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pure】の意味・使い方・例文 ― cleanとの違い【TOEIC英単語】"
 description: "pureの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcleanとの違いもわかりやすく学べます。"
 word: "pure"
@@ -81,15 +81,19 @@ TOEICでは「pure water（純水）」や「pure gold（純金）」など、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「pure water（純水）」や「pure gold（純金）」など、�
 ## 🤔  clean との違いは？
 
 - **pure**：混じりけが全くない、成分や性質が100%であることを強調
-- **[clean](/word/clean/)**：汚れやごみがない、きれいな状態
+- **[clean](/clean)**：汚れやごみがない、きれいな状態
 
 「pure」は「他のものが一切混ざっていない」ことを指し、「clean」は「汚れがない」ことを指します。たとえば「pure water」は化学的に純粋な水、「clean water」は見た目や衛生的にきれいな水です。
 
@@ -105,14 +109,14 @@ TOEICでは「pure water（純水）」や「pure gold（純金）」など、�
 
 ## 🧩 あわせて覚えたい
 
-- [impure](/word/impure/)：不純な
-- [refined](/word/refined/)：精製された、洗練された
+- [impure](/impure)：不純な
+- [refined](/refined)：精製された、洗練された
 
 ---
 
 ## 📖 できればこれも
 
-- [simple](/word/simple/)：単純な、簡単な
-- [fresh](/word/fresh/)：新鮮な
+- [simple](/simple)：単純な、簡単な
+- [fresh](/fresh)：新鮮な
 
-<!-- cvid: aid28_bid04 -->
+<!-- cvid: aid09_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、記事などで「地位」「評
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、記事などで「地位」「評
 ## 🤔  status との違いは？
 
 - **standing**：社会的な評価や長期的な地位を強調
-- **[status](/word/status/)**：現在の状況や立場、公式な身分を表す
+- **[status](/status)**：現在の状況や立場、公式な身分を表す
 
 **standing**は「評判」や「社会的評価」に重点があり、**status**は「現時点での状態」や「公式な立場」を指すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やメール、記事などで「地位」「評
 
 ## 🧩 あわせて覚えたい
 
-- [reputation](/word/reputation/)：評判、名声
-- [position](/word/position/)：職位、役職
+- [reputation](/reputation)：評判、名声
+- [position](/position)：職位、役職
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/word/authority/)：権威、権限
-- [rank](/word/rank/)：階級、順位
+- [authority](/authority)：権威、権限
+- [rank](/rank)：階級、順位
 
-<!-- cvid: aid00_bid29 -->
+<!-- cvid: aid15_bid19 -->

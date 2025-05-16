@@ -81,15 +81,19 @@ ITやビジネスの設定・操作説明文で頻出です。特に「enable」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの設定・操作説明文で頻出です。特に「enable」
 ## 🤔  deactivate との違いは？
 
 - **disable**：一時的・恒久的に「使えなくする」「無効にする」こと全般
-- **[deactivate](/word/deactivate/)**：一時的に「作動を止める」「非アクティブにする」こと
+- **[deactivate](/deactivate)**：一時的に「作動を止める」「非アクティブにする」こと
 
 disableは「機能を完全に止める」ニュアンスがあり、deactivateは「一時的にオフにする」場面で使われます。
 
@@ -105,14 +109,14 @@ disableは「機能を完全に止める」ニュアンスがあり、deactivate
 
 ## 🧩 あわせて覚えたい
 
-- [enable](/word/enable/)：有効にする、可能にする
-- [block](/word/block/)：遮断する、妨げる
+- [enable](/enable)：有効にする、可能にする
+- [block](/block)：遮断する、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [update](/word/update/)：更新する、アップデートする
+- [install](/install)：インストールする、設置する
+- [update](/update)：更新する、アップデートする
 
-<!-- cvid: aid06_bid34 -->
+<!-- cvid: aid26_bid33 -->

@@ -10,15 +10,15 @@ tags:
   - Part3
   - はっきり表現
   - ビジネス
-  - 日常会話
+  - 会議
 compared_word: "definitely"
 related_words:
   - "totally"
-  - "completely"
+  - "partially"
 next_words:
+  - "completely"
   - "certainly"
-  - "exactly"
-last_update: "2025-05-04"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 absolutelyの発音と意味
@@ -28,22 +28,15 @@ last_update: "2025-05-04"  # YYYY-MM-DD
     ▶️ 発音を再生　/ˈæbsəluːtli/
   </span>
   <span class="play-audio-sub">
-    （アブソルートリー）
+    （アブソリュートリー）
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
-
 [副詞] 絶対に、完全に、まったく
 
-**absolutely** は、「完全に」「間違いなく」「絶対に」といった強い肯定や同意を表す副詞です。日常会話でもビジネスでも、相手の意見に強く賛成するときや、何かが100%正しい・確実だと伝えたいときによく使われます。
+**absolutely** は、「完全に」「間違いなく」「絶対に」といった強い肯定や同意を表す副詞です。カジュアルな会話からビジネスまで幅広く使われます。
 
-語源はラテン語の「absolutus（解き放たれた、完全な）」から来ており、「何の制限もなく」「完全に」というニュアンスが強調されています。
+語源はラテン語の「absolutus（解き放たれた、完全な）」に由来し、「何の制限もない」「完全な状態」を強調する意味が発展しました。
 
 他の品詞：  
 - absolute：絶対的な（形容詞）
@@ -54,14 +47,12 @@ function playTTS(word) {
 ## ✏️ absolutelyの例文
 
 【日常会話】  
-A: Do you want to go to the movies tonight?  
-B: Absolutely!  
-　A：今夜映画に行かない？  
-　B：もちろん！（絶対行きたい！）
+Are you coming to the party? — Absolutely!  
+　パーティーに来る？ — もちろん！
 
 【ビジネス英語】  
 We absolutely need to finish this project by Friday.  
-　私たちはこのプロジェクトを金曜日までに絶対に終わらせる必要があります。
+　このプロジェクトは金曜日までに絶対に終わらせる必要があります。
 
 ---
 
@@ -70,7 +61,7 @@ We absolutely need to finish this project by Friday.
 - 難易度：★★☆☆☆
 - 出題パート：Part 3（会話問題）
 
-TOEICでは会話や説明文の中で「強い同意」や「完全に～」という意味で頻出します。選択肢や応答文で見かけることが多い単語です。
+TOEICでは会話や意見の強調表現としてPart 3やPart 7でよく登場します。強い同意や断言のニュアンスを理解しておくと役立ちます。
 
 ---
 
@@ -86,42 +77,46 @@ TOEICでは会話や説明文の中で「強い同意」や「完全に～」と
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：absolutelyはagreeの前に置くことで「完全に同意する」という意味が自然に伝わります。
+- 解説：absolutelyはagreeの直前に置くことで「完全に同意する」という意味が自然に伝わります。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  definitely との違いは？
 
-- **absolutely**：100%の強い肯定や同意、疑いの余地がないことを強調。
-- **[definitely](/word/definitely/)**：確実性や断言を表すが、absolutelyほどの強い「完全さ」はない。
+- **absolutely**：強い断定や100%の同意・否定を表す
+- **[definitely](/definitely)**：確実性や自信を持って「間違いなく」と言うときに使う
 
-absolutelyは「絶対に」「間違いなく」と強調したいとき、definitelyは「確かに」「きっと」とやや控えめな確信を伝えたいときに使います。
+absolutelyは「絶対に」「完全に」と強調したいとき、definitelyは「確かに」「間違いなく」とやや控えめな確信を伝えるときに使い分けます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [totally](/word/totally/)：完全に、全く
-- [completely](/word/completely/)：完全に、すっかり
+- [totally](/totally)：完全に、全く
+- [partially](/partially)：部分的に
 
 ---
 
 ## 📖 できればこれも
 
-- [certainly](/word/certainly/)：確かに、もちろん
-- [exactly](/word/exactly/)：正確に、まさに
+- [completely](/completely)：完全に
+- [certainly](/certainly)：確かに、きっと
 
-<!-- cvid: aid09_bid35 -->
+<!-- cvid: aid44_bid30 -->

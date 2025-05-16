@@ -81,15 +81,19 @@ TOEICでは「easy to ～」や「an easy task」など、形容詞として頻�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「easy to ～」や「an easy task」など、形容詞として頻�
 ## 🤔  simple との違いは？
 
 - **easy**：努力や苦労が少なく、やさしいこと
-- **[simple](/word/simple/)**：構造や仕組みが複雑でなく、単純なこと
+- **[simple](/simple)**：構造や仕組みが複雑でなく、単純なこと
 
 「easy」は「やさしい」「苦労しない」という感覚、「simple」は「複雑でない」「単純」という構造的な違いを表します。
 
@@ -105,14 +109,14 @@ TOEICでは「easy to ～」や「an easy task」など、形容詞として頻�
 
 ## 🧩 あわせて覚えたい
 
-- [difficult](/word/difficult/)：難しい
-- [comfortable](/word/comfortable/)：快適な
+- [difficult](/difficult)：難しい
+- [comfortable](/comfortable)：快適な
 
 ---
 
 ## 📖 できればこれも
 
-- [hard](/word/hard/)：難しい、固い
-- [quick](/word/quick/)：速い
+- [hard](/hard)：難しい、固い
+- [quick](/quick)：速い
 
-<!-- cvid: aid11_bid09 -->
+<!-- cvid: aid44_bid34 -->

@@ -81,15 +81,19 @@ TOEICでは大学や教育機関をテーマにした長文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは大学や教育機関をテーマにした長文で登場すること
 ## 🤔  lecturer との違いは？
 
 - **professor**：大学で教える「教授」。研究や教育の両方を担う正式な職位。
-- **[lecturer](/word/lecturer/)**：大学などで講義を担当する「講師」。教授より職位が下の場合が多い。
+- **[lecturer](/lecturer)**：大学などで講義を担当する「講師」。教授より職位が下の場合が多い。
 
 professorは研究と教育の両方を行う正式な職位、lecturerは主に講義を担当する職位で、地位や役割に違いがあります。
 
@@ -105,14 +109,14 @@ professorは研究と教育の両方を行う正式な職位、lecturerは主に
 
 ## 🧩 あわせて覚えたい
 
-- [teacher](/word/teacher/)：学校の先生
-- [researcher](/word/researcher/)：研究者
+- [teacher](/teacher)：学校の先生
+- [researcher](/researcher)：研究者
 
 ---
 
 ## 📖 できればこれも
 
-- [student](/word/student/)：学生
-- [university](/word/university/)：大学
+- [student](/student)：学生
+- [university](/university)：大学
 
-<!-- cvid: aid10_bid34 -->
+<!-- cvid: aid14_bid08 -->

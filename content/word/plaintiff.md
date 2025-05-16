@@ -81,15 +81,19 @@ TOEICでは契約や訴訟に関する長文問題で見かけることが多い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や訴訟に関する長文問題で見かけることが多い
 ## 🤔  complainant との違いは？
 
 - **plaintiff**：主に民事訴訟で訴えを起こす「原告」を指す法的な用語。
-- **[complainant](/word/complainant/)**：苦情や訴えを申し立てる人全般を指し、法廷外でも使われる。
+- **[complainant](/complainant)**：苦情や訴えを申し立てる人全般を指し、法廷外でも使われる。
 
 plaintiffは裁判の原告に限定されますが、complainantは警察や行政への苦情申立人など幅広く使われます。
 
@@ -105,14 +109,14 @@ plaintiffは裁判の原告に限定されますが、complainantは警察や行
 
 ## 🧩 あわせて覚えたい
 
-- [defendant](/word/defendant/)：被告（訴えられる側）
-- [lawsuit](/word/lawsuit/)：訴訟、裁判
+- [defendant](/defendant)：被告（訴えられる側）
+- [lawsuit](/lawsuit)：訴訟、裁判
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/word/verdict/)：評決、判決
-- [settlement](/word/settlement/)：和解、解決
+- [verdict](/verdict)：評決、判決
+- [settlement](/settlement)：和解、解決
 
-<!-- cvid: aid03_bid34 -->
+<!-- cvid: aid41_bid11 -->

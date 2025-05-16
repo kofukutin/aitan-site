@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書や経費精算書などで「miscel
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書や経費精算書などで「miscel
 ## 🤔  various との違いは？
 
 - **miscellaneous**：分類しにくいほど多様で雑多なものを指す
-- **[various](/word/various/)**：いくつかの異なる種類があることを強調
+- **[various](/various)**：いくつかの異なる種類があることを強調
 
 miscellaneousは「ごちゃまぜ感」や「分類不能な多様さ」を表し、variousは「いくつかの異なる種類がある」ことをシンプルに示します。
 
@@ -105,14 +109,14 @@ miscellaneousは「ごちゃまぜ感」や「分類不能な多様さ」を表�
 
 ## 🧩 あわせて覚えたい
 
-- [assorted](/word/assorted/)：より意図的に選ばれた「取り合わせの」
-- [diverse](/word/diverse/)：多様な、幅広い
+- [assorted](/assorted)：より意図的に選ばれた「取り合わせの」
+- [diverse](/diverse)：多様な、幅広い
 
 ---
 
 ## 📖 できればこれも
 
-- [general](/word/general/)：一般的な
-- [specific](/word/specific/)：具体的な
+- [general](/general)：一般的な
+- [specific](/specific)：具体的な
 
-<!-- cvid: aid06_bid14 -->
+<!-- cvid: aid09_bid40 -->

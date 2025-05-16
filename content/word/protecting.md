@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「守る」「保護する」という意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「守る」「保護する」という意味で
 ## 🤔  preventing との違いは？
 
 - **protecting**：危険や損害から「守る」「保護する」ことに重点がある
-- **[preventing](/word/preventing/)**：何かが「起こるのを防ぐ」ことに重点がある
+- **[preventing](/preventing)**：何かが「起こるのを防ぐ」ことに重点がある
 
 protectingは「すでにあるものを守る」イメージ、preventingは「悪いことが起こる前に防ぐ」イメージです。
 
@@ -105,14 +109,14 @@ protectingは「すでにあるものを守る」イメージ、preventingは「
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend/)：（攻撃などから）守る、防御する
-- [guard](/word/guard/)：警戒して守る、見張る
+- [defend](/defend)：（攻撃などから）守る、防御する
+- [guard](/guard)：警戒して守る、見張る
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/word/save/)：救う、助ける
-- [maintain](/word/maintain/)：維持する、保つ
+- [save](/save)：救う、助ける
+- [maintain](/maintain)：維持する、保つ
 
-<!-- cvid: aid07_bid29 -->
+<!-- cvid: aid06_bid19 -->

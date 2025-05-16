@@ -81,7 +81,7 @@ TOEICでは、図表や説明文、仕様書などで「深さ」を表す語と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+積み重ねが力になる👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、図表や説明文、仕様書などで「深さ」を表す語と
 
 <div class="info-center">
 ＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、図表や説明文、仕様書などで「深さ」を表す語と
 ## 🤔  height との違いは？
 
 - **depth**：物の「深さ」や「奥行き」を表す
-- **[height](/word/height/)**：物の「高さ」を表す
+- **[height](/height)**：物の「高さ」を表す
 
 depthは下方向や奥行きの長さ、heightは上方向への長さを指します。たとえばプールや箱の「深さ」はdepth、ビルや木の「高さ」はheightです。
 
@@ -105,14 +109,14 @@ depthは下方向や奥行きの長さ、heightは上方向への長さを指し
 
 ## 🧩 あわせて覚えたい
 
-- [width](/word/width/)：幅
-- [length](/word/length/)：長さ
+- [width](/width)：幅
+- [length](/length)：長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [distance](/word/distance/)：距離
-- [area](/word/area/)：面積
+- [distance](/distance)：距離
+- [area](/area)：面積
 
-<!-- cvid: aid22_bid46 -->
+<!-- cvid: aid47_bid46 -->

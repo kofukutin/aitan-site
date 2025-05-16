@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物の厚みや人の体型を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物の厚みや人の体型を説明
 ## 🤔  slim との違いは？
 
 - **thin**：物や人が「薄い」「細い」「やせている」ことを幅広く表す
-- **[slim](/word/slim/)**：特に体型が「すらりとしている」「引き締まっている」ことを表す
+- **[slim](/slim)**：特に体型が「すらりとしている」「引き締まっている」ことを表す
 
 「thin」は単に厚みや幅が小さいことを指し、やせすぎや健康的でない印象も含む場合がありますが、「slim」は健康的で魅力的な細さを表現します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、物の厚みや人の体型を説明
 
 ## 🧩 あわせて覚えたい
 
-- [narrow](/word/narrow/)：（幅が）狭い
-- [thick](/word/thick/)：厚い、太い
+- [narrow](/narrow)：（幅が）狭い
+- [thick](/thick)：厚い、太い
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light/)：軽い
-- [wide](/word/wide/)：広い
+- [light](/light)：軽い
+- [wide](/wide)：広い
 
-<!-- cvid: aid00_bid33 -->
+<!-- cvid: aid10_bid17 -->

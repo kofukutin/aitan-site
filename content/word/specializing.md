@@ -81,15 +81,19 @@ TOEICでは、職業や会社の専門分野を説明する場面でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業や会社の専門分野を説明する場面でよく登場
 ## 🤔  focusing との違いは？
 
 - **specializing**：特定分野に専門的に取り組むことを強調
-- **[focusing](/word/focusing/)**：注意や意識を集中させることを強調
+- **[focusing](/focusing)**：注意や意識を集中させることを強調
 
 specializingは「専門性」や「特化」を表し、focusingは「集中」や「注意を向ける」ニュアンスです。
 
@@ -105,14 +109,14 @@ specializingは「専門性」や「特化」を表し、focusingは「集中」
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/word/expertise/)：専門知識
-- [concentrate](/word/concentrate/)：集中する
+- [expertise](/expertise)：専門知識
+- [concentrate](/concentrate)：集中する
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/word/manage/)：管理する、運営する
-- [improve](/word/improve/)：改善する
+- [manage](/manage)：管理する、運営する
+- [improve](/improve)：改善する
 
-<!-- cvid: aid17_bid45 -->
+<!-- cvid: aid49_bid27 -->

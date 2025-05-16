@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【tower】の意味・使い方・例文 ― buildingとの違い【TOEIC英単語】"
 description: "towerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbuildingとの違いもわかりやすく学べます。"
 word: "tower"
@@ -81,15 +81,19 @@ towerはTOEICの写真描写問題で、建物や風景を説明する際によ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ towerはTOEICの写真描写問題で、建物や風景を説明する際によ�
 ## 🤔  building との違いは？
 
 - **tower**：細長く高い建物や塔を指す
-- **[building](/word/building/)**：一般的な建物全般を指す
+- **[building](/building)**：一般的な建物全般を指す
 
 towerは特に高さや細長さが強調される構造物に使われ、buildingはオフィスや住宅など広く一般的な建物に使われます。
 
@@ -105,14 +109,14 @@ towerは特に高さや細長さが強調される構造物に使われ、buildi
 
 ## 🧩 あわせて覚えたい
 
-- [skyscraper](/word/skyscraper/)：超高層ビル
-- [monument](/word/monument/)：記念碑、記念建造物
+- [skyscraper](/skyscraper)：超高層ビル
+- [monument](/monument)：記念碑、記念建造物
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/word/bridge/)：橋
-- [statue](/word/statue/)：像
+- [bridge](/bridge)：橋
+- [statue](/statue)：像
 
-<!-- cvid: aid44_bid25 -->
+<!-- cvid: aid15_bid48 -->

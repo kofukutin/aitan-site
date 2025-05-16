@@ -81,15 +81,19 @@ accompaniedは、会議や出張、訪問などのビジネスシーンで「誰
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ accompaniedは、会議や出張、訪問などのビジネスシーンで「誰
 ## 🤔  attended との違いは？
 
 - **accompanied**：誰かと一緒に行動する、付き添う
-- **[attended](/word/attended/)**：イベントや会議などに「出席する」
+- **[attended](/attended)**：イベントや会議などに「出席する」
 
 accompaniedは「誰かと一緒にいる」ことに重点があり、attendedは「参加・出席」そのものを表します。
 
@@ -105,14 +109,14 @@ accompaniedは「誰かと一緒にいる」ことに重点があり、attended�
 
 ## 🧩 あわせて覚えたい
 
-- [escort](/word/escort/)：護衛する、付き添う
-- [join](/word/join/)：加わる、参加する
+- [escort](/escort)：護衛する、付き添う
+- [join](/join)：加わる、参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [assist](/word/assist/)：手伝う、補助する
-- [guide](/word/guide/)：案内する、導く
+- [assist](/assist)：手伝う、補助する
+- [guide](/guide)：案内する、導く
 
-<!-- cvid: aid25_bid12 -->
+<!-- cvid: aid08_bid10 -->

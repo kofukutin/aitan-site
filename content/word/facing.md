@@ -82,15 +82,19 @@ TOEICでは会議やビジネスの会話で「問題に直面する」「課題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議やビジネスの会話で「問題に直面する」「課題
 ## 🤔  confronting との違いは？
 
 - **facing**：問題や状況に「直面する」「向き合う」という中立的な表現。
-- **[confronting](/word/confronting/)**：より積極的に「立ち向かう」「対決する」という強いニュアンス。
+- **[confronting](/confronting)**：より積極的に「立ち向かう」「対決する」という強いニュアンス。
 
 facingは状況を受け止めるニュアンス、confrontingは積極的に問題に挑む・対決する印象があります。
 
@@ -106,14 +110,14 @@ facingは状況を受け止めるニュアンス、confrontingは積極的に問
 
 ## 🧩 あわせて覚えたい
 
-- [deal with](/word/deal_with/)：（問題などに）対処する
-- [encounter](/word/encounter/)：（偶然）出会う、遭遇する
+- [deal with](/deal_with)：（問題などに）対処する
+- [encounter](/encounter)：（偶然）出会う、遭遇する
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：扱う、対処する
-- [address](/word/address/)：（問題などに）取り組む、対処する
+- [handle](/handle)：扱う、対処する
+- [address](/address)：（問題などに）取り組む、対処する
 
-<!-- cvid: aid35_bid07 -->
+<!-- cvid: aid03_bid36 -->

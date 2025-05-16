@@ -81,15 +81,19 @@ TOEICでは、記事やビジネス文書、プロジェクト紹介などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やビジネス文書、プロジェクト紹介などで「
 ## 🤔  donor との違いは？
 
 - **contributor**：広く「貢献者」「寄稿者」など、何かを提供・寄与する人全般
-- **[donor](/word/donor/)**：特に「寄付者」「提供者」として、金銭や物品・臓器などを与える人
+- **[donor](/donor)**：特に「寄付者」「提供者」として、金銭や物品・臓器などを与える人
 
 contributorは幅広い貢献を指し、donorは主に金銭や物品などの「寄付」に限定される点が異なります。
 
@@ -105,14 +109,14 @@ contributorは幅広い貢献を指し、donorは主に金銭や物品などの�
 
 ## 🧩 あわせて覚えたい
 
-- [sponsor](/word/sponsor/)：スポンサー、後援者
-- [participant](/word/participant/)：参加者
+- [sponsor](/sponsor)：スポンサー、後援者
+- [participant](/participant)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [contribution](/word/contribution/)：貢献、寄付
-- [editor](/word/editor/)：編集者
+- [contribution](/contribution)：貢献、寄付
+- [editor](/editor)：編集者
 
-<!-- cvid: aid33_bid32 -->
+<!-- cvid: aid35_bid30 -->

@@ -81,15 +81,19 @@ TOEICのPart 1（写真描写）で、人物の数や性別を問う問題で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1（写真描写）で、人物の数や性別を問う問題で頻
 ## 🤔  male との違いは？
 
 - **men**：人間の男性（複数）を指す一般的な名詞
-- **[male](/word/male/)**：生物学的な「オス」や「男性」を表す形容詞・名詞
+- **[male](/male)**：生物学的な「オス」や「男性」を表す形容詞・名詞
 
 menは「人間の男性たち」を指し、maleは性別を強調する際や動物にも使われます。
 
@@ -105,14 +109,14 @@ menは「人間の男性たち」を指し、maleは性別を強調する際や�
 
 ## 🧩 あわせて覚えたい
 
-- [woman](/word/woman/)：女性
-- [gentleman](/word/gentleman/)：紳士、礼儀正しい男性
+- [woman](/woman)：女性
+- [gentleman](/gentleman)：紳士、礼儀正しい男性
 
 ---
 
 ## 📖 できればこれも
 
-- [person](/word/person/)：人（男女問わず）
-- [boy](/word/boy/)：少年、男の子
+- [person](/person)：人（男女問わず）
+- [boy](/boy)：少年、男の子
 
-<!-- cvid: aid31_bid29 -->
+<!-- cvid: aid47_bid13 -->

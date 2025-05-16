@@ -81,15 +81,19 @@ IT機器やオフィス機器の説明文、マニュアルなどで出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT機器やオフィス機器の説明文、マニュアルなどで出題され
 ## 🤔  adapter との違いは？
 
 - **connector**：主にケーブルや機器同士を物理的につなぐ部品
-- **[adapter](/word/adapter/)**：異なる規格や形状を変換してつなぐ部品
+- **[adapter](/adapter)**：異なる規格や形状を変換してつなぐ部品
 
 connectorは「単純につなぐ」部品、adapterは「形や規格を変換してつなぐ」部品という違いがあります。
 
@@ -105,14 +109,14 @@ connectorは「単純につなぐ」部品、adapterは「形や規格を変換�
 
 ## 🧩 あわせて覚えたい
 
-- [port](/word/port/)：（機器の）差込口、ポート
-- [cable](/word/cable/)：ケーブル、電線
+- [port](/port)：（機器の）差込口、ポート
+- [cable](/cable)：ケーブル、電線
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [plug](/word/plug/)：プラグ、差し込み部品
+- [device](/device)：装置、機器
+- [plug](/plug)：プラグ、差し込み部品
 
-<!-- cvid: aid22_bid15 -->
+<!-- cvid: aid37_bid36 -->

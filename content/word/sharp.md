@@ -81,15 +81,19 @@ TOEICでは「急激な変化」や「鋭い意見」など、比喩的な意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「急激な変化」や「鋭い意見」など、比喩的な意味
 ## 🤔  keen との違いは？
 
 - **sharp**：物理的・比喩的に「鋭い」「はっきりした」「急激な」など幅広く使う
-- **[keen](/word/keen/)**：主に「熱心な」「鋭敏な」「強い関心がある」など感情や感覚に使う
+- **[keen](/keen)**：主に「熱心な」「鋭敏な」「強い関心がある」など感情や感覚に使う
 
 sharpは「明確さ」「急激さ」「物理的な鋭さ」など幅広い場面で使われますが、keenは「感情や感覚が鋭い」「熱意がある」といった内面的なニュアンスが強いです。
 
@@ -105,14 +109,14 @@ sharpは「明確さ」「急激さ」「物理的な鋭さ」など幅広い場
 
 ## 🧩 あわせて覚えたい
 
-- [blunt](/word/blunt/)：鈍い、切れ味の悪い
-- [acute](/word/acute/)：（感覚・痛みなどが）鋭い、激しい
+- [blunt](/blunt)：鈍い、切れ味の悪い
+- [acute](/acute)：（感覚・痛みなどが）鋭い、激しい
 
 ---
 
 ## 📖 できればこれも
 
-- [bright](/word/bright/)：明るい、頭の良い
-- [clear](/word/clear/)：明確な、はっきりした
+- [bright](/bright)：明るい、頭の良い
+- [clear](/clear)：明確な、はっきりした
 
-<!-- cvid: aid49_bid14 -->
+<!-- cvid: aid17_bid43 -->

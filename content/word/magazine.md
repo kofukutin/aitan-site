@@ -80,15 +80,19 @@ TOEICではPart 7の長文読解で、雑誌記事や広告の文脈でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではPart 7の長文読解で、雑誌記事や広告の文脈でよく登
 ## 🤔  journal との違いは？
 
 - **magazine**：一般向けの雑誌。写真や記事が多く、娯楽や情報提供が主目的。
-- **[journal](/word/journal/)**：専門的・学術的な内容が中心の定期刊行物。
+- **[journal](/journal)**：専門的・学術的な内容が中心の定期刊行物。
 
 magazineは幅広い読者向け、journalは専門家や研究者向けに使われることが多いです。
 
@@ -104,14 +108,14 @@ magazineは幅広い読者向け、journalは専門家や研究者向けに使�
 
 ## 🧩 あわせて覚えたい
 
-- [newspaper](/word/newspaper/)：新聞
-- [brochure](/word/brochure/)：パンフレット
+- [newspaper](/newspaper)：新聞
+- [brochure](/brochure)：パンフレット
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/word/article/)：記事
-- [editor](/word/editor/)：編集者
+- [article](/article)：記事
+- [editor](/editor)：編集者
 
-<!-- cvid: aid34_bid02 -->
+<!-- cvid: aid06_bid30 -->

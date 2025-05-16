@@ -81,15 +81,19 @@ twinはホテルの部屋タイプや家族構成の説明など、日常的な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ twinはホテルの部屋タイプや家族構成の説明など、日常的な�
 ## 🤔  sibling との違いは？
 
 - **twin**：同じ母親から同時に生まれた「双子」の一人または両方。
-- **[sibling](/word/sibling/)**：兄弟姉妹全般を指し、双子に限らない。
+- **[sibling](/sibling)**：兄弟姉妹全般を指し、双子に限らない。
 
 twinは「双子」という特定の関係を指し、siblingは「兄弟姉妹」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ twinは「双子」という特定の関係を指し、siblingは「兄弟姉妹
 
 ## 🧩 あわせて覚えたい
 
-- [triplet](/word/triplet/)：三つ子
-- [identical](/word/identical/)：一卵性の、そっくりな
+- [triplet](/triplet)：三つ子
+- [identical](/identical)：一卵性の、そっくりな
 
 ---
 
 ## 📖 できればこれも
 
-- [cousin](/word/cousin/)：いとこ
-- [relative](/word/relative/)：親戚
+- [cousin](/cousin)：いとこ
+- [relative](/relative)：親戚
 
-<!-- cvid: aid07_bid37 -->
+<!-- cvid: aid29_bid40 -->

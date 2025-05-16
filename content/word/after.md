@@ -79,15 +79,19 @@ TOEICでは会話や説明文で「～の後で」という時間や順序を示
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -95,7 +99,7 @@ TOEICでは会話や説明文で「～の後で」という時間や順序を示
 ## 🤔  following との違いは？
 
 - **after**：出来事や時点の「直後」や「その後」を幅広く表す。
-- **[following](/word/following/)**：「直後に続く」「次の」という意味で、よりフォーマルな文脈や書き言葉で使われやすい。
+- **[following](/following)**：「直後に続く」「次の」という意味で、よりフォーマルな文脈や書き言葉で使われやすい。
 
 「after」は日常会話やカジュアルな場面でも使われ、「following」は公式文書や案内などでよく使われます。
 
@@ -103,14 +107,14 @@ TOEICでは会話や説明文で「～の後で」という時間や順序を示
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before/)：～の前に
-- [since](/word/since/)：～以来、～からずっと
+- [before](/before)：～の前に
+- [since](/since)：～以来、～からずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during/)：～の間に
-- [until](/word/until/)：～まで（ずっと）
+- [during](/during)：～の間に
+- [until](/until)：～まで（ずっと）
 
-<!-- cvid: aid08_bid08 -->
+<!-- cvid: aid04_bid13 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【garden】の意味・使い方・例文 ― yardとの違い【TOEIC英単語】"
 description: "gardenの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでyardとの違いもわかりやすく学べます。"
 word: "garden"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「庭」や「庭園」の風景を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「庭」や「庭園」の風景を説
 ## 🤔  yard との違いは？
 
 - **garden**：花や植物を育てるための「庭」や「庭園」を指す。
-- **[yard](/word/yard/)**：家の周りの「空き地」や「裏庭」など、必ずしも植物が植えられていないスペースも含む。
+- **[yard](/yard)**：家の周りの「空き地」や「裏庭」など、必ずしも植物が植えられていないスペースも含む。
 
 gardenは主に花や植物がある美しい庭を指し、yardはより広く「敷地内の空き地」や「裏庭」なども含みます。
 
@@ -105,14 +109,14 @@ gardenは主に花や植物がある美しい庭を指し、yardはより広く�
 
 ## 🧩 あわせて覚えたい
 
-- [park](/word/park/)：公園
-- [flower](/word/flower/)：花
+- [park](/park)：公園
+- [flower](/flower)：花
 
 ---
 
 ## 📖 できればこれも
 
-- [tree](/word/tree/)：木
-- [grass](/word/grass/)：草
+- [tree](/tree)：木
+- [grass](/grass)：草
 
-<!-- cvid: aid42_bid26 -->
+<!-- cvid: aid32_bid02 -->

@@ -81,15 +81,19 @@ TOEICでは、規則違反や契約違反に関する通知やお知らせの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、規則違反や契約違反に関する通知やお知らせの文
 ## 🤔  penalty との違いは？
 
 - **fine**：法律や規則違反に対して科される「罰金」
-- **[penalty](/word/penalty/)**：罰金だけでなく、広く「罰則」「ペナルティ」を指す
+- **[penalty](/penalty)**：罰金だけでなく、広く「罰則」「ペナルティ」を指す
 
 fineは「お金を支払う罰」に限定されるのに対し、penaltyは「出場停止」や「減点」など金銭以外の罰も含みます。
 
@@ -105,14 +109,14 @@ fineは「お金を支払う罰」に限定されるのに対し、penaltyは「
 
 ## 🧩 あわせて覚えたい
 
-- [fee](/word/fee/)：料金、手数料
-- [charge](/word/charge/)：請求、料金
+- [fee](/fee)：料金、手数料
+- [charge](/charge)：請求、料金
 
 ---
 
 ## 📖 できればこれも
 
-- [bill](/word/bill/)：請求書
-- [cost](/word/cost/)：費用
+- [bill](/bill)：請求書
+- [cost](/cost)：費用
 
-<!-- cvid: aid01_bid13 -->
+<!-- cvid: aid30_bid40 -->

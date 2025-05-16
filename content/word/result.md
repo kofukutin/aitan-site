@@ -81,15 +81,19 @@ TOEICでは「結果」「成績」「成果」などの意味で頻出し、特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「結果」「成績」「成果」などの意味で頻出し、特
 ## 🤔  outcome との違いは？
 
 - **result**：一般的な「結果」や「成績」を幅広く指す
-- **[outcome](/word/outcome/)**：特定のプロセスや出来事の「最終的な結末・成果」を強調
+- **[outcome](/outcome)**：特定のプロセスや出来事の「最終的な結末・成果」を強調
 
 「result」は日常的な結果全般に使えますが、「outcome」は特にプロセスや議論の末に得られる最終的な結論や成果に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「結果」「成績」「成果」などの意味で頻出し、特
 
 ## 🧩 あわせて覚えたい
 
-- [consequence](/word/consequence/)：（主に悪い）結果、影響
-- [effect](/word/effect/)：効果、影響
+- [consequence](/consequence)：（主に悪い）結果、影響
+- [effect](/effect)：効果、影響
 
 ---
 
 ## 📖 できればこれも
 
-- [cause](/word/cause/)：原因
-- [factor](/word/factor/)：要因
+- [cause](/cause)：原因
+- [factor](/factor)：要因
 
-<!-- cvid: aid37_bid40 -->
+<!-- cvid: aid01_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、物が吊るされている様子を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、物が吊るされている様子を説
 ## 🤔  suspension との違いは？
 
 - **hanging**：物理的に何かを吊るすことや吊り下げられた物自体を指す。
-- **[suspension](/word/suspension/)**：一時停止や中断の意味もあり、抽象的な「吊るす状態」も含む。
+- **[suspension](/suspension)**：一時停止や中断の意味もあり、抽象的な「吊るす状態」も含む。
 
 hangingは具体的な物や行為に使い、suspensionは抽象的・技術的な場面や「中断」の意味でも使われます。
 
@@ -105,14 +109,14 @@ hangingは具体的な物や行為に使い、suspensionは抽象的・技術的
 
 ## 🧩 あわせて覚えたい
 
-- [attachment](/word/attachment/)：取り付け、付属品
-- [display](/word/display/)：展示、陳列
+- [attachment](/attachment)：取り付け、付属品
+- [display](/display)：展示、陳列
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/word/arrangement/)：配置、取り決め
-- [placement](/word/placement/)：配置、設置
+- [arrangement](/arrangement)：配置、取り決め
+- [placement](/placement)：配置、設置
 
-<!-- cvid: aid02_bid09 -->
+<!-- cvid: aid08_bid47 -->

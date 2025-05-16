@@ -81,15 +81,19 @@ TOEICではPart 7の長文やEメール、掲示文などで「petition」が登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文やEメール、掲示文などで「petition」が登
 ## 🤔  request との違いは？
 
 - **petition**：多くの人が署名する正式な「嘆願書」や「申し立て」を指し、フォーマルで集団的なニュアンスが強い。
-- **[request](/word/request/)**：個人や少人数が行う「依頼」や「要請」で、日常的かつ幅広い場面で使われる。
+- **[request](/request)**：個人や少人数が行う「依頼」や「要請」で、日常的かつ幅広い場面で使われる。
 
 petitionは公的・集団的な要望、requestは個人レベルの依頼に使い分けます。
 
@@ -105,14 +109,14 @@ petitionは公的・集団的な要望、requestは個人レベルの依頼に�
 
 ## 🧩 あわせて覚えたい
 
-- [appeal](/word/appeal/)：訴え、上訴
-- [proposal](/word/proposal/)：提案
+- [appeal](/appeal)：訴え、上訴
+- [proposal](/proposal)：提案
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/word/application/)：申請、応募
-- [complaint](/word/complaint/)：苦情、申し立て
+- [application](/application)：申請、応募
+- [complaint](/complaint)：苦情、申し立て
 
-<!-- cvid: aid17_bid22 -->
+<!-- cvid: aid30_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは「目標を達成する」「成果を上げる」といった文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「目標を達成する」「成果を上げる」といった文脈
 ## 🤔  accomplish との違いは？
 
 - **achieve**：努力や時間をかけて目標や成功を達成する
-- **[accomplish](/word/accomplish/)**：計画や任務など具体的なタスクを完了・成し遂げる
+- **[accomplish](/accomplish)**：計画や任務など具体的なタスクを完了・成し遂げる
 
 achieveは「目標や夢の達成」に幅広く使われ、accomplishは「具体的な仕事や任務の完了」に使われることが多いです。
 
@@ -105,14 +109,14 @@ achieveは「目標や夢の達成」に幅広く使われ、accomplishは「具
 
 ## 🧩 あわせて覚えたい
 
-- [attain](/word/attain/)：（努力して）達成する
-- [fail](/word/fail/)：失敗する
+- [attain](/attain)：（努力して）達成する
+- [fail](/fail)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する
-- [progress](/word/progress/)：進歩する
+- [improve](/improve)：改善する
+- [progress](/progress)：進歩する
 
-<!-- cvid: aid16_bid20 -->
+<!-- cvid: aid34_bid46 -->

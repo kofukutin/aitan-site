@@ -81,15 +81,19 @@ TOEICでは会議やプレゼン、イベント準備の会話で「リハーサ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプレゼン、イベント準備の会話で「リハーサ
 ## 🤔  practice との違いは？
 
 - **rehearsal**：本番を想定したリハーサルや予行演習
-- **[practice](/word/practice/)**：一般的な練習や訓練
+- **[practice](/practice)**：一般的な練習や訓練
 
 rehearsalは本番に近い形で流れを確認する「予行演習」に使い、practiceは技術や能力を高めるための「練習」全般に使います。
 
@@ -105,14 +109,14 @@ rehearsalは本番に近い形で流れを確認する「予行演習」に使�
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/word/performance/)：本番の演技・公演
-- [preparation](/word/preparation/)：準備、用意
+- [performance](/performance)：本番の演技・公演
+- [preparation](/preparation)：準備、用意
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、プレゼン
-- [meeting](/word/meeting/)：会議
+- [presentation](/presentation)：発表、プレゼン
+- [meeting](/meeting)：会議
 
-<!-- cvid: aid01_bid14 -->
+<!-- cvid: aid18_bid03 -->

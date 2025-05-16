@@ -89,8 +89,12 @@ TOEICでは会話文やカジュアルなやりとりで「bet」が使われる
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話文やカジュアルなやりとりで「bet」が使われる
 ## 🤔  gamble との違いは？
 
 - **bet**：具体的な金額や物を賭ける、または「きっと～だ」と断言する時にも使う
-- **[gamble](/word/gamble/)**：リスクを取って賭け事をする、特に運や偶然に頼る場合に使う
+- **[gamble](/gamble)**：リスクを取って賭け事をする、特に運や偶然に頼る場合に使う
 
 「bet」は日常会話で「きっと～だよ」と軽く使えるのに対し、「gamble」はリスクや運に頼る本格的な賭け事のニュアンスが強いです。
 
@@ -106,14 +110,14 @@ TOEICでは会話文やカジュアルなやりとりで「bet」が使われる
 
 ## 🧩 あわせて覚えたい
 
-- [wager](/word/wager/)：賭ける（ややフォーマルな表現）
-- [risk](/word/risk/)：危険を冒す、リスク
+- [wager](/wager)：賭ける（ややフォーマルな表現）
+- [risk](/risk)：危険を冒す、リスク
 
 ---
 
 ## 📖 できればこれも
 
-- [guess](/word/guess/)：推測する
-- [promise](/word/promise/)：約束する
+- [guess](/guess)：推測する
+- [promise](/promise)：約束する
 
-<!-- cvid: aid19_bid01 -->
+<!-- cvid: aid19_bid17 -->

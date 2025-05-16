@@ -81,15 +81,19 @@ TOEICでは、案内や指導、助言に関するメールや通知文、社内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内や指導、助言に関するメールや通知文、社内
 ## 🤔  advice との違いは？
 
 - **guidance**：体系的・継続的な指導や案内、方向性を示す助言
-- **[advice](/word/advice/)**：具体的なアドバイスや提案、助言
+- **[advice](/advice)**：具体的なアドバイスや提案、助言
 
 guidanceは全体の方向性や継続的なサポートを指し、adviceは個別の具体的な助言を指す点が異なります。
 
@@ -105,14 +109,14 @@ guidanceは全体の方向性や継続的なサポートを指し、adviceは個
 
 ## 🧩 あわせて覚えたい
 
-- [instruction](/word/instruction/)：指示、説明
-- [direction](/word/direction/)：指示、方向
+- [instruction](/instruction)：指示、説明
+- [direction](/direction)：指示、方向
 
 ---
 
 ## 📖 できればこれも
 
-- [consultation](/word/consultation/)：相談、協議
-- [recommendation](/word/recommendation/)：推薦、勧告
+- [consultation](/consultation)：相談、協議
+- [recommendation](/recommendation)：推薦、勧告
 
-<!-- cvid: aid08_bid45 -->
+<!-- cvid: aid11_bid32 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネスや市場分析、消費者動向などの文脈で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや市場分析、消費者動向などの文脈で「
 ## 🤔  tendency との違いは？
 
 - **trend**：社会や市場などで見られる明確な変化の方向性や流行
-- **[tendency](/word/tendency/)**：個人や物事に見られる一般的な傾向や性質
+- **[tendency](/tendency)**：個人や物事に見られる一般的な傾向や性質
 
 trendは「目に見える動き」や「流行」に焦点があり、tendencyは「内面的な傾向」や「性質」に使われます。
 
@@ -105,14 +109,14 @@ trendは「目に見える動き」や「流行」に焦点があり、tendency�
 
 ## 🧩 あわせて覚えたい
 
-- [fashion](/word/fashion/)：流行、ファッション
-- [pattern](/word/pattern/)：パターン、型、傾向
+- [fashion](/fashion)：流行、ファッション
+- [pattern](/pattern)：パターン、型、傾向
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market/)：市場
-- [growth](/word/growth/)：成長
+- [market](/market)：市場
+- [growth](/growth)：成長
 
-<!-- cvid: aid23_bid43 -->
+<!-- cvid: aid10_bid20 -->

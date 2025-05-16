@@ -81,15 +81,19 @@ TOEICでは、職場や事故、健康に関する会話や説明文で「injure
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や事故、健康に関する会話や説明文で「injure
 ## 🤔  hurt との違いは？
 
 - **injured**：事故やスポーツなどで「けがをした」「負傷した」と医学的・物理的な傷に使う
-- **[hurt](/word/hurt/)**：けがだけでなく、心の傷や軽い痛みなど幅広く使う
+- **[hurt](/hurt)**：けがだけでなく、心の傷や軽い痛みなど幅広く使う
 
 injuredは主に外傷や事故によるけがに限定されるのに対し、hurtは身体的・精神的な痛みの両方に使えます。
 
@@ -105,14 +109,14 @@ injuredは主に外傷や事故によるけがに限定されるのに対し、h
 
 ## 🧩 あわせて覚えたい
 
-- [wounded](/word/wounded/)：（特に武器などによる）負傷した
-- [recover](/word/recover/)：回復する
+- [wounded](/wounded)：（特に武器などによる）負傷した
+- [recover](/recover)：回復する
 
 ---
 
 ## 📖 できればこれも
 
-- [painful](/word/painful/)：痛い、苦しい
-- [accident](/word/accident/)：事故
+- [painful](/painful)：痛い、苦しい
+- [accident](/accident)：事故
 
-<!-- cvid: aid31_bid19 -->
+<!-- cvid: aid20_bid30 -->

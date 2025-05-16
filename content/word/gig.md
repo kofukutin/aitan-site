@@ -81,15 +81,19 @@ gigは近年の働き方やビジネスシーンの変化を反映して、Part 
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ gigは近年の働き方やビジネスシーンの変化を反映して、Part 
 ## 🤔  job との違いは？
 
 - **gig**：短期間・単発の仕事やライブ演奏など、一時的な仕事を指すカジュアルな表現。
-- **[job](/word/job/)**：長期的・安定的な職業や仕事全般を指すフォーマルな表現。
+- **[job](/job)**：長期的・安定的な職業や仕事全般を指すフォーマルな表現。
 
 gigは「一回きり」「短期」のニュアンスが強く、jobは「職業」「定職」など幅広く使われます。
 
@@ -105,14 +109,14 @@ gigは「一回きり」「短期」のニュアンスが強く、jobは「職�
 
 ## 🧩 あわせて覚えたい
 
-- [task](/word/task/)：課題、作業
-- [assignment](/word/assignment/)：割り当てられた仕事、任務
+- [task](/task)：課題、作業
+- [assignment](/assignment)：割り当てられた仕事、任務
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/word/shift/)：（交代制の）勤務時間
-- [project](/word/project/)：プロジェクト、計画
+- [shift](/shift)：（交代制の）勤務時間
+- [project](/project)：プロジェクト、計画
 
-<!-- cvid: aid30_bid30 -->
+<!-- cvid: aid22_bid02 -->

@@ -77,15 +77,19 @@ TOEICでは、時や理由を表す接続詞として空所補充問題によく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、時や理由を表す接続詞として空所補充問題によく
 ## 🤔  because との違いは？
 
 - **since**：理由や時間の起点を表す接続詞。「～して以来」「～なので」。
-- **[because](/word/because/)**：理由のみを明確に説明する接続詞。「～なので」「～だから」。
+- **[because](/because)**：理由のみを明確に説明する接続詞。「～なので」「～だから」。
 
 「since」は理由だけでなく「～以来」と時間の起点も表せますが、「because」は理由のみで時間の意味はありません。
 
@@ -101,14 +105,14 @@ TOEICでは、時や理由を表す接続詞として空所補充問題によく
 
 ## 🧩 あわせて覚えたい
 
-- [as](/word/as/)：理由や時を表す接続詞。「～なので」「～するとき」
-- [until](/word/until/)：「～までずっと」という意味の接続詞・前置詞
+- [as](/as)：理由や時を表す接続詞。「～なので」「～するとき」
+- [until](/until)：「～までずっと」という意味の接続詞・前置詞
 
 ---
 
 ## 📖 できればこれも
 
-- [while](/word/while/)：「～の間」「一方で」
-- [although](/word/although/)：「～だけれども」
+- [while](/while)：「～の間」「一方で」
+- [although](/although)：「～だけれども」
 
-<!-- cvid: aid43_bid11 -->
+<!-- cvid: aid25_bid00 -->

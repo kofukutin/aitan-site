@@ -81,15 +81,19 @@ reloadはIT関連の会話や説明文で、ページやデータの再読み込
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ reloadはIT関連の会話や説明文で、ページやデータの再読み込
 ## 🤔  refresh との違いは？
 
 - **reload**：ページやデータを「完全に再読み込み」する、または物理的に再装填する意味が強い
-- **[refresh](/word/refresh/)**：画面や内容を「最新の状態に更新」する意味が強い
+- **[refresh](/refresh)**：画面や内容を「最新の状態に更新」する意味が強い
 
 reloadは「最初から読み直す」ニュアンス、refreshは「内容を新しくする」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ reloadは「最初から読み直す」ニュアンス、refreshは「内容を�
 
 ## 🧩 あわせて覚えたい
 
-- [restart](/word/restart/)：再起動する
-- [update](/word/update/)：更新する
+- [restart](/restart)：再起動する
+- [update](/update)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする
-- [reset](/word/reset/)：リセットする
+- [install](/install)：インストールする
+- [reset](/reset)：リセットする
 
-<!-- cvid: aid01_bid09 -->
+<!-- cvid: aid38_bid32 -->

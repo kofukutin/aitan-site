@@ -81,15 +81,19 @@ TOEICでは契約やサービスの「更新」に関するメールや案内文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約やサービスの「更新」に関するメールや案内文
 ## 🤔  extension との違いは？
 
 - **renewal**：期限が切れるものを「新たに更新」すること
-- **[extension](/word/extension/)**：今ある期限や期間を「延長」すること
+- **[extension](/extension)**：今ある期限や期間を「延長」すること
 
 renewalは一度終わったものを再び有効にする場合、extensionは今の状態をそのまま長くする場合に使います。
 
@@ -105,14 +109,14 @@ renewalは一度終わったものを再び有効にする場合、extensionは�
 
 ## 🧩 あわせて覚えたい
 
-- [expiration](/word/expiration/)：有効期限、満了
-- [update](/word/update/)：更新、最新版にすること
+- [expiration](/expiration)：有効期限、満了
+- [update](/update)：更新、最新版にすること
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [subscription](/word/subscription/)：購読、加入
+- [contract](/contract)：契約
+- [subscription](/subscription)：購読、加入
 
-<!-- cvid: aid40_bid14 -->
+<!-- cvid: aid37_bid49 -->

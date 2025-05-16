@@ -81,15 +81,19 @@ TOEICでは会議や出張、予定調整などの場面で頻出します。手
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や出張、予定調整などの場面で頻出します。手
 ## 🤔  agreement との違いは？
 
 - **arrangement**：具体的な手配や準備、または非公式な取り決めを指すことが多い
-- **[agreement](/word/agreement/)**：正式な合意や契約を指す
+- **[agreement](/agreement)**：正式な合意や契約を指す
 
 arrangementは「準備」や「段取り」など実務的な調整を表し、agreementは法的・公式な合意や契約を強調します。
 
@@ -105,14 +109,14 @@ arrangementは「準備」や「段取り」など実務的な調整を表し、
 
 ## 🧩 あわせて覚えたい
 
-- [preparation](/word/preparation/)：準備、用意
-- [organization](/word/organization/)：組織、整理
+- [preparation](/preparation)：準備、用意
+- [organization](/organization)：組織、整理
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [plan](/word/plan/)：計画
+- [schedule](/schedule)：予定、スケジュール
+- [plan](/plan)：計画
 
-<!-- cvid: aid05_bid20 -->
+<!-- cvid: aid20_bid39 -->

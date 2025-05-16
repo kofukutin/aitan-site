@@ -81,15 +81,19 @@ TOEICでは、ホテルの予約や出張、日常会話の応答で「滞在す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルの予約や出張、日常会話の応答で「滞在す
 ## 🤔  remain との違いは？
 
 - **stay**：場所や状態に「とどまる」「滞在する」ことを表す。動作や意志が感じられる。
-- **[remain](/word/remain/)**：変化せず「そのままでいる」「残る」ことを表し、より形式的・受動的なニュアンス。
+- **[remain](/remain)**：変化せず「そのままでいる」「残る」ことを表し、より形式的・受動的なニュアンス。
 
 stayは「泊まる」「しばらくいる」など行動的な場面で使い、remainは「変わらずにいる」「残存する」など状態の継続を強調します。
 
@@ -105,14 +109,14 @@ stayは「泊まる」「しばらくいる」など行動的な場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/word/leave/)：去る、出発する
-- [visit](/word/visit/)：訪れる、訪問する
+- [leave](/leave)：去る、出発する
+- [visit](/visit)：訪れる、訪問する
 
 ---
 
 ## 📖 できればこれも
 
-- [wait](/word/wait/)：待つ
-- [arrive](/word/arrive/)：到着する
+- [wait](/wait)：待つ
+- [arrive](/arrive)：到着する
 
-<!-- cvid: aid30_bid28 -->
+<!-- cvid: aid40_bid07 -->

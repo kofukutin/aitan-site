@@ -81,15 +81,19 @@ TOEICでは、法律や規則に関する長文や公式文書の中で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、法律や規則に関する長文や公式文書の中で見かけ
 ## 🤔  legal との違いは？
 
 - **constitutional**：憲法に関する、憲法で認められた
-- **[legal](/word/legal/)**：法律に関する、合法の
+- **[legal](/legal)**：法律に関する、合法の
 
 「constitutional」は憲法という最上位の法規範に関する場合に使い、「legal」は一般的な法律や法的な正当性に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、法律や規則に関する長文や公式文書の中で見かけ
 
 ## 🧩 あわせて覚えたい
 
-- [statutory](/word/statutory/)：法令の、法定の
-- [illegal](/word/illegal/)：違法の
+- [statutory](/statutory)：法令の、法定の
+- [illegal](/illegal)：違法の
 
 ---
 
 ## 📖 できればこれも
 
-- [legitimate](/word/legitimate/)：正当な、合法の
-- [regulation](/word/regulation/)：規則、規制
+- [legitimate](/legitimate)：正当な、合法の
+- [regulation](/regulation)：規則、規制
 
-<!-- cvid: aid40_bid45 -->
+<!-- cvid: aid37_bid40 -->

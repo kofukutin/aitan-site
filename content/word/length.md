@@ -81,15 +81,19 @@ TOEICでは、図表や説明文、契約書などで「長さ」や「期間」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、図表や説明文、契約書などで「長さ」や「期間」
 ## 🤔  duration との違いは？
 
 - **length**：物理的な長さや時間的な長さ（期間）を幅広く表す
-- **[duration](/word/duration/)**：主に「継続する時間」「期間」に限定して使う
+- **[duration](/duration)**：主に「継続する時間」「期間」に限定して使う
 
 lengthは物のサイズや時間の長さなど幅広く使えますが、durationは「どれだけ続くか」という時間の長さに特化しています。
 
@@ -105,14 +109,14 @@ lengthは物のサイズや時間の長さなど幅広く使えますが、durat
 
 ## 🧩 あわせて覚えたい
 
-- [width](/word/width/)：幅
-- [distance](/word/distance/)：距離
+- [width](/width)：幅
+- [distance](/distance)：距離
 
 ---
 
 ## 📖 できればこれも
 
-- [height](/word/height/)：高さ
-- [depth](/word/depth/)：深さ
+- [height](/height)：高さ
+- [depth](/depth)：深さ
 
-<!-- cvid: aid23_bid10 -->
+<!-- cvid: aid35_bid08 -->

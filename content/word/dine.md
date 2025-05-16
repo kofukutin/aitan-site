@@ -81,15 +81,19 @@ TOEICではホテルやレストラン、観光に関する会話で「dine」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやレストラン、観光に関する会話で「dine」�
 ## 🤔  eat との違いは？
 
 - **dine**：フォーマルな場面や特別な食事で「食事をする」
-- **[eat](/word/eat/)**：日常的に「食べる」、カジュアルな表現
+- **[eat](/eat)**：日常的に「食べる」、カジュアルな表現
 
 dineは特別な食事やレストランでの食事に使われ、eatは普段の食事全般に使われます。
 
@@ -105,14 +109,14 @@ dineは特別な食事やレストランでの食事に使われ、eatは普段�
 
 ## 🧩 あわせて覚えたい
 
-- [feast](/word/feast/)：ごちそうを食べる、宴会
-- [banquet](/word/banquet/)：宴会、祝宴
+- [feast](/feast)：ごちそうを食べる、宴会
+- [banquet](/banquet)：宴会、祝宴
 
 ---
 
 ## 📖 できればこれも
 
-- [serve](/word/serve/)：（食事を）出す、提供する
-- [order](/word/order/)：注文する
+- [serve](/serve)：（食事を）出す、提供する
+- [order](/order)：注文する
 
-<!-- cvid: aid28_bid32 -->
+<!-- cvid: aid42_bid11 -->

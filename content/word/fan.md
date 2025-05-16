@@ -81,15 +81,19 @@ TOEICでは、日常会話やオフィスの設備に関する話題で「fan（
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid00_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、日常会話やオフィスの設備に関する話題で「fan（
 ## 🤔  supporter との違いは？
 
 - **fan**：熱心な支持者や愛好者、または風を送る道具
-- **[supporter](/word/supporter/)**：支援者、後援者
+- **[supporter](/supporter)**：支援者、後援者
 
 fanは「好きで応援する人」に使い、supporterは「積極的に支援・後援する人」に使います。supporterの方がややフォーマルで、経済的・物理的な支援も含みます。
 
@@ -105,14 +109,14 @@ fanは「好きで応援する人」に使い、supporterは「積極的に支�
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiast](/word/enthusiast/)：熱中している人、愛好家
-- [air_conditioner](/word/air_conditioner/)：エアコン、空調機
+- [enthusiast](/enthusiast)：熱中している人、愛好家
+- [air_conditioner](/air_conditioner)：エアコン、空調機
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム
-- [event](/word/event/)：イベント
+- [team](/team)：チーム
+- [event](/event)：イベント
 
-<!-- cvid: aid29_bid23 -->
+<!-- cvid: aid00_bid17 -->

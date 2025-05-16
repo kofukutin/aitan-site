@@ -81,15 +81,19 @@ TOEICでは、報告書や説明文などで「おおよその数値」や「近
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid44_bid30" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid30" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書や説明文などで「おおよその数値」や「近
 ## 🤔  estimate との違いは？
 
 - **approximate**：正確ではないが、できるだけ近い値や状態にすること。近似する、概算する。
-- **[estimate](/word/estimate/)**：不確かな情報からおおよその数値や金額を推測すること。見積もる。
+- **[estimate](/estimate)**：不確かな情報からおおよその数値や金額を推測すること。見積もる。
 
 approximateは「実際の値に近づける」ニュアンスが強く、estimateは「推測して見積もる」意味合いが強いです。
 
@@ -105,14 +109,14 @@ approximateは「実際の値に近づける」ニュアンスが強く、estima
 
 ## 🧩 あわせて覚えたい
 
-- [accurate](/word/accurate/)：正確な
-- [rough](/word/rough/)：おおまかな、ざっくりした
+- [accurate](/accurate)：正確な
+- [rough](/rough)：おおまかな、ざっくりした
 
 ---
 
 ## 📖 できればこれも
 
-- [assume](/word/assume/)：仮定する
-- [calculate](/word/calculate/)：計算する
+- [assume](/assume)：仮定する
+- [calculate](/calculate)：計算する
 
-<!-- cvid: aid14_bid32 -->
+<!-- cvid: aid44_bid30 -->

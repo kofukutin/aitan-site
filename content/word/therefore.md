@@ -77,15 +77,19 @@ TOEICでは接続副詞として文と文をつなぐ役割でよく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは接続副詞として文と文をつなぐ役割でよく出題され
 ## 🤔  thus との違いは？
 
 - **therefore**：論理的な結論や結果をフォーマルに述べるときに使う。
-- **[thus](/word/thus/)**：結果や方法をやや堅めに説明するが、thereforeよりもやや文語的。
+- **[thus](/thus)**：結果や方法をやや堅めに説明するが、thereforeよりもやや文語的。
 
 thereforeは「だからこうなった」と結論を強調し、thusは「このようにして」と手順や経過を説明するニュアンスが強いです。
 
@@ -101,14 +105,14 @@ thereforeは「だからこうなった」と結論を強調し、thusは「こ�
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however/)：しかしながら
-- [consequently](/word/consequently/)：その結果として
+- [however](/however)：しかしながら
+- [consequently](/consequently)：その結果として
 
 ---
 
 ## 📖 できればこれも
 
-- [furthermore](/word/furthermore/)：さらに
-- [meanwhile](/word/meanwhile/)：その間に
+- [furthermore](/furthermore)：さらに
+- [meanwhile](/meanwhile)：その間に
 
-<!-- cvid: aid15_bid06 -->
+<!-- cvid: aid27_bid33 -->

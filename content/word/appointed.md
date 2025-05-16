@@ -81,15 +81,19 @@ TOEICでは「appointed manager（任命されたマネージャー）」のよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「appointed manager（任命されたマネージャー）」のよ�
 ## 🤔  assigned との違いは？
 
 - **appointed**：公式に任命・指名された（特に役職や責任者に使う）
-- **[assigned](/word/assigned/)**：割り当てられた、担当にされた（仕事やタスクに使う）
+- **[assigned](/assigned)**：割り当てられた、担当にされた（仕事やタスクに使う）
 
 「appointed」は役職や地位など公式な任命に使い、「assigned」は仕事やタスクなどの割り当てに使います。
 
@@ -105,14 +109,14 @@ TOEICでは「appointed manager（任命されたマネージャー）」のよ�
 
 ## 🧩 あわせて覚えたい
 
-- [designated](/word/designated/)：指定された
-- [elected](/word/elected/)：選出された
+- [designated](/designated)：指定された
+- [elected](/elected)：選出された
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible/)：責任がある
-- [qualified](/word/qualified/)：資格がある
+- [responsible](/responsible)：責任がある
+- [qualified](/qualified)：資格がある
 
-<!-- cvid: aid17_bid14 -->
+<!-- cvid: aid30_bid30 -->

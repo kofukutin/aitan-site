@@ -81,15 +81,19 @@ TOEICでは会社組織や役職に関する長文やEメール、案内文で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ presidentは組織の代表や象徴的なリーダーを指すことが多く�
 
 ## 🧩 あわせて覚えたい
 
-- [chairperson](/word/chairperson/)：議長、会長
-- [manager](/word/manager/)：管理職、マネージャー
+- [chairperson](/chairperson)：議長、会長
+- [manager](/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [director](/word/director/)：取締役、部長
-- [executive](/word/executive/)：重役、幹部
+- [director](/director)：取締役、部長
+- [executive](/executive)：重役、幹部
 
-<!-- cvid: aid14_bid49 -->
+<!-- cvid: aid21_bid33 -->

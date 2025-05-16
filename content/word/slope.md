@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、地形や建物の説明として「slo
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、地形や建物の説明として「slo
 ## 🤔  incline との違いは？
 
 - **slope**：自然や人工の「坂」「斜面」など、物理的な傾き全般を指す。
-- **[incline](/word/incline/)**：ややフォーマルで、傾斜そのものや傾ける動作を指すことが多い。
+- **[incline](/incline)**：ややフォーマルで、傾斜そのものや傾ける動作を指すことが多い。
 
 slopeは日常的な坂や斜面に使い、inclineは技術的・抽象的な「傾き」にも使われます。
 
@@ -105,14 +109,14 @@ slopeは日常的な坂や斜面に使い、inclineは技術的・抽象的な�
 
 ## 🧩 あわせて覚えたい
 
-- [hill](/word/hill/)：丘、小高い山
-- [gradient](/word/gradient/)：勾配、傾斜度
+- [hill](/hill)：丘、小高い山
+- [gradient](/gradient)：勾配、傾斜度
 
 ---
 
 ## 📖 できればこれも
 
-- [curve](/word/curve/)：曲線、カーブ
-- [surface](/word/surface/)：表面
+- [curve](/curve)：曲線、カーブ
+- [surface](/surface)：表面
 
-<!-- cvid: aid42_bid11 -->
+<!-- cvid: aid13_bid00 -->

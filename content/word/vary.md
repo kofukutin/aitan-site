@@ -81,15 +81,19 @@ TOEICでは「変化する」「異なる」という意味で、主に文法や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「変化する」「異なる」という意味で、主に文法や
 ## 🤔  differ との違いは？
 
 - **vary**：変化する、幅や多様性があることを強調
-- **[differ](/word/differ/)**：2つ以上のものが「異なる」ことを強調
+- **[differ](/differ)**：2つ以上のものが「異なる」ことを強調
 
 varyは「変化の幅」や「多様性」を表し、differは「違いそのもの」を指します。
 
@@ -105,14 +109,14 @@ varyは「変化の幅」や「多様性」を表し、differは「違いその�
 
 ## 🧩 あわせて覚えたい
 
-- [change](/word/change/)：変える、変わる
-- [alter](/word/alter/)：（部分的に）変更する
+- [change](/change)：変える、変わる
+- [alter](/alter)：（部分的に）変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [range](/word/range/)：範囲、及ぶ
-- [shift](/word/shift/)：移す、変える
+- [range](/range)：範囲、及ぶ
+- [shift](/shift)：移す、変える
 
-<!-- cvid: aid37_bid44 -->
+<!-- cvid: aid22_bid26 -->

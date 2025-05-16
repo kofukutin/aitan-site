@@ -81,15 +81,19 @@ TOEICでは金融やビジネス関連の長文で「貸し手」として lende
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは金融やビジネス関連の長文で「貸し手」として lende
 ## 🤔  creditor との違いは？
 
 - **lender**：お金や物を貸す人・機関（特に金融機関や個人の貸し手）
-- **[creditor](/word/creditor/)**：債権者（主に債務関係で「お金を返してもらう権利がある人」）
+- **[creditor](/creditor)**：債権者（主に債務関係で「お金を返してもらう権利がある人」）
 
 lenderは「貸す」という行為に焦点があり、creditorは「返済を受ける権利」に焦点があります。金融契約やローンでは lender、債務整理や法的文脈では creditor が使われます。
 
@@ -105,14 +109,14 @@ lenderは「貸す」という行為に焦点があり、creditorは「返済を
 
 ## 🧩 あわせて覚えたい
 
-- [borrower](/word/borrower/)：借り手
-- [loan](/word/loan/)：ローン、貸付金
+- [borrower](/borrower)：借り手
+- [loan](/loan)：ローン、貸付金
 
 ---
 
 ## 📖 できればこれも
 
-- [debtor](/word/debtor/)：債務者
-- [finance](/word/finance/)：財務、資金調達
+- [debtor](/debtor)：債務者
+- [finance](/finance)：財務、資金調達
 
-<!-- cvid: aid19_bid28 -->
+<!-- cvid: aid45_bid06 -->

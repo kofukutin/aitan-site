@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「catch」の過去形としてよく登場し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「catch」の過去形としてよく登場し�
 ## 🤔  captured との違いは？
 
 - **caught**：日常的に「つかまえる」「間に合う」など幅広く使う
-- **[captured](/word/captured/)**：特に「捕獲する」「記録する」などフォーマル・限定的な場面で使う
+- **[captured](/captured)**：特に「捕獲する」「記録する」などフォーマル・限定的な場面で使う
 
 「caught」は日常会話で幅広く使われ、「captured」はよりフォーマルで、特に写真やデータ、敵などを「捕らえる」場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「catch」の過去形としてよく登場し�
 
 ## 🧩 あわせて覚えたい
 
-- [miss](/word/miss/)：逃す、失敗する
-- [grab](/word/grab/)：素早くつかむ
+- [miss](/miss)：逃す、失敗する
+- [grab](/grab)：素早くつかむ
 
 ---
 
 ## 📖 できればこれも
 
-- [held](/word/held/)：holdの過去形・持っていた
-- [found](/word/found/)：findの過去形・見つけた
+- [held](/held)：holdの過去形・持っていた
+- [found](/found)：findの過去形・見つけた
 
-<!-- cvid: aid47_bid44 -->
+<!-- cvid: aid04_bid08 -->

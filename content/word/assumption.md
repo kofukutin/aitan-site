@@ -81,15 +81,19 @@ assumptionはTOEICの文法・語彙問題で「仮定」「想定」という�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ assumptionはTOEICの文法・語彙問題で「仮定」「想定」という�
 ## 🤔  hypothesis との違いは？
 
 - **assumption**：証拠がなくても「当然そうだろう」と前提にすること
-- **[hypothesis](/word/hypothesis/)**：検証や実験のために立てる「仮説」
+- **[hypothesis](/hypothesis)**：検証や実験のために立てる「仮説」
 
 assumptionは「証拠なしの前提」、hypothesisは「検証を前提とした仮説」として使い分けます。
 
@@ -105,14 +109,14 @@ assumptionは「証拠なしの前提」、hypothesisは「検証を前提とし
 
 ## 🧩 あわせて覚えたい
 
-- [presumption](/word/presumption/)：推定、仮定（やや根拠が弱い）
-- [conclusion](/word/conclusion/)：結論
+- [presumption](/presumption)：推定、仮定（やや根拠が弱い）
+- [conclusion](/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案
-- [suggestion](/word/suggestion/)：提案、助言
+- [proposal](/proposal)：提案
+- [suggestion](/suggestion)：提案、助言
 
-<!-- cvid: aid16_bid48 -->
+<!-- cvid: aid41_bid43 -->

@@ -81,15 +81,19 @@ TOEICでは「record keeping（記録管理）」や「in keeping with（～と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「record keeping（記録管理）」や「in keeping with（～と�
 ## 🤔  storage との違いは？
 
 - **keeping**：管理や維持のニュアンスが強く、状態を保つことや記録の管理など幅広く使う。
-- **[storage](/word/storage/)**：物理的な「保管場所」や「貯蔵」という意味が中心。
+- **[storage](/storage)**：物理的な「保管場所」や「貯蔵」という意味が中心。
 
 「keeping」は管理や維持の行為そのものを指し、「storage」は物をしまう場所や貯蔵そのものを指します。
 
@@ -105,14 +109,14 @@ TOEICでは「record keeping（記録管理）」や「in keeping with（～と�
 
 ## 🧩 あわせて覚えたい
 
-- [maintenance](/word/maintenance/)：維持、メンテナンス
-- [preservation](/word/preservation/)：保存、保護
+- [maintenance](/maintenance)：維持、メンテナンス
+- [preservation](/preservation)：保存、保護
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録
-- [filing](/word/filing/)：書類整理、ファイリング
+- [record](/record)：記録
+- [filing](/filing)：書類整理、ファイリング
 
-<!-- cvid: aid11_bid26 -->
+<!-- cvid: aid10_bid34 -->

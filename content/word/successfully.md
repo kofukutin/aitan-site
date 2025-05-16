@@ -81,15 +81,19 @@ TOEICでは副詞の語形選択や、動詞を修飾する表現として頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは副詞の語形選択や、動詞を修飾する表現として頻出
 ## 🤔  effectively との違いは？
 
 - **successfully**：成功して、望んだ結果を得て
-- **[effectively](/word/effectively/)**：効果的に、効率よく
+- **[effectively](/effectively)**：効果的に、効率よく
 
 「successfully」は「結果が成功した」ことに重点があり、「effectively」は「やり方や手段が効果的だった」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは副詞の語形選択や、動詞を修飾する表現として頻出
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure/)：失敗
-- [achievement](/word/achievement/)：達成、業績
+- [failure](/failure)：失敗
+- [achievement](/achievement)：達成、業績
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/word/efficiently/)：効率的に
-- [finally](/word/finally/)：ついに、最終的に
+- [efficiently](/efficiently)：効率的に
+- [finally](/finally)：ついに、最終的に
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid41_bid35 -->

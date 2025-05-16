@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【left】の意味・使い方・例文 ― remainとの違い【TOEIC英単語】"
 description: "leftの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでremainとの違いもわかりやすく学べます。"
 word: "left"
@@ -81,15 +81,19 @@ leftは会話や説明文で「残っている」「左側の」としてよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ leftは会話や説明文で「残っている」「左側の」としてよく�
 ## 🤔  remain との違いは？
 
 - **left**：「残っている」「左の」という状態や位置を表す形容詞
-- **[remain](/word/remain/)**：「残る」「とどまる」という動作を表す動詞
+- **[remain](/remain)**：「残る」「とどまる」という動作を表す動詞
 
 leftは状態や位置を表し、remainは動作やプロセスを表します。
 
@@ -105,14 +109,14 @@ leftは状態や位置を表し、remainは動作やプロセスを表します�
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart/)：出発する、去る
-- [stay](/word/stay/)：滞在する、とどまる
+- [depart](/depart)：出発する、去る
+- [stay](/stay)：滞在する、とどまる
 
 ---
 
 ## 📖 できればこれも
 
-- [right](/word/right/)：右、右側の
-- [available](/word/available/)：利用できる、手に入る
+- [right](/right)：右、右側の
+- [available](/available)：利用できる、手に入る
 
-<!-- cvid: aid27_bid33 -->
+<!-- cvid: aid11_bid28 -->

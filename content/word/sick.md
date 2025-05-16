@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sick】の意味・使い方・例文 ― illとの違い【TOEIC英単語】"
 description: "sickの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでillとの違いもわかりやすく学べます。"
 word: "sick"
@@ -81,15 +81,19 @@ TOEICでは、体調不良や欠勤連絡などの場面でPart 2やPart 3に出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、体調不良や欠勤連絡などの場面でPart 2やPart 3に出
 ## 🤔  ill との違いは？
 
 - **sick**：カジュアルで、気分が悪い・吐き気がする場合にも使う
-- **[ill](/word/ill/)**：ややフォーマルで、長期的・深刻な病気にも使う
+- **[ill](/ill)**：ややフォーマルで、長期的・深刻な病気にも使う
 
 sickは日常会話でよく使われ、illはフォーマルな文脈や医療現場で使われることが多いです。
 
@@ -105,14 +109,14 @@ sickは日常会話でよく使われ、illはフォーマルな文脈や医療�
 
 ## 🧩 あわせて覚えたい
 
-- [healthy](/word/healthy/)：健康な
-- [nauseous](/word/nauseous/)：吐き気がする
+- [healthy](/healthy)：健康な
+- [nauseous](/nauseous)：吐き気がする
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/word/hurt/)：けがをする、痛む
-- [pain](/word/pain/)：痛み
+- [hurt](/hurt)：けがをする、痛む
+- [pain](/pain)：痛み
 
-<!-- cvid: aid18_bid19 -->
+<!-- cvid: aid28_bid34 -->

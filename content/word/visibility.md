@@ -81,15 +81,19 @@ TOEICではビジネス文書や報告書、IT関連の長文で「情報の可�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や報告書、IT関連の長文で「情報の可�
 ## 🤔  transparency との違いは？
 
 - **visibility**：物理的・情報的に「見えること」「見通し」「可視性」
-- **[transparency](/word/transparency/)**：透明性、公明正大さ、隠しごとのなさ
+- **[transparency](/transparency)**：透明性、公明正大さ、隠しごとのなさ
 
 visibilityは「どれだけ見えるか」「状況がどれだけ把握できるか」に重点があり、transparencyは「隠しごとがなく、すべてが明らかであること」に焦点があります。
 
@@ -105,14 +109,14 @@ visibilityは「どれだけ見えるか」「状況がどれだけ把握でき�
 
 ## 🧩 あわせて覚えたい
 
-- [obscurity](/word/obscurity/)：不明瞭、曖昧さ
-- [clarity](/word/clarity/)：明確さ、はっきりしていること
+- [obscurity](/obscurity)：不明瞭、曖昧さ
+- [clarity](/clarity)：明確さ、はっきりしていること
 
 ---
 
 ## 📖 できればこれも
 
-- [priority](/word/priority/)：優先順位
-- [efficiency](/word/efficiency/)：効率
+- [priority](/priority)：優先順位
+- [efficiency](/efficiency)：効率
 
-<!-- cvid: aid43_bid35 -->
+<!-- cvid: aid16_bid44 -->

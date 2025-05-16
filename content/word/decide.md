@@ -82,15 +82,19 @@ TOEICではPart 5の文法・語彙問題で頻出です。選択や決定に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 5の文法・語彙問題で頻出です。選択や決定に関
 ## 🤔  determine との違いは？
 
 - **decide**：選択肢の中から「決める」「判断する」という意味で、日常的な決定に幅広く使う。
-- **[determine](/word/determine/)**：より「原因や事実を突き止める」「明確に決定する」といった、ややフォーマルで分析的なニュアンス。
+- **[determine](/determine)**：より「原因や事実を突き止める」「明確に決定する」といった、ややフォーマルで分析的なニュアンス。
 
 decideは日常的な「決める」、determineは調査や分析を経て「確定する」場面で使い分けます。
 
@@ -106,14 +110,14 @@ decideは日常的な「決める」、determineは調査や分析を経て「�
 
 ## 🧩 あわせて覚えたい
 
-- [choose](/word/choose/)：選ぶ
-- [settle](/word/settle/)：解決する、落ち着かせる
+- [choose](/choose)：選ぶ
+- [settle](/settle)：解決する、落ち着かせる
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画する
-- [agree](/word/agree/)：同意する
+- [plan](/plan)：計画する
+- [agree](/agree)：同意する
 
-<!-- cvid: aid28_bid39 -->
+<!-- cvid: aid03_bid49 -->

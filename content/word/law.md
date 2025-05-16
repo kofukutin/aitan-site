@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や規約、契約書などの長文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や規約、契約書などの長文で登場
 ## 🤔  rule との違いは？
 
 - **law**：国や社会全体で定められた公式な法律
-- **[rule](/word/rule/)**：組織や集団内での規則・ルール
+- **[rule](/rule)**：組織や集団内での規則・ルール
 
 lawは国や州など公的な機関が定める「法律」を指し、ruleは学校や会社など特定の集団内の「規則」を指します。
 
@@ -105,14 +109,14 @@ lawは国や州など公的な機関が定める「法律」を指し、ruleは�
 
 ## 🧩 あわせて覚えたい
 
-- [regulation](/word/regulation/)：規則、規制
-- [policy](/word/policy/)：方針、政策
+- [regulation](/regulation)：規則、規制
+- [policy](/policy)：方針、政策
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/word/court/)：裁判所
-- [right](/word/right/)：権利
+- [court](/court)：裁判所
+- [right](/right)：権利
 
-<!-- cvid: aid47_bid24 -->
+<!-- cvid: aid28_bid40 -->

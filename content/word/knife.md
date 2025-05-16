@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、テーブルの上や調理場面な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid31_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、テーブルの上や調理場面な
 ## 🤔  scissors との違いは？
 
 - **knife**：物を切るための刃物全般。特に食事や調理、工作で使う。
-- **[scissors](/word/scissors/)**：2枚の刃で紙や布などを挟んで切る道具。
+- **[scissors](/scissors)**：2枚の刃で紙や布などを挟んで切る道具。
 
 knifeは「押し切る」動作、scissorsは「挟み切る」動作という違いがあります。
 
@@ -105,14 +109,14 @@ knifeは「押し切る」動作、scissorsは「挟み切る」動作という�
 
 ## 🧩 あわせて覚えたい
 
-- [fork](/word/fork/)：フォーク（食事用の道具）
-- [blade](/word/blade/)：刃、刀身
+- [fork](/fork)：フォーク（食事用の道具）
+- [blade](/blade)：刃、刀身
 
 ---
 
 ## 📖 できればこれも
 
-- [spoon](/word/spoon/)：スプーン
-- [plate](/word/plate/)：皿
+- [spoon](/spoon)：スプーン
+- [plate](/plate)：皿
 
-<!-- cvid: aid02_bid18 -->
+<!-- cvid: aid31_bid41 -->

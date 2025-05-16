@@ -88,8 +88,12 @@ TOEICでは医療や科学分野の記事、または比喩的な「詳細な分
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や科学分野の記事、または比喩的な「詳細な分
 ## 🤔  physiology との違いは？
 
 - **anatomy**：生物の「構造」や「形」を扱う学問やその詳細。
-- **[physiology](/word/physiology/)**：生物の「機能」や「働き」を扱う学問。
+- **[physiology](/physiology)**：生物の「機能」や「働き」を扱う学問。
 
 anatomyは「形や構造」に注目し、physiologyは「働きや機能」に注目する点が大きな違いです。
 
@@ -105,14 +109,14 @@ anatomyは「形や構造」に注目し、physiologyは「働きや機能」に
 
 ## 🧩 あわせて覚えたい
 
-- [structure](/word/structure/)：構造
-- [biology](/word/biology/)：生物学
+- [structure](/structure)：構造
+- [biology](/biology)：生物学
 
 ---
 
 ## 📖 できればこれも
 
-- [organ](/word/organ/)：臓器
-- [function](/word/function/)：機能
+- [organ](/organ)：臓器
+- [function](/function)：機能
 
-<!-- cvid: aid18_bid45 -->
+<!-- cvid: aid18_bid43 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sixth】の意味・使い方・例文 ― sixとの違い【TOEIC英単語】"
 description: "sixthの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsixとの違いもわかりやすく学べます。"
 word: "sixth"
@@ -82,15 +82,19 @@ TOEICでは日付や順序、順位を表す場面で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid38_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは日付や順序、順位を表す場面で出題されることが多
 ## 🤔  six との違いは？
 
 - **sixth**：順序や順位で「6番目」を表す
-- **[six](/word/six/)**：単に「6」という数字を表す
+- **[six](/six)**：単に「6」という数字を表す
 
 sixthは「順番」を、sixは「数そのもの」を表します。たとえば「6番目の席」はsixth seat、「6つの席」はsix seatsです。
 
@@ -106,14 +110,14 @@ sixthは「順番」を、sixは「数そのもの」を表します。たとえ
 
 ## 🧩 あわせて覚えたい
 
-- [seventh](/word/seventh/)：7番目の
-- [fifth](/word/fifth/)：5番目の
+- [seventh](/seventh)：7番目の
+- [fifth](/fifth)：5番目の
 
 ---
 
 ## 📖 できればこれも
 
-- [eighth](/word/eighth/)：8番目の
-- [fourth](/word/fourth/)：4番目の
+- [eighth](/eighth)：8番目の
+- [fourth](/fourth)：4番目の
 
-<!-- cvid: aid20_bid11 -->
+<!-- cvid: aid38_bid41 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【picture】の意味・使い方・例文 ― photoとの違い【TOEIC英単語】"
 description: "pictureの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでphotoとの違いもわかりやすく学べます。"
 word: "picture"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で頻出です。写真やイラストを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid10_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で頻出です。写真やイラストを
 ## 🤔  photo との違いは？
 
 - **picture**：絵・写真・イラストなど広く「画像」を指す
-- **[photo](/word/photo/)**：写真（カメラで撮ったもの）に限定
+- **[photo](/photo)**：写真（カメラで撮ったもの）に限定
 
 pictureは「絵」や「イラスト」も含む広い意味ですが、photoは「写真」だけを指します。
 
@@ -105,14 +109,14 @@ pictureは「絵」や「イラスト」も含む広い意味ですが、photo�
 
 ## 🧩 あわせて覚えたい
 
-- [image](/word/image/)：画像、映像
-- [painting](/word/painting/)：絵画、ペイントされた絵
+- [image](/image)：画像、映像
+- [painting](/painting)：絵画、ペイントされた絵
 
 ---
 
 ## 📖 できればこれも
 
-- [draw](/word/draw/)：描く
-- [scene](/word/scene/)：場面、光景
+- [draw](/draw)：描く
+- [scene](/scene)：場面、光景
 
-<!-- cvid: aid38_bid05 -->
+<!-- cvid: aid10_bid12 -->

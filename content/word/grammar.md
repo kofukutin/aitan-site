@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、文法知識を問う設問や説明文で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、文法知識を問う設問や説明文で頻出
 ## 🤔  syntax との違いは？
 
 - **grammar**：言語全体の文法規則や体系を指す
-- **[syntax](/word/syntax/)**：語や句を文として正しく並べる構造や規則を指す
+- **[syntax](/syntax)**：語や句を文として正しく並べる構造や規則を指す
 
 grammarは言語のルール全般、syntaxは語順や構造に特化した規則を指します。
 
@@ -105,14 +109,14 @@ grammarは言語のルール全般、syntaxは語順や構造に特化した規�
 
 ## 🧩 あわせて覚えたい
 
-- [vocabulary](/word/vocabulary/)：語彙、単語の集まり
-- [punctuation](/word/punctuation/)：句読点、句読法
+- [vocabulary](/vocabulary)：語彙、単語の集まり
+- [punctuation](/punctuation)：句読点、句読法
 
 ---
 
 ## 📖 できればこれも
 
-- [sentence](/word/sentence/)：文
-- [rule](/word/rule/)：規則
+- [sentence](/sentence)：文
+- [rule](/rule)：規則
 
-<!-- cvid: aid35_bid32 -->
+<!-- cvid: aid43_bid01 -->

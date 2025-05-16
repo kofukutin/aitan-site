@@ -81,15 +81,19 @@ TOEICでは、形容詞として名詞を修飾する形で頻出します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として名詞を修飾する形で頻出します。特
 ## 🤔  significant との違いは？
 
 - **considerable**：量や程度が「かなり大きい」「無視できないほどの」
-- **[significant](/word/significant/)**：重要性や影響が「大きい」「意味がある」
+- **[significant](/significant)**：重要性や影響が「大きい」「意味がある」
 
 「considerable」は主に数量や規模の大きさを強調し、「significant」は重要性や意味の深さを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として名詞を修飾する形で頻出します。特
 
 ## 🧩 あわせて覚えたい
 
-- [substantial](/word/substantial/)：かなりの、相当な（量や規模が大きい）
-- [minor](/word/minor/)：小さい、重要でない
+- [substantial](/substantial)：かなりの、相当な（量や規模が大きい）
+- [minor](/minor)：小さい、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/word/adequate/)：十分な、適切な
-- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [adequate](/adequate)：十分な、適切な
+- [remarkable](/remarkable)：注目すべき、著しい
 
-<!-- cvid: aid27_bid37 -->
+<!-- cvid: aid18_bid32 -->

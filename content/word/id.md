@@ -81,15 +81,19 @@ TOEICではメールやウェブサイトの説明文、申込書などで「ID�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールやウェブサイトの説明文、申込書などで「ID�
 ## 🤔  identity との違いは？
 
 - **id**：身分証明書や識別番号など、具体的な「証明」や「番号」を指す
-- **[identity](/word/identity/)**：個人の「正体」や「身元」そのものを指す
+- **[identity](/identity)**：個人の「正体」や「身元」そのものを指す
 
 「id」は証明書や番号など物理的・具体的なもの、「identity」はその人自身の本質や身元を表します。
 
@@ -105,14 +109,14 @@ TOEICではメールやウェブサイトの説明文、申込書などで「ID�
 
 ## 🧩 あわせて覚えたい
 
-- [password](/word/password/)：パスワード、暗証番号
-- [account](/word/account/)：アカウント、口座
+- [password](/password)：パスワード、暗証番号
+- [account](/account)：アカウント、口座
 
 ---
 
 ## 📖 できればこれも
 
-- [code](/word/code/)：コード、暗号、記号
-- [login](/word/login/)：ログイン、ログインする
+- [code](/code)：コード、暗号、記号
+- [login](/login)：ログイン、ログインする
 
-<!-- cvid: aid19_bid33 -->
+<!-- cvid: aid04_bid25 -->

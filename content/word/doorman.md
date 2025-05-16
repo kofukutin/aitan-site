@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写で、ホテルやビルの入口に立つ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写で、ホテルやビルの入口に立つ
 ## 🤔  receptionist との違いは？
 
 - **doorman**：主に建物の入口でドアの開閉や案内をする係員
-- **[receptionist](/word/receptionist/)**：受付で来客対応や電話応対をする係員
+- **[receptionist](/receptionist)**：受付で来客対応や電話応対をする係員
 
 doormanは物理的な入口での対応、receptionistは受付カウンターでの事務的な対応が主な違いです。
 
@@ -104,14 +108,14 @@ doormanは物理的な入口での対応、receptionistは受付カウンター�
 
 ## 🧩 あわせて覚えたい
 
-- [guard](/word/guard/)：警備員、守衛
-- [concierge](/word/concierge/)：コンシェルジュ、ホテルの案内係
+- [guard](/guard)：警備員、守衛
+- [concierge](/concierge)：コンシェルジュ、ホテルの案内係
 
 ---
 
 ## 📖 できればこれも
 
-- [porter](/word/porter/)：荷物運び、ポーター
-- [attendant](/word/attendant/)：案内係、付き添い人
+- [porter](/porter)：荷物運び、ポーター
+- [attendant](/attendant)：案内係、付き添い人
 
-<!-- cvid: aid43_bid37 -->
+<!-- cvid: aid07_bid34 -->

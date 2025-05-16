@@ -81,15 +81,19 @@ TOEICでは「be aware of」や「make someone aware」などの形で、状況�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be aware of」や「make someone aware」などの形で、状況�
 ## 🤔  conscious との違いは？
 
 - **aware**：外部の事実や状況に気づいていることを表す
-- **[conscious](/word/conscious/)**：自分の感覚や内面、または意識がはっきりしている状態
+- **[conscious](/conscious)**：自分の感覚や内面、または意識がはっきりしている状態
 
 「aware」は外からの情報や状況に気づいている場合に使い、「conscious」は自分自身の意識や感覚に焦点を当てるときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは「be aware of」や「make someone aware」などの形で、状況�
 
 ## 🧩 あわせて覚えたい
 
-- [ignorant](/word/ignorant/)：無知の、気づいていない
-- [notice](/word/notice/)：気づく、注目する
+- [ignorant](/ignorant)：無知の、気づいていない
+- [notice](/notice)：気づく、注目する
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/word/familiar/)：よく知っている、親しい
-- [concerned](/word/concerned/)：心配している、関心がある
+- [familiar](/familiar)：よく知っている、親しい
+- [concerned](/concerned)：心配している、関心がある
 
-<!-- cvid: aid48_bid29 -->
+<!-- cvid: aid43_bid33 -->

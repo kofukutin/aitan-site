@@ -81,15 +81,19 @@ TOEICでは、宗教や文化に関する長文や説明文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、宗教や文化に関する長文や説明文で登場すること
 ## 🤔  religion との違いは？
 
 - **Christianity**：キリスト教という特定の宗教を指す
-- **[religion](/word/religion/)**：宗教全般や信仰そのものを指す一般的な語
+- **[religion](/religion)**：宗教全般や信仰そのものを指す一般的な語
 
 Christianityは具体的な宗教名、religionは広く宗教全体や信仰を表します。
 
@@ -106,13 +110,13 @@ Christianityは具体的な宗教名、religionは広く宗教全体や信仰を
 ## 🧩 あわせて覚えたい
 
 - [Judaism](/Judaism)：ユダヤ教
-- [church](/word/church/)：教会
+- [church](/church)：教会
 
 ---
 
 ## 📖 できればこれも
 
-- [belief](/word/belief/)：信念、信仰
-- [faith](/word/faith/)：信仰、信頼
+- [belief](/belief)：信念、信仰
+- [faith](/faith)：信仰、信頼
 
-<!-- cvid: aid19_bid37 -->
+<!-- cvid: aid02_bid05 -->

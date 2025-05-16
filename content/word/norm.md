@@ -81,15 +81,19 @@ TOEICでは、企業文化や社会的なルール、行動基準を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業文化や社会的なルール、行動基準を説明する
 ## 🤔  standard との違いは？
 
 - **norm**：社会や集団で一般的に受け入れられている行動や考え方の基準
-- **[standard](/word/standard/)**：品質や性能などを評価するための客観的な基準
+- **[standard](/standard)**：品質や性能などを評価するための客観的な基準
 
 normは「みんなが当然と思っているルール」、standardは「公式な基準や規格」といった違いがあります。
 
@@ -105,14 +109,14 @@ normは「みんなが当然と思っているルール」、standardは「公�
 
 ## 🧩 あわせて覚えたい
 
-- [custom](/word/custom/)：慣習、習慣
-- [rule](/word/rule/)：規則、ルール
+- [custom](/custom)：慣習、習慣
+- [rule](/rule)：規則、ルール
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [principle](/word/principle/)：原則、信条
+- [policy](/policy)：方針、政策
+- [principle](/principle)：原則、信条
 
-<!-- cvid: aid29_bid23 -->
+<!-- cvid: aid36_bid41 -->

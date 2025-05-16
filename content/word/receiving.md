@@ -81,15 +81,19 @@ TOEICでは、物流やオフィスでのやり取り、納品・受領の場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物流やオフィスでのやり取り、納品・受領の場面
 ## 🤔  acceptance との違いは？
 
 - **receiving**：物や情報を実際に受け取る「受領」「受け取り作業」を指す
-- **[acceptance](/word/acceptance/)**：受け入れること、承諾・受諾の意味が強い
+- **[acceptance](/acceptance)**：受け入れること、承諾・受諾の意味が強い
 
 receivingは物理的な受け取りや物流現場で使われ、acceptanceは承認や同意など抽象的な「受け入れ」に使われます。
 
@@ -105,14 +109,14 @@ receivingは物理的な受け取りや物流現場で使われ、acceptanceは�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery/)：配達、納品
-- [shipment](/word/shipment/)：発送、出荷
+- [delivery](/delivery)：配達、納品
+- [shipment](/shipment)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [purchase](/word/purchase/)：購入
-- [order](/word/order/)：注文
+- [purchase](/purchase)：購入
+- [order](/order)：注文
 
-<!-- cvid: aid01_bid33 -->
+<!-- cvid: aid07_bid49 -->

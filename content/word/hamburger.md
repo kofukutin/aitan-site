@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【hamburger】の意味・使い方・例文 ― sandwichとの違い【TOEIC英単語】"
 description: "hamburgerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsandwichとの違いもわかりやすく学べます。"
 word: "hamburger"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、食べ物やレストランのシー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、食べ物やレストランのシー
 ## 🤔  sandwich との違いは？
 
 - **hamburger**：パンで挟んだひき肉のパティが特徴のファストフード。
-- **[sandwich](/word/sandwich/)**：パンで具材（肉・野菜・チーズなど）を挟んだ一般的なサンドイッチ。
+- **[sandwich](/sandwich)**：パンで具材（肉・野菜・チーズなど）を挟んだ一般的なサンドイッチ。
 
 hamburgerは主にひき肉のパティを使うのが特徴で、sandwichは具材の種類が幅広く、冷たいものも多いです。
 
@@ -105,14 +109,14 @@ hamburgerは主にひき肉のパティを使うのが特徴で、sandwichは具
 
 ## 🧩 あわせて覚えたい
 
-- [cheeseburger](/word/cheeseburger/)：チーズ入りハンバーガー
-- [fries](/word/fries/)：フライドポテト
+- [cheeseburger](/cheeseburger)：チーズ入りハンバーガー
+- [fries](/fries)：フライドポテト
 
 ---
 
 ## 📖 できればこれも
 
-- [pizza](/word/pizza/)：ピザ
-- [hot dog](/word/hot_dog/)：ホットドッグ
+- [pizza](/pizza)：ピザ
+- [hot dog](/hot_dog)：ホットドッグ
 
-<!-- cvid: aid34_bid08 -->
+<!-- cvid: aid15_bid14 -->

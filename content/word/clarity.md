@@ -81,15 +81,19 @@ clarityはTOEICの長文読解やビジネス文書で、説明や指示の「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ clarityはTOEICの長文読解やビジネス文書で、説明や指示の「�
 ## 🤔  clearness との違いは？
 
 - **clarity**：主に抽象的な「明確さ」や「分かりやすさ」に使われ、フォーマルな印象が強い。
-- **[clearness](/word/clearness/)**：物理的な「透明さ」や「はっきり見えること」にも使われ、ややカジュアル。
+- **[clearness](/clearness)**：物理的な「透明さ」や「はっきり見えること」にも使われ、ややカジュアル。
 
 clarityは説明や考えの明快さに、clearnessは見た目や天気など物理的な明瞭さに使われることが多いです。
 
@@ -105,14 +109,14 @@ clarityは説明や考えの明快さに、clearnessは見た目や天気など�
 
 ## 🧩 あわせて覚えたい
 
-- [precision](/word/precision/)：正確さ
-- [ambiguity](/word/ambiguity/)：あいまいさ
+- [precision](/precision)：正確さ
+- [ambiguity](/ambiguity)：あいまいさ
 
 ---
 
 ## 📖 できればこれも
 
-- [concise](/word/concise/)：簡潔な
-- [transparency](/word/transparency/)：透明性
+- [concise](/concise)：簡潔な
+- [transparency](/transparency)：透明性
 
-<!-- cvid: aid28_bid01 -->
+<!-- cvid: aid26_bid17 -->

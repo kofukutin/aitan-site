@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で「歩いている人」や「歩く様
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で「歩いている人」や「歩く様
 ## 🤔  strolling との違いは？
 
 - **walking**：一般的に「歩くこと」全般を指し、速さや目的を問わない中立的な表現。
-- **[strolling](/word/strolling/)**：ゆっくりとぶらぶら歩くこと、散歩のようなリラックスした歩行。
+- **[strolling](/strolling)**：ゆっくりとぶらぶら歩くこと、散歩のようなリラックスした歩行。
 
 walkingは「歩く」という行為全体を指しますが、strollingは「のんびり歩く」ニュアンスが強く、気分や雰囲気を重視します。
 
@@ -105,14 +109,14 @@ walkingは「歩く」という行為全体を指しますが、strollingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [running](/word/running/)：走ること
-- [hiking](/word/hiking/)：ハイキング、山歩き
+- [running](/running)：走ること
+- [hiking](/hiking)：ハイキング、山歩き
 
 ---
 
 ## 📖 できればこれも
 
-- [run](/word/run/)：走る
-- [move](/word/move/)：動く、移動する
+- [run](/run)：走る
+- [move](/move)：動く、移動する
 
-<!-- cvid: aid02_bid46 -->
+<!-- cvid: aid35_bid38 -->

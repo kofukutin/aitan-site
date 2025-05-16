@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【clock】の意味・使い方・例文 ― watchとの違い【TOEIC英単語】"
 description: "clockの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでwatchとの違いもわかりやすく学べます。"
 word: "clock"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、部屋やオフィスの壁に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋やオフィスの壁に
 ## 🤔  watch との違いは？
 
 - **clock**：壁や机などに設置する据え置き型の時計
-- **[watch](/word/watch/)**：腕時計など、身につけて持ち歩く時計
+- **[watch](/watch)**：腕時計など、身につけて持ち歩く時計
 
 clockは部屋や建物に設置する時計、watchは身につけて持ち歩く時計を指します。
 
@@ -105,14 +109,14 @@ clockは部屋や建物に設置する時計、watchは身につけて持ち歩�
 
 ## 🧩 あわせて覚えたい
 
-- [timer](/word/timer/)：タイマー（時間を計測・通知する装置）
-- [alarm](/word/alarm/)：アラーム（警報、目覚まし時計）
+- [timer](/timer)：タイマー（時間を計測・通知する装置）
+- [alarm](/alarm)：アラーム（警報、目覚まし時計）
 
 ---
 
 ## 📖 できればこれも
 
-- [calendar](/word/calendar/)：カレンダー、日めくり
-- [bell](/word/bell/)：ベル、鐘
+- [calendar](/calendar)：カレンダー、日めくり
+- [bell](/bell)：ベル、鐘
 
-<!-- cvid: aid33_bid40 -->
+<!-- cvid: aid35_bid36 -->

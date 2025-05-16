@@ -81,15 +81,19 @@ complicationは医療やビジネスの文脈で、問題や障害を表す語�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ complicationは医療やビジネスの文脈で、問題や障害を表す語�
 ## 🤔  obstacle との違いは？
 
 - **complication**：予期せぬ問題や事態の複雑化、特に医療では「合併症」。
-- **[obstacle](/word/obstacle/)**：物理的・心理的な「障害物」や「妨げ」。
+- **[obstacle](/obstacle)**：物理的・心理的な「障害物」や「妨げ」。
 
 complicationは状況が複雑になることや新たな問題の発生を指し、obstacleは進行を妨げる具体的な障害物を指します。
 
@@ -105,14 +109,14 @@ complicationは状況が複雑になることや新たな問題の発生を指�
 
 ## 🧩 あわせて覚えたい
 
-- [difficulty](/word/difficulty/)：困難、難しさ
-- [solution](/word/solution/)：解決策
+- [difficulty](/difficulty)：困難、難しさ
+- [solution](/solution)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [condition](/word/condition/)：状態、条件
-- [procedure](/word/procedure/)：手順、処置
+- [condition](/condition)：状態、条件
+- [procedure](/procedure)：手順、処置
 
-<!-- cvid: aid04_bid43 -->
+<!-- cvid: aid06_bid24 -->

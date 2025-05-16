@@ -81,15 +81,19 @@ TOEICでは「full schedule」「full name」など、名詞を修飾する形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「full schedule」「full name」など、名詞を修飾する形�
 ## 🤔  filled との違いは？
 
 - **full**：中身がいっぱいで「満ちている」状態を表す形容詞
-- **[filled](/word/filled/)**：何かで「満たされた」状態を強調する過去分詞
+- **[filled](/filled)**：何かで「満たされた」状態を強調する過去分詞
 
 **full**は「空きがない」状態を広く表し、**filled**は「何で満たされたか」をより具体的に示します。
 
@@ -105,14 +109,14 @@ TOEICでは「full schedule」「full name」など、名詞を修飾する形�
 
 ## 🧩 あわせて覚えたい
 
-- [empty](/word/empty/)：空の、何も入っていない
-- [complete](/word/complete/)：完全な、全部そろった
+- [empty](/empty)：空の、何も入っていない
+- [complete](/complete)：完全な、全部そろった
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/word/busy/)：忙しい、予定が詰まった
-- [entire](/word/entire/)：全体の、全部の
+- [busy](/busy)：忙しい、予定が詰まった
+- [entire](/entire)：全体の、全部の
 
-<!-- cvid: aid09_bid42 -->
+<!-- cvid: aid12_bid04 -->

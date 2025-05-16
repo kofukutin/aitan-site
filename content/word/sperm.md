@@ -81,15 +81,19 @@ The laboratory analyzed the sperm sample for fertility testing.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The laboratory analyzed the sperm sample for fertility testing.
 ## 🤔  semen との違いは？
 
 - **sperm**：精子そのもの（生殖細胞）を指す
-- **[semen](/word/semen/)**：精子を含む精液全体を指す
+- **[semen](/semen)**：精子を含む精液全体を指す
 
 spermは「細胞」としての精子、semenは精子を含む液体全体を指すため、医学的な説明や文脈で使い分けが必要です。
 
@@ -105,14 +109,14 @@ spermは「細胞」としての精子、semenは精子を含む液体全体を�
 
 ## 🧩 あわせて覚えたい
 
-- [egg](/word/egg/)：卵子
-- [fertilization](/word/fertilization/)：受精
+- [egg](/egg)：卵子
+- [fertilization](/fertilization)：受精
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/word/cell/)：細胞
-- [gene](/word/gene/)：遺伝子
+- [cell](/cell)：細胞
+- [gene](/gene)：遺伝子
 
-<!-- cvid: aid31_bid22 -->
+<!-- cvid: aid09_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは、レポートやメール、記事などの長文中で「重要性
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レポートやメール、記事などの長文中で「重要性
 ## 🤔  importance との違いは？
 
 - **significance**：表面的な重要性だけでなく、背後にある意義や深い意味も含む
-- **[importance](/word/importance/)**：物事の価値や優先度など、広く「重要さ」を表す
+- **[importance](/importance)**：物事の価値や優先度など、広く「重要さ」を表す
 
 significanceは「意味合い」や「象徴的な価値」も含むニュアンスがあり、importanceは単純な「重要度」を指すことが多いです。
 
@@ -105,14 +109,14 @@ significanceは「意味合い」や「象徴的な価値」も含むニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [meaning](/word/meaning/)：意味
-- [value](/word/value/)：価値
+- [meaning](/meaning)：意味
+- [value](/value)：価値
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/word/impact/)：影響
-- [consequence](/word/consequence/)：結果
+- [impact](/impact)：影響
+- [consequence](/consequence)：結果
 
-<!-- cvid: aid17_bid27 -->
+<!-- cvid: aid40_bid26 -->

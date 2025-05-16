@@ -81,15 +81,19 @@ TOEICでは主にPart 5の語彙問題で、logicalとの対比や否定的な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の語彙問題で、logicalとの対比や否定的な�
 ## 🤔  unreasonable との違いは？
 
 - **illogical**：論理的でない、筋が通っていない
-- **[unreasonable](/word/unreasonable/)**：理不尽な、合理的でない
+- **[unreasonable](/unreasonable)**：理不尽な、合理的でない
 
 「illogical」は論理的な筋道がないことを指し、主に議論や説明の構造に注目します。「unreasonable」は感情や状況に対して「納得できない」「無理がある」といった意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 5の語彙問題で、logicalとの対比や否定的な�
 
 ## 🧩 あわせて覚えたい
 
-- [logical](/word/logical/)：論理的な
-- [rational](/word/rational/)：合理的な、理性的な
+- [logical](/logical)：論理的な
+- [rational](/rational)：合理的な、理性的な
 
 ---
 
 ## 📖 できればこれも
 
-- [reasonable](/word/reasonable/)：合理的な、妥当な
-- [valid](/word/valid/)：妥当な、有効な
+- [reasonable](/reasonable)：合理的な、妥当な
+- [valid](/valid)：妥当な、有効な
 
-<!-- cvid: aid45_bid29 -->
+<!-- cvid: aid23_bid46 -->

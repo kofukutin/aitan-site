@@ -81,15 +81,19 @@ TOEICでは「銀行口座」「顧客アカウント」「説明・報告」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「銀行口座」「顧客アカウント」「説明・報告」な
 ## 🤔  report との違いは？
 
 - **account**：口座やアカウント、または出来事の説明・報告の意味で使う
-- **[report](/word/report/)**：出来事や調査結果などをまとめた「報告書」「レポート」の意味
+- **[report](/report)**：出来事や調査結果などをまとめた「報告書」「レポート」の意味
 
 accountは「説明」や「口座」など幅広い意味で使われ、reportは主に文書としての「報告書」を指します。
 
@@ -105,14 +109,14 @@ accountは「説明」や「口座」など幅広い意味で使われ、report�
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/word/statement/)：明細書、声明
-- [invoice](/word/invoice/)：請求書
+- [statement](/statement)：明細書、声明
+- [invoice](/invoice)：請求書
 
 ---
 
 ## 📖 できればこれも
 
-- [balance](/word/balance/)：残高、バランス
-- [record](/word/record/)：記録、記録する
+- [balance](/balance)：残高、バランス
+- [record](/record)：記録、記録する
 
-<!-- cvid: aid02_bid40 -->
+<!-- cvid: aid07_bid34 -->

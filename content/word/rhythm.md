@@ -81,15 +81,19 @@ TOEICでは音楽や日常生活、仕事の進め方など、さまざまな場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは音楽や日常生活、仕事の進め方など、さまざまな場
 ## 🤔  beat との違いは？
 
 - **rhythm**：全体の繰り返しや周期性、パターンを指す
-- **[beat](/word/beat/)**：一つ一つの拍や打つ動作を指す
+- **[beat](/beat)**：一つ一つの拍や打つ動作を指す
 
 rhythmは全体の流れやパターン、beatは個々の拍や打つ瞬間を表します。
 
@@ -105,14 +109,14 @@ rhythmは全体の流れやパターン、beatは個々の拍や打つ瞬間を�
 
 ## 🧩 あわせて覚えたい
 
-- [pattern](/word/pattern/)：パターン、型
-- [melody](/word/melody/)：メロディー、旋律
+- [pattern](/pattern)：パターン、型
+- [melody](/melody)：メロディー、旋律
 
 ---
 
 ## 📖 できればこれも
 
-- [tone](/word/tone/)：音色、調子
-- [tempo](/word/tempo/)：テンポ、速度
+- [tone](/tone)：音色、調子
+- [tempo](/tempo)：テンポ、速度
 
-<!-- cvid: aid23_bid38 -->
+<!-- cvid: aid41_bid29 -->

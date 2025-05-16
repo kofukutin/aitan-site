@@ -81,15 +81,19 @@ TOEICでは、報告書やデータ、資料を「まとめる」「編集する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書やデータ、資料を「まとめる」「編集する
 ## 🤔  collect との違いは？
 
 - **compile**：集めたものを整理・編集してまとめる
-- **[collect](/word/collect/)**：単に集める、収集する
+- **[collect](/collect)**：単に集める、収集する
 
 「compile」は集めた情報を編集・整理して一つの形にまとめるニュアンスが強く、「collect」は集める行為自体に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、報告書やデータ、資料を「まとめる」「編集する
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：（バラバラのものを）組み立てる、集める
-- [summarize](/word/summarize/)：要約する、まとめる
+- [assemble](/assemble)：（バラバラのものを）組み立てる、集める
+- [summarize](/summarize)：要約する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する
-- [organize](/word/organize/)：整理する、まとめる
+- [edit](/edit)：編集する
+- [organize](/organize)：整理する、まとめる
 
-<!-- cvid: aid05_bid24 -->
+<!-- cvid: aid26_bid36 -->

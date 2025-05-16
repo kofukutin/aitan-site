@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【duck】の意味・使い方・例文 ― avoidとの違い【TOEIC英単語】"
 description: "duckの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでavoidとの違いもわかりやすく学べます。"
 word: "duck"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で「アヒル」や「水辺の動物」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid20" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid20" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で「アヒル」や「水辺の動物」
 ## 🤔  avoid との違いは？
 
 - **duck**：物理的に身をかがめて避ける、またはアヒル（鳥）を指す
-- **[avoid](/word/avoid/)**：危険や問題などを意識的に避ける
+- **[avoid](/avoid)**：危険や問題などを意識的に避ける
 
 duckは「身を低くして避ける」など動作が伴う場合に使い、avoidは「問題や危険を避ける」など広い意味で使います。
 
@@ -106,14 +110,14 @@ duckは「身を低くして避ける」など動作が伴う場合に使い、a
 
 ## 🧩 あわせて覚えたい
 
-- [goose](/word/goose/)：ガチョウ
-- [dodge](/word/dodge/)：素早く身をかわす
+- [goose](/goose)：ガチョウ
+- [dodge](/dodge)：素早く身をかわす
 
 ---
 
 ## 📖 できればこれも
 
-- [chicken](/word/chicken/)：ニワトリ
-- [jump](/word/jump/)：跳ぶ
+- [chicken](/chicken)：ニワトリ
+- [jump](/jump)：跳ぶ
 
-<!-- cvid: aid18_bid08 -->
+<!-- cvid: aid06_bid20 -->

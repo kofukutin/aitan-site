@@ -81,15 +81,19 @@ TOEICでは、記事やレポート、広告文などで「目立つ変化」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレポート、広告文などで「目立つ変化」や
 ## 🤔  impressive との違いは？
 
 - **striking**：見た目や違いが「はっきり目立つ」「強い印象を与える」
-- **[impressive](/word/impressive/)**：人に「感心させる」「感動を与える」ほど印象的
+- **[impressive](/impressive)**：人に「感心させる」「感動を与える」ほど印象的
 
 「striking」は外見や変化が目立つ場合に使い、「impressive」は感心や感動を呼ぶ場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、記事やレポート、広告文などで「目立つ変化」や
 
 ## 🧩 あわせて覚えたい
 
-- [remarkable](/word/remarkable/)：注目すべき、著しい
-- [ordinary](/word/ordinary/)：普通の、平凡な
+- [remarkable](/remarkable)：注目すべき、著しい
+- [ordinary](/ordinary)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [distinctive](/word/distinctive/)：独特な、特徴的な
-- [outstanding](/word/outstanding/)：傑出した、際立った
+- [distinctive](/distinctive)：独特な、特徴的な
+- [outstanding](/outstanding)：傑出した、際立った
 
-<!-- cvid: aid28_bid14 -->
+<!-- cvid: aid39_bid10 -->

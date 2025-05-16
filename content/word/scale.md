@@ -81,15 +81,19 @@ TOEICでは「規模」「目盛り」「尺度」など複数の意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「規模」「目盛り」「尺度」など複数の意味で出題
 ## 🤔  scope との違いは？
 
 - **scale**：物事の「大きさ」や「規模」を表す
-- **[scope](/word/scope/)**：活動や話題の「範囲」「領域」を表す
+- **[scope](/scope)**：活動や話題の「範囲」「領域」を表す
 
 「scale」は量や大きさ、「scope」はカバーする範囲や領域に焦点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「規模」「目盛り」「尺度」など複数の意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [range](/word/range/)：範囲、幅
-- [extent](/word/extent/)：程度、範囲
+- [range](/range)：範囲、幅
+- [extent](/extent)：程度、範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [measure](/word/measure/)：測る、測定する
-- [level](/word/level/)：水準、段階
+- [measure](/measure)：測る、測定する
+- [level](/level)：水準、段階
 
-<!-- cvid: aid07_bid37 -->
+<!-- cvid: aid12_bid35 -->

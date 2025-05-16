@@ -81,15 +81,19 @@ TOEICでは、宅配便の追跡やビジネス文書のやり取りに関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、宅配便の追跡やビジネス文書のやり取りに関する
 ## 🤔  delivery との違いは？
 
 - **courier**：配達人や宅配業者そのもの、または特使を指す
-- **[delivery](/word/delivery/)**：配達という「行為」や「配達物」を指す
+- **[delivery](/delivery)**：配達という「行為」や「配達物」を指す
 
 courierは「人」や「業者」に焦点があり、deliveryは「配達」という動作や結果に焦点があります。
 
@@ -105,14 +109,14 @@ courierは「人」や「業者」に焦点があり、deliveryは「配達」�
 
 ## 🧩 あわせて覚えたい
 
-- [messenger](/word/messenger/)：使者、伝令
-- [shipment](/word/shipment/)：発送、出荷
+- [messenger](/messenger)：使者、伝令
+- [shipment](/shipment)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [parcel](/word/parcel/)：小包
-- [dispatch](/word/dispatch/)：発送、派遣
+- [parcel](/parcel)：小包
+- [dispatch](/dispatch)：発送、派遣
 
-<!-- cvid: aid48_bid01 -->
+<!-- cvid: aid36_bid25 -->

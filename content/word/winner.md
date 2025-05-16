@@ -81,15 +81,19 @@ TOEICでは、コンテストや抽選、ビジネスイベントの会話で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、コンテストや抽選、ビジネスイベントの会話で「
 ## 🤔  champion との違いは？
 
 - **winner**：試合や抽選などで「勝った人」「受賞者」を広く指す
-- **[champion](/word/champion/)**：大会や競技で「優勝者」「チャンピオン」として称えられる人
+- **[champion](/champion)**：大会や競技で「優勝者」「チャンピオン」として称えられる人
 
 winnerは単に「勝った人」全般に使われますが、championは特に大会や競技での「頂点に立った人」に使われ、より称賛のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ winnerは単に「勝った人」全般に使われますが、championは特に
 
 ## 🧩 あわせて覚えたい
 
-- [loser](/word/loser/)：敗者
-- [victor](/word/victor/)：勝利者（ややフォーマル）
+- [loser](/loser)：敗者
+- [victor](/victor)：勝利者（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize/)：賞、賞品
-- [contest](/word/contest/)：コンテスト、競争
+- [prize](/prize)：賞、賞品
+- [contest](/contest)：コンテスト、競争
 
-<!-- cvid: aid33_bid49 -->
+<!-- cvid: aid16_bid45 -->

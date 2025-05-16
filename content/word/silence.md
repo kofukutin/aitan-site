@@ -82,15 +82,19 @@ TOEICでは会議や電話のやりとりで「沈黙」や「静けさ」を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議や電話のやりとりで「沈黙」や「静けさ」を表
 ## 🤔  quiet との違いは？
 
 - **silence**：音や話し声が全くない「静けさ」や「沈黙」という状態を指す名詞。
-- **[quiet](/word/quiet/)**：音が小さい、または静かな状態を表す形容詞。
+- **[quiet](/quiet)**：音が小さい、または静かな状態を表す形容詞。
 
 silenceは「完全な静けさ」や「沈黙」という状態そのものを名詞で表し、quietは「静かな」という性質や様子を形容詞で表します。
 
@@ -106,14 +110,14 @@ silenceは「完全な静けさ」や「沈黙」という状態そのものを�
 
 ## 🧩 あわせて覚えたい
 
-- [noise](/word/noise/)：騒音、雑音
-- [pause](/word/pause/)：一時停止、間
+- [noise](/noise)：騒音、雑音
+- [pause](/pause)：一時停止、間
 
 ---
 
 ## 📖 できればこれも
 
-- [sound](/word/sound/)：音
-- [voice](/word/voice/)：声
+- [sound](/sound)：音
+- [voice](/voice)：声
 
-<!-- cvid: aid25_bid07 -->
+<!-- cvid: aid29_bid13 -->

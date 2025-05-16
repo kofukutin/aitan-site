@@ -81,15 +81,19 @@ TOEICでは主にビジネスや産業に関する長文や説明文で登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや産業に関する長文や説明文で登場し
 ## 🤔  fabric との違いは？
 
 - **textile**：産業やビジネスで使われる「織物・繊維製品」全般を指すフォーマルな語。
-- **[fabric](/word/fabric/)**：日常的に使われる「布地・生地」で、衣服やカーテンなどの素材を指す。
+- **[fabric](/fabric)**：日常的に使われる「布地・生地」で、衣服やカーテンなどの素材を指す。
 
 textileは産業や製造業の文脈で使われることが多く、fabricは日常生活での「布地」によく使われます。
 
@@ -105,14 +109,14 @@ textileは産業や製造業の文脈で使われることが多く、fabricは�
 
 ## 🧩 あわせて覚えたい
 
-- [garment](/word/garment/)：衣服、衣類
-- [material](/word/material/)：材料、素材
+- [garment](/garment)：衣服、衣類
+- [material](/material)：材料、素材
 
 ---
 
 ## 📖 できればこれも
 
-- [manufacture](/word/manufacture/)：製造する
-- [industry](/word/industry/)：産業
+- [manufacture](/manufacture)：製造する
+- [industry](/industry)：産業
 
-<!-- cvid: aid22_bid15 -->
+<!-- cvid: aid07_bid09 -->

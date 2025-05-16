@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「AではなくBを選ぶ」といった選択�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「AではなくBを選ぶ」といった選択�
 ## 🤔  rather との違いは？
 
 - **instead**：何かの代わりに別のものを選ぶことを強調
-- **[rather](/word/rather/)**：どちらかといえば、という好みや比較をやんわり表現
+- **[rather](/rather)**：どちらかといえば、という好みや比較をやんわり表現
 
 insteadは「AではなくB」と明確に代替を示すのに対し、ratherは「どちらかといえばB」と好みや傾向をやんわり伝えるときに使います。
 
@@ -101,14 +105,14 @@ insteadは「AではなくB」と明確に代替を示すのに対し、rather�
 
 ## 🧩 あわせて覚えたい
 
-- [alternatively](/word/alternatively/)：その代わりに、あるいは
-- [substitute](/word/substitute/)：代用品、代わりのもの
+- [alternatively](/alternatively)：その代わりに、あるいは
+- [substitute](/substitute)：代用品、代わりのもの
 
 ---
 
 ## 📖 できればこれも
 
-- [besides](/word/besides/)：その上、さらに
-- [otherwise](/word/otherwise/)：さもなければ、別の方法で
+- [besides](/besides)：その上、さらに
+- [otherwise](/otherwise)：さもなければ、別の方法で
 
-<!-- cvid: aid25_bid14 -->
+<!-- cvid: aid44_bid43 -->

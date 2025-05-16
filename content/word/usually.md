@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「ふつうは」「たいてい」と頻度を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「ふつうは」「たいてい」と頻度を
 ## 🤔  generally との違いは？
 
 - **usually**：個人や状況において「たいてい」「ふつうは」と頻度を表す。
-- **[generally](/word/generally/)**：広く一般的に「概して」「おおむね」と全体的な傾向を表す。
+- **[generally](/generally)**：広く一般的に「概して」「おおむね」と全体的な傾向を表す。
 
 usuallyは個人や具体的なケースでの「ふつう」を、generallyは社会全体や広い範囲での「一般的に」を表します。
 
@@ -101,14 +105,14 @@ usuallyは個人や具体的なケースでの「ふつう」を、generallyは�
 
 ## 🧩 あわせて覚えたい
 
-- [often](/word/often/)：しばしば
-- [rarely](/word/rarely/)：めったに～ない
+- [often](/often)：しばしば
+- [rarely](/rarely)：めったに～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [sometimes](/word/sometimes/)：ときどき
-- [frequently](/word/frequently/)：頻繁に
+- [sometimes](/sometimes)：ときどき
+- [frequently](/frequently)：頻繁に
 
-<!-- cvid: aid48_bid46 -->
+<!-- cvid: aid31_bid41 -->

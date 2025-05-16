@@ -81,15 +81,19 @@ TOEICではレストランや食事のシーンで「一盛り」「おかわり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランや食事のシーンで「一盛り」「おかわり
 ## 🤔  portion との違いは？
 
 - **helping**：食事の場面で「一盛り」「一皿分」として使う
-- **[portion](/word/portion/)**：より広く「部分」「分け前」「一人分」などを表す
+- **[portion](/portion)**：より広く「部分」「分け前」「一人分」などを表す
 
 helpingは主に料理の取り分けに使い、portionは食べ物以外にも「一部」「割り当て」など幅広く使います。
 
@@ -105,14 +109,14 @@ helpingは主に料理の取り分けに使い、portionは食べ物以外にも
 
 ## 🧩 あわせて覚えたい
 
-- [serving](/word/serving/)：（食事の）一人前
-- [dish](/word/dish/)：料理、皿
+- [serving](/serving)：（食事の）一人前
+- [dish](/dish)：料理、皿
 
 ---
 
 ## 📖 できればこれも
 
-- [meal](/word/meal/)：食事
-- [plate](/word/plate/)：皿、一皿分
+- [meal](/meal)：食事
+- [plate](/plate)：皿、一皿分
 
-<!-- cvid: aid21_bid44 -->
+<!-- cvid: aid08_bid33 -->

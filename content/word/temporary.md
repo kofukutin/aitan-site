@@ -81,15 +81,19 @@ TOEICでは「temporary worker（臨時社員）」や「temporary solution（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「temporary worker（臨時社員）」や「temporary solution（�
 ## 🤔  provisional との違いは？
 
 - **temporary**：一時的で、期間が限定されていることを強調する。
-- **[provisional](/word/provisional/)**：仮の、正式決定までの「仮措置」としての意味が強い。
+- **[provisional](/provisional)**：仮の、正式決定までの「仮措置」としての意味が強い。
 
 temporaryは「長くは続かない」ことに重点があり、provisionalは「正式なものが決まるまでの仮の状態」を指します。
 
@@ -105,14 +109,14 @@ temporaryは「長くは続かない」ことに重点があり、provisionalは
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/word/permanent/)：永続的な、恒久的な
-- [interim](/word/interim/)：暫定の、仮の
+- [permanent](/permanent)：永続的な、恒久的な
+- [interim](/interim)：暫定の、仮の
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約、契約する
-- [substitute](/word/substitute/)：代用する、代用品
+- [contract](/contract)：契約、契約する
+- [substitute](/substitute)：代用する、代用品
 
-<!-- cvid: aid14_bid35 -->
+<!-- cvid: aid19_bid31 -->

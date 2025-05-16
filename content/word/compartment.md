@@ -81,15 +81,19 @@ TOEICでは、オフィスや施設の説明、収納や保管に関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや施設の説明、収納や保管に関する文脈
 ## 🤔  section との違いは？
 
 - **compartment**：物理的に仕切られた空間や区画を指す
-- **[section](/word/section/)**：全体の一部分や区分、章など広い意味で使う
+- **[section](/section)**：全体の一部分や区分、章など広い意味で使う
 
 compartmentは実際に仕切られている空間に使い、sectionは物理的・抽象的な「部分」に幅広く使います。
 
@@ -105,14 +109,14 @@ compartmentは実際に仕切られている空間に使い、sectionは物理�
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division/)：分割、部門
-- [container](/word/container/)：容器、入れ物
+- [division](/division)：分割、部門
+- [container](/container)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：設備、施設
-- [storage](/word/storage/)：保管、収納
+- [facility](/facility)：設備、施設
+- [storage](/storage)：保管、収納
 
-<!-- cvid: aid15_bid25 -->
+<!-- cvid: aid42_bid14 -->

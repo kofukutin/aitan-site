@@ -81,15 +81,19 @@ TOEICでは、ビジネスや日常の会話で「石油」「油」などの意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや日常の会話で「石油」「油」などの意
 ## 🤔  grease との違いは？
 
 - **oil**：液体状の油全般（食用油・石油・潤滑油など）を指す
-- **[grease](/word/grease/)**：粘度が高く、半固体状の油脂や潤滑剤を指す
+- **[grease](/grease)**：粘度が高く、半固体状の油脂や潤滑剤を指す
 
 oilは液体の油全般を指し、greaseはより粘り気のある半固体の油脂や潤滑剤に使われます。
 
@@ -105,14 +109,14 @@ oilは液体の油全般を指し、greaseはより粘り気のある半固体�
 
 ## 🧩 あわせて覚えたい
 
-- [fuel](/word/fuel/)：燃料
-- [lubricant](/word/lubricant/)：潤滑剤
+- [fuel](/fuel)：燃料
+- [lubricant](/lubricant)：潤滑剤
 
 ---
 
 ## 📖 できればこれも
 
-- [gas](/word/gas/)：気体、ガス
-- [liquid](/word/liquid/)：液体
+- [gas](/gas)：気体、ガス
+- [liquid](/liquid)：液体
 
-<!-- cvid: aid49_bid11 -->
+<!-- cvid: aid26_bid31 -->

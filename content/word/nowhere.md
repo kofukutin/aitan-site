@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「どこにも～ない」と否定的な状況
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「どこにも～ない」と否定的な状況
 ## 🤔  anywhere との違いは？
 
 - **nowhere**：どこにも～ない（完全な否定）
-- **[anywhere](/word/anywhere/)**：どこでも／どこか（肯定文・疑問文・否定文で意味が変わる）
+- **[anywhere](/anywhere)**：どこでも／どこか（肯定文・疑問文・否定文で意味が変わる）
 
 nowhereは「全く存在しない」ことを強調し、anywhereは「どこか」「どこでも」と幅広く使われます。
 
@@ -101,14 +105,14 @@ nowhereは「全く存在しない」ことを強調し、anywhereは「どこ�
 
 ## 🧩 あわせて覚えたい
 
-- [somewhere](/word/somewhere/)：どこかに
-- [everywhere](/word/everywhere/)：どこでも、あらゆる場所で
+- [somewhere](/somewhere)：どこかに
+- [everywhere](/everywhere)：どこでも、あらゆる場所で
 
 ---
 
 ## 📖 できればこれも
 
-- [elsewhere](/word/elsewhere/)：他の場所で
-- [apart](/word/apart/)：離れて、別々に
+- [elsewhere](/elsewhere)：他の場所で
+- [apart](/apart)：離れて、別々に
 
-<!-- cvid: aid00_bid11 -->
+<!-- cvid: aid22_bid29 -->

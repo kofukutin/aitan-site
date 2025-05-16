@@ -81,15 +81,19 @@ TOEICのPart 7で、説明文や案内文の中で「relating to ～」の形で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で、説明文や案内文の中で「relating to ～」の形で
 ## 🤔  regarding との違いは？
 
 - **relating**：名詞の前で「～に関する」と形容詞的に使う
-- **[regarding](/word/regarding/)**：前置詞として「～に関して」と文頭や文中で使う
+- **[regarding](/regarding)**：前置詞として「～に関して」と文頭や文中で使う
 
 relatingは名詞を修飾する形容詞、regardingは前置詞として文全体や動詞にかかる点が異なります。
 
@@ -105,14 +109,14 @@ relatingは名詞を修飾する形容詞、regardingは前置詞として文全
 
 ## 🧩 あわせて覚えたい
 
-- [concerning](/word/concerning/)：～に関して（前置詞）
-- [relevant](/word/relevant/)：関連がある、適切な（形容詞）
+- [concerning](/concerning)：～に関して（前置詞）
+- [relevant](/relevant)：関連がある、適切な（形容詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [related](/word/related/)：関連した、関係のある（形容詞）
-- [relative](/word/relative/)：相対的な、比較上の（形容詞）
+- [related](/related)：関連した、関係のある（形容詞）
+- [relative](/relative)：相対的な、比較上の（形容詞）
 
-<!-- cvid: aid07_bid41 -->
+<!-- cvid: aid46_bid05 -->

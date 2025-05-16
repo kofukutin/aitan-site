@@ -81,15 +81,19 @@ TOEICでは、商品やサービスの説明文、統計データの記述など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品やサービスの説明文、統計データの記述など
 ## 🤔  varying との違いは？
 
 - **ranging**：範囲がAからBまで広がる、または及ぶことを強調
-- **[varying](/word/varying/)**：変化する、さまざまであることを強調
+- **[varying](/varying)**：変化する、さまざまであることを強調
 
 rangingは「範囲の広がり」や「幅」を示すのに対し、varyingは「変化」や「多様性」を強調します。
 
@@ -105,14 +109,14 @@ rangingは「範囲の広がり」や「幅」を示すのに対し、varyingは
 
 ## 🧩 あわせて覚えたい
 
-- [span](/word/span/)：（期間・範囲が）及ぶ
-- [include](/word/include/)：含む
+- [span](/span)：（期間・範囲が）及ぶ
+- [include](/include)：含む
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡大する、広げる
-- [cover](/word/cover/)：（範囲が）及ぶ、カバーする
+- [expand](/expand)：拡大する、広げる
+- [cover](/cover)：（範囲が）及ぶ、カバーする
 
-<!-- cvid: aid49_bid33 -->
+<!-- cvid: aid45_bid03 -->

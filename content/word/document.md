@@ -81,15 +81,19 @@ TOEICでは、契約書や案内文、Eメールなどの文書に関する設�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や案内文、Eメールなどの文書に関する設�
 ## 🤔  file との違いは？
 
 - **document**：主に内容が文書化された書類や公式な記録を指す
-- **[file](/word/file/)**：書類の集まりや、コンピュータ上のデータファイル全般を指す
+- **[file](/file)**：書類の集まりや、コンピュータ上のデータファイル全般を指す
 
 documentは「1枚の書類」や「公式な文書」に焦点があり、fileは「複数の書類の束」や「データのまとまり」として使われます。
 
@@ -105,14 +109,14 @@ documentは「1枚の書類」や「公式な文書」に焦点があり、file�
 
 ## 🧩 あわせて覚えたい
 
-- [record](/word/record/)：記録、記載
-- [report](/word/report/)：報告書、レポート
+- [record](/record)：記録、記載
+- [report](/report)：報告書、レポート
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form/)：用紙、申込書
-- [application](/word/application/)：申請書、応募書
+- [form](/form)：用紙、申込書
+- [application](/application)：申請書、応募書
 
-<!-- cvid: aid02_bid49 -->
+<!-- cvid: aid36_bid35 -->

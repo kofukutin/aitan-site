@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、施設利用案内などで「access」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、施設利用案内などで「access」が�
 ## 🤔  approach との違いは？
 
 - **access**：場所や情報などに「接近・利用」できることやその権利を表す。
-- **[approach](/word/approach/)**：物理的・抽象的に「近づく方法」や「取り組み方」を指す。
+- **[approach](/approach)**：物理的・抽象的に「近づく方法」や「取り組み方」を指す。
 
 「access」は利用や接続の可否・権利に焦点があり、「approach」は方法や手段に重点があります。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス文書、施設利用案内などで「access」が�
 
 ## 🧩 あわせて覚えたい
 
-- [entry](/word/entry/)：入場、参加
-- [permission](/word/permission/)：許可
+- [entry](/entry)：入場、参加
+- [permission](/permission)：許可
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account/)：アカウント、口座
-- [network](/word/network/)：ネットワーク、通信網
+- [account](/account)：アカウント、口座
+- [network](/network)：ネットワーク、通信網
 
-<!-- cvid: aid07_bid13 -->
+<!-- cvid: aid21_bid36 -->

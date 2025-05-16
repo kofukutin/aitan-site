@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「床」や「階」を説明する場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「床」や「階」を説明する場
 ## 🤔  ground との違いは？
 
 - **floor**：建物の中の「床」や「階」を指す
-- **[ground](/word/ground/)**：屋外の「地面」や「土地」を指す
+- **[ground](/ground)**：屋外の「地面」や「土地」を指す
 
 floorは室内や建物内で使い、groundは屋外や自然の地面を指します。使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ floorは室内や建物内で使い、groundは屋外や自然の地面を指し
 
 ## 🧩 あわせて覚えたい
 
-- [ceiling](/word/ceiling/)：天井
-- [carpet](/word/carpet/)：カーペット、じゅうたん
+- [ceiling](/ceiling)：天井
+- [carpet](/carpet)：カーペット、じゅうたん
 
 ---
 
 ## 📖 できればこれも
 
-- [wall](/word/wall/)：壁
-- [room](/word/room/)：部屋
+- [wall](/wall)：壁
+- [room](/room)：部屋
 
-<!-- cvid: aid07_bid27 -->
+<!-- cvid: aid45_bid44 -->

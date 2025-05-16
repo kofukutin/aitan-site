@@ -81,15 +81,19 @@ TOEICでは「指示やメールを無視する」「問題を無視する」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「指示やメールを無視する」「問題を無視する」な
 ## 🤔  neglect との違いは？
 
 - **ignore**：意図的に無視する、気づいていても反応しない
-- **[neglect](/word/neglect/)**：注意や世話を怠る、放置する
+- **[neglect](/neglect)**：注意や世話を怠る、放置する
 
 「ignore」は意識的に無視する場合に使い、「neglect」は本来すべき注意や世話を怠る場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「指示やメールを無視する」「問題を無視する」な
 
 ## 🧩 あわせて覚えたい
 
-- [overlook](/word/overlook/)：見落とす、見逃す
-- [notice](/word/notice/)：気づく
+- [overlook](/overlook)：見落とす、見逃す
+- [notice](/notice)：気づく
 
 ---
 
 ## 📖 できればこれも
 
-- [avoid](/word/avoid/)：避ける
-- [refuse](/word/refuse/)：断る
+- [avoid](/avoid)：避ける
+- [refuse](/refuse)：断る
 
-<!-- cvid: aid47_bid29 -->
+<!-- cvid: aid42_bid11 -->

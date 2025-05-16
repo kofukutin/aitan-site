@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文読解で、学校や教育機関、または組
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文読解で、学校や教育機関、または組
 ## 🤔  president との違いは？
 
 - **principal**：学校や組織の「主要な人物」や「校長」を指す。教育現場で特によく使う。
-- **[president](/word/president/)**：会社や団体の「社長」「会長」など、組織のトップを指す。
+- **[president](/president)**：会社や団体の「社長」「会長」など、組織のトップを指す。
 
 principalは教育機関や一部の組織で使われ、presidentは企業や団体のトップに使われる点が異なります。
 
@@ -105,14 +109,14 @@ principalは教育機関や一部の組織で使われ、presidentは企業や�
 
 ## 🧩 あわせて覚えたい
 
-- [headmaster](/word/headmaster/)：（主にイギリス英語で）校長
-- [manager](/word/manager/)：管理職、マネージャー
+- [headmaster](/headmaster)：（主にイギリス英語で）校長
+- [manager](/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [faculty](/word/faculty/)：（大学などの）教員、学部
-- [administrator](/word/administrator/)：管理者、運営者
+- [faculty](/faculty)：（大学などの）教員、学部
+- [administrator](/administrator)：管理者、運営者
 
-<!-- cvid: aid38_bid22 -->
+<!-- cvid: aid21_bid27 -->

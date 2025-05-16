@@ -81,15 +81,19 @@ TOEICでは、契約や有効期限に関する文脈で頻出です。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や有効期限に関する文脈で頻出です。特に「
 ## 🤔  invalid との違いは？
 
 - **expired**：有効期限が切れて効力を失った状態
-- **[invalid](/word/invalid/)**：無効である、法的・技術的に認められない状態
+- **[invalid](/invalid)**：無効である、法的・技術的に認められない状態
 
 expiredは「期限切れ」による無効、invalidは「条件を満たさない」など広い意味での無効を指します。
 
@@ -105,14 +109,14 @@ expiredは「期限切れ」による無効、invalidは「条件を満たさな
 
 ## 🧩 あわせて覚えたい
 
-- [outdated](/word/outdated/)：時代遅れの、古くなった
-- [renew](/word/renew/)：更新する
+- [outdated](/outdated)：時代遅れの、古くなった
+- [renew](/renew)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [valid](/word/valid/)：有効な
-- [approve](/word/approve/)：承認する
+- [valid](/valid)：有効な
+- [approve](/approve)：承認する
 
-<!-- cvid: aid45_bid39 -->
+<!-- cvid: aid23_bid18 -->

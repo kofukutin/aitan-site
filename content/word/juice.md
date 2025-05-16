@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【juice】の意味・使い方・例文 ― sauceとの違い【TOEIC英単語】"
 description: "juiceの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsauceとの違いもわかりやすく学べます。"
 word: "juice"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、飲み物や食事の場面で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、飲み物や食事の場面で登場
 ## 🤔  sauce との違いは？
 
 - **juice**：果物や野菜などからしぼった液体や飲み物の「ジュース」。
-- **[sauce](/word/sauce/)**：料理にかける「ソース」や調味料の液体。
+- **[sauce](/sauce)**：料理にかける「ソース」や調味料の液体。
 
 juiceは自然な素材から出る飲み物や汁を指し、sauceは料理の味付けや添えるための液体を指します。
 
@@ -105,14 +109,14 @@ juiceは自然な素材から出る飲み物や汁を指し、sauceは料理の�
 
 ## 🧩 あわせて覚えたい
 
-- [beverage](/word/beverage/)：飲み物
-- [liquid](/word/liquid/)：液体
+- [beverage](/beverage)：飲み物
+- [liquid](/liquid)：液体
 
 ---
 
 ## 📖 できればこれも
 
-- [milk](/word/milk/)：牛乳
-- [soup](/word/soup/)：スープ
+- [milk](/milk)：牛乳
+- [soup](/soup)：スープ
 
-<!-- cvid: aid25_bid30 -->
+<!-- cvid: aid06_bid31 -->

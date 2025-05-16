@@ -81,15 +81,19 @@ messは会話文や説明文で「混乱」「散らかり」を表す語とし�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ messは会話文や説明文で「混乱」「散らかり」を表す語とし�
 ## 🤔  chaos との違いは？
 
 - **mess**：物理的・精神的な「散らかり」や「混乱」をカジュアルに表現
-- **[chaos](/word/chaos/)**：秩序が完全に失われた深刻な「混沌」や「大混乱」を表現
+- **[chaos](/chaos)**：秩序が完全に失われた深刻な「混沌」や「大混乱」を表現
 
 messは日常的な「ごちゃごちゃ」や「ちょっとした混乱」に使い、chaosは規模が大きく深刻な混沌状態に使います。
 
@@ -105,14 +109,14 @@ messは日常的な「ごちゃごちゃ」や「ちょっとした混乱」に�
 
 ## 🧩 あわせて覚えたい
 
-- [order](/word/order/)：秩序、順序
-- [confusion](/word/confusion/)：混乱、困惑
+- [order](/order)：秩序、順序
+- [confusion](/confusion)：混乱、困惑
 
 ---
 
 ## 📖 できればこれも
 
-- [dirty](/word/dirty/)：汚い
-- [tidy](/word/tidy/)：きちんとした
+- [dirty](/dirty)：汚い
+- [tidy](/tidy)：きちんとした
 
-<!-- cvid: aid34_bid31 -->
+<!-- cvid: aid35_bid09 -->

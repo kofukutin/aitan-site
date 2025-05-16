@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、時制や状況説明の文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、時制や状況説明の文脈で出
 ## 🤔  currently との違いは？
 
 - **presently**：まもなく、または現在（ややフォーマルで「すぐに」の意味も強い）
-- **[currently](/word/currently/)**：現在、今（よりカジュアルで「今この時点」の意味が中心）
+- **[currently](/currently)**：現在、今（よりカジュアルで「今この時点」の意味が中心）
 
 presentlyは「まもなく」「すぐに」の意味もあり、ややフォーマル。currentlyは「今この瞬間」の意味で、より日常的に使われます。
 
@@ -105,14 +109,14 @@ presentlyは「まもなく」「すぐに」の意味もあり、ややフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [soon](/word/soon/)：すぐに、まもなく
-- [immediately](/word/immediately/)：ただちに、すぐに
+- [soon](/soon)：すぐに、まもなく
+- [immediately](/immediately)：ただちに、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [eventually](/word/eventually/)：最終的に、やがて
-- [recently](/word/recently/)：最近
+- [eventually](/eventually)：最終的に、やがて
+- [recently](/recently)：最近
 
-<!-- cvid: aid31_bid03 -->
+<!-- cvid: aid05_bid13 -->

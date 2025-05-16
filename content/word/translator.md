@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やEメールの中で「translator」が職業�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やEメールの中で「translator」が職業�
 ## 🤔  interpreter との違いは？
 
 - **translator**：書かれた文章や文書を別の言語に翻訳する人
-- **[interpreter](/word/interpreter/)**：話されている言葉をその場で通訳する人
+- **[interpreter](/interpreter)**：話されている言葉をその場で通訳する人
 
 translatorは「書き言葉」の翻訳、interpreterは「話し言葉」の通訳に使い分けます。
 
@@ -105,14 +109,14 @@ translatorは「書き言葉」の翻訳、interpreterは「話し言葉」の�
 
 ## 🧩 あわせて覚えたい
 
-- [translation](/word/translation/)：翻訳、訳文
-- [bilingual](/word/bilingual/)：2か国語を話す人
+- [translation](/translation)：翻訳、訳文
+- [bilingual](/bilingual)：2か国語を話す人
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor/)：編集者
-- [author](/word/author/)：著者、作家
+- [editor](/editor)：編集者
+- [author](/author)：著者、作家
 
-<!-- cvid: aid38_bid49 -->
+<!-- cvid: aid22_bid40 -->

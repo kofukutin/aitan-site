@@ -81,15 +81,19 @@ IT関連や社内コミュニケーションの文脈で、メールやチャッ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連や社内コミュニケーションの文脈で、メールやチャッ
 ## 🤔  communication との違いは？
 
 - **messaging**：主にIT分野で「メッセージの送受信」やその機能を指す
-- **[communication](/word/communication/)**：より広く「情報伝達」や「意思疎通」全般を指す
+- **[communication](/communication)**：より広く「情報伝達」や「意思疎通」全般を指す
 
 messagingはチャットやメールなど具体的なやり取りや機能に使い、communicationは会話やジェスチャーなども含む幅広い意味で使います。
 
@@ -105,14 +109,14 @@ messagingはチャットやメールなど具体的なやり取りや機能に�
 
 ## 🧩 あわせて覚えたい
 
-- [notification](/word/notification/)：通知、お知らせ
-- [chat](/word/chat/)：チャット、気軽な会話
+- [notification](/notification)：通知、お知らせ
+- [chat](/chat)：チャット、気軽な会話
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message/)：メッセージ、伝言
-- [platform](/word/platform/)：プラットフォーム、基盤となるシステム
+- [message](/message)：メッセージ、伝言
+- [platform](/platform)：プラットフォーム、基盤となるシステム
 
-<!-- cvid: aid03_bid14 -->
+<!-- cvid: aid09_bid41 -->

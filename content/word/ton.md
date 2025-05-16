@@ -81,15 +81,19 @@ TOEICでは、貨物や重さ、数量を説明する場面で「ton」が使わ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、貨物や重さ、数量を説明する場面で「ton」が使わ
 ## 🤔  load との違いは？
 
 - **ton**：重さの単位や「大量」という意味で使う。
-- **[load](/word/load/)**：積み荷や荷物そのもの、または「積む」という動詞としても使う。
+- **[load](/load)**：積み荷や荷物そのもの、または「積む」という動詞としても使う。
 
 「ton」は数量や重さを表すのに対し、「load」は運ぶ物やその量自体を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、貨物や重さ、数量を説明する場面で「ton」が使わ
 
 ## 🧩 あわせて覚えたい
 
-- [weight](/word/weight/)：重さ、重量
-- [mass](/word/mass/)：質量、大きなかたまり
+- [weight](/weight)：重さ、重量
+- [mass](/mass)：質量、大きなかたまり
 
 ---
 
 ## 📖 できればこれも
 
-- [pound](/word/pound/)：ポンド（重さの単位）
-- [cargo](/word/cargo/)：貨物、積み荷
+- [pound](/pound)：ポンド（重さの単位）
+- [cargo](/cargo)：貨物、積み荷
 
-<!-- cvid: aid32_bid32 -->
+<!-- cvid: aid47_bid39 -->

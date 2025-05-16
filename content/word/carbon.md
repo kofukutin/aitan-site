@@ -81,15 +81,19 @@ TOEICでは環境問題やサステナビリティ、科学技術に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題やサステナビリティ、科学技術に関する長
 ## 🤔  charcoal との違いは？
 
 - **carbon**：元素としての炭素や、環境・科学分野で使う「炭素」
-- **[charcoal](/word/charcoal/)**：木材などを蒸し焼きにして作る「木炭」
+- **[charcoal](/charcoal)**：木材などを蒸し焼きにして作る「木炭」
 
 carbonは科学的・抽象的な意味で使われるのに対し、charcoalはバーベキューや画材など具体的な「木炭」を指します。
 
@@ -105,14 +109,14 @@ carbonは科学的・抽象的な意味で使われるのに対し、charcoalは
 
 ## 🧩 あわせて覚えたい
 
-- [oxygen](/word/oxygen/)：酸素
-- [emission](/word/emission/)：排出、放出
+- [oxygen](/oxygen)：酸素
+- [emission](/emission)：排出、放出
 
 ---
 
 ## 📖 できればこれも
 
-- [dioxide](/word/dioxide/)：二酸化物
-- [fuel](/word/fuel/)：燃料
+- [dioxide](/dioxide)：二酸化物
+- [fuel](/fuel)：燃料
 
-<!-- cvid: aid20_bid25 -->
+<!-- cvid: aid02_bid03 -->

@@ -81,15 +81,19 @@ TOEICでは、コンサートやイベント紹介、人物紹介の記事など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、コンサートやイベント紹介、人物紹介の記事など
 ## 🤔  composer との違いは？
 
 - **musician**：音楽を演奏したり、音楽活動をする人全般
-- **[composer](/word/composer/)**：作曲家（音楽を作ることに特化した人）
+- **[composer](/composer)**：作曲家（音楽を作ることに特化した人）
 
 musicianは演奏者や歌手も含む広い意味ですが、composerは「作曲する人」に限定されます。
 
@@ -105,14 +109,14 @@ musicianは演奏者や歌手も含む広い意味ですが、composerは「作�
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/word/performer/)：演奏者、出演者
-- [artist](/word/artist/)：芸術家、アーティスト
+- [performer](/performer)：演奏者、出演者
+- [artist](/artist)：芸術家、アーティスト
 
 ---
 
 ## 📖 できればこれも
 
-- [singer](/word/singer/)：歌手
-- [band](/word/band/)：バンド、楽団
+- [singer](/singer)：歌手
+- [band](/band)：バンド、楽団
 
-<!-- cvid: aid06_bid48 -->
+<!-- cvid: aid12_bid26 -->

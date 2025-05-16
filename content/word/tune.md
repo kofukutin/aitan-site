@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「曲」や「音を合わせる」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「曲」や「音を合わせる」などの
 ## 🤔  melody との違いは？
 
 - **tune**：カジュアルに「曲」「メロディ」を指し、歌や楽器の旋律全般に使える。
-- **[melody](/word/melody/)**：音楽的に「旋律」「主旋律」を指し、より専門的・フォーマルな響き。
+- **[melody](/melody)**：音楽的に「旋律」「主旋律」を指し、より専門的・フォーマルな響き。
 
 tuneは日常会話で幅広く使われ、melodyは音楽理論や専門的な場面で使われやすいです。
 
@@ -105,14 +109,14 @@ tuneは日常会話で幅広く使われ、melodyは音楽理論や専門的な�
 
 ## 🧩 あわせて覚えたい
 
-- [song](/word/song/)：歌、楽曲
-- [rhythm](/word/rhythm/)：リズム、拍子
+- [song](/song)：歌、楽曲
+- [rhythm](/rhythm)：リズム、拍子
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：音符、メモ
-- [sound](/word/sound/)：音、響き
+- [note](/note)：音符、メモ
+- [sound](/sound)：音、響き
 
-<!-- cvid: aid13_bid41 -->
+<!-- cvid: aid02_bid13 -->

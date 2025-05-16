@@ -81,15 +81,19 @@ TOEICではITやビジネス文脈で「電子メール」「電子ファイル�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文脈で「電子メール」「電子ファイル�
 ## 🤔  electrical との違いは？
 
 - **electronic**：電子回路やデジタル技術に関する
-- **[electrical](/word/electrical/)**：電気そのものや電力に関する
+- **[electrical](/electrical)**：電気そのものや電力に関する
 
 electronicは「電子機器」や「デジタル技術」に使い、electricalは「電気配線」や「電力設備」など電気全般に使います。
 
@@ -105,14 +109,14 @@ electronicは「電子機器」や「デジタル技術」に使い、electrical
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital/)：デジタルの、数字で表す
-- [mechanical](/word/mechanical/)：機械の、機械的な
+- [digital](/digital)：デジタルの、数字で表す
+- [mechanical](/mechanical)：機械の、機械的な
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [automatic](/word/automatic/)：自動の
+- [device](/device)：装置、機器
+- [automatic](/automatic)：自動の
 
-<!-- cvid: aid40_bid26 -->
+<!-- cvid: aid06_bid35 -->

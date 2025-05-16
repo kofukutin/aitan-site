@@ -81,15 +81,19 @@ TOEICでは、容器や部屋、箱などが「空である」ことを表す文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、容器や部屋、箱などが「空である」ことを表す文
 ## 🤔  vacant との違いは？
 
 - **empty**：中身がなく、空っぽである状態を表す。
-- **[vacant](/word/vacant/)**：部屋や席などが「誰にも使われていない」状態を表す。
+- **[vacant](/vacant)**：部屋や席などが「誰にも使われていない」状態を表す。
 
 emptyは「物の中身がない」こと、vacantは「人がいない・使われていない」ことに重点があります。
 
@@ -105,14 +109,14 @@ emptyは「物の中身がない」こと、vacantは「人がいない・使わ
 
 ## 🧩 あわせて覚えたい
 
-- [full](/word/full/)：満ちている、いっぱいの
-- [blank](/word/blank/)：空白の、何も書かれていない
+- [full](/full)：満ちている、いっぱいの
+- [blank](/blank)：空白の、何も書かれていない
 
 ---
 
 ## 📖 できればこれも
 
-- [clean](/word/clean/)：きれいな、清潔な
-- [open](/word/open/)：開いている、開放された
+- [clean](/clean)：きれいな、清潔な
+- [open](/open)：開いている、開放された
 
-<!-- cvid: aid18_bid33 -->
+<!-- cvid: aid19_bid10 -->

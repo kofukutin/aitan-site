@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【home】の意味・使い方・例文 ― houseとの違い【TOEIC英単語】"
 description: "homeの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhouseとの違いもわかりやすく学べます。"
 word: "home"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写や、日常生活に関する会話文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写や、日常生活に関する会話文でよく
 ## 🤔  house との違いは？
 
 - **home**：家族や心の拠り所としての「家」「家庭」を指す
-- **[house](/word/house/)**：建物としての「家」「住宅」を指す
+- **[house](/house)**：建物としての「家」「住宅」を指す
 
 **home**は感情や家族のつながりを含む「家庭」、**house**は物理的な建物としての「家」を表します。
 
@@ -105,14 +109,14 @@ TOEICではPart 1の写真描写や、日常生活に関する会話文でよく
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence/)：住居、居住地
-- [apartment](/word/apartment/)：アパート、マンション
+- [residence](/residence)：住居、居住地
+- [apartment](/apartment)：アパート、マンション
 
 ---
 
 ## 📖 できればこれも
 
-- [family](/word/family/)：家族
-- [room](/word/room/)：部屋
+- [family](/family)：家族
+- [room](/room)：部屋
 
-<!-- cvid: aid12_bid06 -->
+<!-- cvid: aid27_bid37 -->

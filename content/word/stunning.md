@@ -81,15 +81,19 @@ TOEICでは観光や商品説明、プレゼンなどで「印象的」「素晴
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や商品説明、プレゼンなどで「印象的」「素晴
 ## 🤔  impressive との違いは？
 
 - **stunning**：見た目や出来事があまりに美しく、圧倒されるほど素晴らしい
-- **[impressive](/word/impressive/)**：人に強い印象や感銘を与える
+- **[impressive](/impressive)**：人に強い印象や感銘を与える
 
 stunningは「美しさや素晴らしさに圧倒される」感情が強く、impressiveは「感心する・印象に残る」ニュアンスが中心です。
 
@@ -105,14 +109,14 @@ stunningは「美しさや素晴らしさに圧倒される」感情が強く、
 
 ## 🧩 あわせて覚えたい
 
-- [gorgeous](/word/gorgeous/)：とても美しい、華やかな
-- [ordinary](/word/ordinary/)：普通の、平凡な
+- [gorgeous](/gorgeous)：とても美しい、華やかな
+- [ordinary](/ordinary)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/word/remarkable/)：注目すべき、並外れた
-- [spectacular](/word/spectacular/)：壮観な、目を見張るような
+- [remarkable](/remarkable)：注目すべき、並外れた
+- [spectacular](/spectacular)：壮観な、目を見張るような
 
-<!-- cvid: aid42_bid42 -->
+<!-- cvid: aid24_bid05 -->

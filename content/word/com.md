@@ -77,15 +77,19 @@ TOEICではウェブサイトのURLや会社案内、メール文中で「.com�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではウェブサイトのURLや会社案内、メール文中で「.com�
 ## 🤔  net との違いは？
 
 - **com**：商用組織や企業向けのドメイン名拡張子
-- **[net](/word/net/)**：ネットワーク関連組織向けのドメイン名拡張子
+- **[net](/net)**：ネットワーク関連組織向けのドメイン名拡張子
 
 「com」は主に企業や商用サイト、「net」はネットワークサービスやインターネット関連組織で使われる違いがあります。
 
@@ -101,14 +105,14 @@ TOEICではウェブサイトのURLや会社案内、メール文中で「.com�
 
 ## 🧩 あわせて覚えたい
 
-- [domain](/word/domain/)：ドメイン、インターネット上の住所
-- [website](/word/website/)：ウェブサイト、インターネット上のページ集
+- [domain](/domain)：ドメイン、インターネット上の住所
+- [website](/website)：ウェブサイト、インターネット上のページ集
 
 ---
 
 ## 📖 できればこれも
 
-- [site](/word/site/)：サイト、場所やウェブサイトの略
-- [address](/word/address/)：アドレス、住所やメールアドレス
+- [site](/site)：サイト、場所やウェブサイトの略
+- [address](/address)：アドレス、住所やメールアドレス
 
-<!-- cvid: aid11_bid12 -->
+<!-- cvid: aid38_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは、人物紹介や推薦文、ビジネス文書などで「respected
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物紹介や推薦文、ビジネス文書などで「respected
 ## 🤔  respectable との違いは？
 
 - **respected**：多くの人から尊敬されている、評価されている
-- **[respectable](/word/respectable/)**：立派な、ちゃんとした、世間的に認められる
+- **[respectable](/respectable)**：立派な、ちゃんとした、世間的に認められる
 
 「respected」は他者からの評価や尊敬を強調し、「respectable」は「立派さ」や「社会的に認められる基準」を満たしていることを表します。
 
@@ -105,14 +109,14 @@ TOEICでは、人物紹介や推薦文、ビジネス文書などで「respected
 
 ## 🧩 あわせて覚えたい
 
-- [admired](/word/admired/)：称賛されている
-- [honored](/word/honored/)：名誉ある、光栄に思う
+- [admired](/admired)：称賛されている
+- [honored](/honored)：名誉ある、光栄に思う
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [qualified](/word/qualified/)：資格のある、適任の
+- [reliable](/reliable)：信頼できる
+- [qualified](/qualified)：資格のある、適任の
 
-<!-- cvid: aid45_bid00 -->
+<!-- cvid: aid43_bid39 -->

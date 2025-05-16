@@ -81,7 +81,7 @@ TOEICでは主にPart 1の写真描写で「隣人」や「近くの人」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+積み重ねが力になる👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 1の写真描写で「隣人」や「近くの人」とし
 
 <div class="info-center">
 ＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid25" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid25" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「隣人」や「近くの人」とし
 ## 🤔  acquaintance との違いは？
 
 - **neighbor**：自分の家や職場の近くに住んでいる人
-- **[acquaintance](/word/acquaintance/)**：知り合い（親しいとは限らない）
+- **[acquaintance](/acquaintance)**：知り合い（親しいとは限らない）
 
 neighborは物理的な「近さ」がポイントで、acquaintanceは「知っている人」という関係性を表します。
 
@@ -105,14 +109,14 @@ neighborは物理的な「近さ」がポイントで、acquaintanceは「知っ
 
 ## 🧩 あわせて覚えたい
 
-- [resident](/word/resident/)：住人、居住者
-- [stranger](/word/stranger/)：見知らぬ人
+- [resident](/resident)：住人、居住者
+- [stranger](/stranger)：見知らぬ人
 
 ---
 
 ## 📖 できればこれも
 
-- [friend](/word/friend/)：友人
-- [colleague](/word/colleague/)：同僚
+- [friend](/friend)：友人
+- [colleague](/colleague)：同僚
 
-<!-- cvid: aid11_bid25 -->
+<!-- cvid: aid47_bid25 -->

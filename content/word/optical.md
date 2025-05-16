@@ -81,15 +81,19 @@ TOEICでは、ITや科学技術に関する説明文や製品紹介で「optical
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid19" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid19" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITや科学技術に関する説明文や製品紹介で「optical
 ## 🤔  visual との違いは？
 
 - **optical**：光や視覚の仕組み・技術に関する
-- **[visual](/word/visual/)**：見えるもの、視覚的なもの全般
+- **[visual](/visual)**：見えるもの、視覚的なもの全般
 
 opticalは科学的・技術的な「光学」に重点があり、visualは「見た目」や「視覚的な印象」に幅広く使われます。
 
@@ -105,14 +109,14 @@ opticalは科学的・技術的な「光学」に重点があり、visualは「�
 
 ## 🧩 あわせて覚えたい
 
-- [auditory](/word/auditory/)：聴覚の
-- [lens](/word/lens/)：レンズ
+- [auditory](/auditory)：聴覚の
+- [lens](/lens)：レンズ
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible/)：目に見える
-- [digital](/word/digital/)：デジタルの
+- [visible](/visible)：目に見える
+- [digital](/digital)：デジタルの
 
-<!-- cvid: aid34_bid34 -->
+<!-- cvid: aid08_bid19 -->

@@ -80,15 +80,19 @@ TOEICでは主に長文読解や記事文で、地域の治安や事件に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に長文読解や記事文で、地域の治安や事件に関す
 ## 🤔  police officer との違いは？
 
 - **sheriff**：郡や地域単位で選出される保安官、公的な役職。
-- **[police officer](/word/police_officer/)**：一般的な警察官、都市や町で働く。
+- **[police officer](/police_officer)**：一般的な警察官、都市や町で働く。
 
 sheriffは主に郡や地方の治安を担当し、police officerは都市部や広域で活動する点が異なります。
 
@@ -104,14 +108,14 @@ sheriffは主に郡や地方の治安を担当し、police officerは都市部�
 
 ## 🧩 あわせて覚えたい
 
-- [deputy](/word/deputy/)：保安官代理、補佐役
-- [constable](/word/constable/)：（特にイギリスの）巡査
+- [deputy](/deputy)：保安官代理、補佐役
+- [constable](/constable)：（特にイギリスの）巡査
 
 ---
 
 ## 📖 できればこれも
 
-- [judge](/word/judge/)：裁判官
-- [lawyer](/word/lawyer/)：弁護士
+- [judge](/judge)：裁判官
+- [lawyer](/lawyer)：弁護士
 
-<!-- cvid: aid45_bid16 -->
+<!-- cvid: aid10_bid10 -->

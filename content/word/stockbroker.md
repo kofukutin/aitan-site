@@ -81,15 +81,19 @@ TOEICでは金融や投資関連の長文やEメール、案内文などで登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは金融や投資関連の長文やEメール、案内文などで登�
 ## 🤔  dealer との違いは？
 
 - **stockbroker**：顧客の代理で株式や証券を売買する仲介人
-- **[dealer](/word/dealer/)**：自らの名義で金融商品や商品を売買する業者
+- **[dealer](/dealer)**：自らの名義で金融商品や商品を売買する業者
 
 stockbrokerは顧客の注文を市場に取り次ぐ仲介役ですが、dealerは自分の資金で売買を行う点が異なります。
 
@@ -105,14 +109,14 @@ stockbrokerは顧客の注文を市場に取り次ぐ仲介役ですが、dealer
 
 ## 🧩 あわせて覚えたい
 
-- [investor](/word/investor/)：投資家
-- [analyst](/word/analyst/)：分析者、アナリスト
+- [investor](/investor)：投資家
+- [analyst](/analyst)：分析者、アナリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [shareholder](/word/shareholder/)：株主
-- [portfolio](/word/portfolio/)：（金融）資産構成、ポートフォリオ
+- [shareholder](/shareholder)：株主
+- [portfolio](/portfolio)：（金融）資産構成、ポートフォリオ
 
-<!-- cvid: aid46_bid18 -->
+<!-- cvid: aid33_bid35 -->

@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス分野の長文読解問題で「technological」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス分野の長文読解問題で「technological」
 ## 🤔  technical との違いは？
 
 - **technological**：科学技術や最新技術に関する
-- **[technical](/word/technical/)**：専門的・技術的な（細かい手順や知識に関する）
+- **[technical](/technical)**：専門的・技術的な（細かい手順や知識に関する）
 
 「technological」は主に科学技術やイノベーションなど広い意味での技術に使われ、「technical」は専門的な手順や知識、細かい技術面に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネス分野の長文読解問題で「technological」
 
 ## 🧩 あわせて覚えたい
 
-- [scientific](/word/scientific/)：科学の、科学的な
-- [innovative](/word/innovative/)：革新的な
+- [scientific](/scientific)：科学の、科学的な
+- [innovative](/innovative)：革新的な
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [mechanical](/word/mechanical/)：機械の、機械的な
+- [digital](/digital)：デジタルの
+- [mechanical](/mechanical)：機械の、機械的な
 
-<!-- cvid: aid15_bid19 -->
+<!-- cvid: aid37_bid18 -->

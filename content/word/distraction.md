@@ -81,15 +81,19 @@ distractionは会議や職場のシーンで「集中を妨げるもの」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ distractionは会議や職場のシーンで「集中を妨げるもの」とし
 ## 🤔  interruption との違いは？
 
 - **distraction**：注意や集中をそらすもの・出来事
-- **[interruption](/word/interruption/)**：進行中の行動や会話を一時的に中断させるもの
+- **[interruption](/interruption)**：進行中の行動や会話を一時的に中断させるもの
 
 distractionは「気が散る」こと全般を指し、interruptionは「中断」や「割り込み」といった一時的な停止を強調します。
 
@@ -105,14 +109,14 @@ distractionは「気が散る」こと全般を指し、interruptionは「中断
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/word/focus/)：集中、焦点
-- [disturbance](/word/disturbance/)：妨害、騒ぎ
+- [focus](/focus)：集中、焦点
+- [disturbance](/disturbance)：妨害、騒ぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [attention](/word/attention/)：注意、注目
-- [concentration](/word/concentration/)：集中力
+- [attention](/attention)：注意、注目
+- [concentration](/concentration)：集中力
 
-<!-- cvid: aid35_bid18 -->
+<!-- cvid: aid19_bid21 -->

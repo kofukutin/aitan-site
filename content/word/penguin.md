@@ -81,15 +81,19 @@ penguinはTOEICのPart 7で、動物や観光施設の説明文などに登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ penguinはTOEICのPart 7で、動物や観光施設の説明文などに登場�
 ## 🤔  puffin との違いは？
 
 - **penguin**：南極などの寒い地域に生息し、飛べない鳥。
-- **[puffin](/word/puffin/)**：北半球の沿岸に生息し、飛ぶことができるカラフルなくちばしの鳥。
+- **[puffin](/puffin)**：北半球の沿岸に生息し、飛ぶことができるカラフルなくちばしの鳥。
 
 penguinは南極圏の飛べない鳥、puffinは北の海岸に住む飛べる鳥で、見た目や生息地が異なります。
 
@@ -105,14 +109,14 @@ penguinは南極圏の飛べない鳥、puffinは北の海岸に住む飛べる�
 
 ## 🧩 あわせて覚えたい
 
-- [seal](/word/seal/)：アザラシ
-- [antarctica](/word/antarctica/)：南極大陸
+- [seal](/seal)：アザラシ
+- [antarctica](/antarctica)：南極大陸
 
 ---
 
 ## 📖 できればこれも
 
-- [dolphin](/word/dolphin/)：イルカ
-- [zebra](/word/zebra/)：シマウマ
+- [dolphin](/dolphin)：イルカ
+- [zebra](/zebra)：シマウマ
 
-<!-- cvid: aid32_bid02 -->
+<!-- cvid: aid28_bid41 -->

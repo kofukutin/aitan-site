@@ -81,15 +81,19 @@ TOEICでは、部屋や車、オフィスなどの賃貸に関する会話や説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、部屋や車、オフィスなどの賃貸に関する会話や説
 ## 🤔  lease との違いは？
 
 - **rent**：比較的短期間や一時的な賃貸に使われることが多い。
-- **[lease](/word/lease/)**：長期間・契約に基づく賃貸に使われる。
+- **[lease](/lease)**：長期間・契約に基づく賃貸に使われる。
 
 rentは「気軽に借りる」イメージ、leaseは「契約書を交わして長期間借りる」イメージです。
 
@@ -105,14 +109,14 @@ rentは「気軽に借りる」イメージ、leaseは「契約書を交わし�
 
 ## 🧩 あわせて覚えたい
 
-- [borrow](/word/borrow/)：無料で借りる
-- [lend](/word/lend/)：貸す
+- [borrow](/borrow)：無料で借りる
+- [lend](/lend)：貸す
 
 ---
 
 ## 📖 できればこれも
 
-- [hire](/word/hire/)：（主に英）一時的に借りる、雇う
-- [purchase](/word/purchase/)：購入する
+- [hire](/hire)：（主に英）一時的に借りる、雇う
+- [purchase](/purchase)：購入する
 
-<!-- cvid: aid38_bid37 -->
+<!-- cvid: aid49_bid08 -->

@@ -81,15 +81,19 @@ TOEICでは、動詞として「分ける」「区別する」の意味で文法
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞として「分ける」「区別する」の意味で文法
 ## 🤔  divide との違いは？
 
 - **separate**：物や人を「分ける」「区別する」ことに重点があり、物理的・抽象的な分離どちらにも使える。
-- **[divide](/word/divide/)**：全体を「分割する」「分配する」意味が強く、数量や割合を意識した分け方に使われる。
+- **[divide](/divide)**：全体を「分割する」「分配する」意味が強く、数量や割合を意識した分け方に使われる。
 
 separateは「区切る・区別する」ニュアンス、divideは「分割・分配」のニュアンスが強い点が異なります。
 
@@ -105,14 +109,14 @@ separateは「区切る・区別する」ニュアンス、divideは「分割・
 
 ## 🧩 あわせて覚えたい
 
-- [isolate](/word/isolate/)：孤立させる、隔離する
-- [connect](/word/connect/)：つなぐ、接続する
+- [isolate](/isolate)：孤立させる、隔離する
+- [connect](/connect)：つなぐ、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [combine](/word/combine/)：結合する、組み合わせる
-- [attach](/word/attach/)：取り付ける、添付する
+- [combine](/combine)：結合する、組み合わせる
+- [attach](/attach)：取り付ける、添付する
 
-<!-- cvid: aid39_bid09 -->
+<!-- cvid: aid00_bid44 -->

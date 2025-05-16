@@ -81,15 +81,19 @@ TOEICでは説明文や広告、案内文などで家電製品やオフィス機
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や広告、案内文などで家電製品やオフィス機
 ## 🤔  device との違いは？
 
 - **appliance**：主に家庭やオフィスで使う電気・ガス製品や大型の器具を指す
-- **[device](/word/device/)**：用途や大きさを問わず、道具や装置全般を広く指す
+- **[device](/device)**：用途や大きさを問わず、道具や装置全般を広く指す
 
 applianceは「家電」など実用的な大型機器に限定されることが多いですが、deviceは小型の電子機器や道具など幅広く使われます。
 
@@ -105,14 +109,14 @@ applianceは「家電」など実用的な大型機器に限定されること�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/word/equipment/)：設備、備品
-- [utensil](/word/utensil/)：（特に台所の）用具、器具
+- [equipment](/equipment)：設備、備品
+- [utensil](/utensil)：（特に台所の）用具、器具
 
 ---
 
 ## 📖 できればこれも
 
-- [instrument](/word/instrument/)：器具、計器
-- [gadget](/word/gadget/)：小型機器、便利グッズ
+- [instrument](/instrument)：器具、計器
+- [gadget](/gadget)：小型機器、便利グッズ
 
-<!-- cvid: aid00_bid23 -->
+<!-- cvid: aid21_bid20 -->

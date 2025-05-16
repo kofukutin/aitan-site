@@ -81,15 +81,19 @@ TOEICでは、公式文書やビジネスメール、組織図などで役職名
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、公式文書やビジネスメール、組織図などで役職名
 ## 🤔  director との違いは？
 
 - **commissioner**：特定の分野や地域を統括する委員・長官・理事など、任命された責任者を指すフォーマルな語。
-- **[director](/word/director/)**：会社や団体の部門・部署などの「部長」「取締役」など、管理職全般を指す語。
+- **[director](/director)**：会社や団体の部門・部署などの「部長」「取締役」など、管理職全般を指す語。
 
 commissionerは公的機関や委員会などで使われることが多く、directorは企業や組織の管理職に広く使われます。
 
@@ -105,14 +109,14 @@ commissionerは公的機関や委員会などで使われることが多く、di
 
 ## 🧩 あわせて覚えたい
 
-- [supervisor](/word/supervisor/)：監督者、現場責任者
-- [officer](/word/officer/)：役員、幹部、警官
+- [supervisor](/supervisor)：監督者、現場責任者
+- [officer](/officer)：役員、幹部、警官
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [executive](/word/executive/)：重役、経営幹部
+- [committee](/committee)：委員会
+- [executive](/executive)：重役、経営幹部
 
-<!-- cvid: aid39_bid47 -->
+<!-- cvid: aid24_bid11 -->

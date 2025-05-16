@@ -81,15 +81,19 @@ supportedは、TOEICの文法問題や語彙問題で「supported by」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ supportedは、TOEICの文法問題や語彙問題で「supported by」などの
 ## 🤔  assisted との違いは？
 
 - **supported**：物理的・精神的に「支えられている」「支援されている」状態を広く表す
-- **[assisted](/word/assisted/)**：主に「手助けされた」「補助を受けた」など、具体的な行動によるサポートを強調
+- **[assisted](/assisted)**：主に「手助けされた」「補助を受けた」など、具体的な行動によるサポートを強調
 
 supportedは全体的な支援や後ろ盾を示し、assistedは実際の手助けや補助のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ supportedは全体的な支援や後ろ盾を示し、assistedは実際の手助
 
 ## 🧩 あわせて覚えたい
 
-- [independent](/word/independent/)：独立した、自立した
-- [reinforced](/word/reinforced/)：強化された
+- [independent](/independent)：独立した、自立した
+- [reinforced](/reinforced)：強化された
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [efficient](/word/efficient/)：効率的な
+- [reliable](/reliable)：信頼できる
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid37_bid05 -->
+<!-- cvid: aid25_bid48 -->

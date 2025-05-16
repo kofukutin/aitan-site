@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で「壁を塗っている」「ペンキ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で「壁を塗っている」「ペンキ
 ## 🤔  draw との違いは？
 
 - **paint**：ペンキや絵の具などで色を塗る、または絵を描く
-- **[draw](/word/draw/)**：鉛筆やペンなどで線を引いて絵や図を描く
+- **[draw](/draw)**：鉛筆やペンなどで線を引いて絵や図を描く
 
 paintは「色を塗る」ことや「絵の具で描く」ことに重点があり、drawは「線で描く」ことに重点があります。
 
@@ -106,14 +110,14 @@ paintは「色を塗る」ことや「絵の具で描く」ことに重点があ
 
 ## 🧩 あわせて覚えたい
 
-- [decorate](/word/decorate/)：飾る、装飾する
-- [cover](/word/cover/)：覆う、カバーする
+- [decorate](/decorate)：飾る、装飾する
+- [cover](/cover)：覆う、カバーする
 
 ---
 
 ## 📖 できればこれも
 
-- [brush](/word/brush/)：ブラシ、筆
-- [color](/word/color/)：色、色を塗る
+- [brush](/brush)：ブラシ、筆
+- [color](/color)：色、色を塗る
 
-<!-- cvid: aid37_bid35 -->
+<!-- cvid: aid26_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは比較表現や、重要度・規模の違いを説明する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較表現や、重要度・規模の違いを説明する文脈で
 ## 🤔  minor との違いは？
 
 - **lesser**：他と比べて「より小さい」「より重要でない」と数量や重要度の差を強調する。
-- **[minor](/word/minor/)**：主に「重要でない」「小さい」といった意味で、全体の中での位置づけや程度を表す。
+- **[minor](/minor)**：主に「重要でない」「小さい」といった意味で、全体の中での位置づけや程度を表す。
 
 lesserは比較対象が明確なときに使われ、minorは絶対的に重要度が低い場合に使われます。
 
@@ -105,14 +109,14 @@ lesserは比較対象が明確なときに使われ、minorは絶対的に重要
 
 ## 🧩 あわせて覚えたい
 
-- [inferior](/word/inferior/)：劣っている
-- [secondary](/word/secondary/)：二次的な、補助的な
+- [inferior](/inferior)：劣っている
+- [secondary](/secondary)：二次的な、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [greater](/word/greater/)：より大きい、より重要な
-- [major](/word/major/)：主要な、重要な
+- [greater](/greater)：より大きい、より重要な
+- [major](/major)：主要な、重要な
 
-<!-- cvid: aid10_bid35 -->
+<!-- cvid: aid24_bid36 -->

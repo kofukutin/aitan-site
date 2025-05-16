@@ -81,15 +81,19 @@ TOEICでは「書類のコピー」や「複製する」という意味で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「書類のコピー」や「複製する」という意味で頻出
 ## 🤔  duplicate との違いは？
 
 - **copy**：一般的な「写し」「複製」。日常的な書類やデータのコピーに広く使う。
-- **[duplicate](/word/duplicate/)**：まったく同一のものを意図的に「複製」する場合に使い、ややフォーマル。
+- **[duplicate](/duplicate)**：まったく同一のものを意図的に「複製」する場合に使い、ややフォーマル。
 
 copyは日常的な「コピー」に幅広く使われ、duplicateは「完全な複製」や公式な文脈で使われることが多いです。
 
@@ -105,14 +109,14 @@ copyは日常的な「コピー」に幅広く使われ、duplicateは「完全�
 
 ## 🧩 あわせて覚えたい
 
-- [original](/word/original/)：原本、元のもの
-- [print](/word/print/)：印刷する、印刷物
+- [original](/original)：原本、元のもの
+- [print](/print)：印刷する、印刷物
 
 ---
 
 ## 📖 できればこれも
 
-- [paste](/word/paste/)：貼り付ける
-- [scan](/word/scan/)：スキャンする
+- [paste](/paste)：貼り付ける
+- [scan](/scan)：スキャンする
 
-<!-- cvid: aid05_bid08 -->
+<!-- cvid: aid21_bid47 -->

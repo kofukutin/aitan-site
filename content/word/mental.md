@@ -81,15 +81,19 @@ TOEICでは「mental health」「mental ability」などの形で、健康や能
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「mental health」「mental ability」などの形で、健康や能
 ## 🤔  psychological との違いは？
 
 - **mental**：心や精神に関する一般的なことを幅広く指す
-- **[psychological](/word/psychological/)**：心理学的・心理的な側面や分析に特化して使う
+- **[psychological](/psychological)**：心理学的・心理的な側面や分析に特化して使う
 
 mentalは「心」や「精神」に関する広い意味で使われますが、psychologicalは「心理学」や「心理的分析」など、より専門的・学術的なニュアンスがあります。
 
@@ -105,14 +109,14 @@ mentalは「心」や「精神」に関する広い意味で使われますが�
 
 ## 🧩 あわせて覚えたい
 
-- [physical](/word/physical/)：身体の、肉体的な
-- [emotional](/word/emotional/)：感情の、情緒的な
+- [physical](/physical)：身体の、肉体的な
+- [emotional](/emotional)：感情の、情緒的な
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/word/medical/)：医療の、医学の
-- [physical](/word/physical/)：身体の、肉体的な
+- [medical](/medical)：医療の、医学の
+- [physical](/physical)：身体の、肉体的な
 
-<!-- cvid: aid43_bid04 -->
+<!-- cvid: aid23_bid32 -->

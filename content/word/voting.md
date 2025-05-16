@@ -81,15 +81,19 @@ TOEICでは、会社の意思決定や選挙、会議の案内文などで「vot
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の意思決定や選挙、会議の案内文などで「vot
 ## 🤔  election との違いは？
 
 - **voting**：投票という「行為」や「プロセス」に焦点を当てる
-- **[election](/word/election/)**：選挙という「イベント」や「結果」に焦点を当てる
+- **[election](/election)**：選挙という「イベント」や「結果」に焦点を当てる
 
 votingは「投票すること」自体を指し、electionは「選挙」という出来事やその結果を指します。
 
@@ -105,14 +109,14 @@ votingは「投票すること」自体を指し、electionは「選挙」とい
 
 ## 🧩 あわせて覚えたい
 
-- [ballot](/word/ballot/)：投票用紙、投票（名詞）
-- [poll](/word/poll/)：世論調査、投票所（名詞）
+- [ballot](/ballot)：投票用紙、投票（名詞）
+- [poll](/poll)：世論調査、投票所（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [decision](/word/decision/)：決定、判断
+- [candidate](/candidate)：候補者
+- [decision](/decision)：決定、判断
 
-<!-- cvid: aid14_bid34 -->
+<!-- cvid: aid20_bid14 -->

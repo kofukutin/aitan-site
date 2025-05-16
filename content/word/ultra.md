@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【ultra】の意味・使い方・例文 ― extremeとの違い【TOEIC英単語】"
 description: "ultraの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでextremeとの違いもわかりやすく学べます。"
 word: "ultra"
@@ -81,15 +81,19 @@ TOEICでは、科学技術や製品説明などの長文で「ultra」が使わ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学技術や製品説明などの長文で「ultra」が使わ�
 ## 🤔  extreme との違いは？
 
 - **ultra**：通常の範囲を大きく超えた「超～」「極端な」という意味で、ややフォーマル・科学的な響き。
-- **[extreme](/word/extreme/)**：程度が非常に高いことを表し、日常的にも幅広く使われる。
+- **[extreme](/extreme)**：程度が非常に高いことを表し、日常的にも幅広く使われる。
 
 ultraは「限界を超える」ニュアンスが強く、extremeは「非常に強い・極端な」状態全般に使われます。
 
@@ -105,14 +109,14 @@ ultraは「限界を超える」ニュアンスが強く、extremeは「非常�
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/word/radical/)：急進的な、根本的な
-- [super](/word/super/)：とても、超～
+- [radical](/radical)：急進的な、根本的な
+- [super](/super)：とても、超～
 
 ---
 
 ## 📖 できればこれも
 
-- [ultimate](/word/ultimate/)：究極の、最終的な
-- [maximum](/word/maximum/)：最大の
+- [ultimate](/ultimate)：究極の、最終的な
+- [maximum](/maximum)：最大の
 
-<!-- cvid: aid41_bid48 -->
+<!-- cvid: aid13_bid47 -->

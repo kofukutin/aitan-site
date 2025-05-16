@@ -81,15 +81,19 @@ TOEICでは「否定する」「認めない」という意味で、主に文法
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「否定する」「認めない」という意味で、主に文法
 ## 🤔  refuse との違いは？
 
 - **deny**：事実や申し出などを「否定する」「認めない」
-- **[refuse](/word/refuse/)**：依頼や要求などを「断る」「拒否する」
+- **[refuse](/refuse)**：依頼や要求などを「断る」「拒否する」
 
 denyは「事実や申し出を認めない」ニュアンス、refuseは「何かをすること自体を断る」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ denyは「事実や申し出を認めない」ニュアンス、refuseは「何�
 
 ## 🧩 あわせて覚えたい
 
-- [admit](/word/admit/)：認める、入場を許可する
-- [reject](/word/reject/)：拒絶する、却下する
+- [admit](/admit)：認める、入場を許可する
+- [reject](/reject)：拒絶する、却下する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する、確定する
-- [approve](/word/approve/)：承認する、賛成する
+- [confirm](/confirm)：確認する、確定する
+- [approve](/approve)：承認する、賛成する
 
-<!-- cvid: aid00_bid35 -->
+<!-- cvid: aid19_bid21 -->

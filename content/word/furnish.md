@@ -81,15 +81,19 @@ TOEICでは、オフィスや部屋の設備、書類の提出など「何かを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや部屋の設備、書類の提出など「何かを
 ## 🤔  provide との違いは？
 
 - **furnish**：特に家具や設備など「物理的なもの」を備え付ける、またはフォーマルに「提供する」意味で使う
-- **[provide](/word/provide/)**：より広く「与える・提供する」全般に使え、物理的なもの・情報・サービスなど幅広い
+- **[provide](/provide)**：より広く「与える・提供する」全般に使え、物理的なもの・情報・サービスなど幅広い
 
 furnishは「備え付ける」ニュアンスが強く、provideは「与える・供給する」全般に使える点が異なります。
 
@@ -105,14 +109,14 @@ furnishは「備え付ける」ニュアンスが強く、provideは「与える
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply/)：供給する、支給する
-- [equip](/word/equip/)：装備する、備え付ける
+- [supply](/supply)：供給する、支給する
+- [equip](/equip)：装備する、備え付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：設置する、取り付ける
-- [decorate](/word/decorate/)：飾る、装飾する
+- [install](/install)：設置する、取り付ける
+- [decorate](/decorate)：飾る、装飾する
 
-<!-- cvid: aid06_bid04 -->
+<!-- cvid: aid13_bid10 -->

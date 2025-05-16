@@ -81,15 +81,19 @@ TOEICでは「必須か任意か」を問う文脈で頻出します。特に選
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「必須か任意か」を問う文脈で頻出します。特に選
 ## 🤔  voluntary との違いは？
 
 - **optional**：義務ではなく、選択できることを強調
-- **[voluntary](/word/voluntary/)**：自発的・自主的に行うことを強調
+- **[voluntary](/voluntary)**：自発的・自主的に行うことを強調
 
 optionalは「やってもやらなくてもよい」状況を示し、voluntaryは「自分の意思で進んで行う」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ optionalは「やってもやらなくてもよい」状況を示し、voluntary
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory/)：必須の、義務的な
-- [select](/word/select/)：選ぶ、選択する
+- [mandatory](/mandatory)：必須の、義務的な
+- [select](/select)：選ぶ、選択する
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる、入手できる
-- [necessary](/word/necessary/)：必要な
+- [available](/available)：利用できる、入手できる
+- [necessary](/necessary)：必要な
 
-<!-- cvid: aid32_bid46 -->
+<!-- cvid: aid35_bid42 -->

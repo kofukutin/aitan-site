@@ -81,15 +81,19 @@ We need to find a remedy for the recent drop in sales.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ We need to find a remedy for the recent drop in sales.
 ## 🤔  solution との違いは？
 
 - **remedy**：病気や問題を「治す」ための具体的な方法や手段を強調
-- **[solution](/word/solution/)**：問題や課題の「解決策」全般を幅広く指す
+- **[solution](/solution)**：問題や課題の「解決策」全般を幅広く指す
 
 remedyは「治療」や「回復」のニュアンスが強く、solutionは一般的な「答え」や「解決策」として使われます。
 
@@ -105,14 +109,14 @@ remedyは「治療」や「回復」のニュアンスが強く、solutionは一
 
 ## 🧩 あわせて覚えたい
 
-- [cure](/word/cure/)：治療、治すこと
-- [treatment](/word/treatment/)：治療、処置
+- [cure](/cure)：治療、治すこと
+- [treatment](/treatment)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription/)：処方箋
-- [therapy](/word/therapy/)：療法、治療法
+- [prescription](/prescription)：処方箋
+- [therapy](/therapy)：療法、治療法
 
-<!-- cvid: aid44_bid02 -->
+<!-- cvid: aid25_bid34 -->

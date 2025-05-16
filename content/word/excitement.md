@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「期待感」や「盛り上がり」を表現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「期待感」や「盛り上がり」を表現
 ## 🤔  enthusiasm との違いは？
 
 - **excitement**：一時的なわくわくや興奮の感情を表す。
-- **[enthusiasm](/word/enthusiasm/)**：物事への強い熱意や積極的な関心を表す。
+- **[enthusiasm](/enthusiasm)**：物事への強い熱意や積極的な関心を表す。
 
 excitementは瞬間的な感情、enthusiasmは長期的な意欲や熱意を表す点が異なります。
 
@@ -105,14 +109,14 @@ excitementは瞬間的な感情、enthusiasmは長期的な意欲や熱意を表
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety/)：不安、心配
-- [anticipation](/word/anticipation/)：期待、予期
+- [anxiety](/anxiety)：不安、心配
+- [anticipation](/anticipation)：期待、予期
 
 ---
 
 ## 📖 できればこれも
 
-- [joy](/word/joy/)：喜び
-- [interest](/word/interest/)：興味
+- [joy](/joy)：喜び
+- [interest](/interest)：興味
 
-<!-- cvid: aid45_bid06 -->
+<!-- cvid: aid22_bid35 -->

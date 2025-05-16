@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【five】の意味・使い方・例文 ― fifthとの違い【TOEIC英単語】"
 description: "fiveの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfifthとの違いもわかりやすく学べます。"
 word: "five"
@@ -81,15 +81,19 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid02_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 ## 🤔  fifth との違いは？
 
 - **five**：5、5つ、5人など「数そのもの」を表す
-- **[fifth](/word/fifth/)**：5番目、「順序」を表す
+- **[fifth](/fifth)**：5番目、「順序」を表す
 
 「five」は数量、「fifth」は順序を表すので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 
 ## 🧩 あわせて覚えたい
 
-- [ten](/word/ten/)：10
-- [dozen](/word/dozen/)：12個（1ダース）
+- [ten](/ten)：10
+- [dozen](/dozen)：12個（1ダース）
 
 ---
 
 ## 📖 できればこれも
 
-- [four](/word/four/)：4
-- [six](/word/six/)：6
+- [four](/four)：4
+- [six](/six)：6
 
-<!-- cvid: aid13_bid26 -->
+<!-- cvid: aid02_bid13 -->

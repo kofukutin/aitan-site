@@ -81,15 +81,19 @@ TOEICでは「福利厚生」や「恩恵」「利益」などの意味で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「福利厚生」や「恩恵」「利益」などの意味で頻出
 ## 🤔  advantage との違いは？
 
 - **benefit**：一般的な「利益」「恩恵」や「手当」など幅広い良いことを指す
-- **[advantage](/word/advantage/)**：他と比べて優れている点や有利な点を強調
+- **[advantage](/advantage)**：他と比べて優れている点や有利な点を強調
 
 benefitは「得られる良いこと」全般、advantageは「他より優れている点」に焦点があるため、使い分けが必要です。
 
@@ -105,14 +109,14 @@ benefitは「得られる良いこと」全般、advantageは「他より優れ�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit/)：利益（金銭的な意味が強い）
-- [drawback](/word/drawback/)：欠点、不利益
+- [profit](/profit)：利益（金銭的な意味が強い）
+- [drawback](/drawback)：欠点、不利益
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用、コスト
-- [service](/word/service/)：サービス、業務
+- [cost](/cost)：費用、コスト
+- [service](/service)：サービス、業務
 
-<!-- cvid: aid31_bid29 -->
+<!-- cvid: aid05_bid23 -->

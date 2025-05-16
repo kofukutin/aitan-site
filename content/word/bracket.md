@@ -81,15 +81,19 @@ TOEICでは主にオフィスや工場の写真描写で、棚や装置の取り
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にオフィスや工場の写真描写で、棚や装置の取り
 ## 🤔  shelf との違いは？
 
 - **bracket**：棚や機器などを支えるための金具や、区分・括弧の意味
-- **[shelf](/word/shelf/)**：物を置くための「棚」そのもの
+- **[shelf](/shelf)**：物を置くための「棚」そのもの
 
 bracketは「支える部品」や「区分」を指し、shelfは実際に物を置く「棚」を指します。設置や構造の説明で使い分けます。
 
@@ -105,14 +109,14 @@ bracketは「支える部品」や「区分」を指し、shelfは実際に物�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支え、支持物
-- [frame](/word/frame/)：枠、骨組み
+- [support](/support)：支え、支持物
+- [frame](/frame)：枠、骨組み
 
 ---
 
 ## 📖 できればこれも
 
-- [hook](/word/hook/)：フック、掛け金具
-- [panel](/word/panel/)：パネル、板
+- [hook](/hook)：フック、掛け金具
+- [panel](/panel)：パネル、板
 
-<!-- cvid: aid17_bid12 -->
+<!-- cvid: aid41_bid39 -->

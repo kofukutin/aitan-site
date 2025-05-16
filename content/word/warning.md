@@ -82,15 +82,19 @@ TOEICではアナウンスや会話の中で「警告」や「注意喚起」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではアナウンスや会話の中で「警告」や「注意喚起」と
 ## 🤔  caution との違いは？
 
 - **warning**：危険や問題をはっきりと伝える「警告」や「注意」。
-- **[caution](/word/caution/)**：慎重さや注意深さを促す「用心」「注意」。
+- **[caution](/caution)**：慎重さや注意深さを促す「用心」「注意」。
 
 **warning**は「危険があるから注意して！」と強く伝える時に使い、**caution**は「慎重に行動してね」とやや穏やかに注意を促す時に使います。
 
@@ -106,14 +110,14 @@ TOEICではアナウンスや会話の中で「警告」や「注意喚起」と
 
 ## 🧩 あわせて覚えたい
 
-- [alert](/word/alert/)：警報、注意報
-- [notice](/word/notice/)：通知、お知らせ
+- [alert](/alert)：警報、注意報
+- [notice](/notice)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice/)：助言、アドバイス
-- [instruction](/word/instruction/)：指示、説明
+- [advice](/advice)：助言、アドバイス
+- [instruction](/instruction)：指示、説明
 
-<!-- cvid: aid10_bid19 -->
+<!-- cvid: aid01_bid28 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【nil】の意味・使い方・例文 ― zeroとの違い【TOEIC英単語】"
 description: "nilの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでzeroとの違いもわかりやすく学べます。"
 word: "nil"
@@ -80,15 +80,19 @@ TOEICでは主にビジネス文書や統計、スポーツ記事などで見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にビジネス文書や統計、スポーツ記事などで見か
 ## 🤔  zero との違いは？
 
 - **nil**：主にフォーマルな場面やスポーツ、統計で「ゼロ」「無」を表す。
-- **[zero](/word/zero/)**：日常的に使われる「ゼロ」。数学や一般的な数値で幅広く使う。
+- **[zero](/zero)**：日常的に使われる「ゼロ」。数学や一般的な数値で幅広く使う。
 
 「nil」は特にイギリス英語やフォーマルな文脈で使われ、日常会話では「zero」の方が一般的です。
 
@@ -104,14 +108,14 @@ TOEICでは主にビジネス文書や統計、スポーツ記事などで見か
 
 ## 🧩 あわせて覚えたい
 
-- [none](/word/none/)：何もない、誰もいない
-- [void](/word/void/)：空白、無効
+- [none](/none)：何もない、誰もいない
+- [void](/void)：空白、無効
 
 ---
 
 ## 📖 できればこれも
 
-- [null](/word/null/)：無効、値がない
-- [minus](/word/minus/)：マイナス、負の
+- [null](/null)：無効、値がない
+- [minus](/minus)：マイナス、負の
 
-<!-- cvid: aid36_bid32 -->
+<!-- cvid: aid11_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは観光やイベント、広告などの長文で「写真撮影」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント、広告などの長文で「写真撮影」や
 ## 🤔  photograph との違いは？
 
 - **photography**：写真を撮る技術や芸術、活動全般
-- **[photograph](/word/photograph/)**：1枚の写真、写真そのもの
+- **[photograph](/photograph)**：1枚の写真、写真そのもの
 
 photographyは「写真を撮ること・技術」を指し、photographは「写真そのもの」を指します。
 
@@ -105,14 +109,14 @@ photographyは「写真を撮ること・技術」を指し、photographは「�
 
 ## 🧩 あわせて覚えたい
 
-- [camera](/word/camera/)：カメラ、撮影機器
-- [portrait](/word/portrait/)：肖像写真、人物画
+- [camera](/camera)：カメラ、撮影機器
+- [portrait](/portrait)：肖像写真、人物画
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/word/gallery/)：美術館、展示室
-- [exhibition](/word/exhibition/)：展示会、展覧会
+- [gallery](/gallery)：美術館、展示室
+- [exhibition](/exhibition)：展示会、展覧会
 
-<!-- cvid: aid04_bid34 -->
+<!-- cvid: aid48_bid03 -->

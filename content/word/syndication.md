@@ -81,15 +81,19 @@ TOEICでは主にビジネスやメディア関連の長文で登場し、契約
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスやメディア関連の長文で登場し、契約
 ## 🤔  distribution との違いは？
 
 - **syndication**：複数の組織が協力してコンテンツや事業を共同配信・運営すること
-- **[distribution](/word/distribution/)**：単に商品や情報を配布・流通させること
+- **[distribution](/distribution)**：単に商品や情報を配布・流通させること
 
 syndicationは「共同での配信・運営」に重点があり、distributionは「広く配る」こと自体を指します。
 
@@ -105,14 +109,14 @@ syndicationは「共同での配信・運営」に重点があり、distribution
 
 ## 🧩 あわせて覚えたい
 
-- [consortium](/word/consortium/)：共同事業体、企業連合
-- [broadcast](/word/broadcast/)：放送、放送する
+- [consortium](/consortium)：共同事業体、企業連合
+- [broadcast](/broadcast)：放送、放送する
 
 ---
 
 ## 📖 できればこれも
 
-- [franchise](/word/franchise/)：フランチャイズ、事業権
-- [partnership](/word/partnership/)：提携、協力関係
+- [franchise](/franchise)：フランチャイズ、事業権
+- [partnership](/partnership)：提携、協力関係
 
-<!-- cvid: aid02_bid07 -->
+<!-- cvid: aid18_bid43 -->

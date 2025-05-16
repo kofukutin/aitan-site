@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「カスタマイズする」「特注�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「カスタマイズする」「特注�
 ## 🤔  adapt との違いは？
 
 - **customize**：特定の人や目的に合わせて意図的に作り変える
-- **[adapt](/word/adapt/)**：状況や環境に合わせて調整・適応させる
+- **[adapt](/adapt)**：状況や環境に合わせて調整・適応させる
 
 customizeは「個人の好みや要望に合わせて特別仕様にする」ニュアンスが強く、adaptは「変化する状況に合わせて柔軟に調整する」意味合いです。
 
@@ -105,14 +109,14 @@ customizeは「個人の好みや要望に合わせて特別仕様にする」�
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify/)：修正する、変更する
-- [personalize](/word/personalize/)：個人向けにする、名入れする
+- [modify](/modify)：修正する、変更する
+- [personalize](/personalize)：個人向けにする、名入れする
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [upgrade](/word/upgrade/)：アップグレードする、性能を上げる
+- [install](/install)：インストールする、設置する
+- [upgrade](/upgrade)：アップグレードする、性能を上げる
 
-<!-- cvid: aid48_bid21 -->
+<!-- cvid: aid23_bid43 -->

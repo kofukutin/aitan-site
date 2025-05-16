@@ -81,15 +81,19 @@ TOEICでは日常会話や予定調整の場面でよく登場します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid40_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日常会話や予定調整の場面でよく登場します。特に
 ## 🤔  holiday との違いは？
 
 - **weekend**：毎週決まって訪れる「週末（土日）」を指す。
-- **[holiday](/word/holiday/)**：祝日や特別な休暇日を指し、必ずしも週末とは限らない。
+- **[holiday](/holiday)**：祝日や特別な休暇日を指し、必ずしも週末とは限らない。
 
 「weekend」は毎週の土日、「holiday」は国の祝日や特別な休みなど幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは日常会話や予定調整の場面でよく登場します。特に
 
 ## 🧩 あわせて覚えたい
 
-- [weekday](/word/weekday/)：平日
-- [vacation](/word/vacation/)：長期休暇
+- [weekday](/weekday)：平日
+- [vacation](/vacation)：長期休暇
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議
-- [plan](/word/plan/)：計画
+- [meeting](/meeting)：会議
+- [plan](/plan)：計画
 
-<!-- cvid: aid15_bid49 -->
+<!-- cvid: aid40_bid47 -->

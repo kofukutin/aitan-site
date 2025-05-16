@@ -81,15 +81,19 @@ TOEICではビジネス文書や会社案内、契約書などで「affiliate」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会社案内、契約書などで「affiliate」
 ## 🤔  subsidiary との違いは？
 
 - **affiliate**：親会社と資本や契約でつながる「関連会社」や「提携団体」全般を指す
-- **[subsidiary](/word/subsidiary/)**：親会社が過半数以上の株式を持つ「子会社」を指す
+- **[subsidiary](/subsidiary)**：親会社が過半数以上の株式を持つ「子会社」を指す
 
 affiliateは幅広い提携関係を含み、subsidiaryは親会社の支配下にある子会社に限定されます。
 
@@ -105,14 +109,14 @@ affiliateは幅広い提携関係を含み、subsidiaryは親会社の支配下�
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/word/branch/)：支店、支社
-- [partner](/word/partner/)：提携先、共同経営者
+- [branch](/branch)：支店、支社
+- [partner](/partner)：提携先、共同経営者
 
 ---
 
 ## 📖 できればこれも
 
-- [associate](/word/associate/)：提携者、共同経営者
-- [division](/word/division/)：部門、事業部
+- [associate](/associate)：提携者、共同経営者
+- [division](/division)：部門、事業部
 
-<!-- cvid: aid17_bid20 -->
+<!-- cvid: aid28_bid43 -->

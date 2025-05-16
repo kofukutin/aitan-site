@@ -81,15 +81,19 @@ TOEICでは「成功」「成果」といった意味で、ビジネス文書や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「成功」「成果」といった意味で、ビジネス文書や
 ## 🤔  achievement との違いは？
 
 - **success**：目標を達成して得られる「成功」や「良い結果」全般を指す。
-- **[achievement](/word/achievement/)**：努力や時間をかけて成し遂げた「達成」「業績」を強調する。
+- **[achievement](/achievement)**：努力や時間をかけて成し遂げた「達成」「業績」を強調する。
 
 successは結果や状態に重点があり、achievementは努力や過程を経て得た成果に焦点を当てます。
 
@@ -105,14 +109,14 @@ successは結果や状態に重点があり、achievementは努力や過程を�
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure/)：失敗
-- [progress](/word/progress/)：進歩
+- [failure](/failure)：失敗
+- [progress](/progress)：進歩
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal/)：目標
-- [result](/word/result/)：結果
+- [goal](/goal)：目標
+- [result](/result)：結果
 
-<!-- cvid: aid20_bid48 -->
+<!-- cvid: aid45_bid11 -->

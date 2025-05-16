@@ -81,15 +81,19 @@ TOEICでは文法問題や語彙問題で頻出し、所有や経験を表す基
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文法問題や語彙問題で頻出し、所有や経験を表す基
 ## 🤔  own との違いは？
 
 - **have**：単に「持っている」「所有している」状態や経験、状況など幅広く使う
-- **[own](/word/own/)**：法的・正式に「所有している」ことを強調
+- **[own](/own)**：法的・正式に「所有している」ことを強調
 
 haveは「持っている」全般に使えますが、ownは「自分のもの」と強調したいときや、法的な所有権を表すときに使います。
 
@@ -105,14 +109,14 @@ haveは「持っている」全般に使えますが、ownは「自分のもの�
 
 ## 🧩 あわせて覚えたい
 
-- [possess](/word/possess/)：（フォーマルに）所有する
-- [get](/word/get/)：手に入れる、得る
+- [possess](/possess)：（フォーマルに）所有する
+- [get](/get)：手に入れる、得る
 
 ---
 
 ## 📖 できればこれも
 
-- [make](/word/make/)：作る、作り出す
-- [take](/word/take/)：取る、持っていく
+- [make](/make)：作る、作り出す
+- [take](/take)：取る、持っていく
 
-<!-- cvid: aid18_bid41 -->
+<!-- cvid: aid19_bid34 -->

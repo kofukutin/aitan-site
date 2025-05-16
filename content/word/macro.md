@@ -82,15 +82,19 @@ ITやビジネス文書の説明文で、作業効率化や自動化の文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ ITやビジネス文書の説明文で、作業効率化や自動化の文脈で
 ## 🤔  script との違いは？
 
 - **macro**：主に特定のアプリケーション内で動作する自動化手順や命令の集まり
-- **[script](/word/script/)**：より汎用的で、複数のアプリやシステムで動作するプログラムや命令の集まり
+- **[script](/script)**：より汎用的で、複数のアプリやシステムで動作するプログラムや命令の集まり
 
 macroはアプリ内の自動化に特化し、scriptはより広範囲な自動処理やプログラミングに使われます。
 
@@ -106,14 +110,14 @@ macroはアプリ内の自動化に特化し、scriptはより広範囲な自動
 
 ## 🧩 あわせて覚えたい
 
-- [automation](/word/automation/)：自動化
-- [function](/word/function/)：関数、機能
+- [automation](/automation)：自動化
+- [function](/function)：関数、機能
 
 ---
 
 ## 📖 できればこれも
 
-- [template](/word/template/)：ひな形、テンプレート
-- [module](/word/module/)：モジュール、構成単位
+- [template](/template)：ひな形、テンプレート
+- [module](/module)：モジュール、構成単位
 
-<!-- cvid: aid04_bid21 -->
+<!-- cvid: aid40_bid08 -->

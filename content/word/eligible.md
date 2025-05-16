@@ -80,15 +80,19 @@ TOEICでは、応募資格や条件を問う文脈で頻出します。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、応募資格や条件を問う文脈で頻出します。特に「
 ## 🤔  qualified との違いは？
 
 - **eligible**：条件や資格を満たして「～する権利がある」「適格な」
-- **[qualified](/word/qualified/)**：必要な能力やスキルを持って「有資格の」「適任の」
+- **[qualified](/qualified)**：必要な能力やスキルを持って「有資格の」「適任の」
 
 eligibleは「条件を満たしている」ことに重点があり、qualifiedは「能力や経験が十分である」ことに重点があります。
 
@@ -104,14 +108,14 @@ eligibleは「条件を満たしている」ことに重点があり、qualified
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/word/suitable/)：適している、ふさわしい
-- [ineligible](/word/ineligible/)：資格がない、不適格な
+- [suitable](/suitable)：適している、ふさわしい
+- [ineligible](/ineligible)：資格がない、不適格な
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant/)：応募者
-- [requirement](/word/requirement/)：必要条件
+- [applicant](/applicant)：応募者
+- [requirement](/requirement)：必要条件
 
-<!-- cvid: aid06_bid34 -->
+<!-- cvid: aid16_bid36 -->

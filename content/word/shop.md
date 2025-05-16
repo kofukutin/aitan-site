@@ -81,15 +81,19 @@ TOEICでは、買い物や店舗に関する会話や説明でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、買い物や店舗に関する会話や説明でよく登場しま
 ## 🤔  store との違いは？
 
 - **shop**：小規模な店や専門店、イギリス英語では「店」全般
-- **[store](/word/store/)**：アメリカ英語で一般的な「店」、規模が大きい場合も多い
+- **[store](/store)**：アメリカ英語で一般的な「店」、規模が大きい場合も多い
 
 shopは主に小さな店や専門店を指し、イギリス英語で広く使われます。storeはアメリカ英語で一般的な「店」で、規模が大きい場合にも使われます。
 
@@ -105,14 +109,14 @@ shopは主に小さな店や専門店を指し、イギリス英語で広く使�
 
 ## 🧩 あわせて覚えたい
 
-- [market](/word/market/)：市場、マーケット
-- [boutique](/word/boutique/)：ブティック、小さなおしゃれな店
+- [market](/market)：市場、マーケット
+- [boutique](/boutique)：ブティック、小さなおしゃれな店
 
 ---
 
 ## 📖 できればこれも
 
-- [mall](/word/mall/)：ショッピングモール
-- [purchase](/word/purchase/)：購入する、買う
+- [mall](/mall)：ショッピングモール
+- [purchase](/purchase)：購入する、買う
 
-<!-- cvid: aid08_bid11 -->
+<!-- cvid: aid12_bid32 -->

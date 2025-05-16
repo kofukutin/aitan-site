@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、日常的な場面の説明で「sme
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、日常的な場面の説明で「sme
 ## 🤔  scent との違いは？
 
 - **smell**：良い香り・悪い臭いどちらにも使える一般的な「におい」
-- **[scent](/word/scent/)**：主に心地よい「香り」や「匂い」に使われる
+- **[scent](/scent)**：主に心地よい「香り」や「匂い」に使われる
 
 「smell」は日常的なにおい全般を指し、良い・悪いの区別なく使います。一方「scent」は特に良い香りやほのかな匂いに使われる傾向があります。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写や、日常的な場面の説明で「sme
 
 ## 🧩 あわせて覚えたい
 
-- [odor](/word/odor/)：（しばしば不快な）におい、悪臭
-- [fragrance](/word/fragrance/)：芳香、よい香り
+- [odor](/odor)：（しばしば不快な）におい、悪臭
+- [fragrance](/fragrance)：芳香、よい香り
 
 ---
 
 ## 📖 できればこれも
 
-- [taste](/word/taste/)：味、味覚
-- [sound](/word/sound/)：音、音声
+- [taste](/taste)：味、味覚
+- [sound](/sound)：音、音声
 
-<!-- cvid: aid02_bid39 -->
+<!-- cvid: aid48_bid07 -->

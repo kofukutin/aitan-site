@@ -77,15 +77,19 @@ onceは会話や説明文で「一度」「～したらすぐに」の意味で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ onceは会話や説明文で「一度」「～したらすぐに」の意味で�
 ## 🤔  when との違いは？
 
 - **once**：「一度」「～したらすぐに」と、瞬間や条件成立を強調
-- **[when](/word/when/)**：「～のとき」と、単に時点や期間を表す
+- **[when](/when)**：「～のとき」と、単に時点や期間を表す
 
 onceは「一度きり」や「条件成立直後」を強調し、whenは単なる時点や期間を表します。
 
@@ -101,14 +105,14 @@ onceは「一度きり」や「条件成立直後」を強調し、whenは単な
 
 ## 🧩 あわせて覚えたい
 
-- [formerly](/word/formerly/)：以前は、かつて
-- [eventually](/word/eventually/)：最終的に
+- [formerly](/formerly)：以前は、かつて
+- [eventually](/eventually)：最終的に
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon/)：すぐに
-- [afterward](/word/afterward/)：その後で
+- [soon](/soon)：すぐに
+- [afterward](/afterward)：その後で
 
-<!-- cvid: aid14_bid24 -->
+<!-- cvid: aid19_bid35 -->

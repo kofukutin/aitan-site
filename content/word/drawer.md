@@ -81,15 +81,19 @@ TOEICでは主にオフィスや部屋の写真描写問題で「drawer」が使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にオフィスや部屋の写真描写問題で「drawer」が使
 ## 🤔  cabinet との違いは？
 
 - **drawer**：机やタンスなどの中にある「引き出し」部分
-- **[cabinet](/word/cabinet/)**：書類や食器などを収納する「戸棚」や「キャビネット」全体
+- **[cabinet](/cabinet)**：書類や食器などを収納する「戸棚」や「キャビネット」全体
 
 drawerは「引き出し」そのものを指し、cabinetは複数の引き出しや棚を含む収納家具全体を指します。
 
@@ -105,14 +109,14 @@ drawerは「引き出し」そのものを指し、cabinetは複数の引き出�
 
 ## 🧩 あわせて覚えたい
 
-- [shelf](/word/shelf/)：棚
-- [desk](/word/desk/)：机
+- [shelf](/shelf)：棚
+- [desk](/desk)：机
 
 ---
 
 ## 📖 できればこれも
 
-- [folder](/word/folder/)：フォルダー、書類入れ
-- [locker](/word/locker/)：ロッカー
+- [folder](/folder)：フォルダー、書類入れ
+- [locker](/locker)：ロッカー
 
-<!-- cvid: aid26_bid16 -->
+<!-- cvid: aid00_bid39 -->

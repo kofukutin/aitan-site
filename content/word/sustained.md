@@ -81,15 +81,19 @@ sustainedはTOEICの長文読解パートで、業績や成長、努力などが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ sustainedはTOEICの長文読解パートで、業績や成長、努力などが
 ## 🤔  continuous との違いは？
 
 - **sustained**：一定期間、努力や状態が「維持されている」「持続している」ことを強調
-- **[continuous](/word/continuous/)**：途切れず「連続している」ことを強調
+- **[continuous](/continuous)**：途切れず「連続している」ことを強調
 
 sustainedは「努力や成績などが長く保たれている」ニュアンス、continuousは「中断なく続いている」ことに重点があります。
 
@@ -105,14 +109,14 @@ sustainedは「努力や成績などが長く保たれている」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary/)：一時的な
-- [prolonged](/word/prolonged/)：長引く、長期にわたる
+- [temporary](/temporary)：一時的な
+- [prolonged](/prolonged)：長引く、長期にわたる
 
 ---
 
 ## 📖 できればこれも
 
-- [consistent](/word/consistent/)：一貫した、安定した
-- [steady](/word/steady/)：着実な、安定した
+- [consistent](/consistent)：一貫した、安定した
+- [steady](/steady)：着実な、安定した
 
-<!-- cvid: aid35_bid34 -->
+<!-- cvid: aid04_bid41 -->

@@ -81,15 +81,19 @@ TOEICでは、メールや記事、レポートなどの「文章」や「書く
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや記事、レポートなどの「文章」や「書く
 ## 🤔  composition との違いは？
 
 - **writing**：書くこと全般や書かれたもの全体を幅広く指す
-- **[composition](/word/composition/)**：特に「作文」「構成された文章」など、まとまった文章や作品を指す
+- **[composition](/composition)**：特に「作文」「構成された文章」など、まとまった文章や作品を指す
 
 writingは「書く行為」や「書かれたもの」全般を表し、compositionは「まとまった作品」や「作文」など形式的な文章に使われます。
 
@@ -105,14 +109,14 @@ writingは「書く行為」や「書かれたもの」全般を表し、composi
 
 ## 🧩 あわせて覚えたい
 
-- [essay](/word/essay/)：エッセイ、小論文
-- [manuscript](/word/manuscript/)：原稿、手書き文書
+- [essay](/essay)：エッセイ、小論文
+- [manuscript](/manuscript)：原稿、手書き文書
 
 ---
 
 ## 📖 できればこれも
 
-- [reading](/word/reading/)：読むこと、読解
-- [article](/word/article/)：記事、論説
+- [reading](/reading)：読むこと、読解
+- [article](/article)：記事、論説
 
-<!-- cvid: aid01_bid35 -->
+<!-- cvid: aid12_bid17 -->

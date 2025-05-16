@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、スポーツやイベントの場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、スポーツやイベントの場面で
 ## 🤔  uniform との違いは？
 
 - **jersey**：スポーツチームのシャツや柔らかい編み物生地の衣服
-- **[uniform](/word/uniform/)**：学校や会社などで着る制服全般
+- **[uniform](/uniform)**：学校や会社などで着る制服全般
 
 jerseyは主にスポーツやカジュアルな場面で使われ、uniformはフォーマルな制服や規定の服装を指します。
 
@@ -105,14 +109,14 @@ jerseyは主にスポーツやカジュアルな場面で使われ、uniformは�
 
 ## 🧩 あわせて覚えたい
 
-- [sweater](/word/sweater/)：セーター、編み物の上着
-- [kit](/word/kit/)：（スポーツの）一式、用具セット
+- [sweater](/sweater)：セーター、編み物の上着
+- [kit](/kit)：（スポーツの）一式、用具セット
 
 ---
 
 ## 📖 できればこれも
 
-- [cap](/word/cap/)：帽子
-- [scarf](/word/scarf/)：マフラー、スカーフ
+- [cap](/cap)：帽子
+- [scarf](/scarf)：マフラー、スカーフ
 
-<!-- cvid: aid35_bid05 -->
+<!-- cvid: aid16_bid12 -->

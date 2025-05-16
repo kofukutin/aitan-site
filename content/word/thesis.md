@@ -81,15 +81,19 @@ TOEICでは大学や研究、教育関連の長文で見かけることが多い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid19" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid19" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは大学や研究、教育関連の長文で見かけることが多い
 ## 🤔  dissertation との違いは？
 
 - **thesis**：学士・修士レベルの論文や主張を指すことが多い
-- **[dissertation](/word/dissertation/)**：特に博士号取得のためのより大規模な論文を指す
+- **[dissertation](/dissertation)**：特に博士号取得のためのより大規模な論文を指す
 
 thesisは一般的に修士や学士課程の論文、dissertationは博士課程の論文を指すことが多く、使い分けに注意が必要です。
 
@@ -105,14 +109,14 @@ thesisは一般的に修士や学士課程の論文、dissertationは博士課�
 
 ## 🧩 あわせて覚えたい
 
-- [essay](/word/essay/)：小論文、エッセイ
-- [hypothesis](/word/hypothesis/)：仮説
+- [essay](/essay)：小論文、エッセイ
+- [hypothesis](/hypothesis)：仮説
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/word/journal/)：学術誌、日誌
-- [research](/word/research/)：研究
+- [journal](/journal)：学術誌、日誌
+- [research](/research)：研究
 
-<!-- cvid: aid05_bid26 -->
+<!-- cvid: aid13_bid19 -->

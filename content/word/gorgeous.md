@@ -81,7 +81,7 @@ TOEICでは、観光やホテル、イベントの説明などで「gorgeous」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、観光やホテル、イベントの説明などで「gorgeous」�
 
 <div class="info-center">
 ＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、観光やホテル、イベントの説明などで「gorgeous」�
 ## 🤔  beautiful との違いは？
 
 - **gorgeous**：とても華やかで目を引く美しさや豪華さを強調する
-- **[beautiful](/word/beautiful/)**：一般的な「美しい」、幅広い対象に使える
+- **[beautiful](/beautiful)**：一般的な「美しい」、幅広い対象に使える
 
 「gorgeous」は「beautiful」よりも強調された表現で、特に派手さや豪華さ、圧倒的な美しさを伝えたいときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、観光やホテル、イベントの説明などで「gorgeous」�
 
 ## 🧩 あわせて覚えたい
 
-- [stunning](/word/stunning/)：息をのむほど美しい
-- [plain](/word/plain/)：地味な、飾り気のない
+- [stunning](/stunning)：息をのむほど美しい
+- [plain](/plain)：地味な、飾り気のない
 
 ---
 
 ## 📖 できればこれも
 
-- [elegant](/word/elegant/)：上品な、優雅な
-- [lovely](/word/lovely/)：かわいらしい、素敵な
+- [elegant](/elegant)：上品な、優雅な
+- [lovely](/lovely)：かわいらしい、素敵な
 
-<!-- cvid: aid30_bid24 -->
+<!-- cvid: aid03_bid24 -->

@@ -81,15 +81,19 @@ TOEICでは、主にビジネス文脈で「コストやリスクを相殺する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主にビジネス文脈で「コストやリスクを相殺する
 ## 🤔  compensate との違いは？
 
 - **offset**：主に数値や損失などを「相殺する」「埋め合わせる」意味で使う
-- **[compensate](/word/compensate/)**：損失や被害に対して「補償する」「報酬を与える」意味が強い
+- **[compensate](/compensate)**：損失や被害に対して「補償する」「報酬を与える」意味が強い
 
 offsetはバランスを取るために何かを打ち消すニュアンス、compensateは損失を埋めるために何かを与えるニュアンスです。
 
@@ -105,14 +109,14 @@ offsetはバランスを取るために何かを打ち消すニュアンス、co
 
 ## 🧩 あわせて覚えたい
 
-- [counteract](/word/counteract/)：（悪影響などを）打ち消す
-- [balance](/word/balance/)：バランスを取る、釣り合わせる
+- [counteract](/counteract)：（悪影響などを）打ち消す
+- [balance](/balance)：バランスを取る、釣り合わせる
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust/)：調整する
-- [reduce](/word/reduce/)：減らす
+- [adjust](/adjust)：調整する
+- [reduce](/reduce)：減らす
 
-<!-- cvid: aid22_bid15 -->
+<!-- cvid: aid07_bid14 -->

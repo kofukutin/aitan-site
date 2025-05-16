@@ -82,15 +82,19 @@ TOEICでは、会議やオフィスの場面で「印刷」や「印刷物」に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会議やオフィスの場面で「印刷」や「印刷物」に
 ## 🤔  publication との違いは？
 
 - **printing**：印刷という行為や印刷物そのものを指す
-- **[publication](/word/publication/)**：出版物や出版という行為を指す
+- **[publication](/publication)**：出版物や出版という行為を指す
 
 printingは「印刷」という物理的な作業やその成果物を表し、publicationは「出版」や「発行」といった公に出す行為や出版物全体を指します。
 
@@ -106,14 +110,14 @@ printingは「印刷」という物理的な作業やその成果物を表し、
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy/)：コピー、複製
-- [press](/word/press/)：印刷機、報道機関
+- [copy](/copy)：コピー、複製
+- [press](/press)：印刷機、報道機関
 
 ---
 
 ## 📖 できればこれも
 
-- [printer](/word/printer/)：プリンター、印刷業者
-- [document](/word/document/)：書類、文書
+- [printer](/printer)：プリンター、印刷業者
+- [document](/document)：書類、文書
 
-<!-- cvid: aid06_bid19 -->
+<!-- cvid: aid15_bid12 -->

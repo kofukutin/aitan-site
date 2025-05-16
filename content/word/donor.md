@@ -81,15 +81,19 @@ TOEICでは、医療や慈善活動に関する記事や案内文で「donor」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、医療や慈善活動に関する記事や案内文で「donor」�
 ## 🤔  sponsor との違いは？
 
 - **donor**：主にお金や物、臓器などを無償で提供する人や団体
-- **[sponsor](/word/sponsor/)**：イベントや活動を資金援助する支援者（見返りや宣伝目的があることが多い）
+- **[sponsor](/sponsor)**：イベントや活動を資金援助する支援者（見返りや宣伝目的があることが多い）
 
 donorは「善意で与える人」、sponsorは「支援や宣伝目的で援助する人」という違いがあります。
 
@@ -105,14 +109,14 @@ donorは「善意で与える人」、sponsorは「支援や宣伝目的で援�
 
 ## 🧩 あわせて覚えたい
 
-- [recipient](/word/recipient/)：受取人、受領者
-- [contributor](/word/contributor/)：寄稿者、貢献者
+- [recipient](/recipient)：受取人、受領者
+- [contributor](/contributor)：寄稿者、貢献者
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/word/fund/)：資金、基金
-- [charity](/word/charity/)：慈善団体、慈善活動
+- [fund](/fund)：資金、基金
+- [charity](/charity)：慈善団体、慈善活動
 
-<!-- cvid: aid32_bid23 -->
+<!-- cvid: aid44_bid46 -->

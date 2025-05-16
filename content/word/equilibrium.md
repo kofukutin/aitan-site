@@ -88,8 +88,12 @@ TOEICでは科学や経済、ビジネスの説明文や記事で見かけるこ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や経済、ビジネスの説明文や記事で見かけるこ
 ## 🤔  balance との違いは？
 
 - **equilibrium**：力や影響が釣り合った安定した状態（特に科学・経済などフォーマルな場面で使用）
-- **[balance](/word/balance/)**：日常的な「バランス」や「均衡」、物理的な安定も含む幅広い意味
+- **[balance](/balance)**：日常的な「バランス」や「均衡」、物理的な安定も含む幅広い意味
 
 equilibriumはより専門的・抽象的な均衡状態を指し、balanceは日常的なバランスや物理的な安定にも使われます。
 
@@ -105,14 +109,14 @@ equilibriumはより専門的・抽象的な均衡状態を指し、balanceは�
 
 ## 🧩 あわせて覚えたい
 
-- [stability](/word/stability/)：安定、安定性
-- [imbalance](/word/imbalance/)：不均衡
+- [stability](/stability)：安定、安定性
+- [imbalance](/imbalance)：不均衡
 
 ---
 
 ## 📖 できればこれも
 
-- [ratio](/word/ratio/)：比率
-- [proportion](/word/proportion/)：割合、比率
+- [ratio](/ratio)：比率
+- [proportion](/proportion)：割合、比率
 
-<!-- cvid: aid18_bid03 -->
+<!-- cvid: aid18_bid12 -->

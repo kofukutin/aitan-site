@@ -81,15 +81,19 @@ TOEICでは、契約や事件、調査に関する長文やEメール文中で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や事件、調査に関する長文やEメール文中で�
 ## 🤔  observer との違いは？
 
 - **witness**：事件や出来事を実際に見て証言する人
-- **[observer](/word/observer/)**：観察者、状況を見守る人
+- **[observer](/observer)**：観察者、状況を見守る人
 
 witness は「証人」として公式な場で証言するニュアンスが強く、observer は単に観察しているだけで証言義務はありません。
 
@@ -105,14 +109,14 @@ witness は「証人」として公式な場で証言するニュアンスが強
 
 ## 🧩 あわせて覚えたい
 
-- [testimony](/word/testimony/)：証言
-- [suspect](/word/suspect/)：容疑者
+- [testimony](/testimony)：証言
+- [suspect](/suspect)：容疑者
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠
-- [statement](/word/statement/)：陳述、声明
+- [evidence](/evidence)：証拠
+- [statement](/statement)：陳述、声明
 
-<!-- cvid: aid38_bid40 -->
+<!-- cvid: aid03_bid41 -->

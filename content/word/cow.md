@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cow】の意味・使い方・例文 ― cattleとの違い【TOEIC英単語】"
 description: "cowの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcattleとの違いもわかりやすく学べます。"
 word: "cow"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンで
 ## 🤔  cattle との違いは？
 
 - **cow**：雌のウシを指し、1頭ごとに数えられる。
-- **[cattle](/word/cattle/)**：ウシ全般（雌雄問わず複数）をまとめて指す不可算名詞。
+- **[cattle](/cattle)**：ウシ全般（雌雄問わず複数）をまとめて指す不可算名詞。
 
 cowは個々の雌牛、cattleは群れや家畜としてのウシ全体を指す点が異なります。
 
@@ -105,14 +109,14 @@ cowは個々の雌牛、cattleは群れや家畜としてのウシ全体を指�
 
 ## 🧩 あわせて覚えたい
 
-- [bull](/word/bull/)：雄牛
-- [calf](/word/calf/)：子ウシ
+- [bull](/bull)：雄牛
+- [calf](/calf)：子ウシ
 
 ---
 
 ## 📖 できればこれも
 
-- [sheep](/word/sheep/)：ヒツジ
-- [horse](/word/horse/)：ウマ
+- [sheep](/sheep)：ヒツジ
+- [horse](/horse)：ウマ
 
-<!-- cvid: aid41_bid25 -->
+<!-- cvid: aid13_bid41 -->

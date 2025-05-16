@@ -81,15 +81,19 @@ The company offers rehab programs for employees.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company offers rehab programs for employees.
 ## 🤔  therapy との違いは？
 
 - **rehab**：依存症やけが・病気からの回復のためのリハビリ施設やリハビリ自体を指すカジュアルな言い方
-- **[therapy](/word/therapy/)**：治療全般や療法を指し、精神的・身体的な治療を広くカバーするフォーマルな言葉
+- **[therapy](/therapy)**：治療全般や療法を指し、精神的・身体的な治療を広くカバーするフォーマルな言葉
 
 rehabは特に施設やプログラムに焦点を当てたカジュアルな表現、therapyは治療行為全般を指すフォーマルな表現です。
 
@@ -105,14 +109,14 @@ rehabは特に施設やプログラムに焦点を当てたカジュアルな表
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/word/treatment/)：治療
-- [recovery](/word/recovery/)：回復
+- [treatment](/treatment)：治療
+- [recovery](/recovery)：回復
 
 ---
 
 ## 📖 できればこれも
 
-- [clinic](/word/clinic/)：クリニック、診療所
-- [injury](/word/injury/)：けが
+- [clinic](/clinic)：クリニック、診療所
+- [injury](/injury)：けが
 
-<!-- cvid: aid15_bid38 -->
+<!-- cvid: aid17_bid39 -->

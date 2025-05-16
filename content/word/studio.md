@@ -81,15 +81,19 @@ TOEICでは、写真撮影や録音、アート関連の会話や説明文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、写真撮影や録音、アート関連の会話や説明文で「
 ## 🤔  office との違いは？
 
 - **studio**：芸術や創作活動、録音・撮影など専門的な作業を行う場所
-- **[office](/word/office/)**：主に事務作業やビジネス業務を行う場所
+- **[office](/office)**：主に事務作業やビジネス業務を行う場所
 
 studioはクリエイティブな作業空間、officeはビジネスや事務作業の空間という違いがあります。
 
@@ -105,14 +109,14 @@ studioはクリエイティブな作業空間、officeはビジネスや事務�
 
 ## 🧩 あわせて覚えたい
 
-- [workshop](/word/workshop/)：作業場、工房
-- [laboratory](/word/laboratory/)：実験室、研究室
+- [workshop](/workshop)：作業場、工房
+- [laboratory](/laboratory)：実験室、研究室
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/word/gallery/)：美術館、展示室
-- [apartment](/word/apartment/)：アパート、マンション
+- [gallery](/gallery)：美術館、展示室
+- [apartment](/apartment)：アパート、マンション
 
-<!-- cvid: aid07_bid38 -->
+<!-- cvid: aid16_bid40 -->

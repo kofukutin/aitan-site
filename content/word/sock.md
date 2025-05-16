@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sock】の意味・使い方・例文 ― stockingとの違い【TOEIC英単語】"
 description: "sockの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでstockingとの違いもわかりやすく学べます。"
 word: "sock"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、服装や持ち物の説明として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、服装や持ち物の説明として
 ## 🤔  stocking との違いは？
 
 - **sock**：くるぶしやふくらはぎまでの短めの靴下
-- **[stocking](/word/stocking/)**：膝上まである長い女性用ストッキング
+- **[stocking](/stocking)**：膝上まである長い女性用ストッキング
 
 sockは日常的な短い靴下、stockingは主に女性用の長い薄手の靴下を指し、用途や長さが異なります。
 
@@ -106,14 +110,14 @@ sockは日常的な短い靴下、stockingは主に女性用の長い薄手の�
 
 ## 🧩 あわせて覚えたい
 
-- [shoe](/word/shoe/)：靴
-- [glove](/word/glove/)：手袋
+- [shoe](/shoe)：靴
+- [glove](/glove)：手袋
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt/)：シャツ
-- [scarf](/word/scarf/)：マフラー
+- [shirt](/shirt)：シャツ
+- [scarf](/scarf)：マフラー
 
-<!-- cvid: aid03_bid39 -->
+<!-- cvid: aid30_bid47 -->

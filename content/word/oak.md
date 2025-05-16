@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、木や自然の説明として登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、木や自然の説明として登場
 ## 🤔  tree との違いは？
 
 - **oak**：オーク（樫の木）という特定の種類の木やその木材
-- **[tree](/word/tree/)**：木全般を指す一般的な単語
+- **[tree](/tree)**：木全般を指す一般的な単語
 
 oakは特定の木の種類やその木材を指し、treeは「木」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ oakは特定の木の種類やその木材を指し、treeは「木」という�
 
 ## 🧩 あわせて覚えたい
 
-- [forest](/word/forest/)：森、森林
-- [wood](/word/wood/)：木材、森
+- [forest](/forest)：森、森林
+- [wood](/wood)：木材、森
 
 ---
 
 ## 📖 できればこれも
 
-- [pine](/word/pine/)：マツ（松の木）
-- [leaf](/word/leaf/)：葉っぱ
+- [pine](/pine)：マツ（松の木）
+- [leaf](/leaf)：葉っぱ
 
-<!-- cvid: aid22_bid46 -->
+<!-- cvid: aid20_bid03 -->

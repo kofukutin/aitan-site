@@ -82,15 +82,19 @@ TOEICでは、会話やメール文で「謝罪」を表す表現として頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会話やメール文で「謝罪」を表す表現として頻出
 ## 🤔  excuse との違いは？
 
 - **apology**：自分の非や迷惑を認めて正式に謝ること
-- **[excuse](/word/excuse/)**：言い訳や理由を述べて自分を正当化すること
+- **[excuse](/excuse)**：言い訳や理由を述べて自分を正当化すること
 
 apologyは「心から謝る」ニュアンスが強く、excuseは「言い訳」や「理由説明」に近い使い方です。
 
@@ -106,14 +110,14 @@ apologyは「心から謝る」ニュアンスが強く、excuseは「言い訳�
 
 ## 🧩 あわせて覚えたい
 
-- [regret](/word/regret/)：後悔、残念に思う気持ち
-- [admission](/word/admission/)：認めること、入場
+- [regret](/regret)：後悔、残念に思う気持ち
+- [admission](/admission)：認めること、入場
 
 ---
 
 ## 📖 できればこれも
 
-- [promise](/word/promise/)：約束
-- [request](/word/request/)：依頼、要請
+- [promise](/promise)：約束
+- [request](/request)：依頼、要請
 
-<!-- cvid: aid47_bid40 -->
+<!-- cvid: aid04_bid32 -->

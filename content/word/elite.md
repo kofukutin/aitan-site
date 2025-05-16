@@ -81,15 +81,19 @@ TOEICでは、ビジネスや教育、組織の説明文で「elite」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid48" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid48" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや教育、組織の説明文で「elite」が登場�
 ## 🤔  exclusive との違いは？
 
 - **elite**：選ばれた人々や集団そのものを指す
-- **[exclusive](/word/exclusive/)**：限られた人だけが利用できる、排他的な
+- **[exclusive](/exclusive)**：限られた人だけが利用できる、排他的な
 
 eliteは「人」や「集団」に焦点があり、exclusiveは「物」や「サービス」などの「限られた利用」に焦点があります。
 
@@ -105,14 +109,14 @@ eliteは「人」や「集団」に焦点があり、exclusiveは「物」や「
 
 ## 🧩 あわせて覚えたい
 
-- [privileged](/word/privileged/)：特権を持つ
-- [aristocrat](/word/aristocrat/)：貴族、上流階級の人
+- [privileged](/privileged)：特権を持つ
+- [aristocrat](/aristocrat)：貴族、上流階級の人
 
 ---
 
 ## 📖 できればこれも
 
-- [prestige](/word/prestige/)：名声、威信
-- [influential](/word/influential/)：影響力のある
+- [prestige](/prestige)：名声、威信
+- [influential](/influential)：影響力のある
 
-<!-- cvid: aid09_bid34 -->
+<!-- cvid: aid24_bid48 -->

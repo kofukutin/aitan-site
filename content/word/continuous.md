@@ -82,15 +82,19 @@ TOEICでは「continuous improvement（継続的改善）」や「continuous pro
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「continuous improvement（継続的改善）」や「continuous pro
 ## 🤔  continual との違いは？
 
 - **continuous**：途切れずにずっと続く、絶え間ない
-- **[continual](/word/continual/)**：繰り返し何度も起こるが、間に中断や休止がある
+- **[continual](/continual)**：繰り返し何度も起こるが、間に中断や休止がある
 
 continuousは「一度も途切れずに続く」ことを強調し、continualは「何度も繰り返されるが、間に休みがある」場合に使います。
 
@@ -106,14 +110,14 @@ continuousは「一度も途切れずに続く」ことを強調し、continual�
 
 ## 🧩 あわせて覚えたい
 
-- [constant](/word/constant/)：絶え間ない、一定の
-- [intermittent](/word/intermittent/)：断続的な、時々途切れる
+- [constant](/constant)：絶え間ない、一定の
+- [intermittent](/intermittent)：断続的な、時々途切れる
 
 ---
 
 ## 📖 できればこれも
 
-- [consecutive](/word/consecutive/)：連続した（順序が途切れない）
-- [consistent](/word/consistent/)：一貫した、矛盾しない
+- [consecutive](/consecutive)：連続した（順序が途切れない）
+- [consistent](/consistent)：一貫した、矛盾しない
 
-<!-- cvid: aid07_bid29 -->
+<!-- cvid: aid00_bid35 -->

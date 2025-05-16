@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や規則説明の中で頻出します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid29" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid29" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や規則説明の中で頻出します。特
 ## 🤔  conformity との違いは？
 
 - **compliance**：外部からの規則や命令に従うこと、特に義務や強制のニュアンスが強い
-- **[conformity](/word/conformity/)**：集団や社会の基準・慣習に合わせること、内面的な同調や一体感のニュアンス
+- **[conformity](/conformity)**：集団や社会の基準・慣習に合わせること、内面的な同調や一体感のニュアンス
 
 complianceは「ルールや法律など明確な基準に従う」場合に使い、conformityは「周囲や社会の雰囲気・慣習に合わせる」場合に使います。
 
@@ -105,14 +109,14 @@ complianceは「ルールや法律など明確な基準に従う」場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [violation](/word/violation/)：違反、反則
-- [regulation](/word/regulation/)：規則、規制
+- [violation](/violation)：違反、反則
+- [regulation](/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：方針、政策
-- [procedure](/word/procedure/)：手順、手続き
+- [policy](/policy)：方針、政策
+- [procedure](/procedure)：手順、手続き
 
-<!-- cvid: aid08_bid46 -->
+<!-- cvid: aid49_bid29 -->

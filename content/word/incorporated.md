@@ -81,15 +81,19 @@ TOEICでは会社名やビジネス文書で頻出します。特に社名の一
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社名やビジネス文書で頻出します。特に社名の一
 ## 🤔  corporation との違いは？
 
 - **incorporated**：法人化された、株式会社の（形容詞として会社の状態を説明）
-- **[corporation](/word/corporation/)**：法人、株式会社（名詞として会社そのものを指す）
+- **[corporation](/corporation)**：法人、株式会社（名詞として会社そのものを指す）
 
 「incorporated」は会社の形態や状態を説明し、「corporation」は会社そのものを指します。
 
@@ -105,14 +109,14 @@ TOEICでは会社名やビジネス文書で頻出します。特に社名の一
 
 ## 🧩 あわせて覚えたい
 
-- [limited](/word/limited/)：有限責任の、有限会社の
-- [enterprise](/word/enterprise/)：企業、事業
+- [limited](/limited)：有限責任の、有限会社の
+- [enterprise](/enterprise)：企業、事業
 
 ---
 
 ## 📖 できればこれも
 
-- [registered](/word/registered/)：登録された
-- [established](/word/established/)：設立された
+- [registered](/registered)：登録された
+- [established](/established)：設立された
 
-<!-- cvid: aid07_bid06 -->
+<!-- cvid: aid03_bid26 -->

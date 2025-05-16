@@ -81,15 +81,19 @@ obligateはTOEICの文法・語彙問題（Part 5）で、契約や規則に関�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ obligateはTOEICの文法・語彙問題（Part 5）で、契約や規則に関�
 ## 🤔  require との違いは？
 
 - **obligate**：法律や契約などで「義務を課す」「強制する」といったフォーマルな響きが強い
-- **[require](/word/require/)**：必要条件として「要求する」「必要とする」など幅広く使える
+- **[require](/require)**：必要条件として「要求する」「必要とする」など幅広く使える
 
 obligateは「義務を負わせる」ニュアンスが強く、requireは「必要とする」一般的な要求に使われます。
 
@@ -105,14 +109,14 @@ obligateは「義務を負わせる」ニュアンスが強く、requireは「�
 
 ## 🧩 あわせて覚えたい
 
-- [compel](/word/compel/)：強制する
-- [volunteer](/word/volunteer/)：自発的に申し出る
+- [compel](/compel)：強制する
+- [volunteer](/volunteer)：自発的に申し出る
 
 ---
 
 ## 📖 できればこれも
 
-- [enforce](/word/enforce/)：施行する、実施する
-- [mandate](/word/mandate/)：命じる、義務づける
+- [enforce](/enforce)：施行する、実施する
+- [mandate](/mandate)：命じる、義務づける
 
-<!-- cvid: aid11_bid09 -->
+<!-- cvid: aid37_bid39 -->

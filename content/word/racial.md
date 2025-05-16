@@ -81,15 +81,19 @@ TOEICでは、社会問題や多様性に関する長文や記事で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社会問題や多様性に関する長文や記事で見かける
 ## 🤔  ethnic との違いは？
 
 - **racial**：人種に関する、肌の色や遺伝的特徴など生物学的な違いに焦点を当てる
-- **[ethnic](/word/ethnic/)**：民族に関する、文化・伝統・言語など社会的な集団の違いに焦点を当てる
+- **[ethnic](/ethnic)**：民族に関する、文化・伝統・言語など社会的な集団の違いに焦点を当てる
 
 racialは「人種」という生物学的な区分を指し、ethnicは「民族」という文化的・社会的な区分を指す点が異なります。
 
@@ -105,14 +109,14 @@ racialは「人種」という生物学的な区分を指し、ethnicは「民�
 
 ## 🧩 あわせて覚えたい
 
-- [discrimination](/word/discrimination/)：差別
-- [diversity](/word/diversity/)：多様性
+- [discrimination](/discrimination)：差別
+- [diversity](/diversity)：多様性
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural/)：文化の
-- [national](/word/national/)：国の、国家の
+- [cultural](/cultural)：文化の
+- [national](/national)：国の、国家の
 
-<!-- cvid: aid04_bid45 -->
+<!-- cvid: aid19_bid14 -->

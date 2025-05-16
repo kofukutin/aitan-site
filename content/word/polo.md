@@ -83,15 +83,19 @@ TOEICでは主にPart 7の趣味やイベント紹介、スポーツ関連の記
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは主にPart 7の趣味やイベント紹介、スポーツ関連の記
 ## 🤔  rugby との違いは？
 
 - **polo**：馬に乗って行う球技。伝統的で上品なイメージ。
-- **[rugby](/word/rugby/)**：馬は使わず、激しい接触プレーが特徴の球技。
+- **[rugby](/rugby)**：馬は使わず、激しい接触プレーが特徴の球技。
 
 poloは馬に乗るスポーツで、rugbyは人が走ってボールを運ぶスポーツです。雰囲気やルールが大きく異なります。
 
@@ -107,14 +111,14 @@ poloは馬に乗るスポーツで、rugbyは人が走ってボールを運ぶ�
 
 ## 🧩 あわせて覚えたい
 
-- [golf](/word/golf/)：芝生の上でクラブを使ってボールを打つスポーツ
-- [tennis](/word/tennis/)：ラケットでボールを打ち合うスポーツ
+- [golf](/golf)：芝生の上でクラブを使ってボールを打つスポーツ
+- [tennis](/tennis)：ラケットでボールを打ち合うスポーツ
 
 ---
 
 ## 📖 できればこれも
 
-- [athlete](/word/athlete/)：運動選手
-- [coach](/word/coach/)：コーチ、指導者
+- [athlete](/athlete)：運動選手
+- [coach](/coach)：コーチ、指導者
 
-<!-- cvid: aid36_bid20 -->
+<!-- cvid: aid28_bid00 -->

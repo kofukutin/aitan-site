@@ -81,15 +81,19 @@ TOEICではIT関連の長文や職業紹介の文脈で出題されることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連の長文や職業紹介の文脈で出題されることが�
 ## 🤔  developer との違いは？
 
 - **programmer**：主にコードを書くことに特化した人
-- **[developer](/word/developer/)**：設計や開発全体に関わる人
+- **[developer](/developer)**：設計や開発全体に関わる人
 
 programmerは「プログラムを書く人」に焦点があり、developerは設計や要件定義など幅広い開発工程に関わる場合に使われます。
 
@@ -105,14 +109,14 @@ programmerは「プログラムを書く人」に焦点があり、developerは�
 
 ## 🧩 あわせて覚えたい
 
-- [engineer](/word/engineer/)：技術者、エンジニア
-- [coder](/word/coder/)：コーディングをする人
+- [engineer](/engineer)：技術者、エンジニア
+- [coder](/coder)：コーディングをする人
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/word/software/)：ソフトウェア、プログラム
-- [system](/word/system/)：システム、仕組み
+- [software](/software)：ソフトウェア、プログラム
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid23_bid23 -->
+<!-- cvid: aid16_bid25 -->

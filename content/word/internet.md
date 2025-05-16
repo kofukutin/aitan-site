@@ -81,15 +81,19 @@ TOEICでは、メールや案内文、説明文などで「internet」が頻出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文、説明文などで「internet」が頻出�
 ## 🤔  web との違いは？
 
 - **internet**：世界中のネットワークそのものを指す広い意味。
-- **[web](/word/web/)**：インターネット上の情報閲覧サービス（ウェブサイトやページ）を指す。
+- **[web](/web)**：インターネット上の情報閲覧サービス（ウェブサイトやページ）を指す。
 
 internetはネットワーク全体、webはその上で動くサービスやページを指す点が異なります。
 
@@ -105,14 +109,14 @@ internetはネットワーク全体、webはその上で動くサービスやペ
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、通信網
-- [website](/word/website/)：ウェブサイト、ホームページ
+- [network](/network)：ネットワーク、通信網
+- [website](/website)：ウェブサイト、ホームページ
 
 ---
 
 ## 📖 できればこれも
 
-- [email](/word/email/)：電子メール
-- [browser](/word/browser/)：ブラウザ、閲覧ソフト
+- [email](/email)：電子メール
+- [browser](/browser)：ブラウザ、閲覧ソフト
 
-<!-- cvid: aid15_bid09 -->
+<!-- cvid: aid02_bid40 -->

@@ -81,15 +81,19 @@ TOEICでは会議やビジネスシーンで「伝える」「連絡する」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスシーンで「伝える」「連絡する」と
 ## 🤔  convey との違いは？
 
 - **communicate**：双方向的に意思や情報を伝え合うことを強調
-- **[convey](/word/convey/)**：一方向的に情報や気持ちを「伝達する」ことを強調
+- **[convey](/convey)**：一方向的に情報や気持ちを「伝達する」ことを強調
 
 communicateは「やりとり」や「相互理解」に重点があり、conveyは「伝える内容」や「伝達の行為」自体に焦点が当たります。
 
@@ -105,14 +109,14 @@ communicateは「やりとり」や「相互理解」に重点があり、convey
 
 ## 🧩 あわせて覚えたい
 
-- [inform](/word/inform/)：知らせる、通知する
-- [interact](/word/interact/)：交流する、相互に作用する
+- [inform](/inform)：知らせる、通知する
+- [interact](/interact)：交流する、相互に作用する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss/)：話し合う、議論する
-- [express](/word/express/)：表現する、述べる
+- [discuss](/discuss)：話し合う、議論する
+- [express](/express)：表現する、述べる
 
-<!-- cvid: aid45_bid31 -->
+<!-- cvid: aid30_bid42 -->

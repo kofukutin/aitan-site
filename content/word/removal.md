@@ -81,15 +81,19 @@ TOEICでは、書類や設備の「撤去」「削除」など、ビジネス文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類や設備の「撤去」「削除」など、ビジネス文
 ## 🤔  elimination との違いは？
 
 - **removal**：物理的・具体的な「取り除くこと」「撤去」によく使う
-- **[elimination](/word/elimination/)**：不要なものを「排除」する、より抽象的・完全に消すニュアンス
+- **[elimination](/elimination)**：不要なものを「排除」する、より抽象的・完全に消すニュアンス
 
 removalは目に見えるものや人の「撤去」に使われやすく、eliminationは競争や問題など抽象的な「排除」に使われます。
 
@@ -105,14 +109,14 @@ removalは目に見えるものや人の「撤去」に使われやすく、elim
 
 ## 🧩 あわせて覚えたい
 
-- [replacement](/word/replacement/)：交換、取り替え
-- [dismissal](/word/dismissal/)：解雇、免職
+- [replacement](/replacement)：交換、取り替え
+- [dismissal](/dismissal)：解雇、免職
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/word/transfer/)：移動、転送
-- [installation](/word/installation/)：設置、導入
+- [transfer](/transfer)：移動、転送
+- [installation](/installation)：設置、導入
 
-<!-- cvid: aid41_bid18 -->
+<!-- cvid: aid43_bid45 -->

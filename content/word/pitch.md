@@ -81,15 +81,19 @@ TOEICでは、プレゼンや営業の場面で「pitch」が「売り込み」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、プレゼンや営業の場面で「pitch」が「売り込み」�
 ## 🤔  proposal との違いは？
 
 - **pitch**：短く簡潔に売り込む提案やプレゼン
-- **[proposal](/word/proposal/)**：正式な文書や計画としての提案
+- **[proposal](/proposal)**：正式な文書や計画としての提案
 
 pitchは口頭や短時間で行う売り込みに使われ、proposalは書類や詳細な計画として提出する提案に使われます。
 
@@ -105,14 +109,14 @@ pitchは口頭や短時間で行う売り込みに使われ、proposalは書類�
 
 ## 🧩 あわせて覚えたい
 
-- [presentation](/word/presentation/)：発表、プレゼンテーション
-- [offer](/word/offer/)：申し出、提案
+- [presentation](/presentation)：発表、プレゼンテーション
+- [offer](/offer)：申し出、提案
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [idea](/word/idea/)：アイデア、考え
+- [plan](/plan)：計画
+- [idea](/idea)：アイデア、考え
 
-<!-- cvid: aid19_bid33 -->
+<!-- cvid: aid24_bid15 -->

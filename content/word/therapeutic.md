@@ -81,15 +81,19 @@ The company offers therapeutic services for employees under stress.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company offers therapeutic services for employees under stress.
 ## 🤔  medical との違いは？
 
 - **therapeutic**：治療や癒しの効果に焦点を当てる
-- **[medical](/word/medical/)**：医学や医療全般に関する
+- **[medical](/medical)**：医学や医療全般に関する
 
 **therapeutic**は「治療効果」や「癒し」に特化した表現で、**medical**はより広く「医学的な」意味で使われます。
 
@@ -105,14 +109,14 @@ The company offers therapeutic services for employees under stress.
 
 ## 🧩 あわせて覚えたい
 
-- [curative](/word/curative/)：治療の、治癒力のある
-- [preventive](/word/preventive/)：予防の、防止の
+- [curative](/curative)：治療の、治癒力のある
+- [preventive](/preventive)：予防の、防止の
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/word/clinical/)：臨床の、診療の
-- [remedy](/word/remedy/)：治療法、改善策
+- [clinical](/clinical)：臨床の、診療の
+- [remedy](/remedy)：治療法、改善策
 
-<!-- cvid: aid44_bid41 -->
+<!-- cvid: aid09_bid42 -->

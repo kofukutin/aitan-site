@@ -81,15 +81,19 @@ TOEICでは「communication skills」「language skills」など、履歴書や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「communication skills」「language skills」など、履歴書や�
 ## 🤔  ability との違いは？
 
 - **skill**：訓練や経験によって身につけた具体的な技術や能力
-- **[ability](/word/ability/)**：生まれつきや全般的な「できる力」、潜在的な能力
+- **[ability](/ability)**：生まれつきや全般的な「できる力」、潜在的な能力
 
 skillは「実際に使える技術」、abilityは「できる素質や可能性」といった違いがあります。
 
@@ -105,14 +109,14 @@ skillは「実際に使える技術」、abilityは「できる素質や可能�
 
 ## 🧩 あわせて覚えたい
 
-- [talent](/word/talent/)：生まれつきの才能
-- [expertise](/word/expertise/)：専門的な知識や技術
+- [talent](/talent)：生まれつきの才能
+- [expertise](/expertise)：専門的な知識や技術
 
 ---
 
 ## 📖 できればこれも
 
-- [experience](/word/experience/)：経験
-- [knowledge](/word/knowledge/)：知識
+- [experience](/experience)：経験
+- [knowledge](/knowledge)：知識
 
-<!-- cvid: aid32_bid14 -->
+<!-- cvid: aid40_bid06 -->

@@ -80,15 +80,19 @@ TOEICでは、商品説明や広告、ビジネスメールなどで collectible
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、商品説明や広告、ビジネスメールなどで collectible
 ## 🤔  collection との違いは？
 
 - **collectible**：収集の対象となる個々のアイテムや品物
-- **[collection](/word/collection/)**：集められた品々の集まりやコレクション全体
+- **[collection](/collection)**：集められた品々の集まりやコレクション全体
 
 collectible は「1つ1つの収集品」、collection は「集めたもの全体」を指すので、使い分けに注意しましょう。
 
@@ -104,14 +108,14 @@ collectible は「1つ1つの収集品」、collection は「集めたもの全�
 
 ## 🧩 あわせて覚えたい
 
-- [souvenir](/word/souvenir/)：お土産、記念品
-- [memorabilia](/word/memorabilia/)：記念品、思い出の品
+- [souvenir](/souvenir)：お土産、記念品
+- [memorabilia](/memorabilia)：記念品、思い出の品
 
 ---
 
 ## 📖 できればこれも
 
-- [valuable](/word/valuable/)：価値のある
-- [auction](/word/auction/)：オークション、競売
+- [valuable](/valuable)：価値のある
+- [auction](/auction)：オークション、競売
 
-<!-- cvid: aid42_bid09 -->
+<!-- cvid: aid08_bid08 -->

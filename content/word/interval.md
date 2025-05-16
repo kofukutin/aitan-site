@@ -81,15 +81,19 @@ TOEICでは会議やイベントのスケジュール、休憩時間の説明な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントのスケジュール、休憩時間の説明な
 ## 🤔  gap との違いは？
 
 - **interval**：時間や空間の「区切り」や「間隔」を表し、計画的・規則的なイメージが強い
-- **[gap](/word/gap/)**：物理的・抽象的な「すき間」や「空白」を表し、予期しない・不規則な印象がある
+- **[gap](/gap)**：物理的・抽象的な「すき間」や「空白」を表し、予期しない・不規則な印象がある
 
 intervalは予定された休憩や決まった間隔に使われ、gapは思いがけず生じた空白や不足に使われます。
 
@@ -105,14 +109,14 @@ intervalは予定された休憩や決まった間隔に使われ、gapは思い
 
 ## 🧩 あわせて覚えたい
 
-- [pause](/word/pause/)：一時停止、休止
-- [duration](/word/duration/)：継続時間、持続期間
+- [pause](/pause)：一時停止、休止
+- [duration](/duration)：継続時間、持続期間
 
 ---
 
 ## 📖 できればこれも
 
-- [period](/word/period/)：期間、時期
-- [break](/word/break/)：休憩、中断
+- [period](/period)：期間、時期
+- [break](/break)：休憩、中断
 
-<!-- cvid: aid05_bid34 -->
+<!-- cvid: aid11_bid44 -->

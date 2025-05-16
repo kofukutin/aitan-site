@@ -81,15 +81,19 @@ TOEICでは家族や人物を表す語としてPart 1の写真描写で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは家族や人物を表す語としてPart 1の写真描写で出題さ
 ## 🤔  cousin との違いは？
 
 - **uncle**：父母の兄弟や義理のおじ
-- **[cousin](/word/cousin/)**：いとこ（おじ・おばの子ども）
+- **[cousin](/cousin)**：いとこ（おじ・おばの子ども）
 
 uncleは親世代の男性親族、cousinはいとこ（同世代の親族）を指します。
 
@@ -105,14 +109,14 @@ uncleは親世代の男性親族、cousinはいとこ（同世代の親族）を
 
 ## 🧩 あわせて覚えたい
 
-- [aunt](/word/aunt/)：おば
-- [nephew](/word/nephew/)：甥
+- [aunt](/aunt)：おば
+- [nephew](/nephew)：甥
 
 ---
 
 ## 📖 できればこれも
 
-- [aunt](/word/aunt/)：おば
-- [father](/word/father/)：父親
+- [aunt](/aunt)：おば
+- [father](/father)：父親
 
-<!-- cvid: aid16_bid14 -->
+<!-- cvid: aid15_bid45 -->

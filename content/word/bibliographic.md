@@ -81,15 +81,19 @@ TOEICでは主にPart 7の学術的な記事やレポート、参考文献リス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid37" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid37" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の学術的な記事やレポート、参考文献リス
 ## 🤔  bibliographical との違いは？
 
 - **bibliographic**：書誌に関する、書誌情報の（やや実務的・限定的）
-- **[bibliographical](/word/bibliographical/)**：書誌学の、書誌に関する（より学問的・広範囲）
+- **[bibliographical](/bibliographical)**：書誌学の、書誌に関する（より学問的・広範囲）
 
 どちらも「書誌の」という意味ですが、bibliographicは実際の文献リストや情報整理に、bibliographicalは学問的な書誌学全般や研究分野に使われる傾向があります。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7の学術的な記事やレポート、参考文献リス
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/word/reference/)：参照、参考文献
-- [citation](/word/citation/)：引用、引用文
+- [reference](/reference)：参照、参考文献
+- [citation](/citation)：引用、引用文
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/word/academic/)：学問の、学術的な
-- [literary](/word/literary/)：文学の、文芸の
+- [academic](/academic)：学問の、学術的な
+- [literary](/literary)：文学の、文芸の
 
-<!-- cvid: aid36_bid27 -->
+<!-- cvid: aid39_bid37 -->

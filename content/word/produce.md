@@ -81,15 +81,19 @@ TOEICでは「生産する」「作り出す」という意味で、会社や工
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「生産する」「作り出す」という意味で、会社や工
 ## 🤔  manufacture との違いは？
 
 - **produce**：広く「生み出す」「生産する」全般に使える
-- **[manufacture](/word/manufacture/)**：特に「機械的に大量生産する」ニュアンスが強い
+- **[manufacture](/manufacture)**：特に「機械的に大量生産する」ニュアンスが強い
 
 produceは農作物やアイデア、製品など幅広く使えますが、manufactureは工場で機械的に大量生産する場合に限定されることが多いです。
 
@@ -105,14 +109,14 @@ produceは農作物やアイデア、製品など幅広く使えますが、manu
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create/)：創造する、作り出す
-- [supply](/word/supply/)：供給する、提供する
+- [create](/create)：創造する、作り出す
+- [supply](/supply)：供給する、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop/)：開発する、発展させる
-- [deliver](/word/deliver/)：配達する、届ける
+- [develop](/develop)：開発する、発展させる
+- [deliver](/deliver)：配達する、届ける
 
-<!-- cvid: aid15_bid01 -->
+<!-- cvid: aid43_bid10 -->

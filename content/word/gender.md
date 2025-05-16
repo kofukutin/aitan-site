@@ -81,15 +81,19 @@ TOEICでは、ダイバーシティや職場環境に関する長文や記事で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ダイバーシティや職場環境に関する長文や記事で
 ## 🤔  sex との違いは？
 
 - **gender**：社会的・文化的な性別や役割を指す
-- **[sex](/word/sex/)**：生物学的な性（男性・女性など）を指す
+- **[sex](/sex)**：生物学的な性（男性・女性など）を指す
 
 genderは社会的な側面、sexは生物学的な側面を表すため、文脈によって使い分けが必要です。
 
@@ -105,14 +109,14 @@ genderは社会的な側面、sexは生物学的な側面を表すため、文�
 
 ## 🧩 あわせて覚えたい
 
-- [equality](/word/equality/)：平等
-- [diversity](/word/diversity/)：多様性
+- [equality](/equality)：平等
+- [diversity](/diversity)：多様性
 
 ---
 
 ## 📖 できればこれも
 
-- [role](/word/role/)：役割
-- [identity](/word/identity/)：アイデンティティ
+- [role](/role)：役割
+- [identity](/identity)：アイデンティティ
 
-<!-- cvid: aid31_bid15 -->
+<!-- cvid: aid08_bid29 -->

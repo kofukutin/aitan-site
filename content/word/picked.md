@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「選んだ」「拾った」などの意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「選んだ」「拾った」などの意味で
 ## 🤔  selected との違いは？
 
 - **picked**：カジュアルに「選んだ」「摘んだ」など幅広く使う
-- **[selected](/word/selected/)**：ややフォーマルで「慎重に選んだ」ニュアンス
+- **[selected](/selected)**：ややフォーマルで「慎重に選んだ」ニュアンス
 
 「picked」は日常的な選択や動作全般に使われ、「selected」は特に慎重に選んだ場合やフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「選んだ」「拾った」などの意味で
 
 ## 🧩 あわせて覚えたい
 
-- [choose](/word/choose/)：選ぶ
-- [gather](/word/gather/)：集める
+- [choose](/choose)：選ぶ
+- [gather](/gather)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [collect](/word/collect/)：集める、収集する
-- [find](/word/find/)：見つける
+- [collect](/collect)：集める、収集する
+- [find](/find)：見つける
 
-<!-- cvid: aid18_bid26 -->
+<!-- cvid: aid46_bid49 -->

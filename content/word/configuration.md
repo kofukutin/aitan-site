@@ -81,15 +81,19 @@ ITやビジネス文書、マニュアルの説明文でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、マニュアルの説明文でよく登場します。
 ## 🤔  setup との違いは？
 
 - **configuration**：システムや機器などの詳細な構成や設定全体を指すフォーマルな表現
-- **[setup](/word/setup/)**：準備や設置、初期設定など、よりカジュアルで広い意味
+- **[setup](/setup)**：準備や設置、初期設定など、よりカジュアルで広い意味
 
 configurationは専門的・技術的な設定や構成を強調し、setupは準備や設置など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ configurationは専門的・技術的な設定や構成を強調し、setupは�
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement/)：配置、取り決め
-- [structure](/word/structure/)：構造、仕組み
+- [arrangement](/arrangement)：配置、取り決め
+- [structure](/structure)：構造、仕組み
 
 ---
 
 ## 📖 できればこれも
 
-- [specification](/word/specification/)：仕様、明細
-- [installation](/word/installation/)：設置、インストール
+- [specification](/specification)：仕様、明細
+- [installation](/installation)：設置、インストール
 
-<!-- cvid: aid12_bid06 -->
+<!-- cvid: aid39_bid26 -->

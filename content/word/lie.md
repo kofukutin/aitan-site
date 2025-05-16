@@ -81,15 +81,19 @@ TOEICでは「横になる」「うそをつく」両方の意味で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「横になる」「うそをつく」両方の意味で出題され
 ## 🤔  lay との違いは？
 
 - **lie**：自分自身が横になる、またはうそをつく
-- **[lay](/word/lay/)**：何かを横たえる、置く（他動詞）
+- **[lay](/lay)**：何かを横たえる、置く（他動詞）
 
 lieは「自分が横になる」や「うそをつく」ときに使い、layは「物を横たえる・置く」ときに使います。
 
@@ -105,14 +109,14 @@ lieは「自分が横になる」や「うそをつく」ときに使い、lay�
 
 ## 🧩 あわせて覚えたい
 
-- [sit](/word/sit/)：座る
-- [deceive](/word/deceive/)：だます
+- [sit](/sit)：座る
+- [deceive](/deceive)：だます
 
 ---
 
 ## 📖 できればこれも
 
-- [stand](/word/stand/)：立つ
-- [rest](/word/rest/)：休む
+- [stand](/stand)：立つ
+- [rest](/rest)：休む
 
-<!-- cvid: aid10_bid40 -->
+<!-- cvid: aid35_bid36 -->

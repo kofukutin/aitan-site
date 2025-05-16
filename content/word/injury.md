@@ -81,15 +81,19 @@ TOEICでは、保険や安全管理、事故報告などの文脈で「injury」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、保険や安全管理、事故報告などの文脈で「injury」
 ## 🤔  wound との違いは？
 
 - **injury**：事故やスポーツなどによる広い意味での「けが・損傷」
-- **[wound](/word/wound/)**：特に切り傷や刺し傷など、皮膚が切れた「傷」
+- **[wound](/wound)**：特に切り傷や刺し傷など、皮膚が切れた「傷」
 
 injuryは広く体の損傷全般を指しますが、woundは主に皮膚が切れたり刺されたりした場合に使われます。
 
@@ -105,14 +109,14 @@ injuryは広く体の損傷全般を指しますが、woundは主に皮膚が切
 
 ## 🧩 あわせて覚えたい
 
-- [accident](/word/accident/)：事故
-- [illness](/word/illness/)：病気
+- [accident](/accident)：事故
+- [illness](/illness)：病気
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage/)：損害、損傷
-- [pain](/word/pain/)：痛み
+- [damage](/damage)：損害、損傷
+- [pain](/pain)：痛み
 
-<!-- cvid: aid20_bid13 -->
+<!-- cvid: aid03_bid01 -->

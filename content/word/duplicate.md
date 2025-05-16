@@ -81,15 +81,19 @@ ITやビジネス文書の中で「複製する」という意味で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書の中で「複製する」という意味で出題され
 ## 🤔  copy との違いは？
 
 - **duplicate**：まったく同じものを正確に複製する（特にフォーマル・技術的な場面で使用）
-- **[copy](/word/copy/)**：一般的に「写す」「コピーする」。内容が同じなら多少の違いも許容される
+- **[copy](/copy)**：一般的に「写す」「コピーする」。内容が同じなら多少の違いも許容される
 
 duplicateは「完全な複製」に重点があり、copyは「写し」全般に使えます。
 
@@ -105,14 +109,14 @@ duplicateは「完全な複製」に重点があり、copyは「写し」全般�
 
 ## 🧩 あわせて覚えたい
 
-- [replicate](/word/replicate/)：（実験・手順などを）再現する、複製する
-- [original](/word/original/)：原本、オリジナル
+- [replicate](/replicate)：（実験・手順などを）再現する、複製する
+- [original](/original)：原本、オリジナル
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/word/transfer/)：移す、転送する
-- [distribute](/word/distribute/)：配布する、分配する
+- [transfer](/transfer)：移す、転送する
+- [distribute](/distribute)：配布する、分配する
 
-<!-- cvid: aid27_bid21 -->
+<!-- cvid: aid05_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは空港や交通機関、サービス業の会話で「crew」がよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や交通機関、サービス業の会話で「crew」がよ�
 ## 🤔  staff との違いは？
 
 - **crew**：乗り物や特定の作業現場で働くグループ
-- **[staff](/word/staff/)**：会社や組織全体の従業員
+- **[staff](/staff)**：会社や組織全体の従業員
 
 crewは飛行機や船などの「現場のチーム」に使い、staffはオフィスや店舗など幅広い従業員全体を指します。
 
@@ -105,14 +109,14 @@ crewは飛行機や船などの「現場のチーム」に使い、staffはオ�
 
 ## 🧩 あわせて覚えたい
 
-- [team](/word/team/)：チーム、団体
-- [passenger](/word/passenger/)：乗客
+- [team](/team)：チーム、団体
+- [passenger](/passenger)：乗客
 
 ---
 
 ## 📖 できればこれも
 
-- [flight](/word/flight/)：飛行、便
-- [member](/word/member/)：メンバー、構成員
+- [flight](/flight)：飛行、便
+- [member](/member)：メンバー、構成員
 
-<!-- cvid: aid02_bid24 -->
+<!-- cvid: aid38_bid16 -->

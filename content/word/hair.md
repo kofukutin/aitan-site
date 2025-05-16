@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【hair】の意味・使い方・例文 ― furとの違い【TOEIC英単語】"
 description: "hairの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfurとの違いもわかりやすく学べます。"
 word: "hair"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人の外見や身だしなみを説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人の外見や身だしなみを説
 ## 🤔  fur との違いは？
 
 - **hair**：人や動物の体に生える「髪」や「毛」全般。特に人間の頭髪を指すことが多い。
-- **[fur](/word/fur/)**：動物の体を覆う「柔らかい毛」や「毛皮」を指す。
+- **[fur](/fur)**：動物の体を覆う「柔らかい毛」や「毛皮」を指す。
 
 hairは人間や動物の個々の毛や髪を指し、furは主に動物の密集した柔らかい毛や毛皮全体を表します。
 
@@ -105,14 +109,14 @@ hairは人間や動物の個々の毛や髪を指し、furは主に動物の密�
 
 ## 🧩 あわせて覚えたい
 
-- [bald](/word/bald/)：はげた、髪のない
-- [comb](/word/comb/)：くし、くしでとかす
+- [bald](/bald)：はげた、髪のない
+- [comb](/comb)：くし、くしでとかす
 
 ---
 
 ## 📖 できればこれも
 
-- [skin](/word/skin/)：皮膚
-- [nail](/word/nail/)：爪
+- [skin](/skin)：皮膚
+- [nail](/nail)：爪
 
-<!-- cvid: aid38_bid31 -->
+<!-- cvid: aid49_bid02 -->

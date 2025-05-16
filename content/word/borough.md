@@ -80,15 +80,19 @@ TOEICでは都市や地域の説明、観光案内、行政関連の長文で見
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは都市や地域の説明、観光案内、行政関連の長文で見
 ## 🤔  district との違いは？
 
 - **borough**：特定の都市内の行政区や特別区を指し、公式な区分として使われることが多い
-- **[district](/word/district/)**：行政区だけでなく、商業地区や学区など幅広い「区画」を指す
+- **[district](/district)**：行政区だけでなく、商業地区や学区など幅広い「区画」を指す
 
 boroughは都市の公式な区分、districtは用途や目的に応じた幅広い区画を指す点が異なります。
 
@@ -104,14 +108,14 @@ boroughは都市の公式な区分、districtは用途や目的に応じた幅�
 
 ## 🧩 あわせて覚えたい
 
-- [municipality](/word/municipality/)：自治体、地方公共団体
-- [suburb](/word/suburb/)：郊外、都市周辺の住宅地
+- [municipality](/municipality)：自治体、地方公共団体
+- [suburb](/suburb)：郊外、都市周辺の住宅地
 
 ---
 
 ## 📖 できればこれも
 
-- [province](/word/province/)：州、地方
-- [county](/word/county/)：郡、行政区画
+- [province](/province)：州、地方
+- [county](/county)：郡、行政区画
 
-<!-- cvid: aid42_bid23 -->
+<!-- cvid: aid13_bid44 -->

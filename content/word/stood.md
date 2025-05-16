@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「立っていた」「存在していた」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「立っていた」「存在していた」と
 ## 🤔  remained との違いは？
 
 - **stood**：立っていた、または存在していたことを強調
-- **[remained](/word/remained/)**：そのままの状態でいたことを強調
+- **[remained](/remained)**：そのままの状態でいたことを強調
 
 stoodは「立つ」や「建つ」など物理的な位置や存在を表し、remainedは「変わらずにいた」など状態の継続を表します。
 
@@ -105,14 +109,14 @@ stoodは「立つ」や「建つ」など物理的な位置や存在を表し、
 
 ## 🧩 あわせて覚えたい
 
-- [sit](/word/sit/)：座る
-- [rise](/word/rise/)：上がる、昇る
+- [sit](/sit)：座る
+- [rise](/rise)：上がる、昇る
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold/)：持つ、保つ
-- [stay](/word/stay/)：とどまる、滞在する
+- [hold](/hold)：持つ、保つ
+- [stay](/stay)：とどまる、滞在する
 
-<!-- cvid: aid40_bid09 -->
+<!-- cvid: aid09_bid19 -->

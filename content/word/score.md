@@ -81,15 +81,19 @@ TOEICではテストや評価、業績の文脈でよく出題されます。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではテストや評価、業績の文脈でよく出題されます。特
 ## 🤔  grade との違いは？
 
 - **score**：テストや試合などで得た具体的な点数や得点
-- **[grade](/word/grade/)**：成績や評価を示す記号やランク（A, B, Cなど）
+- **[grade](/grade)**：成績や評価を示す記号やランク（A, B, Cなど）
 
 scoreは「何点取ったか」という数字を表し、gradeはその点数をもとにした評価やランクを表します。
 
@@ -105,14 +109,14 @@ scoreは「何点取ったか」という数字を表し、gradeはその点数�
 
 ## 🧩 あわせて覚えたい
 
-- [mark](/word/mark/)：（主にイギリス英語で）点数、成績
-- [result](/word/result/)：結果、成績
+- [mark](/mark)：（主にイギリス英語で）点数、成績
+- [result](/result)：結果、成績
 
 ---
 
 ## 📖 できればこれも
 
-- [point](/word/point/)：点、得点
-- [test](/word/test/)：テスト、試験
+- [point](/point)：点、得点
+- [test](/test)：テスト、試験
 
-<!-- cvid: aid24_bid46 -->
+<!-- cvid: aid13_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは、スケジュールや定期的なイベント、報告書、会議
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、スケジュールや定期的なイベント、報告書、会議
 ## 🤔  weekly との違いは？
 
 - **monthly**：毎月の、月ごとの
-- **[weekly](/word/weekly/)**：毎週の、週ごとの
+- **[weekly](/weekly)**：毎週の、週ごとの
 
 「monthly」は月単位、「weekly」は週単位で定期的に行われることを表します。期間の長さが異なるので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ TOEICでは、スケジュールや定期的なイベント、報告書、会議
 
 ## 🧩 あわせて覚えたい
 
-- [annual](/word/annual/)：年1回の、毎年の
-- [quarterly](/word/quarterly/)：四半期ごとの
+- [annual](/annual)：年1回の、毎年の
+- [quarterly](/quarterly)：四半期ごとの
 
 ---
 
 ## 📖 できればこれも
 
-- [daily](/word/daily/)：毎日の
-- [regular](/word/regular/)：定期的な
+- [daily](/daily)：毎日の
+- [regular](/regular)：定期的な
 
-<!-- cvid: aid45_bid46 -->
+<!-- cvid: aid15_bid15 -->

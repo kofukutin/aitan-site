@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、文脈から意味を問う問題で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、文脈から意味を問う問題で出
 ## 🤔  strange との違いは？
 
 - **odd**：普通と違っていて「変わっている」「妙な」という意味。やや軽いニュアンス。
-- **[strange](/word/strange/)**：より強く「不思議」「未知」「異質」な印象を与える。
+- **[strange](/strange)**：より強く「不思議」「未知」「異質」な印象を与える。
 
 oddは「ちょっと変わっている」程度のカジュアルな違和感、strangeは「見慣れず不思議」な印象を強調します。
 
@@ -105,14 +109,14 @@ oddは「ちょっと変わっている」程度のカジュアルな違和感�
 
 ## 🧩 あわせて覚えたい
 
-- [even](/word/even/)：偶数の、平らな
-- [peculiar](/word/peculiar/)：独特な、特有の
+- [even](/even)：偶数の、平らな
+- [peculiar](/peculiar)：独特な、特有の
 
 ---
 
 ## 📖 できればこれも
 
-- [rare](/word/rare/)：珍しい
-- [unique](/word/unique/)：唯一の、独特な
+- [rare](/rare)：珍しい
+- [unique](/unique)：唯一の、独特な
 
-<!-- cvid: aid25_bid48 -->
+<!-- cvid: aid14_bid12 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、冬や朝の風景を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、冬や朝の風景を説明する際
 ## 🤔  freeze との違いは？
 
 - **frost**：霜や霜が降りる現象を指す名詞
-- **[freeze](/word/freeze/)**：凍る、凍らせるという動作や状態を指す動詞・名詞
+- **[freeze](/freeze)**：凍る、凍らせるという動作や状態を指す動詞・名詞
 
 frostは「霜」という具体的な現象や物質を表し、freezeは「凍る」という動作や状態を表します。
 
@@ -105,14 +109,14 @@ frostは「霜」という具体的な現象や物質を表し、freezeは「凍
 
 ## 🧩 あわせて覚えたい
 
-- [dew](/word/dew/)：露（朝方などに草や物の表面にできる水滴）
-- [thaw](/word/thaw/)：解凍、雪や氷が溶けること
+- [dew](/dew)：露（朝方などに草や物の表面にできる水滴）
+- [thaw](/thaw)：解凍、雪や氷が溶けること
 
 ---
 
 ## 📖 できればこれも
 
-- [snow](/word/snow/)：雪
-- [ice](/word/ice/)：氷
+- [snow](/snow)：雪
+- [ice](/ice)：氷
 
-<!-- cvid: aid36_bid32 -->
+<!-- cvid: aid02_bid09 -->

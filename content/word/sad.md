@@ -81,15 +81,19 @@ TOEICでは会話文や感情を表す場面で出題されることが多いで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid44" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid44" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文や感情を表す場面で出題されることが多いで
 ## 🤔  disappointed との違いは？
 
 - **sad**：一般的な「悲しい」気持ちを表す。
-- **[disappointed](/word/disappointed/)**：期待が外れて「がっかりした」気持ちを表す。
+- **[disappointed](/disappointed)**：期待が外れて「がっかりした」気持ちを表す。
 
 sadは広く「悲しい」感情全般に使い、disappointedは「期待していたのに…」という失望を含みます。
 
@@ -105,14 +109,14 @@ sadは広く「悲しい」感情全般に使い、disappointedは「期待し�
 
 ## 🧩 あわせて覚えたい
 
-- [happy](/word/happy/)：幸せな、うれしい
-- [upset](/word/upset/)：動揺した、取り乱した
+- [happy](/happy)：幸せな、うれしい
+- [upset](/upset)：動揺した、取り乱した
 
 ---
 
 ## 📖 できればこれも
 
-- [angry](/word/angry/)：怒っている
-- [glad](/word/glad/)：うれしい
+- [angry](/angry)：怒っている
+- [glad](/glad)：うれしい
 
-<!-- cvid: aid11_bid16 -->
+<!-- cvid: aid03_bid44 -->

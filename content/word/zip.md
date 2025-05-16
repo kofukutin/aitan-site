@@ -81,15 +81,19 @@ ITやビジネス文書で「ファイルを圧縮する」意味で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書で「ファイルを圧縮する」意味で出題され
 ## 🤔  compress との違いは？
 
 - **zip**：主にIT分野で「ファイルを圧縮する」意味。カジュアルで具体的な圧縮形式（ZIPファイル）を指すことが多い。
-- **[compress](/word/compress/)**：より一般的な「圧縮する」。ファイルだけでなく物理的な圧縮にも使える。
+- **[compress](/compress)**：より一般的な「圧縮する」。ファイルだけでなく物理的な圧縮にも使える。
 
 zipはITや日常会話で使われやすく、compressはより広い意味でフォーマルな場面でも使えます。
 
@@ -105,14 +109,14 @@ zipはITや日常会話で使われやすく、compressはより広い意味で�
 
 ## 🧩 あわせて覚えたい
 
-- [extract](/word/extract/)：（圧縮ファイルを）解凍する
-- [attach](/word/attach/)：添付する
+- [extract](/extract)：（圧縮ファイルを）解凍する
+- [attach](/attach)：添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/word/save/)：保存する
-- [upload](/word/upload/)：アップロードする
+- [save](/save)：保存する
+- [upload](/upload)：アップロードする
 
-<!-- cvid: aid13_bid19 -->
+<!-- cvid: aid33_bid35 -->

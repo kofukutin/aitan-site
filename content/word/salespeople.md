@@ -81,15 +81,19 @@ TOEICでは、店舗や会社の会話、営業成績や顧客対応の話題で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、店舗や会社の会話、営業成績や顧客対応の話題で
 ## 🤔  clerk との違いは？
 
 - **salespeople**：販売や営業を担当する人々全般を指す。
-- **[clerk](/word/clerk/)**：主に店頭でレジや接客などを行う店員を指す。
+- **[clerk](/clerk)**：主に店頭でレジや接客などを行う店員を指す。
 
 salespeopleは営業職や販売職全体を指し、clerkは店舗での事務的・接客的な役割に限定されることが多いです。
 
@@ -105,14 +109,14 @@ salespeopleは営業職や販売職全体を指し、clerkは店舗での事務�
 
 ## 🧩 あわせて覚えたい
 
-- [customer](/word/customer/)：顧客、客
-- [representative](/word/representative/)：代表者、担当者
+- [customer](/customer)：顧客、客
+- [representative](/representative)：代表者、担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [client](/word/client/)：（主にサービス業の）顧客
+- [manager](/manager)：管理職、マネージャー
+- [client](/client)：（主にサービス業の）顧客
 
-<!-- cvid: aid08_bid27 -->
+<!-- cvid: aid20_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは主に文法や語彙問題で「十分な」という意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に文法や語彙問題で「十分な」という意味で出題
 ## 🤔  enough との違いは？
 
 - **sufficient**：必要条件を満たす「十分な」（ややフォーマル）
-- **[enough](/word/enough/)**：必要な量や程度に「足りている」（カジュアル・口語的）
+- **[enough](/enough)**：必要な量や程度に「足りている」（カジュアル・口語的）
 
 sufficientはフォーマルな文書やビジネスで使われ、enoughは日常会話でよく使われます。
 
@@ -105,14 +109,14 @@ sufficientはフォーマルな文書やビジネスで使われ、enoughは日�
 
 ## 🧩 あわせて覚えたい
 
-- [adequate](/word/adequate/)：適切な、十分な
-- [insufficient](/word/insufficient/)：不十分な
+- [adequate](/adequate)：適切な、十分な
+- [insufficient](/insufficient)：不十分な
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/word/necessary/)：必要な
-- [essential](/word/essential/)：不可欠な
+- [necessary](/necessary)：必要な
+- [essential](/essential)：不可欠な
 
-<!-- cvid: aid49_bid48 -->
+<!-- cvid: aid45_bid29 -->

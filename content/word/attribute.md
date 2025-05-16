@@ -81,15 +81,19 @@ TOEICではITやビジネス文脈で「属性」「特性」として出題さ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文脈で「属性」「特性」として出題さ�
 ## 🤔  property との違いは？
 
 - **attribute**：物や人が持つ特徴や性質、特にITやデータの「属性」に使う
-- **[property](/word/property/)**：物理的・法的な「所有物」や「性質」、科学や不動産でも使う
+- **[property](/property)**：物理的・法的な「所有物」や「性質」、科学や不動産でも使う
 
 attributeは「特徴・属性」として抽象的な性質を指し、propertyは「所有物」や「物質の性質」などより広い意味で使われます。
 
@@ -105,14 +109,14 @@ attributeは「特徴・属性」として抽象的な性質を指し、property
 
 ## 🧩 あわせて覚えたい
 
-- [feature](/word/feature/)：特徴、機能
-- [characteristic](/word/characteristic/)：特性、特徴
+- [feature](/feature)：特徴、機能
+- [characteristic](/characteristic)：特性、特徴
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor/)：要因、要素
-- [aspect](/word/aspect/)：側面、観点
+- [factor](/factor)：要因、要素
+- [aspect](/aspect)：側面、観点
 
-<!-- cvid: aid40_bid07 -->
+<!-- cvid: aid22_bid08 -->

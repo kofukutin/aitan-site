@@ -80,15 +80,19 @@ The company is working on reducing emissions that damage the ozone layer.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The company is working on reducing emissions that damage the ozone layer.
 ## 🤔  oxygen との違いは？
 
 - **ozone**：酸素原子3つからなる気体で、主に成層圏に存在し紫外線を吸収する。
-- **[oxygen](/word/oxygen/)**：酸素原子2つからなる気体で、呼吸や燃焼に不可欠。
+- **[oxygen](/oxygen)**：酸素原子2つからなる気体で、呼吸や燃焼に不可欠。
 
 ozoneは特殊な酸素分子で、主に大気の保護機能に関わるのに対し、oxygenは私たちが呼吸する通常の酸素です。
 
@@ -104,14 +108,14 @@ ozoneは特殊な酸素分子で、主に大気の保護機能に関わるのに
 
 ## 🧩 あわせて覚えたい
 
-- [pollution](/word/pollution/)：汚染
-- [layer](/word/layer/)：層
+- [pollution](/pollution)：汚染
+- [layer](/layer)：層
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/word/climate/)：気候
-- [atmosphere](/word/atmosphere/)：大気
+- [climate](/climate)：気候
+- [atmosphere](/atmosphere)：大気
 
-<!-- cvid: aid25_bid43 -->
+<!-- cvid: aid10_bid34 -->

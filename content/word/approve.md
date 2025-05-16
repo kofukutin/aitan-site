@@ -81,15 +81,19 @@ TOEICでは「承認する」「認可する」という意味で、主にビジ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「承認する」「認可する」という意味で、主にビジ
 ## 🤔  accept との違いは？
 
 - **approve**：公式に「良い」と認めて許可・承認する
-- **[accept](/word/accept/)**：受け入れる、引き受ける（承認のニュアンスは弱い）
+- **[accept](/accept)**：受け入れる、引き受ける（承認のニュアンスは弱い）
 
 approveは「正式な許可・承認」を強調し、acceptは「受け入れる」こと自体に重点があります。
 
@@ -105,14 +109,14 @@ approveは「正式な許可・承認」を強調し、acceptは「受け入れ�
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/word/reject/)：拒否する
-- [authorize](/word/authorize/)：権限を与える、認可する
+- [reject](/reject)：拒否する
+- [authorize](/authorize)：権限を与える、認可する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する
-- [permit](/word/permit/)：許可する
+- [confirm](/confirm)：確認する
+- [permit](/permit)：許可する
 
-<!-- cvid: aid15_bid27 -->
+<!-- cvid: aid02_bid10 -->

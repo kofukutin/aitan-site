@@ -81,15 +81,19 @@ TOEICでは、形容詞として「independent opinion（独立した意見）�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「independent opinion（独立した意見）�
 ## 🤔  autonomous との違いは？
 
 - **independent**：他に頼らず自分で考えたり行動したりする「独立した」「自立した」
-- **[autonomous](/word/autonomous/)**：外部からの支配や制約を受けずに「自己決定できる」「自治の」
+- **[autonomous](/autonomous)**：外部からの支配や制約を受けずに「自己決定できる」「自治の」
 
 independentは「他に頼らない」広い意味で使われ、autonomousは「自分でルールや判断を下せる」組織や機械などに使われることが多いです。
 
@@ -105,14 +109,14 @@ independentは「他に頼らない」広い意味で使われ、autonomousは�
 
 ## 🧩 あわせて覚えたい
 
-- [reliable](/word/reliable/)：信頼できる
-- [dependent](/word/dependent/)：依存している
+- [reliable](/reliable)：信頼できる
+- [dependent](/dependent)：依存している
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible/)：責任がある
-- [objective](/word/objective/)：客観的な
+- [responsible](/responsible)：責任がある
+- [objective](/objective)：客観的な
 
-<!-- cvid: aid06_bid38 -->
+<!-- cvid: aid49_bid44 -->

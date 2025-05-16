@@ -81,15 +81,19 @@ TOEICでは、製品のサイズや容量、技術的な説明文で「cubic」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品のサイズや容量、技術的な説明文で「cubic」�
 ## 🤔  square との違いは？
 
 - **cubic**：立方体の形や体積（3乗）を表す
-- **[square](/word/square/)**：正方形や面積（2乗）を表す
+- **[square](/square)**：正方形や面積（2乗）を表す
 
 「cubic」は体積や立体の形を、「square」は面積や平面の形を表すときに使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、製品のサイズや容量、技術的な説明文で「cubic」�
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/word/volume/)：体積
-- [rectangular](/word/rectangular/)：長方形の、長方体の
+- [volume](/volume)：体積
+- [rectangular](/rectangular)：長方形の、長方体の
 
 ---
 
 ## 📖 できればこれも
 
-- [cylinder](/word/cylinder/)：円柱
-- [sphere](/word/sphere/)：球体
+- [cylinder](/cylinder)：円柱
+- [sphere](/sphere)：球体
 
-<!-- cvid: aid38_bid26 -->
+<!-- cvid: aid07_bid03 -->

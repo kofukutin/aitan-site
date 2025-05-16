@@ -83,15 +83,19 @@ TOEICでは会議や業務の進行状況を表す文脈でよく出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは会議や業務の進行状況を表す文脈でよく出題されま
 ## 🤔  easily との違いは？
 
 - **smoothly**：問題や障害なく、なめらかに・円滑に進むことを強調
-- **[easily](/word/easily/)**：簡単に、努力せずにできることを強調
+- **[easily](/easily)**：簡単に、努力せずにできることを強調
 
 smoothlyは「引っかかりがない」「順調に進む」ことに焦点があり、easilyは「難しくない」「苦労せずできる」ことに焦点があります。
 
@@ -107,14 +111,14 @@ smoothlyは「引っかかりがない」「順調に進む」ことに焦点が
 
 ## 🧩 あわせて覚えたい
 
-- [efficiently](/word/efficiently/)：効率的に
-- [seamlessly](/word/seamlessly/)：途切れなく、シームレスに
+- [efficiently](/efficiently)：効率的に
+- [seamlessly](/seamlessly)：途切れなく、シームレスに
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [carefully](/word/carefully/)：注意深く
+- [quickly](/quickly)：速く
+- [carefully](/carefully)：注意深く
 
-<!-- cvid: aid09_bid19 -->
+<!-- cvid: aid34_bid46 -->

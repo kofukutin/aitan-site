@@ -77,15 +77,19 @@ TOEICの長文読解（Part 7）で、例示や比較の文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICの長文読解（Part 7）で、例示や比較の文脈でよく登場し
 ## 🤔  likewise との違いは？
 
 - **similarly**：前述の内容と「同じような方法・状況」であることを説明的に述べるときに使う。
-- **[likewise](/word/likewise/)**：よりカジュアルに「同様に」「私も」と返答や挨拶にも使える。
+- **[likewise](/likewise)**：よりカジュアルに「同様に」「私も」と返答や挨拶にも使える。
 
 similarlyは論理的な説明や比較で使われ、likewiseは会話や挨拶など幅広い場面で使われます。
 
@@ -101,14 +105,14 @@ similarlyは論理的な説明や比較で使われ、likewiseは会話や挨拶
 
 ## 🧩 あわせて覚えたい
 
-- [equally](/word/equally/)：同じ程度に、等しく
-- [correspondingly](/word/correspondingly/)：それに応じて、対応して
+- [equally](/equally)：同じ程度に、等しく
+- [correspondingly](/correspondingly)：それに応じて、対応して
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに、したがって
-- [consequently](/word/consequently/)：その結果として
+- [therefore](/therefore)：それゆえに、したがって
+- [consequently](/consequently)：その結果として
 
-<!-- cvid: aid17_bid10 -->
+<!-- cvid: aid36_bid22 -->

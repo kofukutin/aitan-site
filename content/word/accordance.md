@@ -81,15 +81,19 @@ TOEICでは主に契約書や規則、公式文書の説明文で in accordance 
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に契約書や規則、公式文書の説明文で in accordance 
 ## 🤔  compliance との違いは？
 
 - **accordance**：規則や方針に「一致・合致」している状態を表す名詞
-- **[compliance](/word/compliance/)**：規則や命令に「従うこと」「順守」を強調する名詞
+- **[compliance](/compliance)**：規則や命令に「従うこと」「順守」を強調する名詞
 
 accordanceは「一致している状態」に重点があり、complianceは「従う行為・順守」に重点があります。complianceの方が義務感や強制力が強い印象です。
 
@@ -105,14 +109,14 @@ accordanceは「一致している状態」に重点があり、complianceは「
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement/)：合意、同意
-- [violation](/word/violation/)：違反
+- [agreement](/agreement)：合意、同意
+- [violation](/violation)：違反
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation/)：規則、規制
-- [policy](/word/policy/)：方針、政策
+- [regulation](/regulation)：規則、規制
+- [policy](/policy)：方針、政策
 
-<!-- cvid: aid42_bid36 -->
+<!-- cvid: aid41_bid39 -->

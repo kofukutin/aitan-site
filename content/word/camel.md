@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【camel】の意味・使い方・例文 ― dromedaryとの違い【TOEIC英単語】"
 description: "camelの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdromedaryとの違いもわかりやすく学べます。"
 word: "camel"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、動物や観光地のシーン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid29" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid29" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や観光地のシーン
 ## 🤔  dromedary との違いは？
 
 - **camel**：ラクダ全般を指す一般的な言葉
-- **[dromedary](/word/dromedary/)**：1つこぶのアラビアラクダを指す専門的な言葉
+- **[dromedary](/dromedary)**：1つこぶのアラビアラクダを指す専門的な言葉
 
 camelはラクダ全体を指しますが、dromedaryは特に1つこぶの種類を限定して表します。
 
@@ -105,14 +109,14 @@ camelはラクダ全体を指しますが、dromedaryは特に1つこぶの種�
 
 ## 🧩 あわせて覚えたい
 
-- [horse](/word/horse/)：馬
-- [desert](/word/desert/)：砂漠
+- [horse](/horse)：馬
+- [desert](/desert)：砂漠
 
 ---
 
 ## 📖 できればこれも
 
-- [donkey](/word/donkey/)：ロバ
-- [elephant](/word/elephant/)：ゾウ
+- [donkey](/donkey)：ロバ
+- [elephant](/elephant)：ゾウ
 
-<!-- cvid: aid12_bid27 -->
+<!-- cvid: aid25_bid29 -->

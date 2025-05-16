@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、映画館やイベントのシーン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid09" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid09" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、映画館やイベントのシーン
 ## 🤔  snack との違いは？
 
 - **popcorn**：トウモロコシを加熱して作る特定のスナック。
-- **[snack](/word/snack/)**：軽食やおやつ全般を指す一般的な言葉。
+- **[snack](/snack)**：軽食やおやつ全般を指す一般的な言葉。
 
 popcornは具体的な食べ物、snackは広い意味で使われます。
 
@@ -105,14 +109,14 @@ popcornは具体的な食べ物、snackは広い意味で使われます。
 
 ## 🧩 あわせて覚えたい
 
-- [corn](/word/corn/)：トウモロコシ
-- [candy](/word/candy/)：キャンディ、お菓子
+- [corn](/corn)：トウモロコシ
+- [candy](/candy)：キャンディ、お菓子
 
 ---
 
 ## 📖 できればこれも
 
-- [movie](/word/movie/)：映画
-- [ticket](/word/ticket/)：チケット
+- [movie](/movie)：映画
+- [ticket](/ticket)：チケット
 
-<!-- cvid: aid29_bid45 -->
+<!-- cvid: aid35_bid09 -->

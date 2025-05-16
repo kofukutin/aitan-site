@@ -82,15 +82,19 @@ TOEICでは主にPart 7のビジネス文書やメール、会社案内などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 7のビジネス文書やメール、会社案内などで
 ## 🤔  company との違いは？
 
 - **corp**：正式な会社名や法人名で使われる略語。フォーマルな印象。
-- **[company](/word/company/)**：一般的な「会社」。日常会話や幅広い場面で使う。
+- **[company](/company)**：一般的な「会社」。日常会話や幅広い場面で使う。
 
 「corp」は主に正式名称や書類で使われ、日常会話では「company」がより一般的です。
 
@@ -106,14 +110,14 @@ TOEICでは主にPart 7のビジネス文書やメール、会社案内などで
 
 ## 🧩 あわせて覚えたい
 
-- [corporation](/word/corporation/)：法人、株式会社
-- [firm](/word/firm/)：会社、事務所（特に小規模や専門職の会社）
+- [corporation](/corporation)：法人、株式会社
+- [firm](/firm)：会社、事務所（特に小規模や専門職の会社）
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/word/branch/)：支店、支社
-- [division](/word/division/)：部門、部署
+- [branch](/branch)：支店、支社
+- [division](/division)：部門、部署
 
-<!-- cvid: aid31_bid18 -->
+<!-- cvid: aid03_bid43 -->

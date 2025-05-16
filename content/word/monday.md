@@ -81,15 +81,19 @@ TOEICでは日付や予定、スケジュールの説明で頻出します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid41_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付や予定、スケジュールの説明で頻出します。特
 ## 🤔  weekday との違いは？
 
 - **Monday**：特定の曜日「月曜日」を指す
-- **[weekday](/word/weekday/)**：月曜から金曜までの「平日」をまとめて指す
+- **[weekday](/weekday)**：月曜から金曜までの「平日」をまとめて指す
 
 Mondayは週の中の特定の日、weekdayは土日以外の平日全体を指します。
 
@@ -113,6 +117,6 @@ Mondayは週の中の特定の日、weekdayは土日以外の平日全体を指�
 ## 📖 できればこれも
 
 - [Tuesday](/Tuesday)：火曜日
-- [holiday](/word/holiday/)：祝日
+- [holiday](/holiday)：祝日
 
-<!-- cvid: aid27_bid02 -->
+<!-- cvid: aid41_bid10 -->

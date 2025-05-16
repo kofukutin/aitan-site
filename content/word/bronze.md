@@ -81,15 +81,19 @@ TOEICでは、展示会や歴史、芸術に関する長文で「bronze statue�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、展示会や歴史、芸術に関する長文で「bronze statue�
 ## 🤔  copper との違いは？
 
 - **bronze**：銅とスズなどの合金で、像やメダルなどに使われる。
-- **[copper](/word/copper/)**：純粋な銅そのもの。電線や配管などに使われる。
+- **[copper](/copper)**：純粋な銅そのもの。電線や配管などに使われる。
 
 bronzeは合金で、芸術作品やメダルなどに使われるのに対し、copperは純粋な金属で工業用途が中心です。
 
@@ -105,14 +109,14 @@ bronzeは合金で、芸術作品やメダルなどに使われるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [gold](/word/gold/)：金、金色
-- [medal](/word/medal/)：メダル、勲章
+- [gold](/gold)：金、金色
+- [medal](/medal)：メダル、勲章
 
 ---
 
 ## 📖 できればこれも
 
-- [silver](/word/silver/)：銀、銀色
-- [metal](/word/metal/)：金属
+- [silver](/silver)：銀、銀色
+- [metal](/metal)：金属
 
-<!-- cvid: aid24_bid20 -->
+<!-- cvid: aid19_bid25 -->

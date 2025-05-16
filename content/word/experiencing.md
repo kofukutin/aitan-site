@@ -81,15 +81,19 @@ TOEICでは、会社や個人が「何かを経験している」状況を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や個人が「何かを経験している」状況を説明
 ## 🤔  undergoing との違いは？
 
 - **experiencing**：自分が実際に体験していること全般に使う。
-- **[undergoing](/word/undergoing/)**：変化や治療など「過程」を強調している。
+- **[undergoing](/undergoing)**：変化や治療など「過程」を強調している。
 
 **experiencing**は幅広い体験に使えますが、**undergoing**は「変化・治療・プロセス」など進行中の出来事に限定される傾向があります。
 
@@ -105,14 +109,14 @@ TOEICでは、会社や個人が「何かを経験している」状況を説明
 
 ## 🧩 あわせて覚えたい
 
-- [encounter](/word/encounter/)：偶然出会う、遭遇する
-- [face](/word/face/)：直面する、立ち向かう
+- [encounter](/encounter)：偶然出会う、遭遇する
+- [face](/face)：直面する、立ち向かう
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/word/participate/)：参加する
-- [observe](/word/observe/)：観察する
+- [participate](/participate)：参加する
+- [observe](/observe)：観察する
 
-<!-- cvid: aid13_bid43 -->
+<!-- cvid: aid15_bid29 -->

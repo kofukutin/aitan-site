@@ -81,15 +81,19 @@ TOEICでは、記事や出版物、社内報などの文脈で「editor」が登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や出版物、社内報などの文脈で「editor」が登
 ## 🤔  publisher との違いは？
 
 - **editor**：内容を編集・管理する人
-- **[publisher](/word/publisher/)**：出版や発行を担当する会社や人
+- **[publisher](/publisher)**：出版や発行を担当する会社や人
 
 editorは文章や記事の内容を整える役割、publisherは本や雑誌を実際に世に出す役割です。
 
@@ -105,14 +109,14 @@ editorは文章や記事の内容を整える役割、publisherは本や雑誌�
 
 ## 🧩 あわせて覚えたい
 
-- [author](/word/author/)：著者、書き手
-- [reviewer](/word/reviewer/)：査読者、批評家
+- [author](/author)：著者、書き手
+- [reviewer](/reviewer)：査読者、批評家
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する
-- [edition](/word/edition/)：版、エディション
+- [edit](/edit)：編集する
+- [edition](/edition)：版、エディション
 
-<!-- cvid: aid42_bid07 -->
+<!-- cvid: aid17_bid03 -->

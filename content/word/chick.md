@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【chick】の意味・使い方・例文 ― chickenとの違い【TOEIC英単語】"
 description: "chickの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでchickenとの違いもわかりやすく学べます。"
 word: "chick"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、動物や農場のシーンで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、動物や農場のシーンで登場
 ## 🤔  chicken との違いは？
 
 - **chick**：生まれたばかりのひよこや幼い鳥を指す
-- **[chicken](/word/chicken/)**：成長したニワトリ全般や鶏肉を指す
+- **[chicken](/chicken)**：成長したニワトリ全般や鶏肉を指す
 
 chickは「ひよこ」、chickenは「成鳥」や「鶏肉」として使い分けます。
 
@@ -105,14 +109,14 @@ chickは「ひよこ」、chickenは「成鳥」や「鶏肉」として使い�
 
 ## 🧩 あわせて覚えたい
 
-- [duckling](/word/duckling/)：アヒルのひな
-- [hen](/word/hen/)：雌鶏
+- [duckling](/duckling)：アヒルのひな
+- [hen](/hen)：雌鶏
 
 ---
 
 ## 📖 できればこれも
 
-- [kitten](/word/kitten/)：子猫
-- [puppy](/word/puppy/)：子犬
+- [kitten](/kitten)：子猫
+- [puppy](/puppy)：子犬
 
-<!-- cvid: aid18_bid14 -->
+<!-- cvid: aid12_bid37 -->

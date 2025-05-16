@@ -81,15 +81,19 @@ TOEICでは「辞める」「中止する」という意味で、主に動詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「辞める」「中止する」という意味で、主に動詞と
 ## 🤔  resign との違いは？
 
 - **quit**：カジュアルに「やめる」「辞める」と言うときに使う。仕事以外にも幅広く使える。
-- **[resign](/word/resign/)**：フォーマルに「辞職する」「辞任する」と言うときに使う。
+- **[resign](/resign)**：フォーマルに「辞職する」「辞任する」と言うときに使う。
 
 「quit」は日常会話やカジュアルな場面で幅広く使われ、「resign」はビジネスや公式な場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「辞める」「中止する」という意味で、主に動詞と
 
 ## 🧩 あわせて覚えたい
 
-- [stop](/word/stop/)：止める、中止する
-- [leave](/word/leave/)：去る、離れる
+- [stop](/stop)：止める、中止する
+- [leave](/leave)：去る、離れる
 
 ---
 
 ## 📖 できればこれも
 
-- [retire](/word/retire/)：退職する、引退する
-- [dismiss](/word/dismiss/)：解雇する、退ける
+- [retire](/retire)：退職する、引退する
+- [dismiss](/dismiss)：解雇する、退ける
 
-<!-- cvid: aid16_bid02 -->
+<!-- cvid: aid43_bid00 -->

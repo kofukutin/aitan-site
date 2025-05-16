@@ -82,7 +82,7 @@ TOEICでは、会社紹介や業務内容の説明、求人広告などで「eng
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+この勢いで覚えよう👇️
 
 ---
 
@@ -90,7 +90,11 @@ TOEICでは、会社紹介や業務内容の説明、求人広告などで「eng
 
 <div class="info-center">
 ＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会社紹介や業務内容の説明、求人広告などで「eng
 ## 🤔  technology との違いは？
 
 - **engineering**：理論や知識を使って実際に物を設計・製造する「工学」や「技術者の仕事」
-- **[technology](/word/technology/)**：科学的な知識や技術そのもの、またはそれを使った製品や方法
+- **[technology](/technology)**：科学的な知識や技術そのもの、またはそれを使った製品や方法
 
 engineeringは「実際に作る・設計する行為や分野」を指し、technologyは「使われる技術や知識そのもの」を指します。
 
@@ -106,14 +110,14 @@ engineeringは「実際に作る・設計する行為や分野」を指し、tec
 
 ## 🧩 あわせて覚えたい
 
-- [mechanic](/word/mechanic/)：整備士、機械工
-- [construction](/word/construction/)：建設、建築
+- [mechanic](/mechanic)：整備士、機械工
+- [construction](/construction)：建設、建築
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：設計、デザイン
-- [science](/word/science/)：科学
+- [design](/design)：設計、デザイン
+- [science](/science)：科学
 
-<!-- cvid: aid04_bid15 -->
+<!-- cvid: aid02_bid15 -->

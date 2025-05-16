@@ -81,15 +81,19 @@ TOEICでは科学や医療に関する長文や記事で登場することが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid03" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid03" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や医療に関する長文や記事で登場することが多
 ## 🤔  hereditary との違いは？
 
 - **genetic**：遺伝子そのものや遺伝子レベルの特徴・影響を指す
-- **[hereditary](/word/hereditary/)**：親から子へ受け継がれる性質や病気など、遺伝によるもの全般を指す
+- **[hereditary](/hereditary)**：親から子へ受け継がれる性質や病気など、遺伝によるもの全般を指す
 
 「genetic」は科学的・医学的な文脈で使われやすく、遺伝子レベルの話に特化します。「hereditary」は「家系的」「先祖伝来」など、より広い意味での遺伝を表します。
 
@@ -105,14 +109,14 @@ TOEICでは科学や医療に関する長文や記事で登場することが多
 
 ## 🧩 あわせて覚えたい
 
-- [biological](/word/biological/)：生物学的な
-- [inherited](/word/inherited/)：受け継がれた、遺伝した
+- [biological](/biological)：生物学的な
+- [inherited](/inherited)：受け継がれた、遺伝した
 
 ---
 
 ## 📖 できればこれも
 
-- [gene](/word/gene/)：遺伝子
-- [biology](/word/biology/)：生物学
+- [gene](/gene)：遺伝子
+- [biology](/biology)：生物学
 
-<!-- cvid: aid15_bid34 -->
+<!-- cvid: aid10_bid03 -->

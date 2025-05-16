@@ -81,15 +81,19 @@ TOEICでは警告文や安全に関する説明、注意喚起の文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは警告文や安全に関する説明、注意喚起の文脈でよく
 ## 🤔  risk との違いは？
 
 - **danger**：実際に危険が差し迫っている状態や、目に見える危険を指す。
-- **[risk](/word/risk/)**：危険が起こる「可能性」や「リスク」を指し、まだ現実化していない場合にも使う。
+- **[risk](/risk)**：危険が起こる「可能性」や「リスク」を指し、まだ現実化していない場合にも使う。
 
 「danger」は現実的で具体的な危険、「risk」は将来的な可能性や確率的な危険を表します。
 
@@ -105,14 +109,14 @@ TOEICでは警告文や安全に関する説明、注意喚起の文脈でよく
 
 ## 🧩 あわせて覚えたい
 
-- [hazard](/word/hazard/)：（特に事故や健康被害をもたらす）危険要因
-- [safety](/word/safety/)：安全、無事
+- [hazard](/hazard)：（特に事故や健康被害をもたらす）危険要因
+- [safety](/safety)：安全、無事
 
 ---
 
 ## 📖 できればこれも
 
-- [threat](/word/threat/)：脅威、危険な兆し
-- [accident](/word/accident/)：事故、思いがけない出来事
+- [threat](/threat)：脅威、危険な兆し
+- [accident](/accident)：事故、思いがけない出来事
 
-<!-- cvid: aid46_bid07 -->
+<!-- cvid: aid30_bid18 -->

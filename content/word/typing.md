@@ -81,15 +81,19 @@ TOEICでは、ITやオフィス業務に関連する文脈で「typing」が出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやオフィス業務に関連する文脈で「typing」が出�
 ## 🤔  input との違いは？
 
 - **typing**：キーボードなどで文字を入力する動作や技術を指す
-- **[input](/word/input/)**：情報やデータそのもの、または入力する行為全般を指す
+- **[input](/input)**：情報やデータそのもの、または入力する行為全般を指す
 
 typingは「文字を打つ行為」に特化し、inputは「入力される情報や行為全般」を広く指します。
 
@@ -105,14 +109,14 @@ typingは「文字を打つ行為」に特化し、inputは「入力される情
 
 ## 🧩 あわせて覚えたい
 
-- [keyboard](/word/keyboard/)：キーボード
-- [text](/word/text/)：テキスト、文章
+- [keyboard](/keyboard)：キーボード
+- [text](/text)：テキスト、文章
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する
-- [print](/word/print/)：印刷する
+- [edit](/edit)：編集する
+- [print](/print)：印刷する
 
-<!-- cvid: aid07_bid06 -->
+<!-- cvid: aid46_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは主に科学技術や製造業に関する長文や説明文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学技術や製造業に関する長文や説明文で登場
 ## 🤔  mixture との違いは？
 
 - **alloy**：主に金属同士を混ぜてできた「合金」を指す
-- **[mixture](/word/mixture/)**：金属に限らず、さまざまな物質の「混合物」を指す
+- **[mixture](/mixture)**：金属に限らず、さまざまな物質の「混合物」を指す
 
 alloyは金属の専門用語で、mixtureはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ alloyは金属の専門用語で、mixtureはより広い意味で使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [compound](/word/compound/)：化合物（異なる元素が化学的に結合したもの）
-- [blend](/word/blend/)：ブレンド、混合（主に液体や粉末などの混ぜ合わせ）
+- [compound](/compound)：化合物（異なる元素が化学的に結合したもの）
+- [blend](/blend)：ブレンド、混合（主に液体や粉末などの混ぜ合わせ）
 
 ---
 
 ## 📖 できればこれも
 
-- [metal](/word/metal/)：金属
-- [element](/word/element/)：元素
+- [metal](/metal)：金属
+- [element](/element)：元素
 
-<!-- cvid: aid03_bid43 -->
+<!-- cvid: aid44_bid08 -->

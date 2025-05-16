@@ -77,15 +77,19 @@ TOEICでは会話や説明文で、複数の物や人を指す場面で頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid00" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid00" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で、複数の物や人を指す場面で頻出し
 ## 🤔  those との違いは？
 
 - **these**：話し手の近くにある複数の物や人を指す
-- **[those](/word/those/)**：話し手から離れた場所にある複数の物や人を指す
+- **[those](/those)**：話し手から離れた場所にある複数の物や人を指す
 
 theseは「これら」、thoseは「それら・あれら」と距離感で使い分けます。
 
@@ -101,14 +105,14 @@ theseは「これら」、thoseは「それら・あれら」と距離感で使�
 
 ## 🧩 あわせて覚えたい
 
-- [this](/word/this/)：これ（単数形）
-- [that](/word/that/)：それ・あれ（単数形）
+- [this](/this)：これ（単数形）
+- [that](/that)：それ・あれ（単数形）
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each/)：それぞれ
-- [both](/word/both/)：両方
+- [each](/each)：それぞれ
+- [both](/both)：両方
 
-<!-- cvid: aid00_bid26 -->
+<!-- cvid: aid46_bid00 -->

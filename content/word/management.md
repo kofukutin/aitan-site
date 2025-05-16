@@ -89,8 +89,12 @@ TOEICでは「management」は会社や組織の運営、経営陣を表す語�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「management」は会社や組織の運営、経営陣を表す語�
 ## 🤔  administration との違いは？
 
 - **management**：組織や事業の運営・経営、または経営陣を指す
-- **[administration](/word/administration/)**：制度や組織の管理・運営、特に事務的・行政的な側面を強調
+- **[administration](/administration)**：制度や組織の管理・運営、特に事務的・行政的な側面を強調
 
 managementは経営や意思決定の側面が強く、administrationは事務的な運営や管理業務に重点があります。
 
@@ -106,14 +110,14 @@ managementは経営や意思決定の側面が強く、administrationは事務�
 
 ## 🧩 あわせて覚えたい
 
-- [supervision](/word/supervision/)：監督、指導
-- [operation](/word/operation/)：運営、作業
+- [supervision](/supervision)：監督、指導
+- [operation](/operation)：運営、作業
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager/)：管理者、マネージャー
-- [organization](/word/organization/)：組織
+- [manager](/manager)：管理者、マネージャー
+- [organization](/organization)：組織
 
-<!-- cvid: aid14_bid09 -->
+<!-- cvid: aid14_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは、記事や物語文などで「恐怖」「恐ろしい出来事」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や物語文などで「恐怖」「恐ろしい出来事」
 ## 🤔  terror との違いは？
 
 - **horror**：ぞっとするような恐怖や戦慄、または恐ろしい出来事そのもの
-- **[terror](/word/terror/)**：圧倒的で突然の強い恐怖、パニック状態
+- **[terror](/terror)**：圧倒的で突然の強い恐怖、パニック状態
 
 horrorは「じわじわと感じる恐怖」や「恐ろしいもの自体」を指し、terrorは「突然襲う激しい恐怖」や「パニック的な恐れ」を表します。
 
@@ -105,15 +109,15 @@ horrorは「じわじわと感じる恐怖」や「恐ろしいもの自体」�
 
 ## 🧩 あわせて覚えたい
 
-- [fear](/word/fear/)：恐れ、恐怖（一般的な恐れ）
-- [panic](/word/panic/)：パニック、突然の恐怖や混乱
+- [fear](/fear)：恐れ、恐怖（一般的な恐れ）
+- [panic](/panic)：パニック、突然の恐怖や混乱
 
 ---
 
 ## 📖 できればこれも
 
-- [thrill](/word/thrill/)：スリル、わくわくする刺激
-- [shock](/word/shock/)：ショック、衝撃
+- [thrill](/thrill)：スリル、わくわくする刺激
+- [shock](/shock)：ショック、衝撃
 
 
-<!-- cvid: aid27_bid07 -->
+<!-- cvid: aid03_bid31 -->

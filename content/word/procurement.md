@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、契約書などの長文読�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid46_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、契約書などの長文読�
 ## 🤔  purchase との違いは？
 
 - **procurement**：企業や組織による計画的・公式な調達活動全体を指すフォーマルな表現
-- **[purchase](/word/purchase/)**：一般的な「購入」「買うこと」を意味し、個人・企業どちらにも使える
+- **[purchase](/purchase)**：一般的な「購入」「買うこと」を意味し、個人・企業どちらにも使える
 
 procurementは特にビジネスや公的機関での「調達プロセス」や「購買活動」を指し、purchaseは日常的な「買う」という意味で幅広く使われます。
 
@@ -105,14 +109,14 @@ procurementは特にビジネスや公的機関での「調達プロセス」や
 
 ## 🧩 あわせて覚えたい
 
-- [acquisition](/word/acquisition/)：取得、獲得
-- [supply](/word/supply/)：供給、支給
+- [acquisition](/acquisition)：取得、獲得
+- [supply](/supply)：供給、支給
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [invoice](/word/invoice/)：請求書
+- [contract](/contract)：契約
+- [invoice](/invoice)：請求書
 
-<!-- cvid: aid21_bid40 -->
+<!-- cvid: aid46_bid41 -->

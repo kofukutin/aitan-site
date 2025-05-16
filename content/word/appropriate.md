@@ -82,15 +82,19 @@ TOEICではPart 5の語彙問題や、ビジネスメール文中で「適切な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 5の語彙問題や、ビジネスメール文中で「適切な
 ## 🤔  proper との違いは？
 
 - **appropriate**：状況や目的に合っていて「適切な」「ふさわしい」
-- **[proper](/word/proper/)**：社会的・道徳的に「正しい」「きちんとした」
+- **[proper](/proper)**：社会的・道徳的に「正しい」「きちんとした」
 
 「appropriate」は状況や目的への適合性を重視し、「proper」は社会的規範やマナーに合っていることを強調します。
 
@@ -106,14 +110,14 @@ TOEICではPart 5の語彙問題や、ビジネスメール文中で「適切な
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/word/suitable/)：適している、合っている
-- [inappropriate](/word/inappropriate/)：不適切な
+- [suitable](/suitable)：適している、合っている
+- [inappropriate](/inappropriate)：不適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/word/adequate/)：十分な、適切な
-- [relevant](/word/relevant/)：関連する、適切な
+- [adequate](/adequate)：十分な、適切な
+- [relevant](/relevant)：関連する、適切な
 
-<!-- cvid: aid09_bid10 -->
+<!-- cvid: aid48_bid08 -->

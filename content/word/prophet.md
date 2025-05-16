@@ -81,15 +81,19 @@ TOEICでは宗教や歴史、比喩表現を含む長文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid46_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは宗教や歴史、比喩表現を含む長文で登場することが
 ## 🤔  fortune teller との違いは？
 
 - **prophet**：神や超自然的な力からの啓示を伝える預言者
-- **[fortune teller](/word/fortune_teller/)**：占いなどで未来を予想する人
+- **[fortune teller](/fortune_teller)**：占いなどで未来を予想する人
 
 prophetは宗教的・歴史的な文脈で使われ、fortune tellerはエンターテイメントや日常的な占い師を指します。
 
@@ -105,14 +109,14 @@ prophetは宗教的・歴史的な文脈で使われ、fortune tellerはエン�
 
 ## 🧩 あわせて覚えたい
 
-- [oracle](/word/oracle/)：神託者、神のお告げを伝える人
-- [messenger](/word/messenger/)：使者、メッセージを伝える人
+- [oracle](/oracle)：神託者、神のお告げを伝える人
+- [messenger](/messenger)：使者、メッセージを伝える人
 
 ---
 
 ## 📖 できればこれも
 
-- [prediction](/word/prediction/)：予言、予測
-- [philosopher](/word/philosopher/)：哲学者
+- [prediction](/prediction)：予言、予測
+- [philosopher](/philosopher)：哲学者
 
-<!-- cvid: aid22_bid19 -->
+<!-- cvid: aid46_bid15 -->

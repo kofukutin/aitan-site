@@ -81,7 +81,7 @@ TOEICでは会議やビジネスのやりとり、交通機関の案内などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解の波を逃さずに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは会議やビジネスのやりとり、交通機関の案内などで
 
 <div class="info-center">
 ＼今日から始められる／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスのやりとり、交通機関の案内などで
 ## 🤔  postpone との違いは？
 
 - **delay**：予定より遅れることや進行の一時停止を表す名詞・動詞
-- **[postpone](/word/postpone/)**：何かを意図的に後ろへ延期すること（動詞）
+- **[postpone](/postpone)**：何かを意図的に後ろへ延期すること（動詞）
 
 「delay」は予期せぬ遅れや自然発生的な遅延に使い、「postpone」は人が決めて予定を後ろにずらす場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスのやりとり、交通機関の案内などで
 
 ## 🧩 あわせて覚えたい
 
-- [cancel](/word/cancel/)：中止する
-- [reschedule](/word/reschedule/)：予定を変更する
+- [cancel](/cancel)：中止する
+- [reschedule](/reschedule)：予定を変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [deadline](/word/deadline/)：締め切り
+- [schedule](/schedule)：予定、スケジュール
+- [deadline](/deadline)：締め切り
 
-<!-- cvid: aid31_bid10 -->
+<!-- cvid: aid14_bid10 -->

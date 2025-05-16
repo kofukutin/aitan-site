@@ -81,15 +81,19 @@ TOEICでは、enrollは「コースに申し込む」「プログラムに登録
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、enrollは「コースに申し込む」「プログラムに登録
 ## 🤔  register との違いは？
 
 - **enroll**：主に学校や講座、団体などに「入学・入会・登録」することを表す
-- **[register](/word/register/)**：幅広く「登録する」「記録する」こと全般に使う
+- **[register](/register)**：幅広く「登録する」「記録する」こと全般に使う
 
 enrollは教育や団体への正式な参加を強調し、registerは一般的な登録や記録に使われます。
 
@@ -105,15 +109,15 @@ enrollは教育や団体への正式な参加を強調し、registerは一般的
 
 ## 🧩 あわせて覚えたい
 
-- [apply](/word/apply/)：申し込む、応募する
-- [admit](/word/admit/)：入学を許可する、認める
+- [apply](/apply)：申し込む、応募する
+- [admit](/admit)：入学を許可する、認める
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/word/attend/)：出席する、参加する
-- [participate](/word/participate/)：参加する
+- [attend](/attend)：出席する、参加する
+- [participate](/participate)：参加する
 
 ---
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid23_bid17 -->

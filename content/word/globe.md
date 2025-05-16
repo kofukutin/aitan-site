@@ -81,15 +81,19 @@ TOEICでは「世界規模」や「地球儀」など、説明やプレゼンの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「世界規模」や「地球儀」など、説明やプレゼンの
 ## 🤔  earth との違いは？
 
 - **globe**：地球儀や球体としての「地球」、または丸い物体を指す。
-- **[earth](/word/earth/)**：人が住む「地球」そのものや土壌を指す。
+- **[earth](/earth)**：人が住む「地球」そのものや土壌を指す。
 
 globeは形や模型としての地球、earthは実際の地球や大地を表します。
 
@@ -105,14 +109,14 @@ globeは形や模型としての地球、earthは実際の地球や大地を表�
 
 ## 🧩 あわせて覚えたい
 
-- [sphere](/word/sphere/)：球体
-- [planet](/word/planet/)：惑星
+- [sphere](/sphere)：球体
+- [planet](/planet)：惑星
 
 ---
 
 ## 📖 できればこれも
 
-- [map](/word/map/)：地図
-- [world](/word/world/)：世界
+- [map](/map)：地図
+- [world](/world)：世界
 
-<!-- cvid: aid07_bid04 -->
+<!-- cvid: aid47_bid23 -->

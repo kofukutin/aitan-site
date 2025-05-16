@@ -81,15 +81,19 @@ TOEICでは、会話やビジネスシーンで「契約を勝ち取る」「賞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話やビジネスシーンで「契約を勝ち取る」「賞
 ## 🤔  gained との違いは？
 
 - **won**：競争や努力の末に「勝ち取る」「勝つ」ことを表す。
-- **[gained](/word/gained/)**：努力や経験によって「得る」「増やす」ことを表す。
+- **[gained](/gained)**：努力や経験によって「得る」「増やす」ことを表す。
 
 「won」は勝負やコンテストなどで「勝つ」ことに重点があり、「gained」は知識や経験、体重など幅広い「獲得」に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、会話やビジネスシーンで「契約を勝ち取る」「賞
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/word/lose/)：失う、負ける
-- [achieve](/word/achieve/)：達成する
+- [lose](/lose)：失う、負ける
+- [achieve](/achieve)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [earn](/word/earn/)：（働いて）得る
-- [receive](/word/receive/)：受け取る
+- [earn](/earn)：（働いて）得る
+- [receive](/receive)：受け取る
 
-<!-- cvid: aid28_bid12 -->
+<!-- cvid: aid07_bid32 -->

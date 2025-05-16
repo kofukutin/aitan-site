@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で、状況の急な変化を表す際によ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で、状況の急な変化を表す際によ
 ## 🤔  abruptly との違いは？
 
 - **suddenly**：予告なく、急に何かが起こることを幅広く表す。
-- **[abruptly](/word/abruptly/)**：突然であると同時に、やや唐突・不自然な印象や、ぶっきらぼうなニュアンスを含む。
+- **[abruptly](/abruptly)**：突然であると同時に、やや唐突・不自然な印象や、ぶっきらぼうなニュアンスを含む。
 
 suddenlyは単に「急に起こる」ことを表し、abruptlyは「唐突さ」や「不意打ち感」がより強調されます。
 
@@ -105,14 +109,14 @@ suddenlyは単に「急に起こる」ことを表し、abruptlyは「唐突さ�
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately/)：すぐに、直ちに
-- [unexpectedly](/word/unexpectedly/)：思いがけなく、不意に
+- [immediately](/immediately)：すぐに、直ちに
+- [unexpectedly](/unexpectedly)：思いがけなく、不意に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く、すばやく
-- [instantly](/word/instantly/)：即座に、すぐに
+- [quickly](/quickly)：速く、すばやく
+- [instantly](/instantly)：即座に、すぐに
 
-<!-- cvid: aid03_bid04 -->
+<!-- cvid: aid11_bid41 -->

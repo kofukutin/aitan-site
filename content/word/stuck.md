@@ -81,15 +81,19 @@ TOEICでは、交通渋滞やトラブル、業務の行き詰まりなど、状
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、交通渋滞やトラブル、業務の行き詰まりなど、状
 ## 🤔  jam との違いは？
 
 - **stuck**：物や人が物理的・精神的に「動けない」「行き詰まった」状態
-- **[jam](/word/jam/)**：物や人が「詰まって動かない」状態や「混雑」を表す
+- **[jam](/jam)**：物や人が「詰まって動かない」状態や「混雑」を表す
 
 「stuck」は動けない状態全般に使えますが、「jam」は物が詰まっている・混雑している状況に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは、交通渋滞やトラブル、業務の行き詰まりなど、状
 
 ## 🧩 あわせて覚えたい
 
-- [blocked](/word/blocked/)：塞がれて通れない
-- [trapped](/word/trapped/)：閉じ込められて出られない
+- [blocked](/blocked)：塞がれて通れない
+- [trapped](/trapped)：閉じ込められて出られない
 
 ---
 
 ## 📖 できればこれも
 
-- [broken](/word/broken/)：壊れている
-- [delay](/word/delay/)：遅れ、遅延
+- [broken](/broken)：壊れている
+- [delay](/delay)：遅れ、遅延
 
-<!-- cvid: aid19_bid43 -->
+<!-- cvid: aid04_bid29 -->

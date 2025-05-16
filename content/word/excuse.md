@@ -81,15 +81,19 @@ TOEICでは会話やメール文中で「言い訳」や「理由」を述べる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やメール文中で「言い訳」や「理由」を述べる
 ## 🤔  apology との違いは？
 
 - **excuse**：自分の行動を正当化する「言い訳」や「口実」
-- **[apology](/word/apology/)**：自分の非を認めて「謝罪」すること
+- **[apology](/apology)**：自分の非を認めて「謝罪」すること
 
 excuseは「理由を述べて許しを求める」ニュアンスが強く、apologyは「心から謝る」気持ちを表します。
 
@@ -105,14 +109,14 @@ excuseは「理由を述べて許しを求める」ニュアンスが強く、ap
 
 ## 🧩 あわせて覚えたい
 
-- [reason](/word/reason/)：理由
-- [justification](/word/justification/)：正当化、弁明
+- [reason](/reason)：理由
+- [justification](/justification)：正当化、弁明
 
 ---
 
 ## 📖 できればこれも
 
-- [permission](/word/permission/)：許可
-- [request](/word/request/)：依頼
+- [permission](/permission)：許可
+- [request](/request)：依頼
 
-<!-- cvid: aid25_bid35 -->
+<!-- cvid: aid03_bid46 -->

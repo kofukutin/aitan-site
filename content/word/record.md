@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、報告書などで「記録」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、報告書などで「記録」「
 ## 🤔  document との違いは？
 
 - **record**：出来事やデータの「記録」や「履歴」を指し、公式な保存や証拠として使われることが多い。
-- **[document](/word/document/)**：契約書や報告書など「文書」そのものを指し、内容の種類を問わない。
+- **[document](/document)**：契約書や報告書など「文書」そのものを指し、内容の種類を問わない。
 
 recordは「記録された内容」や「履歴」に重点があり、documentは「書類・文書」という物理的な形や形式に重点があります。
 
@@ -105,14 +109,14 @@ recordは「記録された内容」や「履歴」に重点があり、document
 
 ## 🧩 あわせて覚えたい
 
-- [file](/word/file/)：ファイル、書類をまとめたもの
-- [archive](/word/archive/)：保管記録、アーカイブ
+- [file](/file)：ファイル、書類をまとめたもの
+- [archive](/archive)：保管記録、アーカイブ
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report/)：報告書、レポート
-- [note](/word/note/)：メモ、覚え書き
+- [report](/report)：報告書、レポート
+- [note](/note)：メモ、覚え書き
 
-<!-- cvid: aid33_bid12 -->
+<!-- cvid: aid05_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは科学や宇宙に関する記事や説明文で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や宇宙に関する記事や説明文で見かけることが
 ## 🤔  cosmos との違いは？
 
 - **universe**：科学的・物理的な「宇宙」全体を指すことが多い
-- **[cosmos](/word/cosmos/)**：秩序や調和を強調した「宇宙」、詩的・哲学的な響きが強い
+- **[cosmos](/cosmos)**：秩序や調和を強調した「宇宙」、詩的・哲学的な響きが強い
 
 universeは物理的な宇宙全体を指すのに対し、cosmosは「秩序ある宇宙」や「調和」を強調した表現で、文学や哲学でよく使われます。
 
@@ -105,14 +109,14 @@ universeは物理的な宇宙全体を指すのに対し、cosmosは「秩序あ
 
 ## 🧩 あわせて覚えたい
 
-- [galaxy](/word/galaxy/)：銀河
-- [space](/word/space/)：宇宙空間
+- [galaxy](/galaxy)：銀河
+- [space](/space)：宇宙空間
 
 ---
 
 ## 📖 できればこれも
 
-- [planet](/word/planet/)：惑星
-- [system](/word/system/)：体系、システム
+- [planet](/planet)：惑星
+- [system](/system)：体系、システム
 
-<!-- cvid: aid49_bid25 -->
+<!-- cvid: aid25_bid14 -->

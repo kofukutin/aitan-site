@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「取引量」「音量」「売上高」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「取引量」「音量」「売上高」など
 ## 🤔  amount との違いは？
 
 - **volume**：物理的な容積や、取引・売上などの「まとまった量」を表す。音量にも使う。
-- **[amount](/word/amount/)**：数えられないものの「総量」「合計」を表す。
+- **[amount](/amount)**：数えられないものの「総量」「合計」を表す。
 
 volumeは「容積」「音量」「取引量」など、まとまりや物理的な大きさを意識した量に使い、amountは「お金」「時間」など抽象的な総量に使います。
 
@@ -105,14 +109,14 @@ volumeは「容積」「音量」「取引量」など、まとまりや物理�
 
 ## 🧩 あわせて覚えたい
 
-- [capacity](/word/capacity/)：収容能力、容量
-- [quantity](/word/quantity/)：数量、分量
+- [capacity](/capacity)：収容能力、容量
+- [quantity](/quantity)：数量、分量
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/word/level/)：水準、程度
-- [rate](/word/rate/)：割合、速度
+- [level](/level)：水準、程度
+- [rate](/rate)：割合、速度
 
-<!-- cvid: aid28_bid42 -->
+<!-- cvid: aid02_bid14 -->

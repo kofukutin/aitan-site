@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【third】の意味・使い方・例文 ― threeとの違い【TOEIC英単語】"
 description: "thirdの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでthreeとの違いもわかりやすく学べます。"
 word: "third"
@@ -82,15 +82,19 @@ TOEICでは、順序や階数、リストの説明などでよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、順序や階数、リストの説明などでよく登場します
 ## 🤔  three との違いは？
 
 - **third**：順序や割合の「3番目」「3分の1」
-- **[three](/word/three/)**：数字の「3」
+- **[three](/three)**：数字の「3」
 
 thirdは順番や分割を表し、threeは単なる数そのものを指します。
 
@@ -106,14 +110,14 @@ thirdは順番や分割を表し、threeは単なる数そのものを指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [second](/word/second/)：2番目
-- [fourth](/word/fourth/)：4番目
+- [second](/second)：2番目
+- [fourth](/fourth)：4番目
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/word/first/)：1番目
-- [next](/word/next/)：次の
+- [first](/first)：1番目
+- [next](/next)：次の
 
-<!-- cvid: aid07_bid31 -->
+<!-- cvid: aid45_bid41 -->

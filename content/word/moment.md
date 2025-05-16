@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「少しの間」「今この瞬間」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「少しの間」「今この瞬間」などの
 ## 🤔  instant との違いは？
 
 - **moment**：ある出来事や感情が生じる「短い時間」や「特定の瞬間」を表す。
-- **[instant](/word/instant/)**：ほとんど時間がかからない「即時」や「一瞬」を強調する。
+- **[instant](/instant)**：ほとんど時間がかからない「即時」や「一瞬」を強調する。
 
 momentは「ちょっとの間」や「特別な瞬間」にも使えますが、instantは「即座に」「一瞬で」というスピード感を強調します。
 
@@ -105,14 +109,14 @@ momentは「ちょっとの間」や「特別な瞬間」にも使えますが�
 
 ## 🧩 あわせて覚えたい
 
-- [period](/word/period/)：期間、一定の時間
-- [occasion](/word/occasion/)：特別な時、場合
+- [period](/period)：期間、一定の時間
+- [occasion](/occasion)：特別な時、場合
 
 ---
 
 ## 📖 できればこれも
 
-- [minute](/word/minute/)：分、短い時間
-- [second](/word/second/)：秒、ごく短い時間
+- [minute](/minute)：分、短い時間
+- [second](/second)：秒、ごく短い時間
 
-<!-- cvid: aid21_bid06 -->
+<!-- cvid: aid47_bid35 -->

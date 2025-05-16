@@ -81,15 +81,19 @@ TOEICでは会議や意見交換の場面で「argument」が使われること�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や意見交換の場面で「argument」が使われること�
 ## 🤔  discussion との違いは？
 
 - **argument**：意見の対立や感情的な口論、または強い主張を指す
-- **[discussion](/word/discussion/)**：意見交換や話し合い（対立や感情的な衝突は含まない）
+- **[discussion](/discussion)**：意見交換や話し合い（対立や感情的な衝突は含まない）
 
 argumentは対立や感情的なやりとりを含む場合が多いですが、discussionは冷静な意見交換を指します。
 
@@ -105,14 +109,14 @@ argumentは対立や感情的なやりとりを含む場合が多いですが、
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate/)：討論、公開討論
-- [reason](/word/reason/)：理由、根拠
+- [debate](/debate)：討論、公開討論
+- [reason](/reason)：理由、根拠
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion/)：意見
-- [suggestion](/word/suggestion/)：提案
+- [opinion](/opinion)：意見
+- [suggestion](/suggestion)：提案
 
-<!-- cvid: aid48_bid48 -->
+<!-- cvid: aid40_bid28 -->

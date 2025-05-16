@@ -81,15 +81,19 @@ TOEICでは主に文法問題や語彙問題で、進行形や分詞構文とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に文法問題や語彙問題で、進行形や分詞構文とし
 ## 🤔  donating との違いは？
 
 - **contributing**：広く「貢献する」「役立つ」「寄稿する」など、さまざまな形で価値を加えること。
-- **[donating](/word/donating/)**：主に「寄付する」「お金や物を無償で与える」ことに特化。
+- **[donating](/donating)**：主に「寄付する」「お金や物を無償で与える」ことに特化。
 
 contributingは幅広い貢献全般を指し、donatingは特に金銭や物品の寄付に限定される点が異なります。
 
@@ -105,14 +109,14 @@ contributingは幅広い貢献全般を指し、donatingは特に金銭や物品
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支援する、サポートする
-- [participate](/word/participate/)：参加する
+- [support](/support)：支援する、サポートする
+- [participate](/participate)：参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [collaborate](/word/collaborate/)：協力する
-- [assist](/word/assist/)：手伝う、補助する
+- [collaborate](/collaborate)：協力する
+- [assist](/assist)：手伝う、補助する
 
-<!-- cvid: aid10_bid07 -->
+<!-- cvid: aid47_bid30 -->

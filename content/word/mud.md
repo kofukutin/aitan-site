@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【mud】の意味・使い方・例文 ― soilとの違い【TOEIC英単語】"
 description: "mudの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsoilとの違いもわかりやすく学べます。"
 word: "mud"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、地面や靴、作業現場の様子
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid04_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、地面や靴、作業現場の様子
 ## 🤔  soil との違いは？
 
 - **mud**：水分を多く含んだ柔らかい「泥」
-- **[soil](/word/soil/)**：植物が育つための「土壌」
+- **[soil](/soil)**：植物が育つための「土壌」
 
 mudは水でぬかるんだ状態の土を指し、soilは乾いた土や農業用の土壌を指します。泥遊びや汚れにはmud、園芸や地質にはsoilを使います。
 
@@ -105,14 +109,14 @@ mudは水でぬかるんだ状態の土を指し、soilは乾いた土や農業�
 
 ## 🧩 あわせて覚えたい
 
-- [clay](/word/clay/)：粘土
-- [dust](/word/dust/)：ほこり
+- [clay](/clay)：粘土
+- [dust](/dust)：ほこり
 
 ---
 
 ## 📖 できればこれも
 
-- [sand](/word/sand/)：砂
-- [water](/word/water/)：水
+- [sand](/sand)：砂
+- [water](/water)：水
 
-<!-- cvid: aid42_bid34 -->
+<!-- cvid: aid04_bid43 -->

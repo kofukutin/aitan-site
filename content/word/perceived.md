@@ -81,15 +81,19 @@ TOEICの長文読解パートで、意見や印象、評価を述べる文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid17" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid17" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、意見や印象、評価を述べる文脈で
 ## 🤔  recognized との違いは？
 
 - **perceived**：主観的な印象や見方、感じ方を表す
-- **[recognized](/word/recognized/)**：客観的に認められた、公式に認識された
+- **[recognized](/recognized)**：客観的に認められた、公式に認識された
 
 perceivedは「どう見られているか」という主観的な評価、recognizedは「正式に認められている」という客観的な事実を強調します。
 
@@ -105,14 +109,14 @@ perceivedは「どう見られているか」という主観的な評価、recog
 
 ## 🧩 あわせて覚えたい
 
-- [apparent](/word/apparent/)：明らかな、見かけ上の
-- [assumed](/word/assumed/)：仮定された、想定された
+- [apparent](/apparent)：明らかな、見かけ上の
+- [assumed](/assumed)：仮定された、想定された
 
 ---
 
 ## 📖 できればこれも
 
-- [perception](/word/perception/)：知覚、認識
-- [interpret](/word/interpret/)：解釈する
+- [perception](/perception)：知覚、認識
+- [interpret](/interpret)：解釈する
 
-<!-- cvid: aid06_bid14 -->
+<!-- cvid: aid30_bid17 -->

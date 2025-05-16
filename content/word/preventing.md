@@ -81,15 +81,19 @@ TOEICでは「preventing」は主に文法問題や語彙問題で、目的語�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「preventing」は主に文法問題や語彙問題で、目的語�
 ## 🤔  avoiding との違いは？
 
 - **preventing**：悪いことが起こる前に積極的に防ぐ
-- **[avoiding](/word/avoiding/)**：自分から避けて近づかない
+- **[avoiding](/avoiding)**：自分から避けて近づかない
 
 preventingは「未然に防ぐ」ニュアンスが強く、avoidingは「自分が関わらないようにする」イメージです。
 
@@ -105,14 +109,14 @@ preventingは「未然に防ぐ」ニュアンスが強く、avoidingは「自�
 
 ## 🧩 あわせて覚えたい
 
-- [prohibit](/word/prohibit/)：禁止する
-- [block](/word/block/)：遮る、妨げる
+- [prohibit](/prohibit)：禁止する
+- [block](/block)：遮る、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [protect](/word/protect/)：守る
-- [reduce](/word/reduce/)：減らす
+- [protect](/protect)：守る
+- [reduce](/reduce)：減らす
 
-<!-- cvid: aid13_bid29 -->
+<!-- cvid: aid31_bid04 -->

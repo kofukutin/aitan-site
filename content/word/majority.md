@@ -81,15 +81,19 @@ TOEICでは、会議の議事録やアンケート結果、投票に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議の議事録やアンケート結果、投票に関する長
 ## 🤔  most との違いは？
 
 - **majority**：全体の「過半数」や「大多数」を指し、数値的な基準（50％超）が明確。
-- **[most](/word/most/)**：全体の「ほとんど」を指すが、必ずしも過半数や具体的な割合を示さない。
+- **[most](/most)**：全体の「ほとんど」を指すが、必ずしも過半数や具体的な割合を示さない。
 
 majorityは「過半数」という明確な基準があるのに対し、mostは「ほとんど」と漠然とした多さを表します。
 
@@ -105,14 +109,14 @@ majorityは「過半数」という明確な基準があるのに対し、most�
 
 ## 🧩 あわせて覚えたい
 
-- [minority](/word/minority/)：少数派、少数
-- [plurality](/word/plurality/)：最多数（過半数未満の最多得票）
+- [minority](/minority)：少数派、少数
+- [plurality](/plurality)：最多数（過半数未満の最多得票）
 
 ---
 
 ## 📖 できればこれも
 
-- [vote](/word/vote/)：投票、票
-- [decision](/word/decision/)：決定、判断
+- [vote](/vote)：投票、票
+- [decision](/decision)：決定、判断
 
-<!-- cvid: aid18_bid05 -->
+<!-- cvid: aid33_bid26 -->

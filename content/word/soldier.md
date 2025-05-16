@@ -81,15 +81,19 @@ TOEICでは主に長文読解や説明文で登場し、軍隊や歴史、観光
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解や説明文で登場し、軍隊や歴史、観光
 ## 🤔  officer との違いは？
 
 - **soldier**：一般的な兵士や軍人全般を指す
-- **[officer](/word/officer/)**：軍隊や警察などで階級や役職を持つ「士官」「幹部」
+- **[officer](/officer)**：軍隊や警察などで階級や役職を持つ「士官」「幹部」
 
 soldierは階級に関係なく兵士全体を指し、officerは指揮官や幹部など特定の役職を持つ人を指します。
 
@@ -105,14 +109,14 @@ soldierは階級に関係なく兵士全体を指し、officerは指揮官や幹
 
 ## 🧩 あわせて覚えたい
 
-- [warrior](/word/warrior/)：戦士（特に勇敢な戦い手）
-- [army](/word/army/)：陸軍、軍隊
+- [warrior](/warrior)：戦士（特に勇敢な戦い手）
+- [army](/army)：陸軍、軍隊
 
 ---
 
 ## 📖 できればこれも
 
-- [battle](/word/battle/)：戦い、戦闘
-- [guard](/word/guard/)：警備員、守る人
+- [battle](/battle)：戦い、戦闘
+- [guard](/guard)：警備員、守る人
 
-<!-- cvid: aid15_bid08 -->
+<!-- cvid: aid20_bid00 -->

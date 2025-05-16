@@ -81,15 +81,19 @@ TOEICでは環境問題や企業の取り組みに関する長文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や企業の取り組みに関する長文でよく登場
 ## 🤔  reuse との違いは？
 
 - **recycle**：使い終わったものを加工・処理して新しい資源や製品にすること。
-- **[reuse](/word/reuse/)**：そのままの形で繰り返し使うこと。
+- **[reuse](/reuse)**：そのままの形で繰り返し使うこと。
 
 recycleは「一度壊したり分解して再利用する」ニュアンス、reuseは「形を変えずに再び使う」ニュアンスです。
 
@@ -105,14 +109,14 @@ recycleは「一度壊したり分解して再利用する」ニュアンス、r
 
 ## 🧩 あわせて覚えたい
 
-- [reduce](/word/reduce/)：減らす
-- [recover](/word/recover/)：回収する、取り戻す
+- [reduce](/reduce)：減らす
+- [recover](/recover)：回収する、取り戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [waste](/word/waste/)：廃棄物、ごみ
-- [environment](/word/environment/)：環境
+- [waste](/waste)：廃棄物、ごみ
+- [environment](/environment)：環境
 
-<!-- cvid: aid04_bid09 -->
+<!-- cvid: aid48_bid27 -->

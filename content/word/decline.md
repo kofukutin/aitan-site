@@ -81,15 +81,19 @@ declineはTOEICの長文読解パートで、売上や業績の減少、また�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ declineはTOEICの長文読解パートで、売上や業績の減少、また�
 ## 🤔  decrease との違いは？
 
 - **decline**：数量や価値が徐々に減る、または丁寧に断るときに使うフォーマルな表現
-- **[decrease](/word/decrease/)**：単純に「減る・減らす」という意味で、日常的にも使われる
+- **[decrease](/decrease)**：単純に「減る・減らす」という意味で、日常的にも使われる
 
 declineはフォーマルな場面や書き言葉で使われやすく、decreaseはより一般的で幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ declineはフォーマルな場面や書き言葉で使われやすく、decreas
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/word/reject/)：拒否する、却下する
-- [refuse](/word/refuse/)：断る、拒む
+- [reject](/reject)：拒否する、却下する
+- [refuse](/refuse)：断る、拒む
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce/)：減らす
-- [accept](/word/accept/)：受け入れる
+- [reduce](/reduce)：減らす
+- [accept](/accept)：受け入れる
 
-<!-- cvid: aid24_bid01 -->
+<!-- cvid: aid04_bid25 -->

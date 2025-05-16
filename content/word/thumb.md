@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、手や指の動作を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid14" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid14" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、手や指の動作を説明する際
 ## 🤔  finger との違いは？
 
 - **thumb**：親指のみを指す
-- **[finger](/word/finger/)**：親指以外の4本の指、または手の指全体を指すこともある
+- **[finger](/finger)**：親指以外の4本の指、または手の指全体を指すこともある
 
 thumbは「親指」限定、fingerは「親指以外」や「指全体」を指す場合があり、文脈で使い分けます。
 
@@ -105,14 +109,14 @@ thumbは「親指」限定、fingerは「親指以外」や「指全体」を指
 
 ## 🧩 あわせて覚えたい
 
-- [toe](/word/toe/)：足の指
-- [hand](/word/hand/)：手
+- [toe](/toe)：足の指
+- [hand](/hand)：手
 
 ---
 
 ## 📖 できればこれも
 
-- [nail](/word/nail/)：爪
-- [palm](/word/palm/)：手のひら
+- [nail](/nail)：爪
+- [palm](/palm)：手のひら
 
-<!-- cvid: aid28_bid41 -->
+<!-- cvid: aid25_bid14 -->

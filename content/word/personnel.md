@@ -80,15 +80,19 @@ TOEICでは「人事部」や「職員全体」を表す語としてPart 5やPar
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは「人事部」や「職員全体」を表す語としてPart 5やPar
 ## 🤔  staff との違いは？
 
 - **personnel**：組織の全職員や人事部を指すフォーマルな表現
-- **[staff](/word/staff/)**：職員・スタッフ全体を指すややカジュアルな表現
+- **[staff](/staff)**：職員・スタッフ全体を指すややカジュアルな表現
 
 personnelは特に「人事部」や「全職員」をフォーマルに指す時に使い、staffは日常的に「スタッフ全体」を表す時に使います。
 
@@ -104,14 +108,14 @@ personnelは特に「人事部」や「全職員」をフォーマルに指す�
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/word/employee/)：従業員、雇用されている人
-- [human resources](/word/human_resources/)：人事部、人材管理
+- [employee](/employee)：従業員、雇用されている人
+- [human resources](/human_resources)：人事部、人材管理
 
 ---
 
 ## 📖 できればこれも
 
-- [department](/word/department/)：部門、部署
-- [manager](/word/manager/)：管理職、マネージャー
+- [department](/department)：部門、部署
+- [manager](/manager)：管理職、マネージャー
 
-<!-- cvid: aid03_bid06 -->
+<!-- cvid: aid36_bid39 -->

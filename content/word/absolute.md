@@ -16,9 +16,9 @@ related_words:
   - "relative"
   - "definite"
 next_words:
+  - "accurate"
   - "entire"
-  - "total"
-last_update: "2025-05-04"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 absoluteの発音と意味
@@ -32,19 +32,12 @@ last_update: "2025-05-04"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
-
 [形容詞] 絶対的な、完全な、無条件の
 
-**absolute** は、「他と比較できないほど完全である」「制限や条件がない」といった意味で使われます。  
-「絶対的な権力」や「完全な真実」など、強い断定や確信を表すときによく使われます。
+**absolute** は、「他と比較できないほど完全である」「制限や条件がない」「絶対的な」という意味で使われます。  
+ビジネスや科学、法律などフォーマルな場面でよく使われます。
 
-語源はラテン語の「absolutus（解き放たれた、制限のない）」に由来し、「何にも縛られない」「完全な」というニュアンスが生まれました。
+語源はラテン語の "absolutus"（解き放たれた、完全な）から来ており、「何にも縛られず完全な状態」を表します。
 
 他の品詞：  
 - absolutely：絶対に、完全に（副詞）
@@ -59,8 +52,8 @@ This is absolute nonsense.
 　これは全くのナンセンスだ。
 
 【ビジネス英語】  
-The manager has absolute authority in this department.  
-　この部署ではマネージャーが絶対的な権限を持っています。
+We need absolute accuracy in these reports.  
+　これらの報告書には絶対的な正確さが必要です。
 
 ---
 
@@ -69,7 +62,7 @@ The manager has absolute authority in this department.
 - 難易度：★★★☆☆
 - 出題パート：Part 5（文法・語彙問題）
 
-absoluteは、TOEICの文法・語彙問題で「絶対的な」「完全な」などの意味を問う形で出題されることがあります。特に形容詞の強調表現や比較の文脈で見かけます。
+absoluteは、TOEICの文法・語彙問題で「完全な」「絶対的な」という意味で出題されることがあります。特に形容詞として名詞を修飾する形でよく見かけます。
 
 ---
 
@@ -77,50 +70,54 @@ absoluteは、TOEICの文法・語彙問題で「絶対的な」「完全な」�
 
 正しい使い方はどっち？
 
-1. She has absolute confidence in her team.  
-2. She has absolutely confidence in her team.
+1. The manager demanded absolute silence during the meeting.  
+2. The manager demanded absolutely silence during the meeting.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：confidence（名詞）を修飾するのは形容詞absoluteが正しく、absolutelyは副詞なので不適切です。
+- 解説：absoluteは形容詞なので、名詞（silence）を修飾する場合はabsoluteが正しいです。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  complete との違いは？
 
-- **absolute**：他と比較できないほど完全・無条件で、強い断定や制限のなさを強調する。
-- **[complete](/word/complete/)**：必要なものがすべてそろっている「完全な」状態を表す。
+- **absolute**：他と比較できないほど完全・絶対的で、条件や制限がないことを強調
+- **[complete](/complete)**：全体がそろっていて「欠けていない」ことを強調
 
-absoluteは「絶対的」「無条件」のニュアンスが強く、completeは「不足がない」「全部そろっている」ことに重点があります。
+absoluteは「絶対的」「無条件」のニュアンスが強く、completeは「全部そろっている」ことに重点があります。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [relative](/word/relative/)：相対的な
-- [definite](/word/definite/)：明確な、はっきりした
+- [relative](/relative)：相対的な
+- [definite](/definite)：明確な、はっきりした
 
 ---
 
 ## 📖 できればこれも
 
-- [entire](/word/entire/)：全体の、全部の
-- [total](/word/total/)：合計の、全体の
+- [accurate](/accurate)：正確な
+- [entire](/entire)：全体の、全部の
 
-<!-- cvid: aid37_bid10 -->
+<!-- cvid: aid26_bid04 -->

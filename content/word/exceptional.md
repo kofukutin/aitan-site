@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や評価文で「exceptional performance（卓�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid03_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や評価文で「exceptional performance（卓�
 ## 🤔  outstanding との違いは？
 
 - **exceptional**：例外的なほど優れている、特別である
-- **[outstanding](/word/outstanding/)**：目立って優れている、傑出している
+- **[outstanding](/outstanding)**：目立って優れている、傑出している
 
 「exceptional」は「普通では考えられないほど特別」というニュアンスが強く、「outstanding」は「他と比べて目立つほど優れている」という意味で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や評価文で「exceptional performance（卓�
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/word/ordinary/)：普通の、平凡な
-- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [ordinary](/ordinary)：普通の、平凡な
+- [remarkable](/remarkable)：注目すべき、著しい
 
 ---
 
 ## 📖 できればこれも
 
-- [excellent](/word/excellent/)：非常に優れた
-- [unique](/word/unique/)：唯一無二の、独特な
+- [excellent](/excellent)：非常に優れた
+- [unique](/unique)：唯一無二の、独特な
 
-<!-- cvid: aid28_bid34 -->
+<!-- cvid: aid03_bid11 -->

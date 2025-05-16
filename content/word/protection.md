@@ -81,15 +81,19 @@ TOEICでは「保護」「防御」などの意味で、セキュリティや保
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「保護」「防御」などの意味で、セキュリティや保
 ## 🤔  security との違いは？
 
 - **protection**：危険や損害から守る「行為」や「状態」に焦点
-- **[security](/word/security/)**：安全が確保されている「状態」や「仕組み」に焦点
+- **[security](/security)**：安全が確保されている「状態」や「仕組み」に焦点
 
 protectionは「守ること自体」、securityは「守られて安心な状態や体制」を指す点が異なります。
 
@@ -105,14 +109,14 @@ protectionは「守ること自体」、securityは「守られて安心な状�
 
 ## 🧩 あわせて覚えたい
 
-- [defense](/word/defense/)：防御、守り
-- [safety](/word/safety/)：安全、無事
+- [defense](/defense)：防御、守り
+- [safety](/safety)：安全、無事
 
 ---
 
 ## 📖 できればこれも
 
-- [prevention](/word/prevention/)：予防、防止
-- [insurance](/word/insurance/)：保険
+- [prevention](/prevention)：予防、防止
+- [insurance](/insurance)：保険
 
-<!-- cvid: aid29_bid32 -->
+<!-- cvid: aid04_bid31 -->

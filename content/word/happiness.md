@@ -81,15 +81,19 @@ happinessはTOEICの長文読解やEメール文などで、従業員満足や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ happinessはTOEICの長文読解やEメール文などで、従業員満足や�
 ## 🤔  pleasure との違いは？
 
 - **happiness**：長く続く満足感や心の幸せを表す
-- **[pleasure](/word/pleasure/)**：一時的な楽しさや快楽を表す
+- **[pleasure](/pleasure)**：一時的な楽しさや快楽を表す
 
 happinessは人生全体の満足感や心の豊かさを指し、pleasureは瞬間的な楽しみや快感を表します。
 
@@ -105,14 +109,14 @@ happinessは人生全体の満足感や心の豊かさを指し、pleasureは瞬
 
 ## 🧩 あわせて覚えたい
 
-- [joy](/word/joy/)：喜び
-- [sadness](/word/sadness/)：悲しみ
+- [joy](/joy)：喜び
+- [sadness](/sadness)：悲しみ
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/word/success/)：成功
-- [comfort](/word/comfort/)：快適さ
+- [success](/success)：成功
+- [comfort](/comfort)：快適さ
 
-<!-- cvid: aid24_bid05 -->
+<!-- cvid: aid01_bid34 -->

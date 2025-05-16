@@ -81,15 +81,19 @@ TOEICでは、所有権や財産に関する文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、所有権や財産に関する文脈で出題されることが多
 ## 🤔  property との違いは？
 
 - **possession**：実際に持っていることや持ち物そのものを指す
-- **[property](/word/property/)**：主に土地や建物などの不動産や財産全般を指す
+- **[property](/property)**：主に土地や建物などの不動産や財産全般を指す
 
 「possession」は「今手元にあるもの」や「所有している状態」に焦点があり、「property」は法的な財産や不動産を指すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、所有権や財産に関する文脈で出題されることが多
 
 ## 🧩 あわせて覚えたい
 
-- [ownership](/word/ownership/)：所有権
-- [asset](/word/asset/)：資産
+- [ownership](/ownership)：所有権
+- [asset](/asset)：資産
 
 ---
 
 ## 📖 できればこれも
 
-- [obligation](/word/obligation/)：義務
-- [liability](/word/liability/)：負債
+- [obligation](/obligation)：義務
+- [liability](/liability)：負債
 
-<!-- cvid: aid30_bid03 -->
+<!-- cvid: aid36_bid20 -->

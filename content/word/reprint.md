@@ -82,7 +82,7 @@ TOEICでは、メールや案内文、出版物に関する長文で「再印刷
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解したら即実践👇️
 
 ---
 
@@ -90,7 +90,11 @@ TOEICでは、メールや案内文、出版物に関する長文で「再印刷
 
 <div class="info-center">
 ＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、メールや案内文、出版物に関する長文で「再印刷
 ## 🤔  reissue との違いは？
 
 - **reprint**：内容はそのままで、もう一度印刷・発行すること
-- **[reissue](/word/reissue/)**：内容を変える場合も含めて、再び発行・リリースすること
+- **[reissue](/reissue)**：内容を変える場合も含めて、再び発行・リリースすること
 
 reprintは「物理的にもう一度印刷する」ことに重点があり、reissueは「新たに発行する」ことに重点があります。reissueは内容の変更や新装版にも使われます。
 
@@ -106,14 +110,14 @@ reprintは「物理的にもう一度印刷する」ことに重点があり、r
 
 ## 🧩 あわせて覚えたい
 
-- [publish](/word/publish/)：出版する、発行する
-- [duplicate](/word/duplicate/)：複製する、コピーする
+- [publish](/publish)：出版する、発行する
+- [duplicate](/duplicate)：複製する、コピーする
 
 ---
 
 ## 📖 できればこれも
 
-- [revise](/word/revise/)：修正する、改訂する
-- [distribute](/word/distribute/)：配布する、配る
+- [revise](/revise)：修正する、改訂する
+- [distribute](/distribute)：配布する、配る
 
-<!-- cvid: aid29_bid19 -->
+<!-- cvid: aid23_bid19 -->

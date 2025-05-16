@@ -81,15 +81,19 @@ Employees are encouraged to share their ideas freely during meetings.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Employees are encouraged to share their ideas freely during meetings.
 ## 🤔  independently との違いは？
 
 - **freely**：制限や妨げがなく、自由に行うことを強調
-- **[independently](/word/independently/)**：他人や他のものに頼らず、独立して行うことを強調
+- **[independently](/independently)**：他人や他のものに頼らず、独立して行うことを強調
 
 「freely」は「自由に」「気軽に」という雰囲気で、外部からの制限がないことを示しますが、「independently」は「自分ひとりで」「独立して」というニュアンスが強いです。
 
@@ -105,14 +109,14 @@ Employees are encouraged to share their ideas freely during meetings.
 
 ## 🧩 あわせて覚えたい
 
-- [openly](/word/openly/)：率直に、隠さずに
-- [voluntarily](/word/voluntarily/)：自発的に、進んで
+- [openly](/openly)：率直に、隠さずに
+- [voluntarily](/voluntarily)：自発的に、進んで
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：素早く
-- [easily](/word/easily/)：簡単に
+- [quickly](/quickly)：素早く
+- [easily](/easily)：簡単に
 
-<!-- cvid: aid34_bid35 -->
+<!-- cvid: aid11_bid06 -->

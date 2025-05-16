@@ -77,7 +77,7 @@ TOEICでは会話や説明文で「ついに」「最終的に」と結果を述
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+復習で自信を固めよう👇️
 
 ---
 
@@ -85,7 +85,11 @@ TOEICでは会話や説明文で「ついに」「最終的に」と結果を述
 
 <div class="info-center">
 ＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「ついに」「最終的に」と結果を述
 ## 🤔  eventually との違いは？
 
 - **finally**：長い時間や努力の末に「ついに」「やっと」と強調して結果を述べる
-- **[eventually](/word/eventually/)**：過程や経過を経て「最終的に」「結局は」と述べる
+- **[eventually](/eventually)**：過程や経過を経て「最終的に」「結局は」と述べる
 
 finallyは「やっと」「待ちに待った」という感情が強く、eventuallyは単に「最終的に」という事実を述べるときに使います。
 
@@ -101,14 +105,14 @@ finallyは「やっと」「待ちに待った」という感情が強く、even
 
 ## 🧩 あわせて覚えたい
 
-- [ultimately](/word/ultimately/)：最終的に
-- [at last](/word/at_last/)：ついに、やっと
+- [ultimately](/ultimately)：最終的に
+- [at last](/at_last)：ついに、やっと
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently/)：最近
-- [immediately](/word/immediately/)：すぐに
+- [recently](/recently)：最近
+- [immediately](/immediately)：すぐに
 
-<!-- cvid: aid30_bid45 -->
+<!-- cvid: aid11_bid45 -->

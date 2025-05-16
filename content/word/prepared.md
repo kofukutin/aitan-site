@@ -81,15 +81,19 @@ TOEICでは会議やプレゼン、面接などの場面で「準備ができて
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプレゼン、面接などの場面で「準備ができて
 ## 🤔  ready との違いは？
 
 - **prepared**：事前にしっかり準備や手配が済んでいる状態
-- **[ready](/word/ready/)**：すぐに行動できる状態、心構えができている
+- **[ready](/ready)**：すぐに行動できる状態、心構えができている
 
 preparedは「計画的な準備」を強調し、readyは「今すぐ始められる状態」を表します。
 
@@ -105,14 +109,14 @@ preparedは「計画的な準備」を強調し、readyは「今すぐ始めら�
 
 ## 🧩 あわせて覚えたい
 
-- [arrange](/word/arrange/)：手配する、整える
-- [organize](/word/organize/)：整理する、まとめる
+- [arrange](/arrange)：手配する、整える
+- [organize](/organize)：整理する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる、手が空いている
-- [scheduled](/word/scheduled/)：予定されている
+- [available](/available)：利用できる、手が空いている
+- [scheduled](/scheduled)：予定されている
 
-<!-- cvid: aid32_bid42 -->
+<!-- cvid: aid13_bid31 -->

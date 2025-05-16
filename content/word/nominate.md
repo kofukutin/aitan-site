@@ -81,15 +81,19 @@ TOEICでは、役職や賞の指名・推薦に関する文脈で出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、役職や賞の指名・推薦に関する文脈で出題される
 ## 🤔  appoint との違いは？
 
 - **nominate**：正式な候補者として推薦・指名する
-- **[appoint](/word/appoint/)**：実際に役職などに任命・就任させる
+- **[appoint](/appoint)**：実際に役職などに任命・就任させる
 
 nominateは「候補として挙げる」段階、appointは「実際にその役職に就ける」段階で使い分けます。
 
@@ -105,14 +109,14 @@ nominateは「候補として挙げる」段階、appointは「実際にその�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend/)：推薦する
-- [elect](/word/elect/)：選挙で選ぶ
+- [recommend](/recommend)：推薦する
+- [elect](/elect)：選挙で選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [select](/word/select/)：選ぶ
+- [approve](/approve)：承認する
+- [select](/select)：選ぶ
 
-<!-- cvid: aid26_bid49 -->
+<!-- cvid: aid16_bid38 -->

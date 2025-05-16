@@ -80,15 +80,19 @@ TOEICでは、時系列や手順を説明する文脈で「previous」がよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、時系列や手順を説明する文脈で「previous」がよく�
 ## 🤔  prior との違いは？
 
 - **previous**：直前や順序上「前の」という意味で、時間や順番が明確な場合に使う
-- **[prior](/word/prior/)**：ややフォーマルで、重要性や優先順位を強調する場合や、事前のというニュアンスが強い
+- **[prior](/prior)**：ややフォーマルで、重要性や優先順位を強調する場合や、事前のというニュアンスが強い
 
 「previous」は単純に「前のもの」を指し、「prior」は「それよりも前に存在していた」「優先されるべき」といったニュアンスが加わります。
 
@@ -104,14 +108,14 @@ TOEICでは、時系列や手順を説明する文脈で「previous」がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [former](/word/former/)：（地位や役職などの）前の、元の
-- [subsequent](/word/subsequent/)：その後の、次の
+- [former](/former)：（地位や役職などの）前の、元の
+- [subsequent](/subsequent)：その後の、次の
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/word/current/)：現在の
-- [following](/word/following/)：次の、以下の
+- [current](/current)：現在の
+- [following](/following)：次の、以下の
 
-<!-- cvid: aid16_bid39 -->
+<!-- cvid: aid44_bid00 -->

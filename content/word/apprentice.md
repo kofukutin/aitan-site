@@ -81,15 +81,19 @@ TOEICでは求人広告や職業訓練、職場紹介の文脈で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や職業訓練、職場紹介の文脈で見かけるこ
 ## 🤔  intern との違いは？
 
 - **apprentice**：職人や専門職のもとで技術を学ぶ見習い
-- **[intern](/word/intern/)**：企業や組織で実務経験を積む研修生
+- **[intern](/intern)**：企業や組織で実務経験を積む研修生
 
 apprenticeは伝統的な職業や技術職で使われ、internは主にオフィスワークや企業研修で使われます。
 
@@ -105,14 +109,14 @@ apprenticeは伝統的な職業や技術職で使われ、internは主にオフ�
 
 ## 🧩 あわせて覚えたい
 
-- [mentor](/word/mentor/)：指導者、助言者
-- [trainee](/word/trainee/)：研修生、訓練生
+- [mentor](/mentor)：指導者、助言者
+- [trainee](/trainee)：研修生、訓練生
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [recruit](/word/recruit/)：新入社員、採用する
+- [candidate](/candidate)：候補者
+- [recruit](/recruit)：新入社員、採用する
 
-<!-- cvid: aid23_bid39 -->
+<!-- cvid: aid47_bid41 -->

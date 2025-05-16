@@ -81,15 +81,19 @@ The convicted employee was dismissed from the company.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid02" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid02" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The convicted employee was dismissed from the company.
 ## 🤔  found guilty との違いは？
 
 - **convicted**：裁判で正式に有罪判決を受けた（形容詞として使う）
-- **[found guilty](/word/found_guilty/)**：有罪と判断された（動詞句、判決の瞬間を強調）
+- **[found guilty](/found_guilty)**：有罪と判断された（動詞句、判決の瞬間を強調）
 
 convictedは「すでに有罪判決を受けた状態」を表し、found guiltyは「有罪と判断された瞬間」に焦点を当てます。
 
@@ -105,14 +109,14 @@ convictedは「すでに有罪判決を受けた状態」を表し、found guilt
 
 ## 🧩 あわせて覚えたい
 
-- [acquitted](/word/acquitted/)：無罪判決を受けた
-- [sentence](/word/sentence/)：判決、刑
+- [acquitted](/acquitted)：無罪判決を受けた
+- [sentence](/sentence)：判決、刑
 
 ---
 
 ## 📖 できればこれも
 
-- [accused](/word/accused/)：被告、告発された
-- [guilty](/word/guilty/)：有罪の、罪悪感のある
+- [accused](/accused)：被告、告発された
+- [guilty](/guilty)：有罪の、罪悪感のある
 
-<!-- cvid: aid27_bid21 -->
+<!-- cvid: aid36_bid02 -->

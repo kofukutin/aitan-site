@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【seasonal】の意味・使い方・例文 ― temporaryとの違い【TOEIC英単語】"
 description: "seasonalの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtemporaryとの違いもわかりやすく学べます。"
 word: "seasonal"
@@ -82,15 +82,19 @@ TOEICでは、求人広告や商品説明などで「seasonal」の語がよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、求人広告や商品説明などで「seasonal」の語がよく�
 ## 🤔  temporary との違いは？
 
 - **seasonal**：季節に関係して一時的であることを強調
-- **[temporary](/word/temporary/)**：期間限定で一時的であることを強調
+- **[temporary](/temporary)**：期間限定で一時的であることを強調
 
 **seasonal**は「季節」による一時性を示し、**temporary**は理由を問わず「一時的」であることを表します。
 
@@ -106,14 +110,14 @@ TOEICでは、求人広告や商品説明などで「seasonal」の語がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/word/permanent/)：永久的な、恒久的な
-- [annual](/word/annual/)：年に一度の、毎年の
+- [permanent](/permanent)：永久的な、恒久的な
+- [annual](/annual)：年に一度の、毎年の
 
 ---
 
 ## 📖 できればこれも
 
-- [monthly](/word/monthly/)：毎月の
-- [occasional](/word/occasional/)：時々の、たまの
+- [monthly](/monthly)：毎月の
+- [occasional](/occasional)：時々の、たまの
 
-<!-- cvid: aid49_bid41 -->
+<!-- cvid: aid06_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で「場面」や「現場」を表す語と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で「場面」や「現場」を表す語と
 ## 🤔  situation との違いは？
 
 - **scene**：具体的な「場面」や「光景」、「現場」を指す
-- **[situation](/word/situation/)**：抽象的な「状況」や「状態」を指す
+- **[situation](/situation)**：抽象的な「状況」や「状態」を指す
 
 sceneは目に見える具体的な場所や出来事に使い、situationは目に見えない状態や事情に使います。
 
@@ -105,14 +109,14 @@ sceneは目に見える具体的な場所や出来事に使い、situationは目
 
 ## 🧩 あわせて覚えたい
 
-- [setting](/word/setting/)：（物語や出来事の）設定、背景
-- [incident](/word/incident/)：出来事、事件
+- [setting](/setting)：（物語や出来事の）設定、背景
+- [incident](/incident)：出来事、事件
 
 ---
 
 ## 📖 できればこれも
 
-- [view](/word/view/)：眺め、景色
-- [event](/word/event/)：出来事、イベント
+- [view](/view)：眺め、景色
+- [event](/event)：出来事、イベント
 
-<!-- cvid: aid14_bid19 -->
+<!-- cvid: aid20_bid35 -->

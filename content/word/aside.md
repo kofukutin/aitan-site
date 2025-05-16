@@ -77,15 +77,19 @@ TOEICでは会話や説明の中で「わきに置く」「脇に寄る」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明の中で「わきに置く」「脇に寄る」とい
 ## 🤔  apart との違いは？
 
 - **aside**：物理的・比喩的に「脇に」「わきへ」よける、または話題を一時的に外すニュアンス
-- **[apart](/word/apart/)**：完全に「離れて」「別々に」分離するニュアンス
+- **[apart](/apart)**：完全に「離れて」「別々に」分離するニュアンス
 
 asideは「一時的に脇に置く」感覚、apartは「完全に分ける」感覚で使い分けます。
 
@@ -101,14 +105,14 @@ asideは「一時的に脇に置く」感覚、apartは「完全に分ける」�
 
 ## 🧩 あわせて覚えたい
 
-- [away](/word/away/)：離れて
-- [beside](/word/beside/)：～のそばに
+- [away](/away)：離れて
+- [beside](/beside)：～のそばに
 
 ---
 
 ## 📖 できればこれも
 
-- [along](/word/along/)：～に沿って
-- [across](/word/across/)：～を横切って
+- [along](/along)：～に沿って
+- [across](/across)：～を横切って
 
-<!-- cvid: aid11_bid37 -->
+<!-- cvid: aid07_bid11 -->

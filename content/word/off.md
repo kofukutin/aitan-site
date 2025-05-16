@@ -78,15 +78,19 @@ TOEICでは、指示や動作の説明、休暇やスイッチのオン・オフ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid07_bid09" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid09" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは、指示や動作の説明、休暇やスイッチのオン・オフ
 ## 🤔  away との違いは？
 
 - **off**：物や人が「離れる」「切れる」「分かれる」ことを強調
-- **[away](/word/away/)**：場所から「遠ざかる」「離れていく」動きを強調
+- **[away](/away)**：場所から「遠ざかる」「離れていく」動きを強調
 
 offは「接していたものが離れる」ニュアンス、awayは「ある場所から遠ざかる」動きや距離感を表します。
 
@@ -102,14 +106,14 @@ offは「接していたものが離れる」ニュアンス、awayは「ある�
 
 ## 🧩 あわせて覚えたい
 
-- [on](/word/on/)：～の上に、～の状態で
-- [out](/word/out/)：外へ、外に
+- [on](/on)：～の上に、～の状態で
+- [out](/out)：外へ、外に
 
 ---
 
 ## 📖 できればこれも
 
-- [over](/word/over/)：～の上に、～を越えて
-- [under](/word/under/)：～の下に、～未満で
+- [over](/over)：～の上に、～を越えて
+- [under](/under)：～の下に、～未満で
 
-<!-- cvid: aid02_bid38 -->
+<!-- cvid: aid07_bid09 -->

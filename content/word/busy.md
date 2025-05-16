@@ -81,15 +81,19 @@ TOEICでは、スケジュールや予定、仕事の状況を説明する場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、スケジュールや予定、仕事の状況を説明する場面
 ## 🤔  occupied との違いは？
 
 - **busy**：やることが多くて手が離せない、忙しい状態
-- **[occupied](/word/occupied/)**：物理的・時間的に「ふさがっている」「使用中」の意味が強い
+- **[occupied](/occupied)**：物理的・時間的に「ふさがっている」「使用中」の意味が強い
 
 「busy」は主に人や場所が活発に動いている時に使い、「occupied」は席や部屋、時間が「埋まっている」時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、スケジュールや予定、仕事の状況を説明する場面
 
 ## 🧩 あわせて覚えたい
 
-- [available](/word/available/)：利用できる、空いている
-- [hectic](/word/hectic/)：とても慌ただしい
+- [available](/available)：利用できる、空いている
+- [hectic](/hectic)：とても慌ただしい
 
 ---
 
 ## 📖 できればこれも
 
-- [free](/word/free/)：自由な、空いている
-- [active](/word/active/)：活動的な
+- [free](/free)：自由な、空いている
+- [active](/active)：活動的な
 
-<!-- cvid: aid21_bid36 -->
+<!-- cvid: aid28_bid44 -->

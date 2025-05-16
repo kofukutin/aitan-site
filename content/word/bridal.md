@@ -81,15 +81,19 @@ TOEICではホテルやイベント案内、広告文などで「bridal package�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルやイベント案内、広告文などで「bridal package�
 ## 🤔  wedding との違いは？
 
 - **bridal**：花嫁や結婚式に関する形容詞
-- **[wedding](/word/wedding/)**：結婚式そのもの（名詞）
+- **[wedding](/wedding)**：結婚式そのもの（名詞）
 
 bridalは「花嫁の」「結婚式の」と形容詞的に使い、weddingは「結婚式」という出来事自体を指します。
 
@@ -105,14 +109,14 @@ bridalは「花嫁の」「結婚式の」と形容詞的に使い、weddingは�
 
 ## 🧩 あわせて覚えたい
 
-- [groom](/word/groom/)：花婿
-- [marriage](/word/marriage/)：結婚（生活や制度）
+- [groom](/groom)：花婿
+- [marriage](/marriage)：結婚（生活や制度）
 
 ---
 
 ## 📖 できればこれも
 
-- [engaged](/word/engaged/)：婚約している
-- [ceremony](/word/ceremony/)：式典、儀式
+- [engaged](/engaged)：婚約している
+- [ceremony](/ceremony)：式典、儀式
 
-<!-- cvid: aid43_bid48 -->
+<!-- cvid: aid24_bid04 -->

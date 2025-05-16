@@ -81,15 +81,19 @@ TOEICでは環境問題や建設に関する会話や説明文で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や建設に関する会話や説明文で見かけるこ
 ## 🤔  cut との違いは？
 
 - **fell**：特に木や大きなものを根元から倒す・伐採する
-- **[cut](/word/cut/)**：一般的に「切る」。対象や規模を問わず幅広く使う
+- **[cut](/cut)**：一般的に「切る」。対象や規模を問わず幅広く使う
 
 fellは「木を根元から倒す」など大きな対象に限定され、cutは紙や髪など何でも「切る」ときに使います。
 
@@ -105,14 +109,14 @@ fellは「木を根元から倒す」など大きな対象に限定され、cut�
 
 ## 🧩 あわせて覚えたい
 
-- [chop](/word/chop/)：（木や野菜などを）ざくざく切る
-- [plant](/word/plant/)：（木や植物を）植える
+- [chop](/chop)：（木や野菜などを）ざくざく切る
+- [plant](/plant)：（木や植物を）植える
 
 ---
 
 ## 📖 できればこれも
 
-- [harvest](/word/harvest/)：収穫する
-- [grow](/word/grow/)：育てる
+- [harvest](/harvest)：収穫する
+- [grow](/grow)：育てる
 
-<!-- cvid: aid32_bid30 -->
+<!-- cvid: aid26_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは求人広告や人材募集、業務内容の説明などで頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や人材募集、業務内容の説明などで頻出し
 ## 🤔  experienced との違いは？
 
 - **skilled**：特定の分野や作業で高い技術や能力を持つことを強調
-- **[experienced](/word/experienced/)**：経験が豊富で、実践を通じて知識や能力を身につけていることを強調
+- **[experienced](/experienced)**：経験が豊富で、実践を通じて知識や能力を身につけていることを強調
 
 「skilled」は「技術力」に重点があり、「experienced」は「経験の多さ」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは求人広告や人材募集、業務内容の説明などで頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [unskilled](/word/unskilled/)：未熟練の、技術のない
-- [qualified](/word/qualified/)：資格のある、適任の
+- [unskilled](/unskilled)：未熟練の、技術のない
+- [qualified](/qualified)：資格のある、適任の
 
 ---
 
 ## 📖 できればこれも
 
-- [talented](/word/talented/)：才能のある
-- [capable](/word/capable/)：有能な、能力がある
+- [talented](/talented)：才能のある
+- [capable](/capable)：有能な、能力がある
 
-<!-- cvid: aid40_bid10 -->
+<!-- cvid: aid47_bid46 -->

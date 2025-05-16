@@ -80,15 +80,19 @@ TOEICではメールや通知文、社内連絡などで「reminder」が頻出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではメールや通知文、社内連絡などで「reminder」が頻出�
 ## 🤔  notice との違いは？
 
 - **reminder**：何かを思い出させるための通知やメモ
-- **[notice](/word/notice/)**：公式な通知や掲示、注意書き
+- **[notice](/notice)**：公式な通知や掲示、注意書き
 
 「reminder」は個人的・補助的な「思い出し用の通知」に使い、「notice」は公式な告知や注意喚起に使います。
 
@@ -104,14 +108,14 @@ TOEICではメールや通知文、社内連絡などで「reminder」が頻出�
 
 ## 🧩 あわせて覚えたい
 
-- [alert](/word/alert/)：警告、注意喚起
-- [notification](/word/notification/)：通知、お知らせ
+- [alert](/alert)：警告、注意喚起
+- [notification](/notification)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment/)：予約、約束
-- [memo](/word/memo/)：メモ、覚え書き
+- [appointment](/appointment)：予約、約束
+- [memo](/memo)：メモ、覚え書き
 
-<!-- cvid: aid26_bid36 -->
+<!-- cvid: aid45_bid28 -->

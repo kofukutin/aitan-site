@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【beef】の意味・使い方・例文 ― steakとの違い【TOEIC英単語】"
 description: "beefの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsteakとの違いもわかりやすく学べます。"
 word: "beef"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、食材や料理の説明として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、食材や料理の説明として登
 ## 🤔  steak との違いは？
 
 - **beef**：牛肉全般を指し、料理や食材として幅広く使う。
-- **[steak](/word/steak/)**：牛肉の厚切り肉（ステーキ）という特定の料理を指す。
+- **[steak](/steak)**：牛肉の厚切り肉（ステーキ）という特定の料理を指す。
 
 beefは素材全体、steakはその中の特定の料理や部位を指します。
 
@@ -105,14 +109,14 @@ beefは素材全体、steakはその中の特定の料理や部位を指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [pork](/word/pork/)：豚肉
-- [chicken](/word/chicken/)：鶏肉
+- [pork](/pork)：豚肉
+- [chicken](/chicken)：鶏肉
 
 ---
 
 ## 📖 できればこれも
 
-- [meat](/word/meat/)：肉
-- [fish](/word/fish/)：魚
+- [meat](/meat)：肉
+- [fish](/fish)：魚
 
-<!-- cvid: aid34_bid48 -->
+<!-- cvid: aid36_bid38 -->

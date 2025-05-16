@@ -81,15 +81,19 @@ The nurse will check your blood pressure.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The nurse will check your blood pressure.
 ## 🤔  caregiver との違いは？
 
 - **nurse**：医療資格を持ち、病院やクリニックで専門的なケアを行う人
-- **[caregiver](/word/caregiver/)**：家庭や施設で高齢者や障害者などの世話をする人（資格不要の場合も多い）
+- **[caregiver](/caregiver)**：家庭や施設で高齢者や障害者などの世話をする人（資格不要の場合も多い）
 
 nurseは医療現場で専門的な知識・資格が必要ですが、caregiverは家庭や介護施設などで幅広く使われ、資格が不要な場合もあります。
 
@@ -105,14 +109,14 @@ nurseは医療現場で専門的な知識・資格が必要ですが、caregiver
 
 ## 🧩 あわせて覚えたい
 
-- [doctor](/word/doctor/)：医師
-- [patient](/word/patient/)：患者
+- [doctor](/doctor)：医師
+- [patient](/patient)：患者
 
 ---
 
 ## 📖 できればこれも
 
-- [clinic](/word/clinic/)：クリニック、診療所
-- [hospital](/word/hospital/)：病院
+- [clinic](/clinic)：クリニック、診療所
+- [hospital](/hospital)：病院
 
-<!-- cvid: aid12_bid26 -->
+<!-- cvid: aid43_bid35 -->

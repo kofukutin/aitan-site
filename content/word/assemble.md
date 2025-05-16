@@ -81,15 +81,19 @@ TOEICでは「人が集まる」「部品を組み立てる」などの文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「人が集まる」「部品を組み立てる」などの文脈で
 ## 🤔  gather との違いは？
 
 - **assemble**：目的や計画のもとに人や物を集める、または部品を組み立てる
-- **[gather](/word/gather/)**：自然に集まる、または広く集める
+- **[gather](/gather)**：自然に集まる、または広く集める
 
 「assemble」は計画的・組織的に集める・組み立てる場合に使い、「gather」は人や物が自然に集まる場合や、ざっくりと集める場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「人が集まる」「部品を組み立てる」などの文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [collect](/word/collect/)：集める（広く物を集めるニュアンス）
-- [disperse](/word/disperse/)：散らす、分散させる（対義語）
+- [collect](/collect)：集める（広く物を集めるニュアンス）
+- [disperse](/disperse)：散らす、分散させる（対義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [install](/word/install/)：設置する、取り付ける
+- [arrange](/arrange)：手配する、整える
+- [install](/install)：設置する、取り付ける
 
-<!-- cvid: aid43_bid15 -->
+<!-- cvid: aid37_bid45 -->

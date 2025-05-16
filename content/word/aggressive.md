@@ -81,15 +81,19 @@ TOEICでは、ビジネスシーンでの「積極的な」「攻撃的な」戦
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスシーンでの「積極的な」「攻撃的な」戦
 ## 🤔  assertive との違いは？
 
 - **aggressive**：攻撃的で強引な印象があり、時に相手を威圧するニュアンス。
-- **[assertive](/word/assertive/)**：自信を持って主張するが、攻撃的ではなく自己主張が強いだけ。
+- **[assertive](/assertive)**：自信を持って主張するが、攻撃的ではなく自己主張が強いだけ。
 
 aggressiveは相手に不快感を与えることもあるのに対し、assertiveは自分の意見をはっきり伝えるが礼儀をわきまえた表現です。
 
@@ -105,14 +109,14 @@ aggressiveは相手に不快感を与えることもあるのに対し、asserti
 
 ## 🧩 あわせて覚えたい
 
-- [hostile](/word/hostile/)：敵意のある、敵対的な
-- [ambitious](/word/ambitious/)：野心的な、意欲的な
+- [hostile](/hostile)：敵意のある、敵対的な
+- [ambitious](/ambitious)：野心的な、意欲的な
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident/)：自信がある
-- [competitive](/word/competitive/)：競争的な、競争力のある
+- [confident](/confident)：自信がある
+- [competitive](/competitive)：競争的な、競争力のある
 
-<!-- cvid: aid43_bid20 -->
+<!-- cvid: aid00_bid12 -->

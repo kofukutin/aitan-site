@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで「観点」「見方」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで「観点」「見方」といった意
 ## 🤔  viewpoint との違いは？
 
 - **perspective**：物事を広い視野や背景を含めて捉える観点・考え方
-- **[viewpoint](/word/viewpoint/)**：ある特定の立場や位置からの見方・意見
+- **[viewpoint](/viewpoint)**：ある特定の立場や位置からの見方・意見
 
 perspectiveは背景や全体像を含めた「視点」、viewpointは「立場」や「位置」に重点を置いた見方です。
 
@@ -105,14 +109,14 @@ perspectiveは背景や全体像を含めた「視点」、viewpointは「立場
 
 ## 🧩 あわせて覚えたい
 
-- [angle](/word/angle/)：（物事の）角度、観点
-- [outlook](/word/outlook/)：見通し、将来の展望
+- [angle](/angle)：（物事の）角度、観点
+- [outlook](/outlook)：見通し、将来の展望
 
 ---
 
 ## 📖 できればこれも
 
-- [approach](/word/approach/)：取り組み方、アプローチ
-- [aspect](/word/aspect/)：側面、観点
+- [approach](/approach)：取り組み方、アプローチ
+- [aspect](/aspect)：側面、観点
 
-<!-- cvid: aid46_bid40 -->
+<!-- cvid: aid23_bid15 -->

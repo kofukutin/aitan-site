@@ -81,7 +81,7 @@ TOEICでは「専門分野」「現場」「フィールドワーク」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+思考が冴えてるときに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは「専門分野」「現場」「フィールドワーク」などの
 
 <div class="info-center">
 ＼今日から始められる／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「専門分野」「現場」「フィールドワーク」などの
 ## 🤔  area との違いは？
 
 - **field**：専門分野や活動領域、または野原や現場を指す
-- **[area](/word/area/)**：物理的な「区域」「範囲」や抽象的な「領域」を幅広く指す
+- **[area](/area)**：物理的な「区域」「範囲」や抽象的な「領域」を幅広く指す
 
 「field」は専門性や活動の現場を強調し、「area」は単に場所や範囲を表すときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは「専門分野」「現場」「フィールドワーク」などの
 
 ## 🧩 あわせて覚えたい
 
-- [department](/word/department/)：部門、部署
-- [sector](/word/sector/)：（経済などの）部門、分野
+- [department](/department)：部門、部署
+- [sector](/sector)：（経済などの）部門、分野
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：プロジェクト、計画
-- [topic](/word/topic/)：話題、テーマ
+- [project](/project)：プロジェクト、計画
+- [topic](/topic)：話題、テーマ
 
-<!-- cvid: aid24_bid10 -->
+<!-- cvid: aid15_bid10 -->

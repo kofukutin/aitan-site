@@ -81,15 +81,19 @@ TOEICでは主にビジネス文脈で「給与」「補償」「報酬」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文脈で「給与」「補償」「報酬」とい
 ## 🤔  reward との違いは？
 
 - **compensation**：損失や労働に対する「補償」「報酬」。義務的・フォーマルなニュアンス。
-- **[reward](/word/reward/)**：努力や成果に対する「ご褒美」「報酬」。感謝や賞賛の意味合いが強い。
+- **[reward](/reward)**：努力や成果に対する「ご褒美」「報酬」。感謝や賞賛の意味合いが強い。
 
 compensationは義務的な支払い、rewardは感謝や成果へのご褒美として使い分けます。
 
@@ -105,14 +109,14 @@ compensationは義務的な支払い、rewardは感謝や成果へのご褒美�
 
 ## 🧩 あわせて覚えたい
 
-- [salary](/word/salary/)：給与、給料
-- [benefit](/word/benefit/)：福利厚生、手当
+- [salary](/salary)：給与、給料
+- [benefit](/benefit)：福利厚生、手当
 
 ---
 
 ## 📖 できればこれも
 
-- [allowance](/word/allowance/)：手当、小遣い
-- [reimbursement](/word/reimbursement/)：払い戻し、経費精算
+- [allowance](/allowance)：手当、小遣い
+- [reimbursement](/reimbursement)：払い戻し、経費精算
 
-<!-- cvid: aid24_bid17 -->
+<!-- cvid: aid06_bid05 -->

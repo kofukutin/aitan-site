@@ -82,15 +82,19 @@ TOEICでは、オフィスや工場、会議などで「テープで貼る」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、オフィスや工場、会議などで「テープで貼る」「
 ## 🤔  ribbon との違いは？
 
 - **tape**：貼り付けや記録用の細長い帯状の素材。粘着性や録音機能がある場合も多い。
-- **[ribbon](/word/ribbon/)**：主に装飾や結び目に使う布製の細長い帯。
+- **[ribbon](/ribbon)**：主に装飾や結び目に使う布製の細長い帯。
 
 tapeは実用的な用途（貼る・記録する）に使われ、ribbonは見た目を飾る目的で使われます。
 
@@ -106,14 +110,14 @@ tapeは実用的な用途（貼る・記録する）に使われ、ribbonは見�
 
 ## 🧩 あわせて覚えたい
 
-- [band](/word/band/)：帯、バンド（輪状や帯状のもの全般）
-- [string](/word/string/)：ひも、糸（細長くて柔らかい素材）
+- [band](/band)：帯、バンド（輪状や帯状のもの全般）
+- [string](/string)：ひも、糸（細長くて柔らかい素材）
 
 ---
 
 ## 📖 できればこれも
 
-- [glue](/word/glue/)：のり、接着剤
-- [label](/word/label/)：ラベル、表示
+- [glue](/glue)：のり、接着剤
+- [label](/label)：ラベル、表示
 
-<!-- cvid: aid42_bid06 -->
+<!-- cvid: aid04_bid08 -->

@@ -81,15 +81,19 @@ TOEICでは、専門家の意見や資格、役割を説明する文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、専門家の意見や資格、役割を説明する文脈でよく
 ## 🤔  specialist との違いは？
 
 - **expert**：幅広い分野や実務経験に基づく専門家
-- **[specialist](/word/specialist/)**：特定の狭い分野に特化した専門家
+- **[specialist](/specialist)**：特定の狭い分野に特化した専門家
 
 expertは経験や知識が豊富な「熟練者」全般を指し、specialistはより限定的な分野の専門家を強調します。
 
@@ -105,14 +109,14 @@ expertは経験や知識が豊富な「熟練者」全般を指し、specialist�
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/word/amateur/)：素人、未経験者
-- [professional](/word/professional/)：プロ、職業人
+- [amateur](/amateur)：素人、未経験者
+- [professional](/professional)：プロ、職業人
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/word/consultant/)：コンサルタント、相談役
-- [advisor](/word/advisor/)：助言者、アドバイザー
+- [consultant](/consultant)：コンサルタント、相談役
+- [advisor](/advisor)：助言者、アドバイザー
 
-<!-- cvid: aid22_bid09 -->
+<!-- cvid: aid35_bid43 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【farm】の意味・使い方・例文 ― ranchとの違い【TOEIC英単語】"
 description: "farmの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでranchとの違いもわかりやすく学べます。"
 word: "farm"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、農場や農作業の場面で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、農場や農作業の場面で登場
 ## 🤔  ranch との違いは？
 
 - **farm**：作物や家畜を育てる一般的な農場
-- **[ranch](/word/ranch/)**：特に牛や馬などの家畜を広い土地で飼育する牧場
+- **[ranch](/ranch)**：特に牛や馬などの家畜を広い土地で飼育する牧場
 
 farmは作物・家畜どちらにも使えますが、ranchは主に家畜の大規模飼育に使われます。
 
@@ -105,14 +109,14 @@ farmは作物・家畜どちらにも使えますが、ranchは主に家畜の�
 
 ## 🧩 あわせて覚えたい
 
-- [field](/word/field/)：畑、野原
-- [garden](/word/garden/)：庭、園芸用の庭
+- [field](/field)：畑、野原
+- [garden](/garden)：庭、園芸用の庭
 
 ---
 
 ## 📖 できればこれも
 
-- [village](/word/village/)：村
-- [market](/word/market/)：市場
+- [village](/village)：村
+- [market](/market)：市場
 
-<!-- cvid: aid33_bid19 -->
+<!-- cvid: aid27_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは会議やディスカッションの場面で、意見の相違や反
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やディスカッションの場面で、意見の相違や反
 ## 🤔  differ との違いは？
 
 - **disagree**：意見や考えに「反対する」「一致しない」と明確に表現する
-- **[differ](/word/differ/)**：単に「異なる」「違う」と中立的に表現する
+- **[differ](/differ)**：単に「異なる」「違う」と中立的に表現する
 
 disagreeは「反対」の意思を示すのに対し、differは単に違いがあることを述べるときに使います。
 
@@ -105,14 +109,14 @@ disagreeは「反対」の意思を示すのに対し、differは単に違いが
 
 ## 🧩 あわせて覚えたい
 
-- [agree](/word/agree/)：同意する
-- [object](/word/object/)：反対する（ややフォーマル）
+- [agree](/agree)：同意する
+- [object](/object)：反対する（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [argue](/word/argue/)：主張する、議論する
-- [approve](/word/approve/)：承認する、賛成する
+- [argue](/argue)：主張する、議論する
+- [approve](/approve)：承認する、賛成する
 
-<!-- cvid: aid39_bid05 -->
+<!-- cvid: aid13_bid30 -->

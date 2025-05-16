@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメール、案内文などで「協力をお
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメール、案内文などで「協力をお
 ## 🤔  collaboration との違いは？
 
 - **cooperation**：共通の目的のために助け合うこと。個々が自分の役割を果たしながら協力するイメージ。
-- **[collaboration](/word/collaboration/)**：より密接に一緒に作業したり、共同で何かを生み出すこと。
+- **[collaboration](/collaboration)**：より密接に一緒に作業したり、共同で何かを生み出すこと。
 
 cooperationは「協調・助け合い」、collaborationは「共同作業・共創」といった違いがあります。
 
@@ -105,14 +109,14 @@ cooperationは「協調・助け合い」、collaborationは「共同作業・�
 
 ## 🧩 あわせて覚えたい
 
-- [assistance](/word/assistance/)：援助、手助け
-- [conflict](/word/conflict/)：対立、衝突
+- [assistance](/assistance)：援助、手助け
+- [conflict](/conflict)：対立、衝突
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [partnership](/word/partnership/)：提携、協力関係
+- [agreement](/agreement)：合意、契約
+- [partnership](/partnership)：提携、協力関係
 
-<!-- cvid: aid46_bid37 -->
+<!-- cvid: aid36_bid11 -->

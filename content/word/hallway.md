@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、建物内の様子や人の動
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、建物内の様子や人の動
 ## 🤔  corridor との違いは？
 
 - **hallway**：家庭や学校、オフィスなど日常的な建物の「廊下」を指し、アメリカ英語でよく使われるカジュアルな表現。
-- **[corridor](/word/corridor/)**：よりフォーマルで、ホテルや病院、オフィスビルなど公共性の高い建物の「廊下」を指すことが多い。
+- **[corridor](/corridor)**：よりフォーマルで、ホテルや病院、オフィスビルなど公共性の高い建物の「廊下」を指すことが多い。
 
 hallwayはカジュアルで身近な場面、corridorはフォーマルまたは公共的な場面で使い分けます。
 
@@ -105,14 +109,14 @@ hallwayはカジュアルで身近な場面、corridorはフォーマルまた�
 
 ## 🧩 あわせて覚えたい
 
-- [entrance](/word/entrance/)：入口
-- [lobby](/word/lobby/)：ロビー、玄関ホール
+- [entrance](/entrance)：入口
+- [lobby](/lobby)：ロビー、玄関ホール
 
 ---
 
 ## 📖 できればこれも
 
-- [staircase](/word/staircase/)：階段
-- [elevator](/word/elevator/)：エレベーター
+- [staircase](/staircase)：階段
+- [elevator](/elevator)：エレベーター
 
-<!-- cvid: aid33_bid44 -->
+<!-- cvid: aid23_bid36 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【twelve】の意味・使い方・例文 ― dozenとの違い【TOEIC英単語】"
 description: "twelveの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdozenとの違いもわかりやすく学べます。"
 word: "twelve"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1や数字を問う設問で、時刻や数量の表現と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1や数字を問う設問で、時刻や数量の表現と
 ## 🤔  dozen との違いは？
 
 - **twelve**：具体的に「12」という数字を表す。
-- **[dozen](/word/dozen/)**：おおよそ「12個分」という単位やまとまりを表す。
+- **[dozen](/dozen)**：おおよそ「12個分」という単位やまとまりを表す。
 
 twelveは単なる数字、dozenは「1ダース」というまとまりや単位として使われる点が異なります。
 
@@ -105,14 +109,14 @@ twelveは単なる数字、dozenは「1ダース」というまとまりや単�
 
 ## 🧩 あわせて覚えたい
 
-- [eleven](/word/eleven/)：11、十一
-- [thirteen](/word/thirteen/)：13、十三
+- [eleven](/eleven)：11、十一
+- [thirteen](/thirteen)：13、十三
 
 ---
 
 ## 📖 できればこれも
 
-- [twenty](/word/twenty/)：20、二十
-- [hundred](/word/hundred/)：100、百
+- [twenty](/twenty)：20、二十
+- [hundred](/hundred)：100、百
 
-<!-- cvid: aid08_bid46 -->
+<!-- cvid: aid46_bid17 -->

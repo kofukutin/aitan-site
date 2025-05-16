@@ -81,7 +81,7 @@ TOEICでは広告やビジネス文書、Eメールなどで「campaign」が頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このまま続けよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは広告やビジネス文書、Eメールなどで「campaign」が頻
 
 <div class="info-center">
 ＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やビジネス文書、Eメールなどで「campaign」が頻
 ## 🤔  promotion との違いは？
 
 - **campaign**：特定の目的のために計画的・組織的に行う一連の活動や運動
-- **[promotion](/word/promotion/)**：商品の販売促進や昇進など「推進・促進」そのもの
+- **[promotion](/promotion)**：商品の販売促進や昇進など「推進・促進」そのもの
 
 campaignは「一連の活動全体」を指し、promotionは「売上を伸ばすための具体的な促進行為」を指します。
 
@@ -105,14 +109,14 @@ campaignは「一連の活動全体」を指し、promotionは「売上を伸ば
 
 ## 🧩 あわせて覚えたい
 
-- [initiative](/word/initiative/)：新しい取り組み、主導権
-- [advertisement](/word/advertisement/)：広告
+- [initiative](/initiative)：新しい取り組み、主導権
+- [advertisement](/advertisement)：広告
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy/)：戦略
-- [project](/word/project/)：計画、プロジェクト
+- [strategy](/strategy)：戦略
+- [project](/project)：計画、プロジェクト
 
-<!-- cvid: aid49_bid13 -->
+<!-- cvid: aid00_bid13 -->

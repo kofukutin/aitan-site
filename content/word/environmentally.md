@@ -81,15 +81,19 @@ TOEICでは、環境問題や企業の社会的責任に関する長文で「env
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境問題や企業の社会的責任に関する長文で「env
 ## 🤔  ecologically との違いは？
 
 - **environmentally**：環境全般に関して、広い意味で使う
-- **[ecologically](/word/ecologically/)**：生態系や自然環境の仕組みに特化して使う
+- **[ecologically](/ecologically)**：生態系や自然環境の仕組みに特化して使う
 
 「environmentally」は「環境にやさしい」など幅広い文脈で使われますが、「ecologically」は生態系や自然科学的な観点によりフォーカスしています。
 
@@ -105,14 +109,14 @@ TOEICでは、環境問題や企業の社会的責任に関する長文で「env
 
 ## 🧩 あわせて覚えたい
 
-- [sustainably](/word/sustainably/)：持続可能な方法で
-- [environment](/word/environment/)：環境
+- [sustainably](/sustainably)：持続可能な方法で
+- [environment](/environment)：環境
 
 ---
 
 ## 📖 できればこれも
 
-- [environmental](/word/environmental/)：環境の、環境に関する
-- [sustainable](/word/sustainable/)：持続可能な
+- [environmental](/environmental)：環境の、環境に関する
+- [sustainable](/sustainable)：持続可能な
 
-<!-- cvid: aid31_bid04 -->
+<!-- cvid: aid10_bid23 -->

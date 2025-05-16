@@ -81,15 +81,19 @@ TOEICのPart 1（写真描写問題）でよく登場します。写真を撮っ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1（写真描写問題）でよく登場します。写真を撮っ
 ## 🤔  cameraman との違いは？
 
 - **photographer**：写真を撮る人全般（プロ・アマ問わず）、芸術的な写真家も含む
-- **[cameraman](/word/cameraman/)**：主にテレビや映画の撮影スタッフ（動画撮影者）を指す
+- **[cameraman](/cameraman)**：主にテレビや映画の撮影スタッフ（動画撮影者）を指す
 
 photographerは静止画を撮る人、cameramanは動画を撮る人や放送業界の撮影担当者を指すことが多いです。
 
@@ -105,14 +109,14 @@ photographerは静止画を撮る人、cameramanは動画を撮る人や放送�
 
 ## 🧩 あわせて覚えたい
 
-- [photography](/word/photography/)：写真術、写真撮影
-- [snapshot](/word/snapshot/)：スナップ写真、瞬間写真
+- [photography](/photography)：写真術、写真撮影
+- [snapshot](/snapshot)：スナップ写真、瞬間写真
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/word/artist/)：芸術家、アーティスト
-- [editor](/word/editor/)：編集者
+- [artist](/artist)：芸術家、アーティスト
+- [editor](/editor)：編集者
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid14_bid22 -->

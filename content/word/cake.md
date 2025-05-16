@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cake】の意味・使い方・例文 ― pieとの違い【TOEIC英単語】"
 description: "cakeの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpieとの違いもわかりやすく学べます。"
 word: "cake"
@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写で、食べ物やカフェのシーンな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写で、食べ物やカフェのシーンな
 ## 🤔  pie との違いは？
 
 - **cake**：小麦粉・卵・砂糖などを混ぜて焼いた甘いお菓子。ふんわりした食感が特徴。
-- **[pie](/word/pie/)**：パイ生地で具材を包んで焼いた料理やデザート。中身に果物や肉などが入る。
+- **[pie](/pie)**：パイ生地で具材を包んで焼いた料理やデザート。中身に果物や肉などが入る。
 
 cakeはスポンジ状の甘いお菓子、pieは中身を包むパイ生地が特徴で、食感や用途が異なります。
 
@@ -104,14 +108,14 @@ cakeはスポンジ状の甘いお菓子、pieは中身を包むパイ生地が�
 
 ## 🧩 あわせて覚えたい
 
-- [bread](/word/bread/)：パン
-- [dessert](/word/dessert/)：デザート
+- [bread](/bread)：パン
+- [dessert](/dessert)：デザート
 
 ---
 
 ## 📖 できればこれも
 
-- [cookie](/word/cookie/)：クッキー
-- [ice cream](/word/ice_cream/)：アイスクリーム
+- [cookie](/cookie)：クッキー
+- [ice cream](/ice_cream)：アイスクリーム
 
-<!-- cvid: aid21_bid34 -->
+<!-- cvid: aid13_bid45 -->

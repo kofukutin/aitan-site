@@ -81,15 +81,19 @@ TOEICでは、文章の流れや文脈に合う動詞として「enhancing」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文章の流れや文脈に合う動詞として「enhancing」が
 ## 🤔  improve との違いは？
 
 - **enhancing**：もともと良いものをさらに高める、魅力や価値をアップさせる
-- **[improve](/word/improve/)**：悪い・普通のものをより良くする、全体的な改善
+- **[improve](/improve)**：悪い・普通のものをより良くする、全体的な改善
 
 enhancingは「プラスアルファで良くする」イメージ、improveは「問題点を直して良くする」イメージです。
 
@@ -105,14 +109,14 @@ enhancingは「プラスアルファで良くする」イメージ、improveは�
 
 ## 🧩 あわせて覚えたい
 
-- [boost](/word/boost/)：急激に高める、押し上げる
-- [strengthen](/word/strengthen/)：強化する、より強くする
+- [boost](/boost)：急激に高める、押し上げる
+- [strengthen](/strengthen)：強化する、より強くする
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡大する、広げる
-- [upgrade](/word/upgrade/)：グレードアップする、格上げする
+- [expand](/expand)：拡大する、広げる
+- [upgrade](/upgrade)：グレードアップする、格上げする
 
-<!-- cvid: aid14_bid00 -->
+<!-- cvid: aid43_bid24 -->

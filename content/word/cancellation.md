@@ -81,15 +81,19 @@ TOEICでは主にメールや通知文、契約書などで「キャンセル」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや通知文、契約書などで「キャンセル」
 ## 🤔  termination との違いは？
 
 - **cancellation**：予約や注文、イベントなどを「取り消す」「中止する」ことを指し、比較的軽いニュアンス。
-- **[termination](/word/termination/)**：契約や雇用などを「終了」「打ち切り」することを指し、より正式・重大な場面で使われる。
+- **[termination](/termination)**：契約や雇用などを「終了」「打ち切り」することを指し、より正式・重大な場面で使われる。
 
 cancellationは日常的な予定や予約の取り消し、terminationは契約や雇用などの正式な終了に使い分けます。
 
@@ -105,14 +109,14 @@ cancellationは日常的な予定や予約の取り消し、terminationは契約
 
 ## 🧩 あわせて覚えたい
 
-- [postpone](/word/postpone/)：延期する
-- [confirmation](/word/confirmation/)：確認、承認
+- [postpone](/postpone)：延期する
+- [confirmation](/confirmation)：確認、承認
 
 ---
 
 ## 📖 できればこれも
 
-- [refund](/word/refund/)：返金
-- [reservation](/word/reservation/)：予約
+- [refund](/refund)：返金
+- [reservation](/reservation)：予約
 
-<!-- cvid: aid34_bid46 -->
+<!-- cvid: aid41_bid40 -->

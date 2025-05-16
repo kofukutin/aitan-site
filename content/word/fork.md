@@ -82,15 +82,19 @@ TOEICでは主にPart 1で、食器や道の分岐などの写真描写で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1で、食器や道の分岐などの写真描写で出題
 ## 🤔  branch との違いは？
 
 - **fork**：道や川などが二股に分かれる「分岐点」や、食器の「フォーク」を指す。
-- **[branch](/word/branch/)**：木の「枝」や、組織・銀行の「支店」、または川や道の「支流・分岐」を指す。
+- **[branch](/branch)**：木の「枝」や、組織・銀行の「支店」、または川や道の「支流・分岐」を指す。
 
 forkは物理的な分かれ目や道具に使い、branchは主に枝分かれや組織の一部を表します。
 
@@ -106,14 +110,14 @@ forkは物理的な分かれ目や道具に使い、branchは主に枝分かれ�
 
 ## 🧩 あわせて覚えたい
 
-- [spoon](/word/spoon/)：スプーン
-- [split](/word/split/)：分割する、分かれる
+- [spoon](/spoon)：スプーン
+- [split](/split)：分割する、分かれる
 
 ---
 
 ## 📖 できればこれも
 
-- [knife](/word/knife/)：ナイフ
-- [merge](/word/merge/)：合流する、統合する
+- [knife](/knife)：ナイフ
+- [merge](/merge)：合流する、統合する
 
-<!-- cvid: aid17_bid10 -->
+<!-- cvid: aid01_bid29 -->

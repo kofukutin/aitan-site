@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、食べ物やカフェのシーンで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、食べ物やカフェのシーンで
 ## 🤔  cake との違いは？
 
 - **pie**：中身（果物や肉など）を生地で包んで焼いたもの
-- **[cake](/word/cake/)**：小麦粉・卵・砂糖などを混ぜて焼いた甘い焼き菓子
+- **[cake](/cake)**：小麦粉・卵・砂糖などを混ぜて焼いた甘い焼き菓子
 
 pieは具材を包む料理で、cakeはふんわりしたスポンジ状の焼き菓子です。見た目や食感が大きく異なります。
 
@@ -105,14 +109,14 @@ pieは具材を包む料理で、cakeはふんわりしたスポンジ状の焼�
 
 ## 🧩 あわせて覚えたい
 
-- [tart](/word/tart/)：タルト（底に生地を敷き、上に具をのせて焼いた菓子）
-- [dessert](/word/dessert/)：デザート（食後の甘いもの全般）
+- [tart](/tart)：タルト（底に生地を敷き、上に具をのせて焼いた菓子）
+- [dessert](/dessert)：デザート（食後の甘いもの全般）
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread/)：パン
-- [cookie](/word/cookie/)：クッキー
+- [bread](/bread)：パン
+- [cookie](/cookie)：クッキー
 
-<!-- cvid: aid20_bid03 -->
+<!-- cvid: aid42_bid36 -->

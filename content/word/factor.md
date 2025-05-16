@@ -81,15 +81,19 @@ TOEICでは、ビジネスや経済に関する文脈で「要因」「要素」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや経済に関する文脈で「要因」「要素」
 ## 🤔  element との違いは？
 
 - **factor**：結果や状況に影響を与える「要因」「原因」として使う
-- **[element](/word/element/)**：全体を構成する「要素」「成分」として使う
+- **[element](/element)**：全体を構成する「要素」「成分」として使う
 
 factorは「結果に影響するもの」、elementは「構成する一部」というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ factorは「結果に影響するもの」、elementは「構成する一部」�
 
 ## 🧩 あわせて覚えたい
 
-- [reason](/word/reason/)：理由、原因
-- [component](/word/component/)：部品、構成要素
+- [reason](/reason)：理由、原因
+- [component](/component)：部品、構成要素
 
 ---
 
 ## 📖 できればこれも
 
-- [cause](/word/cause/)：原因
-- [aspect](/word/aspect/)：側面、観点
+- [cause](/cause)：原因
+- [aspect](/aspect)：側面、観点
 
-<!-- cvid: aid30_bid23 -->
+<!-- cvid: aid40_bid26 -->

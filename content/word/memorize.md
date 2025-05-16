@@ -81,15 +81,19 @@ TOEICでは主にPart 5の語彙問題で出題されることが多く、学習
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の語彙問題で出題されることが多く、学習
 ## 🤔  remember との違いは？
 
 - **memorize**：意識的に「覚える」「暗記する」ことを表す
-- **[remember](/word/remember/)**：自然に「思い出す」「覚えている」ことを表す
+- **[remember](/remember)**：自然に「思い出す」「覚えている」ことを表す
 
 memorizeは「努力して記憶に入れる」ニュアンス、rememberは「記憶から呼び起こす」ニュアンスです。
 
@@ -105,14 +109,14 @@ memorizeは「努力して記憶に入れる」ニュアンス、rememberは「�
 
 ## 🧩 あわせて覚えたい
 
-- [recall](/word/recall/)：思い出す、呼び戻す
-- [forget](/word/forget/)：忘れる
+- [recall](/recall)：思い出す、呼び戻す
+- [forget](/forget)：忘れる
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/word/practice/)：練習する
-- [review](/word/review/)：復習する
+- [practice](/practice)：練習する
+- [review](/review)：復習する
 
-<!-- cvid: aid31_bid00 -->
+<!-- cvid: aid29_bid34 -->

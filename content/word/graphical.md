@@ -81,15 +81,19 @@ ITやビジネス文書の中で、図やイラスト、インターフェース
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書の中で、図やイラスト、インターフェース
 ## 🤔  visual との違いは？
 
 - **graphical**：図やイラスト、グラフなど「図式的・画像的」なものに特化して使う
-- **[visual](/word/visual/)**：より広く「視覚的な」「見えるもの全般」に使う
+- **[visual](/visual)**：より広く「視覚的な」「見えるもの全般」に使う
 
 graphicalは「図やグラフなどの図式的な表現」に焦点があり、visualは「視覚に関するもの全般」に使われます。
 
@@ -105,14 +109,14 @@ graphicalは「図やグラフなどの図式的な表現」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [textual](/word/textual/)：文章の、テキストの
-- [pictorial](/word/pictorial/)：絵による、絵画的な
+- [textual](/textual)：文章の、テキストの
+- [pictorial](/pictorial)：絵による、絵画的な
 
 ---
 
 ## 📖 できればこれも
 
-- [graphic](/word/graphic/)：図、イラスト
-- [diagram](/word/diagram/)：図表、ダイアグラム
+- [graphic](/graphic)：図、イラスト
+- [diagram](/diagram)：図表、ダイアグラム
 
-<!-- cvid: aid29_bid38 -->
+<!-- cvid: aid16_bid30 -->

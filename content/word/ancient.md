@@ -81,15 +81,19 @@ TOEICでは歴史や文化に関する長文や説明文で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や文化に関する長文や説明文で見かけることが
 ## 🤔  antique との違いは？
 
 - **ancient**：非常に昔の、特に歴史的に古いものに使う
-- **[antique](/word/antique/)**：骨董品など「古くて価値のある物」に使う
+- **[antique](/antique)**：骨董品など「古くて価値のある物」に使う
 
 ancientは時代的に「非常に古い」ことを強調し、antiqueは「古くて価値がある物（家具・美術品など）」に限定して使います。
 
@@ -105,15 +109,15 @@ ancientは時代的に「非常に古い」ことを強調し、antiqueは「古
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern/)：現代の、新しい
-- [historic](/word/historic/)：歴史的に重要な
+- [modern](/modern)：現代の、新しい
+- [historic](/historic)：歴史的に重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [medieval](/word/medieval/)：中世の
-- [classical](/word/classical/)：古典的な、古代ギリシャ・ローマの
+- [medieval](/medieval)：中世の
+- [classical](/classical)：古典的な、古代ギリシャ・ローマの
 
 
-<!-- cvid: aid12_bid30 -->
+<!-- cvid: aid14_bid46 -->

@@ -77,15 +77,19 @@ TOEICでは文法問題で接続詞の使い分けや適切な選択肢として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは文法問題で接続詞の使い分けや適切な選択肢として
 ## 🤔  transition との違いは？
 
 - **conjunction**：語や文、句を文法的に結びつける接続詞やその役割。
-- **[transition](/word/transition/)**：話や文章の流れを滑らかにするためのつなぎ言葉や表現。
+- **[transition](/transition)**：話や文章の流れを滑らかにするためのつなぎ言葉や表現。
 
 conjunctionは文法的な結合を担い、transitionは話題や段落の移り変わりを自然にする役割です。
 
@@ -101,14 +105,14 @@ conjunctionは文法的な結合を担い、transitionは話題や段落の移�
 
 ## 🧩 あわせて覚えたい
 
-- [preposition](/word/preposition/)：前置詞（名詞や代名詞の前に置き、関係を示す語）
-- [however](/word/however/)：しかしながら（逆接を表す副詞・接続副詞）
+- [preposition](/preposition)：前置詞（名詞や代名詞の前に置き、関係を示す語）
+- [however](/however)：しかしながら（逆接を表す副詞・接続副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause/)：節（主語と動詞を含む文の一部）
-- [phrase](/word/phrase/)：句（意味を持つ語のまとまり、主語・動詞を含まないことが多い）
+- [clause](/clause)：節（主語と動詞を含む文の一部）
+- [phrase](/phrase)：句（意味を持つ語のまとまり、主語・動詞を含まないことが多い）
 
-<!-- cvid: aid42_bid23 -->
+<!-- cvid: aid30_bid46 -->

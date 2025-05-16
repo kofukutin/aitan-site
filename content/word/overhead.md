@@ -81,15 +81,19 @@ TOEICではビジネス文書や会議の議事録、財務関連の長文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議の議事録、財務関連の長文で「
 ## 🤔  expense との違いは？
 
 - **overhead**：特定の製品やサービスに直接結びつかない、会社全体の運営に必要な間接費。
-- **[expense](/word/expense/)**：特定の目的や活動にかかった費用全般。
+- **[expense](/expense)**：特定の目的や活動にかかった費用全般。
 
 overheadは「間接費」に限定されるのに対し、expenseは「費用」全般を指し、直接費も含みます。
 
@@ -105,14 +109,14 @@ overheadは「間接費」に限定されるのに対し、expenseは「費用�
 
 ## 🧩 あわせて覚えたい
 
-- [cost](/word/cost/)：コスト、費用
-- [revenue](/word/revenue/)：収益
+- [cost](/cost)：コスト、費用
+- [revenue](/revenue)：収益
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget/)：予算
-- [profit](/word/profit/)：利益
+- [budget](/budget)：予算
+- [profit](/profit)：利益
 
-<!-- cvid: aid24_bid01 -->
+<!-- cvid: aid34_bid45 -->

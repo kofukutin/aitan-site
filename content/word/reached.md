@@ -82,15 +82,19 @@ TOEICでは、目的地への到着や目標達成、連絡を取る場面でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、目的地への到着や目標達成、連絡を取る場面でよ
 ## 🤔  arrive との違いは？
 
 - **reached**：目的地や目標に「到達した」「連絡した」など幅広く使える
-- **[arrive](/word/arrive/)**：「到着する」の意味で、場所に着くことに特化
+- **[arrive](/arrive)**：「到着する」の意味で、場所に着くことに特化
 
 reachedは「目標達成」や「連絡」など幅広い到達を表し、arriveは「場所に着く」ことだけに使います。
 
@@ -106,14 +110,14 @@ reachedは「目標達成」や「連絡」など幅広い到達を表し、arri
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/word/contact/)：連絡する
-- [achieve](/word/achieve/)：達成する
+- [contact](/contact)：連絡する
+- [achieve](/achieve)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [receive](/word/receive/)：受け取る
+- [send](/send)：送る
+- [receive](/receive)：受け取る
 
-<!-- cvid: aid29_bid27 -->
+<!-- cvid: aid11_bid18 -->

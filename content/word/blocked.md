@@ -81,15 +81,19 @@ blockedは、TOEICの会話や説明文で「通路がふさがれている」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ blockedは、TOEICの会話や説明文で「通路がふさがれている」�
 ## 🤔  closed との違いは？
 
 - **blocked**：物理的・技術的に「ふさがれて通れない」「妨げられている」状態
-- **[closed](/word/closed/)**：通常の「閉まっている」「営業していない」状態
+- **[closed](/closed)**：通常の「閉まっている」「営業していない」状態
 
 blockedは障害物や制限による「通れない・使えない」ニュアンスが強く、closedは単に「閉じている」や「営業していない」ことを表します。
 
@@ -105,14 +109,14 @@ blockedは障害物や制限による「通れない・使えない」ニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [obstructed](/word/obstructed/)：（障害物などで）妨げられた
-- [accessible](/word/accessible/)：アクセスできる、利用可能な
+- [obstructed](/obstructed)：（障害物などで）妨げられた
+- [accessible](/accessible)：アクセスできる、利用可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [locked](/word/locked/)：鍵がかかっている
-- [available](/word/available/)：利用できる、手に入る
+- [locked](/locked)：鍵がかかっている
+- [available](/available)：利用できる、手に入る
 
-<!-- cvid: aid11_bid26 -->
+<!-- cvid: aid41_bid18 -->

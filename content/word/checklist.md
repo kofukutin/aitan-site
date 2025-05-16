@@ -81,15 +81,19 @@ TOEICでは、会議や業務手順に関する文脈で「checklist」が頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や業務手順に関する文脈で「checklist」が頻出
 ## 🤔  schedule との違いは？
 
 - **checklist**：やるべきことや確認事項をリスト化したもの
-- **[schedule](/word/schedule/)**：予定や時間割など、時間に沿った計画表
+- **[schedule](/schedule)**：予定や時間割など、時間に沿った計画表
 
 checklistは「やること・確認事項の一覧」、scheduleは「時間や順序に沿った予定表」という違いがあります。
 
@@ -105,14 +109,14 @@ checklistは「やること・確認事項の一覧」、scheduleは「時間や
 
 ## 🧩 あわせて覚えたい
 
-- [inventory](/word/inventory/)：在庫、棚卸し
-- [procedure](/word/procedure/)：手順、手続き
+- [inventory](/inventory)：在庫、棚卸し
+- [procedure](/procedure)：手順、手続き
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類、文書
-- [agenda](/word/agenda/)：議題、会議の予定表
+- [document](/document)：書類、文書
+- [agenda](/agenda)：議題、会議の予定表
 
-<!-- cvid: aid03_bid44 -->
+<!-- cvid: aid30_bid40 -->

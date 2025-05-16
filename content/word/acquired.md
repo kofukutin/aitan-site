@@ -81,15 +81,19 @@ TOEICでは「acquired skills（習得したスキル）」や「acquired knowle
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「acquired skills（習得したスキル）」や「acquired knowle
 ## 🤔  learned との違いは？
 
 - **acquired**：経験や努力によって「身につけた」「後天的な」という意味を強調
-- **[learned](/word/learned/)**：学習や勉強によって「学んだ」「知識がある」という意味
+- **[learned](/learned)**：学習や勉強によって「学んだ」「知識がある」という意味
 
 acquiredは「生まれつきではなく、後から得た」ことを強調し、learnedは「学習によって知識や技術を得た」ことに焦点があります。
 
@@ -105,14 +109,14 @@ acquiredは「生まれつきではなく、後から得た」ことを強調し
 
 ## 🧩 あわせて覚えたい
 
-- [inherent](/word/inherent/)：生まれつきの、固有の
-- [obtain](/word/obtain/)：得る、手に入れる
+- [inherent](/inherent)：生まれつきの、固有の
+- [obtain](/obtain)：得る、手に入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/word/required/)：必要とされる、必須の
-- [achieve](/word/achieve/)：達成する、成し遂げる
+- [required](/required)：必要とされる、必須の
+- [achieve](/achieve)：達成する、成し遂げる
 
-<!-- cvid: aid16_bid24 -->
+<!-- cvid: aid45_bid38 -->

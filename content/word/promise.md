@@ -81,15 +81,19 @@ promiseはTOEICの会話パートで「約束する」「約束を守る」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ promiseはTOEICの会話パートで「約束する」「約束を守る」な�
 ## 🤔  guarantee との違いは？
 
 - **promise**：個人間や口頭での「約束」に使われることが多い。
-- **[guarantee](/word/guarantee/)**：法的・公式な「保証」や「保障」に使われる。
+- **[guarantee](/guarantee)**：法的・公式な「保証」や「保障」に使われる。
 
 promiseは気持ちや信頼に基づく約束、guaranteeは契約や証明書など公式な保証に使われます。
 
@@ -105,14 +109,14 @@ promiseは気持ちや信頼に基づく約束、guaranteeは契約や証明書�
 
 ## 🧩 あわせて覚えたい
 
-- [commitment](/word/commitment/)：強い約束、責任
-- [assurance](/word/assurance/)：保証、確信
+- [commitment](/commitment)：強い約束、責任
+- [assurance](/assurance)：保証、確信
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、取り決め
-- [plan](/word/plan/)：計画
+- [agreement](/agreement)：合意、取り決め
+- [plan](/plan)：計画
 
-<!-- cvid: aid12_bid43 -->
+<!-- cvid: aid36_bid29 -->

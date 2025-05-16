@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「強調」や「確認」の意味でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「強調」や「確認」の意味でよく登
 ## 🤔  actually との違いは？
 
 - **really**：本当に、強調や感情を込めて使う
-- **[actually](/word/actually/)**：実は、事実を訂正・説明する時に使う
+- **[actually](/actually)**：実は、事実を訂正・説明する時に使う
 
 reallyは感情や強調を表すのに対し、actuallyは「実際には」「本当は」と事実や訂正を伝える時に使います。
 
@@ -105,14 +109,14 @@ reallyは感情や強調を表すのに対し、actuallyは「実際には」「
 
 ## 🧩 あわせて覚えたい
 
-- [truly](/word/truly/)：本当に（よりフォーマル・誠実な響き）
-- [seriously](/word/seriously/)：本気で、真剣に
+- [truly](/truly)：本当に（よりフォーマル・誠実な響き）
+- [seriously](/seriously)：本気で、真剣に
 
 ---
 
 ## 📖 できればこれも
 
-- [quite](/word/quite/)：かなり、相当
-- [just](/word/just/)：ちょうど、たった今
+- [quite](/quite)：かなり、相当
+- [just](/just)：ちょうど、たった今
 
-<!-- cvid: aid05_bid35 -->
+<!-- cvid: aid06_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは、報告書やメール、記事などで「情報が明らかにな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書やメール、記事などで「情報が明らかにな
 ## 🤔  disclosed との違いは？
 
 - **revealed**：隠されていた事実や情報を明らかにする、感情や秘密にも使える
-- **[disclosed](/word/disclosed/)**：主に公式・法的な場面で情報を開示する
+- **[disclosed](/disclosed)**：主に公式・法的な場面で情報を開示する
 
 「revealed」は個人的な秘密や感情にも使えますが、「disclosed」はビジネスや法律など公式な情報公開に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、報告書やメール、記事などで「情報が明らかにな
 
 ## 🧩 あわせて覚えたい
 
-- [hide](/word/hide/)：隠す
-- [announce](/word/announce/)：発表する
+- [hide](/hide)：隠す
+- [announce](/announce)：発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [uncover](/word/uncover/)：発見する、暴く
-- [expose](/word/expose/)：さらす、暴露する
+- [uncover](/uncover)：発見する、暴く
+- [expose](/expose)：さらす、暴露する
 
-<!-- cvid: aid23_bid00 -->
+<!-- cvid: aid10_bid23 -->

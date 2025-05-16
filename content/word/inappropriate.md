@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やメールの中で「不適切な行動」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やメールの中で「不適切な行動」や
 ## 🤔  improper との違いは？
 
 - **inappropriate**：状況や場面に合わず「ふさわしくない」「不適切な」
-- **[improper](/word/improper/)**：規則や基準に反して「不正な」「不作法な」
+- **[improper](/improper)**：規則や基準に反して「不正な」「不作法な」
 
 inappropriateは「場にそぐわない」ニュアンス、improperは「ルールやマナー違反」の意味合いが強いです。
 
@@ -105,14 +109,14 @@ inappropriateは「場にそぐわない」ニュアンス、improperは「ル�
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/word/suitable/)：適切な、ふさわしい
-- [unacceptable](/word/unacceptable/)：受け入れられない
+- [suitable](/suitable)：適切な、ふさわしい
+- [unacceptable](/unacceptable)：受け入れられない
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant/)：関連がある
-- [adequate](/word/adequate/)：十分な、適切な
+- [relevant](/relevant)：関連がある
+- [adequate](/adequate)：十分な、適切な
 
-<!-- cvid: aid30_bid03 -->
+<!-- cvid: aid07_bid11 -->

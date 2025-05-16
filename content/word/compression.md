@@ -81,15 +81,19 @@ ITやビジネス文書、技術的な説明文で「compression」はファイ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、技術的な説明文で「compression」はファイ�
 ## 🤔  condensation との違いは？
 
 - **compression**：物理的・データ的に「圧縮」すること、サイズや体積を小さくすること
-- **[condensation](/word/condensation/)**：気体が液体になる「凝縮」や、要点をまとめる「要約」
+- **[condensation](/condensation)**：気体が液体になる「凝縮」や、要点をまとめる「要約」
 
 compressionは「押し縮める」イメージ、condensationは「集めて濃縮する」や「液体化」の意味で使い分けます。
 
@@ -105,14 +109,14 @@ compressionは「押し縮める」イメージ、condensationは「集めて濃
 
 ## 🧩 あわせて覚えたい
 
-- [decompression](/word/decompression/)：解凍、圧縮解除
-- [reduction](/word/reduction/)：削減、縮小
+- [decompression](/decompression)：解凍、圧縮解除
+- [reduction](/reduction)：削減、縮小
 
 ---
 
 ## 📖 できればこれも
 
-- [expansion](/word/expansion/)：拡大、膨張
-- [minimize](/word/minimize/)：最小化する
+- [expansion](/expansion)：拡大、膨張
+- [minimize](/minimize)：最小化する
 
-<!-- cvid: aid43_bid43 -->
+<!-- cvid: aid38_bid04 -->

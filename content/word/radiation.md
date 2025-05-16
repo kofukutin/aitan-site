@@ -81,15 +81,19 @@ TOEICでは、科学技術や環境問題に関する長文や説明文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学技術や環境問題に関する長文や説明文で登場
 ## 🤔  emission との違いは？
 
 - **radiation**：エネルギーや粒子が空間に放出される現象やそのもの（特に放射線や熱、光など）。
-- **[emission](/word/emission/)**：ガスや煙、光などが外部に排出・放出されること（特に環境問題や工場排出物で使う）。
+- **[emission](/emission)**：ガスや煙、光などが外部に排出・放出されること（特に環境問題や工場排出物で使う）。
 
 radiationは主にエネルギーや放射線の拡散を指し、emissionは物質やガスなどの排出に使われます。
 
@@ -105,14 +109,14 @@ radiationは主にエネルギーや放射線の拡散を指し、emissionは物
 
 ## 🧩 あわせて覚えたい
 
-- [contamination](/word/contamination/)：汚染
-- [exposure](/word/exposure/)：被曝、さらされること
+- [contamination](/contamination)：汚染
+- [exposure](/exposure)：被曝、さらされること
 
 ---
 
 ## 📖 できればこれも
 
-- [atom](/word/atom/)：原子
-- [energy](/word/energy/)：エネルギー
+- [atom](/atom)：原子
+- [energy](/energy)：エネルギー
 
-<!-- cvid: aid22_bid18 -->
+<!-- cvid: aid35_bid00 -->

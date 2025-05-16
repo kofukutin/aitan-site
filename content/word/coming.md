@@ -81,15 +81,19 @@ TOEICでは、会議や予定、イベントの話題で「coming week」「comi
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や予定、イベントの話題で「coming week」「comi
 ## 🤔  arrival との違いは？
 
 - **coming**：これからやってくること、到来（やや広い意味）
-- **[arrival](/word/arrival/)**：到着（特定の人や物が着くこと）
+- **[arrival](/arrival)**：到着（特定の人や物が着くこと）
 
 comingは「これからやってくること」全般を指し、arrivalは「到着」という具体的な瞬間や行為を指します。
 
@@ -105,14 +109,14 @@ comingは「これからやってくること」全般を指し、arrivalは「�
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure/)：出発
-- [approach](/word/approach/)：接近、近づくこと
+- [departure](/departure)：出発
+- [approach](/approach)：接近、近づくこと
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議
-- [schedule](/word/schedule/)：予定、スケジュール
+- [meeting](/meeting)：会議
+- [schedule](/schedule)：予定、スケジュール
 
-<!-- cvid: aid32_bid39 -->
+<!-- cvid: aid22_bid18 -->

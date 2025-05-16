@@ -82,15 +82,19 @@ upgradeはITやビジネスの文脈で頻出し、特に「システムをア�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ upgradeはITやビジネスの文脈で頻出し、特に「システムをア�
 ## 🤔  update との違いは？
 
 - **upgrade**：より高いレベルや性能に引き上げること（例：新機能追加や上位モデルへの変更）
-- **[update](/word/update/)**：最新の状態にすること（例：情報やソフトを新しくする）
+- **[update](/update)**：最新の状態にすること（例：情報やソフトを新しくする）
 
 upgradeは「質や等級を上げる」ニュアンスが強く、updateは「新しい状態に保つ」意味で使い分けます。
 
@@ -106,14 +110,14 @@ upgradeは「質や等級を上げる」ニュアンスが強く、updateは「�
 
 ## 🧩 あわせて覚えたい
 
-- [improve](/word/improve/)：改善する、より良くする
-- [enhance](/word/enhance/)：高める、強化する
+- [improve](/improve)：改善する、より良くする
+- [enhance](/enhance)：高める、強化する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [replace](/word/replace/)：取り替える、交換する
+- [install](/install)：インストールする、設置する
+- [replace](/replace)：取り替える、交換する
 
-<!-- cvid: aid35_bid27 -->
+<!-- cvid: aid01_bid16 -->

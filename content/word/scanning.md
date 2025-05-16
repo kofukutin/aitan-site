@@ -81,15 +81,19 @@ TOEICのPart 7で「特定情報を探す読み方」として頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で「特定情報を探す読み方」として頻出します。
 ## 🤔  skimming との違いは？
 
 - **scanning**：特定の情報やキーワードを素早く探すこと
-- **[skimming](/word/skimming/)**：全体の大意をつかむためにざっと読むこと
+- **[skimming](/skimming)**：全体の大意をつかむためにざっと読むこと
 
 scanningは「何か特定のものを探す」読み方、skimmingは「全体の内容をざっくり把握する」読み方です。
 
@@ -105,14 +109,14 @@ scanningは「何か特定のものを探す」読み方、skimmingは「全体�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection/)：検査、点検
-- [browsing](/word/browsing/)：ざっと見ること、閲覧
+- [inspection](/inspection)：検査、点検
+- [browsing](/browsing)：ざっと見ること、閲覧
 
 ---
 
 ## 📖 できればこれも
 
-- [analyzing](/word/analyzing/)：分析すること
-- [checking](/word/checking/)：確認すること
+- [analyzing](/analyzing)：分析すること
+- [checking](/checking)：確認すること
 
-<!-- cvid: aid24_bid00 -->
+<!-- cvid: aid27_bid28 -->

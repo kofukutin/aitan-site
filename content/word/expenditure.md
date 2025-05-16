@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や報告書、会計関連の長文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や報告書、会計関連の長文で登場
 ## 🤔  expense との違いは？
 
 - **expenditure**：組織や政府などの大きな「支出」「経費」を指すフォーマルな表現
-- **[expense](/word/expense/)**：日常的な「費用」「出費」を指し、個人や小規模な支出にも使う
+- **[expense](/expense)**：日常的な「費用」「出費」を指し、個人や小規模な支出にも使う
 
 expenditureは大規模・公式な支出に使い、expenseは日常的・個人的な費用に幅広く使います。
 
@@ -105,14 +109,14 @@ expenditureは大規模・公式な支出に使い、expenseは日常的・個�
 
 ## 🧩 あわせて覚えたい
 
-- [revenue](/word/revenue/)：収入、売上
-- [investment](/word/investment/)：投資
+- [revenue](/revenue)：収入、売上
+- [investment](/investment)：投資
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget/)：予算
-- [cost](/word/cost/)：コスト、費用
+- [budget](/budget)：予算
+- [cost](/cost)：コスト、費用
 
-<!-- cvid: aid12_bid02 -->
+<!-- cvid: aid21_bid47 -->

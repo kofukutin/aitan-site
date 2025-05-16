@@ -81,15 +81,19 @@ TOEICでは、ビジネスや会議の文脈で「側面」「観点」として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや会議の文脈で「側面」「観点」として
 ## 🤔  perspective との違いは？
 
 - **aspect**：物事の一つの側面や要素、観点
-- **[perspective](/word/perspective/)**：物事をどう見るかという「視点」や「考え方」
+- **[perspective](/perspective)**：物事をどう見るかという「視点」や「考え方」
 
 aspectは「部分的な側面」や「要素」に焦点を当て、perspectiveは「全体をどう捉えるか」という見方や立場に重点があります。
 
@@ -105,14 +109,14 @@ aspectは「部分的な側面」や「要素」に焦点を当て、perspective
 
 ## 🧩 あわせて覚えたい
 
-- [factor](/word/factor/)：要因、要素
-- [feature](/word/feature/)：特徴、特性
+- [factor](/factor)：要因、要素
+- [feature](/feature)：特徴、特性
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/word/detail/)：詳細、細部
-- [element](/word/element/)：要素、成分
+- [detail](/detail)：詳細、細部
+- [element](/element)：要素、成分
 
-<!-- cvid: aid37_bid48 -->
+<!-- cvid: aid06_bid30 -->

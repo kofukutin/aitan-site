@@ -81,15 +81,19 @@ TOEICでは、文書の修正や追加説明の場面で「insertion」が使わ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文書の修正や追加説明の場面で「insertion」が使わ
 ## 🤔  input との違いは？
 
 - **insertion**：物理的・具体的な「挿入」や「差し込み」を表す。
-- **[input](/word/input/)**：情報やデータなど「入力」全般を指し、抽象的な意味も含む。
+- **[input](/input)**：情報やデータなど「入力」全般を指し、抽象的な意味も含む。
 
 insertionは「何かを中に差し込む」動作やその結果を指し、inputは「情報やデータを与える」広い意味で使われます。
 
@@ -105,14 +109,14 @@ insertionは「何かを中に差し込む」動作やその結果を指し、in
 
 ## 🧩 あわせて覚えたい
 
-- [removal](/word/removal/)：除去、取り除くこと
-- [addition](/word/addition/)：追加、加えること
+- [removal](/removal)：除去、取り除くこと
+- [addition](/addition)：追加、加えること
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/word/installation/)：設置、インストール
-- [integration](/word/integration/)：統合、組み込み
+- [installation](/installation)：設置、インストール
+- [integration](/integration)：統合、組み込み
 
-<!-- cvid: aid46_bid49 -->
+<!-- cvid: aid47_bid04 -->

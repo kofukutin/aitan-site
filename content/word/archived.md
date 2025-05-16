@@ -81,15 +81,19 @@ TOEICではITやビジネス文書の中で、データや書類の管理に関�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書の中で、データや書類の管理に関�
 ## 🤔  stored との違いは？
 
 - **archived**：長期保存や記録目的で整理して保管する
-- **[stored](/word/stored/)**：単に保存・保管する（整理や長期性は問わない）
+- **[stored](/stored)**：単に保存・保管する（整理や長期性は問わない）
 
 archivedは「記録として整理して保管する」ニュアンスが強く、storedは「どこかにしまう」程度の一般的な保存を指します。
 
@@ -105,14 +109,14 @@ archivedは「記録として整理して保管する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [delete](/word/delete/)：削除する
-- [retrieve](/word/retrieve/)：取り出す、回収する
+- [delete](/delete)：削除する
+- [retrieve](/retrieve)：取り出す、回収する
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach/)：添付する
-- [update](/word/update/)：更新する
+- [attach](/attach)：添付する
+- [update](/update)：更新する
 
-<!-- cvid: aid24_bid37 -->
+<!-- cvid: aid02_bid19 -->

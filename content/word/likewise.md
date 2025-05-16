@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【likewise】の意味・使い方・例文 ― similarlyとの違い【TOEIC英単語】"
 description: "likewiseの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsimilarlyとの違いもわかりやすく学べます。"
 word: "likewise"
@@ -77,15 +77,19 @@ TOEICでは、メールや記事などの長文中で「同様に」「同じく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、メールや記事などの長文中で「同様に」「同じく
 ## 🤔  similarly との違いは？
 
 - **likewise**：前述や相手の発言に「同じく」「同様に」と返すときや、2つの事柄の類似性を述べるときに使う。
-- **[similarly](/word/similarly/)**：2つ以上の事柄の「類似点」を説明的に述べるときに使う。
+- **[similarly](/similarly)**：2つ以上の事柄の「類似点」を説明的に述べるときに使う。
 
 likewiseは会話や返答で「私も同じです」と返すニュアンスが強く、similarlyは説明文で「同様に」と論理的に並列する際に使います。
 
@@ -101,14 +105,14 @@ likewiseは会話や返答で「私も同じです」と返すニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [also](/word/also/)：～もまた
-- [however](/word/however/)：しかしながら
+- [also](/also)：～もまた
+- [however](/however)：しかしながら
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [meanwhile](/word/meanwhile/)：その間に
+- [therefore](/therefore)：それゆえに
+- [meanwhile](/meanwhile)：その間に
 
-<!-- cvid: aid21_bid16 -->
+<!-- cvid: aid00_bid27 -->

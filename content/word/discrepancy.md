@@ -80,15 +80,19 @@ TOEICでは主にビジネス文書や報告書の中で、データや記録の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にビジネス文書や報告書の中で、データや記録の
 ## 🤔  inconsistency との違いは？
 
 - **discrepancy**：主に数字や事実、記録などの「客観的な不一致・食い違い」を指す
-- **[inconsistency](/word/inconsistency/)**：言動や態度、論理などの「一貫性のなさ・矛盾」を指す
+- **[inconsistency](/inconsistency)**：言動や態度、論理などの「一貫性のなさ・矛盾」を指す
 
 discrepancyは客観的なデータや記録の違いに使い、inconsistencyは考えや行動の一貫性のなさに使います。
 
@@ -104,14 +108,14 @@ discrepancyは客観的なデータや記録の違いに使い、inconsistency�
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict/)：対立、衝突
-- [agreement](/word/agreement/)：一致、合意
+- [conflict](/conflict)：対立、衝突
+- [agreement](/agreement)：一致、合意
 
 ---
 
 ## 📖 できればこれも
 
-- [deviation](/word/deviation/)：逸脱、ずれ
-- [variance](/word/variance/)：変動、ばらつき
+- [deviation](/deviation)：逸脱、ずれ
+- [variance](/variance)：変動、ばらつき
 
-<!-- cvid: aid33_bid36 -->
+<!-- cvid: aid39_bid27 -->

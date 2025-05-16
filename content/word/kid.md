@@ -81,15 +81,19 @@ kidはTOEICのリスニングパートで、カジュアルな会話や家族に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid40_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ kidはTOEICのリスニングパートで、カジュアルな会話や家族に
 ## 🤔  child との違いは？
 
 - **kid**：カジュアルな「子ども」の言い方。日常会話でよく使う。
-- **[child](/word/child/)**：フォーマルまたは一般的な「子ども」。書き言葉や公式な場面で使う。
+- **[child](/child)**：フォーマルまたは一般的な「子ども」。書き言葉や公式な場面で使う。
 
 kidは親しみやすい響きで、childはやや堅め・正式な印象です。
 
@@ -105,14 +109,14 @@ kidは親しみやすい響きで、childはやや堅め・正式な印象です
 
 ## 🧩 あわせて覚えたい
 
-- [teenager](/word/teenager/)：10代の若者
-- [adult](/word/adult/)：大人
+- [teenager](/teenager)：10代の若者
+- [adult](/adult)：大人
 
 ---
 
 ## 📖 できればこれも
 
-- [baby](/word/baby/)：赤ちゃん
-- [parent](/word/parent/)：親
+- [baby](/baby)：赤ちゃん
+- [parent](/parent)：親
 
-<!-- cvid: aid29_bid11 -->
+<!-- cvid: aid40_bid01 -->

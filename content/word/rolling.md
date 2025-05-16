@@ -81,15 +81,19 @@ TOEIC Part 1の写真描写で、物や人が「転がっている」「回転�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEIC Part 1の写真描写で、物や人が「転がっている」「回転�
 ## 🤔  rotating との違いは？
 
 - **rolling**：地面や表面を転がる、滑らかに動く様子を表す
-- **[rotating](/word/rotating/)**：中心軸を回転する動きを表す
+- **[rotating](/rotating)**：中心軸を回転する動きを表す
 
 rollingは「転がる」動き全般に使い、rotatingは「その場で回転する」動きに限定されます。
 
@@ -105,14 +109,14 @@ rollingは「転がる」動き全般に使い、rotatingは「その場で回�
 
 ## 🧩 あわせて覚えたい
 
-- [continuous](/word/continuous/)：連続した、継続的な
-- [move](/word/move/)：動く、移動する
+- [continuous](/continuous)：連続した、継続的な
+- [move](/move)：動く、移動する
 
 ---
 
 ## 📖 できればこれも
 
-- [turning](/word/turning/)：回る、向きを変える
-- [spinning](/word/spinning/)：素早く回転する
+- [turning](/turning)：回る、向きを変える
+- [spinning](/spinning)：素早く回転する
 
-<!-- cvid: aid05_bid34 -->
+<!-- cvid: aid47_bid18 -->

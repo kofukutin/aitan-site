@@ -81,15 +81,19 @@ TOEICでは、ホテルやサービス業のシーンで「快適さ」や「安
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやサービス業のシーンで「快適さ」や「安
 ## 🤔  convenience との違いは？
 
 - **comfort**：心身の快適さや安心感、物理的・精神的な「心地よさ」
-- **[convenience](/word/convenience/)**：利便性、便利さ、手間がかからないこと
+- **[convenience](/convenience)**：利便性、便利さ、手間がかからないこと
 
 comfortは「気持ちよさ」や「安心感」に重点があり、convenienceは「便利さ」や「効率の良さ」に重点があります。
 
@@ -105,14 +109,14 @@ comfortは「気持ちよさ」や「安心感」に重点があり、convenienc
 
 ## 🧩 あわせて覚えたい
 
-- [relief](/word/relief/)：安心、安堵
-- [luxury](/word/luxury/)：贅沢、豪華さ
+- [relief](/relief)：安心、安堵
+- [luxury](/luxury)：贅沢、豪華さ
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support/)：支援、サポート
-- [ease](/word/ease/)：気楽さ、容易さ
+- [support](/support)：支援、サポート
+- [ease](/ease)：気楽さ、容易さ
 
-<!-- cvid: aid48_bid00 -->
+<!-- cvid: aid33_bid36 -->

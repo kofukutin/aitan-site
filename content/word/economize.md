@@ -81,15 +81,19 @@ TOEICではPart 5の語彙問題で、節約やコスト削減に関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid06" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid06" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙問題で、節約やコスト削減に関する文脈
 ## 🤔  save との違いは？
 
 - **economize**：無駄を省いて全体的に節約する（フォーマル）
-- **[save](/word/save/)**：お金や時間などを「貯める」「節約する」（カジュアル・幅広い場面）
+- **[save](/save)**：お金や時間などを「貯める」「節約する」（カジュアル・幅広い場面）
 
 economizeは「無駄を省く」ニュアンスが強く、saveは「貯める」「節約する」と幅広く使われます。
 
@@ -105,14 +109,14 @@ economizeは「無駄を省く」ニュアンスが強く、saveは「貯める�
 
 ## 🧩 あわせて覚えたい
 
-- [reduce](/word/reduce/)：減らす
-- [conserve](/word/conserve/)：（資源などを）大切に使う、保存する
+- [reduce](/reduce)：減らす
+- [conserve](/conserve)：（資源などを）大切に使う、保存する
 
 ---
 
 ## 📖 できればこれも
 
-- [allocate](/word/allocate/)：割り当てる、配分する
-- [budget](/word/budget/)：予算を立てる
+- [allocate](/allocate)：割り当てる、配分する
+- [budget](/budget)：予算を立てる
 
-<!-- cvid: aid48_bid11 -->
+<!-- cvid: aid21_bid06 -->

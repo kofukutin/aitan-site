@@ -81,15 +81,19 @@ TOEICではITや科学技術関連の長文や説明文で見かけることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや科学技術関連の長文や説明文で見かけることが�
 ## 🤔  calculation との違いは？
 
 - **computation**：特に機械的・論理的な計算や演算を指し、ITや科学分野でよく使われる。
-- **[calculation](/word/calculation/)**：日常的な「計算」や「算出」に広く使われ、手作業や簡単な計算にも用いられる。
+- **[calculation](/calculation)**：日常的な「計算」や「算出」に広く使われ、手作業や簡単な計算にも用いられる。
 
 computationは複雑な処理やコンピュータによる演算に重点があり、calculationはより一般的・日常的な計算全般に使われます。
 
@@ -105,13 +109,13 @@ computationは複雑な処理やコンピュータによる演算に重点があ
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/word/analysis/)：分析
-- [estimation](/word/estimation/)：見積もり、推定
+- [analysis](/analysis)：分析
+- [estimation](/estimation)：見積もり、推定
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
-- [process](/word/process/)：過程、処理
-<!-- cvid: aid46_bid09 -->
+- [algorithm](/algorithm)：アルゴリズム、計算手順
+- [process](/process)：過程、処理
+<!-- cvid: aid30_bid16 -->

@@ -81,15 +81,19 @@ TOEICではビジネスの成長やプロジェクトの拡大に関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの成長やプロジェクトの拡大に関する文脈
 ## 🤔  extension との違いは？
 
 - **expansion**：規模や範囲が広がること、全体的な拡大
-- **[extension](/word/extension/)**：長さや期間などを「伸ばす」こと、追加や延長
+- **[extension](/extension)**：長さや期間などを「伸ばす」こと、追加や延長
 
 expansionは「全体が大きくなる」イメージ、extensionは「一部を付け足して伸ばす」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ expansionは「全体が大きくなる」イメージ、extensionは「一部�
 
 ## 🧩 あわせて覚えたい
 
-- [contraction](/word/contraction/)：収縮、縮小
-- [growth](/word/growth/)：成長、発展
+- [contraction](/contraction)：収縮、縮小
+- [growth](/growth)：成長、発展
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増加、増える
-- [development](/word/development/)：発展、開発
+- [increase](/increase)：増加、増える
+- [development](/development)：発展、開発
 
-<!-- cvid: aid46_bid30 -->
+<!-- cvid: aid13_bid49 -->

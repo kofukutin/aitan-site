@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【judicial】の意味・使い方・例文 ― legalとの違い【TOEIC英単語】"
 description: "judicialの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlegalとの違いもわかりやすく学べます。"
 word: "judicial"
@@ -81,15 +81,19 @@ TOEICでは法務関連の長文や記事、契約書の説明文などで見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid08" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid08" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは法務関連の長文や記事、契約書の説明文などで見か
 ## 🤔  legal との違いは？
 
 - **judicial**：裁判や司法制度に直接関わること
-- **[legal](/word/legal/)**：法律に関すること全般、合法・違法の区別
+- **[legal](/legal)**：法律に関すること全般、合法・違法の区別
 
 judicialは「裁判所や裁判手続き」に特化した語で、legalは「法律に関すること」全般を指します。
 
@@ -105,14 +109,14 @@ judicialは「裁判所や裁判手続き」に特化した語で、legalは「�
 
 ## 🧩 あわせて覚えたい
 
-- [legislative](/word/legislative/)：立法の、法律制定の
-- [court](/word/court/)：裁判所
+- [legislative](/legislative)：立法の、法律制定の
+- [court](/court)：裁判所
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/word/verdict/)：評決、判決
-- [trial](/word/trial/)：裁判、公判
+- [verdict](/verdict)：評決、判決
+- [trial](/trial)：裁判、公判
 
-<!-- cvid: aid11_bid29 -->
+<!-- cvid: aid40_bid08 -->

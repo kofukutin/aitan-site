@@ -81,15 +81,19 @@ activationはITやビジネス文脈で名詞として出題されることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ activationはITやビジネス文脈で名詞として出題されることが�
 ## 🤔  enable との違いは？
 
 - **activation**：何かを「有効化・起動」する行為や状態を指す名詞
-- **[enable](/word/enable/)**：何かを「可能にする」「有効にする」という動詞
+- **[enable](/enable)**：何かを「可能にする」「有効にする」という動詞
 
 activationは「有効化」という出来事や手続き自体を指し、enableは「有効にする」という動作を表します。
 
@@ -105,14 +109,14 @@ activationは「有効化」という出来事や手続き自体を指し、enab
 
 ## 🧩 あわせて覚えたい
 
-- [deactivation](/word/deactivation/)：無効化、停止
-- [initiation](/word/initiation/)：開始、始動
+- [deactivation](/deactivation)：無効化、停止
+- [initiation](/initiation)：開始、始動
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/word/installation/)：インストール、設置
-- [function](/word/function/)：機能、働き
+- [installation](/installation)：インストール、設置
+- [function](/function)：機能、働き
 
-<!-- cvid: aid30_bid00 -->
+<!-- cvid: aid16_bid22 -->

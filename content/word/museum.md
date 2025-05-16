@@ -81,15 +81,19 @@ TOEICでは観光案内やイベント情報、施設紹介の文脈でmuseumが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光案内やイベント情報、施設紹介の文脈でmuseumが
 ## 🤔  gallery との違いは？
 
 - **museum**：歴史的・科学的・芸術的な資料や作品を幅広く展示する施設
-- **[gallery](/word/gallery/)**：主に美術作品（絵画・写真など）を展示する場所
+- **[gallery](/gallery)**：主に美術作品（絵画・写真など）を展示する場所
 
 museumは幅広い分野の展示があり、galleryは芸術作品に特化している点が異なります。
 
@@ -105,14 +109,14 @@ museumは幅広い分野の展示があり、galleryは芸術作品に特化し�
 
 ## 🧩 あわせて覚えたい
 
-- [exhibition](/word/exhibition/)：展示会、展覧会
-- [archive](/word/archive/)：記録保管所、アーカイブ
+- [exhibition](/exhibition)：展示会、展覧会
+- [archive](/archive)：記録保管所、アーカイブ
 
 ---
 
 ## 📖 できればこれも
 
-- [library](/word/library/)：図書館
-- [monument](/word/monument/)：記念碑
+- [library](/library)：図書館
+- [monument](/monument)：記念碑
 
-<!-- cvid: aid06_bid25 -->
+<!-- cvid: aid41_bid37 -->

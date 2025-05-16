@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、洗濯物やクリーニング店の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、洗濯物やクリーニング店の
 ## 🤔  washing との違いは？
 
 - **laundry**：洗濯物や洗濯そのもの、クリーニング店も指す
-- **[washing](/word/washing/)**：洗う行為や洗濯物（特にイギリス英語で）
+- **[washing](/washing)**：洗う行為や洗濯物（特にイギリス英語で）
 
 laundryは洗濯物や洗濯全般を指し、washingは「洗うこと」や「洗濯物」を意味しますが、laundryの方がアメリカ英語で一般的です。
 
@@ -105,14 +109,14 @@ laundryは洗濯物や洗濯全般を指し、washingは「洗うこと」や「
 
 ## 🧩 あわせて覚えたい
 
-- [clothes](/word/clothes/)：衣類
-- [dry_cleaning](/word/dry_cleaning/)：ドライクリーニング、クリーニング店
+- [clothes](/clothes)：衣類
+- [dry_cleaning](/dry_cleaning)：ドライクリーニング、クリーニング店
 
 ---
 
 ## 📖 できればこれも
 
-- [basket](/word/basket/)：かご
-- [towel](/word/towel/)：タオル
+- [basket](/basket)：かご
+- [towel](/towel)：タオル
 
-<!-- cvid: aid43_bid29 -->
+<!-- cvid: aid45_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは科学や技術、または深刻な事態を説明する文脈で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術、または深刻な事態を説明する文脈で登
 ## 🤔  seriousness との違いは？
 
 - **gravity**：物理的な重力、または事態の深刻さ・重大さを強調するフォーマルな語
-- **[seriousness](/word/seriousness/)**：深刻さ・真剣さを表す一般的な語
+- **[seriousness](/seriousness)**：深刻さ・真剣さを表す一般的な語
 
 gravityは特に「重み」や「重大性」を強調したいときや、物理的な「重力」を指すときに使います。seriousnessはより広く「真剣さ」や「深刻さ」を表します。
 
@@ -105,14 +109,14 @@ gravityは特に「重み」や「重大性」を強調したいときや、物�
 
 ## 🧩 あわせて覚えたい
 
-- [weight](/word/weight/)：重さ、重要性
-- [levity](/word/levity/)：軽率さ、軽さ
+- [weight](/weight)：重さ、重要性
+- [levity](/levity)：軽率さ、軽さ
 
 ---
 
 ## 📖 できればこれも
 
-- [mass](/word/mass/)：質量
-- [force](/word/force/)：力
+- [mass](/mass)：質量
+- [force](/force)：力
 
-<!-- cvid: aid18_bid17 -->
+<!-- cvid: aid46_bid47 -->

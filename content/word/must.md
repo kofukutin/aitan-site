@@ -79,15 +79,19 @@ TOEICでは、義務や必要性を問う文法問題で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -103,14 +107,14 @@ mustは「自分がそう思うから絶対必要」と感じる時に使い、h
 
 ## 🧩 あわせて覚えたい
 
-- [should](/word/should/)：～すべき（義務だがmustより弱い）
-- [need](/word/need/)：～する必要がある
+- [should](/should)：～すべき（義務だがmustより弱い）
+- [need](/need)：～する必要がある
 
 ---
 
 ## 📖 できればこれも
 
-- [may](/word/may/)：～かもしれない、～してもよい
-- [can](/word/can/)：～できる
+- [may](/may)：～かもしれない、～してもよい
+- [can](/can)：～できる
 
-<!-- cvid: aid19_bid45 -->
+<!-- cvid: aid09_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネス倫理や価値観に関する長文やスピーチ文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス倫理や価値観に関する長文やスピーチ文
 ## 🤔  merit との違いは？
 
 - **virtue**：道徳的な美点や人間性の優れた点を強調
-- **[merit](/word/merit/)**：実用的・客観的な価値や長所を指す
+- **[merit](/merit)**：実用的・客観的な価値や長所を指す
 
 virtueは「人としての良さ」や「倫理的な価値」に重点があり、meritは「実際の利点」や「評価される点」に使われます。
 
@@ -105,15 +109,15 @@ virtueは「人としての良さ」や「倫理的な価値」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [vice](/word/vice/)：悪徳、欠点
-- [value](/word/value/)：価値
+- [vice](/vice)：悪徳、欠点
+- [value](/value)：価値
 
 ---
 
 ## 📖 できればこれも
 
-- [ethic](/word/ethic/)：倫理、道徳規範
-- [morality](/word/morality/)：道徳、倫理
+- [ethic](/ethic)：倫理、道徳規範
+- [morality](/morality)：道徳、倫理
 
 
-<!-- cvid: aid09_bid44 -->
+<!-- cvid: aid17_bid43 -->

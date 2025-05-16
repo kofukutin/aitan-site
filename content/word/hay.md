@@ -81,15 +81,19 @@ hayはTOEICの長文読解パートで、農業や環境に関する話題で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ hayはTOEICの長文読解パートで、農業や環境に関する話題で登
 ## 🤔  straw との違いは？
 
 - **hay**：家畜の飼料用に乾燥させた草や植物全般。
-- **[straw](/word/straw/)**：主に穀物の茎部分で、飼料や敷き藁などに使われる。
+- **[straw](/straw)**：主に穀物の茎部分で、飼料や敷き藁などに使われる。
 
 hayは家畜のエサとして使う乾燥草、strawは主に穀物の茎で、用途や素材が異なります。
 
@@ -105,14 +109,14 @@ hayは家畜のエサとして使う乾燥草、strawは主に穀物の茎で、
 
 ## 🧩 あわせて覚えたい
 
-- [grass](/word/grass/)：草、芝
-- [fodder](/word/fodder/)：家畜の飼料
+- [grass](/grass)：草、芝
+- [fodder](/fodder)：家畜の飼料
 
 ---
 
 ## 📖 できればこれも
 
-- [barn](/word/barn/)：納屋
-- [field](/word/field/)：畑、野原
+- [barn](/barn)：納屋
+- [field](/field)：畑、野原
 
-<!-- cvid: aid48_bid10 -->
+<!-- cvid: aid07_bid12 -->

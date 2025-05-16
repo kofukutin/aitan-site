@@ -81,15 +81,19 @@ TOEICでは保険や金融関連の長文で頻出し、契約書や案内文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは保険や金融関連の長文で頻出し、契約書や案内文で
 ## 🤔  policyholder との違いは？
 
 - **insured**：保険の補償を受ける「被保険者」
-- **[policyholder](/word/policyholder/)**：保険契約を結んだ「契約者」
+- **[policyholder](/policyholder)**：保険契約を結んだ「契約者」
 
 insuredは実際に保険の対象となる人、policyholderは契約書に名前がある人で、両者が同じ場合も異なる場合もあります。
 
@@ -105,14 +109,14 @@ insuredは実際に保険の対象となる人、policyholderは契約書に名�
 
 ## 🧩 あわせて覚えたい
 
-- [beneficiary](/word/beneficiary/)：受取人（保険金などの受取人）
-- [premium](/word/premium/)：保険料
+- [beneficiary](/beneficiary)：受取人（保険金などの受取人）
+- [premium](/premium)：保険料
 
 ---
 
 ## 📖 できればこれも
 
-- [coverage](/word/coverage/)：補償範囲
-- [claim](/word/claim/)：保険金請求
+- [coverage](/coverage)：補償範囲
+- [claim](/claim)：保険金請求
 
-<!-- cvid: aid12_bid43 -->
+<!-- cvid: aid29_bid34 -->

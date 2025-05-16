@@ -81,15 +81,19 @@ TOEICではITや製造業の文脈で頻出し、求人広告や社内メール�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや製造業の文脈で頻出し、求人広告や社内メール�
 ## 🤔  technician との違いは？
 
 - **engineer**：設計や開発など高度な専門知識を持つ技術者
-- **[technician](/word/technician/)**：機器の操作や保守など実務的な技術者
+- **[technician](/technician)**：機器の操作や保守など実務的な技術者
 
 engineerは理論や設計など上流工程を担うことが多く、technicianは実際の作業やメンテナンスを担当することが多いです。
 
@@ -105,14 +109,14 @@ engineerは理論や設計など上流工程を担うことが多く、technicia
 
 ## 🧩 あわせて覚えたい
 
-- [developer](/word/developer/)：開発者、プログラマー
-- [architect](/word/architect/)：建築家、設計者
+- [developer](/developer)：開発者、プログラマー
+- [architect](/architect)：建築家、設計者
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：プロジェクト、計画
-- [system](/word/system/)：システム、仕組み
+- [project](/project)：プロジェクト、計画
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid24_bid22 -->
+<!-- cvid: aid07_bid01 -->

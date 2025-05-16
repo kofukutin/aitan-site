@@ -81,15 +81,19 @@ TOEICでは「使い果たす」「疲れさせる」の意味で、文脈に合
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「使い果たす」「疲れさせる」の意味で、文脈に合
 ## 🤔  deplete との違いは？
 
 - **exhaust**：完全に使い果たす、または人を極度に疲れさせる
-- **[deplete](/word/deplete/)**：資源や物を徐々に減らす、枯渇させる
+- **[deplete](/deplete)**：資源や物を徐々に減らす、枯渇させる
 
 exhaustは「すべてを出し切る」ニュアンスが強く、人や物に幅広く使えますが、depleteは「徐々に減らす」意味で主に資源や物に使われます。
 
@@ -105,14 +109,14 @@ exhaustは「すべてを出し切る」ニュアンスが強く、人や物に�
 
 ## 🧩 あわせて覚えたい
 
-- [drain](/word/drain/)：徐々に流出させる、消耗させる
-- [refresh](/word/refresh/)：元気づける、回復させる
+- [drain](/drain)：徐々に流出させる、消耗させる
+- [refresh](/refresh)：元気づける、回復させる
 
 ---
 
 ## 📖 できればこれも
 
-- [consume](/word/consume/)：消費する、使い尽くす
-- [recover](/word/recover/)：回復する、取り戻す
+- [consume](/consume)：消費する、使い尽くす
+- [recover](/recover)：回復する、取り戻す
 
-<!-- cvid: aid32_bid45 -->
+<!-- cvid: aid03_bid31 -->

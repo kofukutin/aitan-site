@@ -81,15 +81,19 @@ TOEICでは主にITやビジネス文書の説明文で、ファイルやデー�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやビジネス文書の説明文で、ファイルやデー�
 ## 🤔  duplicated との違いは？
 
 - **copied**：一般的に「そのまま写す」「複製する」ことを幅広く表す
-- **[duplicated](/word/duplicated/)**：特に「まったく同じものを2つ以上作る」ニュアンスが強い
+- **[duplicated](/duplicated)**：特に「まったく同じものを2つ以上作る」ニュアンスが強い
 
 copiedは日常的な「コピー」に広く使われますが、duplicatedは「完全な複製」や「二重化」など、より厳密な一致や技術的な場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ copiedは日常的な「コピー」に広く使われますが、duplicatedは�
 
 ## 🧩 あわせて覚えたい
 
-- [paste](/word/paste/)：貼り付ける
-- [scan](/word/scan/)：スキャンする、読み取る
+- [paste](/paste)：貼り付ける
+- [scan](/scan)：スキャンする、読み取る
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print/)：印刷する
-- [save](/word/save/)：保存する
+- [print](/print)：印刷する
+- [save](/save)：保存する
 
-<!-- cvid: aid24_bid29 -->
+<!-- cvid: aid13_bid48 -->

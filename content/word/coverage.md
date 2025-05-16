@@ -81,15 +81,19 @@ TOEICでは保険やサービス内容の説明、ニュース記事などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは保険やサービス内容の説明、ニュース記事などで「
 ## 🤔  insurance との違いは？
 
 - **coverage**：補償や報道など「範囲」「及ぶ部分」を強調
-- **[insurance](/word/insurance/)**：保険そのもの、保険契約や制度を指す
+- **[insurance](/insurance)**：保険そのもの、保険契約や制度を指す
 
 coverageは「どこまで守られるか」「どこまで報道されるか」という範囲に焦点があり、insuranceは「保険」という仕組み自体を指します。
 
@@ -105,14 +109,14 @@ coverageは「どこまで守られるか」「どこまで報道されるか」
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection/)：保護、守ること
-- [policy](/word/policy/)：保険証券、方針
+- [protection](/protection)：保護、守ること
+- [policy](/policy)：保険証券、方針
 
 ---
 
 ## 📖 できればこれも
 
-- [claim](/word/claim/)：（保険の）請求
-- [benefit](/word/benefit/)：給付、利益
+- [claim](/claim)：（保険の）請求
+- [benefit](/benefit)：給付、利益
 
-<!-- cvid: aid15_bid01 -->
+<!-- cvid: aid08_bid47 -->

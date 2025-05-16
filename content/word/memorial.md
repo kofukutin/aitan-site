@@ -81,15 +81,19 @@ memorialは、観光案内や歴史的な説明文、イベント案内などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ memorialは、観光案内や歴史的な説明文、イベント案内などで
 ## 🤔  monument との違いは？
 
 - **memorial**：主に人や出来事を追悼・記念するための碑や施設
-- **[monument](/word/monument/)**：歴史的・文化的に重要な建造物や記念碑全般
+- **[monument](/monument)**：歴史的・文化的に重要な建造物や記念碑全般
 
 memorialは「追悼」の意味合いが強く、monumentは「歴史的価値」や「偉業の記念」など幅広い対象に使われます。
 
@@ -105,14 +109,14 @@ memorialは「追悼」の意味合いが強く、monumentは「歴史的価値�
 
 ## 🧩 あわせて覚えたい
 
-- [tribute](/word/tribute/)：賛辞、感謝や敬意を表すもの
-- [anniversary](/word/anniversary/)：記念日
+- [tribute](/tribute)：賛辞、感謝や敬意を表すもの
+- [anniversary](/anniversary)：記念日
 
 ---
 
 ## 📖 できればこれも
 
-- [ceremony](/word/ceremony/)：式典、儀式
-- [statue](/word/statue/)：像、彫像
+- [ceremony](/ceremony)：式典、儀式
+- [statue](/statue)：像、彫像
 
-<!-- cvid: aid29_bid45 -->
+<!-- cvid: aid46_bid09 -->

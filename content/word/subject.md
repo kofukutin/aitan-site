@@ -82,15 +82,19 @@ TOEICでは、メールや記事、案内文などで「件名」「主題」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、メールや記事、案内文などで「件名」「主題」「
 ## 🤔  topic との違いは？
 
 - **subject**：広い意味での主題や科目、研究・議論の対象
-- **[topic](/word/topic/)**：会話や文章の「話題」「トピック」
+- **[topic](/topic)**：会話や文章の「話題」「トピック」
 
 subjectは「学問の科目」や「研究・議論の対象」など幅広く使われ、topicは「会話や文章の具体的な話題」に限定されることが多いです。
 
@@ -106,14 +110,14 @@ subjectは「学問の科目」や「研究・議論の対象」など幅広く�
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/word/issue/)：問題、争点
-- [theme](/word/theme/)：テーマ、主題
+- [issue](/issue)：問題、争点
+- [theme](/theme)：テーマ、主題
 
 ---
 
 ## 📖 できればこれも
 
-- [course](/word/course/)：課程、コース
-- [matter](/word/matter/)：事柄、問題
+- [course](/course)：課程、コース
+- [matter](/matter)：事柄、問題
 
-<!-- cvid: aid05_bid27 -->
+<!-- cvid: aid09_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは、支払い・お金に関する文脈や、名詞の可算・不可
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、支払い・お金に関する文脈や、名詞の可算・不可
 ## 🤔  currency との違いは？
 
 - **coin**：金属製の「硬貨」を指す
-- **[currency](/word/currency/)**：国で使われる「通貨」全体を指す
+- **[currency](/currency)**：国で使われる「通貨」全体を指す
 
 coinは実際の硬貨のみを指し、currencyは紙幣や硬貨を含む広い意味で使われます。
 
@@ -105,14 +109,14 @@ coinは実際の硬貨のみを指し、currencyは紙幣や硬貨を含む広�
 
 ## 🧩 あわせて覚えたい
 
-- [bill](/word/bill/)：紙幣
-- [token](/word/token/)：代用貨幣、トークン
+- [bill](/bill)：紙幣
+- [token](/token)：代用貨幣、トークン
 
 ---
 
 ## 📖 できればこれも
 
-- [cash](/word/cash/)：現金
-- [note](/word/note/)：紙幣（イギリス英語）
+- [cash](/cash)：現金
+- [note](/note)：紙幣（イギリス英語）
 
-<!-- cvid: aid09_bid09 -->
+<!-- cvid: aid45_bid40 -->

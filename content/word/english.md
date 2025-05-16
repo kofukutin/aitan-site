@@ -80,15 +80,19 @@ TOEICでは、指示文や設問、メール文などで「英語で」「英語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,13 +109,13 @@ Englishは普段の会話や文章で使い、English languageは学術的・公
 ## 🧩 あわせて覚えたい
 
 - [Japanese](/Japanese)：日本語、日本人
-- [native](/word/native/)：母語話者、ネイティブ
+- [native](/native)：母語話者、ネイティブ
 
 ---
 
 ## 📖 できればこれも
 
-- [language](/word/language/)：言語
-- [lesson](/word/lesson/)：授業、レッスン
+- [language](/language)：言語
+- [lesson](/lesson)：授業、レッスン
 
-<!-- cvid: aid45_bid10 -->
+<!-- cvid: aid03_bid46 -->

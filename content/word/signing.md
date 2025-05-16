@@ -81,15 +81,19 @@ TOEICでは契約や手続きに関する文脈で「signing」が名詞とし�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や手続きに関する文脈で「signing」が名詞とし�
 ## 🤔  signature との違いは？
 
 - **signing**：署名する「行為」や「イベント」を指す
-- **[signature](/word/signature/)**：署名そのもの（名前を書いたもの）を指す
+- **[signature](/signature)**：署名そのもの（名前を書いたもの）を指す
 
 signingは「署名する動作やプロセス」、signatureは「書かれた名前」そのものを表します。契約の流れや書類の内容によって使い分けます。
 
@@ -105,14 +109,14 @@ signingは「署名する動作やプロセス」、signatureは「書かれた�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval/)：承認
-- [agreement](/word/agreement/)：合意、契約
+- [approval](/approval)：承認
+- [agreement](/agreement)：合意、契約
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約書
-- [document](/word/document/)：書類
+- [contract](/contract)：契約書
+- [document](/document)：書類
 
-<!-- cvid: aid06_bid37 -->
+<!-- cvid: aid27_bid09 -->

@@ -80,15 +80,19 @@ TOEICの長文読解（Part 7）で、契約書や指示文など「明確に述
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid37" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid37" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICの長文読解（Part 7）で、契約書や指示文など「明確に述
 ## 🤔  clearly との違いは？
 
 - **explicitly**：あいまいさがなく、明確に・はっきりと（特に言葉や文章で強調）
-- **[clearly](/word/clearly/)**：見た目や理解のしやすさを含めて「はっきりと」「明瞭に」
+- **[clearly](/clearly)**：見た目や理解のしやすさを含めて「はっきりと」「明瞭に」
 
 explicitlyは「言葉や文章で明示的に述べる」ことを強調し、clearlyは「見てすぐ分かる」「理解しやすい」など幅広い場面で使われます。
 
@@ -104,14 +108,14 @@ explicitlyは「言葉や文章で明示的に述べる」ことを強調し、c
 
 ## 🧩 あわせて覚えたい
 
-- [implicitly](/word/implicitly/)：暗黙のうちに
-- [specifically](/word/specifically/)：具体的に
+- [implicitly](/implicitly)：暗黙のうちに
+- [specifically](/specifically)：具体的に
 
 ---
 
 ## 📖 できればこれも
 
-- [precisely](/word/precisely/)：正確に
-- [directly](/word/directly/)：直接に
+- [precisely](/precisely)：正確に
+- [directly](/directly)：直接に
 
-<!-- cvid: aid42_bid21 -->
+<!-- cvid: aid01_bid37 -->

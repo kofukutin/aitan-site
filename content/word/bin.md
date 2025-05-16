@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bin】の意味・使い方・例文 ― boxとの違い【TOEIC英単語】"
 description: "binの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでboxとの違いもわかりやすく学べます。"
 word: "bin"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、オフィスや工場のシーンで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、オフィスや工場のシーンで
 ## 🤔  box との違いは？
 
 - **bin**：収納やごみ捨てなど、特定の用途の容器や箱を指すことが多い
-- **[box](/word/box/)**：一般的な箱全般を指し、用途は限定されない
+- **[box](/box)**：一般的な箱全般を指し、用途は限定されない
 
 「bin」はごみ箱や収納箱など用途が明確な容器に使われることが多く、「box」は形状や用途を問わず幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、オフィスや工場のシーンで
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container/)：容器、入れ物
-- [basket](/word/basket/)：かご、バスケット
+- [container](/container)：容器、入れ物
+- [basket](/basket)：かご、バスケット
 
 ---
 
 ## 📖 できればこれも
 
-- [shelf](/word/shelf/)：棚
-- [drawer](/word/drawer/)：引き出し
+- [shelf](/shelf)：棚
+- [drawer](/drawer)：引き出し
 
-<!-- cvid: aid40_bid46 -->
+<!-- cvid: aid09_bid23 -->

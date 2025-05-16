@@ -82,15 +82,19 @@ TOEICでは、商品や資料の「コレクション」、データや意見の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、商品や資料の「コレクション」、データや意見の
 ## 🤔  selection との違いは？
 
 - **collection**：集めたもの全体や収集活動を指す
-- **[selection](/word/selection/)**：選ばれたもの、選択された一部を指す
+- **[selection](/selection)**：選ばれたもの、選択された一部を指す
 
 collectionは「集めること」や「集めた全体」を表し、selectionは「その中から選ばれた一部」に焦点を当てます。
 
@@ -106,14 +110,14 @@ collectionは「集めること」や「集めた全体」を表し、selection�
 
 ## 🧩 あわせて覚えたい
 
-- [assortment](/word/assortment/)：さまざまな種類の集まり
-- [gathering](/word/gathering/)：集会、集まり
+- [assortment](/assortment)：さまざまな種類の集まり
+- [gathering](/gathering)：集会、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [catalog](/word/catalog/)：カタログ、目録
-- [inventory](/word/inventory/)：在庫、棚卸し
+- [catalog](/catalog)：カタログ、目録
+- [inventory](/inventory)：在庫、棚卸し
 
-<!-- cvid: aid23_bid21 -->
+<!-- cvid: aid47_bid12 -->

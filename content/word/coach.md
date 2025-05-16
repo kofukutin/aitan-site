@@ -81,15 +81,19 @@ TOEICでは、職場やスポーツの場面で「指導者」や「研修担当
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場やスポーツの場面で「指導者」や「研修担当
 ## 🤔  trainer との違いは？
 
 - **coach**：全体的な指導や成長をサポートする人
-- **[trainer](/word/trainer/)**：特定のスキルや体力づくりを専門に教える人
+- **[trainer](/trainer)**：特定のスキルや体力づくりを専門に教える人
 
 coachは目標達成や成長全般を支援し、trainerは特定の技術や体力面のトレーニングに特化しています。
 
@@ -105,14 +109,14 @@ coachは目標達成や成長全般を支援し、trainerは特定の技術や�
 
 ## 🧩 あわせて覚えたい
 
-- [mentor](/word/mentor/)：助言者、指導者
-- [instructor](/word/instructor/)：講師、指導員
+- [mentor](/mentor)：助言者、指導者
+- [instructor](/instructor)：講師、指導員
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/word/guide/)：案内人、ガイド
-- [leader](/word/leader/)：リーダー、指導者
+- [guide](/guide)：案内人、ガイド
+- [leader](/leader)：リーダー、指導者
 
-<!-- cvid: aid33_bid05 -->
+<!-- cvid: aid06_bid17 -->

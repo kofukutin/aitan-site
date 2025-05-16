@@ -81,15 +81,19 @@ TOEICでは主に長文読解や法務関連の文脈で「文」や「判決」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解や法務関連の文脈で「文」や「判決」
 ## 🤔  verdict との違いは？
 
 - **sentence**：文、または裁判での「判決」（特に刑罰の内容）
-- **[verdict](/word/verdict/)**：陪審員や裁判官による「評決」（有罪・無罪などの判断）
+- **[verdict](/verdict)**：陪審員や裁判官による「評決」（有罪・無罪などの判断）
 
 sentenceは「文」や「刑罰の内容」を指し、verdictは「有罪・無罪などの判断結果」を指します。
 
@@ -105,14 +109,14 @@ sentenceは「文」や「刑罰の内容」を指し、verdictは「有罪・�
 
 ## 🧩 あわせて覚えたい
 
-- [judgment](/word/judgment/)：判断、判決
-- [statement](/word/statement/)：声明、陳述
+- [judgment](/judgment)：判断、判決
+- [statement](/statement)：声明、陳述
 
 ---
 
 ## 📖 できればこれも
 
-- [paragraph](/word/paragraph/)：段落
-- [decision](/word/decision/)：決定、判断
+- [paragraph](/paragraph)：段落
+- [decision](/decision)：決定、判断
 
-<!-- cvid: aid32_bid02 -->
+<!-- cvid: aid34_bid21 -->

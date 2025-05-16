@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や議論の中で「合理的な」「理性
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や議論の中で「合理的な」「理性
 ## 🤔  reasonable との違いは？
 
 - **rational**：感情に左右されず、論理や理由に基づいていることを強調
-- **[reasonable](/word/reasonable/)**：状況や常識に照らして「妥当」「納得できる」ことを強調
+- **[reasonable](/reasonable)**：状況や常識に照らして「妥当」「納得できる」ことを強調
 
 rationalは「論理的で筋が通っている」こと、reasonableは「現実的・常識的に見て納得できる」ことに重点があります。
 
@@ -105,14 +109,14 @@ rationalは「論理的で筋が通っている」こと、reasonableは「現�
 
 ## 🧩 あわせて覚えたい
 
-- [irrational](/word/irrational/)：非合理的な、理性のない
-- [logical](/word/logical/)：論理的な
+- [irrational](/irrational)：非合理的な、理性のない
+- [logical](/logical)：論理的な
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/word/objective/)：客観的な
-- [practical](/word/practical/)：実用的な
+- [objective](/objective)：客観的な
+- [practical](/practical)：実用的な
 
-<!-- cvid: aid28_bid40 -->
+<!-- cvid: aid18_bid49 -->

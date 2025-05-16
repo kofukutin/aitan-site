@@ -81,15 +81,19 @@ TOEICでは、社員研修やスキルアップ、スポーツ関連の会話で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社員研修やスキルアップ、スポーツ関連の会話で
 ## 🤔  coach との違いは？
 
 - **trainer**：特定のスキルや知識を教える「訓練者」「指導者」
-- **[coach](/word/coach/)**：主にスポーツやチームで「指導・助言・やる気づけ」を行う人
+- **[coach](/coach)**：主にスポーツやチームで「指導・助言・やる気づけ」を行う人
 
 trainerは技術や知識の習得に重点があり、coachは目標達成や精神面のサポートも含めて指導する点が異なります。
 
@@ -105,14 +109,14 @@ trainerは技術や知識の習得に重点があり、coachは目標達成や�
 
 ## 🧩 あわせて覚えたい
 
-- [instructor](/word/instructor/)：指導員、講師
-- [trainee](/word/trainee/)：研修生、訓練を受ける人
+- [instructor](/instructor)：指導員、講師
+- [trainee](/trainee)：研修生、訓練を受ける人
 
 ---
 
 ## 📖 できればこれも
 
-- [mentor](/word/mentor/)：助言者、指導者
-- [supervisor](/word/supervisor/)：監督者、上司
+- [mentor](/mentor)：助言者、指導者
+- [supervisor](/supervisor)：監督者、上司
 
-<!-- cvid: aid40_bid03 -->
+<!-- cvid: aid07_bid13 -->

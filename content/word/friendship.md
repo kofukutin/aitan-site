@@ -83,15 +83,19 @@ TOEICでは、メールや記事、手紙などの長文読解で「友情」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、メールや記事、手紙などの長文読解で「友情」や
 ## 🤔  relationship との違いは？
 
 - **friendship**：友人同士の親しい関係や友情を強調
-- **[relationship](/word/relationship/)**：人間関係全般（家族・恋人・仕事など）を広く指す
+- **[relationship](/relationship)**：人間関係全般（家族・恋人・仕事など）を広く指す
 
 friendshipは「友情」に特化し、relationshipはより広い人間関係全般を表します。
 
@@ -107,14 +111,14 @@ friendshipは「友情」に特化し、relationshipはより広い人間関係�
 
 ## 🧩 あわせて覚えたい
 
-- [acquaintance](/word/acquaintance/)：知人、面識のある人
-- [partnership](/word/partnership/)：協力関係、提携
+- [acquaintance](/acquaintance)：知人、面識のある人
+- [partnership](/partnership)：協力関係、提携
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor/)：隣人
-- [teamwork](/word/teamwork/)：協力、チームワーク
+- [neighbor](/neighbor)：隣人
+- [teamwork](/teamwork)：協力、チームワーク
 
-<!-- cvid: aid42_bid48 -->
+<!-- cvid: aid18_bid07 -->

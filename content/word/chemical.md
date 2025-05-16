@@ -81,15 +81,19 @@ TOEICでは工場や研究、製品説明などの文脈で「chemical」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは工場や研究、製品説明などの文脈で「chemical」が登�
 ## 🤔  drug との違いは？
 
 - **chemical**：化学的に作られた物質全般を指し、薬品や工業製品など幅広く使う。
-- **[drug](/word/drug/)**：主に医薬品や薬物を指し、治療や健康に関わる意味が強い。
+- **[drug](/drug)**：主に医薬品や薬物を指し、治療や健康に関わる意味が強い。
 
 chemicalは「物質」としての広い意味、drugは「薬」としての用途や効果に焦点があります。
 
@@ -105,14 +109,14 @@ chemicalは「物質」としての広い意味、drugは「薬」としての�
 
 ## 🧩 あわせて覚えたい
 
-- [substance](/word/substance/)：物質、実体
-- [compound](/word/compound/)：化合物
+- [substance](/substance)：物質、実体
+- [compound](/compound)：化合物
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/word/laboratory/)：実験室、研究所
-- [formula](/word/formula/)：式、処方、決まり文句
+- [laboratory](/laboratory)：実験室、研究所
+- [formula](/formula)：式、処方、決まり文句
 
-<!-- cvid: aid45_bid41 -->
+<!-- cvid: aid12_bid46 -->

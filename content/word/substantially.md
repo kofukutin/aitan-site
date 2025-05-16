@@ -81,15 +81,19 @@ TOEICの長文読解パートで、変化の度合いや影響の大きさを説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、変化の度合いや影響の大きさを説
 ## 🤔  significantly との違いは？
 
 - **substantially**：数量や程度が「かなり」「大幅に」増減したことや、本質的な変化を強調する。
-- **[significantly](/word/significantly/)**：統計的・客観的に「有意な」「目立った」変化や差を強調する。
+- **[significantly](/significantly)**：統計的・客観的に「有意な」「目立った」変化や差を強調する。
 
 substantiallyは「実質的・本質的な大きな変化」、significantlyは「統計的・客観的に意味のある変化」を表す点が異なります。
 
@@ -105,14 +109,14 @@ substantiallyは「実質的・本質的な大きな変化」、significantlyは
 
 ## 🧩 あわせて覚えたい
 
-- [considerably](/word/considerably/)：かなり、相当に
-- [marginally](/word/marginally/)：わずかに、ほんの少し
+- [considerably](/considerably)：かなり、相当に
+- [marginally](/marginally)：わずかに、ほんの少し
 
 ---
 
 ## 📖 できればこれも
 
-- [primarily](/word/primarily/)：主に
-- [approximately](/word/approximately/)：おおよそ、約
+- [primarily](/primarily)：主に
+- [approximately](/approximately)：おおよそ、約
 
-<!-- cvid: aid11_bid33 -->
+<!-- cvid: aid35_bid45 -->

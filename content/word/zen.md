@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介、ホテル・寺院の案内文などで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介、ホテル・寺院の案内文などで登場
 ## 🤔  meditation との違いは？
 
 - **zen**：仏教の一派や、その精神・修行法、または落ち着いた心の状態を指す。
-- **[meditation](/word/meditation/)**：瞑想全般を指し、宗教や方法を問わず幅広く使われる。
+- **[meditation](/meditation)**：瞑想全般を指し、宗教や方法を問わず幅広く使われる。
 
 zenは仏教の禅宗やその精神性に特化した言葉で、meditationは一般的な「瞑想」を意味します。
 
@@ -105,14 +109,14 @@ zenは仏教の禅宗やその精神性に特化した言葉で、meditationは�
 
 ## 🧩 あわせて覚えたい
 
-- [buddhism](/word/buddhism/)：仏教
-- [mindfulness](/word/mindfulness/)：マインドフルネス、今この瞬間に意識を向けること
+- [buddhism](/buddhism)：仏教
+- [mindfulness](/mindfulness)：マインドフルネス、今この瞬間に意識を向けること
 
 ---
 
 ## 📖 できればこれも
 
-- [temple](/word/temple/)：寺院
-- [spiritual](/word/spiritual/)：精神的な、霊的な
+- [temple](/temple)：寺院
+- [spiritual](/spiritual)：精神的な、霊的な
 
-<!-- cvid: aid31_bid08 -->
+<!-- cvid: aid09_bid49 -->

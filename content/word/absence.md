@@ -16,9 +16,9 @@ related_words:
   - "presence"
   - "shortage"
 next_words:
+  - "attendance"
   - "leave"
-  - "vacancy"
-last_update: "2025-05-04"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 absenceの発音と意味
@@ -32,30 +32,23 @@ last_update: "2025-05-04"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
-
 [名詞] 不在、欠席、欠如（不可算）
 
-**absence** は、「その場にいないこと」「存在しないこと」「欠席」などを表すフォーマルな名詞です。人や物があるべき場所にいない・ない状態を指します。
+**absence** は、「その場にいないこと」「存在しないこと」「欠席」「不足」といった意味で使われます。ビジネスやフォーマルな場面でよく登場します。
 
 語源はラテン語の "absentia"（離れていること）から来ており、「ab-（離れて）」＋「esse（いる）」が組み合わさっています。
 
 他の品詞：  
-- absent：不在の、欠席している（形容詞）
-- absently：ぼんやりと、上の空で（副詞）
+- absent：不在の、欠席の（形容詞）
+- absently：ぼんやりと、うわの空で（副詞）
 
 ---
 
 ## ✏️ absenceの例文
 
 【日常会話】  
-His absence was noticed by everyone.  
-　彼の不在はみんなに気づかれた。
+Her absence was noticed by everyone.  
+　彼女の不在はみんなに気づかれた。
 
 【ビジネス英語】  
 Please explain the reason for your absence from the meeting.  
@@ -68,7 +61,7 @@ Please explain the reason for your absence from the meeting.
 - 難易度：★★☆☆☆
 - 出題パート：Part 5（文法・語彙問題）
 
-TOEICでは「欠席」「不在」「欠如」の意味で、主に文法・語彙問題（Part 5）で頻出します。ビジネス文書や会議の文脈でよく見かけます。
+TOEICでは「欠席」「不在」「不足」などの意味で、主に文法・語彙問題で出題されます。出欠や出席管理に関する文脈でよく見かけます。
 
 ---
 
@@ -76,50 +69,54 @@ TOEICでは「欠席」「不在」「欠如」の意味で、主に文法・語
 
 正しい使い方はどっち？
 
-1. The absence of clear instructions caused confusion.  
-2. The absence for clear instructions caused confusion.
+1. His absence from work was unexpected.  
+2. His absence of work was unexpected.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説："absence of ～"（～の不在・欠如）が正しい前置詞の使い方です。
+- 解説：absenceは「from＋場所・行為」で「～の不在」を表します。2は意味が通じません。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  lack との違いは？
 
-- **absence**：あるべき人や物が「物理的・状況的に存在しない」ことを強調
-- **[lack](/word/lack/)**：必要なものが「十分にない」「不足している」状態を強調
+- **absence**：本来あるべき人や物が「その場にいない・存在しない」こと
+- **[lack](/lack)**：必要なものが「十分にない・不足している」こと
 
-absenceは「完全にいない・ない」こと、lackは「量や程度が足りない」ことに使い分けます。
+absenceは「不在」「欠席」など物理的・存在的な"いなさ"を強調し、lackは「不足」「足りない」など量や程度の不足を強調します。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [presence](/word/presence/)：存在、出席
-- [shortage](/word/shortage/)：不足、欠乏
+- [presence](/presence)：存在、出席
+- [shortage](/shortage)：不足、欠乏
 
 ---
 
 ## 📖 できればこれも
 
-- [leave](/word/leave/)：休暇、休み
-- [vacancy](/word/vacancy/)：空き、欠員
+- [attendance](/attendance)：出席、出席者数
+- [leave](/leave)：休暇、離れること
 
-<!-- cvid: aid33_bid25 -->
+<!-- cvid: aid06_bid15 -->

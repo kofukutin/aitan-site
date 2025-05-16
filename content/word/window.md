@@ -81,15 +81,19 @@ TOEICでは、会議室やオフィスの描写、IT関連の説明でよく登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid14_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議室やオフィスの描写、IT関連の説明でよく登�
 ## 🤔  opportunity との違いは？
 
 - **window**：短い期間や限定された機会を強調する
-- **[opportunity](/word/opportunity/)**：一般的な「機会」や「チャンス」を表す
+- **[opportunity](/opportunity)**：一般的な「機会」や「チャンス」を表す
 
 windowは「限られた時間枠」や「一時的なチャンス」を指し、opportunityはより広く使える「機会」です。
 
@@ -105,14 +109,14 @@ windowは「限られた時間枠」や「一時的なチャンス」を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [door](/word/door/)：ドア、扉
-- [screen](/word/screen/)：画面、スクリーン
+- [door](/door)：ドア、扉
+- [screen](/screen)：画面、スクリーン
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/word/room/)：部屋、空間
-- [table](/word/table/)：テーブル、机
+- [room](/room)：部屋、空間
+- [table](/table)：テーブル、机
 
-<!-- cvid: aid16_bid38 -->
+<!-- cvid: aid14_bid07 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文書やメール、記事などで「海外拠点」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やメール、記事などで「海外拠点」「
 ## 🤔  overseas との違いは？
 
 - **offshore**：主にビジネスや経済活動で「海外の」「沖合の」を表すフォーマルな語。
-- **[overseas](/word/overseas/)**：単に「海外の」「海外へ」を広く表し、日常会話でもよく使う。
+- **[overseas](/overseas)**：単に「海外の」「海外へ」を広く表し、日常会話でもよく使う。
 
 offshoreは特に企業活動や生産拠点の「海外移転」など限定的な場面で使われ、overseasはより一般的に「海外」を指します。
 
@@ -105,14 +109,14 @@ offshoreは特に企業活動や生産拠点の「海外移転」など限定的
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic/)：国内の
-- [abroad](/word/abroad/)：海外で、海外へ
+- [domestic](/domestic)：国内の
+- [abroad](/abroad)：海外で、海外へ
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/word/remote/)：遠隔の、遠い
-- [external](/word/external/)：外部の、外の
+- [remote](/remote)：遠隔の、遠い
+- [external](/external)：外部の、外の
 
-<!-- cvid: aid37_bid23 -->
+<!-- cvid: aid07_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは「ストライキをする」「影響を与える」などの意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「ストライキをする」「影響を与える」などの意味
 ## 🤔  hit との違いは？
 
 - **strike**：強く意図的に打つ、または影響を与える意味が強い
-- **[hit](/word/hit/)**：単に何かに当たる・ぶつかるという意味が中心
+- **[hit](/hit)**：単に何かに当たる・ぶつかるという意味が中心
 
 「strike」は意図的で力強い動作や、抽象的な影響（災害・ストライキ）にも使われますが、「hit」は物理的に当たる場合が多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「ストライキをする」「影響を与える」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/word/attack/)：攻撃する
-- [protest](/word/protest/)：抗議する
+- [attack](/attack)：攻撃する
+- [protest](/protest)：抗議する
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect/)：影響を与える
-- [deal](/word/deal/)：対処する、扱う
+- [affect](/affect)：影響を与える
+- [deal](/deal)：対処する、扱う
 
-<!-- cvid: aid02_bid33 -->
+<!-- cvid: aid25_bid22 -->

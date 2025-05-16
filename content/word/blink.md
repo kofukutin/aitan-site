@@ -81,15 +81,19 @@ blinkはTOEICのPart 1で「人がまばたきしている」「ライトが点�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ blinkはTOEICのPart 1で「人がまばたきしている」「ライトが点�
 ## 🤔  wink との違いは？
 
 - **blink**：無意識に両目をすばやく閉じて開ける（まばたきする）
-- **[wink](/word/wink/)**：片目を意図的に閉じる（ウィンクする）
+- **[wink](/wink)**：片目を意図的に閉じる（ウィンクする）
 
 blinkは自然なまばたきや光の点滅に使い、winkは合図や冗談など意図的な片目の動作に使います。
 
@@ -105,14 +109,14 @@ blinkは自然なまばたきや光の点滅に使い、winkは合図や冗談�
 
 ## 🧩 あわせて覚えたい
 
-- [stare](/word/stare/)：じっと見つめる
-- [glance](/word/glance/)：ちらっと見る
+- [stare](/stare)：じっと見つめる
+- [glance](/glance)：ちらっと見る
 
 ---
 
 ## 📖 できればこれも
 
-- [nod](/word/nod/)：うなずく
-- [yawn](/word/yawn/)：あくびをする
+- [nod](/nod)：うなずく
+- [yawn](/yawn)：あくびをする
 
-<!-- cvid: aid11_bid13 -->
+<!-- cvid: aid18_bid49 -->

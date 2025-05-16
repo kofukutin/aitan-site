@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【luggage】の意味・使い方・例文 ― baggageとの違い【TOEIC英単語】"
 description: "luggageの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbaggageとの違いもわかりやすく学べます。"
 word: "luggage"
@@ -81,15 +81,19 @@ Please leave your luggage at the reception.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please leave your luggage at the reception.
 ## 🤔  baggage との違いは？
 
 - **luggage**：主にイギリス英語で使われる「手荷物」
-- **[baggage](/word/baggage/)**：主にアメリカ英語で使われる「手荷物」
+- **[baggage](/baggage)**：主にアメリカ英語で使われる「手荷物」
 
 luggageはイギリス英語、baggageはアメリカ英語で使われることが多いですが、意味はほぼ同じです。空港や旅行の場面で使い分けられます。
 
@@ -105,14 +109,14 @@ luggageはイギリス英語、baggageはアメリカ英語で使われること
 
 ## 🧩 あわせて覚えたい
 
-- [suitcase](/word/suitcase/)：スーツケース
-- [belonging](/word/belonging/)：所持品
+- [suitcase](/suitcase)：スーツケース
+- [belonging](/belonging)：所持品
 
 ---
 
 ## 📖 できればこれも
 
-- [passport](/word/passport/)：パスポート
-- [ticket](/word/ticket/)：チケット
+- [passport](/passport)：パスポート
+- [ticket](/ticket)：チケット
 
-<!-- cvid: aid00_bid04 -->
+<!-- cvid: aid09_bid42 -->

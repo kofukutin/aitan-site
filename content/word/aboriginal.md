@@ -9,15 +9,15 @@ tags:
   - 形容詞
   - Part7
   - フォーマル
-  - 環境
+  - 観光
   - 説明
 compared_word: "indigenous"
 related_words:
   - "native"
-  - "primitive"
+  - "foreign"
 next_words:
-  - "ancestral"
-  - "tribal"
+  - "traditional"
+  - "cultural"
 last_update: "2025-05-04"
 ---
 
@@ -32,34 +32,28 @@ last_update: "2025-05-04"
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
-
 [形容詞] 先住の、原生の  
 [名詞] 先住民（特にオーストラリアのアボリジニ）
 
-**aboriginal** は、「その土地に最初から存在していた」「原初の」という意味で、特にオーストラリアの先住民や動植物に使われます。
+**aboriginal** は、「その土地に最初から存在していた」「原始的な」「先住の」という意味で、特にオーストラリアの先住民（アボリジニ）を指す場合によく使われます。
 
-語源はラテン語の "ab origine"（起源から）に由来し、「最初からそこにいるもの」というニュアンスが強調されています。
+語源はラテン語の "ab origine"（起源から）に由来し、「最初からそこにいる」というニュアンスが強調されています。
 
 他の品詞：  
 - aboriginality：先住性、先住民であること（名詞）
+- aboriginally：先住民として、原始的に（副詞）
 
 ---
 
 ## ✏️ aboriginalの例文
 
 【日常会話】  
-The kangaroo is an aboriginal animal of Australia.  
-　カンガルーはオーストラリアの原生動物です。
+The museum displays aboriginal art.  
+　その博物館には先住民のアートが展示されています。
 
 【ビジネス英語】  
-The company respects the rights of aboriginal communities in the area.  
-　その企業は地域の先住民コミュニティの権利を尊重しています。
+We respect the aboriginal communities in this region.  
+　私たちはこの地域の先住民コミュニティを尊重しています。
 
 ---
 
@@ -68,7 +62,7 @@ The company respects the rights of aboriginal communities in the area.
 - 難易度：★★★★☆
 - 出題パート：Part 7（長文読解）
 
-TOEICでは環境や文化、歴史に関する長文で「aboriginal」が登場することがあります。特にオーストラリアやカナダの話題で見かける単語です。
+TOEICでは観光や文化紹介の記事、説明文で見かけることがあり、特にオーストラリアやカナダの話題で登場します。
 
 ---
 
@@ -84,42 +78,46 @@ TOEICでは環境や文化、歴史に関する長文で「aboriginal」が登�
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：aboriginalは「先住の」「原初の」という意味で、最新技術には使いません。
+- 解説：aboriginalは「先住の」「原始的な」という意味で、最新技術には使いません。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  indigenous との違いは？
 
-- **aboriginal**：その土地に最初から存在する、特にオーストラリアの先住民や動植物に使われる
-- **[indigenous](/word/indigenous/)**：その土地に自然に生息・存在する、より広く一般的に使われる
+- **aboriginal**：その土地に最初から存在している、特にオーストラリア先住民に使われやすい
+- **[indigenous](/indigenous)**：その土地に固有の、より広く一般的に使われる
 
-aboriginalは特定地域や民族（特にオーストラリア）に限定されることが多く、indigenousは世界中の先住民や動植物に幅広く使われます。
+aboriginalは特定地域や民族（特にオーストラリア）に焦点が当たりやすく、indigenousは世界中の「固有種」や「先住民」全般に使われます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [native](/word/native/)：生まれつきの、その土地の
-- [primitive](/word/primitive/)：原始的な、初期の
+- [native](/native)：生まれつきの、その土地の
+- [foreign](/foreign)：外国の、異国の
 
 ---
 
 ## 📖 できればこれも
 
-- [ancestral](/word/ancestral/)：祖先の、先祖伝来の
-- [tribal](/word/tribal/)：部族の、部族社会の
+- [traditional](/traditional)：伝統的な
+- [cultural](/cultural)：文化の
 
-<!-- cvid: aid48_bid34 -->
+<!-- cvid: aid49_bid12 -->

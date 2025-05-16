@@ -81,15 +81,19 @@ TOEICでは写真描写や説明文で「場所」や「位置」を表す語と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid45" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid45" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは写真描写や説明文で「場所」や「位置」を表す語と
 ## 🤔  location との違いは？
 
 - **place**：一般的な「場所」や「空間」を幅広く指す
-- **[location](/word/location/)**：特定の「位置」や「所在地」をややフォーマルに指す
+- **[location](/location)**：特定の「位置」や「所在地」をややフォーマルに指す
 
 **place**は日常的で幅広い意味の「場所」、**location**は地図上の「位置」や住所など、より正確な場所を指す時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは写真描写や説明文で「場所」や「位置」を表す語と
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area/)：区域、範囲
-- [site](/word/site/)：用地、現場
+- [area](/area)：区域、範囲
+- [site](/site)：用地、現場
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/word/room/)：部屋、空間
-- [space](/word/space/)：空間、余地
+- [room](/room)：部屋、空間
+- [space](/space)：空間、余地
 
-<!-- cvid: aid11_bid47 -->
+<!-- cvid: aid45_bid45 -->

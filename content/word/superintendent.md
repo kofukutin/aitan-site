@@ -81,7 +81,7 @@ TOEICでは、ビジネスや教育、施設管理に関する長文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+調子がいいときに進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、ビジネスや教育、施設管理に関する長文で登場す
 
 <div class="info-center">
 ＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid21" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid21" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや教育、施設管理に関する長文で登場す
 ## 🤔  manager との違いは？
 
 - **superintendent**：全体を監督・管理する責任者（特に公的機関や施設で使われる）
-- **[manager](/word/manager/)**：部門やチームの運営責任者（一般企業で広く使われる）
+- **[manager](/manager)**：部門やチームの運営責任者（一般企業で広く使われる）
 
 superintendentは「監督者」として組織全体や施設の管理に重点があり、managerは「管理職」として部門やチームの運営に使われます。
 
@@ -105,14 +109,14 @@ superintendentは「監督者」として組織全体や施設の管理に重点
 
 ## 🧩 あわせて覚えたい
 
-- [director](/word/director/)：取締役、部長
-- [supervisor](/word/supervisor/)：現場監督、上司
+- [director](/director)：取締役、部長
+- [supervisor](/supervisor)：現場監督、上司
 
 ---
 
 ## 📖 できればこれも
 
-- [administrator](/word/administrator/)：管理者、運営者
-- [executive](/word/executive/)：重役、経営幹部
+- [administrator](/administrator)：管理者、運営者
+- [executive](/executive)：重役、経営幹部
 
-<!-- cvid: aid40_bid21 -->
+<!-- cvid: aid19_bid21 -->

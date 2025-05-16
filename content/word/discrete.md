@@ -81,15 +81,19 @@ TOEICでは科学技術やデータ分析、説明文などで「個別の」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid37" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid37" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術やデータ分析、説明文などで「個別の」「
 ## 🤔  distinct との違いは？
 
 - **discrete**：個々に分かれて独立している、連続していない
-- **[distinct](/word/distinct/)**：はっきり区別できる、明確に異なる
+- **[distinct](/distinct)**：はっきり区別できる、明確に異なる
 
 discreteは「物理的・論理的に分かれている」ことを強調し、distinctは「違いが明確で区別できる」ことを強調します。
 
@@ -105,14 +109,14 @@ discreteは「物理的・論理的に分かれている」ことを強調し、
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate/)：分かれた、別々の
-- [continuous](/word/continuous/)：連続した、切れ目のない
+- [separate](/separate)：分かれた、別々の
+- [continuous](/continuous)：連続した、切れ目のない
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise/)：正確な
-- [explicit](/word/explicit/)：明確な、はっきりした
+- [precise](/precise)：正確な
+- [explicit](/explicit)：明確な、はっきりした
 
-<!-- cvid: aid35_bid14 -->
+<!-- cvid: aid24_bid37 -->

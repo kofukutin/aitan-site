@@ -82,15 +82,19 @@ swapは会話文やビジネスシーンで「交換する」という意味で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ swapは会話文やビジネスシーンで「交換する」という意味で�
 ## 🤔  exchange との違いは？
 
 - **swap**：カジュアルに物や情報を「お互いに交換する」ニュアンスが強い
-- **[exchange](/word/exchange/)**：ややフォーマルで、幅広く「交換する」「やり取りする」に使える
+- **[exchange](/exchange)**：ややフォーマルで、幅広く「交換する」「やり取りする」に使える
 
 swapは日常的な「取り替えっこ」や気軽な交換に使われ、exchangeはビジネスやフォーマルな場面でも使われます。
 
@@ -106,14 +110,14 @@ swapは日常的な「取り替えっこ」や気軽な交換に使われ、exch
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace/)：取り替える、差し替える
-- [trade](/word/trade/)：取引する、売買する
+- [replace](/replace)：取り替える、差し替える
+- [trade](/trade)：取引する、売買する
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/word/share/)：共有する、分け合う
-- [switch](/word/switch/)：切り替える、交換する
+- [share](/share)：共有する、分け合う
+- [switch](/switch)：切り替える、交換する
 
-<!-- cvid: aid20_bid27 -->
+<!-- cvid: aid45_bid14 -->

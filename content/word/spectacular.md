@@ -81,15 +81,19 @@ TOEICでは観光地の説明やイベント紹介、企業の成果を強調す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光地の説明やイベント紹介、企業の成果を強調す
 ## 🤔  impressive との違いは？
 
 - **spectacular**：見た目や規模が非常に壮大で、強いインパクトがある
-- **[impressive](/word/impressive/)**：人に強い印象や感銘を与える（見た目以外にも使える）
+- **[impressive](/impressive)**：人に強い印象や感銘を与える（見た目以外にも使える）
 
 spectacularは「目で見て圧倒される」ニュアンスが強く、impressiveは「心に残る・感心する」広い意味で使われます。
 
@@ -105,14 +109,14 @@ spectacularは「目で見て圧倒される」ニュアンスが強く、impres
 
 ## 🧩 あわせて覚えたい
 
-- [magnificent](/word/magnificent/)：壮大な、素晴らしい
-- [ordinary](/word/ordinary/)：普通の、平凡な
+- [magnificent](/magnificent)：壮大な、素晴らしい
+- [ordinary](/ordinary)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/word/remarkable/)：注目すべき、著しい
-- [scenic](/word/scenic/)：景色の良い
+- [remarkable](/remarkable)：注目すべき、著しい
+- [scenic](/scenic)：景色の良い
 
-<!-- cvid: aid11_bid22 -->
+<!-- cvid: aid25_bid32 -->

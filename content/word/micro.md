@@ -81,15 +81,19 @@ TOEICでは、科学技術や製品説明の文脈で「micro」が登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学技術や製品説明の文脈で「micro」が登場する�
 ## 🤔  miniature との違いは？
 
 - **micro**：非常に小さい、微細な（特に科学的・技術的な文脈で使う）
-- **[miniature](/word/miniature/)**：小型の、縮小した（実物の小型版や模型に使う）
+- **[miniature](/miniature)**：小型の、縮小した（実物の小型版や模型に使う）
 
 「micro」は主にサイズやスケールの小ささを科学的に表現するのに対し、「miniature」は本物の縮小版や模型などに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、科学技術や製品説明の文脈で「micro」が登場する�
 
 ## 🧩 あわせて覚えたい
 
-- [macro](/word/macro/)：大きい、巨視的な
-- [tiny](/word/tiny/)：とても小さい
+- [macro](/macro)：大きい、巨視的な
+- [tiny](/tiny)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [nano](/word/nano/)：ナノ（極めて小さい単位）
-- [small](/word/small/)：小さい
+- [nano](/nano)：ナノ（極めて小さい単位）
+- [small](/small)：小さい
 
-<!-- cvid: aid25_bid16 -->
+<!-- cvid: aid13_bid07 -->

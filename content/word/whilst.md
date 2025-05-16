@@ -77,15 +77,19 @@ TOEICでは主にPart 7のフォーマルなメールや通知文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 7のフォーマルなメールや通知文で見かける
 ## 🤔  while との違いは？
 
 - **whilst**：ややフォーマル・イギリス英語で使われる「～する間」「～である一方で」
-- **[while](/word/while/)**：アメリカ英語で一般的な「～する間」「～である一方で」
+- **[while](/while)**：アメリカ英語で一般的な「～する間」「～である一方で」
 
 whilstは主にイギリス英語やフォーマルな文書で使われ、whileはアメリカ英語や日常会話で広く使われます。
 
@@ -101,14 +105,14 @@ whilstは主にイギリス英語やフォーマルな文書で使われ、while
 
 ## 🧩 あわせて覚えたい
 
-- [although](/word/although/)：～だけれども（譲歩を表す接続詞）
-- [whereas](/word/whereas/)：～であるのに対して（対比を表す接続詞）
+- [although](/although)：～だけれども（譲歩を表す接続詞）
+- [whereas](/whereas)：～であるのに対して（対比を表す接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/word/however/)：しかしながら
-- [meanwhile](/word/meanwhile/)：その間に
+- [however](/however)：しかしながら
+- [meanwhile](/meanwhile)：その間に
 
-<!-- cvid: aid19_bid28 -->
+<!-- cvid: aid34_bid07 -->

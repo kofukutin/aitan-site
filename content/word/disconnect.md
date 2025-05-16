@@ -81,15 +81,19 @@ ITやオフィスの設備、電話対応などの場面で「接続を切る」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやオフィスの設備、電話対応などの場面で「接続を切る」
 ## 🤔  unplug との違いは？
 
 - **disconnect**：機械やシステム、ネットワークなどの「接続を切る」「切断する」全般に使う。
-- **[unplug](/word/unplug/)**：電源コードやプラグを「コンセントから抜く」など物理的に抜く場合に使う。
+- **[unplug](/unplug)**：電源コードやプラグを「コンセントから抜く」など物理的に抜く場合に使う。
 
 disconnectはネットワークやシステムなど幅広い「接続解除」に使い、unplugは主に電気製品のプラグを抜く場面で使います。
 
@@ -105,14 +109,14 @@ disconnectはネットワークやシステムなど幅広い「接続解除」�
 
 ## 🧩 あわせて覚えたい
 
-- [connect](/word/connect/)：接続する
-- [detach](/word/detach/)：取り外す、分離する
+- [connect](/connect)：接続する
+- [detach](/detach)：取り外す、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [restart](/word/restart/)：再起動する
+- [install](/install)：インストールする、設置する
+- [restart](/restart)：再起動する
 
-<!-- cvid: aid31_bid14 -->
+<!-- cvid: aid28_bid11 -->

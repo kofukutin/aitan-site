@@ -81,15 +81,19 @@ TOEICではIT関連の説明文やメール、案内文で「modem」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連の説明文やメール、案内文で「modem」が登場�
 ## 🤔  router との違いは？
 
 - **modem**：インターネット回線と家庭やオフィスのネットワークをつなぐ変換装置。
-- **[router](/word/router/)**：複数の機器をネットワークでつなぎ、データを振り分ける装置。
+- **[router](/router)**：複数の機器をネットワークでつなぎ、データを振り分ける装置。
 
 modemは外部回線との接続役、routerはネットワーク内の機器同士をつなぐ役割で、両者は役割が異なります。
 
@@ -105,14 +109,14 @@ modemは外部回線との接続役、routerはネットワーク内の機器同
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、通信網
-- [device](/word/device/)：装置、機器
+- [network](/network)：ネットワーク、通信網
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [server](/word/server/)：サーバー、情報を提供するコンピュータ
-- [cable](/word/cable/)：ケーブル、電線
+- [server](/server)：サーバー、情報を提供するコンピュータ
+- [cable](/cable)：ケーブル、電線
 
-<!-- cvid: aid49_bid21 -->
+<!-- cvid: aid47_bid36 -->

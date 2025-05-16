@@ -81,15 +81,19 @@ TOEICでは会話文や説明文で「迷惑をかける」「不快にさせる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文や説明文で「迷惑をかける」「不快にさせる
 ## 🤔  bother との違いは？
 
 - **annoy**：相手を不快にしたり、いらいらさせるニュアンスが強い
-- **[bother](/word/bother/)**：迷惑をかける、手間をかけさせる意味が中心
+- **[bother](/bother)**：迷惑をかける、手間をかけさせる意味が中心
 
 annoyは「感情的にイライラさせる」時に使い、botherは「手間や面倒をかける」場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ annoyは「感情的にイライラさせる」時に使い、botherは「手間
 
 ## 🧩 あわせて覚えたい
 
-- [irritate](/word/irritate/)：さらに強くいらだたせる
-- [disturb](/word/disturb/)：邪魔をする、妨げる
+- [irritate](/irritate)：さらに強くいらだたせる
+- [disturb](/disturb)：邪魔をする、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [interrupt](/word/interrupt/)：話や作業を中断させる
-- [complain](/word/complain/)：不満を言う
+- [interrupt](/interrupt)：話や作業を中断させる
+- [complain](/complain)：不満を言う
 
-<!-- cvid: aid21_bid27 -->
+<!-- cvid: aid24_bid25 -->

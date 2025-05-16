@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、「指示」「説明書」「手順」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、「指示」「説明書」「手順」などの
 ## 🤔  direction との違いは？
 
 - **instruction**：具体的な手順や方法、やり方を詳しく伝える指示
-- **[direction](/word/direction/)**：進むべき方向や方針、または道順などを示す指示
+- **[direction](/direction)**：進むべき方向や方針、または道順などを示す指示
 
 instructionは「やり方」や「操作方法」など細かい内容を伝える時に使い、directionは「進む方向」や「全体の方針」を示す時に使います。
 
@@ -105,14 +109,14 @@ instructionは「やり方」や「操作方法」など細かい内容を伝え
 
 ## 🧩 あわせて覚えたい
 
-- [guideline](/word/guideline/)：指針、ガイドライン
-- [order](/word/order/)：命令、注文
+- [guideline](/guideline)：指針、ガイドライン
+- [order](/order)：命令、注文
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual/)：マニュアル、取扱説明書
-- [procedure](/word/procedure/)：手順、手続き
+- [manual](/manual)：マニュアル、取扱説明書
+- [procedure](/procedure)：手順、手続き
 
-<!-- cvid: aid13_bid30 -->
+<!-- cvid: aid28_bid46 -->

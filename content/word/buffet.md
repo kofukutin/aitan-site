@@ -81,15 +81,19 @@ The company will provide a buffet lunch after the meeting.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company will provide a buffet lunch after the meeting.
 ## 🤔  cafeteria との違いは？
 
 - **buffet**：料理が並び、客が自分で好きなものを取るセルフサービス形式の食事や会場。
-- **[cafeteria](/word/cafeteria/)**：主に学校や職場などで使われるセルフサービス式の食堂。
+- **[cafeteria](/cafeteria)**：主に学校や職場などで使われるセルフサービス式の食堂。
 
 buffetはイベントやホテルなどで多く、cafeteriaは日常的な食堂やカジュアルな場所で使われます。
 
@@ -105,14 +109,14 @@ buffetはイベントやホテルなどで多く、cafeteriaは日常的な食�
 
 ## 🧩 あわせて覚えたい
 
-- [banquet](/word/banquet/)：宴会、祝宴
-- [restaurant](/word/restaurant/)：レストラン、飲食店
+- [banquet](/banquet)：宴会、祝宴
+- [restaurant](/restaurant)：レストラン、飲食店
 
 ---
 
 ## 📖 できればこれも
 
-- [menu](/word/menu/)：メニュー、献立
-- [dish](/word/dish/)：料理、皿
+- [menu](/menu)：メニュー、献立
+- [dish](/dish)：料理、皿
 
-<!-- cvid: aid41_bid03 -->
+<!-- cvid: aid02_bid45 -->

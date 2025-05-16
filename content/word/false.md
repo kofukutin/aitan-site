@@ -81,15 +81,19 @@ TOEICでは、選択肢の形容詞として「false」が「true」と対にな
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、選択肢の形容詞として「false」が「true」と対にな
 ## 🤔  fake との違いは？
 
 - **false**：事実や正しさに反している、間違っている
-- **[fake](/word/fake/)**：本物のふりをした偽物、見せかけ
+- **[fake](/fake)**：本物のふりをした偽物、見せかけ
 
 「false」は「正しくない」「事実と異なる」ことを指し、主に情報や答えなど無形のものに使います。「fake」は「偽物」「模造品」など、物や人のふりをする場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、選択肢の形容詞として「false」が「true」と対にな
 
 ## 🧩 あわせて覚えたい
 
-- [true](/word/true/)：本当の、正しい
-- [incorrect](/word/incorrect/)：不正確な、間違った
+- [true](/true)：本当の、正しい
+- [incorrect](/incorrect)：不正確な、間違った
 
 ---
 
 ## 📖 できればこれも
 
-- [wrong](/word/wrong/)：間違った、誤った
-- [error](/word/error/)：誤り、ミス
+- [wrong](/wrong)：間違った、誤った
+- [error](/error)：誤り、ミス
 
-<!-- cvid: aid30_bid00 -->
+<!-- cvid: aid44_bid29 -->

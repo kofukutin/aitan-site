@@ -81,15 +81,19 @@ TOEICでは形容詞として「円形の」「循環する」の意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞として「円形の」「循環する」の意味で出題
 ## 🤔  round との違いは？
 
 - **circular**：円形の、または循環する（形や動きが円に近いことを強調）
-- **[round](/word/round/)**：丸い、球状の（立体的な丸さや、ざっくりとした「丸い」形を表す）
+- **[round](/round)**：丸い、球状の（立体的な丸さや、ざっくりとした「丸い」形を表す）
 
 circularは「円（平面）」や「循環」を強調し、roundは「丸い（立体）」や「球状」にも使われます。
 
@@ -105,14 +109,14 @@ circularは「円（平面）」や「循環」を強調し、roundは「丸い�
 
 ## 🧩 あわせて覚えたい
 
-- [rectangular](/word/rectangular/)：長方形の
-- [spiral](/word/spiral/)：らせん状の
+- [rectangular](/rectangular)：長方形の
+- [spiral](/spiral)：らせん状の
 
 ---
 
 ## 📖 できればこれも
 
-- [linear](/word/linear/)：直線の
-- [oval](/word/oval/)：楕円形の
+- [linear](/linear)：直線の
+- [oval](/oval)：楕円形の
 
-<!-- cvid: aid36_bid47 -->
+<!-- cvid: aid12_bid34 -->

@@ -81,15 +81,19 @@ TOEICでは、伝統的な方法や考え方を説明する文脈でよく出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、伝統的な方法や考え方を説明する文脈でよく出題
 ## 🤔  conventional との違いは？
 
 - **traditional**：長い歴史や文化に根ざした「伝統的な」ものを指す
-- **[conventional](/word/conventional/)**：一般的・慣習的で「型にはまった」ものを指す
+- **[conventional](/conventional)**：一般的・慣習的で「型にはまった」ものを指す
 
 traditionalは歴史や文化の重みを感じさせる表現、conventionalは「普通」「一般的」といったニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ traditionalは歴史や文化の重みを感じさせる表現、conventionalは
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern/)：現代的な、新しい
-- [custom](/word/custom/)：習慣、慣習
+- [modern](/modern)：現代的な、新しい
+- [custom](/custom)：習慣、慣習
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical/)：典型的な
-- [classic](/word/classic/)：古典的な、代表的な
+- [typical](/typical)：典型的な
+- [classic](/classic)：古典的な、代表的な
 
-<!-- cvid: aid09_bid01 -->
+<!-- cvid: aid34_bid18 -->

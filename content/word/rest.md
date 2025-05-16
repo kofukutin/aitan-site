@@ -82,15 +82,19 @@ TOEICでは会話や説明文で「休憩」や「休息」を表す語として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話や説明文で「休憩」や「休息」を表す語として
 ## 🤔  break との違いは？
 
 - **rest**：体や心を休めるための「休息」「休養」を指し、比較的長めの休みや静かな時間にも使われる。
-- **[break](/word/break/)**：活動の合間にとる短い「休憩」や「中断」を指し、動きの切れ目や一時的な停止のニュアンスが強い。
+- **[break](/break)**：活動の合間にとる短い「休憩」や「中断」を指し、動きの切れ目や一時的な停止のニュアンスが強い。
 
 restは「しっかり休む」イメージ、breakは「ちょっと一息」や「作業の区切り」に使われます。
 
@@ -106,14 +110,14 @@ restは「しっかり休む」イメージ、breakは「ちょっと一息」�
 
 ## 🧩 あわせて覚えたい
 
-- [pause](/word/pause/)：一時停止、ちょっと止まること
-- [relaxation](/word/relaxation/)：リラックス、くつろぎ
+- [pause](/pause)：一時停止、ちょっと止まること
+- [relaxation](/relaxation)：リラックス、くつろぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [sleep](/word/sleep/)：睡眠、眠ること
-- [nap](/word/nap/)：昼寝、短い仮眠
+- [sleep](/sleep)：睡眠、眠ること
+- [nap](/nap)：昼寝、短い仮眠
 
-<!-- cvid: aid22_bid15 -->
+<!-- cvid: aid06_bid36 -->

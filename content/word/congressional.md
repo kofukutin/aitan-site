@@ -81,15 +81,19 @@ TOEICでは、政治や法律に関する記事や公式文書の中で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、政治や法律に関する記事や公式文書の中で見かけ
 ## 🤔  legislative との違いは？
 
 - **congressional**：アメリカの「議会（Congress）」に直接関係する
-- **[legislative](/word/legislative/)**：立法に関する、法律制定に関する
+- **[legislative](/legislative)**：立法に関する、法律制定に関する
 
 congressionalは主に米国議会に限定して使われ、legislativeは立法全般や法律制定の過程に広く使われます。
 
@@ -105,14 +109,14 @@ congressionalは主に米国議会に限定して使われ、legislativeは立�
 
 ## 🧩 あわせて覚えたい
 
-- [parliamentary](/word/parliamentary/)：議会の（特にイギリスなどの議会制に関する）
-- [executive](/word/executive/)：行政の、執行権の
+- [parliamentary](/parliamentary)：議会の（特にイギリスなどの議会制に関する）
+- [executive](/executive)：行政の、執行権の
 
 ---
 
 ## 📖 できればこれも
 
-- [federal](/word/federal/)：連邦の
-- [judicial](/word/judicial/)：司法の
+- [federal](/federal)：連邦の
+- [judicial](/judicial)：司法の
 
-<!-- cvid: aid37_bid08 -->
+<!-- cvid: aid19_bid40 -->

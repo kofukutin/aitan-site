@@ -80,15 +80,19 @@ We had a beer after the meeting.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ We had a beer after the meeting.
 ## 🤔  ale との違いは？
 
 - **beer**：ビール全般を指す一般的な言葉
-- **[ale](/word/ale/)**：ビールの一種で、上面発酵で作られる香り高いビール
+- **[ale](/ale)**：ビールの一種で、上面発酵で作られる香り高いビール
 
 beerは広く「ビール全体」を指し、aleはその中の一種（特に伝統的なイギリスのビール）を指します。
 
@@ -104,14 +108,14 @@ beerは広く「ビール全体」を指し、aleはその中の一種（特に�
 
 ## 🧩 あわせて覚えたい
 
-- [wine](/word/wine/)：ワイン（ぶどう酒）
-- [liquor](/word/liquor/)：蒸留酒、アルコール飲料
+- [wine](/wine)：ワイン（ぶどう酒）
+- [liquor](/liquor)：蒸留酒、アルコール飲料
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/word/juice/)：ジュース
-- [coffee](/word/coffee/)：コーヒー
+- [juice](/juice)：ジュース
+- [coffee](/coffee)：コーヒー
 
-<!-- cvid: aid26_bid10 -->
+<!-- cvid: aid25_bid18 -->

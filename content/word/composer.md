@@ -81,15 +81,19 @@ TOEICでは、音楽や芸術に関する記事や説明文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、音楽や芸術に関する記事や説明文で登場すること
 ## 🤔  songwriter との違いは？
 
 - **composer**：主にクラシックや映画音楽など、楽曲全体を作る作曲家
-- **[songwriter](/word/songwriter/)**：主にポップスやロックなど、歌詞とメロディを作る人
+- **[songwriter](/songwriter)**：主にポップスやロックなど、歌詞とメロディを作る人
 
 composerは楽器のみの曲や大規模な音楽作品にも使われ、songwriterは歌もの中心で使われます。
 
@@ -105,14 +109,14 @@ composerは楽器のみの曲や大規模な音楽作品にも使われ、songwr
 
 ## 🧩 あわせて覚えたい
 
-- [conductor](/word/conductor/)：指揮者
-- [musician](/word/musician/)：音楽家
+- [conductor](/conductor)：指揮者
+- [musician](/musician)：音楽家
 
 ---
 
 ## 📖 できればこれも
 
-- [arranger](/word/arranger/)：編曲者
-- [performer](/word/performer/)：演奏者
+- [arranger](/arranger)：編曲者
+- [performer](/performer)：演奏者
 
-<!-- cvid: aid18_bid05 -->
+<!-- cvid: aid13_bid22 -->

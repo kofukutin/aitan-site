@@ -81,7 +81,7 @@ TOEICでは主にPart 5の文法・語彙問題で「影響を与える」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+このまま習慣化しよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 5の文法・語彙問題で「影響を与える」とい
 
 <div class="info-center">
 ＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の文法・語彙問題で「影響を与える」とい
 ## 🤔  influence との違いは？
 
 - **affect**：直接的・一時的に「影響を与える」ことを表す
-- **[influence](/word/influence/)**：間接的・長期的に「影響を及ぼす」ことを表す
+- **[influence](/influence)**：間接的・長期的に「影響を及ぼす」ことを表す
 
 affectは短期的・直接的な作用を指し、influenceは人や状況にじわじわと影響を与えるニュアンスです。
 
@@ -105,15 +109,15 @@ affectは短期的・直接的な作用を指し、influenceは人や状況に�
 
 ## 🧩 あわせて覚えたい
 
-- [impact](/word/impact/)：強い影響、衝撃
-- [determine](/word/determine/)：決定する、左右する
+- [impact](/impact)：強い影響、衝撃
+- [determine](/determine)：決定する、左右する
 
 ---
 
 ## 📖 できればこれも
 
-- [effect](/word/effect/)：効果、影響（名詞）
-- [result](/word/result/)：結果、成り行き
+- [effect](/effect)：効果、影響（名詞）
+- [result](/result)：結果、成り行き
 
 
-<!-- cvid: aid27_bid21 -->
+<!-- cvid: aid29_bid21 -->

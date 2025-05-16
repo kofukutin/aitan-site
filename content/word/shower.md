@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、浴室やジムの設備、天候の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、浴室やジムの設備、天候の
 ## 🤔  bath との違いは？
 
 - **shower**：立ったまま水を浴びて体を洗うことや、その設備
-- **[bath](/word/bath/)**：湯船に浸かる入浴や、その浴槽
+- **[bath](/bath)**：湯船に浸かる入浴や、その浴槽
 
 showerは短時間で体を洗うイメージ、bathはリラックスや温まるために湯船に浸かるイメージです。
 
@@ -106,14 +110,14 @@ showerは短時間で体を洗うイメージ、bathはリラックスや温ま�
 
 ## 🧩 あわせて覚えたい
 
-- [rain](/word/rain/)：雨
-- [spray](/word/spray/)：噴霧、スプレー
+- [rain](/rain)：雨
+- [spray](/spray)：噴霧、スプレー
 
 ---
 
 ## 📖 できればこれも
 
-- [bathroom](/word/bathroom/)：浴室、トイレ
-- [towel](/word/towel/)：タオル
+- [bathroom](/bathroom)：浴室、トイレ
+- [towel](/towel)：タオル
 
-<!-- cvid: aid09_bid10 -->
+<!-- cvid: aid08_bid02 -->

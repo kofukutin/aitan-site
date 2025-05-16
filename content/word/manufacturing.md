@@ -81,15 +81,19 @@ TOEICでは工場やビジネスの会話、説明文で頻出します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは工場やビジネスの会話、説明文で頻出します。特に
 ## 🤔  production との違いは？
 
 - **manufacturing**：工場などでの工業的な「製造」や「製造業」を指す
-- **[production](/word/production/)**：生産全般（農業やサービスも含む）を広く指す
+- **[production](/production)**：生産全般（農業やサービスも含む）を広く指す
 
 manufacturingは主に工場での製品づくりに限定されますが、productionは「生産」全般に使えます。
 
@@ -105,14 +109,14 @@ manufacturingは主に工場での製品づくりに限定されますが、prod
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly/)：組み立て
-- [fabrication](/word/fabrication/)：組み立て・製作
+- [assembly](/assembly)：組み立て
+- [fabrication](/fabrication)：組み立て・製作
 
 ---
 
 ## 📖 できればこれも
 
-- [factory](/word/factory/)：工場
-- [process](/word/process/)：工程
+- [factory](/factory)：工場
+- [process](/process)：工程
 
-<!-- cvid: aid06_bid15 -->
+<!-- cvid: aid44_bid49 -->

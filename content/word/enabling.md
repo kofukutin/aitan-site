@@ -81,15 +81,19 @@ TOEICではITやビジネス文書の中で「enabling technology」や「enabli
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書の中で「enabling technology」や「enabli
 ## 🤔  allowing との違いは？
 
 - **enabling**：何かを可能にする、実現させる（特に機能や技術に使う）
-- **[allowing](/word/allowing/)**：許可する、可能にする（一般的な許可や容認の意味）
+- **[allowing](/allowing)**：許可する、可能にする（一般的な許可や容認の意味）
 
 enablingは「技術や仕組みが何かを実現できるようにする」ニュアンスが強く、allowingは「人やルールが許可する」場面で使われます。
 
@@ -105,14 +109,14 @@ enablingは「技術や仕組みが何かを実現できるようにする」ニ
 
 ## 🧩 あわせて覚えたい
 
-- [empowering](/word/empowering/)：力を与える、権限を与える
-- [facilitating](/word/facilitating/)：促進する、円滑に進める
+- [empowering](/empowering)：力を与える、権限を与える
+- [facilitating](/facilitating)：促進する、円滑に進める
 
 ---
 
 ## 📖 できればこれも
 
-- [capable](/word/capable/)：能力がある、できる
-- [supportive](/word/supportive/)：支援的な、協力的な
+- [capable](/capable)：能力がある、できる
+- [supportive](/supportive)：支援的な、協力的な
 
-<!-- cvid: aid27_bid34 -->
+<!-- cvid: aid21_bid18 -->

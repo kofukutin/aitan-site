@@ -81,15 +81,19 @@ TOEICでは、会議やオフィスでのやりとりの中で「書類をどこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議やオフィスでのやりとりの中で「書類をどこ
 ## 🤔  lose との違いは？
 
 - **misplace**：一時的にどこにあるか分からなくなる（置き間違える）
-- **[lose](/word/lose/)**：完全に失う、なくす
+- **[lose](/lose)**：完全に失う、なくす
 
 misplaceは「どこかに置いて見つからない」状態で、loseは「完全になくしてしまう」場合に使います。
 
@@ -105,14 +109,14 @@ misplaceは「どこかに置いて見つからない」状態で、loseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [forget](/word/forget/)：忘れる
-- [drop](/word/drop/)：落とす
+- [forget](/forget)：忘れる
+- [drop](/drop)：落とす
 
 ---
 
 ## 📖 できればこれも
 
-- [locate](/word/locate/)：見つける、位置を特定する
-- [find](/word/find/)：見つける
+- [locate](/locate)：見つける、位置を特定する
+- [find](/find)：見つける
 
-<!-- cvid: aid01_bid46 -->
+<!-- cvid: aid35_bid27 -->

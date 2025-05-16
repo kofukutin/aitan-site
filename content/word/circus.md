@@ -80,15 +80,19 @@ TOEICでは観光やイベント紹介の記事、広告文などで登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは観光やイベント紹介の記事、広告文などで登場する
 ## 🤔  carnival との違いは？
 
 - **circus**：動物や曲芸師などによる移動式のショーや団体。
-- **[carnival](/word/carnival/)**：パレードや仮装などを含む大規模な祭り。
+- **[carnival](/carnival)**：パレードや仮装などを含む大規模な祭り。
 
 circusは主にショーや公演を指し、carnivalは地域全体で行うお祭りや祝祭を指します。
 
@@ -104,14 +108,14 @@ circusは主にショーや公演を指し、carnivalは地域全体で行うお
 
 ## 🧩 あわせて覚えたい
 
-- [parade](/word/parade/)：パレード、行進
-- [performance](/word/performance/)：公演、演技
+- [parade](/parade)：パレード、行進
+- [performance](/performance)：公演、演技
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/word/theater/)：劇場、演劇
-- [festival](/word/festival/)：祭り、フェスティバル
+- [theater](/theater)：劇場、演劇
+- [festival](/festival)：祭り、フェスティバル
 
-<!-- cvid: aid48_bid00 -->
+<!-- cvid: aid34_bid05 -->

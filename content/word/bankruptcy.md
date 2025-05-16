@@ -81,15 +81,19 @@ TOEICでは主にビジネス記事や通知文、法的文書の中で登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス記事や通知文、法的文書の中で登場し
 ## 🤔  insolvency との違いは？
 
 - **bankruptcy**：法的な破産手続きや状態を指し、公式な場面で使われる。
-- **[insolvency](/word/insolvency/)**：支払い不能状態全般を指し、必ずしも法的手続きが伴うとは限らない。
+- **[insolvency](/insolvency)**：支払い不能状態全般を指し、必ずしも法的手続きが伴うとは限らない。
 
 bankruptcyは法的な破産宣告や手続きに重点があり、insolvencyは単に資金不足で支払い不能な状態を広く指します。
 
@@ -105,14 +109,14 @@ bankruptcyは法的な破産宣告や手続きに重点があり、insolvencyは
 
 ## 🧩 あわせて覚えたい
 
-- [liquidation](/word/liquidation/)：清算、資産売却
-- [solvency](/word/solvency/)：支払い能力、支払可能性
+- [liquidation](/liquidation)：清算、資産売却
+- [solvency](/solvency)：支払い能力、支払可能性
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [debt](/word/debt/)：負債
+- [asset](/asset)：資産
+- [debt](/debt)：負債
 
-<!-- cvid: aid20_bid33 -->
+<!-- cvid: aid23_bid38 -->

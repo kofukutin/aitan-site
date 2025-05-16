@@ -81,15 +81,19 @@ TOEICではPart 1やPart 2で「昼食をとる」「ランチミーティング
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid20" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid20" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1やPart 2で「昼食をとる」「ランチミーティング
 ## 🤔  meal との違いは？
 
 - **lunch**：昼に食べる食事（昼食）を指す。
-- **[meal](/word/meal/)**：食事全般（朝・昼・晩など）を指す一般的な言葉。
+- **[meal](/meal)**：食事全般（朝・昼・晩など）を指す一般的な言葉。
 
 lunchは「昼食」と限定されますが、mealは「食事」全般を指し、朝食・昼食・夕食すべてに使えます。
 
@@ -105,14 +109,14 @@ lunchは「昼食」と限定されますが、mealは「食事」全般を指�
 
 ## 🧩 あわせて覚えたい
 
-- [dinner](/word/dinner/)：夕食
-- [snack](/word/snack/)：軽食、おやつ
+- [dinner](/dinner)：夕食
+- [snack](/snack)：軽食、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [breakfast](/word/breakfast/)：朝食
-- [coffee](/word/coffee/)：コーヒー
+- [breakfast](/breakfast)：朝食
+- [coffee](/coffee)：コーヒー
 
-<!-- cvid: aid37_bid43 -->
+<!-- cvid: aid29_bid20 -->

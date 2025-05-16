@@ -81,15 +81,19 @@ TOEICでは主にビジネスやIT分野の文脈で、計画やシステムの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスやIT分野の文脈で、計画やシステムの�
 ## 🤔  execution との違いは？
 
 - **implementation**：計画やシステムなどを実際に導入・実施すること
-- **[execution](/word/execution/)**：計画や命令などを「実行」すること、特に手順通りに遂行すること
+- **[execution](/execution)**：計画や命令などを「実行」すること、特に手順通りに遂行すること
 
 implementationは「導入・実装」のニュアンスが強く、executionは「実行・遂行」の意味合いが強いです。
 
@@ -105,14 +109,14 @@ implementationは「導入・実装」のニュアンスが強く、executionは
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan/)：計画
-- [operation](/word/operation/)：運用、操作
+- [plan](/plan)：計画
+- [operation](/operation)：運用、操作
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、プロセス
-- [strategy](/word/strategy/)：戦略
+- [process](/process)：過程、プロセス
+- [strategy](/strategy)：戦略
 
-<!-- cvid: aid18_bid42 -->
+<!-- cvid: aid06_bid02 -->

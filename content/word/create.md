@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、ビジネス文書や指示文で「作る」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、ビジネス文書や指示文で「作る」「
 ## 🤔  generate との違いは？
 
 - **create**：何もないところから新しいものを生み出す、独創的なニュアンス
-- **[generate](/word/generate/)**：エネルギーや利益など、何かを発生させる・生み出す（機械的・数量的なニュアンス）
+- **[generate](/generate)**：エネルギーや利益など、何かを発生させる・生み出す（機械的・数量的なニュアンス）
 
 「create」は独自性や創造性を強調し、「generate」は数量や結果を生み出す場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICではPart 5を中心に、ビジネス文書や指示文で「作る」「
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop/)：発展させる、開発する
-- [destroy](/word/destroy/)：破壊する
+- [develop](/develop)：発展させる、開発する
+- [destroy](/destroy)：破壊する
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：設計する、デザインする
-- [produce](/word/produce/)：生産する、作り出す
+- [design](/design)：設計する、デザインする
+- [produce](/produce)：生産する、作り出す
 
-<!-- cvid: aid46_bid46 -->
+<!-- cvid: aid19_bid44 -->

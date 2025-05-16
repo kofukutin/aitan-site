@@ -81,15 +81,19 @@ TOEICでは、公式な通知や公告、政府関連の文書を読む問題で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid32" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid32" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、公式な通知や公告、政府関連の文書を読む問題で
 ## 🤔  newspaper との違いは？
 
 - **gazette**：政府や公的機関が公式な情報を発表するための公報・官報
-- **[newspaper](/word/newspaper/)**：一般的なニュースや記事を掲載する新聞
+- **[newspaper](/newspaper)**：一般的なニュースや記事を掲載する新聞
 
 gazetteは公式な発表や公告に特化したフォーマルな媒体、newspaperは日常的なニュースや記事を幅広く扱う媒体です。
 
@@ -105,14 +109,14 @@ gazetteは公式な発表や公告に特化したフォーマルな媒体、news
 
 ## 🧩 あわせて覚えたい
 
-- [bulletin](/word/bulletin/)：掲示、速報、短い公報
-- [journal](/word/journal/)：雑誌、専門誌、日誌
+- [bulletin](/bulletin)：掲示、速報、短い公報
+- [journal](/journal)：雑誌、専門誌、日誌
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/word/brochure/)：パンフレット、小冊子
-- [newsletter](/word/newsletter/)：会報、ニュースレター
+- [brochure](/brochure)：パンフレット、小冊子
+- [newsletter](/newsletter)：会報、ニュースレター
 
-<!-- cvid: aid43_bid25 -->
+<!-- cvid: aid13_bid32 -->

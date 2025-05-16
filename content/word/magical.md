@@ -81,15 +81,19 @@ TOEICでは観光やイベント、商品説明などで「magical atmosphere」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント、商品説明などで「magical atmosphere」
 ## 🤔  miraculous との違いは？
 
 - **magical**：魔法のように不思議で魅力的な様子や雰囲気を表す
-- **[miraculous](/word/miraculous/)**：奇跡的で説明できないほど素晴らしい出来事を表す
+- **[miraculous](/miraculous)**：奇跡的で説明できないほど素晴らしい出来事を表す
 
 「magical」は雰囲気や体験の幻想的な魅力を、「miraculous」は現実ではありえないほどの奇跡や出来事を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは観光やイベント、商品説明などで「magical atmosphere」
 
 ## 🧩 あわせて覚えたい
 
-- [enchanting](/word/enchanting/)：うっとりさせるような、魅惑的な
-- [supernatural](/word/supernatural/)：超自然的な、科学で説明できない
+- [enchanting](/enchanting)：うっとりさせるような、魅惑的な
+- [supernatural](/supernatural)：超自然的な、科学で説明できない
 
 ---
 
 ## 📖 できればこれも
 
-- [fantastic](/word/fantastic/)：素晴らしい、空想的な
-- [mysterious](/word/mysterious/)：神秘的な、謎めいた
+- [fantastic](/fantastic)：素晴らしい、空想的な
+- [mysterious](/mysterious)：神秘的な、謎めいた
 
-<!-- cvid: aid38_bid41 -->
+<!-- cvid: aid25_bid49 -->

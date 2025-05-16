@@ -82,15 +82,19 @@ TOEICでは「participate in ～」の形で、会議やイベントへの参加
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「participate in ～」の形で、会議やイベントへの参加
 ## 🤔  join との違いは？
 
 - **participate**：活動やイベントに積極的に「参加する」「関与する」ことを強調
-- **[join](/word/join/)**：グループや組織に「加わる」「一緒になる」ことを表す
+- **[join](/join)**：グループや組織に「加わる」「一緒になる」ことを表す
 
 participateは「活動への積極的な関与」、joinは「グループや集まりに加わる」ことに重点があります。
 
@@ -106,14 +110,14 @@ participateは「活動への積極的な関与」、joinは「グループや�
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/word/attend/)：出席する（主にイベントや会議に物理的に行くこと）
-- [engage](/word/engage/)：積極的に関わる、従事する
+- [attend](/attend)：出席する（主にイベントや会議に物理的に行くこと）
+- [engage](/engage)：積極的に関わる、従事する
 
 ---
 
 ## 📖 できればこれも
 
-- [contribute](/word/contribute/)：貢献する
-- [collaborate](/word/collaborate/)：協力する
+- [contribute](/contribute)：貢献する
+- [collaborate](/collaborate)：協力する
 
-<!-- cvid: aid09_bid48 -->
+<!-- cvid: aid03_bid45 -->

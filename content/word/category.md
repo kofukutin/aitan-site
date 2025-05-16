@@ -81,15 +81,19 @@ TOEICでは、商品やサービスの分類、アンケートや申込書の選
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品やサービスの分類、アンケートや申込書の選
 ## 🤔  type との違いは？
 
 - **category**：共通の特徴でまとめた「部類」や「分類」を指す
-- **[type](/word/type/)**：性質や形状などの「種類」「型」を指す
+- **[type](/type)**：性質や形状などの「種類」「型」を指す
 
 categoryは大きな枠組みや分類に使い、typeはその中の具体的な種類や型に使うことが多いです。
 
@@ -105,14 +109,14 @@ categoryは大きな枠組みや分類に使い、typeはその中の具体的�
 
 ## 🧩 あわせて覚えたい
 
-- [class](/word/class/)：（共通点による）クラス、等級
-- [group](/word/group/)：集団、グループ
+- [class](/class)：（共通点による）クラス、等級
+- [group](/group)：集団、グループ
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/word/section/)：区分、セクション
-- [item](/word/item/)：項目、アイテム
+- [section](/section)：区分、セクション
+- [item](/item)：項目、アイテム
 
-<!-- cvid: aid27_bid33 -->
+<!-- cvid: aid42_bid18 -->

@@ -81,15 +81,19 @@ seeはTOEICの会話パートで「会う」「見える」などの意味で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid33" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid33" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ seeはTOEICの会話パートで「会う」「見える」などの意味で頻
 ## 🤔  look との違いは？
 
 - **see**：自然と目に入る、意識せず見える
-- **[look](/word/look/)**：意識して視線を向ける、注意して見る
+- **[look](/look)**：意識して視線を向ける、注意して見る
 
 seeは「気づいたら見えている」感覚、lookは「意図的に見る」動作を表します。
 
@@ -105,14 +109,14 @@ seeは「気づいたら見えている」感覚、lookは「意図的に見る�
 
 ## 🧩 あわせて覚えたい
 
-- [watch](/word/watch/)：じっと見る、観察する
-- [notice](/word/notice/)：気づく、注意する
+- [watch](/watch)：じっと見る、観察する
+- [notice](/notice)：気づく、注意する
 
 ---
 
 ## 📖 できればこれも
 
-- [hear](/word/hear/)：聞こえる
-- [find](/word/find/)：見つける
+- [hear](/hear)：聞こえる
+- [find](/find)：見つける
 
-<!-- cvid: aid29_bid21 -->
+<!-- cvid: aid24_bid33 -->

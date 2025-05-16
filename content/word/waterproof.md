@@ -81,15 +81,19 @@ TOEICでは製品説明や仕様書、広告文などで「waterproof」が形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ TOEICでは製品説明や仕様書、広告文などで「waterproof」が形�
 
 ## 🧩 あわせて覚えたい
 
-- [durable](/word/durable/)：耐久性のある
-- [absorbent](/word/absorbent/)：吸収性のある
+- [durable](/durable)：耐久性のある
+- [absorbent](/absorbent)：吸収性のある
 
 ---
 
 ## 📖 できればこれも
 
-- [protective](/word/protective/)：保護用の
-- [moisture](/word/moisture/)：湿気
+- [protective](/protective)：保護用の
+- [moisture](/moisture)：湿気
 
-<!-- cvid: aid47_bid35 -->
+<!-- cvid: aid36_bid26 -->

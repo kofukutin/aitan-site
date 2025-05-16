@@ -81,15 +81,19 @@ TOEICでは、会社のイベントや健康に関する話題、地域活動の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社のイベントや健康に関する話題、地域活動の
 ## 🤔  exercise との違いは？
 
 - **sport**：競技性やルールのある運動、楽しみや対戦を目的とする活動。
-- **[exercise](/word/exercise/)**：健康や体力維持のための運動、競技性は問わない。
+- **[exercise](/exercise)**：健康や体力維持のための運動、競技性は問わない。
 
 「sport」はサッカーや野球などの競技を指し、「exercise」はジョギングやストレッチなど健康目的の運動を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、会社のイベントや健康に関する話題、地域活動の
 
 ## 🧩 あわせて覚えたい
 
-- [game](/word/game/)：試合、遊び
-- [competition](/word/competition/)：競争、コンテスト
+- [game](/game)：試合、遊び
+- [competition](/competition)：競争、コンテスト
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [player](/word/player/)：選手、プレーヤー
+- [team](/team)：チーム、団体
+- [player](/player)：選手、プレーヤー
 
-<!-- cvid: aid22_bid45 -->
+<!-- cvid: aid17_bid16 -->

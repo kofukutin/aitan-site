@@ -81,15 +81,19 @@ TOEICでは会話や説明文で頻繁に登場し、基本的な動詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で頻繁に登場し、基本的な動詞として
 ## 🤔  realize との違いは？
 
 - **know**：知識や情報として知っている状態を表す
-- **[realize](/word/realize/)**：気づく、はっきり理解する（瞬間的な認識）
+- **[realize](/realize)**：気づく、はっきり理解する（瞬間的な認識）
 
 knowは「すでに知っている」こと、realizeは「その場で気づく」ことを表します。
 
@@ -105,14 +109,14 @@ knowは「すでに知っている」こと、realizeは「その場で気づく
 
 ## 🧩 あわせて覚えたい
 
-- [understand](/word/understand/)：理解する
-- [recognize](/word/recognize/)：見分ける、認識する
+- [understand](/understand)：理解する
+- [recognize](/recognize)：見分ける、認識する
 
 ---
 
 ## 📖 できればこれも
 
-- [learn](/word/learn/)：学ぶ、習得する
-- [notice](/word/notice/)：気づく
+- [learn](/learn)：学ぶ、習得する
+- [notice](/notice)：気づく
 
-<!-- cvid: aid11_bid44 -->
+<!-- cvid: aid20_bid24 -->

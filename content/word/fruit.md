@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fruit】の意味・使い方・例文 ― vegetableとの違い【TOEIC英単語】"
 description: "fruitの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでvegetableとの違いもわかりやすく学べます。"
 word: "fruit"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写や、食事・買い物の場面でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写や、食事・買い物の場面でよく登場
 ## 🤔  vegetable との違いは？
 
 - **fruit**：甘くて生で食べることが多い植物の実
-- **[vegetable](/word/vegetable/)**：主に料理に使う野菜、甘くない植物の部分
+- **[vegetable](/vegetable)**：主に料理に使う野菜、甘くない植物の部分
 
 fruitはデザートやそのまま食べることが多い一方、vegetableは料理やサラダなどで使われることが多いです。
 
@@ -105,14 +109,14 @@ fruitはデザートやそのまま食べることが多い一方、vegetableは
 
 ## 🧩 あわせて覚えたい
 
-- [berry](/word/berry/)：ベリー類、小さな果実
-- [harvest](/word/harvest/)：収穫
+- [berry](/berry)：ベリー類、小さな果実
+- [harvest](/harvest)：収穫
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/word/juice/)：ジュース、果汁
-- [apple](/word/apple/)：りんご
+- [juice](/juice)：ジュース、果汁
+- [apple](/apple)：りんご
 
-<!-- cvid: aid49_bid26 -->
+<!-- cvid: aid30_bid41 -->

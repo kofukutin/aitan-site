@@ -81,15 +81,19 @@ TOEICでは、信頼性や信用を問う文脈で形容詞として出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、信頼性や信用を問う文脈で形容詞として出題され
 ## 🤔  reliable との違いは？
 
 - **trusted**：すでに信頼されている、実績がある
-- **[reliable](/word/reliable/)**：信頼できる、頼りになる
+- **[reliable](/reliable)**：信頼できる、頼りになる
 
 「trusted」は過去の実績や評価に基づき「信頼されている」ことを強調し、「reliable」は性質として「信頼できる」ことを表します。
 
@@ -105,14 +109,14 @@ TOEICでは、信頼性や信用を問う文脈で形容詞として出題され
 
 ## 🧩 あわせて覚えたい
 
-- [credible](/word/credible/)：信用できる、信憑性のある
-- [doubtful](/word/doubtful/)：疑わしい、信用できない
+- [credible](/credible)：信用できる、信憑性のある
+- [doubtful](/doubtful)：疑わしい、信用できない
 
 ---
 
 ## 📖 できればこれも
 
-- [secure](/word/secure/)：安全な、安心できる
-- [honest](/word/honest/)：正直な、誠実な
+- [secure](/secure)：安全な、安心できる
+- [honest](/honest)：正直な、誠実な
 
-<!-- cvid: aid41_bid45 -->
+<!-- cvid: aid14_bid42 -->

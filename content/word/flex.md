@@ -81,15 +81,19 @@ TOEICでは「柔軟に対応する」「調整する」という意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「柔軟に対応する」「調整する」という意味で出題
 ## 🤔  bend との違いは？
 
 - **flex**：体の一部や物を「曲げる」、筋肉を動かす、または（カジュアルに）自慢する
-- **[bend](/word/bend/)**：物理的に「曲げる」、特に形を変えることに重点
+- **[bend](/bend)**：物理的に「曲げる」、特に形を変えることに重点
 
 flexは筋肉やスケジュールなど「柔軟に動かす・調整する」ニュアンスがあり、bendは単純に「形を曲げる」動作に使います。
 
@@ -105,14 +109,14 @@ flexは筋肉やスケジュールなど「柔軟に動かす・調整する」�
 
 ## 🧩 あわせて覚えたい
 
-- [stretch](/word/stretch/)：伸ばす、広げる
-- [contract](/word/contract/)：縮める、収縮する
+- [stretch](/stretch)：伸ばす、広げる
+- [contract](/contract)：縮める、収縮する
 
 ---
 
 ## 📖 できればこれも
 
-- [twist](/word/twist/)：ねじる、ひねる
-- [adjust](/word/adjust/)：調整する、適応させる
+- [twist](/twist)：ねじる、ひねる
+- [adjust](/adjust)：調整する、適応させる
 
-<!-- cvid: aid44_bid14 -->
+<!-- cvid: aid28_bid47 -->

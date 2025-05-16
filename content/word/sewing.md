@@ -81,15 +81,19 @@ TOEICでは、衣服や製造、趣味に関する長文や広告、求人情報
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、衣服や製造、趣味に関する長文や広告、求人情報
 ## 🤔  tailoring との違いは？
 
 - **sewing**：一般的な裁縫や縫い物全般を指す
-- **[tailoring](/word/tailoring/)**：特に洋服の仕立てやオーダーメイドの服作りを指す
+- **[tailoring](/tailoring)**：特に洋服の仕立てやオーダーメイドの服作りを指す
 
 sewing は広く「縫うこと」全般を指しますが、tailoring は特にプロの仕立てや服のカスタマイズに使われます。
 
@@ -105,14 +109,14 @@ sewing は広く「縫うこと」全般を指しますが、tailoring は特に
 
 ## 🧩 あわせて覚えたい
 
-- [knitting](/word/knitting/)：編み物
-- [embroidery](/word/embroidery/)：刺繍
+- [knitting](/knitting)：編み物
+- [embroidery](/embroidery)：刺繍
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric/)：布地
-- [needle](/word/needle/)：針
+- [fabric](/fabric)：布地
+- [needle](/needle)：針
 
-<!-- cvid: aid40_bid08 -->
+<!-- cvid: aid32_bid40 -->

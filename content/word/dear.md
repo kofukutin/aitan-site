@@ -88,8 +88,12 @@ The hotel was too dear for our budget.
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hotel was too dear for our budget.
 ## 🤔  expensive との違いは？
 
 - **dear**：親しみや愛情を込めた呼びかけや、「高価な」という意味もあるがややフォーマル・古風。
-- **[expensive](/word/expensive/)**：単に「値段が高い」という意味で、感情的なニュアンスはない。
+- **[expensive](/expensive)**：単に「値段が高い」という意味で、感情的なニュアンスはない。
 
 dearは人への呼びかけや愛情表現にも使われますが、expensiveは物の値段が高い場合のみ使います。
 
@@ -105,14 +109,14 @@ dearは人への呼びかけや愛情表現にも使われますが、expensive�
 
 ## 🧩 あわせて覚えたい
 
-- [cheap](/word/cheap/)：安い
-- [beloved](/word/beloved/)：最愛の、大切な
+- [cheap](/cheap)：安い
+- [beloved](/beloved)：最愛の、大切な
 
 ---
 
 ## 📖 できればこれも
 
-- [kind](/word/kind/)：親切な
-- [polite](/word/polite/)：礼儀正しい
+- [kind](/kind)：親切な
+- [polite](/polite)：礼儀正しい
 
-<!-- cvid: aid28_bid13 -->
+<!-- cvid: aid28_bid18 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネスシーンでの「情報交換」や「両替」「意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスシーンでの「情報交換」や「両替」「意
 ## 🤔  trade との違いは？
 
 - **exchange**：物や情報などをお互いにやりとりすること、両替も含む
-- **[trade](/word/trade/)**：商業的な「取引」や「貿易」を指し、規模が大きい場合が多い
+- **[trade](/trade)**：商業的な「取引」や「貿易」を指し、規模が大きい場合が多い
 
 exchangeは対等なやりとりや両替など幅広く使われ、tradeは商業的な売買や国際取引に特化しています。
 
@@ -105,14 +109,14 @@ exchangeは対等なやりとりや両替など幅広く使われ、tradeは商�
 
 ## 🧩 あわせて覚えたい
 
-- [transaction](/word/transaction/)：取引、売買
-- [swap](/word/swap/)：（カジュアルな）交換
+- [transaction](/transaction)：取引、売買
+- [swap](/swap)：（カジュアルな）交換
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal/)：取引、契約
-- [transfer](/word/transfer/)：移転、譲渡
+- [deal](/deal)：取引、契約
+- [transfer](/transfer)：移転、譲渡
 
-<!-- cvid: aid23_bid35 -->
+<!-- cvid: aid09_bid49 -->

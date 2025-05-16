@@ -81,15 +81,19 @@ TOEIC Part 1の写真描写問題で、飲み物や液体を注ぐ場面によ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEIC Part 1の写真描写問題で、飲み物や液体を注ぐ場面によ�
 ## 🤔  spill との違いは？
 
 - **pour**：意図的に液体を注ぐ
-- **[spill](/word/spill/)**：うっかり液体をこぼす
+- **[spill](/spill)**：うっかり液体をこぼす
 
 pourはコントロールして注ぐ動作、spillは意図せずこぼしてしまう時に使います。
 
@@ -105,14 +109,14 @@ pourはコントロールして注ぐ動作、spillは意図せずこぼして�
 
 ## 🧩 あわせて覚えたい
 
-- [fill](/word/fill/)：満たす、いっぱいにする
-- [drain](/word/drain/)：排出する、流し出す
+- [fill](/fill)：満たす、いっぱいにする
+- [drain](/drain)：排出する、流し出す
 
 ---
 
 ## 📖 できればこれも
 
-- [mix](/word/mix/)：混ぜる
-- [serve](/word/serve/)：提供する、出す
+- [mix](/mix)：混ぜる
+- [serve](/serve)：提供する、出す
 
-<!-- cvid: aid14_bid18 -->
+<!-- cvid: aid43_bid49 -->

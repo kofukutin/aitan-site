@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「温度」や「気温」に関する話題が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「温度」や「気温」に関する話題が
 ## 🤔  climate との違いは？
 
 - **temperature**：ある時点や場所の「温度」「気温」を指す
-- **[climate](/word/climate/)**：長期間の「気候」やその地域の平均的な天候を指す
+- **[climate](/climate)**：長期間の「気候」やその地域の平均的な天候を指す
 
 temperatureは一時的・具体的な数値、climateは長期的・全体的な傾向を表します。
 
@@ -105,14 +109,14 @@ temperatureは一時的・具体的な数値、climateは長期的・全体的�
 
 ## 🧩 あわせて覚えたい
 
-- [degree](/word/degree/)：度（温度や角度の単位）
-- [humidity](/word/humidity/)：湿度
+- [degree](/degree)：度（温度や角度の単位）
+- [humidity](/humidity)：湿度
 
 ---
 
 ## 📖 できればこれも
 
-- [weather](/word/weather/)：天気
-- [pressure](/word/pressure/)：気圧、圧力
+- [weather](/weather)：天気
+- [pressure](/pressure)：気圧、圧力
 
-<!-- cvid: aid33_bid33 -->
+<!-- cvid: aid34_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは、寄付の依頼メールやチャリティーイベントの案内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、寄付の依頼メールやチャリティーイベントの案内
 ## 🤔  contribution との違いは？
 
 - **donation**：主に慈善目的で無償で与える「寄付」「寄贈」
-- **[contribution](/word/contribution/)**：寄付だけでなく、意見や労力など幅広い「貢献」「寄与」
+- **[contribution](/contribution)**：寄付だけでなく、意見や労力など幅広い「貢献」「寄与」
 
 donationは「お金や物品を無償で与える」ことに特化し、contributionは「貢献」全般を指します。
 
@@ -105,14 +109,14 @@ donationは「お金や物品を無償で与える」ことに特化し、contri
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant/)：助成金、補助金
-- [charity](/word/charity/)：慈善、慈善団体
+- [grant](/grant)：助成金、補助金
+- [charity](/charity)：慈善、慈善団体
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/word/fund/)：資金、基金
-- [sponsor](/word/sponsor/)：スポンサー、後援者
+- [fund](/fund)：資金、基金
+- [sponsor](/sponsor)：スポンサー、後援者
 
-<!-- cvid: aid20_bid19 -->
+<!-- cvid: aid25_bid17 -->

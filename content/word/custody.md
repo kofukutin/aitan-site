@@ -80,15 +80,19 @@ TOEICでは法務やビジネス文書、親権や管理に関する話題で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは法務やビジネス文書、親権や管理に関する話題で登
 ## 🤔  detention との違いは？
 
 - **custody**：保護・管理・拘留・親権など幅広く「管理下に置く」意味
-- **[detention](/word/detention/)**：主に「拘留」「留置」など自由を制限する意味
+- **[detention](/detention)**：主に「拘留」「留置」など自由を制限する意味
 
 custodyは親権や管理も含む広い意味ですが、detentionは「拘束・留置」に特化しています。
 
@@ -104,14 +108,14 @@ custodyは親権や管理も含む広い意味ですが、detentionは「拘束�
 
 ## 🧩 あわせて覚えたい
 
-- [guardianship](/word/guardianship/)：後見、保護者としての権利
-- [arrest](/word/arrest/)：逮捕
+- [guardianship](/guardianship)：後見、保護者としての権利
+- [arrest](/arrest)：逮捕
 
 ---
 
 ## 📖 できればこれも
 
-- [trial](/word/trial/)：裁判、公判
-- [sentence](/word/sentence/)：判決、刑
+- [trial](/trial)：裁判、公判
+- [sentence](/sentence)：判決、刑
 
-<!-- cvid: aid02_bid27 -->
+<!-- cvid: aid08_bid38 -->

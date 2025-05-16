@@ -81,15 +81,19 @@ arcticは環境や地理に関する長文や記事で登場することが多�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ arcticは環境や地理に関する長文や記事で登場することが多�
 ## 🤔  antarctic との違いは？
 
 - **arctic**：北極の、北極地方の
-- **[antarctic](/word/antarctic/)**：南極の、南極地方の
+- **[antarctic](/antarctic)**：南極の、南極地方の
 
 arcticは北極圏や北半球の極地を指し、antarcticは南極圏や南半球の極地を指します。場所が正反対です。
 
@@ -105,14 +109,14 @@ arcticは北極圏や北半球の極地を指し、antarcticは南極圏や南�
 
 ## 🧩 あわせて覚えたい
 
-- [polar](/word/polar/)：極地の、極端な
-- [frigid](/word/frigid/)：極寒の、非常に冷たい
+- [polar](/polar)：極地の、極端な
+- [frigid](/frigid)：極寒の、非常に冷たい
 
 ---
 
 ## 📖 できればこれも
 
-- [glacier](/word/glacier/)：氷河
-- [tundra](/word/tundra/)：ツンドラ（永久凍土の草原地帯）
+- [glacier](/glacier)：氷河
+- [tundra](/tundra)：ツンドラ（永久凍土の草原地帯）
 
-<!-- cvid: aid25_bid05 -->
+<!-- cvid: aid24_bid39 -->

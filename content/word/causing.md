@@ -81,15 +81,19 @@ TOEICでは主に動詞の形（現在分詞・過去分詞）の使い分けや
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に動詞の形（現在分詞・過去分詞）の使い分けや
 ## 🤔  making との違いは？
 
 - **causing**：何かの「原因となっている」「引き起こしている」ことを強調
-- **[making](/word/making/)**：何かを「作り出している」「生み出している」ことを強調
+- **[making](/making)**：何かを「作り出している」「生み出している」ことを強調
 
 causingは出来事や結果の「原因」に焦点があり、makingは「創造」や「生成」に焦点があります。
 
@@ -105,14 +109,14 @@ causingは出来事や結果の「原因」に焦点があり、makingは「創�
 
 ## 🧩 あわせて覚えたい
 
-- [lead](/word/lead/)：導く、結果として～になる
-- [result](/word/result/)：結果となる、～の結果になる
+- [lead](/lead)：導く、結果として～になる
+- [result](/result)：結果となる、～の結果になる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect/)：影響を与える
-- [bring](/word/bring/)：もたらす、引き起こす
+- [affect](/affect)：影響を与える
+- [bring](/bring)：もたらす、引き起こす
 
-<!-- cvid: aid35_bid46 -->
+<!-- cvid: aid44_bid31 -->

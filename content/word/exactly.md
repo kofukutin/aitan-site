@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「正確に」「まさにその通り」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「正確に」「まさにその通り」とい
 ## 🤔  precisely との違いは？
 
 - **exactly**：日常会話でもよく使われ、「まさに」「その通り」と強調したい時に使う。
-- **[precisely](/word/precisely/)**：よりフォーマルで、細かい点まで「正確に」と言いたい時に使う。
+- **[precisely](/precisely)**：よりフォーマルで、細かい点まで「正確に」と言いたい時に使う。
 
 「exactly」はカジュアルな場面でも使えますが、「precisely」はフォーマルな文書や専門的な説明で使われることが多いです。
 
@@ -101,14 +105,14 @@ TOEICでは会話や説明文で「正確に」「まさにその通り」とい
 
 ## 🧩 あわせて覚えたい
 
-- [accurately](/word/accurately/)：正確に
-- [approximately](/word/approximately/)：おおよそ、だいたい
+- [accurately](/accurately)：正確に
+- [approximately](/approximately)：おおよそ、だいたい
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost/)：ほとんど
-- [completely](/word/completely/)：完全に
+- [almost](/almost)：ほとんど
+- [completely](/completely)：完全に
 
-<!-- cvid: aid16_bid28 -->
+<!-- cvid: aid24_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは教育やしつけに関する会話や説明文でまれに登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは教育やしつけに関する会話や説明文でまれに登場し
 ## 🤔  slap との違いは？
 
 - **spank**：しつけ目的でおしりをたたく
-- **[slap](/word/slap/)**：顔や手などを平手でたたく
+- **[slap](/slap)**：顔や手などを平手でたたく
 
 spankは主に子どものおしりをしつけのためにたたく場合に使い、slapは顔や手など体の他の部分をたたくときに使います。
 
@@ -105,14 +109,14 @@ spankは主に子どものおしりをしつけのためにたたく場合に使
 
 ## 🧩 あわせて覚えたい
 
-- [punish](/word/punish/)：罰する
-- [scold](/word/scold/)：叱る
+- [punish](/punish)：罰する
+- [scold](/scold)：叱る
 
 ---
 
 ## 📖 できればこれも
 
-- [yell](/word/yell/)：大声で叱る
-- [warn](/word/warn/)：警告する
+- [yell](/yell)：大声で叱る
+- [warn](/warn)：警告する
 
-<!-- cvid: aid12_bid19 -->
+<!-- cvid: aid40_bid23 -->

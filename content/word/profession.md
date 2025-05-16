@@ -81,15 +81,19 @@ TOEICでは、求人広告や職業紹介、ビジネス文書などで「profes
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や職業紹介、ビジネス文書などで「profes
 ## 🤔  occupation との違いは？
 
 - **profession**：専門的な知識や資格を必要とする職業
-- **[occupation](/word/occupation/)**：一般的な「職業」「仕事」全般
+- **[occupation](/occupation)**：一般的な「職業」「仕事」全般
 
 professionは医師や弁護士など専門性の高い職業を指し、occupationはアルバイトや事務職なども含む広い意味で使われます。
 
@@ -105,14 +109,14 @@ professionは医師や弁護士など専門性の高い職業を指し、occupat
 
 ## 🧩 あわせて覚えたい
 
-- [career](/word/career/)：経歴、職業人生
-- [vocation](/word/vocation/)：天職、使命感を持つ職業
+- [career](/career)：経歴、職業人生
+- [vocation](/vocation)：天職、使命感を持つ職業
 
 ---
 
 ## 📖 できればこれも
 
-- [expert](/word/expert/)：専門家
-- [specialist](/word/specialist/)：専門家、スペシャリスト
+- [expert](/expert)：専門家
+- [specialist](/specialist)：専門家、スペシャリスト
 
-<!-- cvid: aid48_bid30 -->
+<!-- cvid: aid44_bid10 -->

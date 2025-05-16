@@ -81,15 +81,19 @@ IT関連やマニュアル、サポート業務の説明文で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やマニュアル、サポート業務の説明文で頻出します。
 ## 🤔  debugging との違いは？
 
 - **troubleshooting**：問題の原因を特定し、解決策を探す一連の作業全体を指す
-- **[debugging](/word/debugging/)**：主にプログラムのバグ（不具合）を見つけて修正する作業
+- **[debugging](/debugging)**：主にプログラムのバグ（不具合）を見つけて修正する作業
 
 troubleshootingは幅広い問題解決全般に使われ、debuggingはソフトウェアのバグ修正に特化しています。
 
@@ -105,14 +109,14 @@ troubleshootingは幅広い問題解決全般に使われ、debuggingはソフ�
 
 ## 🧩 あわせて覚えたい
 
-- [maintenance](/word/maintenance/)：保守、メンテナンス
-- [repair](/word/repair/)：修理
+- [maintenance](/maintenance)：保守、メンテナンス
+- [repair](/repair)：修理
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/word/installation/)：インストール、設置
-- [configuration](/word/configuration/)：設定、構成
+- [installation](/installation)：インストール、設置
+- [configuration](/configuration)：設定、構成
 
-<!-- cvid: aid30_bid31 -->
+<!-- cvid: aid34_bid10 -->

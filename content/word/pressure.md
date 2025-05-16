@@ -81,15 +81,19 @@ TOEICでは「under pressure（プレッシャーの下で）」や「put pressu
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「under pressure（プレッシャーの下で）」や「put pressu
 ## 🤔  stress との違いは？
 
 - **pressure**：外部からの圧力や重圧、プレッシャーを指す
-- **[stress](/word/stress/)**：精神的なストレスや緊張状態を指す
+- **[stress](/stress)**：精神的なストレスや緊張状態を指す
 
 pressureは「外からかかる圧力」や「周囲からの期待・重圧」を表し、stressは「心身に感じるストレス」や「緊張」を指します。
 
@@ -105,14 +109,14 @@ pressureは「外からかかる圧力」や「周囲からの期待・重圧」
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/word/burden/)：重荷、負担
-- [force](/word/force/)：力、強制力
+- [burden](/burden)：重荷、負担
+- [force](/force)：力、強制力
 
 ---
 
 ## 📖 できればこれも
 
-- [demand](/word/demand/)：要求、需要
-- [influence](/word/influence/)：影響
+- [demand](/demand)：要求、需要
+- [influence](/influence)：影響
 
-<!-- cvid: aid03_bid49 -->
+<!-- cvid: aid01_bid05 -->

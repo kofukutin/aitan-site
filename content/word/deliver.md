@@ -81,15 +81,19 @@ TOEICでは「配達する」「届ける」の意味で、会話や説明文中
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「配達する」「届ける」の意味で、会話や説明文中
 ## 🤔  distribute との違いは？
 
 - **deliver**：特定の相手や場所に「届ける」「配達する」ことに重点がある
-- **[distribute](/word/distribute/)**：複数の人や場所に「分配する」「配る」ことに重点がある
+- **[distribute](/distribute)**：複数の人や場所に「分配する」「配る」ことに重点がある
 
 deliverは「1対1」や「目的地への到着」にフォーカスし、distributeは「多くの人への分配」に使われます。
 
@@ -105,14 +109,14 @@ deliverは「1対1」や「目的地への到着」にフォーカスし、distr
 
 ## 🧩 あわせて覚えたい
 
-- [send](/word/send/)：送る
-- [ship](/word/ship/)：発送する
+- [send](/send)：送る
+- [ship](/ship)：発送する
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/word/receive/)：受け取る
-- [provide](/word/provide/)：提供する
+- [receive](/receive)：受け取る
+- [provide](/provide)：提供する
 
-<!-- cvid: aid42_bid39 -->
+<!-- cvid: aid37_bid30 -->

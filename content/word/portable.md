@@ -81,15 +81,19 @@ TOEICでは、電子機器やビジネス用品の説明文で「portable」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電子機器やビジネス用品の説明文で「portable」が�
 ## 🤔  mobile との違いは？
 
 - **portable**：持ち運びができる、携帯用の（物理的に移動できることを強調）
-- **[mobile](/word/mobile/)**：移動できる、可動式の（移動性や動きやすさを強調）
+- **[mobile](/mobile)**：移動できる、可動式の（移動性や動きやすさを強調）
 
 「portable」は主に持ち運びやすさや軽さに焦点を当て、「mobile」は移動できる性質や可動性に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、電子機器やビジネス用品の説明文で「portable」が�
 
 ## 🧩 あわせて覚えたい
 
-- [compact](/word/compact/)：小型の、コンパクトな
-- [handy](/word/handy/)：便利な、手軽な
+- [compact](/compact)：小型の、コンパクトな
+- [handy](/handy)：便利な、手軽な
 
 ---
 
 ## 📖 できればこれも
 
-- [convenient](/word/convenient/)：便利な
-- [light](/word/light/)：軽い
+- [convenient](/convenient)：便利な
+- [light](/light)：軽い
 
-<!-- cvid: aid07_bid21 -->
+<!-- cvid: aid45_bid42 -->

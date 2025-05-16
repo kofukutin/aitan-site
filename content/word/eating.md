@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「食事」や「食べること」に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid20" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid20" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「食事」や「食べること」に関する
 ## 🤔  meal との違いは？
 
 - **eating**：食べる行為や食事そのもの（行為や一般的な意味）
-- **[meal](/word/meal/)**：特定の「食事」（朝食・昼食・夕食など）
+- **[meal](/meal)**：特定の「食事」（朝食・昼食・夕食など）
 
 eatingは「食べること」全般を指し、mealは「1回分の食事」という具体的な場面で使います。
 
@@ -105,14 +109,14 @@ eatingは「食べること」全般を指し、mealは「1回分の食事」と
 
 ## 🧩 あわせて覚えたい
 
-- [diet](/word/diet/)：食事、食生活
-- [snack](/word/snack/)：軽食、おやつ
+- [diet](/diet)：食事、食生活
+- [snack](/snack)：軽食、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [drink](/word/drink/)：飲む、飲み物
-- [cook](/word/cook/)：料理する、料理人
+- [drink](/drink)：飲む、飲み物
+- [cook](/cook)：料理する、料理人
 
-<!-- cvid: aid29_bid40 -->
+<!-- cvid: aid15_bid20 -->

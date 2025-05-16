@@ -81,15 +81,19 @@ keptは、keepの過去形・過去分詞として文法問題や時制の選択
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ keptは、keepの過去形・過去分詞として文法問題や時制の選択
 ## 🤔  held との違いは？
 
 - **kept**：何かを持ち続けたり、状態を維持したりすることに重点がある
-- **[held](/word/held/)**：物理的に持つ、支える、開催するなど「手で持つ」や「イベントを開く」ニュアンスが強い
+- **[held](/held)**：物理的に持つ、支える、開催するなど「手で持つ」や「イベントを開く」ニュアンスが強い
 
 keptは「保つ・維持する」イメージ、heldは「手に持つ・開催する」など動作やイベントに使われる点が異なります。
 
@@ -105,14 +109,14 @@ keptは「保つ・維持する」イメージ、heldは「手に持つ・開催
 
 ## 🧩 あわせて覚えたい
 
-- [store](/word/store/)：保存する、蓄える
-- [retain](/word/retain/)：保持する、維持する
+- [store](/store)：保存する、蓄える
+- [retain](/retain)：保持する、維持する
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/word/save/)：保存する、節約する
-- [leave](/word/leave/)：残す、去る
+- [save](/save)：保存する、節約する
+- [leave](/leave)：残す、去る
 
-<!-- cvid: aid42_bid17 -->
+<!-- cvid: aid44_bid34 -->

@@ -77,15 +77,19 @@ TOEICでは、電話対応や案内、依頼への返答など、柔軟な対応
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、電話対応や案内、依頼への返答など、柔軟な対応
 ## 🤔  whenever との違いは？
 
 - **anytime**：「いつでも」「どんな時でも」という意味で、単独で使いやすいカジュアルな副詞。
-- **[whenever](/word/whenever/)**：「～する時はいつでも」という意味で、接続詞として文をつなぐ役割がある。
+- **[whenever](/whenever)**：「～する時はいつでも」という意味で、接続詞として文をつなぐ役割がある。
 
 anytimeは単独で「いつでも」と言いたい時に使い、wheneverは「～する時はいつでも」と文をつなげたい時に使います。
 
@@ -101,14 +105,14 @@ anytimeは単独で「いつでも」と言いたい時に使い、wheneverは�
 
 ## 🧩 あわせて覚えたい
 
-- [always](/word/always/)：いつも
-- [sometimes](/word/sometimes/)：ときどき
+- [always](/always)：いつも
+- [sometimes](/sometimes)：ときどき
 
 ---
 
 ## 📖 できればこれも
 
-- [anywhere](/word/anywhere/)：どこでも
-- [anyone](/word/anyone/)：誰でも
+- [anywhere](/anywhere)：どこでも
+- [anyone](/anyone)：誰でも
 
-<!-- cvid: aid19_bid32 -->
+<!-- cvid: aid04_bid37 -->

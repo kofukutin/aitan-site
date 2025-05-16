@@ -81,15 +81,19 @@ TOEICでは、規則や条件、免除事項を説明する文脈でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、規則や条件、免除事項を説明する文脈でよく登場
 ## 🤔  exclude との違いは？
 
 - **exempt**：義務や規則などから「免除された」「適用外である」
-- **[exclude](/word/exclude/)**：何かを「除外する」「含めない」
+- **[exclude](/exclude)**：何かを「除外する」「含めない」
 
 exemptは「本来含まれるべきものが特別に免除される」ニュアンス、excludeは「最初から範囲に入れない」ニュアンスです。
 
@@ -105,14 +109,14 @@ exemptは「本来含まれるべきものが特別に免除される」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [liable](/word/liable/)：責任がある、義務がある
-- [waive](/word/waive/)：（権利・義務などを）放棄する
+- [liable](/liable)：責任がある、義務がある
+- [waive](/waive)：（権利・義務などを）放棄する
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [eligible](/word/eligible/)：資格がある、適格な
+- [mandatory](/mandatory)：義務的な、強制の
+- [eligible](/eligible)：資格がある、適格な
 
-<!-- cvid: aid00_bid10 -->
+<!-- cvid: aid37_bid44 -->

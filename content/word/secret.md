@@ -82,15 +82,19 @@ TOEICでは、メールや社内文書、会話文などで「秘密」「機密
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、メールや社内文書、会話文などで「秘密」「機密
 ## 🤔  confidential との違いは？
 
 - **secret**：一般的な「秘密」や「隠されたこと」を幅広く指す
-- **[confidential](/word/confidential/)**：特に「機密性が高い」「限られた人だけが知るべき」情報を指す
+- **[confidential](/confidential)**：特に「機密性が高い」「限られた人だけが知るべき」情報を指す
 
 「secret」は日常的な秘密からビジネスの機密まで幅広く使えますが、「confidential」はよりフォーマルで、主にビジネスや公的な場面で使われます。
 
@@ -106,14 +110,14 @@ TOEICでは、メールや社内文書、会話文などで「秘密」「機密
 
 ## 🧩 あわせて覚えたい
 
-- [mystery](/word/mystery/)：謎、不思議なこと
-- [revelation](/word/revelation/)：明らかにされたこと、暴露
+- [mystery](/mystery)：謎、不思議なこと
+- [revelation](/revelation)：明らかにされたこと、暴露
 
 ---
 
 ## 📖 できればこれも
 
-- [privacy](/word/privacy/)：プライバシー、私生活
-- [hidden](/word/hidden/)：隠された、見えない
+- [privacy](/privacy)：プライバシー、私生活
+- [hidden](/hidden)：隠された、見えない
 
-<!-- cvid: aid12_bid30 -->
+<!-- cvid: aid05_bid46 -->

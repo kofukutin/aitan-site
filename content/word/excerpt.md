@@ -81,15 +81,19 @@ TOEICのPart 7で、記事やレポートの一部を指す語として出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で、記事やレポートの一部を指す語として出題さ
 ## 🤔  extract との違いは？
 
 - **excerpt**：書籍や記事などから抜き出した一部分（特に文章や音声の引用）を指す。
-- **[extract](/word/extract/)**：抜き出した部分全般を指し、文章だけでなく成分やエッセンスなど幅広い対象に使う。
+- **[extract](/extract)**：抜き出した部分全般を指し、文章だけでなく成分やエッセンスなど幅広い対象に使う。
 
 excerptは主に文章や音声の一部を紹介・引用する場面で使い、extractは成分や要素など幅広い「抽出」に使われます。
 
@@ -105,14 +109,14 @@ excerptは主に文章や音声の一部を紹介・引用する場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/word/summary/)：要約
-- [quotation](/word/quotation/)：引用文
+- [summary](/summary)：要約
+- [quotation](/quotation)：引用文
 
 ---
 
 ## 📖 できればこれも
 
-- [passage](/word/passage/)：（文章の）一節
-- [section](/word/section/)：（本や文書の）区分・章
+- [passage](/passage)：（文章の）一節
+- [section](/section)：（本や文書の）区分・章
 
-<!-- cvid: aid40_bid43 -->
+<!-- cvid: aid32_bid11 -->

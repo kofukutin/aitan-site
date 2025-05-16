@@ -81,15 +81,19 @@ TOEICでは「unlimited access（無制限のアクセス）」や「unlimited s
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「unlimited access（無制限のアクセス）」や「unlimited s
 ## 🤔  infinite との違いは？
 
 - **unlimited**：制限や上限が設けられていないことを強調
-- **[infinite](/word/infinite/)**：物理的・抽象的に「無限」で終わりがないことを強調
+- **[infinite](/infinite)**：物理的・抽象的に「無限」で終わりがないことを強調
 
 「unlimited」は現実的な範囲で制限がないこと、「infinite」は理論的・絶対的な無限を表す点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは「unlimited access（無制限のアクセス）」や「unlimited s
 
 ## 🧩 あわせて覚えたい
 
-- [restricted](/word/restricted/)：制限された
-- [endless](/word/endless/)：終わりのない、果てしない
+- [restricted](/restricted)：制限された
+- [endless](/endless)：終わりのない、果てしない
 
 ---
 
 ## 📖 できればこれも
 
-- [flexible](/word/flexible/)：柔軟な
-- [efficient](/word/efficient/)：効率的な
+- [flexible](/flexible)：柔軟な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid05_bid43 -->
+<!-- cvid: aid03_bid45 -->

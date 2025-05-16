@@ -81,15 +81,19 @@ snapは会話や説明の中で「写真を撮る」「急に壊れる」など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ snapは会話や説明の中で「写真を撮る」「急に壊れる」など�
 ## 🤔  break との違いは？
 
 - **snap**：パチンと音を立てて急に折れる・壊れる、または素早く動くニュアンス
-- **[break](/word/break/)**：単に壊す・壊れる、音やスピードは特に問わない
+- **[break](/break)**：単に壊す・壊れる、音やスピードは特に問わない
 
 snapは「急に」「音を立てて」壊れる・動くイメージ、breakは一般的な「壊す・壊れる」に使います。
 
@@ -105,14 +109,14 @@ snapは「急に」「音を立てて」壊れる・動くイメージ、break�
 
 ## 🧩 あわせて覚えたい
 
-- [crack](/word/crack/)：ひびが入る、割れる
-- [pop](/word/pop/)：ポンと音を立てる、はじける
+- [crack](/crack)：ひびが入る、割れる
+- [pop](/pop)：ポンと音を立てる、はじける
 
 ---
 
 ## 📖 できればこれも
 
-- [grab](/word/grab/)：さっとつかむ
-- [click](/word/click/)：カチッと音を立てる、クリックする
+- [grab](/grab)：さっとつかむ
+- [click](/click)：カチッと音を立てる、クリックする
 
-<!-- cvid: aid47_bid08 -->
+<!-- cvid: aid34_bid47 -->

@@ -80,7 +80,7 @@ TOEICでは主に記事やビジネス文書の中で、アメリカの議会や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+知識を定着させよう👇️
 
 ---
 
@@ -88,7 +88,11 @@ TOEICでは主に記事やビジネス文書の中で、アメリカの議会や
 
 <div class="info-center">
 ＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に記事やビジネス文書の中で、アメリカの議会や
 ## 🤔  parliament との違いは？
 
 - **congress**：主にアメリカの連邦議会や大規模な会議を指す。
-- **[parliament](/word/parliament/)**：イギリスなどの議会制度の国で使われる「議会」。
+- **[parliament](/parliament)**：イギリスなどの議会制度の国で使われる「議会」。
 
 congressはアメリカや国際的な会議に使われ、parliamentはイギリスや他国の議会に特有です。
 
@@ -104,14 +108,14 @@ congressはアメリカや国際的な会議に使われ、parliamentはイギ�
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly/)：集会、議会
-- [senate](/word/senate/)：上院
+- [assembly](/assembly)：集会、議会
+- [senate](/senate)：上院
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [session](/word/session/)：会期、集会
+- [committee](/committee)：委員会
+- [session](/session)：会期、集会
 
-<!-- cvid: aid19_bid19 -->
+<!-- cvid: aid10_bid19 -->

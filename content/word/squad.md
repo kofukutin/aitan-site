@@ -81,15 +81,19 @@ TOEICでは職場やチーム活動の会話で、特定の小グループや班
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは職場やチーム活動の会話で、特定の小グループや班
 ## 🤔  team との違いは？
 
 - **squad**：特定の目的や活動のための小規模なグループや班
-- **[team](/word/team/)**：共通の目標に向かって協力する集団（規模は問わない）
+- **[team](/team)**：共通の目標に向かって協力する集団（規模は問わない）
 
 squadは「小さめのグループ」や「班」のニュアンスが強く、teamは規模を問わず幅広い集団に使われます。
 
@@ -105,14 +109,14 @@ squadは「小さめのグループ」や「班」のニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [crew](/word/crew/)：乗組員、作業班
-- [unit](/word/unit/)：単位、部隊
+- [crew](/crew)：乗組員、作業班
+- [unit](/unit)：単位、部隊
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/word/group/)：集団、グループ
-- [staff](/word/staff/)：職員、スタッフ
+- [group](/group)：集団、グループ
+- [staff](/staff)：職員、スタッフ
 
-<!-- cvid: aid39_bid06 -->
+<!-- cvid: aid33_bid16 -->

@@ -81,15 +81,19 @@ TOEICでは、動詞の現在分詞や動名詞の形で「adding」が文法問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞の現在分詞や動名詞の形で「adding」が文法問
 ## 🤔  attaching との違いは？
 
 - **adding**：新しいものを加えて全体を増やす・広げるニュアンス
-- **[attaching](/word/attaching/)**：物理的・書類的に「くっつける」「添付する」ニュアンス
+- **[attaching](/attaching)**：物理的・書類的に「くっつける」「添付する」ニュアンス
 
 「adding」は内容や数量を増やす場合に使い、「attaching」は何かを物理的・形式的に付ける場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、動詞の現在分詞や動名詞の形で「adding」が文法問
 
 ## 🧩 あわせて覚えたい
 
-- [include](/word/include/)：含める、含む
-- [subtract](/word/subtract/)：引く、差し引く
+- [include](/include)：含める、含む
+- [subtract](/subtract)：引く、差し引く
 
 ---
 
 ## 📖 できればこれも
 
-- [combine](/word/combine/)：組み合わせる、結合する
-- [increase](/word/increase/)：増やす、増加する
+- [combine](/combine)：組み合わせる、結合する
+- [increase](/increase)：増やす、増加する
 
-<!-- cvid: aid35_bid18 -->
+<!-- cvid: aid31_bid03 -->

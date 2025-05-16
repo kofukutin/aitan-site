@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議の文脈で「一貫性」や「安定
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議の文脈で「一貫性」や「安定
 ## 🤔  coherence との違いは？
 
 - **consistency**：時間や状況を通じて変わらない「一貫性」や「安定性」を強調。
-- **[coherence](/word/coherence/)**：論理的な「まとまり」や「筋が通っていること」を強調。
+- **[coherence](/coherence)**：論理的な「まとまり」や「筋が通っていること」を強調。
 
 consistencyは「ぶれないこと」、coherenceは「論理的につながっていること」に重点があります。
 
@@ -105,14 +109,14 @@ consistencyは「ぶれないこと」、coherenceは「論理的につながっ
 
 ## 🧩 あわせて覚えたい
 
-- [contradiction](/word/contradiction/)：矛盾
-- [stability](/word/stability/)：安定
+- [contradiction](/contradiction)：矛盾
+- [stability](/stability)：安定
 
 ---
 
 ## 📖 できればこれも
 
-- [reliability](/word/reliability/)：信頼性
-- [accuracy](/word/accuracy/)：正確さ
+- [reliability](/reliability)：信頼性
+- [accuracy](/accuracy)：正確さ
 
-<!-- cvid: aid01_bid31 -->
+<!-- cvid: aid37_bid04 -->

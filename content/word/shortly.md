@@ -77,15 +77,19 @@ TOEICでは、電話やメール、アナウンスなどで「まもなく」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、電話やメール、アナウンスなどで「まもなく」「
 ## 🤔  soon との違いは？
 
 - **shortly**：まもなく（ややフォーマル、ビジネス文書やアナウンスで多用）
-- **[soon](/word/soon/)**：まもなく（カジュアル、日常会話で幅広く使う）
+- **[soon](/soon)**：まもなく（カジュアル、日常会話で幅広く使う）
 
 「shortly」はフォーマルな響きがあり、ビジネスや公式な場面で使われやすいのに対し、「soon」はよりカジュアルで日常的な表現です。
 
@@ -101,14 +105,14 @@ TOEICでは、電話やメール、アナウンスなどで「まもなく」「
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately/)：すぐに、即座に
-- [briefly](/word/briefly/)：手短に、簡潔に
+- [immediately](/immediately)：すぐに、即座に
+- [briefly](/briefly)：手短に、簡潔に
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/word/currently/)：現在、今のところ
-- [recently](/word/recently/)：最近、近ごろ
+- [currently](/currently)：現在、今のところ
+- [recently](/recently)：最近、近ごろ
 
-<!-- cvid: aid40_bid40 -->
+<!-- cvid: aid17_bid20 -->

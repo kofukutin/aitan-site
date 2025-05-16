@@ -9,8 +9,8 @@ tags:
   - 名詞
   - Part7
   - フォーマル
-  - 科学
-  - 説明
+  - ビジネス
+  - プレゼン
 compared_word: "summary"
 related_words:
   - "outline"
@@ -25,29 +25,22 @@ last_update: "2025-05-04"
 
 <button class="play-audio" onclick="playTTS('abstract')">
   <span class="play-audio-main">
-    ▶️ 発音を再生　/ˈæbstrækt/
+    ▶️ 発音を再生　/ˈæb.strækt/
   </span>
   <span class="play-audio-sub">
     （アブストラクト）
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
-
 [名詞] 要旨、概要（可算）
 
-**abstract** は、論文やレポートなどの冒頭に書かれる「要旨」や「概要」を指します。主に学術的な文脈で使われるフォーマルな単語です。
+**abstract** は、論文やレポートの冒頭に置かれる「要旨」や「概要」を指すフォーマルな単語です。
 
-語源はラテン語の「ab-（離れて）」＋「trahere（引く）」から来ており、「本質を抜き出す」という意味合いが背景にあります。
+語源はラテン語の "abstrahere"（引き離す）から来ており、「本質だけを抜き出す」という意味合いが残っています。
 
 他の品詞：  
-- abstract（形容詞）：抽象的な（形容詞）
-- abstract（動詞）：要約する（動詞）
+- abstract：抽象的な（形容詞）
+- abstract：抽象化する（動詞）
 
 ---
 
@@ -58,8 +51,8 @@ I read the abstract before deciding to read the whole article.
 　記事全体を読む前に要旨を読みました。
 
 【ビジネス英語】  
-Please submit the abstract of your report by Friday.  
-　金曜日までにレポートの要旨を提出してください。
+Please submit the abstract of your presentation by Friday.  
+　金曜日までにプレゼンの要旨を提出してください。
 
 ---
 
@@ -68,7 +61,7 @@ Please submit the abstract of your report by Friday.
 - 難易度：★★★★☆
 - 出題パート：Part 7（長文読解）
 
-TOEICでは主にPart 7の学術系やビジネス文書の要約部分で出題されることが多いです。論文や報告書の冒頭に登場する単語として覚えておくと役立ちます。
+TOEICでは主にPart 7の長文問題で、論文や報告書の要旨部分に登場します。ビジネスや学術的な文脈でよく見かけます。
 
 ---
 
@@ -76,50 +69,54 @@ TOEICでは主にPart 7の学術系やビジネス文書の要約部分で出題
 
 正しい使い方はどっち？
 
-1. The abstract summarizes the main points of the research.  
-2. The abstract summarizes the main points on the research.
+1. Please attach the abstract to your report.  
+2. Please attach the abstracted to your report.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：abstractは「of」を使って「～の要点」と表現します。「on」は不自然です。
+- 解説：abstract（名詞）が「要旨」の意味で正しく使われています。abstractedは動詞や形容詞で異なる意味です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  summary との違いは？
 
-- **abstract**：主に論文やレポートの冒頭に置かれる「要旨」「概要」。学術的でフォーマルな場面で使う。
-- **[summary](/word/summary/)**：内容全体の「まとめ」や「要約」。ビジネスや日常でも幅広く使う。
+- **abstract**：論文やレポートの冒頭に置かれる「要旨」や「概要」を指し、主に学術・ビジネス文書で使われるフォーマルな語。
+- **[summary](/summary)**：内容全体の「まとめ」や「要約」を指し、より幅広い場面で使える一般的な語。
 
-abstractは学術的な文脈で使われ、summaryはより一般的な要約やまとめに使われます。
+abstractは特に学術的・公式な文書の冒頭に使われ、summaryは日常的な要約やまとめにも使われます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline/)：概要、輪郭
-- [concept](/word/concept/)：概念、考え
+- [outline](/outline)：概要、輪郭
+- [concept](/concept)：概念、考え
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/word/theory/)：理論
-- [introduction](/word/introduction/)：導入、序論
+- [theory](/theory)：理論
+- [introduction](/introduction)：導入、序論
 
-<!-- cvid: aid46_bid03 -->
+<!-- cvid: aid29_bid42 -->

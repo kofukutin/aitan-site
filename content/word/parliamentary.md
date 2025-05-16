@@ -81,15 +81,19 @@ TOEICでは、政治や法律に関する記事や公式文書の中でparliamen
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、政治や法律に関する記事や公式文書の中でparliamen
 ## 🤔  legislative との違いは？
 
 - **parliamentary**：議会そのものや議会制度に直接関係することを表す
-- **[legislative](/word/legislative/)**：法律の制定や立法活動に関することを表す
+- **[legislative](/legislative)**：法律の制定や立法活動に関することを表す
 
 parliamentaryは「議会」という組織や制度に焦点を当て、legislativeは「法律を作る」という機能や活動に焦点を当てます。
 
@@ -105,14 +109,14 @@ parliamentaryは「議会」という組織や制度に焦点を当て、legisla
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/word/executive/)：行政の、執行の
-- [congressional](/word/congressional/)：（米国の）議会の
+- [executive](/executive)：行政の、執行の
+- [congressional](/congressional)：（米国の）議会の
 
 ---
 
 ## 📖 できればこれも
 
-- [constitutional](/word/constitutional/)：憲法の
-- [judicial](/word/judicial/)：司法の
+- [constitutional](/constitutional)：憲法の
+- [judicial](/judicial)：司法の
 
-<!-- cvid: aid28_bid04 -->
+<!-- cvid: aid04_bid24 -->

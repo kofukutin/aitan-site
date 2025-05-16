@@ -81,15 +81,19 @@ TOEICでは会話や意見交換の場面で「気持ち」や「感覚」を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や意見交換の場面で「気持ち」や「感覚」を表
 ## 🤔  emotion との違いは？
 
 - **feeling**：日常的な気持ちや感覚、比較的軽い感情も含む
-- **[emotion](/word/emotion/)**：より強く深い感情、心理的な動きを指す
+- **[emotion](/emotion)**：より強く深い感情、心理的な動きを指す
 
 「feeling」は日常のちょっとした気持ちや感覚も表せますが、「emotion」は心の奥深くから湧き上がる強い感情に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や意見交換の場面で「気持ち」や「感覚」を表
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion/)：意見
-- [sensation](/word/sensation/)：感覚、知覚
+- [opinion](/opinion)：意見
+- [sensation](/sensation)：感覚、知覚
 
 ---
 
 ## 📖 できればこれも
 
-- [thought](/word/thought/)：考え、思考
-- [mood](/word/mood/)：気分、雰囲気
+- [thought](/thought)：考え、思考
+- [mood](/mood)：気分、雰囲気
 
-<!-- cvid: aid24_bid40 -->
+<!-- cvid: aid20_bid27 -->

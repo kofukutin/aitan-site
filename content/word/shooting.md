@@ -81,15 +81,19 @@ shootingはTOEICの会話や説明パートで「撮影」や「発砲事件」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ shootingはTOEICの会話や説明パートで「撮影」や「発砲事件」�
 ## 🤔  firing との違いは？
 
 - **shooting**：銃を撃つ行為や発砲事件、または写真・映像の撮影を指す。
-- **[firing](/word/firing/)**：主に「発砲」や「解雇」を意味し、shootingよりも「撃つ動作」や「人を辞めさせる」意味が強い。
+- **[firing](/firing)**：主に「発砲」や「解雇」を意味し、shootingよりも「撃つ動作」や「人を辞めさせる」意味が強い。
 
 shootingは「出来事」や「行為」として幅広く使われ、firingは「発射」や「解雇」など限定的な場面で使われます。
 
@@ -105,14 +109,14 @@ shootingは「出来事」や「行為」として幅広く使われ、firingは
 
 ## 🧩 あわせて覚えたい
 
-- [photography](/word/photography/)：写真撮影
-- [incident](/word/incident/)：出来事、事件
+- [photography](/photography)：写真撮影
+- [incident](/incident)：出来事、事件
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting/)：会議
-- [training](/word/training/)：訓練、研修
+- [meeting](/meeting)：会議
+- [training](/training)：訓練、研修
 
-<!-- cvid: aid14_bid29 -->
+<!-- cvid: aid05_bid18 -->

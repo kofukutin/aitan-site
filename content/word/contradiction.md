@@ -81,15 +81,19 @@ TOEICの長文読解パートで、意見や事実の食い違いを指摘する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解パートで、意見や事実の食い違いを指摘する
 ## 🤔  inconsistency との違いは？
 
 - **contradiction**：明確に対立・両立しない矛盾や反論を指す
-- **[inconsistency](/word/inconsistency/)**：一貫性がなく、細かな食い違いや不統一を指す
+- **[inconsistency](/inconsistency)**：一貫性がなく、細かな食い違いや不統一を指す
 
 contradictionは「真っ向からぶつかる矛盾」、inconsistencyは「細部のズレや統一感のなさ」を表します。
 
@@ -105,14 +109,14 @@ contradictionは「真っ向からぶつかる矛盾」、inconsistencyは「細
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict/)：対立、衝突
-- [paradox](/word/paradox/)：逆説、矛盾しているようで成り立つ事柄
+- [conflict](/conflict)：対立、衝突
+- [paradox](/paradox)：逆説、矛盾しているようで成り立つ事柄
 
 ---
 
 ## 📖 できればこれも
 
-- [discrepancy](/word/discrepancy/)：不一致、食い違い
-- [assertion](/word/assertion/)：主張、断言
+- [discrepancy](/discrepancy)：不一致、食い違い
+- [assertion](/assertion)：主張、断言
 
-<!-- cvid: aid09_bid12 -->
+<!-- cvid: aid18_bid42 -->

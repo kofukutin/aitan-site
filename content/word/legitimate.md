@@ -81,15 +81,19 @@ legitimateはTOEICの長文読解やビジネス文書で、契約や規則、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ legitimateはTOEICの長文読解やビジネス文書で、契約や規則、�
 ## 🤔  legal との違いは？
 
 - **legitimate**：法律や規則にかなっていて「正当な」「筋の通った」という意味。理由や説明、権利など幅広く使う。
-- **[legal](/word/legal/)**：法律に関する、または法律で認められているという意味。より「法的」なニュアンスが強い。
+- **[legal](/legal)**：法律に関する、または法律で認められているという意味。より「法的」なニュアンスが強い。
 
 legitimateは「正当性」や「本物らしさ」にも使えますが、legalは「法律上の」に限定されます。
 
@@ -105,14 +109,14 @@ legitimateは「正当性」や「本物らしさ」にも使えますが、lega
 
 ## 🧩 あわせて覚えたい
 
-- [valid](/word/valid/)：有効な、妥当な
-- [authentic](/word/authentic/)：本物の、真正の
+- [valid](/valid)：有効な、妥当な
+- [authentic](/authentic)：本物の、真正の
 
 ---
 
 ## 📖 できればこれも
 
-- [authorize](/word/authorize/)：権限を与える、認可する
-- [regulation](/word/regulation/)：規則、規制
+- [authorize](/authorize)：権限を与える、認可する
+- [regulation](/regulation)：規則、規制
 
-<!-- cvid: aid19_bid28 -->
+<!-- cvid: aid07_bid24 -->

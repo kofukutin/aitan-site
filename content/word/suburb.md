@@ -81,15 +81,19 @@ TOEICでは、住宅やオフィスの立地、都市計画などの話題で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、住宅やオフィスの立地、都市計画などの話題で「
 ## 🤔  outskirts との違いは？
 
 - **suburb**：都市の中心部から少し離れた住宅地や商業地を指す。
-- **[outskirts](/word/outskirts/)**：都市や町の最も外側、端の部分を指す。
+- **[outskirts](/outskirts)**：都市や町の最も外側、端の部分を指す。
 
 suburbは「郊外の住宅地」など生活圏を指すのに対し、outskirtsは「町のはずれ」などより外側・境界に近い場所を表します。
 
@@ -105,14 +109,14 @@ suburbは「郊外の住宅地」など生活圏を指すのに対し、outskirt
 
 ## 🧩 あわせて覚えたい
 
-- [downtown](/word/downtown/)：都市の中心部
-- [residential_area](/word/residential_area/)：住宅地
+- [downtown](/downtown)：都市の中心部
+- [residential_area](/residential_area)：住宅地
 
 ---
 
 ## 📖 できればこれも
 
-- [urban](/word/urban/)：都市の、都会の
-- [neighbor](/word/neighbor/)：隣人、近所の人
+- [urban](/urban)：都市の、都会の
+- [neighbor](/neighbor)：隣人、近所の人
 
-<!-- cvid: aid46_bid44 -->
+<!-- cvid: aid35_bid07 -->

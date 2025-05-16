@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【box】の意味・使い方・例文 ― caseとの違い【TOEIC英単語】"
 description: "boxの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcaseとの違いもわかりやすく学べます。"
 word: "box"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「箱を持つ」「箱に入れる」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid15" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid15" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「箱を持つ」「箱に入れる」
 ## 🤔  case との違いは？
 
 - **box**：一般的な四角い箱や容器を指す
-- **[case](/word/case/)**：箱以外にも「ケース」「入れ物」「事例」など幅広い意味
+- **[case](/case)**：箱以外にも「ケース」「入れ物」「事例」など幅広い意味
 
 「box」は物理的な箱に限定されるのに対し、「case」は入れ物全般や抽象的な「場合」「事例」など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で「箱を持つ」「箱に入れる」
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container/)：容器
-- [package](/word/package/)：小包、包装
+- [container](/container)：容器
+- [package](/package)：小包、包装
 
 ---
 
 ## 📖 できればこれも
 
-- [bag](/word/bag/)：袋
-- [envelope](/word/envelope/)：封筒
+- [bag](/bag)：袋
+- [envelope](/envelope)：封筒
 
-<!-- cvid: aid19_bid31 -->
+<!-- cvid: aid23_bid15 -->

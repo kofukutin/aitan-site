@@ -81,15 +81,19 @@ TOEICでは観光やイベント、文化紹介の記事や広告文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント、文化紹介の記事や広告文で登場す
 ## 🤔  outfit との違いは？
 
 - **costume**：特別な目的やイベント、演劇などで着る衣装や仮装
-- **[outfit](/word/outfit/)**：日常的な服装やコーディネート全体
+- **[outfit](/outfit)**：日常的な服装やコーディネート全体
 
 costumeは「非日常」や「特別な場」の衣装、outfitは普段着やその日の服装全体を指します。
 
@@ -105,14 +109,14 @@ costumeは「非日常」や「特別な場」の衣装、outfitは普段着や�
 
 ## 🧩 あわせて覚えたい
 
-- [uniform](/word/uniform/)：制服、ユニフォーム
-- [attire](/word/attire/)：（ややフォーマルな）服装
+- [uniform](/uniform)：制服、ユニフォーム
+- [attire](/attire)：（ややフォーマルな）服装
 
 ---
 
 ## 📖 できればこれも
 
-- [mask](/word/mask/)：仮面、マスク
-- [festival](/word/festival/)：祭り、フェスティバル
+- [mask](/mask)：仮面、マスク
+- [festival](/festival)：祭り、フェスティバル
 
-<!-- cvid: aid39_bid13 -->
+<!-- cvid: aid21_bid08 -->

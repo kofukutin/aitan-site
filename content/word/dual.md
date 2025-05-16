@@ -83,15 +83,19 @@ dualはTOEICの文法・語彙問題で、特にビジネスや技術関連の�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ dualはTOEICの文法・語彙問題で、特にビジネスや技術関連の�
 ## 🤔  double との違いは？
 
 - **dual**：2つの性質や機能が同時に存在することを強調
-- **[double](/word/double/)**：数量や大きさが「2倍」であることを強調
+- **[double](/double)**：数量や大きさが「2倍」であることを強調
 
 dualは「二重性」や「二元性」に焦点を当て、doubleは「量やサイズが2倍」であることに使います。
 
@@ -107,14 +111,14 @@ dualは「二重性」や「二元性」に焦点を当て、doubleは「量や�
 
 ## 🧩 あわせて覚えたい
 
-- [single](/word/single/)：単一の、1つの
-- [multiple](/word/multiple/)：複数の
+- [single](/single)：単一の、1つの
+- [multiple](/multiple)：複数の
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique/)：唯一の、独特な
-- [parallel](/word/parallel/)：平行な、同時進行の
+- [unique](/unique)：唯一の、独特な
+- [parallel](/parallel)：平行な、同時進行の
 
-<!-- cvid: aid19_bid31 -->
+<!-- cvid: aid20_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは契約書や法的文書、会社規定などの長文でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid32" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid32" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や法的文書、会社規定などの長文でよく登場
 ## 🤔  authority との違いは？
 
 - **jurisdiction**：法律や組織が特定の範囲で持つ「管轄権」や「司法権」
-- **[authority](/word/authority/)**：一般的な「権限」や「権威」、命令や決定を下す力
+- **[authority](/authority)**：一般的な「権限」や「権威」、命令や決定を下す力
 
 jurisdictionは「範囲が明確な法的権限」、authorityは「広い意味での権限や権威」を指します。
 
@@ -105,15 +109,15 @@ jurisdictionは「範囲が明確な法的権限」、authorityは「広い意�
 
 ## 🧩 あわせて覚えたい
 
-- [court](/word/court/)：裁判所
-- [regulation](/word/regulation/)：規則、規制
+- [court](/court)：裁判所
+- [regulation](/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [legislation](/word/legislation/)：立法、法律制定
-- [permission](/word/permission/)：許可
+- [legislation](/legislation)：立法、法律制定
+- [permission](/permission)：許可
 
 
-<!-- cvid: aid01_bid37 -->
+<!-- cvid: aid20_bid32 -->

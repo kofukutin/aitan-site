@@ -83,15 +83,19 @@ TOEICでは会議や工場、ビジネスの場面で「生産した」「作り
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは会議や工場、ビジネスの場面で「生産した」「作り
 ## 🤔  manufactured との違いは？
 
 - **produced**：広く「生産する」「作り出す」全般に使える
-- **[manufactured](/word/manufactured/)**：特に「機械や工場で大量生産する」ニュアンス
+- **[manufactured](/manufactured)**：特に「機械や工場で大量生産する」ニュアンス
 
 producedは自然なものやアイデア、製品など幅広く使えますが、manufacturedは工場などで機械的に大量生産する場合に限定されることが多いです。
 
@@ -107,14 +111,14 @@ producedは自然なものやアイデア、製品など幅広く使えますが
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create/)：創造する、作り出す
-- [supply](/word/supply/)：供給する、提供する
+- [create](/create)：創造する、作り出す
+- [supply](/supply)：供給する、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop/)：開発する、発展させる
-- [deliver](/word/deliver/)：届ける、配達する
+- [develop](/develop)：開発する、発展させる
+- [deliver](/deliver)：届ける、配達する
 
-<!-- cvid: aid01_bid39 -->
+<!-- cvid: aid38_bid03 -->

@@ -81,15 +81,19 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 ## 🤔  browse との違いは？
 
 - **scan**：ざっと目を通す、または機械で読み取ること
-- **[browse](/word/browse/)**：ゆっくり見て回る、ざっと見る（特に商品やウェブページなど）
+- **[browse](/browse)**：ゆっくり見て回る、ざっと見る（特に商品やウェブページなど）
 
 scanは「素早く探す」「機械で読み取る」ニュアンスが強く、browseは「興味のあるものをゆっくり見る」イメージです。
 
@@ -105,14 +109,14 @@ scanは「素早く探す」「機械で読み取る」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/word/inspect/)：詳しく調べる
-- [skim](/word/skim/)：ざっと読む
+- [inspect](/inspect)：詳しく調べる
+- [skim](/skim)：ざっと読む
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print/)：印刷する
-- [copy](/word/copy/)：コピーする
+- [print](/print)：印刷する
+- [copy](/copy)：コピーする
 
-<!-- cvid: aid46_bid06 -->
+<!-- cvid: aid12_bid25 -->

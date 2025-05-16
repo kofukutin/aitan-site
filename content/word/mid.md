@@ -77,15 +77,19 @@ TOEICでは日付や期間を表す表現（mid-June, mid-yearなど）で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは日付や期間を表す表現（mid-June, mid-yearなど）で出題
 ## 🤔  middle との違いは？
 
 - **mid**：期間や出来事の「中頃」「最中」を表す前置詞。  
-- **[middle](/word/middle/)**：物理的・抽象的な「中央」「真ん中」を表す名詞・形容詞。
+- **[middle](/middle)**：物理的・抽象的な「中央」「真ん中」を表す名詞・形容詞。
 
 midは「mid-June」など期間の中頃に使い、middleは「in the middle of the room」のように場所や物の中央に使います。
 
@@ -101,14 +105,14 @@ midは「mid-June」など期間の中頃に使い、middleは「in the middle o
 
 ## 🧩 あわせて覚えたい
 
-- [amid](/word/amid/)：～の真っ只中に（前置詞）
-- [center](/word/center/)：中心、中央（名詞）
+- [amid](/amid)：～の真っ只中に（前置詞）
+- [center](/center)：中心、中央（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during/)：～の間に（前置詞）
-- [between](/word/between/)：～の間で（前置詞）
+- [during](/during)：～の間に（前置詞）
+- [between](/between)：～の間で（前置詞）
 
-<!-- cvid: aid49_bid42 -->
+<!-- cvid: aid32_bid34 -->

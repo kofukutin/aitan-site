@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、道や川、建物などの「幅が広
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、道や川、建物などの「幅が広
 ## 🤔  broad との違いは？
 
 - **wide**：物理的な幅や範囲が広いことを直接的に表す
-- **[broad](/word/broad/)**：幅広いだけでなく、抽象的な意味や多様性にも使われる
+- **[broad](/broad)**：幅広いだけでなく、抽象的な意味や多様性にも使われる
 
 wideは主に実際の幅や範囲の広さを表現し、broadは物理的な幅だけでなく、考え方や分野の広がりなど抽象的な広さにも使われます。
 
@@ -105,14 +109,14 @@ wideは主に実際の幅や範囲の広さを表現し、broadは物理的な�
 
 ## 🧩 あわせて覚えたい
 
-- [narrow](/word/narrow/)：狭い
-- [extensive](/word/extensive/)：広範囲の
+- [narrow](/narrow)：狭い
+- [extensive](/extensive)：広範囲の
 
 ---
 
 ## 📖 できればこれも
 
-- [deep](/word/deep/)：深い
-- [large](/word/large/)：大きい
+- [deep](/deep)：深い
+- [large](/large)：大きい
 
-<!-- cvid: aid39_bid28 -->
+<!-- cvid: aid43_bid36 -->

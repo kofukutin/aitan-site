@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、部屋やオフィスの装飾
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋やオフィスの装飾
 ## 🤔  furnishing との違いは？
 
 - **decorating**：部屋や空間を美しく飾ること、壁紙やペンキ、装飾品などを使う
-- **[furnishing](/word/furnishing/)**：家具やカーテンなどを配置して部屋を整えること
+- **[furnishing](/furnishing)**：家具やカーテンなどを配置して部屋を整えること
 
 decoratingは「見た目を美しくする装飾」に重点があり、furnishingは「家具などを置いて実用的に整える」ことに重点があります。
 
@@ -105,14 +109,14 @@ decoratingは「見た目を美しくする装飾」に重点があり、furnish
 
 ## 🧩 あわせて覚えたい
 
-- [renovate](/word/renovate/)：改装する
-- [paint](/word/paint/)：ペンキを塗る
+- [renovate](/renovate)：改装する
+- [paint](/paint)：ペンキを塗る
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：配置する、整える
-- [organize](/word/organize/)：整理する、まとめる
+- [arrange](/arrange)：配置する、整える
+- [organize](/organize)：整理する、まとめる
 
-<!-- cvid: aid03_bid03 -->
+<!-- cvid: aid27_bid29 -->

@@ -82,15 +82,19 @@ TOEICでは「費用を請求する」「権利を主張する」などの意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「費用を請求する」「権利を主張する」などの意味
 ## 🤔  request との違いは？
 
 - **claim**：自分の権利として当然だと主張して要求する
-- **[request](/word/request/)**：丁寧に頼む、お願いする
+- **[request](/request)**：丁寧に頼む、お願いする
 
 claimは「当然の権利」として強く主張するニュアンスがあり、requestは相手に配慮した丁寧な依頼です。
 
@@ -106,14 +110,14 @@ claimは「当然の権利」として強く主張するニュアンスがあり
 
 ## 🧩 あわせて覚えたい
 
-- [assert](/word/assert/)：断言する、強く主張する
-- [deny](/word/deny/)：否定する、拒否する
+- [assert](/assert)：断言する、強く主張する
+- [deny](/deny)：否定する、拒否する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：申し込む、申請する
-- [submit](/word/submit/)：提出する
+- [apply](/apply)：申し込む、申請する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid16_bid37 -->
+<!-- cvid: aid25_bid34 -->

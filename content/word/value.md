@@ -81,15 +81,19 @@ TOEICでは「価値」「価格」「重要性」などの意味で、ビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「価値」「価格」「重要性」などの意味で、ビジネ
 ## 🤔  worth との違いは？
 
 - **value**：物やサービスそのものの「価値」や「重要性」を表す。
-- **[worth](/word/worth/)**：何かが「～の価値がある」「～に値する」という評価や判断を表す。
+- **[worth](/worth)**：何かが「～の価値がある」「～に値する」という評価や判断を表す。
 
 valueは「価値そのもの」を指し、worthは「～の価値がある」と評価する時に使います。
 
@@ -105,14 +109,14 @@ valueは「価値そのもの」を指し、worthは「～の価値がある」�
 
 ## 🧩 あわせて覚えたい
 
-- [price](/word/price/)：価格、値段
-- [benefit](/word/benefit/)：利益、恩恵
+- [price](/price)：価格、値段
+- [benefit](/benefit)：利益、恩恵
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用、コスト
-- [rate](/word/rate/)：割合、料金
+- [cost](/cost)：費用、コスト
+- [rate](/rate)：割合、料金
 
-<!-- cvid: aid34_bid02 -->
+<!-- cvid: aid33_bid28 -->

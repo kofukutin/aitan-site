@@ -81,15 +81,19 @@ TOEICではビジネスメールや取引書類の読解問題で頻出です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスメールや取引書類の読解問題で頻出です。
 ## 🤔  bill との違いは？
 
 - **invoice**：ビジネス取引で使う正式な請求書。支払期限や明細が明記される。
-- **[bill](/word/bill/)**：レストランや日常の支払いで使う「請求書」「勘定書」。
+- **[bill](/bill)**：レストランや日常の支払いで使う「請求書」「勘定書」。
 
 invoiceは主に企業間取引や業務で使われ、billは日常的な支払い場面で使われます。
 
@@ -105,14 +109,14 @@ invoiceは主に企業間取引や業務で使われ、billは日常的な支払
 
 ## 🧩 あわせて覚えたい
 
-- [receipt](/word/receipt/)：領収書
-- [statement](/word/statement/)：明細書
+- [receipt](/receipt)：領収書
+- [statement](/statement)：明細書
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約書
-- [order](/word/order/)：注文書
+- [contract](/contract)：契約書
+- [order](/order)：注文書
 
-<!-- cvid: aid30_bid10 -->
+<!-- cvid: aid08_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは「be replaced by/with」など受動態でよく出題され、文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be replaced by/with」など受動態でよく出題され、文�
 ## 🤔  substitute との違いは？
 
 - **replaced**：元のものを新しいものに入れ替えることを強調
-- **[substitute](/word/substitute/)**：代用品を使う、または一時的に代理を立てるニュアンス
+- **[substitute](/substitute)**：代用品を使う、または一時的に代理を立てるニュアンス
 
 「replaced」は完全に入れ替わる場合に使い、「substitute」は一時的・部分的な代用や代理の意味合いが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは「be replaced by/with」など受動態でよく出題され、文�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り除く
-- [restore](/word/restore/)：元に戻す
+- [remove](/remove)：取り除く
+- [restore](/restore)：元に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新する
-- [install](/word/install/)：設置する
+- [update](/update)：更新する
+- [install](/install)：設置する
 
-<!-- cvid: aid09_bid31 -->
+<!-- cvid: aid02_bid38 -->

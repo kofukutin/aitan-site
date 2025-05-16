@@ -81,15 +81,19 @@ The patient's breathing became irregular during the night.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The patient's breathing became irregular during the night.
 ## 🤔  respiration との違いは？
 
 - **breathing**：日常的な「呼吸」、息を吸ったり吐いたりする行為全般
-- **[respiration](/word/respiration/)**：生物学や医学で使われる「呼吸」、より専門的・フォーマル
+- **[respiration](/respiration)**：生物学や医学で使われる「呼吸」、より専門的・フォーマル
 
 breathingは日常会話や一般的な説明で使われ、respirationは医学や科学の文脈で使われることが多いです。
 
@@ -105,14 +109,14 @@ breathingは日常会話や一般的な説明で使われ、respirationは医学
 
 ## 🧩 あわせて覚えたい
 
-- [inhalation](/word/inhalation/)：吸入、息を吸うこと
-- [exhalation](/word/exhalation/)：呼気、息を吐くこと
+- [inhalation](/inhalation)：吸入、息を吸うこと
+- [exhalation](/exhalation)：呼気、息を吐くこと
 
 ---
 
 ## 📖 できればこれも
 
-- [heartbeat](/word/heartbeat/)：心拍、鼓動
-- [pulse](/word/pulse/)：脈拍
+- [heartbeat](/heartbeat)：心拍、鼓動
+- [pulse](/pulse)：脈拍
 
-<!-- cvid: aid37_bid12 -->
+<!-- cvid: aid05_bid37 -->

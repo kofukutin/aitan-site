@@ -81,15 +81,19 @@ pleaseはTOEICのリスニング（特にPart 2）で依頼や丁寧な表現と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid44" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid44" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ pleaseはTOEICのリスニング（特にPart 2）で依頼や丁寧な表現と
 ## 🤔  satisfy との違いは？
 
 - **please**：人を喜ばせたり、気分を良くさせることに重点がある
-- **[satisfy](/word/satisfy/)**：要求や条件を満たすことに重点がある
+- **[satisfy](/satisfy)**：要求や条件を満たすことに重点がある
 
 pleaseは感情面での「喜ばせる」、satisfyは「基準や条件を満たす」時に使います。
 
@@ -105,14 +109,14 @@ pleaseは感情面での「喜ばせる」、satisfyは「基準や条件を満�
 
 ## 🧩 あわせて覚えたい
 
-- [delight](/word/delight/)：大いに喜ばせる
-- [annoy](/word/annoy/)：いらいらさせる
+- [delight](/delight)：大いに喜ばせる
+- [annoy](/annoy)：いらいらさせる
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer/)：より好む
-- [enjoy](/word/enjoy/)：楽しむ
+- [prefer](/prefer)：より好む
+- [enjoy](/enjoy)：楽しむ
 
-<!-- cvid: aid23_bid18 -->
+<!-- cvid: aid12_bid44 -->

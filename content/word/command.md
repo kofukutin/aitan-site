@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「指示」「命令」として出題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「指示」「命令」として出題�
 ## 🤔  order との違いは？
 
 - **command**：権威や上位者からの強い命令や指示、IT分野ではシステムへの指示
-- **[order](/word/order/)**：日常的な「注文」や「指示」、ビジネスやレストランなど幅広い場面で使う
+- **[order](/order)**：日常的な「注文」や「指示」、ビジネスやレストランなど幅広い場面で使う
 
 commandは「上から下への厳格な命令」や「システム操作の指示」に使い、orderは「注文」や「依頼」など幅広い場面で使います。
 
@@ -105,14 +109,14 @@ commandは「上から下への厳格な命令」や「システム操作の指�
 
 ## 🧩 あわせて覚えたい
 
-- [instruction](/word/instruction/)：指示、説明
-- [control](/word/control/)：制御、管理
+- [instruction](/instruction)：指示、説明
+- [control](/control)：制御、管理
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/word/authority/)：権限、権威
-- [request](/word/request/)：依頼、要請
+- [authority](/authority)：権限、権威
+- [request](/request)：依頼、要請
 
-<!-- cvid: aid48_bid26 -->
+<!-- cvid: aid17_bid06 -->

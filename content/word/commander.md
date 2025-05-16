@@ -81,15 +81,19 @@ Please report directly to the project commander.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please report directly to the project commander.
 ## 🤔  captain との違いは？
 
 - **commander**：軍隊や組織で部隊全体を指揮する役職や人
-- **[captain](/word/captain/)**：チームや船、飛行機などの「長」やリーダー
+- **[captain](/captain)**：チームや船、飛行機などの「長」やリーダー
 
 commanderはより広い範囲や上位の指揮官を指し、captainは特定のチームや乗り物の責任者に使われます。
 
@@ -105,14 +109,14 @@ commanderはより広い範囲や上位の指揮官を指し、captainは特定�
 
 ## 🧩 あわせて覚えたい
 
-- [officer](/word/officer/)：士官、役員
-- [general](/word/general/)：将軍、総司令官
+- [officer](/officer)：士官、役員
+- [general](/general)：将軍、総司令官
 
 ---
 
 ## 📖 できればこれも
 
-- [command](/word/command/)：命令、指揮
-- [supervisor](/word/supervisor/)：監督者、上司
+- [command](/command)：命令、指揮
+- [supervisor](/supervisor)：監督者、上司
 
-<!-- cvid: aid35_bid32 -->
+<!-- cvid: aid34_bid29 -->

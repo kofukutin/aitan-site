@@ -81,15 +81,19 @@ TOEICでは「困難を乗り越える」「生き残る」といった文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「困難を乗り越える」「生き残る」といった文脈で
 ## 🤔  remain との違いは？
 
 - **survive**：困難や危機を乗り越えて「生き残る」「切り抜ける」
-- **[remain](/word/remain/)**：変化や消失があっても「そのまま残る」「存在し続ける」
+- **[remain](/remain)**：変化や消失があっても「そのまま残る」「存在し続ける」
 
 surviveは「危機を乗り越える」ニュアンスが強く、remainは単に「残る」「変わらずにいる」ことを表します。
 
@@ -105,14 +109,14 @@ surviveは「危機を乗り越える」ニュアンスが強く、remainは単�
 
 ## 🧩 あわせて覚えたい
 
-- [endure](/word/endure/)：耐える、持ちこたえる
-- [recover](/word/recover/)：回復する、立ち直る
+- [endure](/endure)：耐える、持ちこたえる
+- [recover](/recover)：回復する、立ち直る
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain/)：維持する、保つ
-- [continue](/word/continue/)：続ける、継続する
+- [maintain](/maintain)：維持する、保つ
+- [continue](/continue)：続ける、継続する
 
-<!-- cvid: aid02_bid14 -->
+<!-- cvid: aid41_bid00 -->

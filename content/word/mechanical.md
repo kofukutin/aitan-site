@@ -81,15 +81,19 @@ TOEICでは、機械や装置に関する説明や、手順書、トラブルシ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械や装置に関する説明や、手順書、トラブルシ
 ## 🤔  automatic との違いは？
 
 - **mechanical**：機械そのものや機械の仕組みに関することを表す
-- **[automatic](/word/automatic/)**：自動的に動作すること、手動でなく自動であることを強調
+- **[automatic](/automatic)**：自動的に動作すること、手動でなく自動であることを強調
 
 mechanicalは「機械の構造や性質」に焦点があり、automaticは「自動で動く」ことに重点があります。
 
@@ -105,14 +109,14 @@ mechanicalは「機械の構造や性質」に焦点があり、automaticは「�
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual/)：手動の、手作業の
-- [electronic](/word/electronic/)：電子の、電子的な
+- [manual](/manual)：手動の、手作業の
+- [electronic](/electronic)：電子の、電子的な
 
 ---
 
 ## 📖 できればこれも
 
-- [technical](/word/technical/)：技術的な
-- [electrical](/word/electrical/)：電気の
+- [technical](/technical)：技術的な
+- [electrical](/electrical)：電気の
 
-<!-- cvid: aid45_bid43 -->
+<!-- cvid: aid18_bid42 -->

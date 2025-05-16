@@ -81,15 +81,19 @@ TOEICでは、increaseの派生語として形容詞increasedが選択肢に出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、increaseの派生語として形容詞increasedが選択肢に出�
 ## 🤔  rising との違いは？
 
 - **increased**：すでに「増加した」状態を表す。過去と比べて増えたことが確定している。
-- **[rising](/word/rising/)**：今まさに「増加しつつある」進行中の状態を表す。
+- **[rising](/rising)**：今まさに「増加しつつある」進行中の状態を表す。
 
 increasedは「増えた結果の状態」、risingは「今も増え続けている途中」を強調します。
 
@@ -105,14 +109,14 @@ increasedは「増えた結果の状態」、risingは「今も増え続けて�
 
 ## 🧩 あわせて覚えたい
 
-- [decreased](/word/decreased/)：減少した
-- [additional](/word/additional/)：追加の
+- [decreased](/decreased)：減少した
+- [additional](/additional)：追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [reduced](/word/reduced/)：減らされた
-- [improved](/word/improved/)：改善された
+- [reduced](/reduced)：減らされた
+- [improved](/improved)：改善された
 
-<!-- cvid: aid17_bid01 -->
+<!-- cvid: aid47_bid09 -->

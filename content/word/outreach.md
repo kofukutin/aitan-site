@@ -81,15 +81,19 @@ TOEICでは、企業や団体の社会貢献活動や地域支援に関する記
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業や団体の社会貢献活動や地域支援に関する記
 ## 🤔  approach との違いは？
 
 - **outreach**：特定の人々や地域に向けて支援やサービスを提供する活動
-- **[approach](/word/approach/)**：問題や課題への取り組み方、接近方法
+- **[approach](/approach)**：問題や課題への取り組み方、接近方法
 
 outreachは「外部への積極的な支援活動」、approachは「物事への取り組み方や方法」を指し、目的やニュアンスが異なります。
 
@@ -105,14 +109,14 @@ outreachは「外部への積極的な支援活動」、approachは「物事へ�
 
 ## 🧩 あわせて覚えたい
 
-- [campaign](/word/campaign/)：（特定の目的のための）運動、キャンペーン
-- [assistance](/word/assistance/)：支援、援助
+- [campaign](/campaign)：（特定の目的のための）運動、キャンペーン
+- [assistance](/assistance)：支援、援助
 
 ---
 
 ## 📖 できればこれも
 
-- [initiative](/word/initiative/)：新しい取り組み、主導権
-- [promotion](/word/promotion/)：促進、販売促進活動
+- [initiative](/initiative)：新しい取り組み、主導権
+- [promotion](/promotion)：促進、販売促進活動
 
-<!-- cvid: aid06_bid12 -->
+<!-- cvid: aid10_bid48 -->

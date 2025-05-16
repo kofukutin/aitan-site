@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で「走っている」「運営してい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で「走っている」「運営してい
 ## 🤔  jogging との違いは？
 
 - **running**：速さや競技性を問わず「走ること」全般を指す。
-- **[jogging](/word/jogging/)**：健康や軽い運動目的の「ゆっくり走ること」。
+- **[jogging](/jogging)**：健康や軽い運動目的の「ゆっくり走ること」。
 
 runningは速さや目的を問わず幅広く使われますが、joggingは「軽い運動」としてのランニングに限定されます。
 
@@ -106,14 +110,14 @@ runningは速さや目的を問わず幅広く使われますが、joggingは「
 
 ## 🧩 あわせて覚えたい
 
-- [race](/word/race/)：競走、レース
-- [operation](/word/operation/)：運営、操作
+- [race](/race)：競走、レース
+- [operation](/operation)：運営、操作
 
 ---
 
 ## 📖 できればこれも
 
-- [walking](/word/walking/)：歩くこと
-- [exercise](/word/exercise/)：運動
+- [walking](/walking)：歩くこと
+- [exercise](/exercise)：運動
 
-<!-- cvid: aid10_bid00 -->
+<!-- cvid: aid39_bid30 -->

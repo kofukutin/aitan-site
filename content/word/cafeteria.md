@@ -80,15 +80,19 @@ TOEICでは職場や学校のシーンで、食事や休憩場所の話題とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは職場や学校のシーンで、食事や休憩場所の話題とし
 ## 🤔  canteen との違いは？
 
 - **cafeteria**：セルフサービス式の食堂や軽食堂を指し、特にアメリカ英語でよく使われます。
-- **[canteen](/word/canteen/)**：主にイギリス英語で使われ、学校や職場の食堂を指しますが、軍隊の食堂や水筒の意味もあります。
+- **[canteen](/canteen)**：主にイギリス英語で使われ、学校や職場の食堂を指しますが、軍隊の食堂や水筒の意味もあります。
 
 cafeteriaはアメリカで一般的な表現、canteenはイギリスや軍隊で使われることが多い点が異なります。
 
@@ -104,14 +108,14 @@ cafeteriaはアメリカで一般的な表現、canteenはイギリスや軍隊�
 
 ## 🧩 あわせて覚えたい
 
-- [restaurant](/word/restaurant/)：レストラン、飲食店
-- [dining hall](/word/dining_hall/)：（大学や寮などの）大食堂
+- [restaurant](/restaurant)：レストラン、飲食店
+- [dining hall](/dining_hall)：（大学や寮などの）大食堂
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/word/lunch/)：昼食
-- [menu](/word/menu/)：メニュー
+- [lunch](/lunch)：昼食
+- [menu](/menu)：メニュー
 
-<!-- cvid: aid07_bid13 -->
+<!-- cvid: aid41_bid33 -->

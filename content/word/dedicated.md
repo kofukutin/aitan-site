@@ -81,15 +81,19 @@ dedicatedはTOEICの長文やメール文面で「専任の」「献身的な」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ dedicatedはTOEICの長文やメール文面で「専任の」「献身的な」
 ## 🤔  devoted との違いは？
 
 - **dedicated**：特定の目的や仕事に強い責任感や情熱を持って取り組む様子
-- **[devoted](/word/devoted/)**：愛情や忠誠心を持って深く関わる様子
+- **[devoted](/devoted)**：愛情や忠誠心を持って深く関わる様子
 
 dedicatedは職務や役割への熱心さを強調し、devotedはより個人的な愛情や忠誠心を強調します。
 
@@ -105,14 +109,14 @@ dedicatedは職務や役割への熱心さを強調し、devotedはより個人�
 
 ## 🧩 あわせて覚えたい
 
-- [committed](/word/committed/)：強く約束した、献身的な
-- [enthusiastic](/word/enthusiastic/)：熱心な、熱中している
+- [committed](/committed)：強く約束した、献身的な
+- [enthusiastic](/enthusiastic)：熱心な、熱中している
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [reliable](/word/reliable/)：信頼できる
+- [efficient](/efficient)：効率的な
+- [reliable](/reliable)：信頼できる
 
-<!-- cvid: aid28_bid36 -->
+<!-- cvid: aid31_bid26 -->

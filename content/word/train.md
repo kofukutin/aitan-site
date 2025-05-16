@@ -81,15 +81,19 @@ TOEICでは「社員を訓練する」「新しいシステムに慣れさせる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「社員を訓練する」「新しいシステムに慣れさせる
 ## 🤔  educate との違いは？
 
 - **train**：特定のスキルや実践的な能力を身につけさせるために訓練する
-- **[educate](/word/educate/)**：知識や教養を広く身につけさせるために教育する
+- **[educate](/educate)**：知識や教養を広く身につけさせるために教育する
 
 trainは「実践的な訓練」、educateは「知識や人格形成を含む広い教育」といった違いがあります。
 
@@ -105,14 +109,14 @@ trainは「実践的な訓練」、educateは「知識や人格形成を含む�
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/word/practice/)：練習する、実践する
-- [coach](/word/coach/)：指導する、コーチする
+- [practice](/practice)：練習する、実践する
+- [coach](/coach)：指導する、コーチする
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare/)：準備する
-- [improve](/word/improve/)：改善する、向上させる
+- [prepare](/prepare)：準備する
+- [improve](/improve)：改善する、向上させる
 
-<!-- cvid: aid40_bid27 -->
+<!-- cvid: aid39_bid15 -->

@@ -81,7 +81,7 @@ tiredはTOEICのリスニングパートで、体調や気分を表す表現と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+記憶が新しいうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ tiredはTOEICのリスニングパートで、体調や気分を表す表現と�
 
 <div class="info-center">
 ＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tiredはTOEICのリスニングパートで、体調や気分を表す表現と�
 ## 🤔  exhausted との違いは？
 
 - **tired**：普通に「疲れた」状態。日常的な疲労感。
-- **[exhausted](/word/exhausted/)**：完全に「へとへと」「極度に疲れ切った」状態。
+- **[exhausted](/exhausted)**：完全に「へとへと」「極度に疲れ切った」状態。
 
 tiredは軽い・一般的な疲れ、exhaustedは動けないほどの強い疲労を表します。
 
@@ -105,14 +109,14 @@ tiredは軽い・一般的な疲れ、exhaustedは動けないほどの強い疲
 
 ## 🧩 あわせて覚えたい
 
-- [sleepy](/word/sleepy/)：眠い
-- [energetic](/word/energetic/)：元気な、エネルギッシュな
+- [sleepy](/sleepy)：眠い
+- [energetic](/energetic)：元気な、エネルギッシュな
 
 ---
 
 ## 📖 できればこれも
 
-- [hungry](/word/hungry/)：お腹がすいた
-- [bored](/word/bored/)：退屈した
+- [hungry](/hungry)：お腹がすいた
+- [bored](/bored)：退屈した
 
-<!-- cvid: aid28_bid24 -->
+<!-- cvid: aid45_bid24 -->

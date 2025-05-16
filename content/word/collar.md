@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、服装や人物の特徴を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、服装や人物の特徴を説明す
 ## 🤔  neckline との違いは？
 
 - **collar**：シャツやコートの「襟」や動物の「首輪」を指す。
-- **[neckline](/word/neckline/)**：服の首回りの「開き具合」や「形」を指す。
+- **[neckline](/neckline)**：服の首回りの「開き具合」や「形」を指す。
 
 collarは物理的な襟や首輪、necklineは服のデザイン上の首回りの形を表します。
 
@@ -105,14 +109,14 @@ collarは物理的な襟や首輪、necklineは服のデザイン上の首回り
 
 ## 🧩 あわせて覚えたい
 
-- [cuff](/word/cuff/)：袖口
-- [lapel](/word/lapel/)：（ジャケットなどの）下襟
+- [cuff](/cuff)：袖口
+- [lapel](/lapel)：（ジャケットなどの）下襟
 
 ---
 
 ## 📖 できればこれも
 
-- [button](/word/button/)：ボタン
-- [sleeve](/word/sleeve/)：袖
+- [button](/button)：ボタン
+- [sleeve](/sleeve)：袖
 
-<!-- cvid: aid43_bid28 -->
+<!-- cvid: aid44_bid15 -->

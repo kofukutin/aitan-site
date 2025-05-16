@@ -83,15 +83,19 @@ TOEICでは、会議やオフィスのシーンで「警報」や「目覚まし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、会議やオフィスのシーンで「警報」や「目覚まし
 ## 🤔  alert との違いは？
 
 - **alarm**：危険や異常を知らせる装置や合図、または驚き・不安そのもの
-- **[alert](/word/alert/)**：警戒や注意を促す通知や状態
+- **[alert](/alert)**：警戒や注意を促す通知や状態
 
 alarmは「警報装置」や「突然の驚き」に焦点があり、alertは「注意喚起」や「警戒状態」を指します。
 
@@ -107,14 +111,14 @@ alarmは「警報装置」や「突然の驚き」に焦点があり、alertは�
 
 ## 🧩 あわせて覚えたい
 
-- [warning](/word/warning/)：警告、注意
-- [notification](/word/notification/)：通知、お知らせ
+- [warning](/warning)：警告、注意
+- [notification](/notification)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [reminder](/word/reminder/)：リマインダー、思い出させるもの
-- [signal](/word/signal/)：信号、合図
+- [reminder](/reminder)：リマインダー、思い出させるもの
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid13_bid02 -->
+<!-- cvid: aid25_bid22 -->

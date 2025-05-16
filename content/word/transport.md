@@ -81,15 +81,19 @@ TOEICではビジネスや物流、国際取引の場面で「transport」が使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスや物流、国際取引の場面で「transport」が使
 ## 🤔  transfer との違いは？
 
 - **transport**：物や人を物理的に運ぶこと、特に大量・長距離の輸送に使う
-- **[transfer](/word/transfer/)**：物や人だけでなく、データや権利など「移す」全般に使える
+- **[transfer](/transfer)**：物や人だけでなく、データや権利など「移す」全般に使える
 
 transportは「運搬・輸送」に特化し、transferは「移動・転送」など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ transportは「運搬・輸送」に特化し、transferは「移動・転送」
 
 ## 🧩 あわせて覚えたい
 
-- [ship](/word/ship/)：船で送る、発送する
-- [deliver](/word/deliver/)：配達する、届ける
+- [ship](/ship)：船で送る、発送する
+- [deliver](/deliver)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [export](/word/export/)：輸出する
-- [import](/word/import/)：輸入する
+- [export](/export)：輸出する
+- [import](/import)：輸入する
 
-<!-- cvid: aid41_bid45 -->
+<!-- cvid: aid07_bid15 -->

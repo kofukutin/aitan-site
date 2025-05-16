@@ -81,15 +81,19 @@ ITやビジネス文書の説明文で、データや情報の保管場所とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書の説明文で、データや情報の保管場所とし
 ## 🤔  storage との違いは？
 
 - **repository**：体系的・組織的に情報やデータを保管・管理する場所やシステム
-- **[storage](/word/storage/)**：一般的な「保管」「保存」場所やスペース
+- **[storage](/storage)**：一般的な「保管」「保存」場所やスペース
 
 repositoryは特にITや学術分野で「整理された保管場所」を指し、storageはもっと広く「物理的・デジタル的な保存場所」全般を指します。
 
@@ -105,14 +109,14 @@ repositoryは特にITや学術分野で「整理された保管場所」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive/)：記録保管所、アーカイブ
-- [database](/word/database/)：データベース、体系的なデータの集まり
+- [archive](/archive)：記録保管所、アーカイブ
+- [database](/database)：データベース、体系的なデータの集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [directory](/word/directory/)：ディレクトリ、フォルダ
-- [inventory](/word/inventory/)：在庫、目録
+- [directory](/directory)：ディレクトリ、フォルダ
+- [inventory](/inventory)：在庫、目録
 
-<!-- cvid: aid12_bid35 -->
+<!-- cvid: aid20_bid20 -->

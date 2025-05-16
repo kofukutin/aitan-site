@@ -81,15 +81,19 @@ TOEICでは、ITやビジネスのトラブル、セキュリティ関連の会�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネスのトラブル、セキュリティ関連の会�
 ## 🤔  assaulted との違いは？
 
 - **attacked**：一般的な「攻撃した」「襲った」。物理・言葉・サイバー攻撃など幅広く使う。
-- **[assaulted](/word/assaulted/)**：法律用語やニュースで使われる「暴行した」。より暴力的・深刻なニュアンス。
+- **[assaulted](/assaulted)**：法律用語やニュースで使われる「暴行した」。より暴力的・深刻なニュアンス。
 
 「attacked」は広い意味での攻撃全般に使い、「assaulted」は特に暴力や犯罪性の強い攻撃に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネスのトラブル、セキュリティ関連の会�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend/)：守る、防御する
-- [criticize](/word/criticize/)：批判する
+- [defend](/defend)：守る、防御する
+- [criticize](/criticize)：批判する
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage/)：損害を与える
-- [protect](/word/protect/)：守る
+- [damage](/damage)：損害を与える
+- [protect](/protect)：守る
 
-<!-- cvid: aid32_bid11 -->
+<!-- cvid: aid41_bid31 -->

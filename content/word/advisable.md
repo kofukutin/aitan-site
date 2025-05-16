@@ -81,15 +81,19 @@ TOEICではPart 5の語彙・文法問題で「～するのが望ましい」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙・文法問題で「～するのが望ましい」「
 ## 🤔  desirable との違いは？
 
 - **advisable**：状況的に「勧められる」「賢明である」と判断される場合に使う
-- **[desirable](/word/desirable/)**：より「望ましい」「好ましい」といった積極的な価値判断を表す
+- **[desirable](/desirable)**：より「望ましい」「好ましい」といった積極的な価値判断を表す
 
 advisableは「助言として適切」というニュアンスが強く、desirableは「理想的・魅力的」という意味合いが強いです。
 
@@ -105,14 +109,14 @@ advisableは「助言として適切」というニュアンスが強く、desir
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [optional](/word/optional/)：任意の、選択できる
+- [mandatory](/mandatory)：義務的な、強制の
+- [optional](/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [suitable](/word/suitable/)：適切な、ふさわしい
-- [practical](/word/practical/)：実用的な、現実的な
+- [suitable](/suitable)：適切な、ふさわしい
+- [practical](/practical)：実用的な、現実的な
 
-<!-- cvid: aid17_bid46 -->
+<!-- cvid: aid43_bid44 -->

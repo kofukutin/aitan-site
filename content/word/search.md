@@ -82,15 +82,19 @@ TOEICでは、ITやビジネスの場面で「情報を探す」「資料を検�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、ITやビジネスの場面で「情報を探す」「資料を検�
 ## 🤔  seek との違いは？
 
 - **search**：具体的な場所や情報を探す、調べる
-- **[seek](/word/seek/)**：目的や答えなど抽象的なものを求める
+- **[seek](/seek)**：目的や答えなど抽象的なものを求める
 
 searchは物や情報など「目に見えるもの」を探すときに使い、seekは「助け」「機会」など目に見えないものを求めるときに使います。
 
@@ -106,14 +110,14 @@ searchは物や情報など「目に見えるもの」を探すときに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [explore](/word/explore/)：探検する、詳しく調べる
-- [investigate](/word/investigate/)：（事件などを）調査する
+- [explore](/explore)：探検する、詳しく調べる
+- [investigate](/investigate)：（事件などを）調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/word/find/)：見つける
-- [look for](/word/look_for/)：～を探す
+- [find](/find)：見つける
+- [look for](/look_for)：～を探す
 
-<!-- cvid: aid42_bid49 -->
+<!-- cvid: aid06_bid06 -->

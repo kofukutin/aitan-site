@@ -81,15 +81,19 @@ TOEICでは、オフィスや施設のセキュリティ、備品管理などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや施設のセキュリティ、備品管理などの
 ## 🤔  secure との違いは？
 
 - **lock**：物理的な「錠」や「鍵」そのものを指す
-- **[secure](/word/secure/)**：安全にする、守るという動作や状態を指す
+- **[secure](/secure)**：安全にする、守るという動作や状態を指す
 
 lockは具体的な道具や装置を表し、secureは安全を確保する行為や状態を表します。
 
@@ -105,14 +109,14 @@ lockは具体的な道具や装置を表し、secureは安全を確保する行�
 
 ## 🧩 あわせて覚えたい
 
-- [key](/word/key/)：鍵
-- [unlock](/word/unlock/)：鍵を開ける
+- [key](/key)：鍵
+- [unlock](/unlock)：鍵を開ける
 
 ---
 
 ## 📖 できればこれも
 
-- [password](/word/password/)：パスワード
-- [access](/word/access/)：アクセス、入ること
+- [password](/password)：パスワード
+- [access](/access)：アクセス、入ること
 
-<!-- cvid: aid26_bid06 -->
+<!-- cvid: aid34_bid11 -->

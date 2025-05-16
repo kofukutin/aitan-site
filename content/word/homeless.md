@@ -81,15 +81,19 @@ TOEICでは社会問題やニュース記事の文脈で登場することが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは社会問題やニュース記事の文脈で登場することが多
 ## 🤔  poor との違いは？
 
 - **homeless**：住む家がない状態や人を指す
-- **[poor](/word/poor/)**：貧しい、経済的に困窮している
+- **[poor](/poor)**：貧しい、経済的に困窮している
 
 「homeless」は家がないことに特化した表現で、「poor」はお金がない広い意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは社会問題やニュース記事の文脈で登場することが多
 
 ## 🧩 あわせて覚えたい
 
-- [unemployed](/word/unemployed/)：失業中の
-- [shelter](/word/shelter/)：避難所、シェルター
+- [unemployed](/unemployed)：失業中の
+- [shelter](/shelter)：避難所、シェルター
 
 ---
 
 ## 📖 できればこれも
 
-- [hungry](/word/hungry/)：空腹の
-- [lonely](/word/lonely/)：孤独な
+- [hungry](/hungry)：空腹の
+- [lonely](/lonely)：孤独な
 
-<!-- cvid: aid21_bid36 -->
+<!-- cvid: aid12_bid25 -->

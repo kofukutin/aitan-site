@@ -81,15 +81,19 @@ TOEICでは「equal opportunity（機会均等）」や「equal to（～に等�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「equal opportunity（機会均等）」や「equal to（～に等�
 ## 🤔  equivalent との違いは？
 
 - **equal**：数量や価値、地位などが「まったく同じ」「等しい」ことを強調
-- **[equivalent](/word/equivalent/)**：機能や効果、価値が「同等」であるが、必ずしも見た目や内容が同じとは限らない
+- **[equivalent](/equivalent)**：機能や効果、価値が「同等」であるが、必ずしも見た目や内容が同じとは限らない
 
 equalは「完全に同じ」ことを指し、equivalentは「実質的に同じ価値や効果」を持つ場合に使います。
 
@@ -105,14 +109,14 @@ equalは「完全に同じ」ことを指し、equivalentは「実質的に同�
 
 ## 🧩 あわせて覚えたい
 
-- [unequal](/word/unequal/)：等しくない、不平等な
-- [fair](/word/fair/)：公平な、公正な
+- [unequal](/unequal)：等しくない、不平等な
+- [fair](/fair)：公平な、公正な
 
 ---
 
 ## 📖 できればこれも
 
-- [similar](/word/similar/)：似ている
-- [even](/word/even/)：平らな、均等な
+- [similar](/similar)：似ている
+- [even](/even)：平らな、均等な
 
-<!-- cvid: aid23_bid45 -->
+<!-- cvid: aid40_bid34 -->

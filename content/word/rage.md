@@ -81,15 +81,19 @@ TOEICでは主に記事やメールなどの長文中で、感情や状況の描
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に記事やメールなどの長文中で、感情や状況の描
 ## 🤔  anger との違いは？
 
 - **rage**：コントロールできないほど激しい怒りや爆発的な感情
-- **[anger](/word/anger/)**：一般的な怒りや不快感
+- **[anger](/anger)**：一般的な怒りや不快感
 
 rageは一時的で非常に強い怒りを指し、angerは広く一般的な怒り全般を表します。
 
@@ -105,14 +109,14 @@ rageは一時的で非常に強い怒りを指し、angerは広く一般的な�
 
 ## 🧩 あわせて覚えたい
 
-- [fury](/word/fury/)：激しい怒り、激怒
-- [calm](/word/calm/)：落ち着き、冷静
+- [fury](/fury)：激しい怒り、激怒
+- [calm](/calm)：落ち着き、冷静
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress/)：ストレス、緊張
-- [emotion](/word/emotion/)：感情
+- [stress](/stress)：ストレス、緊張
+- [emotion](/emotion)：感情
 
-<!-- cvid: aid24_bid47 -->
+<!-- cvid: aid46_bid49 -->

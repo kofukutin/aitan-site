@@ -80,15 +80,19 @@ TOEICではビジネスメールや通知文など、フォーマルな文書で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではビジネスメールや通知文など、フォーマルな文書で
 ## 🤔  favor との違いは？
 
 - **behalf**：誰かを代表して、または誰かの利益のために行動することを表すフォーマルな語。
-- **[favor](/word/favor/)**：好意や親切、または「お願い」を意味し、カジュアルな場面でも使われる。
+- **[favor](/favor)**：好意や親切、または「お願い」を意味し、カジュアルな場面でも使われる。
 
 behalfは「代理・代表」の意味合いが強く、favorは「好意・お願い」の意味で使い分けます。
 
@@ -104,14 +108,14 @@ behalfは「代理・代表」の意味合いが強く、favorは「好意・お
 
 ## 🧩 あわせて覚えたい
 
-- [representative](/word/representative/)：代表者、代理人
-- [proxy](/word/proxy/)：代理人、委任状
+- [representative](/representative)：代表者、代理人
+- [proxy](/proxy)：代理人、委任状
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/word/benefit/)：利益、恩恵
-- [purpose](/word/purpose/)：目的
+- [benefit](/benefit)：利益、恩恵
+- [purpose](/purpose)：目的
 
-<!-- cvid: aid21_bid09 -->
+<!-- cvid: aid20_bid43 -->

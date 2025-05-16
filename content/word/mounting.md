@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や記事で「mounting pressure」「mounting c
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や記事で「mounting pressure」「mounting c
 ## 🤔  increasing との違いは？
 
 - **mounting**：特に問題やコストなどが「どんどん増えて深刻化している」ニュアンス
-- **[increasing](/word/increasing/)**：単に「増加している」状態を幅広く表す
+- **[increasing](/increasing)**：単に「増加している」状態を幅広く表す
 
 「mounting」は悪化や深刻化のニュアンスが強く、increasingは中立的に数量や程度が増える場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や記事で「mounting pressure」「mounting c
 
 ## 🧩 あわせて覚えたい
 
-- [escalating](/word/escalating/)：（状況や問題が）どんどん悪化する
-- [declining](/word/declining/)：減少している、下落している
+- [escalating](/escalating)：（状況や問題が）どんどん悪化する
+- [declining](/declining)：減少している、下落している
 
 ---
 
 ## 📖 できればこれも
 
-- [growing](/word/growing/)：（数や量が）増えている
-- [rising](/word/rising/)：（価格や温度などが）上昇している
+- [growing](/growing)：（数や量が）増えている
+- [rising](/rising)：（価格や温度などが）上昇している
 
-<!-- cvid: aid38_bid45 -->
+<!-- cvid: aid14_bid00 -->

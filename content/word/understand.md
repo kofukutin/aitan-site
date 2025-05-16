@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「理解する」「分かる」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「理解する」「分かる」という意味
 ## 🤔  realize との違いは？
 
 - **understand**：言葉や状況、相手の気持ちなどを正しく把握すること
-- **[realize](/word/realize/)**：気づく、はっきり認識すること
+- **[realize](/realize)**：気づく、はっきり認識すること
 
 understandは「内容を理解する」こと、realizeは「今まで気づかなかったことに気づく」ニュアンスです。
 
@@ -105,14 +109,14 @@ understandは「内容を理解する」こと、realizeは「今まで気づか
 
 ## 🧩 あわせて覚えたい
 
-- [comprehend](/word/comprehend/)：（難しいことを）完全に理解する
-- [misunderstand](/word/misunderstand/)：誤解する
+- [comprehend](/comprehend)：（難しいことを）完全に理解する
+- [misunderstand](/misunderstand)：誤解する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain/)：説明する
-- [know](/word/know/)：知っている
+- [explain](/explain)：説明する
+- [know](/know)：知っている
 
-<!-- cvid: aid34_bid24 -->
+<!-- cvid: aid44_bid48 -->

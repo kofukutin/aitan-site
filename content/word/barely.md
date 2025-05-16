@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「ギリギリ」「ほとんど～ない」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「ギリギリ」「ほとんど～ない」と
 ## 🤔  hardly との違いは？
 
 - **barely**：かろうじて、ギリギリ達成したことを強調
-- **[hardly](/word/hardly/)**：ほとんど～ない（達成できなかったニュアンスが強い）
+- **[hardly](/hardly)**：ほとんど～ない（達成できなかったニュアンスが強い）
 
 barelyは「最低限達成した」ことを示し、hardlyは「ほぼ達成できなかった」ことを表します。
 
@@ -101,14 +105,14 @@ barelyは「最低限達成した」ことを示し、hardlyは「ほぼ達成�
 
 ## 🧩 あわせて覚えたい
 
-- [scarcely](/word/scarcely/)：ほとんど～ない（barelyとほぼ同じ意味）
-- [almost](/word/almost/)：ほとんど（肯定的な意味で「もう少しで」）
+- [scarcely](/scarcely)：ほとんど～ない（barelyとほぼ同じ意味）
+- [almost](/almost)：ほとんど（肯定的な意味で「もう少しで」）
 
 ---
 
 ## 📖 できればこれも
 
-- [nearly](/word/nearly/)：ほとんど、もう少しで
-- [rarely](/word/rarely/)：めったに～ない
+- [nearly](/nearly)：ほとんど、もう少しで
+- [rarely](/rarely)：めったに～ない
 
-<!-- cvid: aid37_bid11 -->
+<!-- cvid: aid27_bid38 -->

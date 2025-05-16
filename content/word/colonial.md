@@ -9,6 +9,7 @@ tags:
   - 形容詞
   - Part7
   - フォーマル
+  - 歴史
   - 説明
 compared_word: "imperial"
 related_words:
@@ -80,15 +81,19 @@ TOEICでは歴史や文化に関する長文や記事で見かけることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid11_bid03" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid03" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +101,7 @@ TOEICでは歴史や文化に関する長文や記事で見かけることが多
 ## 🤔  imperial との違いは？
 
 - **colonial**：植民地や植民地時代に関する
-- **[imperial](/word/imperial/)**：帝国や皇帝に関する
+- **[imperial](/imperial)**：帝国や皇帝に関する
 
 「colonial」は植民地やその時代の特徴に焦点を当て、「imperial」は帝国や支配者側の権力・体制に焦点を当てます。
 
@@ -104,14 +109,14 @@ TOEICでは歴史や文化に関する長文や記事で見かけることが多
 
 ## 🧩 あわせて覚えたい
 
-- [colony](/word/colony/)：植民地
-- [settler](/word/settler/)：移住者、開拓者
+- [colony](/colony)：植民地
+- [settler](/settler)：移住者、開拓者
 
 ---
 
 ## 📖 できればこれも
 
-- [revolution](/word/revolution/)：革命
-- [empire](/word/empire/)：帝国
+- [revolution](/revolution)：革命
+- [empire](/empire)：帝国
 
-<!-- cvid: aid01_bid28 -->
+<!-- cvid: aid11_bid03 -->

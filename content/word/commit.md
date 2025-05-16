@@ -81,15 +81,19 @@ TOEICでは「commit to ～」の形や「commit oneself to ～」など、約�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「commit to ～」の形や「commit oneself to ～」など、約�
 ## 🤔  dedicate との違いは？
 
 - **commit**：自分の時間や労力を「約束して注ぐ」「専念する」ニュアンスが強い
-- **[dedicate](/word/dedicate/)**：特定の目的や人のために「ささげる」「捧げる」意味が強い
+- **[dedicate](/dedicate)**：特定の目的や人のために「ささげる」「捧げる」意味が強い
 
 commitは「自分の意思で何かに深く関わる」イメージ、dedicateは「目的や対象に心を込めて捧げる」イメージです。
 
@@ -105,14 +109,14 @@ commitは「自分の意思で何かに深く関わる」イメージ、dedicate
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/word/assign/)：割り当てる、任命する
-- [promise](/word/promise/)：約束する
+- [assign](/assign)：割り当てる、任命する
+- [promise](/promise)：約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [submit](/word/submit/)：提出する
+- [approve](/approve)：承認する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid16_bid16 -->
+<!-- cvid: aid28_bid31 -->

@@ -80,15 +80,19 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 ## 🤔  dish との違いは？
 
 - **cuisine**：特定の国や地域、レストランの「料理全体のスタイル」や「料理法」を指す
-- **[dish](/word/dish/)**：一品ごとの「料理」や「皿」を指す
+- **[dish](/dish)**：一品ごとの「料理」や「皿」を指す
 
 cuisineは「イタリア料理」「和食」など広い範囲の料理様式を表し、dishは「パスタ」「寿司」など個別の料理を指します。
 
@@ -104,14 +108,14 @@ cuisineは「イタリア料理」「和食」など広い範囲の料理様式�
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/word/meal/)：食事、1回分の食事
-- [recipe](/word/recipe/)：レシピ、調理法
+- [meal](/meal)：食事、1回分の食事
+- [recipe](/recipe)：レシピ、調理法
 
 ---
 
 ## 📖 できればこれも
 
-- [ingredient](/word/ingredient/)：材料、成分
-- [flavor](/word/flavor/)：味、風味
+- [ingredient](/ingredient)：材料、成分
+- [flavor](/flavor)：味、風味
 
-<!-- cvid: aid17_bid21 -->
+<!-- cvid: aid41_bid23 -->

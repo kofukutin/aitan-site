@@ -82,15 +82,19 @@ TOEICでは「書類や情報が一致する」「人や物が合う」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「書類や情報が一致する」「人や物が合う」などの
 ## 🤔  fit との違いは？
 
 - **match**：2つ以上のものが「色・デザイン・内容などで調和する」「一致する」ことを表す。
-- **[fit](/word/fit/)**：サイズや形が「ぴったり合う」「適合する」ことを表す。
+- **[fit](/fit)**：サイズや形が「ぴったり合う」「適合する」ことを表す。
 
 matchは「見た目や内容が合う」場合に使い、fitは「物理的にぴったり」というニュアンスで使い分けます。
 
@@ -106,14 +110,14 @@ matchは「見た目や内容が合う」場合に使い、fitは「物理的に
 
 ## 🧩 あわせて覚えたい
 
-- [suit](/word/suit/)：（目的や人に）合う、似合う
-- [pair](/word/pair/)：ペア、対、組み合わせ
+- [suit](/suit)：（目的や人に）合う、似合う
+- [pair](/pair)：ペア、対、組み合わせ
 
 ---
 
 ## 📖 できればこれも
 
-- [combine](/word/combine/)：組み合わせる、結合する
-- [compare](/word/compare/)：比較する
+- [combine](/combine)：組み合わせる、結合する
+- [compare](/compare)：比較する
 
-<!-- cvid: aid31_bid37 -->
+<!-- cvid: aid22_bid29 -->

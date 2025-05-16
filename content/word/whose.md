@@ -77,15 +77,19 @@ TOEICでは主に文法問題で、所有関係を問う関係代名詞や疑問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主に文法問題で、所有関係を問う関係代名詞や疑問
 ## 🤔  who との違いは？
 
 - **whose**：だれの、だれのもの（所有を表す）
-- **[who](/word/who/)**：だれ（人そのものを指す）
+- **[who](/who)**：だれ（人そのものを指す）
 
 whoseは「所有」を尋ねたり説明したりする時に使い、whoは「人そのもの」を尋ねる時に使います。
 
@@ -101,14 +105,14 @@ whoseは「所有」を尋ねたり説明したりする時に使い、whoは「
 
 ## 🧩 あわせて覚えたい
 
-- [which](/word/which/)：どれ、どちら
-- [whom](/word/whom/)：だれを、だれに（目的格）
+- [which](/which)：どれ、どちら
+- [whom](/whom)：だれを、だれに（目的格）
 
 ---
 
 ## 📖 できればこれも
 
-- [what](/word/what/)：何、何の
-- [that](/word/that/)：あれ、それ／関係代名詞「～するところの」
+- [what](/what)：何、何の
+- [that](/that)：あれ、それ／関係代名詞「～するところの」
 
-<!-- cvid: aid34_bid06 -->
+<!-- cvid: aid45_bid41 -->

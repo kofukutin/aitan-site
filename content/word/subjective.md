@@ -81,15 +81,19 @@ TOEICでは、意見や評価、分析に関する長文やメールで「主観
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、意見や評価、分析に関する長文やメールで「主観
 ## 🤔  objective との違いは？
 
 - **subjective**：個人の感情や意見に左右される、主観的な
-- **[objective](/word/objective/)**：事実やデータに基づく、客観的な
+- **[objective](/objective)**：事実やデータに基づく、客観的な
 
 「subjective」は自分の感じ方や考え方に基づく場合、「objective」は誰が見ても同じ事実や基準に基づく場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、意見や評価、分析に関する長文やメールで「主観
 
 ## 🧩 あわせて覚えたい
 
-- [biased](/word/biased/)：偏った、先入観のある
-- [personal](/word/personal/)：個人的な、私的な
+- [biased](/biased)：偏った、先入観のある
+- [personal](/personal)：個人的な、私的な
 
 ---
 
 ## 📖 できればこれも
 
-- [rational](/word/rational/)：理性的な、合理的な
-- [logical](/word/logical/)：論理的な
+- [rational](/rational)：理性的な、合理的な
+- [logical](/logical)：論理的な
 
-<!-- cvid: aid12_bid36 -->
+<!-- cvid: aid09_bid01 -->

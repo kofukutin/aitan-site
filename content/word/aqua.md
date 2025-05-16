@@ -88,8 +88,12 @@ TOEICでは成分表示や科学的な説明文で見かけることがありま
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは成分表示や科学的な説明文で見かけることがありま
 ## 🤔  water との違いは？
 
 - **aqua**：科学的・技術的な文脈や成分表示で使われるフォーマルな「水」
-- **[water](/word/water/)**：日常的に使う「水」、一般的な表現
+- **[water](/water)**：日常的に使う「水」、一般的な表現
 
 aquaは専門的・フォーマルな場面で使われ、waterは日常会話や一般的な文脈で使われます。
 
@@ -105,14 +109,14 @@ aquaは専門的・フォーマルな場面で使われ、waterは日常会話�
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/word/liquid/)：液体
-- [solution](/word/solution/)：溶液
+- [liquid](/liquid)：液体
+- [solution](/solution)：溶液
 
 ---
 
 ## 📖 できればこれも
 
-- [fluid](/word/fluid/)：流体
-- [substance](/word/substance/)：物質
+- [fluid](/fluid)：流体
+- [substance](/substance)：物質
 
-<!-- cvid: aid38_bid30 -->
+<!-- cvid: aid38_bid20 -->

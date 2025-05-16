@@ -81,15 +81,19 @@ TOEICでは工場や建設、製造業の話題で「steel」が登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは工場や建設、製造業の話題で「steel」が登場するこ�
 ## 🤔  iron との違いは？
 
 - **steel**：鉄に炭素などを加えて強度を高めた合金。建築や機械などに使われる。
-- **[iron](/word/iron/)**：純粋な鉄や鉄分、または鉄製品全般を指す。
+- **[iron](/iron)**：純粋な鉄や鉄分、または鉄製品全般を指す。
 
 steelは「加工された強い金属」、ironは「素材としての鉄」や「鉄分」を指す場面で使い分けます。
 
@@ -105,14 +109,14 @@ steelは「加工された強い金属」、ironは「素材としての鉄」�
 
 ## 🧩 あわせて覚えたい
 
-- [metal](/word/metal/)：金属
-- [alloy](/word/alloy/)：合金
+- [metal](/metal)：金属
+- [alloy](/alloy)：合金
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper/)：銅
-- [plastic](/word/plastic/)：プラスチック
+- [copper](/copper)：銅
+- [plastic](/plastic)：プラスチック
 
-<!-- cvid: aid23_bid22 -->
+<!-- cvid: aid33_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「新しい方法を探る」「現地を調査
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「新しい方法を探る」「現地を調査
 ## 🤔  investigating との違いは？
 
 - **exploring**：未知のものを積極的に探し求める、幅広く調べる
-- **[investigating](/word/investigating/)**：原因や事実を詳しく調査する、徹底的に調べる
+- **[investigating](/investigating)**：原因や事実を詳しく調査する、徹底的に調べる
 
 exploringは「新しいものを探す」「可能性を模索する」など広い意味で使われ、investigatingは「問題や事件の原因を詳しく調べる」といった限定的・詳細な調査に使われます。
 
@@ -105,14 +109,14 @@ exploringは「新しいものを探す」「可能性を模索する」など�
 
 ## 🧩 あわせて覚えたい
 
-- [discover](/word/discover/)：発見する
-- [survey](/word/survey/)：調査する、アンケートをとる
+- [discover](/discover)：発見する
+- [survey](/survey)：調査する、アンケートをとる
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/word/examine/)：詳しく調べる
-- [research](/word/research/)：研究する、調査する
+- [examine](/examine)：詳しく調べる
+- [research](/research)：研究する、調査する
 
-<!-- cvid: aid38_bid46 -->
+<!-- cvid: aid08_bid33 -->

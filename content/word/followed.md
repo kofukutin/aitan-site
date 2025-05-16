@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「指示に従う」「後についていく」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「指示に従う」「後についていく」
 ## 🤔  chased との違いは？
 
 - **followed**：単に後をついていく、従う
-- **[chased](/word/chased/)**：追いかける、追跡する（積極的に捕まえようとするニュアンス）
+- **[chased](/chased)**：追いかける、追跡する（積極的に捕まえようとするニュアンス）
 
 followedは「後についていく」や「指示に従う」といった中立的な意味ですが、chasedは「追いかける」「追跡する」といった積極的なニュアンスがあります。
 
@@ -105,14 +109,14 @@ followedは「後についていく」や「指示に従う」といった中立
 
 ## 🧩 あわせて覚えたい
 
-- [lead](/word/lead/)：導く、案内する
-- [track](/word/track/)：追跡する、たどる
+- [lead](/lead)：導く、案内する
+- [track](/track)：追跡する、たどる
 
 ---
 
 ## 📖 できればこれも
 
-- [continued](/word/continued/)：続けた
-- [attend](/word/attend/)：出席する、参加する
+- [continued](/continued)：続けた
+- [attend](/attend)：出席する、参加する
 
-<!-- cvid: aid00_bid35 -->
+<!-- cvid: aid12_bid46 -->

@@ -82,15 +82,19 @@ TOEICでは、音楽イベントやチーム活動、または「band together�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、音楽イベントやチーム活動、または「band together�
 ## 🤔  group との違いは？
 
 - **band**：音楽を演奏するグループや、輪・帯など「まとまり」を強調
-- **[group](/word/group/)**：共通の目的や特徴を持つ「集団」全般
+- **[group](/group)**：共通の目的や特徴を持つ「集団」全般
 
 bandは特に音楽グループや物理的に束ねるものに使い、groupはより広い意味で人や物の集まり全般に使います。
 
@@ -106,14 +110,14 @@ bandは特に音楽グループや物理的に束ねるものに使い、group�
 
 ## 🧩 あわせて覚えたい
 
-- [team](/word/team/)：チーム、共同作業をする集団
-- [orchestra](/word/orchestra/)：オーケストラ、管弦楽団
+- [team](/team)：チーム、共同作業をする集団
+- [orchestra](/orchestra)：オーケストラ、管弦楽団
 
 ---
 
 ## 📖 できればこれも
 
-- [club](/word/club/)：クラブ、同好会
-- [circle](/word/circle/)：サークル、仲間の集まり
+- [club](/club)：クラブ、同好会
+- [circle](/circle)：サークル、仲間の集まり
 
-<!-- cvid: aid20_bid41 -->
+<!-- cvid: aid41_bid46 -->

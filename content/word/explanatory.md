@@ -81,15 +81,19 @@ TOEICでは説明書や案内文、補足資料などの長文で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明書や案内文、補足資料などの長文で見かけるこ
 ## 🤔  descriptive との違いは？
 
 - **explanatory**：説明するための、理由や背景を明らかにする
-- **[descriptive](/word/descriptive/)**：描写的な、特徴や様子を詳しく述べる
+- **[descriptive](/descriptive)**：描写的な、特徴や様子を詳しく述べる
 
 **explanatory** は「なぜそうなのか」を説明する時に使い、**descriptive** は「どんなものか」を描写する時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは説明書や案内文、補足資料などの長文で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [clarify](/word/clarify/)：明確にする、はっきりさせる
-- [interpret](/word/interpret/)：解釈する、説明する
+- [clarify](/clarify)：明確にする、はっきりさせる
+- [interpret](/interpret)：解釈する、説明する
 
 ---
 
 ## 📖 できればこれも
 
-- [informative](/word/informative/)：有益な、情報を与える
-- [illustrative](/word/illustrative/)：説明のための、例示となる
+- [informative](/informative)：有益な、情報を与える
+- [illustrative](/illustrative)：説明のための、例示となる
 
-<!-- cvid: aid31_bid49 -->
+<!-- cvid: aid21_bid33 -->

@@ -88,8 +88,12 @@ TOEICでは「通過」「合格」「可決」などの意味で名詞として
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「通過」「合格」「可決」などの意味で名詞として
 ## 🤔  passing away との違いは？
 
 - **passing**：通過、合格、可決、死去など幅広い意味を持つ名詞。
-- **[passing away](/word/passing_away/)**：主に「死去」という意味で使われるやわらかい表現。
+- **[passing away](/passing_away)**：主に「死去」という意味で使われるやわらかい表現。
 
 passingは文脈によって意味が変わりますが、passing awayは「亡くなること」に限定され、より婉曲的な表現です。
 
@@ -105,14 +109,14 @@ passingは文脈によって意味が変わりますが、passing awayは「亡�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval/)：承認、許可
-- [transition](/word/transition/)：移行、変化
+- [approval](/approval)：承認、許可
+- [transition](/transition)：移行、変化
 
 ---
 
 ## 📖 できればこれも
 
-- [permit](/word/permit/)：許可する、許可証
-- [process](/word/process/)：過程、処理
+- [permit](/permit)：許可する、許可証
+- [process](/process)：過程、処理
 
-<!-- cvid: aid34_bid14 -->
+<!-- cvid: aid34_bid11 -->

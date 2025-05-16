@@ -78,15 +78,19 @@ TOEICでは現代英語の実用表現が中心のため、thouはほとんど�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid27_bid34" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid34" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは現代英語の実用表現が中心のため、thouはほとんど�
 ## 🤔  you との違いは？
 
 - **thou**：古い英語で「あなた」。親しい相手や目下の人に使われ、現代では詩や聖書などでしか見かけない。
-- **[you](/word/you/)**：現代英語の「あなた」。単数・複数どちらにも使え、フォーマル・カジュアル問わず広く使われる。
+- **[you](/you)**：現代英語の「あなた」。単数・複数どちらにも使え、フォーマル・カジュアル問わず広く使われる。
 
 thouは歴史的・文学的な響きがあり、現代英語ではyouが一般的です。
 
@@ -102,14 +106,14 @@ thouは歴史的・文学的な響きがあり、現代英語ではyouが一般�
 
 ## 🧩 あわせて覚えたい
 
-- [thee](/word/thee/)：thouの目的格（汝を）
-- [ye](/word/ye/)：古英語の二人称複数主格（あなたたち）
+- [thee](/thee)：thouの目的格（汝を）
+- [ye](/ye)：古英語の二人称複数主格（あなたたち）
 
 ---
 
 ## 📖 できればこれも
 
-- [thy](/word/thy/)：thouの所有格（汝の）
-- [thine](/word/thine/)：thouの所有代名詞（汝のもの）
+- [thy](/thy)：thouの所有格（汝の）
+- [thine](/thine)：thouの所有代名詞（汝のもの）
 
-<!-- cvid: aid47_bid22 -->
+<!-- cvid: aid27_bid34 -->

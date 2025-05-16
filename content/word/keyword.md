@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス文書、説明文などで「keyword」が重要
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス文書、説明文などで「keyword」が重要
 ## 🤔  clue との違いは？
 
 - **keyword**：文章や検索などで「重要な語句」や「中心となる言葉」を指す
-- **[clue](/word/clue/)**：問題解決や謎解きの「手がかり」「ヒント」を指す
+- **[clue](/clue)**：問題解決や謎解きの「手がかり」「ヒント」を指す
 
 keywordは情報の要点や検索の中心となる語句、clueは何かを見つけ出すためのヒントや手がかりという違いがあります。
 
@@ -105,14 +109,14 @@ keywordは情報の要点や検索の中心となる語句、clueは何かを見
 
 ## 🧩 あわせて覚えたい
 
-- [password](/word/password/)：パスワード、合言葉
-- [term](/word/term/)：用語、期間
+- [password](/password)：パスワード、合言葉
+- [term](/term)：用語、期間
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/word/topic/)：話題、テーマ
-- [phrase](/word/phrase/)：語句、フレーズ
+- [topic](/topic)：話題、テーマ
+- [phrase](/phrase)：語句、フレーズ
 
-<!-- cvid: aid22_bid33 -->
+<!-- cvid: aid34_bid38 -->

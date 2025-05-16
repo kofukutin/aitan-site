@@ -82,15 +82,19 @@ TOEICでは、オフィスや施設の設備説明、請求書の内容確認な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、オフィスや施設の設備説明、請求書の内容確認な
 ## 🤔  gauge との違いは？
 
 - **meter**：数値を測定し表示する計器や、長さの単位を指す
-- **[gauge](/word/gauge/)**：厚さ・大きさ・圧力などを測る計器や基準を指す
+- **[gauge](/gauge)**：厚さ・大きさ・圧力などを測る計器や基準を指す
 
 meterは主に電気・水道などの「量」を測る装置、gaugeは圧力や厚さなど「状態や程度」を測る装置に使われます。
 
@@ -106,14 +110,14 @@ meterは主に電気・水道などの「量」を測る装置、gaugeは圧力�
 
 ## 🧩 あわせて覚えたい
 
-- [measure](/word/measure/)：測る、測定する
-- [device](/word/device/)：装置、機器
+- [measure](/measure)：測る、測定する
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [scale](/word/scale/)：はかり、目盛り
-- [sensor](/word/sensor/)：センサー、感知器
+- [scale](/scale)：はかり、目盛り
+- [sensor](/sensor)：センサー、感知器
 
-<!-- cvid: aid03_bid27 -->
+<!-- cvid: aid30_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは主にメールや説明文、広告などで「配置」や「設計
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや説明文、広告などで「配置」や「設計
 ## 🤔  design との違いは？
 
 - **layout**：物や情報の「配置」や「並び方」に焦点を当てる
-- **[design](/word/design/)**：全体の「設計」や「意匠」、見た目や機能性も含む広い意味
+- **[design](/design)**：全体の「設計」や「意匠」、見た目や機能性も含む広い意味
 
 layoutは「どこに何を置くか」という配置の具体的な部分、designは全体の見た目やコンセプトまで含む点が異なります。
 
@@ -105,14 +109,14 @@ layoutは「どこに何を置くか」という配置の具体的な部分、de
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement/)：配置、整理
-- [structure](/word/structure/)：構造、組織
+- [arrangement](/arrangement)：配置、整理
+- [structure](/structure)：構造、組織
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format/)：書式、形式
-- [plan](/word/plan/)：計画、案
+- [format](/format)：書式、形式
+- [plan](/plan)：計画、案
 
-<!-- cvid: aid46_bid26 -->
+<!-- cvid: aid02_bid12 -->

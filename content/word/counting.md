@@ -81,15 +81,19 @@ TOEICでは、動詞 count の派生語として名詞形で出題されるこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞 count の派生語として名詞形で出題されるこ�
 ## 🤔  calculation との違いは？
 
 - **counting**：一つ一つ数を数えること、単純な集計
-- **[calculation](/word/calculation/)**：計算、数値を使ったより複雑な処理
+- **[calculation](/calculation)**：計算、数値を使ったより複雑な処理
 
 countingは「数を順に数える」ことに重点があり、calculationは「計算式や方法を使って答えを出す」ことに使います。
 
@@ -105,14 +109,14 @@ countingは「数を順に数える」ことに重点があり、calculationは�
 
 ## 🧩 あわせて覚えたい
 
-- [measurement](/word/measurement/)：測定、計測
-- [estimation](/word/estimation/)：見積もり、推定
+- [measurement](/measurement)：測定、計測
+- [estimation](/estimation)：見積もり、推定
 
 ---
 
 ## 📖 できればこれも
 
-- [number](/word/number/)：数字、数
-- [figure](/word/figure/)：数字、図、人物
+- [number](/number)：数字、数
+- [figure](/figure)：数字、図、人物
 
-<!-- cvid: aid11_bid30 -->
+<!-- cvid: aid43_bid02 -->

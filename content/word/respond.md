@@ -81,15 +81,19 @@ TOEICでは主にビジネスメールや会話文で「返答する」「対応
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスメールや会話文で「返答する」「対応
 ## 🤔  reply との違いは？
 
 - **respond**：ややフォーマルで、口頭・書面どちらにも使える「返答する」
-- **[reply](/word/reply/)**：カジュアル寄りで、特にメールや会話での「返事」によく使う
+- **[reply](/reply)**：カジュアル寄りで、特にメールや会話での「返事」によく使う
 
 respondはビジネスや公式な場面で幅広く使われ、replyは日常的なやりとりやメール返信などで使われる傾向があります。
 
@@ -105,14 +109,14 @@ respondはビジネスや公式な場面で幅広く使われ、replyは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [react](/word/react/)：反応する（感情や行動で示す）
-- [answer](/word/answer/)：答える（質問や問題に対して）
+- [react](/react)：反応する（感情や行動で示す）
+- [answer](/answer)：答える（質問や問題に対して）
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/word/request/)：依頼する、要請する
-- [confirm](/word/confirm/)：確認する
+- [request](/request)：依頼する、要請する
+- [confirm](/confirm)：確認する
 
-<!-- cvid: aid23_bid42 -->
+<!-- cvid: aid19_bid08 -->

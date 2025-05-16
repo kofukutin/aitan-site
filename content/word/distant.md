@@ -81,15 +81,19 @@ TOEICでは、場所や時間の「距離」を表す文脈で形容詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、場所や時間の「距離」を表す文脈で形容詞として
 ## 🤔  remote との違いは？
 
 - **distant**：物理的・時間的・心理的に「遠い」「離れている」ことを幅広く表す。
-- **[remote](/word/remote/)**：人里離れた、アクセスが難しいなど「隔絶された遠さ」を強調。
+- **[remote](/remote)**：人里離れた、アクセスが難しいなど「隔絶された遠さ」を強調。
 
 distantは単に距離や隔たりを表すのに対し、remoteは「人里離れた」「到達しにくい」など、より孤立したニュアンスがあります。
 
@@ -105,14 +109,14 @@ distantは単に距離や隔たりを表すのに対し、remoteは「人里離�
 
 ## 🧩 あわせて覚えたい
 
-- [near](/word/near/)：近い
-- [far](/word/far/)：遠い
+- [near](/near)：近い
+- [far](/far)：遠い
 
 ---
 
 ## 📖 できればこれも
 
-- [close](/word/close/)：近い、接近した
-- [apart](/word/apart/)：離れて、別々に
+- [close](/close)：近い、接近した
+- [apart](/apart)：離れて、別々に
 
-<!-- cvid: aid37_bid05 -->
+<!-- cvid: aid46_bid02 -->

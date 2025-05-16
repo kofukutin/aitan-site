@@ -81,15 +81,19 @@ TOEICでは、衣類や作業内容に関する会話や説明で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、衣類や作業内容に関する会話や説明で登場するこ
 ## 🤔  stitch との違いは？
 
 - **sew**：布や衣類を針と糸で縫い合わせる全体の動作を指す
-- **[stitch](/word/stitch/)**：1回の針の動きや縫い目そのものを指す
+- **[stitch](/stitch)**：1回の針の動きや縫い目そのものを指す
 
 sewは「縫う」という行為全体、stitchは「縫い目」や「ひと針」の意味で、使い分けます。
 
@@ -105,14 +109,14 @@ sewは「縫う」という行為全体、stitchは「縫い目」や「ひと�
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/word/repair/)：修理する
-- [fabric](/word/fabric/)：布、生地
+- [repair](/repair)：修理する
+- [fabric](/fabric)：布、生地
 
 ---
 
 ## 📖 できればこれも
 
-- [knit](/word/knit/)：編む
-- [fix](/word/fix/)：直す
+- [knit](/knit)：編む
+- [fix](/fix)：直す
 
-<!-- cvid: aid11_bid34 -->
+<!-- cvid: aid06_bid28 -->

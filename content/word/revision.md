@@ -81,15 +81,19 @@ revisionは、TOEICの文書修正や改訂に関する設問でよく見かけ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ revisionは、TOEICの文書修正や改訂に関する設問でよく見かけ�
 ## 🤔  review との違いは？
 
 - **revision**：修正や改訂、または（英）復習の意味で、内容を実際に直すニュアンスが強い
-- **[review](/word/review/)**：見直しや再検討の意味で、評価やチェックのニュアンスが強い
+- **[review](/review)**：見直しや再検討の意味で、評価やチェックのニュアンスが強い
 
 revisionは「内容を変える・直す」こと、reviewは「内容を評価・確認する」ことが主な違いです。
 
@@ -105,14 +109,14 @@ revisionは「内容を変える・直す」こと、reviewは「内容を評価
 
 ## 🧩 あわせて覚えたい
 
-- [amendment](/word/amendment/)：（文書などの）修正、改正
-- [correction](/word/correction/)：訂正、修正
+- [amendment](/amendment)：（文書などの）修正、改正
+- [correction](/correction)：訂正、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する、手を加える
-- [update](/word/update/)：最新の状態にする、更新する
+- [edit](/edit)：編集する、手を加える
+- [update](/update)：最新の状態にする、更新する
 
-<!-- cvid: aid49_bid21 -->
+<!-- cvid: aid06_bid42 -->

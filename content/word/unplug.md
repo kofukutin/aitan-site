@@ -81,15 +81,19 @@ TOEICでは、オフィスや家庭での機器の取り扱いに関する会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや家庭での機器の取り扱いに関する会話
 ## 🤔  disconnect との違いは？
 
 - **unplug**：物理的にプラグを抜く、電源を切る
-- **[disconnect](/word/disconnect/)**：接続を切る（物理・ネットワーク両方に使える）
+- **[disconnect](/disconnect)**：接続を切る（物理・ネットワーク両方に使える）
 
 unplugは主にコンセントや電源コードなど「物理的な接続」を外す場合に使い、disconnectはネットワークやシステムなど「広い意味での接続解除」にも使えます。
 
@@ -105,14 +109,14 @@ unplugは主にコンセントや電源コードなど「物理的な接続」�
 
 ## 🧩 あわせて覚えたい
 
-- [plug](/word/plug/)：プラグ、差し込む
-- [connect](/word/connect/)：つなぐ、接続する
+- [plug](/plug)：プラグ、差し込む
+- [connect](/connect)：つなぐ、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [restart](/word/restart/)：再起動する
+- [install](/install)：インストールする、設置する
+- [restart](/restart)：再起動する
 
-<!-- cvid: aid29_bid13 -->
+<!-- cvid: aid44_bid28 -->

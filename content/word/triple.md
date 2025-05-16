@@ -83,15 +83,19 @@ tripleは、数量や増減を表す文脈でPart 5の語彙・文法問題に�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ tripleは、数量や増減を表す文脈でPart 5の語彙・文法問題に�
 ## 🤔  treble との違いは？
 
 - **triple**：3倍、3重、3倍にする（主にアメリカ英語・日常やビジネスで一般的）
-- **[treble](/word/treble/)**：3倍、三重（主にイギリス英語・音楽や技術分野で使われやすい）
+- **[treble](/treble)**：3倍、三重（主にイギリス英語・音楽や技術分野で使われやすい）
 
 tripleはアメリカ英語で一般的に使われ、ビジネスや日常会話で幅広く登場します。trebleはイギリス英語で、特に音楽や専門的な文脈で使われることが多いです。
 
@@ -107,14 +111,14 @@ tripleはアメリカ英語で一般的に使われ、ビジネスや日常会�
 
 ## 🧩 あわせて覚えたい
 
-- [double](/word/double/)：2倍、2重
-- [quadruple](/word/quadruple/)：4倍、4重
+- [double](/double)：2倍、2重
+- [quadruple](/quadruple)：4倍、4重
 
 ---
 
 ## 📖 できればこれも
 
-- [multiple](/word/multiple/)：複数の
-- [single](/word/single/)：1つの、単一の
+- [multiple](/multiple)：複数の
+- [single](/single)：1つの、単一の
 
-<!-- cvid: aid16_bid41 -->
+<!-- cvid: aid37_bid48 -->

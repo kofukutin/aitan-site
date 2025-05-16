@@ -81,15 +81,19 @@ TOEICでは、メールや記事、案内文などの長文中で「女性たち
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid05" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid05" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや記事、案内文などの長文中で「女性たち
 ## 🤔  ladies との違いは？
 
 - **women**：年齢や立場を問わず「女性たち」を指す一般的な表現
-- **[ladies](/word/ladies/)**：丁寧・フォーマルな場面や呼びかけで使われる「ご婦人方」
+- **[ladies](/ladies)**：丁寧・フォーマルな場面や呼びかけで使われる「ご婦人方」
 
 womenは中立的な表現で、ladiesは礼儀正しい呼びかけや案内表示などで使われます。
 
@@ -105,14 +109,14 @@ womenは中立的な表現で、ladiesは礼儀正しい呼びかけや案内表
 
 ## 🧩 あわせて覚えたい
 
-- [girl](/word/girl/)：少女、女の子
-- [man](/word/man/)：男性
+- [girl](/girl)：少女、女の子
+- [man](/man)：男性
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child/)：子ども
-- [person](/word/person/)：人
+- [child](/child)：子ども
+- [person](/person)：人
 
-<!-- cvid: aid45_bid04 -->
+<!-- cvid: aid47_bid05 -->

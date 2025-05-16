@@ -81,15 +81,19 @@ TOEICでは主に技術や機械に関する文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に技術や機械に関する文脈で出題されることが多
 ## 🤔  revolving との違いは？
 
 - **rotary**：軸を中心に連続して回転する性質や構造を強調
-- **[revolving](/word/revolving/)**：回転運動そのものや、回転している状態を強調
+- **[revolving](/revolving)**：回転運動そのものや、回転している状態を強調
 
 rotaryは「回転式の装置」など構造や仕組みに使われ、revolvingは「回転している動作」や「回転ドア」など動きそのものに使われます。
 
@@ -105,14 +109,14 @@ rotaryは「回転式の装置」など構造や仕組みに使われ、revolvin
 
 ## 🧩 あわせて覚えたい
 
-- [circular](/word/circular/)：円形の、循環する
-- [linear](/word/linear/)：直線の
+- [circular](/circular)：円形の、循環する
+- [linear](/linear)：直線の
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/word/mechanical/)：機械の、機械的な
-- [axis](/word/axis/)：軸、中心線
+- [mechanical](/mechanical)：機械の、機械的な
+- [axis](/axis)：軸、中心線
 
-<!-- cvid: aid06_bid40 -->
+<!-- cvid: aid36_bid46 -->

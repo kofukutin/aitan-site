@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、海やビーチの風景を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、海やビーチの風景を説明す
 ## 🤔  ocean との違いは？
 
 - **sea**：比較的小さな「海」や沿岸の海域を指すことが多い
-- **[ocean](/word/ocean/)**：地球規模の大きな「大洋」を指す
+- **[ocean](/ocean)**：地球規模の大きな「大洋」を指す
 
 「sea」は身近な海や内海なども含みますが、「ocean」は太平洋や大西洋などの広大な大洋を指します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、海やビーチの風景を説明す
 
 ## 🧩 あわせて覚えたい
 
-- [lake](/word/lake/)：湖
-- [beach](/word/beach/)：浜辺
+- [lake](/lake)：湖
+- [beach](/beach)：浜辺
 
 ---
 
 ## 📖 できればこれも
 
-- [river](/word/river/)：川
-- [mountain](/word/mountain/)：山
+- [river](/river)：川
+- [mountain](/mountain)：山
 
-<!-- cvid: aid07_bid09 -->
+<!-- cvid: aid16_bid23 -->

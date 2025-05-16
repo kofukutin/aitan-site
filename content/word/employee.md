@@ -81,15 +81,19 @@ TOEICでは「employee」はPart 5の語彙問題や、会社の説明文で頻�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「employee」はPart 5の語彙問題や、会社の説明文で頻�
 ## 🤔  staff との違いは？
 
 - **employee**：会社や組織に雇われている個々の従業員を指す
-- **[staff](/word/staff/)**：従業員全体や職員集団をまとめて指す
+- **[staff](/staff)**：従業員全体や職員集団をまとめて指す
 
 「employee」は一人ひとりの従業員を指し、「staff」は組織の職員全体やチームをまとめて表します。
 
@@ -105,14 +109,14 @@ TOEICでは「employee」はPart 5の語彙問題や、会社の説明文で頻�
 
 ## 🧩 あわせて覚えたい
 
-- [employer](/word/employer/)：雇用主
-- [colleague](/word/colleague/)：同僚
+- [employer](/employer)：雇用主
+- [colleague](/colleague)：同僚
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [worker](/word/worker/)：労働者、作業員
+- [manager](/manager)：管理職、マネージャー
+- [worker](/worker)：労働者、作業員
 
-<!-- cvid: aid17_bid40 -->
+<!-- cvid: aid23_bid15 -->

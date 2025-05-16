@@ -81,15 +81,19 @@ TOEICでは、科学や技術、ビジネスの文脈で「applied science」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や技術、ビジネスの文脈で「applied science」「
 ## 🤔  practical との違いは？
 
 - **applied**：理論を現実の問題や実際の場面に応用した、という意味が強い
-- **[practical](/word/practical/)**：実際的・実用的であること、理論よりも現場や実践を重視する意味
+- **[practical](/practical)**：実際的・実用的であること、理論よりも現場や実践を重視する意味
 
 「applied」は理論を現実に応用したものに使い、「practical」は実際に役立つ・現実的というニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、科学や技術、ビジネスの文脈で「applied science」「
 
 ## 🧩 あわせて覚えたい
 
-- [theoretical](/word/theoretical/)：理論的な
-- [implement](/word/implement/)：実行する、実施する
+- [theoretical](/theoretical)：理論的な
+- [implement](/implement)：実行する、実施する
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical/)：実用的な、実際的な
-- [theory](/word/theory/)：理論
+- [practical](/practical)：実用的な、実際的な
+- [theory](/theory)：理論
 
-<!-- cvid: aid08_bid13 -->
+<!-- cvid: aid47_bid17 -->

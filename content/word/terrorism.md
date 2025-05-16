@@ -81,15 +81,19 @@ The company updated its policies to address the threat of terrorism.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company updated its policies to address the threat of terrorism.
 ## 🤔  violence との違いは？
 
 - **terrorism**：政治的・宗教的な目的で恐怖や暴力を使う行為
-- **[violence](/word/violence/)**：目的を問わず、物理的な暴力や攻撃
+- **[violence](/violence)**：目的を問わず、物理的な暴力や攻撃
 
 terrorismは特定の目的や背景がある暴力行為を指し、violenceはより広く一般的な暴力全般を表します。
 
@@ -105,14 +109,14 @@ terrorismは特定の目的や背景がある暴力行為を指し、violenceは
 
 ## 🧩 あわせて覚えたい
 
-- [crime](/word/crime/)：犯罪
-- [threat](/word/threat/)：脅威
+- [crime](/crime)：犯罪
+- [threat](/threat)：脅威
 
 ---
 
 ## 📖 できればこれも
 
-- [attack](/word/attack/)：攻撃
-- [security](/word/security/)：安全、警備
+- [attack](/attack)：攻撃
+- [security](/security)：安全、警備
 
-<!-- cvid: aid02_bid00 -->
+<!-- cvid: aid36_bid25 -->

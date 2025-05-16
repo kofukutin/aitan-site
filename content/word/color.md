@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【color】の意味・使い方・例文 ― hueとの違い【TOEIC英単語】"
 description: "colorの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhueとの違いもわかりやすく学べます。"
 word: "color"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物や服の色を説明する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid01" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid01" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物や服の色を説明する際に
 ## 🤔  hue との違いは？
 
 - **color**：一般的な「色」や「色彩」を幅広く指す
-- **[hue](/word/hue/)**：色合い、色調（専門的・美術的なニュアンス）
+- **[hue](/hue)**：色合い、色調（専門的・美術的なニュアンス）
 
 colorは日常的な「色」全般を指し、hueは特に色の細かな違いや色合いを表現したいときに使います。
 
@@ -105,14 +109,14 @@ colorは日常的な「色」全般を指し、hueは特に色の細かな違い
 
 ## 🧩 あわせて覚えたい
 
-- [shade](/word/shade/)：色合い、濃淡
-- [dye](/word/dye/)：染料、染める
+- [shade](/shade)：色合い、濃淡
+- [dye](/dye)：染料、染める
 
 ---
 
 ## 📖 できればこれも
 
-- [paint](/word/paint/)：ペンキ、絵の具、塗る
-- [pattern](/word/pattern/)：模様、パターン
+- [paint](/paint)：ペンキ、絵の具、塗る
+- [pattern](/pattern)：模様、パターン
 
-<!-- cvid: aid13_bid45 -->
+<!-- cvid: aid27_bid01 -->

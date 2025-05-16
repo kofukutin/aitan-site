@@ -77,15 +77,19 @@ TOEICではPart 2の応答問題やPart 3, 4の会話文で頻出します。基
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart 2の応答問題やPart 3, 4の会話文で頻出します。基
 ## 🤔  which との違いは？
 
 - **what**：選択肢が特に限定されていない「何？」を尋ねる時に使う
-- **[which](/word/which/)**：限られた選択肢の中から「どれ？」と尋ねる時に使う
+- **[which](/which)**：限られた選択肢の中から「どれ？」と尋ねる時に使う
 
 whatは漠然と「何？」と聞く時、whichは「この中でどれ？」と選択肢がある時に使い分けます。
 
@@ -101,14 +105,14 @@ whatは漠然と「何？」と聞く時、whichは「この中でどれ？」�
 
 ## 🧩 あわせて覚えたい
 
-- [who](/word/who/)：誰
-- [that](/word/that/)：それ、あれ／関係代名詞「～する（人・物）」
+- [who](/who)：誰
+- [that](/that)：それ、あれ／関係代名詞「～する（人・物）」
 
 ---
 
 ## 📖 できればこれも
 
-- [where](/word/where/)：どこ
-- [when](/word/when/)：いつ
+- [where](/where)：どこ
+- [when](/when)：いつ
 
-<!-- cvid: aid19_bid08 -->
+<!-- cvid: aid13_bid40 -->

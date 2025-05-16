@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で「出来事」や「何かが起こった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で「出来事」や「何かが起こった
 ## 🤔  event との違いは？
 
 - **happening**：予期せず起こる出来事やちょっとした事件をカジュアルに表現
-- **[event](/word/event/)**：公式・重要な出来事や行事を指すフォーマルな語
+- **[event](/event)**：公式・重要な出来事や行事を指すフォーマルな語
 
 happeningは日常的で予想外の出来事に使い、eventは計画的・公式な場面や大きな出来事に使われます。
 
@@ -105,14 +109,14 @@ happeningは日常的で予想外の出来事に使い、eventは計画的・公
 
 ## 🧩 あわせて覚えたい
 
-- [incident](/word/incident/)：（やや重大な）出来事、事件
-- [occasion](/word/occasion/)：特別な機会、行事
+- [incident](/incident)：（やや重大な）出来事、事件
+- [occasion](/occasion)：特別な機会、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [situation](/word/situation/)：状況、立場
-- [activity](/word/activity/)：活動、行動
+- [situation](/situation)：状況、立場
+- [activity](/activity)：活動、行動
 
-<!-- cvid: aid16_bid42 -->
+<!-- cvid: aid19_bid13 -->

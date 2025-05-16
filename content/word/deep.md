@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「深い意味」「深い関係」など、物
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「深い意味」「深い関係」など、物
 ## 🤔  profound との違いは？
 
 - **deep**：物理的な深さや、感情・議論などの「深さ」を幅広く表す。
-- **[profound](/word/profound/)**：特に知識・感情・影響などが「非常に深い」「本質的で強い」ことを強調。
+- **[profound](/profound)**：特に知識・感情・影響などが「非常に深い」「本質的で強い」ことを強調。
 
 deepは日常的な「深い」全般に使えますが、profoundは「非常に奥深い」「本質的」な場合に限定されます。
 
@@ -105,14 +109,14 @@ deepは日常的な「深い」全般に使えますが、profoundは「非常�
 
 ## 🧩 あわせて覚えたい
 
-- [shallow](/word/shallow/)：浅い
-- [thick](/word/thick/)：厚い
+- [shallow](/shallow)：浅い
+- [thick](/thick)：厚い
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/word/wide/)：広い
-- [broad](/word/broad/)：幅広い
+- [wide](/wide)：広い
+- [broad](/broad)：幅広い
 
-<!-- cvid: aid36_bid49 -->
+<!-- cvid: aid49_bid23 -->

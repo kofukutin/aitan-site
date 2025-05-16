@@ -81,7 +81,7 @@ TOEICでは健康やライフスタイル、自己管理に関する長文や記
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは健康やライフスタイル、自己管理に関する長文や記
 
 <div class="info-center">
 ＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康やライフスタイル、自己管理に関する長文や記
 ## 🤔  reflection との違いは？
 
 - **meditation**：心を静めて意識的に集中する「瞑想」や「精神統一」を指す
-- **[reflection](/word/reflection/)**：過去の出来事や自分の考えを「振り返る」「内省する」こと
+- **[reflection](/reflection)**：過去の出来事や自分の考えを「振り返る」「内省する」こと
 
 meditationは精神を落ち着ける行為そのもの、reflectionは出来事や自分自身を振り返る思考に重点があります。
 
@@ -105,14 +109,14 @@ meditationは精神を落ち着ける行為そのもの、reflectionは出来事
 
 ## 🧩 あわせて覚えたい
 
-- [contemplation](/word/contemplation/)：熟考、深い思索
-- [relaxation](/word/relaxation/)：リラックス、くつろぎ
+- [contemplation](/contemplation)：熟考、深い思索
+- [relaxation](/relaxation)：リラックス、くつろぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [focus](/word/focus/)：集中、焦点
-- [concentration](/word/concentration/)：集中力、専念
+- [focus](/focus)：集中、焦点
+- [concentration](/concentration)：集中力、専念
 
-<!-- cvid: aid08_bid21 -->
+<!-- cvid: aid26_bid21 -->

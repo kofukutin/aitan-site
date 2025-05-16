@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「ヒントを与える」「ほのめかす」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「ヒントを与える」「ほのめかす」
 ## 🤔  clue との違いは？
 
 - **hint**：やんわりとしたヒントやほのめかし、直接的でない手がかり
-- **[clue](/word/clue/)**：決定的な手がかりや証拠、問題解決の糸口
+- **[clue](/clue)**：決定的な手がかりや証拠、問題解決の糸口
 
 hintは「ちょっとした助け」や「遠回しな示唆」、clueは「謎を解くための重要な情報」として使い分けます。
 
@@ -105,14 +109,14 @@ hintは「ちょっとした助け」や「遠回しな示唆」、clueは「謎
 
 ## 🧩 あわせて覚えたい
 
-- [suggestion](/word/suggestion/)：提案、示唆
-- [tip](/word/tip/)：コツ、アドバイス
+- [suggestion](/suggestion)：提案、示唆
+- [tip](/tip)：コツ、アドバイス
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice/)：助言
-- [sign](/word/sign/)：兆し、しるし
+- [advice](/advice)：助言
+- [sign](/sign)：兆し、しるし
 
-<!-- cvid: aid16_bid35 -->
+<!-- cvid: aid13_bid41 -->

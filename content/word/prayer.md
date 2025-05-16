@@ -81,15 +81,19 @@ The meeting began with a short prayer.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The meeting began with a short prayer.
 ## 🤔  wish との違いは？
 
 - **prayer**：神や高次の存在に願いや感謝を伝える「祈り」
-- **[wish](/word/wish/)**：個人的な願望や希望
+- **[wish](/wish)**：個人的な願望や希望
 
 prayerは宗教的・儀式的な「祈り」に使われ、wishは日常的な「願いごと」や「希望」に使われます。
 
@@ -105,14 +109,14 @@ prayerは宗教的・儀式的な「祈り」に使われ、wishは日常的な�
 
 ## 🧩 あわせて覚えたい
 
-- [blessing](/word/blessing/)：祝福、恩恵
-- [meditation](/word/meditation/)：瞑想
+- [blessing](/blessing)：祝福、恩恵
+- [meditation](/meditation)：瞑想
 
 ---
 
 ## 📖 できればこれも
 
-- [faith](/word/faith/)：信仰、信頼
-- [belief](/word/belief/)：信念、信じること
+- [faith](/faith)：信仰、信頼
+- [belief](/belief)：信念、信じること
 
-<!-- cvid: aid23_bid04 -->
+<!-- cvid: aid46_bid35 -->

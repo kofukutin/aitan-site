@@ -81,15 +81,19 @@ burnは、日常会話やオフィスでの注意事項、設備の説明など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ burnは、日常会話やオフィスでの注意事項、設備の説明など�
 ## 🤔  fire との違いは？
 
 - **burn**：火や熱で「燃やす」「焼ける」「やけどする」などの動作を表す
-- **[fire](/word/fire/)**：「火」そのものや「火事」「発砲」「解雇」など名詞・動詞で幅広い意味
+- **[fire](/fire)**：「火」そのものや「火事」「発砲」「解雇」など名詞・動詞で幅広い意味
 
 burnは「燃える・焼く」という動作、fireは「火」という物や現象を指す点が大きな違いです。
 
@@ -105,14 +109,14 @@ burnは「燃える・焼く」という動作、fireは「火」という物や
 
 ## 🧩 あわせて覚えたい
 
-- [ignite](/word/ignite/)：点火する、火をつける
-- [extinguish](/word/extinguish/)：消火する、消す
+- [ignite](/ignite)：点火する、火をつける
+- [extinguish](/extinguish)：消火する、消す
 
 ---
 
 ## 📖 できればこれも
 
-- [heat](/word/heat/)：熱、熱する
-- [melt](/word/melt/)：溶ける、溶かす
+- [heat](/heat)：熱、熱する
+- [melt](/melt)：溶ける、溶かす
 
-<!-- cvid: aid15_bid39 -->
+<!-- cvid: aid23_bid34 -->

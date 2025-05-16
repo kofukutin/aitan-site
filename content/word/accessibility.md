@@ -81,15 +81,19 @@ TOEICではウェブサイトや施設の説明文、案内文などで「access
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではウェブサイトや施設の説明文、案内文などで「access
 ## 🤔  availability との違いは？
 
 - **accessibility**：誰でも利用できる状態や、障害の有無に関係なく使いやすいことを強調
-- **[availability](/word/availability/)**：利用可能な状態、手に入る・空いていることを強調
+- **[availability](/availability)**：利用可能な状態、手に入る・空いていることを強調
 
 「accessibility」は「使いやすさ」や「到達しやすさ」に重点があり、「availability」は「利用できるかどうか（空き状況）」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICではウェブサイトや施設の説明文、案内文などで「access
 
 ## 🧩 あわせて覚えたい
 
-- [convenience](/word/convenience/)：便利さ、都合の良さ
-- [restriction](/word/restriction/)：制限、制約
+- [convenience](/convenience)：便利さ、都合の良さ
+- [restriction](/restriction)：制限、制約
 
 ---
 
 ## 📖 できればこれも
 
-- [accessible](/word/accessible/)：利用しやすい、アクセスできる
-- [approach](/word/approach/)：接近する、取り組む方法
+- [accessible](/accessible)：利用しやすい、アクセスできる
+- [approach](/approach)：接近する、取り組む方法
 
-<!-- cvid: aid06_bid39 -->
+<!-- cvid: aid28_bid20 -->

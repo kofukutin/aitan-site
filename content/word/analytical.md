@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書や求人広告、人物評価など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid48" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid48" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書や求人広告、人物評価など
 ## 🤔  logical との違いは？
 
 - **analytical**：物事を細かく分解して考える、分析的な
-- **[logical](/word/logical/)**：論理的な筋道を立てて考える
+- **[logical](/logical)**：論理的な筋道を立てて考える
 
 analyticalは「細かく分けて考える力」、logicalは「筋道を立てて考える力」に重点があります。
 
@@ -105,14 +109,14 @@ analyticalは「細かく分けて考える力」、logicalは「筋道を立て
 
 ## 🧩 あわせて覚えたい
 
-- [critical](/word/critical/)：批判的な、重要な
-- [systematic](/word/systematic/)：体系的な、組織的な
+- [critical](/critical)：批判的な、重要な
+- [systematic](/systematic)：体系的な、組織的な
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/word/objective/)：客観的な
-- [precise](/word/precise/)：正確な
+- [objective](/objective)：客観的な
+- [precise](/precise)：正確な
 
-<!-- cvid: aid40_bid17 -->
+<!-- cvid: aid49_bid48 -->

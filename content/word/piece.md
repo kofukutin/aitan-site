@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【piece】の意味・使い方・例文 ― partとの違い【TOEIC英単語】"
 description: "pieceの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpartとの違いもわかりやすく学べます。"
 word: "piece"
@@ -81,15 +81,19 @@ TOEICでは「a piece of information」や「a piece of advice」など、可算
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「a piece of information」や「a piece of advice」など、可算
 ## 🤔  part との違いは？
 
 - **piece**：全体から切り離された「ひとつの部分」や「断片」「作品」など、物理的・抽象的な「一片」を強調
-- **[part](/word/part/)**：全体を構成する「部分」「役割」など、構造的・機能的な「一部」を強調
+- **[part](/part)**：全体を構成する「部分」「役割」など、構造的・機能的な「一部」を強調
 
 pieceは「切り離された一つ分」や「作品」といった具体的な単位感があり、partは「全体の構成要素」としての役割や位置を意識します。
 
@@ -105,14 +109,14 @@ pieceは「切り離された一つ分」や「作品」といった具体的な
 
 ## 🧩 あわせて覚えたい
 
-- [fragment](/word/fragment/)：断片、破片
-- [item](/word/item/)：品目、項目
+- [fragment](/fragment)：断片、破片
+- [item](/item)：品目、項目
 
 ---
 
 ## 📖 できればこれも
 
-- [sheet](/word/sheet/)：（紙などの）1枚
-- [portion](/word/portion/)：（食べ物などの）1人前、分け前
+- [sheet](/sheet)：（紙などの）1枚
+- [portion](/portion)：（食べ物などの）1人前、分け前
 
-<!-- cvid: aid24_bid45 -->
+<!-- cvid: aid15_bid29 -->

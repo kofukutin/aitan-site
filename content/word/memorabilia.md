@@ -81,15 +81,19 @@ memorabiliaはTOEICのPart 7で、展示会やイベント、コレクション�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid27_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ memorabiliaはTOEICのPart 7で、展示会やイベント、コレクション�
 ## 🤔  souvenir との違いは？
 
 - **memorabilia**：特定の人物・出来事・時代などに関連した記念品や思い出の品々（集合的・フォーマル）
-- **[souvenir](/word/souvenir/)**：旅行やイベントなどの記念に個人的に買う「おみやげ」
+- **[souvenir](/souvenir)**：旅行やイベントなどの記念に個人的に買う「おみやげ」
 
 memorabiliaはコレクションや展示などで使われるフォーマルな語で、複数の品をまとめて指します。souvenirは個人の思い出や旅行のおみやげなど、よりカジュアルで個別の品を指します。
 
@@ -105,14 +109,14 @@ memorabiliaはコレクションや展示などで使われるフォーマルな
 
 ## 🧩 あわせて覚えたい
 
-- [keepsake](/word/keepsake/)：形見、思い出の品
-- [collection](/word/collection/)：収集品、コレクション
+- [keepsake](/keepsake)：形見、思い出の品
+- [collection](/collection)：収集品、コレクション
 
 ---
 
 ## 📖 できればこれも
 
-- [archive](/word/archive/)：記録保管所、アーカイブ
-- [catalog](/word/catalog/)：カタログ、目録
+- [archive](/archive)：記録保管所、アーカイブ
+- [catalog](/catalog)：カタログ、目録
 
-<!-- cvid: aid24_bid17 -->
+<!-- cvid: aid27_bid16 -->

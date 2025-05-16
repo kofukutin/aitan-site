@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【eight】の意味・使い方・例文 ― eighthとの違い【TOEIC英単語】"
 description: "eightの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでeighthとの違いもわかりやすく学べます。"
 word: "eight"
@@ -88,8 +88,12 @@ TOEICでは主にPart 1やリスニングで、数や時刻を表す場面でよ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid19" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid19" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1やリスニングで、数や時刻を表す場面でよ
 ## 🤔  eighth との違いは？
 
 - **eight**：8、8個、8人など「数そのもの」を表す
-- **[eighth](/word/eighth/)**：8番目、「順序」を表す
+- **[eighth](/eighth)**：8番目、「順序」を表す
 
 「eight」は数量、「eighth」は順序を表すので、使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1やリスニングで、数や時刻を表す場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [seven](/word/seven/)：7、7個
-- [nine](/word/nine/)：9、9個
+- [seven](/seven)：7、7個
+- [nine](/nine)：9、9個
 
 ---
 
 ## 📖 できればこれも
 
-- [ten](/word/ten/)：10、10個
-- [twelve](/word/twelve/)：12、12個
+- [ten](/ten)：10、10個
+- [twelve](/twelve)：12、12個
 
-<!-- cvid: aid29_bid48 -->
+<!-- cvid: aid29_bid19 -->

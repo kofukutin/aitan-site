@@ -88,8 +88,12 @@ TOEICでは「possible」と対比して出題されることが多く、否定�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「possible」と対比して出題されることが多く、否定�
 ## 🤔  difficult との違いは？
 
 - **impossible**：絶対にできない、不可能な
-- **[difficult](/word/difficult/)**：難しいが、可能である
+- **[difficult](/difficult)**：難しいが、可能である
 
 impossibleは「絶対に無理」と断言する時に使い、difficultは「難しいがやればできる」場合に使います。
 
@@ -105,14 +109,14 @@ impossibleは「絶対に無理」と断言する時に使い、difficultは「�
 
 ## 🧩 あわせて覚えたい
 
-- [possible](/word/possible/)：可能な
-- [unlikely](/word/unlikely/)：起こりそうにない
+- [possible](/possible)：可能な
+- [unlikely](/unlikely)：起こりそうにない
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/word/necessary/)：必要な
-- [essential](/word/essential/)：不可欠な
+- [necessary](/necessary)：必要な
+- [essential](/essential)：不可欠な
 
-<!-- cvid: aid04_bid42 -->
+<!-- cvid: aid04_bid26 -->

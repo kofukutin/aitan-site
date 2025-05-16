@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、頻度を表す表現の選択肢とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、頻度を表す表現の選択肢とし
 ## 🤔  sometimes との違いは？
 
 - **occasional**：形容詞で「時々の」「たまの」という意味。名詞の前で使う。
-- **[sometimes](/word/sometimes/)**：副詞で「時々」「ときおり」という意味。動詞や文全体を修飾する。
+- **[sometimes](/sometimes)**：副詞で「時々」「ときおり」という意味。動詞や文全体を修飾する。
 
 **occasional**は名詞を修飾し、「時々の会議」など物や人に使います。**sometimes**は動詞や文全体を修飾し、「時々行う」など動作に使います。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞の語彙問題や、頻度を表す表現の選択肢とし
 
 ## 🧩 あわせて覚えたい
 
-- [frequent](/word/frequent/)：頻繁な
-- [rare](/word/rare/)：まれな
+- [frequent](/frequent)：頻繁な
+- [rare](/rare)：まれな
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently/)：頻繁に
-- [periodic](/word/periodic/)：定期的な
+- [frequently](/frequently)：頻繁に
+- [periodic](/periodic)：定期的な
 
-<!-- cvid: aid44_bid26 -->
+<!-- cvid: aid22_bid41 -->

@@ -81,15 +81,19 @@ TOEICではビジネスレポートや分析記事などで「洞察」「見識
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスレポートや分析記事などで「洞察」「見識
 ## 🤔  intuition との違いは？
 
 - **insight**：物事の本質や原因を論理的・分析的に深く理解すること
-- **[intuition](/word/intuition/)**：直感やひらめき、理屈抜きで感じ取る力
+- **[intuition](/intuition)**：直感やひらめき、理屈抜きで感じ取る力
 
 insightは分析や経験に基づく深い理解、intuitionは説明できない感覚的な理解という違いがあります。
 
@@ -105,14 +109,14 @@ insightは分析や経験に基づく深い理解、intuitionは説明できな�
 
 ## 🧩 あわせて覚えたい
 
-- [perception](/word/perception/)：知覚、認識
-- [analysis](/word/analysis/)：分析
+- [perception](/perception)：知覚、認識
+- [analysis](/analysis)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [concept](/word/concept/)：概念、考え
-- [perspective](/word/perspective/)：視点、観点
+- [concept](/concept)：概念、考え
+- [perspective](/perspective)：視点、観点
 
-<!-- cvid: aid20_bid33 -->
+<!-- cvid: aid26_bid13 -->

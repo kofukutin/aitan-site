@@ -81,15 +81,19 @@ TOEICでは主にオフィスやコールセンターの写真描写問題で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にオフィスやコールセンターの写真描写問題で登
 ## 🤔  headphone との違いは？
 
 - **headset**：マイク付きのヘッドホン。通話や会議、ゲームなどで使う。
-- **[headphone](/word/headphone/)**：音楽鑑賞などに使う、マイクのないヘッドホン。
+- **[headphone](/headphone)**：音楽鑑賞などに使う、マイクのないヘッドホン。
 
 headsetはマイクが付いている点が特徴で、headphoneは音を聞く機能のみです。
 
@@ -105,14 +109,14 @@ headsetはマイクが付いている点が特徴で、headphoneは音を聞く�
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/word/microphone/)：マイク、音声を拾う装置
-- [earphone](/word/earphone/)：耳に入れるタイプの小型ヘッドホン
+- [microphone](/microphone)：マイク、音声を拾う装置
+- [earphone](/earphone)：耳に入れるタイプの小型ヘッドホン
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor/)：モニター、画面
-- [keyboard](/word/keyboard/)：キーボード、入力装置
+- [monitor](/monitor)：モニター、画面
+- [keyboard](/keyboard)：キーボード、入力装置
 
-<!-- cvid: aid18_bid10 -->
+<!-- cvid: aid49_bid19 -->

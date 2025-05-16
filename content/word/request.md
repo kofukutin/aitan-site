@@ -81,15 +81,19 @@ TOEICでは会議やメール、電話での「依頼内容」や「リクエス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やメール、電話での「依頼内容」や「リクエス
 ## 🤔  require との違いは？
 
 - **request**：丁寧に「依頼」や「お願い」をすること
-- **[require](/word/require/)**：必要条件として「要求」すること
+- **[require](/require)**：必要条件として「要求」すること
 
 requestは相手の意思を尊重しつつ頼むニュアンス、requireは義務や必須条件として強く求めるニュアンスです。
 
@@ -105,14 +109,14 @@ requestは相手の意思を尊重しつつ頼むニュアンス、requireは義
 
 ## 🧩 あわせて覚えたい
 
-- [demand](/word/demand/)：強く要求すること
-- [suggestion](/word/suggestion/)：提案、提言
+- [demand](/demand)：強く要求すること
+- [suggestion](/suggestion)：提案、提言
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer/)：申し出、提案
-- [proposal](/word/proposal/)：提案書、計画案
+- [offer](/offer)：申し出、提案
+- [proposal](/proposal)：提案書、計画案
 
-<!-- cvid: aid19_bid45 -->
+<!-- cvid: aid36_bid43 -->

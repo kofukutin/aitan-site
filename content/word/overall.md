@@ -81,15 +81,19 @@ TOEICでは、レポートやメール、記事などで「全体的に」「総
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レポートやメール、記事などで「全体的に」「総
 ## 🤔  total との違いは？
 
 - **overall**：全体を見ての総合的な、全般的な
-- **[total](/word/total/)**：合計の、総数の
+- **[total](/total)**：合計の、総数の
 
 overallは「全体を通しての印象や評価」に使い、totalは「数値や量の合計」に使います。
 
@@ -105,14 +109,14 @@ overallは「全体を通しての印象や評価」に使い、totalは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general/)：一般的な、全体的な
-- [summary](/word/summary/)：要約、まとめ
+- [general](/general)：一般的な、全体的な
+- [summary](/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [entire](/word/entire/)：全体の、全部の
-- [comprehensive](/word/comprehensive/)：包括的な、広範囲の
+- [entire](/entire)：全体の、全部の
+- [comprehensive](/comprehensive)：包括的な、広範囲の
 
-<!-- cvid: aid33_bid42 -->
+<!-- cvid: aid25_bid07 -->

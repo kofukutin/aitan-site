@@ -85,15 +85,19 @@ TOEICでは主にPart 1の写真描写で「車のトランク」や「木の幹
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -101,7 +105,7 @@ TOEICでは主にPart 1の写真描写で「車のトランク」や「木の幹
 ## 🤔  chest との違いは？
 
 - **trunk**：木の幹、車の荷物入れ、大きなかばん、象の鼻など「本体」や「中心部分」を指す。
-- **[chest](/word/chest/)**：主に「胸」「収納箱」「金庫」など、体の部位や物を入れる箱を指す。
+- **[chest](/chest)**：主に「胸」「収納箱」「金庫」など、体の部位や物を入れる箱を指す。
 
 trunkは「本体」や「中心となる部分」に使われ、chestは「胸」や「物を入れる箱」に使われる点が異なります。
 
@@ -109,14 +113,14 @@ trunkは「本体」や「中心となる部分」に使われ、chestは「胸�
 
 ## 🧩 あわせて覚えたい
 
-- [suitcase](/word/suitcase/)：スーツケース、旅行かばん
-- [branch](/word/branch/)：枝、支店
+- [suitcase](/suitcase)：スーツケース、旅行かばん
+- [branch](/branch)：枝、支店
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/word/branch/)：枝、支店
-- [case](/word/case/)：ケース、箱、場合
+- [branch](/branch)：枝、支店
+- [case](/case)：ケース、箱、場合
 
-<!-- cvid: aid37_bid48 -->
+<!-- cvid: aid35_bid09 -->

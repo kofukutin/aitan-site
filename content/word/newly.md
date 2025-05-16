@@ -81,15 +81,19 @@ TOEICでは「newly hired（新しく雇われた）」や「newly opened（新�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「newly hired（新しく雇われた）」や「newly opened（新�
 ## 🤔  recently との違いは？
 
 - **newly**：新しく何かが始まった・作られたことを強調
-- **[recently](/word/recently/)**：最近（過去のある時点から現在まで）の出来事全般
+- **[recently](/recently)**：最近（過去のある時点から現在まで）の出来事全般
 
 newlyは「新たに～した」という変化や状態を強調し、recentlyは「最近」という時期を幅広く指します。
 
@@ -105,14 +109,14 @@ newlyは「新たに～した」という変化や状態を強調し、recently�
 
 ## 🧩 あわせて覚えたい
 
-- [fresh](/word/fresh/)：新鮮な、新しい
-- [modern](/word/modern/)：現代的な、最新の
+- [fresh](/fresh)：新鮮な、新しい
+- [modern](/modern)：現代的な、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/word/currently/)：現在、今
-- [finally](/word/finally/)：ついに、やっと
+- [currently](/currently)：現在、今
+- [finally](/finally)：ついに、やっと
 
-<!-- cvid: aid17_bid38 -->
+<!-- cvid: aid20_bid42 -->

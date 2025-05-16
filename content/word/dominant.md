@@ -81,15 +81,19 @@ TOEICでは、ビジネスや経済の文脈で「dominant market」「dominant 
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid27_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや経済の文脈で「dominant market」「dominant 
 ## 🤔  major との違いは？
 
 - **dominant**：他を圧倒して支配的・優勢であることを強調
-- **[major](/word/major/)**：主な、重要な、規模が大きいことを表す
+- **[major](/major)**：主な、重要な、規模が大きいことを表す
 
 「dominant」は「他を圧倒している」ニュアンスが強く、「major」は「主な・大きな」程度の意味で、必ずしも他を支配しているとは限りません。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスや経済の文脈で「dominant market」「dominant 
 
 ## 🧩 あわせて覚えたい
 
-- [superior](/word/superior/)：より優れている、上位の
-- [subordinate](/word/subordinate/)：従属している、下位の
+- [superior](/superior)：より優れている、上位の
+- [subordinate](/subordinate)：従属している、下位の
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、意味のある
-- [primary](/word/primary/)：第一の、主要な
+- [significant](/significant)：重要な、意味のある
+- [primary](/primary)：第一の、主要な
 
-<!-- cvid: aid03_bid19 -->
+<!-- cvid: aid27_bid14 -->

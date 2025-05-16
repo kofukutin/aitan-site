@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス文書の説明文で「printable format」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス文書の説明文で「printable format」や「
 ## 🤔  printed との違いは？
 
 - **printable**：印刷できる状態や形式を表す
-- **[printed](/word/printed/)**：すでに印刷されたものを表す
+- **[printed](/printed)**：すでに印刷されたものを表す
 
 「printable」は「これから印刷できる」「印刷に適している」こと、「printed」は「すでに印刷された」ことを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネス文書の説明文で「printable format」や「
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital/)：デジタルの、電子的な
-- [scannable](/word/scannable/)：スキャンできる
+- [digital](/digital)：デジタルの、電子的な
+- [scannable](/scannable)：スキャンできる
 
 ---
 
 ## 📖 できればこれも
 
-- [editable](/word/editable/)：編集できる
-- [downloadable](/word/downloadable/)：ダウンロードできる
+- [editable](/editable)：編集できる
+- [downloadable](/downloadable)：ダウンロードできる
 
-<!-- cvid: aid15_bid06 -->
+<!-- cvid: aid01_bid35 -->

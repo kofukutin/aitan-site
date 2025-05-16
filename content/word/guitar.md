@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【guitar】の意味・使い方・例文 ― instrumentとの違い【TOEIC英単語】"
 description: "guitarの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでinstrumentとの違いもわかりやすく学べます。"
 word: "guitar"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、楽器を演奏している場面な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、楽器を演奏している場面な
 ## 🤔  instrument との違いは？
 
 - **guitar**：特定の楽器「ギター」を指す。
-- **[instrument](/word/instrument/)**：楽器全般を指す一般的な言葉。
+- **[instrument](/instrument)**：楽器全般を指す一般的な言葉。
 
 guitarは具体的な楽器名、instrumentはピアノやバイオリンなども含む広い意味で使われます。
 
@@ -105,14 +109,14 @@ guitarは具体的な楽器名、instrumentはピアノやバイオリンなど�
 
 ## 🧩 あわせて覚えたい
 
-- [piano](/word/piano/)：ピアノ
-- [violin](/word/violin/)：バイオリン
+- [piano](/piano)：ピアノ
+- [violin](/violin)：バイオリン
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music/)：音楽
-- [song](/word/song/)：歌
+- [music](/music)：音楽
+- [song](/song)：歌
 
-<!-- cvid: aid03_bid00 -->
+<!-- cvid: aid32_bid16 -->

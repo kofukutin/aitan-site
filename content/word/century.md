@@ -81,15 +81,19 @@ TOEICでは歴史や期間を説明する長文や記事でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や期間を説明する長文や記事でよく登場します
 ## 🤔  decade との違いは？
 
 - **century**：100年間（世紀）を表す
-- **[decade](/word/decade/)**：10年間（十年）を表す
+- **[decade](/decade)**：10年間（十年）を表す
 
 centuryは100年、decadeは10年という期間の長さの違いがあります。歴史や年表で使い分けます。
 
@@ -105,13 +109,13 @@ centuryは100年、decadeは10年という期間の長さの違いがありま�
 
 ## 🧩 あわせて覚えたい
 
-- [millennium](/word/millennium/)：1000年間、千年紀
-- [era](/word/era/)：時代、時期
+- [millennium](/millennium)：1000年間、千年紀
+- [era](/era)：時代、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [history](/word/history/)：歴史
-- [period](/word/period/)：期間、時代
-<!-- cvid: aid16_bid45 -->
+- [history](/history)：歴史
+- [period](/period)：期間、時代
+<!-- cvid: aid19_bid31 -->

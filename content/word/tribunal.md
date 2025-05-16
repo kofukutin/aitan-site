@@ -81,15 +81,19 @@ TOEICでは、契約や労働問題、国際的な紛争解決などの文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid31" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid31" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や労働問題、国際的な紛争解決などの文脈で
 ## 🤔  court との違いは？
 
 - **tribunal**：特定の分野や目的のために設けられた審判機関・裁判所
-- **[court](/word/court/)**：一般的な裁判所、司法機関全般
+- **[court](/court)**：一般的な裁判所、司法機関全般
 
 tribunalは専門的・限定的な審判機関を指し、courtはより広く一般的な司法機関を指します。
 
@@ -105,14 +109,14 @@ tribunalは専門的・限定的な審判機関を指し、courtはより広く�
 
 ## 🧩 あわせて覚えたい
 
-- [arbitration](/word/arbitration/)：仲裁、第三者による紛争解決
-- [panel](/word/panel/)：審査員団、委員会
+- [arbitration](/arbitration)：仲裁、第三者による紛争解決
+- [panel](/panel)：審査員団、委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/word/verdict/)：評決、判決
-- [hearing](/word/hearing/)：審問、公聴会
+- [verdict](/verdict)：評決、判決
+- [hearing](/hearing)：審問、公聴会
 
-<!-- cvid: aid18_bid05 -->
+<!-- cvid: aid30_bid31 -->

@@ -81,15 +81,19 @@ prestigiousはTOEICの長文読解（Part 7）で、企業や大学、賞など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid44_bid03" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid03" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ prestigiousはTOEICの長文読解（Part 7）で、企業や大学、賞など�
 ## 🤔  renowned との違いは？
 
 - **prestigious**：社会的に高い評価や権威があることを強調
-- **[renowned](/word/renowned/)**：広く知られている、評判が高いことを強調
+- **[renowned](/renowned)**：広く知られている、評判が高いことを強調
 
 prestigiousは「格式や権威」を、renownedは「有名さや評判」を主に表します。prestigiousの方がフォーマルで、組織や賞などに使われやすいです。
 
@@ -105,14 +109,14 @@ prestigiousは「格式や権威」を、renownedは「有名さや評判」を�
 
 ## 🧩 あわせて覚えたい
 
-- [distinguished](/word/distinguished/)：傑出した、著名な
-- [notable](/word/notable/)：注目に値する、著名な
+- [distinguished](/distinguished)：傑出した、著名な
+- [notable](/notable)：注目に値する、著名な
 
 ---
 
 ## 📖 できればこれも
 
-- [reputable](/word/reputable/)：評判の良い
-- [influential](/word/influential/)：影響力のある
+- [reputable](/reputable)：評判の良い
+- [influential](/influential)：影響力のある
 
-<!-- cvid: aid39_bid31 -->
+<!-- cvid: aid44_bid03 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文書や経済記事で「黒字」「余剰」の意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や経済記事で「黒字」「余剰」の意味
 ## 🤔  excess との違いは？
 
 - **surplus**：主にビジネスや経済で「余剰」「黒字」など、計画や基準を超えた余りを指すフォーマルな語。
-- **[excess](/word/excess/)**：一般的に「過剰」「余分」を表し、ネガティブなニュアンスや日常的な使い方が多い。
+- **[excess](/excess)**：一般的に「過剰」「余分」を表し、ネガティブなニュアンスや日常的な使い方が多い。
 
 surplusは計画や基準に対しての「余り」に使われ、excessは「行き過ぎ」や「過度」の意味で使われることが多いです。
 
@@ -105,14 +109,14 @@ surplusは計画や基準に対しての「余り」に使われ、excessは「�
 
 ## 🧩 あわせて覚えたい
 
-- [deficit](/word/deficit/)：赤字、不足
-- [shortage](/word/shortage/)：不足、欠乏
+- [deficit](/deficit)：赤字、不足
+- [shortage](/shortage)：不足、欠乏
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [revenue](/word/revenue/)：収益
+- [asset](/asset)：資産
+- [revenue](/revenue)：収益
 
-<!-- cvid: aid27_bid25 -->
+<!-- cvid: aid28_bid24 -->

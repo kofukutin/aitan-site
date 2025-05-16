@@ -81,15 +81,19 @@ TOEICでは「保護」「防御」の文脈やIT・ビジネス分野での比�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「保護」「防御」の文脈やIT・ビジネス分野での比�
 ## 🤔  protect との違いは？
 
 - **shield**：物理的・比喩的な「盾」や「防御物」として守ることを強調
-- **[protect](/word/protect/)**：一般的に「守る」「保護する」行為全般を指す
+- **[protect](/protect)**：一般的に「守る」「保護する」行為全般を指す
 
 shieldは「防御する手段や物」に焦点があり、protectは「守る行為」自体を広く表します。
 
@@ -105,14 +109,14 @@ shieldは「防御する手段や物」に焦点があり、protectは「守る�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier/)：障壁、バリア
-- [defense](/word/defense/)：防御、守り
+- [barrier](/barrier)：障壁、バリア
+- [defense](/defense)：防御、守り
 
 ---
 
 ## 📖 できればこれも
 
-- [guard](/word/guard/)：警備員、守るもの
-- [cover](/word/cover/)：覆うもの、カバー
+- [guard](/guard)：警備員、守るもの
+- [cover](/cover)：覆うもの、カバー
 
-<!-- cvid: aid15_bid26 -->
+<!-- cvid: aid45_bid44 -->

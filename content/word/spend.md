@@ -81,15 +81,19 @@ TOEICでは「spend + 時間/お金 + ～ing」や「spend on」の形でよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「spend + 時間/お金 + ～ing」や「spend on」の形でよく�
 ## 🤔  pay との違いは？
 
 - **spend**：お金や時間などを「使う」「費やす」全般に使う
-- **[pay](/word/pay/)**：お金を「支払う」「払う」ことに特化
+- **[pay](/pay)**：お金を「支払う」「払う」ことに特化
 
 spendは「使う」対象が幅広く、payは「支払い」という行為そのものに焦点を当てます。
 
@@ -105,14 +109,14 @@ spendは「使う」対象が幅広く、payは「支払い」という行為そ
 
 ## 🧩 あわせて覚えたい
 
-- [save](/word/save/)：貯める、節約する
-- [waste](/word/waste/)：無駄に使う
+- [save](/save)：貯める、節約する
+- [waste](/waste)：無駄に使う
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：（費用が）かかる
-- [buy](/word/buy/)：買う
+- [cost](/cost)：（費用が）かかる
+- [buy](/buy)：買う
 
-<!-- cvid: aid18_bid32 -->
+<!-- cvid: aid39_bid09 -->

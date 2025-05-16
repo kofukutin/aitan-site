@@ -81,15 +81,19 @@ TOEICでは災害や経済危機、企業の損失など深刻な被害を説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid38_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは災害や経済危機、企業の損失など深刻な被害を説明
 ## 🤔  destroy との違いは？
 
 - **devastate**：壊滅的な被害や精神的ショックを強調する
-- **[destroy](/word/destroy/)**：単に「破壊する」「壊す」という意味
+- **[destroy](/destroy)**：単に「破壊する」「壊す」という意味
 
 devastateは「完全に打ちのめす」「壊滅させる」といった深刻さや感情的なダメージを含みますが、destroyは物理的に「壊す」ことに重点があります。
 
@@ -105,14 +109,14 @@ devastateは「完全に打ちのめす」「壊滅させる」といった深�
 
 ## 🧩 あわせて覚えたい
 
-- [ruin](/word/ruin/)：台無しにする、破滅させる
-- [recover](/word/recover/)：回復する、取り戻す
+- [ruin](/ruin)：台無しにする、破滅させる
+- [recover](/recover)：回復する、取り戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [collapse](/word/collapse/)：崩壊する、倒れる
-- [damage](/word/damage/)：損害を与える、傷つける
+- [collapse](/collapse)：崩壊する、倒れる
+- [damage](/damage)：損害を与える、傷つける
 
-<!-- cvid: aid46_bid09 -->
+<!-- cvid: aid38_bid40 -->

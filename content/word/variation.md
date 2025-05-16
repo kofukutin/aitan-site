@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や説明文で、製品やサービスの「バ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や説明文で、製品やサービスの「バ
 ## 🤔  variety との違いは？
 
 - **variation**：同じものの中での違いや変化、またはその具体的なパターン
-- **[variety](/word/variety/)**：種類の多さや多様性そのもの
+- **[variety](/variety)**：種類の多さや多様性そのもの
 
 「variation」は「同じものの中での違い」や「変化のパターン」を指し、「variety」は「種類の豊富さ」や「多様性」を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7の長文や説明文で、製品やサービスの「バ
 
 ## 🧩 あわせて覚えたい
 
-- [difference](/word/difference/)：違い、相違
-- [modification](/word/modification/)：修正、変更
+- [difference](/difference)：違い、相違
+- [modification](/modification)：修正、変更
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/word/option/)：選択肢
-- [change](/word/change/)：変化
+- [option](/option)：選択肢
+- [change](/change)：変化
 
-<!-- cvid: aid23_bid16 -->
+<!-- cvid: aid16_bid18 -->

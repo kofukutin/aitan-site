@@ -81,15 +81,19 @@ TOEICでは、企業の方針や組織文化に関する長文で「diversity」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業の方針や組織文化に関する長文で「diversity」
 ## 🤔  variety との違いは？
 
 - **diversity**：異なるものが共存している「多様性」や「幅広さ」を強調
-- **[variety](/word/variety/)**：種類やバリエーションの「豊富さ」を表現
+- **[variety](/variety)**：種類やバリエーションの「豊富さ」を表現
 
 diversityは「違いが共存している状態」に重点があり、varietyは「選択肢や種類の多さ」に焦点があります。
 
@@ -105,14 +109,14 @@ diversityは「違いが共存している状態」に重点があり、variety�
 
 ## 🧩 あわせて覚えたい
 
-- [inclusion](/word/inclusion/)：受け入れ・包摂
-- [difference](/word/difference/)：違い
+- [inclusion](/inclusion)：受け入れ・包摂
+- [difference](/difference)：違い
 
 ---
 
 ## 📖 できればこれも
 
-- [equality](/word/equality/)：平等
-- [culture](/word/culture/)：文化
+- [equality](/equality)：平等
+- [culture](/culture)：文化
 
-<!-- cvid: aid05_bid08 -->
+<!-- cvid: aid09_bid31 -->

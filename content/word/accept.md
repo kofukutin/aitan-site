@@ -81,15 +81,19 @@ TOEICでは「申し出を受け入れる」「条件を承諾する」といっ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「申し出を受け入れる」「条件を承諾する」といっ
 ## 🤔  receive との違いは？
 
 - **accept**：申し出・提案・意見などを「受け入れる」「承諾する」意味で使う
-- **[receive](/word/receive/)**：物や情報などを「受け取る」「受信する」意味で使う
+- **[receive](/receive)**：物や情報などを「受け取る」「受信する」意味で使う
 
 acceptは「心や態度で受け入れる」ニュアンス、receiveは「物理的に受け取る」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ acceptは「心や態度で受け入れる」ニュアンス、receiveは「物�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/word/decline/)：断る、辞退する
-- [approve](/word/approve/)：承認する、賛成する
+- [decline](/decline)：断る、辞退する
+- [approve](/approve)：承認する、賛成する
 
 ---
 
 ## 📖 できればこれも
 
-- [allow](/word/allow/)：許可する
-- [admit](/word/admit/)：認める、入れる
+- [allow](/allow)：許可する
+- [admit](/admit)：認める、入れる
 
-<!-- cvid: aid15_bid30 -->
+<!-- cvid: aid34_bid49 -->

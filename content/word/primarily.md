@@ -81,15 +81,19 @@ TOEICでは説明文や報告書、案内文などで「主に」「第一に」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や報告書、案内文などで「主に」「第一に」
 ## 🤔  mainly との違いは？
 
 - **primarily**：よりフォーマルで、中心的・最重要な要素を強調する
-- **[mainly](/word/mainly/)**：カジュアルで、単に「大部分は」「主に」という意味
+- **[mainly](/mainly)**：カジュアルで、単に「大部分は」「主に」という意味
 
 「primarily」は公式文書やビジネス文脈で使われやすく、より「第一の目的」や「最重要点」を強調します。対して「mainly」は日常会話でよく使われ、ニュアンスはやや軽めです。
 
@@ -105,14 +109,14 @@ TOEICでは説明文や報告書、案内文などで「主に」「第一に」
 
 ## 🧩 あわせて覚えたい
 
-- [chiefly](/word/chiefly/)：主として、主に
-- [secondarily](/word/secondarily/)：第二に、二次的に
+- [chiefly](/chiefly)：主として、主に
+- [secondarily](/secondarily)：第二に、二次的に
 
 ---
 
 ## 📖 できればこれも
 
-- [particularly](/word/particularly/)：特に、とりわけ
-- [significantly](/word/significantly/)：著しく、かなり
+- [particularly](/particularly)：特に、とりわけ
+- [significantly](/significantly)：著しく、かなり
 
-<!-- cvid: aid29_bid48 -->
+<!-- cvid: aid36_bid35 -->

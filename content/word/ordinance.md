@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や公式文書、通知文などで登場し、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や公式文書、通知文などで登場し、
 ## 🤔  regulation との違いは？
 
 - **ordinance**：地方自治体などが制定する公式な条例や法令
-- **[regulation](/word/regulation/)**：組織や政府が定める一般的な規則や規制
+- **[regulation](/regulation)**：組織や政府が定める一般的な規則や規制
 
 ordinanceは主に市や町などの地方レベルの法的拘束力のあるルールを指し、regulationはより広く、企業や政府機関などが定める規則全般を指します。
 
@@ -105,14 +109,14 @@ ordinanceは主に市や町などの地方レベルの法的拘束力のある�
 
 ## 🧩 あわせて覚えたい
 
-- [statute](/word/statute/)：制定法、成文法
-- [decree](/word/decree/)：法令、命令
+- [statute](/statute)：制定法、成文法
+- [decree](/decree)：法令、命令
 
 ---
 
 ## 📖 できればこれも
 
-- [legislation](/word/legislation/)：法律、立法
-- [policy](/word/policy/)：方針、政策
+- [legislation](/legislation)：法律、立法
+- [policy](/policy)：方針、政策
 
-<!-- cvid: aid01_bid15 -->
+<!-- cvid: aid04_bid11 -->

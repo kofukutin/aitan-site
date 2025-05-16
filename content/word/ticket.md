@@ -81,15 +81,19 @@ TOEICでは、イベント案内や旅行、出張関連の長文で「ticket」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid00_bid28" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid28" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、イベント案内や旅行、出張関連の長文で「ticket」
 ## 🤔  receipt との違いは？
 
 - **ticket**：イベントや乗り物などの「入場券」「乗車券」など、サービスや権利を得るための券。
-- **[receipt](/word/receipt/)**：購入や支払いを証明する「領収書」。
+- **[receipt](/receipt)**：購入や支払いを証明する「領収書」。
 
 ticketは「何かに入る・利用するための券」、receiptは「お金を払った証明書」として使い分けます。
 
@@ -105,14 +109,14 @@ ticketは「何かに入る・利用するための券」、receiptは「お金�
 
 ## 🧩 あわせて覚えたい
 
-- [voucher](/word/voucher/)：引換券、クーポン
-- [invitation](/word/invitation/)：招待状
+- [voucher](/voucher)：引換券、クーポン
+- [invitation](/invitation)：招待状
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/word/reservation/)：予約
-- [schedule](/word/schedule/)：予定、スケジュール
+- [reservation](/reservation)：予約
+- [schedule](/schedule)：予定、スケジュール
 
-<!-- cvid: aid01_bid19 -->
+<!-- cvid: aid00_bid28 -->

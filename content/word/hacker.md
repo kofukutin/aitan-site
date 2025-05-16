@@ -81,15 +81,19 @@ ITやセキュリティ関連の記事やメール文で登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやセキュリティ関連の記事やメール文で登場することがあ
 ## 🤔  cracker との違いは？
 
 - **hacker**：システムやプログラムに精通し、改変や侵入を行う人。善意・悪意どちらも含む。
-- **[cracker](/word/cracker/)**：主に悪意を持ってシステムに侵入し、破壊や盗みを行う人。
+- **[cracker](/cracker)**：主に悪意を持ってシステムに侵入し、破壊や盗みを行う人。
 
 hackerは広い意味で使われますが、crackerは明確に違法・悪意のある行為を指します。
 
@@ -105,14 +109,14 @@ hackerは広い意味で使われますが、crackerは明確に違法・悪意�
 
 ## 🧩 あわせて覚えたい
 
-- [programmer](/word/programmer/)：プログラムを書く人
-- [intruder](/word/intruder/)：侵入者
+- [programmer](/programmer)：プログラムを書く人
+- [intruder](/intruder)：侵入者
 
 ---
 
 ## 📖 できればこれも
 
-- [virus](/word/virus/)：コンピュータウイルス
-- [password](/word/password/)：パスワード
+- [virus](/virus)：コンピュータウイルス
+- [password](/password)：パスワード
 
-<!-- cvid: aid38_bid11 -->
+<!-- cvid: aid13_bid47 -->

@@ -81,15 +81,19 @@ The park attracts many hikers during the summer season.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The park attracts many hikers during the summer season.
 ## 🤔  trekker との違いは？
 
 - **hiker**：気軽なハイキングや日帰りの徒歩旅行を楽しむ人
-- **[trekker](/word/trekker/)**：より長距離・本格的な山歩きや冒険的な徒歩旅行をする人
+- **[trekker](/trekker)**：より長距離・本格的な山歩きや冒険的な徒歩旅行をする人
 
 hikerは一般的なハイキングをする人、trekkerはより過酷で長期間の徒歩旅行をする人に使われます。
 
@@ -105,14 +109,14 @@ hikerは一般的なハイキングをする人、trekkerはより過酷で長�
 
 ## 🧩 あわせて覚えたい
 
-- [climber](/word/climber/)：登山家、クライマー
-- [traveler](/word/traveler/)：旅行者
+- [climber](/climber)：登山家、クライマー
+- [traveler](/traveler)：旅行者
 
 ---
 
 ## 📖 できればこれも
 
-- [trail](/word/trail/)：小道、山道
-- [camp](/word/camp/)：キャンプ、野営
+- [trail](/trail)：小道、山道
+- [camp](/camp)：キャンプ、野営
 
-<!-- cvid: aid42_bid09 -->
+<!-- cvid: aid45_bid10 -->

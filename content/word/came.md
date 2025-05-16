@@ -81,15 +81,19 @@ cameはTOEICのリスニングや会話問題で頻出し、動作の過去を�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cameはTOEICのリスニングや会話問題で頻出し、動作の過去を�
 ## 🤔  arrived との違いは？
 
 - **came**：単に「来た」「やってきた」という動作を表す。
-- **[arrived](/word/arrived/)**：「到着した」という意味で、目的地に着いたことを強調。
+- **[arrived](/arrived)**：「到着した」という意味で、目的地に着いたことを強調。
 
 cameは「来る」という動作全体を指し、arrivedは「到着」という結果に焦点を当てます。
 
@@ -105,14 +109,14 @@ cameは「来る」という動作全体を指し、arrivedは「到着」とい
 
 ## 🧩 あわせて覚えたい
 
-- [go](/word/go/)：行く
-- [leave](/word/leave/)：去る、出発する
+- [go](/go)：行く
+- [leave](/leave)：去る、出発する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring/)：持ってくる
-- [meet](/word/meet/)：会う
+- [bring](/bring)：持ってくる
+- [meet](/meet)：会う
 
-<!-- cvid: aid22_bid00 -->
+<!-- cvid: aid35_bid43 -->

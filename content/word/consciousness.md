@@ -81,15 +81,19 @@ The company is raising environmental consciousness among employees.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid45_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company is raising environmental consciousness among employees.
 ## 🤔  awareness との違いは？
 
 - **consciousness**：医学的・哲学的な「意識」や「正気」を指すフォーマルな語。
-- **[awareness](/word/awareness/)**：何かに「気づいている」「認識している」状態を幅広く表す。
+- **[awareness](/awareness)**：何かに「気づいている」「認識している」状態を幅広く表す。
 
 consciousnessは「意識そのものの有無」や「正気」を強調し、awarenessは「特定の事柄への気づきや認識」に使います。
 
@@ -105,14 +109,14 @@ consciousnessは「意識そのものの有無」や「正気」を強調し、a
 
 ## 🧩 あわせて覚えたい
 
-- [unconsciousness](/word/unconsciousness/)：無意識、意識不明
-- [perception](/word/perception/)：知覚、認識
+- [unconsciousness](/unconsciousness)：無意識、意識不明
+- [perception](/perception)：知覚、認識
 
 ---
 
 ## 📖 できればこれも
 
-- [consequence](/word/consequence/)：結果、影響
-- [conclusion](/word/conclusion/)：結論
+- [consequence](/consequence)：結果、影響
+- [conclusion](/conclusion)：結論
 
-<!-- cvid: aid17_bid11 -->
+<!-- cvid: aid45_bid39 -->

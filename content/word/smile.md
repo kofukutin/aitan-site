@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【smile】の意味・使い方・例文 ― grinとの違い【TOEIC英単語】"
 description: "smileの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでgrinとの違いもわかりやすく学べます。"
 word: "smile"
@@ -81,15 +81,19 @@ TOEICのPart 1で「微笑んでいる」「笑顔を見せている」といっ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid41_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1で「微笑んでいる」「笑顔を見せている」といっ
 ## 🤔  grin との違いは？
 
 - **smile**：やさしく自然な微笑み。親しみや好意を表す。
-- **[grin](/word/grin/)**：歯を見せてにっこり笑う、より大きくはっきりした笑顔。
+- **[grin](/grin)**：歯を見せてにっこり笑う、より大きくはっきりした笑顔。
 
 「smile」は控えめで自然な微笑み、「grin」は歯を見せて大きく笑うときに使います。場面や感情の強さで使い分けます。
 
@@ -105,14 +109,14 @@ TOEICのPart 1で「微笑んでいる」「笑顔を見せている」といっ
 
 ## 🧩 あわせて覚えたい
 
-- [frown](/word/frown/)：しかめっ面
-- [laugh](/word/laugh/)：声を出して笑う
+- [frown](/frown)：しかめっ面
+- [laugh](/laugh)：声を出して笑う
 
 ---
 
 ## 📖 できればこれも
 
-- [greet](/word/greet/)：挨拶する
-- [wave](/word/wave/)：手を振る
+- [greet](/greet)：挨拶する
+- [wave](/wave)：手を振る
 
-<!-- cvid: aid01_bid00 -->
+<!-- cvid: aid41_bid16 -->

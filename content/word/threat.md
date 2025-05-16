@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメール、報告書などで「脅威」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメール、報告書などで「脅威」
 ## 🤔  warning との違いは？
 
 - **threat**：実際に危険や損害を与える可能性がある「脅威」や「脅し」
-- **[warning](/word/warning/)**：危険を知らせる「警告」や「注意」
+- **[warning](/warning)**：危険を知らせる「警告」や「注意」
 
 「threat」は現実的な危険や損害の可能性を指し、「warning」はその危険を知らせる行為やメッセージを指します。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書やメール、報告書などで「脅威」
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk/)：リスク、危険性
-- [promise](/word/promise/)：約束、保証
+- [risk](/risk)：リスク、危険性
+- [promise](/promise)：約束、保証
 
 ---
 
 ## 📖 できればこれも
 
-- [danger](/word/danger/)：危険
-- [issue](/word/issue/)：問題、課題
+- [danger](/danger)：危険
+- [issue](/issue)：問題、課題
 
-<!-- cvid: aid13_bid21 -->
+<!-- cvid: aid26_bid45 -->

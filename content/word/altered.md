@@ -89,8 +89,12 @@ TOEICでは、書類や計画の「変更」を表す文脈で出題されるこ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、書類や計画の「変更」を表す文脈で出題されるこ
 ## 🤔  modified との違いは？
 
 - **altered**：元のものに手を加えて「変更された」状態。変化の程度は大小問わない。
-- **[modified](/word/modified/)**：目的や条件に合わせて「調整・修正された」状態。より意図的・部分的な変更を示すことが多い。
+- **[modified](/modified)**：目的や条件に合わせて「調整・修正された」状態。より意図的・部分的な変更を示すことが多い。
 
 「altered」は単に変わったことを指し、「modified」は目的や用途に合わせて調整したニュアンスが強いです。
 
@@ -106,14 +110,14 @@ TOEICでは、書類や計画の「変更」を表す文脈で出題されるこ
 
 ## 🧩 あわせて覚えたい
 
-- [adjusted](/word/adjusted/)：調整された
-- [unchanged](/word/unchanged/)：変わっていない
+- [adjusted](/adjusted)：調整された
+- [unchanged](/unchanged)：変わっていない
 
 ---
 
 ## 📖 できればこれも
 
-- [amended](/word/amended/)：修正された（特に文書や法律など）
-- [updated](/word/updated/)：最新の状態にされた
+- [amended](/amended)：修正された（特に文書や法律など）
+- [updated](/updated)：最新の状態にされた
 
-<!-- cvid: aid05_bid32 -->
+<!-- cvid: aid05_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「道順」や「指示」の意味でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「道順」や「指示」の意味でよく出
 ## 🤔  instruction との違いは？
 
 - **direction**：方向や道順、または方針・指示全般を表す
-- **[instruction](/word/instruction/)**：具体的な手順や操作方法など、細かい指示を表す
+- **[instruction](/instruction)**：具体的な手順や操作方法など、細かい指示を表す
 
 directionは「進むべき方向」や「全体的な指示」に使われ、instructionは「具体的なやり方」や「詳細な手順」に使われます。
 
@@ -105,14 +109,14 @@ directionは「進むべき方向」や「全体的な指示」に使われ、in
 
 ## 🧩 あわせて覚えたい
 
-- [guidance](/word/guidance/)：指導、助言
-- [route](/word/route/)：経路、道筋
+- [guidance](/guidance)：指導、助言
+- [route](/route)：経路、道筋
 
 ---
 
 ## 📖 できればこれも
 
-- [location](/word/location/)：場所、位置
-- [destination](/word/destination/)：目的地
+- [location](/location)：場所、位置
+- [destination](/destination)：目的地
 
-<!-- cvid: aid17_bid24 -->
+<!-- cvid: aid08_bid25 -->

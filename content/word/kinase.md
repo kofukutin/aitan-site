@@ -80,15 +80,19 @@ TOEICでは科学や医療系の長文で登場することがあり、専門的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid34" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid34" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは科学や医療系の長文で登場することがあり、専門的
 ## 🤔  enzyme との違いは？
 
 - **kinase**：リン酸基を他の分子に付加する特定の酵素
-- **[enzyme](/word/enzyme/)**：生体内のあらゆる化学反応を促進する酵素全般
+- **[enzyme](/enzyme)**：生体内のあらゆる化学反応を促進する酵素全般
 
 kinaseはenzymeの一種ですが、特にリン酸化反応を担う酵素を指します。enzymeはより広い意味で使われます。
 
@@ -104,14 +108,14 @@ kinaseはenzymeの一種ですが、特にリン酸化反応を担う酵素を�
 
 ## 🧩 あわせて覚えたい
 
-- [phosphatase](/word/phosphatase/)：リン酸基を分子から除去する酵素
-- [substrate](/word/substrate/)：酵素が作用する対象となる物質
+- [phosphatase](/phosphatase)：リン酸基を分子から除去する酵素
+- [substrate](/substrate)：酵素が作用する対象となる物質
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein/)：タンパク質
-- [catalyst](/word/catalyst/)：触媒
+- [protein](/protein)：タンパク質
+- [catalyst](/catalyst)：触媒
 
-<!-- cvid: aid07_bid48 -->
+<!-- cvid: aid19_bid34 -->

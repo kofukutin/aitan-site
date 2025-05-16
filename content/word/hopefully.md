@@ -77,15 +77,19 @@ Hopefully, we can finish the project by Friday.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ Hopefully, we can finish the project by Friday.
 ## 🤔  wish との違いは？
 
 - **hopefully**：話し手の「こうなってほしい」という希望や期待を副詞的に表現する。
-- **[wish](/word/wish/)**：「願う」「望む」という動詞や名詞で、より強い願望や仮定の気持ちを表す。
+- **[wish](/wish)**：「願う」「望む」という動詞や名詞で、より強い願望や仮定の気持ちを表す。
 
 「hopefully」は会話の流れで軽く希望を述べるときに使い、「wish」はよりはっきりとした願望や現実と異なることを望む場合に使います。
 
@@ -101,14 +105,14 @@ Hopefully, we can finish the project by Friday.
 
 ## 🧩 あわせて覚えたい
 
-- [optimistically](/word/optimistically/)：楽観的に
-- [fortunately](/word/fortunately/)：幸運にも
+- [optimistically](/optimistically)：楽観的に
+- [fortunately](/fortunately)：幸運にも
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/word/probably/)：たぶん
-- [luckily](/word/luckily/)：運よく
+- [probably](/probably)：たぶん
+- [luckily](/luckily)：運よく
 
-<!-- cvid: aid24_bid44 -->
+<!-- cvid: aid34_bid34 -->

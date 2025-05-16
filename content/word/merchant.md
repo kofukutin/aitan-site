@@ -81,15 +81,19 @@ TOEICでは主にビジネスや取引に関する長文で登場し、業者や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや取引に関する長文で登場し、業者や
 ## 🤔  retailer との違いは？
 
 - **merchant**：大規模な商人や業者、卸売・小売どちらにも使える
-- **[retailer](/word/retailer/)**：消費者に直接販売する小売業者
+- **[retailer](/retailer)**：消費者に直接販売する小売業者
 
 merchantは取引規模や業態を問わず使えますが、retailerは「小売業者」として消費者向け販売に限定されます。
 
@@ -105,14 +109,14 @@ merchantは取引規模や業態を問わず使えますが、retailerは「小�
 
 ## 🧩 あわせて覚えたい
 
-- [vendor](/word/vendor/)：売り手、露天商
-- [customer](/word/customer/)：顧客、客
+- [vendor](/vendor)：売り手、露天商
+- [customer](/customer)：顧客、客
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給業者、納入業者
-- [buyer](/word/buyer/)：買い手、購入者
+- [supplier](/supplier)：供給業者、納入業者
+- [buyer](/buyer)：買い手、購入者
 
-<!-- cvid: aid02_bid47 -->
+<!-- cvid: aid09_bid37 -->

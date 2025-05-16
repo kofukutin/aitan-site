@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や説明文で「活用する」「利用す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid21" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid21" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や説明文で「活用する」「利用す
 ## 🤔  use との違いは？
 
 - **utilize**：特定の目的のために有効活用する（フォーマル）
-- **[use](/word/use/)**：一般的に「使う」、日常的で幅広い意味
+- **[use](/use)**：一般的に「使う」、日常的で幅広い意味
 
 utilizeは「有効活用」「目的意識」を強調し、useはもっと広くカジュアルに「使う」という意味で使われます。
 
@@ -105,14 +109,14 @@ utilizeは「有効活用」「目的意識」を強調し、useはもっと広�
 
 ## 🧩 あわせて覚えたい
 
-- [employ](/word/employ/)：（方法・手段などを）用いる
-- [exploit](/word/exploit/)：（資源・機会などを）最大限に活用する
+- [employ](/employ)：（方法・手段などを）用いる
+- [exploit](/exploit)：（資源・機会などを）最大限に活用する
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement/)：実行する、導入する
-- [apply](/word/apply/)：適用する、応用する
+- [implement](/implement)：実行する、導入する
+- [apply](/apply)：適用する、応用する
 
-<!-- cvid: aid11_bid16 -->
+<!-- cvid: aid10_bid21 -->

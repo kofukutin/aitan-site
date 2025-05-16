@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、広告文などで「endorsement」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、広告文などで「endorsement」
 ## 🤔  approval との違いは？
 
 - **endorsement**：公式な推薦や支持、特に有名人や権威者によるものを指すことが多い
-- **[approval](/word/approval/)**：一般的な承認や許可を意味し、推薦のニュアンスは薄い
+- **[approval](/approval)**：一般的な承認や許可を意味し、推薦のニュアンスは薄い
 
 endorsementは「推薦」「お墨付き」の意味合いが強く、approvalは単なる「承認」や「許可」として幅広く使われます。
 
@@ -105,14 +109,14 @@ endorsementは「推薦」「お墨付き」の意味合いが強く、approval�
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/word/recommendation/)：推薦、勧告
-- [authorization](/word/authorization/)：許可、認可
+- [recommendation](/recommendation)：推薦、勧告
+- [authorization](/authorization)：許可、認可
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/word/certificate/)：証明書
-- [confirmation](/word/confirmation/)：確認、承認
+- [certificate](/certificate)：証明書
+- [confirmation](/confirmation)：確認、承認
 
-<!-- cvid: aid41_bid37 -->
+<!-- cvid: aid19_bid45 -->

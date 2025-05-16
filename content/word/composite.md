@@ -81,15 +81,19 @@ TOEICでは主にPart 7の説明文や技術系の文章で、複合素材や複
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の説明文や技術系の文章で、複合素材や複
 ## 🤔  compound との違いは？
 
 - **composite**：異なる要素が組み合わさってできた「複合の」「合成の」
-- **[compound](/word/compound/)**：2つ以上の要素が化学的・物理的に結合した「化合物」「複合体」
+- **[compound](/compound)**：2つ以上の要素が化学的・物理的に結合した「化合物」「複合体」
 
 compositeは構造や素材など幅広い分野で使われ、compoundは特に化学や薬品などで使われる傾向があります。
 
@@ -105,14 +109,14 @@ compositeは構造や素材など幅広い分野で使われ、compoundは特に
 
 ## 🧩 あわせて覚えたい
 
-- [mixture](/word/mixture/)：混合物
-- [blend](/word/blend/)：混ぜ合わせたもの、ブレンド
+- [mixture](/mixture)：混合物
+- [blend](/blend)：混ぜ合わせたもの、ブレンド
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/word/component/)：構成要素、部品
-- [structure](/word/structure/)：構造、仕組み
+- [component](/component)：構成要素、部品
+- [structure](/structure)：構造、仕組み
 
-<!-- cvid: aid31_bid43 -->
+<!-- cvid: aid08_bid42 -->

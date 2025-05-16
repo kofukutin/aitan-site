@@ -81,15 +81,19 @@ TOEICでは、メールや報告書の修正・編集に関する文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや報告書の修正・編集に関する文脈でよく
 ## 🤔  revise との違いは？
 
 - **edit**：内容を整理・修正・編集すること全般を指す
-- **[revise](/word/revise/)**：内容を見直して修正・改訂することに重点
+- **[revise](/revise)**：内容を見直して修正・改訂することに重点
 
 editは全体的な編集作業を指し、reviseは特に内容の見直しや改訂に焦点を当てます。
 
@@ -105,14 +109,14 @@ editは全体的な編集作業を指し、reviseは特に内容の見直しや�
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify/)：修正する、変更する
-- [publish](/word/publish/)：出版する、発表する
+- [modify](/modify)：修正する、変更する
+- [publish](/publish)：出版する、発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新する
-- [delete](/word/delete/)：削除する
+- [update](/update)：更新する
+- [delete](/delete)：削除する
 
-<!-- cvid: aid45_bid18 -->
+<!-- cvid: aid14_bid06 -->

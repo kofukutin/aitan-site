@@ -80,15 +80,19 @@ TOEICでは、契約書や同意書、法的な説明文などで「guardian」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、契約書や同意書、法的な説明文などで「guardian」�
 ## 🤔  protector との違いは？
 
 - **guardian**：法的・公式な「保護者」「後見人」
-- **[protector](/word/protector/)**：一般的な「守る人」「保護者」
+- **[protector](/protector)**：一般的な「守る人」「保護者」
 
 guardianは法律や制度上の責任を持つ保護者を指し、protectorは広く「守る人」という意味で使われます。
 
@@ -104,14 +108,14 @@ guardianは法律や制度上の責任を持つ保護者を指し、protectorは
 
 ## 🧩 あわせて覚えたい
 
-- [custodian](/word/custodian/)：管理人、保管者
-- [ward](/word/ward/)：被後見人、保護される人
+- [custodian](/custodian)：管理人、保管者
+- [ward](/ward)：被後見人、保護される人
 
 ---
 
 ## 📖 できればこれも
 
-- [trustee](/word/trustee/)：信託受託者、財産管理人
-- [supervisor](/word/supervisor/)：監督者、指導者
+- [trustee](/trustee)：信託受託者、財産管理人
+- [supervisor](/supervisor)：監督者、指導者
 
-<!-- cvid: aid48_bid19 -->
+<!-- cvid: aid30_bid39 -->

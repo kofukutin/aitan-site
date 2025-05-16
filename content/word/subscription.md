@@ -81,15 +81,19 @@ TOEICでは、メールや案内文、契約書などで「subscription」が定
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文、契約書などで「subscription」が定
 ## 🤔  membership との違いは？
 
 - **subscription**：定期的な支払いでサービスや商品を受け取る契約
-- **[membership](/word/membership/)**：会員資格や会員であること自体
+- **[membership](/membership)**：会員資格や会員であること自体
 
 subscriptionは「定期購読・利用契約」に重点があり、membershipは「会員であること」や「会員権」に重点があります。
 
@@ -105,14 +109,14 @@ subscriptionは「定期購読・利用契約」に重点があり、membership�
 
 ## 🧩 あわせて覚えたい
 
-- [registration](/word/registration/)：登録、申し込み
-- [renewal](/word/renewal/)：更新、継続
+- [registration](/registration)：登録、申し込み
+- [renewal](/renewal)：更新、継続
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice/)：請求書
-- [contract](/word/contract/)：契約
+- [invoice](/invoice)：請求書
+- [contract](/contract)：契約
 
-<!-- cvid: aid13_bid32 -->
+<!-- cvid: aid30_bid15 -->

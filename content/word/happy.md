@@ -81,15 +81,19 @@ TOEICではPart 5の語彙問題やメール文面などでよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid11_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙問題やメール文面などでよく登場します
 ## 🤔  glad との違いは？
 
 - **happy**：全体的な幸福感や満足感を表す。
-- **[glad](/word/glad/)**：何か特定の出来事や知らせに対して「うれしい」と感じるときに使う。
+- **[glad](/glad)**：何か特定の出来事や知らせに対して「うれしい」と感じるときに使う。
 
 happyは長期的・広い意味での「幸せ」、gladは一時的・具体的な「うれしさ」に使い分けます。
 
@@ -105,14 +109,14 @@ happyは長期的・広い意味での「幸せ」、gladは一時的・具体�
 
 ## 🧩 あわせて覚えたい
 
-- [unhappy](/word/unhappy/)：不幸せな、悲しい
-- [joyful](/word/joyful/)：とても喜ばしい、うれしい
+- [unhappy](/unhappy)：不幸せな、悲しい
+- [joyful](/joyful)：とても喜ばしい、うれしい
 
 ---
 
 ## 📖 できればこれも
 
-- [sad](/word/sad/)：悲しい
-- [excited](/word/excited/)：わくわくした
+- [sad](/sad)：悲しい
+- [excited](/excited)：わくわくした
 
-<!-- cvid: aid49_bid45 -->
+<!-- cvid: aid11_bid27 -->

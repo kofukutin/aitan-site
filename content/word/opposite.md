@@ -81,15 +81,19 @@ TOEICでは、位置関係や意見の違いを表す文脈で「opposite」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、位置関係や意見の違いを表す文脈で「opposite」が�
 ## 🤔  contrary との違いは？
 
 - **opposite**：位置や性質が「正反対」で、物理的・抽象的な「向かい合う」関係を強調。
-- **[contrary](/word/contrary/)**：主に「意見や性質が対立している」ことを表し、反論や対立のニュアンスが強い。
+- **[contrary](/contrary)**：主に「意見や性質が対立している」ことを表し、反論や対立のニュアンスが強い。
 
 「opposite」は物理的な位置や明確な正反対を指し、「contrary」は意見や態度など抽象的な対立に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、位置関係や意見の違いを表す文脈で「opposite」が�
 
 ## 🧩 あわせて覚えたい
 
-- [reverse](/word/reverse/)：逆、反対
-- [adjacent](/word/adjacent/)：隣接した
+- [reverse](/reverse)：逆、反対
+- [adjacent](/adjacent)：隣接した
 
 ---
 
 ## 📖 できればこれも
 
-- [similar](/word/similar/)：似ている
-- [equal](/word/equal/)：等しい
+- [similar](/similar)：似ている
+- [equal](/equal)：等しい
 
-<!-- cvid: aid20_bid36 -->
+<!-- cvid: aid34_bid42 -->

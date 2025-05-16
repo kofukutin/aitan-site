@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、契約書などで「提携」「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、契約書などで「提携」「�
 ## 🤔  collaboration との違いは？
 
 - **partnership**：長期的・公式な協力関係やビジネス上の提携を指す
-- **[collaboration](/word/collaboration/)**：特定のプロジェクトや目的のための協力（必ずしも公式・長期的でなくてもよい）
+- **[collaboration](/collaboration)**：特定のプロジェクトや目的のための協力（必ずしも公式・長期的でなくてもよい）
 
 partnershipは「契約や合意に基づくしっかりした関係」、collaborationは「柔軟で一時的な協力」というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ partnershipは「契約や合意に基づくしっかりした関係」、collab
 
 ## 🧩 あわせて覚えたい
 
-- [alliance](/word/alliance/)：同盟、提携
-- [contract](/word/contract/)：契約
+- [alliance](/alliance)：同盟、提携
+- [contract](/contract)：契約
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、協定
-- [association](/word/association/)：団体、協会
+- [agreement](/agreement)：合意、協定
+- [association](/association)：団体、協会
 
-<!-- cvid: aid34_bid44 -->
+<!-- cvid: aid24_bid18 -->

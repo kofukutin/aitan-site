@@ -81,15 +81,19 @@ TOEICでは健康や医療に関する長文や記事、説明文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や医療に関する長文や記事、説明文で登場する
 ## 🤔  fat との違いは？
 
 - **cholesterol**：血液や細胞内に存在する脂質の一種で、主に健康診断や医療の文脈で使われる。
-- **[fat](/word/fat/)**：一般的な「脂肪」で、体内に蓄積されるエネルギー源や食品中の脂質全般を指す。
+- **[fat](/fat)**：一般的な「脂肪」で、体内に蓄積されるエネルギー源や食品中の脂質全般を指す。
 
 cholesterolは体内の脂質の一種で、特に健康診断や血液検査で注目されますが、fatは体に蓄積される脂肪や食品中の脂質全般を指します。
 
@@ -105,14 +109,14 @@ cholesterolは体内の脂質の一種で、特に健康診断や血液検査で
 
 ## 🧩 あわせて覚えたい
 
-- [triglyceride](/word/triglyceride/)：中性脂肪
-- [artery](/word/artery/)：動脈
+- [triglyceride](/triglyceride)：中性脂肪
+- [artery](/artery)：動脈
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein/)：たんぱく質
-- [vitamin](/word/vitamin/)：ビタミン
+- [protein](/protein)：たんぱく質
+- [vitamin](/vitamin)：ビタミン
 
-<!-- cvid: aid31_bid00 -->
+<!-- cvid: aid15_bid24 -->

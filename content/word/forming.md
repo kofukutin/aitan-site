@@ -81,15 +81,19 @@ TOEICでは、チームやグループの結成、計画の立案などの文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、チームやグループの結成、計画の立案などの文脈
 ## 🤔  shaping との違いは？
 
 - **forming**：何かを新しく作り出す、組織や計画などを「形作る」ことに重点。
-- **[shaping](/word/shaping/)**：既存のものを「形に整える」「方向付ける」ニュアンスが強い。
+- **[shaping](/shaping)**：既存のものを「形に整える」「方向付ける」ニュアンスが強い。
 
 formingはゼロから作るイメージ、shapingはできたものを調整・発展させるイメージです。
 
@@ -105,14 +109,14 @@ formingはゼロから作るイメージ、shapingはできたものを調整・
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create/)：作り出す
-- [assemble](/word/assemble/)：組み立てる
+- [create](/create)：作り出す
+- [assemble](/assemble)：組み立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop/)：発展させる
-- [organize](/word/organize/)：整理する、まとめる
+- [develop](/develop)：発展させる
+- [organize](/organize)：整理する、まとめる
 
-<!-- cvid: aid19_bid12 -->
+<!-- cvid: aid31_bid45 -->

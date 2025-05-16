@@ -77,15 +77,19 @@ TOEICでは空欄補充や数量表現の問題で頻出です。肯定文や依
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは空欄補充や数量表現の問題で頻出です。肯定文や依
 ## 🤔  any との違いは？
 
 - **some**：肯定文や依頼・提案で「いくつか」「いくらか」の意味
-- **[any](/word/any/)**：否定文や疑問文で「どれでも」「いくらか」の意味
+- **[any](/any)**：否定文や疑問文で「どれでも」「いくらか」の意味
 
 「some」は前向きな文脈やお願い・提案で使い、「any」は否定や疑問など幅広い選択肢や不特定多数を表します。
 
@@ -101,14 +105,14 @@ TOEICでは空欄補充や数量表現の問題で頻出です。肯定文や依
 
 ## 🧩 あわせて覚えたい
 
-- [several](/word/several/)：いくつか（3つ以上の少数）
-- [few](/word/few/)：ほとんどない、少ししかない
+- [several](/several)：いくつか（3つ以上の少数）
+- [few](/few)：ほとんどない、少ししかない
 
 ---
 
 ## 📖 できればこれも
 
-- [much](/word/much/)：たくさんの（不可算名詞に使う）
-- [many](/word/many/)：たくさんの（可算名詞に使う）
+- [much](/much)：たくさんの（不可算名詞に使う）
+- [many](/many)：たくさんの（可算名詞に使う）
 
-<!-- cvid: aid45_bid09 -->
+<!-- cvid: aid47_bid37 -->

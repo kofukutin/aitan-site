@@ -81,15 +81,19 @@ TOEICではメールや案内文、ビジネス文書の中で「招待状」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや案内文、ビジネス文書の中で「招待状」や
 ## 🤔  offer との違いは？
 
 - **invitation**：イベントや集まりなどに「招待すること」や「招待状」を指す
-- **[offer](/word/offer/)**：何かを「申し出ること」や「提案」を指す
+- **[offer](/offer)**：何かを「申し出ること」や「提案」を指す
 
 invitationは「来てほしい」という呼びかけ、offerは「何かを与える・提案する」ニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ invitationは「来てほしい」という呼びかけ、offerは「何かを�
 
 ## 🧩 あわせて覚えたい
 
-- [request](/word/request/)：依頼、要請
-- [acceptance](/word/acceptance/)：受諾、受け入れ
+- [request](/request)：依頼、要請
+- [acceptance](/acceptance)：受諾、受け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment/)：予約、約束
-- [reservation](/word/reservation/)：予約（席・部屋など）
+- [appointment](/appointment)：予約、約束
+- [reservation](/reservation)：予約（席・部屋など）
 
-<!-- cvid: aid00_bid02 -->
+<!-- cvid: aid43_bid25 -->

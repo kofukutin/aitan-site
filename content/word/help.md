@@ -81,15 +81,19 @@ TOEICでは会話や依頼、申し出の場面で頻繁に登場します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid07_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や依頼、申し出の場面で頻繁に登場します。特
 ## 🤔  assist との違いは？
 
 - **help**：日常的に使う「助ける」「手伝う」のカジュアルな表現
-- **[assist](/word/assist/)**：ややフォーマルで、専門的・公式な場面で使われやすい
+- **[assist](/assist)**：ややフォーマルで、専門的・公式な場面で使われやすい
 
 helpは誰に対しても気軽に使える一方、assistはビジネスや公式な状況で使われることが多いです。
 
@@ -105,14 +109,14 @@ helpは誰に対しても気軽に使える一方、assistはビジネスや公�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支援する、支える
-- [rescue](/word/rescue/)：救助する、救う
+- [support](/support)：支援する、支える
+- [rescue](/rescue)：救助する、救う
 
 ---
 
 ## 📖 できればこれも
 
-- [give](/word/give/)：与える、渡す
-- [offer](/word/offer/)：申し出る、提供する
+- [give](/give)：与える、渡す
+- [offer](/offer)：申し出る、提供する
 
-<!-- cvid: aid08_bid41 -->
+<!-- cvid: aid07_bid04 -->

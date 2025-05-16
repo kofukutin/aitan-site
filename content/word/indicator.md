@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やレポート、グラフの説明などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やレポート、グラフの説明などで「
 ## 🤔  sign との違いは？
 
 - **indicator**：数値やデータなど客観的に「指標」となるもの
-- **[sign](/word/sign/)**：目に見える「兆候」や「合図」、広い意味でのサイン
+- **[sign](/sign)**：目に見える「兆候」や「合図」、広い意味でのサイン
 
 「indicator」は分析や評価のための客観的な指標を指し、「sign」は何かの前触れや合図など、より広く抽象的な意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書やレポート、グラフの説明などで「
 
 ## 🧩 あわせて覚えたい
 
-- [gauge](/word/gauge/)：計器、測定器
-- [index](/word/index/)：指数、指標
+- [gauge](/gauge)：計器、測定器
+- [index](/index)：指数、指標
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor/)：要因、要素
-- [measure](/word/measure/)：手段、測定値
+- [factor](/factor)：要因、要素
+- [measure](/measure)：手段、測定値
 
-<!-- cvid: aid24_bid34 -->
+<!-- cvid: aid37_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは、文法問題や語彙問題で「確かな」「特定の」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文法問題や語彙問題で「確かな」「特定の」とい
 ## 🤔  sure との違いは？
 
 - **certain**：客観的・論理的に「確か」と言いたいときや、ややフォーマルな場面で使う。
-- **[sure](/word/sure/)**：主観的な自信や気持ちを表し、カジュアルな場面でよく使う。
+- **[sure](/sure)**：主観的な自信や気持ちを表し、カジュアルな場面でよく使う。
 
 「certain」は根拠や証拠がある場合に使われやすく、「sure」は自分の感覚や気持ちに基づく自信を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、文法問題や語彙問題で「確かな」「特定の」とい
 
 ## 🧩 あわせて覚えたい
 
-- [definite](/word/definite/)：明確な、はっきりした
-- [uncertain](/word/uncertain/)：不確かな、不明確な
+- [definite](/definite)：明確な、はっきりした
+- [uncertain](/uncertain)：不確かな、不明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [particular](/word/particular/)：特定の
-- [specific](/word/specific/)：具体的な、明確な
+- [particular](/particular)：特定の
+- [specific](/specific)：具体的な、明確な
 
-<!-- cvid: aid22_bid14 -->
+<!-- cvid: aid28_bid29 -->

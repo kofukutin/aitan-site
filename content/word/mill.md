@@ -81,15 +81,19 @@ TOEICでは、工場や生産現場に関する会話や説明文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場や生産現場に関する会話や説明文で登場する
 ## 🤔  factory との違いは？
 
 - **mill**：伝統的な製粉所や、特定の素材を加工する比較的小規模な工場を指すことが多い
-- **[factory](/word/factory/)**：あらゆる製品を大量生産する一般的な工場
+- **[factory](/factory)**：あらゆる製品を大量生産する一般的な工場
 
 millは特定の素材や伝統的な生産施設に使われることが多く、factoryは規模や種類を問わず一般的な工場全般に使われます。
 
@@ -105,14 +109,14 @@ millは特定の素材や伝統的な生産施設に使われることが多く�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/word/plant/)：大規模な工場、プラント
-- [workshop](/word/workshop/)：作業場、小規模な工房
+- [plant](/plant)：大規模な工場、プラント
+- [workshop](/workshop)：作業場、小規模な工房
 
 ---
 
 ## 📖 できればこれも
 
-- [warehouse](/word/warehouse/)：倉庫
-- [produce](/word/produce/)：生産する
+- [warehouse](/warehouse)：倉庫
+- [produce](/produce)：生産する
 
-<!-- cvid: aid14_bid28 -->
+<!-- cvid: aid37_bid04 -->

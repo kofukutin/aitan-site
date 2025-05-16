@@ -81,15 +81,19 @@ TOEICでは主にビジネスメールや記事の中でexecutiveの略として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -105,14 +109,14 @@ execは幹部全体を指すカジュアルな言い方で、CEOはその中で�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [director](/word/director/)：取締役、部長
+- [manager](/manager)：管理職、マネージャー
+- [director](/director)：取締役、部長
 
 ---
 
 ## 📖 できればこれも
 
-- [staff](/word/staff/)：スタッフ、職員
-- [officer](/word/officer/)：役員、幹部
+- [staff](/staff)：スタッフ、職員
+- [officer](/officer)：役員、幹部
 
-<!-- cvid: aid11_bid23 -->
+<!-- cvid: aid26_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは新製品の紹介や説明会、プレゼンテーションの場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは新製品の紹介や説明会、プレゼンテーションの場面
 ## 🤔  presentation との違いは？
 
 - **demonstration**：実際に見せて説明する「実演」や「デモ」、または抗議活動の「デモ行進」も指す
-- **[presentation](/word/presentation/)**：資料やスライドを使って説明・発表する「プレゼンテーション」
+- **[presentation](/presentation)**：資料やスライドを使って説明・発表する「プレゼンテーション」
 
 demonstrationは「実際にやって見せる」ことに重点があり、presentationは「話して説明する」ことに重点があります。
 
@@ -105,14 +109,14 @@ demonstrationは「実際にやって見せる」ことに重点があり、pres
 
 ## 🧩 あわせて覚えたい
 
-- [exhibition](/word/exhibition/)：展示会、展覧会
-- [protest](/word/protest/)：抗議、抗議活動
+- [exhibition](/exhibition)：展示会、展覧会
+- [protest](/protest)：抗議、抗議活動
 
 ---
 
 ## 📖 できればこれも
 
-- [explanation](/word/explanation/)：説明
-- [display](/word/display/)：展示、表示
+- [explanation](/explanation)：説明
+- [display](/display)：展示、表示
 
-<!-- cvid: aid13_bid10 -->
+<!-- cvid: aid28_bid31 -->

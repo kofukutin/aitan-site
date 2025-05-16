@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介、エンタメ関連の記事や広告文で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介、エンタメ関連の記事や広告文で登
 ## 🤔  cartoon との違いは？
 
 - **anime**：日本発祥のアニメーション作品やそのスタイルを指す
-- **[cartoon](/word/cartoon/)**：西洋のアニメや漫画、風刺画など幅広く指す
+- **[cartoon](/cartoon)**：西洋のアニメや漫画、風刺画など幅広く指す
 
 animeは日本独自のアニメーション文化を強調する時に使い、cartoonはより一般的なアニメや漫画全般を指します。
 
@@ -105,14 +109,14 @@ animeは日本独自のアニメーション文化を強調する時に使い、
 
 ## 🧩 あわせて覚えたい
 
-- [manga](/word/manga/)：日本の漫画、コミック
-- [animation](/word/animation/)：アニメーション、動画制作
+- [manga](/manga)：日本の漫画、コミック
+- [animation](/animation)：アニメーション、動画制作
 
 ---
 
 ## 📖 できればこれも
 
-- [comic](/word/comic/)：漫画、コミック
-- [character](/word/character/)：キャラクター、登場人物
+- [comic](/comic)：漫画、コミック
+- [character](/character)：キャラクター、登場人物
 
-<!-- cvid: aid13_bid33 -->
+<!-- cvid: aid14_bid17 -->

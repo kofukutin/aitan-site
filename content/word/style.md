@@ -81,15 +81,19 @@ TOEICでは、文章の「書き方」や「形式」を問う設問でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文章の「書き方」や「形式」を問う設問でよく登
 ## 🤔  fashion との違いは？
 
 - **style**：個人や物事の特徴的なやり方や表現、または服装の型
-- **[fashion](/word/fashion/)**：一時的な流行や世間一般の好み
+- **[fashion](/fashion)**：一時的な流行や世間一般の好み
 
 styleは「個人の特徴」や「独自性」に焦点があり、fashionは「社会的な流行」や「時代のトレンド」を指します。
 
@@ -105,14 +109,14 @@ styleは「個人の特徴」や「独自性」に焦点があり、fashionは�
 
 ## 🧩 あわせて覚えたい
 
-- [trend](/word/trend/)：流行、傾向
-- [design](/word/design/)：デザイン、設計
+- [trend](/trend)：流行、傾向
+- [design](/design)：デザイン、設計
 
 ---
 
 ## 📖 できればこれも
 
-- [pattern](/word/pattern/)：パターン、模様、型
-- [method](/word/method/)：方法、やり方
+- [pattern](/pattern)：パターン、模様、型
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid27_bid16 -->
+<!-- cvid: aid45_bid02 -->

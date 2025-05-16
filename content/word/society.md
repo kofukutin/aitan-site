@@ -81,15 +81,19 @@ TOEICでは、社会問題や企業の社会的責任（CSR）などの文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社会問題や企業の社会的責任（CSR）などの文脈で
 ## 🤔  community との違いは？
 
 - **society**：国や地域など広い範囲の「社会」全体を指す
-- **[community](/word/community/)**：地域や趣味など、共通点でつながる「集団」
+- **[community](/community)**：地域や趣味など、共通点でつながる「集団」
 
 societyは大きな枠組みの社会全体、communityは小規模な集団やコミュニティを表します。
 
@@ -105,14 +109,14 @@ societyは大きな枠組みの社会全体、communityは小規模な集団や�
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/word/organization/)：組織、団体
-- [culture](/word/culture/)：文化
+- [organization](/organization)：組織、団体
+- [culture](/culture)：文化
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：制度、仕組み
-- [group](/word/group/)：集団、グループ
+- [system](/system)：制度、仕組み
+- [group](/group)：集団、グループ
 
-<!-- cvid: aid36_bid12 -->
+<!-- cvid: aid37_bid45 -->

@@ -81,15 +81,19 @@ TOEICでは「紙」「書類」「論文」など複数の意味で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「紙」「書類」「論文」など複数の意味で出題され
 ## 🤔  document との違いは？
 
 - **paper**：紙そのもの、または論文・新聞など印刷物を指す
-- **[document](/word/document/)**：公式な書類や文書を指す
+- **[document](/document)**：公式な書類や文書を指す
 
 paperは物質としての「紙」や「論文」など幅広く使われますが、documentは「契約書」や「証明書」など公式な文書に限定されることが多いです。
 
@@ -105,14 +109,14 @@ paperは物質としての「紙」や「論文」など幅広く使われます
 
 ## 🧩 あわせて覚えたい
 
-- [report](/word/report/)：報告書、レポート
-- [article](/word/article/)：記事、論説
+- [report](/report)：報告書、レポート
+- [article](/article)：記事、論説
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：メモ、覚え書き
-- [form](/word/form/)：用紙、書式
+- [note](/note)：メモ、覚え書き
+- [form](/form)：用紙、書式
 
-<!-- cvid: aid36_bid42 -->
+<!-- cvid: aid49_bid23 -->

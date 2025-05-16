@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、物の位置や説明として「bottom
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、物の位置や説明として「bottom
 ## 🤔  base との違いは？
 
 - **bottom**：物や場所の一番下の部分、最下部
-- **[base](/word/base/)**：土台、基礎、支える部分
+- **[base](/base)**：土台、基礎、支える部分
 
 「bottom」は単に「一番下」を指し、位置や順位に使います。「base」は何かを支える土台や基礎を指し、構造や抽象的な意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主に写真描写問題で、物の位置や説明として「bottom
 
 ## 🧩 あわせて覚えたい
 
-- [top](/word/top/)：一番上、頂上
-- [surface](/word/surface/)：表面
+- [top](/top)：一番上、頂上
+- [surface](/surface)：表面
 
 ---
 
 ## 📖 できればこれも
 
-- [edge](/word/edge/)：端、へり
-- [side](/word/side/)：側、側面
+- [edge](/edge)：端、へり
+- [side](/side)：側、側面
 
-<!-- cvid: aid39_bid25 -->
+<!-- cvid: aid14_bid27 -->

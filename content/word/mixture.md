@@ -81,15 +81,19 @@ TOEICでは、科学や製造、料理などの文脈で「混合物」として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や製造、料理などの文脈で「混合物」として
 ## 🤔  combination との違いは？
 
 - **mixture**：物理的に混ざり合った「混合物」や「混ぜ合わせたもの」を指す。
-- **[combination](/word/combination/)**：複数の要素が「組み合わさること」や「組み合わせ」を指し、必ずしも物理的に混ざる必要はない。
+- **[combination](/combination)**：複数の要素が「組み合わさること」や「組み合わせ」を指し、必ずしも物理的に混ざる必要はない。
 
 mixtureは実際に混ざったもの、combinationは要素の組み合わせや構成に重点があります。
 
@@ -105,14 +109,14 @@ mixtureは実際に混ざったもの、combinationは要素の組み合わせ�
 
 ## 🧩 あわせて覚えたい
 
-- [blend](/word/blend/)：（なめらかに）混ぜる、混合物
-- [solution](/word/solution/)：溶液、解決策
+- [blend](/blend)：（なめらかに）混ぜる、混合物
+- [solution](/solution)：溶液、解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [substance](/word/substance/)：物質、実体
-- [compound](/word/compound/)：化合物、複合体
+- [substance](/substance)：物質、実体
+- [compound](/compound)：化合物、複合体
 
-<!-- cvid: aid28_bid05 -->
+<!-- cvid: aid22_bid13 -->

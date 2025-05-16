@@ -81,15 +81,19 @@ TOEICでは「earn」の過去形・過去分詞として、収入や評価を�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「earn」の過去形・過去分詞として、収入や評価を�
 ## 🤔  gained との違いは？
 
 - **earned**：努力や働きかけによって得る
-- **[gained](/word/gained/)**：増加や進歩によって得る、幅広い「得る」
+- **[gained](/gained)**：増加や進歩によって得る、幅広い「得る」
 
 「earned」は「努力や労働の対価」として得る場合に使い、「gained」は経験や体重、知識など幅広い「増える・得る」に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「earn」の過去形・過去分詞として、収入や評価を�
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る
-- [deserve](/word/deserve/)：値する
+- [receive](/receive)：受け取る
+- [deserve](/deserve)：値する
 
 ---
 
 ## 📖 できればこれも
 
-- [spent](/word/spent/)：使った、費やした
-- [save](/word/save/)：貯める、節約する
+- [spent](/spent)：使った、費やした
+- [save](/save)：貯める、節約する
 
-<!-- cvid: aid19_bid45 -->
+<!-- cvid: aid45_bid00 -->

@@ -81,15 +81,19 @@ ITやビジネス文脈で「フィルター機能」や「ろ過装置」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文脈で「フィルター機能」や「ろ過装置」とし
 ## 🤔  refine との違いは？
 
 - **filter**：不要なものを取り除いて必要なものだけを通す「フィルター」や「選別」の意味。
-- **[refine](/word/refine/)**：不純物を取り除いて「より純粋・高品質にする」意味。
+- **[refine](/refine)**：不純物を取り除いて「より純粋・高品質にする」意味。
 
 filterは単に「選別」や「ろ過」を指し、refineは「質を高めるためにさらに磨きをかける」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ filterは単に「選別」や「ろ過」を指し、refineは「質を高め�
 
 ## 🧩 あわせて覚えたい
 
-- [screen](/word/screen/)：ふるい分ける、選別する
-- [purify](/word/purify/)：純化する、きれいにする
+- [screen](/screen)：ふるい分ける、選別する
+- [purify](/purify)：純化する、きれいにする
 
 ---
 
 ## 📖 できればこれも
 
-- [sort](/word/sort/)：分類する、並べ替える
-- [process](/word/process/)：処理する、加工する
+- [sort](/sort)：分類する、並べ替える
+- [process](/process)：処理する、加工する
 
-<!-- cvid: aid09_bid25 -->
+<!-- cvid: aid18_bid27 -->

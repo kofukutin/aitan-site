@@ -81,15 +81,19 @@ TOEICでは「乗り物や機会を逃す」「誰かがいなくて寂しい」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「乗り物や機会を逃す」「誰かがいなくて寂しい」
 ## 🤔  lack との違いは？
 
 - **miss**：機会や人・物を「逃す」「いなくて寂しい」と感じる
-- **[lack](/word/lack/)**：必要なものが「不足している」状態
+- **[lack](/lack)**：必要なものが「不足している」状態
 
 「miss」は感情や出来事の「逃し」に焦点があり、「lack」は単に「足りない」ことを表します。
 
@@ -105,14 +109,14 @@ TOEICでは「乗り物や機会を逃す」「誰かがいなくて寂しい」
 
 ## 🧩 あわせて覚えたい
 
-- [fail](/word/fail/)：失敗する
-- [skip](/word/skip/)：飛ばす、抜かす
+- [fail](/fail)：失敗する
+- [skip](/skip)：飛ばす、抜かす
 
 ---
 
 ## 📖 できればこれも
 
-- [lose](/word/lose/)：失う
-- [forget](/word/forget/)：忘れる
+- [lose](/lose)：失う
+- [forget](/forget)：忘れる
 
-<!-- cvid: aid31_bid01 -->
+<!-- cvid: aid43_bid11 -->

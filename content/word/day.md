@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【day】の意味・使い方・例文 ― dateとの違い【TOEIC英単語】"
 description: "dayの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdateとの違いもわかりやすく学べます。"
 word: "day"
@@ -81,15 +81,19 @@ TOEICでは日付やスケジュール、日常の出来事を表す場面で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日付やスケジュール、日常の出来事を表す場面で頻
 ## 🤔  date との違いは？
 
 - **day**：24時間の「日」や「昼間」を表す一般的な単語
-- **[date](/word/date/)**：特定の日付やカレンダー上の「日」、または「デート」の意味
+- **[date](/date)**：特定の日付やカレンダー上の「日」、または「デート」の意味
 
 dayは時間の長さや日常の「日」を指し、dateはカレンダー上の特定の日やイベントの日付を指します。
 
@@ -105,14 +109,14 @@ dayは時間の長さや日常の「日」を指し、dateはカレンダー上�
 
 ## 🧩 あわせて覚えたい
 
-- [week](/word/week/)：週、7日間
-- [night](/word/night/)：夜、夜間
+- [week](/week)：週、7日間
+- [night](/night)：夜、夜間
 
 ---
 
 ## 📖 できればこれも
 
-- [month](/word/month/)：月、1か月
-- [time](/word/time/)：時間、時刻
+- [month](/month)：月、1か月
+- [time](/time)：時間、時刻
 
-<!-- cvid: aid40_bid25 -->
+<!-- cvid: aid21_bid37 -->

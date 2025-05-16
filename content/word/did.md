@@ -77,15 +77,19 @@ TOEICでは、過去の出来事を尋ねる疑問文や、過去の行動を強
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、過去の出来事を尋ねる疑問文や、過去の行動を強
 ## 🤔  made との違いは？
 
 - **did**：do（する）の過去形。一般的な「行った」「した」を表す。
-- **[made](/word/made/)**：make（作る）の過去形。「作った」「生み出した」という意味。
+- **[made](/made)**：make（作る）の過去形。「作った」「生み出した」という意味。
 
 didは「行動した」こと全般、madeは「作り出す」ことに特化して使い分けます。
 
@@ -101,14 +105,14 @@ didは「行動した」こと全般、madeは「作り出す」ことに特化�
 
 ## 🧩 あわせて覚えたい
 
-- [do](/word/do/)：する（動詞・原形）
-- [done](/word/done/)：した、終えた（動詞・過去分詞）
+- [do](/do)：する（動詞・原形）
+- [done](/done)：した、終えた（動詞・過去分詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [was](/word/was/)：～だった（be動詞の過去形）
-- [had](/word/had/)：持っていた、経験した（haveの過去形）
+- [was](/was)：～だった（be動詞の過去形）
+- [had](/had)：持っていた、経験した（haveの過去形）
 
-<!-- cvid: aid35_bid21 -->
+<!-- cvid: aid45_bid16 -->

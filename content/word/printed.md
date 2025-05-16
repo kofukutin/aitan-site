@@ -81,15 +81,19 @@ TOEICでは、書類や資料の説明文で「printed form（印刷された用
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類や資料の説明文で「printed form（印刷された用
 ## 🤔  written との違いは？
 
 - **printed**：印刷機などで紙に印刷されたものを指す
-- **[written](/word/written/)**：手書きやタイプなど「書かれた」もの全般を指す
+- **[written](/written)**：手書きやタイプなど「書かれた」もの全般を指す
 
 printedは「印刷された」ことに特化し、writtenは「手書き」や「タイプ」など広く「書かれた」ものを指します。
 
@@ -105,14 +109,14 @@ printedは「印刷された」ことに特化し、writtenは「手書き」や
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital/)：デジタルの、電子的な
-- [copy](/word/copy/)：写し、コピー
+- [digital](/digital)：デジタルの、電子的な
+- [copy](/copy)：写し、コピー
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [manual](/word/manual/)：手引き、マニュアル
+- [document](/document)：文書、書類
+- [manual](/manual)：手引き、マニュアル
 
-<!-- cvid: aid39_bid43 -->
+<!-- cvid: aid40_bid08 -->

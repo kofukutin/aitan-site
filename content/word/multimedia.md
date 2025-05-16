@@ -80,15 +80,19 @@ TOEICではITやビジネス関連の長文で、資料やウェブサイトの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではITやビジネス関連の長文で、資料やウェブサイトの�
 ## 🤔  interactive との違いは？
 
 - **multimedia**：複数のメディア形式を組み合わせたコンテンツや技術
-- **[interactive](/word/interactive/)**：ユーザーが操作できる、双方向性のある
+- **[interactive](/interactive)**：ユーザーが操作できる、双方向性のある
 
 multimediaは情報の種類や表現方法に注目し、interactiveは利用者とのやりとりや操作性に焦点を当てます。
 
@@ -104,14 +108,14 @@ multimediaは情報の種類や表現方法に注目し、interactiveは利用�
 
 ## 🧩 あわせて覚えたい
 
-- [animation](/word/animation/)：アニメーション、動画
-- [presentation](/word/presentation/)：プレゼンテーション、発表
+- [animation](/animation)：アニメーション、動画
+- [presentation](/presentation)：プレゼンテーション、発表
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [content](/word/content/)：内容、コンテンツ
+- [digital](/digital)：デジタルの
+- [content](/content)：内容、コンテンツ
 
-<!-- cvid: aid39_bid23 -->
+<!-- cvid: aid43_bid38 -->

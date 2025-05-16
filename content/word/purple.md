@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、服や物の色を説明する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、服や物の色を説明する際に
 ## 🤔  violet との違いは？
 
 - **purple**：一般的な紫色。赤みがかった紫から青みがかった紫まで幅広く指す。
-- **[violet](/word/violet/)**：やや青みが強い紫色。虹の色や花の名前にも使われる。
+- **[violet](/violet)**：やや青みが強い紫色。虹の色や花の名前にも使われる。
 
 purpleは幅広い紫色を指し、violetはより青みが強い色や、自然界の特定の色を表すときに使われます。
 
@@ -105,14 +109,14 @@ purpleは幅広い紫色を指し、violetはより青みが強い色や、自�
 
 ## 🧩 あわせて覚えたい
 
-- [red](/word/red/)：赤色
-- [blue](/word/blue/)：青色
+- [red](/red)：赤色
+- [blue](/blue)：青色
 
 ---
 
 ## 📖 できればこれも
 
-- [green](/word/green/)：緑色
-- [yellow](/word/yellow/)：黄色
+- [green](/green)：緑色
+- [yellow](/yellow)：黄色
 
-<!-- cvid: aid30_bid19 -->
+<!-- cvid: aid12_bid48 -->

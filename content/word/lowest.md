@@ -81,15 +81,19 @@ TOEICでは、価格や数値、レベルの比較・最上級表現として頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、価格や数値、レベルの比較・最上級表現として頻
 ## 🤔  minimum との違いは？
 
 - **lowest**：比較対象の中で「最も低い」「最低の」という意味。形容詞として使う。
-- **[minimum](/word/minimum/)**：許容される「最小限」「最低限」という意味。名詞や形容詞で使う。
+- **[minimum](/minimum)**：許容される「最小限」「最低限」という意味。名詞や形容詞で使う。
 
 lowestは「比較して一番低い」ことを強調し、minimumは「これ以下は許されない基準」を示します。
 
@@ -105,14 +109,14 @@ lowestは「比較して一番低い」ことを強調し、minimumは「これ�
 
 ## 🧩 あわせて覚えたい
 
-- [highest](/word/highest/)：最も高い
-- [least](/word/least/)：最も少ない
+- [highest](/highest)：最も高い
+- [least](/least)：最も少ない
 
 ---
 
 ## 📖 できればこれも
 
-- [lower](/word/lower/)：より低い
-- [smallest](/word/smallest/)：最も小さい
+- [lower](/lower)：より低い
+- [smallest](/smallest)：最も小さい
 
-<!-- cvid: aid28_bid05 -->
+<!-- cvid: aid32_bid45 -->

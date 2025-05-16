@@ -81,15 +81,19 @@ TOEICでは科学技術や製品説明の長文で登場することが多い単
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid30" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid30" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術や製品説明の長文で登場することが多い単
 ## 🤔  plastic との違いは？
 
 - **polymer**：高分子化合物全般を指し、天然・合成どちらも含む科学的な用語。
-- **[plastic](/word/plastic/)**：主に合成樹脂でできた「プラスチック製品」を指し、日常的な素材名。
+- **[plastic](/plastic)**：主に合成樹脂でできた「プラスチック製品」を指し、日常的な素材名。
 
 polymerは科学的な分類名で、plasticはその中の一部（合成樹脂製品）を指します。
 
@@ -105,14 +109,14 @@ polymerは科学的な分類名で、plasticはその中の一部（合成樹脂
 
 ## 🧩 あわせて覚えたい
 
-- [monomer](/word/monomer/)：単量体、ポリマーを構成する小さな分子
-- [resin](/word/resin/)：樹脂、プラスチックや接着剤の原料となる物質
+- [monomer](/monomer)：単量体、ポリマーを構成する小さな分子
+- [resin](/resin)：樹脂、プラスチックや接着剤の原料となる物質
 
 ---
 
 ## 📖 できればこれも
 
-- [compound](/word/compound/)：化合物
-- [fiber](/word/fiber/)：繊維
+- [compound](/compound)：化合物
+- [fiber](/fiber)：繊維
 
-<!-- cvid: aid03_bid43 -->
+<!-- cvid: aid12_bid30 -->

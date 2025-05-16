@@ -81,15 +81,19 @@ TOEICでは、広告や説明文、ビジネス文書などで「communication m
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告や説明文、ビジネス文書などで「communication m
 ## 🤔  method との違いは？
 
 - **medium**：情報や物事を伝える「媒体」「手段」
-- **[method](/word/method/)**：目的達成のための「方法」「やり方」
+- **[method](/method)**：目的達成のための「方法」「やり方」
 
 mediumは「伝達・表現のための媒体」に焦点があり、methodは「手順ややり方」に重点があります。
 
@@ -105,14 +109,14 @@ mediumは「伝達・表現のための媒体」に焦点があり、methodは�
 
 ## 🧩 あわせて覚えたい
 
-- [channel](/word/channel/)：（情報などの）経路、チャンネル
-- [vehicle](/word/vehicle/)：（考えや情報を伝える）手段、媒体
+- [channel](/channel)：（情報などの）経路、チャンネル
+- [vehicle](/vehicle)：（考えや情報を伝える）手段、媒体
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material/)：材料、素材
-- [device](/word/device/)：装置、機器
+- [material](/material)：材料、素材
+- [device](/device)：装置、機器
 
-<!-- cvid: aid44_bid01 -->
+<!-- cvid: aid04_bid34 -->

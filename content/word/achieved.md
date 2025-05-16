@@ -81,15 +81,19 @@ achievedはTOEICの文法・語彙問題（Part 5）で、動詞の時制や語�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ achievedはTOEICの文法・語彙問題（Part 5）で、動詞の時制や語�
 ## 🤔  accomplished との違いは？
 
 - **achieved**：目標や結果を努力して達成したことを表す。
-- **[accomplished](/word/accomplished/)**：特定のタスクや仕事を完了した、または高いスキルを持つ人にも使う。
+- **[accomplished](/accomplished)**：特定のタスクや仕事を完了した、または高いスキルを持つ人にも使う。
 
 achievedは「目標や成果を得た」ことに重点があり、accomplishedは「任務や作業をやり遂げた」ことや「熟練した人」にも使われます。
 
@@ -105,14 +109,14 @@ achievedは「目標や成果を得た」ことに重点があり、accomplished
 
 ## 🧩 あわせて覚えたい
 
-- [attain](/word/attain/)：（努力して）達成する
-- [fail](/word/fail/)：失敗する
+- [attain](/attain)：（努力して）達成する
+- [fail](/fail)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する
-- [complete](/word/complete/)：完了する
+- [improve](/improve)：改善する
+- [complete](/complete)：完了する
 
-<!-- cvid: aid29_bid40 -->
+<!-- cvid: aid40_bid48 -->

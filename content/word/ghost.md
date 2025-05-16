@@ -81,15 +81,19 @@ TOEICでは観光案内や物語、イベント紹介などの長文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光案内や物語、イベント紹介などの長文で登場す
 ## 🤔  spirit との違いは？
 
 - **ghost**：死者の魂が姿を現す「幽霊」や「亡霊」を指し、怖いイメージが強い。
-- **[spirit](/word/spirit/)**：魂や精神全般を指し、宗教的・哲学的な意味合いもある。
+- **[spirit](/spirit)**：魂や精神全般を指し、宗教的・哲学的な意味合いもある。
 
 ghostは「見える幽霊」、spiritは「目に見えない魂」や「精神」を表すことが多く、使い分けが必要です。
 
@@ -105,14 +109,14 @@ ghostは「見える幽霊」、spiritは「目に見えない魂」や「精神
 
 ## 🧩 あわせて覚えたい
 
-- [phantom](/word/phantom/)：幻影、幽霊
-- [haunt](/word/haunt/)：（幽霊などが）出没する
+- [phantom](/phantom)：幻影、幽霊
+- [haunt](/haunt)：（幽霊などが）出没する
 
 ---
 
 ## 📖 できればこれも
 
-- [monster](/word/monster/)：怪物
-- [legend](/word/legend/)：伝説
+- [monster](/monster)：怪物
+- [legend](/legend)：伝説
 
-<!-- cvid: aid39_bid19 -->
+<!-- cvid: aid42_bid46 -->

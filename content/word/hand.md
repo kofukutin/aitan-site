@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【hand】の意味・使い方・例文 ― armとの違い【TOEIC英単語】"
 description: "handの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでarmとの違いもわかりやすく学べます。"
 word: "hand"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「手で持つ」「手を挙げる」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「手で持つ」「手を挙げる」など
 ## 🤔  arm との違いは？
 
 - **hand**：手首から先の「手」そのものを指します。
-- **[arm](/word/arm/)**：肩から手首までの「腕」全体を指します。
+- **[arm](/arm)**：肩から手首までの「腕」全体を指します。
 
 handは物をつかむ・握るなどの動作に使い、armは腕全体の動きや部位を表すときに使います。
 
@@ -105,14 +109,14 @@ handは物をつかむ・握るなどの動作に使い、armは腕全体の動�
 
 ## 🧩 あわせて覚えたい
 
-- [finger](/word/finger/)：指
-- [assist](/word/assist/)：手伝う、補助する
+- [finger](/finger)：指
+- [assist](/assist)：手伝う、補助する
 
 ---
 
 ## 📖 できればこれも
 
-- [help](/word/help/)：助ける、手伝う
-- [hold](/word/hold/)：持つ、握る
+- [help](/help)：助ける、手伝う
+- [hold](/hold)：持つ、握る
 
-<!-- cvid: aid41_bid48 -->
+<!-- cvid: aid17_bid38 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bed】の意味・使い方・例文 ― couchとの違い【TOEIC英単語】"
 description: "bedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcouchとの違いもわかりやすく学べます。"
 word: "bed"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「ベッド」や「寝ている人」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「ベッド」や「寝ている人」
 ## 🤔  couch との違いは？
 
 - **bed**：寝るための家具、ベッド。
-- **[couch](/word/couch/)**：座るための長椅子、ソファ。
+- **[couch](/couch)**：座るための長椅子、ソファ。
 
 bedは主に寝るために使う家具、couchは座るための家具で、リビングなどに置かれます。
 
@@ -105,14 +109,14 @@ bedは主に寝るために使う家具、couchは座るための家具で、リ
 
 ## 🧩 あわせて覚えたい
 
-- [sofa](/word/sofa/)：ソファ、長椅子
-- [mattress](/word/mattress/)：マットレス、ベッドの上に敷くクッション部分
+- [sofa](/sofa)：ソファ、長椅子
+- [mattress](/mattress)：マットレス、ベッドの上に敷くクッション部分
 
 ---
 
 ## 📖 できればこれも
 
-- [chair](/word/chair/)：椅子
-- [table](/word/table/)：テーブル、机
+- [chair](/chair)：椅子
+- [table](/table)：テーブル、机
 
-<!-- cvid: aid45_bid06 -->
+<!-- cvid: aid44_bid02 -->

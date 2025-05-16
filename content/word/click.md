@@ -82,15 +82,19 @@ IT関連の説明や手順書、ウェブサイトの案内文などでよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ IT関連の説明や手順書、ウェブサイトの案内文などでよく出
 ## 🤔  tap との違いは？
 
 - **click**：主にマウスやボタンを「カチッ」と押す動作や音を指す
-- **[tap](/word/tap/)**：指先などで軽く「トントン」と触れる動作を指す
+- **[tap](/tap)**：指先などで軽く「トントン」と触れる動作を指す
 
 「click」はパソコンのマウス操作や物理的なボタンに使い、「tap」はスマホやタブレットの画面操作に使うことが多いです。
 
@@ -106,14 +110,14 @@ IT関連の説明や手順書、ウェブサイトの案内文などでよく出
 
 ## 🧩 あわせて覚えたい
 
-- [press](/word/press/)：押す、圧力をかける
-- [double_click](/word/double_click/)：ダブルクリックする
+- [press](/press)：押す、圧力をかける
+- [double_click](/double_click)：ダブルクリックする
 
 ---
 
 ## 📖 できればこれも
 
-- [scroll](/word/scroll/)：スクロールする
-- [select](/word/select/)：選択する
+- [scroll](/scroll)：スクロールする
+- [select](/select)：選択する
 
-<!-- cvid: aid01_bid35 -->
+<!-- cvid: aid12_bid00 -->

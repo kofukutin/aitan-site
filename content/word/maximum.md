@@ -82,15 +82,19 @@ TOEICでは、数値や条件を示す文脈で「maximum」がよく登場し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、数値や条件を示す文脈で「maximum」がよく登場し�
 ## 🤔  optimum との違いは？
 
 - **maximum**：物理的・数値的な「最大限」「上限」を表す
-- **[optimum](/word/optimum/)**：最適な、最も望ましい状態を表す
+- **[optimum](/optimum)**：最適な、最も望ましい状態を表す
 
 「maximum」は単に「一番大きい」や「上限」を指し、「optimum」は状況にとって最も良い（最適な）という意味で使い分けます。
 
@@ -106,14 +110,14 @@ TOEICでは、数値や条件を示す文脈で「maximum」がよく登場し�
 
 ## 🧩 あわせて覚えたい
 
-- [minimum](/word/minimum/)：最小限、最小値
-- [limit](/word/limit/)：限界、制限
+- [minimum](/minimum)：最小限、最小値
+- [limit](/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/word/average/)：平均
-- [capacity](/word/capacity/)：容量、収容力
+- [average](/average)：平均
+- [capacity](/capacity)：容量、収容力
 
-<!-- cvid: aid13_bid27 -->
+<!-- cvid: aid06_bid41 -->

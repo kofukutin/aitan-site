@@ -81,15 +81,19 @@ TOEICでは会議や作業現場、説明の場面で「gear」が「機材」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や作業現場、説明の場面で「gear」が「機材」�
 ## 🤔  equipment との違いは？
 
 - **gear**：特定の目的や活動に使う道具や装備、または機械の歯車
-- **[equipment](/word/equipment/)**：一般的に必要な装置や設備、集合的な機材
+- **[equipment](/equipment)**：一般的に必要な装置や設備、集合的な機材
 
 gearは個々の道具や装備品、または機械の部品（歯車）を指すことが多く、equipmentは全体的な設備や機材一式を指します。
 
@@ -105,14 +109,14 @@ gearは個々の道具や装備品、または機械の部品（歯車）を指�
 
 ## 🧩 あわせて覚えたい
 
-- [tool](/word/tool/)：道具、工具
-- [device](/word/device/)：装置、機器
+- [tool](/tool)：道具、工具
+- [device](/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool/)：道具、工具
-- [device](/word/device/)：装置、機器
+- [tool](/tool)：道具、工具
+- [device](/device)：装置、機器
 
-<!-- cvid: aid00_bid06 -->
+<!-- cvid: aid03_bid02 -->

@@ -81,15 +81,19 @@ We are truly blessed to have such a dedicated team.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ We are truly blessed to have such a dedicated team.
 ## 🤔  praise との違いは？
 
 - **bless**：神や目上の存在が「祝福する」「加護を与える」意味で使う。宗教的・感謝のニュアンスが強い。
-- **[praise](/word/praise/)**：人や物事を「称賛する」「褒める」意味で使う。宗教的な意味はない。
+- **[praise](/praise)**：人や物事を「称賛する」「褒める」意味で使う。宗教的な意味はない。
 
 blessは「神の恵み」や「ありがたさ」を表す時に使い、praiseは「良い点を褒める」時に使います。
 
@@ -105,14 +109,14 @@ blessは「神の恵み」や「ありがたさ」を表す時に使い、praise
 
 ## 🧩 あわせて覚えたい
 
-- [curse](/word/curse/)：呪う、災いを祈る
-- [thank](/word/thank/)：感謝する
+- [curse](/curse)：呪う、災いを祈る
+- [thank](/thank)：感謝する
 
 ---
 
 ## 📖 できればこれも
 
-- [wish](/word/wish/)：願う
-- [pray](/word/pray/)：祈る
+- [wish](/wish)：願う
+- [pray](/pray)：祈る
 
-<!-- cvid: aid01_bid36 -->
+<!-- cvid: aid27_bid02 -->

@@ -81,15 +81,19 @@ TOEICでは、求人広告や社内通知、製品説明などで「認定」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や社内通知、製品説明などで「認定」「
 ## 🤔  certificate との違いは？
 
 - **certification**：公式な認定や資格認定の「行為」や「制度」、またはその証明書全体を指す
-- **[certificate](/word/certificate/)**：個別の「証明書」や「修了証」など、物理的な書類自体を指す
+- **[certificate](/certificate)**：個別の「証明書」や「修了証」など、物理的な書類自体を指す
 
 certificationは「認定制度」や「資格認定」という広い意味で使われ、certificateは実際に手にする証明書そのものを指します。
 
@@ -105,14 +109,14 @@ certificationは「認定制度」や「資格認定」という広い意味で�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval/)：承認、許可
-- [authorization](/word/authorization/)：認可、権限付与
+- [approval](/approval)：承認、許可
+- [authorization](/authorization)：認可、権限付与
 
 ---
 
 ## 📖 できればこれも
 
-- [qualification](/word/qualification/)：資格、能力
-- [license](/word/license/)：免許、許可証
+- [qualification](/qualification)：資格、能力
+- [license](/license)：免許、許可証
 
-<!-- cvid: aid16_bid22 -->
+<!-- cvid: aid03_bid24 -->

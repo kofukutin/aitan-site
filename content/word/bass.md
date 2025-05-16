@@ -81,15 +81,19 @@ TOEICでは音楽やイベント、趣味に関する会話で「bass」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは音楽やイベント、趣味に関する会話で「bass」が登�
 ## 🤔  guitar との違いは？
 
 - **bass**：主に低音域を担当する楽器や音域を指す。
-- **[guitar](/word/guitar/)**：主にメロディやコードを奏でる弦楽器。
+- **[guitar](/guitar)**：主にメロディやコードを奏でる弦楽器。
 
 bassはバンドで低音を支える役割、guitarは主旋律や伴奏を担当する点が異なります。
 
@@ -105,14 +109,14 @@ bassはバンドで低音を支える役割、guitarは主旋律や伴奏を担�
 
 ## 🧩 あわせて覚えたい
 
-- [drum](/word/drum/)：ドラム、打楽器
-- [melody](/word/melody/)：メロディー、旋律
+- [drum](/drum)：ドラム、打楽器
+- [melody](/melody)：メロディー、旋律
 
 ---
 
 ## 📖 できればこれも
 
-- [piano](/word/piano/)：ピアノ
-- [music](/word/music/)：音楽
+- [piano](/piano)：ピアノ
+- [music](/music)：音楽
 
-<!-- cvid: aid17_bid26 -->
+<!-- cvid: aid19_bid45 -->

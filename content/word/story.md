@@ -81,15 +81,19 @@ TOEICではPart 7の長文読解で、記事やエピソード紹介の文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文読解で、記事やエピソード紹介の文脈で
 ## 🤔  history との違いは？
 
 - **story**：出来事や想像上の「物語」「話」を指す
-- **[history](/word/history/)**：実際に起きた「歴史」「経歴」を指す
+- **[history](/history)**：実際に起きた「歴史」「経歴」を指す
 
 storyはフィクションや個人的なエピソードにも使えますが、historyは事実に基づく過去の出来事に使います。
 
@@ -105,14 +109,14 @@ storyはフィクションや個人的なエピソードにも使えますが、
 
 ## 🧩 あわせて覚えたい
 
-- [tale](/word/tale/)：（伝説やおとぎ話などの）物語
-- [novel](/word/novel/)：小説
+- [tale](/tale)：（伝説やおとぎ話などの）物語
+- [novel](/novel)：小説
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/word/article/)：記事
-- [report](/word/report/)：報告、レポート
+- [article](/article)：記事
+- [report](/report)：報告、レポート
 
-<!-- cvid: aid12_bid39 -->
+<!-- cvid: aid10_bid38 -->

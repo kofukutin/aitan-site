@@ -81,15 +81,19 @@ TOEICでは工場やオフィスの設備、IT関連の話題でよく登場し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは工場やオフィスの設備、IT関連の話題でよく登場し�
 ## 🤔  device との違いは？
 
 - **machine**：動力や仕組みで自動的に作業を行う「機械」
-- **[device](/word/device/)**：特定の目的のために設計された「装置」や「器具」
+- **[device](/device)**：特定の目的のために設計された「装置」や「器具」
 
 machineは動く部品や動力を持つ大型の機械を指すことが多く、deviceは小型で電子機器など幅広い装置に使われます。
 
@@ -105,14 +109,14 @@ machineは動く部品や動力を持つ大型の機械を指すことが多く�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/word/equipment/)：設備、備品
-- [appliance](/word/appliance/)：家庭用電化製品
+- [equipment](/equipment)：設備、備品
+- [appliance](/appliance)：家庭用電化製品
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool/)：道具、工具
-- [system](/word/system/)：システム、仕組み
+- [tool](/tool)：道具、工具
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid42_bid09 -->
+<!-- cvid: aid35_bid06 -->

@@ -88,8 +88,12 @@ TOEICでは、社内異動やオフィス移転、転勤に関するメールや
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社内異動やオフィス移転、転勤に関するメールや
 ## 🤔  transfer との違いは？
 
 - **relocation**：物理的な場所の移動や転勤・引っ越しを強調
-- **[transfer](/word/transfer/)**：職務や役割の変更、または資金・データの移動など幅広い「移す」行為
+- **[transfer](/transfer)**：職務や役割の変更、または資金・データの移動など幅広い「移す」行為
 
 relocationは「場所が変わる」ことに重点があり、transferは「役割や所有権などの移動」も含めて幅広く使われます。
 
@@ -105,14 +109,14 @@ relocationは「場所が変わる」ことに重点があり、transferは「�
 
 ## 🧩 あわせて覚えたい
 
-- [move](/word/move/)：動く、引っ越す
-- [assignment](/word/assignment/)：任務、配属
+- [move](/move)：動く、引っ越す
+- [assignment](/assignment)：任務、配属
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/word/promotion/)：昇進
-- [appointment](/word/appointment/)：任命、指名
+- [promotion](/promotion)：昇進
+- [appointment](/appointment)：任命、指名
 
-<!-- cvid: aid34_bid01 -->
+<!-- cvid: aid34_bid09 -->

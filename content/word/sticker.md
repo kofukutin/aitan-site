@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sticker】の意味・使い方・例文 ― labelとの違い【TOEIC英単語】"
 description: "stickerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlabelとの違いもわかりやすく学べます。"
 word: "sticker"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、物に貼られているものとして
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、物に貼られているものとして
 ## 🤔  label との違いは？
 
 - **sticker**：装飾や遊び、簡単な表示のために貼るシールやステッカー
-- **[label](/word/label/)**：情報や説明、識別のために貼るラベル
+- **[label](/label)**：情報や説明、識別のために貼るラベル
 
 stickerは見た目や楽しさ重視、labelは内容や情報伝達が目的で使い分けます。
 
@@ -105,14 +109,14 @@ stickerは見た目や楽しさ重視、labelは内容や情報伝達が目的�
 
 ## 🧩 あわせて覚えたい
 
-- [stamp](/word/stamp/)：切手、印
-- [badge](/word/badge/)：バッジ、記章
+- [stamp](/stamp)：切手、印
+- [badge](/badge)：バッジ、記章
 
 ---
 
 ## 📖 できればこれも
 
-- [poster](/word/poster/)：ポスター
-- [envelope](/word/envelope/)：封筒
+- [poster](/poster)：ポスター
+- [envelope](/envelope)：封筒
 
-<!-- cvid: aid45_bid39 -->
+<!-- cvid: aid27_bid23 -->

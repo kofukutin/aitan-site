@@ -81,15 +81,19 @@ TOEICでは、ITやビジネス文書で「ファイルや情報にタグを付�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネス文書で「ファイルや情報にタグを付�
 ## 🤔  labeled との違いは？
 
 - **tagged**：札やラベル、またはデジタル情報に「タグ」を付けることに重点がある
-- **[labeled](/word/labeled/)**：主に「ラベル（表示）」を貼る、内容や名前を明示することに重点がある
+- **[labeled](/labeled)**：主に「ラベル（表示）」を貼る、内容や名前を明示することに重点がある
 
 「tagged」は物理的・デジタル的な「タグ付け」に幅広く使い、「labeled」は内容や名前を明確に示すラベル貼りに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、ITやビジネス文書で「ファイルや情報にタグを付�
 
 ## 🧩 あわせて覚えたい
 
-- [mark](/word/mark/)：印を付ける
-- [attach](/word/attach/)：取り付ける、添付する
+- [mark](/mark)：印を付ける
+- [attach](/attach)：取り付ける、添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [label](/word/label/)：ラベルを貼る
-- [identify](/word/identify/)：識別する
+- [label](/label)：ラベルを貼る
+- [identify](/identify)：識別する
 
-<!-- cvid: aid12_bid23 -->
+<!-- cvid: aid22_bid38 -->

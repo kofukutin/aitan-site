@@ -81,15 +81,19 @@ TOEICでは、記事やビジネス文書で「より広い視点」「幅広い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やビジネス文書で「より広い視点」「幅広い
 ## 🤔  wider との違いは？
 
 - **broader**：範囲や視野、内容が「より広い」「幅広い」
-- **[wider](/word/wider/)**：物理的な幅や範囲が「より広い」「より幅がある」
+- **[wider](/wider)**：物理的な幅や範囲が「より広い」「より幅がある」
 
 「broader」は抽象的な範囲や考え方にも使えますが、「wider」は主に物理的な幅や範囲に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、記事やビジネス文書で「より広い視点」「幅広い
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general/)：一般的な、全体的な
-- [comprehensive](/word/comprehensive/)：包括的な、広範囲にわたる
+- [general](/general)：一般的な、全体的な
+- [comprehensive](/comprehensive)：包括的な、広範囲にわたる
 
 ---
 
 ## 📖 できればこれも
 
-- [narrower](/word/narrower/)：より狭い
-- [extensive](/word/extensive/)：広範囲の
+- [narrower](/narrower)：より狭い
+- [extensive](/extensive)：広範囲の
 
-<!-- cvid: aid43_bid30 -->
+<!-- cvid: aid41_bid33 -->

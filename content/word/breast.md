@@ -81,15 +81,19 @@ Regular breast exams are important for early detection.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Regular breast exams are important for early detection.
 ## 🤔  chest との違いは？
 
 - **breast**：胸部、特に乳房を指すことが多い
-- **[chest](/word/chest/)**：胸全体や胸郭を指し、男女問わず使う
+- **[chest](/chest)**：胸全体や胸郭を指し、男女問わず使う
 
 「breast」は主に女性の乳房や胸部を指し、医学や料理で使われます。「chest」は体の前面全体の胸部を表し、より広い意味で使われます。
 
@@ -105,14 +109,14 @@ Regular breast exams are important for early detection.
 
 ## 🧩 あわせて覚えたい
 
-- [lung](/word/lung/)：肺
-- [heart](/word/heart/)：心臓
+- [lung](/lung)：肺
+- [heart](/heart)：心臓
 
 ---
 
 ## 📖 できればこれも
 
-- [shoulder](/word/shoulder/)：肩
-- [stomach](/word/stomach/)：胃、お腹
+- [shoulder](/shoulder)：肩
+- [stomach](/stomach)：胃、お腹
 
-<!-- cvid: aid02_bid49 -->
+<!-- cvid: aid10_bid19 -->

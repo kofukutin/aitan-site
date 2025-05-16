@@ -81,7 +81,7 @@ TOEICでは、技術的な説明やマニュアル、品質管理に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+好調のうちに進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、技術的な説明やマニュアル、品質管理に関する長
 
 <div class="info-center">
 ＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid01" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid01" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、技術的な説明やマニュアル、品質管理に関する長
 ## 🤔  adjustment との違いは？
 
 - **calibration**：基準に合わせて精密に調整すること（特に機器や測定器に使う）
-- **[adjustment](/word/adjustment/)**：一般的な調整や微調整
+- **[adjustment](/adjustment)**：一般的な調整や微調整
 
 calibrationは「正確さ・基準への一致」が重要な場面で使い、adjustmentは幅広い調整全般に使います。
 
@@ -105,14 +109,14 @@ calibrationは「正確さ・基準への一致」が重要な場面で使い、
 
 ## 🧩 あわせて覚えたい
 
-- [standardization](/word/standardization/)：標準化
-- [measurement](/word/measurement/)：測定
+- [standardization](/standardization)：標準化
+- [measurement](/measurement)：測定
 
 ---
 
 ## 📖 できればこれも
 
-- [precision](/word/precision/)：精密さ
-- [accuracy](/word/accuracy/)：正確さ
+- [precision](/precision)：精密さ
+- [accuracy](/accuracy)：正確さ
 
-<!-- cvid: aid01_bid01 -->
+<!-- cvid: aid30_bid01 -->

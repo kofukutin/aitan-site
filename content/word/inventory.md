@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、報告書などで「在庫」や�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、報告書などで「在庫」や�
 ## 🤔  stock との違いは？
 
 - **inventory**：在庫全体や棚卸しの一覧、管理の意味合いが強い
-- **[stock](/word/stock/)**：商品や材料などの「在庫品」そのものを指す
+- **[stock](/stock)**：商品や材料などの「在庫品」そのものを指す
 
 inventoryは「在庫管理」や「棚卸し作業」など全体的な管理やリストを指し、stockは実際の「品物」や「商品」を指す点が異なります。
 
@@ -105,14 +109,14 @@ inventoryは「在庫管理」や「棚卸し作業」など全体的な管理�
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/word/asset/)：資産
-- [catalog](/word/catalog/)：カタログ、目録
+- [asset](/asset)：資産
+- [catalog](/catalog)：カタログ、目録
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply/)：供給、備品
-- [shipment](/word/shipment/)：出荷、発送
+- [supply](/supply)：供給、備品
+- [shipment](/shipment)：出荷、発送
 
-<!-- cvid: aid30_bid10 -->
+<!-- cvid: aid42_bid34 -->

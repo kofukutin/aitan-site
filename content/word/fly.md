@@ -81,7 +81,7 @@ TOEICでは主にPart 1の写真描写で「飛ぶ」「飛行機で移動する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できるを増やそう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 1の写真描写で「飛ぶ」「飛行機で移動する
 
 <div class="info-center">
 ＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「飛ぶ」「飛行機で移動する
 ## 🤔  soar との違いは？
 
 - **fly**：空中を移動する、飛ぶ（一般的な「飛ぶ」動作全般）
-- **[soar](/word/soar/)**：高く舞い上がる、急上昇する（特に高く長く飛ぶニュアンス）
+- **[soar](/soar)**：高く舞い上がる、急上昇する（特に高く長く飛ぶニュアンス）
 
 flyは「飛ぶ」全般を指し、soarは「高く舞い上がる」「勢いよく上昇する」などダイナミックな動きを強調します。
 
@@ -105,14 +109,14 @@ flyは「飛ぶ」全般を指し、soarは「高く舞い上がる」「勢い�
 
 ## 🧩 あわせて覚えたい
 
-- [travel](/word/travel/)：旅行する、移動する
-- [float](/word/float/)：浮かぶ、漂う
+- [travel](/travel)：旅行する、移動する
+- [float](/float)：浮かぶ、漂う
 
 ---
 
 ## 📖 できればこれも
 
-- [ride](/word/ride/)：乗る（自転車・馬などに）
-- [drive](/word/drive/)：運転する（車などを）
+- [ride](/ride)：乗る（自転車・馬などに）
+- [drive](/drive)：運転する（車などを）
 
-<!-- cvid: aid34_bid30 -->
+<!-- cvid: aid24_bid30 -->

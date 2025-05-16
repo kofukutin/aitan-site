@@ -81,15 +81,19 @@ TOEICのPart 1（写真描写）で「light」は、部屋やオフィスの照�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid08_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1（写真描写）で「light」は、部屋やオフィスの照�
 ## 🤔  lamp との違いは？
 
 - **light**：部屋全体の明かりや光そのものを指す
-- **[lamp](/word/lamp/)**：卓上ランプやスタンドなど、特定の照明器具を指す
+- **[lamp](/lamp)**：卓上ランプやスタンドなど、特定の照明器具を指す
 
 「light」は空間全体の明かりや自然光も含みますが、「lamp」は特定の照明器具を指す点が異なります。
 
@@ -105,14 +109,14 @@ TOEICのPart 1（写真描写）で「light」は、部屋やオフィスの照�
 
 ## 🧩 あわせて覚えたい
 
-- [dark](/word/dark/)：暗闇、暗い
-- [bright](/word/bright/)：明るい、輝いている
+- [dark](/dark)：暗闇、暗い
+- [bright](/bright)：明るい、輝いている
 
 ---
 
 ## 📖 できればこれも
 
-- [heavy](/word/heavy/)：重い
-- [shine](/word/shine/)：輝く、光る
+- [heavy](/heavy)：重い
+- [shine](/shine)：輝く、光る
 
-<!-- cvid: aid39_bid02 -->
+<!-- cvid: aid08_bid47 -->

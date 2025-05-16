@@ -81,15 +81,19 @@ TOEICでは科学技術やビジネスの説明文で見かけることがあり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid04" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid04" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術やビジネスの説明文で見かけることがあり
 ## 🤔  speed との違いは？
 
 - **velocity**：方向を持つ「速度」。科学的・専門的な文脈で使われる。
-- **[speed](/word/speed/)**：一般的な「速さ」。日常会話や幅広い場面で使われる。
+- **[speed](/speed)**：一般的な「速さ」。日常会話や幅広い場面で使われる。
 
 velocityは物理や技術分野で「方向性」を含む速度を指し、speedは単純な速さを表します。
 
@@ -105,14 +109,14 @@ velocityは物理や技術分野で「方向性」を含む速度を指し、spe
 
 ## 🧩 あわせて覚えたい
 
-- [acceleration](/word/acceleration/)：加速度
-- [momentum](/word/momentum/)：運動量
+- [acceleration](/acceleration)：加速度
+- [momentum](/momentum)：運動量
 
 ---
 
 ## 📖 できればこれも
 
-- [mass](/word/mass/)：質量
-- [distance](/word/distance/)：距離
+- [mass](/mass)：質量
+- [distance](/distance)：距離
 
-<!-- cvid: aid34_bid07 -->
+<!-- cvid: aid31_bid04 -->

@@ -81,15 +81,19 @@ TOEICでは環境問題や安全管理に関する長文で「toxic」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や安全管理に関する長文で「toxic」が登場�
 ## 🤔  poisonous との違いは？
 
 - **toxic**：化学的・医学的に「有毒な」「毒性のある」という意味で、物質や環境、抽象的なものにも使える。
-- **[poisonous](/word/poisonous/)**：主に「食べる・触れると毒がある」もの（例：毒キノコ、ヘビ）に使う。
+- **[poisonous](/poisonous)**：主に「食べる・触れると毒がある」もの（例：毒キノコ、ヘビ）に使う。
 
 toxicは科学的・広範な毒性を指し、poisonousは直接的に「毒を持つ生物や物」に限定される傾向があります。
 
@@ -105,14 +109,14 @@ toxicは科学的・広範な毒性を指し、poisonousは直接的に「毒を
 
 ## 🧩 あわせて覚えたい
 
-- [hazardous](/word/hazardous/)：危険な、有害な
-- [harmful](/word/harmful/)：有害な、害を及ぼす
+- [hazardous](/hazardous)：危険な、有害な
+- [harmful](/harmful)：有害な、害を及ぼす
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical/)：化学物質
-- [pollute](/word/pollute/)：汚染する
+- [chemical](/chemical)：化学物質
+- [pollute](/pollute)：汚染する
 
-<!-- cvid: aid48_bid13 -->
+<!-- cvid: aid37_bid25 -->

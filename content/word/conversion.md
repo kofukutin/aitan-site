@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やIT関連の長文で「変換」「転換�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やIT関連の長文で「変換」「転換�
 ## 🤔  transformation との違いは？
 
 - **conversion**：用途や性質が変わる「変換」「転換」を意味し、実用的・機能的な変化に使われやすい。
-- **[transformation](/word/transformation/)**：姿や形、性質が大きく変わる「変形」「変容」を意味し、より劇的・根本的な変化に使われる。
+- **[transformation](/transformation)**：姿や形、性質が大きく変わる「変形」「変容」を意味し、より劇的・根本的な変化に使われる。
 
 conversionは「AをBに変える」など具体的な変換に、transformationは「劇的な変化」や「進化」に使われることが多いです。
 
@@ -105,14 +109,14 @@ conversionは「AをBに変える」など具体的な変換に、transformation
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange/)：交換、両替
-- [adaptation](/word/adaptation/)：適応、順応
+- [exchange](/exchange)：交換、両替
+- [adaptation](/adaptation)：適応、順応
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/word/transfer/)：移動、転送
-- [modification](/word/modification/)：修正、変更
+- [transfer](/transfer)：移動、転送
+- [modification](/modification)：修正、変更
 
-<!-- cvid: aid30_bid38 -->
+<!-- cvid: aid15_bid15 -->

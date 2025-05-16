@@ -81,15 +81,19 @@ TOEICでは、主に文脈判断や語彙選択問題で「relevant」と対比�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主に文脈判断や語彙選択問題で「relevant」と対比�
 ## 🤔  unrelated との違いは？
 
 - **irrelevant**：今の話題や目的に関係がなく、重要でないことを強調する
-- **[unrelated](/word/unrelated/)**：物理的・論理的なつながりが全くないことを表す
+- **[unrelated](/unrelated)**：物理的・論理的なつながりが全くないことを表す
 
 irrelevantは「今の状況にとって重要でない」ニュアンスがあり、unrelatedは「全く関係がない」ことを客観的に示します。
 
@@ -105,14 +109,14 @@ irrelevantは「今の状況にとって重要でない」ニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [pertinent](/word/pertinent/)：関連する、適切な
-- [applicable](/word/applicable/)：適用できる、当てはまる
+- [pertinent](/pertinent)：関連する、適切な
+- [applicable](/applicable)：適用できる、当てはまる
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant/)：関連のある、重要な
-- [essential](/word/essential/)：不可欠な、非常に重要な
+- [relevant](/relevant)：関連のある、重要な
+- [essential](/essential)：不可欠な、非常に重要な
 
-<!-- cvid: aid26_bid28 -->
+<!-- cvid: aid33_bid29 -->

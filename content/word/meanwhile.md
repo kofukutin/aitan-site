@@ -77,15 +77,19 @@ The team is preparing the report. Meanwhile, I will contact the client.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ The team is preparing the report. Meanwhile, I will contact the client.
 ## 🤔  in the meantime との違いは？
 
 - **meanwhile**：2つの出来事が同時進行しているときに「その間に」「一方で」と使う。
-- **[in the meantime](/word/in_the_meantime/)**：同じく「その間に」だが、ややフォーマルで、時間の経過を強調することが多い。
+- **[in the meantime](/in_the_meantime)**：同じく「その間に」だが、ややフォーマルで、時間の経過を強調することが多い。
 
 meanwhileは出来事の対比や同時進行を強調し、in the meantimeは「しばらくの間」など時間のつなぎを意識する場面で使われます。
 
@@ -101,14 +105,14 @@ meanwhileは出来事の対比や同時進行を強調し、in the meantimeは�
 
 ## 🧩 あわせて覚えたい
 
-- [simultaneously](/word/simultaneously/)：同時に
-- [afterward](/word/afterward/)：その後で
+- [simultaneously](/simultaneously)：同時に
+- [afterward](/afterward)：その後で
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [otherwise](/word/otherwise/)：さもなければ
+- [therefore](/therefore)：それゆえに
+- [otherwise](/otherwise)：さもなければ
 
-<!-- cvid: aid05_bid49 -->
+<!-- cvid: aid38_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「操縦する」「方向を決める」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「操縦する」「方向を決める」と
 ## 🤔  guide との違いは？
 
 - **steer**：物理的・比喩的に方向を操作したり導くニュアンス
-- **[guide](/word/guide/)**：案内や助言を通じて導くニュアンス
+- **[guide](/guide)**：案内や助言を通じて導くニュアンス
 
 steerは「舵を取る」ように方向を決めて導くイメージ、guideは「案内人」のように寄り添って導くイメージです。
 
@@ -105,14 +109,14 @@ steerは「舵を取る」ように方向を決めて導くイメージ、guide�
 
 ## 🧩 あわせて覚えたい
 
-- [navigate](/word/navigate/)：進路を決めて進む、操縦する
-- [control](/word/control/)：制御する、管理する
+- [navigate](/navigate)：進路を決めて進む、操縦する
+- [control](/control)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate/)：操作する、運転する
-- [direct](/word/direct/)：指示する、導く
+- [operate](/operate)：操作する、運転する
+- [direct](/direct)：指示する、導く
 
-<!-- cvid: aid03_bid11 -->
+<!-- cvid: aid46_bid38 -->

@@ -81,15 +81,19 @@ TOEICでは音楽やイベントに関する長文や広告文で登場するこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは音楽やイベントに関する長文や広告文で登場するこ
 ## 🤔  electronic との違いは？
 
 - **techno**：電子音を使った特定の音楽ジャンル
-- **[electronic](/word/electronic/)**：電子機器や電子音楽全般を指す形容詞
+- **[electronic](/electronic)**：電子機器や電子音楽全般を指す形容詞
 
 technoは音楽ジャンル名、electronicはより広く「電子的なもの」全般を指します。
 
@@ -105,14 +109,14 @@ technoは音楽ジャンル名、electronicはより広く「電子的なもの�
 
 ## 🧩 あわせて覚えたい
 
-- [music](/word/music/)：音楽
-- [genre](/word/genre/)：ジャンル、種類
+- [music](/music)：音楽
+- [genre](/genre)：ジャンル、種類
 
 ---
 
 ## 📖 できればこれも
 
-- [pop](/word/pop/)：ポップ（音楽ジャンル）
-- [digital](/word/digital/)：デジタルの
+- [pop](/pop)：ポップ（音楽ジャンル）
+- [digital](/digital)：デジタルの
 
-<!-- cvid: aid38_bid12 -->
+<!-- cvid: aid02_bid21 -->

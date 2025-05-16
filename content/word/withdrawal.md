@@ -81,15 +81,19 @@ TOEICでは銀行や金融、ビジネスの場面で「withdrawal」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは銀行や金融、ビジネスの場面で「withdrawal」が登場�
 ## 🤔  removal との違いは？
 
 - **withdrawal**：自分の意思で引き出す・撤退すること（特に金融や参加の中止など）
-- **[removal](/word/removal/)**：物理的・強制的に取り除くこと
+- **[removal](/removal)**：物理的・強制的に取り除くこと
 
 withdrawalは自発的な「引き下げ」や「撤退」に使い、removalは「除去」「取り外し」など物理的な動作や強制力が強い場面で使います。
 
@@ -105,14 +109,14 @@ withdrawalは自発的な「引き下げ」や「撤退」に使い、removalは
 
 ## 🧩 あわせて覚えたい
 
-- [deposit](/word/deposit/)：預金、預け入れ
-- [cancellation](/word/cancellation/)：取り消し、中止
+- [deposit](/deposit)：預金、預け入れ
+- [cancellation](/cancellation)：取り消し、中止
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/word/transfer/)：振込、移動
-- [transaction](/word/transaction/)：取引、処理
+- [transfer](/transfer)：振込、移動
+- [transaction](/transaction)：取引、処理
 
-<!-- cvid: aid43_bid33 -->
+<!-- cvid: aid06_bid15 -->

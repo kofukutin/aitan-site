@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書や法務関連の長文で登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid25_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書や法務関連の長文で登場し
 ## 🤔  administrative との違いは？
 
 - **regulatory**：規制や法律による統制・管理に関する
-- **[administrative](/word/administrative/)**：管理や運営、事務手続きに関する
+- **[administrative](/administrative)**：管理や運営、事務手続きに関する
 
 regulatoryは「規制・法令」に焦点があり、administrativeは「組織運営や事務」に関する場面で使い分けます。
 
@@ -105,14 +109,14 @@ regulatoryは「規制・法令」に焦点があり、administrativeは「組�
 
 ## 🧩 あわせて覚えたい
 
-- [legal](/word/legal/)：法律の、法的な
-- [compliance](/word/compliance/)：法令遵守
+- [legal](/legal)：法律の、法的な
+- [compliance](/compliance)：法令遵守
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [statutory](/word/statutory/)：法定の、法律で定められた
+- [mandatory](/mandatory)：義務的な、強制の
+- [statutory](/statutory)：法定の、法律で定められた
 
-<!-- cvid: aid03_bid27 -->
+<!-- cvid: aid25_bid22 -->

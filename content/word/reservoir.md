@@ -81,15 +81,19 @@ TOEICでは主に環境やインフラ、技術関連の説明文や記事で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に環境やインフラ、技術関連の説明文や記事で登
 ## 🤔  tank との違いは？
 
 - **reservoir**：主に自然または人工の大規模な貯水池や蓄積場所を指し、公共インフラや比喩的な「蓄積」にも使う。
-- **[tank](/word/tank/)**：比較的小型で、液体やガスを保存・運搬する容器を指す。
+- **[tank](/tank)**：比較的小型で、液体やガスを保存・運搬する容器を指す。
 
 reservoirは大規模で長期的な蓄積や自然・公共用途に使われるのに対し、tankは日常的・工業的な容器や設備を指します。
 
@@ -105,14 +109,14 @@ reservoirは大規模で長期的な蓄積や自然・公共用途に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [dam](/word/dam/)：ダム（川をせき止める構造物）
-- [container](/word/container/)：容器、入れ物
+- [dam](/dam)：ダム（川をせき止める構造物）
+- [container](/container)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [canal](/word/canal/)：運河、水路
-- [pipeline](/word/pipeline/)：パイプライン、導管
+- [canal](/canal)：運河、水路
+- [pipeline](/pipeline)：パイプライン、導管
 
-<!-- cvid: aid39_bid46 -->
+<!-- cvid: aid38_bid42 -->

@@ -81,15 +81,19 @@ TOEICではリスニングの会話や説明文で頻出し、過去の出来事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではリスニングの会話や説明文で頻出し、過去の出来事
 ## 🤔  see との違いは？
 
 - **saw**：seeの過去形で「見た」「目撃した」と過去の出来事を表す
-- **[see](/word/see/)**：現在形で「見る」「見える」など今や普段の動作を表す
+- **[see](/see)**：現在形で「見る」「見える」など今や普段の動作を表す
 
 sawは過去の出来事、seeは現在や習慣的な動作を表す点が異なります。
 
@@ -105,14 +109,14 @@ sawは過去の出来事、seeは現在や習慣的な動作を表す点が異�
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice/)：気づく、注意する
-- [observe](/word/observe/)：観察する、よく見る
+- [notice](/notice)：気づく、注意する
+- [observe](/observe)：観察する、よく見る
 
 ---
 
 ## 📖 できればこれも
 
-- [hear](/word/hear/)：聞く
-- [look](/word/look/)：見る（意識して目を向ける）
+- [hear](/hear)：聞く
+- [look](/look)：見る（意識して目を向ける）
 
-<!-- cvid: aid19_bid13 -->
+<!-- cvid: aid28_bid26 -->

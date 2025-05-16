@@ -80,15 +80,19 @@ TOEICのPart 1で、レストランやカフェの写真描写問題によく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICのPart 1で、レストランやカフェの写真描写問題によく登
 ## 🤔  napkin との違いは？
 
 - **tablecloth**：テーブル全体を覆う布。主にテーブルの保護や装飾に使う。
-- **[napkin](/word/napkin/)**：食事中に口や手を拭くための小さな布や紙。
+- **[napkin](/napkin)**：食事中に口や手を拭くための小さな布や紙。
 
 tableclothはテーブル全体を覆う大きな布、napkinは個人が使う小さな布や紙で、用途も大きさも異なります。
 
@@ -104,14 +108,14 @@ tableclothはテーブル全体を覆う大きな布、napkinは個人が使う�
 
 ## 🧩 あわせて覚えたい
 
-- [placemat](/word/placemat/)：食器の下に敷く小さなマット
-- [curtain](/word/curtain/)：窓や仕切りに使うカーテン
+- [placemat](/placemat)：食器の下に敷く小さなマット
+- [curtain](/curtain)：窓や仕切りに使うカーテン
 
 ---
 
 ## 📖 できればこれも
 
-- [dish](/word/dish/)：皿
-- [fork](/word/fork/)：フォーク
+- [dish](/dish)：皿
+- [fork](/fork)：フォーク
 
-<!-- cvid: aid14_bid39 -->
+<!-- cvid: aid33_bid47 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【coffee】の意味・使い方・例文 ― teaとの違い【TOEIC英単語】"
 description: "coffeeの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでteaとの違いもわかりやすく学べます。"
 word: "coffee"
@@ -80,15 +80,19 @@ TOEICではカフェやオフィスの写真描写、注文や飲み物に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではカフェやオフィスの写真描写、注文や飲み物に関す
 ## 🤔  tea との違いは？
 
 - **coffee**：コーヒー豆から作る苦味のある飲み物
-- **[tea](/word/tea/)**：茶葉から作るさっぱりした飲み物
+- **[tea](/tea)**：茶葉から作るさっぱりした飲み物
 
 coffeeはコーヒー豆由来、teaは茶葉由来で、味や香り・飲むシーンも異なります。
 
@@ -104,14 +108,14 @@ coffeeはコーヒー豆由来、teaは茶葉由来で、味や香り・飲む�
 
 ## 🧩 あわせて覚えたい
 
-- [cafe](/word/cafe/)：カフェ、喫茶店
-- [espresso](/word/espresso/)：エスプレッソ（濃いコーヒー）
+- [cafe](/cafe)：カフェ、喫茶店
+- [espresso](/espresso)：エスプレッソ（濃いコーヒー）
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/word/juice/)：ジュース
-- [milk](/word/milk/)：牛乳
+- [juice](/juice)：ジュース
+- [milk](/milk)：牛乳
 
-<!-- cvid: aid42_bid21 -->
+<!-- cvid: aid01_bid12 -->

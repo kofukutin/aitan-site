@@ -81,15 +81,19 @@ TOEICでは、ニュース記事やビジネス文書の中で「国内の」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「国内の」「
 ## 🤔  internal との違いは？
 
 - **domestic**：国や家庭など「外」と対比して「国内の」「家庭の」を表す
-- **[internal](/word/internal/)**：組織や物の「内部の」「内側の」を表す
+- **[internal](/internal)**：組織や物の「内部の」「内側の」を表す
 
 「domestic」は国や家庭などの外部と区別する際に使い、「internal」は組織や物の内側・内部構造を指すときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、ニュース記事やビジネス文書の中で「国内の」「
 
 ## 🧩 あわせて覚えたい
 
-- [foreign](/word/foreign/)：外国の、海外の
-- [national](/word/national/)：国家の、国民の
+- [foreign](/foreign)：外国の、海外の
+- [national](/national)：国家の、国民の
 
 ---
 
 ## 📖 できればこれも
 
-- [international](/word/international/)：国際的な
-- [local](/word/local/)：地域の、地元の
+- [international](/international)：国際的な
+- [local](/local)：地域の、地元の
 
-<!-- cvid: aid30_bid11 -->
+<!-- cvid: aid03_bid38 -->

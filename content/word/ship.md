@@ -81,15 +81,19 @@ TOEICでは、注文や物流、ビジネスメールの文脈で「ship」は�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、注文や物流、ビジネスメールの文脈で「ship」は�
 ## 🤔  deliver との違いは？
 
 - **ship**：商品や荷物を発送・出荷すること（送り出す側の動作）
-- **[deliver](/word/deliver/)**：商品や荷物を届けること（受け取り側に到着する動作）
+- **[deliver](/deliver)**：商品や荷物を届けること（受け取り側に到着する動作）
 
 shipは「送り出す」ことに重点があり、deliverは「届ける」「配達する」ことに重点があります。
 
@@ -105,14 +109,14 @@ shipは「送り出す」ことに重点があり、deliverは「届ける」「
 
 ## 🧩 あわせて覚えたい
 
-- [send](/word/send/)：送る（一般的に物や手紙を送る）
-- [receive](/word/receive/)：受け取る
+- [send](/send)：送る（一般的に物や手紙を送る）
+- [receive](/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [transport](/word/transport/)：輸送する
-- [order](/word/order/)：注文する
+- [transport](/transport)：輸送する
+- [order](/order)：注文する
 
-<!-- cvid: aid43_bid35 -->
+<!-- cvid: aid22_bid00 -->

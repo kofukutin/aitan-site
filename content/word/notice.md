@@ -82,15 +82,19 @@ TOEICでは会話や説明文で「気づく」「通知」といった意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話や説明文で「気づく」「通知」といった意味で
 ## 🤔  realize との違いは？
 
 - **notice**：目に見える変化や事実に「気づく」「注目する」
-- **[realize](/word/realize/)**：頭の中で「理解する」「はっきり認識する」
+- **[realize](/realize)**：頭の中で「理解する」「はっきり認識する」
 
 noticeは視覚や感覚的な「気づき」に使い、realizeは心の中で「理解する」場面で使います。
 
@@ -106,14 +110,14 @@ noticeは視覚や感覚的な「気づき」に使い、realizeは心の中で�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/word/observe/)：観察する
-- [ignore](/word/ignore/)：無視する
+- [observe](/observe)：観察する
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention/)：言及する
-- [remind](/word/remind/)：思い出させる
+- [mention](/mention)：言及する
+- [remind](/remind)：思い出させる
 
-<!-- cvid: aid35_bid21 -->
+<!-- cvid: aid05_bid06 -->

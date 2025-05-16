@@ -81,15 +81,19 @@ TOEICのPart 7で、書籍や出版物に関する長文の中で「novel」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で、書籍や出版物に関する長文の中で「novel」が�
 ## 🤔  book との違いは？
 
 - **novel**：物語性のある長編フィクション（小説）を指す
-- **[book](/word/book/)**：本全般（小説・教科書・辞書などすべて）を指す
+- **[book](/book)**：本全般（小説・教科書・辞書などすべて）を指す
 
 novelは「小説」というジャンルに限定されますが、bookはあらゆる種類の本を指します。
 
@@ -105,14 +109,14 @@ novelは「小説」というジャンルに限定されますが、bookはあ�
 
 ## 🧩 あわせて覚えたい
 
-- [story](/word/story/)：物語、話
-- [fiction](/word/fiction/)：フィクション、架空の物語
+- [story](/story)：物語、話
+- [fiction](/fiction)：フィクション、架空の物語
 
 ---
 
 ## 📖 できればこれも
 
-- [author](/word/author/)：著者、作家
-- [chapter](/word/chapter/)：章
+- [author](/author)：著者、作家
+- [chapter](/chapter)：章
 
-<!-- cvid: aid06_bid17 -->
+<!-- cvid: aid41_bid11 -->

@@ -81,15 +81,19 @@ TOEICでは主にメールや通知文、顧客対応の場面で「苦情」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや通知文、顧客対応の場面で「苦情」「
 ## 🤔  claim との違いは？
 
 - **complaint**：不満や問題点を伝える「苦情」「クレーム」
-- **[claim](/word/claim/)**：権利や補償などを「要求・主張」すること
+- **[claim](/claim)**：権利や補償などを「要求・主張」すること
 
 complaintは「不満を伝える」ニュアンスが強く、claimは「何かを求めて主張する」意味で使い分けます。
 
@@ -105,14 +109,14 @@ complaintは「不満を伝える」ニュアンスが強く、claimは「何か
 
 ## 🧩 あわせて覚えたい
 
-- [praise](/word/praise/)：称賛、ほめること
-- [request](/word/request/)：依頼、要望
+- [praise](/praise)：称賛、ほめること
+- [request](/request)：依頼、要望
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion/)：提案
-- [feedback](/word/feedback/)：意見、感想
+- [suggestion](/suggestion)：提案
+- [feedback](/feedback)：意見、感想
 
-<!-- cvid: aid46_bid01 -->
+<!-- cvid: aid32_bid34 -->

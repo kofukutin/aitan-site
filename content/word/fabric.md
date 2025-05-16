@@ -81,15 +81,19 @@ TOEICでは主に衣料品や製造業の文脈で「布地」「素材」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に衣料品や製造業の文脈で「布地」「素材」とし
 ## 🤔  textile との違いは？
 
 - **fabric**：衣服や家具などに使う「布地」「織物」を広く指す
-- **[textile](/word/textile/)**：産業的・技術的な「繊維製品」「織物」を指し、原材料や業界全体も含む
+- **[textile](/textile)**：産業的・技術的な「繊維製品」「織物」を指し、原材料や業界全体も含む
 
 fabricは日常的な「布地」に使われ、textileは工業製品や素材としての側面が強いです。
 
@@ -105,14 +109,14 @@ fabricは日常的な「布地」に使われ、textileは工業製品や素材�
 
 ## 🧩 あわせて覚えたい
 
-- [material](/word/material/)：材料、素材
-- [garment](/word/garment/)：衣服
+- [material](/material)：材料、素材
+- [garment](/garment)：衣服
 
 ---
 
 ## 📖 できればこれも
 
-- [pattern](/word/pattern/)：模様、パターン
-- [thread](/word/thread/)：糸
+- [pattern](/pattern)：模様、パターン
+- [thread](/thread)：糸
 
-<!-- cvid: aid09_bid41 -->
+<!-- cvid: aid33_bid39 -->

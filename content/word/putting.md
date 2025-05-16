@@ -81,15 +81,19 @@ TOEIC Part 1の写真描写問題で「物を置く」「何かを入れる」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEIC Part 1の写真描写問題で「物を置く」「何かを入れる」�
 ## 🤔  placing との違いは？
 
 - **putting**：物を単純に置く・入れる動作を幅広く表す
-- **[placing](/word/placing/)**：丁寧に、または特定の位置に意識して置くニュアンス
+- **[placing](/placing)**：丁寧に、または特定の位置に意識して置くニュアンス
 
 puttingは一般的な「置く」動作全般に使われ、placingは「位置や配置」に注意を払って置く場合に使われます。
 
@@ -105,14 +109,14 @@ puttingは一般的な「置く」動作全般に使われ、placingは「位置
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り除く、外す
-- [set](/word/set/)：（物を）置く、準備する
+- [remove](/remove)：取り除く、外す
+- [set](/set)：（物を）置く、準備する
 
 ---
 
 ## 📖 できればこれも
 
-- [take](/word/take/)：取る、持っていく
-- [bring](/word/bring/)：持ってくる
+- [take](/take)：取る、持っていく
+- [bring](/bring)：持ってくる
 
-<!-- cvid: aid10_bid09 -->
+<!-- cvid: aid48_bid35 -->

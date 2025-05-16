@@ -81,15 +81,19 @@ TOEICでは、メールや通知文、公式な書類の説明文などで「ver
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや通知文、公式な書類の説明文などで「ver
 ## 🤔  confirmed との違いは？
 
 - **verified**：第三者や公式な手続きで「証明・確認された」ことを強調
-- **[confirmed](/word/confirmed/)**：事実や予定などが「確定・承認された」ことを強調
+- **[confirmed](/confirmed)**：事実や予定などが「確定・承認された」ことを強調
 
 「verified」は証拠や手続きによる厳密な確認、「confirmed」は決定や承認のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、メールや通知文、公式な書類の説明文などで「ver
 
 ## 🧩 あわせて覚えたい
 
-- [authenticate](/word/authenticate/)：本物であることを認証する
-- [validate](/word/validate/)：有効性を確認する、妥当と認める
+- [authenticate](/authenticate)：本物であることを認証する
+- [validate](/validate)：有効性を確認する、妥当と認める
 
 ---
 
 ## 📖 できればこれも
 
-- [approved](/word/approved/)：承認された
-- [certified](/word/certified/)：認定された
+- [approved](/approved)：承認された
+- [certified](/certified)：認定された
 
-<!-- cvid: aid17_bid49 -->
+<!-- cvid: aid47_bid35 -->

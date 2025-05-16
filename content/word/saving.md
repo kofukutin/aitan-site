@@ -81,15 +81,19 @@ savingはTOEICの長文読解パートで、経済やビジネスの文脈で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ savingはTOEICの長文読解パートで、経済やビジネスの文脈で「
 ## 🤔  deposit との違いは？
 
 - **saving**：節約や貯蓄そのもの、または貯めたお金全体を指す
-- **[deposit](/word/deposit/)**：銀行などに預け入れる「預金」「入金」という行為やその金額
+- **[deposit](/deposit)**：銀行などに預け入れる「預金」「入金」という行為やその金額
 
 savingは「貯めたお金」や「節約した分」を広く指し、depositは「銀行に預けた金額」や「預け入れ」という具体的な行為や金額を指します。
 
@@ -105,14 +109,14 @@ savingは「貯めたお金」や「節約した分」を広く指し、deposit�
 
 ## 🧩 あわせて覚えたい
 
-- [expenditure](/word/expenditure/)：支出、出費
-- [budget](/word/budget/)：予算
+- [expenditure](/expenditure)：支出、出費
+- [budget](/budget)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense/)：費用、経費
-- [income](/word/income/)：収入
+- [expense](/expense)：費用、経費
+- [income](/income)：収入
 
-<!-- cvid: aid40_bid35 -->
+<!-- cvid: aid13_bid40 -->

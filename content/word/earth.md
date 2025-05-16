@@ -81,15 +81,19 @@ TOEICでは「地球環境」や「自然」に関する文脈で出題される
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「地球環境」や「自然」に関する文脈で出題される
 ## 🤔  ground との違いは？
 
 - **earth**：地球全体や「土」「地面」など自然の地表を指す。
-- **[ground](/word/ground/)**：建物の床や舗装された地面など、より限定的・具体的な「地面」を指す。
+- **[ground](/ground)**：建物の床や舗装された地面など、より限定的・具体的な「地面」を指す。
 
 earthは「地球」や「自然の土」を広く指し、groundは「足元の地面」や「床」など物理的・限定的な場所を表します。
 
@@ -105,14 +109,14 @@ earthは「地球」や「自然の土」を広く指し、groundは「足元の
 
 ## 🧩 あわせて覚えたい
 
-- [soil](/word/soil/)：土壌、土
-- [planet](/word/planet/)：惑星
+- [soil](/soil)：土壌、土
+- [planet](/planet)：惑星
 
 ---
 
 ## 📖 できればこれも
 
-- [moon](/word/moon/)：月
-- [nature](/word/nature/)：自然
+- [moon](/moon)：月
+- [nature](/nature)：自然
 
-<!-- cvid: aid18_bid29 -->
+<!-- cvid: aid09_bid42 -->

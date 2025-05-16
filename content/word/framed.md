@@ -81,15 +81,19 @@ TOEICでは、新聞記事やビジネス上のトラブルを扱う長文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、新聞記事やビジネス上のトラブルを扱う長文で「
 ## 🤔  set up との違いは？
 
 - **framed**：無実の人に罪を着せる、濡れ衣を着せる
-- **[set up](/word/set_up/)**：罠にはめる、計画的に陥れる
+- **[set up](/set_up)**：罠にはめる、計画的に陥れる
 
 framedは「罪を着せる」ことに特化し、set upはより広く「罠にかける」「陥れる」意味で使われます。
 
@@ -105,14 +109,14 @@ framedは「罪を着せる」ことに特化し、set upはより広く「罠�
 
 ## 🧩 あわせて覚えたい
 
-- [accuse](/word/accuse/)：告発する、非難する
-- [blame](/word/blame/)：責める、非難する
+- [accuse](/accuse)：告発する、非難する
+- [blame](/blame)：責める、非難する
 
 ---
 
 ## 📖 できればこれも
 
-- [charge](/word/charge/)：告発する、責任を問う
-- [suspect](/word/suspect/)：疑う、容疑をかける
+- [charge](/charge)：告発する、責任を問う
+- [suspect](/suspect)：疑う、容疑をかける
 
-<!-- cvid: aid01_bid37 -->
+<!-- cvid: aid48_bid30 -->

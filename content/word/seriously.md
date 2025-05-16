@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「真剣に」「本気で」など、態度や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「真剣に」「本気で」など、態度や
 ## 🤔  literally との違いは？
 
 - **seriously**：真剣に、本気で、冗談抜きで
-- **[literally](/word/literally/)**：文字通り、本当に
+- **[literally](/literally)**：文字通り、本当に
 
 seriouslyは「冗談抜きで」「本気で」という気持ちや態度を強調しますが、literallyは「言葉通り」「誇張なしで」という意味で使われます。
 
@@ -105,14 +109,14 @@ seriouslyは「冗談抜きで」「本気で」という気持ちや態度を�
 
 ## 🧩 あわせて覚えたい
 
-- [earnestly](/word/earnestly/)：熱心に、真面目に
-- [jokingly](/word/jokingly/)：冗談で
+- [earnestly](/earnestly)：熱心に、真面目に
+- [jokingly](/jokingly)：冗談で
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/word/actually/)：実際に、実は
-- [truly](/word/truly/)：本当に、心から
+- [actually](/actually)：実際に、実は
+- [truly](/truly)：本当に、心から
 
-<!-- cvid: aid30_bid23 -->
+<!-- cvid: aid01_bid10 -->

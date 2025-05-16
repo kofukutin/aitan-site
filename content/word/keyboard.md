@@ -81,15 +81,19 @@ IT機器やオフィスの備品に関する会話や説明で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT機器やオフィスの備品に関する会話や説明で登場すること
 ## 🤔  keypad との違いは？
 
 - **keyboard**：多くのキーが並ぶ入力装置全体（パソコンや楽器など）
-- **[keypad](/word/keypad/)**：数字や少数のキーだけが並ぶ小型の入力装置
+- **[keypad](/keypad)**：数字や少数のキーだけが並ぶ小型の入力装置
 
 keyboardはフルサイズの入力装置、keypadは主に数字入力用などの小型装置を指します。
 
@@ -105,14 +109,14 @@ keyboardはフルサイズの入力装置、keypadは主に数字入力用など
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor/)：ディスプレイ、画面
-- [mouse](/word/mouse/)：マウス（入力装置）
+- [monitor](/monitor)：ディスプレイ、画面
+- [mouse](/mouse)：マウス（入力装置）
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/word/screen/)：画面
-- [button](/word/button/)：ボタン
+- [screen](/screen)：画面
+- [button](/button)：ボタン
 
-<!-- cvid: aid11_bid10 -->
+<!-- cvid: aid27_bid38 -->

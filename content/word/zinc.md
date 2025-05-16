@@ -80,15 +80,19 @@ TOEICでは、科学や産業に関する説明文や製品仕様の中で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、科学や産業に関する説明文や製品仕様の中で見か
 ## 🤔  iron との違いは？
 
 - **zinc**：青白い金属で、主にメッキやサプリメントに使われる。
-- **[iron](/word/iron/)**：鉄。建築や機械など幅広く使われる、重くて強い金属。
+- **[iron](/iron)**：鉄。建築や機械など幅広く使われる、重くて強い金属。
 
 zincは主に防錆や健康目的で使われる軽い金属、ironは構造材などに使われる重くて強い金属です。
 
@@ -104,14 +108,14 @@ zincは主に防錆や健康目的で使われる軽い金属、ironは構造材
 
 ## 🧩 あわせて覚えたい
 
-- [copper](/word/copper/)：銅。電線や硬貨などに使われる赤みがかった金属。
-- [alloy](/word/alloy/)：合金。2種類以上の金属を混ぜてできたもの。
+- [copper](/copper)：銅。電線や硬貨などに使われる赤みがかった金属。
+- [alloy](/alloy)：合金。2種類以上の金属を混ぜてできたもの。
 
 ---
 
 ## 📖 できればこれも
 
-- [metal](/word/metal/)：金属。鉄や銅などの総称。
-- [mineral](/word/mineral/)：鉱物。地中から採れる天然の物質。
+- [metal](/metal)：金属。鉄や銅などの総称。
+- [mineral](/mineral)：鉱物。地中から採れる天然の物質。
 
-<!-- cvid: aid45_bid01 -->
+<!-- cvid: aid08_bid21 -->

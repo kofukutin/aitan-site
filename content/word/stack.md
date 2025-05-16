@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、物が積み重なっている様子を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、物が積み重なっている様子を
 ## 🤔  pile との違いは？
 
 - **stack**：同じ種類のものを整然と積み重ねた山
-- **[pile](/word/pile/)**：種類や形がバラバラでも無造作に積み上げた山
+- **[pile](/pile)**：種類や形がバラバラでも無造作に積み上げた山
 
 stackは「きちんと積まれている」ニュアンスがあり、pileは「雑然と積まれている」印象です。
 
@@ -105,14 +109,14 @@ stackは「きちんと積まれている」ニュアンスがあり、pileは�
 
 ## 🧩 あわせて覚えたい
 
-- [heap](/word/heap/)：（雑然とした）山、積み上げ
-- [bundle](/word/bundle/)：束、ひとまとめ
+- [heap](/heap)：（雑然とした）山、積み上げ
+- [bundle](/bundle)：束、ひとまとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [row](/word/row/)：列、並び
-- [shelf](/word/shelf/)：棚
+- [row](/row)：列、並び
+- [shelf](/shelf)：棚
 
-<!-- cvid: aid41_bid31 -->
+<!-- cvid: aid24_bid26 -->

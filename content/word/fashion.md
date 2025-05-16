@@ -81,15 +81,19 @@ TOEICでは広告や記事、Eメールなどで「流行」や「ファッシ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告や記事、Eメールなどで「流行」や「ファッシ�
 ## 🤔  style との違いは？
 
 - **fashion**：社会的に流行している服装や様式を指す
-- **[style](/word/style/)**：個人や物の独自のスタイル・特徴を指す
+- **[style](/style)**：個人や物の独自のスタイル・特徴を指す
 
 fashionは「今流行しているもの」に焦点があり、styleは「個人や物の独自性・特徴」に重きを置きます。
 
@@ -105,14 +109,14 @@ fashionは「今流行しているもの」に焦点があり、styleは「個�
 
 ## 🧩 あわせて覚えたい
 
-- [trend](/word/trend/)：流行、傾向
-- [custom](/word/custom/)：習慣、慣習
+- [trend](/trend)：流行、傾向
+- [custom](/custom)：習慣、慣習
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：デザイン、設計
-- [brand](/word/brand/)：ブランド、銘柄
+- [design](/design)：デザイン、設計
+- [brand](/brand)：ブランド、銘柄
 
-<!-- cvid: aid09_bid03 -->
+<!-- cvid: aid12_bid38 -->

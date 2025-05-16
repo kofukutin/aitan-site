@@ -81,15 +81,19 @@ TOEICでは、日常会話や観光、飲食に関するシーンで登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、日常会話や観光、飲食に関するシーンで登場する
 ## 🤔  bar との違いは？
 
 - **pub**：イギリス発祥のカジュアルな居酒屋で、食事や会話も楽しめる地域密着型の場所。
-- **[bar](/word/bar/)**：お酒を中心に提供する飲み屋で、アメリカなどで一般的。食事は軽めの場合が多い。
+- **[bar](/bar)**：お酒を中心に提供する飲み屋で、アメリカなどで一般的。食事は軽めの場合が多い。
 
 pubは地域の人々が集まる社交場の意味合いが強く、barはお酒を飲むことが主目的の場所です。
 
@@ -105,14 +109,14 @@ pubは地域の人々が集まる社交場の意味合いが強く、barはお�
 
 ## 🧩 あわせて覚えたい
 
-- [restaurant](/word/restaurant/)：レストラン、食事を提供する店
-- [cafe](/word/cafe/)：カフェ、軽食や飲み物を提供する店
+- [restaurant](/restaurant)：レストラン、食事を提供する店
+- [cafe](/cafe)：カフェ、軽食や飲み物を提供する店
 
 ---
 
 ## 📖 できればこれも
 
-- [club](/word/club/)：クラブ、会員制の社交場やナイトクラブ
-- [lounge](/word/lounge/)：ラウンジ、くつろげる待合室やバー
+- [club](/club)：クラブ、会員制の社交場やナイトクラブ
+- [lounge](/lounge)：ラウンジ、くつろげる待合室やバー
 
-<!-- cvid: aid28_bid33 -->
+<!-- cvid: aid32_bid37 -->

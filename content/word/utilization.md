@@ -81,15 +81,19 @@ TOEICではビジネス文書や会議資料で「資源の活用」「設備の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議資料で「資源の活用」「設備の
 ## 🤔  usage との違いは？
 
 - **utilization**：効率的・有効な活用や運用を強調し、フォーマルな場面で使われる
-- **[usage](/word/usage/)**：単なる「使い方」「使用量」など広く一般的な意味
+- **[usage](/usage)**：単なる「使い方」「使用量」など広く一般的な意味
 
 utilizationは「活用」「有効利用」といった積極的なニュアンスがあり、usageは日常的な「使い方」や「使用量」に使われます。
 
@@ -105,14 +109,14 @@ utilizationは「活用」「有効利用」といった積極的なニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [application](/word/application/)：応用、適用
-- [consumption](/word/consumption/)：消費、消耗
+- [application](/application)：応用、適用
+- [consumption](/consumption)：消費、消耗
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/word/efficiency/)：効率
-- [resource](/word/resource/)：資源
+- [efficiency](/efficiency)：効率
+- [resource](/resource)：資源
 
-<!-- cvid: aid15_bid04 -->
+<!-- cvid: aid30_bid31 -->

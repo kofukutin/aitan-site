@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、プロジェクト説明などで「framewo
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、プロジェクト説明などで「framewo
 ## 🤔  structure との違いは？
 
 - **framework**：物事の基本的な枠組みや仕組み、抽象的な構造を指す
-- **[structure](/word/structure/)**：物理的・組織的な構造や配置そのものを指す
+- **[structure](/structure)**：物理的・組織的な構造や配置そのものを指す
 
 frameworkは「考え方や計画の土台」として使われ、structureは「実際の構造や組織の形」に焦点を当てます。
 
@@ -105,14 +109,14 @@ frameworkは「考え方や計画の土台」として使われ、structureは�
 
 ## 🧩 あわせて覚えたい
 
-- [system](/word/system/)：体系、仕組み
-- [guideline](/word/guideline/)：指針、ガイドライン
+- [system](/system)：体系、仕組み
+- [guideline](/guideline)：指針、ガイドライン
 
 ---
 
 ## 📖 できればこれも
 
-- [platform](/word/platform/)：基盤、プラットフォーム
-- [component](/word/component/)：構成要素、部品
+- [platform](/platform)：基盤、プラットフォーム
+- [component](/component)：構成要素、部品
 
-<!-- cvid: aid00_bid41 -->
+<!-- cvid: aid10_bid48 -->

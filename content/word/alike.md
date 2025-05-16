@@ -77,15 +77,19 @@ TOEICでは、主に比較や類似性を表す文脈で副詞として出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、主に比較や類似性を表す文脈で副詞として出題さ
 ## 🤔  similar との違いは？
 
 - **alike**：2つ以上のものが「互いに似ている」ことを強調し、主に補語や副詞的に使う
-- **[similar](/word/similar/)**：何かが「～に似ている」と述べる形容詞で、名詞を修飾できる
+- **[similar](/similar)**：何かが「～に似ている」と述べる形容詞で、名詞を修飾できる
 
 alikeは「A and B are alike」のように主語同士の類似を表し、similarは「A is similar to B」のように一方が他方に似ていることを表します。
 
@@ -101,14 +105,14 @@ alikeは「A and B are alike」のように主語同士の類似を表し、simi
 
 ## 🧩 あわせて覚えたい
 
-- [different](/word/different/)：異なる
-- [identical](/word/identical/)：全く同じ、同一の
+- [different](/different)：異なる
+- [identical](/identical)：全く同じ、同一の
 
 ---
 
 ## 📖 できればこれも
 
-- [equal](/word/equal/)：等しい、同等の
-- [various](/word/various/)：さまざまな
+- [equal](/equal)：等しい、同等の
+- [various](/various)：さまざまな
 
-<!-- cvid: aid31_bid12 -->
+<!-- cvid: aid32_bid20 -->

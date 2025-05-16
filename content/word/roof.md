@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、建物や車の屋根を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid11" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid11" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、建物や車の屋根を説明する
 ## 🤔  ceiling との違いは？
 
 - **roof**：建物の外側最上部を覆う「屋根」
-- **[ceiling](/word/ceiling/)**：部屋の内側の「天井」
+- **[ceiling](/ceiling)**：部屋の内側の「天井」
 
 roofは外から見える屋根、ceilingは部屋の中から見上げる天井を指します。
 
@@ -105,14 +109,14 @@ roofは外から見える屋根、ceilingは部屋の中から見上げる天井
 
 ## 🧩 あわせて覚えたい
 
-- [wall](/word/wall/)：壁
-- [floor](/word/floor/)：床
+- [wall](/wall)：壁
+- [floor](/floor)：床
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window/)：窓
-- [door](/word/door/)：ドア
+- [window](/window)：窓
+- [door](/door)：ドア
 
-<!-- cvid: aid29_bid04 -->
+<!-- cvid: aid36_bid11 -->

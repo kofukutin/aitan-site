@@ -81,15 +81,19 @@ TOEICでは食品や健康、成分説明の文脈で形容詞として出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは食品や健康、成分説明の文脈で形容詞として出題さ
 ## 🤔  oily との違いは？
 
 - **fatty**：脂肪分が多い、脂っこい（特に食品や体質に使う）
-- **[oily](/word/oily/)**：油っぽい、油で覆われた（液体の油分や表面の油に焦点）
+- **[oily](/oily)**：油っぽい、油で覆われた（液体の油分や表面の油に焦点）
 
 「fatty」は食材や体質など脂肪分の多さを指し、「oily」は表面が油でベタベタしている様子や液体の油分に使います。
 
@@ -105,14 +109,14 @@ TOEICでは食品や健康、成分説明の文脈で形容詞として出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [lean](/word/lean/)：脂肪の少ない、赤身の
-- [greasy](/word/greasy/)：油っこい、ギトギトした
+- [lean](/lean)：脂肪の少ない、赤身の
+- [greasy](/greasy)：油っこい、ギトギトした
 
 ---
 
 ## 📖 できればこれも
 
-- [healthy](/word/healthy/)：健康的な
-- [nutritious](/word/nutritious/)：栄養価の高い
+- [healthy](/healthy)：健康的な
+- [nutritious](/nutritious)：栄養価の高い
 
-<!-- cvid: aid46_bid15 -->
+<!-- cvid: aid18_bid04 -->

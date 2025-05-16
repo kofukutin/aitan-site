@@ -82,15 +82,19 @@ TOEICでは、動作や出来事が繰り返される状況を説明する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、動作や出来事が繰り返される状況を説明する文脈
 ## 🤔  continuously との違いは？
 
 - **repeatedly**：何度も繰り返して（間隔をあけて）行われることを強調
-- **[continuously](/word/continuously/)**：途切れずに連続して続くことを強調
+- **[continuously](/continuously)**：途切れずに連続して続くことを強調
 
 repeatedlyは「何度も繰り返す」こと、continuouslyは「途切れずに続く」ことを表し、動作の間に間隔があるかどうかが違いです。
 
@@ -106,14 +110,14 @@ repeatedlyは「何度も繰り返す」こと、continuouslyは「途切れず�
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently/)：頻繁に
-- [occasionally](/word/occasionally/)：時々
+- [frequently](/frequently)：頻繁に
+- [occasionally](/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [regularly](/word/regularly/)：定期的に
-- [eventually](/word/eventually/)：最終的に
+- [regularly](/regularly)：定期的に
+- [eventually](/eventually)：最終的に
 
-<!-- cvid: aid43_bid41 -->
+<!-- cvid: aid05_bid10 -->

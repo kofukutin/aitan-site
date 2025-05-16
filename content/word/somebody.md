@@ -77,15 +77,19 @@ TOEICではPart 2の応答問題や会話文でよく登場します。日常的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart 2の応答問題や会話文でよく登場します。日常的
 ## 🤔  someone との違いは？
 
 - **somebody**：カジュアルな場面で「誰か」を指す
-- **[someone](/word/someone/)**：ややフォーマルな場面で「誰か」を指す
+- **[someone](/someone)**：ややフォーマルな場面で「誰か」を指す
 
 somebodyは日常会話でよく使われ、someoneはフォーマルな文書やビジネスシーンで使われやすいです。
 
@@ -101,14 +105,14 @@ somebodyは日常会話でよく使われ、someoneはフォーマルな文書�
 
 ## 🧩 あわせて覚えたい
 
-- [anybody](/word/anybody/)：誰でも、誰か（疑問文・否定文でよく使う）
-- [nobody](/word/nobody/)：誰も～ない
+- [anybody](/anybody)：誰でも、誰か（疑問文・否定文でよく使う）
+- [nobody](/nobody)：誰も～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [everybody](/word/everybody/)：みんな、全員
-- [anyone](/word/anyone/)：誰でも、誰か
+- [everybody](/everybody)：みんな、全員
+- [anyone](/anyone)：誰でも、誰か
 
-<!-- cvid: aid01_bid02 -->
+<!-- cvid: aid44_bid12 -->

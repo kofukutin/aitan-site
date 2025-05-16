@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【put】の意味・使い方・例文 ― placeとの違い【TOEIC英単語】"
 description: "putの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでplaceとの違いもわかりやすく学べます。"
 word: "put"
@@ -83,15 +83,19 @@ TOEICではPart 1の写真描写問題で「物を置く」「手に持つ」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid32_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICではPart 1の写真描写問題で「物を置く」「手に持つ」な
 ## 🤔  place との違いは？
 
 - **put**：物や人をある場所に「置く」「入れる」など、動作そのものを表す。
-- **[place](/word/place/)**：ややフォーマルで、丁寧に「配置する」「きちんと置く」ニュアンスが強い。
+- **[place](/place)**：ややフォーマルで、丁寧に「配置する」「きちんと置く」ニュアンスが強い。
 
 putは日常的で幅広い動作に使い、placeは慎重さや丁寧さを強調したいときに使います。
 
@@ -107,14 +111,14 @@ putは日常的で幅広い動作に使い、placeは慎重さや丁寧さを強
 
 ## 🧩 あわせて覚えたい
 
-- [set](/word/set/)：（物を）置く、設置する
-- [remove](/word/remove/)：取り除く、外す
+- [set](/set)：（物を）置く、設置する
+- [remove](/remove)：取り除く、外す
 
 ---
 
 ## 📖 できればこれも
 
-- [take](/word/take/)：取る、持っていく
-- [bring](/word/bring/)：持ってくる
+- [take](/take)：取る、持っていく
+- [bring](/bring)：持ってくる
 
-<!-- cvid: aid48_bid45 -->
+<!-- cvid: aid32_bid26 -->

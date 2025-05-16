@@ -81,15 +81,19 @@ TOEICでは健康やスポーツ、職場の福利厚生に関する長文で見
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康やスポーツ、職場の福利厚生に関する長文で見
 ## 🤔  training との違いは？
 
 - **conditioning**：体や心の状態を整えること、または特定の状態に慣れさせること
-- **[training](/word/training/)**：特定のスキルや能力を高めるための訓練や練習
+- **[training](/training)**：特定のスキルや能力を高めるための訓練や練習
 
 conditioningは「状態作り」や「調整」に重点があり、trainingは「技術や能力の向上」に重点があります。
 
@@ -105,14 +109,14 @@ conditioningは「状態作り」や「調整」に重点があり、trainingは
 
 ## 🧩 あわせて覚えたい
 
-- [preparation](/word/preparation/)：準備、用意
-- [treatment](/word/treatment/)：治療、処置
+- [preparation](/preparation)：準備、用意
+- [treatment](/treatment)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [rehabilitation](/word/rehabilitation/)：リハビリ、社会復帰
-- [exercise](/word/exercise/)：運動、練習
+- [rehabilitation](/rehabilitation)：リハビリ、社会復帰
+- [exercise](/exercise)：運動、練習
 
-<!-- cvid: aid18_bid11 -->
+<!-- cvid: aid31_bid24 -->

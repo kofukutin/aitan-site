@@ -81,15 +81,19 @@ TOEICでは、人物の性格や態度を表す形容詞として選択肢に出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物の性格や態度を表す形容詞として選択肢に出
 ## 🤔  eager との違いは？
 
 - **impatient**：待つことに我慢できず、イライラしたり焦ったりする気持ち
-- **[eager](/word/eager/)**：何かを強く望んでワクワクしている、積極的な気持ち
+- **[eager](/eager)**：何かを強く望んでワクワクしている、積極的な気持ち
 
 impatientは「待てなくてイライラ」、eagerは「楽しみにして積極的」という感情の違いがあります。
 
@@ -105,14 +109,14 @@ impatientは「待てなくてイライラ」、eagerは「楽しみにして積
 
 ## 🧩 あわせて覚えたい
 
-- [patient](/word/patient/)：我慢強い、辛抱強い
-- [restless](/word/restless/)：落ち着きのない、そわそわした
+- [patient](/patient)：我慢強い、辛抱強い
+- [restless](/restless)：落ち着きのない、そわそわした
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/word/nervous/)：緊張している、不安な
-- [anxious](/word/anxious/)：心配している、気がかりな
+- [nervous](/nervous)：緊張している、不安な
+- [anxious](/anxious)：心配している、気がかりな
 
-<!-- cvid: aid00_bid10 -->
+<!-- cvid: aid24_bid33 -->

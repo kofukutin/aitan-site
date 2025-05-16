@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「髭を剃っている」「表面を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「髭を剃っている」「表面を
 ## 🤔  trimmed との違いは？
 
 - **shaved**：刃物などで表面を剃ったり、薄く削ったりすること
-- **[trimmed](/word/trimmed/)**：余分な部分を切りそろえて整えること
+- **[trimmed](/trimmed)**：余分な部分を切りそろえて整えること
 
 shavedは「表面を刃物で取り除く」ニュアンスが強く、trimmedは「形を整える」意味で使われます。
 
@@ -105,14 +109,14 @@ shavedは「表面を刃物で取り除く」ニュアンスが強く、trimmed�
 
 ## 🧩 あわせて覚えたい
 
-- [cut](/word/cut/)：切る、カットする
-- [scrape](/word/scrape/)：こすり取る、削り取る
+- [cut](/cut)：切る、カットする
+- [scrape](/scrape)：こすり取る、削り取る
 
 ---
 
 ## 📖 できればこれも
 
-- [polished](/word/polished/)：磨かれた、つやを出した
-- [brushed](/word/brushed/)：ブラシで磨いた、ブラッシングした
+- [polished](/polished)：磨かれた、つやを出した
+- [brushed](/brushed)：ブラシで磨いた、ブラッシングした
 
-<!-- cvid: aid05_bid14 -->
+<!-- cvid: aid26_bid27 -->

@@ -82,15 +82,19 @@ relationは、TOEICの長文読解やビジネス文書で「関係」や「関�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ relationは、TOEICの長文読解やビジネス文書で「関係」や「関�
 ## 🤔  relationship との違いは？
 
 - **relation**：物事や人・組織の間の「関係」や「関連性」を広く指し、フォーマルな場面や学術・ビジネスでよく使う。
-- **[relationship](/word/relationship/)**：人間関係や感情的なつながり、より親密な関係を表すときに使う。
+- **[relationship](/relationship)**：人間関係や感情的なつながり、より親密な関係を表すときに使う。
 
 relationは客観的・形式的な「関係」、relationshipは個人的・感情的な「つながり」を強調します。
 
@@ -106,14 +110,14 @@ relationは客観的・形式的な「関係」、relationshipは個人的・感
 
 ## 🧩 あわせて覚えたい
 
-- [connection](/word/connection/)：つながり、接続
-- [association](/word/association/)：関連、連想、協会
+- [connection](/connection)：つながり、接続
+- [association](/association)：関連、連想、協会
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor/)：要因、要素
-- [aspect](/word/aspect/)：側面、観点
+- [factor](/factor)：要因、要素
+- [aspect](/aspect)：側面、観点
 
-<!-- cvid: aid00_bid16 -->
+<!-- cvid: aid17_bid14 -->

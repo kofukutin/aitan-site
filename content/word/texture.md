@@ -81,15 +81,19 @@ TOEICでは主に製品説明や広告文、ビジネスメールなどで「質
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に製品説明や広告文、ビジネスメールなどで「質
 ## 🤔  fabric との違いは？
 
 - **texture**：物の表面の手触りや質感、または構成を表す
-- **[fabric](/word/fabric/)**：布地や織物そのもの、または構造を表す
+- **[fabric](/fabric)**：布地や織物そのもの、または構造を表す
 
 textureは「触った感じ」や「見た目のきめ」に焦点があり、fabricは「素材そのもの」や「布地」を指します。
 
@@ -105,14 +109,14 @@ textureは「触った感じ」や「見た目のきめ」に焦点があり、f
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/word/surface/)：表面
-- [pattern](/word/pattern/)：模様、パターン
+- [surface](/surface)：表面
+- [pattern](/pattern)：模様、パターン
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material/)：材料、素材
-- [feature](/word/feature/)：特徴、特性
+- [material](/material)：材料、素材
+- [feature](/feature)：特徴、特性
 
-<!-- cvid: aid00_bid48 -->
+<!-- cvid: aid30_bid40 -->

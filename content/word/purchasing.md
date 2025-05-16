@@ -81,15 +81,19 @@ TOEICではビジネスシーンの購買や調達に関する文脈でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスシーンの購買や調達に関する文脈でよく出
 ## 🤔  procurement との違いは？
 
 - **purchasing**：日常的な「購買」や「仕入れ」の活動全般を指す。
-- **[procurement](/word/procurement/)**：よりフォーマルで、特に公共調達や大規模な調達プロセスを指す。
+- **[procurement](/procurement)**：よりフォーマルで、特に公共調達や大規模な調達プロセスを指す。
 
 purchasingは一般的な購買活動、procurementは契約や手続きが伴う公式な調達を指す場面で使い分けます。
 
@@ -105,14 +109,14 @@ purchasingは一般的な購買活動、procurementは契約や手続きが伴�
 
 ## 🧩 あわせて覚えたい
 
-- [acquisition](/word/acquisition/)：取得、獲得
-- [sale](/word/sale/)：販売
+- [acquisition](/acquisition)：取得、獲得
+- [sale](/sale)：販売
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給業者
-- [invoice](/word/invoice/)：請求書
+- [supplier](/supplier)：供給業者
+- [invoice](/invoice)：請求書
 
-<!-- cvid: aid15_bid33 -->
+<!-- cvid: aid25_bid48 -->

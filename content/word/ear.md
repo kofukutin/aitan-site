@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【ear】の意味・使い方・例文 ― hearingとの違い【TOEIC英単語】"
 description: "earの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhearingとの違いもわかりやすく学べます。"
 word: "ear"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、人物の体の部位として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、人物の体の部位として
 ## 🤔  hearing との違いは？
 
 - **ear**：頭部にある「耳」という器官そのもの
-- **[hearing](/word/hearing/)**：音を聞く「聴覚」や「聞こえる能力」
+- **[hearing](/hearing)**：音を聞く「聴覚」や「聞こえる能力」
 
 earは物理的な耳、hearingは音を感じ取る能力や感覚を指します。
 
@@ -105,14 +109,14 @@ earは物理的な耳、hearingは音を感じ取る能力や感覚を指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [eye](/word/eye/)：目
-- [listen](/word/listen/)：聞く（動詞）
+- [eye](/eye)：目
+- [listen](/listen)：聞く（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [nose](/word/nose/)：鼻
-- [sound](/word/sound/)：音
+- [nose](/nose)：鼻
+- [sound](/sound)：音
 
-<!-- cvid: aid24_bid42 -->
+<!-- cvid: aid21_bid10 -->

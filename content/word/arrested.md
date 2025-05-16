@@ -81,15 +81,19 @@ TOEICでは、警察や法的な場面を扱う会話や説明文で「arrested�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、警察や法的な場面を扱う会話や説明文で「arrested�
 ## 🤔  detained との違いは？
 
 - **arrested**：警察などが正式に容疑者を逮捕したことを指す。
-- **[detained](/word/detained/)**：一時的に拘束する意味で、必ずしも逮捕とは限らない。
+- **[detained](/detained)**：一時的に拘束する意味で、必ずしも逮捕とは限らない。
 
 「arrested」は法的な手続きに基づく逮捕、「detained」は事情聴取や確認のための一時的な拘束を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、警察や法的な場面を扱う会話や説明文で「arrested�
 
 ## 🧩 あわせて覚えたい
 
-- [release](/word/release/)：釈放する
-- [charge](/word/charge/)：告発する、起訴する
+- [release](/release)：釈放する
+- [charge](/charge)：告発する、起訴する
 
 ---
 
 ## 📖 できればこれも
 
-- [investigate](/word/investigate/)：調査する
-- [suspect](/word/suspect/)：容疑者、疑う
+- [investigate](/investigate)：調査する
+- [suspect](/suspect)：容疑者、疑う
 
-<!-- cvid: aid37_bid25 -->
+<!-- cvid: aid46_bid16 -->

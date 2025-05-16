@@ -82,15 +82,19 @@ TOEICでは「a lack of ～」の形で名詞として頻出します。動詞�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「a lack of ～」の形で名詞として頻出します。動詞�
 ## 🤔  shortage との違いは？
 
 - **lack**：必要なものが「まったくない」または「大きく不足している」状態を幅広く表す。
-- **[shortage](/word/shortage/)**：特定の物や人手などが「需要に対して足りない」ことを強調。
+- **[shortage](/shortage)**：特定の物や人手などが「需要に対して足りない」ことを強調。
 
 lackは一般的な「不足」を指し、shortageは「供給不足」や「需要に対して足りない」状況で使われることが多いです。
 
@@ -106,14 +110,14 @@ lackは一般的な「不足」を指し、shortageは「供給不足」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/word/absence/)：不在、欠席
-- [deficiency](/word/deficiency/)：（必要なものの）不足、欠陥
+- [absence](/absence)：不在、欠席
+- [deficiency](/deficiency)：（必要なものの）不足、欠陥
 
 ---
 
 ## 📖 できればこれも
 
-- [scarcity](/word/scarcity/)：希少、（物資などの）不足
-- [insufficient](/word/insufficient/)：不十分な
+- [scarcity](/scarcity)：希少、（物資などの）不足
+- [insufficient](/insufficient)：不十分な
 
-<!-- cvid: aid46_bid00 -->
+<!-- cvid: aid08_bid37 -->

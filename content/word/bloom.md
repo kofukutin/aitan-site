@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、花や植物の説明として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、花や植物の説明として出題
 ## 🤔  blossom との違いは？
 
 - **bloom**：花が咲くこと全般や、開花の状態を指す
-- **[blossom](/word/blossom/)**：特に果樹や木の花が咲くこと、または発展・成長のニュアンスが強い
+- **[blossom](/blossom)**：特に果樹や木の花が咲くこと、または発展・成長のニュアンスが強い
 
 bloomは一般的な「花が咲く」に使い、blossomは木や果樹の花や、物事が発展する様子に使われます。
 
@@ -106,14 +110,14 @@ bloomは一般的な「花が咲く」に使い、blossomは木や果樹の花�
 
 ## 🧩 あわせて覚えたい
 
-- [wither](/word/wither/)：しおれる、枯れる
-- [flourish](/word/flourish/)：繁栄する、活躍する
+- [wither](/wither)：しおれる、枯れる
+- [flourish](/flourish)：繁栄する、活躍する
 
 ---
 
 ## 📖 できればこれも
 
-- [grow](/word/grow/)：成長する、育つ
-- [plant](/word/plant/)：植物、植える
+- [grow](/grow)：成長する、育つ
+- [plant](/plant)：植物、植える
 
-<!-- cvid: aid15_bid47 -->
+<!-- cvid: aid16_bid20 -->

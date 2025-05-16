@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bat】の意味・使い方・例文 ― racketとの違い【TOEIC英単語】"
 description: "batの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでracketとの違いもわかりやすく学べます。"
 word: "bat"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、スポーツや道具の説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、スポーツや道具の説明とし
 ## 🤔  racket との違いは？
 
 - **bat**：野球やクリケットなどで使う棒状の道具、またはコウモリ（動物）。
-- **[racket](/word/racket/)**：テニスやバドミントンなどで使う網状のラケット。
+- **[racket](/racket)**：テニスやバドミントンなどで使う網状のラケット。
 
 batは「棒状のバット」や「コウモリ」を指し、racketは「ネットが張られたラケット」を指します。スポーツによって使い分けます。
 
@@ -106,14 +110,14 @@ batは「棒状のバット」や「コウモリ」を指し、racketは「ネ�
 
 ## 🧩 あわせて覚えたい
 
-- [ball](/word/ball/)：ボール
-- [glove](/word/glove/)：グローブ
+- [ball](/ball)：ボール
+- [glove](/glove)：グローブ
 
 ---
 
 ## 📖 できればこれも
 
-- [cap](/word/cap/)：帽子
-- [net](/word/net/)：ネット
+- [cap](/cap)：帽子
+- [net](/net)：ネット
 
-<!-- cvid: aid23_bid48 -->
+<!-- cvid: aid27_bid03 -->

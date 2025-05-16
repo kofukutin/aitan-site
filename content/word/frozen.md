@@ -81,15 +81,19 @@ Please store the products in a frozen state.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please store the products in a frozen state.
 ## 🤔  icy との違いは？
 
 - **frozen**：完全に凍った、冷凍された状態を表す
-- **[icy](/word/icy/)**：氷で覆われている、または氷のように冷たい状態を表す
+- **[icy](/icy)**：氷で覆われている、または氷のように冷たい状態を表す
 
 「frozen」は物や液体が完全に凍っている状態、「icy」は表面が氷で覆われていたり、冷たさを強調したいときに使います。
 
@@ -105,14 +109,14 @@ Please store the products in a frozen state.
 
 ## 🧩 あわせて覚えたい
 
-- [chilly](/word/chilly/)：ひんやりした、肌寒い
-- [solid](/word/solid/)：固体の、固い
+- [chilly](/chilly)：ひんやりした、肌寒い
+- [solid](/solid)：固体の、固い
 
 ---
 
 ## 📖 できればこれも
 
-- [cold](/word/cold/)：冷たい
-- [melt](/word/melt/)：溶ける
+- [cold](/cold)：冷たい
+- [melt](/melt)：溶ける
 
-<!-- cvid: aid45_bid28 -->
+<!-- cvid: aid38_bid17 -->

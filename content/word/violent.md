@@ -81,7 +81,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「violent protest
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できたら応用も試そう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、ニュース記事やビジネス文書の中で「violent protest
 
 <div class="info-center">
 ＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「violent protest
 ## 🤔  aggressive との違いは？
 
 - **violent**：暴力や破壊的な激しさを伴う場合に使う
-- **[aggressive](/word/aggressive/)**：攻撃的・積極的な態度や行動を指すが、必ずしも暴力的とは限らない
+- **[aggressive](/aggressive)**：攻撃的・積極的な態度や行動を指すが、必ずしも暴力的とは限らない
 
 violentは「物理的な暴力」や「制御できない激しさ」に焦点があり、aggressiveは「攻撃的・積極的な姿勢」や「挑戦的な態度」に使われます。
 
@@ -105,14 +109,14 @@ violentは「物理的な暴力」や「制御できない激しさ」に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [peaceful](/word/peaceful/)：平和的な、穏やかな
-- [intense](/word/intense/)：強烈な、激しい（感情や活動など）
+- [peaceful](/peaceful)：平和的な、穏やかな
+- [intense](/intense)：強烈な、激しい（感情や活動など）
 
 ---
 
 ## 📖 できればこれも
 
-- [dangerous](/word/dangerous/)：危険な
-- [hostile](/word/hostile/)：敵意のある、敵対的な
+- [dangerous](/dangerous)：危険な
+- [hostile](/hostile)：敵意のある、敵対的な
 
-<!-- cvid: aid47_bid15 -->
+<!-- cvid: aid44_bid15 -->

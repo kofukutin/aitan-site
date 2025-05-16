@@ -81,15 +81,19 @@ TOEICではPart 7のメールや記事、報告書などで「見直し」「評
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7のメールや記事、報告書などで「見直し」「評
 ## 🤔  evaluate との違いは？
 
 - **review**：全体を見直したり、評価や批評を行うこと
-- **[evaluate](/word/evaluate/)**：特定の基準で価値や効果を評価すること
+- **[evaluate](/evaluate)**：特定の基準で価値や効果を評価すること
 
 reviewは「広く見直す・批評する」ニュアンス、evaluateは「基準に沿って評価する」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ reviewは「広く見直す・批評する」ニュアンス、evaluateは「基
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/word/assessment/)：評価、査定
-- [feedback](/word/feedback/)：意見、感想
+- [assessment](/assessment)：評価、査定
+- [feedback](/feedback)：意見、感想
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [report](/word/report/)：報告書
+- [summary](/summary)：要約
+- [report](/report)：報告書
 
-<!-- cvid: aid46_bid44 -->
+<!-- cvid: aid43_bid36 -->

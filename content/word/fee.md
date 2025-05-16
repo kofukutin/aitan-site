@@ -81,15 +81,19 @@ feeはTOEICのPart 5やPart 6で「手数料」「料金」として頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ feeはTOEICのPart 5やPart 6で「手数料」「料金」として頻出しま
 ## 🤔  charge との違いは？
 
 - **fee**：専門的なサービスや入会などに対する料金・手数料
-- **[charge](/word/charge/)**：一般的な商品やサービスの代金、請求額
+- **[charge](/charge)**：一般的な商品やサービスの代金、請求額
 
 feeは「専門的なサービス」や「資格・入会」など限定的な料金に使い、chargeはより広く「請求される金額」全般に使います。
 
@@ -105,14 +109,14 @@ feeは「専門的なサービス」や「資格・入会」など限定的な�
 
 ## 🧩 あわせて覚えたい
 
-- [fare](/word/fare/)：（乗り物の）運賃
-- [tuition](/word/tuition/)：（学校などの）授業料
+- [fare](/fare)：（乗り物の）運賃
+- [tuition](/tuition)：（学校などの）授業料
 
 ---
 
 ## 📖 できればこれも
 
-- [bill](/word/bill/)：請求書、勘定
-- [cost](/word/cost/)：費用、コスト
+- [bill](/bill)：請求書、勘定
+- [cost](/cost)：費用、コスト
 
-<!-- cvid: aid43_bid36 -->
+<!-- cvid: aid24_bid45 -->

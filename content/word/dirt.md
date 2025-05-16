@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【dirt】の意味・使い方・例文 ― soilとの違い【TOEIC英単語】"
 description: "dirtの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsoilとの違いもわかりやすく学べます。"
 word: "dirt"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、地面や物の「汚れ」「土」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid25" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid25" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、地面や物の「汚れ」「土」を
 ## 🤔  soil との違いは？
 
 - **dirt**：日常的な「土」「汚れ」「泥」など、ややカジュアルな響き。
-- **[soil](/word/soil/)**：農業や科学などで使う「土壌」「地面の土」。ややフォーマル。
+- **[soil](/soil)**：農業や科学などで使う「土壌」「地面の土」。ややフォーマル。
 
 dirtは「汚れ」や「泥」など幅広く使えますが、soilは「植物を育てる土」など専門的・フォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ dirtは「汚れ」や「泥」など幅広く使えますが、soilは「植物
 
 ## 🧩 あわせて覚えたい
 
-- [dust](/word/dust/)：ほこり
-- [mud](/word/mud/)：ぬかるみ、泥
+- [dust](/dust)：ほこり
+- [mud](/mud)：ぬかるみ、泥
 
 ---
 
 ## 📖 できればこれも
 
-- [dust](/word/dust/)：ほこり
-- [ground](/word/ground/)：地面
+- [dust](/dust)：ほこり
+- [ground](/ground)：地面
 
-<!-- cvid: aid11_bid46 -->
+<!-- cvid: aid24_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で衣類や素材の説明として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で衣類や素材の説明として出題
 ## 🤔  fur との違いは？
 
 - **wool**：羊などの動物の柔らかい毛や、それを使った布地
-- **[fur](/word/fur/)**：動物の体を覆う毛皮やそのままの毛
+- **[fur](/fur)**：動物の体を覆う毛皮やそのままの毛
 
 woolは主に羊毛やその製品を指し、furは動物の毛皮全般やそのままの毛を指します。
 
@@ -105,14 +109,14 @@ woolは主に羊毛やその製品を指し、furは動物の毛皮全般やそ�
 
 ## 🧩 あわせて覚えたい
 
-- [cotton](/word/cotton/)：綿、コットン
-- [fabric](/word/fabric/)：布地、生地
+- [cotton](/cotton)：綿、コットン
+- [fabric](/fabric)：布地、生地
 
 ---
 
 ## 📖 できればこれも
 
-- [leather](/word/leather/)：革、レザー
-- [silk](/word/silk/)：絹、シルク
+- [leather](/leather)：革、レザー
+- [silk](/silk)：絹、シルク
 
-<!-- cvid: aid03_bid07 -->
+<!-- cvid: aid26_bid29 -->

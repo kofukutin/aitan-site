@@ -82,15 +82,19 @@ TOEICでは「proper」は書類や手続き、服装などの「適切さ」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「proper」は書類や手続き、服装などの「適切さ」を
 ## 🤔  appropriate との違いは？
 
 - **proper**：状況や基準に合った「正式」「礼儀正しい」ニュアンスが強い
-- **[appropriate](/word/appropriate/)**：状況に「ふさわしい」「適切」だが、必ずしもフォーマルとは限らない
+- **[appropriate](/appropriate)**：状況に「ふさわしい」「適切」だが、必ずしもフォーマルとは限らない
 
 「proper」はフォーマルさや正しさを強調し、「appropriate」は広く「ふさわしい」ことを表します。
 
@@ -106,14 +110,14 @@ TOEICでは「proper」は書類や手続き、服装などの「適切さ」を
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/word/suitable/)：適している、ふさわしい
-- [correct](/word/correct/)：正しい、間違いのない
+- [suitable](/suitable)：適している、ふさわしい
+- [correct](/correct)：正しい、間違いのない
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/word/formal/)：正式な、フォーマルな
-- [suitable](/word/suitable/)：適した、ふさわしい
+- [formal](/formal)：正式な、フォーマルな
+- [suitable](/suitable)：適した、ふさわしい
 
-<!-- cvid: aid20_bid16 -->
+<!-- cvid: aid10_bid41 -->

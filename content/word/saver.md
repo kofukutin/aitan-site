@@ -81,15 +81,19 @@ TOEICでは、銀行や金融に関する長文や広告、案内文で「saver�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、銀行や金融に関する長文や広告、案内文で「saver�
 ## 🤔  investor との違いは？
 
 - **saver**：お金を貯めることや節約を重視する人
-- **[investor](/word/investor/)**：お金を投資して増やそうとする人
+- **[investor](/investor)**：お金を投資して増やそうとする人
 
 「saver」は主に貯金や節約を目的とし、「investor」はリスクを取って資産を増やすことを目的とします。
 
@@ -105,14 +109,14 @@ TOEICでは、銀行や金融に関する長文や広告、案内文で「saver�
 
 ## 🧩 あわせて覚えたい
 
-- [spender](/word/spender/)：浪費家、お金を使う人
-- [deposit](/word/deposit/)：預金、預け入れ
+- [spender](/spender)：浪費家、お金を使う人
+- [deposit](/deposit)：預金、預け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account/)：口座
-- [fund](/word/fund/)：資金、基金
+- [account](/account)：口座
+- [fund](/fund)：資金、基金
 
-<!-- cvid: aid43_bid24 -->
+<!-- cvid: aid15_bid47 -->

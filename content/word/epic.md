@@ -81,15 +81,19 @@ TOEICでは文学や歴史、映画などの説明文やレビューで登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文学や歴史、映画などの説明文やレビューで登場す
 ## 🤔  legend との違いは？
 
 - **epic**：壮大な物語や詩、または大規模な出来事を指す
-- **[legend](/word/legend/)**：伝説や昔話、特定の人物や出来事にまつわる語り
+- **[legend](/legend)**：伝説や昔話、特定の人物や出来事にまつわる語り
 
 epicは物語の規模や壮大さに焦点があり、legendは歴史や伝承に基づく有名な話に使われます。
 
@@ -105,14 +109,14 @@ epicは物語の規模や壮大さに焦点があり、legendは歴史や伝承�
 
 ## 🧩 あわせて覚えたい
 
-- [saga](/word/saga/)：長編物語、冒険譚
-- [myth](/word/myth/)：神話、作り話
+- [saga](/saga)：長編物語、冒険譚
+- [myth](/myth)：神話、作り話
 
 ---
 
 ## 📖 できればこれも
 
-- [hero](/word/hero/)：英雄
-- [tale](/word/tale/)：物語
+- [hero](/hero)：英雄
+- [tale](/tale)：物語
 
-<!-- cvid: aid01_bid32 -->
+<!-- cvid: aid26_bid14 -->

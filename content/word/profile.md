@@ -81,15 +81,19 @@ TOEICでは、会社や人物の紹介文、求人情報、記事などで「pro
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や人物の紹介文、求人情報、記事などで「pro
 ## 🤔  outline との違いは？
 
 - **profile**：人物や会社などの特徴や経歴を簡潔にまとめた紹介文や概要。
-- **[outline](/word/outline/)**：物事の全体像や構成を箇条書きや要点で示した「アウトライン」「概要」。
+- **[outline](/outline)**：物事の全体像や構成を箇条書きや要点で示した「アウトライン」「概要」。
 
 profileは主に人や組織の紹介に使い、outlineは内容や計画の要点整理に使います。
 
@@ -105,14 +109,14 @@ profileは主に人や組織の紹介に使い、outlineは内容や計画の要
 
 ## 🧩 あわせて覚えたい
 
-- [biography](/word/biography/)：伝記、人物の生涯
-- [summary](/word/summary/)：要約、まとめ
+- [biography](/biography)：伝記、人物の生涯
+- [summary](/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/word/resume/)：履歴書、職務経歴書
-- [portfolio](/word/portfolio/)：作品集、ポートフォリオ
+- [resume](/resume)：履歴書、職務経歴書
+- [portfolio](/portfolio)：作品集、ポートフォリオ
 
-<!-- cvid: aid20_bid09 -->
+<!-- cvid: aid23_bid11 -->

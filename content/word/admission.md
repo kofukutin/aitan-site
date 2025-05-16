@@ -81,15 +81,19 @@ TOEICでは大学やイベント、施設の「入場」「入学」「許可」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは大学やイベント、施設の「入場」「入学」「許可」
 ## 🤔  entrance との違いは？
 
 - **admission**：入場・入学など「許可」や「受け入れ」の意味が強い
-- **[entrance](/word/entrance/)**：物理的な「入り口」や「入ること」を指す
+- **[entrance](/entrance)**：物理的な「入り口」や「入ること」を指す
 
 admissionは「入ることを許される」や「受け入れられる」ニュアンスがあり、entranceは単に「入口」や「入る動作」を表します。
 
@@ -105,14 +109,14 @@ admissionは「入ることを許される」や「受け入れられる」ニ�
 
 ## 🧩 あわせて覚えたい
 
-- [acceptance](/word/acceptance/)：受け入れ、合格
-- [permission](/word/permission/)：許可
+- [acceptance](/acceptance)：受け入れ、合格
+- [permission](/permission)：許可
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/word/application/)：申請、応募
-- [enrollment](/word/enrollment/)：登録、入学
+- [application](/application)：申請、応募
+- [enrollment](/enrollment)：登録、入学
 
-<!-- cvid: aid34_bid47 -->
+<!-- cvid: aid42_bid41 -->

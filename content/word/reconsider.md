@@ -81,15 +81,19 @@ TOEICではPart 5の語彙問題や、ビジネス文書の中で「再検討す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙問題や、ビジネス文書の中で「再検討す
 ## 🤔  review との違いは？
 
 - **reconsider**：一度決めたことや考えたことを再度よく考え直す
-- **[review](/word/review/)**：内容や状況を見直す・評価する
+- **[review](/review)**：内容や状況を見直す・評価する
 
 reconsiderは「再考する」＝もう一度深く考え直すニュアンス、reviewは「見直す・評価する」＝内容をチェック・検討するニュアンスです。
 
@@ -105,14 +109,14 @@ reconsiderは「再考する」＝もう一度深く考え直すニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/word/reject/)：拒否する
-- [rethink](/word/rethink/)：考え直す、再考する
+- [reject](/reject)：拒否する
+- [rethink](/rethink)：考え直す、再考する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [discuss](/word/discuss/)：議論する
+- [approve](/approve)：承認する
+- [discuss](/discuss)：議論する
 
-<!-- cvid: aid03_bid09 -->
+<!-- cvid: aid23_bid27 -->

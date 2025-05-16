@@ -81,15 +81,19 @@ TOEICではITやゲーム、ソフトウェアに関する長文やメール文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやゲーム、ソフトウェアに関する長文やメール文�
 ## 🤔  plugin との違いは？
 
 - **mod**：主にゲームやソフトウェアの内容や機能を大きく変更・追加する改造データ。
-- **[plugin](/word/plugin/)**：ソフトウェアに追加機能を加える小規模な拡張プログラム。
+- **[plugin](/plugin)**：ソフトウェアに追加機能を加える小規模な拡張プログラム。
 
 modは元のプログラム自体を大きく変えることが多いのに対し、pluginは機能を追加するだけで本体にはあまり手を加えません。
 
@@ -105,14 +109,14 @@ modは元のプログラム自体を大きく変えることが多いのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [extension](/word/extension/)：拡張機能、追加機能
-- [patch](/word/patch/)：修正プログラム、バグ修正
+- [extension](/extension)：拡張機能、追加機能
+- [patch](/patch)：修正プログラム、バグ修正
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：更新、アップデート
-- [feature](/word/feature/)：特徴、機能
+- [update](/update)：更新、アップデート
+- [feature](/feature)：特徴、機能
 
-<!-- cvid: aid20_bid48 -->
+<!-- cvid: aid25_bid21 -->

@@ -81,15 +81,19 @@ TOEICでは「効果的な」「発効して」という意味で、主に文法
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「効果的な」「発効して」という意味で、主に文法
 ## 🤔  efficient との違いは？
 
 - **effective**：目的や期待した結果を達成できる、効果がある
-- **[efficient](/word/efficient/)**：効率が良い、無駄がない
+- **[efficient](/efficient)**：効率が良い、無駄がない
 
 「effective」は「結果が出る」ことに重点があり、「efficient」は「手間や時間をかけず効率的に行う」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「効果的な」「発効して」という意味で、主に文法
 
 ## 🧩 あわせて覚えたい
 
-- [ineffective](/word/ineffective/)：効果がない
-- [impact](/word/impact/)：影響、効果
+- [ineffective](/ineffective)：効果がない
+- [impact](/impact)：影響、効果
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/word/efficiently/)：効率的に
-- [practical](/word/practical/)：実用的な
+- [efficiently](/efficiently)：効率的に
+- [practical](/practical)：実用的な
 
-<!-- cvid: aid37_bid47 -->
+<!-- cvid: aid46_bid29 -->

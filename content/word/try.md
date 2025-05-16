@@ -82,15 +82,19 @@ tryはTOEICの文法・語彙問題で頻出し、「try to do（～しようと
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ tryはTOEICの文法・語彙問題で頻出し、「try to do（～しようと
 ## 🤔  attempt との違いは？
 
 - **try**：気軽に「やってみる」「試す」という意味で、日常的な表現。
-- **[attempt](/word/attempt/)**：よりフォーマルで「困難なことに挑戦する」「努力して試みる」という意味。
+- **[attempt](/attempt)**：よりフォーマルで「困難なことに挑戦する」「努力して試みる」という意味。
 
 tryは日常的な軽い挑戦にも使えますが、attemptはより真剣で難しいことに使われる傾向があります。
 
@@ -106,14 +110,14 @@ tryは日常的な軽い挑戦にも使えますが、attemptはより真剣で�
 
 ## 🧩 あわせて覚えたい
 
-- [test](/word/test/)：テストする、試験
-- [challenge](/word/challenge/)：挑戦、難題
+- [test](/test)：テストする、試験
+- [challenge](/challenge)：挑戦、難題
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/word/practice/)：練習する、実践する
-- [check](/word/check/)：確認する、調べる
+- [practice](/practice)：練習する、実践する
+- [check](/check)：確認する、調べる
 
-<!-- cvid: aid09_bid33 -->
+<!-- cvid: aid30_bid09 -->

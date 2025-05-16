@@ -87,8 +87,12 @@ TOEICでは健康や食品、栄養に関する長文や広告、説明文でよ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは健康や食品、栄養に関する長文や広告、説明文でよ
 ## 🤔  nutrient との違いは？
 
 - **protein**：体を作る主要な栄養素の一つ（タンパク質）を指す
-- **[nutrient](/word/nutrient/)**：体に必要な栄養素全般を指す
+- **[nutrient](/nutrient)**：体に必要な栄養素全般を指す
 
 proteinは栄養素の中でも特に「タンパク質」に限定されますが、nutrientはビタミンやミネラルなども含む広い意味です。
 
@@ -104,14 +108,14 @@ proteinは栄養素の中でも特に「タンパク質」に限定されます�
 
 ## 🧩 あわせて覚えたい
 
-- [carbohydrate](/word/carbohydrate/)：炭水化物
-- [enzyme](/word/enzyme/)：酵素
+- [carbohydrate](/carbohydrate)：炭水化物
+- [enzyme](/enzyme)：酵素
 
 ---
 
 ## 📖 できればこれも
 
-- [vitamin](/word/vitamin/)：ビタミン
-- [fiber](/word/fiber/)：食物繊維
+- [vitamin](/vitamin)：ビタミン
+- [fiber](/fiber)：食物繊維
 
-<!-- cvid: aid29_bid24 -->
+<!-- cvid: aid29_bid04 -->

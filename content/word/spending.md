@@ -81,15 +81,19 @@ TOEICでは、企業や政府の予算、経費、消費に関する記事やメ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業や政府の予算、経費、消費に関する記事やメ
 ## 🤔  expense との違いは？
 
 - **spending**：全体的な「支出」や「消費」の総額や行為を指す
-- **[expense](/word/expense/)**：特定の「費用」や「経費」、個々の支出項目を指す
+- **[expense](/expense)**：特定の「費用」や「経費」、個々の支出項目を指す
 
 spendingは広い意味での支出全体、expenseは個別の費用や経費に焦点を当てる点が異なります。
 
@@ -105,14 +109,14 @@ spendingは広い意味での支出全体、expenseは個別の費用や経費�
 
 ## 🧩 あわせて覚えたい
 
-- [budget](/word/budget/)：予算
-- [saving](/word/saving/)：貯蓄
+- [budget](/budget)：予算
+- [saving](/saving)：貯蓄
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost/)：費用
-- [income](/word/income/)：収入
+- [cost](/cost)：費用
+- [income](/income)：収入
 
-<!-- cvid: aid47_bid03 -->
+<!-- cvid: aid48_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは大学や会社への提出書類、または会議記録の文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは大学や会社への提出書類、または会議記録の文脈で
 ## 🤔  certificate との違いは？
 
 - **transcript**：成績や内容を詳細に記載した証明書や書き起こし文書
-- **[certificate](/word/certificate/)**：資格や修了などを証明する公式な証明書
+- **[certificate](/certificate)**：資格や修了などを証明する公式な証明書
 
 transcriptは「内容や成績の詳細な記録」、certificateは「資格や修了そのものの証明」に使われます。
 
@@ -105,14 +109,14 @@ transcriptは「内容や成績の詳細な記録」、certificateは「資格�
 
 ## 🧩 あわせて覚えたい
 
-- [record](/word/record/)：記録、記載
-- [diploma](/word/diploma/)：卒業証書
+- [record](/record)：記録、記載
+- [diploma](/diploma)：卒業証書
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/word/application/)：申請書、応募
-- [document](/word/document/)：文書、書類
+- [application](/application)：申請書、応募
+- [document](/document)：文書、書類
 
-<!-- cvid: aid06_bid43 -->
+<!-- cvid: aid00_bid47 -->

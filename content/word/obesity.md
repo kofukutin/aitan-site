@@ -81,15 +81,19 @@ obesityはTOEICの長文読解や健康・医療関連の記事で見かける�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ obesityはTOEICの長文読解や健康・医療関連の記事で見かける�
 ## 🤔  overweight との違いは？
 
 - **obesity**：医学的に定義された「肥満」で、深刻な健康リスクを伴う状態。
-- **[overweight](/word/overweight/)**：基準より体重が多い状態で、必ずしも健康リスクが高いとは限らない。
+- **[overweight](/overweight)**：基準より体重が多い状態で、必ずしも健康リスクが高いとは限らない。
 
 obesityは医学的・フォーマルな場面で使われ、overweightは日常的な「太り気味」も含みます。
 
@@ -105,13 +109,13 @@ obesityは医学的・フォーマルな場面で使われ、overweightは日常
 
 ## 🧩 あわせて覚えたい
 
-- [malnutrition](/word/malnutrition/)：栄養失調
-- [diabetes](/word/diabetes/)：糖尿病
+- [malnutrition](/malnutrition)：栄養失調
+- [diabetes](/diabetes)：糖尿病
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [treatment](/word/treatment/)：治療
-<!-- cvid: aid26_bid15 -->
+- [disease](/disease)：病気
+- [treatment](/treatment)：治療
+<!-- cvid: aid10_bid34 -->

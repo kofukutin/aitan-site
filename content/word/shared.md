@@ -81,15 +81,19 @@ sharedはTOEICの会話パートで「共有スペース」「共用設備」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ sharedはTOEICの会話パートで「共有スペース」「共用設備」な
 ## 🤔  common との違いは？
 
 - **shared**：複数人で一緒に使う・持つことを強調
-- **[common](/word/common/)**：広く一般的である、または複数人に共通していることを強調
+- **[common](/common)**：広く一般的である、または複数人に共通していることを強調
 
 sharedは「共用」「共有」の具体的な物や空間に使い、commonは「共通点」や「一般的な特徴」に使います。
 
@@ -105,14 +109,14 @@ sharedは「共用」「共有」の具体的な物や空間に使い、common�
 
 ## 🧩 あわせて覚えたい
 
-- [joint](/word/joint/)：共同の、連携した
-- [individual](/word/individual/)：個別の、個人の
+- [joint](/joint)：共同の、連携した
+- [individual](/individual)：個別の、個人の
 
 ---
 
 ## 📖 できればこれも
 
-- [public](/word/public/)：公共の
-- [private](/word/private/)：個人の、私的な
+- [public](/public)：公共の
+- [private](/private)：個人の、私的な
 
-<!-- cvid: aid42_bid00 -->
+<!-- cvid: aid10_bid15 -->

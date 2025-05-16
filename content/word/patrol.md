@@ -82,15 +82,19 @@ patrolは、警備や安全管理に関する会話や説明で出題される�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ patrolは、警備や安全管理に関する会話や説明で出題される�
 ## 🤔  inspect との違いは？
 
 - **patrol**：一定の範囲を繰り返し見回ること
-- **[inspect](/word/inspect/)**：詳細に調べたり点検したりすること
+- **[inspect](/inspect)**：詳細に調べたり点検したりすること
 
 patrolは「巡回して安全を確認する」イメージ、inspectは「細かく調べる」イメージで使い分けます。
 
@@ -106,14 +110,14 @@ patrolは「巡回して安全を確認する」イメージ、inspectは「細�
 
 ## 🧩 あわせて覚えたい
 
-- [guard](/word/guard/)：守る、警備する
-- [monitor](/word/monitor/)：監視する、見守る
+- [guard](/guard)：守る、警備する
+- [monitor](/monitor)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [survey](/word/survey/)：調査する、見渡す
-- [examine](/word/examine/)：詳しく調べる
+- [survey](/survey)：調査する、見渡す
+- [examine](/examine)：詳しく調べる
 
-<!-- cvid: aid16_bid36 -->
+<!-- cvid: aid21_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは、大学や教育、研究に関する長文や記事で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid42_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、大学や教育、研究に関する長文や記事で見かける
 ## 🤔  anthropology との違いは？
 
 - **sociology**：人間社会や集団、制度など社会全体の仕組みや関係性を科学的に研究する学問
-- **[anthropology](/word/anthropology/)**：人類の起源や文化、進化などを幅広く研究する学問
+- **[anthropology](/anthropology)**：人類の起源や文化、進化などを幅広く研究する学問
 
 sociologyは現代社会の構造や人間関係に焦点を当て、anthropologyは人類全体の歴史や文化の多様性に注目します。
 
@@ -105,14 +109,14 @@ sociologyは現代社会の構造や人間関係に焦点を当て、anthropolog
 
 ## 🧩 あわせて覚えたい
 
-- [psychology](/word/psychology/)：心理学（人間の心や行動を研究する学問）
-- [philosophy](/word/philosophy/)：哲学（存在や知識、価値などを探究する学問）
+- [psychology](/psychology)：心理学（人間の心や行動を研究する学問）
+- [philosophy](/philosophy)：哲学（存在や知識、価値などを探究する学問）
 
 ---
 
 ## 📖 できればこれも
 
-- [economics](/word/economics/)：経済学（経済活動や仕組みを研究する学問）
-- [politics](/word/politics/)：政治学（政治や政府の仕組みを研究する学問）
+- [economics](/economics)：経済学（経済活動や仕組みを研究する学問）
+- [politics](/politics)：政治学（政治や政府の仕組みを研究する学問）
 
-<!-- cvid: aid01_bid27 -->
+<!-- cvid: aid42_bid41 -->

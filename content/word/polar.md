@@ -81,15 +81,19 @@ TOEICでは科学や環境に関する長文や記事で見かけることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や環境に関する長文や記事で見かけることが多
 ## 🤔  arctic との違いは？
 
 - **polar**：極地全般や「極端な」という意味も含む幅広い形容詞
-- **[arctic](/word/arctic/)**：特に「北極の」を指す限定的な形容詞
+- **[arctic](/arctic)**：特に「北極の」を指す限定的な形容詞
 
 「polar」は北極・南極の両方や、正反対・極端な意味でも使えますが、「arctic」は北極限定です。
 
@@ -105,14 +109,14 @@ TOEICでは科学や環境に関する長文や記事で見かけることが多
 
 ## 🧩 あわせて覚えたい
 
-- [equatorial](/word/equatorial/)：赤道の
-- [antarctic](/word/antarctic/)：南極の
+- [equatorial](/equatorial)：赤道の
+- [antarctic](/antarctic)：南極の
 
 ---
 
 ## 📖 できればこれも
 
-- [tropical](/word/tropical/)：熱帯の
-- [glacier](/word/glacier/)：氷河
+- [tropical](/tropical)：熱帯の
+- [glacier](/glacier)：氷河
 
-<!-- cvid: aid20_bid13 -->
+<!-- cvid: aid44_bid22 -->

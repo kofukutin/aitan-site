@@ -81,15 +81,19 @@ TOEICでは、写真描写や状況説明で「重い荷物」「激しい雨」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、写真描写や状況説明で「重い荷物」「激しい雨」
 ## 🤔  thick との違いは？
 
 - **heavy**：重さや量・程度が大きいことを表す
-- **[thick](/word/thick/)**：厚みや密度が高いことを表す
+- **[thick](/thick)**：厚みや密度が高いことを表す
 
 heavyは「重い」「激しい」など重さや量に注目し、thickは「厚い」「密集している」など物の厚みや密度に注目します。
 
@@ -105,14 +109,14 @@ heavyは「重い」「激しい」など重さや量に注目し、thickは「�
 
 ## 🧩 あわせて覚えたい
 
-- [light](/word/light/)：軽い
-- [dense](/word/dense/)：密集した、濃い
+- [light](/light)：軽い
+- [dense](/dense)：密集した、濃い
 
 ---
 
 ## 📖 できればこれも
 
-- [strong](/word/strong/)：強い
-- [large](/word/large/)：大きい
+- [strong](/strong)：強い
+- [large](/large)：大きい
 
-<!-- cvid: aid22_bid38 -->
+<!-- cvid: aid33_bid13 -->

@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写や、場所の説明で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、場所の説明で頻出します。
 ## 🤔  close との違いは？
 
 - **near**：距離的な「近くに」を表す一般的な前置詞
-- **[close](/word/close/)**：より物理的・心理的な「近さ」を強調し、形容詞や副詞としても使われる
+- **[close](/close)**：より物理的・心理的な「近さ」を強調し、形容詞や副詞としても使われる
 
 「near」は単に距離が近いことを表し、「close」はより密接な近さや関係性を強調する場面で使われます。
 
@@ -101,14 +105,14 @@ TOEICでは主にPart 1の写真描写や、場所の説明で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [beside](/word/beside/)：～の横に
-- [far](/word/far/)：遠くに
+- [beside](/beside)：～の横に
+- [far](/far)：遠くに
 
 ---
 
 ## 📖 できればこれも
 
-- [around](/word/around/)：～の周りに
-- [between](/word/between/)：～の間に
+- [around](/around)：～の周りに
+- [between](/between)：～の間に
 
-<!-- cvid: aid33_bid38 -->
+<!-- cvid: aid45_bid34 -->

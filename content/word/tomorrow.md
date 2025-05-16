@@ -80,15 +80,19 @@ TOEICでは、予定やスケジュールに関する質問や応答でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、予定やスケジュールに関する質問や応答でよく登
 ## 🤔  soon との違いは？
 
 - **tomorrow**：明日（翌日）を具体的に指す
-- **[soon](/word/soon/)**：まもなく、近いうちに（具体的な時期は不明）
+- **[soon](/soon)**：まもなく、近いうちに（具体的な時期は不明）
 
 tomorrowは「明日」と日付がはっきりしているのに対し、soonは「近いうちに」と曖昧な表現です。
 
@@ -104,14 +108,14 @@ tomorrowは「明日」と日付がはっきりしているのに対し、soon�
 
 ## 🧩 あわせて覚えたい
 
-- [yesterday](/word/yesterday/)：昨日
-- [today](/word/today/)：今日
+- [yesterday](/yesterday)：昨日
+- [today](/today)：今日
 
 ---
 
 ## 📖 できればこれも
 
-- [tonight](/word/tonight/)：今夜
-- [later](/word/later/)：あとで
+- [tonight](/tonight)：今夜
+- [later](/later)：あとで
 
-<!-- cvid: aid05_bid43 -->
+<!-- cvid: aid46_bid04 -->

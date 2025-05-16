@@ -81,15 +81,19 @@ TOEICでは「会議を開く」「電話を保留にする」など、ビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「会議を開く」「電話を保留にする」など、ビジネ
 ## 🤔  keep との違いは？
 
 - **hold**：手や腕などで物を持つ、または会議などを開催することを表す
-- **[keep](/word/keep/)**：物や状態をそのまま維持・保管することを表す
+- **[keep](/keep)**：物や状態をそのまま維持・保管することを表す
 
 holdは「一時的に持つ・支える」イメージ、keepは「長期間維持する」ニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ holdは「一時的に持つ・支える」イメージ、keepは「長期間維
 
 ## 🧩 あわせて覚えたい
 
-- [grasp](/word/grasp/)：しっかり握る、把握する
-- [release](/word/release/)：放す、解放する
+- [grasp](/grasp)：しっかり握る、把握する
+- [release](/release)：放す、解放する
 
 ---
 
 ## 📖 できればこれも
 
-- [carry](/word/carry/)：運ぶ、持ち運ぶ
-- [store](/word/store/)：保管する、蓄える
+- [carry](/carry)：運ぶ、持ち運ぶ
+- [store](/store)：保管する、蓄える
 
-<!-- cvid: aid01_bid28 -->
+<!-- cvid: aid44_bid08 -->

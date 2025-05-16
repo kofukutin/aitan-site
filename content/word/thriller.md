@@ -81,7 +81,7 @@ TOEICでは、映画や本の紹介文、広告などでthrillerが登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+成長を止めないで👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、映画や本の紹介文、広告などでthrillerが登場する�
 
 <div class="info-center">
 ＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、映画や本の紹介文、広告などでthrillerが登場する�
 ## 🤔  mystery との違いは？
 
 - **thriller**：スリルや興奮を感じさせる物語や映画
-- **[mystery](/word/mystery/)**：謎解きや秘密が中心の物語や映画
+- **[mystery](/mystery)**：謎解きや秘密が中心の物語や映画
 
 thrillerは「ドキドキ感」や「緊張感」に重点があり、mysteryは「謎解き」や「推理」に重点があります。
 
@@ -105,14 +109,14 @@ thrillerは「ドキドキ感」や「緊張感」に重点があり、mystery�
 
 ## 🧩 あわせて覚えたい
 
-- [horror](/word/horror/)：恐怖をテーマにした作品
-- [suspense](/word/suspense/)：緊張感や不安感を持たせる作品
+- [horror](/horror)：恐怖をテーマにした作品
+- [suspense](/suspense)：緊張感や不安感を持たせる作品
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/word/novel/)：小説
-- [detective](/word/detective/)：探偵
+- [novel](/novel)：小説
+- [detective](/detective)：探偵
 
-<!-- cvid: aid23_bid23 -->
+<!-- cvid: aid22_bid23 -->

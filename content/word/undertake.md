@@ -81,15 +81,19 @@ TOEICでは主にPart 5で、契約や業務の説明文中に「undertake」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid34" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid34" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5で、契約や業務の説明文中に「undertake」が
 ## 🤔  assume との違いは？
 
 - **undertake**：責任や仕事などを「引き受けて実際に行動する」ことを強調
-- **[assume](/word/assume/)**：責任や役割などを「引き受ける」だが、実際の行動よりも「地位や役割を持つこと」に重点
+- **[assume](/assume)**：責任や役割などを「引き受ける」だが、実際の行動よりも「地位や役割を持つこと」に重点
 
 undertakeは「実際に何かを始める・行う」ニュアンスが強く、assumeは「役割や責任を持つこと自体」に焦点があります。
 
@@ -105,14 +109,14 @@ undertakeは「実際に何かを始める・行う」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [attempt](/word/attempt/)：試みる、挑戦する
-- [commit](/word/commit/)：（責任などを）約束する、委ねる
+- [attempt](/attempt)：試みる、挑戦する
+- [commit](/commit)：（責任などを）約束する、委ねる
 
 ---
 
 ## 📖 できればこれも
 
-- [accomplish](/word/accomplish/)：成し遂げる、達成する
-- [proceed](/word/proceed/)：進む、続ける
+- [accomplish](/accomplish)：成し遂げる、達成する
+- [proceed](/proceed)：進む、続ける
 
-<!-- cvid: aid41_bid33 -->
+<!-- cvid: aid00_bid34 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【shed】の意味・使い方・例文 ― discardとの違い【TOEIC英単語】"
 description: "shedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdiscardとの違いもわかりやすく学べます。"
 word: "shed"
@@ -81,15 +81,19 @@ TOEICでは「不要なものを減らす」「コストや人員を削減する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「不要なものを減らす」「コストや人員を削減する
 ## 🤔  discard との違いは？
 
 - **shed**：自然に、または計画的に「不要なものを落とす・減らす」ニュアンス
-- **[discard](/word/discard/)**：意図的に「捨てる」「処分する」意味が強い
+- **[discard](/discard)**：意図的に「捨てる」「処分する」意味が強い
 
 shedは「自然に減る」「徐々に手放す」イメージがあり、discardは「不要と判断して積極的に捨てる」ニュアンスです。
 
@@ -105,14 +109,14 @@ shedは「自然に減る」「徐々に手放す」イメージがあり、disc
 
 ## 🧩 あわせて覚えたい
 
-- [retain](/word/retain/)：保持する、維持する
-- [release](/word/release/)：解放する、放出する
+- [retain](/retain)：保持する、維持する
+- [release](/release)：解放する、放出する
 
 ---
 
 ## 📖 できればこれも
 
-- [remove](/word/remove/)：取り除く
-- [eliminate](/word/eliminate/)：排除する
+- [remove](/remove)：取り除く
+- [eliminate](/eliminate)：排除する
 
-<!-- cvid: aid01_bid34 -->
+<!-- cvid: aid34_bid46 -->

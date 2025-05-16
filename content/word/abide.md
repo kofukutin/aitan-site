@@ -9,7 +9,7 @@ tags:
   - 動詞
   - Part5
   - フォーマル
-  - 法務
+  - ビジネス
   - 会議
 compared_word: "tolerate"
 related_words:
@@ -18,7 +18,7 @@ related_words:
 next_words:
   - "adhere"
   - "conform"
-last_update: "2025-05-04"
+last_update: "2025-05-04"  # YYYY-MM-DD
 ---
 
 ## 🔰 abideの発音と意味
@@ -32,21 +32,15 @@ last_update: "2025-05-04"
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
+[動詞] （規則・決まりなどを）守る、従う／（否定文で）我慢する
 
-[動詞] （規則・約束などを）守る、従う／（否定文で）我慢する
+**abide** は、「規則や決まりを守る」「（否定文で）我慢する」という意味で、ややフォーマルな場面で使われます。
 
-**abide** は、「規則や決まりを守る」「（否定文で）我慢する」という意味で、特にフォーマルな場面や法律・契約の文脈で使われます。
-
-語源は古英語「abidan」（待つ、耐える）に由来し、「何かを受け入れてとどまる・従う」というニュアンスが残っています。
+語源は古英語の「abidan」（待つ、留まる）に由来し、「何かにとどまる」「従い続ける」というニュアンスが残っています。
 
 他の品詞：  
-- abidance：遵守、服従（名詞）
+- abidance：遵守、従うこと（名詞）
+- abiding：永続的な、長く続く（形容詞）
 
 ---
 
@@ -67,7 +61,7 @@ All employees must abide by the company rules.
 - 難易度：★★★★☆
 - 出題パート：Part 5（文法・語彙問題）
 
-TOEICでは「abide by（～に従う）」の形で規則や契約に関する文脈で出題されることが多いです。ややフォーマルな語なので、選択肢で見かけたら注意しましょう。
+TOEICでは「abide by（～に従う）」の形で規則や契約に関する文脈で出題されることが多いです。ややフォーマルな語なので、ビジネス文書や規則説明で見かけます。
 
 ---
 
@@ -83,42 +77,46 @@ TOEICでは「abide by（～に従う）」の形で規則や契約に関する�
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：「abide by」で「～に従う」となり、正しい前置詞は「by」です。
+- 解説：abideは「by」とセットで「～に従う」となります。「to」は誤りです。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid32" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid32" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  tolerate との違いは？
 
-- **abide**：規則や決まりを守る、または（否定文で）我慢する
-- **[tolerate](/word/tolerate/)**：嫌なことを「許容する」「耐える」
+- **abide**：規則や決まりを「守る」、または（否定文で）「我慢する」
+- **[tolerate](/tolerate)**：嫌なことや人を「我慢する」「許容する」
 
-abideは「規則・ルールに従う」意味が強く、tolerateは「嫌なことを我慢して受け入れる」ニュアンスです。
+abideは主にルールや規則への従順さを表し、tolerateは不快なものを受け入れる・我慢する意味で使われます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [comply](/word/comply/)：（規則・命令に）従う
-- [obey](/word/obey/)：（人や命令に）従う
+- [comply](/comply)：（規則・命令に）従う
+- [obey](/obey)：（命令・人に）従う
 
 ---
 
 ## 📖 できればこれも
 
-- [adhere](/word/adhere/)：（規則・信念などを）固く守る
-- [conform](/word/conform/)：（規則・慣習に）従う
+- [adhere](/adhere)：（規則・信念などを）固く守る
+- [conform](/conform)：（慣習・規則に）従う
 
-<!-- cvid: aid26_bid04 -->
+<!-- cvid: aid40_bid32 -->

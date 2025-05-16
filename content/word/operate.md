@@ -81,15 +81,19 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明でよ
 ## 🤔  manage との違いは？
 
 - **operate**：機械やシステムを「操作する」、会社や事業を「運営する」
-- **[manage](/word/manage/)**：人や組織、業務などを「管理する」「うまく扱う」
+- **[manage](/manage)**：人や組織、業務などを「管理する」「うまく扱う」
 
 operateは「動かす・作動させる」ことに重点があり、manageは「管理・統率」するニュアンスが強いです。
 
@@ -105,14 +109,14 @@ operateは「動かす・作動させる」ことに重点があり、manageは�
 
 ## 🧩 あわせて覚えたい
 
-- [control](/word/control/)：制御する、管理する
-- [function](/word/function/)：機能する、働く
+- [control](/control)：制御する、管理する
+- [function](/function)：機能する、働く
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：扱う、対処する
-- [run](/word/run/)：運営する、経営する
+- [handle](/handle)：扱う、対処する
+- [run](/run)：運営する、経営する
 
-<!-- cvid: aid09_bid44 -->
+<!-- cvid: aid47_bid35 -->

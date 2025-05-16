@@ -81,15 +81,19 @@ TOEICでは環境や自然に関する説明文や記事で見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や自然に関する説明文や記事で見かけることが
 ## 🤔  plant との違いは？
 
 - **vegetation**：ある地域全体の植物や植生をまとめて指す
-- **[plant](/word/plant/)**：個々の「植物」や「工場」を指す
+- **[plant](/plant)**：個々の「植物」や「工場」を指す
 
 vegetationは「まとまった草木・緑」のイメージ、plantは「一つ一つの植物」を指す点が大きな違いです。
 
@@ -105,14 +109,14 @@ vegetationは「まとまった草木・緑」のイメージ、plantは「一�
 
 ## 🧩 あわせて覚えたい
 
-- [flora](/word/flora/)：植物相、ある地域の全植物
-- [forest](/word/forest/)：森林、森
+- [flora](/flora)：植物相、ある地域の全植物
+- [forest](/forest)：森林、森
 
 ---
 
 ## 📖 できればこれも
 
-- [habitat](/word/habitat/)：生息地、居住地
-- [landscape](/word/landscape/)：風景、景観
+- [habitat](/habitat)：生息地、居住地
+- [landscape](/landscape)：風景、景観
 
-<!-- cvid: aid18_bid42 -->
+<!-- cvid: aid49_bid23 -->

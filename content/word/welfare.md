@@ -81,15 +81,19 @@ welfareはTOEICの長文読解（Part 7）で、社会問題や企業の福利�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ welfareはTOEICの長文読解（Part 7）で、社会問題や企業の福利�
 ## 🤔  benefit との違いは？
 
 - **welfare**：社会全体や集団の幸福・福祉を指すフォーマルな語。
-- **[benefit](/word/benefit/)**：個人や集団が得る利益・恩恵を幅広く指す語。
+- **[benefit](/benefit)**：個人や集団が得る利益・恩恵を幅広く指す語。
 
 welfareは「社会的な幸福や福祉」に焦点があり、benefitは「具体的な利益や恩恵」に使われます。
 
@@ -105,14 +109,14 @@ welfareは「社会的な幸福や福祉」に焦点があり、benefitは「具
 
 ## 🧩 あわせて覚えたい
 
-- [wellbeing](/word/wellbeing/)：心身の健康・幸福
-- [subsidy](/word/subsidy/)：補助金、助成金
+- [wellbeing](/wellbeing)：心身の健康・幸福
+- [subsidy](/subsidy)：補助金、助成金
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：政策、方針
-- [insurance](/word/insurance/)：保険
+- [policy](/policy)：政策、方針
+- [insurance](/insurance)：保険
 
-<!-- cvid: aid08_bid41 -->
+<!-- cvid: aid22_bid01 -->

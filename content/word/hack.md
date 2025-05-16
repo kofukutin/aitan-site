@@ -81,15 +81,19 @@ ITやセキュリティ関連の記事やメール文で登場することが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやセキュリティ関連の記事やメール文で登場することが多
 ## 🤔  crack との違いは？
 
 - **hack**：主にコンピュータシステムに不正侵入することを指す。
-- **[crack](/word/crack/)**：プログラムのコピー防止機能などを解除することを指す。
+- **[crack](/crack)**：プログラムのコピー防止機能などを解除することを指す。
 
 hackは「侵入」や「アクセス」に重点があり、crackは「制限を破る」「プロテクトを外す」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ hackは「侵入」や「アクセス」に重点があり、crackは「制限�
 
 ## 🧩 あわせて覚えたい
 
-- [breach](/word/breach/)：（セキュリティなどの）違反、突破
-- [bypass](/word/bypass/)：回避する、迂回する
+- [breach](/breach)：（セキュリティなどの）違反、突破
+- [bypass](/bypass)：回避する、迂回する
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access/)：アクセスする、接続する
-- [modify](/word/modify/)：変更する、修正する
+- [access](/access)：アクセスする、接続する
+- [modify](/modify)：変更する、修正する
 
-<!-- cvid: aid30_bid03 -->
+<!-- cvid: aid22_bid19 -->

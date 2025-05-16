@@ -81,15 +81,19 @@ TOEICでは主に長文読解パートで、物語や私的なメールの中で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解パートで、物語や私的なメールの中で
 ## 🤔  partner との違いは？
 
 - **lover**：恋愛感情を持つ相手や愛人を指し、やや私的・情熱的なニュアンス。
-- **[partner](/word/partner/)**：恋人・配偶者・ビジネスパートナーなど幅広く使え、より中立的・フォーマル。
+- **[partner](/partner)**：恋人・配偶者・ビジネスパートナーなど幅広く使え、より中立的・フォーマル。
 
 「lover」は恋愛感情や情熱を強調し、「partner」は関係性や立場を広く表します。
 
@@ -105,14 +109,14 @@ TOEICでは主に長文読解パートで、物語や私的なメールの中で
 
 ## 🧩 あわせて覚えたい
 
-- [spouse](/word/spouse/)：配偶者
-- [crush](/word/crush/)：片思いの相手
+- [spouse](/spouse)：配偶者
+- [crush](/crush)：片思いの相手
 
 ---
 
 ## 📖 できればこれも
 
-- [couple](/word/couple/)：カップル、2人組
-- [relationship](/word/relationship/)：関係、交際
+- [couple](/couple)：カップル、2人組
+- [relationship](/relationship)：関係、交際
 
-<!-- cvid: aid48_bid47 -->
+<!-- cvid: aid26_bid21 -->

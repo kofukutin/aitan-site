@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、オフィスや部屋の備品
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、オフィスや部屋の備品
 ## 🤔  jar との違いは？
 
 - **vase**：花や植物を飾るための花瓶
-- **[jar](/word/jar/)**：食品や物を保存するための広口の瓶
+- **[jar](/jar)**：食品や物を保存するための広口の瓶
 
 「vase」は主に花を飾る装飾用の容器、「jar」は保存や保管を目的とした瓶で、用途や形状が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写問題で、オフィスや部屋の備品
 
 ## 🧩 あわせて覚えたい
 
-- [bottle](/word/bottle/)：細長い瓶、ボトル
-- [pot](/word/pot/)：鍋、壺
+- [bottle](/bottle)：細長い瓶、ボトル
+- [pot](/pot)：鍋、壺
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate/)：皿
-- [cup](/word/cup/)：カップ
+- [plate](/plate)：皿
+- [cup](/cup)：カップ
 
-<!-- cvid: aid19_bid38 -->
+<!-- cvid: aid29_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは、案内文やEメール、施設紹介などの長文で「library�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内文やEメール、施設紹介などの長文で「library�
 ## 🤔  bookstore との違いは？
 
 - **library**：本を借りたり読んだりできる公共の施設や部屋
-- **[bookstore](/word/bookstore/)**：本を購入するための店
+- **[bookstore](/bookstore)**：本を購入するための店
 
 libraryは「借りる・読む」場所、bookstoreは「買う」場所という違いがあります。
 
@@ -105,14 +109,14 @@ libraryは「借りる・読む」場所、bookstoreは「買う」場所とい�
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive/)：公文書館、記録保管所
-- [collection](/word/collection/)：収集物、コレクション
+- [archive](/archive)：公文書館、記録保管所
+- [collection](/collection)：収集物、コレクション
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum/)：博物館、美術館
-- [laboratory](/word/laboratory/)：実験室、研究室
+- [museum](/museum)：博物館、美術館
+- [laboratory](/laboratory)：実験室、研究室
 
-<!-- cvid: aid20_bid45 -->
+<!-- cvid: aid21_bid41 -->

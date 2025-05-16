@@ -81,15 +81,19 @@ Our hotel offers rooms with stunning mountain scenery.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our hotel offers rooms with stunning mountain scenery.
 ## 🤔  landscape との違いは？
 
 - **scenery**：自然や場所全体の「景色」「風景」を広く指す
-- **[landscape](/word/landscape/)**：特に「地形」や「眺め」としての風景、または絵画ジャンルとしての「風景画」
+- **[landscape](/landscape)**：特に「地形」や「眺め」としての風景、または絵画ジャンルとしての「風景画」
 
 sceneryはその場で見える自然の美しさ全体を表し、landscapeは地形や構図、または芸術的な視点での「風景」を指します。
 
@@ -105,14 +109,14 @@ sceneryはその場で見える自然の美しさ全体を表し、landscapeは�
 
 ## 🧩 あわせて覚えたい
 
-- [view](/word/view/)：眺め、視界
-- [sight](/word/sight/)：光景、名所
+- [view](/view)：眺め、視界
+- [sight](/sight)：光景、名所
 
 ---
 
 ## 📖 できればこれも
 
-- [attraction](/word/attraction/)：観光名所、魅力
-- [nature](/word/nature/)：自然
+- [attraction](/attraction)：観光名所、魅力
+- [nature](/nature)：自然
 
-<!-- cvid: aid09_bid04 -->
+<!-- cvid: aid27_bid12 -->

@@ -81,15 +81,19 @@ TOEICではITやサービス関連の長文、説明文で「user」が頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやサービス関連の長文、説明文で「user」が頻出し
 ## 🤔  customer との違いは？
 
 - **user**：サービスや製品を実際に使う人
-- **[customer](/word/customer/)**：商品やサービスを購入する人
+- **[customer](/customer)**：商品やサービスを購入する人
 
 「user」は使う人、「customer」は買う人を指し、購入者と利用者が異なる場合もあります。
 
@@ -105,14 +109,14 @@ TOEICではITやサービス関連の長文、説明文で「user」が頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [client](/word/client/)：（サービス提供者側から見た）顧客、依頼人
-- [administrator](/word/administrator/)：管理者、運営者
+- [client](/client)：（サービス提供者側から見た）顧客、依頼人
+- [administrator](/administrator)：管理者、運営者
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account/)：アカウント、口座
-- [system](/word/system/)：システム、仕組み
+- [account](/account)：アカウント、口座
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid16_bid13 -->
+<!-- cvid: aid44_bid36 -->

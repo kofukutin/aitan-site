@@ -88,8 +88,12 @@ TOEICでは動詞の時制や語形変化を問う文法問題でよく出題さ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは動詞の時制や語形変化を問う文法問題でよく出題さ
 ## 🤔  selected との違いは？
 
 - **chose**：自分の意思で選んだ、という動作を強調
-- **[selected](/word/selected/)**：基準や条件に従って選ばれた、ややフォーマル
+- **[selected](/selected)**：基準や条件に従って選ばれた、ややフォーマル
 
 choseは「自分で選んだ」動作を表し、selectedは「選抜された」「選定された」といった客観的・公式なニュアンスがあります。
 
@@ -105,14 +109,14 @@ choseは「自分で選んだ」動作を表し、selectedは「選抜された�
 
 ## 🧩 あわせて覚えたい
 
-- [pick](/word/pick/)：（気軽に）選ぶ
-- [reject](/word/reject/)：拒否する、断る
+- [pick](/pick)：（気軽に）選ぶ
+- [reject](/reject)：拒否する、断る
 
 ---
 
 ## 📖 できればこれも
 
-- [choose](/word/choose/)：選ぶ（原形）
-- [decide](/word/decide/)：決める
+- [choose](/choose)：選ぶ（原形）
+- [decide](/decide)：決める
 
-<!-- cvid: aid04_bid03 -->
+<!-- cvid: aid04_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは、広告や商品説明、カフェやホテルの紹介文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告や商品説明、カフェやホテルの紹介文などで
 ## 🤔  vintage との違いは？
 
 - **retro**：過去の時代の雰囲気やデザインを再現した「昔風の」「懐かしい」もの
-- **[vintage](/word/vintage/)**：特定の時代に実際に作られた「本物の古いもの」や「年代物」
+- **[vintage](/vintage)**：特定の時代に実際に作られた「本物の古いもの」や「年代物」
 
 retroは「昔風に作られた新しいもの」にも使えるが、vintageは「実際に古い時代のもの」に限定されます。
 
@@ -105,14 +109,14 @@ retroは「昔風に作られた新しいもの」にも使えるが、vintage�
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern/)：現代的な
-- [classic](/word/classic/)：古典的な、定番の
+- [modern](/modern)：現代的な
+- [classic](/classic)：古典的な、定番の
 
 ---
 
 ## 📖 できればこれも
 
-- [antique](/word/antique/)：骨董品、アンティーク
+- [antique](/antique)：骨董品、アンティーク
 - [old-fashioned](/old-fashioned)：時代遅れの、昔風の
 
-<!-- cvid: aid32_bid35 -->
+<!-- cvid: aid04_bid10 -->

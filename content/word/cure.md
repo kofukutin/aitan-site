@@ -82,15 +82,19 @@ TOEICでは医療や健康に関する文脈で「cure」が動詞・名詞と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは医療や健康に関する文脈で「cure」が動詞・名詞と�
 ## 🤔  heal との違いは？
 
 - **cure**：病気や問題を完全に治す、根本的な解決を意味する
-- **[heal](/word/heal/)**：傷や心の痛みなどを徐々に癒す、回復させる
+- **[heal](/heal)**：傷や心の痛みなどを徐々に癒す、回復させる
 
 「cure」は医学的・物理的な「完全な治癒」に重点があり、「heal」は自然な回復や心の癒しにも使われます。
 
@@ -106,14 +110,14 @@ TOEICでは医療や健康に関する文脈で「cure」が動詞・名詞と�
 
 ## 🧩 あわせて覚えたい
 
-- [treat](/word/treat/)：治療する、扱う
-- [prevent](/word/prevent/)：予防する、防ぐ
+- [treat](/treat)：治療する、扱う
+- [prevent](/prevent)：予防する、防ぐ
 
 ---
 
 ## 📖 できればこれも
 
-- [recover](/word/recover/)：回復する
-- [diagnose](/word/diagnose/)：診断する
+- [recover](/recover)：回復する
+- [diagnose](/diagnose)：診断する
 
-<!-- cvid: aid10_bid12 -->
+<!-- cvid: aid15_bid31 -->

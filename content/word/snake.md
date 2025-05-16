@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【snake】の意味・使い方・例文 ― serpentとの違い【TOEIC英単語】"
 description: "snakeの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでserpentとの違いもわかりやすく学べます。"
 word: "snake"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、動物や自然の描写として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid26" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid26" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、動物や自然の描写として登
 ## 🤔  serpent との違いは？
 
 - **snake**：一般的な「ヘビ」。日常会話や科学で使う普通の表現。
-- **[serpent](/word/serpent/)**：文学的・宗教的な「大蛇」「ヘビ」。神話や物語で使われることが多い。
+- **[serpent](/serpent)**：文学的・宗教的な「大蛇」「ヘビ」。神話や物語で使われることが多い。
 
 snakeは現実の生き物としてのヘビ、serpentは神話や象徴的な存在としてのヘビに使われます。
 
@@ -105,14 +109,14 @@ snakeは現実の生き物としてのヘビ、serpentは神話や象徴的な�
 
 ## 🧩 あわせて覚えたい
 
-- [lizard](/word/lizard/)：トカゲ
-- [worm](/word/worm/)：ミミズ、虫
+- [lizard](/lizard)：トカゲ
+- [worm](/worm)：ミミズ、虫
 
 ---
 
 ## 📖 できればこれも
 
-- [frog](/word/frog/)：カエル
-- [turtle](/word/turtle/)：カメ
+- [frog](/frog)：カエル
+- [turtle](/turtle)：カメ
 
-<!-- cvid: aid09_bid07 -->
+<!-- cvid: aid33_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは主に長文読解で、物語や計画、土地の区画などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解で、物語や計画、土地の区画などの文
 ## 🤔  plan との違いは？
 
 - **plot**：物語の筋や構成、または土地の区画・計画を指す
-- **[plan](/word/plan/)**：目的達成のための具体的な計画や案
+- **[plan](/plan)**：目的達成のための具体的な計画や案
 
 plotは特に物語やストーリーの流れ、または土地の区画に使われ、planは日常的な計画全般に使われます。
 
@@ -105,14 +109,14 @@ plotは特に物語やストーリーの流れ、または土地の区画に使�
 
 ## 🧩 あわせて覚えたい
 
-- [scheme](/word/scheme/)：計画、策略
-- [storyline](/word/storyline/)：物語の筋
+- [scheme](/scheme)：計画、策略
+- [storyline](/storyline)：物語の筋
 
 ---
 
 ## 📖 できればこれも
 
-- [chart](/word/chart/)：図表、グラフ
-- [outline](/word/outline/)：概要、要点
+- [chart](/chart)：図表、グラフ
+- [outline](/outline)：概要、要点
 
-<!-- cvid: aid18_bid00 -->
+<!-- cvid: aid30_bid06 -->

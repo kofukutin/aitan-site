@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【northwest】の意味・使い方・例文 ― northeastとの違い【TOEIC英単語】"
 description: "northwestの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでnortheastとの違いもわかりやすく学べます。"
 word: "northwest"
@@ -81,15 +81,19 @@ Our new branch is located in the northwest region.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our new branch is located in the northwest region.
 ## 🤔  northeast との違いは？
 
 - **northwest**：北と西の間の方角や地域
-- **[northeast](/word/northeast/)**：北と東の間の方角や地域
+- **[northeast](/northeast)**：北と東の間の方角や地域
 
 northwestは「北西」、northeastは「北東」を指し、地図や位置説明で使い分けます。
 
@@ -105,14 +109,14 @@ northwestは「北西」、northeastは「北東」を指し、地図や位置�
 
 ## 🧩 あわせて覚えたい
 
-- [southwest](/word/southwest/)：南西
-- [direction](/word/direction/)：方向
+- [southwest](/southwest)：南西
+- [direction](/direction)：方向
 
 ---
 
 ## 📖 できればこれも
 
-- [east](/word/east/)：東
-- [west](/word/west/)：西
+- [east](/east)：東
+- [west](/west)：西
 
-<!-- cvid: aid43_bid34 -->
+<!-- cvid: aid48_bid18 -->

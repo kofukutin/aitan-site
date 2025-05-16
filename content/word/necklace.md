@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物がネックレスを身につ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物がネックレスを身につ
 ## 🤔  pendant との違いは？
 
 - **necklace**：首にかけるチェーンやひも全体、またはその装飾品全体を指す。
-- **[pendant](/word/pendant/)**：ネックレスなどにぶら下がる「ペンダントトップ」部分のみを指す。
+- **[pendant](/pendant)**：ネックレスなどにぶら下がる「ペンダントトップ」部分のみを指す。
 
 necklaceは首にかける全体を指し、pendantはその一部である飾り部分だけを意味します。
 
@@ -105,14 +109,14 @@ necklaceは首にかける全体を指し、pendantはその一部である飾�
 
 ## 🧩 あわせて覚えたい
 
-- [bracelet](/word/bracelet/)：腕輪、ブレスレット
-- [ring](/word/ring/)：指輪
+- [bracelet](/bracelet)：腕輪、ブレスレット
+- [ring](/ring)：指輪
 
 ---
 
 ## 📖 できればこれも
 
-- [earring](/word/earring/)：イヤリング、ピアス
-- [jewelry](/word/jewelry/)：宝石類、ジュエリー全般
+- [earring](/earring)：イヤリング、ピアス
+- [jewelry](/jewelry)：宝石類、ジュエリー全般
 
-<!-- cvid: aid16_bid22 -->
+<!-- cvid: aid26_bid43 -->

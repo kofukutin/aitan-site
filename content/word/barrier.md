@@ -80,15 +80,19 @@ TOEICでは、ビジネスや社会的な「障壁」「妨げ」として頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、ビジネスや社会的な「障壁」「妨げ」として頻出
 ## 🤔  obstacle との違いは？
 
 - **barrier**：物理的・心理的・制度的な「障壁」や「進行を妨げるもの」全般を指す
-- **[obstacle](/word/obstacle/)**：主に「進行や達成を妨げる障害物・困難」を指す
+- **[obstacle](/obstacle)**：主に「進行や達成を妨げる障害物・困難」を指す
 
 barrierは「壁」のように進行を止めるもの全般、obstacleは「乗り越えるべき障害物」や「困難」に焦点があります。
 
@@ -104,14 +108,14 @@ barrierは「壁」のように進行を止めるもの全般、obstacleは「�
 
 ## 🧩 あわせて覚えたい
 
-- [hurdle](/word/hurdle/)：（乗り越えるべき）ハードル、障害
-- [block](/word/block/)：妨げ、障害物
+- [hurdle](/hurdle)：（乗り越えるべき）ハードル、障害
+- [block](/block)：妨げ、障害物
 
 ---
 
 ## 📖 できればこれも
 
-- [limit](/word/limit/)：限界、制限
-- [restriction](/word/restriction/)：制限、規制
+- [limit](/limit)：限界、制限
+- [restriction](/restriction)：制限、規制
 
-<!-- cvid: aid12_bid05 -->
+<!-- cvid: aid31_bid36 -->

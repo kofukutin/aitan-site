@@ -81,15 +81,19 @@ TOEICではPart 5の語彙問題で「達成する」「成し遂げる」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の語彙問題で「達成する」「成し遂げる」とい
 ## 🤔  achieve との違いは？
 
 - **accomplish**：困難なことや計画を「やり遂げる」「成し遂げる」ニュアンスが強い
-- **[achieve](/word/achieve/)**：目標や結果を「達成する」一般的な表現
+- **[achieve](/achieve)**：目標や結果を「達成する」一般的な表現
 
 accomplishは「努力や過程を経てやり遂げる」ことに重点があり、achieveは「結果として目標を達成する」ことに重点があります。
 
@@ -105,14 +109,14 @@ accomplishは「努力や過程を経てやり遂げる」ことに重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [complete](/word/complete/)：完了する、仕上げる
-- [fail](/word/fail/)：失敗する
+- [complete](/complete)：完了する、仕上げる
+- [fail](/fail)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [fulfill](/word/fulfill/)：（義務・約束などを）果たす
-- [perform](/word/perform/)：実行する、遂行する
+- [fulfill](/fulfill)：（義務・約束などを）果たす
+- [perform](/perform)：実行する、遂行する
 
-<!-- cvid: aid48_bid40 -->
+<!-- cvid: aid49_bid28 -->

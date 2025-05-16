@@ -81,15 +81,19 @@ TOEICでは、ビジネスの基本方針や倫理、ルールに関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスの基本方針や倫理、ルールに関する文脈
 ## 🤔  policy との違いは？
 
 - **principle**：普遍的・道徳的な「原則」や「信条」を指す
-- **[policy](/word/policy/)**：組織や個人が定める「方針」や「施策」を指す
+- **[policy](/policy)**：組織や個人が定める「方針」や「施策」を指す
 
 principleは変わらない信念や基準、policyは状況に応じて変わる具体的な方針を表します。
 
@@ -105,14 +109,14 @@ principleは変わらない信念や基準、policyは状況に応じて変わ�
 
 ## 🧩 あわせて覚えたい
 
-- [rule](/word/rule/)：規則、ルール
-- [ethics](/word/ethics/)：倫理、道徳
+- [rule](/rule)：規則、ルール
+- [ethics](/ethics)：倫理、道徳
 
 ---
 
 ## 📖 できればこれも
 
-- [standard](/word/standard/)：基準、標準
-- [method](/word/method/)：方法、やり方
+- [standard](/standard)：基準、標準
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid49_bid45 -->
+<!-- cvid: aid33_bid09 -->

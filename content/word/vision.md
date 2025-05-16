@@ -81,15 +81,19 @@ TOEICでは企業理念や将来計画、プロジェクトの説明文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは企業理念や将来計画、プロジェクトの説明文などで
 ## 🤔  insight との違いは？
 
 - **vision**：将来の理想像や目標、または視覚そのものを指す
-- **[insight](/word/insight/)**：物事の本質を見抜く洞察力や理解
+- **[insight](/insight)**：物事の本質を見抜く洞察力や理解
 
 「vision」は未来を見据えた大きな目標や構想を表し、「insight」は現状や問題の本質を深く理解する力を指します。
 
@@ -105,14 +109,14 @@ TOEICでは企業理念や将来計画、プロジェクトの説明文などで
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/word/goal/)：目標
-- [foresight](/word/foresight/)：先見の明
+- [goal](/goal)：目標
+- [foresight](/foresight)：先見の明
 
 ---
 
 ## 📖 できればこれも
 
-- [mission](/word/mission/)：使命、任務
-- [strategy](/word/strategy/)：戦略
+- [mission](/mission)：使命、任務
+- [strategy](/strategy)：戦略
 
-<!-- cvid: aid13_bid08 -->
+<!-- cvid: aid14_bid38 -->

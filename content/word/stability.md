@@ -81,15 +81,19 @@ TOEICではビジネスや経済、組織運営に関する文脈で「安定性
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスや経済、組織運営に関する文脈で「安定性
 ## 🤔  security との違いは？
 
 - **stability**：変化せず安定している状態や持続性を強調
-- **[security](/word/security/)**：安全・防護・危険がないことを強調
+- **[security](/security)**：安全・防護・危険がないことを強調
 
 stabilityは「揺るがない・変わらない」こと、securityは「危険がない・守られている」ことに重点があります。
 
@@ -105,14 +109,14 @@ stabilityは「揺るがない・変わらない」こと、securityは「危険
 
 ## 🧩 あわせて覚えたい
 
-- [instability](/word/instability/)：不安定、安定していないこと
-- [consistency](/word/consistency/)：一貫性、矛盾がないこと
+- [instability](/instability)：不安定、安定していないこと
+- [consistency](/consistency)：一貫性、矛盾がないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [steady](/word/steady/)：安定した、着実な
-- [balance](/word/balance/)：バランス、均衡
+- [steady](/steady)：安定した、着実な
+- [balance](/balance)：バランス、均衡
 
-<!-- cvid: aid09_bid46 -->
+<!-- cvid: aid06_bid37 -->

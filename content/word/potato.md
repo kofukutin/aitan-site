@@ -81,7 +81,7 @@ TOEICではPart 1の写真描写問題で、食材や料理の説明として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICではPart 1の写真描写問題で、食材や料理の説明として登
 
 <div class="info-center">
 ＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid19" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid19" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、食材や料理の説明として登
 ## 🤔  sweet potato との違いは？
 
 - **potato**：一般的なジャガイモ。白や黄色の中身で、主食や付け合わせに使われる。
-- **[sweet potato](/word/sweet_potato/)**：サツマイモ。甘みが強く、デザートや焼き芋などに使われる。
+- **[sweet potato](/sweet_potato)**：サツマイモ。甘みが強く、デザートや焼き芋などに使われる。
 
 potatoは主に食事の主食や付け合わせとして使われ、sweet potatoは甘みがあるためお菓子や焼き芋などに使われることが多いです。
 
@@ -105,14 +109,14 @@ potatoは主に食事の主食や付け合わせとして使われ、sweet potat
 
 ## 🧩 あわせて覚えたい
 
-- [carrot](/word/carrot/)：ニンジン
-- [tomato](/word/tomato/)：トマト
+- [carrot](/carrot)：ニンジン
+- [tomato](/tomato)：トマト
 
 ---
 
 ## 📖 できればこれも
 
-- [vegetable](/word/vegetable/)：野菜
-- [fruit](/word/fruit/)：果物
+- [vegetable](/vegetable)：野菜
+- [fruit](/fruit)：果物
 
-<!-- cvid: aid08_bid19 -->
+<!-- cvid: aid09_bid19 -->

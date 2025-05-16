@@ -81,15 +81,19 @@ The city's historic fort attracts many tourists every year.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The city's historic fort attracts many tourists every year.
 ## 🤔  fortress との違いは？
 
 - **fort**：比較的小規模な要塞や砦を指し、軍事的・歴史的な文脈で使われることが多い
-- **[fortress](/word/fortress/)**：大規模で堅固な要塞を指し、より防御力が高い印象
+- **[fortress](/fortress)**：大規模で堅固な要塞を指し、より防御力が高い印象
 
 fortは小さめの防御施設、fortressは大きくて堅牢な要塞というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ fortは小さめの防御施設、fortressは大きくて堅牢な要塞とい�
 
 ## 🧩 あわせて覚えたい
 
-- [castle](/word/castle/)：城
-- [barracks](/word/barracks/)：兵舎
+- [castle](/castle)：城
+- [barracks](/barracks)：兵舎
 
 ---
 
 ## 📖 できればこれも
 
-- [tower](/word/tower/)：塔
-- [gate](/word/gate/)：門
+- [tower](/tower)：塔
+- [gate](/gate)：門
 
-<!-- cvid: aid06_bid00 -->
+<!-- cvid: aid16_bid10 -->

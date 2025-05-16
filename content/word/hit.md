@@ -81,15 +81,19 @@ hitはTOEICの会話パートで「ぶつかる」「到達する」などの意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ hitはTOEICの会話パートで「ぶつかる」「到達する」などの意
 ## 🤔  strike との違いは？
 
 - **hit**：単に「当たる」「ぶつかる」という意味で、日常的な動作や出来事に幅広く使う。
-- **[strike](/word/strike/)**：hitよりも「強く打つ」「意図的に攻撃する」など、力強さや意図が強調される。
+- **[strike](/strike)**：hitよりも「強く打つ」「意図的に攻撃する」など、力強さや意図が強調される。
 
 hitは日常的な「ぶつかる」動作全般に使い、strikeはより強い力や意図的な行為を表します。
 
@@ -105,14 +109,14 @@ hitは日常的な「ぶつかる」動作全般に使い、strikeはより強�
 
 ## 🧩 あわせて覚えたい
 
-- [touch](/word/touch/)：触れる
-- [miss](/word/miss/)：外す、逃す
+- [touch](/touch)：触れる
+- [miss](/miss)：外す、逃す
 
 ---
 
 ## 📖 できればこれも
 
-- [push](/word/push/)：押す
-- [reach](/word/reach/)：到達する
+- [push](/push)：押す
+- [reach](/reach)：到達する
 
-<!-- cvid: aid20_bid34 -->
+<!-- cvid: aid05_bid40 -->

@@ -81,15 +81,19 @@ TOEICでは、地理的な説明や会社の所在地、行政区分の説明な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、地理的な説明や会社の所在地、行政区分の説明な
 ## 🤔  area との違いは？
 
 - **district**：行政や目的によって区切られた明確な「地区」「区域」
-- **[area](/word/area/)**：広く一般的な「地域」「範囲」
+- **[area](/area)**：広く一般的な「地域」「範囲」
 
 districtは公式・行政的な区分に使われ、areaはより広く曖昧な範囲や場所に使われます。
 
@@ -105,14 +109,14 @@ districtは公式・行政的な区分に使われ、areaはより広く曖昧�
 
 ## 🧩 あわせて覚えたい
 
-- [region](/word/region/)：（広域の）地域、地方
-- [zone](/word/zone/)：（特定の目的の）区域、ゾーン
+- [region](/region)：（広域の）地域、地方
+- [zone](/zone)：（特定の目的の）区域、ゾーン
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/word/section/)：（全体の中の）部分、区分
-- [division](/word/division/)：部門、分割された部分
+- [section](/section)：（全体の中の）部分、区分
+- [division](/division)：部門、分割された部分
 
-<!-- cvid: aid43_bid34 -->
+<!-- cvid: aid33_bid29 -->

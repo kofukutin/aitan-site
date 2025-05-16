@@ -81,15 +81,19 @@ TOEICでは、図や説明文、または視点や考え方を表す文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、図や説明文、または視点や考え方を表す文脈で出
 ## 🤔  corner との違いは？
 
 - **angle**：2本の線や面が交わる「角度」や「視点」
-- **[corner](/word/corner/)**：部屋や物の「隅」「角」
+- **[corner](/corner)**：部屋や物の「隅」「角」
 
 angleは「角度」や「視点」を表し、cornerは物理的な「隅」や「角」を指します。数学やカメラの話ではangle、部屋の隅などはcornerを使います。
 
@@ -105,14 +109,14 @@ angleは「角度」や「視点」を表し、cornerは物理的な「隅」や
 
 ## 🧩 あわせて覚えたい
 
-- [edge](/word/edge/)：端、へり
-- [perspective](/word/perspective/)：視点、観点
+- [edge](/edge)：端、へり
+- [perspective](/perspective)：視点、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [shape](/word/shape/)：形、形状
-- [line](/word/line/)：線
+- [shape](/shape)：形、形状
+- [line](/line)：線
 
-<!-- cvid: aid12_bid39 -->
+<!-- cvid: aid44_bid44 -->

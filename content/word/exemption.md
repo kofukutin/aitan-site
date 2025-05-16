@@ -81,15 +81,19 @@ TOEICでは契約書や規則、税金関連の長文で「免除」「適用除
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や規則、税金関連の長文で「免除」「適用除
 ## 🤔  exception との違いは？
 
 - **exemption**：義務や規則などから「免除されること」「適用除外」
-- **[exception](/word/exception/)**：一般的な規則やパターンから外れる「例外」
+- **[exception](/exception)**：一般的な規則やパターンから外れる「例外」
 
 exemptionは「本来しなければならないことを免除される」場合に使い、exceptionは「通常とは違う特別なケース」を指します。
 
@@ -105,14 +109,14 @@ exemptionは「本来しなければならないことを免除される」場�
 
 ## 🧩 あわせて覚えたい
 
-- [waiver](/word/waiver/)：権利放棄、免除
-- [deduction](/word/deduction/)：控除、差し引き
+- [waiver](/waiver)：権利放棄、免除
+- [deduction](/deduction)：控除、差し引き
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation/)：規則、規制
-- [permission](/word/permission/)：許可
+- [regulation](/regulation)：規則、規制
+- [permission](/permission)：許可
 
-<!-- cvid: aid23_bid33 -->
+<!-- cvid: aid11_bid08 -->

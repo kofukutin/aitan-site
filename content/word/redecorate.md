@@ -81,15 +81,19 @@ TOEICでは、オフィスや部屋の改装・模様替えに関する会話や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや部屋の改装・模様替えに関する会話や
 ## 🤔  renovate との違いは？
 
 - **redecorate**：主に壁紙やペンキ、家具の配置など「見た目」を新しくすること。
-- **[renovate](/word/renovate/)**：古くなった建物や部屋を「修繕・改修」して機能や構造も新しくすること。
+- **[renovate](/renovate)**：古くなった建物や部屋を「修繕・改修」して機能や構造も新しくすること。
 
 redecorateは表面的な模様替え、renovateは構造的な修理や大規模な改修を指します。
 
@@ -105,14 +109,14 @@ redecorateは表面的な模様替え、renovateは構造的な修理や大規�
 
 ## 🧩 あわせて覚えたい
 
-- [paint](/word/paint/)：ペンキを塗る
-- [furnish](/word/furnish/)：家具を備え付ける
+- [paint](/paint)：ペンキを塗る
+- [furnish](/furnish)：家具を備え付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [decorate](/word/decorate/)：飾る、装飾する
-- [remodel](/word/remodel/)：改築する、リフォームする
+- [decorate](/decorate)：飾る、装飾する
+- [remodel](/remodel)：改築する、リフォームする
 
-<!-- cvid: aid13_bid49 -->
+<!-- cvid: aid33_bid03 -->

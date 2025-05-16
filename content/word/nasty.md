@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、否定的な意味を問う文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、否定的な意味を問う文脈で
 ## 🤔  mean との違いは？
 
 - **nasty**：不快さや意地悪さ、汚さ、危険さなど幅広い否定的な意味を持つ
-- **[mean](/word/mean/)**：意地悪・冷たい性格や行動を指す
+- **[mean](/mean)**：意地悪・冷たい性格や行動を指す
 
 「nasty」は状況や物にも使え、より広い否定的なニュアンスを持ちますが、「mean」は主に人の性格や行動の「意地悪さ」に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞の語彙問題や、否定的な意味を問う文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [rude](/word/rude/)：失礼な
-- [unpleasant](/word/unpleasant/)：不快な
+- [rude](/rude)：失礼な
+- [unpleasant](/unpleasant)：不快な
 
 ---
 
 ## 📖 できればこれも
 
-- [harsh](/word/harsh/)：厳しい、辛辣な
-- [polite](/word/polite/)：礼儀正しい
+- [harsh](/harsh)：厳しい、辛辣な
+- [polite](/polite)：礼儀正しい
 
-<!-- cvid: aid11_bid15 -->
+<!-- cvid: aid20_bid38 -->

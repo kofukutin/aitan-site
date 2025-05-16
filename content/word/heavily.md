@@ -81,15 +81,19 @@ TOEICでは、天候や依存度、影響の強さなどを表す副詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、天候や依存度、影響の強さなどを表す副詞として
 ## 🤔  strongly との違いは？
 
 - **heavily**：量や重さ、程度の強さを具体的に表す
-- **[strongly](/word/strongly/)**：意見や感情、態度の強さを抽象的に表す
+- **[strongly](/strongly)**：意見や感情、態度の強さを抽象的に表す
 
 heavilyは物理的・数量的な「重さ」や「激しさ」に使い、stronglyは「意見」「支持」など抽象的な強さに使います。
 
@@ -105,14 +109,14 @@ heavilyは物理的・数量的な「重さ」や「激しさ」に使い、stro
 
 ## 🧩 あわせて覚えたい
 
-- [lightly](/word/lightly/)：軽く、少しだけ
-- [intensely](/word/intensely/)：強烈に、激しく
+- [lightly](/lightly)：軽く、少しだけ
+- [intensely](/intensely)：強烈に、激しく
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [seriously](/word/seriously/)：真剣に、本気で
+- [quickly](/quickly)：速く
+- [seriously](/seriously)：真剣に、本気で
 
-<!-- cvid: aid36_bid18 -->
+<!-- cvid: aid12_bid41 -->

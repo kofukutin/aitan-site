@@ -81,15 +81,19 @@ TOEICでは会議やパネルディスカッションの場面で「moderator」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やパネルディスカッションの場面で「moderator」
 ## 🤔  facilitator との違いは？
 
 - **moderator**：討論や会議の進行・調整を担う司会者
-- **[facilitator](/word/facilitator/)**：参加者の意見を引き出し、円滑な進行を助ける支援者
+- **[facilitator](/facilitator)**：参加者の意見を引き出し、円滑な進行を助ける支援者
 
 moderatorは議論の秩序や進行管理が主な役割ですが、facilitatorは参加者の活発な意見交換や協力を促すことに重点を置きます。
 
@@ -105,13 +109,13 @@ moderatorは議論の秩序や進行管理が主な役割ですが、facilitator
 
 ## 🧩 あわせて覚えたい
 
-- [chairperson](/word/chairperson/)：会議の議長、主催者
-- [mediator](/word/mediator/)：仲裁者、対立の調停役
+- [chairperson](/chairperson)：会議の議長、主催者
+- [mediator](/mediator)：仲裁者、対立の調停役
 
 ---
 
 ## 📖 できればこれも
 
-- [panel](/word/panel/)：討論会、パネルディスカッション
-- [discussion](/word/discussion/)：討論、話し合い
-<!-- cvid: aid13_bid14 -->
+- [panel](/panel)：討論会、パネルディスカッション
+- [discussion](/discussion)：討論、話し合い
+<!-- cvid: aid43_bid07 -->

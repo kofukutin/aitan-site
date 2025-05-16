@@ -81,15 +81,19 @@ TOEICではビジネスシーンやスポーツ、企業間の競争などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスシーンやスポーツ、企業間の競争などの文
 ## 🤔  contend との違いは？
 
 - **compete**：勝ち負けや順位を目指して他者と競争する
-- **[contend](/word/contend/)**：困難や相手と「争う」「戦う」など幅広く使う
+- **[contend](/contend)**：困難や相手と「争う」「戦う」など幅広く使う
 
 competeは「競争」というニュアンスが強く、contendは「困難や相手と戦う」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ competeは「競争」というニュアンスが強く、contendは「困難や
 
 ## 🧩 あわせて覚えたい
 
-- [cooperate](/word/cooperate/)：協力する
-- [rival](/word/rival/)：ライバル、競争相手
+- [cooperate](/cooperate)：協力する
+- [rival](/rival)：ライバル、競争相手
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [participate](/word/participate/)：参加する
+- [achieve](/achieve)：達成する
+- [participate](/participate)：参加する
 
-<!-- cvid: aid36_bid18 -->
+<!-- cvid: aid20_bid24 -->

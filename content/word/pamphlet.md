@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pamphlet】の意味・使い方・例文 ― brochureとの違い【TOEIC英単語】"
 description: "pamphletの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbrochureとの違いもわかりやすく学べます。"
 word: "pamphlet"
@@ -81,15 +81,19 @@ pamphletはTOEICの案内文や広告、説明資料の中でよく登場しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ pamphletはTOEICの案内文や広告、説明資料の中でよく登場しま�
 ## 🤔  brochure との違いは？
 
 - **pamphlet**：数ページの簡単な小冊子や案内書。情報を簡潔にまとめて配布するもの。
-- **[brochure](/word/brochure/)**：カラー印刷や写真入りで、商品やサービスを詳しく紹介する冊子。
+- **[brochure](/brochure)**：カラー印刷や写真入りで、商品やサービスを詳しく紹介する冊子。
 
 pamphletは簡易的な案内や説明用、brochureはより高品質で詳細な宣伝用に使われることが多いです。
 
@@ -105,14 +109,14 @@ pamphletは簡易的な案内や説明用、brochureはより高品質で詳細�
 
 ## 🧩 あわせて覚えたい
 
-- [leaflet](/word/leaflet/)：一枚もののチラシやリーフレット
-- [catalog](/word/catalog/)：商品やサービスの一覧をまとめたカタログ
+- [leaflet](/leaflet)：一枚もののチラシやリーフレット
+- [catalog](/catalog)：商品やサービスの一覧をまとめたカタログ
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [manual](/word/manual/)：取扱説明書
+- [document](/document)：文書、書類
+- [manual](/manual)：取扱説明書
 
-<!-- cvid: aid26_bid32 -->
+<!-- cvid: aid24_bid01 -->

@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「さらに深く調べる」「より深い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「さらに深く調べる」「より深い
 ## 🤔  further との違いは？
 
 - **deeper**：物理的・比喩的に「より深く」掘り下げることを強調
-- **[further](/word/further/)**：距離や程度、進行など「さらに先へ」「もっと進んで」という広い意味
+- **[further](/further)**：距離や程度、進行など「さらに先へ」「もっと進んで」という広い意味
 
 「deeper」は深さや内容の濃さに焦点を当て、「further」は範囲や進行の「さらに先」を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、会話や説明文で「さらに深く調べる」「より深い
 
 ## 🧩 あわせて覚えたい
 
-- [profound](/word/profound/)：深い、深遠な
-- [shallow](/word/shallow/)：浅い
+- [profound](/profound)：深い、深遠な
+- [shallow](/shallow)：浅い
 
 ---
 
 ## 📖 できればこれも
 
-- [closer](/word/closer/)：より近く
-- [higher](/word/higher/)：より高く
+- [closer](/closer)：より近く
+- [higher](/higher)：より高く
 
-<!-- cvid: aid02_bid03 -->
+<!-- cvid: aid30_bid34 -->

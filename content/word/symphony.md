@@ -81,15 +81,19 @@ TOEICでは観光案内やイベント情報、文化紹介の長文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光案内やイベント情報、文化紹介の長文で登場す
 ## 🤔  orchestra との違いは？
 
 - **symphony**：複数楽章からなる大規模な交響曲、または交響楽団そのもの
-- **[orchestra](/word/orchestra/)**：管弦楽団そのもの（演奏するグループ）
+- **[orchestra](/orchestra)**：管弦楽団そのもの（演奏するグループ）
 
 symphonyは「曲」または「交響楽団」の両方を指しますが、orchestraは「演奏する団体」だけを意味します。
 
@@ -105,14 +109,14 @@ symphonyは「曲」または「交響楽団」の両方を指しますが、orc
 
 ## 🧩 あわせて覚えたい
 
-- [concerto](/word/concerto/)：協奏曲（独奏楽器とオーケストラのための楽曲）
-- [melody](/word/melody/)：旋律、メロディー
+- [concerto](/concerto)：協奏曲（独奏楽器とオーケストラのための楽曲）
+- [melody](/melody)：旋律、メロディー
 
 ---
 
 ## 📖 できればこれも
 
-- [composer](/word/composer/)：作曲家
-- [performance](/word/performance/)：演奏、上演
+- [composer](/composer)：作曲家
+- [performance](/performance)：演奏、上演
 
-<!-- cvid: aid37_bid36 -->
+<!-- cvid: aid07_bid24 -->

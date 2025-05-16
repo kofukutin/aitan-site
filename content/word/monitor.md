@@ -82,15 +82,19 @@ TOEICではITやビジネスの会話、システム管理や業務の進捗確�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではITやビジネスの会話、システム管理や業務の進捗確�
 ## 🤔  supervise との違いは？
 
 - **monitor**：継続的に観察・監視して変化や問題をチェックする
-- **[supervise](/word/supervise/)**：人や作業を直接管理・指導する
+- **[supervise](/supervise)**：人や作業を直接管理・指導する
 
 monitorは「見守る・観察する」イメージ、superviseは「指導・管理する」イメージで、責任や介入の度合いが異なります。
 
@@ -106,14 +110,14 @@ monitorは「見守る・観察する」イメージ、superviseは「指導・�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/word/observe/)：観察する
-- [check](/word/check/)：確認する
+- [observe](/observe)：観察する
+- [check](/check)：確認する
 
 ---
 
 ## 📖 できればこれも
 
-- [control](/word/control/)：制御する
-- [track](/word/track/)：追跡する
+- [control](/control)：制御する
+- [track](/track)：追跡する
 
-<!-- cvid: aid49_bid25 -->
+<!-- cvid: aid21_bid03 -->

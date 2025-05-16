@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bacon】の意味・使い方・例文 ― hamとの違い【TOEIC英単語】"
 description: "baconの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでhamとの違いもわかりやすく学べます。"
 word: "bacon"
@@ -80,7 +80,7 @@ TOEICでは主にPart 1の写真描写で、朝食やレストランのシーン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+いい感覚をつなげよう👇️
 
 ---
 
@@ -88,7 +88,11 @@ TOEICでは主にPart 1の写真描写で、朝食やレストランのシーン
 
 <div class="info-center">
 ＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写で、朝食やレストランのシーン
 ## 🤔  ham との違いは？
 
 - **bacon**：豚の腹や背中の肉を塩漬け・燻製したもの。脂が多く、焼いて食べることが多い。
-- **[ham](/word/ham/)**：豚のもも肉を塩漬け・燻製したもの。baconより脂が少なく、薄切りでそのまま食べることも多い。
+- **[ham](/ham)**：豚のもも肉を塩漬け・燻製したもの。baconより脂が少なく、薄切りでそのまま食べることも多い。
 
 baconは脂が多くカリカリに焼くことが多いのに対し、hamは脂が少なくサンドイッチなどにそのまま使われることが多いです。
 
@@ -104,14 +108,14 @@ baconは脂が多くカリカリに焼くことが多いのに対し、hamは脂
 
 ## 🧩 あわせて覚えたい
 
-- [sausage](/word/sausage/)：ソーセージ（豚肉などを腸詰めにした加工食品）
-- [pork](/word/pork/)：豚肉（調理前の肉全般）
+- [sausage](/sausage)：ソーセージ（豚肉などを腸詰めにした加工食品）
+- [pork](/pork)：豚肉（調理前の肉全般）
 
 ---
 
 ## 📖 できればこれも
 
-- [egg](/word/egg/)：卵
-- [bread](/word/bread/)：パン
+- [egg](/egg)：卵
+- [bread](/bread)：パン
 
-<!-- cvid: aid15_bid35 -->
+<!-- cvid: aid21_bid35 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や社内メール、プロジェクト紹介
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や社内メール、プロジェクト紹介
 ## 🤔  proposal との違いは？
 
 - **initiative**：自発的な行動や新しい取り組みそのもの、または主導権を意味する
-- **[proposal](/word/proposal/)**：提案や申し出そのものを指す
+- **[proposal](/proposal)**：提案や申し出そのものを指す
 
 initiativeは「自分から進んで始める行動」や「新規プロジェクト」に重点があり、proposalは「案や計画を提案すること」に焦点があります。
 
@@ -105,14 +109,14 @@ initiativeは「自分から進んで始める行動」や「新規プロジェ�
 
 ## 🧩 あわせて覚えたい
 
-- [leadership](/word/leadership/)：リーダーシップ、指導力
-- [plan](/word/plan/)：計画、案
+- [leadership](/leadership)：リーダーシップ、指導力
+- [plan](/plan)：計画、案
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy/)：戦略
-- [project](/word/project/)：プロジェクト、計画
+- [strategy](/strategy)：戦略
+- [project](/project)：プロジェクト、計画
 
-<!-- cvid: aid08_bid16 -->
+<!-- cvid: aid22_bid20 -->

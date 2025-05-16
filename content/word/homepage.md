@@ -81,15 +81,19 @@ TOEICではウェブサイトやIT関連の案内文、メール文中で「home
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではウェブサイトやIT関連の案内文、メール文中で「home
 ## 🤔  website との違いは？
 
 - **homepage**：ウェブサイトの最初のページ、またはサイト全体を指すこともある
-- **[website](/word/website/)**：ウェブ上の複数ページから成るサイト全体
+- **[website](/website)**：ウェブ上の複数ページから成るサイト全体
 
 homepageは「入口ページ」や「トップページ」を指すのが基本ですが、カジュアルな会話ではサイト全体を指すこともあります。一方、websiteは「ウェブサイト全体」を意味し、より正式な表現です。
 
@@ -105,14 +109,14 @@ homepageは「入口ページ」や「トップページ」を指すのが基本
 
 ## 🧩 あわせて覚えたい
 
-- [portal](/word/portal/)：ポータルサイト、情報の玄関口となるウェブページ
-- [landing_page](/word/landing_page/)：ランディングページ、特定の目的で作られた到達ページ
+- [portal](/portal)：ポータルサイト、情報の玄関口となるウェブページ
+- [landing_page](/landing_page)：ランディングページ、特定の目的で作られた到達ページ
 
 ---
 
 ## 📖 できればこれも
 
-- [browser](/word/browser/)：ブラウザ、ウェブページを閲覧するソフト
-- [link](/word/link/)：リンク、ウェブページ間をつなぐ仕組み
+- [browser](/browser)：ブラウザ、ウェブページを閲覧するソフト
+- [link](/link)：リンク、ウェブページ間をつなぐ仕組み
 
-<!-- cvid: aid48_bid11 -->
+<!-- cvid: aid03_bid14 -->

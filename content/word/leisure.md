@@ -81,15 +81,19 @@ leisureはTOEICの長文読解（Part 7）で、余暇活動や福利厚生、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ leisureはTOEICの長文読解（Part 7）で、余暇活動や福利厚生、�
 ## 🤔  vacation との違いは？
 
 - **leisure**：日常の中で自由に使える「余暇」や「ひま」を指す
-- **[vacation](/word/vacation/)**：まとまった休暇や旅行など、仕事や学校を離れて過ごす「休暇」を指す
+- **[vacation](/vacation)**：まとまった休暇や旅行など、仕事や学校を離れて過ごす「休暇」を指す
 
 leisureは日常的な自由時間、vacationは特別な休みや旅行に使われます。
 
@@ -105,14 +109,14 @@ leisureは日常的な自由時間、vacationは特別な休みや旅行に使�
 
 ## 🧩 あわせて覚えたい
 
-- [recreation](/word/recreation/)：気晴らし、娯楽
-- [work](/word/work/)：仕事、労働
+- [recreation](/recreation)：気晴らし、娯楽
+- [work](/work)：仕事、労働
 
 ---
 
 ## 📖 できればこれも
 
-- [hobby](/word/hobby/)：趣味
-- [activity](/word/activity/)：活動
+- [hobby](/hobby)：趣味
+- [activity](/activity)：活動
 
-<!-- cvid: aid28_bid41 -->
+<!-- cvid: aid26_bid05 -->

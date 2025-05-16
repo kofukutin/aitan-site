@@ -81,15 +81,19 @@ TOEICでは、レシピや食品関連の長文、メール、注文書などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid15" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid15" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レシピや食品関連の長文、メール、注文書などで
 ## 🤔  powder との違いは？
 
 - **flour**：主に小麦など穀物を挽いて作る「小麦粉」や「粉」
-- **[powder](/word/powder/)**：粉末全般（例：ベビーパウダー、洗剤、薬など）
+- **[powder](/powder)**：粉末全般（例：ベビーパウダー、洗剤、薬など）
 
 flourは食材としての「小麦粉」に特化し、powderはあらゆる種類の粉末を指します。
 
@@ -105,14 +109,14 @@ flourは食材としての「小麦粉」に特化し、powderはあらゆる種
 
 ## 🧩 あわせて覚えたい
 
-- [grain](/word/grain/)：穀物
-- [dough](/word/dough/)：パン生地
+- [grain](/grain)：穀物
+- [dough](/dough)：パン生地
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread/)：パン
-- [rice](/word/rice/)：米
+- [bread](/bread)：パン
+- [rice](/rice)：米
 
-<!-- cvid: aid20_bid41 -->
+<!-- cvid: aid45_bid15 -->

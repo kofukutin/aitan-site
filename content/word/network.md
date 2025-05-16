@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「network」が頻出します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「network」が頻出します。特に
 ## 🤔  system との違いは？
 
 - **network**：複数の要素がつながってできた「網状の構造」や「つながり」を強調
-- **[system](/word/system/)**：全体として機能する「仕組み」や「体系」を強調
+- **[system](/system)**：全体として機能する「仕組み」や「体系」を強調
 
 networkは「つながり」や「連携」に焦点があり、systemは「全体の仕組み」や「構造」に重点があります。
 
@@ -105,14 +109,14 @@ networkは「つながり」や「連携」に焦点があり、systemは「全�
 
 ## 🧩 あわせて覚えたい
 
-- [connection](/word/connection/)：接続、つながり
-- [infrastructure](/word/infrastructure/)：基盤、インフラ
+- [connection](/connection)：接続、つながり
+- [infrastructure](/infrastructure)：基盤、インフラ
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/word/database/)：データベース、情報の集まり
-- [platform](/word/platform/)：プラットフォーム、基盤となる環境
+- [database](/database)：データベース、情報の集まり
+- [platform](/platform)：プラットフォーム、基盤となる環境
 
-<!-- cvid: aid24_bid22 -->
+<!-- cvid: aid20_bid04 -->

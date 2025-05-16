@@ -81,15 +81,19 @@ TOEICでは、住所や行政区分、地域の説明などで登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、住所や行政区分、地域の説明などで登場すること
 ## 🤔  province との違いは？
 
 - **county**：アメリカやイギリスなどで使われる「郡」という行政区画
-- **[province](/word/province/)**：主にカナダや中国などで使われる「州」「省」などの大きな行政区画
+- **[province](/province)**：主にカナダや中国などで使われる「州」「省」などの大きな行政区画
 
 countyは市や町より大きく州より小さい単位、provinceは国の中で州や省などの大きな区分を指します。
 
@@ -105,14 +109,14 @@ countyは市や町より大きく州より小さい単位、provinceは国の中
 
 ## 🧩 あわせて覚えたい
 
-- [district](/word/district/)：地区、行政区
-- [region](/word/region/)：地域、地方
+- [district](/district)：地区、行政区
+- [region](/region)：地域、地方
 
 ---
 
 ## 📖 できればこれも
 
-- [city](/word/city/)：都市、市
-- [state](/word/state/)：州、国家
+- [city](/city)：都市、市
+- [state](/state)：州、国家
 
-<!-- cvid: aid30_bid43 -->
+<!-- cvid: aid19_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは、会議や電話、プレゼンなどの場面で「話す」「発
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や電話、プレゼンなどの場面で「話す」「発
 ## 🤔  talk との違いは？
 
 - **speak**：フォーマルな場面や「言語を話す」「演説する」などに使う
-- **[talk](/word/talk/)**：カジュアルな会話や「誰かと話す」場面で使う
+- **[talk](/talk)**：カジュアルな会話や「誰かと話す」場面で使う
 
 speakは改まった場面や能力について述べるときに使い、talkは友人同士の会話などカジュアルなやりとりに使います。
 
@@ -105,14 +109,14 @@ speakは改まった場面や能力について述べるときに使い、talk�
 
 ## 🧩 あわせて覚えたい
 
-- [say](/word/say/)：（言葉を）言う
-- [announce](/word/announce/)：発表する、告知する
+- [say](/say)：（言葉を）言う
+- [announce](/announce)：発表する、告知する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss/)：議論する、話し合う
-- [explain](/word/explain/)：説明する
+- [discuss](/discuss)：議論する、話し合う
+- [explain](/explain)：説明する
 
-<!-- cvid: aid10_bid17 -->
+<!-- cvid: aid46_bid49 -->

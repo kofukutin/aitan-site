@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で、動物や農場のシーンとして
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid31_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、動物や農場のシーンとして
 ## 🤔  hog との違いは？
 
 - **pig**：一般的な「豚」を指し、子豚や成豚どちらにも使える。
-- **[hog](/word/hog/)**：特に大きな豚や肉用に飼育される豚を指すことが多い。
+- **[hog](/hog)**：特に大きな豚や肉用に飼育される豚を指すことが多い。
 
 pigは日常会話で幅広く使われますが、hogは特に大きな豚や肉用の豚を強調したいときに使われます。
 
@@ -105,14 +109,14 @@ pigは日常会話で幅広く使われますが、hogは特に大きな豚や�
 
 ## 🧩 あわせて覚えたい
 
-- [boar](/word/boar/)：イノシシ、野生の豚
-- [pork](/word/pork/)：豚肉
+- [boar](/boar)：イノシシ、野生の豚
+- [pork](/pork)：豚肉
 
 ---
 
 ## 📖 できればこれも
 
-- [cow](/word/cow/)：牛
-- [sheep](/word/sheep/)：羊
+- [cow](/cow)：牛
+- [sheep](/sheep)：羊
 
-<!-- cvid: aid01_bid41 -->
+<!-- cvid: aid31_bid17 -->

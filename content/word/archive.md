@@ -81,15 +81,19 @@ TOEICではITやビジネス文書の保存、管理に関する説明文やメ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書の保存、管理に関する説明文やメ�
 ## 🤔  storage との違いは？
 
 - **archive**：長期間保存するための記録や保管所、特に重要なものに使う
-- **[storage](/word/storage/)**：一般的な「保管・保存」全般、特に重要性は問わない
+- **[storage](/storage)**：一般的な「保管・保存」全般、特に重要性は問わない
 
 archiveは歴史的・公式な記録やデータの長期保存に使われ、storageは日常的な物やデータの一時的・広範な保管に使われます。
 
@@ -105,14 +109,14 @@ archiveは歴史的・公式な記録やデータの長期保存に使われ、s
 
 ## 🧩 あわせて覚えたい
 
-- [record](/word/record/)：記録、記載
-- [repository](/word/repository/)：保管場所、貯蔵庫
+- [record](/record)：記録、記載
+- [repository](/repository)：保管場所、貯蔵庫
 
 ---
 
 ## 📖 できればこれも
 
-- [backup](/word/backup/)：バックアップ、予備のデータ
-- [document](/word/document/)：文書、書類
+- [backup](/backup)：バックアップ、予備のデータ
+- [document](/document)：文書、書類
 
-<!-- cvid: aid19_bid43 -->
+<!-- cvid: aid14_bid28 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sofa】の意味・使い方・例文 ― couchとの違い【TOEIC英単語】"
 description: "sofaの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcouchとの違いもわかりやすく学べます。"
 word: "sofa"
@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写問題で、オフィスやロビー、家
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写問題で、オフィスやロビー、家
 ## 🤔  couch との違いは？
 
 - **sofa**：ややフォーマルで、家具店やカタログなどでよく使われる。
-- **[couch](/word/couch/)**：カジュアルな響きで、日常会話やアメリカ英語でよく使われる。
+- **[couch](/couch)**：カジュアルな響きで、日常会話やアメリカ英語でよく使われる。
 
 sofaはやや上品な印象、couchは親しみやすい印象で使い分けられます。
 
@@ -104,14 +108,14 @@ sofaはやや上品な印象、couchは親しみやすい印象で使い分け�
 
 ## 🧩 あわせて覚えたい
 
-- [chair](/word/chair/)：椅子
-- [bench](/word/bench/)：ベンチ
+- [chair](/chair)：椅子
+- [bench](/bench)：ベンチ
 
 ---
 
 ## 📖 できればこれも
 
-- [table](/word/table/)：テーブル
-- [carpet](/word/carpet/)：カーペット
+- [table](/table)：テーブル
+- [carpet](/carpet)：カーペット
 
-<!-- cvid: aid30_bid07 -->
+<!-- cvid: aid48_bid48 -->

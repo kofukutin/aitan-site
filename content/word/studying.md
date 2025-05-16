@@ -81,15 +81,19 @@ TOEICでは、動名詞や名詞句として「studying」が空所補充や文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動名詞や名詞句として「studying」が空所補充や文�
 ## 🤔  learning との違いは？
 
 - **studying**：本や資料を使って意識的に勉強すること
-- **[learning](/word/learning/)**：経験や勉強を通じて知識やスキルを身につけること全般
+- **[learning](/learning)**：経験や勉強を通じて知識やスキルを身につけること全般
 
 「studying」は意図的な勉強や学習行為を強調し、「learning」はより広く自然な知識の習得も含みます。
 
@@ -105,14 +109,14 @@ TOEICでは、動名詞や名詞句として「studying」が空所補充や文�
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/word/practice/)：練習、実践
-- [review](/word/review/)：復習、見直し
+- [practice](/practice)：練習、実践
+- [review](/review)：復習、見直し
 
 ---
 
 ## 📖 できればこれも
 
-- [training](/word/training/)：訓練、トレーニング
-- [reading](/word/reading/)：読書、読むこと
+- [training](/training)：訓練、トレーニング
+- [reading](/reading)：読書、読むこと
 
-<!-- cvid: aid32_bid20 -->
+<!-- cvid: aid35_bid42 -->

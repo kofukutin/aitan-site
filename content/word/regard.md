@@ -81,15 +81,19 @@ TOEICでは「regard A as B」の形や、フォーマルな文書で「consider
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「regard A as B」の形や、フォーマルな文書で「consider
 ## 🤔  consider との違いは？
 
 - **regard**：ややフォーマルで、評価や見方を強調する際に使う
-- **[consider](/word/consider/)**：一般的に「よく考える」「検討する」という意味で幅広く使う
+- **[consider](/consider)**：一般的に「よく考える」「検討する」という意味で幅広く使う
 
 regardは「～とみなす」という評価的なニュアンスが強く、considerは「よく考える」「検討する」といった思考の過程を表します。
 
@@ -105,14 +109,14 @@ regardは「～とみなす」という評価的なニュアンスが強く、co
 
 ## 🧩 あわせて覚えたい
 
-- [ignore](/word/ignore/)：無視する
-- [respect](/word/respect/)：尊敬する
+- [ignore](/ignore)：無視する
+- [respect](/respect)：尊敬する
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer/)：言及する
-- [recognize](/word/recognize/)：認識する
+- [refer](/refer)：言及する
+- [recognize](/recognize)：認識する
 
-<!-- cvid: aid45_bid45 -->
+<!-- cvid: aid28_bid06 -->

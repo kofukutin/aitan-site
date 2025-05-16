@@ -81,15 +81,19 @@ TOEICでは、ビジネスや社会問題を扱う長文読解で「corruption�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや社会問題を扱う長文読解で「corruption�
 ## 🤔  bribery との違いは？
 
 - **corruption**：広く「汚職」「腐敗」全般を指し、道徳的な堕落や組織的な不正も含む。
-- **[bribery](/word/bribery/)**：特に「賄賂を渡す・受け取る行為」に限定される。
+- **[bribery](/bribery)**：特に「賄賂を渡す・受け取る行為」に限定される。
 
 corruptionは不正全般や組織の堕落を指し、briberyはその中でも「賄賂」に特化した表現です。
 
@@ -105,14 +109,14 @@ corruptionは不正全般や組織の堕落を指し、briberyはその中でも
 
 ## 🧩 あわせて覚えたい
 
-- [fraud](/word/fraud/)：詐欺、不正行為
-- [integrity](/word/integrity/)：誠実、高潔
+- [fraud](/fraud)：詐欺、不正行為
+- [integrity](/integrity)：誠実、高潔
 
 ---
 
 ## 📖 できればこれも
 
-- [scandal](/word/scandal/)：スキャンダル、不祥事
-- [violation](/word/violation/)：違反、違法行為
+- [scandal](/scandal)：スキャンダル、不祥事
+- [violation](/violation)：違反、違法行為
 
-<!-- cvid: aid01_bid24 -->
+<!-- cvid: aid36_bid10 -->

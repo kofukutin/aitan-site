@@ -81,15 +81,19 @@ TOEICではPart 7の広告や案内文、イベント情報などで「movie」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid11_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の広告や案内文、イベント情報などで「movie」�
 ## 🤔  film との違いは？
 
 - **movie**：アメリカ英語で使われるカジュアルな「映画」
-- **[film](/word/film/)**：イギリス英語で使われるややフォーマルな「映画」
+- **[film](/film)**：イギリス英語で使われるややフォーマルな「映画」
 
 「movie」は日常会話やカジュアルな場面でよく使われ、「film」はイギリス英語やフォーマルな文脈で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICではPart 7の広告や案内文、イベント情報などで「movie」�
 
 ## 🧩 あわせて覚えたい
 
-- [cinema](/word/cinema/)：映画館、映画（イギリス英語でよく使う）
-- [theater](/word/theater/)：劇場、映画館（アメリカ英語で使う）
+- [cinema](/cinema)：映画館、映画（イギリス英語でよく使う）
+- [theater](/theater)：劇場、映画館（アメリカ英語で使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music/)：音楽
-- [novel](/word/novel/)：小説
+- [music](/music)：音楽
+- [novel](/novel)：小説
 
-<!-- cvid: aid45_bid32 -->
+<!-- cvid: aid11_bid22 -->

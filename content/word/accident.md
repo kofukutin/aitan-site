@@ -81,7 +81,7 @@ TOEICでは主にメールや報告書、ニュース記事などの長文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+できたら応用も試そう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にメールや報告書、ニュース記事などの長文で「
 
 <div class="info-center">
 ＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや報告書、ニュース記事などの長文で「
 ## 🤔  incident との違いは？
 
 - **accident**：予期せず起こる事故や不運な出来事
-- **[incident](/word/incident/)**：事件・出来事（事故以外も含む、ややフォーマル）
+- **[incident](/incident)**：事件・出来事（事故以外も含む、ややフォーマル）
 
 「accident」は主に不運な事故やケガなどを指し、「incident」は事件や出来事全般を幅広く表します。
 
@@ -105,14 +109,14 @@ TOEICでは主にメールや報告書、ニュース記事などの長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [disaster](/word/disaster/)：大災害、惨事
-- [mistake](/word/mistake/)：間違い、誤り
+- [disaster](/disaster)：大災害、惨事
+- [mistake](/mistake)：間違い、誤り
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage/)：損害、被害
-- [injury](/word/injury/)：けが、負傷
+- [damage](/damage)：損害、被害
+- [injury](/injury)：けが、負傷
 
-<!-- cvid: aid15_bid28 -->
+<!-- cvid: aid44_bid28 -->

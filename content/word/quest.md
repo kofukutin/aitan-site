@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や物語調の文章で「探求」「追求」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や物語調の文章で「探求」「追求」
 ## 🤔  search との違いは？
 
 - **quest**：価値あるものを求めて努力する長い探求や冒険
-- **[search](/word/search/)**：何かを見つけるための一般的な「捜索」や「検索」
+- **[search](/search)**：何かを見つけるための一般的な「捜索」や「検索」
 
 questは困難や目的意識を伴う長い探求、searchは日常的な「探す」行為に使われます。
 
@@ -105,14 +109,14 @@ questは困難や目的意識を伴う長い探求、searchは日常的な「探
 
 ## 🧩 あわせて覚えたい
 
-- [mission](/word/mission/)：使命、任務
-- [journey](/word/journey/)：旅、道のり
+- [mission](/mission)：使命、任務
+- [journey](/journey)：旅、道のり
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal/)：目標
-- [explore](/word/explore/)：探検する、調査する
+- [goal](/goal)：目標
+- [explore](/explore)：探検する、調査する
 
-<!-- cvid: aid32_bid12 -->
+<!-- cvid: aid23_bid05 -->

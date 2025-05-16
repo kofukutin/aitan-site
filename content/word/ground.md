@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題（Part 1）で「地面」や「土地」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題（Part 1）で「地面」や「土地」と
 ## 🤔  floor との違いは？
 
 - **ground**：屋外の地面や土地、または抽象的な「基盤・根拠」
-- **[floor](/word/floor/)**：建物や部屋の「床」
+- **[floor](/floor)**：建物や部屋の「床」
 
 groundは屋外や自然の地面、または抽象的な基盤を指し、floorは建物内の床を指します。
 
@@ -105,14 +109,14 @@ groundは屋外や自然の地面、または抽象的な基盤を指し、floor
 
 ## 🧩 あわせて覚えたい
 
-- [soil](/word/soil/)：土、土壌
-- [surface](/word/surface/)：表面
+- [soil](/soil)：土、土壌
+- [surface](/surface)：表面
 
 ---
 
 ## 📖 できればこれも
 
-- [earth](/word/earth/)：地球、地面
-- [land](/word/land/)：陸地、土地
+- [earth](/earth)：地球、地面
+- [land](/land)：陸地、土地
 
-<!-- cvid: aid08_bid07 -->
+<!-- cvid: aid02_bid28 -->

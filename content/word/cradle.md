@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、赤ちゃんや家庭のシーンを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、赤ちゃんや家庭のシーンを
 ## 🤔  crib との違いは？
 
 - **cradle**：揺り動かせる「ゆりかご」。主に新生児向けで、揺れる構造が特徴。
-- **[crib](/word/crib/)**：柵付きの「ベビーベッド」。揺れない構造で、少し大きい赤ちゃんにも使う。
+- **[crib](/crib)**：柵付きの「ベビーベッド」。揺れない構造で、少し大きい赤ちゃんにも使う。
 
 cradleは揺らして寝かしつける小型ベッド、cribは安全柵付きの固定ベッドという違いがあります。
 
@@ -105,14 +109,14 @@ cradleは揺らして寝かしつける小型ベッド、cribは安全柵付き�
 
 ## 🧩 あわせて覚えたい
 
-- [rock](/word/rock/)：揺り動かす
-- [origin](/word/origin/)：起源、発祥
+- [rock](/rock)：揺り動かす
+- [origin](/origin)：起源、発祥
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket/)：毛布
-- [nursery](/word/nursery/)：保育園、託児所
+- [blanket](/blanket)：毛布
+- [nursery](/nursery)：保育園、託児所
 
-<!-- cvid: aid25_bid04 -->
+<!-- cvid: aid17_bid03 -->

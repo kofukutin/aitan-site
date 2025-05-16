@@ -81,15 +81,19 @@ TOEICでは、広告や社内通知、ビジネスメールなどで「促進す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告や社内通知、ビジネスメールなどで「促進す
 ## 🤔  advertising との違いは？
 
 - **promoting**：幅広く「推進する」「宣伝する」など積極的に広める意味
-- **[advertising](/word/advertising/)**：主に「広告する」「宣伝活動を行う」という意味
+- **[advertising](/advertising)**：主に「広告する」「宣伝活動を行う」という意味
 
 promotingは宣伝だけでなく、全体的な推進や支援も含みますが、advertisingは広告活動に特化しています。
 
@@ -105,14 +109,14 @@ promotingは宣伝だけでなく、全体的な推進や支援も含みます�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支援する、支持する
-- [encourage](/word/encourage/)：励ます、促す
+- [support](/support)：支援する、支持する
+- [encourage](/encourage)：励ます、促す
 
 ---
 
 ## 📖 できればこれも
 
-- [recommend](/word/recommend/)：推薦する、勧める
-- [suggest](/word/suggest/)：提案する
+- [recommend](/recommend)：推薦する、勧める
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid25_bid40 -->
+<!-- cvid: aid35_bid45 -->

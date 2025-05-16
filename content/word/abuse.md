@@ -9,16 +9,16 @@ tags:
   - 名詞
   - Part7
   - 否定的
-  - 法務
+  - ビジネス
   - 説明
 compared_word: "misuse"
 related_words:
   - "harm"
   - "neglect"
 next_words:
-  - "violation"
-  - "fraud"
-last_update: "2025-05-04"  # YYYY-MM-DD
+  - "harass"
+  - "exploit"
+last_update: "2025-05-04"
 ---
 
 ## 🔰 abuseの発音と意味
@@ -32,22 +32,15 @@ last_update: "2025-05-04"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
+[名詞] 乱用、虐待
 
-[名詞] 乱用、虐待（不可算／可算）
+**abuse** は、「権力や物事を不適切に使うこと」や「人や動物への虐待」を表す否定的な名詞です。
 
-**abuse** は、「権力や物事を不適切に使うこと」や「人や動物への虐待」を表す否定的な意味の単語です。
-
-語源はラテン語「abusus（乱用）」に由来し、「本来の目的から外れて悪用する」というニュアンスが強いです。
+語源はラテン語の「ab-（離れて）」＋「uti（使う）」から来ており、「本来の目的から外れて使う」という意味合いが強調されています。
 
 他の品詞：  
-- abusive：乱暴な、虐待的な（形容詞）
-- abuser：乱用者、虐待者（名詞）
+- abusive：虐待的な、乱用的な（形容詞）
+- abusively：乱暴に、虐待的に（副詞）
 
 ---
 
@@ -66,9 +59,9 @@ The company has a strict policy against the abuse of power.
 ## 🎯 TOEICの出題頻度と傾向
 
 - 難易度：★★★☆☆
-- 出題パート：Part 7（長文読解・記事や通知文）
+- 出題パート：Part 7（長文読解）
 
-TOEICでは、職場でのハラスメントや規則違反、権限の乱用などの文脈で出題されることが多い単語です。
+TOEICでは、職場でのハラスメントや権限の乱用、製品やサービスの不適切な使用に関する文脈で出題されることが多い単語です。
 
 ---
 
@@ -88,38 +81,42 @@ TOEICでは、職場でのハラスメントや規則違反、権限の乱用な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  misuse との違いは？
 
-- **abuse**：意図的に悪用・虐待する、強い否定的ニュアンス
-- **[misuse](/word/misuse/)**：誤って使う、または不適切に使う（悪意がない場合も含む）
+- **abuse**：意図的かつ悪意をもって不適切に使う、または人を傷つける意味が強い
+- **[misuse](/misuse)**：間違って使う、誤用する（悪意がない場合も多い）
 
-abuseは「悪意ある乱用・虐待」、misuseは「間違った使い方」と、意図や悪質さの度合いが異なります。
+abuseは「悪意ある乱用・虐待」、misuseは「誤用・使い方の間違い」と、意図や悪質さに違いがあります。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [harm](/word/harm/)：害、損害
-- [neglect](/word/neglect/)：怠慢、無視
+- [harm](/harm)：害、損害
+- [neglect](/neglect)：怠慢、無視
 
 ---
 
 ## 📖 できればこれも
 
-- [violation](/word/violation/)：違反、侵害
-- [fraud](/word/fraud/)：詐欺、不正
+- [harass](/harass)：嫌がらせをする
+- [exploit](/exploit)：搾取する、利用する
 
-<!-- cvid: aid16_bid17 -->
+<!-- cvid: aid19_bid45 -->

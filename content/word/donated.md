@@ -88,8 +88,12 @@ TOEICでは、寄付や社会貢献に関する記事やメール文でよく登
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、寄付や社会貢献に関する記事やメール文でよく登
 ## 🤔  contribute との違いは？
 
 - **donated**：見返りを求めず、無償で物やお金を与えることを強調。
-- **[contribute](/word/contribute/)**：寄付だけでなく、意見や労力など幅広い「貢献」を表す。
+- **[contribute](/contribute)**：寄付だけでなく、意見や労力など幅広い「貢献」を表す。
 
 donatedは「無償で与える」ことに焦点があり、contributeは「何かに役立つ形で参加・貢献する」広い意味で使われます。
 
@@ -105,14 +109,14 @@ donatedは「無償で与える」ことに焦点があり、contributeは「何
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：申し出る、提供する
-- [provide](/word/provide/)：供給する、与える
+- [offer](/offer)：申し出る、提供する
+- [provide](/provide)：供給する、与える
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/word/deliver/)：届ける、配達する
-- [support](/word/support/)：支援する、支える
+- [deliver](/deliver)：届ける、配達する
+- [support](/support)：支援する、支える
 
-<!-- cvid: aid21_bid26 -->
+<!-- cvid: aid21_bid16 -->

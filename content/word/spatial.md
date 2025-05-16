@@ -81,15 +81,19 @@ TOEICでは、科学や技術、建築、設計などの説明文や記事で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や技術、建築、設計などの説明文や記事で「
 ## 🤔  physical との違いは？
 
 - **spatial**：空間や配置、位置関係に関する性質を表す
-- **[physical](/word/physical/)**：物理的・身体的な性質や実体を表す
+- **[physical](/physical)**：物理的・身体的な性質や実体を表す
 
 「spatial」は空間や配置の特徴に焦点を当て、「physical」は物質的・実体的な特徴や身体に関することに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、科学や技術、建築、設計などの説明文や記事で「
 
 ## 🧩 あわせて覚えたい
 
-- [geographic](/word/geographic/)：地理的な
-- [dimensional](/word/dimensional/)：次元の、寸法の
+- [geographic](/geographic)：地理的な
+- [dimensional](/dimensional)：次元の、寸法の
 
 ---
 
 ## 📖 できればこれも
 
-- [visual](/word/visual/)：視覚の、見える
-- [structural](/word/structural/)：構造上の
+- [visual](/visual)：視覚の、見える
+- [structural](/structural)：構造上の
 
-<!-- cvid: aid49_bid29 -->
+<!-- cvid: aid47_bid27 -->

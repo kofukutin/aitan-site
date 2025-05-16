@@ -81,15 +81,19 @@ The factory tour will start at 2 p.m.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The factory tour will start at 2 p.m.
 ## 🤔  trip との違いは？
 
 - **tour**：複数の場所を巡る計画的な観光や見学
-- **[trip](/word/trip/)**：目的地への移動や短期間の旅行全般
+- **[trip](/trip)**：目的地への移動や短期間の旅行全般
 
 tourは「見学・観光で巡る」ニュアンス、tripは「移動や滞在を含む旅行」全般を指します。
 
@@ -105,14 +109,14 @@ tourは「見学・観光で巡る」ニュアンス、tripは「移動や滞在
 
 ## 🧩 あわせて覚えたい
 
-- [excursion](/word/excursion/)：遠足、小旅行
-- [journey](/word/journey/)：長い旅、道のり
+- [excursion](/excursion)：遠足、小旅行
+- [journey](/journey)：長い旅、道のり
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/word/guide/)：案内人、ガイド
-- [visit](/word/visit/)：訪問する、訪問
+- [guide](/guide)：案内人、ガイド
+- [visit](/visit)：訪問する、訪問
 
-<!-- cvid: aid44_bid18 -->
+<!-- cvid: aid14_bid14 -->

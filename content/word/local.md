@@ -81,15 +81,19 @@ TOEICでは、地元の企業や地域のサービス、現地採用などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、地元の企業や地域のサービス、現地採用などの文
 ## 🤔  regional との違いは？
 
 - **local**：特定の小さな地域や地元を指す
-- **[regional](/word/regional/)**：より広い「地域全体」や「地方」を指す
+- **[regional](/regional)**：より広い「地域全体」や「地方」を指す
 
 「local」は町や市など狭い範囲、「regional」は複数の市や県を含む広い範囲を指すときに使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、地元の企業や地域のサービス、現地採用などの文
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic/)：国内の
-- [international](/word/international/)：国際的な
+- [domestic](/domestic)：国内の
+- [international](/international)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [global](/word/global/)：世界的な
-- [national](/word/national/)：国家の、全国的な
+- [global](/global)：世界的な
+- [national](/national)：国家の、全国的な
 
-<!-- cvid: aid01_bid43 -->
+<!-- cvid: aid29_bid07 -->

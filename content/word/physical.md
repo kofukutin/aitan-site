@@ -81,15 +81,19 @@ TOEICでは「physical examination（健康診断）」や「physical address（
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「physical examination（健康診断）」や「physical address（
 ## 🤔  material との違いは？
 
 - **physical**：目に見える実体がある、身体や物理的なものを指す
-- **[material](/word/material/)**：物質そのもの、材料や素材を指す
+- **[material](/material)**：物質そのもの、材料や素材を指す
 
 「physical」は「実体があるかどうか」「身体や物理的な性質」に焦点があり、「material」は「何でできているか」「素材」に注目します。
 
@@ -105,14 +109,14 @@ TOEICでは「physical examination（健康診断）」や「physical address（
 
 ## 🧩 あわせて覚えたい
 
-- [mental](/word/mental/)：精神的な、心の
-- [tangible](/word/tangible/)：触れられる、明確な
+- [mental](/mental)：精神的な、心の
+- [tangible](/tangible)：触れられる、明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical/)：化学的な、化学物質
-- [practical](/word/practical/)：実用的な、実際的な
+- [chemical](/chemical)：化学的な、化学物質
+- [practical](/practical)：実用的な、実際的な
 
-<!-- cvid: aid48_bid31 -->
+<!-- cvid: aid40_bid01 -->

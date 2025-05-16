@@ -14,9 +14,9 @@ tags:
 compared_word: "scholarly"
 related_words:
   - "educational"
-  - "theoretical"
+  - "practical"
 next_words:
-  - "lecture"
+  - "theory"
   - "curriculum"
 last_update: "2025-05-04"
 ---
@@ -32,22 +32,15 @@ last_update: "2025-05-04"
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
+[形容詞] 学問の、学術的な、学校の
 
-[形容詞] 学問の、学業の、大学の
+**academic** は、学校教育や大学、研究など「学問」に関することを表す形容詞です。主に教育や研究の場面で使われ、実用的・現実的なものと対比されることもあります。
 
-**academic** は、学校教育や大学、学問に関することを表す形容詞です。研究や理論的な内容、教育機関に関連する場面でよく使われます。
-
-語源はラテン語の「academia（学園）」に由来し、古代ギリシャの哲学者プラトンの学園「アカデメイア」から来ています。知識や学問に関する意味が強調されています。
+語源はギリシャ語の「アカデメイア」（プラトンの学園）に由来し、知識や学問に関わる意味が強調されています。
 
 他の品詞：  
 - academic（名詞）：大学の教員、学者（名詞）
-- academy：学会、専門学校（名詞）
+- academically：学問的に（副詞）
 
 ---
 
@@ -58,8 +51,8 @@ She is interested in academic subjects like math and science.
 　彼女は数学や科学のような学問的な科目に興味があります。
 
 【ビジネス英語】  
-We require academic transcripts for the application process.  
-　応募手続きには成績証明書が必要です。
+The company values employees with strong academic backgrounds.  
+　その会社は優れた学歴を持つ社員を重視しています。
 
 ---
 
@@ -68,7 +61,7 @@ We require academic transcripts for the application process.
 - 難易度：★★★☆☆
 - 出題パート：Part 7（長文読解・説明文）
 
-TOEICでは大学や教育機関、研修、研究などの文脈で「academic」が頻出します。特に成績証明書や学歴、教育内容の説明でよく見かけます。
+TOEICでは大学や教育機関、研修、資格などの話題でよく登場します。特に履歴書や教育関連の長文で見かける単語です。
 
 ---
 
@@ -84,42 +77,46 @@ TOEICでは大学や教育機関、研修、研究などの文脈で「academic�
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：academicは母音で始まるため、冠詞はan academicが正しいです。
+- 解説：academicは母音で始まるため、冠詞はanが正しい。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  scholarly との違いは？
 
-- **academic**：学校教育や大学、学問全般に関するフォーマルな表現。
-- **[scholarly](/word/scholarly/)**：学者的・研究者的で、特に深い研究や専門的な知識に重点。
+- **academic**：学校教育や学問全般に関する、または形式的・理論的な意味合いが強い
+- **[scholarly](/scholarly)**：学者らしい、研究熱心な、専門的な研究に関する
 
-academicは教育機関や学問全体を指し、scholarlyはより専門的・研究的なニュアンスが強いです。
+academicは「学校や教育、学問の世界」に広く使われ、scholarlyは「研究者のような深い知識や研究活動」に特化して使われます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [educational](/word/educational/)：教育の、教育的な
-- [theoretical](/word/theoretical/)：理論的な
+- [educational](/educational)：教育の、教育的な
+- [practical](/practical)：実用的な、実際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture/)：講義
-- [curriculum](/word/curriculum/)：カリキュラム、教育課程
+- [theory](/theory)：理論
+- [curriculum](/curriculum)：カリキュラム、教育課程
 
-<!-- cvid: aid14_bid45 -->
+<!-- cvid: aid49_bid26 -->

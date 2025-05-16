@@ -81,15 +81,19 @@ TOEICでは、メールや案内文、説明書などで「書式」「形式」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや案内文、説明書などで「書式」「形式」
 ## 🤔  layout との違いは？
 
 - **format**：情報や文書の「形式」や「書式」全体を指す
-- **[layout](/word/layout/)**：ページや画面上の「配置」や「レイアウト」を指す
+- **[layout](/layout)**：ページや画面上の「配置」や「レイアウト」を指す
 
 formatは「どんな形・枠組みか」に注目し、layoutは「どこに何が配置されているか」に注目します。
 
@@ -105,14 +109,14 @@ formatは「どんな形・枠組みか」に注目し、layoutは「どこに�
 
 ## 🧩 あわせて覚えたい
 
-- [template](/word/template/)：ひな形、テンプレート
-- [structure](/word/structure/)：構造、仕組み
+- [template](/template)：ひな形、テンプレート
+- [structure](/structure)：構造、仕組み
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [design](/word/design/)：デザイン、設計
+- [document](/document)：文書、書類
+- [design](/design)：デザイン、設計
 
-<!-- cvid: aid29_bid15 -->
+<!-- cvid: aid12_bid34 -->

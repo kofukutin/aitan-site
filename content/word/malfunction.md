@@ -81,15 +81,19 @@ TOEICでは、機械やシステムのトラブルに関する説明文やメー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械やシステムのトラブルに関する説明文やメー
 ## 🤔  breakdown との違いは？
 
 - **malfunction**：機械やシステムが正常に動作しないこと（フォーマル、技術的）
-- **[breakdown](/word/breakdown/)**：完全な故障や停止（ややカジュアル、広い意味）
+- **[breakdown](/breakdown)**：完全な故障や停止（ややカジュアル、広い意味）
 
 「malfunction」は部分的な不具合や技術的な問題に使われ、「breakdown」は完全に動かなくなる場合や精神的な崩壊にも使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、機械やシステムのトラブルに関する説明文やメー
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure/)：失敗、故障
-- [defect](/word/defect/)：欠陥、不良
+- [failure](/failure)：失敗、故障
+- [defect](/defect)：欠陥、不良
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate/)：操作する、作動する
-- [repair](/word/repair/)：修理する
+- [operate](/operate)：操作する、作動する
+- [repair](/repair)：修理する
 
-<!-- cvid: aid21_bid11 -->
+<!-- cvid: aid08_bid43 -->

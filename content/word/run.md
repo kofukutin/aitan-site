@@ -81,15 +81,19 @@ runはTOEICの会話パートで「運営する」「作動する」などの意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ runはTOEICの会話パートで「運営する」「作動する」などの意
 ## 🤔  operate との違いは？
 
 - **run**：運営や管理、または走る・作動するなど幅広い意味で使う
-- **[operate](/word/operate/)**：機械やシステムを操作・運転する意味が中心
+- **[operate](/operate)**：機械やシステムを操作・運転する意味が中心
 
 runは人や組織が「全体を動かす・管理する」ニュアンスが強く、operateは「機械や装置を直接操作する」場面で使います。
 
@@ -105,14 +109,14 @@ runは人や組織が「全体を動かす・管理する」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、運営する
-- [control](/word/control/)：制御する、管理する
+- [manage](/manage)：管理する、運営する
+- [control](/control)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move/)：動く、動かす
-- [lead](/word/lead/)：導く、率いる
+- [move](/move)：動く、動かす
+- [lead](/lead)：導く、率いる
 
-<!-- cvid: aid47_bid48 -->
+<!-- cvid: aid25_bid03 -->

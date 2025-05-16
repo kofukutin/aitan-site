@@ -81,15 +81,19 @@ TOEICでは主に科学的な説明やビジネス文書の中で「再現する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学的な説明やビジネス文書の中で「再現する
 ## 🤔  duplicated との違いは？
 
 - **reproduced**：元のものを再現・複製する、または生物が繁殖する場合にも使う
-- **[duplicated](/word/duplicated/)**：主に「まったく同じものをコピーする」ことに限定される
+- **[duplicated](/duplicated)**：主に「まったく同じものをコピーする」ことに限定される
 
 reproducedは「再現」や「繁殖」など幅広い意味で使われ、duplicatedは「コピー」に特化しています。
 
@@ -105,14 +109,14 @@ reproducedは「再現」や「繁殖」など幅広い意味で使われ、dupl
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy/)：コピーする、写す
-- [replicate](/word/replicate/)：（実験などを）再現する、複製する
+- [copy](/copy)：コピーする、写す
+- [replicate](/replicate)：（実験などを）再現する、複製する
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/word/generate/)：生み出す、発生させる
-- [restore](/word/restore/)：元に戻す、修復する
+- [generate](/generate)：生み出す、発生させる
+- [restore](/restore)：元に戻す、修復する
 
-<!-- cvid: aid03_bid25 -->
+<!-- cvid: aid01_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは、会社や人物の「経歴」や「履歴」、または歴史的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や人物の「経歴」や「履歴」、または歴史的
 ## 🤔  record との違いは？
 
 - **history**：過去の出来事の流れや背景全体を指す
-- **[record](/word/record/)**：出来事やデータを記録したもの、証拠として残すもの
+- **[record](/record)**：出来事やデータを記録したもの、証拠として残すもの
 
 historyは「全体の流れ」や「背景」を表し、recordは「個別の記録」や「証拠」として残す点が異なります。
 
@@ -105,14 +109,14 @@ historyは「全体の流れ」や「背景」を表し、recordは「個別の�
 
 ## 🧩 あわせて覚えたい
 
-- [chronicle](/word/chronicle/)：年代記、出来事を年代順に記した記録
-- [biography](/word/biography/)：伝記、人物の生涯を記したもの
+- [chronicle](/chronicle)：年代記、出来事を年代順に記した記録
+- [biography](/biography)：伝記、人物の生涯を記したもの
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event/)：出来事、行事
-- [story](/word/story/)：物語、話
+- [event](/event)：出来事、行事
+- [story](/story)：物語、話
 
-<!-- cvid: aid24_bid39 -->
+<!-- cvid: aid16_bid31 -->

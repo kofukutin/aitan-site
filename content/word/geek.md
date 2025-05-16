@@ -80,15 +80,19 @@ TOEICではITやテクノロジー関連の記事やメールで見かけるこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではITやテクノロジー関連の記事やメールで見かけるこ�
 ## 🤔  nerd との違いは？
 
 - **geek**：特定分野への情熱や知識を持つ人。最近は肯定的な意味合いも強い。
-- **[nerd](/word/nerd/)**：学問や知識に没頭しがちで、社交性が低い印象を持たれることが多い。
+- **[nerd](/nerd)**：学問や知識に没頭しがちで、社交性が低い印象を持たれることが多い。
 
 geekは「好きなことに夢中な人」、nerdは「勉強や知識に偏った人」というイメージの違いがあります。
 
@@ -104,14 +108,14 @@ geekは「好きなことに夢中な人」、nerdは「勉強や知識に偏っ
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiast](/word/enthusiast/)：熱心な愛好家
-- [expert](/word/expert/)：専門家
+- [enthusiast](/enthusiast)：熱心な愛好家
+- [expert](/expert)：専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/word/trend/)：流行、傾向
-- [skill](/word/skill/)：技能、スキル
+- [trend](/trend)：流行、傾向
+- [skill](/skill)：技能、スキル
 
-<!-- cvid: aid23_bid29 -->
+<!-- cvid: aid28_bid37 -->

@@ -84,15 +84,19 @@ TOEICではPart 2などの短い会話や質問応答で、過去の好みや感
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICではPart 2などの短い会話や質問応答で、過去の好みや感
 ## 🤔  preferred との違いは？
 
 - **liked**：単純に「好きだった」「好んだ」という意味で、広く一般的な好意を表す。
-- **[preferred](/word/preferred/)**：複数の選択肢の中で「より好んだ」「優先した」という意味。
+- **[preferred](/preferred)**：複数の選択肢の中で「より好んだ」「優先した」という意味。
 
 likedは「好きだった」と感情を表すのに対し、preferredは「他よりも選んで好んだ」という比較や優先のニュアンスがあります。
 
@@ -108,14 +112,14 @@ likedは「好きだった」と感情を表すのに対し、preferredは「他
 
 ## 🧩 あわせて覚えたい
 
-- [enjoy](/word/enjoy/)：楽しむ
-- [admire](/word/admire/)：称賛する、感心する
+- [enjoy](/enjoy)：楽しむ
+- [admire](/admire)：称賛する、感心する
 
 ---
 
 ## 📖 できればこれも
 
-- [loved](/word/loved/)：とても愛した
-- [appreciate](/word/appreciate/)：感謝する、価値を認める
+- [loved](/loved)：とても愛した
+- [appreciate](/appreciate)：感謝する、価値を認める
 
-<!-- cvid: aid30_bid24 -->
+<!-- cvid: aid20_bid29 -->

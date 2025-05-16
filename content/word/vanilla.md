@@ -81,15 +81,19 @@ TOEICでは主に「バニラ味」や「標準仕様」の意味で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に「バニラ味」や「標準仕様」の意味で出題され
 ## 🤔  plain との違いは？
 
 - **vanilla**：バニラ味、または「標準的」「特徴のない」という意味でも使う
-- **[plain](/word/plain/)**：味や装飾がなく「シンプル」「無地」「素朴」という意味
+- **[plain](/plain)**：味や装飾がなく「シンプル」「無地」「素朴」という意味
 
 vanillaは「標準仕様」や「特別な特徴がない」ことをやや比喩的に表現しますが、plainは「飾り気がない」「シンプル」というニュアンスが強いです。
 
@@ -105,14 +109,14 @@ vanillaは「標準仕様」や「特別な特徴がない」ことをやや比�
 
 ## 🧩 あわせて覚えたい
 
-- [flavor](/word/flavor/)：味、風味
-- [basic](/word/basic/)：基本的な、基礎の
+- [flavor](/flavor)：味、風味
+- [basic](/basic)：基本的な、基礎の
 
 ---
 
 ## 📖 できればこれも
 
-- [chocolate](/word/chocolate/)：チョコレート
-- [simple](/word/simple/)：単純な、簡単な
+- [chocolate](/chocolate)：チョコレート
+- [simple](/simple)：単純な、簡単な
 
-<!-- cvid: aid31_bid07 -->
+<!-- cvid: aid18_bid36 -->

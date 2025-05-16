@@ -77,15 +77,19 @@ TOEICでは、指示や説明、応答の中で「全部」「すべて」を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid00_bid15" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid15" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、指示や説明、応答の中で「全部」「すべて」を表
 ## 🤔  every との違いは？
 
 - **all**：全体をまとめて「すべて」「全部」と表す
-- **[every](/word/every/)**：個々を一つずつ「すべての～」と表す
+- **[every](/every)**：個々を一つずつ「すべての～」と表す
 
 **all**は「全体」を一括で指し、**every**は「一つ一つ」を強調します。たとえば「all students」は「学生全員」、「every student」は「学生一人一人」を意識します。
 
@@ -101,14 +105,14 @@ TOEICでは、指示や説明、応答の中で「全部」「すべて」を表
 
 ## 🧩 あわせて覚えたい
 
-- [whole](/word/whole/)：全体、全部（名詞・形容詞）
-- [each](/word/each/)：それぞれ、各自（代名詞・形容詞）
+- [whole](/whole)：全体、全部（名詞・形容詞）
+- [each](/each)：それぞれ、各自（代名詞・形容詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [some](/word/some/)：いくつかの、ある（代名詞・形容詞）
-- [any](/word/any/)：どれでも、いくらかの（代名詞・形容詞）
+- [some](/some)：いくつかの、ある（代名詞・形容詞）
+- [any](/any)：どれでも、いくらかの（代名詞・形容詞）
 
-<!-- cvid: aid29_bid18 -->
+<!-- cvid: aid00_bid15 -->

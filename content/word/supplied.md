@@ -81,15 +81,19 @@ TOEICでは「be supplied with」や「supplied by」などの受動態でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be supplied with」や「supplied by」などの受動態でよく
 ## 🤔  provided との違いは？
 
 - **supplied**：必要なものを物理的・具体的に「供給した」「与えた」
-- **[provided](/word/provided/)**：条件や状況に応じて「提供した」「用意した」
+- **[provided](/provided)**：条件や状況に応じて「提供した」「用意した」
 
 suppliedは物やサービスなど実体のあるものを与える時に使い、providedは情報や機会、条件など幅広い「提供」に使われます。
 
@@ -105,14 +109,14 @@ suppliedは物やサービスなど実体のあるものを与える時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [offer](/word/offer/)：申し出る、提供する
+- [deliver](/deliver)：配達する、届ける
+- [offer](/offer)：申し出る、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/word/receive/)：受け取る
-- [send](/word/send/)：送る
+- [receive](/receive)：受け取る
+- [send](/send)：送る
 
-<!-- cvid: aid08_bid07 -->
+<!-- cvid: aid45_bid18 -->

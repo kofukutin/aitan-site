@@ -82,15 +82,19 @@ TOEICでは、数値や期間、金額などを「おおよそ」で示す場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、数値や期間、金額などを「おおよそ」で示す場面
 ## 🤔  approximately との違いは？
 
 - **roughly**：ざっくり・おおよそ（ややカジュアルで幅が広い）
-- **[approximately](/word/approximately/)**：ほぼ正確に・おおよそ（ややフォーマルで正確さを意識）
+- **[approximately](/approximately)**：ほぼ正確に・おおよそ（ややフォーマルで正確さを意識）
 
 roughlyは「ざっくり」「だいたい」といった感覚的な表現、approximatelyは「ほぼ正確に」という印象で、ビジネスや公式な場面で使われやすいです。
 
@@ -106,14 +110,14 @@ roughlyは「ざっくり」「だいたい」といった感覚的な表現、a
 
 ## 🧩 あわせて覚えたい
 
-- [about](/word/about/)：約、おおよそ
-- [nearly](/word/nearly/)：ほとんど、ほぼ
+- [about](/about)：約、おおよそ
+- [nearly](/nearly)：ほとんど、ほぼ
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost/)：ほとんど
-- [mainly](/word/mainly/)：主に
+- [almost](/almost)：ほとんど
+- [mainly](/mainly)：主に
 
-<!-- cvid: aid33_bid15 -->
+<!-- cvid: aid04_bid20 -->

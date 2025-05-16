@@ -81,15 +81,19 @@ TOEICでは「抵抗する」「我慢する」という意味で、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「抵抗する」「我慢する」という意味で、ビジネス
 ## 🤔  refuse との違いは？
 
 - **resist**：誘惑や圧力などに「抵抗する」「我慢する」
-- **[refuse](/word/refuse/)**：申し出や要求などを「断る」「拒否する」
+- **[refuse](/refuse)**：申し出や要求などを「断る」「拒否する」
 
 resistは内面的・物理的な抵抗や我慢を表し、refuseは相手の要求や提案をはっきり断る時に使います。
 
@@ -105,14 +109,14 @@ resistは内面的・物理的な抵抗や我慢を表し、refuseは相手の�
 
 ## 🧩 あわせて覚えたい
 
-- [yield](/word/yield/)：屈する、譲る
-- [endure](/word/endure/)：耐える、我慢する
+- [yield](/yield)：屈する、譲る
+- [endure](/endure)：耐える、我慢する
 
 ---
 
 ## 📖 できればこれも
 
-- [oppose](/word/oppose/)：反対する
-- [reject](/word/reject/)：拒絶する
+- [oppose](/oppose)：反対する
+- [reject](/reject)：拒絶する
 
-<!-- cvid: aid12_bid40 -->
+<!-- cvid: aid24_bid38 -->

@@ -82,15 +82,19 @@ TOEICでは「be alert to（～に注意している）」や「alert someone to
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「be alert to（～に注意している）」や「alert someone to
 ## 🤔  alarm との違いは？
 
 - **alert**：油断なく注意している状態や警戒心を表す
-- **[alarm](/word/alarm/)**：危険を知らせる警報や、驚き・恐れの感情を表す
+- **[alarm](/alarm)**：危険を知らせる警報や、驚き・恐れの感情を表す
 
 「alert」は冷静に注意を払うニュアンス、「alarm」は危険や恐怖を感じて慌てるニュアンスがあります。
 
@@ -106,14 +110,14 @@ TOEICでは「be alert to（～に注意している）」や「alert someone to
 
 ## 🧩 あわせて覚えたい
 
-- [attentive](/word/attentive/)：注意深い、気配りができる
-- [cautious](/word/cautious/)：用心深い、慎重な
+- [attentive](/attentive)：注意深い、気配りができる
+- [cautious](/cautious)：用心深い、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify/)：通知する、知らせる
-- [remind](/word/remind/)：思い出させる、注意を促す
+- [notify](/notify)：通知する、知らせる
+- [remind](/remind)：思い出させる、注意を促す
 
-<!-- cvid: aid12_bid43 -->
+<!-- cvid: aid32_bid42 -->

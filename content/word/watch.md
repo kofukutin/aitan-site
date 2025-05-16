@@ -82,15 +82,19 @@ TOEICでは、会話や説明文の中で「注意して見る」「見守る」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会話や説明文の中で「注意して見る」「見守る」
 ## 🤔  look との違いは？
 
 - **watch**：動いているものや変化するものを注意深く見る
-- **[look](/word/look/)**：意識して視線を向ける、見る
+- **[look](/look)**：意識して視線を向ける、見る
 
 「watch」は動きや変化をじっと観察する時に使い、「look」は単に視線を向ける時に使います。
 
@@ -106,14 +110,14 @@ TOEICでは、会話や説明文の中で「注意して見る」「見守る」
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/word/observe/)：観察する、注意深く見る
-- [monitor](/word/monitor/)：監視する、モニターする
+- [observe](/observe)：観察する、注意深く見る
+- [monitor](/monitor)：監視する、モニターする
 
 ---
 
 ## 📖 できればこれも
 
-- [listen](/word/listen/)：耳を傾ける、聞く
-- [see](/word/see/)：見える、目に入る
+- [listen](/listen)：耳を傾ける、聞く
+- [see](/see)：見える、目に入る
 
-<!-- cvid: aid26_bid21 -->
+<!-- cvid: aid19_bid36 -->

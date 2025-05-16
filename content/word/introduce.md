@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「人や商品を紹介する」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「人や商品を紹介する」「
 ## 🤔  present との違いは？
 
 - **introduce**：新しい人や物事を初めて場に登場させる、紹介する
-- **[present](/word/present/)**：人前で説明・発表する、贈り物として渡す
+- **[present](/present)**：人前で説明・発表する、贈り物として渡す
 
 「introduce」は初対面や新規導入の場面で使い、「present」は情報や物を正式に提示・発表する時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスの場面で「人や商品を紹介する」「
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend/)：推薦する
-- [announce](/word/announce/)：発表する
+- [recommend](/recommend)：推薦する
+- [announce](/announce)：発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain/)：説明する
-- [suggest](/word/suggest/)：提案する
+- [explain](/explain)：説明する
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid12_bid14 -->
+<!-- cvid: aid26_bid29 -->

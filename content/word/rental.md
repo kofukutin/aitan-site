@@ -81,15 +81,19 @@ TOEICでは、車や部屋、機器などの「レンタル」に関する会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、車や部屋、機器などの「レンタル」に関する会話
 ## 🤔  lease との違いは？
 
 - **rental**：短期間の賃貸やレンタル全般、物や料金そのものも指す
-- **[lease](/word/lease/)**：長期間の賃貸契約やその契約書を指す
+- **[lease](/lease)**：長期間の賃貸契約やその契約書を指す
 
 「rental」は気軽なレンタルや短期の賃貸に使われ、「lease」は長期契約や正式な賃貸契約に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、車や部屋、機器などの「レンタル」に関する会話
 
 ## 🧩 あわせて覚えたい
 
-- [borrow](/word/borrow/)：借りる（返却前提で一時的に使う）
-- [subscription](/word/subscription/)：定期購読、定額利用
+- [borrow](/borrow)：借りる（返却前提で一時的に使う）
+- [subscription](/subscription)：定期購読、定額利用
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/word/reservation/)：予約
-- [deposit](/word/deposit/)：保証金、預金
+- [reservation](/reservation)：予約
+- [deposit](/deposit)：保証金、預金
 
-<!-- cvid: aid02_bid36 -->
+<!-- cvid: aid35_bid29 -->

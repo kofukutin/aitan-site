@@ -80,15 +80,19 @@ TOEICでは環境や建築に関する長文や説明文で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは環境や建築に関する長文や説明文で登場することが
 ## 🤔  brick との違いは？
 
 - **adobe**：粘土とわらを混ぜて天日で乾かした「日干しれんが」やその建物を指す。
-- **[brick](/word/brick/)**：焼いて固めた「れんが」。一般的な建築材料。
+- **[brick](/brick)**：焼いて固めた「れんが」。一般的な建築材料。
 
 adobeは焼かずに乾燥させる伝統的な素材、brickは高温で焼成する現代的な建材という違いがあります。
 
@@ -104,14 +108,14 @@ adobeは焼かずに乾燥させる伝統的な素材、brickは高温で焼成�
 
 ## 🧩 あわせて覚えたい
 
-- [clay](/word/clay/)：粘土
-- [mud](/word/mud/)：泥
+- [clay](/clay)：粘土
+- [mud](/mud)：泥
 
 ---
 
 ## 📖 できればこれも
 
-- [straw](/word/straw/)：わら
-- [plaster](/word/plaster/)：しっくい、塗り壁材
+- [straw](/straw)：わら
+- [plaster](/plaster)：しっくい、塗り壁材
 
-<!-- cvid: aid31_bid32 -->
+<!-- cvid: aid45_bid16 -->

@@ -82,15 +82,19 @@ TOEICでは、性別や属性を表す文脈で形容詞・名詞として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、性別や属性を表す文脈で形容詞・名詞として出題
 ## 🤔  woman との違いは？
 
 - **female**：性別を表す中立的な表現。動物や職業名など幅広く使う。
-- **[woman](/word/woman/)**：成人女性を指す具体的な名詞。人間に限定。
+- **[woman](/woman)**：成人女性を指す具体的な名詞。人間に限定。
 
 femaleは性別や属性を強調したいときに使い、womanは「女性」という個人や人間を指すときに使います。
 
@@ -106,14 +110,14 @@ femaleは性別や属性を強調したいときに使い、womanは「女性」
 
 ## 🧩 あわせて覚えたい
 
-- [male](/word/male/)：男性の、雄の
-- [girl](/word/girl/)：少女、女の子
+- [male](/male)：男性の、雄の
+- [girl](/girl)：少女、女の子
 
 ---
 
 ## 📖 できればこれも
 
-- [gender](/word/gender/)：性別
-- [adult](/word/adult/)：大人
+- [gender](/gender)：性別
+- [adult](/adult)：大人
 
-<!-- cvid: aid45_bid01 -->
+<!-- cvid: aid21_bid27 -->

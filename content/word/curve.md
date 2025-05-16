@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、道路やグラフの説明などに使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、道路やグラフの説明などに使
 ## 🤔  bend との違いは？
 
 - **curve**：なめらかに連続して曲がった線や形を指す。
-- **[bend](/word/bend/)**：急に折れ曲がる部分や、曲げる動作そのものを指す。
+- **[bend](/bend)**：急に折れ曲がる部分や、曲げる動作そのものを指す。
 
 curveは全体的な「曲線」や「カーブ」を表し、bendは「折れ曲がる点」や「曲げる動作」に焦点を当てます。
 
@@ -105,14 +109,14 @@ curveは全体的な「曲線」や「カーブ」を表し、bendは「折れ�
 
 ## 🧩 あわせて覚えたい
 
-- [line](/word/line/)：線、直線
-- [arc](/word/arc/)：弧、円弧
+- [line](/line)：線、直線
+- [arc](/arc)：弧、円弧
 
 ---
 
 ## 📖 できればこれも
 
-- [angle](/word/angle/)：角度
-- [shape](/word/shape/)：形、形状
+- [angle](/angle)：角度
+- [shape](/shape)：形、形状
 
-<!-- cvid: aid09_bid00 -->
+<!-- cvid: aid42_bid01 -->

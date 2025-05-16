@@ -81,15 +81,19 @@ TOEICでは主に社内規則や従業員ハンドブック、通知文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に社内規則や従業員ハンドブック、通知文などで
 ## 🤔  punitive との違いは？
 
 - **disciplinary**：規律や懲戒に関する、規則違反への処分を示す
-- **[punitive](/word/punitive/)**：罰則的な、罰を与えること自体を強調
+- **[punitive](/punitive)**：罰則的な、罰を与えること自体を強調
 
 disciplinaryは「規律維持や懲戒のための処分」に焦点があり、punitiveは「罰を与えること自体」に重点があります。
 
@@ -105,14 +109,14 @@ disciplinaryは「規律維持や懲戒のための処分」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [administrative](/word/administrative/)：管理の、行政の
-- [regulation](/word/regulation/)：規則、規制
+- [administrative](/administrative)：管理の、行政の
+- [regulation](/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [violation](/word/violation/)：違反、違反行為
+- [mandatory](/mandatory)：義務的な、強制の
+- [violation](/violation)：違反、違反行為
 
-<!-- cvid: aid26_bid22 -->
+<!-- cvid: aid28_bid09 -->

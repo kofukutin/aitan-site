@@ -81,15 +81,19 @@ TOEICでは、グラフや数値の変化を説明する文脈や、形容詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、グラフや数値の変化を説明する文脈や、形容詞と
 ## 🤔  reduced との違いは？
 
 - **decreased**：数量や程度が自然に、または全体的に減ったことを表す。
-- **[reduced](/word/reduced/)**：意図的に減らした、または何かの働きかけで減ったことを強調。
+- **[reduced](/reduced)**：意図的に減らした、または何かの働きかけで減ったことを強調。
 
 decreasedは「自然な減少」や「全体的な減少」に使われ、reducedは「人為的・意図的な削減」に使われることが多いです。
 
@@ -105,14 +109,14 @@ decreasedは「自然な減少」や「全体的な減少」に使われ、reduc
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase/)：増加、増える
-- [decline](/word/decline/)：減少、下落
+- [increase](/increase)：増加、増える
+- [decline](/decline)：減少、下落
 
 ---
 
 ## 📖 できればこれも
 
-- [lower](/word/lower/)：下げる、低くする
-- [drop](/word/drop/)：落ちる、下がる
+- [lower](/lower)：下げる、低くする
+- [drop](/drop)：落ちる、下がる
 
-<!-- cvid: aid22_bid49 -->
+<!-- cvid: aid12_bid31 -->

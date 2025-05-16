@@ -83,15 +83,19 @@ TOEICでは、数量や割合を問う文脈で「half」がよく登場しま�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid14_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、数量や割合を問う文脈で「half」がよく登場しま�
 ## 🤔  part との違いは？
 
 - **half**：全体の2分の1、きっちり半分を指す
-- **[part](/word/part/)**：一部分、全体の中のどこかの一部を指す
+- **[part](/part)**：一部分、全体の中のどこかの一部を指す
 
 「half」は正確に半分を示しますが、「part」はどのくらいの割合かは特定せず、漠然と一部を表します。
 
@@ -107,14 +111,14 @@ TOEICでは、数量や割合を問う文脈で「half」がよく登場しま�
 
 ## 🧩 あわせて覚えたい
 
-- [quarter](/word/quarter/)：4分の1
-- [portion](/word/portion/)：分け前、取り分
+- [quarter](/quarter)：4分の1
+- [portion](/portion)：分け前、取り分
 
 ---
 
 ## 📖 できればこれも
 
-- [double](/word/double/)：2倍
-- [total](/word/total/)：合計
+- [double](/double)：2倍
+- [total](/total)：合計
 
-<!-- cvid: aid16_bid45 -->
+<!-- cvid: aid14_bid24 -->

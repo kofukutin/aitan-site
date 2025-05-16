@@ -77,15 +77,19 @@ TOEICでは文法問題や文挿入問題で「譲歩」を表す表現として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは文法問題や文挿入問題で「譲歩」を表す表現として
 ## 🤔  assuming との違いは？
 
 - **granted**：〜だとしても（譲歩・認めたうえで話を進める）
-- **[assuming](/word/assuming/)**：もし〜ならば（仮定・条件を提示する）
+- **[assuming](/assuming)**：もし〜ならば（仮定・条件を提示する）
 
 grantedは「事実を認めつつ話を進める」ニュアンス、assumingは「仮定の条件」を提示する時に使います。
 
@@ -101,14 +105,14 @@ grantedは「事実を認めつつ話を進める」ニュアンス、assuming�
 
 ## 🧩 あわせて覚えたい
 
-- [provided](/word/provided/)：もし〜ならば（条件）
-- [although](/word/although/)：〜だけれども（譲歩）
+- [provided](/provided)：もし〜ならば（条件）
+- [although](/although)：〜だけれども（譲歩）
 
 ---
 
 ## 📖 できればこれも
 
-- [unless](/word/unless/)：〜でなければ
-- [even if](/word/even_if/)：たとえ〜でも
+- [unless](/unless)：〜でなければ
+- [even if](/even_if)：たとえ〜でも
 
-<!-- cvid: aid34_bid22 -->
+<!-- cvid: aid11_bid26 -->

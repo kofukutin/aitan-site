@@ -81,15 +81,19 @@ TOEICでは、電子機器や楽器の説明、会話の中で「tuner」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電子機器や楽器の説明、会話の中で「tuner」が登�
 ## 🤔  adjuster との違いは？
 
 - **tuner**：主に周波数や音程などを合わせるための装置や人。
-- **[adjuster](/word/adjuster/)**：広く「調整する人・装置」を指し、保険や機械など様々な分野で使う。
+- **[adjuster](/adjuster)**：広く「調整する人・装置」を指し、保険や機械など様々な分野で使う。
 
 tunerは音や周波数など特定の調整に使い、adjusterはより幅広い調整全般に使います。
 
@@ -105,14 +109,14 @@ tunerは音や周波数など特定の調整に使い、adjusterはより幅広�
 
 ## 🧩 あわせて覚えたい
 
-- [receiver](/word/receiver/)：受信機
-- [controller](/word/controller/)：制御装置
+- [receiver](/receiver)：受信機
+- [controller](/controller)：制御装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [switch](/word/switch/)：スイッチ、切り替え装置
+- [device](/device)：装置、機器
+- [switch](/switch)：スイッチ、切り替え装置
 
-<!-- cvid: aid12_bid07 -->
+<!-- cvid: aid19_bid43 -->

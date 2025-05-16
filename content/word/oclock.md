@@ -77,15 +77,19 @@ TOEICではリスニングの時間表現や、会話の中でよく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではリスニングの時間表現や、会話の中でよく出題され
 ## 🤔  sharp との違いは？
 
 - **o'clock**：時刻を表すときに「～時ちょうど」と言う一般的な表現
-- **[sharp](/word/sharp/)**：時刻の「きっかり」「ぴったり」を強調する表現
+- **[sharp](/sharp)**：時刻の「きっかり」「ぴったり」を強調する表現
 
 o'clockは単に時刻を伝えるときに使い、sharpは「遅れずに」「ちょうどその時に」という強調を加えたいときに使います。
 
@@ -101,14 +105,14 @@ o'clockは単に時刻を伝えるときに使い、sharpは「遅れずに」�
 
 ## 🧩 あわせて覚えたい
 
-- [about](/word/about/)：おおよそ、だいたい
-- [exactly](/word/exactly/)：正確に、ちょうど
+- [about](/about)：おおよそ、だいたい
+- [exactly](/exactly)：正確に、ちょうど
 
 ---
 
 ## 📖 できればこれも
 
-- [quarter](/word/quarter/)：15分（時間の4分の1）
-- [half](/word/half/)：30分（半分）
+- [quarter](/quarter)：15分（時間の4分の1）
+- [half](/half)：30分（半分）
 
-<!-- cvid: aid45_bid20 -->
+<!-- cvid: aid29_bid30 -->

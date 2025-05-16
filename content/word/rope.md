@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物や作業の説明として登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物や作業の説明として登場
 ## 🤔  cord との違いは？
 
 - **rope**：太くて丈夫な「ロープ」や「綱」を指し、重い物を縛ったり吊るしたりするのに使う。
-- **[cord](/word/cord/)**：ropeより細めで、電気コードや細いひもなど幅広い用途に使われる。
+- **[cord](/cord)**：ropeより細めで、電気コードや細いひもなど幅広い用途に使われる。
 
 ropeは主に太くて強度が必要な場面、cordは比較的細くて柔軟なひもや電線などに使われます。
 
@@ -105,14 +109,14 @@ ropeは主に太くて強度が必要な場面、cordは比較的細くて柔軟
 
 ## 🧩 あわせて覚えたい
 
-- [string](/word/string/)：ひも、糸（ropeやcordより細い）
-- [chain](/word/chain/)：鎖（金属製の連なったもの）
+- [string](/string)：ひも、糸（ropeやcordより細い）
+- [chain](/chain)：鎖（金属製の連なったもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [ladder](/word/ladder/)：はしご
-- [hook](/word/hook/)：フック、かぎ
+- [ladder](/ladder)：はしご
+- [hook](/hook)：フック、かぎ
 
-<!-- cvid: aid10_bid14 -->
+<!-- cvid: aid43_bid39 -->

@@ -80,15 +80,19 @@ TOEICでは、災害や安全対策に関する説明文やお知らせで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、災害や安全対策に関する説明文やお知らせで登場
 ## 🤔  tremor との違いは？
 
 - **earthquake**：規模が大きく、被害をもたらす「地震」を指す。
-- **[tremor](/word/tremor/)**：小さな揺れや前兆的な「微震」を指す。
+- **[tremor](/tremor)**：小さな揺れや前兆的な「微震」を指す。
 
 earthquakeは大きな地震全般を指し、tremorは小規模な揺れや前触れの揺れを表します。
 
@@ -104,14 +108,14 @@ earthquakeは大きな地震全般を指し、tremorは小規模な揺れや前�
 
 ## 🧩 あわせて覚えたい
 
-- [disaster](/word/disaster/)：災害
-- [aftershock](/word/aftershock/)：余震
+- [disaster](/disaster)：災害
+- [aftershock](/aftershock)：余震
 
 ---
 
 ## 📖 できればこれも
 
-- [flood](/word/flood/)：洪水
-- [volcano](/word/volcano/)：火山
+- [flood](/flood)：洪水
+- [volcano](/volcano)：火山
 
-<!-- cvid: aid04_bid33 -->
+<!-- cvid: aid30_bid24 -->

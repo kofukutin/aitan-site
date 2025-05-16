@@ -81,15 +81,19 @@ Please contact the housekeeper if you need extra towels.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please contact the housekeeper if you need extra towels.
 ## 🤔  maid との違いは？
 
 - **housekeeper**：家全体やホテルの部屋の管理・清掃を担当する人。責任範囲が広い。
-- **[maid](/word/maid/)**：主に掃除や簡単な家事をする人。housekeeperより職務範囲が狭いことが多い。
+- **[maid](/maid)**：主に掃除や簡単な家事をする人。housekeeperより職務範囲が狭いことが多い。
 
 housekeeperは管理的な役割も含み、maidはより実務的な家事担当という違いがあります。
 
@@ -105,14 +109,14 @@ housekeeperは管理的な役割も含み、maidはより実務的な家事担�
 
 ## 🧩 あわせて覚えたい
 
-- [janitor](/word/janitor/)：（ビルや学校の）用務員、清掃員
-- [butler](/word/butler/)：執事、家令
+- [janitor](/janitor)：（ビルや学校の）用務員、清掃員
+- [butler](/butler)：執事、家令
 
 ---
 
 ## 📖 できればこれも
 
-- [guest](/word/guest/)：客、宿泊客
-- [receptionist](/word/receptionist/)：受付係
+- [guest](/guest)：客、宿泊客
+- [receptionist](/receptionist)：受付係
 
-<!-- cvid: aid06_bid05 -->
+<!-- cvid: aid35_bid36 -->

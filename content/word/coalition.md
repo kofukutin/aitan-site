@@ -81,15 +81,19 @@ TOEICではビジネスや政治、団体間の協力を扱う長文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスや政治、団体間の協力を扱う長文で見かけ
 ## 🤔  alliance との違いは？
 
 - **coalition**：共通の目的のために一時的に結成される連合や連立
-- **[alliance](/word/alliance/)**：より長期的で公式な協力関係や同盟
+- **[alliance](/alliance)**：より長期的で公式な協力関係や同盟
 
 coalitionは一時的・目的限定の連合、allianceは長期的・公式な同盟というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ coalitionは一時的・目的限定の連合、allianceは長期的・公式な
 
 ## 🧩 あわせて覚えたい
 
-- [union](/word/union/)：組合、連合
-- [collaboration](/word/collaboration/)：協力、共同作業
+- [union](/union)：組合、連合
+- [collaboration](/collaboration)：協力、共同作業
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [partnership](/word/partnership/)：提携、協力関係
+- [committee](/committee)：委員会
+- [partnership](/partnership)：提携、協力関係
 
-<!-- cvid: aid16_bid45 -->
+<!-- cvid: aid34_bid07 -->

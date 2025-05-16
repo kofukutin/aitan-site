@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fourth】の意味・使い方・例文 ― quarterとの違い【TOEIC英単語】"
 description: "fourthの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでquarterとの違いもわかりやすく学べます。"
 word: "fourth"
@@ -81,15 +81,19 @@ TOEICでは、順序や日付、割合を説明する場面でよく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、順序や日付、割合を説明する場面でよく出題され
 ## 🤔  quarter との違いは？
 
 - **fourth**：順序や割合で「4番目」「4分の1」を表す。
-- **[quarter](/word/quarter/)**：主に「4分の1」や「四半期」を表す。
+- **[quarter](/quarter)**：主に「4分の1」や「四半期」を表す。
 
 fourthは順序や順位にも使えますが、quarterは主に「4分の1」やビジネスの「四半期」に使われます。
 
@@ -105,14 +109,14 @@ fourthは順序や順位にも使えますが、quarterは主に「4分の1」�
 
 ## 🧩 あわせて覚えたい
 
-- [third](/word/third/)：3番目、3分の1
-- [fifth](/word/fifth/)：5番目、5分の1
+- [third](/third)：3番目、3分の1
+- [fifth](/fifth)：5番目、5分の1
 
 ---
 
 ## 📖 できればこれも
 
-- [second](/word/second/)：2番目、2分の1
-- [sixth](/word/sixth/)：6番目、6分の1
+- [second](/second)：2番目、2分の1
+- [sixth](/sixth)：6番目、6分の1
 
-<!-- cvid: aid28_bid24 -->
+<!-- cvid: aid24_bid36 -->

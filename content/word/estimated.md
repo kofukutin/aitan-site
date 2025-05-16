@@ -81,15 +81,19 @@ TOEICでは、レポートやメール、案内文などで「推定の数値」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レポートやメール、案内文などで「推定の数値」
 ## 🤔  approximate との違いは？
 
 - **estimated**：見積もりや計算に基づいた「推定の」「おおよその」
-- **[approximate](/word/approximate/)**：正確ではないが「ほぼ近い」「だいたいの」
+- **[approximate](/approximate)**：正確ではないが「ほぼ近い」「だいたいの」
 
 「estimated」は見積もりや計算の根拠がある場合に使い、「approximate」は正確さよりも「だいたい」のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、レポートやメール、案内文などで「推定の数値」
 
 ## 🧩 あわせて覚えたい
 
-- [actual](/word/actual/)：実際の、本当の
-- [predict](/word/predict/)：予測する
+- [actual](/actual)：実際の、本当の
+- [predict](/predict)：予測する
 
 ---
 
 ## 📖 できればこれも
 
-- [expected](/word/expected/)：予想される
-- [projected](/word/projected/)：予測された
+- [expected](/expected)：予想される
+- [projected](/projected)：予測された
 
-<!-- cvid: aid00_bid35 -->
+<!-- cvid: aid20_bid43 -->

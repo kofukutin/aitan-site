@@ -81,15 +81,19 @@ TOEICでは、専門的な業務や分野を説明する文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、専門的な業務や分野を説明する文脈でよく登場し
 ## 🤔  specific との違いは？
 
 - **specialized**：特定の分野や目的に特化している、専門的な
-- **[specific](/word/specific/)**：明確に限定された、具体的な
+- **[specific](/specific)**：明確に限定された、具体的な
 
 「specialized」は専門性や特化性を強調し、「specific」は範囲や内容がはっきり決まっていることを表します。
 
@@ -105,14 +109,14 @@ TOEICでは、専門的な業務や分野を説明する文脈でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general/)：一般的な、全体的な
-- [expert](/word/expert/)：専門家、熟練者
+- [general](/general)：一般的な、全体的な
+- [expert](/expert)：専門家、熟練者
 
 ---
 
 ## 📖 できればこれも
 
-- [technical](/word/technical/)：技術的な
-- [advanced](/word/advanced/)：高度な
+- [technical](/technical)：技術的な
+- [advanced](/advanced)：高度な
 
-<!-- cvid: aid42_bid31 -->
+<!-- cvid: aid24_bid33 -->

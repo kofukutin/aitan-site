@@ -81,15 +81,19 @@ TOEICでは空港や駅、出張などの場面で「出発する」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や駅、出張などの場面で「出発する」という意
 ## 🤔  leave との違いは？
 
 - **depart**：主に乗り物や公式な場面で「出発する」「離れる」とフォーマルに使う
-- **[leave](/word/leave/)**：もっと広く「去る」「離れる」全般に使え、カジュアルな場面でもOK
+- **[leave](/leave)**：もっと広く「去る」「離れる」全般に使え、カジュアルな場面でもOK
 
 departは時刻や場所が明確な「出発」に使われ、leaveは日常的な「去る」「出る」に幅広く使われます。
 
@@ -105,14 +109,14 @@ departは時刻や場所が明確な「出発」に使われ、leaveは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/word/arrive/)：到着する
-- [embark](/word/embark/)：乗り込む、（旅に）出る
+- [arrive](/arrive)：到着する
+- [embark](/embark)：乗り込む、（旅に）出る
 
 ---
 
 ## 📖 できればこれも
 
-- [board](/word/board/)：（乗り物に）乗る
-- [return](/word/return/)：戻る、帰る
+- [board](/board)：（乗り物に）乗る
+- [return](/return)：戻る、帰る
 
-<!-- cvid: aid47_bid13 -->
+<!-- cvid: aid32_bid06 -->

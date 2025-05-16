@@ -81,15 +81,19 @@ TOEICでは、形容詞として「pressing issue（差し迫った問題）」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「pressing issue（差し迫った問題）」�
 ## 🤔  urgent との違いは？
 
 - **pressing**：今すぐ対応が必要なほど「差し迫った」状態を強調する。
-- **[urgent](/word/urgent/)**：緊急性が高く、すぐに行動が求められる状況を表す。
+- **[urgent](/urgent)**：緊急性が高く、すぐに行動が求められる状況を表す。
 
 pressingは「強く迫ってくる」ニュアンスがあり、urgentよりも「今すぐ」の切迫感をやや強調する場面で使われます。
 
@@ -105,14 +109,14 @@ pressingは「強く迫ってくる」ニュアンスがあり、urgentよりも
 
 ## 🧩 あわせて覚えたい
 
-- [immediate](/word/immediate/)：即時の、すぐの
-- [critical](/word/critical/)：重大な、危機的な
+- [immediate](/immediate)：即時の、すぐの
+- [critical](/critical)：重大な、危機的な
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、非常に重要な
-- [important](/word/important/)：重要な
+- [essential](/essential)：不可欠な、非常に重要な
+- [important](/important)：重要な
 
-<!-- cvid: aid19_bid24 -->
+<!-- cvid: aid03_bid32 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【deer】の意味・使い方・例文 ― antelopeとの違い【TOEIC英単語】"
 description: "deerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでantelopeとの違いもわかりやすく学べます。"
 word: "deer"
@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然の風景を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid08_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然の風景を説
 ## 🤔  antelope との違いは？
 
 - **deer**：シカ全般を指し、森や草原に生息する動物。
-- **[antelope](/word/antelope/)**：アフリカやアジアに多い「カモシカ類」で、より細身で角があるのが特徴。
+- **[antelope](/antelope)**：アフリカやアジアに多い「カモシカ類」で、より細身で角があるのが特徴。
 
 deerは日本や北米などに多い「シカ」、antelopeは主にアフリカなどに生息する「カモシカ類」と覚えると区別しやすいです。
 
@@ -104,14 +108,14 @@ deerは日本や北米などに多い「シカ」、antelopeは主にアフリ�
 
 ## 🧩 あわせて覚えたい
 
-- [moose](/word/moose/)：ヘラジカ（北米や北欧に生息する大型のシカ）
-- [rabbit](/word/rabbit/)：ウサギ（小型の哺乳動物）
+- [moose](/moose)：ヘラジカ（北米や北欧に生息する大型のシカ）
+- [rabbit](/rabbit)：ウサギ（小型の哺乳動物）
 
 ---
 
 ## 📖 できればこれも
 
-- [bear](/word/bear/)：クマ（大型の哺乳動物）
-- [fox](/word/fox/)：キツネ（細身で尾がふさふさした動物）
+- [bear](/bear)：クマ（大型の哺乳動物）
+- [fox](/fox)：キツネ（細身で尾がふさふさした動物）
 
-<!-- cvid: aid45_bid41 -->
+<!-- cvid: aid08_bid13 -->

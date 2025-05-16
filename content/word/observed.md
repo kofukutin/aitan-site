@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「観察した」「気づいた」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「観察した」「気づいた」という
 ## 🤔  noticed との違いは？
 
 - **observed**：注意深く観察したり、記録したりするニュアンスが強い
-- **[noticed](/word/noticed/)**：ふと気づく、目に留まるというニュアンスが強い
+- **[noticed](/noticed)**：ふと気づく、目に留まるというニュアンスが強い
 
 observedは意図的・客観的に見る場合に使い、noticedは偶然や自然に気づく場合に使います。
 
@@ -105,14 +109,14 @@ observedは意図的・客観的に見る場合に使い、noticedは偶然や�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor/)：監視する、継続的に見守る
-- [detect](/word/detect/)：発見する、検出する
+- [monitor](/monitor)：監視する、継続的に見守る
+- [detect](/detect)：発見する、検出する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録する
-- [analyze](/word/analyze/)：分析する
+- [record](/record)：記録する
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid07_bid18 -->
+<!-- cvid: aid02_bid28 -->

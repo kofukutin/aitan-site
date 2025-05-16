@@ -88,8 +88,12 @@ TOEICでは会話や説明文で「確信を持って述べる」場面によく
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「確信を持って述べる」場面によく
 ## 🤔  certainly との違いは？
 
 - **surely**：話し手の強い確信や「きっと～だろう」という推測を表す。
-- **[certainly](/word/certainly/)**：より客観的に「確かに」「もちろん」と断定的に述べる。
+- **[certainly](/certainly)**：より客観的に「確かに」「もちろん」と断定的に述べる。
 
 surelyは主観的な確信、certainlyは客観的・丁寧な断定や同意で使い分けます。
 
@@ -105,14 +109,14 @@ surelyは主観的な確信、certainlyは客観的・丁寧な断定や同意�
 
 ## 🧩 あわせて覚えたい
 
-- [probably](/word/probably/)：おそらく
-- [undoubtedly](/word/undoubtedly/)：疑いなく、確かに
+- [probably](/probably)：おそらく
+- [undoubtedly](/undoubtedly)：疑いなく、確かに
 
 ---
 
 ## 📖 できればこれも
 
-- [clearly](/word/clearly/)：はっきりと
-- [definitely](/word/definitely/)：間違いなく、確実に
+- [clearly](/clearly)：はっきりと
+- [definitely](/definitely)：間違いなく、確実に
 
-<!-- cvid: aid35_bid48 -->
+<!-- cvid: aid35_bid39 -->

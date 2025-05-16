@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【candle】の意味・使い方・例文 ― lampとの違い【TOEIC英単語】"
 description: "candleの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlampとの違いもわかりやすく学べます。"
 word: "candle"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、テーブルや部屋の小物とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、テーブルや部屋の小物とし
 ## 🤔  lamp との違いは？
 
 - **candle**：芯に火をつけて明かりをともす「ろうそく」。
-- **[lamp](/word/lamp/)**：電気や油などで明かりをともす「ランプ」。
+- **[lamp](/lamp)**：電気や油などで明かりをともす「ランプ」。
 
 candleは火を使う昔ながらの照明、lampは電気や油など現代的・実用的な照明という違いがあります。
 
@@ -105,14 +109,14 @@ candleは火を使う昔ながらの照明、lampは電気や油など現代的�
 
 ## 🧩 あわせて覚えたい
 
-- [torch](/word/torch/)：たいまつ、懐中電灯
-- [match](/word/match/)：マッチ（火をつける道具）
+- [torch](/torch)：たいまつ、懐中電灯
+- [match](/match)：マッチ（火をつける道具）
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light/)：光、明かり
-- [fire](/word/fire/)：火
+- [light](/light)：光、明かり
+- [fire](/fire)：火
 
-<!-- cvid: aid18_bid07 -->
+<!-- cvid: aid47_bid32 -->

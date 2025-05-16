@@ -81,15 +81,19 @@ TOEICでは比較級・最上級の文法問題や、状況説明で「最悪の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較級・最上級の文法問題や、状況説明で「最悪の
 ## 🤔  least との違いは？
 
 - **worst**：最も悪い、最悪の
-- **[least](/word/least/)**：最も少ない、最小の
+- **[least](/least)**：最も少ない、最小の
 
 「worst」は「悪さ」の程度が一番高い場合に使い、「least」は量や程度が一番少ない場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは比較級・最上級の文法問題や、状況説明で「最悪の
 
 ## 🧩 あわせて覚えたい
 
-- [bad](/word/bad/)：悪い
-- [terrible](/word/terrible/)：ひどい、恐ろしい
+- [bad](/bad)：悪い
+- [terrible](/terrible)：ひどい、恐ろしい
 
 ---
 
 ## 📖 できればこれも
 
-- [better](/word/better/)：より良い
-- [best](/word/best/)：最も良い
+- [better](/better)：より良い
+- [best](/best)：最も良い
 
-<!-- cvid: aid40_bid13 -->
+<!-- cvid: aid08_bid20 -->

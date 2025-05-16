@@ -81,7 +81,7 @@ TOEICでは、形容詞として「controlling manager」や「controlling inter
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、形容詞として「controlling manager」や「controlling inter
 
 <div class="info-center">
 ＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「controlling manager」や「controlling inter
 ## 🤔  management との違いは？
 
 - **controlling**：他人や物事を強く支配・管理しようとする様子
-- **[management](/word/management/)**：組織や人を計画的に運営・管理すること
+- **[management](/management)**：組織や人を計画的に運営・管理すること
 
 「controlling」は「支配的」「干渉的」といったやや強い管理のニュアンスがあり、「management」は全体をまとめる一般的な管理を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「controlling manager」や「controlling inter
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise/)：監督する、指導する
-- [monitor](/word/monitor/)：監視する、見守る
+- [supervise](/supervise)：監督する、指導する
+- [monitor](/monitor)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [directive](/word/directive/)：指示的な、指令
-- [coordinate](/word/coordinate/)：調整する、まとめる
+- [directive](/directive)：指示的な、指令
+- [coordinate](/coordinate)：調整する、まとめる
 
-<!-- cvid: aid30_bid00 -->
+<!-- cvid: aid39_bid00 -->

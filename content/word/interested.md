@@ -81,15 +81,19 @@ TOEICでは会話やメール文で「興味がある」「関心がある」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やメール文で「興味がある」「関心がある」と
 ## 🤔  interesting との違いは？
 
 - **interested**：人が「興味を持っている」状態を表す
-- **[interesting](/word/interesting/)**：物や事柄が「興味深い」ことを表す
+- **[interesting](/interesting)**：物や事柄が「興味深い」ことを表す
 
 interestedは人の感情、interestingは物事の性質を表すので、主語によって使い分けます。
 
@@ -105,14 +109,14 @@ interestedは人の感情、interestingは物事の性質を表すので、主�
 
 ## 🧩 あわせて覚えたい
 
-- [bored](/word/bored/)：退屈している
-- [curious](/word/curious/)：好奇心が強い
+- [bored](/bored)：退屈している
+- [curious](/curious)：好奇心が強い
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited/)：わくわくしている
-- [concerned](/word/concerned/)：心配している
+- [excited](/excited)：わくわくしている
+- [concerned](/concerned)：心配している
 
-<!-- cvid: aid24_bid30 -->
+<!-- cvid: aid38_bid11 -->

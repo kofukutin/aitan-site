@@ -81,15 +81,19 @@ TOEICではビジネスメールや案内文で「予定」「約束」「関与
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスメールや案内文で「予定」「約束」「関与
 ## 🤔  appointment との違いは？
 
 - **engagement**：フォーマルな約束や予定、または関与・参加を幅広く指す
-- **[appointment](/word/appointment/)**：主に医者やビジネスなどの「（人と会う）予約・面会の約束」
+- **[appointment](/appointment)**：主に医者やビジネスなどの「（人と会う）予約・面会の約束」
 
 engagementは「関与」や「婚約」など幅広い意味で使われ、appointmentは「人と会うための予約」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ engagementは「関与」や「婚約」など幅広い意味で使われ、appo
 
 ## 🧩 あわせて覚えたい
 
-- [commitment](/word/commitment/)：約束、責任
-- [invitation](/word/invitation/)：招待、招待状
+- [commitment](/commitment)：約束、責任
+- [invitation](/invitation)：招待、招待状
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/word/arrangement/)：取り決め、準備
-- [participation](/word/participation/)：参加
+- [arrangement](/arrangement)：取り決め、準備
+- [participation](/participation)：参加
 
-<!-- cvid: aid02_bid49 -->
+<!-- cvid: aid41_bid02 -->

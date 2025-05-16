@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【porcelain】の意味・使い方・例文 ― ceramicとの違い【TOEIC英単語】"
 description: "porcelainの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでceramicとの違いもわかりやすく学べます。"
 word: "porcelain"
@@ -80,15 +80,19 @@ TOEICでは観光案内や商品説明、展示会の案内文などで登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは観光案内や商品説明、展示会の案内文などで登場す
 ## 🤔  ceramic との違いは？
 
 - **porcelain**：白くて薄く、光沢があり高級感のある磁器を指す。
-- **[ceramic](/word/ceramic/)**：陶磁器全般を指し、磁器だけでなく土器や焼き物も含む広い意味。
+- **[ceramic](/ceramic)**：陶磁器全般を指し、磁器だけでなく土器や焼き物も含む広い意味。
 
 porcelainはceramicの一種ですが、より高級で繊細なものを指します。ceramicは素材や用途が幅広いです。
 
@@ -104,14 +108,14 @@ porcelainはceramicの一種ですが、より高級で繊細なものを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [china](/word/china/)：磁器、陶磁器（特に中国製のものや一般的な磁器）
-- [pottery](/word/pottery/)：陶器、焼き物（磁器よりも素朴で厚みがある）
+- [china](/china)：磁器、陶磁器（特に中国製のものや一般的な磁器）
+- [pottery](/pottery)：陶器、焼き物（磁器よりも素朴で厚みがある）
 
 ---
 
 ## 📖 できればこれも
 
-- [glass](/word/glass/)：ガラス
-- [crystal](/word/crystal/)：クリスタルガラス、結晶
+- [glass](/glass)：ガラス
+- [crystal](/crystal)：クリスタルガラス、結晶
 
-<!-- cvid: aid06_bid01 -->
+<!-- cvid: aid22_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは、履歴書や人材募集、自己紹介などの文脈で「educat
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、履歴書や人材募集、自己紹介などの文脈で「educat
 ## 🤔  knowledgeable との違いは？
 
 - **educated**：正式な教育や訓練を受けていることを強調
-- **[knowledgeable](/word/knowledgeable/)**：特定分野についてよく知っていることを強調
+- **[knowledgeable](/knowledgeable)**：特定分野についてよく知っていることを強調
 
 educatedは「学歴」や「教育の有無」に焦点があり、knowledgeableは「知識の深さ・豊富さ」に重点があります。
 
@@ -105,14 +109,14 @@ educatedは「学歴」や「教育の有無」に焦点があり、knowledgeabl
 
 ## 🧩 あわせて覚えたい
 
-- [uneducated](/word/uneducated/)：教育を受けていない
-- [qualified](/word/qualified/)：資格のある、適任の
+- [uneducated](/uneducated)：教育を受けていない
+- [qualified](/qualified)：資格のある、適任の
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/word/academic/)：学問的な、学業の
-- [intelligent](/word/intelligent/)：知的な、頭の良い
+- [academic](/academic)：学問的な、学業の
+- [intelligent](/intelligent)：知的な、頭の良い
 
-<!-- cvid: aid07_bid41 -->
+<!-- cvid: aid14_bid08 -->

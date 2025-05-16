@@ -81,15 +81,19 @@ TOEICでは、建物や部屋の説明、デザインや改装に関する長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建物や部屋の説明、デザインや改装に関する長文
 ## 🤔  inside との違いは？
 
 - **interior**：建物や物の「内部」や「内装」を指し、フォーマルで専門的な場面で使われる。
-- **[inside](/word/inside/)**：よりカジュアルに「中」「内側」を表し、日常会話で広く使われる。
+- **[inside](/inside)**：よりカジュアルに「中」「内側」を表し、日常会話で広く使われる。
 
 interiorは特に建物や車などの「内装」や「内部空間」を強調する時に使い、insideは単に「中にある」ことを表します。
 
@@ -105,14 +109,14 @@ interiorは特に建物や車などの「内装」や「内部空間」を強調
 
 ## 🧩 あわせて覚えたい
 
-- [exterior](/word/exterior/)：外部、外装
-- [internal](/word/internal/)：内部の、内面的な
+- [exterior](/exterior)：外部、外装
+- [internal](/internal)：内部の、内面的な
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure/)：構造、建造物
-- [design](/word/design/)：設計、デザイン
+- [structure](/structure)：構造、建造物
+- [design](/design)：設計、デザイン
 
-<!-- cvid: aid04_bid05 -->
+<!-- cvid: aid26_bid15 -->

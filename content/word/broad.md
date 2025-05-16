@@ -81,15 +81,19 @@ TOEICでは「broad experience（幅広い経験）」や「broad range（広範
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「broad experience（幅広い経験）」や「broad range（広範
 ## 🤔  wide との違いは？
 
 - **broad**：物理的な幅だけでなく、内容や範囲の広さにも使えるややフォーマルな語。
-- **[wide](/word/wide/)**：主に物理的な幅や広がりに使われ、日常的で直接的な表現。
+- **[wide](/wide)**：主に物理的な幅や広がりに使われ、日常的で直接的な表現。
 
 broadは抽象的な「範囲の広さ」や「内容の多様さ」にも使えますが、wideは主に物理的な広がりを表します。
 
@@ -105,14 +109,14 @@ broadは抽象的な「範囲の広さ」や「内容の多様さ」にも使え
 
 ## 🧩 あわせて覚えたい
 
-- [narrow](/word/narrow/)：狭い
-- [extensive](/word/extensive/)：広範囲の、広い
+- [narrow](/narrow)：狭い
+- [extensive](/extensive)：広範囲の、広い
 
 ---
 
 ## 📖 できればこれも
 
-- [deep](/word/deep/)：深い
-- [large](/word/large/)：大きい
+- [deep](/deep)：深い
+- [large](/large)：大きい
 
-<!-- cvid: aid17_bid32 -->
+<!-- cvid: aid26_bid27 -->

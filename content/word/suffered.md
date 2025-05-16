@@ -81,15 +81,19 @@ TOEICでは、会社や人が損失や困難を「被る」場面でよく出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や人が損失や困難を「被る」場面でよく出題
 ## 🤔  experienced との違いは？
 
 - **suffered**：悪いことや苦しみ・損害を受けたときに使う
-- **[experienced](/word/experienced/)**：良いことも悪いことも含めて「経験した」ときに使う
+- **[experienced](/experienced)**：良いことも悪いことも含めて「経験した」ときに使う
 
 sufferedは「苦しみや損害」に限定され、experiencedは中立的に「体験した」全般に使います。
 
@@ -105,14 +109,14 @@ sufferedは「苦しみや損害」に限定され、experiencedは中立的に�
 
 ## 🧩 あわせて覚えたい
 
-- [endure](/word/endure/)：耐える、我慢する
-- [overcome](/word/overcome/)：克服する
+- [endure](/endure)：耐える、我慢する
+- [overcome](/overcome)：克服する
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage/)：損害、被害
-- [recover](/word/recover/)：回復する
+- [damage](/damage)：損害、被害
+- [recover](/recover)：回復する
 
-<!-- cvid: aid28_bid06 -->
+<!-- cvid: aid07_bid01 -->

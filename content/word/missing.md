@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「物や人が見当たらない」「欠け
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「物や人が見当たらない」「欠け
 ## 🤔  lost との違いは？
 
 - **missing**：本来あるべき場所にない、行方不明の（見つかる可能性も含む）
-- **[lost](/word/lost/)**：完全に失われた、取り戻せない可能性が高い
+- **[lost](/lost)**：完全に失われた、取り戻せない可能性が高い
 
 missingは「一時的に見当たらない」ニュアンスがあり、lostは「完全に失った」印象が強いです。
 
@@ -105,14 +109,14 @@ missingは「一時的に見当たらない」ニュアンスがあり、lostは
 
 ## 🧩 あわせて覚えたい
 
-- [absent](/word/absent/)：不在の、欠席の
-- [gone](/word/gone/)：いなくなった、消えた
+- [absent](/absent)：不在の、欠席の
+- [gone](/gone)：いなくなった、消えた
 
 ---
 
 ## 📖 できればこれも
 
-- [found](/word/found/)：見つかった
-- [search](/word/search/)：探す
+- [found](/found)：見つかった
+- [search](/search)：探す
 
-<!-- cvid: aid09_bid21 -->
+<!-- cvid: aid47_bid27 -->

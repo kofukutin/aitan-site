@@ -81,15 +81,19 @@ cleanlinessは、TOEICの長文読解（Part 7）で職場や施設の衛生基�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cleanlinessは、TOEICの長文読解（Part 7）で職場や施設の衛生基�
 ## 🤔  hygiene との違いは？
 
 - **cleanliness**：見た目や状態がきれいであること、清潔さ
-- **[hygiene](/word/hygiene/)**：衛生（病気予防のための清潔・健康管理）
+- **[hygiene](/hygiene)**：衛生（病気予防のための清潔・健康管理）
 
 cleanlinessは「きれいな状態」に重点があり、hygieneは「健康や病気予防のための衛生管理」に重点があります。
 
@@ -105,14 +109,14 @@ cleanlinessは「きれいな状態」に重点があり、hygieneは「健康�
 
 ## 🧩 あわせて覚えたい
 
-- [dirtiness](/word/dirtiness/)：汚れ、汚さ
-- [purity](/word/purity/)：純粋さ、純度
+- [dirtiness](/dirtiness)：汚れ、汚さ
+- [purity](/purity)：純粋さ、純度
 
 ---
 
 ## 📖 できればこれも
 
-- [neatness](/word/neatness/)：整頓されていること
-- [tidiness](/word/tidiness/)：きちんとしていること
+- [neatness](/neatness)：整頓されていること
+- [tidiness](/tidiness)：きちんとしていること
 
-<!-- cvid: aid31_bid26 -->
+<!-- cvid: aid39_bid23 -->

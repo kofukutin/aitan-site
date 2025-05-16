@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、掲示物や道具の説明として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、掲示物や道具の説明として登
 ## 🤔  needle との違いは？
 
 - **pin**：物を留めたり固定したりするための小さな針や留め具
-- **[needle](/word/needle/)**：縫い物や注射など、刺すための細長い針
+- **[needle](/needle)**：縫い物や注射など、刺すための細長い針
 
 pinは「留める」目的で使う道具、needleは「刺す」目的で使う道具という違いがあります。
 
@@ -105,14 +109,14 @@ pinは「留める」目的で使う道具、needleは「刺す」目的で使�
 
 ## 🧩 あわせて覚えたい
 
-- [clip](/word/clip/)：クリップ、挟む道具
-- [bolt](/word/bolt/)：ボルト、ねじ式の留め具
+- [clip](/clip)：クリップ、挟む道具
+- [bolt](/bolt)：ボルト、ねじ式の留め具
 
 ---
 
 ## 📖 できればこれも
 
-- [nail](/word/nail/)：くぎ、打ち付ける道具
-- [button](/word/button/)：ボタン、留め具
+- [nail](/nail)：くぎ、打ち付ける道具
+- [button](/button)：ボタン、留め具
 
-<!-- cvid: aid35_bid15 -->
+<!-- cvid: aid42_bid25 -->

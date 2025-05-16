@@ -83,15 +83,19 @@ TOEICでは主にPart 1の写真描写で「乗る」「またがる」動作を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは主にPart 1の写真描写で「乗る」「またがる」動作を
 ## 🤔  drive との違いは？
 
 - **ride**：自転車・バイク・馬・バスなど「運転せずに乗る」または「またがって乗る」場合に使う
-- **[drive](/word/drive/)**：車など「自分で運転する」場合に使う
+- **[drive](/drive)**：車など「自分で運転する」場合に使う
 
 rideは「乗る」こと全般や「またがる」イメージが強く、driveは「運転する」ことに限定されます。
 
@@ -107,14 +111,14 @@ rideは「乗る」こと全般や「またがる」イメージが強く、driv
 
 ## 🧩 あわせて覚えたい
 
-- [travel](/word/travel/)：旅行する、移動する
-- [commute](/word/commute/)：通勤する
+- [travel](/travel)：旅行する、移動する
+- [commute](/commute)：通勤する
 
 ---
 
 ## 📖 できればこれも
 
-- [walk](/word/walk/)：歩く
-- [board](/word/board/)：（乗り物に）乗り込む
+- [walk](/walk)：歩く
+- [board](/board)：（乗り物に）乗り込む
 
-<!-- cvid: aid12_bid30 -->
+<!-- cvid: aid34_bid42 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文脈で「優先事項」「優先順位」として頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文脈で「優先事項」「優先順位」として頻
 ## 🤔  preference との違いは？
 
 - **priority**：他よりも先に扱うべき重要なこと・もの
-- **[preference](/word/preference/)**：好み、より好きなもの
+- **[preference](/preference)**：好み、より好きなもの
 
 priorityは「重要度・優先度」を示し、preferenceは「好き嫌い・選好」を表します。優先順位を決める場面ではpriority、単なる好みを言うときはpreferenceを使います。
 
@@ -105,14 +109,14 @@ priorityは「重要度・優先度」を示し、preferenceは「好き嫌い�
 
 ## 🧩 あわせて覚えたい
 
-- [urgency](/word/urgency/)：緊急性
-- [option](/word/option/)：選択肢
+- [urgency](/urgency)：緊急性
+- [option](/option)：選択肢
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [deadline](/word/deadline/)：締め切り
+- [schedule](/schedule)：予定、スケジュール
+- [deadline](/deadline)：締め切り
 
-<!-- cvid: aid17_bid08 -->
+<!-- cvid: aid32_bid12 -->

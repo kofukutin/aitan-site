@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、マニュアルの説明部分で「annotat
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、マニュアルの説明部分で「annotat
 ## 🤔  comment との違いは？
 
 - **annotation**：主に専門的な文書や図表に付ける説明的な「注釈」
-- **[comment](/word/comment/)**：意見や感想など幅広い「コメント」
+- **[comment](/comment)**：意見や感想など幅広い「コメント」
 
 annotationは客観的な説明や補足に使われ、commentは主観的な意見や感想に使われることが多いです。
 
@@ -105,14 +109,14 @@ annotationは客観的な説明や補足に使われ、commentは主観的な意
 
 ## 🧩 あわせて覚えたい
 
-- [remark](/word/remark/)：発言、意見
-- [note](/word/note/)：メモ、覚え書き
+- [remark](/remark)：発言、意見
+- [note](/note)：メモ、覚え書き
 
 ---
 
 ## 📖 できればこれも
 
-- [instruction](/word/instruction/)：指示、説明
-- [description](/word/description/)：記述、説明
+- [instruction](/instruction)：指示、説明
+- [description](/description)：記述、説明
 
-<!-- cvid: aid14_bid29 -->
+<!-- cvid: aid05_bid37 -->

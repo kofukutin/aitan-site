@@ -81,15 +81,19 @@ TOEICでは「退屈な」「鈍い」という意味で形容詞として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「退屈な」「鈍い」という意味で形容詞として出題
 ## 🤔  boring との違いは？
 
 - **dull**：物や状況が「鈍い」「退屈な」「活気がない」など、否定的な印象を与える。
-- **[boring](/word/boring/)**：単純に「つまらない」「退屈な」という意味で、感情的な退屈さを強調。
+- **[boring](/boring)**：単純に「つまらない」「退屈な」という意味で、感情的な退屈さを強調。
 
 dullは「活気のなさ」や「鈍さ」も含み、boringは「面白くない」という感情を直接表します。
 
@@ -105,14 +109,14 @@ dullは「活気のなさ」や「鈍さ」も含み、boringは「面白くな�
 
 ## 🧩 あわせて覚えたい
 
-- [sharp](/word/sharp/)：鋭い、はっきりした
-- [tedious](/word/tedious/)：長くて退屈な、うんざりする
+- [sharp](/sharp)：鋭い、はっきりした
+- [tedious](/tedious)：長くて退屈な、うんざりする
 
 ---
 
 ## 📖 できればこれも
 
-- [blunt](/word/blunt/)：鈍い、ぶっきらぼうな
-- [plain](/word/plain/)：質素な、わかりやすい
+- [blunt](/blunt)：鈍い、ぶっきらぼうな
+- [plain](/plain)：質素な、わかりやすい
 
-<!-- cvid: aid01_bid18 -->
+<!-- cvid: aid04_bid49 -->

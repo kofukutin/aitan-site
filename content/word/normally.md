@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「通常は～だ」と状況を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「通常は～だ」と状況を説明する際
 ## 🤔  usually との違いは？
 
 - **normally**：普通の状態や例外がない場合を強調して「通常は」と言うときに使う
-- **[usually](/word/usually/)**：頻度が高いことを表し「たいていは」と言うときに使う
+- **[usually](/usually)**：頻度が高いことを表し「たいていは」と言うときに使う
 
 normallyは「本来そうであるべき状態」を意識し、usuallyは「よくあること・頻度」に焦点を当てます。
 
@@ -105,14 +109,14 @@ normallyは「本来そうであるべき状態」を意識し、usuallyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [typically](/word/typically/)：典型的に、たいてい
-- [generally](/word/generally/)：一般的に
+- [typically](/typically)：典型的に、たいてい
+- [generally](/generally)：一般的に
 
 ---
 
 ## 📖 できればこれも
 
-- [regularly](/word/regularly/)：定期的に
-- [frequently](/word/frequently/)：頻繁に
+- [regularly](/regularly)：定期的に
+- [frequently](/frequently)：頻繁に
 
-<!-- cvid: aid39_bid06 -->
+<!-- cvid: aid01_bid13 -->

@@ -81,15 +81,19 @@ TOEICでは会話文や説明文で「2つ」「2人」「2、3の～」とい�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文や説明文で「2つ」「2人」「2、3の～」とい�
 ## 🤔  pair との違いは？
 
 - **couple**：2つ・2人・カップル。数が厳密でなく「2、3」の意味でも使う。
-- **[pair](/word/pair/)**：厳密に「2つで1組」の意味。靴や手袋などペアで使う物に多い。
+- **[pair](/pair)**：厳密に「2つで1組」の意味。靴や手袋などペアで使う物に多い。
 
 coupleは「2つ」や「2人」だけでなく、少しあいまいに「2、3の～」にも使えますが、pairは必ず「2つで1組」の意味で使います。
 
@@ -105,14 +109,14 @@ coupleは「2つ」や「2人」だけでなく、少しあいまいに「2、3�
 
 ## 🧩 あわせて覚えたい
 
-- [several](/word/several/)：いくつかの
-- [few](/word/few/)：少しの、ほとんどない
+- [several](/several)：いくつかの
+- [few](/few)：少しの、ほとんどない
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/word/group/)：集団、グループ
-- [team](/word/team/)：チーム、団体
+- [group](/group)：集団、グループ
+- [team](/team)：チーム、団体
 
-<!-- cvid: aid01_bid00 -->
+<!-- cvid: aid12_bid06 -->

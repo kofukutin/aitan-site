@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【horse】の意味・使い方・例文 ― ponyとの違い【TOEIC英単語】"
 description: "horseの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでponyとの違いもわかりやすく学べます。"
 word: "horse"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンと
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid33_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンと
 ## 🤔  pony との違いは？
 
 - **horse**：一般的な馬。体が大きく、乗馬や農作業、レースなど幅広く使われる。
-- **[pony](/word/pony/)**：小型の馬。体高が低く、子ども向けの乗馬やペットとして使われる。
+- **[pony](/pony)**：小型の馬。体高が低く、子ども向けの乗馬やペットとして使われる。
 
 horseは標準的な馬全般を指し、ponyは特に体が小さい種類の馬を指します。
 
@@ -105,14 +109,14 @@ horseは標準的な馬全般を指し、ponyは特に体が小さい種類の�
 
 ## 🧩 あわせて覚えたい
 
-- [donkey](/word/donkey/)：ロバ（馬に似た家畜動物）
-- [stable](/word/stable/)：馬小屋
+- [donkey](/donkey)：ロバ（馬に似た家畜動物）
+- [stable](/stable)：馬小屋
 
 ---
 
 ## 📖 できればこれも
 
-- [cow](/word/cow/)：牛
-- [sheep](/word/sheep/)：羊
+- [cow](/cow)：牛
+- [sheep](/sheep)：羊
 
-<!-- cvid: aid19_bid20 -->
+<!-- cvid: aid33_bid31 -->

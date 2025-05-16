@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、会社紹介などで consulting �
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、会社紹介などで consulting �
 ## 🤔  advice との違いは？
 
 - **consulting**：専門家による助言や指導、コンサルタント業務全体を指す
-- **[advice](/word/advice/)**：一般的な「助言」「アドバイス」を意味し、専門性は問わない
+- **[advice](/advice)**：一般的な「助言」「アドバイス」を意味し、専門性は問わない
 
 consulting はビジネスや専門分野での体系的な助言やサービスを指し、advice は日常的なアドバイスや提案にも使えます。
 
@@ -105,14 +109,14 @@ consulting はビジネスや専門分野での体系的な助言やサービス
 
 ## 🧩 あわせて覚えたい
 
-- [consultation](/word/consultation/)：相談、協議
-- [counsel](/word/counsel/)：助言、法律相談
+- [consultation](/consultation)：相談、協議
+- [counsel](/counsel)：助言、法律相談
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy/)：戦略
-- [proposal](/word/proposal/)：提案
+- [strategy](/strategy)：戦略
+- [proposal](/proposal)：提案
 
-<!-- cvid: aid27_bid26 -->
+<!-- cvid: aid15_bid15 -->

@@ -80,15 +80,19 @@ TOEICではメールやアンケート、会議の議事録などで「意見」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではメールやアンケート、会議の議事録などで「意見」
 ## 🤔  comment との違いは？
 
 - **feedback**：全体的な評価や改善点など、建設的な意見や反応を指す
-- **[comment](/word/comment/)**：一言の感想や短い意見、単なる発言も含む
+- **[comment](/comment)**：一言の感想や短い意見、単なる発言も含む
 
 feedbackは相手の成長や改善を目的とした意見で、commentは単なる感想や発言にも使われます。
 
@@ -104,14 +108,14 @@ feedbackは相手の成長や改善を目的とした意見で、commentは単�
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/word/advice/)：助言、アドバイス
-- [response](/word/response/)：返答、反応
+- [advice](/advice)：助言、アドバイス
+- [response](/response)：返答、反応
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion/)：提案
-- [input](/word/input/)：意見、入力
+- [suggestion](/suggestion)：提案
+- [input](/input)：意見、入力
 
-<!-- cvid: aid20_bid41 -->
+<!-- cvid: aid12_bid49 -->

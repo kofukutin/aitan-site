@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【hot】の意味・使い方・例文 ― warmとの違い【TOEIC英単語】"
 description: "hotの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでwarmとの違いもわかりやすく学べます。"
 word: "hot"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、飲み物や天気などの温度を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、飲み物や天気などの温度を
 ## 🤔  warm との違いは？
 
 - **hot**：触ると「熱い」と感じるほど温度が高い、または辛い
-- **[warm](/word/warm/)**：心地よい「暖かさ」や「ぬくもり」を表す
+- **[warm](/warm)**：心地よい「暖かさ」や「ぬくもり」を表す
 
 hotは「熱い」「辛い」など強い温度や刺激を表し、warmは「ぬくもり」や「やさしい暖かさ」を表します。
 
@@ -105,14 +109,14 @@ hotは「熱い」「辛い」など強い温度や刺激を表し、warmは「�
 
 ## 🧩 あわせて覚えたい
 
-- [cold](/word/cold/)：冷たい
-- [spicy](/word/spicy/)：辛い（味が刺激的）
+- [cold](/cold)：冷たい
+- [spicy](/spicy)：辛い（味が刺激的）
 
 ---
 
 ## 📖 できればこれも
 
-- [cold](/word/cold/)：冷たい
-- [cool](/word/cool/)：涼しい、かっこいい
+- [cold](/cold)：冷たい
+- [cool](/cool)：涼しい、かっこいい
 
-<!-- cvid: aid03_bid32 -->
+<!-- cvid: aid34_bid37 -->

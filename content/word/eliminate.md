@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の文脈で「排除する」「除
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の文脈で「排除する」「除
 ## 🤔  remove との違いは？
 
 - **eliminate**：完全に排除・除去する、再び現れないようにするニュアンス
-- **[remove](/word/remove/)**：単に取り外す・移動させる意味で、必ずしも完全排除ではない
+- **[remove](/remove)**：単に取り外す・移動させる意味で、必ずしも完全排除ではない
 
 eliminateは「根本的に取り除く」イメージが強く、removeは「一時的にどかす」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ eliminateは「根本的に取り除く」イメージが強く、removeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [exclude](/word/exclude/)：除外する
-- [retain](/word/retain/)：保持する、保つ
+- [exclude](/exclude)：除外する
+- [retain](/retain)：保持する、保つ
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce/)：減らす
-- [prevent](/word/prevent/)：防ぐ
+- [reduce](/reduce)：減らす
+- [prevent](/prevent)：防ぐ
 
-<!-- cvid: aid25_bid24 -->
+<!-- cvid: aid01_bid08 -->

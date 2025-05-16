@@ -77,15 +77,19 @@ TOEICでは、料金や数量、頻度などを表す表現でよく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、料金や数量、頻度などを表す表現でよく出題され
 ## 🤔  each との違いは？
 
 - **per**：単位ごとに数量や頻度を表すときに使う（例：per hour, per person）
-- **[each](/word/each/)**：個々のものを一つずつ強調したいときに使う
+- **[each](/each)**：個々のものを一つずつ強調したいときに使う
 
 「per」は基準となる単位ごとに数量や頻度を示すのに対し、「each」は個々の対象を一つずつ強調します。
 
@@ -101,14 +105,14 @@ TOEICでは、料金や数量、頻度などを表す表現でよく出題され
 
 ## 🧩 あわせて覚えたい
 
-- [according_to](/word/according_to/)：～によれば
-- [by](/word/by/)：～までに、～によって
+- [according_to](/according_to)：～によれば
+- [by](/by)：～までに、～によって
 
 ---
 
 ## 📖 できればこれも
 
-- [via](/word/via/)：～経由で
-- [through](/word/through/)：～を通じて
+- [via](/via)：～経由で
+- [through](/through)：～を通じて
 
-<!-- cvid: aid09_bid01 -->
+<!-- cvid: aid45_bid14 -->

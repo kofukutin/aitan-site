@@ -81,15 +81,19 @@ TOEICでは、オフィスや家庭の機器説明、会話の中で「cordless 
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや家庭の機器説明、会話の中で「cordless 
 ## 🤔  wireless との違いは？
 
 - **cordless**：電源コードがなく、バッテリーなどで動作する（例：cordless phone）
-- **[wireless](/word/wireless/)**：無線通信でデータをやりとりする（例：wireless internet）
+- **[wireless](/wireless)**：無線通信でデータをやりとりする（例：wireless internet）
 
 「cordless」は主に電源コードの有無に注目し、「wireless」は通信手段が無線であることに注目します。
 
@@ -105,14 +109,14 @@ TOEICでは、オフィスや家庭の機器説明、会話の中で「cordless 
 
 ## 🧩 あわせて覚えたい
 
-- [portable](/word/portable/)：持ち運びできる
-- [rechargeable](/word/rechargeable/)：充電式の
+- [portable](/portable)：持ち運びできる
+- [rechargeable](/rechargeable)：充電式の
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [manual](/word/manual/)：手動の
+- [digital](/digital)：デジタルの
+- [manual](/manual)：手動の
 
-<!-- cvid: aid45_bid44 -->
+<!-- cvid: aid34_bid39 -->

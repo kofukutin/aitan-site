@@ -82,15 +82,19 @@ TOEICでは、文中の副詞選択や、働き方・プロジェクトの進め
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、文中の副詞選択や、働き方・プロジェクトの進め
 ## 🤔  individually との違いは？
 
 - **independently**：他に頼らず自分の力で、独立して
-- **[individually](/word/individually/)**：一人ひとり、個別に
+- **[individually](/individually)**：一人ひとり、個別に
 
 independentlyは「他に依存せず自分の力で」という自立性を強調し、individuallyは「個々に」「それぞれ別々に」という意味で使い分けます。
 
@@ -106,14 +110,14 @@ independentlyは「他に依存せず自分の力で」という自立性を強�
 
 ## 🧩 あわせて覚えたい
 
-- [autonomously](/word/autonomously/)：自律的に、自己判断で
-- [reliantly](/word/reliantly/)：頼って、依存して
+- [autonomously](/autonomously)：自律的に、自己判断で
+- [reliantly](/reliantly)：頼って、依存して
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/word/efficiently/)：効率的に
-- [effectively](/word/effectively/)：効果的に
+- [efficiently](/efficiently)：効率的に
+- [effectively](/effectively)：効果的に
 
-<!-- cvid: aid03_bid11 -->
+<!-- cvid: aid09_bid18 -->

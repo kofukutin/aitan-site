@@ -81,15 +81,19 @@ biteは会話文や説明文で、食事や動作の描写として出題され�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ biteは会話文や説明文で、食事や動作の描写として出題され�
 ## 🤔  chew との違いは？
 
 - **bite**：歯で「かむ」「かじる」動作の始まりや一口を表す
-- **[chew](/word/chew/)**：かんだ後、口の中でよく「かむ」「咀嚼する」動作
+- **[chew](/chew)**：かんだ後、口の中でよく「かむ」「咀嚼する」動作
 
 biteは「かむ」瞬間や一口の動作、chewは「よくかむ」「咀嚼する」継続的な動作を表します。
 
@@ -105,14 +109,14 @@ biteは「かむ」瞬間や一口の動作、chewは「よくかむ」「咀嚼
 
 ## 🧩 あわせて覚えたい
 
-- [swallow](/word/swallow/)：飲み込む
-- [nibble](/word/nibble/)：少しずつかじる
+- [swallow](/swallow)：飲み込む
+- [nibble](/nibble)：少しずつかじる
 
 ---
 
 ## 📖 できればこれも
 
-- [cut](/word/cut/)：切る
-- [taste](/word/taste/)：味わう
+- [cut](/cut)：切る
+- [taste](/taste)：味わう
 
-<!-- cvid: aid42_bid20 -->
+<!-- cvid: aid48_bid17 -->

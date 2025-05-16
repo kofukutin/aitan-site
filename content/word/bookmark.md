@@ -81,15 +81,19 @@ TOEICでは主にITやウェブ関連の長文やメール文中で「ブック�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやウェブ関連の長文やメール文中で「ブック�
 ## 🤔  favorite との違いは？
 
 - **bookmark**：本やウェブページの「しおり」や「お気に入り登録」を指す
-- **[favorite](/word/favorite/)**：お気に入りの物や人、またはウェブ上で「お気に入り登録」したもの
+- **[favorite](/favorite)**：お気に入りの物や人、またはウェブ上で「お気に入り登録」したもの
 
 「bookmark」は主に目印や保存機能として使い、「favorite」は好きなもの全般やウェブ上の「お気に入り」に使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にITやウェブ関連の長文やメール文中で「ブック�
 
 ## 🧩 あわせて覚えたい
 
-- [shortcut](/word/shortcut/)：ショートカット、近道
-- [tab](/word/tab/)：（ブラウザなどの）タブ、つまみ
+- [shortcut](/shortcut)：ショートカット、近道
+- [tab](/tab)：（ブラウザなどの）タブ、つまみ
 
 ---
 
 ## 📖 できればこれも
 
-- [link](/word/link/)：リンク、関連付け
-- [folder](/word/folder/)：フォルダー、書類入れ
+- [link](/link)：リンク、関連付け
+- [folder](/folder)：フォルダー、書類入れ
 
-<!-- cvid: aid22_bid31 -->
+<!-- cvid: aid42_bid06 -->

@@ -82,15 +82,19 @@ TOEICでは「仕事」「作業」などの意味で頻出し、会話や説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「仕事」「作業」などの意味で頻出し、会話や説明
 ## 🤔  job との違いは？
 
 - **work**：仕事や作業そのもの、活動全般を指す
-- **[job](/word/job/)**：特定の職業や役割、ポジションを指す
+- **[job](/job)**：特定の職業や役割、ポジションを指す
 
 workは「やるべき作業」や「労働」を広く指し、jobは「職業」「職務」といった具体的な役割を表します。
 
@@ -106,14 +110,14 @@ workは「やるべき作業」や「労働」を広く指し、jobは「職業�
 
 ## 🧩 あわせて覚えたい
 
-- [task](/word/task/)：課題、任務
-- [project](/word/project/)：プロジェクト、計画
+- [task](/task)：課題、任務
+- [project](/project)：プロジェクト、計画
 
 ---
 
 ## 📖 できればこれも
 
-- [office](/word/office/)：オフィス、事務所
-- [meeting](/word/meeting/)：会議
+- [office](/office)：オフィス、事務所
+- [meeting](/meeting)：会議
 
-<!-- cvid: aid37_bid21 -->
+<!-- cvid: aid18_bid19 -->

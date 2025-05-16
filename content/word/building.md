@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で「建物」や「ビル」を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で「建物」や「ビル」を説
 ## 🤔  structure との違いは？
 
 - **building**：人が使うための建物全般を指す、日常的な単語。
-- **[structure](/word/structure/)**：建物だけでなく、橋や塔など「構造物」全般を指すややフォーマルな単語。
+- **[structure](/structure)**：建物だけでなく、橋や塔など「構造物」全般を指すややフォーマルな単語。
 
 buildingは「人が入る建物」に限定されるのに対し、structureは用途や規模を問わず幅広い人工物に使われます。
 
@@ -105,14 +109,14 @@ buildingは「人が入る建物」に限定されるのに対し、structureは
 
 ## 🧩 あわせて覚えたい
 
-- [facility](/word/facility/)：施設、設備
-- [construction](/word/construction/)：建設、建造物
+- [facility](/facility)：施設、設備
+- [construction](/construction)：建設、建造物
 
 ---
 
 ## 📖 できればこれも
 
-- [floor](/word/floor/)：階、床
-- [office](/word/office/)：事務所、オフィス
+- [floor](/floor)：階、床
+- [office](/office)：事務所、オフィス
 
-<!-- cvid: aid16_bid44 -->
+<!-- cvid: aid41_bid29 -->

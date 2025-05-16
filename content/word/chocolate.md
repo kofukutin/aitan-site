@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【chocolate】の意味・使い方・例文 ― candyとの違い【TOEIC英単語】"
 description: "chocolateの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcandyとの違いもわかりやすく学べます。"
 word: "chocolate"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、食べ物やお土産の話題として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid36" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid36" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、食べ物やお土産の話題として
 ## 🤔  candy との違いは？
 
 - **chocolate**：カカオを主原料とした甘いお菓子全般を指す。
-- **[candy](/word/candy/)**：砂糖を主原料とした飴やグミなど、広く甘いお菓子全般を指す。
+- **[candy](/candy)**：砂糖を主原料とした飴やグミなど、広く甘いお菓子全般を指す。
 
 chocolateはカカオベース、candyは砂糖ベースで、アメリカ英語ではchocolateもcandyの一種とされることがあります。
 
@@ -105,14 +109,14 @@ chocolateはカカオベース、candyは砂糖ベースで、アメリカ英語
 
 ## 🧩 あわせて覚えたい
 
-- [sweet](/word/sweet/)：甘いもの、お菓子
-- [dessert](/word/dessert/)：デザート、食後の甘いもの
+- [sweet](/sweet)：甘いもの、お菓子
+- [dessert](/dessert)：デザート、食後の甘いもの
 
 ---
 
 ## 📖 できればこれも
 
-- [cookie](/word/cookie/)：クッキー、焼き菓子
-- [cake](/word/cake/)：ケーキ
+- [cookie](/cookie)：クッキー、焼き菓子
+- [cake](/cake)：ケーキ
 
-<!-- cvid: aid04_bid12 -->
+<!-- cvid: aid01_bid36 -->

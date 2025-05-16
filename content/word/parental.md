@@ -89,7 +89,11 @@ TOEICでは、契約書や同意書、教育関連の長文で「parental consen
 
 <div class="info-center">
 ＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や同意書、教育関連の長文で「parental consen
 ## 🤔  parental authority との違いは？
 
 - **parental**：親の、親に関する（形容詞として幅広く使う）
-- **[parental authority](/word/parental_authority/)**：親権、親の権限（法律や制度上の「親の権利」）
+- **[parental authority](/parental_authority)**：親権、親の権限（法律や制度上の「親の権利」）
 
 「parental」は「親の～」と広く修飾に使い、「parental authority」は特に「親権」など法的な権限を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、契約書や同意書、教育関連の長文で「parental consen
 
 ## 🧩 あわせて覚えたい
 
-- [maternal](/word/maternal/)：母親の、母性的な
-- [guardian](/word/guardian/)：保護者、後見人
+- [maternal](/maternal)：母親の、母性的な
+- [guardian](/guardian)：保護者、後見人
 
 ---
 
 ## 📖 できればこれも
 
-- [parent](/word/parent/)：親
-- [child](/word/child/)：子ども
+- [parent](/parent)：親
+- [child](/child)：子ども
 
 <!-- cvid: aid40_bid08 -->

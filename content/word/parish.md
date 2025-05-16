@@ -81,15 +81,19 @@ TOEICでは、宗教や地域コミュニティに関する説明文や案内文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、宗教や地域コミュニティに関する説明文や案内文
 ## 🤔  congregation との違いは？
 
 - **parish**：教区やその区域に住む人々、または行政区を指す
-- **[congregation](/word/congregation/)**：礼拝などに集まった信者の集団
+- **[congregation](/congregation)**：礼拝などに集まった信者の集団
 
 parishは地理的・組織的な単位を指し、congregationは集まった人々そのものを強調します。
 
@@ -105,14 +109,14 @@ parishは地理的・組織的な単位を指し、congregationは集まった�
 
 ## 🧩 あわせて覚えたい
 
-- [diocese](/word/diocese/)：（カトリックなどの）教区、司教区
-- [community](/word/community/)：共同体、地域社会
+- [diocese](/diocese)：（カトリックなどの）教区、司教区
+- [community](/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [clergy](/word/clergy/)：聖職者
-- [district](/word/district/)：地区、区域
+- [clergy](/clergy)：聖職者
+- [district](/district)：地区、区域
 
-<!-- cvid: aid30_bid22 -->
+<!-- cvid: aid18_bid07 -->

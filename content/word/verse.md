@@ -81,15 +81,19 @@ TOEICでは、文学や教育に関する長文や記事で「verse」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文学や教育に関する長文や記事で「verse」が登場�
 ## 🤔  poetry との違いは？
 
 - **verse**：詩や歌の一行や一節、または韻文そのものを指す
-- **[poetry](/word/poetry/)**：詩という文学ジャンル全体や詩的表現を指す
+- **[poetry](/poetry)**：詩という文学ジャンル全体や詩的表現を指す
 
 「verse」は具体的な一節や部分、「poetry」は詩全体や抽象的な詩の芸術性を表します。日常会話や文章で使い分けましょう。
 
@@ -105,14 +109,14 @@ TOEICでは、文学や教育に関する長文や記事で「verse」が登場�
 
 ## 🧩 あわせて覚えたい
 
-- [stanza](/word/stanza/)：詩の連、まとまり
-- [prose](/word/prose/)：散文、普通の文章
+- [stanza](/stanza)：詩の連、まとまり
+- [prose](/prose)：散文、普通の文章
 
 ---
 
 ## 📖 できればこれも
 
-- [rhyme](/word/rhyme/)：韻、韻を踏む
-- [lyric](/word/lyric/)：歌詞、叙情詩
+- [rhyme](/rhyme)：韻、韻を踏む
+- [lyric](/lyric)：歌詞、叙情詩
 
-<!-- cvid: aid09_bid43 -->
+<!-- cvid: aid41_bid06 -->

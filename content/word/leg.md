@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人や物の「脚」を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid08_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人や物の「脚」を説明する
 ## 🤔  foot との違いは？
 
 - **leg**：脚全体（太ももから足首まで）や椅子などの脚を指す
-- **[foot](/word/foot/)**：足首から下の「足」を指す
+- **[foot](/foot)**：足首から下の「足」を指す
 
 legは膝や太ももを含む「脚」全体、footは「足先」部分のみを指します。
 
@@ -105,14 +109,14 @@ legは膝や太ももを含む「脚」全体、footは「足先」部分のみ�
 
 ## 🧩 あわせて覚えたい
 
-- [arm](/word/arm/)：腕
-- [knee](/word/knee/)：ひざ
+- [arm](/arm)：腕
+- [knee](/knee)：ひざ
 
 ---
 
 ## 📖 できればこれも
 
-- [hand](/word/hand/)：手
-- [toe](/word/toe/)：足の指
+- [hand](/hand)：手
+- [toe](/toe)：足の指
 
-<!-- cvid: aid41_bid49 -->
+<!-- cvid: aid08_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、道路や都市の風景を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、道路や都市の風景を説
 ## 🤔  crossing との違いは？
 
 - **intersection**：道路や線が交差する「交差点」全般を指すフォーマルな表現。
-- **[crossing](/word/crossing/)**：歩行者用の横断歩道や、線路の踏切など「横断する場所」を指すことが多い。
+- **[crossing](/crossing)**：歩行者用の横断歩道や、線路の踏切など「横断する場所」を指すことが多い。
 
 intersectionは車道同士の交差点、crossingは人や車が横切る場所に使われることが多いです。
 
@@ -105,14 +109,14 @@ intersectionは車道同士の交差点、crossingは人や車が横切る場所
 
 ## 🧩 あわせて覚えたい
 
-- [junction](/word/junction/)：（道路や線路の）合流点
-- [corner](/word/corner/)：（道や建物の）角
+- [junction](/junction)：（道路や線路の）合流点
+- [corner](/corner)：（道や建物の）角
 
 ---
 
 ## 📖 できればこれも
 
-- [avenue](/word/avenue/)：大通り
-- [route](/word/route/)：道、経路
+- [avenue](/avenue)：大通り
+- [route](/route)：道、経路
 
-<!-- cvid: aid08_bid09 -->
+<!-- cvid: aid14_bid02 -->

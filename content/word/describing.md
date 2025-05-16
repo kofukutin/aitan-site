@@ -81,15 +81,19 @@ TOEICでは会話や説明文の中で「状況や物事を説明する」場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文の中で「状況や物事を説明する」場面
 ## 🤔  explaining との違いは？
 
 - **describing**：物事の特徴や様子を客観的に伝える
-- **[explaining](/word/explaining/)**：理由や原因、仕組みをわかりやすく解説する
+- **[explaining](/explaining)**：理由や原因、仕組みをわかりやすく解説する
 
 describingは「どんなものか」を伝えるのに使い、explainingは「なぜそうなのか」「どうしてそうなるのか」を説明する時に使います。
 
@@ -105,14 +109,14 @@ describingは「どんなものか」を伝えるのに使い、explainingは「
 
 ## 🧩 あわせて覚えたい
 
-- [illustrate](/word/illustrate/)：例や図を使って説明する
-- [define](/word/define/)：定義する、意味を明確にする
+- [illustrate](/illustrate)：例や図を使って説明する
+- [define](/define)：定義する、意味を明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [describe](/word/describe/)：描写する、説明する（原形）
-- [mention](/word/mention/)：言及する、軽く触れる
+- [describe](/describe)：描写する、説明する（原形）
+- [mention](/mention)：言及する、軽く触れる
 
-<!-- cvid: aid21_bid46 -->
+<!-- cvid: aid37_bid42 -->

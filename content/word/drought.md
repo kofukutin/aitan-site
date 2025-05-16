@@ -80,15 +80,19 @@ TOEICでは環境問題や農業に関する長文で登場することが多い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは環境問題や農業に関する長文で登場することが多い
 ## 🤔  famine との違いは？
 
 - **drought**：長期間の雨不足や水不足を指す自然現象
-- **[famine](/word/famine/)**：食糧不足による飢饉や飢えの状態
+- **[famine](/famine)**：食糧不足による飢饉や飢えの状態
 
 droughtは主に気象や水に関する言葉で、famineは食糧不足による社会的な危機を指します。
 
@@ -104,14 +108,14 @@ droughtは主に気象や水に関する言葉で、famineは食糧不足によ�
 
 ## 🧩 あわせて覚えたい
 
-- [flood](/word/flood/)：洪水
-- [arid](/word/arid/)：乾燥した
+- [flood](/flood)：洪水
+- [arid](/arid)：乾燥した
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/word/climate/)：気候
-- [disaster](/word/disaster/)：災害
+- [climate](/climate)：気候
+- [disaster](/disaster)：災害
 
-<!-- cvid: aid03_bid16 -->
+<!-- cvid: aid34_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは「職位」や「立場」、「位置」などの意味で頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「職位」や「立場」、「位置」などの意味で頻出し
 ## 🤔  location との違いは？
 
 - **position**：物理的な「位置」だけでなく、組織内の「職位」や「立場」も表す
-- **[location](/word/location/)**：物や人が存在する「場所」「所在地」を表す
+- **[location](/location)**：物や人が存在する「場所」「所在地」を表す
 
 positionは抽象的な「役割」や「地位」にも使えますが、locationは具体的な「場所」だけに使います。
 
@@ -105,14 +109,14 @@ positionは抽象的な「役割」や「地位」にも使えますが、locati
 
 ## 🧩 あわせて覚えたい
 
-- [role](/word/role/)：役割、役目
-- [status](/word/status/)：地位、身分
+- [role](/role)：役割、役目
+- [status](/status)：地位、身分
 
 ---
 
 ## 📖 できればこれも
 
-- [department](/word/department/)：部門、部署
-- [office](/word/office/)：事務所、オフィス
+- [department](/department)：部門、部署
+- [office](/office)：事務所、オフィス
 
-<!-- cvid: aid20_bid32 -->
+<!-- cvid: aid18_bid48 -->

@@ -82,15 +82,19 @@ TOEICでは、歴史や社会、文化に関する長文や記事で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、歴史や社会、文化に関する長文や記事で登場する
 ## 🤔  culture との違いは？
 
 - **civilization**：技術や制度、社会構造などを含む高度な社会全体を指す
-- **[culture](/word/culture/)**：芸術、習慣、価値観など人々の生活様式や精神的側面を指す
+- **[culture](/culture)**：芸術、習慣、価値観など人々の生活様式や精神的側面を指す
 
 civilizationは社会の物質的・制度的な発展に焦点を当て、cultureは人々の考え方や生活様式など精神的な側面に重点を置きます。
 
@@ -106,14 +110,14 @@ civilizationは社会の物質的・制度的な発展に焦点を当て、cultu
 
 ## 🧩 あわせて覚えたい
 
-- [society](/word/society/)：社会、共同体
-- [barbarism](/word/barbarism/)：未開、野蛮
+- [society](/society)：社会、共同体
+- [barbarism](/barbarism)：未開、野蛮
 
 ---
 
 ## 📖 できればこれも
 
-- [heritage](/word/heritage/)：遺産、伝統
-- [tradition](/word/tradition/)：伝統、慣習
+- [heritage](/heritage)：遺産、伝統
+- [tradition](/tradition)：伝統、慣習
 
-<!-- cvid: aid10_bid00 -->
+<!-- cvid: aid23_bid10 -->

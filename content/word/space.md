@@ -81,15 +81,19 @@ TOEICでは、オフィスや会議室の「空きスペース」や「場所の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや会議室の「空きスペース」や「場所の
 ## 🤔  room との違いは？
 
 - **space**：物理的な「空間」や「余地」を指し、広さやスペースの有無に注目する。
-- **[room](/word/room/)**：空間や余地の意味もあるが、特に「部屋」という具体的な場所を指すことが多い。
+- **[room](/room)**：空間や余地の意味もあるが、特に「部屋」という具体的な場所を指すことが多い。
 
 spaceは抽象的な「空き」や「広がり」に使い、roomは「部屋」や「余地（可算名詞）」として使い分けます。
 
@@ -105,14 +109,14 @@ spaceは抽象的な「空き」や「広がり」に使い、roomは「部屋�
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area/)：面積、区域
-- [gap](/word/gap/)：すき間、隔たり
+- [area](/area)：面積、区域
+- [gap](/gap)：すき間、隔たり
 
 ---
 
 ## 📖 できればこれも
 
-- [place](/word/place/)：場所
-- [site](/word/site/)：用地、現場
+- [place](/place)：場所
+- [site](/site)：用地、現場
 
-<!-- cvid: aid35_bid48 -->
+<!-- cvid: aid18_bid17 -->

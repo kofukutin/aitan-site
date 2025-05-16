@@ -81,15 +81,19 @@ TOEICでは顧客満足や従業員満足など、ビジネス文書やアンケ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは顧客満足や従業員満足など、ビジネス文書やアンケ
 ## 🤔  fulfillment との違いは？
 
 - **satisfaction**：期待や要求が満たされたときの「満足感」や「納得」
-- **[fulfillment](/word/fulfillment/)**：目標達成や自己実現など、より深い「充実感」や「成就」
+- **[fulfillment](/fulfillment)**：目標達成や自己実現など、より深い「充実感」や「成就」
 
 satisfactionは日常的な満足や納得に使われ、fulfillmentは人生の目標や夢の実現など、より大きな達成感に使われます。
 
@@ -105,14 +109,14 @@ satisfactionは日常的な満足や納得に使われ、fulfillmentは人生の
 
 ## 🧩 あわせて覚えたい
 
-- [dissatisfaction](/word/dissatisfaction/)：不満
-- [pleasure](/word/pleasure/)：喜び、楽しみ
+- [dissatisfaction](/dissatisfaction)：不満
+- [pleasure](/pleasure)：喜び、楽しみ
 
 ---
 
 ## 📖 できればこれも
 
-- [complaint](/word/complaint/)：苦情
-- [approval](/word/approval/)：承認
+- [complaint](/complaint)：苦情
+- [approval](/approval)：承認
 
-<!-- cvid: aid44_bid16 -->
+<!-- cvid: aid27_bid34 -->

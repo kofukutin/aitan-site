@@ -81,15 +81,19 @@ The republican candidate gave a speech at the conference.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The republican candidate gave a speech at the conference.
 ## 🤔  democrat との違いは？
 
 - **republican**：アメリカの共和党員、または共和制支持者
-- **[democrat](/word/democrat/)**：アメリカの民主党員、または民主主義支持者
+- **[democrat](/democrat)**：アメリカの民主党員、または民主主義支持者
 
 republicanは保守的な立場や政策を支持する人、democratはリベラルな立場や政策を支持する人を指します。
 
@@ -105,14 +109,14 @@ republicanは保守的な立場や政策を支持する人、democratはリベ�
 
 ## 🧩 あわせて覚えたい
 
-- [conservative](/word/conservative/)：保守的な人、保守主義者
-- [liberal](/word/liberal/)：自由主義者、リベラルな人
+- [conservative](/conservative)：保守的な人、保守主義者
+- [liberal](/liberal)：自由主義者、リベラルな人
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [election](/word/election/)：選挙
+- [candidate](/candidate)：候補者
+- [election](/election)：選挙
 
-<!-- cvid: aid08_bid20 -->
+<!-- cvid: aid24_bid02 -->

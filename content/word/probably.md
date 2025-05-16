@@ -78,15 +78,19 @@ TOEICでは会話や説明文で「推測」や「予測」を表す際によく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは会話や説明文で「推測」や「予測」を表す際によく
 ## 🤔  likely との違いは？
 
 - **probably**：話し手の主観で「おそらく」「たぶん」と推測する時に使う副詞
-- **[likely](/word/likely/)**：客観的な状況や根拠から「～しそうだ」と述べる形容詞
+- **[likely](/likely)**：客観的な状況や根拠から「～しそうだ」と述べる形容詞
 
 probablyは話し手の予想や感覚を表し、likelyは状況や事実に基づく可能性を述べる時に使います。
 
@@ -102,14 +106,14 @@ probablyは話し手の予想や感覚を表し、likelyは状況や事実に基
 
 ## 🧩 あわせて覚えたい
 
-- [possibly](/word/possibly/)：もしかすると（確率は低め）
-- [certainly](/word/certainly/)：確かに、きっと（確信度が高い）
+- [possibly](/possibly)：もしかすると（確率は低め）
+- [certainly](/certainly)：確かに、きっと（確信度が高い）
 
 ---
 
 ## 📖 できればこれも
 
-- [maybe](/word/maybe/)：もしかしたら
-- [surely](/word/surely/)：きっと、確かに
+- [maybe](/maybe)：もしかしたら
+- [surely](/surely)：きっと、確かに
 
-<!-- cvid: aid34_bid23 -->
+<!-- cvid: aid10_bid03 -->

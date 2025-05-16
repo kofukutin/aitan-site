@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、犬や猫などのペットが登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid02_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、犬や猫などのペットが登場
 ## 🤔  animal との違いは？
 
 - **pet**：家庭で飼われている愛玩動物
-- **[animal](/word/animal/)**：動物全般（野生・家畜・ペットすべて含む）
+- **[animal](/animal)**：動物全般（野生・家畜・ペットすべて含む）
 
 petは「家で飼う動物」に限定され、animalは「生き物としての動物」全般を指します。
 
@@ -105,14 +109,14 @@ petは「家で飼う動物」に限定され、animalは「生き物として�
 
 ## 🧩 あわせて覚えたい
 
-- [owner](/word/owner/)：飼い主
-- [feed](/word/feed/)：（動詞）餌を与える
+- [owner](/owner)：飼い主
+- [feed](/feed)：（動詞）餌を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [cat](/word/cat/)：猫
-- [dog](/word/dog/)：犬
+- [cat](/cat)：猫
+- [dog](/dog)：犬
 
-<!-- cvid: aid19_bid15 -->
+<!-- cvid: aid02_bid49 -->

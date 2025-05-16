@@ -81,15 +81,19 @@ TOEICでは「貢献する」「寄付する」の意味で、文法や語彙問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「貢献する」「寄付する」の意味で、文法や語彙問
 ## 🤔  donate との違いは？
 
 - **contribute**：貢献する、または何かを提供する（広い意味で使う）
-- **[donate](/word/donate/)**：主にお金や物を「寄付する」（慈善的な意味が強い）
+- **[donate](/donate)**：主にお金や物を「寄付する」（慈善的な意味が強い）
 
 contributeは「力やアイデア、時間」など幅広いものに使えますが、donateは「お金や物」を無償で与える場合に限定されます。
 
@@ -105,14 +109,14 @@ contributeは「力やアイデア、時間」など幅広いものに使えま�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支援する、支える
-- [participate](/word/participate/)：参加する
+- [support](/support)：支援する、支える
+- [participate](/participate)：参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/word/promote/)：促進する、推進する
-- [improve](/word/improve/)：改善する、向上させる
+- [promote](/promote)：促進する、推進する
+- [improve](/improve)：改善する、向上させる
 
-<!-- cvid: aid47_bid37 -->
+<!-- cvid: aid20_bid01 -->

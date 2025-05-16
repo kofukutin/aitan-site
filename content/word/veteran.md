@@ -81,15 +81,19 @@ TOEICでは、職場や業界での経験者を指す文脈や、退役軍人に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や業界での経験者を指す文脈や、退役軍人に
 ## 🤔  expert との違いは？
 
 - **veteran**：長い経験を持つ人、特に実務経験が豊富な人や退役軍人
-- **[expert](/word/expert/)**：専門知識や技術に優れた人
+- **[expert](/expert)**：専門知識や技術に優れた人
 
 veteranは「長年の経験」に重きを置き、expertは「専門的な知識や技術」に焦点を当てます。
 
@@ -105,14 +109,14 @@ veteranは「長年の経験」に重きを置き、expertは「専門的な知�
 
 ## 🧩 あわせて覚えたい
 
-- [novice](/word/novice/)：初心者
-- [professional](/word/professional/)：専門職、プロ
+- [novice](/novice)：初心者
+- [professional](/professional)：専門職、プロ
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate/)：候補者
-- [manager](/word/manager/)：管理職、マネージャー
+- [candidate](/candidate)：候補者
+- [manager](/manager)：管理職、マネージャー
 
-<!-- cvid: aid47_bid19 -->
+<!-- cvid: aid37_bid40 -->

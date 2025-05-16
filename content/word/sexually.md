@@ -81,15 +81,19 @@ TOEICでは医療や健康、職場のハラスメントに関する説明文や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康、職場のハラスメントに関する説明文や
 ## 🤔  physically との違いは？
 
 - **sexually**：性的な面や性に関することを表す副詞
-- **[physically](/word/physically/)**：身体的な面や肉体に関することを表す副詞
+- **[physically](/physically)**：身体的な面や肉体に関することを表す副詞
 
 sexuallyは「性」に関する内容、physicallyは「身体」や「肉体」に関する内容を表します。文脈によって指す範囲が異なります。
 
@@ -105,14 +109,14 @@ sexuallyは「性」に関する内容、physicallyは「身体」や「肉体�
 
 ## 🧩 あわせて覚えたい
 
-- [emotionally](/word/emotionally/)：感情的に
-- [reproductively](/word/reproductively/)：生殖的に
+- [emotionally](/emotionally)：感情的に
+- [reproductively](/reproductively)：生殖的に
 
 ---
 
 ## 📖 できればこれも
 
-- [gender](/word/gender/)：性別
-- [sexual](/word/sexual/)：性的な
+- [gender](/gender)：性別
+- [sexual](/sexual)：性的な
 
-<!-- cvid: aid19_bid34 -->
+<!-- cvid: aid45_bid29 -->

@@ -81,7 +81,7 @@ cityはTOEICの長文読解や案内文、広告などで頻出します。都�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+好調のうちに進もう👇️
 
 ---
 
@@ -89,7 +89,11 @@ cityはTOEICの長文読解や案内文、広告などで頻出します。都�
 
 <div class="info-center">
 ＼効率化された学習法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cityはTOEICの長文読解や案内文、広告などで頻出します。都�
 ## 🤔  town との違いは？
 
 - **city**：人口が多く、商業や行政の中心となる大きな都市
-- **[town](/word/town/)**：cityより小さく、地方の町や中規模の集落
+- **[town](/town)**：cityより小さく、地方の町や中規模の集落
 
 cityは大都市や行政区分としての「都市」を指し、townはより小規模な「町」を指します。
 
@@ -105,14 +109,14 @@ cityは大都市や行政区分としての「都市」を指し、townはより
 
 ## 🧩 あわせて覚えたい
 
-- [village](/word/village/)：村、小さな集落
-- [metropolis](/word/metropolis/)：大都市、首都圏
+- [village](/village)：村、小さな集落
+- [metropolis](/metropolis)：大都市、首都圏
 
 ---
 
 ## 📖 できればこれも
 
-- [capital](/word/capital/)：首都
-- [country](/word/country/)：国、田舎
+- [capital](/capital)：首都
+- [country](/country)：国、田舎
 
-<!-- cvid: aid47_bid40 -->
+<!-- cvid: aid30_bid40 -->

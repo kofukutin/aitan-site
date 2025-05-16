@@ -81,15 +81,19 @@ TOEICでは、ビジネスシーンでの前向きな姿勢や見通しを表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスシーンでの前向きな姿勢や見通しを表す
 ## 🤔  positive との違いは？
 
 - **optimistic**：物事がうまくいくと信じて前向きに考える「楽観的な」
-- **[positive](/word/positive/)**：積極的・肯定的・前向きなど幅広い意味で使われる
+- **[positive](/positive)**：積極的・肯定的・前向きなど幅広い意味で使われる
 
 optimisticは「未来が良くなる」と信じる気持ちに焦点があり、positiveは「積極的・肯定的な態度」全般を指します。
 
@@ -105,14 +109,14 @@ optimisticは「未来が良くなる」と信じる気持ちに焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [pessimistic](/word/pessimistic/)：悲観的な
-- [hopeful](/word/hopeful/)：希望に満ちた
+- [pessimistic](/pessimistic)：悲観的な
+- [hopeful](/hopeful)：希望に満ちた
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident/)：自信がある
-- [realistic](/word/realistic/)：現実的な
+- [confident](/confident)：自信がある
+- [realistic](/realistic)：現実的な
 
-<!-- cvid: aid29_bid24 -->
+<!-- cvid: aid20_bid12 -->

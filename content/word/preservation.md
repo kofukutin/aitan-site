@@ -81,15 +81,19 @@ TOEICでは環境や文化財の話題、企業の社会的責任（CSR）に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や文化財の話題、企業の社会的責任（CSR）に関
 ## 🤔  conservation との違いは？
 
 - **preservation**：現状をそのまま損なわずに守ることに重点
-- **[conservation](/word/conservation/)**：資源や環境を持続的に利用しながら守ること
+- **[conservation](/conservation)**：資源や環境を持続的に利用しながら守ること
 
 preservationは「手を加えずに守る」ニュアンスが強く、conservationは「使いながら守る」イメージです。
 
@@ -105,14 +109,14 @@ preservationは「手を加えずに守る」ニュアンスが強く、conserva
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection/)：保護、防御
-- [restoration](/word/restoration/)：修復、復元
+- [protection](/protection)：保護、防御
+- [restoration](/restoration)：修復、復元
 
 ---
 
 ## 📖 できればこれも
 
-- [maintenance](/word/maintenance/)：維持、管理
-- [storage](/word/storage/)：保管、貯蔵
+- [maintenance](/maintenance)：維持、管理
+- [storage](/storage)：保管、貯蔵
 
-<!-- cvid: aid46_bid24 -->
+<!-- cvid: aid02_bid35 -->

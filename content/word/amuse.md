@@ -82,15 +82,19 @@ TOEICでは「amuse oneself（楽しむ）」や「amused（楽しんでいる�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「amuse oneself（楽しむ）」や「amused（楽しんでいる�
 ## 🤔  entertain との違いは？
 
 - **amuse**：人を一時的に楽しませたり、笑わせたりするニュアンスが強い
-- **[entertain](/word/entertain/)**：より広く「もてなす」「楽しませる」意味で、長時間や正式な場面でも使う
+- **[entertain](/entertain)**：より広く「もてなす」「楽しませる」意味で、長時間や正式な場面でも使う
 
 amuseは「ちょっとした楽しみ」や「気晴らし」に使われ、entertainは「本格的にもてなす」「長く楽しませる」場面で使われます。
 
@@ -106,14 +110,14 @@ amuseは「ちょっとした楽しみ」や「気晴らし」に使われ、ent
 
 ## 🧩 あわせて覚えたい
 
-- [delight](/word/delight/)：大いに喜ばせる
-- [bore](/word/bore/)：退屈させる
+- [delight](/delight)：大いに喜ばせる
+- [bore](/bore)：退屈させる
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/word/enjoy/)：楽しむ
-- [interest](/word/interest/)：興味を持たせる
+- [enjoy](/enjoy)：楽しむ
+- [interest](/interest)：興味を持たせる
 
-<!-- cvid: aid03_bid03 -->
+<!-- cvid: aid18_bid09 -->

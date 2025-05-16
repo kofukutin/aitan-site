@@ -81,15 +81,19 @@ TOEICでは会話やビジネスシーンで「信頼」や「信用」を表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やビジネスシーンで「信頼」や「信用」を表す
 ## 🤔  rely との違いは？
 
 - **trust**：相手や物事を心から信じて頼ること
-- **[rely](/word/rely/)**：頼る、依存すること（信じる気持ちより「頼る」動作が強調される）
+- **[rely](/rely)**：頼る、依存すること（信じる気持ちより「頼る」動作が強調される）
 
 trustは「信じる気持ち」に重点があり、relyは「頼る行動」に重点があります。
 
@@ -105,14 +109,14 @@ trustは「信じる気持ち」に重点があり、relyは「頼る行動」�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt/)：疑い、不信
-- [confidence](/word/confidence/)：自信、信頼
+- [doubt](/doubt)：疑い、不信
+- [confidence](/confidence)：自信、信頼
 
 ---
 
 ## 📖 できればこれも
 
-- [promise](/word/promise/)：約束
-- [support](/word/support/)：支援、サポート
+- [promise](/promise)：約束
+- [support](/support)：支援、サポート
 
-<!-- cvid: aid03_bid39 -->
+<!-- cvid: aid34_bid47 -->

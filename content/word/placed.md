@@ -81,15 +81,19 @@ TOEICでは、動詞の時制や受動態、語彙の使い分けを問う文法
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞の時制や受動態、語彙の使い分けを問う文法
 ## 🤔  put との違いは？
 
 - **placed**：意図的・丁寧に特定の場所に置くニュアンス
-- **[put](/word/put/)**：もっとカジュアルで「ただ置く」イメージ
+- **[put](/put)**：もっとカジュアルで「ただ置く」イメージ
 
 「placed」はフォーマルで丁寧な印象があり、ビジネスや公式な場面でよく使われます。「put」は日常的で幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、動詞の時制や受動態、語彙の使い分けを問う文法
 
 ## 🧩 あわせて覚えたい
 
-- [arrange](/word/arrange/)：整える、配置する
-- [remove](/word/remove/)：取り除く
+- [arrange](/arrange)：整える、配置する
+- [remove](/remove)：取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order/)：注文する、命じる
-- [submit](/word/submit/)：提出する
+- [order](/order)：注文する、命じる
+- [submit](/submit)：提出する
 
-<!-- cvid: aid42_bid06 -->
+<!-- cvid: aid45_bid07 -->

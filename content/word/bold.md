@@ -81,15 +81,19 @@ TOEICでは「太字」「大胆な提案」など、文書作成やプレゼン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「太字」「大胆な提案」など、文書作成やプレゼン
 ## 🤔  brave との違いは？
 
 - **bold**：大胆で目立つ、恐れずに行動する
-- **[brave](/word/brave/)**：困難や危険に立ち向かう勇敢さ
+- **[brave](/brave)**：困難や危険に立ち向かう勇敢さ
 
 「bold」は積極的で目立つ行動や態度に使い、「brave」は危険や困難に直面したときの勇気に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「太字」「大胆な提案」など、文書作成やプレゼン
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/word/confident/)：自信がある
-- [timid](/word/timid/)：臆病な
+- [confident](/confident)：自信がある
+- [timid](/timid)：臆病な
 
 ---
 
 ## 📖 できればこれも
 
-- [daring](/word/daring/)：大胆な、勇敢な
-- [clear](/word/clear/)：明確な、はっきりした
+- [daring](/daring)：大胆な、勇敢な
+- [clear](/clear)：明確な、はっきりした
 
-<!-- cvid: aid08_bid30 -->
+<!-- cvid: aid48_bid02 -->

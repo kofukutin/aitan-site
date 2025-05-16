@@ -81,15 +81,19 @@ TOEICでは、図や設計、計画の説明文やメール文中で「sketch」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、図や設計、計画の説明文やメール文中で「sketch」
 ## 🤔  draft との違いは？
 
 - **sketch**：主に絵や図の「下書き」「ラフなイメージ」を指す
-- **[draft](/word/draft/)**：文章や設計図などの「草稿」「下書き」を指す
+- **[draft](/draft)**：文章や設計図などの「草稿」「下書き」を指す
 
 sketchは視覚的なイメージや図に使われ、draftは文章や計画書など文書的な下書きに使われます。
 
@@ -105,14 +109,14 @@ sketchは視覚的なイメージや図に使われ、draftは文章や計画書
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline/)：概要、要点
-- [diagram](/word/diagram/)：図、図解
+- [outline](/outline)：概要、要点
+- [diagram](/diagram)：図、図解
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画、案
-- [design](/word/design/)：設計、デザイン
+- [plan](/plan)：計画、案
+- [design](/design)：設計、デザイン
 
-<!-- cvid: aid03_bid46 -->
+<!-- cvid: aid48_bid01 -->

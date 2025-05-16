@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やレポート、調査結果の説明などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid30" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid30" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やレポート、調査結果の説明などで
 ## 🤔  comprehensive との違いは？
 
 - **extensive**：範囲や規模が物理的・数量的に「広い」「大きい」ことを強調
-- **[comprehensive](/word/comprehensive/)**：内容が「包括的」で、必要な要素をすべて含んでいることを強調
+- **[comprehensive](/comprehensive)**：内容が「包括的」で、必要な要素をすべて含んでいることを強調
 
 extensiveは「広がり」や「量」に焦点があり、comprehensiveは「抜けなく全体をカバーしている」ことに重点があります。
 
@@ -105,14 +109,14 @@ extensiveは「広がり」や「量」に焦点があり、comprehensiveは「�
 
 ## 🧩 あわせて覚えたい
 
-- [broad](/word/broad/)：幅広い、広い
-- [limited](/word/limited/)：限られた、制限された
+- [broad](/broad)：幅広い、広い
+- [limited](/limited)：限られた、制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [considerable](/word/considerable/)：かなりの、相当な
-- [significant](/word/significant/)：重要な、かなりの
+- [considerable](/considerable)：かなりの、相当な
+- [significant](/significant)：重要な、かなりの
 
-<!-- cvid: aid49_bid06 -->
+<!-- cvid: aid23_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは、会話文や指示の中で「包む」「まとめる」という
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話文や指示の中で「包む」「まとめる」という
 ## 🤔  cover との違いは？
 
 - **wrap**：何かをぐるっと包み込む、巻き付けるイメージ
-- **[cover](/word/cover/)**：表面を覆う、隠すイメージ
+- **[cover](/cover)**：表面を覆う、隠すイメージ
 
 wrapは「全体を包む・巻く」動作、coverは「上から覆う」動作に使い分けます。
 
@@ -105,14 +109,14 @@ wrapは「全体を包む・巻く」動作、coverは「上から覆う」動�
 
 ## 🧩 あわせて覚えたい
 
-- [enclose](/word/enclose/)：囲む、同封する
-- [unwrap](/word/unwrap/)：包みを開ける
+- [enclose](/enclose)：囲む、同封する
+- [unwrap](/unwrap)：包みを開ける
 
 ---
 
 ## 📖 できればこれも
 
-- [pack](/word/pack/)：荷造りする、詰める
-- [fold](/word/fold/)：折りたたむ
+- [pack](/pack)：荷造りする、詰める
+- [fold](/fold)：折りたたむ
 
-<!-- cvid: aid46_bid10 -->
+<!-- cvid: aid44_bid12 -->

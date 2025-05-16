@@ -82,15 +82,19 @@ TOEICでは「under the supervision of ～」や「require supervision」など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「under the supervision of ～」や「require supervision」など�
 ## 🤔  management との違いは？
 
 - **supervision**：現場や人の活動を直接見守り、指導・監督すること
-- **[management](/word/management/)**：組織やプロジェクト全体の運営・経営を指す
+- **[management](/management)**：組織やプロジェクト全体の運営・経営を指す
 
 supervisionは「現場での直接的な監督」、managementは「全体の運営や経営」といった広い意味で使い分けます。
 
@@ -106,14 +110,14 @@ supervisionは「現場での直接的な監督」、managementは「全体の�
 
 ## 🧩 あわせて覚えたい
 
-- [oversight](/word/oversight/)：監督、見落とし
-- [guidance](/word/guidance/)：指導、案内
+- [oversight](/oversight)：監督、見落とし
+- [guidance](/guidance)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor/)：監視する、見守る
-- [direction](/word/direction/)：指示、指導
+- [monitor](/monitor)：監視する、見守る
+- [direction](/direction)：指示、指導
 
-<!-- cvid: aid06_bid42 -->
+<!-- cvid: aid43_bid23 -->

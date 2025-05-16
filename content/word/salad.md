@@ -81,15 +81,19 @@ TOEICでは主にレストランや食事の写真描写で登場します。料
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid06" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid06" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にレストランや食事の写真描写で登場します。料
 ## 🤔  vegetable との違いは？
 
 - **salad**：生野菜や果物などを混ぜて作る料理
-- **[vegetable](/word/vegetable/)**：野菜そのもの
+- **[vegetable](/vegetable)**：野菜そのもの
 
 saladは料理名、vegetableは食材としての野菜を指します。サラダは複数の野菜や果物を組み合わせた料理です。
 
@@ -105,14 +109,14 @@ saladは料理名、vegetableは食材としての野菜を指します。サラ
 
 ## 🧩 あわせて覚えたい
 
-- [dish](/word/dish/)：料理、皿
-- [fruit](/word/fruit/)：果物
+- [dish](/dish)：料理、皿
+- [fruit](/fruit)：果物
 
 ---
 
 ## 📖 できればこれも
 
-- [soup](/word/soup/)：スープ
-- [sandwich](/word/sandwich/)：サンドイッチ
+- [soup](/soup)：スープ
+- [sandwich](/sandwich)：サンドイッチ
 
-<!-- cvid: aid21_bid14 -->
+<!-- cvid: aid42_bid06 -->

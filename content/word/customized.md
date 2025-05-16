@@ -81,15 +81,19 @@ TOEICでは、商品説明やサービス案内、ビジネスメールなどで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品説明やサービス案内、ビジネスメールなどで
 ## 🤔  personalized との違いは？
 
 - **customized**：特定の要望や仕様に合わせて調整・変更された
-- **[personalized](/word/personalized/)**：個人の名前や特徴など、より個人に特化して作られた
+- **[personalized](/personalized)**：個人の名前や特徴など、より個人に特化して作られた
 
 「customized」は幅広い要望や仕様への対応を指し、「personalized」は特に個人に焦点を当てたカスタマイズを意味します。
 
@@ -105,14 +109,14 @@ TOEICでは、商品説明やサービス案内、ビジネスメールなどで
 
 ## 🧩 あわせて覚えたい
 
-- [standard](/word/standard/)：標準の、一般的な
-- [tailored](/word/tailored/)：（特定の目的や人に）合わせた、仕立てられた
+- [standard](/standard)：標準の、一般的な
+- [tailored](/tailored)：（特定の目的や人に）合わせた、仕立てられた
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [unique](/word/unique/)：唯一の、独自の
+- [efficient](/efficient)：効率的な
+- [unique](/unique)：唯一の、独自の
 
-<!-- cvid: aid18_bid16 -->
+<!-- cvid: aid38_bid41 -->

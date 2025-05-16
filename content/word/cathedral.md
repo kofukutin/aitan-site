@@ -81,15 +81,19 @@ The conference will be held near the old cathedral.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The conference will be held near the old cathedral.
 ## 🤔  church との違いは？
 
 - **cathedral**：司教座がある大規模で格式の高い大聖堂
-- **[church](/word/church/)**：一般的な教会、規模や格式は問わない
+- **[church](/church)**：一般的な教会、規模や格式は問わない
 
 cathedralは特に司教がいる中心的な大聖堂を指し、churchは一般的な教会全般を指します。
 
@@ -105,14 +109,14 @@ cathedralは特に司教がいる中心的な大聖堂を指し、churchは一�
 
 ## 🧩 あわせて覚えたい
 
-- [monument](/word/monument/)：記念碑、歴史的建造物
-- [chapel](/word/chapel/)：礼拝堂（小規模な教会）
+- [monument](/monument)：記念碑、歴史的建造物
+- [chapel](/chapel)：礼拝堂（小規模な教会）
 
 ---
 
 ## 📖 できればこれも
 
-- [statue](/word/statue/)：像、彫像
-- [museum](/word/museum/)：博物館
+- [statue](/statue)：像、彫像
+- [museum](/museum)：博物館
 
-<!-- cvid: aid47_bid28 -->
+<!-- cvid: aid44_bid03 -->

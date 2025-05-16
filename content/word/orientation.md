@@ -81,15 +81,19 @@ orientationはTOEICの説明文や案内文で、新入社員研修や新しい�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ orientationはTOEICの説明文や案内文で、新入社員研修や新しい�
 ## 🤔  direction との違いは？
 
 - **orientation**：新しい環境への適応や説明会、または物事の方向付け
-- **[direction](/word/direction/)**：進むべき道や指示、方角
+- **[direction](/direction)**：進むべき道や指示、方角
 
 orientationは「慣れるための説明」や「全体の方向性」に重点があり、directionは「具体的な進路」や「指示」に使われます。
 
@@ -105,14 +109,14 @@ orientationは「慣れるための説明」や「全体の方向性」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [introduction](/word/introduction/)：紹介、導入
-- [guidance](/word/guidance/)：指導、案内
+- [introduction](/introduction)：紹介、導入
+- [guidance](/guidance)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure/)：手順、手続き
-- [policy](/word/policy/)：方針、政策
+- [procedure](/procedure)：手順、手続き
+- [policy](/policy)：方針、政策
 
-<!-- cvid: aid14_bid13 -->
+<!-- cvid: aid32_bid14 -->

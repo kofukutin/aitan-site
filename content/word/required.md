@@ -81,15 +81,19 @@ TOEICでは「required documents（必要書類）」や「required fields（必
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「required documents（必要書類）」や「required fields（必
 ## 🤔  mandatory との違いは？
 
 - **required**：必要とされる、必須の（一般的な義務や条件に使う）
-- **[mandatory](/word/mandatory/)**：法的・規則的に義務付けられた、強制の
+- **[mandatory](/mandatory)**：法的・規則的に義務付けられた、強制の
 
 「required」は広く「必要とされる」ことを指し、「mandatory」は法律や規則で「絶対に守らなければならない」強い義務を表します。
 
@@ -105,14 +109,14 @@ TOEICでは「required documents（必要書類）」や「required fields（必
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [necessary](/word/necessary/)：必要な
+- [optional](/optional)：任意の、選択できる
+- [necessary](/necessary)：必要な
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、極めて重要な
-- [permitted](/word/permitted/)：許可された
+- [essential](/essential)：不可欠な、極めて重要な
+- [permitted](/permitted)：許可された
 
-<!-- cvid: aid27_bid09 -->
+<!-- cvid: aid44_bid33 -->

@@ -81,15 +81,19 @@ TOEICでは、建設や環境、都市インフラに関する説明文や記事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建設や環境、都市インフラに関する説明文や記事
 ## 🤔  sewer との違いは？
 
 - **drainage**：水や液体を排出する仕組みや行為全体を指す
-- **[sewer](/word/sewer/)**：排水を運ぶ下水管や下水道そのもの
+- **[sewer](/sewer)**：排水を運ぶ下水管や下水道そのもの
 
 drainageは排水の仕組みやシステム全体を指し、sewerは実際の下水管や下水道を意味します。drainageの方が広い概念です。
 
@@ -105,14 +109,14 @@ drainageは排水の仕組みやシステム全体を指し、sewerは実際の�
 
 ## 🧩 あわせて覚えたい
 
-- [irrigation](/word/irrigation/)：灌漑（水を引くこと）
-- [filtration](/word/filtration/)：ろ過、濾過
+- [irrigation](/irrigation)：灌漑（水を引くこと）
+- [filtration](/filtration)：ろ過、濾過
 
 ---
 
 ## 📖 できればこれも
 
-- [drain](/word/drain/)：排水する、流し
-- [channel](/word/channel/)：水路、通路
+- [drain](/drain)：排水する、流し
+- [channel](/channel)：水路、通路
 
-<!-- cvid: aid39_bid42 -->
+<!-- cvid: aid18_bid41 -->

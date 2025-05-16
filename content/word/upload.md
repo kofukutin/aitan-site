@@ -81,15 +81,19 @@ IT関連の説明や指示文でよく出題されます。ファイル操作や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連の説明や指示文でよく出題されます。ファイル操作や
 ## 🤔  post との違いは？
 
 - **upload**：ファイルやデータをネット上に送信することに特化
-- **[post](/word/post/)**：SNSや掲示板などに情報やメッセージを公開すること
+- **[post](/post)**：SNSや掲示板などに情報やメッセージを公開すること
 
 uploadは「データ転送」に重点があり、postは「公開・投稿」に重点があります。たとえば写真をSNSに載せる場合、まずuploadしてからpostする流れです。
 
@@ -105,14 +109,14 @@ uploadは「データ転送」に重点があり、postは「公開・投稿」�
 
 ## 🧩 あわせて覚えたい
 
-- [download](/word/download/)：ダウンロードする（ネットから自分の端末にデータを取り込む）
-- [attach](/word/attach/)：添付する（メールなどにファイルを付ける）
+- [download](/download)：ダウンロードする（ネットから自分の端末にデータを取り込む）
+- [attach](/attach)：添付する（メールなどにファイルを付ける）
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする（ソフトを導入する）
-- [share](/word/share/)：共有する（他の人と情報を分け合う）
+- [install](/install)：インストールする（ソフトを導入する）
+- [share](/share)：共有する（他の人と情報を分け合う）
 
-<!-- cvid: aid05_bid38 -->
+<!-- cvid: aid26_bid18 -->

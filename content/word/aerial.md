@@ -81,15 +81,19 @@ TOEICでは、説明文やプレゼンテーションで「aerial view（空中�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文やプレゼンテーションで「aerial view（空中�
 ## 🤔  airborne との違いは？
 
 - **aerial**：空中に関する、空中で行われる
-- **[airborne](/word/airborne/)**：空中に浮かんでいる、空中を移動している
+- **[airborne](/airborne)**：空中に浮かんでいる、空中を移動している
 
 aerialは「空中に関する」広い意味で使われ、airborneは「空中に浮かんでいる」「空中を移動している」状態を強調します。
 
@@ -105,14 +109,14 @@ aerialは「空中に関する」広い意味で使われ、airborneは「空中
 
 ## 🧩 あわせて覚えたい
 
-- [terrestrial](/word/terrestrial/)：地上の、陸上の
-- [aviation](/word/aviation/)：航空、飛行
+- [terrestrial](/terrestrial)：地上の、陸上の
+- [aviation](/aviation)：航空、飛行
 
 ---
 
 ## 📖 できればこれも
 
-- [altitude](/word/altitude/)：高度
-- [satellite](/word/satellite/)：人工衛星
+- [altitude](/altitude)：高度
+- [satellite](/satellite)：人工衛星
 
-<!-- cvid: aid14_bid00 -->
+<!-- cvid: aid11_bid42 -->

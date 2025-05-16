@@ -81,15 +81,19 @@ TOEICでは、金融やビジネス文書の中で「利子」や「関心」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、金融やビジネス文書の中で「利子」や「関心」と
 ## 🤔  benefit との違いは？
 
 - **interest**：興味や関心、または金融の利子を指す
-- **[benefit](/word/benefit/)**：利益や恩恵、手当などを指す
+- **[benefit](/benefit)**：利益や恩恵、手当などを指す
 
 interestは「関心」や「お金の利子」に使い、benefitは「得られる良いこと」や「手当」に使います。
 
@@ -105,14 +109,14 @@ interestは「関心」や「お金の利子」に使い、benefitは「得ら�
 
 ## 🧩 あわせて覚えたい
 
-- [principal](/word/principal/)：元金、校長
-- [curiosity](/word/curiosity/)：好奇心
+- [principal](/principal)：元金、校長
+- [curiosity](/curiosity)：好奇心
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/word/profit/)：利益
-- [attention](/word/attention/)：注意、注目
+- [profit](/profit)：利益
+- [attention](/attention)：注意、注目
 
-<!-- cvid: aid21_bid30 -->
+<!-- cvid: aid16_bid02 -->

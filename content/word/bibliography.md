@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文読解で、学術的な記事やレポートの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid28_bid22" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid22" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文読解で、学術的な記事やレポートの
 ## 🤔  reference との違いは？
 
 - **bibliography**：文書の最後にまとめて記載する「参考文献一覧」や「文献目録」。
-- **[reference](/word/reference/)**：個々の「参照文献」や「引用元」、または「推薦状」など幅広い意味。
+- **[reference](/reference)**：個々の「参照文献」や「引用元」、または「推薦状」など幅広い意味。
 
 bibliographyは複数の文献を一覧で示す場合に使い、referenceは個々の文献や情報源を指す場合に使います。
 
@@ -105,14 +109,14 @@ bibliographyは複数の文献を一覧で示す場合に使い、referenceは�
 
 ## 🧩 あわせて覚えたい
 
-- [citation](/word/citation/)：引用、引用文
-- [footnote](/word/footnote/)：脚注
+- [citation](/citation)：引用、引用文
+- [footnote](/footnote)：脚注
 
 ---
 
 ## 📖 できればこれも
 
-- [manuscript](/word/manuscript/)：原稿、手書き文書
-- [journal](/word/journal/)：学術誌、日誌
+- [manuscript](/manuscript)：原稿、手書き文書
+- [journal](/journal)：学術誌、日誌
 
-<!-- cvid: aid21_bid23 -->
+<!-- cvid: aid28_bid22 -->

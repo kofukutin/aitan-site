@@ -81,15 +81,19 @@ blindはTOEICの語彙問題で、比喩的な意味（気づかない、無知�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ blindはTOEICの語彙問題で、比喩的な意味（気づかない、無知�
 ## 🤔  ignore との違いは？
 
 - **blind**：物理的・比喩的に「見えない」「気づかない」状態を表す
-- **[ignore](/word/ignore/)**：意図的に「無視する」「気づいてもあえて対応しない」ことを表す
+- **[ignore](/ignore)**：意図的に「無視する」「気づいてもあえて対応しない」ことを表す
 
 blindは「見えない・気づかない」状態で、意図は含みませんが、ignoreは「知っていて無視する」意図的な行動を指します。
 
@@ -105,14 +109,14 @@ blindは「見えない・気づかない」状態で、意図は含みません
 
 ## 🧩 あわせて覚えたい
 
-- [deaf](/word/deaf/)：耳が聞こえない
-- [overlook](/word/overlook/)：見落とす、見逃す
+- [deaf](/deaf)：耳が聞こえない
+- [overlook](/overlook)：見落とす、見逃す
 
 ---
 
 ## 📖 できればこれも
 
-- [silent](/word/silent/)：静かな、黙っている
-- [aware](/word/aware/)：気づいている
+- [silent](/silent)：静かな、黙っている
+- [aware](/aware)：気づいている
 
-<!-- cvid: aid34_bid30 -->
+<!-- cvid: aid24_bid05 -->

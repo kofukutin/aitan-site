@@ -81,15 +81,19 @@ TOEICでは「職務」「義務」「関税」などの意味で、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「職務」「義務」「関税」などの意味で、ビジネス
 ## 🤔  responsibility との違いは？
 
 - **duty**：社会的・職業的に課せられた義務や役割を強調
-- **[responsibility](/word/responsibility/)**：自分が引き受けるべき責任や担当範囲を強調
+- **[responsibility](/responsibility)**：自分が引き受けるべき責任や担当範囲を強調
 
 dutyは外部から与えられる「なすべきこと」、responsibilityは自分が担う「責任」のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ dutyは外部から与えられる「なすべきこと」、responsibilityは�
 
 ## 🧩 あわせて覚えたい
 
-- [obligation](/word/obligation/)：法的・道徳的な義務
-- [task](/word/task/)：具体的な作業・任務
+- [obligation](/obligation)：法的・道徳的な義務
+- [task](/task)：具体的な作業・任務
 
 ---
 
 ## 📖 できればこれも
 
-- [role](/word/role/)：役割
-- [function](/word/function/)：機能、役割
+- [role](/role)：役割
+- [function](/function)：機能、役割
 
-<!-- cvid: aid20_bid32 -->
+<!-- cvid: aid30_bid37 -->

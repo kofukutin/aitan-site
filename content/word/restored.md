@@ -81,15 +81,19 @@ TOEICでは、建物やデータ、サービスなどが「修復された」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建物やデータ、サービスなどが「修復された」「
 ## 🤔  repaired との違いは？
 
 - **restored**：元の状態や価値に「復元された」「修復された」
-- **[repaired](/word/repaired/)**：壊れた部分が「修理された」
+- **[repaired](/repaired)**：壊れた部分が「修理された」
 
 restoredは「元の姿や価値を取り戻す」ニュアンスが強く、美術品や歴史的建造物などに使われます。repairedは単に壊れた部分を直す場合に使います。
 
@@ -105,14 +109,14 @@ restoredは「元の姿や価値を取り戻す」ニュアンスが強く、美
 
 ## 🧩 あわせて覚えたい
 
-- [renovated](/word/renovated/)：改装された
-- [recover](/word/recover/)：回復する、取り戻す
+- [renovated](/renovated)：改装された
+- [recover](/recover)：回復する、取り戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/word/damaged/)：損傷した
-- [maintain](/word/maintain/)：維持する
+- [damaged](/damaged)：損傷した
+- [maintain](/maintain)：維持する
 
-<!-- cvid: aid19_bid08 -->
+<!-- cvid: aid33_bid40 -->

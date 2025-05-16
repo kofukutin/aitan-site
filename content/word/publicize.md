@@ -81,15 +81,19 @@ TOEICでは、広告やお知らせ、プレスリリースなどの文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、広告やお知らせ、プレスリリースなどの文脈でよ
 ## 🤔  announce との違いは？
 
 - **publicize**：広く一般に知らせる、宣伝する（特に多くの人に向けて積極的に広めるニュアンス）
-- **[announce](/word/announce/)**：公式に発表する（内容を伝えること自体が主目的）
+- **[announce](/announce)**：公式に発表する（内容を伝えること自体が主目的）
 
 publicizeは「広く知ってもらう」ことに重点があり、announceは「公式に発表する」ことに重点があります。
 
@@ -105,14 +109,14 @@ publicizeは「広く知ってもらう」ことに重点があり、announceは
 
 ## 🧩 あわせて覚えたい
 
-- [promote](/word/promote/)：促進する、宣伝する
-- [advertise](/word/advertise/)：広告する、宣伝する
+- [promote](/promote)：促進する、宣伝する
+- [advertise](/advertise)：広告する、宣伝する
 
 ---
 
 ## 📖 できればこれも
 
-- [inform](/word/inform/)：知らせる、通知する
-- [notify](/word/notify/)：正式に通知する
+- [inform](/inform)：知らせる、通知する
+- [notify](/notify)：正式に通知する
 
-<!-- cvid: aid13_bid34 -->
+<!-- cvid: aid22_bid32 -->

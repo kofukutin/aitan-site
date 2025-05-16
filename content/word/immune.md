@@ -81,15 +81,19 @@ TOEICでは医療や健康、ITセキュリティなどの説明文や記事で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康、ITセキュリティなどの説明文や記事で�
 ## 🤔  resistant との違いは？
 
 - **immune**：病気や影響などに「完全に免疫がある」「全く影響を受けない」状態を表す。
-- **[resistant](/word/resistant/)**：ある程度「抵抗力がある」「影響を受けにくい」状態を表す。
+- **[resistant](/resistant)**：ある程度「抵抗力がある」「影響を受けにくい」状態を表す。
 
 immuneは「完全に守られている」ニュアンスが強く、resistantは「ある程度耐性がある」場合に使います。
 
@@ -105,14 +109,14 @@ immuneは「完全に守られている」ニュアンスが強く、resistant�
 
 ## 🧩 あわせて覚えたい
 
-- [susceptible](/word/susceptible/)：影響を受けやすい、感染しやすい
-- [vaccine](/word/vaccine/)：ワクチン、予防接種
+- [susceptible](/susceptible)：影響を受けやすい、感染しやすい
+- [vaccine](/vaccine)：ワクチン、予防接種
 
 ---
 
 ## 📖 できればこれも
 
-- [infect](/word/infect/)：感染させる
-- [prevent](/word/prevent/)：防ぐ、予防する
+- [infect](/infect)：感染させる
+- [prevent](/prevent)：防ぐ、予防する
 
-<!-- cvid: aid28_bid24 -->
+<!-- cvid: aid34_bid17 -->

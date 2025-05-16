@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、テーブルの上の皿や食事シ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid22_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、テーブルの上の皿や食事シ
 ## 🤔  dish との違いは？
 
 - **plate**：食べ物を盛るための平たい皿そのものを指す。
-- **[dish](/word/dish/)**：皿そのものの意味もあるが、「料理」という意味でもよく使われる。
+- **[dish](/dish)**：皿そのものの意味もあるが、「料理」という意味でもよく使われる。
 
 plateは物理的な「皿」を指し、dishは「料理」や「一品」としても使われる点が異なります。
 
@@ -105,14 +109,14 @@ plateは物理的な「皿」を指し、dishは「料理」や「一品」と�
 
 ## 🧩 あわせて覚えたい
 
-- [bowl](/word/bowl/)：ボウル、深皿
-- [tray](/word/tray/)：お盆、トレー
+- [bowl](/bowl)：ボウル、深皿
+- [tray](/tray)：お盆、トレー
 
 ---
 
 ## 📖 できればこれも
 
-- [cup](/word/cup/)：カップ、茶わん
-- [glass](/word/glass/)：グラス、コップ
+- [cup](/cup)：カップ、茶わん
+- [glass](/glass)：グラス、コップ
 
-<!-- cvid: aid23_bid32 -->
+<!-- cvid: aid22_bid12 -->

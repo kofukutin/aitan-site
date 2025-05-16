@@ -81,15 +81,19 @@ Please tender your bid by the end of the week.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid19" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid19" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please tender your bid by the end of the week.
 ## 🤔  submit との違いは？
 
 - **tender**：フォーマルな場面で「正式に提出する」「申し出る」
-- **[submit](/word/submit/)**：一般的に「提出する」。フォーマル・カジュアル両方で使える
+- **[submit](/submit)**：一般的に「提出する」。フォーマル・カジュアル両方で使える
 
 tenderは特にビジネスや契約、入札などの公式な提出に使われ、submitはより広い場面で使えます。
 
@@ -105,14 +109,14 @@ tenderは特にビジネスや契約、入札などの公式な提出に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer/)：申し出る、提供する
-- [propose](/word/propose/)：提案する
+- [offer](/offer)：申し出る、提供する
+- [propose](/propose)：提案する
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [bid](/word/bid/)：入札、値をつける
+- [contract](/contract)：契約
+- [bid](/bid)：入札、値をつける
 
-<!-- cvid: aid14_bid28 -->
+<!-- cvid: aid39_bid19 -->

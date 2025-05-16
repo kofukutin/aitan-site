@@ -81,15 +81,19 @@ TOEICでは「決議」「決意」「解像度」など複数の意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「決議」「決意」「解像度」など複数の意味で出題
 ## 🤔  determination との違いは？
 
 - **resolution**：公式な決議や強い決意、または画像の解像度を表すフォーマルな語。
-- **[determination](/word/determination/)**：困難に負けない「意志の強さ」や「決断力」を表す語。
+- **[determination](/determination)**：困難に負けない「意志の強さ」や「決断力」を表す語。
 
 「resolution」は会議や公式な場面での「決議」や「決意」に使われやすく、「determination」は個人の内面的な「意志の強さ」に焦点が当たります。
 
@@ -105,14 +109,14 @@ TOEICでは「決議」「決意」「解像度」など複数の意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision/)：決定、判断
-- [solution](/word/solution/)：解決策
+- [decision](/decision)：決定、判断
+- [solution](/solution)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案
-- [commitment](/word/commitment/)：約束、献身
+- [proposal](/proposal)：提案
+- [commitment](/commitment)：約束、献身
 
-<!-- cvid: aid04_bid17 -->
+<!-- cvid: aid12_bid16 -->

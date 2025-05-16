@@ -81,15 +81,19 @@ TOEICでは「業務を実行する」「役割を果たす」などの意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「業務を実行する」「役割を果たす」などの意味で
 ## 🤔  execute との違いは？
 
 - **perform**：業務や作業、役割などを「実行する」「遂行する」意味で幅広く使う
-- **[execute](/word/execute/)**：計画や命令、プログラムなどを「厳密に実行する」「実施する」意味が強い
+- **[execute](/execute)**：計画や命令、プログラムなどを「厳密に実行する」「実施する」意味が強い
 
 performは日常的な業務や演技など幅広い「実行」に使い、executeは特に計画や命令を正確に実行する場面で使われます。
 
@@ -105,14 +109,14 @@ performは日常的な業務や演技など幅広い「実行」に使い、exec
 
 ## 🧩 あわせて覚えたい
 
-- [conduct](/word/conduct/)：（調査・業務などを）行う
-- [accomplish](/word/accomplish/)：成し遂げる、達成する
+- [conduct](/conduct)：（調査・業務などを）行う
+- [accomplish](/accomplish)：成し遂げる、達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [complete](/word/complete/)：完了する、仕上げる
-- [carry out](/word/carry_out/)：（計画などを）実行する
+- [complete](/complete)：完了する、仕上げる
+- [carry out](/carry_out)：（計画などを）実行する
 
-<!-- cvid: aid17_bid45 -->
+<!-- cvid: aid32_bid38 -->

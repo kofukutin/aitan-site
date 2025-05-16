@@ -81,15 +81,19 @@ TOEICではITやビジネス文脈で「記録された」「ログに残され�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文脈で「記録された」「ログに残され�
 ## 🤔  recorded との違いは？
 
 - **logged**：公式な記録やシステム上の記録を強調
-- **[recorded](/word/recorded/)**：音声・映像・出来事など幅広く「記録した」全般
+- **[recorded](/recorded)**：音声・映像・出来事など幅広く「記録した」全般
 
 **logged**は特にITや業務で「システムに記録した」ニュアンスが強く、**recorded**はより一般的な「記録した」という意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス文脈で「記録された」「ログに残され�
 
 ## 🧩 あわせて覚えたい
 
-- [register](/word/register/)：登録する、記録する
-- [track](/word/track/)：追跡する、記録をつける
+- [register](/register)：登録する、記録する
+- [track](/track)：追跡する、記録をつける
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [update](/word/update/)：更新する
+- [submit](/submit)：提出する
+- [update](/update)：更新する
 
-<!-- cvid: aid31_bid14 -->
+<!-- cvid: aid34_bid42 -->

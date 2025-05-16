@@ -81,15 +81,19 @@ TOEICでは説明文や技術的な文章で「ambient temperature（周囲温�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid06_bid45" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid45" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や技術的な文章で「ambient temperature（周囲温�
 ## 🤔  surrounding との違いは？
 
 - **ambient**：その場の環境全体に広がる、取り巻く（特に温度・光・音など）
-- **[surrounding](/word/surrounding/)**：周囲の、取り囲む（物理的に周りにあるもの）
+- **[surrounding](/surrounding)**：周囲の、取り囲む（物理的に周りにあるもの）
 
 ambientは「空間全体に広がる性質」を強調し、surroundingは「物理的に周囲に存在するもの」を指します。
 
@@ -105,14 +109,14 @@ ambientは「空間全体に広がる性質」を強調し、surroundingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [external](/word/external/)：外部の
-- [internal](/word/internal/)：内部の
+- [external](/external)：外部の
+- [internal](/internal)：内部の
 
 ---
 
 ## 📖 できればこれも
 
-- [atmosphere](/word/atmosphere/)：雰囲気、大気
-- [temperature](/word/temperature/)：温度
+- [atmosphere](/atmosphere)：雰囲気、大気
+- [temperature](/temperature)：温度
 
-<!-- cvid: aid15_bid19 -->
+<!-- cvid: aid06_bid45 -->

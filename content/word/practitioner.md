@@ -81,15 +81,19 @@ TOEICでは医療や法律、ビジネス分野の長文で「専門職従事者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や法律、ビジネス分野の長文で「専門職従事者
 ## 🤔  professional との違いは？
 
 - **practitioner**：特定分野で実際に活動している専門職従事者
-- **[professional](/word/professional/)**：専門的な職業に就いている人、またはプロ意識のある人
+- **[professional](/professional)**：専門的な職業に就いている人、またはプロ意識のある人
 
 practitionerは「実務に携わる人」に焦点があり、professionalは「専門性やプロ意識」に重きがあります。
 
@@ -105,14 +109,14 @@ practitionerは「実務に携わる人」に焦点があり、professionalは�
 
 ## 🧩 あわせて覚えたい
 
-- [specialist](/word/specialist/)：専門家
-- [amateur](/word/amateur/)：素人、アマチュア
+- [specialist](/specialist)：専門家
+- [amateur](/amateur)：素人、アマチュア
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/word/consultant/)：コンサルタント、相談役
-- [therapist](/word/therapist/)：セラピスト、療法士
+- [consultant](/consultant)：コンサルタント、相談役
+- [therapist](/therapist)：セラピスト、療法士
 
-<!-- cvid: aid37_bid09 -->
+<!-- cvid: aid22_bid34 -->

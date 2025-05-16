@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【brother】の意味・使い方・例文 ― siblingとの違い【TOEIC英単語】"
 description: "brotherの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsiblingとの違いもわかりやすく学べます。"
 word: "brother"
@@ -81,15 +81,19 @@ TOEICでは主に家族や人物を説明する写真描写問題で登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid19_bid33" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid33" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に家族や人物を説明する写真描写問題で登場しま
 ## 🤔  sibling との違いは？
 
 - **brother**：男性のきょうだい（兄または弟）を指す。
-- **[sibling](/word/sibling/)**：男女問わず「きょうだい全体」を指す。
+- **[sibling](/sibling)**：男女問わず「きょうだい全体」を指す。
 
 brotherは男性限定、siblingは性別を問わず使える点が大きな違いです。
 
@@ -105,14 +109,14 @@ brotherは男性限定、siblingは性別を問わず使える点が大きな違
 
 ## 🧩 あわせて覚えたい
 
-- [sister](/word/sister/)：姉、妹
-- [cousin](/word/cousin/)：いとこ
+- [sister](/sister)：姉、妹
+- [cousin](/cousin)：いとこ
 
 ---
 
 ## 📖 できればこれも
 
-- [parent](/word/parent/)：親
-- [uncle](/word/uncle/)：おじ
+- [parent](/parent)：親
+- [uncle](/uncle)：おじ
 
-<!-- cvid: aid39_bid18 -->
+<!-- cvid: aid19_bid33 -->

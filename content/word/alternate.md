@@ -81,15 +81,19 @@ TOEICでは、動詞として「交互に行う」「交代する」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞として「交互に行う」「交代する」という意
 ## 🤔  alternative との違いは？
 
 - **alternate**：交互に行う、交代する（動詞）／交互の（形容詞）
-- **[alternative](/word/alternative/)**：代わりの、代替の（名詞・形容詞）
+- **[alternative](/alternative)**：代わりの、代替の（名詞・形容詞）
 
 alternateは「順番に入れ替わる」動作や状態を指し、alternativeは「他に選べる選択肢」や「代替案」を意味します。
 
@@ -105,14 +109,14 @@ alternateは「順番に入れ替わる」動作や状態を指し、alternative
 
 ## 🧩 あわせて覚えたい
 
-- [substitute](/word/substitute/)：代わりをする、代理を務める
-- [rotate](/word/rotate/)：回転する、順番に担当する
+- [substitute](/substitute)：代わりをする、代理を務める
+- [rotate](/rotate)：回転する、順番に担当する
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/word/shift/)：交代、シフト
-- [replace](/word/replace/)：取り替える、交換する
+- [shift](/shift)：交代、シフト
+- [replace](/replace)：取り替える、交換する
 
-<!-- cvid: aid35_bid10 -->
+<!-- cvid: aid03_bid42 -->

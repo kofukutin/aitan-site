@@ -81,15 +81,19 @@ TOEICでは「一括」「一団」「ロット」など、製造やIT、業務�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「一括」「一団」「ロット」など、製造やIT、業務�
 ## 🤔  lot との違いは？
 
 - **batch**：同時にまとめて処理・生産される一団や一括
-- **[lot](/word/lot/)**：数量や区分に関係なく「多くのもの」「区画」「くじ」など幅広い意味
+- **[lot](/lot)**：数量や区分に関係なく「多くのもの」「区画」「くじ」など幅広い意味
 
 batchは「一度にまとめて扱う」ニュアンスが強く、lotは「量」や「区分」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ batchは「一度にまとめて扱う」ニュアンスが強く、lotは「量
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/word/shipment/)：出荷、発送
-- [series](/word/series/)：連続、シリーズ
+- [shipment](/shipment)：出荷、発送
+- [series](/series)：連続、シリーズ
 
 ---
 
 ## 📖 できればこれも
 
-- [item](/word/item/)：品目、項目
-- [package](/word/package/)：小包、パッケージ
+- [item](/item)：品目、項目
+- [package](/package)：小包、パッケージ
 
-<!-- cvid: aid39_bid00 -->
+<!-- cvid: aid11_bid10 -->

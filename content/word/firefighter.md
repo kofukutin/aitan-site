@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で、制服姿や現場の様子とともに登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で、制服姿や現場の様子とともに登
 ## 🤔  fireman との違いは？
 
 - **firefighter**：性別を問わず使える現代的な「消防士」
-- **[fireman](/word/fireman/)**：伝統的な表現で、男性消防士を指すことが多い
+- **[fireman](/fireman)**：伝統的な表現で、男性消防士を指すことが多い
 
 firefighterはジェンダーニュートラルな表現で、現代英語ではこちらが一般的です。firemanはやや古い表現です。
 
@@ -105,14 +109,14 @@ firefighterはジェンダーニュートラルな表現で、現代英語では
 
 ## 🧩 あわせて覚えたい
 
-- [police officer](/word/police_officer/)：警察官
-- [paramedic](/word/paramedic/)：救急救命士
+- [police officer](/police_officer)：警察官
+- [paramedic](/paramedic)：救急救命士
 
 ---
 
 ## 📖 できればこれも
 
-- [rescue](/word/rescue/)：救助する
-- [emergency](/word/emergency/)：緊急事態
+- [rescue](/rescue)：救助する
+- [emergency](/emergency)：緊急事態
 
-<!-- cvid: aid48_bid15 -->
+<!-- cvid: aid31_bid25 -->

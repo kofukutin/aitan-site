@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【weed】の意味・使い方・例文 ― grassとの違い【TOEIC英単語】"
 description: "weedの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでgrassとの違いもわかりやすく学べます。"
 word: "weed"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、庭や公園の場面で「雑草を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、庭や公園の場面で「雑草を
 ## 🤔  grass との違いは？
 
 - **weed**：望まれず自然に生えてくる「雑草」
-- **[grass](/word/grass/)**：芝生や牧草などの「草」、一般的に好まれる植物
+- **[grass](/grass)**：芝生や牧草などの「草」、一般的に好まれる植物
 
 weedは「抜きたい草」、grassは「育てたい草」というイメージで使い分けます。
 
@@ -105,14 +109,14 @@ weedは「抜きたい草」、grassは「育てたい草」というイメー�
 
 ## 🧩 あわせて覚えたい
 
-- [flower](/word/flower/)：花
-- [shrub](/word/shrub/)：低木
+- [flower](/flower)：花
+- [shrub](/shrub)：低木
 
 ---
 
 ## 📖 できればこれも
 
-- [soil](/word/soil/)：土
-- [plant](/word/plant/)：植物
+- [soil](/soil)：土
+- [plant](/plant)：植物
 
-<!-- cvid: aid43_bid46 -->
+<!-- cvid: aid10_bid42 -->

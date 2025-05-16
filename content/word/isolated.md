@@ -81,15 +81,19 @@ TOEICでは、部署やチーム、場所が「isolated」な状態であるこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、部署やチーム、場所が「isolated」な状態であるこ�
 ## 🤔  remote との違いは？
 
 - **isolated**：他から切り離されて孤立している状態を強調
-- **[remote](/word/remote/)**：物理的・心理的に「遠い」ことを強調
+- **[remote](/remote)**：物理的・心理的に「遠い」ことを強調
 
 isolatedは「孤立」や「分離」に焦点があり、remoteは「距離がある」ことに重点があります。
 
@@ -105,14 +109,14 @@ isolatedは「孤立」や「分離」に焦点があり、remoteは「距離が
 
 ## 🧩 あわせて覚えたい
 
-- [solitary](/word/solitary/)：ひとりぼっちの、孤独な
-- [connected](/word/connected/)：つながっている、接続された
+- [solitary](/solitary)：ひとりぼっちの、孤独な
+- [connected](/connected)：つながっている、接続された
 
 ---
 
 ## 📖 できればこれも
 
-- [independent](/word/independent/)：独立した、自立した
-- [separate](/word/separate/)：分かれた、別々の
+- [independent](/independent)：独立した、自立した
+- [separate](/separate)：分かれた、別々の
 
-<!-- cvid: aid45_bid07 -->
+<!-- cvid: aid14_bid49 -->

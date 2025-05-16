@@ -81,15 +81,19 @@ interruptは会議や電話、説明の途中で何かが割り込む場面で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ interruptは会議や電話、説明の途中で何かが割り込む場面で�
 ## 🤔  disturb との違いは？
 
 - **interrupt**：進行中の行動や会話を一時的に止める、割り込む
-- **[disturb](/word/disturb/)**：静けさや集中を乱す、気を散らす
+- **[disturb](/disturb)**：静けさや集中を乱す、気を散らす
 
 interruptは「流れを止める」イメージ、disturbは「気を散らす・乱す」イメージで、会話や作業の中断にはinterruptが適切です。
 
@@ -105,14 +109,14 @@ interruptは「流れを止める」イメージ、disturbは「気を散らす�
 
 ## 🧩 あわせて覚えたい
 
-- [resume](/word/resume/)：再開する
-- [pause](/word/pause/)：一時停止する
+- [resume](/resume)：再開する
+- [pause](/pause)：一時停止する
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay/)：遅らせる
-- [postpone](/word/postpone/)：延期する
+- [delay](/delay)：遅らせる
+- [postpone](/postpone)：延期する
 
-<!-- cvid: aid14_bid16 -->
+<!-- cvid: aid41_bid22 -->

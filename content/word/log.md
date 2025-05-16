@@ -81,15 +81,19 @@ ITやビジネスの文脈で「記録」「ログ」として出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの文脈で「記録」「ログ」として出題されるこ
 ## 🤔  record との違いは？
 
 - **log**：時系列で出来事やデータを記録したもの、特にITや航海などで使う
-- **[record](/word/record/)**：広く「記録」や「記録する」こと全般を指す
+- **[record](/record)**：広く「記録」や「記録する」こと全般を指す
 
 logは日々の出来事やデータを時系列で残すニュアンスが強く、recordは公式な記録や履歴全般に使われます。
 
@@ -105,14 +109,14 @@ logは日々の出来事やデータを時系列で残すニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [journal](/word/journal/)：日誌、日記
-- [entry](/word/entry/)：記入、記載
+- [journal](/journal)：日誌、日記
+- [entry](/entry)：記入、記載
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：メモ、覚え書き
-- [file](/word/file/)：ファイル、書類
+- [note](/note)：メモ、覚え書き
+- [file](/file)：ファイル、書類
 
-<!-- cvid: aid37_bid27 -->
+<!-- cvid: aid25_bid16 -->

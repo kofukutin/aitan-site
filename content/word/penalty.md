@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【penalty】の意味・使い方・例文 ― punishmentとの違い【TOEIC英単語】"
 description: "penaltyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpunishmentとの違いもわかりやすく学べます。"
 word: "penalty"
@@ -81,15 +81,19 @@ TOEICでは契約書や規則、ビジネス文書の中で「罰則」「違約
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や規則、ビジネス文書の中で「罰則」「違約
 ## 🤔  punishment との違いは？
 
 - **penalty**：規則や契約違反などに対する公式な罰や罰金
-- **[punishment](/word/punishment/)**：広く「罰」を指し、日常的な体罰や懲罰も含む
+- **[punishment](/punishment)**：広く「罰」を指し、日常的な体罰や懲罰も含む
 
 penaltyは「ルール違反に対する公式な罰」、punishmentは「広い意味での罰や懲罰」として使い分けます。
 
@@ -105,14 +109,14 @@ penaltyは「ルール違反に対する公式な罰」、punishmentは「広い
 
 ## 🧩 あわせて覚えたい
 
-- [fine](/word/fine/)：罰金
-- [reward](/word/reward/)：報酬、ご褒美
+- [fine](/fine)：罰金
+- [reward](/reward)：報酬、ご褒美
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [regulation](/word/regulation/)：規則
+- [contract](/contract)：契約
+- [regulation](/regulation)：規則
 
-<!-- cvid: aid19_bid17 -->
+<!-- cvid: aid13_bid09 -->

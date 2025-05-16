@@ -80,15 +80,19 @@ TOEICでは、形容詞の語彙問題や、状況描写の選択肢で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、形容詞の語彙問題や、状況描写の選択肢で出題さ
 ## 🤔  uncomfortable との違いは？
 
 - **unpleasant**：気分や雰囲気、出来事などが「不快」「いやな」と感じられるときに使う。
-- **[uncomfortable](/word/uncomfortable/)**：物理的・心理的に「居心地が悪い」「落ち着かない」状態を表す。
+- **[uncomfortable](/uncomfortable)**：物理的・心理的に「居心地が悪い」「落ち着かない」状態を表す。
 
 unpleasantは全体的な印象や感情に使い、uncomfortableは体の感覚や具体的な状況に使うことが多いです。
 
@@ -104,14 +108,14 @@ unpleasantは全体的な印象や感情に使い、uncomfortableは体の感覚
 
 ## 🧩 あわせて覚えたい
 
-- [pleasant](/word/pleasant/)：快い、心地よい
-- [awful](/word/awful/)：ひどい、ものすごく悪い
+- [pleasant](/pleasant)：快い、心地よい
+- [awful](/awful)：ひどい、ものすごく悪い
 
 ---
 
 ## 📖 できればこれも
 
-- [rude](/word/rude/)：失礼な
-- [annoying](/word/annoying/)：イライラさせる
+- [rude](/rude)：失礼な
+- [annoying](/annoying)：イライラさせる
 
-<!-- cvid: aid17_bid24 -->
+<!-- cvid: aid38_bid41 -->

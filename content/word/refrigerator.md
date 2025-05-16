@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写問題で、キッチンやオフィスの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写問題で、キッチンやオフィスの
 ## 🤔  fridge との違いは？
 
 - **refrigerator**：ややフォーマルで書き言葉やビジネスでも使われる「冷蔵庫」
-- **[fridge](/word/fridge/)**：カジュアルな会話でよく使われる「冷蔵庫」
+- **[fridge](/fridge)**：カジュアルな会話でよく使われる「冷蔵庫」
 
 refrigeratorは正式名称で、fridgeは日常会話でよく使う短縮形です。場面に応じて使い分けましょう。
 
@@ -106,14 +110,14 @@ refrigeratorは正式名称で、fridgeは日常会話でよく使う短縮形�
 
 ## 🧩 あわせて覚えたい
 
-- [freezer](/word/freezer/)：冷凍庫
-- [microwave](/word/microwave/)：電子レンジ
+- [freezer](/freezer)：冷凍庫
+- [microwave](/microwave)：電子レンジ
 
 ---
 
 ## 📖 できればこれも
 
-- [oven](/word/oven/)：オーブン
-- [dishwasher](/word/dishwasher/)：食器洗い機
+- [oven](/oven)：オーブン
+- [dishwasher](/dishwasher)：食器洗い機
 
-<!-- cvid: aid01_bid16 -->
+<!-- cvid: aid38_bid07 -->

@@ -81,15 +81,19 @@ TOEICでは会議やイベントの出席に関する会話や説明でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの出席に関する会話や説明でよく登
 ## 🤔  participating との違いは？
 
 - **attending**：その場に物理的に出席していることを強調
-- **[participating](/word/participating/)**：積極的に活動や議論に関わることを強調
+- **[participating](/participating)**：積極的に活動や議論に関わることを強調
 
 attendingは「その場にいる」こと、participatingは「積極的に関わる」ことに重点があります。
 
@@ -105,14 +109,14 @@ attendingは「その場にいる」こと、participatingは「積極的に関�
 
 ## 🧩 あわせて覚えたい
 
-- [join](/word/join/)：加わる、参加する
-- [absence](/word/absence/)：欠席、不在
+- [join](/join)：加わる、参加する
+- [absence](/absence)：欠席、不在
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [schedule](/word/schedule/)：予定する、スケジュールを立てる
+- [arrange](/arrange)：手配する、準備する
+- [schedule](/schedule)：予定する、スケジュールを立てる
 
-<!-- cvid: aid12_bid41 -->
+<!-- cvid: aid26_bid10 -->

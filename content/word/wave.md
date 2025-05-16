@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「手を振る」「波」などの動
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「手を振る」「波」などの動
 ## 🤔  swing との違いは？
 
 - **wave**：波や手を振る動作など、揺れ動くものや行為を指す。
-- **[swing](/word/swing/)**：前後・左右に振る、ブランコのように揺れる動作を指す。
+- **[swing](/swing)**：前後・左右に振る、ブランコのように揺れる動作を指す。
 
 「wave」は水や手などの"波状の動き"に使い、「swing」は"振り子やブランコのような往復運動"に使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で「手を振る」「波」などの動
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current/)：流れ、潮流
-- [gesture](/word/gesture/)：身振り、ジェスチャー
+- [current](/current)：流れ、潮流
+- [gesture](/gesture)：身振り、ジェスチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [wind](/word/wind/)：風
-- [move](/word/move/)：動く
+- [wind](/wind)：風
+- [move](/move)：動く
 
-<!-- cvid: aid36_bid23 -->
+<!-- cvid: aid11_bid21 -->

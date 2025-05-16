@@ -81,15 +81,19 @@ TOEICでは、学校や研修、語学教室などの案内文やメールで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、学校や研修、語学教室などの案内文やメールで「
 ## 🤔  class との違いは？
 
 - **lesson**：1回ごとの授業や学習単位、または教訓を指す
-- **[class](/word/class/)**：学校の「授業」や「クラス（集団）」全体を指す
+- **[class](/class)**：学校の「授業」や「クラス（集団）」全体を指す
 
 lessonは「1コマの授業」や「教訓」に使い、classは「科目の授業」や「クラス全体」を表します。
 
@@ -105,13 +109,13 @@ lessonは「1コマの授業」や「教訓」に使い、classは「科目の�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture/)：（大学などの）講義
-- [tutorial](/word/tutorial/)：個別指導、チュートリアル
+- [lecture](/lecture)：（大学などの）講義
+- [tutorial](/tutorial)：個別指導、チュートリアル
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject/)：科目、主題
-- [chapter](/word/chapter/)：章、区切り
-<!-- cvid: aid32_bid22 -->
+- [subject](/subject)：科目、主題
+- [chapter](/chapter)：章、区切り
+<!-- cvid: aid17_bid16 -->

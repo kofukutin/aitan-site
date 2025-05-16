@@ -81,15 +81,19 @@ TOEICでは、感情や状態を表す形容詞の選択肢として出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、感情や状態を表す形容詞の選択肢として出題され
 ## 🤔  sad との違いは？
 
 - **unhappy**：不満や満足していない気持ちも含む広い「幸せでない」状態
-- **[sad](/word/sad/)**：主に「悲しい」という感情にフォーカス
+- **[sad](/sad)**：主に「悲しい」という感情にフォーカス
 
 unhappyは「不満」「落ち込んでいる」など幅広い否定的な気持ちを表し、sadは「悲しみ」に特化しています。
 
@@ -105,14 +109,14 @@ unhappyは「不満」「落ち込んでいる」など幅広い否定的な気�
 
 ## 🧩 あわせて覚えたい
 
-- [dissatisfied](/word/dissatisfied/)：不満な
-- [depressed](/word/depressed/)：落ち込んだ、憂うつな
+- [dissatisfied](/dissatisfied)：不満な
+- [depressed](/depressed)：落ち込んだ、憂うつな
 
 ---
 
 ## 📖 できればこれも
 
-- [happy](/word/happy/)：幸せな
-- [upset](/word/upset/)：動揺した、気が動転した
+- [happy](/happy)：幸せな
+- [upset](/upset)：動揺した、気が動転した
 
-<!-- cvid: aid37_bid13 -->
+<!-- cvid: aid19_bid28 -->

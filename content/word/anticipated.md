@@ -81,15 +81,19 @@ TOEICのPart 7で、イベントや結果、商品などが「anticipated」と�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で、イベントや結果、商品などが「anticipated」と�
 ## 🤔  expected との違いは？
 
 - **anticipated**：事前に強く期待・予想されている（ややフォーマル）
-- **[expected](/word/expected/)**：一般的に予想されている（より幅広く使える）
+- **[expected](/expected)**：一般的に予想されている（より幅広く使える）
 
 「anticipated」は「期待感」や「待ち望む」ニュアンスが強く、公式な場面で使われやすいのに対し、「expected」は単に「予想される」という意味で日常的にも幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICのPart 7で、イベントや結果、商品などが「anticipated」と�
 
 ## 🧩 あわせて覚えたい
 
-- [predict](/word/predict/)：予測する
-- [unexpected](/word/unexpected/)：予想外の
+- [predict](/predict)：予測する
+- [unexpected](/unexpected)：予想外の
 
 ---
 
 ## 📖 できればこれも
 
-- [scheduled](/word/scheduled/)：予定された
-- [planned](/word/planned/)：計画された
+- [scheduled](/scheduled)：予定された
+- [planned](/planned)：計画された
 
-<!-- cvid: aid25_bid41 -->
+<!-- cvid: aid23_bid23 -->

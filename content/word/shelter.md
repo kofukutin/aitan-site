@@ -82,7 +82,7 @@ TOEICでは災害や社会問題、動物保護などの記事や案内文で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+このタイミングを逃さずに👇️
 
 ---
 
@@ -90,7 +90,11 @@ TOEICでは災害や社会問題、動物保護などの記事や案内文で出
 
 <div class="info-center">
 ＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは災害や社会問題、動物保護などの記事や案内文で出
 ## 🤔  refuge との違いは？
 
 - **shelter**：物理的な「避難所」や「保護」を幅広く指す
-- **[refuge](/word/refuge/)**：危険や困難から逃れる「安全な場所」や「心の拠り所」
+- **[refuge](/refuge)**：危険や困難から逃れる「安全な場所」や「心の拠り所」
 
 shelterは実際の建物や場所を指すことが多く、refugeは精神的な安心や逃げ場の意味合いが強いです。
 
@@ -106,14 +110,14 @@ shelterは実際の建物や場所を指すことが多く、refugeは精神的�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection/)：保護、防御
-- [cover](/word/cover/)：覆い、カバー
+- [protection](/protection)：保護、防御
+- [cover](/cover)：覆い、カバー
 
 ---
 
 ## 📖 できればこれも
 
-- [safety](/word/safety/)：安全
-- [rescue](/word/rescue/)：救助
+- [safety](/safety)：安全
+- [rescue](/rescue)：救助
 
-<!-- cvid: aid01_bid06 -->
+<!-- cvid: aid09_bid06 -->

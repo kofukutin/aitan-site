@@ -82,15 +82,19 @@ TOEICではイベントや余暇、観光に関する会話で「dance」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではイベントや余暇、観光に関する会話で「dance」が登�
 ## 🤔  perform との違いは？
 
 - **dance**：音楽に合わせて体を動かして踊ること。
-- **[perform](/word/perform/)**：踊りだけでなく、歌や演技など広い意味で「演じる」「披露する」。
+- **[perform](/perform)**：踊りだけでなく、歌や演技など広い意味で「演じる」「披露する」。
 
 danceは「踊る」ことに特化し、performは舞台でのあらゆるパフォーマンス全般に使われます。
 
@@ -106,14 +110,14 @@ danceは「踊る」ことに特化し、performは舞台でのあらゆるパ�
 
 ## 🧩 あわせて覚えたい
 
-- [sing](/word/sing/)：歌う
-- [move](/word/move/)：動く
+- [sing](/sing)：歌う
+- [move](/move)：動く
 
 ---
 
 ## 📖 できればこれも
 
-- [play](/word/play/)：遊ぶ、演奏する
-- [enjoy](/word/enjoy/)：楽しむ
+- [play](/play)：遊ぶ、演奏する
+- [enjoy](/enjoy)：楽しむ
 
-<!-- cvid: aid27_bid29 -->
+<!-- cvid: aid12_bid42 -->

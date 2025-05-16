@@ -81,15 +81,19 @@ TOEICでは、記事やメール文中でことわざや格言を引用する場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やメール文中でことわざや格言を引用する場
 ## 🤔  proverb との違いは？
 
 - **saying**：一般的なことわざや短い教訓的なフレーズ全般を指す
-- **[proverb](/word/proverb/)**：より伝統的で古くから使われている正式なことわざ
+- **[proverb](/proverb)**：より伝統的で古くから使われている正式なことわざ
 
 sayingは日常的な表現も含みますが、proverbはより格式ばった伝統的なことわざを指します。
 
@@ -105,14 +109,14 @@ sayingは日常的な表現も含みますが、proverbはより格式ばった�
 
 ## 🧩 あわせて覚えたい
 
-- [idiom](/word/idiom/)：慣用句、イディオム
-- [maxim](/word/maxim/)：格言、処世訓
+- [idiom](/idiom)：慣用句、イディオム
+- [maxim](/maxim)：格言、処世訓
 
 ---
 
 ## 📖 できればこれも
 
-- [phrase](/word/phrase/)：句、言い回し
-- [expression](/word/expression/)：表現、言い回し
+- [phrase](/phrase)：句、言い回し
+- [expression](/expression)：表現、言い回し
 
-<!-- cvid: aid41_bid19 -->
+<!-- cvid: aid34_bid02 -->

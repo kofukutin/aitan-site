@@ -81,15 +81,19 @@ TOEICでは、ITやビジネスの文脈で「統合する」「組み込む」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやビジネスの文脈で「統合する」「組み込む」�
 ## 🤔  combining との違いは？
 
 - **integrating**：異なるものを一つの全体として機能させるように統合する
-- **[combining](/word/combining/)**：単に複数のものを一緒にする、混ぜ合わせる
+- **[combining](/combining)**：単に複数のものを一緒にする、混ぜ合わせる
 
 integratingは「全体の一部としてしっかり組み込む」ニュアンスがあり、combiningは「混ぜる・合わせる」程度の意味で使われます。
 
@@ -105,14 +109,14 @@ integratingは「全体の一部としてしっかり組み込む」ニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/word/merge/)：合併する、融合する
-- [incorporate](/word/incorporate/)：取り入れる、組み入れる
+- [merge](/merge)：合併する、融合する
+- [incorporate](/incorporate)：取り入れる、組み入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement/)：実行する、導入する
-- [coordinate](/word/coordinate/)：調整する、連携する
+- [implement](/implement)：実行する、導入する
+- [coordinate](/coordinate)：調整する、連携する
 
-<!-- cvid: aid27_bid27 -->
+<!-- cvid: aid15_bid18 -->

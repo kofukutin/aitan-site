@@ -81,15 +81,19 @@ TOEICでは「skill level（スキルレベル）」や「service level（サー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「skill level（スキルレベル）」や「service level（サー
 ## 🤔  grade との違いは？
 
 - **level**：能力や進捗などの「水準」「段階」を幅広く表す
-- **[grade](/word/grade/)**：主に「成績」「評価点」など、点数や評価の意味が強い
+- **[grade](/grade)**：主に「成績」「評価点」など、点数や評価の意味が強い
 
 「level」は能力や進行度の段階を示し、「grade」はテストや評価の点数・成績を指す場面で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは「skill level（スキルレベル）」や「service level（サー
 
 ## 🧩 あわせて覚えたい
 
-- [stage](/word/stage/)：段階、ステージ
-- [rank](/word/rank/)：順位、階級
+- [stage](/stage)：段階、ステージ
+- [rank](/rank)：順位、階級
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/word/amount/)：量、総額
-- [standard](/word/standard/)：基準、標準
+- [amount](/amount)：量、総額
+- [standard](/standard)：基準、標準
 
-<!-- cvid: aid32_bid03 -->
+<!-- cvid: aid41_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは、書類や申請、手続きに関する文脈で「approved」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類や申請、手続きに関する文脈で「approved」が�
 ## 🤔  authorized との違いは？
 
 - **approved**：正式に承認された、認可された
-- **[authorized](/word/authorized/)**：権限を与えられた、公式に許可された
+- **[authorized](/authorized)**：権限を与えられた、公式に許可された
 
 「approved」は主に申請や計画が認められた状態を指し、「authorized」は人や行為に対して権限や許可が与えられている点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは、書類や申請、手続きに関する文脈で「approved」が�
 
 ## 🧩 あわせて覚えたい
 
-- [rejected](/word/rejected/)：却下された
-- [confirmed](/word/confirmed/)：確認された
+- [rejected](/rejected)：却下された
+- [confirmed](/confirmed)：確認された
 
 ---
 
 ## 📖 できればこれも
 
-- [pending](/word/pending/)：保留中の
-- [valid](/word/valid/)：有効な
+- [pending](/pending)：保留中の
+- [valid](/valid)：有効な
 
-<!-- cvid: aid24_bid05 -->
+<!-- cvid: aid06_bid01 -->

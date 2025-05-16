@@ -81,15 +81,19 @@ TOEICでは、主に形容詞の語彙問題や文脈判断で出題されます
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主に形容詞の語彙問題や文脈判断で出題されます
 ## 🤔  enthusiastic との違いは？
 
 - **eager**：何かを強く望んでいる、待ちきれない気持ち
-- **[enthusiastic](/word/enthusiastic/)**：熱意や情熱をもって積極的に取り組む様子
+- **[enthusiastic](/enthusiastic)**：熱意や情熱をもって積極的に取り組む様子
 
 eagerは「これから何かをしたい」という期待感、enthusiasticは「すでに熱心に取り組んでいる」積極性の違いがあります。
 
@@ -105,15 +109,15 @@ eagerは「これから何かをしたい」という期待感、enthusiasticは
 
 ## 🧩 あわせて覚えたい
 
-- [reluctant](/word/reluctant/)：気が進まない、しぶしぶの（対義語）
-- [keen](/word/keen/)：熱心な、～したがっている（類義語）
+- [reluctant](/reluctant)：気が進まない、しぶしぶの（対義語）
+- [keen](/keen)：熱心な、～したがっている（類義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [willing](/word/willing/)：進んで～する気がある
-- [anxious](/word/anxious/)：～したがっている、不安な
+- [willing](/willing)：進んで～する気がある
+- [anxious](/anxious)：～したがっている、不安な
 
 
-<!-- cvid: aid26_bid10 -->
+<!-- cvid: aid18_bid32 -->

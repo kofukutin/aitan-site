@@ -77,15 +77,19 @@ TOEICでは、会話や案内文で「まもなく」「すぐに」といった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid00" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid00" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、会話や案内文で「まもなく」「すぐに」といった
 ## 🤔  shortly との違いは？
 
 - **soon**：今からあまり時間が経たないうちに、まもなく
-- **[shortly](/word/shortly/)**：非常に短い時間の後、間もなく（ややフォーマル）
+- **[shortly](/shortly)**：非常に短い時間の後、間もなく（ややフォーマル）
 
 「soon」は日常的で幅広い場面に使えますが、「shortly」はビジネスやフォーマルな場面で「間もなく」を強調したいときに使われます。
 
@@ -101,14 +105,14 @@ TOEICでは、会話や案内文で「まもなく」「すぐに」といった
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately/)：すぐに、即座に
-- [later](/word/later/)：あとで、のちほど
+- [immediately](/immediately)：すぐに、即座に
+- [later](/later)：あとで、のちほど
 
 ---
 
 ## 📖 できればこれも
 
-- [early](/word/early/)：早く、早い
-- [quickly](/word/quickly/)：素早く、速やかに
+- [early](/early)：早く、早い
+- [quickly](/quickly)：素早く、速やかに
 
-<!-- cvid: aid07_bid43 -->
+<!-- cvid: aid46_bid00 -->

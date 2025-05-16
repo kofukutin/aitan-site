@@ -82,15 +82,19 @@ TOEICでは、商品やサービスを「個人向けにする」文脈でPart 6
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、商品やサービスを「個人向けにする」文脈でPart 6
 ## 🤔  customize との違いは？
 
 - **personalize**：個人の好みや特徴に合わせて特別仕様にする
-- **[customize](/word/customize/)**：特定の目的や要望に合わせて仕様を変更する
+- **[customize](/customize)**：特定の目的や要望に合わせて仕様を変更する
 
 personalizeは「個人」に焦点があり、customizeは「目的や用途」に合わせて調整する点が異なります。
 
@@ -106,14 +110,14 @@ personalizeは「個人」に焦点があり、customizeは「目的や用途」
 
 ## 🧩 あわせて覚えたい
 
-- [individualize](/word/individualize/)：個別化する
-- [standardize](/word/standardize/)：標準化する
+- [individualize](/individualize)：個別化する
+- [standardize](/standardize)：標準化する
 
 ---
 
 ## 📖 できればこれも
 
-- [modify](/word/modify/)：修正する、変更する
-- [adjust](/word/adjust/)：調整する
+- [modify](/modify)：修正する、変更する
+- [adjust](/adjust)：調整する
 
-<!-- cvid: aid02_bid41 -->
+<!-- cvid: aid15_bid35 -->

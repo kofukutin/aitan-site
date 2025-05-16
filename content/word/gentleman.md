@@ -80,15 +80,19 @@ TOEICでは、受付や案内、会議などの会話文で、丁寧に男性を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、受付や案内、会議などの会話文で、丁寧に男性を
 ## 🤔  man との違いは？
 
 - **gentleman**：礼儀正しく上品な男性、または丁寧な呼び方
-- **[man](/word/man/)**：一般的な「男性」、特にフォーマルさや礼儀正しさは含まない
+- **[man](/man)**：一般的な「男性」、特にフォーマルさや礼儀正しさは含まない
 
 gentlemanはフォーマルな場や丁寧な表現で使われ、manは日常的で広い意味の男性を指します。
 
@@ -104,14 +108,14 @@ gentlemanはフォーマルな場や丁寧な表現で使われ、manは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [lady](/word/lady/)：淑女、上品な女性
-- [sir](/word/sir/)：男性への丁寧な呼びかけ
+- [lady](/lady)：淑女、上品な女性
+- [sir](/sir)：男性への丁寧な呼びかけ
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer/)：顧客
-- [guest](/word/guest/)：客、来賓
+- [customer](/customer)：顧客
+- [guest](/guest)：客、来賓
 
-<!-- cvid: aid34_bid04 -->
+<!-- cvid: aid22_bid46 -->

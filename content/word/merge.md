@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やニュース記事の中で、企業の合
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やニュース記事の中で、企業の合
 ## 🤔  combine との違いは？
 
 - **merge**：2つ以上のものが一体化して区別がつかなくなるイメージ
-- **[combine](/word/combine/)**：複数のものを単に一緒にする、混ぜ合わせるイメージ
+- **[combine](/combine)**：複数のものを単に一緒にする、混ぜ合わせるイメージ
 
 mergeは「完全に一つになる」ニュアンスが強く、combineは「一緒にする」程度の幅広い使い方ができます。
 
@@ -105,14 +109,14 @@ mergeは「完全に一つになる」ニュアンスが強く、combineは「�
 
 ## 🧩 あわせて覚えたい
 
-- [integrate](/word/integrate/)：統合する、組み入れる
-- [separate](/word/separate/)：分ける、分離する
+- [integrate](/integrate)：統合する、組み入れる
+- [separate](/separate)：分ける、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire/)：獲得する、買収する
-- [unite](/word/unite/)：団結する、結合する
+- [acquire](/acquire)：獲得する、買収する
+- [unite](/unite)：団結する、結合する
 
-<!-- cvid: aid04_bid46 -->
+<!-- cvid: aid31_bid13 -->

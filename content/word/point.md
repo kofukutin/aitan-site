@@ -81,15 +81,19 @@ TOEICでは会議や議論、説明の中で「要点」「論点」として頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や議論、説明の中で「要点」「論点」として頻
 ## 🤔  tip との違いは？
 
 - **point**：話や議論の「要点」「論点」「重要な部分」を指す
-- **[tip](/word/tip/)**：実用的な「コツ」「アドバイス」「ヒント」を指す
+- **[tip](/tip)**：実用的な「コツ」「アドバイス」「ヒント」を指す
 
 「point」は議論や説明の中心となる内容、「tip」は役立つちょっとしたアドバイスや方法を表します。
 
@@ -105,14 +109,14 @@ TOEICでは会議や議論、説明の中で「要点」「論点」として頻
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/word/issue/)：問題点、論点
-- [aspect](/word/aspect/)：側面、観点
+- [issue](/issue)：問題点、論点
+- [aspect](/aspect)：側面、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/word/topic/)：話題、テーマ
-- [detail](/word/detail/)：詳細、細部
+- [topic](/topic)：話題、テーマ
+- [detail](/detail)：詳細、細部
 
-<!-- cvid: aid05_bid30 -->
+<!-- cvid: aid41_bid25 -->

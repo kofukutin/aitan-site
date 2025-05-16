@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【wearing】の意味・使い方・例文 ― putting onとの違い【TOEIC英単語】"
 description: "wearingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでputting onとの違いもわかりやすく学べます。"
 word: "wearing"
@@ -81,15 +81,19 @@ TOEICの写真描写問題で「着ている」「身につけている」状態
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの写真描写問題で「着ている」「身につけている」状態
 ## 🤔  putting on との違いは？
 
 - **wearing**：すでに身につけている状態を表す
-- **[putting on](/word/putting_on/)**：今まさに身につける動作をしている
+- **[putting on](/putting_on)**：今まさに身につける動作をしている
 
 「wearing」は「着ている」状態、「putting on」は「今着ている最中」という動作の違いがあります。
 
@@ -105,14 +109,14 @@ TOEICの写真描写問題で「着ている」「身につけている」状態
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り外す、外す
-- [carry](/word/carry/)：運ぶ、持ち運ぶ
+- [remove](/remove)：取り外す、外す
+- [carry](/carry)：運ぶ、持ち運ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold/)：持つ、握る
-- [bring](/word/bring/)：持ってくる
+- [hold](/hold)：持つ、握る
+- [bring](/bring)：持ってくる
 
-<!-- cvid: aid19_bid22 -->
+<!-- cvid: aid37_bid08 -->

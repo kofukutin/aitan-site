@@ -81,15 +81,19 @@ TOEICでは「安定した経済」「安定した成長」など、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「安定した経済」「安定した成長」など、ビジネス
 ## 🤔  steady との違いは？
 
 - **stable**：外部からの影響を受けず、変化が少なく安定している状態
-- **[steady](/word/steady/)**：着実で途切れず、一定のペースやリズムで続く状態
+- **[steady](/steady)**：着実で途切れず、一定のペースやリズムで続く状態
 
 stableは「揺るがない」「変わらない」ことに重点があり、steadyは「継続性」や「一貫性」に重点があります。
 
@@ -105,14 +109,14 @@ stableは「揺るがない」「変わらない」ことに重点があり、st
 
 ## 🧩 あわせて覚えたい
 
-- [secure](/word/secure/)：安全な、しっかりした
-- [volatile](/word/volatile/)：不安定な、変わりやすい
+- [secure](/secure)：安全な、しっかりした
+- [volatile](/volatile)：不安定な、変わりやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [consistent](/word/consistent/)：一貫した
+- [reliable](/reliable)：信頼できる
+- [consistent](/consistent)：一貫した
 
-<!-- cvid: aid17_bid45 -->
+<!-- cvid: aid12_bid46 -->

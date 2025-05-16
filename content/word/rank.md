@@ -81,15 +81,19 @@ TOEICでは「rank」は人や物の順位や地位を表す文脈でよく出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「rank」は人や物の順位や地位を表す文脈でよく出�
 ## 🤔  grade との違いは？
 
 - **rank**：順位や序列、地位を表す
-- **[grade](/word/grade/)**：成績や等級、品質のレベルを表す
+- **[grade](/grade)**：成績や等級、品質のレベルを表す
 
 「rank」は順位や序列、「grade」は評価や等級の意味で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは「rank」は人や物の順位や地位を表す文脈でよく出�
 
 ## 🧩 あわせて覚えたい
 
-- [position](/word/position/)：位置、役職
-- [status](/word/status/)：社会的地位、身分
+- [position](/position)：位置、役職
+- [status](/status)：社会的地位、身分
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/word/level/)：レベル、段階
-- [score](/word/score/)：得点、スコア
+- [level](/level)：レベル、段階
+- [score](/score)：得点、スコア
 
-<!-- cvid: aid12_bid43 -->
+<!-- cvid: aid30_bid22 -->

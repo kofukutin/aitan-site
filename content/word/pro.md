@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「プロとして」「専門家として」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「プロとして」「専門家として」な
 ## 🤔  expert との違いは？
 
 - **pro**：職業として行うプロ、実務経験が豊富な人
-- **[expert](/word/expert/)**：専門知識や技術に非常に長けた人
+- **[expert](/expert)**：専門知識や技術に非常に長けた人
 
 「pro」は実際に職業として活動している人を指すことが多く、「expert」は知識や技術の高さを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「プロとして」「専門家として」な
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/word/amateur/)：アマチュア、素人
-- [specialist](/word/specialist/)：専門家、スペシャリスト
+- [amateur](/amateur)：アマチュア、素人
+- [specialist](/specialist)：専門家、スペシャリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [con](/word/con/)：短所、欠点
-- [rookie](/word/rookie/)：新人、ルーキー
+- [con](/con)：短所、欠点
+- [rookie](/rookie)：新人、ルーキー
 
-<!-- cvid: aid42_bid19 -->
+<!-- cvid: aid12_bid36 -->

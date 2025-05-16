@@ -88,8 +88,12 @@ associationは、TOEICの長文読解パートで「協会」や「団体」の�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ associationは、TOEICの長文読解パートで「協会」や「団体」の�
 ## 🤔  organization との違いは？
 
 - **association**：共通の目的や関心で集まった人々の団体や協会
-- **[organization](/word/organization/)**：組織全般（会社・団体など広い意味）
+- **[organization](/organization)**：組織全般（会社・団体など広い意味）
 
 associationは特定の目的や活動のための団体に使われ、organizationは会社や非営利団体など幅広い組織全般に使われます。
 
@@ -105,14 +109,14 @@ associationは特定の目的や活動のための団体に使われ、organizat
 
 ## 🧩 あわせて覚えたい
 
-- [union](/word/union/)：労働組合、連合
-- [committee](/word/committee/)：委員会
+- [union](/union)：労働組合、連合
+- [committee](/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議、協議会
-- [membership](/word/membership/)：会員資格、会員数
+- [conference](/conference)：会議、協議会
+- [membership](/membership)：会員資格、会員数
 
-<!-- cvid: aid20_bid04 -->
+<!-- cvid: aid20_bid36 -->

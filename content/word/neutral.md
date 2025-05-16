@@ -81,15 +81,19 @@ neutralは、TOEICの長文読解パートで「中立的な立場」や「偏�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ neutralは、TOEICの長文読解パートで「中立的な立場」や「偏�
 ## 🤔  impartial との違いは？
 
 - **neutral**：どちらの側にも立たず、感情や立場を持たないこと
-- **[impartial](/word/impartial/)**：公平で偏りがなく、どちらにも味方しないこと
+- **[impartial](/impartial)**：公平で偏りがなく、どちらにも味方しないこと
 
 neutralは「立場を持たない」ことに重点があり、impartialは「判断や扱いが公平である」ことに重点があります。
 
@@ -105,14 +109,14 @@ neutralは「立場を持たない」ことに重点があり、impartialは「�
 
 ## 🧩 あわせて覚えたい
 
-- [biased](/word/biased/)：偏った
-- [objective](/word/objective/)：客観的な
+- [biased](/biased)：偏った
+- [objective](/objective)：客観的な
 
 ---
 
 ## 📖 できればこれも
 
-- [fair](/word/fair/)：公平な
-- [unbiased](/word/unbiased/)：偏りのない
+- [fair](/fair)：公平な
+- [unbiased](/unbiased)：偏りのない
 
-<!-- cvid: aid29_bid04 -->
+<!-- cvid: aid07_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは、受動的な意味を持つ形容詞として、文法問題や説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動的な意味を持つ形容詞として、文法問題や説
 ## 🤔  regulated との違いは？
 
 - **controlled**：意図的に管理・制御されている状態を広く表す
-- **[regulated](/word/regulated/)**：法律やルールなどによって厳しく規制されている状態
+- **[regulated](/regulated)**：法律やルールなどによって厳しく規制されている状態
 
 controlledは一般的な管理や制御を指し、regulatedは特に外部の規則や法律による厳格な規制を強調します。
 
@@ -105,14 +109,14 @@ controlledは一般的な管理や制御を指し、regulatedは特に外部の�
 
 ## 🧩 あわせて覚えたい
 
-- [supervised](/word/supervised/)：監督された
-- [monitored](/word/monitored/)：監視された
+- [supervised](/supervised)：監督された
+- [monitored](/monitored)：監視された
 
 ---
 
 ## 📖 できればこれも
 
-- [limited](/word/limited/)：制限された
-- [organized](/word/organized/)：整理された
+- [limited](/limited)：制限された
+- [organized](/organized)：整理された
 
-<!-- cvid: aid25_bid40 -->
+<!-- cvid: aid49_bid14 -->

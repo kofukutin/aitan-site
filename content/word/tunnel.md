@@ -81,15 +81,19 @@ tunnelは交通やインフラに関する会話や説明文で登場するこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tunnelは交通やインフラに関する会話や説明文で登場するこ�
 ## 🤔  passage との違いは？
 
 - **tunnel**：山や地下などを掘って作られた通路や道
-- **[passage](/word/passage/)**：建物や空間内の通路、または文章の一節
+- **[passage](/passage)**：建物や空間内の通路、または文章の一節
 
 tunnelは物理的に掘られた道を指し、passageは建物内の廊下や文章の一部など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ tunnelは物理的に掘られた道を指し、passageは建物内の廊下や�
 
 ## 🧩 あわせて覚えたい
 
-- [bridge](/word/bridge/)：橋
-- [route](/word/route/)：道、経路
+- [bridge](/bridge)：橋
+- [route](/route)：道、経路
 
 ---
 
 ## 📖 できればこれも
 
-- [road](/word/road/)：道路
-- [station](/word/station/)：駅
+- [road](/road)：道路
+- [station](/station)：駅
 
-<!-- cvid: aid30_bid10 -->
+<!-- cvid: aid26_bid38 -->

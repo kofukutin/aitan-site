@@ -81,7 +81,7 @@ TOEICでは「be issued」や「issued by」など受動態や過去分詞とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは「be issued」や「issued by」など受動態や過去分詞とし
 
 <div class="info-center">
 ＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be issued」や「issued by」など受動態や過去分詞とし
 ## 🤔  published との違いは？
 
 - **issued**：公式に発行・配布されることを強調
-- **[published](/word/published/)**：本や記事などを公に出版・公開すること
+- **[published](/published)**：本や記事などを公に出版・公開すること
 
 issuedは公式な書類や命令、証明書などの「発行」に使われ、publishedは本や雑誌、記事など「出版・公開」に使われます。
 
@@ -105,14 +109,14 @@ issuedは公式な書類や命令、証明書などの「発行」に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/word/distribute/)：配布する
-- [grant](/word/grant/)：許可・権利などを与える
+- [distribute](/distribute)：配布する
+- [grant](/grant)：許可・権利などを与える
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [submit](/word/submit/)：提出する
+- [approve](/approve)：承認する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid34_bid49 -->
+<!-- cvid: aid13_bid49 -->

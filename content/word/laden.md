@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や説明文で、比喩的・抽象的な表現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や説明文で、比喩的・抽象的な表現
 ## 🤔  loaded との違いは？
 
 - **laden**：ややフォーマルで、物理的・感情的に「重く満ちている」ニュアンスが強い
-- **[loaded](/word/loaded/)**：より一般的で、単に「積まれている」「満載の」という意味
+- **[loaded](/loaded)**：より一般的で、単に「積まれている」「満載の」という意味
 
 ladenは詩的・比喩的な表現やフォーマルな文脈で使われやすく、loadedは日常的・カジュアルな場面でもよく使われます。
 
@@ -105,14 +109,14 @@ ladenは詩的・比喩的な表現やフォーマルな文脈で使われやす
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/word/burden/)：重荷、負担
-- [overwhelm](/word/overwhelm/)：圧倒する、打ちのめす
+- [burden](/burden)：重荷、負担
+- [overwhelm](/overwhelm)：圧倒する、打ちのめす
 
 ---
 
 ## 📖 できればこれも
 
-- [abundant](/word/abundant/)：豊富な
-- [scarce](/word/scarce/)：乏しい
+- [abundant](/abundant)：豊富な
+- [scarce](/scarce)：乏しい
 
-<!-- cvid: aid21_bid16 -->
+<!-- cvid: aid35_bid46 -->

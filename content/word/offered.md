@@ -81,15 +81,19 @@ TOEICでは「offered」は動詞の時制や受動態、またはビジネス�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「offered」は動詞の時制や受動態、またはビジネス�
 ## 🤔  provided との違いは？
 
 - **offered**：相手に何かを「申し出る」「提案する」ニュアンスが強い
-- **[provided](/word/provided/)**：必要に応じて「供給する」「与える」意味が中心
+- **[provided](/provided)**：必要に応じて「供給する」「与える」意味が中心
 
 offeredは「どうですか？」と相手に差し出すイメージ、providedは「必要だから与える」イメージです。
 
@@ -105,14 +109,14 @@ offeredは「どうですか？」と相手に差し出すイメージ、provide
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/word/suggest/)：提案する
-- [grant](/word/grant/)：（権利・許可などを）与える
+- [suggest](/suggest)：提案する
+- [grant](/grant)：（権利・許可などを）与える
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/word/accept/)：受け入れる
-- [present](/word/present/)：提示する、贈る
+- [accept](/accept)：受け入れる
+- [present](/present)：提示する、贈る
 
-<!-- cvid: aid49_bid44 -->
+<!-- cvid: aid46_bid28 -->

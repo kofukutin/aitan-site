@@ -81,15 +81,19 @@ TOEICでは、アナウンスやビジネスシーンの説明文で「conferenc
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、アナウンスやビジネスシーンの説明文で「conferenc
 ## 🤔  meeting との違いは？
 
 - **conference**：大人数や複数団体が集まる、比較的大規模でフォーマルな会議や大会
-- **[meeting](/word/meeting/)**：少人数でも使え、日常的・カジュアルな「打ち合わせ」や「会合」
+- **[meeting](/meeting)**：少人数でも使え、日常的・カジュアルな「打ち合わせ」や「会合」
 
 conferenceは規模が大きく、公式な場面で使われることが多いのに対し、meetingは日常的な集まりや短時間の打ち合わせにも使われます。
 
@@ -105,14 +109,14 @@ conferenceは規模が大きく、公式な場面で使われることが多い�
 
 ## 🧩 あわせて覚えたい
 
-- [seminar](/word/seminar/)：セミナー、講習会
-- [discussion](/word/discussion/)：討論、話し合い
+- [seminar](/seminar)：セミナー、講習会
+- [discussion](/discussion)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、プレゼン
-- [session](/word/session/)：（会議などの）集まり、セッション
+- [presentation](/presentation)：発表、プレゼン
+- [session](/session)：（会議などの）集まり、セッション
 
-<!-- cvid: aid15_bid08 -->
+<!-- cvid: aid37_bid26 -->

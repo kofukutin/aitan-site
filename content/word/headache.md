@@ -81,15 +81,19 @@ TOEICでは健康や体調に関するメールや会話文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や体調に関するメールや会話文で登場すること
 ## 🤔  migraine との違いは？
 
 - **headache**：一般的な頭痛や軽い痛み全般を指す
-- **[migraine](/word/migraine/)**：強い痛みや吐き気を伴う「偏頭痛」を指す
+- **[migraine](/migraine)**：強い痛みや吐き気を伴う「偏頭痛」を指す
 
 headacheは日常的な軽い頭痛にも使えますが、migraineは医学的な「偏頭痛」で、症状が重い場合に限定されます。
 
@@ -105,14 +109,14 @@ headacheは日常的な軽い頭痛にも使えますが、migraineは医学的�
 
 ## 🧩 あわせて覚えたい
 
-- [pain](/word/pain/)：痛み
-- [fever](/word/fever/)：熱、発熱
+- [pain](/pain)：痛み
+- [fever](/fever)：熱、発熱
 
 ---
 
 ## 📖 できればこれも
 
-- [stomachache](/word/stomachache/)：腹痛
-- [symptom](/word/symptom/)：症状
+- [stomachache](/stomachache)：腹痛
+- [symptom](/symptom)：症状
 
-<!-- cvid: aid13_bid08 -->
+<!-- cvid: aid21_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは会話やインタビューの中で「夢」や「将来の目標」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やインタビューの中で「夢」や「将来の目標」
 ## 🤔  hope との違いは？
 
 - **dream**：実現したい理想や将来の大きな目標、または眠っているときに見る夢を指す。
-- **[hope](/word/hope/)**：実現を期待する気持ちや願いを表す。
+- **[hope](/hope)**：実現を期待する気持ちや願いを表す。
 
 dreamは「心に描く理想像」や「大きな目標」に使われ、hopeは「叶うことを期待する現実的な願い」に使われます。
 
@@ -105,14 +109,14 @@ dreamは「心に描く理想像」や「大きな目標」に使われ、hope�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/word/goal/)：目標、到達点
-- [nightmare](/word/nightmare/)：悪夢
+- [goal](/goal)：目標、到達点
+- [nightmare](/nightmare)：悪夢
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan/)：計画
-- [wish](/word/wish/)：願い、希望
+- [plan](/plan)：計画
+- [wish](/wish)：願い、希望
 
-<!-- cvid: aid18_bid21 -->
+<!-- cvid: aid26_bid00 -->

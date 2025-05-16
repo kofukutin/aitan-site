@@ -81,15 +81,19 @@ TOEICでは、会話や施設の案内、観光に関するリスニング問題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や施設の案内、観光に関するリスニング問題
 ## 🤔  theater との違いは？
 
 - **cinema**：映画館、映画（主にイギリス英語）
-- **[theater](/word/theater/)**：劇場、映画館（アメリカ英語では映画館の意味も）
+- **[theater](/theater)**：劇場、映画館（アメリカ英語では映画館の意味も）
 
 「cinema」はイギリス英語で映画館を指し、「theater」はアメリカ英語で映画館や劇場を指します。イギリスでは「theater」は主に舞台劇の劇場を意味します。
 
@@ -105,14 +109,14 @@ TOEICでは、会話や施設の案内、観光に関するリスニング問題
 
 ## 🧩 あわせて覚えたい
 
-- [movie](/word/movie/)：映画
-- [film](/word/film/)：映画（特に作品としての映画）
+- [movie](/movie)：映画
+- [film](/film)：映画（特に作品としての映画）
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum/)：博物館
-- [gallery](/word/gallery/)：美術館
+- [museum](/museum)：博物館
+- [gallery](/gallery)：美術館
 
-<!-- cvid: aid03_bid28 -->
+<!-- cvid: aid16_bid25 -->

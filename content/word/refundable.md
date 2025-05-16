@@ -81,15 +81,19 @@ TOEICでは、チケットや料金、契約条件の説明文でよく出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、チケットや料金、契約条件の説明文でよく出題さ
 ## 🤔  returnable との違いは？
 
 - **refundable**：支払ったお金が返金される場合に使う
-- **[returnable](/word/returnable/)**：物品が返却できる場合や、返却時にお金が戻る場合に使う
+- **[returnable](/returnable)**：物品が返却できる場合や、返却時にお金が戻る場合に使う
 
 refundableは「お金が戻る」ことに焦点があり、returnableは「物を返せる」ことに重点があります。
 
@@ -105,14 +109,14 @@ refundableは「お金が戻る」ことに焦点があり、returnableは「物
 
 ## 🧩 あわせて覚えたい
 
-- [nonrefundable](/word/nonrefundable/)：返金不可の
-- [reimbursable](/word/reimbursable/)：（経費などが）払い戻し可能な
+- [nonrefundable](/nonrefundable)：返金不可の
+- [reimbursable](/reimbursable)：（経費などが）払い戻し可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [valid](/word/valid/)：有効な
-- [applicable](/word/applicable/)：適用できる
+- [valid](/valid)：有効な
+- [applicable](/applicable)：適用できる
 
-<!-- cvid: aid15_bid21 -->
+<!-- cvid: aid41_bid10 -->

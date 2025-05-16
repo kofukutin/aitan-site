@@ -81,15 +81,19 @@ TOEICでは新聞記事やビジネス文書の中で、社会問題や倫理に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid18_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは新聞記事やビジネス文書の中で、社会問題や倫理に
 ## 🤔  crime との違いは？
 
 - **vice**：道徳的・社会的に悪いとされる習慣や行為全般（必ずしも法律違反とは限らない）
-- **[crime](/word/crime/)**：法律に違反する行為、犯罪
+- **[crime](/crime)**：法律に違反する行為、犯罪
 
 viceは「悪徳」や「悪習」といった道徳的な悪さを指し、crimeは明確に法律違反の行為を指します。
 
@@ -105,14 +109,14 @@ viceは「悪徳」や「悪習」といった道徳的な悪さを指し、crim
 
 ## 🧩 あわせて覚えたい
 
-- [virtue](/word/virtue/)：美徳、善行
-- [sin](/word/sin/)：罪（宗教的・道徳的な意味での罪）
+- [virtue](/virtue)：美徳、善行
+- [sin](/sin)：罪（宗教的・道徳的な意味での罪）
 
 ---
 
 ## 📖 できればこれも
 
-- [illegal](/word/illegal/)：違法の
-- [penalty](/word/penalty/)：罰、刑罰
+- [illegal](/illegal)：違法の
+- [penalty](/penalty)：罰、刑罰
 
-<!-- cvid: aid23_bid00 -->
+<!-- cvid: aid18_bid38 -->

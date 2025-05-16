@@ -81,15 +81,19 @@ TOEICの長文読解や契約書、ビジネス文書で「implied contract（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文読解や契約書、ビジネス文書で「implied contract（�
 ## 🤔  inferred との違いは？
 
 - **implied**：はっきり言わずに「含ませる」「暗示する」ニュアンス
-- **[inferred](/word/inferred/)**：証拠や情報から「推論する」「導き出す」ニュアンス
+- **[inferred](/inferred)**：証拠や情報から「推論する」「導き出す」ニュアンス
 
 impliedは「言外に含まれている」こと、inferredは「情報から自分で推測する」ことに重点があります。
 
@@ -105,14 +109,14 @@ impliedは「言外に含まれている」こと、inferredは「情報から�
 
 ## 🧩 あわせて覚えたい
 
-- [explicit](/word/explicit/)：明示された、はっきりした
-- [suggest](/word/suggest/)：提案する、示唆する
+- [explicit](/explicit)：明示された、はっきりした
+- [suggest](/suggest)：提案する、示唆する
 
 ---
 
 ## 📖 できればこれも
 
-- [assumed](/word/assumed/)：仮定された、当然と考えられた
-- [indicate](/word/indicate/)：示す、指し示す
+- [assumed](/assumed)：仮定された、当然と考えられた
+- [indicate](/indicate)：示す、指し示す
 
-<!-- cvid: aid02_bid05 -->
+<!-- cvid: aid45_bid40 -->

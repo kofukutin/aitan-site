@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、動物や農場のシーンで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、動物や農場のシーンで登場
 ## 🤔  ox との違いは？
 
 - **bull**：成長した雄の牛。繁殖用や力強さを強調する時に使う。
-- **[ox](/word/ox/)**：去勢された雄牛で、主に労働用（荷物を運ぶなど）に使われる。
+- **[ox](/ox)**：去勢された雄牛で、主に労働用（荷物を運ぶなど）に使われる。
 
 bullは繁殖能力のある雄牛、oxは去勢されて作業用に使われる牛を指します。
 
@@ -105,14 +109,14 @@ bullは繁殖能力のある雄牛、oxは去勢されて作業用に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [cow](/word/cow/)：雌牛
-- [calf](/word/calf/)：子牛
+- [cow](/cow)：雌牛
+- [calf](/calf)：子牛
 
 ---
 
 ## 📖 できればこれも
 
-- [sheep](/word/sheep/)：羊
-- [horse](/word/horse/)：馬
+- [sheep](/sheep)：羊
+- [horse](/horse)：馬
 
-<!-- cvid: aid38_bid43 -->
+<!-- cvid: aid16_bid13 -->

@@ -81,15 +81,19 @@ TOEICでは、空港や受付、サービスカウンターなどで「列に並
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、空港や受付、サービスカウンターなどで「列に並
 ## 🤔  line との違いは？
 
 - **queue**：イギリス英語で「列」「順番待ち」を表し、ややフォーマルな響き。
-- **[line](/word/line/)**：アメリカ英語で「列」を表し、日常会話でよく使われる。
+- **[line](/line)**：アメリカ英語で「列」を表し、日常会話でよく使われる。
 
 queueはイギリス英語でフォーマルな場面やビジネスでも使われますが、lineはアメリカ英語でカジュアルに使われます。
 
@@ -105,14 +109,14 @@ queueはイギリス英語でフォーマルな場面やビジネスでも使わ
 
 ## 🧩 あわせて覚えたい
 
-- [wait](/word/wait/)：待つ
-- [reservation](/word/reservation/)：予約
+- [wait](/wait)：待つ
+- [reservation](/reservation)：予約
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment/)：予約、約束
-- [schedule](/word/schedule/)：予定、スケジュール
+- [appointment](/appointment)：予約、約束
+- [schedule](/schedule)：予定、スケジュール
 
-<!-- cvid: aid18_bid49 -->
+<!-- cvid: aid40_bid32 -->

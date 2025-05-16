@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、日常的な状況を説明する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、日常的な状況を説明する文脈
 ## 🤔  common との違いは？
 
 - **ordinary**：特別ではなく、ごく普通で目立たないことを強調
-- **[common](/word/common/)**：多くの人や物に当てはまり、広く見られることを強調
+- **[common](/common)**：多くの人や物に当てはまり、広く見られることを強調
 
 「ordinary」は「平凡で特別感がない」こと、「common」は「よくある・一般的で多い」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞の語彙問題や、日常的な状況を説明する文脈
 
 ## 🧩 あわせて覚えたい
 
-- [typical](/word/typical/)：典型的な、代表的な
-- [unique](/word/unique/)：唯一の、独特な
+- [typical](/typical)：典型的な、代表的な
+- [unique](/unique)：唯一の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [usual](/word/usual/)：いつもの、通常の
-- [average](/word/average/)：平均的な、ごく普通の
+- [usual](/usual)：いつもの、通常の
+- [average](/average)：平均的な、ごく普通の
 
-<!-- cvid: aid21_bid22 -->
+<!-- cvid: aid03_bid20 -->

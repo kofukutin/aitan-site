@@ -81,15 +81,19 @@ TOEICではビジネスメールや記事、社内文書などで「親密な関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスメールや記事、社内文書などで「親密な関
 ## 🤔  close との違いは？
 
 - **intimate**：心の奥まで踏み込んだ「親密さ」や「私的な」関係を強調
-- **[close](/word/close/)**：距離や関係が「近い」ことを幅広く表現
+- **[close](/close)**：距離や関係が「近い」ことを幅広く表現
 
 intimateはcloseよりもさらに深い結びつきや、他人に話しにくいプライベートな内容に使われます。closeは友人や家族など幅広い「近さ」に使えますが、intimateは特に「特別な親しさ」を強調します。
 
@@ -105,14 +109,14 @@ intimateはcloseよりもさらに深い結びつきや、他人に話しにく�
 
 ## 🧩 あわせて覚えたい
 
-- [confidential](/word/confidential/)：機密の、内密の
-- [personal](/word/personal/)：個人的な、私的な
+- [confidential](/confidential)：機密の、内密の
+- [personal](/personal)：個人的な、私的な
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident/)：自信がある
-- [private](/word/private/)：私的な、個人の
+- [confident](/confident)：自信がある
+- [private](/private)：私的な、個人の
 
-<!-- cvid: aid49_bid45 -->
+<!-- cvid: aid08_bid27 -->

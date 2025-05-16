@@ -81,15 +81,19 @@ The networking event will offer a cocktail reception.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The networking event will offer a cocktail reception.
 ## 🤔  beverage との違いは？
 
 - **cocktail**：アルコールを含むミックスドリンクやカクテルを指す。
-- **[beverage](/word/beverage/)**：飲み物全般（アルコール・ノンアルコール問わず）を指す。
+- **[beverage](/beverage)**：飲み物全般（アルコール・ノンアルコール問わず）を指す。
 
 cocktailは特にアルコール入りの混合飲料に限定されますが、beverageは水やジュースなども含む幅広い飲み物を指します。
 
@@ -105,14 +109,14 @@ cocktailは特にアルコール入りの混合飲料に限定されますが、
 
 ## 🧩 あわせて覚えたい
 
-- [mocktail](/word/mocktail/)：ノンアルコールカクテル
-- [appetizer](/word/appetizer/)：前菜
+- [mocktail](/mocktail)：ノンアルコールカクテル
+- [appetizer](/appetizer)：前菜
 
 ---
 
 ## 📖 できればこれも
 
-- [bar](/word/bar/)：バー、酒場
-- [refreshment](/word/refreshment/)：軽い飲食物
+- [bar](/bar)：バー、酒場
+- [refreshment](/refreshment)：軽い飲食物
 
-<!-- cvid: aid04_bid44 -->
+<!-- cvid: aid47_bid13 -->

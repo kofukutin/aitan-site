@@ -82,15 +82,19 @@ TOEICでは「be used to ～」の形や「used car」など、慣れや中古�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「be used to ～」の形や「used car」など、慣れや中古�
 ## 🤔  accustomed との違いは？
 
 - **used**：日常的な「慣れている」や「中古の」という意味で幅広く使う。
-- **[accustomed](/word/accustomed/)**：ややフォーマルで「習慣として身についている」ニュアンスが強い。
+- **[accustomed](/accustomed)**：ややフォーマルで「習慣として身についている」ニュアンスが強い。
 
 「used」はカジュアルな場面でも使えますが、「accustomed」はフォーマルな文書や丁寧な会話で使われることが多いです。
 
@@ -106,14 +110,14 @@ TOEICでは「be used to ～」の形や「used car」など、慣れや中古�
 
 ## 🧩 あわせて覚えたい
 
-- [familiar](/word/familiar/)：よく知っている、親しい
-- [unused](/word/unused/)：未使用の、使われていない
+- [familiar](/familiar)：よく知っている、親しい
+- [unused](/unused)：未使用の、使われていない
 
 ---
 
 ## 📖 できればこれも
 
-- [new](/word/new/)：新しい
-- [secondhand](/word/secondhand/)：中古の
+- [new](/new)：新しい
+- [secondhand](/secondhand)：中古の
 
-<!-- cvid: aid21_bid05 -->
+<!-- cvid: aid36_bid17 -->

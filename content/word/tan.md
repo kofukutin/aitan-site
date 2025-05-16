@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物の肌の色や物の色を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物の肌の色や物の色を説
 ## 🤔  brown との違いは？
 
 - **tan**：黄褐色や日焼けした肌色を指す。やや明るめの茶色。
-- **[brown](/word/brown/)**：一般的な「茶色」。色の幅が広く、濃い茶色も含む。
+- **[brown](/brown)**：一般的な「茶色」。色の幅が広く、濃い茶色も含む。
 
 tanは特に日焼けや明るい茶色に使われ、brownはより幅広い茶色全般を指します。
 
@@ -105,14 +109,14 @@ tanは特に日焼けや明るい茶色に使われ、brownはより幅広い茶
 
 ## 🧩 あわせて覚えたい
 
-- [beige](/word/beige/)：ベージュ色、薄い茶色
-- [sunburn](/word/sunburn/)：日焼け（炎症を伴う場合）
+- [beige](/beige)：ベージュ色、薄い茶色
+- [sunburn](/sunburn)：日焼け（炎症を伴う場合）
 
 ---
 
 ## 📖 できればこれも
 
-- [shade](/word/shade/)：色合い、濃淡
-- [pale](/word/pale/)：青白い、淡い
+- [shade](/shade)：色合い、濃淡
+- [pale](/pale)：青白い、淡い
 
-<!-- cvid: aid20_bid43 -->
+<!-- cvid: aid05_bid06 -->

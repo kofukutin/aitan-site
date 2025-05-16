@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【dry】の意味・使い方・例文 ― droughtとの違い【TOEIC英単語】"
 description: "dryの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdroughtとの違いもわかりやすく学べます。"
 word: "dry"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で「乾いた」「濡れていない」状
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で「乾いた」「濡れていない」状
 ## 🤔  drought との違いは？
 
 - **dry**：水分がなく乾いた状態を表す形容詞
-- **[drought](/word/drought/)**：長期間雨が降らない「干ばつ」という名詞
+- **[drought](/drought)**：長期間雨が降らない「干ばつ」という名詞
 
 「dry」は物や天気などの状態を表現し、「drought」は気象現象としての「干ばつ」を指します。
 
@@ -105,14 +109,14 @@ TOEICでは主に写真描写問題で「乾いた」「濡れていない」状
 
 ## 🧩 あわせて覚えたい
 
-- [wet](/word/wet/)：濡れた
-- [arid](/word/arid/)：非常に乾燥した（特に気候や土地）
+- [wet](/wet)：濡れた
+- [arid](/arid)：非常に乾燥した（特に気候や土地）
 
 ---
 
 ## 📖 できればこれも
 
-- [humid](/word/humid/)：湿気の多い
-- [moist](/word/moist/)：しっとりした、少し湿った
+- [humid](/humid)：湿気の多い
+- [moist](/moist)：しっとりした、少し湿った
 
-<!-- cvid: aid32_bid47 -->
+<!-- cvid: aid15_bid18 -->

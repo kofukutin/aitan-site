@@ -81,15 +81,19 @@ TOEICでは、契約書や案内文、説明書などで「vehicle」が「車�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や案内文、説明書などで「vehicle」が「車�
 ## 🤔  car との違いは？
 
 - **vehicle**：乗り物全般を指すフォーマルな言い方。車、バス、トラックなど幅広い。
-- **[car](/word/car/)**：主に「自動車」「乗用車」を指すカジュアルな単語。
+- **[car](/car)**：主に「自動車」「乗用車」を指すカジュアルな単語。
 
 vehicleは「乗り物」全般、carは「自家用車」など特定の車種を指す点が異なります。
 
@@ -105,14 +109,14 @@ vehicleは「乗り物」全般、carは「自家用車」など特定の車種�
 
 ## 🧩 あわせて覚えたい
 
-- [transportation](/word/transportation/)：交通、輸送
-- [automobile](/word/automobile/)：自動車
+- [transportation](/transportation)：交通、輸送
+- [automobile](/automobile)：自動車
 
 ---
 
 ## 📖 できればこれも
 
-- [machine](/word/machine/)：機械
-- [device](/word/device/)：装置
+- [machine](/machine)：機械
+- [device](/device)：装置
 
-<!-- cvid: aid30_bid48 -->
+<!-- cvid: aid15_bid15 -->

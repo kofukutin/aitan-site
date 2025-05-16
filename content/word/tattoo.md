@@ -81,15 +81,19 @@ TOEICでは観光や文化、ファッションに関する長文やEメール�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化、ファッションに関する長文やEメール�
 ## 🤔  engraving との違いは？
 
 - **tattoo**：皮膚にインクで模様や絵を入れること（入れ墨）
-- **[engraving](/word/engraving/)**：金属や木などの表面に彫刻すること
+- **[engraving](/engraving)**：金属や木などの表面に彫刻すること
 
 tattooは人の皮膚に施す装飾で、engravingは物体の表面に彫る装飾です。用途や対象が異なります。
 
@@ -105,14 +109,14 @@ tattooは人の皮膚に施す装飾で、engravingは物体の表面に彫る�
 
 ## 🧩 あわせて覚えたい
 
-- [piercing](/word/piercing/)：ピアス、体に穴を開けて装飾すること
-- [scar](/word/scar/)：傷跡
+- [piercing](/piercing)：ピアス、体に穴を開けて装飾すること
+- [scar](/scar)：傷跡
 
 ---
 
 ## 📖 できればこれも
 
-- [pattern](/word/pattern/)：模様、パターン
-- [design](/word/design/)：デザイン、図案
+- [pattern](/pattern)：模様、パターン
+- [design](/design)：デザイン、図案
 
-<!-- cvid: aid21_bid34 -->
+<!-- cvid: aid17_bid36 -->

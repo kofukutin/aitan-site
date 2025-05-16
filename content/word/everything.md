@@ -77,15 +77,19 @@ TOEICでは会話や説明文で「すべて」「全部」とまとめて指す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や説明文で「すべて」「全部」とまとめて指す
 ## 🤔  anything との違いは？
 
 - **everything**：すべてのもの、何もかも
-- **[anything](/word/anything/)**：どれか一つでも、何でも
+- **[anything](/anything)**：どれか一つでも、何でも
 
 everythingは「全体」を指し、anythingは「どれでもよい」「何か一つでも」という意味で、選択肢や可能性を表すときに使います。
 
@@ -101,14 +105,14 @@ everythingは「全体」を指し、anythingは「どれでもよい」「何�
 
 ## 🧩 あわせて覚えたい
 
-- [nothing](/word/nothing/)：何も～ない
-- [something](/word/something/)：何か、あるもの
+- [nothing](/nothing)：何も～ない
+- [something](/something)：何か、あるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [everyone](/word/everyone/)：みんな、全員
-- [everywhere](/word/everywhere/)：どこでも、至る所
+- [everyone](/everyone)：みんな、全員
+- [everywhere](/everywhere)：どこでも、至る所
 
-<!-- cvid: aid06_bid47 -->
+<!-- cvid: aid20_bid19 -->

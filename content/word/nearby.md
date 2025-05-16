@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写や、場所の説明でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、場所の説明でよく登場しま
 ## 🤔  close との違いは？
 
 - **nearby**：物理的に「すぐ近くに」「近くで」という意味で、場所や位置を強調。
-- **[close](/word/close/)**：距離が「近い」こと全般を表し、形容詞や副詞として使われる。
+- **[close](/close)**：距離が「近い」こと全般を表し、形容詞や副詞として使われる。
 
 nearbyは「近くの場所にある」ことを具体的に示し、closeは「距離が近い」ことを広く表します。
 
@@ -101,14 +105,14 @@ nearbyは「近くの場所にある」ことを具体的に示し、closeは「
 
 ## 🧩 あわせて覚えたい
 
-- [adjacent](/word/adjacent/)：隣接した、すぐ隣の
-- [neighbor](/word/neighbor/)：隣人、近所の人
+- [adjacent](/adjacent)：隣接した、すぐ隣の
+- [neighbor](/neighbor)：隣人、近所の人
 
 ---
 
 ## 📖 できればこれも
 
-- [around](/word/around/)：周囲に、あたりに
-- [beside](/word/beside/)：～のそばに
+- [around](/around)：周囲に、あたりに
+- [beside](/beside)：～のそばに
 
-<!-- cvid: aid23_bid42 -->
+<!-- cvid: aid26_bid34 -->

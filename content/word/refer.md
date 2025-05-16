@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「参照する」「紹介する」といった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「参照する」「紹介する」といった
 ## 🤔  mention との違いは？
 
 - **refer**：何かに言及したり、資料や人に「参照・紹介」する意味で使う
-- **[mention](/word/mention/)**：単に「名前や事柄を口にする」「軽く触れる」意味
+- **[mention](/mention)**：単に「名前や事柄を口にする」「軽く触れる」意味
 
 referは「詳しく説明したり、正式に案内する」ニュアンスがあり、mentionは「軽く触れる」程度の違いがあります。
 
@@ -105,14 +109,14 @@ referは「詳しく説明したり、正式に案内する」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend/)：推薦する、勧める
-- [consult](/word/consult/)：相談する、意見を求める
+- [recommend](/recommend)：推薦する、勧める
+- [consult](/consult)：相談する、意見を求める
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/word/suggest/)：提案する
-- [indicate](/word/indicate/)：示す、指し示す
+- [suggest](/suggest)：提案する
+- [indicate](/indicate)：示す、指し示す
 
-<!-- cvid: aid15_bid11 -->
+<!-- cvid: aid19_bid05 -->

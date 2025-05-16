@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「走っている人」や「競技者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「走っている人」や「競技者
 ## 🤔  athlete との違いは？
 
 - **runner**：走ることに特化した人、特に競走やジョギングをする人
-- **[athlete](/word/athlete/)**：スポーツ全般の選手や運動選手
+- **[athlete](/athlete)**：スポーツ全般の選手や運動選手
 
 「runner」は走ることに限定されますが、「athlete」はサッカーや水泳など他のスポーツ選手も含みます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で「走っている人」や「競技者
 
 ## 🧩 あわせて覚えたい
 
-- [sprinter](/word/sprinter/)：短距離走者
-- [jogger](/word/jogger/)：ジョギングをする人
+- [sprinter](/sprinter)：短距離走者
+- [jogger](/jogger)：ジョギングをする人
 
 ---
 
 ## 📖 できればこれも
 
-- [race](/word/race/)：競走、レース
-- [finish](/word/finish/)：ゴールする、終える
+- [race](/race)：競走、レース
+- [finish](/finish)：ゴールする、終える
 
-<!-- cvid: aid15_bid21 -->
+<!-- cvid: aid32_bid49 -->

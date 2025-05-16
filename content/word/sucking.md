@@ -88,8 +88,12 @@ TOEICでは主にPart 1の写真描写で、赤ちゃんや動物、機械が何
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、赤ちゃんや動物、機械が何
 ## 🤔  licking との違いは？
 
 - **sucking**：口で吸い込む動作や状態を表す
-- **[licking](/word/licking/)**：舌でなめる動作を表す
+- **[licking](/licking)**：舌でなめる動作を表す
 
 suckingは「吸う」、lickingは「なめる」と動作が異なり、使う場面も異なります。
 
@@ -105,14 +109,14 @@ suckingは「吸う」、lickingは「なめる」と動作が異なり、使う
 
 ## 🧩 あわせて覚えたい
 
-- [chewing](/word/chewing/)：かむこと
-- [swallowing](/word/swallowing/)：飲み込むこと
+- [chewing](/chewing)：かむこと
+- [swallowing](/swallowing)：飲み込むこと
 
 ---
 
 ## 📖 できればこれも
 
-- [biting](/word/biting/)：かむこと
-- [drinking](/word/drinking/)：飲むこと
+- [biting](/biting)：かむこと
+- [drinking](/drinking)：飲むこと
 
-<!-- cvid: aid36_bid17 -->
+<!-- cvid: aid36_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは健康や福利厚生、保険などの話題でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や福利厚生、保険などの話題でよく登場します
 ## 🤔  fitness との違いは？
 
 - **health**：体や心の全体的な健康状態を指す
-- **[fitness](/word/fitness/)**：運動能力や体力が高い状態を指す
+- **[fitness](/fitness)**：運動能力や体力が高い状態を指す
 
 healthは病気がない・心身が良好な状態全般を表し、fitnessは特に運動や体力面での良好さを強調します。
 
@@ -105,14 +109,14 @@ healthは病気がない・心身が良好な状態全般を表し、fitnessは�
 
 ## 🧩 あわせて覚えたい
 
-- [illness](/word/illness/)：病気
-- [wellness](/word/wellness/)：健康（より積極的な健康・ウェルネス）
+- [illness](/illness)：病気
+- [wellness](/wellness)：健康（より積極的な健康・ウェルネス）
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：疾患、病気
-- [condition](/word/condition/)：状態、健康状態
+- [disease](/disease)：疾患、病気
+- [condition](/condition)：状態、健康状態
 
-<!-- cvid: aid26_bid29 -->
+<!-- cvid: aid07_bid05 -->

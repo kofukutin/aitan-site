@@ -81,15 +81,19 @@ TOEICでは、報告書や資料、アルバムなどの説明文で「compilati
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書や資料、アルバムなどの説明文で「compilati
 ## 🤔  collection との違いは？
 
 - **compilation**：編集やまとめ作業を経て作られたもの
-- **[collection](/word/collection/)**：単に集められたもの、編集や加工は問わない
+- **[collection](/collection)**：単に集められたもの、編集や加工は問わない
 
 compilationは「編集してまとめた成果物」、collectionは「集めただけのもの」という違いがあります。
 
@@ -105,14 +109,14 @@ compilationは「編集してまとめた成果物」、collectionは「集め�
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly/)：組み立て、集会
-- [summary](/word/summary/)：要約
+- [assembly](/assembly)：組み立て、集会
+- [summary](/summary)：要約
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor/)：編集者
-- [document](/word/document/)：文書
+- [editor](/editor)：編集者
+- [document](/document)：文書
 
-<!-- cvid: aid09_bid49 -->
+<!-- cvid: aid49_bid18 -->

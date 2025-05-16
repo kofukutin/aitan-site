@@ -81,15 +81,19 @@ TOEICでは、図表やプレゼン資料、広告などの説明文で「visual
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、図表やプレゼン資料、広告などの説明文で「visual
 ## 🤔  optical との違いは？
 
 - **visual**：視覚や見た目に関する一般的な表現
-- **[optical](/word/optical/)**：光学的、レンズや視力など科学的・技術的な意味合いが強い
+- **[optical](/optical)**：光学的、レンズや視力など科学的・技術的な意味合いが強い
 
 「visual」は見た目や視覚的な印象全般に使い、「optical」は光やレンズ、視力など科学・技術分野で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、図表やプレゼン資料、広告などの説明文で「visual
 
 ## 🧩 あわせて覚えたい
 
-- [auditory](/word/auditory/)：聴覚の、耳で感じる
-- [graphic](/word/graphic/)：図や画像の、図解の
+- [auditory](/auditory)：聴覚の、耳で感じる
+- [graphic](/graphic)：図や画像の、図解の
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible/)：目に見える
-- [image](/word/image/)：画像、映像
+- [visible](/visible)：目に見える
+- [image](/image)：画像、映像
 
-<!-- cvid: aid28_bid03 -->
+<!-- cvid: aid38_bid29 -->

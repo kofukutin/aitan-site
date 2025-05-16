@@ -81,15 +81,19 @@ TOEICでは医療や健康、科学系の記事や説明文で見かけること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid21" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid21" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康、科学系の記事や説明文で見かけること
 ## 🤔  digestion との違いは？
 
 - **metabolism**：体内でのエネルギー変換や物質の合成・分解など、広い意味での「代謝」全般。
-- **[digestion](/word/digestion/)**：食べ物を体内で分解し、吸収できる形にする「消化」プロセス。
+- **[digestion](/digestion)**：食べ物を体内で分解し、吸収できる形にする「消化」プロセス。
 
 metabolismは体全体の化学反応を指し、digestionは食べ物の分解に限定されます。
 
@@ -105,14 +109,14 @@ metabolismは体全体の化学反応を指し、digestionは食べ物の分解�
 
 ## 🧩 あわせて覚えたい
 
-- [anabolism](/word/anabolism/)：同化作用（代謝の一部で、物質を合成するプロセス）
-- [catabolism](/word/catabolism/)：異化作用（代謝の一部で、物質を分解するプロセス）
+- [anabolism](/anabolism)：同化作用（代謝の一部で、物質を合成するプロセス）
+- [catabolism](/catabolism)：異化作用（代謝の一部で、物質を分解するプロセス）
 
 ---
 
 ## 📖 できればこれも
 
-- [nutrient](/word/nutrient/)：栄養素
-- [enzyme](/word/enzyme/)：酵素
+- [nutrient](/nutrient)：栄養素
+- [enzyme](/enzyme)：酵素
 
-<!-- cvid: aid17_bid03 -->
+<!-- cvid: aid49_bid21 -->

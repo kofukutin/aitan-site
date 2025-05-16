@@ -81,15 +81,19 @@ paydayは、職場やビジネスシーンの会話でよく登場します。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ paydayは、職場やビジネスシーンの会話でよく登場します。�
 ## 🤔  salary との違いは？
 
 - **payday**：給料を受け取る日そのもの
-- **[salary](/word/salary/)**：毎月もらう「給料」そのもの
+- **[salary](/salary)**：毎月もらう「給料」そのもの
 
 paydayは「日付」、salaryは「金額や報酬」を指します。混同しないようにしましょう。
 
@@ -105,14 +109,14 @@ paydayは「日付」、salaryは「金額や報酬」を指します。混同�
 
 ## 🧩 あわせて覚えたい
 
-- [wage](/word/wage/)：時給や日給など、労働時間に応じて支払われる賃金
-- [bonus](/word/bonus/)：賞与、ボーナス
+- [wage](/wage)：時給や日給など、労働時間に応じて支払われる賃金
+- [bonus](/bonus)：賞与、ボーナス
 
 ---
 
 ## 📖 できればこれも
 
-- [payment](/word/payment/)：支払い
-- [invoice](/word/invoice/)：請求書
+- [payment](/payment)：支払い
+- [invoice](/invoice)：請求書
 
-<!-- cvid: aid07_bid26 -->
+<!-- cvid: aid42_bid31 -->

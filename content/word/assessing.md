@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議の文脈で「assessing」が動詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議の文脈で「assessing」が動詞と
 ## 🤔  evaluating との違いは？
 
 - **assessing**：価値や状況を判断・査定することに重点がある
-- **[evaluating](/word/evaluating/)**：より詳細に分析し、価値や効果を評価することに重点がある
+- **[evaluating](/evaluating)**：より詳細に分析し、価値や効果を評価することに重点がある
 
 「assessing」は全体的な評価や査定、「evaluating」は細かく分析して評価するニュアンスがあります。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や会議の文脈で「assessing」が動詞と
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate/)：見積もる、概算する
-- [measure](/word/measure/)：測定する、評価する
+- [estimate](/estimate)：見積もる、概算する
+- [measure](/measure)：測定する、評価する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyzing](/word/analyzing/)：分析する
-- [review](/word/review/)：見直す、再検討する
+- [analyzing](/analyzing)：分析する
+- [review](/review)：見直す、再検討する
 
-<!-- cvid: aid35_bid25 -->
+<!-- cvid: aid03_bid05 -->

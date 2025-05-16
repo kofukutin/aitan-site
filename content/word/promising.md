@@ -81,15 +81,19 @@ TOEICでは、人物や計画の評価、将来性を表す文脈で形容詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物や計画の評価、将来性を表す文脈で形容詞と
 ## 🤔  hopeful との違いは？
 
 - **promising**：将来性があり、成功や良い結果が期待できる状態
-- **[hopeful](/word/hopeful/)**：希望を持っている、または希望を感じさせる状態
+- **[hopeful](/hopeful)**：希望を持っている、または希望を感じさせる状態
 
 promisingは「客観的に見て有望」と評価する語で、hopefulは「主観的に希望を持つ」や「希望を与える」ニュアンスです。
 
@@ -105,14 +109,14 @@ promisingは「客観的に見て有望」と評価する語で、hopefulは「�
 
 ## 🧩 あわせて覚えたい
 
-- [potential](/word/potential/)：潜在的な、可能性のある
-- [unpromising](/word/unpromising/)：有望でない、見込みがない
+- [potential](/potential)：潜在的な、可能性のある
+- [unpromising](/unpromising)：有望でない、見込みがない
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/word/productive/)：生産的な
-- [efficient](/word/efficient/)：効率的な
+- [productive](/productive)：生産的な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid04_bid28 -->
+<!-- cvid: aid47_bid36 -->

@@ -81,15 +81,19 @@ TOEICでは「書類や計画の修正」「仕様変更」など、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「書類や計画の修正」「仕様変更」など、ビジネス
 ## 🤔  change との違いは？
 
 - **modify**：部分的に修正・調整するニュアンスが強い
-- **[change](/word/change/)**：全体的に変える、または大きく変化させる意味
+- **[change](/change)**：全体的に変える、または大きく変化させる意味
 
 modifyは「一部を直す」「調整する」イメージ、changeは「全体を変える」「別のものにする」イメージです。
 
@@ -105,14 +109,14 @@ modifyは「一部を直す」「調整する」イメージ、changeは「全�
 
 ## 🧩 あわせて覚えたい
 
-- [adjust](/word/adjust/)：微調整する、適応させる
-- [revise](/word/revise/)：（文書などを）改訂する、見直す
+- [adjust](/adjust)：微調整する、適応させる
+- [revise](/revise)：（文書などを）改訂する、見直す
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する、手直しする
-- [update](/word/update/)：最新の状態にする、更新する
+- [edit](/edit)：編集する、手直しする
+- [update](/update)：最新の状態にする、更新する
 
-<!-- cvid: aid10_bid01 -->
+<!-- cvid: aid07_bid39 -->

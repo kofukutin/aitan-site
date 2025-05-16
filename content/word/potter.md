@@ -81,15 +81,19 @@ The local potter will demonstrate traditional techniques at the event.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The local potter will demonstrate traditional techniques at the event.
 ## 🤔  ceramicist との違いは？
 
 - **potter**：主に実用的な陶器や土器を作る職人や芸術家
-- **[ceramicist](/word/ceramicist/)**：より広く、芸術的なセラミック作品を作る人
+- **[ceramicist](/ceramicist)**：より広く、芸術的なセラミック作品を作る人
 
 potterは日用品や伝統的な陶器を作る人を指すことが多く、ceramicistは芸術性の高い作品や現代アートも含めて幅広く使われます。
 
@@ -105,14 +109,14 @@ potterは日用品や伝統的な陶器を作る人を指すことが多く、ce
 
 ## 🧩 あわせて覚えたい
 
-- [sculptor](/word/sculptor/)：彫刻家
-- [artisan](/word/artisan/)：職人、熟練工
+- [sculptor](/sculptor)：彫刻家
+- [artisan](/artisan)：職人、熟練工
 
 ---
 
 ## 📖 できればこれも
 
-- [clay](/word/clay/)：粘土
-- [kiln](/word/kiln/)：窯
+- [clay](/clay)：粘土
+- [kiln](/kiln)：窯
 
-<!-- cvid: aid43_bid14 -->
+<!-- cvid: aid07_bid34 -->

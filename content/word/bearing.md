@@ -81,15 +81,19 @@ TOEICでは「態度」「関係」「影響」の意味で出題されること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「態度」「関係」「影響」の意味で出題されること
 ## 🤔  attitude との違いは？
 
 - **bearing**：外見や立ち居振る舞いから伝わる態度や雰囲気、または関係・影響
-- **[attitude](/word/attitude/)**：考え方や気持ち、姿勢など内面的な態度
+- **[attitude](/attitude)**：考え方や気持ち、姿勢など内面的な態度
 
 「bearing」は見た目や振る舞いに表れる態度、「attitude」は心の持ち方や考え方を指します。
 
@@ -105,14 +109,14 @@ TOEICでは「態度」「関係」「影響」の意味で出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [posture](/word/posture/)：姿勢、体の構え
-- [demeanor](/word/demeanor/)：物腰、ふるまい
+- [posture](/posture)：姿勢、体の構え
+- [demeanor](/demeanor)：物腰、ふるまい
 
 ---
 
 ## 📖 できればこれも
 
-- [conduct](/word/conduct/)：行動、ふるまい
-- [stance](/word/stance/)：立場、姿勢
+- [conduct](/conduct)：行動、ふるまい
+- [stance](/stance)：立場、姿勢
 
-<!-- cvid: aid44_bid22 -->
+<!-- cvid: aid14_bid11 -->

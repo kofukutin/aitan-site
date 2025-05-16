@@ -81,15 +81,19 @@ TOEICでは環境や社会問題を扱う長文や案内文でよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や社会問題を扱う長文や案内文でよく登場しま
 ## 🤔  reuse との違いは？
 
 - **recycling**：使い終わったものを資源として再加工・再利用すること
-- **[reuse](/word/reuse/)**：そのままの形で繰り返し使うこと
+- **[reuse](/reuse)**：そのままの形で繰り返し使うこと
 
 recyclingは一度材料に戻して再利用するのに対し、reuseは形を変えずに再び使う点が異なります。
 
@@ -105,14 +109,14 @@ recyclingは一度材料に戻して再利用するのに対し、reuseは形を
 
 ## 🧩 あわせて覚えたい
 
-- [waste](/word/waste/)：廃棄物、ごみ
-- [conservation](/word/conservation/)：保護、保存
+- [waste](/waste)：廃棄物、ごみ
+- [conservation](/conservation)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [environment](/word/environment/)：環境
-- [reduce](/word/reduce/)：減らす
+- [environment](/environment)：環境
+- [reduce](/reduce)：減らす
 
-<!-- cvid: aid03_bid45 -->
+<!-- cvid: aid15_bid34 -->

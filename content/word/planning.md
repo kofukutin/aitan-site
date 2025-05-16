@@ -81,15 +81,19 @@ TOEICでは会議やプロジェクト、業務の進め方に関する会話や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクト、業務の進め方に関する会話や
 ## 🤔  scheduling との違いは？
 
 - **planning**：全体的な計画立案や企画のプロセスを指す
-- **[scheduling](/word/scheduling/)**：具体的な日程や時間割を決めること
+- **[scheduling](/scheduling)**：具体的な日程や時間割を決めること
 
 planningは「何をどう進めるか」を考える広い意味で使い、schedulingは「いつやるか」という時間の割り当てに特化しています。
 
@@ -105,14 +109,14 @@ planningは「何をどう進めるか」を考える広い意味で使い、sch
 
 ## 🧩 あわせて覚えたい
 
-- [strategy](/word/strategy/)：戦略、方針
-- [preparation](/word/preparation/)：準備、用意
+- [strategy](/strategy)：戦略、方針
+- [preparation](/preparation)：準備、用意
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：プロジェクト、計画
-- [proposal](/word/proposal/)：提案、申し出
+- [project](/project)：プロジェクト、計画
+- [proposal](/proposal)：提案、申し出
 
-<!-- cvid: aid43_bid25 -->
+<!-- cvid: aid23_bid13 -->

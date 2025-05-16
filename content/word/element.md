@@ -82,15 +82,19 @@ TOEICでは説明文や記事、科学・技術系の長文で「要素」「成
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは説明文や記事、科学・技術系の長文で「要素」「成
 ## 🤔  component との違いは？
 
 - **element**：全体を構成する基本的な要素や成分、抽象的な「要素」も含む
-- **[component](/word/component/)**：機械やシステムなどの「部品」「構成部」など、物理的な部分を強調
+- **[component](/component)**：機械やシステムなどの「部品」「構成部」など、物理的な部分を強調
 
 elementは抽象的・科学的な「要素」にも使われ、componentは機械やシステムの「部品」など具体的な部分に使われます。
 
@@ -106,14 +110,14 @@ elementは抽象的・科学的な「要素」にも使われ、componentは機�
 
 ## 🧩 あわせて覚えたい
 
-- [factor](/word/factor/)：要因、原因
-- [aspect](/word/aspect/)：側面、観点
+- [factor](/factor)：要因、原因
+- [aspect](/aspect)：側面、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material/)：材料、素材
-- [structure](/word/structure/)：構造、仕組み
+- [material](/material)：材料、素材
+- [structure](/structure)：構造、仕組み
 
-<!-- cvid: aid21_bid49 -->
+<!-- cvid: aid10_bid12 -->

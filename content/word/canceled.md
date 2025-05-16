@@ -81,15 +81,19 @@ TOEICでは会議やイベント、予約の中止を伝える場面でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベント、予約の中止を伝える場面でよく出
 ## 🤔  postponed との違いは？
 
 - **canceled**：完全に中止・取り消しになった
-- **[postponed](/word/postponed/)**：延期された（後日に変更された）
+- **[postponed](/postponed)**：延期された（後日に変更された）
 
 canceledは「なくなる」、postponedは「後ろにずれる」イメージで、予定が消えるか残るかが大きな違いです。
 
@@ -105,14 +109,14 @@ canceledは「なくなる」、postponedは「後ろにずれる」イメージ
 
 ## 🧩 あわせて覚えたい
 
-- [reschedule](/word/reschedule/)：再調整する、予定を変更する
-- [confirm](/word/confirm/)：確認する
+- [reschedule](/reschedule)：再調整する、予定を変更する
+- [confirm](/confirm)：確認する
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay/)：遅らせる、遅延させる
-- [approve](/word/approve/)：承認する
+- [delay](/delay)：遅らせる、遅延させる
+- [approve](/approve)：承認する
 
-<!-- cvid: aid29_bid35 -->
+<!-- cvid: aid35_bid19 -->

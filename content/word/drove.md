@@ -83,15 +83,19 @@ TOEICでは会話や説明文で「運転した」「送った」など過去の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは会話や説明文で「運転した」「送った」など過去の
 ## 🤔  drive との違いは？
 
 - **drove**：driveの過去形。過去に運転したことや送ったことを表す。
-- **[drive](/word/drive/)**：現在形や原形。「運転する」「車で送る」など、現在や未来の行動に使う。
+- **[drive](/drive)**：現在形や原形。「運転する」「車で送る」など、現在や未来の行動に使う。
 
 droveは「過去の出来事」、driveは「今・これから・習慣的な行動」に使い分けます。
 
@@ -107,14 +111,14 @@ droveは「過去の出来事」、driveは「今・これから・習慣的な�
 
 ## 🧩 あわせて覚えたい
 
-- [ride](/word/ride/)：（乗り物などに）乗る
-- [operate](/word/operate/)：（機械などを）操作する
+- [ride](/ride)：（乗り物などに）乗る
+- [operate](/operate)：（機械などを）操作する
 
 ---
 
 ## 📖 できればこれも
 
-- [walk](/word/walk/)：歩く
-- [travel](/word/travel/)：旅行する、移動する
+- [walk](/walk)：歩く
+- [travel](/travel)：旅行する、移動する
 
-<!-- cvid: aid16_bid38 -->
+<!-- cvid: aid26_bid47 -->

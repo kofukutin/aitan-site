@@ -81,15 +81,19 @@ stimulusはTOEICの長文読解（Part 7）で、経済やビジネス、科学�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ stimulusはTOEICの長文読解（Part 7）で、経済やビジネス、科学�
 ## 🤔  incentive との違いは？
 
 - **stimulus**：外部からの刺激やきっかけとなるもの全般を指し、反応や変化を促すニュートラルな語。
-- **[incentive](/word/incentive/)**：人の行動を積極的に促す「動機付け」「報奨」といった意味で、特に報酬やメリットを強調。
+- **[incentive](/incentive)**：人の行動を積極的に促す「動機付け」「報奨」といった意味で、特に報酬やメリットを強調。
 
 stimulusは広く「刺激」として使われますが、incentiveは「やる気を引き出す報酬や動機」に特化しています。
 
@@ -105,14 +109,14 @@ stimulusは広く「刺激」として使われますが、incentiveは「やる
 
 ## 🧩 あわせて覚えたい
 
-- [trigger](/word/trigger/)：引き金、きっかけ
-- [response](/word/response/)：反応、応答
+- [trigger](/trigger)：引き金、きっかけ
+- [response](/response)：反応、応答
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor/)：要因、要素
-- [impact](/word/impact/)：影響、衝撃
+- [factor](/factor)：要因、要素
+- [impact](/impact)：影響、衝撃
 
-<!-- cvid: aid31_bid43 -->
+<!-- cvid: aid37_bid25 -->

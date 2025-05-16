@@ -81,15 +81,19 @@ TOEICでは、新聞記事やビジネス文書の中で社会や組織の動き
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、新聞記事やビジネス文書の中で社会や組織の動き
 ## 🤔  policy との違いは？
 
 - **politics**：政治全般や政治活動、権力争いなど広い意味で使う
-- **[policy](/word/policy/)**：特定の方針やルール、指針を指す
+- **[policy](/policy)**：特定の方針やルール、指針を指す
 
 politicsは「政治」という大きな枠組みや活動全体を指し、policyは「具体的な方針・ルール」を意味します。
 
@@ -105,14 +109,14 @@ politicsは「政治」という大きな枠組みや活動全体を指し、pol
 
 ## 🧩 あわせて覚えたい
 
-- [government](/word/government/)：政府、政権
-- [diplomacy](/word/diplomacy/)：外交
+- [government](/government)：政府、政権
+- [diplomacy](/diplomacy)：外交
 
 ---
 
 ## 📖 できればこれも
 
-- [election](/word/election/)：選挙
-- [law](/word/law/)：法律
+- [election](/election)：選挙
+- [law](/law)：法律
 
-<!-- cvid: aid20_bid41 -->
+<!-- cvid: aid11_bid32 -->

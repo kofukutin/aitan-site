@@ -84,8 +84,12 @@ TOEICでは条件を表す接続詞として、文法問題で選択肢に出る
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは条件を表す接続詞として、文法問題で選択肢に出る
 ## 🤔  suppose との違いは？
 
 - **assuming**：何かを前提として「もし～なら」と条件を提示する接続詞。
-- **[suppose](/word/suppose/)**：仮定や提案の意味が強く、会話で「～だとしたらどう？」と使うことが多い。
+- **[suppose](/suppose)**：仮定や提案の意味が強く、会話で「～だとしたらどう？」と使うことが多い。
 
 assumingは条件文でフォーマルに使われ、supposeはカジュアルな仮定や提案に使われることが多いです。
 
@@ -101,14 +105,14 @@ assumingは条件文でフォーマルに使われ、supposeはカジュアル�
 
 ## 🧩 あわせて覚えたい
 
-- [provided](/word/provided/)：もし～ならば（条件を表す接続詞）
-- [unless](/word/unless/)：～でなければ（条件を表す接続詞）
+- [provided](/provided)：もし～ならば（条件を表す接続詞）
+- [unless](/unless)：～でなければ（条件を表す接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [although](/word/although/)：～だけれども（譲歩を表す接続詞）
-- [even if](/word/even_if/)：たとえ～でも（条件を強調する接続詞）
+- [although](/although)：～だけれども（譲歩を表す接続詞）
+- [even if](/even_if)：たとえ～でも（条件を強調する接続詞）
 
-<!-- cvid: aid32_bid19 -->
+<!-- cvid: aid32_bid45 -->

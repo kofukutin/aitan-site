@@ -81,7 +81,7 @@ TOEICでは主に学術的な文章やビジネス文書の中で、引用や参
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主に学術的な文章やビジネス文書の中で、引用や参
 
 <div class="info-center">
 ＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid03_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に学術的な文章やビジネス文書の中で、引用や参
 ## 🤔  quotation との違いは？
 
 - **citation**：論文やレポートなどで出典を明示して引用すること、またはその記載。
-- **[quotation](/word/quotation/)**：他人の言葉や文章をそのまま抜き出して使うこと、またはその部分。
+- **[quotation](/quotation)**：他人の言葉や文章をそのまま抜き出して使うこと、またはその部分。
 
 citationは出典や参考文献リストなど「引用の出所」を示す点が強調され、quotationは「実際に抜き出した言葉や文そのもの」を指します。
 
@@ -105,14 +109,14 @@ citationは出典や参考文献リストなど「引用の出所」を示す点
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/word/reference/)：参照、参考文献
-- [acknowledgment](/word/acknowledgment/)：謝辞、認識
+- [reference](/reference)：参照、参考文献
+- [acknowledgment](/acknowledgment)：謝辞、認識
 
 ---
 
 ## 📖 できればこれも
 
-- [source](/word/source/)：情報源、出典
-- [excerpt](/word/excerpt/)：抜粋、引用部分
+- [source](/source)：情報源、出典
+- [excerpt](/excerpt)：抜粋、引用部分
 
-<!-- cvid: aid41_bid38 -->
+<!-- cvid: aid03_bid38 -->

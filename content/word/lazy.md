@@ -81,15 +81,19 @@ lazyは形容詞の語彙問題や、人物の性格を問う文脈で出題さ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ lazyは形容詞の語彙問題や、人物の性格を問う文脈で出題さ�
 ## 🤔  idle との違いは？
 
 - **lazy**：やる気がなく、積極的に何もしない怠惰な状態。
-- **[idle](/word/idle/)**：何もしていないが、必ずしも怠けているとは限らない状態。
+- **[idle](/idle)**：何もしていないが、必ずしも怠けているとは限らない状態。
 
 lazyは「やるべきことをサボる」否定的なニュアンスが強く、idleは「手が空いている」など中立的な意味でも使われます。
 
@@ -105,14 +109,14 @@ lazyは「やるべきことをサボる」否定的なニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [diligent](/word/diligent/)：勤勉な
-- [sluggish](/word/sluggish/)：動きが鈍い、のろい
+- [diligent](/diligent)：勤勉な
+- [sluggish](/sluggish)：動きが鈍い、のろい
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/word/active/)：活動的な
-- [efficient](/word/efficient/)：効率的な
+- [active](/active)：活動的な
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid25_bid01 -->
+<!-- cvid: aid34_bid03 -->

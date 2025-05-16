@@ -81,15 +81,19 @@ TOEICでは会議や電話応対など、ビジネスシーンで「ためらい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や電話応対など、ビジネスシーンで「ためらい
 ## 🤔  pause との違いは？
 
 - **hesitation**：気持ちや決断の「ためらい」「迷い」を表す
-- **[pause](/word/pause/)**：動作や会話の「一時停止」「間」を表す
+- **[pause](/pause)**：動作や会話の「一時停止」「間」を表す
 
 hesitationは心理的な迷い、pauseは物理的な動作の中断を指します。
 
@@ -105,14 +109,14 @@ hesitationは心理的な迷い、pauseは物理的な動作の中断を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [confidence](/word/confidence/)：自信
-- [uncertainty](/word/uncertainty/)：不確実さ、不安
+- [confidence](/confidence)：自信
+- [uncertainty](/uncertainty)：不確実さ、不安
 
 ---
 
 ## 📖 できればこれも
 
-- [doubt](/word/doubt/)：疑い、疑念
-- [delay](/word/delay/)：遅れ、延期
+- [doubt](/doubt)：疑い、疑念
+- [delay](/delay)：遅れ、延期
 
-<!-- cvid: aid38_bid08 -->
+<!-- cvid: aid14_bid35 -->

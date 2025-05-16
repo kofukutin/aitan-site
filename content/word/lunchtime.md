@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文で「昼食の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid02_bid29" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid29" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文で「昼食の
 ## 🤔  lunch との違いは？
 
 - **lunchtime**：昼食をとる「時間帯」を指す
-- **[lunch](/word/lunch/)**：食事としての「昼食」そのもの
+- **[lunch](/lunch)**：食事としての「昼食」そのもの
 
 **lunchtime**は「昼食の時間」という時間帯を表し、**lunch**は食べ物や食事そのものを指します。たとえば「at lunchtime」は「昼食の時間に」、「have lunch」は「昼食を食べる」となります。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文で「昼食の
 
 ## 🧩 あわせて覚えたい
 
-- [breakfast](/word/breakfast/)：朝食
-- [dinnertime](/word/dinnertime/)：夕食の時間
+- [breakfast](/breakfast)：朝食
+- [dinnertime](/dinnertime)：夕食の時間
 
 ---
 
 ## 📖 できればこれも
 
-- [snack](/word/snack/)：軽食
-- [mealtime](/word/mealtime/)：食事の時間
+- [snack](/snack)：軽食
+- [mealtime](/mealtime)：食事の時間
 
-<!-- cvid: aid32_bid09 -->
+<!-- cvid: aid02_bid29 -->

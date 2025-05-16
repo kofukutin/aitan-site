@@ -80,15 +80,19 @@ TOEICのPart 7で、記事やレポートの要約部分や、内容説明の設
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid34" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid34" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICのPart 7で、記事やレポートの要約部分や、内容説明の設
 ## 🤔  summary との違いは？
 
 - **synopsis**：主に書籍・映画・論文などの「全体像を簡潔にまとめたあらすじ・概要」。ややフォーマルで、内容の流れや構成を重視。
-- **[summary](/word/summary/)**：一般的な「要約」。内容のポイントや重要事項を短くまとめる際に広く使われる。
+- **[summary](/summary)**：一般的な「要約」。内容のポイントや重要事項を短くまとめる際に広く使われる。
 
 synopsisは物語や論文などの全体像を簡潔に伝えるときに使い、summaryは内容の要点や結論を短くまとめるときに使います。
 
@@ -104,14 +108,14 @@ synopsisは物語や論文などの全体像を簡潔に伝えるときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline/)：概要、輪郭（全体の構成や流れを示す）
-- [abstract](/word/abstract/)：要旨、抄録（主に論文の要約）
+- [outline](/outline)：概要、輪郭（全体の構成や流れを示す）
+- [abstract](/abstract)：要旨、抄録（主に論文の要約）
 
 ---
 
 ## 📖 できればこれも
 
-- [overview](/word/overview/)：概観、全体像
-- [introduction](/word/introduction/)：導入、序論
+- [overview](/overview)：概観、全体像
+- [introduction](/introduction)：導入、序論
 
-<!-- cvid: aid06_bid35 -->
+<!-- cvid: aid08_bid34 -->

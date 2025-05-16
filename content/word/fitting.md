@@ -81,15 +81,19 @@ TOEICでは、形容詞として「適切な」「ふさわしい」の意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「適切な」「ふさわしい」の意味で
 ## 🤔  suitable との違いは？
 
 - **fitting**：状況や目的にぴったり合っていて「ふさわしい」ニュアンス
-- **[suitable](/word/suitable/)**：条件や用途に「適している」ニュアンス
+- **[suitable](/suitable)**：条件や用途に「適している」ニュアンス
 
 **fitting**は「その場にふさわしい」感情や雰囲気を重視し、**suitable**は「条件や目的に合う」実用的な適合を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「適切な」「ふさわしい」の意味で
 
 ## 🧩 あわせて覚えたい
 
-- [appropriate](/word/appropriate/)：適切な、妥当な
-- [proper](/word/proper/)：きちんとした、適切な
+- [appropriate](/appropriate)：適切な、妥当な
+- [proper](/proper)：きちんとした、適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant/)：関連する、適切な
-- [adequate](/word/adequate/)：十分な、適切な
+- [relevant](/relevant)：関連する、適切な
+- [adequate](/adequate)：十分な、適切な
 
-<!-- cvid: aid39_bid44 -->
+<!-- cvid: aid29_bid26 -->

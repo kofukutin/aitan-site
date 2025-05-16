@@ -81,15 +81,19 @@ TOEICでは医療や科学分野の長文記事や求人情報で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid05_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や科学分野の長文記事や求人情報で見かけるこ
 ## 🤔  pharmacy との違いは？
 
 - **pharmacology**：薬の働きや効果を研究する学問分野
-- **[pharmacy](/word/pharmacy/)**：薬局、または薬剤学（薬の調合や販売）
+- **[pharmacy](/pharmacy)**：薬局、または薬剤学（薬の調合や販売）
 
 pharmacologyは「薬理学」という学問を指し、pharmacyは「薬局」や「薬剤学」として実際の薬の調合や販売に関わる場面で使われます。
 
@@ -105,14 +109,14 @@ pharmacologyは「薬理学」という学問を指し、pharmacyは「薬局」
 
 ## 🧩 あわせて覚えたい
 
-- [toxicology](/word/toxicology/)：毒物学（有害物質の作用を研究する学問）
-- [medicine](/word/medicine/)：医学、薬（治療や健康に関する分野）
+- [toxicology](/toxicology)：毒物学（有害物質の作用を研究する学問）
+- [medicine](/medicine)：医学、薬（治療や健康に関する分野）
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription/)：処方箋
-- [pharmaceutical](/word/pharmaceutical/)：製薬の、薬剤の
+- [prescription](/prescription)：処方箋
+- [pharmaceutical](/pharmaceutical)：製薬の、薬剤の
 
-<!-- cvid: aid11_bid39 -->
+<!-- cvid: aid05_bid11 -->

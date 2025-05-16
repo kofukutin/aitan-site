@@ -82,15 +82,19 @@ TOEICでは「重要な」「不可欠な」という意味で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「重要な」「不可欠な」という意味で頻出します。
 ## 🤔  essential との違いは？
 
 - **vital**：命に関わるほど「絶対に必要」「極めて重要」と強調する
-- **[essential](/word/essential/)**：必要不可欠、基本的に「なくてはならない」
+- **[essential](/essential)**：必要不可欠、基本的に「なくてはならない」
 
 vitalは「生命線」「失うと致命的」といった強いニュアンスがあり、essentialは「基本的に必要」というやや広い意味で使われます。
 
@@ -106,14 +110,14 @@ vitalは「生命線」「失うと致命的」といった強いニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [crucial](/word/crucial/)：極めて重要な
-- [minor](/word/minor/)：重要でない、小さい
+- [crucial](/crucial)：極めて重要な
+- [minor](/minor)：重要でない、小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な、意味のある
-- [necessary](/word/necessary/)：必要な
+- [significant](/significant)：重要な、意味のある
+- [necessary](/necessary)：必要な
 
-<!-- cvid: aid32_bid44 -->
+<!-- cvid: aid11_bid13 -->

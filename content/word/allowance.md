@@ -81,15 +81,19 @@ TOEICではビジネスメールや社内規定、福利厚生の説明文など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスメールや社内規定、福利厚生の説明文など
 ## 🤔  discount との違いは？
 
 - **allowance**：手当や割当、または特定の条件での値引きなど幅広い意味で使う
-- **[discount](/word/discount/)**：主に商品の値引きや割引の意味で使う
+- **[discount](/discount)**：主に商品の値引きや割引の意味で使う
 
 allowanceは「支給される手当」や「許容量」など幅広い場面で使われ、discountは「価格を下げる」ことに特化しています。
 
@@ -105,14 +109,14 @@ allowanceは「支給される手当」や「許容量」など幅広い場面�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/word/bonus/)：賞与、ボーナス
-- [deduction](/word/deduction/)：控除、差し引き
+- [bonus](/bonus)：賞与、ボーナス
+- [deduction](/deduction)：控除、差し引き
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/word/benefit/)：福利厚生、利益
-- [expense](/word/expense/)：費用、出費
+- [benefit](/benefit)：福利厚生、利益
+- [expense](/expense)：費用、出費
 
-<!-- cvid: aid49_bid25 -->
+<!-- cvid: aid00_bid11 -->

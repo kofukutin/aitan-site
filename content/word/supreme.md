@@ -81,15 +81,19 @@ TOEICでは、会社の理念や方針、製品の品質などを強調する文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の理念や方針、製品の品質などを強調する文
 ## 🤔  ultimate との違いは？
 
 - **supreme**：他と比べて最も優れている、権威や価値が最上位であることを強調
-- **[ultimate](/word/ultimate/)**：最終的な、究極の、最後の段階や目標を強調
+- **[ultimate](/ultimate)**：最終的な、究極の、最後の段階や目標を強調
 
 supremeは「他を圧倒するほど最高」であること、ultimateは「最終的な到達点や究極の状態」であることを表します。
 
@@ -105,14 +109,14 @@ supremeは「他を圧倒するほど最高」であること、ultimateは「�
 
 ## 🧩 あわせて覚えたい
 
-- [paramount](/word/paramount/)：最重要の、最高位の
-- [inferior](/word/inferior/)：劣った、下位の
+- [paramount](/paramount)：最重要の、最高位の
+- [inferior](/inferior)：劣った、下位の
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な
-- [essential](/word/essential/)：不可欠な、非常に重要な
+- [significant](/significant)：重要な
+- [essential](/essential)：不可欠な、非常に重要な
 
-<!-- cvid: aid06_bid25 -->
+<!-- cvid: aid04_bid26 -->

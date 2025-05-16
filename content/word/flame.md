@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、火や炎が写っている場面で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、火や炎が写っている場面で出
 ## 🤔  blaze との違いは？
 
 - **flame**：炎そのものや小さな火の明るい部分を指す。
-- **[blaze](/word/blaze/)**：大きく激しく燃える炎や火災を指す。
+- **[blaze](/blaze)**：大きく激しく燃える炎や火災を指す。
 
 flameは炎の一部や小規模な火に使い、blazeは大規模で勢いのある火事や炎に使います。
 
@@ -105,14 +109,14 @@ flameは炎の一部や小規模な火に使い、blazeは大規模で勢いの�
 
 ## 🧩 あわせて覚えたい
 
-- [spark](/word/spark/)：火花
-- [smoke](/word/smoke/)：煙
+- [spark](/spark)：火花
+- [smoke](/smoke)：煙
 
 ---
 
 ## 📖 できればこれも
 
-- [burn](/word/burn/)：燃える
-- [heat](/word/heat/)：熱
+- [burn](/burn)：燃える
+- [heat](/heat)：熱
 
-<!-- cvid: aid48_bid31 -->
+<!-- cvid: aid18_bid24 -->

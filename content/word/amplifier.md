@@ -81,15 +81,19 @@ TOEICでは、会議やプレゼン、設備説明などの場面で「amplifier
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議やプレゼン、設備説明などの場面で「amplifier
 ## 🤔  speaker との違いは？
 
 - **amplifier**：音や信号を「増幅する」装置
-- **[speaker](/word/speaker/)**：増幅された音を「出す」装置
+- **[speaker](/speaker)**：増幅された音を「出す」装置
 
 amplifierは音や信号を大きくする役割、speakerはその大きくなった音を実際に出す役割です。両者はセットで使われることが多いですが、機能が異なります。
 
@@ -105,14 +109,14 @@ amplifierは音や信号を大きくする役割、speakerはその大きくな�
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/word/microphone/)：音を電気信号に変える装置（マイク）
-- [receiver](/word/receiver/)：信号や音を受信する装置
+- [microphone](/microphone)：音を電気信号に変える装置（マイク）
+- [receiver](/receiver)：信号や音を受信する装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [signal](/word/signal/)：信号
+- [device](/device)：装置、機器
+- [signal](/signal)：信号
 
-<!-- cvid: aid27_bid04 -->
+<!-- cvid: aid11_bid43 -->

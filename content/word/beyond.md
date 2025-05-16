@@ -77,15 +77,19 @@ TOEICでは、空間や抽象的な「範囲を超える」意味で前置詞と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、空間や抽象的な「範囲を超える」意味で前置詞と
 ## 🤔  outside との違いは？
 
 - **beyond**：ある基準や範囲を「超えて」「向こう側に」
-- **[outside](/word/outside/)**：物理的に「外側に」「外で」
+- **[outside](/outside)**：物理的に「外側に」「外で」
 
 beyondは「限界や範囲を超える」ニュアンスがあり、抽象的な使い方もできますが、outsideは単に「外側」を指し、物理的な意味が中心です。
 
@@ -101,14 +105,14 @@ beyondは「限界や範囲を超える」ニュアンスがあり、抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [over](/word/over/)：～の上に、～を越えて
-- [past](/word/past/)：～を過ぎて、～の向こうに
+- [over](/over)：～の上に、～を越えて
+- [past](/past)：～を過ぎて、～の向こうに
 
 ---
 
 ## 📖 できればこれも
 
-- [within](/word/within/)：～の中に、～以内で
-- [across](/word/across/)：～を横切って、～の向こう側に
+- [within](/within)：～の中に、～以内で
+- [across](/across)：～を横切って、～の向こう側に
 
-<!-- cvid: aid30_bid39 -->
+<!-- cvid: aid35_bid27 -->

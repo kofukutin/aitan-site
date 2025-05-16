@@ -81,15 +81,19 @@ TOEICではビジネス文書やメール、明細書などの読解問題で頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やメール、明細書などの読解問題で頻
 ## 🤔  announcement との違いは？
 
 - **statement**：公式な発表や意見の表明、または明細書など幅広く使う
-- **[announcement](/word/announcement/)**：新しい情報やニュースを公に知らせる発表
+- **[announcement](/announcement)**：新しい情報やニュースを公に知らせる発表
 
 statementは内容の正確さや公式性を重視し、announcementは「知らせること」に重点があります。
 
@@ -105,14 +109,14 @@ statementは内容の正確さや公式性を重視し、announcementは「知�
 
 ## 🧩 あわせて覚えたい
 
-- [report](/word/report/)：報告書、レポート
-- [comment](/word/comment/)：コメント、意見
+- [report](/report)：報告書、レポート
+- [comment](/comment)：コメント、意見
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [summary](/word/summary/)：要約、まとめ
+- [document](/document)：文書、書類
+- [summary](/summary)：要約、まとめ
 
-<!-- cvid: aid03_bid31 -->
+<!-- cvid: aid24_bid07 -->

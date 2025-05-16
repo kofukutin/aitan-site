@@ -82,15 +82,19 @@ TOEICでは、形容詞として「repeated calls（繰り返しの電話）」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、形容詞として「repeated calls（繰り返しの電話）」�
 ## 🤔  frequent との違いは？
 
 - **repeated**：同じことが何度も繰り返されることを強調
-- **[frequent](/word/frequent/)**：頻度が高いこと、よく起こることを強調
+- **[frequent](/frequent)**：頻度が高いこと、よく起こることを強調
 
 「repeated」は「同じ動作や出来事が何度も繰り返される」ことに焦点があり、「frequent」は「回数が多い・頻繁である」ことに重点があります。
 
@@ -106,14 +110,14 @@ TOEICでは、形容詞として「repeated calls（繰り返しの電話）」�
 
 ## 🧩 あわせて覚えたい
 
-- [continuous](/word/continuous/)：連続した、途切れない
-- [occasional](/word/occasional/)：時々の、たまの
+- [continuous](/continuous)：連続した、途切れない
+- [occasional](/occasional)：時々の、たまの
 
 ---
 
 ## 📖 できればこれも
 
-- [regular](/word/regular/)：定期的な、規則的な
-- [constant](/word/constant/)：絶え間ない、常に続く
+- [regular](/regular)：定期的な、規則的な
+- [constant](/constant)：絶え間ない、常に続く
 
-<!-- cvid: aid11_bid34 -->
+<!-- cvid: aid13_bid41 -->

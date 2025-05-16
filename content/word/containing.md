@@ -81,15 +81,19 @@ TOEICでは、分詞構文や形容詞的用法として「containing」が名�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、分詞構文や形容詞的用法として「containing」が名�
 ## 🤔  including との違いは？
 
 - **containing**：物理的・具体的に「中に含んでいる」ことを強調
-- **[including](/word/including/)**：全体の一部として「～を含めて」という意味で、範囲や例示に使う
+- **[including](/including)**：全体の一部として「～を含めて」という意味で、範囲や例示に使う
 
 「containing」は実際に中に入っている状態を指し、「including」はリストや範囲の一部として含めるニュアンスです。
 
@@ -105,14 +109,14 @@ TOEICでは、分詞構文や形容詞的用法として「containing」が名�
 
 ## 🧩 あわせて覚えたい
 
-- [exclude](/word/exclude/)：除外する
-- [consist](/word/consist/)：構成される
+- [exclude](/exclude)：除外する
+- [consist](/consist)：構成される
 
 ---
 
 ## 📖 できればこれも
 
-- [involve](/word/involve/)：関与する、含む
-- [cover](/word/cover/)：覆う、含む
+- [involve](/involve)：関与する、含む
+- [cover](/cover)：覆う、含む
 
-<!-- cvid: aid02_bid27 -->
+<!-- cvid: aid23_bid09 -->

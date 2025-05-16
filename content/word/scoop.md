@@ -81,15 +81,19 @@ TOEICでは主に新聞記事やビジネスニュースの文脈で「特ダネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に新聞記事やビジネスニュースの文脈で「特ダネ
 ## 🤔  exclusive との違いは？
 
 - **scoop**：他より先に手に入れた特ダネやニュース
-- **[exclusive](/word/exclusive/)**：独占的な、他では得られない情報や権利
+- **[exclusive](/exclusive)**：独占的な、他では得られない情報や権利
 
 「scoop」は"特ダネ"そのものを指し、「exclusive」は"独占的な"という性質を強調します。独占記事は「exclusive scoop」とも言えますが、ニュアンスが異なります。
 
@@ -105,14 +109,14 @@ TOEICでは主に新聞記事やビジネスニュースの文脈で「特ダネ
 
 ## 🧩 あわせて覚えたい
 
-- [headline](/word/headline/)：見出し、ニュースのタイトル
-- [rumor](/word/rumor/)：うわさ、風説
+- [headline](/headline)：見出し、ニュースのタイトル
+- [rumor](/rumor)：うわさ、風説
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update/)：最新情報、更新
-- [report](/word/report/)：報告、レポート
+- [update](/update)：最新情報、更新
+- [report](/report)：報告、レポート
 
-<!-- cvid: aid48_bid37 -->
+<!-- cvid: aid44_bid33 -->

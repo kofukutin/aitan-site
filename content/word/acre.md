@@ -80,15 +80,19 @@ TOEICでは、不動産や土地取引、農業関連の記事や広告などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、不動産や土地取引、農業関連の記事や広告などで
 ## 🤔  hectare との違いは？
 
 - **acre**：主にアメリカやイギリスで使われる面積の単位（約4,047㎡）
-- **[hectare](/word/hectare/)**：国際的に使われるメートル法の面積単位（1ヘクタール＝10,000㎡）
+- **[hectare](/hectare)**：国際的に使われるメートル法の面積単位（1ヘクタール＝10,000㎡）
 
 acreはヤード・ポンド法圏で使われ、hectareはメートル法圏で使われるため、国や地域によって使い分けます。
 
@@ -104,14 +108,14 @@ acreはヤード・ポンド法圏で使われ、hectareはメートル法圏で
 
 ## 🧩 あわせて覚えたい
 
-- [yard](/word/yard/)：ヤード（長さの単位、約91.44cm）
-- [plot](/word/plot/)：区画、土地の一部
+- [yard](/yard)：ヤード（長さの単位、約91.44cm）
+- [plot](/plot)：区画、土地の一部
 
 ---
 
 ## 📖 できればこれも
 
-- [mile](/word/mile/)：マイル（長さの単位、約1.6km）
-- [area](/word/area/)：面積、地域
+- [mile](/mile)：マイル（長さの単位、約1.6km）
+- [area](/area)：面積、地域
 
-<!-- cvid: aid30_bid33 -->
+<!-- cvid: aid19_bid11 -->

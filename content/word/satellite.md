@@ -81,15 +81,19 @@ TOEICでは、科学技術や通信に関する説明文や記事で「satellite
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学技術や通信に関する説明文や記事で「satellite
 ## 🤔  probe との違いは？
 
 - **satellite**：地球や惑星の周囲を回る「衛星」や、従属するものを指す。
-- **[probe](/word/probe/)**：宇宙や深海などに送り込む「探査機」や「調査装置」を指す。
+- **[probe](/probe)**：宇宙や深海などに送り込む「探査機」や「調査装置」を指す。
 
 satelliteは「回るもの」「従属するもの」、probeは「調査・探査のために送り込む装置」という違いがあります。
 
@@ -105,14 +109,14 @@ satelliteは「回るもの」「従属するもの」、probeは「調査・探
 
 ## 🧩 あわせて覚えたい
 
-- [orbit](/word/orbit/)：軌道、軌道を回る
-- [transmit](/word/transmit/)：送信する、伝える
+- [orbit](/orbit)：軌道、軌道を回る
+- [transmit](/transmit)：送信する、伝える
 
 ---
 
 ## 📖 できればこれも
 
-- [launch](/word/launch/)：打ち上げる、開始する
-- [device](/word/device/)：装置、機器
+- [launch](/launch)：打ち上げる、開始する
+- [device](/device)：装置、機器
 
-<!-- cvid: aid38_bid47 -->
+<!-- cvid: aid26_bid06 -->

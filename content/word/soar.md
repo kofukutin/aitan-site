@@ -81,15 +81,19 @@ TOEICでは、売上や価格、数値の急上昇を表す文脈でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、売上や価格、数値の急上昇を表す文脈でよく登場
 ## 🤔  surge との違いは？
 
 - **soar**：急激に高く上がる、特に数値や価格が一気に上昇するイメージ
-- **[surge](/word/surge/)**：急に押し寄せる、波のように増える・高まる
+- **[surge](/surge)**：急に押し寄せる、波のように増える・高まる
 
 soarは「空高く舞い上がる」ような上昇、surgeは「波のように一気に押し寄せる」増加や高まりを表します。
 
@@ -105,14 +109,14 @@ soarは「空高く舞い上がる」ような上昇、surgeは「波のよう�
 
 ## 🧩 あわせて覚えたい
 
-- [plummet](/word/plummet/)：急落する
-- [rise](/word/rise/)：上がる、増える
+- [plummet](/plummet)：急落する
+- [rise](/rise)：上がる、増える
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増加する
-- [expand](/word/expand/)：拡大する
+- [increase](/increase)：増加する
+- [expand](/expand)：拡大する
 
-<!-- cvid: aid10_bid07 -->
+<!-- cvid: aid06_bid23 -->

@@ -81,15 +81,19 @@ TOEICでは「状態」や「州」、「述べる」という意味でPart 5や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「状態」や「州」、「述べる」という意味でPart 5や
 ## 🤔  condition との違いは？
 
 - **state**：ある時点での全体的な「状態」や「ありさま」を表す。
-- **[condition](/word/condition/)**：特定の条件や健康・機械の「調子」を表す。
+- **[condition](/condition)**：特定の条件や健康・機械の「調子」を表す。
 
 「state」は全体的な状況や抽象的な状態を指し、「condition」はより具体的な条件や健康・機械の良し悪しに使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「状態」や「州」、「述べる」という意味でPart 5や
 
 ## 🧩 あわせて覚えたい
 
-- [status](/word/status/)：（社会的な）地位、状況
-- [situation](/word/situation/)：（ある時点の）状況、場面
+- [status](/status)：（社会的な）地位、状況
+- [situation](/situation)：（ある時点の）状況、場面
 
 ---
 
 ## 📖 できればこれも
 
-- [stage](/word/stage/)：段階、舞台
-- [phase](/word/phase/)：（変化の）段階、局面
+- [stage](/stage)：段階、舞台
+- [phase](/phase)：（変化の）段階、局面
 
-<!-- cvid: aid09_bid44 -->
+<!-- cvid: aid00_bid08 -->

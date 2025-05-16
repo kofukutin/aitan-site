@@ -81,15 +81,19 @@ TOEICでは、ニュース記事や説明文で「invasion of privacy（プラ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ニュース記事や説明文で「invasion of privacy（プラ�
 ## 🤔  intrusion との違いは？
 
 - **invasion**：力や規模の大きな侵入・侵略、軍事や権利侵害にも使う
-- **[intrusion](/word/intrusion/)**：不法・不適切な立ち入りや干渉、主に個人や小規模な場面で使う
+- **[intrusion](/intrusion)**：不法・不適切な立ち入りや干渉、主に個人や小規模な場面で使う
 
 invasionは大規模で強制的な侵入、intrusionはより個人的・控えめな侵入や干渉に使われます。
 
@@ -105,14 +109,14 @@ invasionは大規模で強制的な侵入、intrusionはより個人的・控え
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/word/attack/)：攻撃
-- [occupation](/word/occupation/)：占領
+- [attack](/attack)：攻撃
+- [occupation](/occupation)：占領
 
 ---
 
 ## 📖 できればこれも
 
-- [conflict](/word/conflict/)：対立、衝突
-- [violation](/word/violation/)：違反、侵害
+- [conflict](/conflict)：対立、衝突
+- [violation](/violation)：違反、侵害
 
-<!-- cvid: aid42_bid40 -->
+<!-- cvid: aid10_bid47 -->

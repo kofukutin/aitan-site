@@ -81,15 +81,19 @@ TOEICでは求人広告や会社紹介、職務経歴書などの長文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告や会社紹介、職務経歴書などの長文でよく
 ## 🤔  trainee との違いは？
 
 - **intern**：主に学生や若手が短期間、実務経験を積むために働く人
-- **[trainee](/word/trainee/)**：特定のスキルや職務のために訓練を受けている人
+- **[trainee](/trainee)**：特定のスキルや職務のために訓練を受けている人
 
 internは「実務体験を目的とした一時的な職業体験生」、traineeは「新入社員や転職者など幅広い層が訓練を受ける人」として使い分けます。
 
@@ -105,14 +109,14 @@ internは「実務体験を目的とした一時的な職業体験生」、train
 
 ## 🧩 あわせて覚えたい
 
-- [apprentice](/word/apprentice/)：見習い、徒弟
-- [mentor](/word/mentor/)：指導者、助言者
+- [apprentice](/apprentice)：見習い、徒弟
+- [mentor](/mentor)：指導者、助言者
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/word/resume/)：履歴書
-- [position](/word/position/)：職、役職
+- [resume](/resume)：履歴書
+- [position](/position)：職、役職
 
-<!-- cvid: aid14_bid30 -->
+<!-- cvid: aid44_bid06 -->

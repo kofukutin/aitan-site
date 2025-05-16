@@ -82,15 +82,19 @@ TOEICでは「temporarily（仮に）」との対比や、動詞と組み合わ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「temporarily（仮に）」との対比や、動詞と組み合わ�
 ## 🤔  forever との違いは？
 
 - **permanently**：一度決まったら変わらない、元に戻らないことを強調する「永久に」
-- **[forever](/word/forever/)**：時間的に「ずっと」「永遠に」という意味で、感情や口語的な場面でも使う
+- **[forever](/forever)**：時間的に「ずっと」「永遠に」という意味で、感情や口語的な場面でも使う
 
 「permanently」は公式・事務的な場面で「恒久的に変化しない」ことを強調し、「forever」は日常会話や感情表現で「いつまでも続く」ニュアンスが強いです。
 
@@ -106,14 +110,14 @@ TOEICでは「temporarily（仮に）」との対比や、動詞と組み合わ�
 
 ## 🧩 あわせて覚えたい
 
-- [temporarily](/word/temporarily/)：一時的に
-- [constantly](/word/constantly/)：絶えず、常に
+- [temporarily](/temporarily)：一時的に
+- [constantly](/constantly)：絶えず、常に
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently/)：頻繁に
-- [immediately](/word/immediately/)：すぐに
+- [frequently](/frequently)：頻繁に
+- [immediately](/immediately)：すぐに
 
-<!-- cvid: aid44_bid34 -->
+<!-- cvid: aid42_bid27 -->

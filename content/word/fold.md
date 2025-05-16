@@ -81,15 +81,19 @@ TOEICでは、書類や衣類を「折る」「たたむ」場面で会話文中
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類や衣類を「折る」「たたむ」場面で会話文中
 ## 🤔  bend との違いは？
 
 - **fold**：紙や布などを「折りたたむ」「重ねて折る」ことを表す。
-- **[bend](/word/bend/)**：物を「曲げる」、形を変えるが折り目をつけるとは限らない。
+- **[bend](/bend)**：物を「曲げる」、形を変えるが折り目をつけるとは限らない。
 
 foldは「折り目をつけてたたむ」動作、bendは「しならせる・曲げる」動作に使い分けます。
 
@@ -105,14 +109,14 @@ foldは「折り目をつけてたたむ」動作、bendは「しならせる・
 
 ## 🧩 あわせて覚えたい
 
-- [unfold](/word/unfold/)：広げる、開く
-- [wrap](/word/wrap/)：包む
+- [unfold](/unfold)：広げる、開く
+- [wrap](/wrap)：包む
 
 ---
 
 ## 📖 できればこれも
 
-- [pack](/word/pack/)：詰める、荷造りする
-- [cover](/word/cover/)：覆う、カバーする
+- [pack](/pack)：詰める、荷造りする
+- [cover](/cover)：覆う、カバーする
 
-<!-- cvid: aid05_bid37 -->
+<!-- cvid: aid27_bid05 -->

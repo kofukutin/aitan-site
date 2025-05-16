@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、ポジティブな評価を表す表現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、ポジティブな評価を表す表現
 ## 🤔  unbelievable との違いは？
 
 - **incredible**：主に「素晴らしい」「驚くべき」といった肯定的な意味で使われることが多い。
-- **[unbelievable](/word/unbelievable/)**：信じがたいほど「ありえない」「現実離れしている」というニュアンスが強く、肯定・否定どちらにも使える。
+- **[unbelievable](/unbelievable)**：信じがたいほど「ありえない」「現実離れしている」というニュアンスが強く、肯定・否定どちらにも使える。
 
 incredibleはポジティブな驚きを表すのに対し、unbelievableは良い意味でも悪い意味でも「信じがたい」状況全般に使われます。
 
@@ -105,14 +109,14 @@ incredibleはポジティブな驚きを表すのに対し、unbelievableは良�
 
 ## 🧩 あわせて覚えたい
 
-- [amazing](/word/amazing/)：驚くほど素晴らしい
-- [impossible](/word/impossible/)：不可能な
+- [amazing](/amazing)：驚くほど素晴らしい
+- [impossible](/impossible)：不可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/word/remarkable/)：注目すべき、並外れた
-- [fantastic](/word/fantastic/)：素晴らしい、すごい
+- [remarkable](/remarkable)：注目すべき、並外れた
+- [fantastic](/fantastic)：素晴らしい、すごい
 
-<!-- cvid: aid21_bid29 -->
+<!-- cvid: aid49_bid32 -->

@@ -80,15 +80,19 @@ TOEICでは、趣味やスポーツに関する話題や、イベント案内の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、趣味やスポーツに関する話題や、イベント案内の
 ## 🤔  football との違いは？
 
 - **soccer**：アメリカやカナダで「サッカー」を指す言葉。
-- **[football](/word/football/)**：イギリスや多くの国で「サッカー」を指すが、アメリカでは「アメリカンフットボール」を意味する。
+- **[football](/football)**：イギリスや多くの国で「サッカー」を指すが、アメリカでは「アメリカンフットボール」を意味する。
 
 アメリカ英語では「soccer」、イギリス英語では「football」と呼ぶのが一般的です。国によって指すスポーツが異なるので注意しましょう。
 
@@ -104,14 +108,14 @@ TOEICでは、趣味やスポーツに関する話題や、イベント案内の
 
 ## 🧩 あわせて覚えたい
 
-- [baseball](/word/baseball/)：野球
-- [athlete](/word/athlete/)：運動選手
+- [baseball](/baseball)：野球
+- [athlete](/athlete)：運動選手
 
 ---
 
 ## 📖 できればこれも
 
-- [basketball](/word/basketball/)：バスケットボール
-- [coach](/word/coach/)：コーチ、指導者
+- [basketball](/basketball)：バスケットボール
+- [coach](/coach)：コーチ、指導者
 
-<!-- cvid: aid38_bid30 -->
+<!-- cvid: aid15_bid49 -->

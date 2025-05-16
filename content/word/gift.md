@@ -81,15 +81,19 @@ TOEICでは「贈り物」や「才能」の意味で、語彙問題や短文穴
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「贈り物」や「才能」の意味で、語彙問題や短文穴
 ## 🤔  present との違いは？
 
 - **gift**：フォーマル・カジュアル両方で使え、「才能」の意味もある
-- **[present](/word/present/)**：ややカジュアルで「贈り物」の意味が中心
+- **[present](/present)**：ややカジュアルで「贈り物」の意味が中心
 
 giftは「才能」という意味も持ち、presentは主に「贈り物」に限定される点が異なります。
 
@@ -105,14 +109,14 @@ giftは「才能」という意味も持ち、presentは主に「贈り物」に
 
 ## 🧩 あわせて覚えたい
 
-- [donation](/word/donation/)：寄付、贈与
-- [talent](/word/talent/)：才能
+- [donation](/donation)：寄付、贈与
+- [talent](/talent)：才能
 
 ---
 
 ## 📖 できればこれも
 
-- [award](/word/award/)：賞、表彰
-- [bonus](/word/bonus/)：ボーナス、特別手当
+- [award](/award)：賞、表彰
+- [bonus](/bonus)：ボーナス、特別手当
 
-<!-- cvid: aid16_bid22 -->
+<!-- cvid: aid35_bid46 -->

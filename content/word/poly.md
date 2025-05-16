@@ -81,15 +81,19 @@ TOEICでは主に製品説明や技術文書、梱包材の記述などで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に製品説明や技術文書、梱包材の記述などで登場
 ## 🤔  multi との違いは？
 
 - **poly**：主に化学分野で「合成樹脂」や「高分子化合物」の略称として使われる。
-- **[multi](/word/multi/)**：数量や種類が「多い」ことを表す接頭辞や形容詞。
+- **[multi](/multi)**：数量や種類が「多い」ことを表す接頭辞や形容詞。
 
 polyは素材や化学用語の略語、multiは「多い」という数量的な意味で使い分けます。
 
@@ -105,14 +109,14 @@ polyは素材や化学用語の略語、multiは「多い」という数量的�
 
 ## 🧩 あわせて覚えたい
 
-- [polymer](/word/polymer/)：ポリマー、高分子化合物
-- [monomer](/word/monomer/)：モノマー、単量体
+- [polymer](/polymer)：ポリマー、高分子化合物
+- [monomer](/monomer)：モノマー、単量体
 
 ---
 
 ## 📖 できればこれも
 
-- [macro](/word/macro/)：大きい、巨視的な
-- [micro](/word/micro/)：小さい、微視的な
+- [macro](/macro)：大きい、巨視的な
+- [micro](/micro)：小さい、微視的な
 
-<!-- cvid: aid29_bid17 -->
+<!-- cvid: aid10_bid15 -->

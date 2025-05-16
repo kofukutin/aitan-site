@@ -81,15 +81,19 @@ existenceはTOEICの長文読解（Part 7）で、抽象的な話題や説明文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ existenceはTOEICの長文読解（Part 7）で、抽象的な話題や説明文
 ## 🤔  presence との違いは？
 
 - **existence**：何かが「存在している」という事実や状態そのものを指す
-- **[presence](/word/presence/)**：その場に「いる」「現れている」こと、目の前にあることを強調
+- **[presence](/presence)**：その場に「いる」「現れている」こと、目の前にあることを強調
 
 existenceは抽象的・哲学的な「存在」全般を指し、presenceは「その場にいる」「目の前にある」など具体的な現れ方を強調します。
 
@@ -105,14 +109,14 @@ existenceは抽象的・哲学的な「存在」全般を指し、presenceは「
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/word/absence/)：不在、存在しないこと
-- [reality](/word/reality/)：現実、実際にあること
+- [absence](/absence)：不在、存在しないこと
+- [reality](/reality)：現実、実際にあること
 
 ---
 
 ## 📖 できればこれも
 
-- [survive](/word/survive/)：生き残る
-- [occur](/word/occur/)：起こる、発生する
+- [survive](/survive)：生き残る
+- [occur](/occur)：起こる、発生する
 
-<!-- cvid: aid42_bid16 -->
+<!-- cvid: aid27_bid22 -->

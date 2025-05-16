@@ -81,15 +81,19 @@ TOEICではあまり頻出ではありませんが、ITやカジュアルなメ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではあまり頻出ではありませんが、ITやカジュアルなメ�
 ## 🤔  info との違いは？
 
 - **gen**：カジュアルで主にイギリス英語圏で使われる「情報」「うわさ」などの略語。
-- **[info](/word/info/)**：より一般的でフォーマル・カジュアル両方で使える「情報」の略語。
+- **[info](/info)**：より一般的でフォーマル・カジュアル両方で使える「情報」の略語。
 
 「gen」は親しい間柄や口語で使われやすく、「info」はビジネスや公式な場面でも幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICではあまり頻出ではありませんが、ITやカジュアルなメ�
 
 ## 🧩 あわせて覚えたい
 
-- [data](/word/data/)：データ、資料
-- [detail](/word/detail/)：詳細、細部
+- [data](/data)：データ、資料
+- [detail](/detail)：詳細、細部
 
 ---
 
 ## 📖 できればこれも
 
-- [tip](/word/tip/)：ヒント、助言
-- [hint](/word/hint/)：手がかり、ヒント
+- [tip](/tip)：ヒント、助言
+- [hint](/hint)：手がかり、ヒント
 
-<!-- cvid: aid07_bid42 -->
+<!-- cvid: aid27_bid22 -->

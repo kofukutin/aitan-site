@@ -81,15 +81,19 @@ TOEICでは「satisfy」の否定形として文法問題や語彙問題で出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「satisfy」の否定形として文法問題や語彙問題で出�
 ## 🤔  disappoint との違いは？
 
 - **dissatisfy**：期待や要求を十分に満たさず、不満を感じさせる。
-- **[disappoint](/word/disappoint/)**：期待が裏切られたときの「がっかりさせる」。
+- **[disappoint](/disappoint)**：期待が裏切られたときの「がっかりさせる」。
 
 dissatisfyは「満足できない」状態を強調し、disappointは「期待を裏切る」感情的な落胆を強調します。
 
@@ -105,14 +109,14 @@ dissatisfyは「満足できない」状態を強調し、disappointは「期待
 
 ## 🧩 あわせて覚えたい
 
-- [satisfy](/word/satisfy/)：満足させる
-- [frustrate](/word/frustrate/)：いら立たせる、挫折させる
+- [satisfy](/satisfy)：満足させる
+- [frustrate](/frustrate)：いら立たせる、挫折させる
 
 ---
 
 ## 📖 できればこれも
 
-- [complain](/word/complain/)：不満を言う
-- [fulfill](/word/fulfill/)：（要求・条件などを）満たす
+- [complain](/complain)：不満を言う
+- [fulfill](/fulfill)：（要求・条件などを）満たす
 
-<!-- cvid: aid06_bid40 -->
+<!-- cvid: aid13_bid38 -->

@@ -81,15 +81,19 @@ TOEICでは説明文や案内、マニュアルなどで「usage」がよく登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは説明文や案内、マニュアルなどで「usage」がよく登�
 ## 🤔  use との違いは？
 
 - **usage**：使い方や使用方法、慣習的な用法を指すフォーマルな名詞
-- **[use](/word/use/)**：使うこと自体や用途を表す一般的な名詞・動詞
+- **[use](/use)**：使うこと自体や用途を表す一般的な名詞・動詞
 
 「usage」は使い方や慣習的な方法に焦点を当て、「use」は単に使う行為や目的を指します。
 
@@ -105,14 +109,14 @@ TOEICでは説明文や案内、マニュアルなどで「usage」がよく登�
 
 ## 🧩 あわせて覚えたい
 
-- [consumption](/word/consumption/)：消費、消耗
-- [application](/word/application/)：応用、適用
+- [consumption](/consumption)：消費、消耗
+- [application](/application)：応用、適用
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method/)：方法、手段
-- [instruction](/word/instruction/)：指示、説明
+- [method](/method)：方法、手段
+- [instruction](/instruction)：指示、説明
 
-<!-- cvid: aid06_bid34 -->
+<!-- cvid: aid38_bid42 -->

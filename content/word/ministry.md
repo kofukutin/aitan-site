@@ -81,15 +81,19 @@ TOEICでは政府機関や公式文書、ニュース記事などの長文でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは政府機関や公式文書、ニュース記事などの長文でよ
 ## 🤔  department との違いは？
 
 - **ministry**：政府の「省」や「省庁」など、国レベルの公的機関を指すフォーマルな表現
-- **[department](/word/department/)**：会社や組織内の「部門」「部署」や、米国の政府機関（Department of Stateなど）に使う
+- **[department](/department)**：会社や組織内の「部門」「部署」や、米国の政府機関（Department of Stateなど）に使う
 
 ministryは主にイギリスや他国の政府機関に使い、departmentは企業や米国の政府機関など幅広く使われます。
 
@@ -105,14 +109,14 @@ ministryは主にイギリスや他国の政府機関に使い、departmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [agency](/word/agency/)：（政府などの）機関、庁
-- [bureau](/word/bureau/)：（政府の）局、部
+- [agency](/agency)：（政府などの）機関、庁
+- [bureau](/bureau)：（政府の）局、部
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy/)：政策、方針
-- [committee](/word/committee/)：委員会
+- [policy](/policy)：政策、方針
+- [committee](/committee)：委員会
 
-<!-- cvid: aid48_bid04 -->
+<!-- cvid: aid17_bid06 -->

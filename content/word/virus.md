@@ -81,15 +81,19 @@ Our computers were infected by a virus last week.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our computers were infected by a virus last week.
 ## 🤔  bacteria との違いは？
 
 - **virus**：ウイルス。生物と非生物の中間的存在で、自己増殖できず、宿主の細胞内でのみ増える。
-- **[bacteria](/word/bacteria/)**：細菌。単細胞の微生物で、自己増殖が可能。
+- **[bacteria](/bacteria)**：細菌。単細胞の微生物で、自己増殖が可能。
 
 virusは細胞を持たず、自己増殖できない点がbacteriaと大きく異なります。bacteriaは抗生物質が効きますが、virusには効きません。
 
@@ -105,14 +109,14 @@ virusは細胞を持たず、自己増殖できない点がbacteriaと大きく�
 
 ## 🧩 あわせて覚えたい
 
-- [infection](/word/infection/)：感染
-- [antibody](/word/antibody/)：抗体
+- [infection](/infection)：感染
+- [antibody](/antibody)：抗体
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [symptom](/word/symptom/)：症状
+- [disease](/disease)：病気
+- [symptom](/symptom)：症状
 
-<!-- cvid: aid47_bid04 -->
+<!-- cvid: aid25_bid42 -->

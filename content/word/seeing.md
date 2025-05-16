@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「会う」「見る」という進行形や名
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「会う」「見る」という進行形や名
 ## 🤔  looking との違いは？
 
 - **seeing**：意識せず自然に「見えている」「会っている」状態や、予定として「会うこと」を表す。
-- **[looking](/word/looking/)**：意識的に「見る」「見ようとする」動作を表す。
+- **[looking](/looking)**：意識的に「見る」「見ようとする」動作を表す。
 
 「seeing」は自然に目に入る・会う場合に使い、「looking」は意図的に視線を向ける場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「会う」「見る」という進行形や名
 
 ## 🧩 あわせて覚えたい
 
-- [watching](/word/watching/)：（動いているものを）じっと見る
-- [meeting](/word/meeting/)：会うこと、会議
+- [watching](/watching)：（動いているものを）じっと見る
+- [meeting](/meeting)：会うこと、会議
 
 ---
 
 ## 📖 できればこれも
 
-- [hearing](/word/hearing/)：聞くこと、聴覚
-- [talking](/word/talking/)：話すこと
+- [hearing](/hearing)：聞くこと、聴覚
+- [talking](/talking)：話すこと
 
-<!-- cvid: aid07_bid37 -->
+<!-- cvid: aid00_bid10 -->

@@ -81,15 +81,19 @@ We are pressed to finish the project by Friday.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ We are pressed to finish the project by Friday.
 ## 🤔  urgent との違いは？
 
 - **pressed**：時間や資源が足りず、余裕がない状態を表す
-- **[urgent](/word/urgent/)**：緊急性が高く、すぐに対応が必要な状態
+- **[urgent](/urgent)**：緊急性が高く、すぐに対応が必要な状態
 
 「pressed」は「余裕がない」ことに焦点があり、「urgent」は「緊急性」に重点があります。
 
@@ -105,14 +109,14 @@ We are pressed to finish the project by Friday.
 
 ## 🧩 あわせて覚えたい
 
-- [tight](/word/tight/)：（時間や予算が）きつい
-- [relaxed](/word/relaxed/)：余裕がある、リラックスした
+- [tight](/tight)：（時間や予算が）きつい
+- [relaxed](/relaxed)：余裕がある、リラックスした
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/word/busy/)：忙しい
-- [available](/word/available/)：利用できる、空いている
+- [busy](/busy)：忙しい
+- [available](/available)：利用できる、空いている
 
-<!-- cvid: aid31_bid39 -->
+<!-- cvid: aid07_bid48 -->

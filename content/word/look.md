@@ -84,15 +84,19 @@ TOEICではPart 1の写真描写問題で「look at」や「looking」などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid16" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid16" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICではPart 1の写真描写問題で「look at」や「looking」などの�
 ## 🤔  see との違いは？
 
 - **look**：意識して目を向ける、見ようとする
-- **[see](/word/see/)**：自然に目に入る、見える
+- **[see](/see)**：自然に目に入る、見える
 
 「look」は自分の意志で視線を向ける時に使い、「see」は意識しなくても目に入る時に使います。
 
@@ -108,14 +112,14 @@ TOEICではPart 1の写真描写問題で「look at」や「looking」などの�
 
 ## 🧩 あわせて覚えたい
 
-- [watch](/word/watch/)：じっと見る、観察する
-- [glance](/word/glance/)：ちらっと見る
+- [watch](/watch)：じっと見る、観察する
+- [glance](/glance)：ちらっと見る
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/word/find/)：見つける、発見する
-- [show](/word/show/)：見せる、示す
+- [find](/find)：見つける、発見する
+- [show](/show)：見せる、示す
 
-<!-- cvid: aid14_bid02 -->
+<!-- cvid: aid26_bid16 -->

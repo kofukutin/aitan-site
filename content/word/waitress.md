@@ -81,15 +81,19 @@ TOEICのPart 1で、レストランやカフェの写真説明でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1で、レストランやカフェの写真説明でよく登場し
 ## 🤔  server との違いは？
 
 - **waitress**：女性の給仕を指すカジュアルな表現
-- **[server](/word/server/)**：性別を問わず使える中立的な給仕の呼び方
+- **[server](/server)**：性別を問わず使える中立的な給仕の呼び方
 
 「waitress」は女性限定ですが、「server」は性別を問わず使えるため、近年はより一般的です。
 
@@ -105,14 +109,14 @@ TOEICのPart 1で、レストランやカフェの写真説明でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [waiter](/word/waiter/)：男性の給仕
-- [attendant](/word/attendant/)：案内係、付き添い人
+- [waiter](/waiter)：男性の給仕
+- [attendant](/attendant)：案内係、付き添い人
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer/)：客、顧客
-- [menu](/word/menu/)：メニュー、献立
+- [customer](/customer)：客、顧客
+- [menu](/menu)：メニュー、献立
 
-<!-- cvid: aid25_bid47 -->
+<!-- cvid: aid10_bid13 -->

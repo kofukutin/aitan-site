@@ -81,15 +81,19 @@ The main attraction of our product is its unique design.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The main attraction of our product is its unique design.
 ## 🤔  appeal との違いは？
 
 - **attraction**：人や物を引きつける力、または観光名所など具体的な対象
-- **[appeal](/word/appeal/)**：魅力や訴求力、心に訴える点
+- **[appeal](/appeal)**：魅力や訴求力、心に訴える点
 
 attractionは「物理的・視覚的に人を引きつけるもの」や「観光地」など具体的な対象に使い、appealは「抽象的な魅力」や「訴えかける力」に使います。
 
@@ -105,14 +109,14 @@ attractionは「物理的・視覚的に人を引きつけるもの」や「観�
 
 ## 🧩 あわせて覚えたい
 
-- [distraction](/word/distraction/)：気を散らすもの
-- [sight](/word/sight/)：名所、光景
+- [distraction](/distraction)：気を散らすもの
+- [sight](/sight)：名所、光景
 
 ---
 
 ## 📖 できればこれも
 
-- [entertainment](/word/entertainment/)：娯楽、エンターテインメント
-- [facility](/word/facility/)：施設
+- [entertainment](/entertainment)：娯楽、エンターテインメント
+- [facility](/facility)：施設
 
-<!-- cvid: aid08_bid14 -->
+<!-- cvid: aid29_bid47 -->

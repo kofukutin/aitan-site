@@ -81,15 +81,19 @@ TOEICでは広告やEメール、案内文などで「割引」「値引き」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やEメール、案内文などで「割引」「値引き」�
 ## 🤔  reduction との違いは？
 
 - **discount**：主に価格や料金の「割引」「値引き」を意味し、買い物や販売の場面で使われる。
-- **[reduction](/word/reduction/)**：広く「減少」「削減」を意味し、価格以外にも数量や規模の縮小など幅広く使われる。
+- **[reduction](/reduction)**：広く「減少」「削減」を意味し、価格以外にも数量や規模の縮小など幅広く使われる。
 
 discountは「値段が下がる」ことに特化し、reductionは「何かが減る」全般に使われます。
 
@@ -105,14 +109,14 @@ discountは「値段が下がる」ことに特化し、reductionは「何かが
 
 ## 🧩 あわせて覚えたい
 
-- [rebate](/word/rebate/)：払い戻し、リベート
-- [premium](/word/premium/)：割増料金、保険料
+- [rebate](/rebate)：払い戻し、リベート
+- [premium](/premium)：割増料金、保険料
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer/)：提供する、申し出
-- [coupon](/word/coupon/)：クーポン、割引券
+- [offer](/offer)：提供する、申し出
+- [coupon](/coupon)：クーポン、割引券
 
-<!-- cvid: aid49_bid15 -->
+<!-- cvid: aid09_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文脈で「納入業者」「販売業者」とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文脈で「納入業者」「販売業者」とし
 ## 🤔  supplier との違いは？
 
 - **vendor**：商品やサービスを販売する業者や売り手全般を指す
-- **[supplier](/word/supplier/)**：原材料や商品を供給する業者を指す
+- **[supplier](/supplier)**：原材料や商品を供給する業者を指す
 
 vendorは販売者全般を指し、supplierは「供給者」として原材料や商品を提供する側に特化しています。
 
@@ -105,14 +109,14 @@ vendorは販売者全般を指し、supplierは「供給者」として原材料
 
 ## 🧩 あわせて覚えたい
 
-- [buyer](/word/buyer/)：買い手、購入者
-- [retailer](/word/retailer/)：小売業者
+- [buyer](/buyer)：買い手、購入者
+- [retailer](/retailer)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：顧客、取引先
-- [contractor](/word/contractor/)：請負業者
+- [client](/client)：顧客、取引先
+- [contractor](/contractor)：請負業者
 
-<!-- cvid: aid31_bid00 -->
+<!-- cvid: aid07_bid47 -->

@@ -82,15 +82,19 @@ tackleはTOEICの会議や問題解決の場面でよく登場します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid40_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ tackleはTOEICの会議や問題解決の場面でよく登場します。特に
 ## 🤔  address との違いは？
 
 - **tackle**：問題に積極的に立ち向かい、解決しようとするニュアンス
-- **[address](/word/address/)**：問題や課題に「対処する」「取り上げる」というややフォーマルな表現
+- **[address](/address)**：問題や課題に「対処する」「取り上げる」というややフォーマルな表現
 
 tackleは「力強く取り組む」印象があり、addressは「正式に対応する」場面で使われます。
 
@@ -106,14 +110,14 @@ tackleは「力強く取り組む」印象があり、addressは「正式に対�
 
 ## 🧩 あわせて覚えたい
 
-- [solve](/word/solve/)：（問題を）解決する
-- [confront](/word/confront/)：（困難などに）立ち向かう
+- [solve](/solve)：（問題を）解決する
+- [confront](/confront)：（困難などに）立ち向かう
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle/)：（問題などを）扱う、処理する
-- [deal with](/word/deal_with/)：（問題などに）対処する
+- [handle](/handle)：（問題などを）扱う、処理する
+- [deal with](/deal_with)：（問題などに）対処する
 
-<!-- cvid: aid37_bid29 -->
+<!-- cvid: aid40_bid01 -->

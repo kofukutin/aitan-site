@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「誰か・何かを認識する」「功績を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「誰か・何かを認識する」「功績を
 ## 🤔  realize との違いは？
 
 - **recognize**：見たり聞いたりして「それが何か・誰か」をはっきり認識する、または公式に認める
-- **[realize](/word/realize/)**：気づく、理解する（頭の中で「はっ」と気づくイメージ）
+- **[realize](/realize)**：気づく、理解する（頭の中で「はっ」と気づくイメージ）
 
 recognizeは「見て思い出す・認識する」や「公式に認める」場合に使い、realizeは「心の中で気づく・理解する」時に使います。
 
@@ -105,14 +109,14 @@ recognizeは「見て思い出す・認識する」や「公式に認める」�
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify/)：（正確に）特定する、識別する
-- [acknowledge](/word/acknowledge/)：（事実・存在などを）認める、受け取ったことを知らせる
+- [identify](/identify)：（正確に）特定する、識別する
+- [acknowledge](/acknowledge)：（事実・存在などを）認める、受け取ったことを知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [admit](/word/admit/)：（しぶしぶ）認める、入場を許可する
-- [notice](/word/notice/)：気づく、注目する
+- [admit](/admit)：（しぶしぶ）認める、入場を許可する
+- [notice](/notice)：気づく、注目する
 
-<!-- cvid: aid44_bid46 -->
+<!-- cvid: aid06_bid05 -->

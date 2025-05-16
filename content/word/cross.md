@@ -82,15 +82,19 @@ TOEICでは、道案内や移動に関する会話、説明文で「cross」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、道案内や移動に関する会話、説明文で「cross」が�
 ## 🤔  pass との違いは？
 
 - **cross**：道や川などを「横切る」「渡る」ことを強調
-- **[pass](/word/pass/)**：物や人のそばを「通り過ぎる」「追い越す」ことを強調
+- **[pass](/pass)**：物や人のそばを「通り過ぎる」「追い越す」ことを強調
 
 crossは「線や障害物を横断する」動作、passは「何かの横を通り抜ける」動作に使い分けます。
 
@@ -106,14 +110,14 @@ crossは「線や障害物を横断する」動作、passは「何かの横を�
 
 ## 🧩 あわせて覚えたい
 
-- [overcome](/word/overcome/)：克服する
-- [intersect](/word/intersect/)：交差する
+- [overcome](/overcome)：克服する
+- [intersect](/intersect)：交差する
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move/)：動く、移動する
-- [reach](/word/reach/)：到達する
+- [move](/move)：動く、移動する
+- [reach](/reach)：到達する
 
-<!-- cvid: aid09_bid47 -->
+<!-- cvid: aid17_bid17 -->

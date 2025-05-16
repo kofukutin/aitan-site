@@ -81,15 +81,19 @@ TOEICでは科学やビジネスの説明文、調査や分析に関する記事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学やビジネスの説明文、調査や分析に関する記事
 ## 🤔  investigate との違いは？
 
 - **probe**：特に科学的・技術的に「深く調べる」「探査機」など、フォーマルで専門的な調査を指す。
-- **[investigate](/word/investigate/)**：一般的な「調査する」「捜査する」で、日常やビジネスでも幅広く使う。
+- **[investigate](/investigate)**：一般的な「調査する」「捜査する」で、日常やビジネスでも幅広く使う。
 
 probeは物理的・科学的な調査や機器を使った探査に多く使われ、investigateは事件や問題など幅広い調査に使われます。
 
@@ -105,14 +109,14 @@ probeは物理的・科学的な調査や機器を使った探査に多く使わ
 
 ## 🧩 あわせて覚えたい
 
-- [explore](/word/explore/)：探検する、詳しく調べる
-- [inquiry](/word/inquiry/)：問い合わせ、調査
+- [explore](/explore)：探検する、詳しく調べる
+- [inquiry](/inquiry)：問い合わせ、調査
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [detect](/word/detect/)：発見する、検出する
+- [analyze](/analyze)：分析する
+- [detect](/detect)：発見する、検出する
 
-<!-- cvid: aid15_bid47 -->
+<!-- cvid: aid37_bid05 -->

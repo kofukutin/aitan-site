@@ -81,15 +81,19 @@ TOEICでは医療や健康に関する長文や記事、説明文で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康に関する長文や記事、説明文で出題され
 ## 🤔  medical との違いは？
 
 - **clinical**：臨床現場や患者の診察・治療に直接関わることを指す
-- **[medical](/word/medical/)**：医学全般や医療に関する広い意味で使われる
+- **[medical](/medical)**：医学全般や医療に関する広い意味で使われる
 
 clinicalは「現場での実践的な医療」に焦点があり、medicalは「医学・医療全般」を指す幅広い言葉です。
 
@@ -105,14 +109,14 @@ clinicalは「現場での実践的な医療」に焦点があり、medicalは�
 
 ## 🧩 あわせて覚えたい
 
-- [therapeutic](/word/therapeutic/)：治療の、治療に関する
-- [diagnostic](/word/diagnostic/)：診断の、診断に関する
+- [therapeutic](/therapeutic)：治療の、治療に関する
+- [diagnostic](/diagnostic)：診断の、診断に関する
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/word/patient/)：患者
-- [treatment](/word/treatment/)：治療
+- [patient](/patient)：患者
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid39_bid30 -->
+<!-- cvid: aid00_bid46 -->

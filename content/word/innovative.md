@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や製品紹介、企業の強みを説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid06" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid06" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や製品紹介、企業の強みを説明す
 ## 🤔  creative との違いは？
 
 - **innovative**：既存の枠を超えて新しいものを生み出す、革新的な
-- **[creative](/word/creative/)**：独創的な発想やアイデアを持つ、創造的な
+- **[creative](/creative)**：独創的な発想やアイデアを持つ、創造的な
 
 「innovative」は実際に新しい方法や技術を導入する実践的な革新性を強調し、「creative」は発想やアイデアの独自性・創造性を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書や製品紹介、企業の強みを説明す
 
 ## 🧩 あわせて覚えたい
 
-- [inventive](/word/inventive/)：発明の才能がある、独創的な
-- [traditional](/word/traditional/)：伝統的な、従来の
+- [inventive](/inventive)：発明の才能がある、独創的な
+- [traditional](/traditional)：伝統的な、従来の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [unique](/word/unique/)：唯一無二の、独特な
+- [efficient](/efficient)：効率的な
+- [unique](/unique)：唯一無二の、独特な
 
-<!-- cvid: aid24_bid49 -->
+<!-- cvid: aid40_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは契約書やビジネス上のトラブル解決に関する長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid35_bid17" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid17" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書やビジネス上のトラブル解決に関する長文で
 ## 🤔  mediation との違いは？
 
 - **arbitration**：第三者が最終的な判断を下し、当事者はその決定に従う必要がある仲裁。
-- **[mediation](/word/mediation/)**：第三者が話し合いを仲介するが、最終決定は当事者同士で行う調停。
+- **[mediation](/mediation)**：第三者が話し合いを仲介するが、最終決定は当事者同士で行う調停。
 
 arbitrationは「裁定型」、mediationは「話し合い型」の解決方法で、強制力の有無が大きな違いです。
 
@@ -105,14 +109,14 @@ arbitrationは「裁定型」、mediationは「話し合い型」の解決方法
 
 ## 🧩 あわせて覚えたい
 
-- [litigation](/word/litigation/)：訴訟、裁判による解決
-- [settlement](/word/settlement/)：和解、合意による解決
+- [litigation](/litigation)：訴訟、裁判による解決
+- [settlement](/settlement)：和解、合意による解決
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [agreement](/word/agreement/)：合意、協定
+- [contract](/contract)：契約
+- [agreement](/agreement)：合意、協定
 
-<!-- cvid: aid33_bid24 -->
+<!-- cvid: aid35_bid17 -->

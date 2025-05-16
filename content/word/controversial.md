@@ -81,15 +81,19 @@ TOEICでは、新聞記事や社内メールなどで「controversial decision�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid27" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid27" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、新聞記事や社内メールなどで「controversial decision�
 ## 🤔  debatable との違いは？
 
 - **controversial**：多くの人の間で強い意見の対立や論争を引き起こす
-- **[debatable](/word/debatable/)**：議論の余地があるが、必ずしも強い対立を含まない
+- **[debatable](/debatable)**：議論の余地があるが、必ずしも強い対立を含まない
 
 controversialは「感情的な対立」や「社会的な物議」を強調し、debatableは「論理的に議論できる」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ controversialは「感情的な対立」や「社会的な物議」を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [contentious](/word/contentious/)：論争好きな、議論を呼ぶ
-- [uncontroversial](/word/uncontroversial/)：物議を醸さない、異論のない
+- [contentious](/contentious)：論争好きな、議論を呼ぶ
+- [uncontroversial](/uncontroversial)：物議を醸さない、異論のない
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な
-- [relevant](/word/relevant/)：関連がある
+- [significant](/significant)：重要な
+- [relevant](/relevant)：関連がある
 
-<!-- cvid: aid49_bid33 -->
+<!-- cvid: aid48_bid27 -->

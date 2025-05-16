@@ -81,15 +81,19 @@ IT関連やセキュリティに関する長文やメール、説明文で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid26_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やセキュリティに関する長文やメール、説明文で出題
 ## 🤔  verification との違いは？
 
 - **authentication**：本人であることを証明する認証
-- **[verification](/word/verification/)**：情報や事実が正しいかどうかを確認する検証
+- **[verification](/verification)**：情報や事実が正しいかどうかを確認する検証
 
 authenticationは「本人確認」、verificationは「内容や事実の確認」と使い分けます。
 
@@ -105,14 +109,14 @@ authenticationは「本人確認」、verificationは「内容や事実の確認
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/word/authorization/)：権限付与、認可
-- [identification](/word/identification/)：身元確認、識別
+- [authorization](/authorization)：権限付与、認可
+- [identification](/identification)：身元確認、識別
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/word/certificate/)：証明書
-- [access](/word/access/)：アクセス、接続
+- [certificate](/certificate)：証明書
+- [access](/access)：アクセス、接続
 
-<!-- cvid: aid48_bid01 -->
+<!-- cvid: aid26_bid41 -->

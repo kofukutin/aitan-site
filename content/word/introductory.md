@@ -81,7 +81,7 @@ TOEICでは、案内文やコース説明、商品紹介などの文脈で「int
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できるを増やそう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは、案内文やコース説明、商品紹介などの文脈で「int
 
 <div class="info-center">
 ＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、案内文やコース説明、商品紹介などの文脈で「int
 ## 🤔  preliminary との違いは？
 
 - **introductory**：導入や入門、最初の説明・案内など「始まり」に焦点を当てる
-- **[preliminary](/word/preliminary/)**：本番や本格的なものの前段階・予備的なもの
+- **[preliminary](/preliminary)**：本番や本格的なものの前段階・予備的なもの
 
 **introductory**は「これから本格的に始めるための最初の部分」に使い、**preliminary**は「本番前の準備や予備段階」に使われます。introductoryは「入門・導入」、preliminaryは「予備・下準備」のニュアンスです。
 
@@ -105,14 +109,14 @@ TOEICでは、案内文やコース説明、商品紹介などの文脈で「int
 
 ## 🧩 あわせて覚えたい
 
-- [initial](/word/initial/)：初期の、最初の
-- [basic](/word/basic/)：基本的な
+- [initial](/initial)：初期の、最初の
+- [basic](/basic)：基本的な
 
 ---
 
 ## 📖 できればこれも
 
-- [fundamental](/word/fundamental/)：根本的な、基礎的な
-- [elementary](/word/elementary/)：初歩的な、基礎の
+- [fundamental](/fundamental)：根本的な、基礎的な
+- [elementary](/elementary)：初歩的な、基礎の
 
-<!-- cvid: aid13_bid29 -->
+<!-- cvid: aid24_bid29 -->

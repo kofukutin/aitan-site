@@ -81,15 +81,19 @@ TOEICでは、観光や食事、自然に関する長文や広告、メニュー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid15_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、観光や食事、自然に関する長文や広告、メニュー
 ## 🤔  raspberry との違いは？
 
 - **blackberry**：黒紫色で甘酸っぱい果実。粒が大きめで、やや固めの食感。
-- **[raspberry](/word/raspberry/)**：赤色でやや酸味が強い果実。粒が細かく、柔らかい食感。
+- **[raspberry](/raspberry)**：赤色でやや酸味が強い果実。粒が細かく、柔らかい食感。
 
 blackberryは黒くて大きめ、raspberryは赤くて小粒で酸味が強いという違いがあります。
 
@@ -105,14 +109,14 @@ blackberryは黒くて大きめ、raspberryは赤くて小粒で酸味が強い�
 
 ## 🧩 あわせて覚えたい
 
-- [blueberry](/word/blueberry/)：ブルーベリー（青紫色の小さな果実）
-- [strawberry](/word/strawberry/)：イチゴ（赤くて甘い果実）
+- [blueberry](/blueberry)：ブルーベリー（青紫色の小さな果実）
+- [strawberry](/strawberry)：イチゴ（赤くて甘い果実）
 
 ---
 
 ## 📖 できればこれも
 
-- [grape](/word/grape/)：ブドウ
-- [cherry](/word/cherry/)：サクランボ
+- [grape](/grape)：ブドウ
+- [cherry](/cherry)：サクランボ
 
-<!-- cvid: aid35_bid21 -->
+<!-- cvid: aid15_bid24 -->

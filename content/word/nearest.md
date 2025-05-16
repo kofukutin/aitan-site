@@ -89,8 +89,12 @@ TOEICでは道案内や場所の説明、施設案内などでよく出題され
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは道案内や場所の説明、施設案内などでよく出題され
 ## 🤔  closest との違いは？
 
 - **nearest**：物理的な距離が一番近いことを表す
-- **[closest](/word/closest/)**：距離だけでなく、関係や順位など幅広い「最も近い」を表す
+- **[closest](/closest)**：距離だけでなく、関係や順位など幅広い「最も近い」を表す
 
 nearestは主に場所や物理的な距離に使われ、closestは距離だけでなく人間関係や順位など抽象的な「近さ」にも使えます。
 
@@ -106,14 +110,14 @@ nearestは主に場所や物理的な距離に使われ、closestは距離だけ
 
 ## 🧩 あわせて覚えたい
 
-- [far](/word/far/)：遠い
-- [adjacent](/word/adjacent/)：隣接した
+- [far](/far)：遠い
+- [adjacent](/adjacent)：隣接した
 
 ---
 
 ## 📖 できればこれも
 
-- [near](/word/near/)：近い
-- [next](/word/next/)：次の
+- [near](/near)：近い
+- [next](/next)：次の
 
-<!-- cvid: aid36_bid01 -->
+<!-- cvid: aid36_bid41 -->

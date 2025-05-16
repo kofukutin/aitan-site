@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、建物や床材、彫刻などの説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、建物や床材、彫刻などの説
 ## 🤔  stone との違いは？
 
 - **marble**：美しい模様のある大理石やビー玉を指す。
-- **[stone](/word/stone/)**：一般的な「石」全般を指す。
+- **[stone](/stone)**：一般的な「石」全般を指す。
 
 marbleは特定の種類の石（大理石）やビー玉に限定され、stoneは広くあらゆる石を指します。
 
@@ -105,14 +109,14 @@ marbleは特定の種類の石（大理石）やビー玉に限定され、stone
 
 ## 🧩 あわせて覚えたい
 
-- [granite](/word/granite/)：花崗岩（かこうがん）、建築や墓石によく使われる石
-- [sculpture](/word/sculpture/)：彫刻、彫像
+- [granite](/granite)：花崗岩（かこうがん）、建築や墓石によく使われる石
+- [sculpture](/sculpture)：彫刻、彫像
 
 ---
 
 ## 📖 できればこれも
 
-- [glass](/word/glass/)：ガラス、コップ
-- [tile](/word/tile/)：タイル、瓦
+- [glass](/glass)：ガラス、コップ
+- [tile](/tile)：タイル、瓦
 
-<!-- cvid: aid43_bid04 -->
+<!-- cvid: aid38_bid03 -->

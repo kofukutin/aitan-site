@@ -81,15 +81,19 @@ TOEICでは「ビジネスモデル」や「製品の模型」など、ビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「ビジネスモデル」や「製品の模型」など、ビジネ
 ## 🤔  prototype との違いは？
 
 - **model**：見本や手本、縮小版としての模型や基準となるもの。
-- **[prototype](/word/prototype/)**：試作品や初期段階の原型。
+- **[prototype](/prototype)**：試作品や初期段階の原型。
 
 modelは「見せるための完成度の高い見本」や「基準」として使われることが多く、prototypeは「実験や開発段階の試作品」を指します。
 
@@ -105,14 +109,14 @@ modelは「見せるための完成度の高い見本」や「基準」として
 
 ## 🧩 あわせて覚えたい
 
-- [sample](/word/sample/)：見本、サンプル
-- [pattern](/word/pattern/)：型、パターン
+- [sample](/sample)：見本、サンプル
+- [pattern](/pattern)：型、パターン
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design/)：設計、デザイン
-- [plan](/word/plan/)：計画、案
+- [design](/design)：設計、デザイン
+- [plan](/plan)：計画、案
 
-<!-- cvid: aid14_bid41 -->
+<!-- cvid: aid06_bid09 -->

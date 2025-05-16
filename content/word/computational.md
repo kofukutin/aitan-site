@@ -81,15 +81,19 @@ TOEICではITや科学技術に関する長文や説明文で見かけること�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid06_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや科学技術に関する長文や説明文で見かけること�
 ## 🤔  calculative との違いは？
 
 - **computational**：計算やコンピュータ処理に関する、技術的・科学的な文脈で使う
-- **[calculative](/word/calculative/)**：打算的な、損得勘定をする（人の性格や態度に使う）
+- **[calculative](/calculative)**：打算的な、損得勘定をする（人の性格や態度に使う）
 
 **computational**は技術や科学の分野で「計算に関する」という意味で使われますが、**calculative**は「打算的」「計算高い」といった人の性格や態度を表します。
 
@@ -105,14 +109,14 @@ TOEICではITや科学技術に関する長文や説明文で見かけること�
 
 ## 🧩 あわせて覚えたい
 
-- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
-- [analytical](/word/analytical/)：分析的な
+- [algorithm](/algorithm)：アルゴリズム、計算手順
+- [analytical](/analytical)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [logical](/word/logical/)：論理的な
+- [digital](/digital)：デジタルの
+- [logical](/logical)：論理的な
 
-<!-- cvid: aid21_bid28 -->
+<!-- cvid: aid06_bid09 -->

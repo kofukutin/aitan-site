@@ -81,15 +81,19 @@ TOEICでは、政治や組織運営に関する記事やメール文で「democr
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、政治や組織運営に関する記事やメール文で「democr
 ## 🤔  republican との違いは？
 
 - **democratic**：民主主義の、みんなの意見を重視する
-- **[republican](/word/republican/)**：共和制の、またはアメリカの共和党の
+- **[republican](/republican)**：共和制の、またはアメリカの共和党の
 
 「democratic」は民主主義や平等を重視するニュアンスがあり、「republican」は共和制や特定の政党（アメリカの共和党）を指す場合が多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、政治や組織運営に関する記事やメール文で「democr
 
 ## 🧩 あわせて覚えたい
 
-- [authoritarian](/word/authoritarian/)：権威主義的な
-- [liberal](/word/liberal/)：自由主義の
+- [authoritarian](/authoritarian)：権威主義的な
+- [liberal](/liberal)：自由主義の
 
 ---
 
 ## 📖 できればこれも
 
-- [political](/word/political/)：政治の
-- [constitutional](/word/constitutional/)：憲法の、合憲の
+- [political](/political)：政治の
+- [constitutional](/constitutional)：憲法の、合憲の
 
-<!-- cvid: aid42_bid45 -->
+<!-- cvid: aid31_bid11 -->

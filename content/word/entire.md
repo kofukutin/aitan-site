@@ -81,15 +81,19 @@ TOEICでは「全体の」「すべての」を表す形容詞として、名詞
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「全体の」「すべての」を表す形容詞として、名詞
 ## 🤔  whole との違いは？
 
 - **entire**：部分ではなく"全体"であることを強調し、ややフォーマルな響き。
-- **[whole](/word/whole/)**：日常的で「全部」「まるごと」という意味。カジュアルな場面でも使う。
+- **[whole](/whole)**：日常的で「全部」「まるごと」という意味。カジュアルな場面でも使う。
 
 entireはフォーマルな文書やビジネスでよく使われ、wholeは日常会話で幅広く使われます。
 
@@ -105,14 +109,14 @@ entireはフォーマルな文書やビジネスでよく使われ、wholeは日
 
 ## 🧩 あわせて覚えたい
 
-- [complete](/word/complete/)：完全な、全部そろった
-- [partial](/word/partial/)：部分的な、不完全な
+- [complete](/complete)：完全な、全部そろった
+- [partial](/partial)：部分的な、不完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total/)：合計の、全体の
-- [overall](/word/overall/)：全体的な、総合的な
+- [total](/total)：合計の、全体の
+- [overall](/overall)：全体的な、総合的な
 
-<!-- cvid: aid24_bid39 -->
+<!-- cvid: aid37_bid18 -->

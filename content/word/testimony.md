@@ -81,15 +81,19 @@ testimonyはTOEICの長文読解パートで、法務やビジネスの文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ testimonyはTOEICの長文読解パートで、法務やビジネスの文脈で
 ## 🤔  statement との違いは？
 
 - **testimony**：法廷や公式な場での証言・証拠となる発言
-- **[statement](/word/statement/)**：一般的な「発言」「声明」「述べたこと」
+- **[statement](/statement)**：一般的な「発言」「声明」「述べたこと」
 
 testimonyは特に法的な証言や証拠としての発言を指し、statementは日常的な発言や公式声明など幅広く使われます。
 
@@ -105,14 +109,14 @@ testimonyは特に法的な証言や証拠としての発言を指し、statemen
 
 ## 🧩 あわせて覚えたい
 
-- [evidence](/word/evidence/)：証拠
-- [witness](/word/witness/)：証人
+- [evidence](/evidence)：証拠
+- [witness](/witness)：証人
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/word/verdict/)：評決、判決
-- [trial](/word/trial/)：裁判、公判
+- [verdict](/verdict)：評決、判決
+- [trial](/trial)：裁判、公判
 
-<!-- cvid: aid40_bid15 -->
+<!-- cvid: aid20_bid38 -->

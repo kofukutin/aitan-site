@@ -88,8 +88,12 @@ TOEICでは医療や健康に関する長文や記事で登場することが多
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康に関する長文や記事で登場することが多
 ## 🤔  psychology との違いは？
 
 - **psychiatry**：医学的な治療や薬物療法を含む「精神医学」分野
-- **[psychology](/word/psychology/)**：心の働きや行動を科学的に研究する「心理学」分野
+- **[psychology](/psychology)**：心の働きや行動を科学的に研究する「心理学」分野
 
 psychiatryは医師による診断・治療が中心、psychologyは心の仕組みや行動の研究が中心です。
 
@@ -105,14 +109,14 @@ psychiatryは医師による診断・治療が中心、psychologyは心の仕組
 
 ## 🧩 あわせて覚えたい
 
-- [neurology](/word/neurology/)：神経学（脳や神経系の医学分野）
-- [therapy](/word/therapy/)：治療、療法
+- [neurology](/neurology)：神経学（脳や神経系の医学分野）
+- [therapy](/therapy)：治療、療法
 
 ---
 
 ## 📖 できればこれも
 
-- [psychologist](/word/psychologist/)：心理学者
-- [mental](/word/mental/)：精神の、心の
+- [psychologist](/psychologist)：心理学者
+- [mental](/mental)：精神の、心の
 
-<!-- cvid: aid20_bid28 -->
+<!-- cvid: aid20_bid35 -->

@@ -81,15 +81,19 @@ TOEICでは、記事や案内文、人物紹介などで「noted」が使われ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事や案内文、人物紹介などで「noted」が使われ�
 ## 🤔  famous との違いは？
 
 - **noted**：特定の分野や理由で評価されている、フォーマルな「著名な」
-- **[famous](/word/famous/)**：広く一般的に知られている「有名な」
+- **[famous](/famous)**：広く一般的に知られている「有名な」
 
 notedは専門分野や業績で評価されている場合に使い、famousは単に多くの人に知られている場合に使います。
 
@@ -105,14 +109,14 @@ notedは専門分野や業績で評価されている場合に使い、famousは
 
 ## 🧩 あわせて覚えたい
 
-- [renowned](/word/renowned/)：高く評価されている、名高い
-- [obscure](/word/obscure/)：無名の、あまり知られていない
+- [renowned](/renowned)：高く評価されている、名高い
+- [obscure](/obscure)：無名の、あまり知られていない
 
 ---
 
 ## 📖 できればこれも
 
-- [distinguished](/word/distinguished/)：優れた、際立った
-- [prominent](/word/prominent/)：目立った、著名な
+- [distinguished](/distinguished)：優れた、際立った
+- [prominent](/prominent)：目立った、著名な
 
-<!-- cvid: aid33_bid28 -->
+<!-- cvid: aid36_bid32 -->

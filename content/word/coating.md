@@ -81,15 +81,19 @@ TOEICでは製品説明や技術文書、マニュアルなどで「表面処理
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは製品説明や技術文書、マニュアルなどで「表面処理
 ## 🤔  layer との違いは？
 
 - **coating**：物の表面に塗ったり貼ったりしてできる「覆い」や「膜」を指す。
-- **[layer](/word/layer/)**：積み重なった「層」や「重なり」を広く指す。
+- **[layer](/layer)**：積み重なった「層」や「重なり」を広く指す。
 
 coatingは主に表面を覆う目的の膜や塗装に使い、layerは複数の層や段階的な重なり全般に使います。
 
@@ -105,14 +109,14 @@ coatingは主に表面を覆う目的の膜や塗装に使い、layerは複数�
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/word/surface/)：表面
-- [film](/word/film/)：薄い膜
+- [surface](/surface)：表面
+- [film](/film)：薄い膜
 
 ---
 
 ## 📖 できればこれも
 
-- [cover](/word/cover/)：覆う
-- [protect](/word/protect/)：守る
+- [cover](/cover)：覆う
+- [protect](/protect)：守る
 
-<!-- cvid: aid28_bid29 -->
+<!-- cvid: aid23_bid14 -->

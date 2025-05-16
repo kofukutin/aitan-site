@@ -81,15 +81,19 @@ TOEICでは会話やビジネスシーンで「顧客を失う」「物をなく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やビジネスシーンで「顧客を失う」「物をなく
 ## 🤔  miss との違いは？
 
 - **lose**：持っていたものを失う、または試合などで負ける
-- **[miss](/word/miss/)**：機会や乗り物など「逃す」「乗り遅れる」
+- **[miss](/miss)**：機会や乗り物など「逃す」「乗り遅れる」
 
 loseは「所有していたものをなくす」場合に使い、missは「予定や機会を逃す」「乗り物に間に合わない」場合に使います。
 
@@ -105,14 +109,14 @@ loseは「所有していたものをなくす」場合に使い、missは「予
 
 ## 🧩 あわせて覚えたい
 
-- [gain](/word/gain/)：得る、獲得する
-- [forget](/word/forget/)：忘れる
+- [gain](/gain)：得る、獲得する
+- [forget](/forget)：忘れる
 
 ---
 
 ## 📖 できればこれも
 
-- [fail](/word/fail/)：失敗する
-- [find](/word/find/)：見つける
+- [fail](/fail)：失敗する
+- [find](/find)：見つける
 
-<!-- cvid: aid07_bid10 -->
+<!-- cvid: aid40_bid08 -->

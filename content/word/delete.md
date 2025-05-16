@@ -81,15 +81,19 @@ ITやビジネス文書の操作説明でよく出題されます。特に「フ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書の操作説明でよく出題されます。特に「フ
 ## 🤔  remove との違いは？
 
 - **delete**：データや情報を完全に消去する、特にIT分野でよく使う
-- **[remove](/word/remove/)**：物理的・抽象的に「取り除く」、必ずしも消去とは限らない
+- **[remove](/remove)**：物理的・抽象的に「取り除く」、必ずしも消去とは限らない
 
 deleteは「消して元に戻せない」イメージ、removeは「場所からどかす」など幅広い場面で使います。
 
@@ -105,14 +109,14 @@ deleteは「消して元に戻せない」イメージ、removeは「場所か�
 
 ## 🧩 あわせて覚えたい
 
-- [erase](/word/erase/)：消す、書いたものを消去する
-- [insert](/word/insert/)：挿入する、差し込む
+- [erase](/erase)：消す、書いたものを消去する
+- [insert](/insert)：挿入する、差し込む
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit/)：編集する
-- [update](/word/update/)：更新する
+- [edit](/edit)：編集する
+- [update](/update)：更新する
 
-<!-- cvid: aid40_bid24 -->
+<!-- cvid: aid22_bid03 -->

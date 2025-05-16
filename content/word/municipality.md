@@ -81,15 +81,19 @@ municipalityはTOEICの長文読解（Part 7）で、行政や地域社会に関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid26_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ municipalityはTOEICの長文読解（Part 7）で、行政や地域社会に関
 ## 🤔  district との違いは？
 
 - **municipality**：行政サービスを提供する自治体や市町村を指すフォーマルな語。
-- **[district](/word/district/)**：行政区や地区など、地理的な区分を指す語。
+- **[district](/district)**：行政区や地区など、地理的な区分を指す語。
 
 municipalityは「行政組織」としての自治体を強調し、districtは「区画・地域」としての区分を指す点が異なります。
 
@@ -105,14 +109,14 @@ municipalityは「行政組織」としての自治体を強調し、districtは
 
 ## 🧩 あわせて覚えたい
 
-- [province](/word/province/)：州、地方
-- [authority](/word/authority/)：権限、当局
+- [province](/province)：州、地方
+- [authority](/authority)：権限、当局
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/word/region/)：地域、地方
-- [council](/word/council/)：評議会、議会
+- [region](/region)：地域、地方
+- [council](/council)：評議会、議会
 
-<!-- cvid: aid19_bid04 -->
+<!-- cvid: aid26_bid47 -->

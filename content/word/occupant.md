@@ -82,15 +82,19 @@ TOEICでは契約書や説明文、施設案内などで「occupant」が使わ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは契約書や説明文、施設案内などで「occupant」が使わ�
 ## 🤔  resident との違いは？
 
 - **occupant**：その場所を現在占有・利用している人（住人・乗員など一時的な場合も含む）
-- **[resident](/word/resident/)**：その場所に住んでいる人（長期的な居住者）
+- **[resident](/resident)**：その場所に住んでいる人（長期的な居住者）
 
 「occupant」は一時的な利用者や乗り物の乗員にも使えますが、「resident」は主に長期間住んでいる人に使います。
 
@@ -106,14 +110,14 @@ TOEICでは契約書や説明文、施設案内などで「occupant」が使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant/)：賃借人、借家人
-- [owner](/word/owner/)：所有者
+- [tenant](/tenant)：賃借人、借家人
+- [owner](/owner)：所有者
 
 ---
 
 ## 📖 できればこれも
 
-- [premises](/word/premises/)：敷地、建物
-- [facility](/word/facility/)：施設
+- [premises](/premises)：敷地、建物
+- [facility](/facility)：施設
 
-<!-- cvid: aid37_bid21 -->
+<!-- cvid: aid05_bid43 -->

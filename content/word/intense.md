@@ -82,15 +82,19 @@ TOEICでは、ビジネスシーンでの「激しい競争」「強い関心」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、ビジネスシーンでの「激しい競争」「強い関心」
 ## 🤔  severe との違いは？
 
 - **intense**：感情や状況などが「非常に強い」「激しい」ことを表す。
-- **[severe](/word/severe/)**：主に「厳しい」「深刻な」「容赦ない」など、困難や厳しさを強調する。
+- **[severe](/severe)**：主に「厳しい」「深刻な」「容赦ない」など、困難や厳しさを強調する。
 
 「intense」は強さや激しさに焦点があり、「severe」は厳しさや深刻さに重点があります。
 
@@ -106,14 +110,14 @@ TOEICでは、ビジネスシーンでの「激しい競争」「強い関心」
 
 ## 🧩 あわせて覚えたい
 
-- [strong](/word/strong/)：強い、力強い
-- [extreme](/word/extreme/)：極端な、極度の
+- [strong](/strong)：強い、力強い
+- [extreme](/extreme)：極端な、極度の
 
 ---
 
 ## 📖 できればこれも
 
-- [intensive](/word/intensive/)：集中的な、徹底的な
-- [keen](/word/keen/)：熱心な、鋭い
+- [intensive](/intensive)：集中的な、徹底的な
+- [keen](/keen)：熱心な、鋭い
 
-<!-- cvid: aid13_bid46 -->
+<!-- cvid: aid12_bid12 -->

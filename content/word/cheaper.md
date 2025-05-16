@@ -81,15 +81,19 @@ We need to find a cheaper supplier.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ We need to find a cheaper supplier.
 ## 🤔  less expensive との違いは？
 
 - **cheaper**：カジュアルで口語的。「より安い」とシンプルに伝える。
-- **[less expensive](/word/less_expensive/)**：ややフォーマルで丁寧。「安価な方」とやんわり表現。
+- **[less expensive](/less_expensive)**：ややフォーマルで丁寧。「安価な方」とやんわり表現。
 
 cheaperは日常会話やカジュアルな場面でよく使われ、less expensiveはビジネスやフォーマルな文書で好まれます。
 
@@ -105,14 +109,14 @@ cheaperは日常会話やカジュアルな場面でよく使われ、less expen
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable/)：手ごろな価格の
-- [expensive](/word/expensive/)：高価な
+- [affordable](/affordable)：手ごろな価格の
+- [expensive](/expensive)：高価な
 
 ---
 
 ## 📖 できればこれも
 
-- [cheap](/word/cheap/)：安い
-- [inexpensive](/word/inexpensive/)：安価な、手ごろな価格の
+- [cheap](/cheap)：安い
+- [inexpensive](/inexpensive)：安価な、手ごろな価格の
 
-<!-- cvid: aid26_bid27 -->
+<!-- cvid: aid45_bid31 -->

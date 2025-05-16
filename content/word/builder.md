@@ -81,15 +81,19 @@ TOEICでは、建設現場やプロジェクトに関する会話や説明でbui
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建設現場やプロジェクトに関する会話や説明でbui
 ## 🤔  constructor との違いは？
 
 - **builder**：実際に建物や構造物を建てる人や業者
-- **[constructor](/word/constructor/)**：設計や計画も含めて「構造物を作る人・会社」
+- **[constructor](/constructor)**：設計や計画も含めて「構造物を作る人・会社」
 
 builderは現場で手を動かす人や業者を指し、constructorはより広い意味で「建設会社」や「設計・施工を行う組織」を指します。
 
@@ -105,14 +109,14 @@ builderは現場で手を動かす人や業者を指し、constructorはより�
 
 ## 🧩 あわせて覚えたい
 
-- [architect](/word/architect/)：建築家、設計者
-- [engineer](/word/engineer/)：技術者、エンジニア
+- [architect](/architect)：建築家、設計者
+- [engineer](/engineer)：技術者、エンジニア
 
 ---
 
 ## 📖 できればこれも
 
-- [designer](/word/designer/)：デザイナー、設計者
-- [worker](/word/worker/)：労働者、作業員
+- [designer](/designer)：デザイナー、設計者
+- [worker](/worker)：労働者、作業員
 
-<!-- cvid: aid48_bid39 -->
+<!-- cvid: aid05_bid18 -->

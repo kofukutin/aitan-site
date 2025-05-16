@@ -81,15 +81,19 @@ rehabilitationは医療や福祉関連の記事や説明文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ rehabilitationは医療や福祉関連の記事や説明文で登場すること
 ## 🤔  recovery との違いは？
 
 - **rehabilitation**：専門的な訓練や治療を通じて機能や社会生活を回復すること
-- **[recovery](/word/recovery/)**：自然な回復や全般的な「回復」そのもの
+- **[recovery](/recovery)**：自然な回復や全般的な「回復」そのもの
 
 rehabilitationは「訓練や治療による回復」、recoveryは「自然な回復」や「全体的な回復」を指し、rehabilitationの方が専門的・計画的なニュアンスがあります。
 
@@ -105,14 +109,14 @@ rehabilitationは「訓練や治療による回復」、recoveryは「自然な�
 
 ## 🧩 あわせて覚えたい
 
-- [therapy](/word/therapy/)：治療、療法
-- [treatment](/word/treatment/)：治療、処置
+- [therapy](/therapy)：治療、療法
+- [treatment](/treatment)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy/)：治療、療法
-- [treatment](/word/treatment/)：治療、処置
+- [therapy](/therapy)：治療、療法
+- [treatment](/treatment)：治療、処置
 
-<!-- cvid: aid33_bid44 -->
+<!-- cvid: aid07_bid41 -->

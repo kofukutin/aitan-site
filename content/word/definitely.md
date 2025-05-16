@@ -82,15 +82,19 @@ TOEICでは会話や説明文で「はっきりと肯定する」場面でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話や説明文で「はっきりと肯定する」場面でよく
 ## 🤔  certainly との違いは？
 
 - **definitely**：強い確信や断言を表し、「絶対に」「間違いなく」というニュアンス。
-- **[certainly](/word/certainly/)**：丁寧さや礼儀を含みつつ「確かに」「もちろん」と答えるときに使う。
+- **[certainly](/certainly)**：丁寧さや礼儀を含みつつ「確かに」「もちろん」と答えるときに使う。
 
 「definitely」はより強い自信や断言、「certainly」は丁寧な同意や承諾の場面で使い分けます。
 
@@ -106,14 +110,14 @@ TOEICでは会話や説明文で「はっきりと肯定する」場面でよく
 
 ## 🧩 あわせて覚えたい
 
-- [absolutely](/word/absolutely/)：完全に、絶対に
-- [probably](/word/probably/)：おそらく、たぶん
+- [absolutely](/absolutely)：完全に、絶対に
+- [probably](/probably)：おそらく、たぶん
 
 ---
 
 ## 📖 できればこれも
 
-- [clearly](/word/clearly/)：はっきりと、明確に
-- [exactly](/word/exactly/)：正確に、まさに
+- [clearly](/clearly)：はっきりと、明確に
+- [exactly](/exactly)：正確に、まさに
 
-<!-- cvid: aid15_bid37 -->
+<!-- cvid: aid30_bid49 -->

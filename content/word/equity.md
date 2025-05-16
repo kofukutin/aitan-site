@@ -81,15 +81,19 @@ TOEICでは主にビジネスや金融関連の長文で「株式」「自己資
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid11_bid17" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid17" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや金融関連の長文で「株式」「自己資
 ## 🤔  equality との違いは？
 
 - **equity**：公平・公正、または企業の株式・自己資本
-- **[equality](/word/equality/)**：平等（すべての人が同じ状態・条件であること）
+- **[equality](/equality)**：平等（すべての人が同じ状態・条件であること）
 
 equityは「状況や必要に応じて公正に扱うこと」、equalityは「全員を同じに扱うこと」を指し、特に社会問題やビジネスで使い分けられます。
 
@@ -105,14 +109,14 @@ equityは「状況や必要に応じて公正に扱うこと」、equalityは「
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/word/asset/)：資産
-- [fairness](/word/fairness/)：公正さ
+- [asset](/asset)：資産
+- [fairness](/fairness)：公正さ
 
 ---
 
 ## 📖 できればこれも
 
-- [liability](/word/liability/)：負債
-- [dividend](/word/dividend/)：配当
+- [liability](/liability)：負債
+- [dividend](/dividend)：配当
 
-<!-- cvid: aid24_bid45 -->
+<!-- cvid: aid11_bid17 -->

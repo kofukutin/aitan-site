@@ -81,15 +81,19 @@ TOEICでは主にスポーツやビジネスの団体名、組織の説明文な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にスポーツやビジネスの団体名、組織の説明文な
 ## 🤔  association との違いは？
 
 - **league**：共通の目的で結ばれた団体や連盟、特にスポーツやビジネスで使われることが多い
-- **[association](/word/association/)**：共通の関心や目的を持つ人々の集まり、より広い意味で使われる
+- **[association](/association)**：共通の関心や目的を持つ人々の集まり、より広い意味で使われる
 
 leagueは「競技」や「ビジネスの連盟」など組織的な結びつきが強調され、associationは「趣味の会」など幅広い集まりにも使われます。
 
@@ -105,14 +109,14 @@ leagueは「競技」や「ビジネスの連盟」など組織的な結びつ�
 
 ## 🧩 あわせて覚えたい
 
-- [union](/word/union/)：労働組合、連合
-- [division](/word/division/)：部門、区分
+- [union](/union)：労働組合、連合
+- [division](/division)：部門、区分
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [group](/word/group/)：グループ、集団
+- [team](/team)：チーム、団体
+- [group](/group)：グループ、集団
 
-<!-- cvid: aid13_bid22 -->
+<!-- cvid: aid11_bid25 -->

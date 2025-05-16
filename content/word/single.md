@@ -82,15 +82,19 @@ TOEICでは「single room（シングルルーム）」や「a single item（1�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「single room（シングルルーム）」や「a single item（1�
 ## 🤔  individual との違いは？
 
 - **single**：数や単独性を強調し、「1つだけ」「独身」などの意味で使う。
-- **[individual](/word/individual/)**：個人や個体を強調し、「それぞれの」「個々の」という意味で使う。
+- **[individual](/individual)**：個人や個体を強調し、「それぞれの」「個々の」という意味で使う。
 
 singleは「1つだけ」「単独」を表し、individualは「個人」「個体」としての独立性を表します。
 
@@ -106,14 +110,14 @@ singleは「1つだけ」「単独」を表し、individualは「個人」「個
 
 ## 🧩 あわせて覚えたい
 
-- [sole](/word/sole/)：唯一の、ただ1つの
-- [double](/word/double/)：2倍の、2人用の
+- [sole](/sole)：唯一の、ただ1つの
+- [double](/double)：2倍の、2人用の
 
 ---
 
 ## 📖 できればこれも
 
-- [alone](/word/alone/)：1人で、単独で
-- [unique](/word/unique/)：唯一の、独特な
+- [alone](/alone)：1人で、単独で
+- [unique](/unique)：唯一の、独特な
 
-<!-- cvid: aid21_bid26 -->
+<!-- cvid: aid49_bid34 -->

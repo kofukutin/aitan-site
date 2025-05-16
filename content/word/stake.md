@@ -81,15 +81,19 @@ TOEICではビジネス文書や記事で「出資」「持分」「利害関係
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や記事で「出資」「持分」「利害関係
 ## 🤔  share との違いは？
 
 - **stake**：企業やプロジェクトなどへの「出資」「持分」「利害関係」を強調する表現
-- **[share](/word/share/)**：会社の「株式」や「分け前」など、より具体的な「分けられた一部」を指す
+- **[share](/share)**：会社の「株式」や「分け前」など、より具体的な「分けられた一部」を指す
 
 stakeは「利害関係」や「出資額」など、全体に対する自分の関与や影響度を示すのに使い、shareは「株式」や「分け前」といった具体的な分割単位を指します。
 
@@ -105,14 +109,14 @@ stakeは「利害関係」や「出資額」など、全体に対する自分の
 
 ## 🧩 あわせて覚えたい
 
-- [investment](/word/investment/)：投資
-- [interest](/word/interest/)：利害、関心、（金融の）利息
+- [investment](/investment)：投資
+- [interest](/interest)：利害、関心、（金融の）利息
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [equity](/word/equity/)：株式、自己資本
+- [asset](/asset)：資産
+- [equity](/equity)：株式、自己資本
 
-<!-- cvid: aid18_bid37 -->
+<!-- cvid: aid19_bid29 -->

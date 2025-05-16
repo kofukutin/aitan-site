@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【longitude】の意味・使い方・例文 ― latitudeとの違い【TOEIC英単語】"
 description: "longitudeの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlatitudeとの違いもわかりやすく学べます。"
 word: "longitude"
@@ -80,15 +80,19 @@ Please provide the longitude and latitude of the new office location.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ Please provide the longitude and latitude of the new office location.
 ## 🤔  latitude との違いは？
 
 - **longitude**：地球上の東西の位置（経度）を示す
-- **[latitude](/word/latitude/)**：地球上の南北の位置（緯度）を示す
+- **[latitude](/latitude)**：地球上の南北の位置（緯度）を示す
 
 longitudeは「東西」、latitudeは「南北」の位置を表します。地図やGPSでセットで使われることが多いですが、方向が異なります。
 
@@ -104,14 +108,14 @@ longitudeは「東西」、latitudeは「南北」の位置を表します。地
 
 ## 🧩 あわせて覚えたい
 
-- [altitude](/word/altitude/)：高度、標高
-- [coordinate](/word/coordinate/)：座標
+- [altitude](/altitude)：高度、標高
+- [coordinate](/coordinate)：座標
 
 ---
 
 ## 📖 できればこれも
 
-- [equator](/word/equator/)：赤道
-- [hemisphere](/word/hemisphere/)：半球
+- [equator](/equator)：赤道
+- [hemisphere](/hemisphere)：半球
 
-<!-- cvid: aid03_bid04 -->
+<!-- cvid: aid36_bid33 -->

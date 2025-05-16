@@ -81,15 +81,19 @@ TOEICでは、家族や人間関係に関する話題や、福利厚生の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、家族や人間関係に関する話題や、福利厚生の説明
 ## 🤔  relation との違いは？
 
 - **relative**：血縁や婚姻による「親戚・親類」を指す。
-- **[relation](/word/relation/)**：人や物事の「関係・関連性」を指す。
+- **[relation](/relation)**：人や物事の「関係・関連性」を指す。
 
 relativeは「人」を表し、relationは「関係そのもの」を表す点が異なります。
 
@@ -105,14 +109,14 @@ relativeは「人」を表し、relationは「関係そのもの」を表す点�
 
 ## 🧩 あわせて覚えたい
 
-- [ancestor](/word/ancestor/)：祖先
-- [colleague](/word/colleague/)：同僚
+- [ancestor](/ancestor)：祖先
+- [colleague](/colleague)：同僚
 
 ---
 
 ## 📖 できればこれも
 
-- [connection](/word/connection/)：つながり、関係
-- [associate](/word/associate/)：仲間、同僚
+- [connection](/connection)：つながり、関係
+- [associate](/associate)：仲間、同僚
 
-<!-- cvid: aid14_bid30 -->
+<!-- cvid: aid28_bid43 -->

@@ -88,8 +88,12 @@ TOEICでは主にITやビジネス文書、広告などで「画像」「イメ�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやビジネス文書、広告などで「画像」「イメ�
 ## 🤔  picture との違いは？
 
 - **image**：心に浮かぶイメージや印象、デジタル画像など幅広い意味で使う
-- **[picture](/word/picture/)**：紙や画面に描かれた「絵」や「写真」など具体的なもの
+- **[picture](/picture)**：紙や画面に描かれた「絵」や「写真」など具体的なもの
 
 imageは抽象的な「印象」やデジタル画像にも使えますが、pictureは「写真」や「絵」など実際に目で見える具体的なものに使います。
 
@@ -105,14 +109,14 @@ imageは抽象的な「印象」やデジタル画像にも使えますが、pic
 
 ## 🧩 あわせて覚えたい
 
-- [photo](/word/photo/)：写真
-- [impression](/word/impression/)：印象
+- [photo](/photo)：写真
+- [impression](/impression)：印象
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：図、数字
-- [icon](/word/icon/)：アイコン、象徴
+- [figure](/figure)：図、数字
+- [icon](/icon)：アイコン、象徴
 
-<!-- cvid: aid36_bid05 -->
+<!-- cvid: aid36_bid07 -->

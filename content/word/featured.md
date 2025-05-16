@@ -81,15 +81,19 @@ TOEICでは広告や記事、イベント紹介などで「featured guest（特�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告や記事、イベント紹介などで「featured guest（特�
 ## 🤔  highlighted との違いは？
 
 - **featured**：特集された、主役として取り上げられた
-- **[highlighted](/word/highlighted/)**：強調された、目立つようにマークされた
+- **[highlighted](/highlighted)**：強調された、目立つようにマークされた
 
 **featured**は「特集」や「主役」として取り上げられるニュアンスがあり、**highlighted**は「強調」や「目立たせる」ために色や印などで示す場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは広告や記事、イベント紹介などで「featured guest（特�
 
 ## 🧩 あわせて覚えたい
 
-- [main](/word/main/)：主な、中心の
-- [prominent](/word/prominent/)：目立つ、著名な
+- [main](/main)：主な、中心の
+- [prominent](/prominent)：目立つ、著名な
 
 ---
 
 ## 📖 できればこれも
 
-- [selected](/word/selected/)：選ばれた
-- [notable](/word/notable/)：注目すべき、顕著な
+- [selected](/selected)：選ばれた
+- [notable](/notable)：注目すべき、顕著な
 
-<!-- cvid: aid05_bid10 -->
+<!-- cvid: aid35_bid03 -->

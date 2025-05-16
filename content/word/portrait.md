@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、人物の写真や肖像画を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、人物の写真や肖像画を
 ## 🤔  photograph との違いは？
 
 - **portrait**：人物を主に描いた絵や写真、またはその表現
-- **[photograph](/word/photograph/)**：写真全般（人物・風景・物など問わず）
+- **[photograph](/photograph)**：写真全般（人物・風景・物など問わず）
 
 portraitは「人物」に焦点を当てた表現で、photographは被写体を問わず写真全般を指します。
 
@@ -105,14 +109,14 @@ portraitは「人物」に焦点を当てた表現で、photographは被写体�
 
 ## 🧩 あわせて覚えたい
 
-- [landscape](/word/landscape/)：風景画、風景写真
-- [profile](/word/profile/)：横顔、人物紹介
+- [landscape](/landscape)：風景画、風景写真
+- [profile](/profile)：横顔、人物紹介
 
 ---
 
 ## 📖 できればこれも
 
-- [picture](/word/picture/)：絵、写真、画像
-- [drawing](/word/drawing/)：線画、スケッチ
+- [picture](/picture)：絵、写真、画像
+- [drawing](/drawing)：線画、スケッチ
 
-<!-- cvid: aid45_bid03 -->
+<!-- cvid: aid31_bid27 -->

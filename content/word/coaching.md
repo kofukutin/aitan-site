@@ -81,15 +81,19 @@ TOEICではビジネスシーンや人材育成に関する長文で「coaching�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスシーンや人材育成に関する長文で「coaching�
 ## 🤔  training との違いは？
 
 - **coaching**：個人や少人数に合わせて目標達成をサポートする指導
-- **[training](/word/training/)**：知識やスキルを体系的に教える訓練・研修
+- **[training](/training)**：知識やスキルを体系的に教える訓練・研修
 
 coachingは個別対応や成長支援に重点があり、trainingは集団向けのスキル習得や知識伝達が中心です。
 
@@ -105,14 +109,14 @@ coachingは個別対応や成長支援に重点があり、trainingは集団向�
 
 ## 🧩 あわせて覚えたい
 
-- [mentoring](/word/mentoring/)：経験者が後輩を導く指導
-- [guidance](/word/guidance/)：助言、指導
+- [mentoring](/mentoring)：経験者が後輩を導く指導
+- [guidance](/guidance)：助言、指導
 
 ---
 
 ## 📖 できればこれも
 
-- [consulting](/word/consulting/)：コンサルティング、専門的助言
-- [advice](/word/advice/)：助言、アドバイス
+- [consulting](/consulting)：コンサルティング、専門的助言
+- [advice](/advice)：助言、アドバイス
 
-<!-- cvid: aid11_bid32 -->
+<!-- cvid: aid49_bid46 -->

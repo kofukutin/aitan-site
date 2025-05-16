@@ -81,15 +81,19 @@ TOEICでは環境問題やビジネスのリスク説明など、文章中で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題やビジネスのリスク説明など、文章中で「
 ## 🤔  endangered との違いは？
 
 - **threatened**：脅威や危険にさらされている状態全般を指し、絶滅の危機だけでなく幅広い場面で使える。
-- **[endangered](/word/endangered/)**：特に「絶滅の危機にある」動植物に限定して使われることが多い。
+- **[endangered](/endangered)**：特に「絶滅の危機にある」動植物に限定して使われることが多い。
 
 threatenedは一般的な「脅かされている」状態、endangeredは「絶滅寸前」の深刻な状況を強調します。
 
@@ -105,14 +109,14 @@ threatenedは一般的な「脅かされている」状態、endangeredは「絶
 
 ## 🧩 あわせて覚えたい
 
-- [protected](/word/protected/)：保護された
-- [extinct](/word/extinct/)：絶滅した
+- [protected](/protected)：保護された
+- [extinct](/extinct)：絶滅した
 
 ---
 
 ## 📖 できればこれも
 
-- [harmful](/word/harmful/)：有害な
-- [preserve](/word/preserve/)：保護する
+- [harmful](/harmful)：有害な
+- [preserve](/preserve)：保護する
 
-<!-- cvid: aid27_bid17 -->
+<!-- cvid: aid22_bid40 -->

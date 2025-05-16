@@ -81,15 +81,19 @@ TOEICでは科学や天文に関する記事や、比喩的な表現で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や天文に関する記事や、比喩的な表現で登場す
 ## 🤔  occultation との違いは？
 
 - **eclipse**：天体が他の天体を部分的または完全に隠す現象。日食・月食や比喩的な「影を薄くする」意味もある。
-- **[occultation](/word/occultation/)**：天体が他の天体や星を完全に隠す現象。より専門的・限定的な用語。
+- **[occultation](/occultation)**：天体が他の天体や星を完全に隠す現象。より専門的・限定的な用語。
 
 eclipseは一般的な「食」全般や比喩にも使われますが、occultationは主に天文学で「完全に隠れる」現象に限定されます。
 
@@ -105,14 +109,14 @@ eclipseは一般的な「食」全般や比喩にも使われますが、occulta
 
 ## 🧩 あわせて覚えたい
 
-- [obscuration](/word/obscuration/)：遮蔽、覆い隠すこと
-- [transit](/word/transit/)：（天体の）通過
+- [obscuration](/obscuration)：遮蔽、覆い隠すこと
+- [transit](/transit)：（天体の）通過
 
 ---
 
 ## 📖 できればこれも
 
-- [orbit](/word/orbit/)：軌道
-- [phenomenon](/word/phenomenon/)：現象
+- [orbit](/orbit)：軌道
+- [phenomenon](/phenomenon)：現象
 
-<!-- cvid: aid26_bid42 -->
+<!-- cvid: aid01_bid38 -->

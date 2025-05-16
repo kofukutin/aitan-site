@@ -81,15 +81,19 @@ executedは、TOEICの文法・語彙問題（Part 5）で「実行された」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ executedは、TOEICの文法・語彙問題（Part 5）で「実行された」�
 ## 🤔  implemented との違いは？
 
 - **executed**：計画や契約、命令などを「実際に実行した」「遂行した」という意味で、ややフォーマル。
-- **[implemented](/word/implemented/)**：新しい制度や計画などを「導入・実施した」という意味で、実行のニュアンスが強い。
+- **[implemented](/implemented)**：新しい制度や計画などを「導入・実施した」という意味で、実行のニュアンスが強い。
 
 executedは「決められたことをきちんと実行した」ニュアンス、implementedは「新しい仕組みや方法を導入して実施した」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ executedは「決められたことをきちんと実行した」ニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [perform](/word/perform/)：実行する、遂行する
-- [complete](/word/complete/)：完了する、仕上げる
+- [perform](/perform)：実行する、遂行する
+- [complete](/complete)：完了する、仕上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [submit](/word/submit/)：提出する
+- [approve](/approve)：承認する
+- [submit](/submit)：提出する
 
-<!-- cvid: aid47_bid17 -->
+<!-- cvid: aid37_bid45 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【beside】の意味・使い方・例文 ― next toとの違い【TOEIC英単語】"
 description: "besideの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでnext toとの違いもわかりやすく学べます。"
 word: "beside"
@@ -79,15 +79,19 @@ TOEICでは主にPart 1の写真描写問題で、物や人の位置関係を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -103,14 +107,14 @@ besideは「横にある」ことを表し、next toは「ぴったり隣接し�
 
 ## 🧩 あわせて覚えたい
 
-- [near](/word/near/)：近くに
-- [alongside](/word/alongside/)：～と並んで、～の横に
+- [near](/near)：近くに
+- [alongside](/alongside)：～と並んで、～の横に
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between/)：～の間に
-- [under](/word/under/)：～の下に
+- [between](/between)：～の間に
+- [under](/under)：～の下に
 
-<!-- cvid: aid13_bid12 -->
+<!-- cvid: aid03_bid27 -->

@@ -81,15 +81,19 @@ TOEICではビジネスやプロジェクトに関する長文で、複数企業
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid26_bid02" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid02" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスやプロジェクトに関する長文で、複数企業
 ## 🤔  alliance との違いは？
 
 - **consortium**：特定の目的のために結成された企業や団体の連合体
-- **[alliance](/word/alliance/)**：より広い意味での同盟や提携関係
+- **[alliance](/alliance)**：より広い意味での同盟や提携関係
 
 consortiumは実務的・事業的な協力体制を強調し、allianceは政治的・経済的な幅広い提携を指すことが多いです。
 
@@ -105,14 +109,14 @@ consortiumは実務的・事業的な協力体制を強調し、allianceは政�
 
 ## 🧩 あわせて覚えたい
 
-- [partnership](/word/partnership/)：パートナーシップ、協力関係
-- [syndicate](/word/syndicate/)：企業連合、シンジケート
+- [partnership](/partnership)：パートナーシップ、協力関係
+- [syndicate](/syndicate)：企業連合、シンジケート
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [association](/word/association/)：協会、団体
+- [committee](/committee)：委員会
+- [association](/association)：協会、団体
 
-<!-- cvid: aid03_bid35 -->
+<!-- cvid: aid26_bid02 -->

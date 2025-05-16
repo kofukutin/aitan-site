@@ -80,15 +80,19 @@ The laboratory analyzed the serum samples for antibodies.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid37" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid37" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The laboratory analyzed the serum samples for antibodies.
 ## 🤔  plasma との違いは？
 
 - **serum**：血液が凝固した後に残る液体部分（凝固因子を含まない）
-- **[plasma](/word/plasma/)**：血液が凝固する前の液体成分（凝固因子を含む）
+- **[plasma](/plasma)**：血液が凝固する前の液体成分（凝固因子を含む）
 
 serumは凝固因子を除いた液体、plasmaは凝固因子を含む液体で、医療現場では使い分けられます。
 
@@ -104,14 +108,14 @@ serumは凝固因子を除いた液体、plasmaは凝固因子を含む液体で
 
 ## 🧩 あわせて覚えたい
 
-- [antibody](/word/antibody/)：抗体
-- [vaccine](/word/vaccine/)：ワクチン
+- [antibody](/antibody)：抗体
+- [vaccine](/vaccine)：ワクチン
 
 ---
 
 ## 📖 できればこれも
 
-- [tissue](/word/tissue/)：組織
-- [cell](/word/cell/)：細胞
+- [tissue](/tissue)：組織
+- [cell](/cell)：細胞
 
-<!-- cvid: aid37_bid16 -->
+<!-- cvid: aid39_bid37 -->

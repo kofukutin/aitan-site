@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bus】の意味・使い方・例文 ― coachとの違い【TOEIC英単語】"
 description: "busの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcoachとの違いもわかりやすく学べます。"
 word: "bus"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、バス停やバスに乗る場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid08_bid09" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid09" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、バス停やバスに乗る場
 ## 🤔  coach との違いは？
 
 - **bus**：都市や町の中を走る一般的なバス
-- **[coach](/word/coach/)**：長距離移動用の大型バス
+- **[coach](/coach)**：長距離移動用の大型バス
 
 busは短距離・市内移動用、coachは長距離や観光用で使われることが多いです。
 
@@ -105,14 +109,14 @@ busは短距離・市内移動用、coachは長距離や観光用で使われる
 
 ## 🧩 あわせて覚えたい
 
-- [train](/word/train/)：電車
-- [taxi](/word/taxi/)：タクシー
+- [train](/train)：電車
+- [taxi](/taxi)：タクシー
 
 ---
 
 ## 📖 できればこれも
 
-- [station](/word/station/)：駅
-- [route](/word/route/)：路線
+- [station](/station)：駅
+- [route](/route)：路線
 
-<!-- cvid: aid47_bid16 -->
+<!-- cvid: aid08_bid09 -->

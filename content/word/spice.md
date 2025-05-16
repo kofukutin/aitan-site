@@ -81,15 +81,19 @@ TOEICではレストランや食品、観光関連の記事や広告文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではレストランや食品、観光関連の記事や広告文で登場
 ## 🤔  herb との違いは？
 
 - **spice**：主に種子や樹皮、根などから作られる香辛料
-- **[herb](/word/herb/)**：主に葉や茎などの植物部分を使うハーブ
+- **[herb](/herb)**：主に葉や茎などの植物部分を使うハーブ
 
 spiceは辛味や香りを強く加える香辛料、herbは香りづけや彩りに使う植物で、使う部位や風味が異なります。
 
@@ -105,14 +109,14 @@ spiceは辛味や香りを強く加える香辛料、herbは香りづけや彩�
 
 ## 🧩 あわせて覚えたい
 
-- [seasoning](/word/seasoning/)：調味料
-- [flavor](/word/flavor/)：風味、味
+- [seasoning](/seasoning)：調味料
+- [flavor](/flavor)：風味、味
 
 ---
 
 ## 📖 できればこれも
 
-- [taste](/word/taste/)：味、味覚
-- [ingredient](/word/ingredient/)：材料、成分
+- [taste](/taste)：味、味覚
+- [ingredient](/ingredient)：材料、成分
 
-<!-- cvid: aid41_bid48 -->
+<!-- cvid: aid02_bid30 -->

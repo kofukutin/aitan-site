@@ -81,15 +81,19 @@ TOEICでは金額や数量を問う問題で頻出します。特に数字表現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは金額や数量を問う問題で頻出します。特に数字表現
 ## 🤔  billion との違いは？
 
 - **million**：100万（1,000,000）を表す
-- **[billion](/word/billion/)**：10億（1,000,000,000）を表す
+- **[billion](/billion)**：10億（1,000,000,000）を表す
 
 millionは100万、billionはその10倍以上の10億を指します。桁数が大きく異なるので、金額や数量の話で混同しないよう注意しましょう。
 
@@ -105,14 +109,14 @@ millionは100万、billionはその10倍以上の10億を指します。桁数�
 
 ## 🧩 あわせて覚えたい
 
-- [thousand](/word/thousand/)：千（1,000）
-- [trillion](/word/trillion/)：1兆（1,000,000,000,000）
+- [thousand](/thousand)：千（1,000）
+- [trillion](/trillion)：1兆（1,000,000,000,000）
 
 ---
 
 ## 📖 できればこれも
 
-- [hundred](/word/hundred/)：百（100）
-- [dozen](/word/dozen/)：ダース（12個）
+- [hundred](/hundred)：百（100）
+- [dozen](/dozen)：ダース（12個）
 
-<!-- cvid: aid13_bid19 -->
+<!-- cvid: aid24_bid39 -->

@@ -78,15 +78,19 @@ TOEICでは会話や説明文で「両方」「どちらも」と述べる場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは会話や説明文で「両方」「どちらも」と述べる場面
 ## 🤔  either との違いは？
 
 - **both**：2つのものや人の「両方」「どちらも」
-- **[either](/word/either/)**：2つのうち「どちらか一方」
+- **[either](/either)**：2つのうち「どちらか一方」
 
 bothは2つとも当てはまる場合、eitherは2つのうちどちらか1つだけを指す場合に使います。
 
@@ -102,14 +106,14 @@ bothは2つとも当てはまる場合、eitherは2つのうちどちらか1つ�
 
 ## 🧩 あわせて覚えたい
 
-- [neither](/word/neither/)：2つのうち「どちらも～ない」
-- [all](/word/all/)：3つ以上の「すべて」
+- [neither](/neither)：2つのうち「どちらも～ない」
+- [all](/all)：3つ以上の「すべて」
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each/)：それぞれ
-- [every](/word/every/)：すべての（各～）
+- [each](/each)：それぞれ
+- [every](/every)：すべての（各～）
 
-<!-- cvid: aid31_bid01 -->
+<!-- cvid: aid29_bid02 -->

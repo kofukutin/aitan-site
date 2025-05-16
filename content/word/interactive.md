@@ -81,15 +81,19 @@ TOEICでは主にITや教育関連の長文、製品説明などで「interactiv
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid16_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITや教育関連の長文、製品説明などで「interactiv
 ## 🤔  participatory との違いは？
 
 - **interactive**：双方向でやり取りができる、相互に作用する
-- **[participatory](/word/participatory/)**：参加型の、参加を促す
+- **[participatory](/participatory)**：参加型の、参加を促す
 
 「interactive」は主に人やシステム同士がやり取りする様子を指し、「participatory」は人が積極的に参加することに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは主にITや教育関連の長文、製品説明などで「interactiv
 
 ## 🧩 あわせて覚えたい
 
-- [responsive](/word/responsive/)：反応が早い、応答性のある
-- [automatic](/word/automatic/)：自動的な
+- [responsive](/responsive)：反応が早い、応答性のある
+- [automatic](/automatic)：自動的な
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital/)：デジタルの
-- [virtual](/word/virtual/)：仮想の
+- [digital](/digital)：デジタルの
+- [virtual](/virtual)：仮想の
 
-<!-- cvid: aid26_bid21 -->
+<!-- cvid: aid16_bid02 -->

@@ -77,15 +77,19 @@ TOEICではリスニングの応答や、全員を指す表現として頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではリスニングの応答や、全員を指す表現として頻出し
 ## 🤔  everyone との違いは？
 
 - **everybody**：カジュアルな「みんな」「全員」
-- **[everyone](/word/everyone/)**：ややフォーマルな「みんな」「全員」
+- **[everyone](/everyone)**：ややフォーマルな「みんな」「全員」
 
 everybodyは日常会話でよく使われ、everyoneはフォーマルな文書や場面で使われる傾向があります。
 
@@ -101,14 +105,14 @@ everybodyは日常会話でよく使われ、everyoneはフォーマルな文書
 
 ## 🧩 あわせて覚えたい
 
-- [anybody](/word/anybody/)：誰でも、誰か
-- [somebody](/word/somebody/)：誰か
+- [anybody](/anybody)：誰でも、誰か
+- [somebody](/somebody)：誰か
 
 ---
 
 ## 📖 できればこれも
 
-- [anyone](/word/anyone/)：誰でも
-- [someone](/word/someone/)：誰か
+- [anyone](/anyone)：誰でも
+- [someone](/someone)：誰か
 
-<!-- cvid: aid28_bid16 -->
+<!-- cvid: aid48_bid12 -->

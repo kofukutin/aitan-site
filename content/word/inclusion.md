@@ -81,15 +81,19 @@ TOEICでは、ダイバーシティや職場環境に関する長文やEメー�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ダイバーシティや職場環境に関する長文やEメー�
 ## 🤔  integration との違いは？
 
 - **inclusion**：多様な人や要素を受け入れて一体化することに重点がある
-- **[integration](/word/integration/)**：異なるものを統合し、全体として機能させることに重点がある
+- **[integration](/integration)**：異なるものを統合し、全体として機能させることに重点がある
 
 inclusionは「受け入れること」に重きを置き、integrationは「一体化・統合して機能させること」に重きを置きます。
 
@@ -105,14 +109,14 @@ inclusionは「受け入れること」に重きを置き、integrationは「一
 
 ## 🧩 あわせて覚えたい
 
-- [exclusion](/word/exclusion/)：排除、除外
-- [diversity](/word/diversity/)：多様性
+- [exclusion](/exclusion)：排除、除外
+- [diversity](/diversity)：多様性
 
 ---
 
 ## 📖 できればこれも
 
-- [participation](/word/participation/)：参加
-- [collaboration](/word/collaboration/)：協力
+- [participation](/participation)：参加
+- [collaboration](/collaboration)：協力
 
-<!-- cvid: aid08_bid23 -->
+<!-- cvid: aid06_bid01 -->

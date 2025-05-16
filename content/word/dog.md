@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【dog】の意味・使い方・例文 ― puppyとの違い【TOEIC英単語】"
 description: "dogの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpuppyとの違いもわかりやすく学べます。"
 word: "dog"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で、犬が写っている場面やペッ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で、犬が写っている場面やペッ
 ## 🤔  puppy との違いは？
 
 - **dog**：犬全般を指す一般的な単語
-- **[puppy](/word/puppy/)**：子犬（生まれて間もない犬）を指す
+- **[puppy](/puppy)**：子犬（生まれて間もない犬）を指す
 
 dogは成犬・子犬を問わず「犬」全体を指しますが、puppyは特に「子犬」に限定されます。
 
@@ -105,14 +109,14 @@ dogは成犬・子犬を問わず「犬」全体を指しますが、puppyは特
 
 ## 🧩 あわせて覚えたい
 
-- [cat](/word/cat/)：猫
-- [pet](/word/pet/)：ペット、飼い動物
+- [cat](/cat)：猫
+- [pet](/pet)：ペット、飼い動物
 
 ---
 
 ## 📖 できればこれも
 
-- [animal](/word/animal/)：動物
-- [bird](/word/bird/)：鳥
+- [animal](/animal)：動物
+- [bird](/bird)：鳥
 
-<!-- cvid: aid49_bid14 -->
+<!-- cvid: aid23_bid04 -->

@@ -81,15 +81,19 @@ TOEICでは、ホテルやレストラン、ビジネス文書などで「vouche
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやレストラン、ビジネス文書などで「vouche
 ## 🤔  coupon との違いは？
 
 - **voucher**：商品やサービスと引き換えられる正式な券や証明書。金額指定や特定用途が多い。
-- **[coupon](/word/coupon/)**：割引や特典を受けるための券。主に値引きやサービス提供に使われる。
+- **[coupon](/coupon)**：割引や特典を受けるための券。主に値引きやサービス提供に使われる。
 
 voucherは「証明書」や「引換券」として公式な場面で使われることが多く、couponは主に割引や特典目的でカジュアルに使われます。
 
@@ -105,14 +109,14 @@ voucherは「証明書」や「引換券」として公式な場面で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [receipt](/word/receipt/)：領収書
-- [certificate](/word/certificate/)：証明書
+- [receipt](/receipt)：領収書
+- [certificate](/certificate)：証明書
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice/)：請求書
-- [ticket](/word/ticket/)：チケット、入場券
+- [invoice](/invoice)：請求書
+- [ticket](/ticket)：チケット、入場券
 
-<!-- cvid: aid38_bid42 -->
+<!-- cvid: aid02_bid11 -->

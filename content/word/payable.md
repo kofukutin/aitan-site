@@ -81,15 +81,19 @@ TOEICでは請求書や会計に関する文脈で「payable」が出題され�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは請求書や会計に関する文脈で「payable」が出題され�
 ## 🤔  due との違いは？
 
 - **payable**：支払い義務があることを強調し、特に会計や請求書で使われる
-- **[due](/word/due/)**：期限が来て「支払う時期」であることを強調する
+- **[due](/due)**：期限が来て「支払う時期」であることを強調する
 
 「payable」は「支払うべき金額が存在する」ことに重点があり、「due」は「支払期限が来ている」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは請求書や会計に関する文脈で「payable」が出題され�
 
 ## 🧩 あわせて覚えたい
 
-- [receivable](/word/receivable/)：受取勘定、受け取るべき
-- [outstanding](/word/outstanding/)：未払いの、未処理の
+- [receivable](/receivable)：受取勘定、受け取るべき
+- [outstanding](/outstanding)：未払いの、未処理の
 
 ---
 
 ## 📖 できればこれも
 
-- [overdue](/word/overdue/)：期限を過ぎた
-- [refundable](/word/refundable/)：返金可能な
+- [overdue](/overdue)：期限を過ぎた
+- [refundable](/refundable)：返金可能な
 
-<!-- cvid: aid46_bid22 -->
+<!-- cvid: aid43_bid17 -->

@@ -81,15 +81,19 @@ TOEICではITやビジネス文書の説明文で「generated」がよく登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書の説明文で「generated」がよく登場�
 ## 🤔  created との違いは？
 
 - **generated**：自動的・機械的に「生成された」「発生した」
-- **[created](/word/created/)**：人の意図や工夫で「作られた」「創造された」
+- **[created](/created)**：人の意図や工夫で「作られた」「創造された」
 
 「generated」はシステムやプロセスによる自動生成に使われ、「created」は人の手や発想による創造に使われます。
 
@@ -105,14 +109,14 @@ TOEICではITやビジネス文書の説明文で「generated」がよく登場�
 
 ## 🧩 あわせて覚えたい
 
-- [produce](/word/produce/)：生産する、作り出す
-- [output](/word/output/)：出力、成果物
+- [produce](/produce)：生産する、作り出す
+- [output](/output)：出力、成果物
 
 ---
 
 ## 📖 できればこれも
 
-- [automated](/word/automated/)：自動化された
-- [processed](/word/processed/)：処理された
+- [automated](/automated)：自動化された
+- [processed](/processed)：処理された
 
-<!-- cvid: aid29_bid20 -->
+<!-- cvid: aid11_bid47 -->

@@ -81,15 +81,19 @@ TOEICのPart 7で契約書や案内文など、正式な文書の中で「stated
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で契約書や案内文など、正式な文書の中で「stated
 ## 🤔  mentioned との違いは？
 
 - **stated**：はっきりと明記された、公式に述べられた
-- **[mentioned](/word/mentioned/)**：軽く触れられた、言及された
+- **[mentioned](/mentioned)**：軽く触れられた、言及された
 
 「stated」は公式文書や契約などで明確に書かれている場合に使い、「mentioned」は話や文章の中で軽く触れられた場合に使います。
 
@@ -105,14 +109,14 @@ TOEICのPart 7で契約書や案内文など、正式な文書の中で「stated
 
 ## 🧩 あわせて覚えたい
 
-- [declared](/word/declared/)：宣言された、公式に発表された
-- [specified](/word/specified/)：特定された、明確に指定された
+- [declared](/declared)：宣言された、公式に発表された
+- [specified](/specified)：特定された、明確に指定された
 
 ---
 
 ## 📖 できればこれも
 
-- [written](/word/written/)：書かれた、文書化された
-- [official](/word/official/)：公式の、公的な
+- [written](/written)：書かれた、文書化された
+- [official](/official)：公式の、公的な
 
-<!-- cvid: aid42_bid41 -->
+<!-- cvid: aid17_bid45 -->

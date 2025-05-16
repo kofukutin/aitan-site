@@ -82,15 +82,19 @@ TOEICでは、会社や公共の「施設」についての説明や案内、利
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会社や公共の「施設」についての説明や案内、利
 ## 🤔  equipment との違いは？
 
 - **facility**：建物や場所、または特定の目的のための「施設」や「設備全体」を指す
-- **[equipment](/word/equipment/)**：道具や機械など「個々の機器・備品」を指す
+- **[equipment](/equipment)**：道具や機械など「個々の機器・備品」を指す
 
 facilityは「場所や建物」といった大きな単位、equipmentは「道具や装置」といった個々の物を指す点が異なります。
 
@@ -106,14 +110,14 @@ facilityは「場所や建物」といった大きな単位、equipmentは「道
 
 ## 🧩 あわせて覚えたい
 
-- [amenity](/word/amenity/)：快適な設備、アメニティ
-- [infrastructure](/word/infrastructure/)：社会基盤、インフラ
+- [amenity](/amenity)：快適な設備、アメニティ
+- [infrastructure](/infrastructure)：社会基盤、インフラ
 
 ---
 
 ## 📖 できればこれも
 
-- [resource](/word/resource/)：資源、リソース
-- [service](/word/service/)：サービス、業務
+- [resource](/resource)：資源、リソース
+- [service](/service)：サービス、業務
 
-<!-- cvid: aid37_bid23 -->
+<!-- cvid: aid16_bid40 -->

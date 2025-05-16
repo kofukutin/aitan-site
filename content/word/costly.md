@@ -81,15 +81,19 @@ TOEICでは主にPart 5で、形容詞の語彙問題や文脈判断で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5で、形容詞の語彙問題や文脈判断で出題さ
 ## 🤔  expensive との違いは？
 
 - **costly**：高価であることに加え、「損失が大きい」「代償が大きい」といったニュアンスも含む
-- **[expensive](/word/expensive/)**：単純に「値段が高い」「高価な」という意味
+- **[expensive](/expensive)**：単純に「値段が高い」「高価な」という意味
 
 costlyは金銭的な高さだけでなく、失敗やミスによる「大きな損失」も表現できる点がexpensiveと異なります。
 
@@ -105,14 +109,14 @@ costlyは金銭的な高さだけでなく、失敗やミスによる「大き�
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable/)：手ごろな価格の
-- [valuable](/word/valuable/)：価値のある
+- [affordable](/affordable)：手ごろな価格の
+- [valuable](/valuable)：価値のある
 
 ---
 
 ## 📖 できればこれも
 
-- [profitable](/word/profitable/)：利益になる
-- [efficient](/word/efficient/)：効率的な
+- [profitable](/profitable)：利益になる
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid09_bid49 -->
+<!-- cvid: aid24_bid01 -->

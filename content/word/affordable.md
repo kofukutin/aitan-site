@@ -81,15 +81,19 @@ TOEICでは広告や商品説明、サービス案内などで「affordable」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告や商品説明、サービス案内などで「affordable」�
 ## 🤔  reasonable との違いは？
 
 - **affordable**：無理なく買える価格であることを強調
-- **[reasonable](/word/reasonable/)**：価格や条件が「妥当」「納得できる」ことを強調
+- **[reasonable](/reasonable)**：価格や条件が「妥当」「納得できる」ことを強調
 
 affordableは「手が届く」こと、reasonableは「納得できる」ことに重点があり、affordableの方が「安さ・手ごろさ」を強く表します。
 
@@ -105,14 +109,14 @@ affordableは「手が届く」こと、reasonableは「納得できる」こと
 
 ## 🧩 あわせて覚えたい
 
-- [expensive](/word/expensive/)：高価な
-- [cheap](/word/cheap/)：安い（品質が低いニュアンスも）
+- [expensive](/expensive)：高価な
+- [cheap](/cheap)：安い（品質が低いニュアンスも）
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる、入手できる
-- [convenient](/word/convenient/)：便利な
+- [available](/available)：利用できる、入手できる
+- [convenient](/convenient)：便利な
 
-<!-- cvid: aid45_bid14 -->
+<!-- cvid: aid39_bid20 -->

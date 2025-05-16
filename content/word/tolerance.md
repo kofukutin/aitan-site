@@ -81,15 +81,19 @@ toleranceは、TOEICの長文読解パートで「多様性」や「職場文化
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ toleranceは、TOEICの長文読解パートで「多様性」や「職場文化
 ## 🤔  acceptance との違いは？
 
 - **tolerance**：違いを「我慢して受け入れる」ニュアンスが強い
-- **[acceptance](/word/acceptance/)**：違いを「積極的に受け入れる」ニュアンス
+- **[acceptance](/acceptance)**：違いを「積極的に受け入れる」ニュアンス
 
 toleranceは「仕方なく許す」感覚があり、acceptanceは「心から認める」前向きな受け入れを表します。
 
@@ -105,14 +109,14 @@ toleranceは「仕方なく許す」感覚があり、acceptanceは「心から�
 
 ## 🧩 あわせて覚えたい
 
-- [intolerance](/word/intolerance/)：不寛容、許容しないこと
-- [patience](/word/patience/)：忍耐、我慢
+- [intolerance](/intolerance)：不寛容、許容しないこと
+- [patience](/patience)：忍耐、我慢
 
 ---
 
 ## 📖 できればこれも
 
-- [diversity](/word/diversity/)：多様性
-- [respect](/word/respect/)：尊重、敬意
+- [diversity](/diversity)：多様性
+- [respect](/respect)：尊重、敬意
 
-<!-- cvid: aid07_bid36 -->
+<!-- cvid: aid27_bid19 -->

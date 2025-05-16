@@ -81,15 +81,19 @@ TOEICでは、施設や交通、イベントなどの混雑状況を説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、施設や交通、イベントなどの混雑状況を説明する
 ## 🤔  congest との違いは？
 
 - **overcrowd**：人や物が多すぎて「過密にする」「混雑させる」という意味で、主に人や物の数に焦点を当てる。
-- **[congest](/word/congest/)**：交通や流れを「詰まらせる」「渋滞させる」という意味で、流れや通行の妨げに焦点を当てる。
+- **[congest](/congest)**：交通や流れを「詰まらせる」「渋滞させる」という意味で、流れや通行の妨げに焦点を当てる。
 
 overcrowdは「人数や物が多すぎる」こと、congestは「流れが妨げられる」ことに主眼があります。
 
@@ -105,14 +109,14 @@ overcrowdは「人数や物が多すぎる」こと、congestは「流れが妨�
 
 ## 🧩 あわせて覚えたい
 
-- [evacuate](/word/evacuate/)：避難させる
-- [populate](/word/populate/)：住まわせる、人口を増やす
+- [evacuate](/evacuate)：避難させる
+- [populate](/populate)：住まわせる、人口を増やす
 
 ---
 
 ## 📖 できればこれも
 
-- [overwhelm](/word/overwhelm/)：圧倒する
-- [overflow](/word/overflow/)：あふれる
+- [overwhelm](/overwhelm)：圧倒する
+- [overflow](/overflow)：あふれる
 
-<!-- cvid: aid49_bid46 -->
+<!-- cvid: aid00_bid13 -->

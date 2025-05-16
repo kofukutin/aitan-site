@@ -81,15 +81,19 @@ TOEICでは主にビジネスシーンでの「補償」「報酬」の意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスシーンでの「補償」「報酬」の意味で
 ## 🤔  reimburse との違いは？
 
 - **compensate**：損失や労働などに対して広く「補償する」「埋め合わせる」意味で使う
-- **[reimburse](/word/reimburse/)**：実際に支払った費用を「返金・払い戻しする」意味が中心
+- **[reimburse](/reimburse)**：実際に支払った費用を「返金・払い戻しする」意味が中心
 
 compensateは損失や労力全般への補償に使い、reimburseは「立て替えたお金の返金」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ compensateは損失や労力全般への補償に使い、reimburseは「立て�
 
 ## 🧩 あわせて覚えたい
 
-- [offset](/word/offset/)：相殺する、埋め合わせる
-- [reward](/word/reward/)：報酬を与える
+- [offset](/offset)：相殺する、埋め合わせる
+- [reward](/reward)：報酬を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [deduct](/word/deduct/)：差し引く、控除する
-- [refund](/word/refund/)：返金する
+- [deduct](/deduct)：差し引く、控除する
+- [refund](/refund)：返金する
 
-<!-- cvid: aid40_bid08 -->
+<!-- cvid: aid36_bid16 -->

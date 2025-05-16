@@ -81,15 +81,19 @@ TOEICでは「sort of（～の種類）」や「sort A by B（AをBで分類す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「sort of（～の種類）」や「sort A by B（AをBで分類す�
 ## 🤔  type との違いは？
 
 - **sort**：日常的な「種類」「分類」を幅広く指す
-- **[type](/word/type/)**：より形式的・技術的な「型」「タイプ」を指す
+- **[type](/type)**：より形式的・技術的な「型」「タイプ」を指す
 
 「sort」はざっくりとした分類や日常会話で使われ、「type」はより明確な区分や専門的な場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「sort of（～の種類）」や「sort A by B（AをBで分類す�
 
 ## 🧩 あわせて覚えたい
 
-- [category](/word/category/)：カテゴリー、部門
-- [kind](/word/kind/)：種類、タイプ
+- [category](/category)：カテゴリー、部門
+- [kind](/kind)：種類、タイプ
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/word/group/)：グループ、集団
-- [method](/word/method/)：方法、やり方
+- [group](/group)：グループ、集団
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid00_bid45 -->
+<!-- cvid: aid25_bid00 -->

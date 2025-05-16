@@ -81,15 +81,19 @@ TOEICでは「役員会」「委員会」などビジネス関連の意味で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「役員会」「委員会」などビジネス関連の意味で出
 ## 🤔  committee との違いは？
 
 - **board**：会社や組織の意思決定を行う役員会や取締役会を指すことが多い
-- **[committee](/word/committee/)**：特定の目的や課題のために集まった委員会
+- **[committee](/committee)**：特定の目的や課題のために集まった委員会
 
 boardは常設の意思決定機関、committeeは特定の目的のために設置されるグループという違いがあります。
 
@@ -105,14 +109,14 @@ boardは常設の意思決定機関、committeeは特定の目的のために設
 
 ## 🧩 あわせて覚えたい
 
-- [panel](/word/panel/)：専門家などによる審査団・討論グループ
-- [director](/word/director/)：取締役、指導者
+- [panel](/panel)：専門家などによる審査団・討論グループ
+- [director](/director)：取締役、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [staff](/word/staff/)：職員、スタッフ
-- [group](/word/group/)：集団、グループ
+- [staff](/staff)：職員、スタッフ
+- [group](/group)：集団、グループ
 
-<!-- cvid: aid12_bid05 -->
+<!-- cvid: aid16_bid06 -->

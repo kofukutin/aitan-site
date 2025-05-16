@@ -81,15 +81,19 @@ TOEICではビジネス契約や業務委託に関する文脈でよく出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス契約や業務委託に関する文脈でよく出題さ
 ## 🤔  supplier との違いは？
 
 - **contractor**：契約に基づき特定の業務やサービスを請け負う業者
-- **[supplier](/word/supplier/)**：商品や原材料など「物」を供給する業者
+- **[supplier](/supplier)**：商品や原材料など「物」を供給する業者
 
 contractorは「仕事やサービス」を請け負う業者、supplierは「物」を供給する業者という違いがあります。
 
@@ -105,14 +109,14 @@ contractorは「仕事やサービス」を請け負う業者、supplierは「�
 
 ## 🧩 あわせて覚えたい
 
-- [client](/word/client/)：依頼主、顧客
-- [subcontractor](/word/subcontractor/)：下請け業者
+- [client](/client)：依頼主、顧客
+- [subcontractor](/subcontractor)：下請け業者
 
 ---
 
 ## 📖 できればこれも
 
-- [vendor](/word/vendor/)：販売業者
-- [consultant](/word/consultant/)：コンサルタント、助言者
+- [vendor](/vendor)：販売業者
+- [consultant](/consultant)：コンサルタント、助言者
 
-<!-- cvid: aid29_bid25 -->
+<!-- cvid: aid13_bid10 -->

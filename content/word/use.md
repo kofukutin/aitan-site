@@ -82,15 +82,19 @@ TOEICではPart 5を中心に、基本動詞として高頻度で出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid25_bid08" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid08" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではPart 5を中心に、基本動詞として高頻度で出題されま
 ## 🤔  utilize との違いは？
 
 - **use**：一般的に「使う」「利用する」という幅広い意味で日常的に使われる。
-- **[utilize](/word/utilize/)**：よりフォーマルで「有効活用する」「役立てる」というニュアンスが強い。
+- **[utilize](/utilize)**：よりフォーマルで「有効活用する」「役立てる」というニュアンスが強い。
 
 「use」は日常的な「使う」、一方「utilize」は特定の目的や効果を意識して「活用する」場合に使われます。
 
@@ -106,14 +110,14 @@ TOEICではPart 5を中心に、基本動詞として高頻度で出題されま
 
 ## 🧩 あわせて覚えたい
 
-- [apply](/word/apply/)：適用する、応用する
-- [consume](/word/consume/)：消費する
+- [apply](/apply)：適用する、応用する
+- [consume](/consume)：消費する
 
 ---
 
 ## 📖 できればこれも
 
-- [make](/word/make/)：作る、行う
-- [operate](/word/operate/)：操作する、運営する
+- [make](/make)：作る、行う
+- [operate](/operate)：操作する、運営する
 
-<!-- cvid: aid48_bid11 -->
+<!-- cvid: aid25_bid08 -->

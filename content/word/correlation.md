@@ -81,15 +81,19 @@ TOEICでは、統計や調査結果を説明する長文やレポートの中で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid26_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、統計や調査結果を説明する長文やレポートの中で
 ## 🤔  association との違いは？
 
 - **correlation**：2つ以上の事柄の間に統計的・科学的な「相関関係」があることを強調。
-- **[association](/word/association/)**：2つの事柄が「関連」していること全般を指し、必ずしも統計的な意味は含まない。
+- **[association](/association)**：2つの事柄が「関連」していること全般を指し、必ずしも統計的な意味は含まない。
 
 correlationは数値やデータに基づく関係性を示す時に使い、associationはより広い意味でのつながりや関係を表します。
 
@@ -105,14 +109,14 @@ correlationは数値やデータに基づく関係性を示す時に使い、ass
 
 ## 🧩 あわせて覚えたい
 
-- [causation](/word/causation/)：因果関係（原因と結果の関係）
-- [connection](/word/connection/)：つながり、関係
+- [causation](/causation)：因果関係（原因と結果の関係）
+- [connection](/connection)：つながり、関係
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [relationship](/word/relationship/)：関係、つながり
+- [analysis](/analysis)：分析
+- [relationship](/relationship)：関係、つながり
 
-<!-- cvid: aid00_bid29 -->
+<!-- cvid: aid26_bid28 -->

@@ -81,15 +81,19 @@ TOEICでは主に建築やオフィスの設計に関する長文やEメール�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に建築やオフィスの設計に関する長文やEメール�
 ## 🤔  designer との違いは？
 
 - **architect**：建物や構造物の設計を専門とする人
-- **[designer](/word/designer/)**：服や製品、グラフィックなど幅広い分野のデザインをする人
+- **[designer](/designer)**：服や製品、グラフィックなど幅広い分野のデザインをする人
 
 architectは主に建築分野に特化し、designerはより広い分野で使われます。
 
@@ -105,14 +109,14 @@ architectは主に建築分野に特化し、designerはより広い分野で使
 
 ## 🧩 あわせて覚えたい
 
-- [engineer](/word/engineer/)：技術者、エンジニア
-- [builder](/word/builder/)：建設業者、建築作業員
+- [engineer](/engineer)：技術者、エンジニア
+- [builder](/builder)：建設業者、建築作業員
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure/)：構造、建造物
-- [plan](/word/plan/)：計画、設計
+- [structure](/structure)：構造、建造物
+- [plan](/plan)：計画、設計
 
-<!-- cvid: aid44_bid27 -->
+<!-- cvid: aid34_bid46 -->

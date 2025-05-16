@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 ## 🤔  mist との違いは？
 
 - **fog**：視界が大きく遮られるほど濃い霧
-- **[mist](/word/mist/)**：薄くて視界がある程度保たれる霧
+- **[mist](/mist)**：薄くて視界がある程度保たれる霧
 
 fogはmistよりも水滴が多く、視界が悪くなる濃い霧を指します。mistはより薄く、やや幻想的な雰囲気を持つことが多いです。
 
@@ -105,14 +109,14 @@ fogはmistよりも水滴が多く、視界が悪くなる濃い霧を指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [cloud](/word/cloud/)：雲
-- [haze](/word/haze/)：もや、かすみ
+- [cloud](/cloud)：雲
+- [haze](/haze)：もや、かすみ
 
 ---
 
 ## 📖 できればこれも
 
-- [rain](/word/rain/)：雨
-- [smog](/word/smog/)：スモッグ（煙霧）
+- [rain](/rain)：雨
+- [smog](/smog)：スモッグ（煙霧）
 
-<!-- cvid: aid15_bid36 -->
+<!-- cvid: aid20_bid12 -->

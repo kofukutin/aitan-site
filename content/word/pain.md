@@ -81,15 +81,19 @@ If you feel any pain during the procedure, please let us know.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ If you feel any pain during the procedure, please let us know.
 ## 🤔  ache との違いは？
 
 - **pain**：急に感じる強い痛みや精神的な苦痛も含む幅広い「痛み」
-- **[ache](/word/ache/)**：鈍くじわじわ続く痛み（例：headache, stomachache）
+- **[ache](/ache)**：鈍くじわじわ続く痛み（例：headache, stomachache）
 
 painは一時的な激しい痛みや心の痛みにも使えますが、acheは長く続く鈍い痛みに限定されることが多いです。
 
@@ -105,14 +109,14 @@ painは一時的な激しい痛みや心の痛みにも使えますが、acheは
 
 ## 🧩 あわせて覚えたい
 
-- [hurt](/word/hurt/)：傷つける、痛む
-- [relief](/word/relief/)：安心、緩和
+- [hurt](/hurt)：傷つける、痛む
+- [relief](/relief)：安心、緩和
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが
-- [illness](/word/illness/)：病気
+- [injury](/injury)：けが
+- [illness](/illness)：病気
 
-<!-- cvid: aid18_bid37 -->
+<!-- cvid: aid26_bid00 -->

@@ -81,15 +81,19 @@ TOEICではPart 1やPart 2で、時間帯や日常の行動を説明する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid09_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1やPart 2で、時間帯や日常の行動を説明する際に
 ## 🤔  dawn との違いは？
 
 - **morning**：日の出から正午ごろまでの「朝」の時間帯全体を指す。
-- **[dawn](/word/dawn/)**：夜明け、太陽が昇り始める瞬間やその直前の短い時間を指す。
+- **[dawn](/dawn)**：夜明け、太陽が昇り始める瞬間やその直前の短い時間を指す。
 
 「morning」は広い意味での朝、「dawn」は特に夜明けの瞬間を強調します。
 
@@ -105,14 +109,14 @@ TOEICではPart 1やPart 2で、時間帯や日常の行動を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [afternoon](/word/afternoon/)：午後
-- [evening](/word/evening/)：夕方、晩
+- [afternoon](/afternoon)：午後
+- [evening](/evening)：夕方、晩
 
 ---
 
 ## 📖 できればこれも
 
-- [night](/word/night/)：夜
-- [breakfast](/word/breakfast/)：朝食
+- [night](/night)：夜
+- [breakfast](/breakfast)：朝食
 
-<!-- cvid: aid14_bid48 -->
+<!-- cvid: aid09_bid10 -->

@@ -77,15 +77,19 @@ TOEICでは主に記事やレポート、比較表などで「A versus B」の�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主に記事やレポート、比較表などで「A versus B」の�
 ## 🤔  against との違いは？
 
 - **versus**：主に試合や比較、議論などで「A対B」「AとBを比べて」という意味で使う。
-- **[against](/word/against/)**：物理的・抽象的な「～に対して」「～に反対して」という広い意味で使う。
+- **[against](/against)**：物理的・抽象的な「～に対して」「～に反対して」という広い意味で使う。
 
 versusはフォーマルな比較や対決の場面で使い、againstはより広く「反対」「対抗」の意味で使われます。
 
@@ -101,14 +105,14 @@ versusはフォーマルな比較や対決の場面で使い、againstはより�
 
 ## 🧩 あわせて覚えたい
 
-- [opposite](/word/opposite/)：反対の、向かい合った
-- [compete](/word/compete/)：競争する
+- [opposite](/opposite)：反対の、向かい合った
+- [compete](/compete)：競争する
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between/)：～の間で
-- [compare](/word/compare/)：比較する
+- [between](/between)：～の間で
+- [compare](/compare)：比較する
 
-<!-- cvid: aid39_bid47 -->
+<!-- cvid: aid48_bid28 -->

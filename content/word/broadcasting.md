@@ -81,15 +81,19 @@ TOEICでは、放送やアナウンスに関するリスニング問題で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、放送やアナウンスに関するリスニング問題で頻出
 ## 🤔  transmission との違いは？
 
 - **broadcasting**：テレビやラジオなどで広く一般に向けて情報を発信すること
-- **[transmission](/word/transmission/)**：情報や信号を送ること全般（放送に限らず通信も含む）
+- **[transmission](/transmission)**：情報や信号を送ること全般（放送に限らず通信も含む）
 
 broadcastingは「大勢に向けての放送」、transmissionは「技術的な伝達・送信」とニュアンスが異なります。
 
@@ -105,14 +109,14 @@ broadcastingは「大勢に向けての放送」、transmissionは「技術的�
 
 ## 🧩 あわせて覚えたい
 
-- [announcement](/word/announcement/)：お知らせ、発表
-- [media](/word/media/)：メディア、媒体
+- [announcement](/announcement)：お知らせ、発表
+- [media](/media)：メディア、媒体
 
 ---
 
 ## 📖 できればこれも
 
-- [channel](/word/channel/)：チャンネル、放送局
-- [program](/word/program/)：番組
+- [channel](/channel)：チャンネル、放送局
+- [program](/program)：番組
 
-<!-- cvid: aid12_bid47 -->
+<!-- cvid: aid21_bid20 -->

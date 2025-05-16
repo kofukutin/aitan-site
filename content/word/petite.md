@@ -81,15 +81,19 @@ TOEICでは衣服や人物の描写、商品説明などで見かけることが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは衣服や人物の描写、商品説明などで見かけることが
 ## 🤔  small との違いは？
 
 - **petite**：特に女性や衣服について「小柄な」「華奢な」という意味で使う
-- **[small](/word/small/)**：一般的に「小さい」という広い意味で使う
+- **[small](/small)**：一般的に「小さい」という広い意味で使う
 
 petiteは主に女性や服のサイズに限定して使われ、smallは物や人など幅広く「小さい」と表現できます。
 
@@ -105,14 +109,14 @@ petiteは主に女性や服のサイズに限定して使われ、smallは物や
 
 ## 🧩 あわせて覚えたい
 
-- [tiny](/word/tiny/)：とても小さい
-- [slender](/word/slender/)：ほっそりした、細身の
+- [tiny](/tiny)：とても小さい
+- [slender](/slender)：ほっそりした、細身の
 
 ---
 
 ## 📖 できればこれも
 
-- [short](/word/short/)：背が低い
-- [slim](/word/slim/)：細身の、スリムな
+- [short](/short)：背が低い
+- [slim](/slim)：細身の、スリムな
 
-<!-- cvid: aid14_bid18 -->
+<!-- cvid: aid48_bid40 -->

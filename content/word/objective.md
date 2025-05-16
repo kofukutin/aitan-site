@@ -81,15 +81,19 @@ TOEICではビジネス文書や会議の議事録などで「objective」が目
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議の議事録などで「objective」が目
 ## 🤔  goal との違いは？
 
 - **objective**：達成すべき具体的・短期的な目標や目的
-- **[goal](/word/goal/)**：最終的な到達点や長期的な目標
+- **[goal](/goal)**：最終的な到達点や長期的な目標
 
 objectiveは「今やるべき具体的な目標」、goalは「最終的に達成したい大きな目標」というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ objectiveは「今やるべき具体的な目標」、goalは「最終的に達�
 
 ## 🧩 あわせて覚えたい
 
-- [purpose](/word/purpose/)：目的、意図
-- [target](/word/target/)：的、目標
+- [purpose](/purpose)：目的、意図
+- [target](/target)：的、目標
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy/)：戦略
-- [plan](/word/plan/)：計画
+- [strategy](/strategy)：戦略
+- [plan](/plan)：計画
 
-<!-- cvid: aid10_bid28 -->
+<!-- cvid: aid20_bid41 -->

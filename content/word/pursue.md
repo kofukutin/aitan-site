@@ -81,15 +81,19 @@ TOEICでは「目標を追求する」「計画を進める」などの意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「目標を追求する」「計画を進める」などの意味で
 ## 🤔  seek との違いは？
 
 - **pursue**：目標や夢などを「追い求めて努力し続ける」ニュアンスが強い
-- **[seek](/word/seek/)**：何かを「探し求める」「得ようとする」一般的な表現
+- **[seek](/seek)**：何かを「探し求める」「得ようとする」一般的な表現
 
 pursueは「継続的な努力」や「計画的な追求」を表し、seekは「探す・求める」行為自体を広く指します。
 
@@ -105,14 +109,14 @@ pursueは「継続的な努力」や「計画的な追求」を表し、seekは�
 
 ## 🧩 あわせて覚えたい
 
-- [chase](/word/chase/)：追いかける（物理的・比喩的に使う）
-- [abandon](/word/abandon/)：放棄する、諦める
+- [chase](/chase)：追いかける（物理的・比喩的に使う）
+- [abandon](/abandon)：放棄する、諦める
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [attempt](/word/attempt/)：試みる、挑戦する
+- [achieve](/achieve)：達成する
+- [attempt](/attempt)：試みる、挑戦する
 
-<!-- cvid: aid25_bid14 -->
+<!-- cvid: aid46_bid04 -->

@@ -81,15 +81,19 @@ TOEICでは、アンケート結果や商品レビュー、サービスの評価
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、アンケート結果や商品レビュー、サービスの評価
 ## 🤔  evaluation との違いは？
 
 - **rating**：数値やランクで表される「評価点」「格付け」
-- **[evaluation](/word/evaluation/)**：全体的な「評価」「査定」（数値化されないことも多い）
+- **[evaluation](/evaluation)**：全体的な「評価」「査定」（数値化されないことも多い）
 
 ratingは点数や星など具体的な評価値、evaluationは総合的な判断や評価そのものを指します。
 
@@ -105,14 +109,14 @@ ratingは点数や星など具体的な評価値、evaluationは総合的な判�
 
 ## 🧩 あわせて覚えたい
 
-- [score](/word/score/)：点数、得点
-- [assessment](/word/assessment/)：査定、評価
+- [score](/score)：点数、得点
+- [assessment](/assessment)：査定、評価
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/word/review/)：レビュー、批評
-- [grade](/word/grade/)：成績、等級
+- [review](/review)：レビュー、批評
+- [grade](/grade)：成績、等級
 
-<!-- cvid: aid35_bid14 -->
+<!-- cvid: aid41_bid22 -->

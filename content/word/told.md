@@ -83,15 +83,19 @@ toldはTOEICの会話パートで頻出し、指示や伝達内容を問う設�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ toldはTOEICの会話パートで頻出し、指示や伝達内容を問う設�
 ## 🤔  said との違いは？
 
 - **told**：「誰に」伝えたかを明確にする動詞。必ず相手（人）が必要。
-- **[said](/word/said/)**：「何を」言ったかに焦点。相手が不要な場合も多い。
+- **[said](/said)**：「何を」言ったかに焦点。相手が不要な場合も多い。
 
 toldは「人に伝える」ことを強調し、saidは「発言内容」自体を強調します。
 
@@ -107,14 +111,14 @@ toldは「人に伝える」ことを強調し、saidは「発言内容」自体
 
 ## 🧩 あわせて覚えたい
 
-- [inform](/word/inform/)：正式に知らせる
-- [advise](/word/advise/)：助言する、忠告する
+- [inform](/inform)：正式に知らせる
+- [advise](/advise)：助言する、忠告する
 
 ---
 
 ## 📖 できればこれも
 
-- [ask](/word/ask/)：尋ねる、頼む
-- [explain](/word/explain/)：説明する
+- [ask](/ask)：尋ねる、頼む
+- [explain](/explain)：説明する
 
-<!-- cvid: aid14_bid45 -->
+<!-- cvid: aid41_bid18 -->

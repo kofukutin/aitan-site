@@ -81,15 +81,19 @@ TOEICでは会話文や意見交換の中で、軽い非難や自己反省の表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文や意見交換の中で、軽い非難や自己反省の表
 ## 🤔  stupid との違いは？
 
 - **dumb**：軽いニュアンスで「ばかな」「愚かな」と言うときに使う。ややカジュアル。
-- **[stupid](/word/stupid/)**：より強く「頭が悪い」「愚かだ」と非難する表現。
+- **[stupid](/stupid)**：より強く「頭が悪い」「愚かだ」と非難する表現。
 
 「dumb」は冗談や軽い指摘で使われやすく、「stupid」はより直接的で強い否定のニュアンスがあります。
 
@@ -105,14 +109,14 @@ TOEICでは会話文や意見交換の中で、軽い非難や自己反省の表
 
 ## 🧩 あわせて覚えたい
 
-- [silent](/word/silent/)：静かな、無言の
-- [clever](/word/clever/)：賢い、頭の良い
+- [silent](/silent)：静かな、無言の
+- [clever](/clever)：賢い、頭の良い
 
 ---
 
 ## 📖 できればこれも
 
-- [smart](/word/smart/)：賢い、頭の良い
-- [quiet](/word/quiet/)：静かな
+- [smart](/smart)：賢い、頭の良い
+- [quiet](/quiet)：静かな
 
-<!-- cvid: aid27_bid14 -->
+<!-- cvid: aid34_bid05 -->

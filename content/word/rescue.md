@@ -82,15 +82,19 @@ TOEICでは、事故やトラブル、緊急対応の会話や説明文で「res
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、事故やトラブル、緊急対応の会話や説明文で「res
 ## 🤔  save との違いは？
 
 - **rescue**：危険や困難な状況から直接的に救い出すことを強調
-- **[save](/word/save/)**：広く「救う」「守る」意味で使え、物理的な救助以外にも適用
+- **[save](/save)**：広く「救う」「守る」意味で使え、物理的な救助以外にも適用
 
 rescueは緊急性や直接的な救出を表し、saveはより幅広い「救う」や「守る」場面で使われます。
 
@@ -106,14 +110,14 @@ rescueは緊急性や直接的な救出を表し、saveはより幅広い「救�
 
 ## 🧩 あわせて覚えたい
 
-- [recover](/word/recover/)：回復する、取り戻す
-- [assist](/word/assist/)：手伝う、援助する
+- [recover](/recover)：回復する、取り戻す
+- [assist](/assist)：手伝う、援助する
 
 ---
 
 ## 📖 できればこれも
 
-- [protect](/word/protect/)：守る、防御する
-- [support](/word/support/)：支える、支援する
+- [protect](/protect)：守る、防御する
+- [support](/support)：支える、支援する
 
-<!-- cvid: aid12_bid03 -->
+<!-- cvid: aid48_bid10 -->

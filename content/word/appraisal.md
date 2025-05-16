@@ -81,15 +81,19 @@ TOEICではビジネス文書や人事関連の長文で「評価」「査定」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や人事関連の長文で「評価」「査定」
 ## 🤔  evaluation との違いは？
 
 - **appraisal**：価値や能力を専門的・公式に評価すること
-- **[evaluation](/word/evaluation/)**：広く一般的な評価や判断
+- **[evaluation](/evaluation)**：広く一般的な評価や判断
 
 appraisalは特にビジネスや専門分野での公式な評価に使われ、evaluationは日常的な評価や判断にも幅広く使われます。
 
@@ -105,14 +109,14 @@ appraisalは特にビジネスや専門分野での公式な評価に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/word/assessment/)：評価、査定（より分析的な評価）
-- [estimate](/word/estimate/)：見積もり、概算（数値的な予測や評価）
+- [assessment](/assessment)：評価、査定（より分析的な評価）
+- [estimate](/estimate)：見積もり、概算（数値的な予測や評価）
 
 ---
 
 ## 📖 できればこれも
 
-- [feedback](/word/feedback/)：フィードバック、意見
-- [review](/word/review/)：再検討、見直し
+- [feedback](/feedback)：フィードバック、意見
+- [review](/review)：再検討、見直し
 
-<!-- cvid: aid23_bid47 -->
+<!-- cvid: aid39_bid16 -->

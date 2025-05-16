@@ -80,15 +80,19 @@ TOEICでは主に地図や写真描写で「通り名」として登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に地図や写真描写で「通り名」として登場します
 ## 🤔  street との違いは？
 
 - **avenue**：都市の中の広くてまっすぐな大通りや並木道、または比喩的に「手段」も表す
-- **[street](/word/street/)**：一般的な「通り」「道路」を指し、広さや格式は問わない
+- **[street](/street)**：一般的な「通り」「道路」を指し、広さや格式は問わない
 
 avenueは特に都市計画で幅広く整備された道や、比喩的な「方法」を指すこともありますが、streetはもっと一般的な「通り」です。
 
@@ -104,14 +108,14 @@ avenueは特に都市計画で幅広く整備された道や、比喩的な「�
 
 ## 🧩 あわせて覚えたい
 
-- [boulevard](/word/boulevard/)：広い並木道、大通り
-- [route](/word/route/)：道、経路、ルート
+- [boulevard](/boulevard)：広い並木道、大通り
+- [route](/route)：道、経路、ルート
 
 ---
 
 ## 📖 できればこれも
 
-- [block](/word/block/)：街区、一区画
-- [corner](/word/corner/)：角、曲がり角
+- [block](/block)：街区、一区画
+- [corner](/corner)：角、曲がり角
 
-<!-- cvid: aid27_bid21 -->
+<!-- cvid: aid16_bid40 -->

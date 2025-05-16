@@ -81,15 +81,19 @@ TOEICでは会話パートで「変だ」「おかしい」といったニュア
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話パートで「変だ」「おかしい」といったニュア
 ## 🤔  strange との違いは？
 
 - **weird**：普通と違っていて、少し不気味だったり、風変わりな印象を与えるカジュアルな表現。
-- **[strange](/word/strange/)**：単に「普通でない」「見慣れない」という意味で、ややフォーマルにも使える。
+- **[strange](/strange)**：単に「普通でない」「見慣れない」という意味で、ややフォーマルにも使える。
 
 weirdは「変で気味が悪い」ニュアンスが強く、strangeは「珍しい・見慣れない」など幅広い場面で使えます。
 
@@ -105,14 +109,14 @@ weirdは「変で気味が悪い」ニュアンスが強く、strangeは「珍�
 
 ## 🧩 あわせて覚えたい
 
-- [odd](/word/odd/)：奇妙な、変な
-- [bizarre](/word/bizarre/)：非常に奇妙な、異様な
+- [odd](/odd)：奇妙な、変な
+- [bizarre](/bizarre)：非常に奇妙な、異様な
 
 ---
 
 ## 📖 できればこれも
 
-- [strange](/word/strange/)：奇妙な、見慣れない
-- [odd](/word/odd/)：変な、奇数の
+- [strange](/strange)：奇妙な、見慣れない
+- [odd](/odd)：変な、奇数の
 
-<!-- cvid: aid44_bid26 -->
+<!-- cvid: aid31_bid39 -->

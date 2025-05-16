@@ -81,15 +81,19 @@ TOEICでは環境問題や契約関連の長文でよく登場します。特に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や契約関連の長文でよく登場します。特に
 ## 🤔  sustainable との違いは？
 
 - **renewable**：再生可能な、何度も新しくできる
-- **[sustainable](/word/sustainable/)**：持続可能な、長期間維持できる
+- **[sustainable](/sustainable)**：持続可能な、長期間維持できる
 
 「renewable」は主にエネルギーや資源が自然に再生できることを指し、「sustainable」は環境や社会が長く続けられることに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは環境問題や契約関連の長文でよく登場します。特に
 
 ## 🧩 あわせて覚えたい
 
-- [recyclable](/word/recyclable/)：再利用できる
-- [exhaustible](/word/exhaustible/)：使い果たせる、枯渇する
+- [recyclable](/recyclable)：再利用できる
+- [exhaustible](/exhaustible)：使い果たせる、枯渇する
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [alternative](/word/alternative/)：代替の
+- [efficient](/efficient)：効率的な
+- [alternative](/alternative)：代替の
 
-<!-- cvid: aid36_bid10 -->
+<!-- cvid: aid21_bid33 -->

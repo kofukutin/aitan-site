@@ -80,15 +80,19 @@ The hotel offers a sauna for its guests.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The hotel offers a sauna for its guests.
 ## 🤔  steam room との違いは？
 
 - **sauna**：高温の乾燥した空気、または時に蒸気を使う発汗用の部屋。
-- **[steam room](/word/steam_room/)**：湿度が非常に高い蒸気を満たした部屋。
+- **[steam room](/steam_room)**：湿度が非常に高い蒸気を満たした部屋。
 
 saunaは主に乾燥した熱気、steam roomは湿った蒸気が特徴で、発汗方法や体感が異なります。
 
@@ -104,14 +108,14 @@ saunaは主に乾燥した熱気、steam roomは湿った蒸気が特徴で、�
 
 ## 🧩 あわせて覚えたい
 
-- [bath](/word/bath/)：浴槽、入浴
-- [spa](/word/spa/)：温泉、スパ施設
+- [bath](/bath)：浴槽、入浴
+- [spa](/spa)：温泉、スパ施設
 
 ---
 
 ## 📖 できればこれも
 
-- [pool](/word/pool/)：プール
-- [shower](/word/shower/)：シャワー
+- [pool](/pool)：プール
+- [shower](/shower)：シャワー
 
-<!-- cvid: aid22_bid43 -->
+<!-- cvid: aid08_bid10 -->

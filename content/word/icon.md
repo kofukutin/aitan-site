@@ -81,15 +81,19 @@ IT関連やビジネス文書、説明文で「icon」は頻出します。特�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やビジネス文書、説明文で「icon」は頻出します。特�
 ## 🤔  symbol との違いは？
 
 - **icon**：具体的な絵や記号としての「アイコン」、または象徴的な存在。
-- **[symbol](/word/symbol/)**：抽象的な「記号」や「象徴」、意味や概念を表すもの。
+- **[symbol](/symbol)**：抽象的な「記号」や「象徴」、意味や概念を表すもの。
 
 iconはパソコン画面の絵や有名人など具体的な象徴に使い、symbolはより抽象的な意味や概念の象徴に使います。
 
@@ -105,14 +109,14 @@ iconはパソコン画面の絵や有名人など具体的な象徴に使い、s
 
 ## 🧩 あわせて覚えたい
 
-- [logo](/word/logo/)：ロゴ、商標
-- [figure](/word/figure/)：図、人物
+- [logo](/logo)：ロゴ、商標
+- [figure](/figure)：図、人物
 
 ---
 
 ## 📖 できればこれも
 
-- [image](/word/image/)：画像、イメージ
-- [sign](/word/sign/)：標識、合図
+- [image](/image)：画像、イメージ
+- [sign](/sign)：標識、合図
 
-<!-- cvid: aid46_bid32 -->
+<!-- cvid: aid10_bid11 -->

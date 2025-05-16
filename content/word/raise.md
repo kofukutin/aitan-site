@@ -81,15 +81,19 @@ TOEICでは「給料を上げる」「資金を集める」「手を挙げる」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「給料を上げる」「資金を集める」「手を挙げる」
 ## 🤔  increase との違いは？
 
 - **raise**：誰かが意図的に「上げる」「増やす」ことを表す
-- **[increase](/word/increase/)**：数量やレベルが「増える」「増加する」ことを表す（自動詞・他動詞両方あり）
+- **[increase](/increase)**：数量やレベルが「増える」「増加する」ことを表す（自動詞・他動詞両方あり）
 
 raiseは「人が何かを上げる」動作を強調し、increaseは「自然に増える」「増加する」状態や変化を表します。
 
@@ -105,14 +109,14 @@ raiseは「人が何かを上げる」動作を強調し、increaseは「自然�
 
 ## 🧩 あわせて覚えたい
 
-- [promote](/word/promote/)：昇進させる、促進する
-- [lower](/word/lower/)：下げる、減らす
+- [promote](/promote)：昇進させる、促進する
+- [lower](/lower)：下げる、減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する、良くする
-- [expand](/word/expand/)：拡大する、広げる
+- [improve](/improve)：改善する、良くする
+- [expand](/expand)：拡大する、広げる
 
-<!-- cvid: aid30_bid05 -->
+<!-- cvid: aid18_bid41 -->

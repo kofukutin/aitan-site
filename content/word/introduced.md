@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「新しい制度や商品を導入
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「新しい制度や商品を導入
 ## 🤔  presented との違いは？
 
 - **introduced**：新しいものや人を初めて知らせたり導入したりすること
-- **[presented](/word/presented/)**：情報や物を正式に提示・発表すること
+- **[presented](/presented)**：情報や物を正式に提示・発表すること
 
 「introduced」は「初めて登場させる・導入する」ニュアンスが強く、「presented」は「見せる・発表する」ことに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスの場面で「新しい制度や商品を導入
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch/)：（新商品などを）発売する、開始する
-- [announce](/word/announce/)：発表する、公表する
+- [launch](/launch)：（新商品などを）発売する、開始する
+- [announce](/announce)：発表する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain/)：説明する
-- [suggest](/word/suggest/)：提案する
+- [explain](/explain)：説明する
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid46_bid39 -->
+<!-- cvid: aid38_bid17 -->

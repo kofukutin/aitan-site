@@ -81,15 +81,19 @@ TOEICではビジネス文書やメール、財務報告などで「income」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やメール、財務報告などで「income」が
 ## 🤔  revenue との違いは？
 
 - **income**：個人や企業が得る「収入」「所得」全般を指す。
-- **[revenue](/word/revenue/)**：主に企業の「売上高」「総収益」を指し、経費控除前の金額。
+- **[revenue](/revenue)**：主に企業の「売上高」「総収益」を指し、経費控除前の金額。
 
 incomeは個人・企業どちらにも使えますが、revenueは企業の売上や事業収入に限定されることが多いです。
 
@@ -105,14 +109,14 @@ incomeは個人・企業どちらにも使えますが、revenueは企業の売�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit/)：利益（収入から経費を引いた残り）
-- [salary](/word/salary/)：給料（定期的に支払われる報酬）
+- [profit](/profit)：利益（収入から経費を引いた残り）
+- [salary](/salary)：給料（定期的に支払われる報酬）
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense/)：費用、支出
-- [cost](/word/cost/)：コスト、費用
+- [expense](/expense)：費用、支出
+- [cost](/cost)：コスト、費用
 
-<!-- cvid: aid27_bid38 -->
+<!-- cvid: aid18_bid25 -->

@@ -77,15 +77,19 @@ TOEICではリスニングや会話文で頻出し、全員への呼びかけや
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではリスニングや会話文で頻出し、全員への呼びかけや
 ## 🤔  everybody との違いは？
 
 - **everyone**：ややフォーマルで書き言葉・話し言葉どちらでも使える
-- **[everybody](/word/everybody/)**：カジュアルで話し言葉によく使われる
+- **[everybody](/everybody)**：カジュアルで話し言葉によく使われる
 
 everyoneはフォーマル・カジュアルどちらでも使えますが、everybodyはより口語的な響きがあります。
 
@@ -101,14 +105,14 @@ everyoneはフォーマル・カジュアルどちらでも使えますが、eve
 
 ## 🧩 あわせて覚えたい
 
-- [someone](/word/someone/)：誰か
-- [anyone](/word/anyone/)：誰でも、誰か
+- [someone](/someone)：誰か
+- [anyone](/anyone)：誰でも、誰か
 
 ---
 
 ## 📖 できればこれも
 
-- [everything](/word/everything/)：すべてのこと
-- [anyone](/word/anyone/)：誰でも、誰か
+- [everything](/everything)：すべてのこと
+- [anyone](/anyone)：誰でも、誰か
 
-<!-- cvid: aid16_bid26 -->
+<!-- cvid: aid26_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは環境や企業の社会的責任に関する長文や記事でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid46_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や企業の社会的責任に関する長文や記事でよく
 ## 🤔  renewable との違いは？
 
 - **sustainable**：長期間にわたり維持できる、環境や資源を損なわずに続けられる
-- **[renewable](/word/renewable/)**：再生可能な、何度も新しくできる
+- **[renewable](/renewable)**：再生可能な、何度も新しくできる
 
 「sustainable」は「続けられること」に重点があり、「renewable」は「再び新しく生み出せること」に焦点があります。たとえば、太陽エネルギーはrenewable（再生可能）であり、sustainable（持続可能）でもありますが、両者は使い分けが必要です。
 
@@ -105,14 +109,14 @@ TOEICでは環境や企業の社会的責任に関する長文や記事でよく
 
 ## 🧩 あわせて覚えたい
 
-- [eco friendly](/word/eco_friendly/)：環境にやさしい
-- [conservation](/word/conservation/)：保護、保存
+- [eco friendly](/eco_friendly)：環境にやさしい
+- [conservation](/conservation)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [environmental](/word/environmental/)：環境の
+- [efficient](/efficient)：効率的な
+- [environmental](/environmental)：環境の
 
-<!-- cvid: aid24_bid27 -->
+<!-- cvid: aid46_bid12 -->

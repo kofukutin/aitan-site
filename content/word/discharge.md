@@ -81,15 +81,19 @@ The company was fined for discharging waste into the river.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company was fined for discharging waste into the river.
 ## 🤔  release との違いは？
 
 - **discharge**：義務や責任、病院・軍隊などから「正式に解放する」「退院・除隊させる」など、フォーマルな場面で使う。
-- **[release](/word/release/)**：一般的に「解放する」「公開する」「リリースする」など幅広く使える。
+- **[release](/release)**：一般的に「解放する」「公開する」「リリースする」など幅広く使える。
 
 dischargeは特定の義務や施設からの解放に使われ、releaseはより広い意味で「自由にする」「公開する」などに使われます。
 
@@ -105,14 +109,14 @@ dischargeは特定の義務や施設からの解放に使われ、releaseはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [admit](/word/admit/)：入院させる、認める
-- [dismiss](/word/dismiss/)：解雇する、解散させる
+- [admit](/admit)：入院させる、認める
+- [dismiss](/dismiss)：解雇する、解散させる
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe/)：処方する
-- [transfer](/word/transfer/)：移す、転送する
+- [prescribe](/prescribe)：処方する
+- [transfer](/transfer)：移す、転送する
 
-<!-- cvid: aid19_bid00 -->
+<!-- cvid: aid32_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の終了、契約の締結、結論
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の終了、契約の締結、結論
 ## 🤔  finish との違いは？
 
 - **conclude**：フォーマルに「終える」「結論を出す」「締結する」など、まとめて締めくくるニュアンス。
-- **[finish](/word/finish/)**：日常的に「終わる」「終える」を表し、作業や行動の完了に幅広く使う。
+- **[finish](/finish)**：日常的に「終わる」「終える」を表し、作業や行動の完了に幅広く使う。
 
 concludeは会議や契約、議論などを正式に締めくくる時に使い、finishは単純な作業や行動の終了に使います。
 
@@ -105,14 +109,14 @@ concludeは会議や契約、議論などを正式に締めくくる時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [terminate](/word/terminate/)：（正式に）終わらせる、打ち切る
-- [summarize](/word/summarize/)：要約する
+- [terminate](/terminate)：（正式に）終わらせる、打ち切る
+- [summarize](/summarize)：要約する
 
 ---
 
 ## 📖 できればこれも
 
-- [assume](/word/assume/)：仮定する、引き受ける
-- [determine](/word/determine/)：決定する、判断する
+- [assume](/assume)：仮定する、引き受ける
+- [determine](/determine)：決定する、判断する
 
-<!-- cvid: aid45_bid39 -->
+<!-- cvid: aid12_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは、電話会議やビデオ会議の案内、IT関連の説明文で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電話会議やビデオ会議の案内、IT関連の説明文で�
 ## 🤔  meeting との違いは？
 
 - **conferencing**：遠隔地同士でIT機器を使って会議を行うこと
-- **[meeting](/word/meeting/)**：対面・オンライン問わず、集まって話し合う一般的な会議
+- **[meeting](/meeting)**：対面・オンライン問わず、集まって話し合う一般的な会議
 
 conferencingは特に「オンライン」や「電話」など、物理的に離れた場所をつなぐ会議に使われる点がmeetingと異なります。
 
@@ -105,14 +109,14 @@ conferencingは特に「オンライン」や「電話」など、物理的に�
 
 ## 🧩 あわせて覚えたい
 
-- [webinar](/word/webinar/)：ウェブ上で行うセミナー
-- [discussion](/word/discussion/)：討論、話し合い
+- [webinar](/webinar)：ウェブ上で行うセミナー
+- [discussion](/discussion)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議、大会
-- [presentation](/word/presentation/)：発表、プレゼン
+- [conference](/conference)：会議、大会
+- [presentation](/presentation)：発表、プレゼン
 
-<!-- cvid: aid10_bid41 -->
+<!-- cvid: aid20_bid23 -->

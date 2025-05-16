@@ -81,15 +81,19 @@ TOEICでは、ビジネスメールや社内通知、記事などで「意見の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスメールや社内通知、記事などで「意見の
 ## 🤔  dispute との違いは？
 
 - **conflict**：意見や利害などの根本的な対立や衝突を幅広く指す
-- **[dispute](/word/dispute/)**：主に言い争いや論争など、議論による対立を指す
+- **[dispute](/dispute)**：主に言い争いや論争など、議論による対立を指す
 
 conflictは感情や価値観のぶつかり合いなど広い意味で使われ、disputeは具体的な議論や口論などに限定される傾向があります。
 
@@ -105,14 +109,14 @@ conflictは感情や価値観のぶつかり合いなど広い意味で使われ
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement/)：合意、同意
-- [controversy](/word/controversy/)：論争、議論
+- [agreement](/agreement)：合意、同意
+- [controversy](/controversy)：論争、議論
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue/)：問題、課題
-- [debate](/word/debate/)：討論、議論
+- [issue](/issue)：問題、課題
+- [debate](/debate)：討論、議論
 
-<!-- cvid: aid06_bid35 -->
+<!-- cvid: aid27_bid38 -->

@@ -81,15 +81,19 @@ TOEICでは、製品やサービスの「試用期間」や「裁判」に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品やサービスの「試用期間」や「裁判」に関す
 ## 🤔  test との違いは？
 
 - **trial**：評価や体験のための「試用」「試み」、または「裁判」を指す。
-- **[test](/word/test/)**：知識や性能などを調べるための「テスト」「検査」を指す。
+- **[test](/test)**：知識や性能などを調べるための「テスト」「検査」を指す。
 
 trialは「一定期間使ってみる」「裁判で審理する」など広い意味で使われ、testは「能力や品質を測るための具体的なテスト」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ trialは「一定期間使ってみる」「裁判で審理する」など広い
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment/)：実験
-- [court](/word/court/)：法廷、裁判所
+- [experiment](/experiment)：実験
+- [court](/court)：法廷、裁判所
 
 ---
 
 ## 📖 できればこれも
 
-- [sample](/word/sample/)：見本、サンプル
-- [attempt](/word/attempt/)：試み、挑戦
+- [sample](/sample)：見本、サンプル
+- [attempt](/attempt)：試み、挑戦
 
-<!-- cvid: aid07_bid49 -->
+<!-- cvid: aid00_bid11 -->

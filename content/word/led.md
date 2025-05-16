@@ -81,7 +81,7 @@ TOEICでは会議やプロジェクトの進行、リーダーシップに関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは会議やプロジェクトの進行、リーダーシップに関す
 
 <div class="info-center">
 ＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やプロジェクトの進行、リーダーシップに関す
 ## 🤔  guided との違いは？
 
 - **led**：全体を率いたり、先頭に立って導いたことを強調
-- **[guided](/word/guided/)**：案内や指導など、方向性を示して助けるニュアンス
+- **[guided](/guided)**：案内や指導など、方向性を示して助けるニュアンス
 
 「led」はリーダーシップや主導権を持って集団を動かす場面で使い、「guided」は案内や助言などサポート的な導きを表します。
 
@@ -105,14 +109,14 @@ TOEICでは会議やプロジェクトの進行、リーダーシップに関す
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、運営する
-- [direct](/word/direct/)：指揮する、指示する
+- [manage](/manage)：管理する、運営する
+- [direct](/direct)：指揮する、指示する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：まとめる、整理する
-- [support](/word/support/)：支援する、支える
+- [organize](/organize)：まとめる、整理する
+- [support](/support)：支援する、支える
 
-<!-- cvid: aid38_bid37 -->
+<!-- cvid: aid45_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは、展示会や広告、文化イベントなどの文脈でartistが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、展示会や広告、文化イベントなどの文脈でartistが
 ## 🤔  designer との違いは？
 
 - **artist**：芸術的な作品を創作する人全般を指し、絵画や彫刻、音楽など幅広い分野に使われます。
-- **[designer](/word/designer/)**：主にファッションやグラフィック、インテリアなど、実用的なデザインを手がける人を指します。
+- **[designer](/designer)**：主にファッションやグラフィック、インテリアなど、実用的なデザインを手がける人を指します。
 
 artistは芸術性や創造性を重視する職業全般、designerは機能性や実用性を重視したデザイン分野の専門家に使われます。
 
@@ -105,14 +109,14 @@ artistは芸術性や創造性を重視する職業全般、designerは機能性
 
 ## 🧩 あわせて覚えたい
 
-- [painter](/word/painter/)：画家
-- [sculptor](/word/sculptor/)：彫刻家
+- [painter](/painter)：画家
+- [sculptor](/sculptor)：彫刻家
 
 ---
 
 ## 📖 できればこれも
 
-- [musician](/word/musician/)：音楽家
-- [writer](/word/writer/)：作家
+- [musician](/musician)：音楽家
+- [writer](/writer)：作家
 
-<!-- cvid: aid38_bid40 -->
+<!-- cvid: aid25_bid09 -->

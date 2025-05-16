@@ -81,15 +81,19 @@ The museum will hold an exhibition about the history of the emperor.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The museum will hold an exhibition about the history of the emperor.
 ## 🤔  king との違いは？
 
 - **emperor**：複数の国や広大な領土を支配する「皇帝」
-- **[king](/word/king/)**：1つの国や地域を治める「王」
+- **[king](/king)**：1つの国や地域を治める「王」
 
 emperorはkingよりも広い範囲を支配し、より高い地位を表します。たとえば、kingは1国の王、emperorは複数の王を従える存在です。
 
@@ -105,14 +109,14 @@ emperorはkingよりも広い範囲を支配し、より高い地位を表しま
 
 ## 🧩 あわせて覚えたい
 
-- [monarch](/word/monarch/)：君主、統治者
-- [empire](/word/empire/)：帝国
+- [monarch](/monarch)：君主、統治者
+- [empire](/empire)：帝国
 
 ---
 
 ## 📖 できればこれも
 
-- [queen](/word/queen/)：女王
-- [prince](/word/prince/)：王子
+- [queen](/queen)：女王
+- [prince](/prince)：王子
 
-<!-- cvid: aid17_bid17 -->
+<!-- cvid: aid46_bid40 -->

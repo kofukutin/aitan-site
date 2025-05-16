@@ -81,15 +81,19 @@ TOEICでは、説明文やマニュアル、プレゼン資料の指示などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文やマニュアル、プレゼン資料の指示などで
 ## 🤔  projectile との違いは？
 
 - **bullet**：銃やライフルから発射される金属製の弾丸、または箇条書きの記号。
-- **[projectile](/word/projectile/)**：発射されて飛ぶ物体全般（弾丸、ミサイル、石など）。
+- **[projectile](/projectile)**：発射されて飛ぶ物体全般（弾丸、ミサイル、石など）。
 
 **bullet**は主に銃の弾丸や箇条書き記号を指し、**projectile**は「飛んでいくもの」全般を指すため、より広い意味で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、説明文やマニュアル、プレゼン資料の指示などで
 
 ## 🧩 あわせて覚えたい
 
-- [cartridge](/word/cartridge/)：弾薬筒、カートリッジ
-- [shell](/word/shell/)：砲弾、殻
+- [cartridge](/cartridge)：弾薬筒、カートリッジ
+- [shell](/shell)：砲弾、殻
 
 ---
 
 ## 📖 できればこれも
 
-- [target](/word/target/)：標的、目標
-- [weapon](/word/weapon/)：武器
+- [target](/target)：標的、目標
+- [weapon](/weapon)：武器
 
-<!-- cvid: aid22_bid18 -->
+<!-- cvid: aid41_bid39 -->

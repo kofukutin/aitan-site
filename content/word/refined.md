@@ -81,15 +81,19 @@ TOEICでは、refinedはビジネス文書や説明文で「洗練された」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、refinedはビジネス文書や説明文で「洗練された」�
 ## 🤔  sophisticated との違いは？
 
 - **refined**：上品さや純度の高さ、細部まで磨かれていることを強調
-- **[sophisticated](/word/sophisticated/)**：高度な知識や技術、複雑さ、現代的な洗練を強調
+- **[sophisticated](/sophisticated)**：高度な知識や技術、複雑さ、現代的な洗練を強調
 
 refinedは「上品で無駄がない」印象、sophisticatedは「複雑で高度な」印象を与えます。
 
@@ -105,14 +109,14 @@ refinedは「上品で無駄がない」印象、sophisticatedは「複雑で高
 
 ## 🧩 あわせて覚えたい
 
-- [crude](/word/crude/)：粗野な、未加工の
-- [elegant](/word/elegant/)：優雅な、上品な
+- [crude](/crude)：粗野な、未加工の
+- [elegant](/elegant)：優雅な、上品な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise/)：正確な
-- [polished](/word/polished/)：磨かれた、洗練された
+- [precise](/precise)：正確な
+- [polished](/polished)：磨かれた、洗練された
 
-<!-- cvid: aid24_bid41 -->
+<!-- cvid: aid12_bid27 -->

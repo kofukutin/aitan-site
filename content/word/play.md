@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「遊ぶ」「演奏する」「役割を果た
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「遊ぶ」「演奏する」「役割を果た
 ## 🤔  perform との違いは？
 
 - **play**：遊ぶ、スポーツや楽器をする、役を演じるなど幅広く使う
-- **[perform](/word/perform/)**：演奏・演技・仕事などを「遂行する」「披露する」ときに使う
+- **[perform](/perform)**：演奏・演技・仕事などを「遂行する」「披露する」ときに使う
 
 playはカジュアルに「楽しむ」「行う」ニュアンスが強く、performは「公式に披露する」「任務を果たす」などフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ playはカジュアルに「楽しむ」「行う」ニュアンスが強く、p
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/word/practice/)：練習する、実践する
-- [game](/word/game/)：ゲーム、試合
+- [practice](/practice)：練習する、実践する
+- [game](/game)：ゲーム、試合
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/word/enjoy/)：楽しむ
-- [sing](/word/sing/)：歌う
+- [enjoy](/enjoy)：楽しむ
+- [sing](/sing)：歌う
 
-<!-- cvid: aid46_bid11 -->
+<!-- cvid: aid01_bid39 -->

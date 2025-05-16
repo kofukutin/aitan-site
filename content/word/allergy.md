@@ -81,15 +81,19 @@ TOEICでは健康や医療に関する案内文やメール、レストランの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や医療に関する案内文やメール、レストランの
 ## 🤔  intolerance との違いは？
 
 - **allergy**：体の免疫反応による過敏症（例：花粉症、食物アレルギー）
-- **[intolerance](/word/intolerance/)**：体が特定の物質をうまく処理できない状態（例：乳糖不耐症）
+- **[intolerance](/intolerance)**：体が特定の物質をうまく処理できない状態（例：乳糖不耐症）
 
 allergyは免疫系の反応による症状、intoleranceは消化や代謝の問題による不快感や症状を指します。
 
@@ -105,14 +109,14 @@ allergyは免疫系の反応による症状、intoleranceは消化や代謝の�
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/word/symptom/)：症状
-- [reaction](/word/reaction/)：反応
+- [symptom](/symptom)：症状
+- [reaction](/reaction)：反応
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [medicine](/word/medicine/)：薬
+- [disease](/disease)：病気
+- [medicine](/medicine)：薬
 
-<!-- cvid: aid15_bid38 -->
+<!-- cvid: aid30_bid35 -->

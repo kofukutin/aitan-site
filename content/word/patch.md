@@ -81,15 +81,19 @@ ITやビジネス文書で「patch」は、ソフトウェアの修正やアッ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書で「patch」は、ソフトウェアの修正やアッ�
 ## 🤔  repair との違いは？
 
 - **patch**：部分的な修正や継ぎ当て、小規模な修正プログラム
-- **[repair](/word/repair/)**：壊れたものを直す、全体的な修理
+- **[repair](/repair)**：壊れたものを直す、全体的な修理
 
 patchは「一部を補う」ニュアンスが強く、repairは「全体を直す」意味で使われます。
 
@@ -105,14 +109,14 @@ patchは「一部を補う」ニュアンスが強く、repairは「全体を直
 
 ## 🧩 あわせて覚えたい
 
-- [update](/word/update/)：更新、アップデート
-- [fix](/word/fix/)：修理、修正
+- [update](/update)：更新、アップデート
+- [fix](/fix)：修理、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [bug](/word/bug/)：バグ、不具合
-- [version](/word/version/)：バージョン、型
+- [bug](/bug)：バグ、不具合
+- [version](/version)：バージョン、型
 
-<!-- cvid: aid34_bid24 -->
+<!-- cvid: aid10_bid47 -->

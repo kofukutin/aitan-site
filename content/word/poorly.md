@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【poorly】の意味・使い方・例文 ― badlyとの違い【TOEIC英単語】"
 description: "poorlyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbadlyとの違いもわかりやすく学べます。"
 word: "poorly"
@@ -82,15 +82,19 @@ TOEICでは、形容詞poorと混同しやすい副詞poorlyが、文法や語�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、形容詞poorと混同しやすい副詞poorlyが、文法や語�
 ## 🤔  badly との違いは？
 
 - **poorly**：質が悪い、下手に、または体調が悪いという意味で使う
-- **[badly](/word/badly/)**：悪く、ひどく、強い感情や結果の悪さを表す
+- **[badly](/badly)**：悪く、ひどく、強い感情や結果の悪さを表す
 
 「poorly」は主に「質の低さ」や「体調不良」に焦点があり、「badly」は「ひどく」「とても悪く」といった程度や感情の強さを表します。
 
@@ -106,14 +110,14 @@ TOEICでは、形容詞poorと混同しやすい副詞poorlyが、文法や語�
 
 ## 🧩 あわせて覚えたい
 
-- [well](/word/well/)：うまく、上手に
-- [inefficiently](/word/inefficiently/)：非効率的に
+- [well](/well)：うまく、上手に
+- [inefficiently](/inefficiently)：非効率的に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [easily](/word/easily/)：簡単に
+- [quickly](/quickly)：速く
+- [easily](/easily)：簡単に
 
-<!-- cvid: aid10_bid22 -->
+<!-- cvid: aid06_bid11 -->

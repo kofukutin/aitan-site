@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【licking】の意味・使い方・例文 ― beatingとの違い【TOEIC英単語】"
 description: "lickingの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbeatingとの違いもわかりやすく学べます。"
 word: "licking"
@@ -81,15 +81,19 @@ TOEICでは会話文やカジュアルな表現で「大敗」や「なめるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話文やカジュアルな表現で「大敗」や「なめるこ
 ## 🤔  beating との違いは？
 
 - **licking**：カジュアルで口語的な「大敗」「ひどい負け」や「なめること」
-- **[beating](/word/beating/)**：ややフォーマルで「打ち負かすこと」「殴打」など幅広い意味
+- **[beating](/beating)**：ややフォーマルで「打ち負かすこと」「殴打」など幅広い意味
 
 「licking」は特に日常会話で使われる軽い響きがあり、「beating」はより一般的でやや強いニュアンスがあります。
 
@@ -105,14 +109,14 @@ TOEICでは会話文やカジュアルな表現で「大敗」や「なめるこ
 
 ## 🧩 あわせて覚えたい
 
-- [defeat](/word/defeat/)：敗北、負かすこと
-- [victory](/word/victory/)：勝利
+- [defeat](/defeat)：敗北、負かすこと
+- [victory](/victory)：勝利
 
 ---
 
 ## 📖 できればこれも
 
-- [loss](/word/loss/)：損失、敗北
-- [failure](/word/failure/)：失敗、不成功
+- [loss](/loss)：損失、敗北
+- [failure](/failure)：失敗、不成功
 
-<!-- cvid: aid43_bid34 -->
+<!-- cvid: aid04_bid23 -->

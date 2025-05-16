@@ -89,8 +89,12 @@ TOEICでは会話文や説明文で「pretty」の副詞用法（かなり、け
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話文や説明文で「pretty」の副詞用法（かなり、け
 ## 🤔  beautiful との違いは？
 
 - **pretty**：かわいらしく親しみやすい印象を与えるカジュアルな表現
-- **[beautiful](/word/beautiful/)**：よりフォーマルで「美しい」「見事な」といった強い美しさを表す
+- **[beautiful](/beautiful)**：よりフォーマルで「美しい」「見事な」といった強い美しさを表す
 
 prettyは「かわいい」「愛らしい」など親しみやすい美しさ、beautifulは「美しい」「見事な」といったより強く感動的な美しさを表します。
 
@@ -106,14 +110,14 @@ prettyは「かわいい」「愛らしい」など親しみやすい美しさ�
 
 ## 🧩 あわせて覚えたい
 
-- [cute](/word/cute/)：かわいい、愛らしい
-- [handsome](/word/handsome/)：ハンサムな、かっこいい（主に男性に使う）
+- [cute](/cute)：かわいい、愛らしい
+- [handsome](/handsome)：ハンサムな、かっこいい（主に男性に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [lovely](/word/lovely/)：とてもかわいい、素敵な
-- [nice](/word/nice/)：感じの良い、素敵な
+- [lovely](/lovely)：とてもかわいい、素敵な
+- [nice](/nice)：感じの良い、素敵な
 
-<!-- cvid: aid41_bid27 -->
+<!-- cvid: aid41_bid17 -->

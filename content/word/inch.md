@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【inch】の意味・使い方・例文 ― centimeterとの違い【TOEIC英単語】"
 description: "inchの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcentimeterとの違いもわかりやすく学べます。"
 word: "inch"
@@ -81,15 +81,19 @@ inchは、TOEICの写真描写や説明文でサイズや長さを表す際に�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid39" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid39" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ inchは、TOEICの写真描写や説明文でサイズや長さを表す際に�
 ## 🤔  centimeter との違いは？
 
 - **inch**：アメリカやイギリスなどで使われる長さの単位（約2.54cm）
-- **[centimeter](/word/centimeter/)**：メートル法で使われる長さの単位（1cm）
+- **[centimeter](/centimeter)**：メートル法で使われる長さの単位（1cm）
 
 inchは主に英語圏で使われ、centimeterは世界的に標準のメートル法で使われます。用途や国によって使い分けます。
 
@@ -105,14 +109,14 @@ inchは主に英語圏で使われ、centimeterは世界的に標準のメート
 
 ## 🧩 あわせて覚えたい
 
-- [foot](/word/foot/)：フィート（長さの単位、約30.48cm）
-- [yard](/word/yard/)：ヤード（長さの単位、約91.44cm）
+- [foot](/foot)：フィート（長さの単位、約30.48cm）
+- [yard](/yard)：ヤード（長さの単位、約91.44cm）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/word/meter/)：メートル（長さの単位、100cm）
-- [length](/word/length/)：長さ
+- [meter](/meter)：メートル（長さの単位、100cm）
+- [length](/length)：長さ
 
-<!-- cvid: aid18_bid47 -->
+<!-- cvid: aid06_bid39 -->

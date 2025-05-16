@@ -82,15 +82,19 @@ TOEICでは、ビジネスシーンの会話や服装に関する話題でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、ビジネスシーンの会話や服装に関する話題でよく
 ## 🤔  match との違いは？
 
 - **suit**：人や目的に「似合う」「合う」「適する」という意味で使う
-- **[match](/word/match/)**：色やデザインなどが「調和する」「合う」という意味で使う
+- **[match](/match)**：色やデザインなどが「調和する」「合う」という意味で使う
 
 「suit」は主に人や状況に合う場合、「match」は物同士が調和する場合に使い分けます。
 
@@ -106,14 +110,14 @@ TOEICでは、ビジネスシーンの会話や服装に関する話題でよく
 
 ## 🧩 あわせて覚えたい
 
-- [costume](/word/costume/)：衣装、仮装
-- [fit](/word/fit/)：ぴったり合う、適合する
+- [costume](/costume)：衣装、仮装
+- [fit](/fit)：ぴったり合う、適合する
 
 ---
 
 ## 📖 できればこれも
 
-- [tie](/word/tie/)：ネクタイ
-- [shirt](/word/shirt/)：シャツ
+- [tie](/tie)：ネクタイ
+- [shirt](/shirt)：シャツ
 
-<!-- cvid: aid44_bid03 -->
+<!-- cvid: aid10_bid28 -->

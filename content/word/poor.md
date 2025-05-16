@@ -81,15 +81,19 @@ TOEICでは、品質や成績、経済状況などを表す形容詞として頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、品質や成績、経済状況などを表す形容詞として頻
 ## 🤔  bad との違いは？
 
 - **poor**：質や量が「不足している」「標準以下である」ことを表す。
-- **[bad](/word/bad/)**：一般的に「悪い」「有害な」など広い意味で使われる。
+- **[bad](/bad)**：一般的に「悪い」「有害な」など広い意味で使われる。
 
 poorは「期待よりも劣る」「十分でない」ニュアンスが強く、badは「悪い」「有害」など幅広い否定的な意味で使われます。
 
@@ -105,14 +109,14 @@ poorは「期待よりも劣る」「十分でない」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [inferior](/word/inferior/)：劣った、下位の
-- [weak](/word/weak/)：弱い、力がない
+- [inferior](/inferior)：劣った、下位の
+- [weak](/weak)：弱い、力がない
 
 ---
 
 ## 📖 できればこれも
 
-- [rich](/word/rich/)：裕福な、豊かな
-- [average](/word/average/)：平均的な、普通の
+- [rich](/rich)：裕福な、豊かな
+- [average](/average)：平均的な、普通の
 
-<!-- cvid: aid39_bid22 -->
+<!-- cvid: aid16_bid44 -->

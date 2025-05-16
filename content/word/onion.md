@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、食材や料理の説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid38_bid38" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid38" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、食材や料理の説明とし
 ## 🤔  garlic との違いは？
 
 - **onion**：丸くて層になった野菜で、辛味や甘みがあり、加熱や生で食べる。
-- **[garlic](/word/garlic/)**：小さな房が集まった形で、強い香りと辛味が特徴。
+- **[garlic](/garlic)**：小さな房が集まった形で、強い香りと辛味が特徴。
 
 onionは料理のベースやサラダなど幅広く使われる一般的な野菜、garlicは香りづけや風味付けに使われる香味野菜です。
 
@@ -105,14 +109,14 @@ onionは料理のベースやサラダなど幅広く使われる一般的な野
 
 ## 🧩 あわせて覚えたい
 
-- [vegetable](/word/vegetable/)：野菜
-- [potato](/word/potato/)：ジャガイモ
+- [vegetable](/vegetable)：野菜
+- [potato](/potato)：ジャガイモ
 
 ---
 
 ## 📖 できればこれも
 
-- [carrot](/word/carrot/)：ニンジン
-- [tomato](/word/tomato/)：トマト
+- [carrot](/carrot)：ニンジン
+- [tomato](/tomato)：トマト
 
-<!-- cvid: aid28_bid07 -->
+<!-- cvid: aid38_bid38 -->

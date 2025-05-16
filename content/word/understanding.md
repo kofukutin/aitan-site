@@ -81,15 +81,19 @@ TOEICではPart 7の長文読解やメール文面で「ご理解」「合意」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7の長文読解やメール文面で「ご理解」「合意」
 ## 🤔  comprehension との違いは？
 
 - **understanding**：物事や人の気持ちを理解すること、または合意の意味も持つ
-- **[comprehension](/word/comprehension/)**：主に文章や内容の「読解」「理解力」を指す
+- **[comprehension](/comprehension)**：主に文章や内容の「読解」「理解力」を指す
 
 understandingは人や状況への理解や合意にも使えますが、comprehensionは主に知識や情報の読解力に限定されます。
 
@@ -105,14 +109,14 @@ understandingは人や状況への理解や合意にも使えますが、compreh
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement/)：合意、同意
-- [insight](/word/insight/)：洞察、見抜く力
+- [agreement](/agreement)：合意、同意
+- [insight](/insight)：洞察、見抜く力
 
 ---
 
 ## 📖 できればこれも
 
-- [knowledge](/word/knowledge/)：知識
-- [awareness](/word/awareness/)：認識、自覚
+- [knowledge](/knowledge)：知識
+- [awareness](/awareness)：認識、自覚
 
-<!-- cvid: aid24_bid49 -->
+<!-- cvid: aid05_bid09 -->

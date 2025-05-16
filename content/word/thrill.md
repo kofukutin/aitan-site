@@ -81,15 +81,19 @@ thrillはTOEICの会話パートで、感情や印象を表す動詞として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ thrillはTOEICの会話パートで、感情や印象を表す動詞として出
 ## 🤔  excite との違いは？
 
 - **thrill**：強い興奮や感動でぞくぞくさせる
-- **[excite](/word/excite/)**：興味や期待でわくわくさせる
+- **[excite](/excite)**：興味や期待でわくわくさせる
 
 thrillは感情の高まりがより強く、心が震えるような感動やスリルを伴う場面で使われます。exciteはもう少し広く、単に「楽しみ」「期待」などの軽い興奮にも使えます。
 
@@ -105,14 +109,14 @@ thrillは感情の高まりがより強く、心が震えるような感動や�
 
 ## 🧩 あわせて覚えたい
 
-- [bore](/word/bore/)：退屈させる
-- [amaze](/word/amaze/)：驚かせる
+- [bore](/bore)：退屈させる
+- [amaze](/amaze)：驚かせる
 
 ---
 
 ## 📖 できればこれも
 
-- [impress](/word/impress/)：感銘を与える
-- [delight](/word/delight/)：大いに喜ばせる
+- [impress](/impress)：感銘を与える
+- [delight](/delight)：大いに喜ばせる
 
-<!-- cvid: aid48_bid02 -->
+<!-- cvid: aid35_bid37 -->

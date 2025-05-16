@@ -81,15 +81,19 @@ TOEICでは「be hired」や「get hired」など受動態でよく出題され�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be hired」や「get hired」など受動態でよく出題され�
 ## 🤔  employed との違いは？
 
 - **hired**：新たに雇われた、採用されたことを強調
-- **[employed](/word/employed/)**：雇用されている状態全般を指す
+- **[employed](/employed)**：雇用されている状態全般を指す
 
 「hired」は採用の瞬間や新規雇用を強調し、「employed」は雇用状態そのものを表します。
 
@@ -105,14 +109,14 @@ TOEICでは「be hired」や「get hired」など受動態でよく出題され�
 
 ## 🧩 あわせて覚えたい
 
-- [fire](/word/fire/)：解雇する
-- [recruit](/word/recruit/)：募集する、採用する
+- [fire](/fire)：解雇する
+- [recruit](/recruit)：募集する、採用する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：応募する
-- [interview](/word/interview/)：面接する・面接
+- [apply](/apply)：応募する
+- [interview](/interview)：面接する・面接
 
-<!-- cvid: aid22_bid25 -->
+<!-- cvid: aid13_bid34 -->

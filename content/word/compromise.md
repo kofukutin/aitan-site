@@ -81,15 +81,19 @@ TOEICではビジネス文書や交渉に関する長文でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や交渉に関する長文でよく登場します
 ## 🤔  negotiate との違いは？
 
 - **compromise**：お互いに譲歩して合意点を見つけること
-- **[negotiate](/word/negotiate/)**：交渉して条件を決めること
+- **[negotiate](/negotiate)**：交渉して条件を決めること
 
 compromiseは「譲り合いによる合意」に焦点があり、negotiateは「交渉の過程」自体を指します。
 
@@ -105,14 +109,14 @@ compromiseは「譲り合いによる合意」に焦点があり、negotiateは�
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement/)：合意、契約
-- [concession](/word/concession/)：譲歩
+- [agreement](/agreement)：合意、契約
+- [concession](/concession)：譲歩
 
 ---
 
 ## 📖 できればこれも
 
-- [settlement](/word/settlement/)：解決、和解
-- [deal](/word/deal/)：取引、合意
+- [settlement](/settlement)：解決、和解
+- [deal](/deal)：取引、合意
 
-<!-- cvid: aid17_bid16 -->
+<!-- cvid: aid03_bid47 -->

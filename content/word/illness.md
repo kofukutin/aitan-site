@@ -81,15 +81,19 @@ TOEICでは健康や医療に関する長文やEメール、案内文などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や医療に関する長文やEメール、案内文などで�
 ## 🤔  disease との違いは？
 
 - **illness**：体や心の不調・病気全般を幅広く指す、日常的な表現
-- **[disease](/word/disease/)**：医学的に特定された病気や疾患を指す、やや専門的
+- **[disease](/disease)**：医学的に特定された病気や疾患を指す、やや専門的
 
 illnessは「体調不良」や「病気」全般に使われ、diseaseは診断名がつくような特定の病気に使われます。
 
@@ -105,13 +109,13 @@ illnessは「体調不良」や「病気」全般に使われ、diseaseは診断
 
 ## 🧩 あわせて覚えたい
 
-- [injury](/word/injury/)：けが
-- [symptom](/word/symptom/)：症状
+- [injury](/injury)：けが
+- [symptom](/symptom)：症状
 
 ---
 
 ## 📖 できればこれも
 
-- [health](/word/health/)：健康
-- [treatment](/word/treatment/)：治療
-<!-- cvid: aid17_bid14 -->
+- [health](/health)：健康
+- [treatment](/treatment)：治療
+<!-- cvid: aid06_bid33 -->

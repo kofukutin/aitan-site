@@ -81,15 +81,19 @@ TOEICでは会議やアポイントの調整、業務の予定管理に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やアポイントの調整、業務の予定管理に関する
 ## 🤔  planning との違いは？
 
 - **scheduling**：具体的に日時や順番を決めて予定を組むこと
-- **[planning](/word/planning/)**：全体の計画や方針を立てること
+- **[planning](/planning)**：全体の計画や方針を立てること
 
 schedulingは「何をいつやるか」を決める作業、planningは「何をどう進めるか」という全体設計に使われます。
 
@@ -105,14 +109,14 @@ schedulingは「何をいつやるか」を決める作業、planningは「何�
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement/)：手配、準備
-- [timetable](/word/timetable/)：時間割、予定表
+- [arrangement](/arrangement)：手配、準備
+- [timetable](/timetable)：時間割、予定表
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment/)：約束、予約
-- [deadline](/word/deadline/)：締め切り
+- [appointment](/appointment)：約束、予約
+- [deadline](/deadline)：締め切り
 
-<!-- cvid: aid16_bid30 -->
+<!-- cvid: aid24_bid42 -->

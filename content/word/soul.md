@@ -81,15 +81,19 @@ TOEICでは物語やエッセイ調の長文、または比喩表現で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは物語やエッセイ調の長文、または比喩表現で登場す
 ## 🤔  spirit との違いは？
 
 - **soul**：人間の本質や感情、死後も残るとされる「魂」を指す。
-- **[spirit](/word/spirit/)**：気力や活力、または幽霊・精霊など幅広い「精神・霊」を指す。
+- **[spirit](/spirit)**：気力や活力、または幽霊・精霊など幅広い「精神・霊」を指す。
 
 soulは個人の内面や感情に焦点を当てるのに対し、spiritは元気や雰囲気、または超自然的な存在まで幅広く使われます。
 
@@ -105,14 +109,14 @@ soulは個人の内面や感情に焦点を当てるのに対し、spiritは元�
 
 ## 🧩 あわせて覚えたい
 
-- [mind](/word/mind/)：心、知性
-- [body](/word/body/)：体、身体
+- [mind](/mind)：心、知性
+- [body](/body)：体、身体
 
 ---
 
 ## 📖 できればこれも
 
-- [heart](/word/heart/)：心、感情
-- [emotion](/word/emotion/)：感情、情緒
+- [heart](/heart)：心、感情
+- [emotion](/emotion)：感情、情緒
 
-<!-- cvid: aid39_bid42 -->
+<!-- cvid: aid31_bid02 -->

@@ -82,15 +82,19 @@ TOEICでは、旅行や観光、宿泊施設に関する長文や広告、案内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、旅行や観光、宿泊施設に関する長文や広告、案内
 ## 🤔  hotel との違いは？
 
 - **resort**：観光やレジャー施設が集まる大型の行楽地や複合施設
-- **[hotel](/word/hotel/)**：宿泊を主目的とした施設
+- **[hotel](/hotel)**：宿泊を主目的とした施設
 
 resortは宿泊だけでなく、レジャーやアクティビティも楽しめる場所を指し、hotelは主に「泊まる場所」として使われます。
 
@@ -106,14 +110,14 @@ resortは宿泊だけでなく、レジャーやアクティビティも楽し�
 
 ## 🧩 あわせて覚えたい
 
-- [destination](/word/destination/)：目的地
-- [accommodation](/word/accommodation/)：宿泊施設
+- [destination](/destination)：目的地
+- [accommodation](/accommodation)：宿泊施設
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility/)：施設
-- [attraction](/word/attraction/)：観光名所
+- [facility](/facility)：施設
+- [attraction](/attraction)：観光名所
 
-<!-- cvid: aid41_bid38 -->
+<!-- cvid: aid34_bid42 -->

@@ -81,15 +81,19 @@ TOEICでは比較級の文法問題や、数値・レベルの比較を問う場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較級の文法問題や、数値・レベルの比較を問う場
 ## 🤔  taller との違いは？
 
 - **higher**：高さ・レベル・数値など「より高い」全般に使う
-- **[taller](/word/taller/)**：人や物の「背が高い」など、主に縦方向の長さに使う
+- **[taller](/taller)**：人や物の「背が高い」など、主に縦方向の長さに使う
 
 higherは抽象的な高さやレベルにも使えますが、tallerは主に人や物の物理的な「背の高さ」に限定されます。
 
@@ -105,14 +109,14 @@ higherは抽象的な高さやレベルにも使えますが、tallerは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [lower](/word/lower/)：より低い
-- [increase](/word/increase/)：増加する
+- [lower](/lower)：より低い
+- [increase](/increase)：増加する
 
 ---
 
 ## 📖 できればこれも
 
-- [deeper](/word/deeper/)：より深い
-- [broader](/word/broader/)：より広い
+- [deeper](/deeper)：より深い
+- [broader](/broader)：より広い
 
-<!-- cvid: aid48_bid26 -->
+<!-- cvid: aid47_bid45 -->

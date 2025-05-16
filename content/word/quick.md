@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「素早い対応」「短時間の作業」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「素早い対応」「短時間の作業」な
 ## 🤔  fast との違いは？
 
 - **quick**：動作や反応が「素早い」「短時間で済む」ことを強調
-- **[fast](/word/fast/)**：物理的なスピードや移動の「速さ」を強調
+- **[fast](/fast)**：物理的なスピードや移動の「速さ」を強調
 
 「quick」は反応や作業の手早さ、「fast」は移動や動きの速さに使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「素早い対応」「短時間の作業」な
 
 ## 🧩 あわせて覚えたい
 
-- [rapid](/word/rapid/)：（変化や進行が）急速な
-- [prompt](/word/prompt/)：即座の、迅速な
+- [rapid](/rapid)：（変化や進行が）急速な
+- [prompt](/prompt)：即座の、迅速な
 
 ---
 
 ## 📖 できればこれも
 
-- [easy](/word/easy/)：簡単な
-- [slow](/word/slow/)：遅い
+- [easy](/easy)：簡単な
+- [slow](/slow)：遅い
 
-<!-- cvid: aid30_bid12 -->
+<!-- cvid: aid10_bid46 -->

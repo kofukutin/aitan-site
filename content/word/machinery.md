@@ -81,15 +81,19 @@ TOEICでは工場や生産現場、設備投資などの文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは工場や生産現場、設備投資などの文脈でよく登場し
 ## 🤔  equipment との違いは？
 
 - **machinery**：工場や生産現場の「機械類一式」を指し、主に大型・複雑な機械の集合体を表す。
-- **[equipment](/word/equipment/)**：道具や装置など「設備全般」を指し、機械以外も含む幅広い意味。
+- **[equipment](/equipment)**：道具や装置など「設備全般」を指し、機械以外も含む幅広い意味。
 
 machineryは「動く機械の集まり」に特化し、equipmentは「必要な道具・装置全般」としてより広い範囲をカバーします。
 
@@ -105,14 +109,14 @@ machineryは「動く機械の集まり」に特化し、equipmentは「必要�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [tool](/word/tool/)：道具、工具
+- [device](/device)：装置、機器
+- [tool](/tool)：道具、工具
 
 ---
 
 ## 📖 できればこれも
 
-- [instrument](/word/instrument/)：器具、計測機器
-- [facility](/word/facility/)：施設、設備
+- [instrument](/instrument)：器具、計測機器
+- [facility](/facility)：施設、設備
 
-<!-- cvid: aid23_bid14 -->
+<!-- cvid: aid44_bid35 -->

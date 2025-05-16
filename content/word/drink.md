@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【drink】の意味・使い方・例文 ― beverageとの違い【TOEIC英単語】"
 description: "drinkの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbeverageとの違いもわかりやすく学べます。"
 word: "drink"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で「飲む」動作を表す際によく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で「飲む」動作を表す際によく
 ## 🤔  beverage との違いは？
 
 - **drink**：日常的に使う「飲み物」や「飲む」動作全般を指すカジュアルな語。
-- **[beverage](/word/beverage/)**：ややフォーマルで、特に「飲料（飲み物）」を幅広く指す。
+- **[beverage](/beverage)**：ややフォーマルで、特に「飲料（飲み物）」を幅広く指す。
 
 drinkは日常会話でよく使われ、beverageはレストランのメニューや案内などフォーマルな場面で使われます。
 
@@ -106,14 +110,14 @@ drinkは日常会話でよく使われ、beverageはレストランのメニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [eat](/word/eat/)：食べる
-- [sip](/word/sip/)：すする、少しずつ飲む
+- [eat](/eat)：食べる
+- [sip](/sip)：すする、少しずつ飲む
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order/)：注文する
-- [serve](/word/serve/)：提供する
+- [order](/order)：注文する
+- [serve](/serve)：提供する
 
-<!-- cvid: aid07_bid11 -->
+<!-- cvid: aid47_bid24 -->

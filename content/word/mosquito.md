@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、屋外や自然の場面で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、屋外や自然の場面で登場す
 ## 🤔  gnat との違いは？
 
 - **mosquito**：血を吸う蚊を指し、刺されると痒みが出る。
-- **[gnat](/word/gnat/)**：小さな飛ぶ虫の総称で、刺さない種類が多い。
+- **[gnat](/gnat)**：小さな飛ぶ虫の総称で、刺さない種類が多い。
 
 mosquitoは「刺す蚊」、gnatは「刺さない小さな虫」と覚えると区別しやすいです。
 
@@ -105,14 +109,14 @@ mosquitoは「刺す蚊」、gnatは「刺さない小さな虫」と覚える�
 
 ## 🧩 あわせて覚えたい
 
-- [fly](/word/fly/)：ハエ
-- [insect](/word/insect/)：昆虫
+- [fly](/fly)：ハエ
+- [insect](/insect)：昆虫
 
 ---
 
 ## 📖 できればこれも
 
-- [ant](/word/ant/)：アリ
-- [bee](/word/bee/)：ハチ
+- [ant](/ant)：アリ
+- [bee](/bee)：ハチ
 
-<!-- cvid: aid25_bid04 -->
+<!-- cvid: aid14_bid45 -->

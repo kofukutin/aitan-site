@@ -81,15 +81,19 @@ TOEICでは数量や金額を表す文脈で頻出します。特に数字表現
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid04" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid04" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは数量や金額を表す文脈で頻出します。特に数字表現
 ## 🤔  million との違いは？
 
 - **thousand**：1000を表す基本的な数詞。日常的な数量や金額でよく使う。
-- **[million](/word/million/)**：100万を表す数詞。より大きな単位や規模を表現する際に使う。
+- **[million](/million)**：100万を表す数詞。より大きな単位や規模を表現する際に使う。
 
 thousandは「千」、millionは「百万」と、表す数の大きさが大きく異なります。
 
@@ -105,14 +109,14 @@ thousandは「千」、millionは「百万」と、表す数の大きさが大�
 
 ## 🧩 あわせて覚えたい
 
-- [hundred](/word/hundred/)：100
-- [billion](/word/billion/)：10億
+- [hundred](/hundred)：100
+- [billion](/billion)：10億
 
 ---
 
 ## 📖 できればこれも
 
-- [dozen](/word/dozen/)：12（ダース）
-- [score](/word/score/)：20（スコア、20の単位）
+- [dozen](/dozen)：12（ダース）
+- [score](/score)：20（スコア、20の単位）
 
-<!-- cvid: aid23_bid38 -->
+<!-- cvid: aid03_bid04 -->

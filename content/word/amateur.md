@@ -81,15 +81,19 @@ TOEICでは、趣味や職業の違い、専門性に関する文脈で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、趣味や職業の違い、専門性に関する文脈で登場す
 ## 🤔  novice との違いは？
 
 - **amateur**：趣味や興味で行う素人、非専門家
-- **[novice](/word/novice/)**：初心者、経験が浅い人
+- **[novice](/novice)**：初心者、経験が浅い人
 
 amateurは「趣味でやっている人」というニュアンスが強く、noviceは「始めたばかりの人」「経験が浅い人」を指します。
 
@@ -105,14 +109,14 @@ amateurは「趣味でやっている人」というニュアンスが強く、n
 
 ## 🧩 あわせて覚えたい
 
-- [professional](/word/professional/)：プロ、専門家
-- [beginner](/word/beginner/)：初心者
+- [professional](/professional)：プロ、専門家
+- [beginner](/beginner)：初心者
 
 ---
 
 ## 📖 できればこれも
 
-- [expert](/word/expert/)：熟練者、専門家
-- [skill](/word/skill/)：技能、スキル
+- [expert](/expert)：熟練者、専門家
+- [skill](/skill)：技能、スキル
 
-<!-- cvid: aid34_bid36 -->
+<!-- cvid: aid09_bid44 -->

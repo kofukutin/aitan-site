@@ -81,15 +81,19 @@ TOEICでは宗教や歴史、文化に関する長文や記事で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは宗教や歴史、文化に関する長文や記事で見かけるこ
 ## 🤔  scriptural との違いは？
 
 - **biblical**：聖書そのものや聖書に直接関係するものを指す
-- **[scriptural](/word/scriptural/)**：聖書だけでなく、他の宗教の聖典にも使える「聖典の、経典の」という意味
+- **[scriptural](/scriptural)**：聖書だけでなく、他の宗教の聖典にも使える「聖典の、経典の」という意味
 
 「biblical」はキリスト教の聖書に限定されることが多いですが、「scriptural」はより広く宗教的な経典全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは宗教や歴史、文化に関する長文や記事で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [religious](/word/religious/)：宗教的な
-- [sacred](/word/sacred/)：神聖な
+- [religious](/religious)：宗教的な
+- [sacred](/sacred)：神聖な
 
 ---
 
 ## 📖 できればこれも
 
-- [historical](/word/historical/)：歴史的な
-- [spiritual](/word/spiritual/)：精神的な、霊的な
+- [historical](/historical)：歴史的な
+- [spiritual](/spiritual)：精神的な、霊的な
 
-<!-- cvid: aid17_bid01 -->
+<!-- cvid: aid13_bid07 -->

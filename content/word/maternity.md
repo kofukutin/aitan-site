@@ -81,15 +81,19 @@ TOEICでは、福利厚生や人事関連の長文、社内通知、求人広告
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、福利厚生や人事関連の長文、社内通知、求人広告
 ## 🤔  pregnancy との違いは？
 
 - **maternity**：母性や妊娠・出産に関する状態や制度全般を指す
-- **[pregnancy](/word/pregnancy/)**：妊娠そのもの、妊娠期間を指す
+- **[pregnancy](/pregnancy)**：妊娠そのもの、妊娠期間を指す
 
 **maternity**は「母であること」や「産休」など幅広い意味で使われ、**pregnancy**は「妊娠」という医学的・生物学的な状態を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、福利厚生や人事関連の長文、社内通知、求人広告
 
 ## 🧩 あわせて覚えたい
 
-- [paternity](/word/paternity/)：父性、父親であること
-- [childbirth](/word/childbirth/)：出産
+- [paternity](/paternity)：父性、父親であること
+- [childbirth](/childbirth)：出産
 
 ---
 
 ## 📖 できればこれも
 
-- [parental](/word/parental/)：親の、親としての
-- [nursery](/word/nursery/)：保育園、託児所
+- [parental](/parental)：親の、親としての
+- [nursery](/nursery)：保育園、託児所
 
-<!-- cvid: aid43_bid34 -->
+<!-- cvid: aid19_bid44 -->

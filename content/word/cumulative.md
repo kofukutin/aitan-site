@@ -81,15 +81,19 @@ TOEICでは、ビジネスレポートや統計データの説明文などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスレポートや統計データの説明文などで「
 ## 🤔  aggregate との違いは？
 
 - **cumulative**：時間や回数を重ねて少しずつ積み上げた合計や効果を強調する。
-- **[aggregate](/word/aggregate/)**：複数の要素をまとめて全体として扱う、集合的な合計や総体を指す。
+- **[aggregate](/aggregate)**：複数の要素をまとめて全体として扱う、集合的な合計や総体を指す。
 
 cumulativeは「積み重ねてきた結果」に焦点があり、aggregateは「複数をまとめた全体像」に重点があります。
 
@@ -105,14 +109,14 @@ cumulativeは「積み重ねてきた結果」に焦点があり、aggregateは�
 
 ## 🧩 あわせて覚えたい
 
-- [incremental](/word/incremental/)：増分の、徐々に増加する
-- [total](/word/total/)：合計の、総計の
+- [incremental](/incremental)：増分の、徐々に増加する
+- [total](/total)：合計の、総計の
 
 ---
 
 ## 📖 できればこれも
 
-- [consecutive](/word/consecutive/)：連続した
-- [subsequent](/word/subsequent/)：その後の、次の
+- [consecutive](/consecutive)：連続した
+- [subsequent](/subsequent)：その後の、次の
 
-<!-- cvid: aid14_bid20 -->
+<!-- cvid: aid07_bid28 -->

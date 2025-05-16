@@ -84,8 +84,12 @@ TOEICでは条件を表す接続詞としてPart 5の文法問題でよく出題
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは条件を表す接続詞としてPart 5の文法問題でよく出題
 ## 🤔  if との違いは？
 
 - **providing**：ややフォーマルで「～という条件で」と強調したいときに使う
-- **[if](/word/if/)**：最も一般的な「もし～ならば」の接続詞で、カジュアルからフォーマルまで幅広く使う
+- **[if](/if)**：最も一般的な「もし～ならば」の接続詞で、カジュアルからフォーマルまで幅広く使う
 
 providingはifよりも条件を強調したいときや、ビジネス・公式な文書で使われる傾向があります。
 
@@ -101,15 +105,15 @@ providingはifよりも条件を強調したいときや、ビジネス・公式
 
 ## 🧩 あわせて覚えたい
 
-- [unless](/word/unless/)：～でない限り
-- [suppose](/word/suppose/)：もし～と仮定すると
+- [unless](/unless)：～でない限り
+- [suppose](/suppose)：もし～と仮定すると
 
 ---
 
 ## 📖 できればこれも
 
-- [provided](/word/provided/)：もし～ならば（providingと同じ意味で使える）
-- [as long as](/word/as_long_as/)：～する限り、～であるなら
+- [provided](/provided)：もし～ならば（providingと同じ意味で使える）
+- [as long as](/as_long_as)：～する限り、～であるなら
 
 
-<!-- cvid: aid09_bid29 -->
+<!-- cvid: aid09_bid33 -->

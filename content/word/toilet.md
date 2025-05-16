@@ -81,15 +81,19 @@ toiletはTOEICの写真描写問題（Part 1）で、トイレや洗面所の設
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid32" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid32" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ toiletはTOEICの写真描写問題（Part 1）で、トイレや洗面所の設
 ## 🤔  restroom との違いは？
 
 - **toilet**：イギリス英語で一般的な「トイレ」。やや直接的な響き。
-- **[restroom](/word/restroom/)**：アメリカ英語で使われる「トイレ」。より丁寧で間接的な表現。
+- **[restroom](/restroom)**：アメリカ英語で使われる「トイレ」。より丁寧で間接的な表現。
 
 toiletはイギリス英語でよく使われ、restroomはアメリカ英語でよりフォーマル・公共の場で使われます。
 
@@ -105,14 +109,14 @@ toiletはイギリス英語でよく使われ、restroomはアメリカ英語で
 
 ## 🧩 あわせて覚えたい
 
-- [bathroom](/word/bathroom/)：浴室、アメリカ英語で「トイレ」の意味も
-- [lavatory](/word/lavatory/)：主に公共施設で使われる「トイレ」
+- [bathroom](/bathroom)：浴室、アメリカ英語で「トイレ」の意味も
+- [lavatory](/lavatory)：主に公共施設で使われる「トイレ」
 
 ---
 
 ## 📖 できればこれも
 
-- [sink](/word/sink/)：洗面台
-- [mirror](/word/mirror/)：鏡
+- [sink](/sink)：洗面台
+- [mirror](/mirror)：鏡
 
-<!-- cvid: aid46_bid16 -->
+<!-- cvid: aid13_bid32 -->

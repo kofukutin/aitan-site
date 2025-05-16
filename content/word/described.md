@@ -81,15 +81,19 @@ TOEICでは、動詞の時制や受動態の文脈で「described」がよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞の時制や受動態の文脈で「described」がよく出
 ## 🤔  explained との違いは？
 
 - **described**：特徴や様子を言葉で詳しく述べる
-- **[explained](/word/explained/)**：理由や仕組みを分かりやすく説明する
+- **[explained](/explained)**：理由や仕組みを分かりやすく説明する
 
 「described」は見た目や状態などを描写する時に使い、「explained」は物事の理由や意味を明確に伝える時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、動詞の時制や受動態の文脈で「described」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [illustrate](/word/illustrate/)：例や図で説明する
-- [define](/word/define/)：定義する、意味を明確にする
+- [illustrate](/illustrate)：例や図で説明する
+- [define](/define)：定義する、意味を明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention/)：言及する
-- [report](/word/report/)：報告する
+- [mention](/mention)：言及する
+- [report](/report)：報告する
 
-<!-- cvid: aid37_bid35 -->
+<!-- cvid: aid08_bid33 -->

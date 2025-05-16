@@ -77,15 +77,19 @@ TOEICでは前置詞の使い分けや、否定的な意味を表す文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは前置詞の使い分けや、否定的な意味を表す文脈でよ
 ## 🤔  unless との違いは？
 
 - **without**：～なしで、～を持たずに（前置詞）
-- **[unless](/word/unless/)**：もし～でなければ（接続詞）
+- **[unless](/unless)**：もし～でなければ（接続詞）
 
 withoutは「物や状態が存在しない」ことを表し、unlessは「条件が満たされない場合」を表します。使う場面や文法が異なります。
 
@@ -101,14 +105,14 @@ withoutは「物や状態が存在しない」ことを表し、unlessは「条�
 
 ## 🧩 あわせて覚えたい
 
-- [except](/word/except/)：～を除いて
-- [despite](/word/despite/)：～にもかかわらず
+- [except](/except)：～を除いて
+- [despite](/despite)：～にもかかわらず
 
 ---
 
 ## 📖 できればこれも
 
-- [within](/word/within/)：～以内に
-- [throughout](/word/throughout/)：～の間ずっと、～の至る所に
+- [within](/within)：～以内に
+- [throughout](/throughout)：～の間ずっと、～の至る所に
 
-<!-- cvid: aid34_bid18 -->
+<!-- cvid: aid35_bid10 -->

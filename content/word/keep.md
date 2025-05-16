@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「保つ」「維持する」「～し続ける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「保つ」「維持する」「～し続ける
 ## 🤔  hold との違いは？
 
 - **keep**：ある状態を維持したり、長期間持ち続けることを表す
-- **[hold](/word/hold/)**：手や腕などで物理的に「持つ」「握る」ことを表す
+- **[hold](/hold)**：手や腕などで物理的に「持つ」「握る」ことを表す
 
 keepは「状態の継続」や「保存」に重点があり、holdは「一時的に手で持つ」など物理的な動作に使われます。
 
@@ -105,14 +109,14 @@ keepは「状態の継続」や「保存」に重点があり、holdは「一時
 
 ## 🧩 あわせて覚えたい
 
-- [maintain](/word/maintain/)：維持する、保守する
-- [store](/word/store/)：保存する、蓄える
+- [maintain](/maintain)：維持する、保守する
+- [store](/store)：保存する、蓄える
 
 ---
 
 ## 📖 できればこれも
 
-- [continue](/word/continue/)：続ける、継続する
-- [stay](/word/stay/)：とどまる、滞在する
+- [continue](/continue)：続ける、継続する
+- [stay](/stay)：とどまる、滞在する
 
-<!-- cvid: aid10_bid27 -->
+<!-- cvid: aid20_bid33 -->

@@ -81,15 +81,19 @@ TOEICでは、組織やプロジェクトの「設立」「編成」などを表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、組織やプロジェクトの「設立」「編成」などを表
 ## 🤔  establishment との違いは？
 
 - **formation**：何かを形作る過程や、構成・編成そのものを強調
-- **[establishment](/word/establishment/)**：設立・創立という「始まり」や「制度化」を強調
+- **[establishment](/establishment)**：設立・創立という「始まり」や「制度化」を強調
 
 **formation**は「形作ること」「構成」に焦点があり、**establishment**は「設立」や「創業」といった公式な始まりを指します。
 
@@ -105,14 +109,14 @@ TOEICでは、組織やプロジェクトの「設立」「編成」などを表
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/word/organization/)：組織、団体
-- [structure](/word/structure/)：構造、仕組み
+- [organization](/organization)：組織、団体
+- [structure](/structure)：構造、仕組み
 
 ---
 
 ## 📖 できればこれも
 
-- [foundation](/word/foundation/)：設立、基礎
-- [arrangement](/word/arrangement/)：取り決め、配置
+- [foundation](/foundation)：設立、基礎
+- [arrangement](/arrangement)：取り決め、配置
 
-<!-- cvid: aid41_bid22 -->
+<!-- cvid: aid23_bid35 -->

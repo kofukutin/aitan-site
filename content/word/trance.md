@@ -80,15 +80,19 @@ TOEICでは医療や心理学、または芸術に関する長文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid25" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid25" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは医療や心理学、または芸術に関する長文で登場する
 ## 🤔  hypnosis との違いは？
 
 - **trance**：自然に起こる恍惚状態や意識がぼんやりした状態
-- **[hypnosis](/word/hypnosis/)**：催眠術によって意図的に作り出される催眠状態
+- **[hypnosis](/hypnosis)**：催眠術によって意図的に作り出される催眠状態
 
 tranceは音楽や集中などで自然に入る状態、hypnosisは誰かが催眠術をかけて意図的に作る状態という違いがあります。
 
@@ -104,14 +108,14 @@ tranceは音楽や集中などで自然に入る状態、hypnosisは誰かが催
 
 ## 🧩 あわせて覚えたい
 
-- [coma](/word/coma/)：昏睡状態
-- [meditation](/word/meditation/)：瞑想
+- [coma](/coma)：昏睡状態
+- [meditation](/meditation)：瞑想
 
 ---
 
 ## 📖 できればこれも
 
-- [illusion](/word/illusion/)：錯覚
-- [consciousness](/word/consciousness/)：意識
+- [illusion](/illusion)：錯覚
+- [consciousness](/consciousness)：意識
 
-<!-- cvid: aid19_bid40 -->
+<!-- cvid: aid49_bid25 -->

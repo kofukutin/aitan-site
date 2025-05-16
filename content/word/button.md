@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【button】の意味・使い方・例文 ― switchとの違い【TOEIC英単語】"
 description: "buttonの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでswitchとの違いもわかりやすく学べます。"
 word: "button"
@@ -81,15 +81,19 @@ TOEICでは、機械やパソコンの操作、衣服の説明などで「button
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid42" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid42" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械やパソコンの操作、衣服の説明などで「button
 ## 🤔  switch との違いは？
 
 - **button**：押して操作する小さな部品やアイコン
-- **[switch](/word/switch/)**：切り替えたりオン・オフするためのスイッチ
+- **[switch](/switch)**：切り替えたりオン・オフするためのスイッチ
 
 buttonは「押す」動作に特化し、switchは「切り替える」動作やレバー型のものに使います。
 
@@ -105,14 +109,14 @@ buttonは「押す」動作に特化し、switchは「切り替える」動作�
 
 ## 🧩 あわせて覚えたい
 
-- [key](/word/key/)：キー、押して入力するボタン
-- [icon](/word/icon/)：アイコン、画面上の小さな絵や記号
+- [key](/key)：キー、押して入力するボタン
+- [icon](/icon)：アイコン、画面上の小さな絵や記号
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/word/screen/)：画面
-- [panel](/word/panel/)：パネル、操作盤
+- [screen](/screen)：画面
+- [panel](/panel)：パネル、操作盤
 
-<!-- cvid: aid07_bid00 -->
+<!-- cvid: aid30_bid42 -->

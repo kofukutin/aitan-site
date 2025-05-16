@@ -81,15 +81,19 @@ TOEICでは観光やイベント紹介の記事、エンターテイメント関
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント紹介の記事、エンターテイメント関
 ## 🤔  pantomime との違いは？
 
 - **mime**：身振りや表情だけで物事を表現する芸や、その芸人。
-- **[pantomime](/word/pantomime/)**：mimeよりも物語性が強く、衣装や音楽を使うことも多い舞台芸術。
+- **[pantomime](/pantomime)**：mimeよりも物語性が強く、衣装や音楽を使うことも多い舞台芸術。
 
 mimeはシンプルな身振り中心、pantomimeはより演劇的でストーリー性が強い点が異なります。
 
@@ -105,14 +109,14 @@ mimeはシンプルな身振り中心、pantomimeはより演劇的でストー�
 
 ## 🧩 あわせて覚えたい
 
-- [gesture](/word/gesture/)：身ぶり、ジェスチャー
-- [actor](/word/actor/)：俳優
+- [gesture](/gesture)：身ぶり、ジェスチャー
+- [actor](/actor)：俳優
 
 ---
 
 ## 📖 できればこれも
 
-- [clown](/word/clown/)：道化師
-- [perform](/word/perform/)：演じる、上演する
+- [clown](/clown)：道化師
+- [perform](/perform)：演じる、上演する
 
-<!-- cvid: aid07_bid29 -->
+<!-- cvid: aid11_bid12 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7の求人広告や人物紹介、推薦文などで「acc
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の求人広告や人物紹介、推薦文などで「acc
 ## 🤔  skilled との違いは？
 
 - **accomplished**：実績や経験に裏打ちされた「熟達した」「卓越した」という意味で、フォーマルな場面でよく使われる。
-- **[skilled](/word/skilled/)**：特定の技能や技術に「熟練した」「腕のある」という意味で、やや幅広く使われる。
+- **[skilled](/skilled)**：特定の技能や技術に「熟練した」「腕のある」という意味で、やや幅広く使われる。
 
 accomplishedは「成果や実績がある」ことを強調し、skilledは「技術や能力が高い」ことに焦点を当てます。
 
@@ -105,14 +109,14 @@ accomplishedは「成果や実績がある」ことを強調し、skilledは「�
 
 ## 🧩 あわせて覚えたい
 
-- [proficient](/word/proficient/)：堪能な、熟練した
-- [incompetent](/word/incompetent/)：無能な、能力がない
+- [proficient](/proficient)：堪能な、熟練した
+- [incompetent](/incompetent)：無能な、能力がない
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/word/qualified/)：資格のある、適任の
-- [talented](/word/talented/)：才能のある
+- [qualified](/qualified)：資格のある、適任の
+- [talented](/talented)：才能のある
 
-<!-- cvid: aid35_bid09 -->
+<!-- cvid: aid31_bid44 -->

@@ -77,15 +77,19 @@ TOEICでは、説明文やレポート、メール文などで「主に」「大
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、説明文やレポート、メール文などで「主に」「大
 ## 🤔  mostly との違いは？
 
 - **largely**：主に、大部分は（全体の大きな割合を強調）
-- **[mostly](/word/mostly/)**：ほとんど、たいてい（頻度や割合をややカジュアルに表現）
+- **[mostly](/mostly)**：ほとんど、たいてい（頻度や割合をややカジュアルに表現）
 
 「largely」は全体の大きな部分や主な要因を強調する時に使い、「mostly」は日常的な「たいてい」「ほとんど」に近いニュアンスです。
 
@@ -101,14 +105,14 @@ TOEICでは、説明文やレポート、メール文などで「主に」「大
 
 ## 🧩 あわせて覚えたい
 
-- [mainly](/word/mainly/)：主に
-- [partly](/word/partly/)：部分的に
+- [mainly](/mainly)：主に
+- [partly](/partly)：部分的に
 
 ---
 
 ## 📖 できればこれも
 
-- [entirely](/word/entirely/)：完全に
-- [partially](/word/partially/)：一部は
+- [entirely](/entirely)：完全に
+- [partially](/partially)：一部は
 
-<!-- cvid: aid14_bid41 -->
+<!-- cvid: aid34_bid11 -->

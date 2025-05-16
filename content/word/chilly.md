@@ -81,15 +81,19 @@ The meeting room felt chilly, so I closed the window.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The meeting room felt chilly, so I closed the window.
 ## 🤔  cold との違いは？
 
 - **chilly**：やや冷たくて肌寒い、軽い寒さ
-- **[cold](/word/cold/)**：強い寒さ、冷たい
+- **[cold](/cold)**：強い寒さ、冷たい
 
 chillyは「少し寒い」「ひんやりする」程度の軽い寒さを表し、coldは「本格的に寒い」「冷たい」ときに使います。
 
@@ -105,14 +109,14 @@ chillyは「少し寒い」「ひんやりする」程度の軽い寒さを表�
 
 ## 🧩 あわせて覚えたい
 
-- [cool](/word/cool/)：涼しい、かっこいい
-- [warm](/word/warm/)：暖かい
+- [cool](/cool)：涼しい、かっこいい
+- [warm](/warm)：暖かい
 
 ---
 
 ## 📖 できればこれも
 
-- [humid](/word/humid/)：湿気が多い
-- [breeze](/word/breeze/)：そよ風
+- [humid](/humid)：湿気が多い
+- [breeze](/breeze)：そよ風
 
-<!-- cvid: aid37_bid25 -->
+<!-- cvid: aid24_bid01 -->

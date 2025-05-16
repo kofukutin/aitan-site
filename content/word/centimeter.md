@@ -80,15 +80,19 @@ TOEICでは、寸法やサイズを問う設問や、仕様書・説明文の中
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、寸法やサイズを問う設問や、仕様書・説明文の中
 ## 🤔  inch との違いは？
 
 - **centimeter**：メートル法の長さの単位（1cm＝1/100メートル）
-- **[inch](/word/inch/)**：ヤード・ポンド法の長さの単位（1インチ＝約2.54cm）
+- **[inch](/inch)**：ヤード・ポンド法の長さの単位（1インチ＝約2.54cm）
 
 centimeterは主に日本やヨーロッパなどメートル法を使う国で使われ、inchはアメリカなどヤード・ポンド法を使う国で使われます。
 
@@ -104,14 +108,14 @@ centimeterは主に日本やヨーロッパなどメートル法を使う国で�
 
 ## 🧩 あわせて覚えたい
 
-- [meter](/word/meter/)：メートル（長さの基本単位）
-- [millimeter](/word/millimeter/)：ミリメートル（1/1000メートル）
+- [meter](/meter)：メートル（長さの基本単位）
+- [millimeter](/millimeter)：ミリメートル（1/1000メートル）
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/word/length/)：長さ
-- [measure](/word/measure/)：測る
+- [length](/length)：長さ
+- [measure](/measure)：測る
 
-<!-- cvid: aid16_bid24 -->
+<!-- cvid: aid06_bid17 -->

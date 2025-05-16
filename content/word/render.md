@@ -82,15 +82,19 @@ TOEICでは主にITやビジネス文書、説明文で「提供する」「描�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にITやビジネス文書、説明文で「提供する」「描�
 ## 🤔  provide との違いは？
 
 - **render**：抽象的・専門的な「与える」「表現する」「描写する」に使う。  
-- **[provide](/word/provide/)**：一般的な「提供する」「与える」に幅広く使う。
+- **[provide](/provide)**：一般的な「提供する」「与える」に幅広く使う。
 
 「render」は専門的・フォーマルな場面や、目に見えないもの（サービス・意見・画像など）を「形にして示す」ニュアンスが強いです。一方「provide」は日常的な「物やサービスを与える」場合に使います。
 
@@ -106,14 +110,14 @@ TOEICでは主にITやビジネス文書、説明文で「提供する」「描�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver/)：届ける、配達する
-- [depict](/word/depict/)：描写する、描く
+- [deliver](/deliver)：届ける、配達する
+- [depict](/depict)：描写する、描く
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/word/generate/)：生み出す、発生させる
-- [supply](/word/supply/)：供給する、提供する
+- [generate](/generate)：生み出す、発生させる
+- [supply](/supply)：供給する、提供する
 
-<!-- cvid: aid08_bid36 -->
+<!-- cvid: aid17_bid47 -->

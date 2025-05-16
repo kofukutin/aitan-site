@@ -80,15 +80,19 @@ TOEICではショッピングや施設案内の会話でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではショッピングや施設案内の会話でよく登場します。
 ## 🤔  shopping center との違いは？
 
 - **mall**：アメリカ英語で使われる大型のショッピング施設。屋内型が多い。
-- **[shopping center](/word/shopping_center/)**：イギリス英語でよく使われ、屋外型や小規模な商業施設も含む。
+- **[shopping center](/shopping_center)**：イギリス英語でよく使われ、屋外型や小規模な商業施設も含む。
 
 「mall」はアメリカで一般的な表現で、屋内型の大規模施設を指すことが多いですが、「shopping center」はイギリスで使われ、規模や形態が幅広いです。
 
@@ -104,14 +108,14 @@ TOEICではショッピングや施設案内の会話でよく登場します。
 
 ## 🧩 あわせて覚えたい
 
-- [plaza](/word/plaza/)：広場やショッピングエリア
-- [store](/word/store/)：店舗、店
+- [plaza](/plaza)：広場やショッピングエリア
+- [store](/store)：店舗、店
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market/)：市場、マーケット
-- [shop](/word/shop/)：お店、ショップ
+- [market](/market)：市場、マーケット
+- [shop](/shop)：お店、ショップ
 
-<!-- cvid: aid24_bid20 -->
+<!-- cvid: aid17_bid09 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、プロジェクト説明な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、プロジェクト説明な�
 ## 🤔  supervise との違いは？
 
 - **oversee**：全体を上から広く監督・統括するニュアンス
-- **[supervise](/word/supervise/)**：現場で直接的に指導・監督するニュアンス
+- **[supervise](/supervise)**：現場で直接的に指導・監督するニュアンス
 
 overseeは「全体を見渡して管理する」イメージ、superviseは「現場で細かく指導・監督する」イメージです。
 
@@ -105,14 +109,14 @@ overseeは「全体を見渡して管理する」イメージ、superviseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage/)：管理する、運営する
-- [monitor](/word/monitor/)：監視する、見守る
+- [manage](/manage)：管理する、運営する
+- [monitor](/monitor)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [coordinate](/word/coordinate/)：調整する
+- [approve](/approve)：承認する
+- [coordinate](/coordinate)：調整する
 
-<!-- cvid: aid27_bid43 -->
+<!-- cvid: aid12_bid16 -->

@@ -82,15 +82,19 @@ TOEICでは会議や相談の場面で「提案」や「助言」として頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議や相談の場面で「提案」や「助言」として頻出
 ## 🤔  advice との違いは？
 
 - **suggestion**：やんわりとした提案や意見
-- **[advice](/word/advice/)**：より具体的で実践的な助言
+- **[advice](/advice)**：より具体的で実践的な助言
 
 suggestionは「こうしてみては？」という控えめな提案、adviceは「こうすべき」という強めの助言という違いがあります。
 
@@ -106,14 +110,14 @@ suggestionは「こうしてみては？」という控えめな提案、advice�
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/word/recommendation/)：推薦、勧め
-- [proposal](/word/proposal/)：提案（より正式・具体的）
+- [recommendation](/recommendation)：推薦、勧め
+- [proposal](/proposal)：提案（より正式・具体的）
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion/)：意見
-- [comment](/word/comment/)：コメント、意見
+- [opinion](/opinion)：意見
+- [comment](/comment)：コメント、意見
 
-<!-- cvid: aid06_bid26 -->
+<!-- cvid: aid10_bid16 -->

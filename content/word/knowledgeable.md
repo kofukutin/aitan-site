@@ -81,15 +81,19 @@ TOEICでは、社員や担当者の専門性や信頼性を説明する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid02_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社員や担当者の専門性や信頼性を説明する文脈で
 ## 🤔  informed との違いは？
 
 - **knowledgeable**：特定分野について深い知識や理解がある
-- **[informed](/word/informed/)**：情報を得ていて、状況や事実をよく知っている
+- **[informed](/informed)**：情報を得ていて、状況や事実をよく知っている
 
 「knowledgeable」は専門的・体系的な知識の豊富さを強調し、「informed」は最新情報や事実を知っていることに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、社員や担当者の専門性や信頼性を説明する文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [expert](/word/expert/)：専門家、熟練者
-- [ignorant](/word/ignorant/)：無知な、知識がない
+- [expert](/expert)：専門家、熟練者
+- [ignorant](/ignorant)：無知な、知識がない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [competent](/word/competent/)：有能な
+- [efficient](/efficient)：効率的な
+- [competent](/competent)：有能な
 
-<!-- cvid: aid16_bid21 -->
+<!-- cvid: aid02_bid18 -->

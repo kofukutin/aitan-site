@@ -81,15 +81,19 @@ TOEICでは「サービスを提供する」「役立つ」という意味で、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「サービスを提供する」「役立つ」という意味で、
 ## 🤔  provide との違いは？
 
 - **serve**：相手に直接サービスや食事などを「提供する」「仕える」ニュアンスが強い
-- **[provide](/word/provide/)**：必要なものを「供給する」「与える」意味で、より広く一般的
+- **[provide](/provide)**：必要なものを「供給する」「与える」意味で、より広く一般的
 
 serveは「相手に直接何かをしてあげる」イメージ、provideは「必要なものを用意して与える」イメージです。
 
@@ -105,14 +109,14 @@ serveは「相手に直接何かをしてあげる」イメージ、provideは�
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply/)：供給する、支給する
-- [attend](/word/attend/)：出席する、付き添う
+- [supply](/supply)：供給する、支給する
+- [attend](/attend)：出席する、付き添う
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [assist](/word/assist/)：手伝う、補助する
+- [deliver](/deliver)：配達する、届ける
+- [assist](/assist)：手伝う、補助する
 
-<!-- cvid: aid16_bid19 -->
+<!-- cvid: aid32_bid22 -->

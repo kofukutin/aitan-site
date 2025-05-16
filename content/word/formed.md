@@ -81,15 +81,19 @@ TOEICでは、受動態や過去分詞として「be formed」「has formed」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や過去分詞として「be formed」「has formed」�
 ## 🤔  created との違いは？
 
 - **formed**：形や組織など、構造や枠組みを作ることに重点がある
-- **[created](/word/created/)**：新しいものを生み出す、創造することに重点がある
+- **[created](/created)**：新しいものを生み出す、創造することに重点がある
 
 「formed」は形や組織の成立に、「created」はゼロから新しいものを生み出すニュアンスに使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、受動態や過去分詞として「be formed」「has formed」�
 
 ## 🧩 あわせて覚えたい
 
-- [establish](/word/establish/)：設立する、確立する
-- [develop](/word/develop/)：発展させる、開発する
+- [establish](/establish)：設立する、確立する
+- [develop](/develop)：発展させる、開発する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：組織する、まとめる
-- [build](/word/build/)：建てる、築く
+- [organize](/organize)：組織する、まとめる
+- [build](/build)：建てる、築く
 
-<!-- cvid: aid10_bid26 -->
+<!-- cvid: aid11_bid05 -->

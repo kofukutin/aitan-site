@@ -81,15 +81,19 @@ TOEICでは、証明書類や証拠を求める文脈でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、証明書類や証拠を求める文脈でよく登場します。
 ## 🤔  evidence との違いは？
 
 - **proof**：決定的な証拠や証明、疑いなく真実と示すもの
-- **[evidence](/word/evidence/)**：事実や主張を裏付けるための情報や手がかり
+- **[evidence](/evidence)**：事実や主張を裏付けるための情報や手がかり
 
 proofは「これで間違いない」と断言できる証拠、evidenceは「証拠となりうる情報や材料」というニュアンスの違いがあります。
 
@@ -105,14 +109,14 @@ proofは「これで間違いない」と断言できる証拠、evidenceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [confirmation](/word/confirmation/)：確認、確証
-- [verification](/word/verification/)：検証、確認
+- [confirmation](/confirmation)：確認、確証
+- [verification](/verification)：検証、確認
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：書類、文書
-- [certificate](/word/certificate/)：証明書
+- [document](/document)：書類、文書
+- [certificate](/certificate)：証明書
 
-<!-- cvid: aid33_bid40 -->
+<!-- cvid: aid11_bid32 -->

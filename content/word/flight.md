@@ -81,15 +81,19 @@ TOEICでは空港や出張、旅行の場面でよく登場します。特にフ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や出張、旅行の場面でよく登場します。特にフ
 ## 🤔  trip との違いは？
 
 - **flight**：飛行機での移動や航空便そのものを指す
-- **[trip](/word/trip/)**：旅行や出張などの「移動全体」を指す
+- **[trip](/trip)**：旅行や出張などの「移動全体」を指す
 
 flightは「飛行機での移動」や「便」に限定され、tripは交通手段を問わず「旅行全体」を表します。
 
@@ -105,14 +109,14 @@ flightは「飛行機での移動」や「便」に限定され、tripは交通�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/word/journey/)：旅、長い移動
-- [departure](/word/departure/)：出発
+- [journey](/journey)：旅、長い移動
+- [departure](/departure)：出発
 
 ---
 
 ## 📖 できればこれも
 
-- [ticket](/word/ticket/)：切符、チケット
-- [airport](/word/airport/)：空港
+- [ticket](/ticket)：切符、チケット
+- [airport](/airport)：空港
 
-<!-- cvid: aid17_bid47 -->
+<!-- cvid: aid43_bid20 -->

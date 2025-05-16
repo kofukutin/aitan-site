@@ -84,8 +84,12 @@ howeverはTOEICの長文読解パートで逆接の接続副詞として頻出�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ howeverはTOEICの長文読解パートで逆接の接続副詞として頻出�
 ## 🤔  nevertheless との違いは？
 
 - **however**：前文と逆の内容を述べるときに使い、ややフォーマルで論理的な印象。
-- **[nevertheless](/word/nevertheless/)**：逆接の意味は同じだが、「それにもかかわらず」と強調したいときに使う。
+- **[nevertheless](/nevertheless)**：逆接の意味は同じだが、「それにもかかわらず」と強調したいときに使う。
 
 howeverは論理的なつながりを示す一般的な逆接、neverthelessは「それでもなお」と強調したい場面で使い分けます。
 
@@ -101,14 +105,14 @@ howeverは論理的なつながりを示す一般的な逆接、neverthelessは�
 
 ## 🧩 あわせて覚えたい
 
-- [but](/word/but/)：しかし（カジュアルな逆接）
-- [although](/word/although/)：～だけれども（接続詞）
+- [but](/but)：しかし（カジュアルな逆接）
+- [although](/although)：～だけれども（接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [furthermore](/word/furthermore/)：さらに
+- [therefore](/therefore)：それゆえに
+- [furthermore](/furthermore)：さらに
 
-<!-- cvid: aid12_bid45 -->
+<!-- cvid: aid12_bid02 -->

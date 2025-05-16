@@ -77,15 +77,19 @@ TOEICでは説明文や比較表現でよく登場し、他のものと比べて
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは説明文や比較表現でよく登場し、他のものと比べて
 ## 🤔  comparatively との違いは？
 
 - **relatively**：他と比べて「比較的に」「相対的に」という意味で、日常的・ビジネス的な比較に幅広く使う。
-- **[comparatively](/word/comparatively/)**：ややフォーマルで、より明確に「比較して」というニュアンスを強調する。
+- **[comparatively](/comparatively)**：ややフォーマルで、より明確に「比較して」というニュアンスを強調する。
 
 どちらも「比較的に」という意味ですが、relativelyはより一般的で柔らかい印象、comparativelyはやや堅めで明確な比較を意識する場面で使われます。
 
@@ -101,14 +105,14 @@ TOEICでは説明文や比較表現でよく登場し、他のものと比べて
 
 ## 🧩 あわせて覚えたい
 
-- [absolutely](/word/absolutely/)：絶対的に
-- [somewhat](/word/somewhat/)：いくぶん、多少
+- [absolutely](/absolutely)：絶対的に
+- [somewhat](/somewhat)：いくぶん、多少
 
 ---
 
 ## 📖 できればこれも
 
-- [approximately](/word/approximately/)：おおよそ、約
-- [significantly](/word/significantly/)：著しく、かなり
+- [approximately](/approximately)：おおよそ、約
+- [significantly](/significantly)：著しく、かなり
 
-<!-- cvid: aid34_bid24 -->
+<!-- cvid: aid49_bid22 -->

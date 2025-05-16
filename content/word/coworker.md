@@ -82,15 +82,19 @@ TOEICでは職場の会話や指示、相談の場面でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは職場の会話や指示、相談の場面でよく登場します。
 ## 🤔  colleague との違いは？
 
 - **coworker**：同じ職場で働く人。アメリカ英語でカジュアルな響き。
-- **[colleague](/word/colleague/)**：同じ職場や業界の仲間。ややフォーマルでイギリス英語でもよく使う。
+- **[colleague](/colleague)**：同じ職場や業界の仲間。ややフォーマルでイギリス英語でもよく使う。
 
 coworkerは日常会話やカジュアルな職場でよく使われ、colleagueはフォーマルな場や書き言葉で使われることが多いです。
 
@@ -106,14 +110,14 @@ coworkerは日常会話やカジュアルな職場でよく使われ、colleague
 
 ## 🧩 あわせて覚えたい
 
-- [supervisor](/word/supervisor/)：上司、監督者
-- [subordinate](/word/subordinate/)：部下
+- [supervisor](/supervisor)：上司、監督者
+- [subordinate](/subordinate)：部下
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [employee](/word/employee/)：従業員
+- [manager](/manager)：管理職、マネージャー
+- [employee](/employee)：従業員
 
-<!-- cvid: aid30_bid43 -->
+<!-- cvid: aid42_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは会議や討論会、機械の操作盤など、ビジネスシーン
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や討論会、機械の操作盤など、ビジネスシーン
 ## 🤔  board との違いは？
 
 - **panel**：討論会の参加者集団や、壁・機械などの区切られた「板」や「操作盤」を指す
-- **[board](/word/board/)**：経営陣や委員会、または「板」そのものを指す
+- **[board](/board)**：経営陣や委員会、または「板」そのものを指す
 
 panelは「区切られた面」や「討論会のメンバー」に使われ、boardは「経営陣」や「委員会」など組織的な集団、または単なる「板」を指す点で異なります。
 
@@ -105,14 +109,14 @@ panelは「区切られた面」や「討論会のメンバー」に使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [committee](/word/committee/)：委員会
-- [screen](/word/screen/)：画面、スクリーン
+- [committee](/committee)：委員会
+- [screen](/screen)：画面、スクリーン
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/word/session/)：会議、集まり
-- [conference](/word/conference/)：会議、協議会
+- [session](/session)：会議、集まり
+- [conference](/conference)：会議、協議会
 
-<!-- cvid: aid47_bid18 -->
+<!-- cvid: aid44_bid20 -->

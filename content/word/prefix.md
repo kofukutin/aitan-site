@@ -81,15 +81,19 @@ TOEICでは語形成や単語の構造に関する問題で出題されること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは語形成や単語の構造に関する問題で出題されること
 ## 🤔  preposition との違いは？
 
 - **prefix**：単語の先頭につけて意味を変える「接頭辞」
-- **[preposition](/word/preposition/)**：名詞や代名詞の前に置いて関係を示す「前置詞」
+- **[preposition](/preposition)**：名詞や代名詞の前に置いて関係を示す「前置詞」
 
 「prefix」は単語の一部として意味を変える役割ですが、「preposition」は文法的に語句同士の関係を示す語です。
 
@@ -105,14 +109,14 @@ TOEICでは語形成や単語の構造に関する問題で出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [suffix](/word/suffix/)：接尾辞（単語の語尾につく部分）
-- [affix](/word/affix/)：接辞（接頭辞・接尾辞などの総称）
+- [suffix](/suffix)：接尾辞（単語の語尾につく部分）
+- [affix](/affix)：接辞（接頭辞・接尾辞などの総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [root](/word/root/)：語根、単語の基本部分
-- [term](/word/term/)：用語、専門語
+- [root](/root)：語根、単語の基本部分
+- [term](/term)：用語、専門語
 
-<!-- cvid: aid44_bid22 -->
+<!-- cvid: aid13_bid19 -->

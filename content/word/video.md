@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「ビデオ会議」「紹介動画」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「ビデオ会議」「紹介動画」などの
 ## 🤔  movie との違いは？
 
 - **video**：一般的な動画や短い映像、記録映像など幅広く指す
-- **[movie](/word/movie/)**：主に映画や長編の映像作品を指す
+- **[movie](/movie)**：主に映画や長編の映像作品を指す
 
 videoは日常的な短い映像や記録映像にも使われますが、movieは「映画」やストーリー性のある長編作品に限定されることが多いです。
 
@@ -105,14 +109,14 @@ videoは日常的な短い映像や記録映像にも使われますが、movie�
 
 ## 🧩 あわせて覚えたい
 
-- [clip](/word/clip/)：短い動画、切り抜き映像
-- [footage](/word/footage/)：（特に未編集の）映像素材
+- [clip](/clip)：短い動画、切り抜き映像
+- [footage](/footage)：（特に未編集の）映像素材
 
 ---
 
 ## 📖 できればこれも
 
-- [audio](/word/audio/)：音声、音響
-- [record](/word/record/)：記録する、録音・録画する
+- [audio](/audio)：音声、音響
+- [record](/record)：記録する、録音・録画する
 
-<!-- cvid: aid35_bid18 -->
+<!-- cvid: aid11_bid34 -->

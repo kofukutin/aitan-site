@@ -81,15 +81,19 @@ TOEICでは、形容詞として「意識している」「自覚的な」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「意識している」「自覚的な」とい
 ## 🤔  aware との違いは？
 
 - **conscious**：自分の意識や注意を向けている状態、特に「意図的に気づいている」ニュアンスが強い
-- **[aware](/word/aware/)**：何かに気づいている、知っているという広い意味で使われる
+- **[aware](/aware)**：何かに気づいている、知っているという広い意味で使われる
 
 「conscious」は自分の意志や注意を強く向けている場合に使い、「aware」は単に知っている・気づいている場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「意識している」「自覚的な」とい
 
 ## 🧩 あわせて覚えたい
 
-- [unconscious](/word/unconscious/)：無意識の、意識を失った
-- [mindful](/word/mindful/)：注意深い、意識している
+- [unconscious](/unconscious)：無意識の、意識を失った
+- [mindful](/mindful)：注意深い、意識している
 
 ---
 
 ## 📖 できればこれも
 
-- [concentrate](/word/concentrate/)：集中する
-- [sensitive](/word/sensitive/)：敏感な、繊細な
+- [concentrate](/concentrate)：集中する
+- [sensitive](/sensitive)：敏感な、繊細な
 
-<!-- cvid: aid00_bid10 -->
+<!-- cvid: aid21_bid47 -->

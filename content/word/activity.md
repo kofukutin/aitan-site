@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「活動内容」や「イベント
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「活動内容」や「イベント
 ## 🤔  action との違いは？
 
 - **activity**：継続的・集団的な「活動」や「行動全体」を指す
-- **[action](/word/action/)**：個々の「行動」や「動作」、または決断的な一歩を指す
+- **[action](/action)**：個々の「行動」や「動作」、または決断的な一歩を指す
 
 activityは「何かをしている状態」や「まとまりのある活動」を表し、actionは「一つ一つの具体的な行動」や「決断的な動き」に使われます。
 
@@ -105,14 +109,14 @@ activityは「何かをしている状態」や「まとまりのある活動」
 
 ## 🧩 あわせて覚えたい
 
-- [event](/word/event/)：出来事、行事
-- [project](/word/project/)：計画、プロジェクト
+- [event](/event)：出来事、行事
+- [project](/project)：計画、プロジェクト
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/word/task/)：課題、仕事
-- [operation](/word/operation/)：作業、運用
+- [task](/task)：課題、仕事
+- [operation](/operation)：作業、運用
 
-<!-- cvid: aid43_bid06 -->
+<!-- cvid: aid40_bid42 -->

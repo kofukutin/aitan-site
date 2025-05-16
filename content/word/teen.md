@@ -81,15 +81,19 @@ TOEICでは広告やアンケート、記事などで「teen」や「teenager」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告やアンケート、記事などで「teen」や「teenager」
 ## 🤔  adolescent との違いは？
 
 - **teen**：カジュアルで日常的な「10代の若者」
-- **[adolescent](/word/adolescent/)**：ややフォーマルで医学・心理学分野でも使われる「思春期の若者」
+- **[adolescent](/adolescent)**：ややフォーマルで医学・心理学分野でも使われる「思春期の若者」
 
 「teen」は会話や広告などカジュアルな場面で使われ、「adolescent」は学術的・フォーマルな文脈で使われやすいです。
 
@@ -105,14 +109,14 @@ TOEICでは広告やアンケート、記事などで「teen」や「teenager」
 
 ## 🧩 あわせて覚えたい
 
-- [youth](/word/youth/)：若者、青年期
-- [minor](/word/minor/)：未成年者
+- [youth](/youth)：若者、青年期
+- [minor](/minor)：未成年者
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child/)：子ども
-- [adult](/word/adult/)：大人
+- [child](/child)：子ども
+- [adult](/adult)：大人
 
-<!-- cvid: aid38_bid29 -->
+<!-- cvid: aid18_bid02 -->

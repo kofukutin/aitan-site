@@ -81,15 +81,19 @@ throwはTOEICの会話パートで「投げる」「捨てる」などの意味�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ throwはTOEICの会話パートで「投げる」「捨てる」などの意味�
 ## 🤔  toss との違いは？
 
 - **throw**：力を入れてしっかり投げる、距離や方向を意識する場合に使う
-- **[toss](/word/toss/)**：軽くポイッと投げる、無造作に放るニュアンス
+- **[toss](/toss)**：軽くポイッと投げる、無造作に放るニュアンス
 
 throwは「しっかり投げる」イメージ、tossは「軽く放る」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ throwは「しっかり投げる」イメージ、tossは「軽く放る」イ�
 
 ## 🧩 あわせて覚えたい
 
-- [pitch](/word/pitch/)：（野球などで）投げる
-- [catch](/word/catch/)：つかまえる、受け取る
+- [pitch](/pitch)：（野球などで）投げる
+- [catch](/catch)：つかまえる、受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send/)：送る
-- [drop](/word/drop/)：落とす
+- [send](/send)：送る
+- [drop](/drop)：落とす
 
-<!-- cvid: aid09_bid19 -->
+<!-- cvid: aid06_bid24 -->

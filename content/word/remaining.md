@@ -81,15 +81,19 @@ TOEICでは、空所補充問題や残りの時間・人数・物などを表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、空所補充問題や残りの時間・人数・物などを表す
 ## 🤔  left との違いは？
 
 - **remaining**：まだ残っているもの全体を客観的に表す
-- **[left](/word/left/)**：何かが使われた後に「残された」ものをやや口語的に表す
+- **[left](/left)**：何かが使われた後に「残された」ものをやや口語的に表す
 
 「remaining」はややフォーマルで書き言葉やビジネス文書でよく使われ、「left」は日常会話やカジュアルな場面で使われやすいです。
 
@@ -105,14 +109,14 @@ TOEICでは、空所補充問題や残りの時間・人数・物などを表す
 
 ## 🧩 あわせて覚えたい
 
-- [available](/word/available/)：利用可能な
-- [surplus](/word/surplus/)：余剰、余り
+- [available](/available)：利用可能な
+- [surplus](/surplus)：余剰、余り
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/word/current/)：現在の
-- [final](/word/final/)：最終の
+- [current](/current)：現在の
+- [final](/final)：最終の
 
-<!-- cvid: aid33_bid27 -->
+<!-- cvid: aid28_bid36 -->

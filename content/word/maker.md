@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や製品紹介などで「メーカー」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や製品紹介などで「メーカー」と
 ## 🤔  manufacturer との違いは？
 
 - **maker**：一般的に「作る人・会社」。カジュアルにも使える。
-- **[manufacturer](/word/manufacturer/)**：特に工場などで大量生産する「製造業者」。ややフォーマル。
+- **[manufacturer](/manufacturer)**：特に工場などで大量生産する「製造業者」。ややフォーマル。
 
 「maker」は幅広く使えますが、「manufacturer」は工業製品や大量生産の場面で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネス文書や製品紹介などで「メーカー」と
 
 ## 🧩 あわせて覚えたい
 
-- [producer](/word/producer/)：生産者、製作者
-- [supplier](/word/supplier/)：供給業者、納入業者
+- [producer](/producer)：生産者、製作者
+- [supplier](/supplier)：供給業者、納入業者
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/word/product/)：製品
-- [brand](/word/brand/)：ブランド、銘柄
+- [product](/product)：製品
+- [brand](/brand)：ブランド、銘柄
 
-<!-- cvid: aid33_bid32 -->
+<!-- cvid: aid19_bid27 -->

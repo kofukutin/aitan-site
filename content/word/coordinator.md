@@ -81,15 +81,19 @@ TOEICでは職種や役割を問う問題でよく登場します。特にビジ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは職種や役割を問う問題でよく登場します。特にビジ
 ## 🤔  manager との違いは？
 
 - **coordinator**：主に関係者の調整や連携を担当し、全体の流れを整える役割。
-- **[manager](/word/manager/)**：組織やチームの運営・管理を担い、意思決定や責任も負う役割。
+- **[manager](/manager)**：組織やチームの運営・管理を担い、意思決定や責任も負う役割。
 
 coordinatorは「調整役」、managerは「管理職・責任者」という違いがあり、coordinatorは指示よりも調整に重点があります。
 
@@ -105,14 +109,14 @@ coordinatorは「調整役」、managerは「管理職・責任者」という�
 
 ## 🧩 あわせて覚えたい
 
-- [organizer](/word/organizer/)：主催者、企画者
-- [assistant](/word/assistant/)：助手、アシスタント
+- [organizer](/organizer)：主催者、企画者
+- [assistant](/assistant)：助手、アシスタント
 
 ---
 
 ## 📖 できればこれも
 
-- [supervisor](/word/supervisor/)：監督者、指導者
-- [director](/word/director/)：部長、指導者
+- [supervisor](/supervisor)：監督者、指導者
+- [director](/director)：部長、指導者
 
-<!-- cvid: aid46_bid49 -->
+<!-- cvid: aid48_bid10 -->

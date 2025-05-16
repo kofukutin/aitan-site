@@ -81,15 +81,19 @@ TOEICではITやビジネス文書、手続きの説明文などで「確認」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネス文書、手続きの説明文などで「確認」�
 ## 🤔  validation との違いは？
 
 - **verification**：事実や正確さを証拠や手順で確認すること
-- **[validation](/word/validation/)**：有効性や妥当性を認めること、正式に認証すること
+- **[validation](/validation)**：有効性や妥当性を認めること、正式に認証すること
 
 verificationは「正しいかどうかをチェックする」こと、validationは「基準や要件を満たしているかを認める」ことに重点があります。
 
@@ -105,14 +109,14 @@ verificationは「正しいかどうかをチェックする」こと、validati
 
 ## 🧩 あわせて覚えたい
 
-- [confirmation](/word/confirmation/)：確認、承認
-- [authentication](/word/authentication/)：認証、本人確認
+- [confirmation](/confirmation)：確認、承認
+- [authentication](/authentication)：認証、本人確認
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval/)：承認、許可
-- [inspection](/word/inspection/)：検査、点検
+- [approval](/approval)：承認、許可
+- [inspection](/inspection)：検査、点検
 
-<!-- cvid: aid32_bid41 -->
+<!-- cvid: aid09_bid01 -->

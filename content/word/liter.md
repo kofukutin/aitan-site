@@ -81,15 +81,19 @@ TOEICでは、商品の説明や仕様、数量を問う文脈で「liter」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品の説明や仕様、数量を問う文脈で「liter」が�
 ## 🤔  gallon との違いは？
 
 - **liter**：メートル法の体積単位で、国際的に広く使われる（1リットル＝約1.06クォート）。
-- **[gallon](/word/gallon/)**：主にアメリカやイギリスで使われる体積単位（1ガロン＝約3.8リットル（米）、約4.5リットル（英））。
+- **[gallon](/gallon)**：主にアメリカやイギリスで使われる体積単位（1ガロン＝約3.8リットル（米）、約4.5リットル（英））。
 
 literは国際標準の単位で、gallonは主に英米圏で使われる伝統的な単位です。
 
@@ -105,14 +109,14 @@ literは国際標準の単位で、gallonは主に英米圏で使われる伝統
 
 ## 🧩 あわせて覚えたい
 
-- [milliliter](/word/milliliter/)：ミリリットル（1リットルの1/1000）
-- [cubic_meter](/word/cubic_meter/)：立方メートル（体積の単位）
+- [milliliter](/milliliter)：ミリリットル（1リットルの1/1000）
+- [cubic_meter](/cubic_meter)：立方メートル（体積の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/word/meter/)：メートル（長さの単位）
-- [kilogram](/word/kilogram/)：キログラム（質量の単位）
+- [meter](/meter)：メートル（長さの単位）
+- [kilogram](/kilogram)：キログラム（質量の単位）
 
-<!-- cvid: aid13_bid43 -->
+<!-- cvid: aid36_bid14 -->

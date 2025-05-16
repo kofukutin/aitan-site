@@ -82,15 +82,19 @@ TOEICではレストランやホテル、日常の会話シーンで「料理す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではレストランやホテル、日常の会話シーンで「料理す
 ## 🤔  chef との違いは？
 
 - **cook**：一般的に料理をする人、または調理する行為
-- **[chef](/word/chef/)**：専門的な訓練を受けた料理長やシェフ
+- **[chef](/chef)**：専門的な訓練を受けた料理長やシェフ
 
 cookは家庭やレストランで料理をする人全般を指しますが、chefはプロの料理長や高級レストランのシェフを指します。
 
@@ -106,14 +110,14 @@ cookは家庭やレストランで料理をする人全般を指しますが、c
 
 ## 🧩 あわせて覚えたい
 
-- [bake](/word/bake/)：焼く（特にパンやケーキなどをオーブンで調理する）
-- [boil](/word/boil/)：茹でる、沸騰させる
+- [bake](/bake)：焼く（特にパンやケーキなどをオーブンで調理する）
+- [boil](/boil)：茹でる、沸騰させる
 
 ---
 
 ## 📖 できればこれも
 
-- [eat](/word/eat/)：食べる
-- [prepare](/word/prepare/)：準備する、用意する
+- [eat](/eat)：食べる
+- [prepare](/prepare)：準備する、用意する
 
-<!-- cvid: aid06_bid09 -->
+<!-- cvid: aid23_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネスや社会的な影響力について述べる記事や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid25_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや社会的な影響力について述べる記事や
 ## 🤔  powerful との違いは？
 
 - **influential**：他人や物事に間接的に大きな影響を与える力がある
-- **[powerful](/word/powerful/)**：直接的・物理的・精神的に強い力や影響を持つ
+- **[powerful](/powerful)**：直接的・物理的・精神的に強い力や影響を持つ
 
 「influential」は主に人や組織が周囲に与える影響力を指し、「powerful」は力そのものや影響の強さをより直接的に表します。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスや社会的な影響力について述べる記事や
 
 ## 🧩 あわせて覚えたい
 
-- [persuasive](/word/persuasive/)：説得力のある
-- [dominant](/word/dominant/)：支配的な、優勢な
+- [persuasive](/persuasive)：説得力のある
+- [dominant](/dominant)：支配的な、優勢な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な
-- [notable](/word/notable/)：注目すべき、顕著な
+- [significant](/significant)：重要な
+- [notable](/notable)：注目すべき、顕著な
 
-<!-- cvid: aid21_bid19 -->
+<!-- cvid: aid25_bid46 -->

@@ -84,15 +84,19 @@ TOEICでは、変化や進展の速さを説明する文脈で出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICでは、変化や進展の速さを説明する文脈で出題されるこ
 ## 🤔  quickly との違いは？
 
 - **rapidly**：非常に速いスピードで、短期間で（変化や進行の速さを強調）
-- **[quickly](/word/quickly/)**：素早く、短時間で（動作や行動の速さを表す）
+- **[quickly](/quickly)**：素早く、短時間で（動作や行動の速さを表す）
 
 rapidly は「変化や進行の速さ」に重点があり、quickly は「動作や行動の速さ」に使われることが多いです。
 
@@ -108,14 +112,14 @@ rapidly は「変化や進行の速さ」に重点があり、quickly は「動�
 
 ## 🧩 あわせて覚えたい
 
-- [gradually](/word/gradually/)：徐々に、だんだんと
-- [immediately](/word/immediately/)：すぐに、直ちに
+- [gradually](/gradually)：徐々に、だんだんと
+- [immediately](/immediately)：すぐに、直ちに
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently/)：頻繁に
-- [efficiently](/word/efficiently/)：効率的に
+- [frequently](/frequently)：頻繁に
+- [efficiently](/efficiently)：効率的に
 
-<!-- cvid: aid47_bid11 -->
+<!-- cvid: aid32_bid20 -->

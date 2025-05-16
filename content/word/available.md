@@ -81,15 +81,19 @@ TOEICでは会議や電話対応、予約などの場面で「利用できる」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や電話対応、予約などの場面で「利用できる」
 ## 🤔  accessible との違いは？
 
 - **available**：利用できる、入手できる、（人が）手が空いている
-- **[accessible](/word/accessible/)**：アクセスできる、到達できる、利用しやすい
+- **[accessible](/accessible)**：アクセスできる、到達できる、利用しやすい
 
 「available」は「使える状態」「手に入る状態」を指し、「accessible」は「物理的・技術的に到達できる」ことを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは会議や電話対応、予約などの場面で「利用できる」
 
 ## 🧩 あわせて覚えたい
 
-- [vacant](/word/vacant/)：空いている（特に部屋や席などに使う）
-- [unavailable](/word/unavailable/)：利用できない、手が空いていない
+- [vacant](/vacant)：空いている（特に部屋や席などに使う）
+- [unavailable](/unavailable)：利用できない、手が空いていない
 
 ---
 
 ## 📖 できればこれも
 
-- [suitable](/word/suitable/)：適している
-- [convenient](/word/convenient/)：都合が良い、便利な
+- [suitable](/suitable)：適している
+- [convenient](/convenient)：都合が良い、便利な
 
-<!-- cvid: aid05_bid41 -->
+<!-- cvid: aid33_bid27 -->

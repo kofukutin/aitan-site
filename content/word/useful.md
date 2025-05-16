@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、文中で「役立つ」「有用な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、文中で「役立つ」「有用な
 ## 🤔  helpful との違いは？
 
 - **useful**：物や情報、道具などが「役に立つ」「有用な」ことを表す。
-- **[helpful](/word/helpful/)**：人や行動、または助言などが「助けになる」「親切な」ことを表す。
+- **[helpful](/helpful)**：人や行動、または助言などが「助けになる」「親切な」ことを表す。
 
 usefulは「実用的」「目的に合って役立つ」ニュアンス、helpfulは「助けてくれる」「親切で支援的」なニュアンスで使い分けます。
 
@@ -105,14 +109,14 @@ usefulは「実用的」「目的に合って役立つ」ニュアンス、helpf
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical/)：実用的な
-- [beneficial](/word/beneficial/)：有益な
+- [practical](/practical)：実用的な
+- [beneficial](/beneficial)：有益な
 
 ---
 
 ## 📖 できればこれも
 
-- [convenient](/word/convenient/)：便利な
-- [valuable](/word/valuable/)：価値のある
+- [convenient](/convenient)：便利な
+- [valuable](/valuable)：価値のある
 
-<!-- cvid: aid28_bid36 -->
+<!-- cvid: aid35_bid00 -->

@@ -84,15 +84,19 @@ TOEICでは仮定法や丁寧な表現、メール文の定型句として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -100,7 +104,7 @@ TOEICでは仮定法や丁寧な表現、メール文の定型句として出題
 ## 🤔  hope との違いは？
 
 - **wish**：実現が難しいことや現実と違うことを「願う」ニュアンス
-- **[hope](/word/hope/)**：実現の可能性があることを「期待する」ニュアンス
+- **[hope](/hope)**：実現の可能性があることを「期待する」ニュアンス
 
 wishは「もし～だったらいいのに」と現実と違うことを願うときに使い、hopeは「きっと～だろう」と期待を込めて使います。
 
@@ -108,14 +112,14 @@ wishは「もし～だったらいいのに」と現実と違うことを願う�
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire/)：強い願望
-- [regret](/word/regret/)：後悔
+- [desire](/desire)：強い願望
+- [regret](/regret)：後悔
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer/)：～の方を好む
-- [suggest](/word/suggest/)：提案する
+- [prefer](/prefer)：～の方を好む
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid18_bid37 -->
+<!-- cvid: aid28_bid25 -->

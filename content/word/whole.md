@@ -81,15 +81,19 @@ TOEICでは「the whole team（チーム全体）」や「the whole process（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「the whole team（チーム全体）」や「the whole process（�
 ## 🤔  entire との違いは？
 
 - **whole**：日常的に「全体の」「まるごと」の意味で使い、やや口語的。
-- **[entire](/word/entire/)**：よりフォーマルで「完全に全部」「一つ残らず」のニュアンスが強い。
+- **[entire](/entire)**：よりフォーマルで「完全に全部」「一つ残らず」のニュアンスが強い。
 
 wholeは会話やカジュアルな文脈でよく使われ、entireは書き言葉や強調したいときに使われます。
 
@@ -105,14 +109,14 @@ wholeは会話やカジュアルな文脈でよく使われ、entireは書き言
 
 ## 🧩 あわせて覚えたい
 
-- [partial](/word/partial/)：部分的な
-- [complete](/word/complete/)：完全な
+- [partial](/partial)：部分的な
+- [complete](/complete)：完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total/)：合計の、全体の
-- [full](/word/full/)：いっぱいの、満ちた
+- [total](/total)：合計の、全体の
+- [full](/full)：いっぱいの、満ちた
 
-<!-- cvid: aid19_bid48 -->
+<!-- cvid: aid38_bid42 -->

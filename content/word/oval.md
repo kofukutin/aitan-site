@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【oval】の意味・使い方・例文 ― ellipseとの違い【TOEIC英単語】"
 description: "ovalの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでellipseとの違いもわかりやすく学べます。"
 word: "oval"
@@ -82,7 +82,7 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際に出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+次もスッと解こう👇️
 
 ---
 
@@ -90,7 +90,11 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際に出
 
 <div class="info-center">
 ＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際に出
 ## 🤔  ellipse との違いは？
 
 - **oval**：卵形や楕円形を指し、日常的な形の説明に幅広く使える。
-- **[ellipse](/word/ellipse/)**：数学的な「楕円」を指し、より専門的・厳密な形状に使われる。
+- **[ellipse](/ellipse)**：数学的な「楕円」を指し、より専門的・厳密な形状に使われる。
 
 ovalは一般的な形の説明に使われ、ellipseは数学や図形の分野で使われることが多いです。
 
@@ -106,14 +110,14 @@ ovalは一般的な形の説明に使われ、ellipseは数学や図形の分野
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/word/circle/)：円
-- [sphere](/word/sphere/)：球体
+- [circle](/circle)：円
+- [sphere](/sphere)：球体
 
 ---
 
 ## 📖 できればこれも
 
-- [round](/word/round/)：丸い
-- [rectangular](/word/rectangular/)：長方形の
+- [round](/round)：丸い
+- [rectangular](/rectangular)：長方形の
 
-<!-- cvid: aid38_bid11 -->
+<!-- cvid: aid27_bid11 -->

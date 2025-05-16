@@ -80,15 +80,19 @@ attitudeはTOEICの会話パートで「態度」や「考え方」を問う文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ attitudeはTOEICの会話パートで「態度」や「考え方」を問う文�
 ## 🤔  behavior との違いは？
 
 - **attitude**：心の中の考え方や感じ方、またはそれが表に出た姿勢
-- **[behavior](/word/behavior/)**：実際の行動やふるまい
+- **[behavior](/behavior)**：実際の行動やふるまい
 
 attitudeは「内面の姿勢や考え方」、behaviorは「外に現れる具体的な行動」を指します。
 
@@ -104,14 +108,14 @@ attitudeは「内面の姿勢や考え方」、behaviorは「外に現れる具�
 
 ## 🧩 あわせて覚えたい
 
-- [mindset](/word/mindset/)：物事の考え方、思考様式
-- [approach](/word/approach/)：取り組み方、アプローチ
+- [mindset](/mindset)：物事の考え方、思考様式
+- [approach](/approach)：取り組み方、アプローチ
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion/)：意見、考え
-- [mood](/word/mood/)：気分、雰囲気
+- [opinion](/opinion)：意見、考え
+- [mood](/mood)：気分、雰囲気
 
-<!-- cvid: aid25_bid05 -->
+<!-- cvid: aid09_bid22 -->

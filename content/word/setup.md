@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【setup】の意味・使い方・例文 ― arrangementとの違い【TOEIC英単語】"
 description: "setupの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでarrangementとの違いもわかりやすく学べます。"
 word: "setup"
@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「setup」が名詞として出題さ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「setup」が名詞として出題さ�
 ## 🤔  arrangement との違いは？
 
 - **setup**：機器やシステムなどの具体的な準備や設定
-- **[arrangement](/word/arrangement/)**：予定や配置など幅広い「取り決め」や「調整」
+- **[arrangement](/arrangement)**：予定や配置など幅広い「取り決め」や「調整」
 
 setupは物理的・技術的な準備に使われ、arrangementは予定や座席などの調整・手配に使われます。
 
@@ -105,14 +109,14 @@ setupは物理的・技術的な準備に使われ、arrangementは予定や座�
 
 ## 🧩 あわせて覚えたい
 
-- [installation](/word/installation/)：設置、インストール
-- [configuration](/word/configuration/)：構成、設定
+- [installation](/installation)：設置、インストール
+- [configuration](/configuration)：構成、設定
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、手順
-- [system](/word/system/)：システム、仕組み
+- [process](/process)：過程、手順
+- [system](/system)：システム、仕組み
 
-<!-- cvid: aid21_bid06 -->
+<!-- cvid: aid07_bid18 -->

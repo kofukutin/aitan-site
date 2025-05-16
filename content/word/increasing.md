@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「増加している傾向」や「増えてい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「増加している傾向」や「増えてい
 ## 🤔  growing との違いは？
 
 - **increasing**：数量や頻度などが「増加している」状態を客観的に表す。
-- **[growing](/word/growing/)**：成長や発展など、変化や発展のニュアンスを含み「大きくなっている」ことを強調。
+- **[growing](/growing)**：成長や発展など、変化や発展のニュアンスを含み「大きくなっている」ことを強調。
 
 「increasing」は単純な数値や量の増加に使われやすく、「growing」は成長や発展などポジティブな変化を含む場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「増加している傾向」や「増えてい
 
 ## 🧩 あわせて覚えたい
 
-- [decreasing](/word/decreasing/)：減少している
-- [rising](/word/rising/)：上昇している
+- [decreasing](/decreasing)：減少している
+- [rising](/rising)：上昇している
 
 ---
 
 ## 📖 できればこれも
 
-- [declining](/word/declining/)：減少している
-- [expanding](/word/expanding/)：拡大している
+- [declining](/declining)：減少している
+- [expanding](/expanding)：拡大している
 
-<!-- cvid: aid27_bid18 -->
+<!-- cvid: aid21_bid49 -->

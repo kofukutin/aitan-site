@@ -82,15 +82,19 @@ TOEICでは、形容詞として「sudden change（急な変化）」や「sudde
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、形容詞として「sudden change（急な変化）」や「sudde
 ## 🤔  abrupt との違いは？
 
 - **sudden**：予告なく急に起こることを幅広く表す
-- **[abrupt](/word/abrupt/)**：唐突で不意打ちのような、ややネガティブな印象を与える
+- **[abrupt](/abrupt)**：唐突で不意打ちのような、ややネガティブな印象を与える
 
 「sudden」は単に「急な」「突然の」という意味ですが、「abrupt」は「ぶっきらぼう」「無愛想」など、より衝撃的・不自然な印象を含みます。
 
@@ -106,14 +110,14 @@ TOEICでは、形容詞として「sudden change（急な変化）」や「sudde
 
 ## 🧩 あわせて覚えたい
 
-- [unexpected](/word/unexpected/)：予期しない
-- [immediate](/word/immediate/)：即時の、すぐの
+- [unexpected](/unexpected)：予期しない
+- [immediate](/immediate)：即時の、すぐの
 
 ---
 
 ## 📖 できればこれも
 
-- [quick](/word/quick/)：速い、素早い
-- [rapid](/word/rapid/)：急速な
+- [quick](/quick)：速い、素早い
+- [rapid](/rapid)：急速な
 
-<!-- cvid: aid20_bid18 -->
+<!-- cvid: aid28_bid09 -->

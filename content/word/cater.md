@@ -81,15 +81,19 @@ TOEICでは、会議やイベントの準備、サービス提供に関する会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議やイベントの準備、サービス提供に関する会
 ## 🤔  provide との違いは？
 
 - **cater**：特定のニーズや要望に合わせてサービスや飲食物を提供する
-- **[provide](/word/provide/)**：一般的に物やサービスを「与える」「供給する」
+- **[provide](/provide)**：一般的に物やサービスを「与える」「供給する」
 
 caterは「相手の要望に合わせて用意する」ニュアンスが強く、provideは単に「与える・供給する」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ caterは「相手の要望に合わせて用意する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply/)：供給する、支給する
-- [serve](/word/serve/)：（食事などを）出す、サービスする
+- [supply](/supply)：供給する、支給する
+- [serve](/serve)：（食事などを）出す、サービスする
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [organize](/word/organize/)：組織する、まとめる
+- [arrange](/arrange)：手配する、準備する
+- [organize](/organize)：組織する、まとめる
 
-<!-- cvid: aid36_bid41 -->
+<!-- cvid: aid04_bid43 -->

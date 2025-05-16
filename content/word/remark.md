@@ -82,15 +82,19 @@ TOEICでは会議やディスカッションの場面で「発言」「意見」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議やディスカッションの場面で「発言」「意見」
 ## 🤔  comment との違いは？
 
 - **remark**：会議や会話での「発言」「所見」など、ややフォーマルな短い意見。
-- **[comment](/word/comment/)**：意見や感想全般を幅広く指し、カジュアルな場面でもよく使う。
+- **[comment](/comment)**：意見や感想全般を幅広く指し、カジュアルな場面でもよく使う。
 
 remarkはやや改まった場や公式な発言に使われやすく、commentはSNSや日常会話など幅広い場面で使われます。
 
@@ -106,14 +110,14 @@ remarkはやや改まった場や公式な発言に使われやすく、comment�
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/word/statement/)：声明、発言
-- [observation](/word/observation/)：観察、所見
+- [statement](/statement)：声明、発言
+- [observation](/observation)：観察、所見
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：メモ、注意書き
-- [mention](/word/mention/)：言及、述べること
+- [note](/note)：メモ、注意書き
+- [mention](/mention)：言及、述べること
 
-<!-- cvid: aid48_bid47 -->
+<!-- cvid: aid34_bid25 -->

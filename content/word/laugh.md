@@ -81,15 +81,19 @@ TOEICでは会話パートで「笑う」「冗談に反応する」場面でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話パートで「笑う」「冗談に反応する」場面でよ
 ## 🤔  smile との違いは？
 
 - **laugh**：声を出して笑うことを表す
-- **[smile](/word/smile/)**：声を出さずに微笑むことを表す
+- **[smile](/smile)**：声を出さずに微笑むことを表す
 
 「laugh」は声を出して笑う動作、「smile」は口元だけで静かに微笑む動作を指します。
 
@@ -105,14 +109,14 @@ TOEICでは会話パートで「笑う」「冗談に反応する」場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [giggle](/word/giggle/)：くすくす笑う
-- [cry](/word/cry/)：泣く
+- [giggle](/giggle)：くすくす笑う
+- [cry](/cry)：泣く
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/word/enjoy/)：楽しむ
-- [joke](/word/joke/)：冗談
+- [enjoy](/enjoy)：楽しむ
+- [joke](/joke)：冗談
 
-<!-- cvid: aid08_bid06 -->
+<!-- cvid: aid42_bid07 -->

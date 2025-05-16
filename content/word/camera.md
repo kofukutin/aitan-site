@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【camera】の意味・使い方・例文 ― webcamとの違い【TOEIC英単語】"
 description: "cameraの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでwebcamとの違いもわかりやすく学べます。"
 word: "camera"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で頻出です。オフィスや屋外で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid25" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid25" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で頻出です。オフィスや屋外で
 ## 🤔  webcam との違いは？
 
 - **camera**：写真や動画を撮影する一般的なカメラ全般を指す。
-- **[webcam](/word/webcam/)**：パソコンなどに接続して使う、主にビデオ通話や配信用のカメラ。
+- **[webcam](/webcam)**：パソコンなどに接続して使う、主にビデオ通話や配信用のカメラ。
 
 cameraは用途や種類を問わず幅広く使われますが、webcamはパソコン用の小型カメラに限定されます。
 
@@ -105,14 +109,14 @@ cameraは用途や種類を問わず幅広く使われますが、webcamはパ�
 
 ## 🧩 あわせて覚えたい
 
-- [photograph](/word/photograph/)：写真、写真を撮る
-- [lens](/word/lens/)：レンズ
+- [photograph](/photograph)：写真、写真を撮る
+- [lens](/lens)：レンズ
 
 ---
 
 ## 📖 できればこれも
 
-- [video](/word/video/)：動画、映像
-- [picture](/word/picture/)：写真、絵
+- [video](/video)：動画、映像
+- [picture](/picture)：写真、絵
 
-<!-- cvid: aid13_bid40 -->
+<!-- cvid: aid49_bid25 -->

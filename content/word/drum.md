@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、工場や倉庫の場面で「ドラ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、工場や倉庫の場面で「ドラ
 ## 🤔  barrel との違いは？
 
 - **drum**：太鼓やドラム缶など、円筒形でふたのある容器や楽器を指す。
-- **[barrel](/word/barrel/)**：主に木製や金属製の「樽」、液体やワインなどの保存容器を指す。
+- **[barrel](/barrel)**：主に木製や金属製の「樽」、液体やワインなどの保存容器を指す。
 
 drumは楽器や工業用の容器（ドラム缶）に使われ、barrelは酒や油などの貯蔵用の樽に使われます。
 
@@ -106,14 +110,14 @@ drumは楽器や工業用の容器（ドラム缶）に使われ、barrelは酒�
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container/)：容器、入れ物
-- [tank](/word/tank/)：タンク、大型容器
+- [container](/container)：容器、入れ物
+- [tank](/tank)：タンク、大型容器
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box/)：箱
-- [can](/word/can/)：缶
+- [box](/box)：箱
+- [can](/can)：缶
 
-<!-- cvid: aid24_bid16 -->
+<!-- cvid: aid14_bid08 -->

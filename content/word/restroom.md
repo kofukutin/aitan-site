@@ -80,15 +80,19 @@ TOEICでは、道案内や施設の説明、質問応答の場面で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid27_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは、道案内や施設の説明、質問応答の場面で頻出しま
 ## 🤔  bathroom との違いは？
 
 - **restroom**：公共施設などで使われるフォーマルな「トイレ」
-- **[bathroom](/word/bathroom/)**：家庭内やホテルの「浴室」や「トイレ」を指すことが多い
+- **[bathroom](/bathroom)**：家庭内やホテルの「浴室」や「トイレ」を指すことが多い
 
 restroomは公共の場で使う丁寧な表現、bathroomは家庭やホテルなど私的な空間で使われることが多いです。
 
@@ -104,14 +108,14 @@ restroomは公共の場で使う丁寧な表現、bathroomは家庭やホテル�
 
 ## 🧩 あわせて覚えたい
 
-- [toilet](/word/toilet/)：イギリス英語で一般的な「トイレ」
-- [washroom](/word/washroom/)：カナダや一部地域で使われる「トイレ」
+- [toilet](/toilet)：イギリス英語で一般的な「トイレ」
+- [washroom](/washroom)：カナダや一部地域で使われる「トイレ」
 
 ---
 
 ## 📖 できればこれも
 
-- [lobby](/word/lobby/)：ロビー、建物の入口付近の広い空間
-- [elevator](/word/elevator/)：エレベーター、昇降機
+- [lobby](/lobby)：ロビー、建物の入口付近の広い空間
+- [elevator](/elevator)：エレベーター、昇降機
 
-<!-- cvid: aid32_bid36 -->
+<!-- cvid: aid27_bid17 -->

@@ -81,15 +81,19 @@ TOEICでは主に人事や研修、入社手続きに関する長文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に人事や研修、入社手続きに関する長文で見かけ
 ## 🤔  orientation との違いは？
 
 - **induction**：新しい職場や組織に入る際の公式な導入や就任、入社時研修を指す。
-- **[orientation](/word/orientation/)**：新しい環境や制度に慣れるための説明や案内、オリエンテーション。
+- **[orientation](/orientation)**：新しい環境や制度に慣れるための説明や案内、オリエンテーション。
 
 inductionはよりフォーマルで公式な「就任」や「導入」の意味が強く、orientationは「慣れるための説明会」など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ inductionはよりフォーマルで公式な「就任」や「導入」の意�
 
 ## 🧩 あわせて覚えたい
 
-- [initiation](/word/initiation/)：開始、加入式
-- [appointment](/word/appointment/)：任命、指名
+- [initiation](/initiation)：開始、加入式
+- [appointment](/appointment)：任命、指名
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure/)：手順、手続き
-- [introduction](/word/introduction/)：紹介、導入
+- [procedure](/procedure)：手順、手続き
+- [introduction](/introduction)：紹介、導入
 
-<!-- cvid: aid13_bid28 -->
+<!-- cvid: aid43_bid43 -->

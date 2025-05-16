@@ -81,15 +81,19 @@ TOEICでは主にPart 7の広告やメール文で、サービスや商品が「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の広告やメール文で、サービスや商品が「
 ## 🤔  customized との違いは？
 
 - **personalized**：個人の好みや特徴に合わせて特別に調整された
-- **[customized](/word/customized/)**：顧客や用途に合わせて仕様や内容を変更した
+- **[customized](/customized)**：顧客や用途に合わせて仕様や内容を変更した
 
 「personalized」は「個人」に焦点を当てた調整、「customized」は必ずしも個人でなく、用途や要望に合わせた調整を指します。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 7の広告やメール文で、サービスや商品が「
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/word/individual/)：個人の、個々の
-- [generic](/word/generic/)：一般的な、汎用的な
+- [individual](/individual)：個人の、個々の
+- [generic](/generic)：一般的な、汎用的な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [specific](/word/specific/)：特定の、具体的な
+- [efficient](/efficient)：効率的な
+- [specific](/specific)：特定の、具体的な
 
-<!-- cvid: aid02_bid17 -->
+<!-- cvid: aid39_bid32 -->

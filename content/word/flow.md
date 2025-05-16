@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「情報が流れる」「作業がスムーズ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「情報が流れる」「作業がスムーズ
 ## 🤔  stream との違いは？
 
 - **flow**：絶え間なくスムーズに流れること全般に使う
-- **[stream](/word/stream/)**：小川や細い流れ、またはデータの連続的な流れなど限定的な場面で使う
+- **[stream](/stream)**：小川や細い流れ、またはデータの連続的な流れなど限定的な場面で使う
 
 flowは「全体的な流れ」や「進行」に幅広く使えますが、streamは「細い流れ」や「連続データ」など限定的なニュアンスがあります。
 
@@ -105,14 +109,14 @@ flowは「全体的な流れ」や「進行」に幅広く使えますが、stre
 
 ## 🧩 あわせて覚えたい
 
-- [circulate](/word/circulate/)：循環する、回る
-- [block](/word/block/)：せき止める、妨げる
+- [circulate](/circulate)：循環する、回る
+- [block](/block)：せき止める、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move/)：動く、移動する
-- [transfer](/word/transfer/)：移す、転送する
+- [move](/move)：動く、移動する
+- [transfer](/transfer)：移す、転送する
 
-<!-- cvid: aid30_bid12 -->
+<!-- cvid: aid09_bid24 -->

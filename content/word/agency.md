@@ -81,15 +81,19 @@ TOEICでは、求人広告やビジネス文書、案内文などで「agency」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告やビジネス文書、案内文などで「agency」
 ## 🤔  organization との違いは？
 
 - **agency**：特定の業務やサービスを代理で行う会社・機関
-- **[organization](/word/organization/)**：組織全般（会社・団体・機関など広い意味）
+- **[organization](/organization)**：組織全般（会社・団体・機関など広い意味）
 
 agencyは「代理」や「特定の目的を持つ機関」に焦点があり、organizationは「組織」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ agencyは「代理」や「特定の目的を持つ機関」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/word/branch/)：支店、支部
-- [department](/word/department/)：部門、部署
+- [branch](/branch)：支店、支部
+- [department](/department)：部門、部署
 
 ---
 
 ## 📖 できればこれも
 
-- [firm](/word/firm/)：会社、事務所
-- [company](/word/company/)：会社
+- [firm](/firm)：会社、事務所
+- [company](/company)：会社
 
-<!-- cvid: aid48_bid19 -->
+<!-- cvid: aid08_bid03 -->

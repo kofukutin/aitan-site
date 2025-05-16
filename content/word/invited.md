@@ -82,15 +82,19 @@ TOEICでは会議やイベントの案内、招待メールなどの場面でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議やイベントの案内、招待メールなどの場面でよ
 ## 🤔  asked との違いは？
 
 - **invited**：イベントや場所に「招待する」ことを表す
-- **[asked](/word/asked/)**：何かを「頼む」「質問する」ことを表す
+- **[asked](/asked)**：何かを「頼む」「質問する」ことを表す
 
 「invited」は人を何かに呼ぶときに使い、「asked」は依頼や質問のときに使います。
 
@@ -106,14 +110,14 @@ TOEICでは会議やイベントの案内、招待メールなどの場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [welcome](/word/welcome/)：歓迎する
-- [request](/word/request/)：依頼する
+- [welcome](/welcome)：歓迎する
+- [request](/request)：依頼する
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/word/attend/)：出席する
-- [join](/word/join/)：参加する
+- [attend](/attend)：出席する
+- [join](/join)：参加する
 
-<!-- cvid: aid46_bid43 -->
+<!-- cvid: aid00_bid41 -->

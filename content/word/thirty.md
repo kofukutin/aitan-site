@@ -81,15 +81,19 @@ TOEICでは数や年齢、数量を問う場面でよく出題されます。リ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは数や年齢、数量を問う場面でよく出題されます。リ
 ## 🤔  thirteen との違いは？
 
 - **thirty**：30、三十
-- **[thirteen](/word/thirteen/)**：13、十三
+- **[thirteen](/thirteen)**：13、十三
 
 thirtyは「30」、thirteenは「13」と、数字が異なります。発音も語尾が異なるので注意しましょう。
 
@@ -105,14 +109,14 @@ thirtyは「30」、thirteenは「13」と、数字が異なります。発音�
 
 ## 🧩 あわせて覚えたい
 
-- [forty](/word/forty/)：40、四十
-- [twenty](/word/twenty/)：20、二十
+- [forty](/forty)：40、四十
+- [twenty](/twenty)：20、二十
 
 ---
 
 ## 📖 できればこれも
 
-- [hundred](/word/hundred/)：100、百
-- [seventy](/word/seventy/)：70、七十
+- [hundred](/hundred)：100、百
+- [seventy](/seventy)：70、七十
 
-<!-- cvid: aid11_bid32 -->
+<!-- cvid: aid29_bid43 -->

@@ -81,15 +81,19 @@ TOEICでは、物や場所の説明、または比喩的に「表面的な部分
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物や場所の説明、または比喩的に「表面的な部分
 ## 🤔  exterior との違いは？
 
 - **surface**：物体や物質の「外側」や「上側」など、外気や他のものと接する部分全般。
-- **[exterior](/word/exterior/)**：建物や物体の「外観」「外側部分」を強調し、内部と対比する際に使う。
+- **[exterior](/exterior)**：建物や物体の「外観」「外側部分」を強調し、内部と対比する際に使う。
 
 surfaceは「表面」という物理的な部分全般を指し、exteriorは特に「外観」や「外部」を強調したいときに使います。
 
@@ -105,14 +109,14 @@ surfaceは「表面」という物理的な部分全般を指し、exteriorは�
 
 ## 🧩 あわせて覚えたい
 
-- [interior](/word/interior/)：内部、内側
-- [layer](/word/layer/)：層、重なり
+- [interior](/interior)：内部、内側
+- [layer](/layer)：層、重なり
 
 ---
 
 ## 📖 できればこれも
 
-- [edge](/word/edge/)：端、へり
-- [material](/word/material/)：材料、素材
+- [edge](/edge)：端、へり
+- [material](/material)：材料、素材
 
-<!-- cvid: aid27_bid03 -->
+<!-- cvid: aid05_bid29 -->

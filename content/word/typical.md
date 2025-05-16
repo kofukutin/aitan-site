@@ -81,15 +81,19 @@ TOEICでは「typical mistake（よくあるミス）」や「typical situation�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「typical mistake（よくあるミス）」や「typical situation�
 ## 🤔  average との違いは？
 
 - **typical**：その種類や集団に特有の特徴を持つ、典型的な
-- **[average](/word/average/)**：平均的な、標準的な
+- **[average](/average)**：平均的な、標準的な
 
 「typical」は「そのグループらしさ」を強調し、「average」は「数値や水準の真ん中」を指します。
 
@@ -105,14 +109,14 @@ TOEICでは「typical mistake（よくあるミス）」や「typical situation�
 
 ## 🧩 あわせて覚えたい
 
-- [normal](/word/normal/)：普通の、正常な
-- [unusual](/word/unusual/)：珍しい、普通でない
+- [normal](/normal)：普通の、正常な
+- [unusual](/unusual)：珍しい、普通でない
 
 ---
 
 ## 📖 できればこれも
 
-- [ordinary](/word/ordinary/)：平凡な、普通の
-- [standard](/word/standard/)：標準の、基準となる
+- [ordinary](/ordinary)：平凡な、普通の
+- [standard](/standard)：標準の、基準となる
 
-<!-- cvid: aid03_bid14 -->
+<!-- cvid: aid19_bid49 -->

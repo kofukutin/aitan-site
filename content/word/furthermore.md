@@ -77,15 +77,19 @@ TOEICの長文読解パートで、文章の論理展開や追加情報を示す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICの長文読解パートで、文章の論理展開や追加情報を示す
 ## 🤔  moreover との違いは？
 
 - **furthermore**：前述の内容に「さらに」情報を加えるときに使う、ややフォーマルな副詞。
-- **[moreover](/word/moreover/)**：furthermoreよりもさらに強調して「その上」と述べるときに使う、よりフォーマルな副詞。
+- **[moreover](/moreover)**：furthermoreよりもさらに強調して「その上」と述べるときに使う、よりフォーマルな副詞。
 
 furthermoreは追加情報を自然に付け加える際に使い、moreoverはより強い論理的なつながりや重要な追加事項を述べるときに使われます。
 
@@ -101,14 +105,14 @@ furthermoreは追加情報を自然に付け加える際に使い、moreoverは�
 
 ## 🧩 あわせて覚えたい
 
-- [additionally](/word/additionally/)：加えて、その上
-- [however](/word/however/)：しかしながら
+- [additionally](/additionally)：加えて、その上
+- [however](/however)：しかしながら
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore/)：それゆえに
-- [consequently](/word/consequently/)：その結果として
+- [therefore](/therefore)：それゆえに
+- [consequently](/consequently)：その結果として
 
-<!-- cvid: aid46_bid19 -->
+<!-- cvid: aid47_bid09 -->

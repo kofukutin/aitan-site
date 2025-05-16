@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「体」や「本体」を指す語として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「体」や「本体」を指す語として
 ## 🤔  figure との違いは？
 
 - **body**：物理的な「体」や「本体」を指す
-- **[figure](/word/figure/)**：外見や体型、図形・数字など抽象的な「形」を指す
+- **[figure](/figure)**：外見や体型、図形・数字など抽象的な「形」を指す
 
 bodyは実際の体や物の主要部分を表し、figureは見た目や輪郭、または図や数字など抽象的な形を表します。
 
@@ -105,14 +109,14 @@ bodyは実際の体や物の主要部分を表し、figureは見た目や輪郭�
 
 ## 🧩 あわせて覚えたい
 
-- [organ](/word/organ/)：臓器
-- [mind](/word/mind/)：心、精神
+- [organ](/organ)：臓器
+- [mind](/mind)：心、精神
 
 ---
 
 ## 📖 できればこれも
 
-- [brain](/word/brain/)：脳
-- [health](/word/health/)：健康
+- [brain](/brain)：脳
+- [health](/health)：健康
 
-<!-- cvid: aid29_bid23 -->
+<!-- cvid: aid24_bid00 -->

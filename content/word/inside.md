@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写で、物や人の位置関係を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や人の位置関係を説明す
 ## 🤔  within との違いは？
 
 - **inside**：物理的・具体的な「中」にあることを強調
-- **[within](/word/within/)**：範囲や制限の「内側」、抽象的な「中」を強調
+- **[within](/within)**：範囲や制限の「内側」、抽象的な「中」を強調
 
 「inside」は箱や部屋など明確な空間の中に使い、「within」は時間や規則など抽象的な範囲にも使えます。
 
@@ -101,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、物や人の位置関係を説明す
 
 ## 🧩 あわせて覚えたい
 
-- [outside](/word/outside/)：外側、～の外に
-- [among](/word/among/)：～の間で（3つ以上のものの中で）
+- [outside](/outside)：外側、～の外に
+- [among](/among)：～の間で（3つ以上のものの中で）
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between/)：～の間に（2つのものの間）
-- [under](/word/under/)：～の下に
+- [between](/between)：～の間に（2つのものの間）
+- [under](/under)：～の下に
 
-<!-- cvid: aid39_bid01 -->
+<!-- cvid: aid09_bid45 -->

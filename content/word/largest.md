@@ -81,15 +81,19 @@ TOEICでは比較級・最上級の文法問題や、会社・製品の規模を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較級・最上級の文法問題や、会社・製品の規模を
 ## 🤔  biggest との違いは？
 
 - **largest**：サイズや規模が「最も大きい」ことをややフォーマルに表現
-- **[biggest](/word/biggest/)**：カジュアルに「一番大きい」「最大の」を表現
+- **[biggest](/biggest)**：カジュアルに「一番大きい」「最大の」を表現
 
 「largest」はビジネスや公式な場面でよく使われ、「biggest」は日常会話やくだけた表現で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは比較級・最上級の文法問題や、会社・製品の規模を
 
 ## 🧩 あわせて覚えたい
 
-- [smallest](/word/smallest/)：最も小さい
-- [major](/word/major/)：主要な、重要な
+- [smallest](/smallest)：最も小さい
+- [major](/major)：主要な、重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [longest](/word/longest/)：最も長い
-- [highest](/word/highest/)：最も高い
+- [longest](/longest)：最も長い
+- [highest](/highest)：最も高い
 
-<!-- cvid: aid31_bid29 -->
+<!-- cvid: aid29_bid00 -->

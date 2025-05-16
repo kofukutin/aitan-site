@@ -81,15 +81,19 @@ TOEICでは映画やイベントの「上映」や、ビジネスでの「成果
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは映画やイベントの「上映」や、ビジネスでの「成果
 ## 🤔  screening との違いは？
 
 - **showing**：映画や作品の「上映」「展示」や、成果・成績の「見せ方」を幅広く指す
-- **[screening](/word/screening/)**：特に映画や映像作品の「上映」「試写」を指す
+- **[screening](/screening)**：特に映画や映像作品の「上映」「試写」を指す
 
 「showing」は展示や成果発表など幅広い「見せる場面」に使えますが、「screening」は映画や映像の上映に限定されることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは映画やイベントの「上映」や、ビジネスでの「成果
 
 ## 🧩 あわせて覚えたい
 
-- [presentation](/word/presentation/)：発表、プレゼンテーション
-- [demonstration](/word/demonstration/)：実演、デモ
+- [presentation](/presentation)：発表、プレゼンテーション
+- [demonstration](/demonstration)：実演、デモ
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/word/display/)：展示、陳列
-- [exhibition](/word/exhibition/)：展示会、展覧会
+- [display](/display)：展示、陳列
+- [exhibition](/exhibition)：展示会、展覧会
 
-<!-- cvid: aid08_bid28 -->
+<!-- cvid: aid34_bid23 -->

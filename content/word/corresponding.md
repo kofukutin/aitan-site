@@ -89,8 +89,12 @@ TOEICでは主にビジネス文書や報告書、メールなどの長文で「
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にビジネス文書や報告書、メールなどの長文で「
 ## 🤔  equivalent との違いは？
 
 - **corresponding**：何かと対応・一致していることを強調
-- **[equivalent](/word/equivalent/)**：価値や量などが「等しい」「同等である」ことを強調
+- **[equivalent](/equivalent)**：価値や量などが「等しい」「同等である」ことを強調
 
 「corresponding」は「対応関係」に、「equivalent」は「等価性」に重点があります。たとえば、表の「対応する列」はcorresponding column、「同等の価値」はequivalent valueと使い分けます。
 
@@ -106,14 +110,14 @@ TOEICでは主にビジネス文書や報告書、メールなどの長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [relevant](/word/relevant/)：関連する
-- [matching](/word/matching/)：ぴったり合う、調和する
+- [relevant](/relevant)：関連する
+- [matching](/matching)：ぴったり合う、調和する
 
 ---
 
 ## 📖 できればこれも
 
-- [subsequent](/word/subsequent/)：その後の、次の
-- [associated](/word/associated/)：関連した
+- [subsequent](/subsequent)：その後の、次の
+- [associated](/associated)：関連した
 
-<!-- cvid: aid28_bid43 -->
+<!-- cvid: aid28_bid01 -->

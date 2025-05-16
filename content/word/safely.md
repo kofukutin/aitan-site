@@ -83,15 +83,19 @@ TOEICでは、移動や作業の安全性に関する会話や説明文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、移動や作業の安全性に関する会話や説明文でよく
 ## 🤔  securely との違いは？
 
 - **safely**：危険を避けて「安全に」「無事に」
-- **[securely](/word/securely/)**：しっかり固定して「確実に」「厳重に」
+- **[securely](/securely)**：しっかり固定して「確実に」「厳重に」
 
 safelyは事故や危険を避けるニュアンス、securelyは物理的・技術的に「しっかり守る」ニュアンスです。
 
@@ -107,14 +111,14 @@ safelyは事故や危険を避けるニュアンス、securelyは物理的・技
 
 ## 🧩 あわせて覚えたい
 
-- [carefully](/word/carefully/)：注意深く
-- [dangerously](/word/dangerously/)：危険に
+- [carefully](/carefully)：注意深く
+- [dangerously](/dangerously)：危険に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [easily](/word/easily/)：簡単に
+- [quickly](/quickly)：速く
+- [easily](/easily)：簡単に
 
-<!-- cvid: aid42_bid40 -->
+<!-- cvid: aid45_bid37 -->

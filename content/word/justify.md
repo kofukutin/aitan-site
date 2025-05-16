@@ -81,15 +81,19 @@ TOEICでは「正当化する」「理由を説明する」といった文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「正当化する」「理由を説明する」といった文脈で
 ## 🤔  excuse との違いは？
 
 - **justify**：自分の行動や判断が「正しい」と論理的に説明・証明する
-- **[excuse](/word/excuse/)**：自分の過ちや失敗を「許してもらうため」に理由を述べる
+- **[excuse](/excuse)**：自分の過ちや失敗を「許してもらうため」に理由を述べる
 
 justifyは「正当性の主張」、excuseは「言い訳・弁解」として使い分けます。
 
@@ -105,14 +109,14 @@ justifyは「正当性の主張」、excuseは「言い訳・弁解」として�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend/)：（批判などから）守る、弁護する
-- [validate](/word/validate/)：有効性を確認する、正当性を認める
+- [defend](/defend)：（批判などから）守る、弁護する
+- [validate](/validate)：有効性を確認する、正当性を認める
 
 ---
 
 ## 📖 できればこれも
 
-- [prove](/word/prove/)：証明する
-- [explain](/word/explain/)：説明する
+- [prove](/prove)：証明する
+- [explain](/explain)：説明する
 
-<!-- cvid: aid26_bid28 -->
+<!-- cvid: aid05_bid16 -->

@@ -80,15 +80,19 @@ TOEICでは否定文や疑問文の副詞として、空欄補充問題で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは否定文や疑問文の副詞として、空欄補充問題で頻出
 ## 🤔  still との違いは？
 
 - **yet**：主に否定文や疑問文で「まだ」「これから」を表す。
-- **[still](/word/still/)**：肯定文・否定文どちらでも使え、「今もなお」「依然として」を表す。
+- **[still](/still)**：肯定文・否定文どちらでも使え、「今もなお」「依然として」を表す。
 
 yetは「未完了」や「これから起こること」に焦点を当て、stillは「継続中」であることを強調します。
 
@@ -104,14 +108,14 @@ yetは「未完了」や「これから起こること」に焦点を当て、st
 
 ## 🧩 あわせて覚えたい
 
-- [already](/word/already/)：すでに
-- [even](/word/even/)：～でさえ
+- [already](/already)：すでに
+- [even](/even)：～でさえ
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon/)：まもなく
-- [just](/word/just/)：ちょうど、たった今
+- [soon](/soon)：まもなく
+- [just](/just)：ちょうど、たった今
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid48_bid41 -->

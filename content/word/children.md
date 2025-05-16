@@ -81,15 +81,19 @@ TOEICでは、教育や家族、イベントなどの話題で「children」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid28_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、教育や家族、イベントなどの話題で「children」が�
 ## 🤔  child との違いは？
 
 - **children**：2人以上の子どもたちを指す複数形
-- **[child](/word/child/)**：1人の子どもを指す単数形
+- **[child](/child)**：1人の子どもを指す単数形
 
 「children」は複数、「child」は単数で使い分けます。人数によって正しく選びましょう。
 
@@ -105,14 +109,14 @@ TOEICでは、教育や家族、イベントなどの話題で「children」が�
 
 ## 🧩 あわせて覚えたい
 
-- [adult](/word/adult/)：大人
-- [student](/word/student/)：生徒、学生
+- [adult](/adult)：大人
+- [student](/student)：生徒、学生
 
 ---
 
 ## 📖 できればこれも
 
-- [parent](/word/parent/)：親
-- [family](/word/family/)：家族
+- [parent](/parent)：親
+- [family](/family)：家族
 
-<!-- cvid: aid34_bid41 -->
+<!-- cvid: aid28_bid47 -->

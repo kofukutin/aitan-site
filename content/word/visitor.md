@@ -81,15 +81,19 @@ TOEICでは会社や施設への来訪者、観光地の訪問者などの文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社や施設への来訪者、観光地の訪問者などの文脈
 ## 🤔  guest との違いは？
 
 - **visitor**：一時的に訪れる人全般を指し、ビジネスや観光など幅広い場面で使う。
-- **[guest](/word/guest/)**：もてなされる人、招待された人というニュアンスが強い。
+- **[guest](/guest)**：もてなされる人、招待された人というニュアンスが強い。
 
 visitorは単に「来た人」を指し、guestは「歓迎される人」「招待客」として使い分けます。
 
@@ -105,14 +109,14 @@ visitorは単に「来た人」を指し、guestは「歓迎される人」「�
 
 ## 🧩 あわせて覚えたい
 
-- [customer](/word/customer/)：顧客、買い物客
-- [client](/word/client/)：依頼人、取引先
+- [customer](/customer)：顧客、買い物客
+- [client](/client)：依頼人、取引先
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [participant](/word/participant/)：参加者
+- [employee](/employee)：従業員
+- [participant](/participant)：参加者
 
-<!-- cvid: aid04_bid30 -->
+<!-- cvid: aid20_bid21 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書や教育・医療関連の長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書や教育・医療関連の長文で
 ## 🤔  certification との違いは？
 
 - **accreditation**：組織やプログラム全体が基準を満たしていると公式に認められること
-- **[certification](/word/certification/)**：個人や製品などが特定の基準や資格を満たしていると証明されること
+- **[certification](/certification)**：個人や製品などが特定の基準や資格を満たしていると証明されること
 
 accreditationは団体や制度全体の「認定」、certificationは個人や物の「資格・証明」に使い分けます。
 
@@ -105,14 +109,14 @@ accreditationは団体や制度全体の「認定」、certificationは個人や
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/word/authorization/)：許可、認可
-- [approval](/word/approval/)：承認、許可
+- [authorization](/authorization)：許可、認可
+- [approval](/approval)：承認、許可
 
 ---
 
 ## 📖 できればこれも
 
-- [credential](/word/credential/)：資格、証明書
-- [endorsement](/word/endorsement/)：（公式な）承認、支持
+- [credential](/credential)：資格、証明書
+- [endorsement](/endorsement)：（公式な）承認、支持
 
-<!-- cvid: aid43_bid08 -->
+<!-- cvid: aid01_bid39 -->

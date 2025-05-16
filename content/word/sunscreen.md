@@ -81,15 +81,19 @@ TOEICでは主に屋外シーンの写真描写や、旅行・観光に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に屋外シーンの写真描写や、旅行・観光に関する
 ## 🤔  sunblock との違いは？
 
 - **sunscreen**：紫外線を防ぐためのクリームやローション全般。UVカット効果は幅広い。
-- **[sunblock](/word/sunblock/)**：より強力に紫外線を「遮断」するタイプ。物理的に肌を覆うイメージ。
+- **[sunblock](/sunblock)**：より強力に紫外線を「遮断」するタイプ。物理的に肌を覆うイメージ。
 
 sunscreenは一般的な日焼け止め全般を指し、sunblockは特に強力な遮断効果を持つ製品を指します。
 
@@ -105,14 +109,14 @@ sunscreenは一般的な日焼け止め全般を指し、sunblockは特に強力
 
 ## 🧩 あわせて覚えたい
 
-- [lotion](/word/lotion/)：ローション、化粧水
-- [shade](/word/shade/)：日陰、影
+- [lotion](/lotion)：ローション、化粧水
+- [shade](/shade)：日陰、影
 
 ---
 
 ## 📖 できればこれも
 
-- [umbrella](/word/umbrella/)：傘
-- [towel](/word/towel/)：タオル
+- [umbrella](/umbrella)：傘
+- [towel](/towel)：タオル
 
-<!-- cvid: aid07_bid46 -->
+<!-- cvid: aid14_bid18 -->

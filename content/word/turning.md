@@ -81,15 +81,19 @@ TOEICでは道案内やビジネスの転換点を説明する場面で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは道案内やビジネスの転換点を説明する場面で出題さ
 ## 🤔  change との違いは？
 
 - **turning**：物理的な曲がり角や、出来事の転換点を指す。
-- **[change](/word/change/)**：一般的な「変化」や「変更」を幅広く指す。
+- **[change](/change)**：一般的な「変化」や「変更」を幅広く指す。
 
 turningは「方向転換」や「重要な分岐点」に焦点があり、changeは「状態や内容が変わること」全般に使います。
 
@@ -105,14 +109,14 @@ turningは「方向転換」や「重要な分岐点」に焦点があり、chan
 
 ## 🧩 あわせて覚えたい
 
-- [corner](/word/corner/)：角、曲がり角
-- [transition](/word/transition/)：移行、推移
+- [corner](/corner)：角、曲がり角
+- [transition](/transition)：移行、推移
 
 ---
 
 ## 📖 できればこれも
 
-- [direction](/word/direction/)：方向
-- [shift](/word/shift/)：移動、変化
+- [direction](/direction)：方向
+- [shift](/shift)：移動、変化
 
-<!-- cvid: aid20_bid34 -->
+<!-- cvid: aid03_bid15 -->

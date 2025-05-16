@@ -81,15 +81,19 @@ executiveはTOEICのビジネス文書やEメール、会議記録などで頻�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ executiveはTOEICのビジネス文書やEメール、会議記録などで頻�
 ## 🤔  manager との違いは？
 
 - **executive**：企業や組織の上層部にいる重役・経営幹部を指す
-- **[manager](/word/manager/)**：部門やチームの管理職で、現場の運営や人の管理を主に担当する
+- **[manager](/manager)**：部門やチームの管理職で、現場の運営や人の管理を主に担当する
 
 executiveは会社全体の方針決定など大きな責任を持つ役職、managerは現場の管理や運営を担う役職という違いがあります。
 
@@ -105,14 +109,14 @@ executiveは会社全体の方針決定など大きな責任を持つ役職、ma
 
 ## 🧩 あわせて覚えたい
 
-- [officer](/word/officer/)：役員、幹部
-- [director](/word/director/)：取締役、部長
+- [officer](/officer)：役員、幹部
+- [director](/director)：取締役、部長
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会
-- [supervisor](/word/supervisor/)：監督者、指導者
+- [committee](/committee)：委員会
+- [supervisor](/supervisor)：監督者、指導者
 
-<!-- cvid: aid28_bid30 -->
+<!-- cvid: aid01_bid32 -->

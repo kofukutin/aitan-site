@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、食材や料理の説明として登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid39_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、食材や料理の説明として登
 ## 🤔  vegetable との違いは？
 
 - **tomato**：特定の野菜（トマト）を指す
-- **[vegetable](/word/vegetable/)**：野菜全般を指す総称
+- **[vegetable](/vegetable)**：野菜全般を指す総称
 
 tomatoは具体的な食材名、vegetableは広い意味で野菜全体を指します。サラダの材料を細かく言うときはtomato、全体をまとめて言うときはvegetableを使います。
 
@@ -105,14 +109,14 @@ tomatoは具体的な食材名、vegetableは広い意味で野菜全体を指�
 
 ## 🧩 あわせて覚えたい
 
-- [fruit](/word/fruit/)：果物
-- [potato](/word/potato/)：じゃがいも
+- [fruit](/fruit)：果物
+- [potato](/potato)：じゃがいも
 
 ---
 
 ## 📖 できればこれも
 
-- [cucumber](/word/cucumber/)：きゅうり
-- [salad](/word/salad/)：サラダ
+- [cucumber](/cucumber)：きゅうり
+- [salad](/salad)：サラダ
 
-<!-- cvid: aid15_bid44 -->
+<!-- cvid: aid39_bid46 -->

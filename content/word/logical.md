@@ -81,15 +81,19 @@ TOEICでは、説明や理由付け、議論の流れを問う文脈で「logica
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明や理由付け、議論の流れを問う文脈で「logica
 ## 🤔  rational との違いは？
 
 - **logical**：論理的で筋道が通っていることを強調
-- **[rational](/word/rational/)**：合理的で感情に流されず理性に基づくことを強調
+- **[rational](/rational)**：合理的で感情に流されず理性に基づくことを強調
 
 「logical」は理屈や論理の流れに沿っていること、「rational」は感情ではなく理性や合理性を重視する点が違います。
 
@@ -105,14 +109,14 @@ TOEICでは、説明や理由付け、議論の流れを問う文脈で「logica
 
 ## 🧩 あわせて覚えたい
 
-- [illogical](/word/illogical/)：非論理的な
-- [analytical](/word/analytical/)：分析的な
+- [illogical](/illogical)：非論理的な
+- [analytical](/analytical)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [reasonable](/word/reasonable/)：妥当な、合理的な
-- [systematic](/word/systematic/)：体系的な
+- [reasonable](/reasonable)：妥当な、合理的な
+- [systematic](/systematic)：体系的な
 
-<!-- cvid: aid06_bid49 -->
+<!-- cvid: aid37_bid15 -->

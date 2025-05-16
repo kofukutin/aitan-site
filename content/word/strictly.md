@@ -82,15 +82,19 @@ strictlyは、規則や手順、条件を強調する文脈でPart 5の語彙・
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ strictlyは、規則や手順、条件を強調する文脈でPart 5の語彙・
 ## 🤔  severely との違いは？
 
 - **strictly**：規則や基準を「厳格に」「厳密に」守ることを強調する。
-- **[severely](/word/severely/)**：状況や行動が「厳しく」「容赦なく」行われることを強調する。
+- **[severely](/severely)**：状況や行動が「厳しく」「容赦なく」行われることを強調する。
 
 strictlyはルールや手順の「厳格さ」に焦点があり、severelyは「厳しさ」や「容赦のなさ」に重点があります。
 
@@ -106,14 +110,14 @@ strictlyはルールや手順の「厳格さ」に焦点があり、severelyは�
 
 ## 🧩 あわせて覚えたい
 
-- [firmly](/word/firmly/)：しっかりと、断固として
-- [precisely](/word/precisely/)：正確に、ちょうど
+- [firmly](/firmly)：しっかりと、断固として
+- [precisely](/precisely)：正確に、ちょうど
 
 ---
 
 ## 📖 できればこれも
 
-- [closely](/word/closely/)：注意深く、密接に
-- [seriously](/word/seriously/)：真剣に、本気で
+- [closely](/closely)：注意深く、密接に
+- [seriously](/seriously)：真剣に、本気で
 
-<!-- cvid: aid34_bid34 -->
+<!-- cvid: aid37_bid26 -->

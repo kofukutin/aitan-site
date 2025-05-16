@@ -81,15 +81,19 @@ TOEICでは医療や健康に関する長文や案内文で登場しやすい単
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康に関する長文や案内文で登場しやすい単
 ## 🤔  recipe との違いは？
 
 - **prescription**：医師が出す「処方箋」や「処方」という意味で、医療現場で使われるフォーマルな単語。
-- **[recipe](/word/recipe/)**：料理や飲み物の「レシピ」「作り方」という意味で、日常的・カジュアルな場面で使われます。
+- **[recipe](/recipe)**：料理や飲み物の「レシピ」「作り方」という意味で、日常的・カジュアルな場面で使われます。
 
 prescriptionは医療の指示、recipeは料理の手順と、使う場面がまったく異なります。
 
@@ -105,14 +109,14 @@ prescriptionは医療の指示、recipeは料理の手順と、使う場面が�
 
 ## 🧩 あわせて覚えたい
 
-- [medication](/word/medication/)：薬、投薬
-- [diagnosis](/word/diagnosis/)：診断
+- [medication](/medication)：薬、投薬
+- [diagnosis](/diagnosis)：診断
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment/)：予約、診察の予約
-- [treatment](/word/treatment/)：治療
+- [appointment](/appointment)：予約、診察の予約
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid26_bid30 -->
+<!-- cvid: aid45_bid25 -->

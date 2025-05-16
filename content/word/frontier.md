@@ -81,15 +81,19 @@ frontierはTOEICの長文読解や説明文で、比喩的に「最先端分野�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ frontierはTOEICの長文読解や説明文で、比喩的に「最先端分野�
 ## 🤔  border との違いは？
 
 - **frontier**：国境や未開拓分野、最先端という抽象的な意味も持つ
-- **[border](/word/border/)**：物理的な境界線や国境を指す
+- **[border](/border)**：物理的な境界線や国境を指す
 
 frontierは「新しい挑戦の場」や「最先端」の意味で使われることが多く、borderは単に「線」や「境界」を表します。
 
@@ -105,14 +109,14 @@ frontierは「新しい挑戦の場」や「最先端」の意味で使われる
 
 ## 🧩 あわせて覚えたい
 
-- [boundary](/word/boundary/)：境界、限界
-- [limit](/word/limit/)：限界、制限
+- [boundary](/boundary)：境界、限界
+- [limit](/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [territory](/word/territory/)：領土、領域
-- [region](/word/region/)：地域、地方
+- [territory](/territory)：領土、領域
+- [region](/region)：地域、地方
 
-<!-- cvid: aid36_bid06 -->
+<!-- cvid: aid17_bid21 -->

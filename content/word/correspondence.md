@@ -82,15 +82,19 @@ TOEICでは主にビジネス文書やメールのやりとりに関する設問
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にビジネス文書やメールのやりとりに関する設問
 ## 🤔  communication との違いは？
 
 - **correspondence**：主に手紙やメールなどの「文書によるやりとり」や「一致・対応」を指すフォーマルな表現
-- **[communication](/word/communication/)**：情報や気持ちの「伝達・意思疎通」全般を指し、口頭・文書・非言語も含む幅広い意味
+- **[communication](/communication)**：情報や気持ちの「伝達・意思疎通」全般を指し、口頭・文書・非言語も含む幅広い意味
 
 correspondenceは書面やメールなどのやりとりに限定されることが多いですが、communicationは話す・書く・ジェスチャーなど広い範囲で使われます。
 
@@ -106,14 +110,14 @@ correspondenceは書面やメールなどのやりとりに限定されること
 
 ## 🧩 あわせて覚えたい
 
-- [letter](/word/letter/)：手紙
-- [memo](/word/memo/)：メモ、社内文書
+- [letter](/letter)：手紙
+- [memo](/memo)：メモ、社内文書
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [inquiry](/word/inquiry/)：問い合わせ
+- [document](/document)：文書、書類
+- [inquiry](/inquiry)：問い合わせ
 
-<!-- cvid: aid44_bid17 -->
+<!-- cvid: aid48_bid26 -->

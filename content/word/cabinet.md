@@ -81,15 +81,19 @@ cabinetはオフィスや会議室の備品、または組織構成に関する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ cabinetはオフィスや会議室の備品、または組織構成に関する�
 ## 🤔  cupboard との違いは？
 
 - **cabinet**：主にオフィスやキッチンなどで使う収納家具や、政府の閣僚を指す。
-- **[cupboard](/word/cupboard/)**：家庭のキッチンや食器棚など、日常的な収納棚を指す。
+- **[cupboard](/cupboard)**：家庭のキッチンや食器棚など、日常的な収納棚を指す。
 
 cabinetはフォーマルな場やオフィスで使われることが多く、cupboardは家庭的でカジュアルな収納棚に使われます。
 
@@ -105,14 +109,14 @@ cabinetはフォーマルな場やオフィスで使われることが多く、c
 
 ## 🧩 あわせて覚えたい
 
-- [drawer](/word/drawer/)：引き出し
-- [committee](/word/committee/)：委員会
+- [drawer](/drawer)：引き出し
+- [committee](/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [desk](/word/desk/)：机
-- [shelf](/word/shelf/)：棚
+- [desk](/desk)：机
+- [shelf](/shelf)：棚
 
-<!-- cvid: aid25_bid47 -->
+<!-- cvid: aid06_bid09 -->

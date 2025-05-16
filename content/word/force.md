@@ -82,15 +82,19 @@ TOEICでは「come into force（施行される）」や「force someone to do�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「come into force（施行される）」や「force someone to do�
 ## 🤔  compel との違いは？
 
 - **force**：物理的・精神的な「力」や「強制力」を表す。  
-- **[compel](/word/compel/)**：主に「道徳的・法的な理由でやむを得ず～させる」というニュアンス。
+- **[compel](/compel)**：主に「道徳的・法的な理由でやむを得ず～させる」というニュアンス。
 
 forceは直接的な力や圧力で何かをさせる場合に使い、compelは内面的・外的な事情で「やむを得ず」行動させる時に使います。
 
@@ -106,14 +110,14 @@ forceは直接的な力や圧力で何かをさせる場合に使い、compelは
 
 ## 🧩 あわせて覚えたい
 
-- [power](/word/power/)：権力、能力
-- [pressure](/word/pressure/)：圧力、プレッシャー
+- [power](/power)：権力、能力
+- [pressure](/pressure)：圧力、プレッシャー
 
 ---
 
 ## 📖 できればこれも
 
-- [effect](/word/effect/)：効果、影響
-- [impact](/word/impact/)：衝撃、影響
+- [effect](/effect)：効果、影響
+- [impact](/impact)：衝撃、影響
 
-<!-- cvid: aid34_bid39 -->
+<!-- cvid: aid05_bid42 -->

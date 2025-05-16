@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「2番目」「秒」の意味でよく登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「2番目」「秒」の意味でよく登場�
 ## 🤔  another との違いは？
 
 - **second**：順序や時間の「2番目」「秒」を表す。
-- **[another](/word/another/)**：もう一つ、別のものを表す。
+- **[another](/another)**：もう一つ、別のものを表す。
 
 **second**は順序や時間の明確な「2番目」に使い、**another**は「追加の1つ」や「別のもの」という意味で使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「2番目」「秒」の意味でよく登場�
 
 ## 🧩 あわせて覚えたい
 
-- [minute](/word/minute/)：分（時間の単位）
-- [moment](/word/moment/)：瞬間
+- [minute](/minute)：分（時間の単位）
+- [moment](/moment)：瞬間
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/word/first/)：1番目
-- [third](/word/third/)：3番目
+- [first](/first)：1番目
+- [third](/third)：3番目
 
-<!-- cvid: aid14_bid42 -->
+<!-- cvid: aid30_bid24 -->

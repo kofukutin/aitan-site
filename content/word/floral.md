@@ -81,15 +81,19 @@ TOEICでは、ホテルやイベントの説明文、広告などで「floral de
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ホテルやイベントの説明文、広告などで「floral de
 ## 🤔  flowery との違いは？
 
 - **floral**：花に関する、花柄の（客観的・フォーマル）
-- **[flowery](/word/flowery/)**：花のような、花で飾られた（やや感覚的・比喩的）
+- **[flowery](/flowery)**：花のような、花で飾られた（やや感覚的・比喩的）
 
 **floral**はデザインや香りなど「花に関する」ことを客観的に表現しますが、**flowery**は「花のような」「花で飾られた」といった感覚的・比喩的なニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICでは、ホテルやイベントの説明文、広告などで「floral de
 
 ## 🧩 あわせて覚えたい
 
-- [botanical](/word/botanical/)：植物の、植物に関する
-- [fragrant](/word/fragrant/)：良い香りの、芳香の
+- [botanical](/botanical)：植物の、植物に関する
+- [fragrant](/fragrant)：良い香りの、芳香の
 
 ---
 
 ## 📖 できればこれも
 
-- [leafy](/word/leafy/)：葉の多い、葉に覆われた
-- [petal](/word/petal/)：花びら
+- [leafy](/leafy)：葉の多い、葉に覆われた
+- [petal](/petal)：花びら
 
-<!-- cvid: aid45_bid09 -->
+<!-- cvid: aid11_bid05 -->

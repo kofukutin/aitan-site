@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「指輪」や「輪」の形状を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「指輪」や「輪」の形状を説
 ## 🤔  circle との違いは？
 
 - **ring**：物理的な「輪」や「指輪」など、実体のある円形のものを指す。
-- **[circle](/word/circle/)**：数学的・抽象的な「円」や「円形」を指す。
+- **[circle](/circle)**：数学的・抽象的な「円」や「円形」を指す。
 
 ringは「指輪」や「輪」のように実際に存在するものに使い、circleは図形や形状など抽象的な「円」に使います。
 
@@ -105,14 +109,14 @@ ringは「指輪」や「輪」のように実際に存在するものに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [bell](/word/bell/)：ベル、鈴
-- [band](/word/band/)：帯、バンド
+- [bell](/bell)：ベル、鈴
+- [band](/band)：帯、バンド
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line/)：線
-- [shape](/word/shape/)：形、形状
+- [line](/line)：線
+- [shape](/shape)：形、形状
 
-<!-- cvid: aid29_bid16 -->
+<!-- cvid: aid12_bid04 -->

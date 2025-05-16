@@ -88,8 +88,12 @@ TOEICでは主にPart 6の長文穴埋めや、IT・ビジネス関連の文脈�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 6の長文穴埋めや、IT・ビジネス関連の文脈�
 ## 🤔  planning との違いは？
 
 - **designing**：具体的な形や機能を考えて設計・デザインすること
-- **[planning](/word/planning/)**：全体の計画や段取りを立てること
+- **[planning](/planning)**：全体の計画や段取りを立てること
 
 designingは「どう作るか」「どんな形にするか」に重点があり、planningは「何をいつどう進めるか」といった全体の流れや準備に重点があります。
 
@@ -105,14 +109,14 @@ designingは「どう作るか」「どんな形にするか」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [draft](/word/draft/)：下書き、草案
-- [creation](/word/creation/)：創造、作成
+- [draft](/draft)：下書き、草案
+- [creation](/creation)：創造、作成
 
 ---
 
 ## 📖 できればこれも
 
-- [development](/word/development/)：開発、発展
-- [arrangement](/word/arrangement/)：手配、準備
+- [development](/development)：開発、発展
+- [arrangement](/arrangement)：手配、準備
 
-<!-- cvid: aid27_bid39 -->
+<!-- cvid: aid27_bid32 -->

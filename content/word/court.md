@@ -81,15 +81,19 @@ TOEICでは主に法務やビジネス関連の長文で「裁判所」「法廷
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に法務やビジネス関連の長文で「裁判所」「法廷
 ## 🤔  trial との違いは？
 
 - **court**：裁判が行われる場所や機関を指す
-- **[trial](/word/trial/)**：裁判という「手続き」や「審理そのもの」を指す
+- **[trial](/trial)**：裁判という「手続き」や「審理そのもの」を指す
 
 courtは「場所・組織」、trialは「行為・過程」を表す点が異なります。
 
@@ -105,14 +109,14 @@ courtは「場所・組織」、trialは「行為・過程」を表す点が異�
 
 ## 🧩 あわせて覚えたい
 
-- [judge](/word/judge/)：裁判官
-- [jury](/word/jury/)：陪審員
+- [judge](/judge)：裁判官
+- [jury](/jury)：陪審員
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case/)：事件、訴訟
-- [law](/word/law/)：法律
+- [case](/case)：事件、訴訟
+- [law](/law)：法律
 
-<!-- cvid: aid25_bid23 -->
+<!-- cvid: aid10_bid34 -->

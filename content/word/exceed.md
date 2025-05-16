@@ -81,15 +81,19 @@ TOEICでは「exceed expectations（期待を超える）」や「exceed the lim
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「exceed expectations（期待を超える）」や「exceed the lim
 ## 🤔  surpass との違いは？
 
 - **exceed**：数量や基準・限度を「超える」「上回る」ときに使う、フォーマルな表現。
-- **[surpass](/word/surpass/)**：能力や成績、期待などを「しのぐ」「上回る」ときに使い、やや感情的・賞賛のニュアンスが強い。
+- **[surpass](/surpass)**：能力や成績、期待などを「しのぐ」「上回る」ときに使い、やや感情的・賞賛のニュアンスが強い。
 
 exceedは客観的な数値や基準を超える場合、surpassは主観的な評価や期待をしのぐ場合に使い分けます。
 
@@ -105,14 +109,14 @@ exceedは客観的な数値や基準を超える場合、surpassは主観的な�
 
 ## 🧩 あわせて覚えたい
 
-- [overcome](/word/overcome/)：克服する
-- [limit](/word/limit/)：限界、制限
+- [overcome](/overcome)：克服する
+- [limit](/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [increase](/word/increase/)：増加する
+- [achieve](/achieve)：達成する
+- [increase](/increase)：増加する
 
-<!-- cvid: aid40_bid34 -->
+<!-- cvid: aid36_bid40 -->

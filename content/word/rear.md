@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、建物や車などの「後部」を説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、建物や車などの「後部」を説
 ## 🤔  back との違いは？
 
 - **rear**：物や場所の「後部」「背面」を指すフォーマルな表現
-- **[back](/word/back/)**：日常的に使われる「後ろ」「背中」など幅広い意味
+- **[back](/back)**：日常的に使われる「後ろ」「背中」など幅広い意味
 
 「rear」はフォーマルで限定的な場面（建物や車の後部など）で使われ、「back」はよりカジュアルで幅広い対象に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主に写真描写問題で、建物や車などの「後部」を説
 
 ## 🧩 あわせて覚えたい
 
-- [front](/word/front/)：前部、正面
-- [behind](/word/behind/)：～の後ろに
+- [front](/front)：前部、正面
+- [behind](/behind)：～の後ろに
 
 ---
 
 ## 📖 できればこれも
 
-- [side](/word/side/)：側面
-- [edge](/word/edge/)：端、へり
+- [side](/side)：側面
+- [edge](/edge)：端、へり
 
-<!-- cvid: aid12_bid35 -->
+<!-- cvid: aid17_bid03 -->

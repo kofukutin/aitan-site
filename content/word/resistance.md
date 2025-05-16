@@ -81,15 +81,19 @@ TOEICでは、ビジネスの変化や新しい方針への「抵抗」や、製
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスの変化や新しい方針への「抵抗」や、製
 ## 🤔  opposition との違いは？
 
 - **resistance**：物理的・精神的な「抵抗」や「耐性」を表し、受け入れずに立ち向かうニュアンスが強い。
-- **[opposition](/word/opposition/)**：意見や立場の「反対」「対立」を意味し、組織や集団の対立にも使われる。
+- **[opposition](/opposition)**：意見や立場の「反対」「対立」を意味し、組織や集団の対立にも使われる。
 
 resistanceは「力や変化に対して粘り強く立ち向かう」イメージ、oppositionは「意見や立場の違いによる対立」を表します。
 
@@ -105,14 +109,14 @@ resistanceは「力や変化に対して粘り強く立ち向かう」イメー�
 
 ## 🧩 あわせて覚えたい
 
-- [obstacle](/word/obstacle/)：障害、妨げ
-- [acceptance](/word/acceptance/)：受け入れ、承認
+- [obstacle](/obstacle)：障害、妨げ
+- [acceptance](/acceptance)：受け入れ、承認
 
 ---
 
 ## 📖 できればこれも
 
-- [pressure](/word/pressure/)：圧力、プレッシャー
-- [barrier](/word/barrier/)：障壁、バリア
+- [pressure](/pressure)：圧力、プレッシャー
+- [barrier](/barrier)：障壁、バリア
 
-<!-- cvid: aid16_bid44 -->
+<!-- cvid: aid36_bid11 -->

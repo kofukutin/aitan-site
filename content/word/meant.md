@@ -81,15 +81,19 @@ meantは会話や説明文で「意図」や「意味」を表す際によく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ meantは会話や説明文で「意図」や「意味」を表す際によく登
 ## 🤔  intended との違いは？
 
 - **meant**：意図した、意味した（meanの過去形・過去分詞）
-- **[intended](/word/intended/)**：意図した、計画した（よりフォーマルで計画性が強い）
+- **[intended](/intended)**：意図した、計画した（よりフォーマルで計画性が強い）
 
 meantは日常的な「意図」や「意味」を表し、intendedはより計画的・フォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ meantは日常的な「意図」や「意味」を表し、intendedはより計�
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/word/imply/)：暗に示す
-- [indicate](/word/indicate/)：指し示す、示す
+- [imply](/imply)：暗に示す
+- [indicate](/indicate)：指し示す、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [mean](/word/mean/)：意味する、意図する
-- [refer](/word/refer/)：言及する、参照する
+- [mean](/mean)：意味する、意図する
+- [refer](/refer)：言及する、参照する
 
-<!-- cvid: aid09_bid15 -->
+<!-- cvid: aid00_bid12 -->

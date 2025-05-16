@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメールの中で、「計画やシス�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメールの中で、「計画やシス�
 ## 🤔  executing との違いは？
 
 - **implementing**：計画や仕組みを具体的に導入・実施すること
-- **[executing](/word/executing/)**：計画や命令を実際に遂行・実行すること
+- **[executing](/executing)**：計画や命令を実際に遂行・実行すること
 
 implementingは「新しい仕組みや制度を導入する」ニュアンスが強く、executingは「すでに決まったことを実際に行う」意味合いが強いです。
 
@@ -105,14 +109,14 @@ implementingは「新しい仕組みや制度を導入する」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [enforce](/word/enforce/)：（法律・規則などを）施行する
-- [apply](/word/apply/)：適用する、応用する
+- [enforce](/enforce)：（法律・規則などを）施行する
+- [apply](/apply)：適用する、応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop/)：開発する、発展させる
-- [establish](/word/establish/)：設立する、確立する
+- [develop](/develop)：開発する、発展させる
+- [establish](/establish)：設立する、確立する
 
-<!-- cvid: aid28_bid32 -->
+<!-- cvid: aid48_bid04 -->

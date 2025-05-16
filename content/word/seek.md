@@ -81,15 +81,19 @@ TOEICではビジネスシーンで「求める」「探す」といった意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスシーンで「求める」「探す」といった意味
 ## 🤔  search との違いは？
 
 - **seek**：目的や答え、助けなど形のないものを「求める」「探し求める」
-- **[search](/word/search/)**：物理的なものや情報を「探す」「捜索する」
+- **[search](/search)**：物理的なものや情報を「探す」「捜索する」
 
 seekは抽象的なものを目指して努力するニュアンスが強く、searchは具体的な物や場所を探すときに使います。
 
@@ -105,14 +109,14 @@ seekは抽象的なものを目指して努力するニュアンスが強く、s
 
 ## 🧩 あわせて覚えたい
 
-- [pursue](/word/pursue/)：追い求める、追及する
-- [find](/word/find/)：見つける、発見する
+- [pursue](/pursue)：追い求める、追及する
+- [find](/find)：見つける、発見する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply/)：申し込む、適用する
-- [request](/word/request/)：要請する、頼む
+- [apply](/apply)：申し込む、適用する
+- [request](/request)：要請する、頼む
 
-<!-- cvid: aid39_bid18 -->
+<!-- cvid: aid28_bid10 -->

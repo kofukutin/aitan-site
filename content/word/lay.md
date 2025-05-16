@@ -83,15 +83,19 @@ TOEICでは主にPart 1の写真描写で「物を置く」「横たえる」動
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは主にPart 1の写真描写で「物を置く」「横たえる」動
 ## 🤔  put との違いは？
 
 - **lay**：物を「横にして丁寧に置く」ニュアンスが強い
-- **[put](/word/put/)**：物を「置く」全般に使え、位置や方法は問わない
+- **[put](/put)**：物を「置く」全般に使え、位置や方法は問わない
 
 layは「横たえる」「平らに置く」動作に特化し、putは「置く」動作全般に使えます。
 
@@ -107,14 +111,14 @@ layは「横たえる」「平らに置く」動作に特化し、putは「置�
 
 ## 🧩 あわせて覚えたい
 
-- [place](/word/place/)：（丁寧に）置く
-- [set](/word/set/)：（決まった場所に）置く、設置する
+- [place](/place)：（丁寧に）置く
+- [set](/set)：（決まった場所に）置く、設置する
 
 ---
 
 ## 📖 できればこれも
 
-- [lie](/word/lie/)：横になる
-- [leave](/word/leave/)：残す、置いていく
+- [lie](/lie)：横になる
+- [leave](/leave)：残す、置いていく
 
-<!-- cvid: aid46_bid38 -->
+<!-- cvid: aid05_bid11 -->

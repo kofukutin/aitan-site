@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【yeast】の意味・使い方・例文 ― bacteriaとの違い【TOEIC英単語】"
 description: "yeastの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbacteriaとの違いもわかりやすく学べます。"
 word: "yeast"
@@ -80,15 +80,19 @@ The company developed a new type of yeast for brewing.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The company developed a new type of yeast for brewing.
 ## 🤔  bacteria との違いは？
 
 - **yeast**：パンやアルコール発酵に使われる単細胞の真菌（酵母）。
-- **[bacteria](/word/bacteria/)**：さまざまな環境に存在する単細胞生物で、酵母とは異なる微生物。
+- **[bacteria](/bacteria)**：さまざまな環境に存在する単細胞生物で、酵母とは異なる微生物。
 
 yeastは主に発酵や食品製造に使われる真菌で、bacteriaはより広範な微生物を指し、役割や性質が異なります。
 
@@ -104,14 +108,14 @@ yeastは主に発酵や食品製造に使われる真菌で、bacteriaはより�
 
 ## 🧩 あわせて覚えたい
 
-- [fungus](/word/fungus/)：菌類（カビやキノコなどを含む生物の総称）
-- [enzyme](/word/enzyme/)：酵素（化学反応を助けるたんぱく質）
+- [fungus](/fungus)：菌類（カビやキノコなどを含む生物の総称）
+- [enzyme](/enzyme)：酵素（化学反応を助けるたんぱく質）
 
 ---
 
 ## 📖 できればこれも
 
-- [mold](/word/mold/)：カビ
-- [ferment](/word/ferment/)：発酵する
+- [mold](/mold)：カビ
+- [ferment](/ferment)：発酵する
 
-<!-- cvid: aid49_bid31 -->
+<!-- cvid: aid47_bid37 -->

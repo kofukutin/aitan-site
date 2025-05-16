@@ -81,15 +81,19 @@ TOEICでは、会議や契約、議論の終了や結論を表す文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid14" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid14" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や契約、議論の終了や結論を表す文脈でよく
 ## 🤔  decided との違いは？
 
 - **concluded**：議論や検討の末に「結論を下す」「終える」など、ややフォーマルで最終的な決定や終了を強調。
-- **[decided](/word/decided/)**：単に「決めた」「決定した」という意味で、日常的な選択や判断にも使う。
+- **[decided](/decided)**：単に「決めた」「決定した」という意味で、日常的な選択や判断にも使う。
 
 concludedは「まとめて終わらせる」ニュアンスが強く、decidedは「選択・決定」に焦点があります。
 
@@ -105,14 +109,14 @@ concludedは「まとめて終わらせる」ニュアンスが強く、decided�
 
 ## 🧩 あわせて覚えたい
 
-- [finalize](/word/finalize/)：最終決定する、仕上げる
-- [terminate](/word/terminate/)：終わらせる、終了する
+- [finalize](/finalize)：最終決定する、仕上げる
+- [terminate](/terminate)：終わらせる、終了する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する、確かめる
-- [determine](/word/determine/)：決定する、判断する
+- [confirm](/confirm)：確認する、確かめる
+- [determine](/determine)：決定する、判断する
 
-<!-- cvid: aid41_bid41 -->
+<!-- cvid: aid07_bid14 -->

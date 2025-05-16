@@ -81,15 +81,19 @@ The city will host an international carnival next month.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The city will host an international carnival next month.
 ## 🤔  festival との違いは？
 
 - **carnival**：仮装やパレードなど、特に派手で陽気な祭りを指すことが多い。
-- **[festival](/word/festival/)**：宗教的・文化的な行事全般を指し、静かなものから賑やかなものまで幅広い。
+- **[festival](/festival)**：宗教的・文化的な行事全般を指し、静かなものから賑やかなものまで幅広い。
 
 carnivalは特に仮装やパレードなどの「にぎやかさ」が強調される祭り、festivalはより広い意味で使われます。
 
@@ -105,14 +109,14 @@ carnivalは特に仮装やパレードなどの「にぎやかさ」が強調さ
 
 ## 🧩 あわせて覚えたい
 
-- [parade](/word/parade/)：パレード、行進
-- [celebration](/word/celebration/)：祝賀、祝い
+- [parade](/parade)：パレード、行進
+- [celebration](/celebration)：祝賀、祝い
 
 ---
 
 ## 📖 できればこれも
 
-- [parade](/word/parade/)：パレード、行進
-- [event](/word/event/)：イベント、出来事
+- [parade](/parade)：パレード、行進
+- [event](/event)：イベント、出来事
 
-<!-- cvid: aid05_bid22 -->
+<!-- cvid: aid17_bid39 -->

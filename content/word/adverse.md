@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文やビジネス文書で、状況や条件が「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文やビジネス文書で、状況や条件が「
 ## 🤔  negative との違いは？
 
 - **adverse**：状況や条件が「不利」「悪影響」であることを強調するフォーマルな表現
-- **[negative](/word/negative/)**：単に「否定的」「マイナス」の意味で、幅広い場面で使われる
+- **[negative](/negative)**：単に「否定的」「マイナス」の意味で、幅広い場面で使われる
 
 adverseは「困難や障害をもたらす」ニュアンスが強く、negativeは「否定的」「マイナス」と広く使われます。
 
@@ -105,14 +109,14 @@ adverseは「困難や障害をもたらす」ニュアンスが強く、negativ
 
 ## 🧩 あわせて覚えたい
 
-- [beneficial](/word/beneficial/)：有益な
-- [hostile](/word/hostile/)：敵対的な
+- [beneficial](/beneficial)：有益な
+- [hostile](/hostile)：敵対的な
 
 ---
 
 ## 📖 できればこれも
 
-- [challenging](/word/challenging/)：困難な、やりがいのある
-- [unfavorable](/word/unfavorable/)：好ましくない、不利な
+- [challenging](/challenging)：困難な、やりがいのある
+- [unfavorable](/unfavorable)：好ましくない、不利な
 
-<!-- cvid: aid04_bid04 -->
+<!-- cvid: aid17_bid18 -->

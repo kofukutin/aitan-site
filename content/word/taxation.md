@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や公式な通知、経済記事などで登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や公式な通知、経済記事などで登
 ## 🤔  tax との違いは？
 
 - **taxation**：課税の仕組みや制度、税金を課す行為全体を指すフォーマルな言葉
-- **[tax](/word/tax/)**：個々の税金や課される金額そのもの
+- **[tax](/tax)**：個々の税金や課される金額そのもの
 
 taxationは「課税」という制度やプロセスを強調し、taxは実際に支払う「税金」やその金額を指します。
 
@@ -105,14 +109,14 @@ taxationは「課税」という制度やプロセスを強調し、taxは実際
 
 ## 🧩 あわせて覚えたい
 
-- [levy](/word/levy/)：課税、徴収
-- [exemption](/word/exemption/)：免除、控除
+- [levy](/levy)：課税、徴収
+- [exemption](/exemption)：免除、控除
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/word/revenue/)：収入、歳入
-- [regulation](/word/regulation/)：規制、規則
+- [revenue](/revenue)：収入、歳入
+- [regulation](/regulation)：規制、規則
 
-<!-- cvid: aid20_bid45 -->
+<!-- cvid: aid16_bid23 -->

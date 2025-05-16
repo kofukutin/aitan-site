@@ -81,15 +81,19 @@ TOEICでは主に会社の財務状況や資金調達、経済記事などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に会社の財務状況や資金調達、経済記事などの文
 ## 🤔  funding との違いは？
 
 - **finance**：お金の管理や財務全般、資金そのものを指す
-- **[funding](/word/funding/)**：特定の目的のための「資金提供」「資金調達」を指す
+- **[funding](/funding)**：特定の目的のための「資金提供」「資金調達」を指す
 
 financeは広く「財務活動」や「資金全体」を表し、fundingは「特定のプロジェクトや目的のために集めるお金」に限定されます。
 
@@ -105,14 +109,14 @@ financeは広く「財務活動」や「資金全体」を表し、fundingは「
 
 ## 🧩 あわせて覚えたい
 
-- [investment](/word/investment/)：投資
-- [budget](/word/budget/)：予算
+- [investment](/investment)：投資
+- [budget](/budget)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account/)：口座、会計
-- [loan](/word/loan/)：ローン、融資
+- [account](/account)：口座、会計
+- [loan](/loan)：ローン、融資
 
-<!-- cvid: aid00_bid11 -->
+<!-- cvid: aid21_bid17 -->

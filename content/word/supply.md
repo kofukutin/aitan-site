@@ -81,15 +81,19 @@ TOEICではビジネスや物流、在庫管理の文脈で頻出します。会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスや物流、在庫管理の文脈で頻出します。会
 ## 🤔  provide との違いは？
 
 - **supply**：必要なものを「供給」することや、その「在庫・物資」自体を指す。
-- **[provide](/word/provide/)**：必要なものやサービスを「与える」「提供する」こと全般。
+- **[provide](/provide)**：必要なものやサービスを「与える」「提供する」こと全般。
 
 supplyは物資や在庫など「物」に焦点があり、provideは「サービス」や「情報」など幅広い対象に使われます。
 
@@ -105,14 +109,14 @@ supplyは物資や在庫など「物」に焦点があり、provideは「サー�
 
 ## 🧩 あわせて覚えたい
 
-- [demand](/word/demand/)：需要、要求
-- [stock](/word/stock/)：在庫、蓄え
+- [demand](/demand)：需要、要求
+- [stock](/stock)：在庫、蓄え
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order/)：注文、注文する
-- [deliver](/word/deliver/)：配達する、届ける
+- [order](/order)：注文、注文する
+- [deliver](/deliver)：配達する、届ける
 
-<!-- cvid: aid22_bid15 -->
+<!-- cvid: aid23_bid10 -->

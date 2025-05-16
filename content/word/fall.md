@@ -81,15 +81,19 @@ TOEICでは「人が転ぶ」「物が落ちる」など、写真描写問題で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「人が転ぶ」「物が落ちる」など、写真描写問題で
 ## 🤔  drop との違いは？
 
 - **fall**：自然に落ちる、倒れる、下がる（自動的な動き）
-- **[drop](/word/drop/)**：意図的に落とす、または物が急に落ちる（他動詞・自動詞両方）
+- **[drop](/drop)**：意図的に落とす、または物が急に落ちる（他動詞・自動詞両方）
 
 fallは「自分の意思とは関係なく自然に落ちる」場合に使い、dropは「誰かが物を落とす」など意図的な動作や急激な変化に使います。
 
@@ -105,14 +109,14 @@ fallは「自分の意思とは関係なく自然に落ちる」場合に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [rise](/word/rise/)：上がる、昇る
-- [decline](/word/decline/)：減少する、断る
+- [rise](/rise)：上がる、昇る
+- [decline](/decline)：減少する、断る
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break/)：壊れる、壊す
-- [lose](/word/lose/)：失う、なくす
+- [break](/break)：壊れる、壊す
+- [lose](/lose)：失う、なくす
 
-<!-- cvid: aid20_bid30 -->
+<!-- cvid: aid07_bid13 -->

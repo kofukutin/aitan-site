@@ -80,15 +80,19 @@ TOEICでは経済やビジネス関連の記事やメールで頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは経済やビジネス関連の記事やメールで頻出します。
 ## 🤔  deflation との違いは？
 
 - **inflation**：物価が全体的に上昇する現象
-- **[deflation](/word/deflation/)**：物価が全体的に下落する現象
+- **[deflation](/deflation)**：物価が全体的に下落する現象
 
 inflationは「値段が上がる」状態、deflationは「値段が下がる」状態を指し、経済の動きとして正反対の意味になります。
 
@@ -104,14 +108,14 @@ inflationは「値段が上がる」状態、deflationは「値段が下がる�
 
 ## 🧩 あわせて覚えたい
 
-- [recession](/word/recession/)：景気後退、不況
-- [growth](/word/growth/)：成長、増加
+- [recession](/recession)：景気後退、不況
+- [growth](/growth)：成長、増加
 
 ---
 
 ## 📖 できればこれも
 
-- [interest](/word/interest/)：利子、関心
-- [economy](/word/economy/)：経済
+- [interest](/interest)：利子、関心
+- [economy](/economy)：経済
 
-<!-- cvid: aid46_bid07 -->
+<!-- cvid: aid07_bid33 -->

@@ -81,15 +81,19 @@ The hospital is hiring more staff for its nursing department.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The hospital is hiring more staff for its nursing department.
 ## 🤔  caregiving との違いは？
 
 - **nursing**：専門的な医療知識や資格を持つ人による看護やケアを指すことが多い
-- **[caregiving](/word/caregiving/)**：家族や介護士などによる日常的な世話や介護を広く指す
+- **[caregiving](/caregiving)**：家族や介護士などによる日常的な世話や介護を広く指す
 
 nursingは医療的な側面が強く、caregivingは資格の有無を問わず幅広い「世話」を表します。
 
@@ -105,14 +109,14 @@ nursingは医療的な側面が強く、caregivingは資格の有無を問わず
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/word/treatment/)：治療
-- [midwife](/word/midwife/)：助産師
+- [treatment](/treatment)：治療
+- [midwife](/midwife)：助産師
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy/)：治療、療法
-- [clinic](/word/clinic/)：診療所
+- [therapy](/therapy)：治療、療法
+- [clinic](/clinic)：診療所
 
-<!-- cvid: aid09_bid41 -->
+<!-- cvid: aid29_bid00 -->

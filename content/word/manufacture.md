@@ -82,15 +82,19 @@ TOEICでは主にビジネスや工場の文脈で「製造する」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にビジネスや工場の文脈で「製造する」という意
 ## 🤔  produce との違いは？
 
 - **manufacture**：工場や機械で大量生産することを強調
-- **[produce](/word/produce/)**：生産全般を指し、農作物や自然な生成にも使う
+- **[produce](/produce)**：生産全般を指し、農作物や自然な生成にも使う
 
 manufactureは「工業的な大量生産」、produceは「作り出す」全般で、使う場面や規模感が異なります。
 
@@ -106,14 +110,14 @@ manufactureは「工業的な大量生産」、produceは「作り出す」全�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：組み立てる
-- [distribute](/word/distribute/)：配布する、流通させる
+- [assemble](/assemble)：組み立てる
+- [distribute](/distribute)：配布する、流通させる
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：加工する、処理する
-- [supply](/word/supply/)：供給する
+- [process](/process)：加工する、処理する
+- [supply](/supply)：供給する
 
-<!-- cvid: aid32_bid34 -->
+<!-- cvid: aid06_bid27 -->

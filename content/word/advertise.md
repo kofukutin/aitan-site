@@ -81,15 +81,19 @@ TOEICでは広告文やビジネスメール、案内文などで頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは広告文やビジネスメール、案内文などで頻出します
 ## 🤔  promote との違いは？
 
 - **advertise**：主に広告や宣伝媒体を使って広く知らせることに重点がある
-- **[promote](/word/promote/)**：宣伝だけでなく、販売促進や地位向上など幅広い意味で使われる
+- **[promote](/promote)**：宣伝だけでなく、販売促進や地位向上など幅広い意味で使われる
 
 advertiseは「広告する」ことに特化し、promoteは「売り込む・促進する」などより広い活動を指します。
 
@@ -105,14 +109,14 @@ advertiseは「広告する」ことに特化し、promoteは「売り込む・�
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce/)：発表する、告知する
-- [publicize](/word/publicize/)：公表する、広く知らせる
+- [announce](/announce)：発表する、告知する
+- [publicize](/publicize)：公表する、広く知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market/)：売り込む、販売する
-- [inform](/word/inform/)：知らせる、通知する
+- [market](/market)：売り込む、販売する
+- [inform](/inform)：知らせる、通知する
 
-<!-- cvid: aid43_bid20 -->
+<!-- cvid: aid05_bid12 -->

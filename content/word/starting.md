@@ -81,15 +81,19 @@ startingは会議やイベントの開始時刻を表す表現として、TOEIC�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ startingは会議やイベントの開始時刻を表す表現として、TOEIC�
 ## 🤔  beginning との違いは？
 
 - **starting**：動作やイベントが「始まる」瞬間や進行中を強調
-- **[beginning](/word/beginning/)**：物事の「始まり」や「最初の部分」という名詞的な意味
+- **[beginning](/beginning)**：物事の「始まり」や「最初の部分」という名詞的な意味
 
 startingは動作やプロセスの進行を表し、beginningは時間や物事の最初の部分を指します。
 
@@ -105,14 +109,14 @@ startingは動作やプロセスの進行を表し、beginningは時間や物事
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch/)：（新製品などを）開始する、立ち上げる
-- [initiate](/word/initiate/)：（正式に）始める、開始する
+- [launch](/launch)：（新製品などを）開始する、立ち上げる
+- [initiate](/initiate)：（正式に）始める、開始する
 
 ---
 
 ## 📖 できればこれも
 
-- [open](/word/open/)：開く、始める
-- [commence](/word/commence/)：（フォーマルに）開始する
+- [open](/open)：開く、始める
+- [commence](/commence)：（フォーマルに）開始する
 
-<!-- cvid: aid13_bid08 -->
+<!-- cvid: aid16_bid20 -->

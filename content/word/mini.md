@@ -81,15 +81,19 @@ miniは商品説明や広告文、比較表現などで登場することがあ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ miniは商品説明や広告文、比較表現などで登場することがあ�
 ## 🤔  tiny との違いは？
 
 - **mini**：通常より小さい、小型の（特に商品やバージョンに使う）
-- **[tiny](/word/tiny/)**：とても小さい、ごく小さい（物理的な大きさを強調）
+- **[tiny](/tiny)**：とても小さい、ごく小さい（物理的な大きさを強調）
 
 miniは「標準より小さい」ことをカジュアルに表現し、tinyは「非常に小さい」ことを強調します。miniは商品名やバリエーションに多く使われます。
 
@@ -105,14 +109,14 @@ miniは「標準より小さい」ことをカジュアルに表現し、tinyは
 
 ## 🧩 あわせて覚えたい
 
-- [small](/word/small/)：小さい
-- [compact](/word/compact/)：コンパクトな、まとまった
+- [small](/small)：小さい
+- [compact](/compact)：コンパクトな、まとまった
 
 ---
 
 ## 📖 できればこれも
 
-- [major](/word/major/)：主要な
-- [simple](/word/simple/)：簡単な
+- [major](/major)：主要な
+- [simple](/simple)：簡単な
 
-<!-- cvid: aid13_bid15 -->
+<!-- cvid: aid19_bid23 -->

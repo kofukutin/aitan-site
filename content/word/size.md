@@ -81,15 +81,19 @@ TOEICでは、商品の説明や会社の規模、数量を問う文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid24_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品の説明や会社の規模、数量を問う文脈でよく
 ## 🤔  scale との違いは？
 
 - **size**：物や人の「大きさ」「寸法」「規模」など、具体的な長さや量を表す。
-- **[scale](/word/scale/)**：物事の「規模」や「縮尺」、比率など、抽象的・相対的な大きさを表す。
+- **[scale](/scale)**：物事の「規模」や「縮尺」、比率など、抽象的・相対的な大きさを表す。
 
 sizeは実際の大きさや寸法、scaleは全体の規模や比率・縮尺を表すときに使い分けます。
 
@@ -105,14 +109,14 @@ sizeは実際の大きさや寸法、scaleは全体の規模や比率・縮尺�
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/word/amount/)：量、総額
-- [dimension](/word/dimension/)：寸法、側面
+- [amount](/amount)：量、総額
+- [dimension](/dimension)：寸法、側面
 
 ---
 
 ## 📖 できればこれも
 
-- [weight](/word/weight/)：重さ
-- [length](/word/length/)：長さ
+- [weight](/weight)：重さ
+- [length](/length)：長さ
 
-<!-- cvid: aid05_bid45 -->
+<!-- cvid: aid24_bid41 -->

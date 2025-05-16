@@ -81,15 +81,19 @@ TOEICでは「waste disposal（廃棄物処理）」や「at your disposal（自
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「waste disposal（廃棄物処理）」や「at your disposal（自
 ## 🤔  removal との違いは？
 
 - **disposal**：不要なものや有害なものを「処分」「廃棄」すること
-- **[removal](/word/removal/)**：何かを「取り除く」「移動させる」こと
+- **[removal](/removal)**：何かを「取り除く」「移動させる」こと
 
 disposalは「最終的に捨てる・処分する」ニュアンスが強く、removalは単に「取り除く」や「移動する」場合にも使われます。
 
@@ -105,14 +109,14 @@ disposalは「最終的に捨てる・処分する」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [elimination](/word/elimination/)：排除、除去
-- [retention](/word/retention/)：保持、維持
+- [elimination](/elimination)：排除、除去
+- [retention](/retention)：保持、維持
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [distribution](/word/distribution/)：分配、配布
+- [asset](/asset)：資産
+- [distribution](/distribution)：分配、配布
 
-<!-- cvid: aid32_bid29 -->
+<!-- cvid: aid48_bid15 -->

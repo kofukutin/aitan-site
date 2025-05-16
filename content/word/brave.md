@@ -81,15 +81,19 @@ TOEICでは形容詞として、人物や行動を説明する文脈で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid26_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞として、人物や行動を説明する文脈で出題さ
 ## 🤔  courageous との違いは？
 
 - **brave**：困難や危険に直面しても恐れずに行動する「勇敢な」
-- **[courageous](/word/courageous/)**：道徳的・倫理的な信念に基づいて勇気を持つ「勇気ある」
+- **[courageous](/courageous)**：道徳的・倫理的な信念に基づいて勇気を持つ「勇気ある」
 
 braveは行動面の勇気、courageousは信念や価値観に基づく勇気を強調します。
 
@@ -105,14 +109,14 @@ braveは行動面の勇気、courageousは信念や価値観に基づく勇気�
 
 ## 🧩 あわせて覚えたい
 
-- [bold](/word/bold/)：大胆な
-- [fearless](/word/fearless/)：恐れを知らない
+- [bold](/bold)：大胆な
+- [fearless](/fearless)：恐れを知らない
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident/)：自信がある
-- [strong](/word/strong/)：強い
+- [confident](/confident)：自信がある
+- [strong](/strong)：強い
 
-<!-- cvid: aid24_bid36 -->
+<!-- cvid: aid26_bid28 -->

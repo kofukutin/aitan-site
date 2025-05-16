@@ -81,15 +81,19 @@ TOEICでは、物の位置や場所の説明、または「競争上の優位性
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物の位置や場所の説明、または「競争上の優位性
 ## 🤔  border との違いは？
 
 - **edge**：物や場所の「端」「縁」など、物理的・比喩的な境界を幅広く指す
-- **[border](/word/border/)**：国や地域など「領域の境界線」「国境」を主に指す
+- **[border](/border)**：国や地域など「領域の境界線」「国境」を主に指す
 
 edgeは一般的な「端」や「縁」に使い、borderは特に国やエリアの「境界線」に使います。
 
@@ -105,14 +109,14 @@ edgeは一般的な「端」や「縁」に使い、borderは特に国やエリ�
 
 ## 🧩 あわせて覚えたい
 
-- [margin](/word/margin/)：余白、端
-- [corner](/word/corner/)：角、隅
+- [margin](/margin)：余白、端
+- [corner](/corner)：角、隅
 
 ---
 
 ## 📖 できればこれも
 
-- [surface](/word/surface/)：表面
-- [line](/word/line/)：線
+- [surface](/surface)：表面
+- [line](/line)：線
 
-<!-- cvid: aid07_bid40 -->
+<!-- cvid: aid21_bid28 -->

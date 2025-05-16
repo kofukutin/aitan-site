@@ -81,15 +81,19 @@ TOEICでは、商品の状態やクレーム対応、報告書などで「damage
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品の状態やクレーム対応、報告書などで「damage
 ## 🤔  broken との違いは？
 
 - **damaged**：損傷しているが、完全に壊れているとは限らない
-- **[broken](/word/broken/)**：壊れて使えない状態
+- **[broken](/broken)**：壊れて使えない状態
 
 「damaged」は部分的な損傷や傷も含みますが、「broken」は完全に壊れて機能しない場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、商品の状態やクレーム対応、報告書などで「damage
 
 ## 🧩 あわせて覚えたい
 
-- [intact](/word/intact/)：無傷の、損なわれていない
-- [defective](/word/defective/)：欠陥のある、不良の
+- [intact](/intact)：無傷の、損なわれていない
+- [defective](/defective)：欠陥のある、不良の
 
 ---
 
 ## 📖 できればこれも
 
-- [repaired](/word/repaired/)：修理された
-- [faulty](/word/faulty/)：故障した、欠陥のある
+- [repaired](/repaired)：修理された
+- [faulty](/faulty)：故障した、欠陥のある
 
-<!-- cvid: aid02_bid09 -->
+<!-- cvid: aid41_bid43 -->

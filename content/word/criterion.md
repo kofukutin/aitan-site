@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会議の議題で「基準」を問う文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid06_bid39" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid39" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会議の議題で「基準」を問う文
 ## 🤔  standard との違いは？
 
 - **criterion**：評価や判断のための「基準」（特定の目的や状況に応じて使う）
-- **[standard](/word/standard/)**：一般的・社会的に広く認められた「標準」や「規格」
+- **[standard](/standard)**：一般的・社会的に広く認められた「標準」や「規格」
 
 criterionは「判断材料」としての基準、standardは「共通のルールや水準」という違いがあります。
 
@@ -105,14 +109,14 @@ criterionは「判断材料」としての基準、standardは「共通のルー
 
 ## 🧩 あわせて覚えたい
 
-- [benchmark](/word/benchmark/)：指標、基準点
-- [requirement](/word/requirement/)：必要条件、要件
+- [benchmark](/benchmark)：指標、基準点
+- [requirement](/requirement)：必要条件、要件
 
 ---
 
 ## 📖 できればこれも
 
-- [parameter](/word/parameter/)：パラメータ、条件
-- [guideline](/word/guideline/)：指針、ガイドライン
+- [parameter](/parameter)：パラメータ、条件
+- [guideline](/guideline)：指針、ガイドライン
 
-<!-- cvid: aid29_bid06 -->
+<!-- cvid: aid06_bid39 -->

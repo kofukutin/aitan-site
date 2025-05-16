@@ -81,15 +81,19 @@ TOEICでは、出荷や物流、旅行に関する文脈で「packing」が名�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、出荷や物流、旅行に関する文脈で「packing」が名�
 ## 🤔  packaging との違いは？
 
 - **packing**：荷造りや梱包作業、または梱包材そのものを指す
-- **[packaging](/word/packaging/)**：商品のパッケージデザインや包装材、見た目のパッケージ全体を指す
+- **[packaging](/packaging)**：商品のパッケージデザインや包装材、見た目のパッケージ全体を指す
 
 packingは「詰める作業」や「梱包材」に焦点があり、packagingは「商品を包む外装やデザイン」に重点があります。
 
@@ -105,14 +109,14 @@ packingは「詰める作業」や「梱包材」に焦点があり、packaging�
 
 ## 🧩 あわせて覚えたい
 
-- [unpacking](/word/unpacking/)：荷ほどき
-- [shipment](/word/shipment/)：出荷、発送
+- [unpacking](/unpacking)：荷ほどき
+- [shipment](/shipment)：出荷、発送
 
 ---
 
 ## 📖 できればこれも
 
-- [delivery](/word/delivery/)：配達、配送
-- [label](/word/label/)：ラベル、表示
+- [delivery](/delivery)：配達、配送
+- [label](/label)：ラベル、表示
 
-<!-- cvid: aid20_bid47 -->
+<!-- cvid: aid39_bid06 -->

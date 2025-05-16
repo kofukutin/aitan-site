@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やEメール、記事などの長文で「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やEメール、記事などの長文で「�
 ## 🤔  connection との違いは？
 
 - **relationship**：人や組織などの間にある継続的・感情的な「関係」
-- **[connection](/word/connection/)**：物理的・論理的な「つながり」や「関連」
+- **[connection](/connection)**：物理的・論理的な「つながり」や「関連」
 
 relationshipは人間関係や長期的なつながりを強調し、connectionは一時的・技術的なつながりや関連性を指すことが多いです。
 
@@ -105,14 +109,14 @@ relationshipは人間関係や長期的なつながりを強調し、connection�
 
 ## 🧩 あわせて覚えたい
 
-- [partnership](/word/partnership/)：協力関係、提携
-- [bond](/word/bond/)：絆、結びつき
+- [partnership](/partnership)：協力関係、提携
+- [bond](/bond)：絆、結びつき
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [contact](/word/contact/)：連絡先、接触
+- [agreement](/agreement)：合意、契約
+- [contact](/contact)：連絡先、接触
 
-<!-- cvid: aid27_bid33 -->
+<!-- cvid: aid45_bid12 -->

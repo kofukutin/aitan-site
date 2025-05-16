@@ -81,15 +81,19 @@ IT関連やソフトウェアの説明文、メール、案内文などで見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やソフトウェアの説明文、メール、案内文などで見か
 ## 🤔  shareware との違いは？
 
 - **freeware**：無料で配布され、誰でも自由に使えるソフトウェア。
-- **[shareware](/word/shareware/)**：試用は無料だが、継続利用や全機能利用には料金が必要なソフトウェア。
+- **[shareware](/shareware)**：試用は無料だが、継続利用や全機能利用には料金が必要なソフトウェア。
 
 freewareは最初から最後まで無料ですが、sharewareは一定期間や機能制限付きで無料、その後は有料になる点が異なります。
 
@@ -105,14 +109,14 @@ freewareは最初から最後まで無料ですが、sharewareは一定期間や
 
 ## 🧩 あわせて覚えたい
 
-- [software](/word/software/)：ソフトウェア、プログラム全般
-- [application](/word/application/)：アプリケーション、応用プログラム
+- [software](/software)：ソフトウェア、プログラム全般
+- [application](/application)：アプリケーション、応用プログラム
 
 ---
 
 ## 📖 できればこれも
 
-- [hardware](/word/hardware/)：ハードウェア、機械的な装置
-- [download](/word/download/)：ダウンロード、データを取り込むこと
+- [hardware](/hardware)：ハードウェア、機械的な装置
+- [download](/download)：ダウンロード、データを取り込むこと
 
-<!-- cvid: aid31_bid03 -->
+<!-- cvid: aid10_bid40 -->

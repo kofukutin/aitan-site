@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写問題で、建物や部屋の説明とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写問題で、建物や部屋の説明とし
 ## 🤔  terrace との違いは？
 
 - **balcony**：建物の上階から突き出した小さな屋外スペース
-- **[terrace](/word/terrace/)**：地面や建物の1階部分にある広めの屋外スペース
+- **[terrace](/terrace)**：地面や建物の1階部分にある広めの屋外スペース
 
 balconyは主に上階にあり、手すり付きで小規模なのが特徴。terraceは地面や1階にあり、広くて開放的なスペースを指します。
 
@@ -104,14 +108,14 @@ balconyは主に上階にあり、手すり付きで小規模なのが特徴。t
 
 ## 🧩 あわせて覚えたい
 
-- [veranda](/word/veranda/)：建物の側面に沿った屋根付きの縁側
-- [patio](/word/patio/)：家の裏庭などにある舗装された屋外スペース
+- [veranda](/veranda)：建物の側面に沿った屋根付きの縁側
+- [patio](/patio)：家の裏庭などにある舗装された屋外スペース
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window/)：窓
-- [roof](/word/roof/)：屋根
+- [window](/window)：窓
+- [roof](/roof)：屋根
 
-<!-- cvid: aid22_bid47 -->
+<!-- cvid: aid07_bid09 -->

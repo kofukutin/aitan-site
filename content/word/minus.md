@@ -77,15 +77,19 @@ The total sales minus expenses show our net profit.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ The total sales minus expenses show our net profit.
 ## 🤔  subtract との違いは？
 
 - **minus**：前置詞として「～引く～」の形で使う。計算式や数量の説明に多い。
-- **[subtract](/word/subtract/)**：動詞で「引く」「差し引く」という動作を表す。
+- **[subtract](/subtract)**：動詞で「引く」「差し引く」という動作を表す。
 
 minusは計算式や数量の説明で使い、subtractは動作として「引く」と言いたいときに使います。
 
@@ -101,14 +105,14 @@ minusは計算式や数量の説明で使い、subtractは動作として「引�
 
 ## 🧩 あわせて覚えたい
 
-- [plus](/word/plus/)：プラス、加える
-- [negative](/word/negative/)：負の、マイナスの
+- [plus](/plus)：プラス、加える
+- [negative](/negative)：負の、マイナスの
 
 ---
 
 ## 📖 できればこれも
 
-- [divide](/word/divide/)：割る
-- [total](/word/total/)：合計
+- [divide](/divide)：割る
+- [total](/total)：合計
 
-<!-- cvid: aid42_bid46 -->
+<!-- cvid: aid46_bid14 -->

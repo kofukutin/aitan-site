@@ -81,15 +81,19 @@ TOEICでは、配慮ある表現や多様性に関する文脈で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、配慮ある表現や多様性に関する文脈で見かけるこ
 ## 🤔  disabled との違いは？
 
 - **challenged**：やんわりと配慮して「困難を抱えた」「障害のある」と表現する
-- **[disabled](/word/disabled/)**：直接的に「障害のある」と表現する
+- **[disabled](/disabled)**：直接的に「障害のある」と表現する
 
 「challenged」は前向きで配慮ある表現、"disabled"はより直接的で公式な表現です。場面や相手に応じて使い分けます。
 
@@ -105,14 +109,14 @@ TOEICでは、配慮ある表現や多様性に関する文脈で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [handicapped](/word/handicapped/)：障害のある（やや古い表現）
-- [capable](/word/capable/)：有能な、能力がある
+- [handicapped](/handicapped)：障害のある（やや古い表現）
+- [capable](/capable)：有能な、能力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [motivated](/word/motivated/)：やる気のある
-- [qualified](/word/qualified/)：資格のある
+- [motivated](/motivated)：やる気のある
+- [qualified](/qualified)：資格のある
 
-<!-- cvid: aid43_bid47 -->
+<!-- cvid: aid41_bid08 -->

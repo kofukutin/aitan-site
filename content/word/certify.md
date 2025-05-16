@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や証明書、公式な手続きに関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や証明書、公式な手続きに関する
 ## 🤔  verify との違いは？
 
 - **certify**：公式に証明・認定する（特に資格や書類など）
-- **[verify](/word/verify/)**：事実や情報の正確さを確認する
+- **[verify](/verify)**：事実や情報の正確さを確認する
 
 certifyは「公式な証明・認定」に重点があり、verifyは「事実確認・検証」に重点があります。
 
@@ -105,14 +109,14 @@ certifyは「公式な証明・認定」に重点があり、verifyは「事実�
 
 ## 🧩 あわせて覚えたい
 
-- [authorize](/word/authorize/)：権限を与える、認可する
-- [approve](/word/approve/)：承認する、認める
+- [authorize](/authorize)：権限を与える、認可する
+- [approve](/approve)：承認する、認める
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する、確かめる
-- [issue](/word/issue/)：発行する、発表する
+- [confirm](/confirm)：確認する、確かめる
+- [issue](/issue)：発行する、発表する
 
-<!-- cvid: aid08_bid43 -->
+<!-- cvid: aid17_bid27 -->

@@ -81,15 +81,19 @@ TOEICではITや日常会話の場面で、動詞として使われることが�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや日常会話の場面で、動詞として使われることが�
 ## 🤔  search との違いは？
 
 - **google**：Google検索エンジンを使って調べることを指すカジュアルな表現
-- **[search](/word/search/)**：一般的に「探す」「検索する」という意味で、よりフォーマルにも使える
+- **[search](/search)**：一般的に「探す」「検索する」という意味で、よりフォーマルにも使える
 
 「google」はGoogleを使う場合限定でカジュアル、「search」は幅広い場面で使えます。
 
@@ -105,14 +109,14 @@ TOEICではITや日常会話の場面で、動詞として使われることが�
 
 ## 🧩 あわせて覚えたい
 
-- [browse](/word/browse/)：（ウェブサイトなどを）閲覧する
-- [look up](/word/look_up/)：（辞書や資料で）調べる
+- [browse](/browse)：（ウェブサイトなどを）閲覧する
+- [look up](/look_up)：（辞書や資料で）調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/word/download/)：ダウンロードする
-- [install](/word/install/)：インストールする
+- [download](/download)：ダウンロードする
+- [install](/install)：インストールする
 
-<!-- cvid: aid18_bid26 -->
+<!-- cvid: aid49_bid30 -->

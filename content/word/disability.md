@@ -81,15 +81,19 @@ TOEICでは、雇用や福祉、ダイバーシティに関する長文や案内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、雇用や福祉、ダイバーシティに関する長文や案内
 ## 🤔  disorder との違いは？
 
 - **disability**：身体や精神の「機能的な障害」や「能力の制限」を指す、社会的・法的な文脈で使われることが多い。
-- **[disorder](/word/disorder/)**：医学的に「病気」「障害（疾患）」を指し、症状や診断名として使われる。
+- **[disorder](/disorder)**：医学的に「病気」「障害（疾患）」を指し、症状や診断名として使われる。
 
 disabilityは社会生活や日常動作の制限に焦点があり、disorderは医学的な異常や病名に焦点があります。
 
@@ -105,14 +109,14 @@ disabilityは社会生活や日常動作の制限に焦点があり、disorder�
 
 ## 🧩 あわせて覚えたい
 
-- [impairment](/word/impairment/)：機能障害、損傷
-- [handicap](/word/handicap/)：（古い表現）不利な条件、障害
+- [impairment](/impairment)：機能障害、損傷
+- [handicap](/handicap)：（古い表現）不利な条件、障害
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが、負傷
-- [illness](/word/illness/)：病気
+- [injury](/injury)：けが、負傷
+- [illness](/illness)：病気
 
-<!-- cvid: aid00_bid10 -->
+<!-- cvid: aid09_bid12 -->

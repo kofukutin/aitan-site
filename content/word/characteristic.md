@@ -83,15 +83,19 @@ TOEICでは説明文や製品紹介などで「特徴」「特性」を表す語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは説明文や製品紹介などで「特徴」「特性」を表す語
 ## 🤔  feature との違いは？
 
 - **characteristic**：そのものを特徴づける本質的な性質や特性
-- **[feature](/word/feature/)**：目立つ部分や機能、外見的な特徴
+- **[feature](/feature)**：目立つ部分や機能、外見的な特徴
 
 characteristicは「本質的な性質」、featureは「目立つ部分や機能」に使い分けます。
 
@@ -107,14 +111,14 @@ characteristicは「本質的な性質」、featureは「目立つ部分や機�
 
 ## 🧩 あわせて覚えたい
 
-- [trait](/word/trait/)：（主に人の）性質、特性
-- [quality](/word/quality/)：質、特質
+- [trait](/trait)：（主に人の）性質、特性
+- [quality](/quality)：質、特質
 
 ---
 
 ## 📖 できればこれも
 
-- [aspect](/word/aspect/)：側面、観点
-- [attribute](/word/attribute/)：属性、特質
+- [aspect](/aspect)：側面、観点
+- [attribute](/attribute)：属性、特質
 
-<!-- cvid: aid17_bid00 -->
+<!-- cvid: aid00_bid24 -->

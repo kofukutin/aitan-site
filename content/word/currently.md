@@ -81,15 +81,19 @@ TOEICではビジネスシーンの会話や説明文で「現在の状況」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid04" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid04" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスシーンの会話や説明文で「現在の状況」を
 ## 🤔  now との違いは？
 
 - **currently**：今の時点で継続している状態をややフォーマルに表現
-- **[now](/word/now/)**：今この瞬間をカジュアルに表現
+- **[now](/now)**：今この瞬間をカジュアルに表現
 
 「currently」はビジネスや書き言葉で使われやすく、継続的な状況に焦点を当てます。「now」は日常会話で「今すぐ」のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ TOEICではビジネスシーンの会話や説明文で「現在の状況」を
 
 ## 🧩 あわせて覚えたい
 
-- [presently](/word/presently/)：間もなく、現在
-- [temporarily](/word/temporarily/)：一時的に
+- [presently](/presently)：間もなく、現在
+- [temporarily](/temporarily)：一時的に
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently/)：最近
-- [soon](/word/soon/)：まもなく
+- [recently](/recently)：最近
+- [soon](/soon)：まもなく
 
-<!-- cvid: aid43_bid15 -->
+<!-- cvid: aid41_bid04 -->

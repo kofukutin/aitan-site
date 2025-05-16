@@ -81,15 +81,19 @@ TOEICでは「一時的な中断」や「保留」を表す文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「一時的な中断」や「保留」を表す文脈で出題され
 ## 🤔  postponed との違いは？
 
 - **suspended**：一時的に中断・停止され、再開の時期が未定な状態
-- **[postponed](/word/postponed/)**：予定を後ろにずらして延期すること
+- **[postponed](/postponed)**：予定を後ろにずらして延期すること
 
 suspendedは「いつ再開するかわからない」ニュアンスが強く、postponedは「新しい日程が決まっている」場合に使います。
 
@@ -105,14 +109,14 @@ suspendedは「いつ再開するかわからない」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [terminated](/word/terminated/)：終了した、打ち切られた
-- [pending](/word/pending/)：未決定の、保留中の
+- [terminated](/terminated)：終了した、打ち切られた
+- [pending](/pending)：未決定の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [delayed](/word/delayed/)：遅れた、延期された
-- [canceled](/word/canceled/)：取り消された、中止になった
+- [delayed](/delayed)：遅れた、延期された
+- [canceled](/canceled)：取り消された、中止になった
 
-<!-- cvid: aid49_bid16 -->
+<!-- cvid: aid46_bid28 -->

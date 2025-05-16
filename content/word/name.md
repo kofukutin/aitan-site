@@ -81,15 +81,19 @@ TOEICでは申込書やメール、会話文などで頻繁に登場し、基本
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid43" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid43" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは申込書やメール、会話文などで頻繁に登場し、基本
 ## 🤔  title との違いは？
 
 - **name**：人や物の「名前」や「氏名」を指す。
-- **[title](/word/title/)**：役職名や肩書き、作品名など「称号」や「タイトル」を指す。
+- **[title](/title)**：役職名や肩書き、作品名など「称号」や「タイトル」を指す。
 
 「name」は個人や物の識別名、「title」は役職や作品の名称など特定の肩書きや題名を表します。
 
@@ -105,14 +109,14 @@ TOEICでは申込書やメール、会話文などで頻繁に登場し、基本
 
 ## 🧩 あわせて覚えたい
 
-- [nickname](/word/nickname/)：あだ名、ニックネーム
-- [brand](/word/brand/)：ブランド、商標
+- [nickname](/nickname)：あだ名、ニックネーム
+- [brand](/brand)：ブランド、商標
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/word/address/)：住所
-- [company](/word/company/)：会社
+- [address](/address)：住所
+- [company](/company)：会社
 
-<!-- cvid: aid09_bid23 -->
+<!-- cvid: aid13_bid43 -->

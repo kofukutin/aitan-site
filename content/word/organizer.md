@@ -81,15 +81,19 @@ TOEICではイベントや会議の案内文、メール文などで「主催者
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではイベントや会議の案内文、メール文などで「主催者
 ## 🤔  coordinator との違いは？
 
 - **organizer**：イベントや活動を主導し、全体をまとめる人
-- **[coordinator](/word/coordinator/)**：複数の人や部署の間を調整し、連携を取る人
+- **[coordinator](/coordinator)**：複数の人や部署の間を調整し、連携を取る人
 
 organizerは「主催者・まとめ役」として全体を動かす立場、coordinatorは「調整役」として関係者をつなぐ役割に重点があります。
 
@@ -105,14 +109,14 @@ organizerは「主催者・まとめ役」として全体を動かす立場、co
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理者、責任者
-- [planner](/word/planner/)：計画者、企画担当者
+- [manager](/manager)：管理者、責任者
+- [planner](/planner)：計画者、企画担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [participant](/word/participant/)：参加者
-- [schedule](/word/schedule/)：予定、スケジュール
+- [participant](/participant)：参加者
+- [schedule](/schedule)：予定、スケジュール
 
-<!-- cvid: aid35_bid04 -->
+<!-- cvid: aid25_bid44 -->

@@ -82,15 +82,19 @@ heraldはTOEICの長文読解パートで、ニュース記事や公式発表文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid43" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid43" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ heraldはTOEICの長文読解パートで、ニュース記事や公式発表文
 ## 🤔  announce との違いは？
 
 - **herald**：何かの到来や始まりを「前触れ」として公式に知らせる、予兆を示す
-- **[announce](/word/announce/)**：出来事や情報を「発表する」「公表する」
+- **[announce](/announce)**：出来事や情報を「発表する」「公表する」
 
 heraldは「新時代の到来」など大きな変化や出来事の前触れを強調し、announceは単に情報を伝えるニュートラルな表現です。
 
@@ -106,14 +110,14 @@ heraldは「新時代の到来」など大きな変化や出来事の前触れ�
 
 ## 🧩 あわせて覚えたい
 
-- [proclaim](/word/proclaim/)：（公式に）宣言する
-- [signal](/word/signal/)：合図する、示す
+- [proclaim](/proclaim)：（公式に）宣言する
+- [signal](/signal)：合図する、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [forecast](/word/forecast/)：予測する、予報する
-- [declare](/word/declare/)：宣言する、公表する
+- [forecast](/forecast)：予測する、予報する
+- [declare](/declare)：宣言する、公表する
 
-<!-- cvid: aid08_bid40 -->
+<!-- cvid: aid19_bid43 -->

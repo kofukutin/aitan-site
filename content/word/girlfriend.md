@@ -81,15 +81,19 @@ TOEICでは日常会話や人物紹介の場面で出題されることがあり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid47_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは日常会話や人物紹介の場面で出題されることがあり
 ## 🤔  partner との違いは？
 
 - **girlfriend**：恋愛関係にある女性をカジュアルに指す。
-- **[partner](/word/partner/)**：性別を問わず恋人や配偶者、ビジネスの相棒など幅広く使うフォーマルな語。
+- **[partner](/partner)**：性別を問わず恋人や配偶者、ビジネスの相棒など幅広く使うフォーマルな語。
 
 girlfriendは「女性の恋人」に限定されカジュアルですが、partnerは性別や関係性を問わず幅広く使えるフォーマルな表現です。
 
@@ -105,14 +109,14 @@ girlfriendは「女性の恋人」に限定されカジュアルですが、part
 
 ## 🧩 あわせて覚えたい
 
-- [boyfriend](/word/boyfriend/)：男性の恋人
-- [fiancee](/word/fiancee/)：婚約者（女性）
+- [boyfriend](/boyfriend)：男性の恋人
+- [fiancee](/fiancee)：婚約者（女性）
 
 ---
 
 ## 📖 できればこれも
 
-- [boyfriend](/word/boyfriend/)：男性の恋人
-- [couple](/word/couple/)：カップル、恋人同士
+- [boyfriend](/boyfriend)：男性の恋人
+- [couple](/couple)：カップル、恋人同士
 
-<!-- cvid: aid11_bid06 -->
+<!-- cvid: aid47_bid30 -->

@@ -81,15 +81,19 @@ collectingは、TOEICの会話パートで「資料を集める」「情報を�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ collectingは、TOEICの会話パートで「資料を集める」「情報を�
 ## 🤔  gathering との違いは？
 
 - **collecting**：目的を持って体系的に集めることを強調
-- **[gathering](/word/gathering/)**：人や物を広く集める、または自然に集まることを強調
+- **[gathering](/gathering)**：人や物を広く集める、または自然に集まることを強調
 
 collectingは計画的・意図的な収集、gatheringはより広範で自然な集まりや集合を指します。
 
@@ -105,14 +109,14 @@ collectingは計画的・意図的な収集、gatheringはより広範で自然�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：組み立てる、集める
-- [accumulate](/word/accumulate/)：蓄積する、積み上げる
+- [assemble](/assemble)：組み立てる、集める
+- [accumulate](/accumulate)：蓄積する、積み上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：整理する、まとめる
-- [sort](/word/sort/)：分類する、仕分ける
+- [organize](/organize)：整理する、まとめる
+- [sort](/sort)：分類する、仕分ける
 
-<!-- cvid: aid07_bid17 -->
+<!-- cvid: aid45_bid46 -->

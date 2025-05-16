@@ -81,15 +81,19 @@ TOEICでは比較級の文法問題や、状況の変化を説明する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較級の文法問題や、状況の変化を説明する文脈で
 ## 🤔  inferior との違いは？
 
 - **worse**：単純に「より悪い」「もっと悪い」という比較級。状態や状況の悪化に幅広く使う。
-- **[inferior](/word/inferior/)**：品質や能力などが「劣っている」「下位である」という意味で、ややフォーマル。
+- **[inferior](/inferior)**：品質や能力などが「劣っている」「下位である」という意味で、ややフォーマル。
 
 worseは日常的な比較や変化に使い、inferiorは品質や地位などの優劣を強調したいときに使います。
 
@@ -105,14 +109,14 @@ worseは日常的な比較や変化に使い、inferiorは品質や地位など�
 
 ## 🧩 あわせて覚えたい
 
-- [better](/word/better/)：より良い
-- [decline](/word/decline/)：減少する、悪化する
+- [better](/better)：より良い
+- [decline](/decline)：減少する、悪化する
 
 ---
 
 ## 📖 できればこれも
 
-- [bad](/word/bad/)：悪い
-- [improve](/word/improve/)：改善する
+- [bad](/bad)：悪い
+- [improve](/improve)：改善する
 
-<!-- cvid: aid13_bid28 -->
+<!-- cvid: aid16_bid36 -->

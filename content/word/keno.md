@@ -81,15 +81,19 @@ TOEICでは観光やカジノ、エンターテインメント関連の長文や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やカジノ、エンターテインメント関連の長文や
 ## 🤔  lottery との違いは？
 
 - **keno**：カジノや施設内で行う、数字を選ぶ即時型のくじゲーム
-- **[lottery](/word/lottery/)**：一般的に広く行われる宝くじ、抽選まで時間がかかることが多い
+- **[lottery](/lottery)**：一般的に広く行われる宝くじ、抽選まで時間がかかることが多い
 
 kenoはその場ですぐ結果が出るカジノゲーム、lotteryは広く販売される宝くじで抽選日が決まっている点が異なります。
 
@@ -105,14 +109,14 @@ kenoはその場ですぐ結果が出るカジノゲーム、lotteryは広く販
 
 ## 🧩 あわせて覚えたい
 
-- [gamble](/word/gamble/)：賭け事をする
-- [raffle](/word/raffle/)：慈善目的などで行うくじ引き
+- [gamble](/gamble)：賭け事をする
+- [raffle](/raffle)：慈善目的などで行うくじ引き
 
 ---
 
 ## 📖 できればこれも
 
-- [casino](/word/casino/)：カジノ、賭博場
-- [bet](/word/bet/)：賭け、賭ける
+- [casino](/casino)：カジノ、賭博場
+- [bet](/bet)：賭け、賭ける
 
-<!-- cvid: aid17_bid49 -->
+<!-- cvid: aid00_bid40 -->

@@ -77,15 +77,19 @@ TOEICでは会議や計画の説明、手順の流れを示す文脈で「最初
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会議や計画の説明、手順の流れを示す文脈で「最初
 ## 🤔  originally との違いは？
 
 - **initially**：物事の「最初の段階で」「初めに」
-- **[originally](/word/originally/)**：もともと、当初は（その後変化があったことを暗示）
+- **[originally](/originally)**：もともと、当初は（その後変化があったことを暗示）
 
 initiallyは「始まりの時点」を客観的に示し、originallyは「もともとはそうだったが今は違う」ニュアンスが強いです。
 
@@ -101,14 +105,14 @@ initiallyは「始まりの時点」を客観的に示し、originallyは「も�
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually/)：最終的に
-- [temporarily](/word/temporarily/)：一時的に
+- [eventually](/eventually)：最終的に
+- [temporarily](/temporarily)：一時的に
 
 ---
 
 ## 📖 できればこれも
 
-- [finally](/word/finally/)：ついに、最後に
-- [recently](/word/recently/)：最近
+- [finally](/finally)：ついに、最後に
+- [recently](/recently)：最近
 
-<!-- cvid: aid11_bid28 -->
+<!-- cvid: aid37_bid15 -->

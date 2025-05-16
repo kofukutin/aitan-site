@@ -81,15 +81,19 @@ TOEICでは、火災や喫煙、環境問題などの話題で「smoke」が会�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、火災や喫煙、環境問題などの話題で「smoke」が会�
 ## 🤔  steam との違いは？
 
 - **smoke**：物が燃えるときに出る煙。灰色や黒っぽいことが多い。
-- **[steam](/word/steam/)**：水が熱せられてできる蒸気。白くて水分を多く含む。
+- **[steam](/steam)**：水が熱せられてできる蒸気。白くて水分を多く含む。
 
 smokeは「燃焼による煙」、steamは「水分の蒸気」と、発生源や見た目が異なります。
 
@@ -105,14 +109,14 @@ smokeは「燃焼による煙」、steamは「水分の蒸気」と、発生源�
 
 ## 🧩 あわせて覚えたい
 
-- [fog](/word/fog/)：霧
-- [pollution](/word/pollution/)：汚染
+- [fog](/fog)：霧
+- [pollution](/pollution)：汚染
 
 ---
 
 ## 📖 できればこれも
 
-- [fire](/word/fire/)：火
-- [burn](/word/burn/)：燃やす
+- [fire](/fire)：火
+- [burn](/burn)：燃やす
 
-<!-- cvid: aid38_bid48 -->
+<!-- cvid: aid33_bid13 -->

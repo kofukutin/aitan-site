@@ -81,15 +81,19 @@ TOEICでは、メールや書類、荷物のやり取りに関する会話や指
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid41_bid06" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid06" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや書類、荷物のやり取りに関する会話や指
 ## 🤔  deliver との違いは？
 
 - **send**：物や情報を「送る」動作全般を指す、送り出す側に注目。
-- **[deliver](/word/deliver/)**：物を「届ける」「配達する」など、受け取り手に届くことに注目。
+- **[deliver](/deliver)**：物を「届ける」「配達する」など、受け取り手に届くことに注目。
 
 sendは「送り出す」こと自体に焦点があり、deliverは「相手に届く」ことに重点があります。
 
@@ -105,14 +109,14 @@ sendは「送り出す」こと自体に焦点があり、deliverは「相手に
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る
-- [forward](/word/forward/)：転送する
+- [receive](/receive)：受け取る
+- [forward](/forward)：転送する
 
 ---
 
 ## 📖 できればこれも
 
-- [mail](/word/mail/)：郵便、メール
-- [contact](/word/contact/)：連絡する
+- [mail](/mail)：郵便、メール
+- [contact](/contact)：連絡する
 
-<!-- cvid: aid33_bid13 -->
+<!-- cvid: aid41_bid06 -->

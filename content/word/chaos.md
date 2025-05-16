@@ -82,15 +82,19 @@ TOEICでは、トラブルや緊急事態、混乱した状況を説明する文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、トラブルや緊急事態、混乱した状況を説明する文
 ## 🤔  confusion との違いは？
 
 - **chaos**：秩序が完全に失われた大混乱や無秩序の状態
-- **[confusion](/word/confusion/)**：混乱や困惑、物事がはっきりしない状態
+- **[confusion](/confusion)**：混乱や困惑、物事がはっきりしない状態
 
 chaosは「手がつけられないほどの大混乱」、confusionは「頭の中や状況がごちゃごちゃしている」程度の混乱を指します。
 
@@ -106,14 +110,14 @@ chaosは「手がつけられないほどの大混乱」、confusionは「頭の
 
 ## 🧩 あわせて覚えたい
 
-- [order](/word/order/)：秩序、順序
-- [disorder](/word/disorder/)：無秩序、混乱
+- [order](/order)：秩序、順序
+- [disorder](/disorder)：無秩序、混乱
 
 ---
 
 ## 📖 できればこれも
 
-- [crisis](/word/crisis/)：危機
-- [incident](/word/incident/)：出来事、事件
+- [crisis](/crisis)：危機
+- [incident](/incident)：出来事、事件
 
-<!-- cvid: aid41_bid14 -->
+<!-- cvid: aid38_bid06 -->

@@ -82,15 +82,19 @@ TOEICでは主にPart 7の長文やビジネス関連の会話で、業界や産
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 7の長文やビジネス関連の会話で、業界や産
 ## 🤔  factory との違いは？
 
 - **industry**：経済活動としての「産業」や「業界」全体を指す
-- **[factory](/word/factory/)**：製品を実際に作る「工場」という建物や場所
+- **[factory](/factory)**：製品を実際に作る「工場」という建物や場所
 
 industryは広い意味で経済分野や業界全体を指し、factoryは製造現場そのものを指します。
 
@@ -106,14 +110,14 @@ industryは広い意味で経済分野や業界全体を指し、factoryは製�
 
 ## 🧩 あわせて覚えたい
 
-- [company](/word/company/)：会社、企業
-- [sector](/word/sector/)：（経済の）部門、分野
+- [company](/company)：会社、企業
+- [sector](/sector)：（経済の）部門、分野
 
 ---
 
 ## 📖 できればこれも
 
-- [business](/word/business/)：ビジネス、事業
-- [market](/word/market/)：市場、マーケット
+- [business](/business)：ビジネス、事業
+- [market](/market)：市場、マーケット
 
-<!-- cvid: aid14_bid00 -->
+<!-- cvid: aid08_bid27 -->

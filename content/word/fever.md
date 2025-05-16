@@ -81,15 +81,19 @@ She couldn't come to work because of a high fever.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ She couldn't come to work because of a high fever.
 ## 🤔  temperature との違いは？
 
 - **fever**：病気による「発熱」「熱」のこと
-- **[temperature](/word/temperature/)**：体温そのものや温度全般
+- **[temperature](/temperature)**：体温そのものや温度全般
 
 feverは「病気で熱がある」状態を指し、temperatureは単に「体温」や「温度」を表します。
 
@@ -105,14 +109,14 @@ feverは「病気で熱がある」状態を指し、temperatureは単に「体�
 
 ## 🧩 あわせて覚えたい
 
-- [illness](/word/illness/)：病気
-- [infection](/word/infection/)：感染
+- [illness](/illness)：病気
+- [infection](/infection)：感染
 
 ---
 
 ## 📖 できればこれも
 
-- [cough](/word/cough/)：咳
-- [headache](/word/headache/)：頭痛
+- [cough](/cough)：咳
+- [headache](/headache)：頭痛
 
-<!-- cvid: aid10_bid06 -->
+<!-- cvid: aid28_bid46 -->

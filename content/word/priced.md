@@ -81,15 +81,19 @@ TOEICでは「highly priced」「reasonably priced」など、他の語と組み
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「highly priced」「reasonably priced」など、他の語と組み
 ## 🤔  expensive との違いは？
 
 - **priced**：値段がついている、価格設定がどうかを表す
-- **[expensive](/word/expensive/)**：高価な、値段が高い
+- **[expensive](/expensive)**：高価な、値段が高い
 
 「priced」は価格の状態や設定を客観的に表し、「expensive」は主観的に「高い」と感じる場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「highly priced」「reasonably priced」など、他の語と組み
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable/)：手ごろな価格の
-- [reasonable](/word/reasonable/)：妥当な、納得できる価格の
+- [affordable](/affordable)：手ごろな価格の
+- [reasonable](/reasonable)：妥当な、納得できる価格の
 
 ---
 
 ## 📖 できればこれも
 
-- [costly](/word/costly/)：高価な、費用がかかる
-- [valuable](/word/valuable/)：価値のある
+- [costly](/costly)：高価な、費用がかかる
+- [valuable](/valuable)：価値のある
 
-<!-- cvid: aid48_bid11 -->
+<!-- cvid: aid38_bid42 -->

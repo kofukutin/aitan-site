@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「状況」「事態」を表す語としてよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「状況」「事態」を表す語としてよ
 ## 🤔  condition との違いは？
 
 - **situation**：ある時点での具体的な状況や事態を指す
-- **[condition](/word/condition/)**：物や人の「状態」や「体調」など、より抽象的・一般的な状態を指す
+- **[condition](/condition)**：物や人の「状態」や「体調」など、より抽象的・一般的な状態を指す
 
 situationは「今どういう状況か」という場面や背景に焦点を当て、conditionは「健康状態」や「物の良し悪し」などの性質に注目します。
 
@@ -105,14 +109,14 @@ situationは「今どういう状況か」という場面や背景に焦点を�
 
 ## 🧩 あわせて覚えたい
 
-- [circumstance](/word/circumstance/)：（周囲の）事情、環境
-- [position](/word/position/)：立場、地位
+- [circumstance](/circumstance)：（周囲の）事情、環境
+- [position](/position)：立場、地位
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case/)：場合、事例
-- [event](/word/event/)：出来事、行事
+- [case](/case)：場合、事例
+- [event](/event)：出来事、行事
 
-<!-- cvid: aid31_bid03 -->
+<!-- cvid: aid29_bid24 -->

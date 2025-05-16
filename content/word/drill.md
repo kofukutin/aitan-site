@@ -81,15 +81,19 @@ TOEICでは、職場や学校での訓練や安全対策の文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や学校での訓練や安全対策の文脈で出題され
 ## 🤔  practice との違いは？
 
 - **drill**：特定の動作や手順を繰り返し訓練すること、またはその訓練自体。
-- **[practice](/word/practice/)**：一般的な練習や習慣、幅広い活動に使う。
+- **[practice](/practice)**：一般的な練習や習慣、幅広い活動に使う。
 
 drillは「型通りに繰り返す訓練」、practiceは「幅広い練習や実践」に使い分けます。
 
@@ -105,14 +109,14 @@ drillは「型通りに繰り返す訓練」、practiceは「幅広い練習や�
 
 ## 🧩 あわせて覚えたい
 
-- [exercise](/word/exercise/)：練習、運動
-- [routine](/word/routine/)：決まった手順、日課
+- [exercise](/exercise)：練習、運動
+- [routine](/routine)：決まった手順、日課
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/word/task/)：課題、仕事
-- [method](/word/method/)：方法、やり方
+- [task](/task)：課題、仕事
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid09_bid38 -->
+<!-- cvid: aid48_bid37 -->

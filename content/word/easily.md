@@ -81,15 +81,19 @@ TOEICでは副詞の語法や語順問題でよく出題されます。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは副詞の語法や語順問題でよく出題されます。特に「
 ## 🤔  simply との違いは？
 
 - **easily**：苦労せずに、たやすくできる様子を表す
-- **[simply](/word/simply/)**：単純に、複雑でないことを強調する
+- **[simply](/simply)**：単純に、複雑でないことを強調する
 
 easilyは「難しくない」「努力がいらない」ことに焦点があり、simplyは「複雑でない」「方法が単純」というニュアンスです。
 
@@ -105,14 +109,14 @@ easilyは「難しくない」「努力がいらない」ことに焦点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [quickly](/word/quickly/)：速く
-- [hardly](/word/hardly/)：ほとんど～ない
+- [quickly](/quickly)：速く
+- [hardly](/hardly)：ほとんど～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [hardly](/word/hardly/)：ほとんど～ない
+- [quickly](/quickly)：速く
+- [hardly](/hardly)：ほとんど～ない
 
-<!-- cvid: aid08_bid45 -->
+<!-- cvid: aid40_bid28 -->

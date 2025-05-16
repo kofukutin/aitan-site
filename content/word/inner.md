@@ -81,15 +81,19 @@ TOEICでは、部品や構造の説明、または抽象的な「内面」につ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、部品や構造の説明、または抽象的な「内面」につ
 ## 🤔  internal との違いは？
 
 - **inner**：物理的・心理的な「内側」「内面」を幅広く表す。日常的な表現にも使う。
-- **[internal](/word/internal/)**：よりフォーマルで、組織やシステムなど「内部的」「内在的」な意味合いが強い。
+- **[internal](/internal)**：よりフォーマルで、組織やシステムなど「内部的」「内在的」な意味合いが強い。
 
 「inner」は感情や心、物の内側など幅広く使えるのに対し、「internal」は組織や機械、制度などの「内部」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、部品や構造の説明、または抽象的な「内面」につ
 
 ## 🧩 あわせて覚えたい
 
-- [outer](/word/outer/)：外側の
-- [inside](/word/inside/)：内側、内部
+- [outer](/outer)：外側の
+- [inside](/inside)：内側、内部
 
 ---
 
 ## 📖 できればこれも
 
-- [external](/word/external/)：外部の、外側の
-- [interior](/word/interior/)：内部、内装
+- [external](/external)：外部の、外側の
+- [interior](/interior)：内部、内装
 
-<!-- cvid: aid33_bid45 -->
+<!-- cvid: aid04_bid07 -->

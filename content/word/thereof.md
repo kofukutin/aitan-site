@@ -77,15 +77,19 @@ thereofはTOEICのPart 7で、契約書や規約などのフォーマルな文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0IZM" class="ad-link" data-cvid="aid31_bid20" data-difficulty="5" rel="nofollow">スタディサプリ ENGLISH　まずは無料体験！</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0IZM" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid20" data-difficulty="5" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ thereofはTOEICのPart 7で、契約書や規約などのフォーマルな文�
 ## 🤔  therefrom との違いは？
 
 - **thereof**：それの、それに関して
-- **[therefrom](/word/therefrom/)**：それから（離れて）、それ以降
+- **[therefrom](/therefrom)**：それから（離れて）、それ以降
 
 thereofは「それ自体に関して」を指し、therefromは「それから（起因して）」や「それ以降」を意味します。契約書などで使い分けが必要です。
 
@@ -101,14 +105,14 @@ thereofは「それ自体に関して」を指し、therefromは「それから�
 
 ## 🧩 あわせて覚えたい
 
-- [hereof](/word/hereof/)：これの、これに関して
-- [whereof](/word/whereof/)：そのうちの、何の
+- [hereof](/hereof)：これの、これに関して
+- [whereof](/whereof)：そのうちの、何の
 
 ---
 
 ## 📖 できればこれも
 
-- [hereby](/word/hereby/)：これにより
-- [therein](/word/therein/)：その中に
+- [hereby](/hereby)：これにより
+- [therein](/therein)：その中に
 
-<!-- cvid: aid39_bid34 -->
+<!-- cvid: aid31_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは主に説明文や広告、商品説明などで「processed food（�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に説明文や広告、商品説明などで「processed food（�
 ## 🤔  refined との違いは？
 
 - **processed**：一般的に機械や工程で加工・処理された状態を指す
-- **[refined](/word/refined/)**：不純物を取り除いて「精製された」「洗練された」状態を指す
+- **[refined](/refined)**：不純物を取り除いて「精製された」「洗練された」状態を指す
 
 processedは広く「加工された」もの全般に使い、refinedは特に「純度を高めるために精製された」場合に使います。
 
@@ -105,14 +109,14 @@ processedは広く「加工された」もの全般に使い、refinedは特に�
 
 ## 🧩 あわせて覚えたい
 
-- [raw](/word/raw/)：生の、未加工の
-- [manufactured](/word/manufactured/)：製造された、工場で作られた
+- [raw](/raw)：生の、未加工の
+- [manufactured](/manufactured)：製造された、工場で作られた
 
 ---
 
 ## 📖 できればこれも
 
-- [packaged](/word/packaged/)：包装された
-- [organic](/word/organic/)：有機の、オーガニックの
+- [packaged](/packaged)：包装された
+- [organic](/organic)：有機の、オーガニックの
 
-<!-- cvid: aid31_bid35 -->
+<!-- cvid: aid41_bid26 -->

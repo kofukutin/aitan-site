@@ -81,15 +81,19 @@ TOEICでは、注文や物流、納期に関するメールや案内文で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、注文や物流、納期に関するメールや案内文で頻出
 ## 🤔  delivery との違いは？
 
 - **shipment**：発送や出荷そのもの、または発送された品物を指す
-- **[delivery](/word/delivery/)**：配達や届ける行為、または配達された品物を指す
+- **[delivery](/delivery)**：配達や届ける行為、または配達された品物を指す
 
 shipmentは「送り出す側」の視点で使われ、deliveryは「受け取る側」や「届ける行為」に焦点があります。
 
@@ -105,14 +109,14 @@ shipmentは「送り出す側」の視点で使われ、deliveryは「受け取�
 
 ## 🧩 あわせて覚えたい
 
-- [consignment](/word/consignment/)：委託貨物、委託発送
-- [dispatch](/word/dispatch/)：発送、派遣
+- [consignment](/consignment)：委託貨物、委託発送
+- [dispatch](/dispatch)：発送、派遣
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice/)：請求書
-- [cargo](/word/cargo/)：貨物
+- [invoice](/invoice)：請求書
+- [cargo](/cargo)：貨物
 
-<!-- cvid: aid31_bid03 -->
+<!-- cvid: aid03_bid21 -->

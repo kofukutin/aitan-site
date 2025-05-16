@@ -81,15 +81,19 @@ tunaはTOEICのレストランや食事、観光に関する長文で登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid00" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid00" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tunaはTOEICのレストランや食事、観光に関する長文で登場す�
 ## 🤔  salmon との違いは？
 
 - **tuna**：マグロ。赤身で味が濃く、寿司や刺身、缶詰などで使われる。
-- **[salmon](/word/salmon/)**：サケ。オレンジ色の身で、焼き魚や寿司、スモークサーモンなどに使われる。
+- **[salmon](/salmon)**：サケ。オレンジ色の身で、焼き魚や寿司、スモークサーモンなどに使われる。
 
 tunaは赤身の大型魚、salmonは脂ののったオレンジ色の魚で、料理や味わいが異なります。
 
@@ -105,14 +109,14 @@ tunaは赤身の大型魚、salmonは脂ののったオレンジ色の魚で、�
 
 ## 🧩 あわせて覚えたい
 
-- [sardine](/word/sardine/)：イワシ
-- [shrimp](/word/shrimp/)：エビ
+- [sardine](/sardine)：イワシ
+- [shrimp](/shrimp)：エビ
 
 ---
 
 ## 📖 できればこれも
 
-- [crab](/word/crab/)：カニ
-- [octopus](/word/octopus/)：タコ
+- [crab](/crab)：カニ
+- [octopus](/octopus)：タコ
 
-<!-- cvid: aid24_bid33 -->
+<!-- cvid: aid37_bid00 -->

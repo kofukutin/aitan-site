@@ -81,15 +81,19 @@ TOEICでは主にITやビジネスの専門分野、またはインターネッ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にITやビジネスの専門分野、またはインターネッ�
 ## 🤔  field との違いは？
 
 - **domain**：専門性や権威、支配が及ぶ「領域」「分野」をややフォーマルに表現
-- **[field](/word/field/)**：より一般的な「分野」「現場」「活動領域」を幅広く表現
+- **[field](/field)**：より一般的な「分野」「現場」「活動領域」を幅広く表現
 
 domainは専門性や権威が強調される場面で使われ、fieldは日常的・広範な分野に使われます。
 
@@ -105,14 +109,14 @@ domainは専門性や権威が強調される場面で使われ、fieldは日常
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area/)：範囲、分野
-- [realm](/word/realm/)：領域、分野（やや文学的）
+- [area](/area)：範囲、分野
+- [realm](/realm)：領域、分野（やや文学的）
 
 ---
 
 ## 📖 できればこれも
 
-- [sector](/word/sector/)：部門、分野
-- [category](/word/category/)：カテゴリー、分類
+- [sector](/sector)：部門、分野
+- [category](/category)：カテゴリー、分類
 
-<!-- cvid: aid16_bid32 -->
+<!-- cvid: aid05_bid43 -->

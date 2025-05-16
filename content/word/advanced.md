@@ -81,15 +81,19 @@ TOEICでは「advanced technology」「advanced course」など、技術やス�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「advanced technology」「advanced course」など、技術やス�
 ## 🤔  sophisticated との違いは？
 
 - **advanced**：技術や知識などが「進んでいる」「上級の」「先進的な」ことを表す。
-- **[sophisticated](/word/sophisticated/)**：洗練されていて複雑、または高度な知識や経験を持つことを表す。
+- **[sophisticated](/sophisticated)**：洗練されていて複雑、または高度な知識や経験を持つことを表す。
 
 「advanced」は単にレベルや段階が高いことを指し、「sophisticated」は洗練や複雑さ、経験の豊富さを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは「advanced technology」「advanced course」など、技術やス�
 
 ## 🧩 あわせて覚えたい
 
-- [basic](/word/basic/)：基本的な、初歩的な
-- [progress](/word/progress/)：進歩、前進
+- [basic](/basic)：基本的な、初歩的な
+- [progress](/progress)：進歩、前進
 
 ---
 
 ## 📖 できればこれも
 
-- [complex](/word/complex/)：複雑な
-- [improve](/word/improve/)：改善する、向上させる
+- [complex](/complex)：複雑な
+- [improve](/improve)：改善する、向上させる
 
-<!-- cvid: aid10_bid45 -->
+<!-- cvid: aid45_bid42 -->

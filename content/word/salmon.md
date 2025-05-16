@@ -80,15 +80,19 @@ TOEICではレストランのメニューや観光案内、食材に関する長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではレストランのメニューや観光案内、食材に関する長
 ## 🤔  trout との違いは？
 
 - **salmon**：サケ。川と海を行き来し、食用として人気が高い魚。
-- **[trout](/word/trout/)**：マス。サケに似ているが、主に淡水に生息し、やや小型。
+- **[trout](/trout)**：マス。サケに似ているが、主に淡水に生息し、やや小型。
 
 salmonは主にサケ類全般やその肉を指し、troutはマス類で、見た目や生息地が異なります。
 
@@ -104,14 +108,14 @@ salmonは主にサケ類全般やその肉を指し、troutはマス類で、見
 
 ## 🧩 あわせて覚えたい
 
-- [tuna](/word/tuna/)：マグロ
-- [shrimp](/word/shrimp/)：エビ
+- [tuna](/tuna)：マグロ
+- [shrimp](/shrimp)：エビ
 
 ---
 
 ## 📖 できればこれも
 
-- [crab](/word/crab/)：カニ
-- [fish](/word/fish/)：魚
+- [crab](/crab)：カニ
+- [fish](/fish)：魚
 
-<!-- cvid: aid08_bid15 -->
+<!-- cvid: aid04_bid10 -->

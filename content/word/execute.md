@@ -81,15 +81,19 @@ TOEICでは主にビジネスやIT関連の文脈で「実行する」という�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid17_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスやIT関連の文脈で「実行する」という�
 ## 🤔  implement との違いは？
 
 - **execute**：計画や命令などを「実際に行動に移して実行する」ことを強調
-- **[implement](/word/implement/)**：計画や方針を「具体的な形にして実現する」ことを強調
+- **[implement](/implement)**：計画や方針を「具体的な形にして実現する」ことを強調
 
 「execute」は命令やプログラムなどをそのまま実行するニュアンスが強く、「implement」は計画を現実化するための準備や手順も含みます。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネスやIT関連の文脈で「実行する」という�
 
 ## 🧩 あわせて覚えたい
 
-- [perform](/word/perform/)：（任務・作業などを）行う
-- [abort](/word/abort/)：中止する、途中でやめる
+- [perform](/perform)：（任務・作業などを）行う
+- [abort](/abort)：中止する、途中でやめる
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate/)：操作する、運営する
-- [accomplish](/word/accomplish/)：成し遂げる、達成する
+- [operate](/operate)：操作する、運営する
+- [accomplish](/accomplish)：成し遂げる、達成する
 
-<!-- cvid: aid00_bid39 -->
+<!-- cvid: aid17_bid49 -->

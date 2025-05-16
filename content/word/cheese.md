@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【cheese】の意味・使い方・例文 ― butterとの違い【TOEIC英単語】"
 description: "cheeseの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbutterとの違いもわかりやすく学べます。"
 word: "cheese"
@@ -80,15 +80,19 @@ TOEICではPart 1の写真描写で、食べ物や食卓のシーンで登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid42_bid34" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid34" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではPart 1の写真描写で、食べ物や食卓のシーンで登場す
 ## 🤔  butter との違いは？
 
 - **cheese**：牛乳などを発酵・凝固させて作る固形の乳製品。
-- **[butter](/word/butter/)**：牛乳や生クリームを撹拌して作る、パンなどに塗る柔らかい乳製品。
+- **[butter](/butter)**：牛乳や生クリームを撹拌して作る、パンなどに塗る柔らかい乳製品。
 
 cheeseは発酵・凝固による固形食品、butterは撹拌によるクリーミーな食品で、用途や食感が異なります。
 
@@ -104,14 +108,14 @@ cheeseは発酵・凝固による固形食品、butterは撹拌によるクリ�
 
 ## 🧩 あわせて覚えたい
 
-- [milk](/word/milk/)：牛乳
-- [yogurt](/word/yogurt/)：ヨーグルト
+- [milk](/milk)：牛乳
+- [yogurt](/yogurt)：ヨーグルト
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread/)：パン
-- [egg](/word/egg/)：卵
+- [bread](/bread)：パン
+- [egg](/egg)：卵
 
-<!-- cvid: aid05_bid16 -->
+<!-- cvid: aid42_bid34 -->

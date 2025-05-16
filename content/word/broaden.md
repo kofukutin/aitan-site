@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「視野を広げる」「範囲を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「視野を広げる」「範囲を
 ## 🤔  expand との違いは？
 
 - **broaden**：範囲や視野などを広げる（特に抽象的なものに使うことが多い）
-- **[expand](/word/expand/)**：規模や量、物理的な大きさを拡大する
+- **[expand](/expand)**：規模や量、物理的な大きさを拡大する
 
 「broaden」は知識や経験、視野など抽象的なものに使われやすく、「expand」は物理的・数量的な拡大に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスの場面で「視野を広げる」「範囲を
 
 ## 🧩 あわせて覚えたい
 
-- [widen](/word/widen/)：幅を広げる
-- [narrow](/word/narrow/)：狭める
+- [widen](/widen)：幅を広げる
+- [narrow](/narrow)：狭める
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する
-- [enhance](/word/enhance/)：高める、強化する
+- [improve](/improve)：改善する
+- [enhance](/enhance)：高める、強化する
 
-<!-- cvid: aid48_bid23 -->
+<!-- cvid: aid20_bid12 -->

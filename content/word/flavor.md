@@ -81,15 +81,19 @@ TOEICでは、飲食や商品説明の会話で「flavor」が登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、飲食や商品説明の会話で「flavor」が登場すること
 ## 🤔  taste との違いは？
 
 - **flavor**：味と香りを含めた「風味」全体を指す
-- **[taste](/word/taste/)**：舌で感じる「味覚」そのもの
+- **[taste](/taste)**：舌で感じる「味覚」そのもの
 
 flavorは香りや全体的な印象も含む広い意味、tasteは舌で感じる味そのものを指します。
 
@@ -105,14 +109,14 @@ flavorは香りや全体的な印象も含む広い意味、tasteは舌で感じ
 
 ## 🧩 あわせて覚えたい
 
-- [aroma](/word/aroma/)：香り、芳香
-- [scent](/word/scent/)：におい、香り
+- [aroma](/aroma)：香り、芳香
+- [scent](/scent)：におい、香り
 
 ---
 
 ## 📖 できればこれも
 
-- [smell](/word/smell/)：におい、嗅覚
-- [ingredient](/word/ingredient/)：材料、成分
+- [smell](/smell)：におい、嗅覚
+- [ingredient](/ingredient)：材料、成分
 
-<!-- cvid: aid38_bid18 -->
+<!-- cvid: aid25_bid00 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、郵便配達員の動作や職
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid22" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid22" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、郵便配達員の動作や職
 ## 🤔  postman との違いは？
 
 - **mailman**：アメリカ英語で使われる「郵便配達員」。カジュアルな響き。
-- **[postman](/word/postman/)**：イギリス英語で使われる「郵便配達員」。ややフォーマル。
+- **[postman](/postman)**：イギリス英語で使われる「郵便配達員」。ややフォーマル。
 
 mailmanはアメリカ、postmanはイギリスで主に使われ、意味は同じですが地域によって使い分けます。
 
@@ -105,14 +109,14 @@ mailmanはアメリカ、postmanはイギリスで主に使われ、意味は同
 
 ## 🧩 あわせて覚えたい
 
-- [courier](/word/courier/)：宅配便の配達員
-- [delivery_person](/word/delivery_person/)：配達員（性別問わず使える表現）
+- [courier](/courier)：宅配便の配達員
+- [delivery_person](/delivery_person)：配達員（性別問わず使える表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [package](/word/package/)：小包
-- [letter](/word/letter/)：手紙
+- [package](/package)：小包
+- [letter](/letter)：手紙
 
-<!-- cvid: aid46_bid31 -->
+<!-- cvid: aid13_bid22 -->

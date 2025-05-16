@@ -81,15 +81,19 @@ TOEICでは「調整する」「適応させる」という意味で、スケジ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「調整する」「適応させる」という意味で、スケジ
 ## 🤔  modify との違いは？
 
 - **adjust**：状況や条件に合わせて少し変える、調整する
-- **[modify](/word/modify/)**：部分的に変更する、修正する
+- **[modify](/modify)**：部分的に変更する、修正する
 
 adjustは「微調整」や「適応」のニュアンスが強く、modifyは「一部を変える」「修正する」といった意味で使われます。
 
@@ -105,14 +109,14 @@ adjustは「微調整」や「適応」のニュアンスが強く、modifyは�
 
 ## 🧩 あわせて覚えたい
 
-- [adapt](/word/adapt/)：適応する、順応する
-- [regulate](/word/regulate/)：規制する、調整する
+- [adapt](/adapt)：適応する、順応する
+- [regulate](/regulate)：規制する、調整する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、整える
-- [revise](/word/revise/)：修正する、改訂する
+- [arrange](/arrange)：手配する、整える
+- [revise](/revise)：修正する、改訂する
 
-<!-- cvid: aid43_bid38 -->
+<!-- cvid: aid39_bid45 -->

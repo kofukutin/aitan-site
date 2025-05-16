@@ -81,15 +81,19 @@ TOEICの長文問題や説明文で、意見や結論の根拠を示す際によ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid01_bid03" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid03" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICの長文問題や説明文で、意見や結論の根拠を示す際によ
 ## 🤔  logic との違いは？
 
 - **reasoning**：推論や論理的思考の「過程」や「行為」を指す
-- **[logic](/word/logic/)**：論理そのもの、または論理体系・原理を指す
+- **[logic](/logic)**：論理そのもの、または論理体系・原理を指す
 
 reasoningは「考え方の流れ」や「理由付けのプロセス」を強調し、logicは「論理のルールや構造」自体を指します。
 
@@ -105,14 +109,14 @@ reasoningは「考え方の流れ」や「理由付けのプロセス」を強�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/word/assumption/)：仮定、前提
-- [conclusion](/word/conclusion/)：結論
+- [assumption](/assumption)：仮定、前提
+- [conclusion](/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [argument](/word/argument/)：主張、論拠
+- [analysis](/analysis)：分析
+- [argument](/argument)：主張、論拠
 
-<!-- cvid: aid28_bid15 -->
+<!-- cvid: aid01_bid03 -->

@@ -81,15 +81,19 @@ Fortunately, the meeting was rescheduled to next week.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Fortunately, the meeting was rescheduled to next week.
 ## 🤔  luckily との違いは？
 
 - **fortunately**：客観的に「幸運だった」と述べるときに使う
-- **[luckily](/word/luckily/)**：話し手の主観や感情がより強く表れる
+- **[luckily](/luckily)**：話し手の主観や感情がより強く表れる
 
 fortunatelyはフォーマルで客観的な場面、luckilyはカジュアルで個人的な感情を込めたいときに使い分けます。
 
@@ -105,14 +109,14 @@ fortunatelyはフォーマルで客観的な場面、luckilyはカジュアル�
 
 ## 🧩 あわせて覚えたい
 
-- [unfortunately](/word/unfortunately/)：残念ながら、不運にも
-- [accidentally](/word/accidentally/)：うっかり、偶然に
+- [unfortunately](/unfortunately)：残念ながら、不運にも
+- [accidentally](/accidentally)：うっかり、偶然に
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/word/probably/)：たぶん、おそらく
-- [recently](/word/recently/)：最近
+- [probably](/probably)：たぶん、おそらく
+- [recently](/recently)：最近
 
-<!-- cvid: aid31_bid30 -->
+<!-- cvid: aid15_bid08 -->

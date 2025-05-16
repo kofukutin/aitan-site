@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【sculpture】の意味・使い方・例文 ― statueとの違い【TOEIC英単語】"
 description: "sculptureの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでstatueとの違いもわかりやすく学べます。"
 word: "sculpture"
@@ -81,15 +81,19 @@ TOEICのPart 1で、美術館や公園の写真描写問題によく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 1で、美術館や公園の写真描写問題によく登場しま
 ## 🤔  statue との違いは？
 
 - **sculpture**：彫刻全般や彫刻芸術を指し、抽象的な作品も含む
-- **[statue](/word/statue/)**：特に人や動物などの像（立像）を指す
+- **[statue](/statue)**：特に人や動物などの像（立像）を指す
 
 sculptureはジャンルや作品全体を指し、statueは特定の形（像）を表します。
 
@@ -105,14 +109,14 @@ sculptureはジャンルや作品全体を指し、statueは特定の形（像�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/word/painting/)：絵画
-- [carving](/word/carving/)：彫刻（彫ること、彫刻作品）
+- [painting](/painting)：絵画
+- [carving](/carving)：彫刻（彫ること、彫刻作品）
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/word/gallery/)：美術館、画廊
-- [exhibit](/word/exhibit/)：展示、展示品
+- [gallery](/gallery)：美術館、画廊
+- [exhibit](/exhibit)：展示、展示品
 
-<!-- cvid: aid48_bid14 -->
+<!-- cvid: aid32_bid25 -->

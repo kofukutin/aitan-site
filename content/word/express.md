@@ -81,15 +81,19 @@ TOEICでは、意見や感情を述べる文脈で「express」がよく出題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、意見や感情を述べる文脈で「express」がよく出題�
 ## 🤔  state との違いは？
 
 - **express**：自分の気持ちや考えを「表現する」「伝える」ことに重点がある
-- **[state](/word/state/)**：事実や意見を「はっきり述べる」「明言する」ことに重点がある
+- **[state](/state)**：事実や意見を「はっきり述べる」「明言する」ことに重点がある
 
 「express」は感情や気持ちを含めて伝えるニュアンスが強く、「state」は客観的・公式に述べる場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、意見や感情を述べる文脈で「express」がよく出題�
 
 ## 🧩 あわせて覚えたい
 
-- [convey](/word/convey/)：（考え・気持ちを）伝える
-- [imply](/word/imply/)：暗に示す、ほのめかす
+- [convey](/convey)：（考え・気持ちを）伝える
+- [imply](/imply)：暗に示す、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention/)：言及する
-- [describe](/word/describe/)：描写する、説明する
+- [mention](/mention)：言及する
+- [describe](/describe)：描写する、説明する
 
-<!-- cvid: aid47_bid43 -->
+<!-- cvid: aid15_bid22 -->

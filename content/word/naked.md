@@ -81,15 +81,19 @@ TOEICでは「裸の」「むき出しの」という意味で、形容詞の語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「裸の」「むき出しの」という意味で、形容詞の語
 ## 🤔  bare との違いは？
 
 - **naked**：衣服や覆いがなく「裸」であること、または感情や事実が隠されていないことを強調。
-- **[bare](/word/bare/)**：必要最低限しかない、覆いがない、装飾がない状態を表す。
+- **[bare](/bare)**：必要最低限しかない、覆いがない、装飾がない状態を表す。
 
 nakedは「人や体が裸」「感情や事実がむき出し」といった強い印象、bareは「必要最低限」「何もついていない」など物理的な"むき出し"に使われます。
 
@@ -105,14 +109,14 @@ nakedは「人や体が裸」「感情や事実がむき出し」といった強
 
 ## 🧩 あわせて覚えたい
 
-- [clothed](/word/clothed/)：服を着た
-- [exposed](/word/exposed/)：さらされた、むき出しの
+- [clothed](/clothed)：服を着た
+- [exposed](/exposed)：さらされた、むき出しの
 
 ---
 
 ## 📖 できればこれも
 
-- [empty](/word/empty/)：空の、中身がない
-- [blank](/word/blank/)：空白の、何も書かれていない
+- [empty](/empty)：空の、中身がない
+- [blank](/blank)：空白の、何も書かれていない
 
-<!-- cvid: aid27_bid21 -->
+<!-- cvid: aid29_bid39 -->

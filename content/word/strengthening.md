@@ -81,15 +81,19 @@ TOEICでは、名詞として「強化」「強めること」の意味で、文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、名詞として「強化」「強めること」の意味で、文
 ## 🤔  reinforcement との違いは？
 
 - **strengthening**：強化する「行為」や「過程」に焦点を当てる
-- **[reinforcement](/word/reinforcement/)**：補強・強化された「もの」や「手段」に焦点を当てる
+- **[reinforcement](/reinforcement)**：補強・強化された「もの」や「手段」に焦点を当てる
 
 strengtheningは「強くすること」という動作やプロセスを指し、reinforcementは「補強材」や「補強策」など具体的な手段や結果を指します。
 
@@ -105,14 +109,14 @@ strengtheningは「強くすること」という動作やプロセスを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [improvement](/word/improvement/)：改善、向上
-- [enhancement](/word/enhancement/)：強化、向上
+- [improvement](/improvement)：改善、向上
+- [enhancement](/enhancement)：強化、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [expansion](/word/expansion/)：拡大、拡張
-- [development](/word/development/)：発展、開発
+- [expansion](/expansion)：拡大、拡張
+- [development](/development)：発展、開発
 
-<!-- cvid: aid45_bid07 -->
+<!-- cvid: aid23_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や会議資料などで「外部の」「対外
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や会議資料などで「外部の」「対外
 ## 🤔  outside との違いは？
 
 - **external**：外部の、外側の（フォーマルで抽象的な表現）
-- **[outside](/word/outside/)**：外側、外で（より具体的・日常的な表現）
+- **[outside](/outside)**：外側、外で（より具体的・日常的な表現）
 
 externalは書き言葉や専門的な場面で使われ、outsideは日常会話や物理的な「外」を指すときに使われます。
 
@@ -105,14 +109,14 @@ externalは書き言葉や専門的な場面で使われ、outsideは日常会�
 
 ## 🧩 あわせて覚えたい
 
-- [internal](/word/internal/)：内部の、内側の
-- [outer](/word/outer/)：外側の、外部の（externalよりカジュアル）
+- [internal](/internal)：内部の、内側の
+- [outer](/outer)：外側の、外部の（externalよりカジュアル）
 
 ---
 
 ## 📖 できればこれも
 
-- [internal](/word/internal/)：内部の、内側の
-- [overall](/word/overall/)：全体の、全般的な
+- [internal](/internal)：内部の、内側の
+- [overall](/overall)：全体の、全般的な
 
-<!-- cvid: aid25_bid35 -->
+<!-- cvid: aid10_bid01 -->

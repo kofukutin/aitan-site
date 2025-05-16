@@ -81,15 +81,19 @@ TOEICでは、アンケートや意見、苦情などの文脈で「anonymous」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid34_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、アンケートや意見、苦情などの文脈で「anonymous」
 ## 🤔  unidentified との違いは？
 
 - **anonymous**：名前や身元を明かさない、匿名の
-- **[unidentified](/word/unidentified/)**：正体・身元が特定されていない
+- **[unidentified](/unidentified)**：正体・身元が特定されていない
 
 「anonymous」は意図的に名前を伏せる場合に使い、「unidentified」は誰なのか分からない・特定できない場合に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、アンケートや意見、苦情などの文脈で「anonymous」
 
 ## 🧩 あわせて覚えたい
 
-- [confidential](/word/confidential/)：機密の、内密の
-- [incognito](/word/incognito/)：身分を隠して、匿名で
+- [confidential](/confidential)：機密の、内密の
+- [incognito](/incognito)：身分を隠して、匿名で
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/word/confidential/)：機密の
-- [unknown](/word/unknown/)：未知の、知られていない
+- [confidential](/confidential)：機密の
+- [unknown](/unknown)：未知の、知られていない
 
-<!-- cvid: aid39_bid03 -->
+<!-- cvid: aid34_bid14 -->

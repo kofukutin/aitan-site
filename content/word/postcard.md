@@ -81,15 +81,19 @@ Please include a postcard in each customer's package.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid37" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid37" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please include a postcard in each customer's package.
 ## 🤔  letter との違いは？
 
 - **postcard**：写真やイラスト付きの「はがき」で、短いメッセージを送るのに使う
-- **[letter](/word/letter/)**：封筒に入れて送る「手紙」で、内容が長く丁寧な場合が多い
+- **[letter](/letter)**：封筒に入れて送る「手紙」で、内容が長く丁寧な場合が多い
 
 postcardはカジュアルで短い通信、letterはよりフォーマルで長文のやりとりに使われます。
 
@@ -105,14 +109,14 @@ postcardはカジュアルで短い通信、letterはよりフォーマルで長
 
 ## 🧩 あわせて覚えたい
 
-- [greeting](/word/greeting/)：あいさつ、挨拶状
-- [souvenir](/word/souvenir/)：お土産
+- [greeting](/greeting)：あいさつ、挨拶状
+- [souvenir](/souvenir)：お土産
 
 ---
 
 ## 📖 できればこれも
 
-- [stamp](/word/stamp/)：切手
-- [envelope](/word/envelope/)：封筒
+- [stamp](/stamp)：切手
+- [envelope](/envelope)：封筒
 
-<!-- cvid: aid20_bid08 -->
+<!-- cvid: aid34_bid37 -->

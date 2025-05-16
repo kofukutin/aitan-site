@@ -82,15 +82,19 @@ TOEICでは、会社のイベントや社会的な活動、福利厚生などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、会社のイベントや社会的な活動、福利厚生などの
 ## 🤔  sociable との違いは？
 
 - **social**：社会や集団、交流に関する幅広い意味で使う
-- **[sociable](/word/sociable/)**：人付き合いが好き・社交的な性格を表す
+- **[sociable](/sociable)**：人付き合いが好き・社交的な性格を表す
 
 **social**は「社会的な」「交流の場」など広い意味で使い、**sociable**は「人と話すのが好き」という個人の性格に限定されます。
 
@@ -106,14 +110,14 @@ TOEICでは、会社のイベントや社会的な活動、福利厚生などの
 
 ## 🧩 あわせて覚えたい
 
-- [public](/word/public/)：公共の、一般の
-- [community](/word/community/)：共同体、地域社会
+- [public](/public)：公共の、一般の
+- [community](/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/word/formal/)：正式な、フォーマルな
-- [cultural](/word/cultural/)：文化の、文化的な
+- [formal](/formal)：正式な、フォーマルな
+- [cultural](/cultural)：文化の、文化的な
 
-<!-- cvid: aid40_bid42 -->
+<!-- cvid: aid36_bid30 -->

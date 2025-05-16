@@ -81,15 +81,19 @@ TOEICでは主にビジネスや経済の文脈で「予測する」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや経済の文脈で「予測する」という意
 ## 🤔  forecast との違いは？
 
 - **predict**：根拠やデータに基づいて将来を予測する一般的な表現
-- **[forecast](/word/forecast/)**：特に天気や経済など、公式な数値予測や発表に使われる
+- **[forecast](/forecast)**：特に天気や経済など、公式な数値予測や発表に使われる
 
 predictは幅広い場面で使えますが、forecastは公式な予報や数値予測に特化しています。
 
@@ -105,14 +109,14 @@ predictは幅広い場面で使えますが、forecastは公式な予報や数�
 
 ## 🧩 あわせて覚えたい
 
-- [anticipate](/word/anticipate/)：予期する、期待する
-- [guess](/word/guess/)：推測する（根拠が弱い場合）
+- [anticipate](/anticipate)：予期する、期待する
+- [guess](/guess)：推測する（根拠が弱い場合）
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/word/estimate/)：見積もる、概算する
-- [assume](/word/assume/)：仮定する、思い込む
+- [estimate](/estimate)：見積もる、概算する
+- [assume](/assume)：仮定する、思い込む
 
-<!-- cvid: aid06_bid16 -->
+<!-- cvid: aid07_bid43 -->

@@ -81,15 +81,19 @@ TOEICではメールや案内文、ビジネス文書で「助言」や「提案
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや案内文、ビジネス文書で「助言」や「提案
 ## 🤔  suggestion との違いは？
 
 - **advice**：相手のためを思ってする「助言」や「忠告」
-- **[suggestion](/word/suggestion/)**：選択肢や案としての「提案」
+- **[suggestion](/suggestion)**：選択肢や案としての「提案」
 
 adviceは「こうした方がいい」という親身な気持ちが強く、suggestionは「一つの案」として軽く提案するニュアンスです。
 
@@ -105,14 +109,14 @@ adviceは「こうした方がいい」という親身な気持ちが強く、su
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/word/recommendation/)：推薦、勧告
-- [guidance](/word/guidance/)：指導、案内
+- [recommendation](/recommendation)：推薦、勧告
+- [guidance](/guidance)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion/)：意見
-- [information](/word/information/)：情報
+- [opinion](/opinion)：意見
+- [information](/information)：情報
 
-<!-- cvid: aid33_bid06 -->
+<!-- cvid: aid35_bid34 -->

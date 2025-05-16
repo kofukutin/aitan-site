@@ -81,15 +81,19 @@ TOEICでは「be stored」など受動態でよく出題され、ITやビジネ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be stored」など受動態でよく出題され、ITやビジネ�
 ## 🤔  saved との違いは？
 
 - **stored**：物やデータを一定期間、安全な場所に保管・保存することを強調
-- **[saved](/word/saved/)**：データやお金などを「守る」「取っておく」ニュアンスが強い
+- **[saved](/saved)**：データやお金などを「守る」「取っておく」ニュアンスが強い
 
 storedは「しまっておく」「保管する」イメージ、savedは「失わないように守る」「節約する」などの意味合いが強いです。
 
@@ -105,14 +109,14 @@ storedは「しまっておく」「保管する」イメージ、savedは「失
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive/)：（長期的に）保管する、アーカイブする
-- [retrieve](/word/retrieve/)：取り出す、回収する
+- [archive](/archive)：（長期的に）保管する、アーカイブする
+- [retrieve](/retrieve)：取り出す、回収する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録する
-- [upload](/word/upload/)：アップロードする
+- [record](/record)：記録する
+- [upload](/upload)：アップロードする
 
-<!-- cvid: aid38_bid35 -->
+<!-- cvid: aid47_bid40 -->

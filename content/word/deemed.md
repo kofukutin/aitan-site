@@ -81,15 +81,19 @@ TOEICでは主にPart 5の文法・語彙問題で、フォーマルな文書や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid45_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の文法・語彙問題で、フォーマルな文書や
 ## 🤔  consider との違いは？
 
 - **deemed**：公式・客観的に「～と見なす」「判断される」
-- **[consider](/word/consider/)**：主観的に「～と考える」「検討する」
+- **[consider](/consider)**：主観的に「～と考える」「検討する」
 
 **deemed**は法律やビジネスなどフォーマルな場面で「公式に判断される」ニュアンスが強く、**consider**は個人の意見や思考を表すときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 5の文法・語彙問題で、フォーマルな文書や
 
 ## 🧩 あわせて覚えたい
 
-- [regard](/word/regard/)：～と見なす、評価する
-- [assume](/word/assume/)：仮定する、思い込む
+- [regard](/regard)：～と見なす、評価する
+- [assume](/assume)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [determine](/word/determine/)：決定する、判断する
+- [approve](/approve)：承認する
+- [determine](/determine)：決定する、判断する
 
-<!-- cvid: aid01_bid16 -->
+<!-- cvid: aid45_bid49 -->

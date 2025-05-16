@@ -81,15 +81,19 @@ TOEICでは、機械や設備のトラブル、感情表現などの文脈で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械や設備のトラブル、感情表現などの文脈で出
 ## 🤔  explode との違いは？
 
 - **burst**：突然破裂する、または感情などが急にあふれる
-- **[explode](/word/explode/)**：爆発する（爆薬や大きな爆発に使うことが多い）
+- **[explode](/explode)**：爆発する（爆薬や大きな爆発に使うことが多い）
 
 burstは「中身が急に外に出る」イメージで、explodeは「爆発的な力で壊れる」イメージです。burstの方が日常的な破裂や感情にも使えます。
 
@@ -105,14 +109,14 @@ burstは「中身が急に外に出る」イメージで、explodeは「爆発�
 
 ## 🧩 あわせて覚えたい
 
-- [break](/word/break/)：壊す、壊れる
-- [crack](/word/crack/)：ひびが入る、割れる
+- [break](/break)：壊す、壊れる
+- [crack](/crack)：ひびが入る、割れる
 
 ---
 
 ## 📖 できればこれも
 
-- [split](/word/split/)：割る、分ける
-- [pop](/word/pop/)：ポンと音を立てて破裂する
+- [split](/split)：割る、分ける
+- [pop](/pop)：ポンと音を立てて破裂する
 
-<!-- cvid: aid33_bid20 -->
+<!-- cvid: aid43_bid01 -->

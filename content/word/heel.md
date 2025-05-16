@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、靴や足元の説明として登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、靴や足元の説明として登場
 ## 🤔  sole との違いは？
 
 - **heel**：足や靴の「かかと」部分
-- **[sole](/word/sole/)**：足や靴の「底」全体
+- **[sole](/sole)**：足や靴の「底」全体
 
 heelは「かかと」だけを指し、soleは足や靴の裏全体を指します。使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ heelは「かかと」だけを指し、soleは足や靴の裏全体を指しま
 
 ## 🧩 あわせて覚えたい
 
-- [toe](/word/toe/)：つま先
-- [ankle](/word/ankle/)：足首
+- [toe](/toe)：つま先
+- [ankle](/ankle)：足首
 
 ---
 
 ## 📖 できればこれも
 
-- [boot](/word/boot/)：ブーツ、長靴
-- [leather](/word/leather/)：革、レザー
+- [boot](/boot)：ブーツ、長靴
+- [leather](/leather)：革、レザー
 
-<!-- cvid: aid47_bid02 -->
+<!-- cvid: aid12_bid40 -->

@@ -81,15 +81,19 @@ TOEICでは会社や組織の説明、政府関連の話題などで頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会社や組織の説明、政府関連の話題などで頻出しま
 ## 🤔  management との違いは？
 
 - **administration**：組織や制度の運営・管理、または行政機関そのものを指すフォーマルな表現
-- **[management](/word/management/)**：経営や人・業務の管理を幅広く指し、ビジネス現場でよく使われる
+- **[management](/management)**：経営や人・業務の管理を幅広く指し、ビジネス現場でよく使われる
 
 administrationは制度や組織全体の運営・行政に重点があり、managementは人や業務の具体的な管理・経営に重点があります。
 
@@ -105,14 +109,14 @@ administrationは制度や組織全体の運営・行政に重点があり、man
 
 ## 🧩 あわせて覚えたい
 
-- [supervision](/word/supervision/)：監督、指導
-- [operation](/word/operation/)：運営、作業
+- [supervision](/supervision)：監督、指導
+- [operation](/operation)：運営、作業
 
 ---
 
 ## 📖 できればこれも
 
-- [executive](/word/executive/)：重役、経営幹部
-- [policy](/word/policy/)：方針、政策
+- [executive](/executive)：重役、経営幹部
+- [policy](/policy)：方針、政策
 
-<!-- cvid: aid48_bid37 -->
+<!-- cvid: aid31_bid03 -->

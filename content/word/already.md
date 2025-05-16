@@ -88,8 +88,12 @@ alreadyは会話や説明文で「すでに～した」という完了のニュ�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ alreadyは会話や説明文で「すでに～した」という完了のニュ�
 ## 🤔  yet との違いは？
 
 - **already**：すでに何かが起こったことを強調する
-- **[yet](/word/yet/)**：まだ起こっていないことや、疑問文・否定文で「まだ」「もう」を表す
+- **[yet](/yet)**：まだ起こっていないことや、疑問文・否定文で「まだ」「もう」を表す
 
 alreadyは肯定文で「すでに」、yetは否定文や疑問文で「まだ」「もう」と使い分けます。
 
@@ -105,14 +109,14 @@ alreadyは肯定文で「すでに」、yetは否定文や疑問文で「まだ�
 
 ## 🧩 あわせて覚えたい
 
-- [still](/word/still/)：まだ（継続していることを表す）
-- [just](/word/just/)：ちょうど、たった今
+- [still](/still)：まだ（継続していることを表す）
+- [just](/just)：ちょうど、たった今
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon/)：もうすぐ
-- [recently](/word/recently/)：最近
+- [soon](/soon)：もうすぐ
+- [recently](/recently)：最近
 
-<!-- cvid: aid13_bid31 -->
+<!-- cvid: aid13_bid20 -->

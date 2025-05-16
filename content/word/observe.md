@@ -81,15 +81,19 @@ TOEICでは会議や説明の場面で「観察する」「守る」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や説明の場面で「観察する」「守る」という意
 ## 🤔  notice との違いは？
 
 - **observe**：注意深く観察する、または規則などを守る（フォーマル）
-- **[notice](/word/notice/)**：何かに気づく、目に留まる（カジュアル）
+- **[notice](/notice)**：何かに気づく、目に留まる（カジュアル）
 
 observeは意識的・計画的にじっくり見る場合や、ルールを守る意味で使われますが、noticeは「ふと気づく」といった自然な発見に使われます。
 
@@ -105,14 +109,14 @@ observeは意識的・計画的にじっくり見る場合や、ルールを守�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor/)：監視する、継続的に観察する
-- [ignore](/word/ignore/)：無視する
+- [monitor](/monitor)：監視する、継続的に観察する
+- [ignore](/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/word/examine/)：詳しく調べる
-- [inspect](/word/inspect/)：点検する、検査する
+- [examine](/examine)：詳しく調べる
+- [inspect](/inspect)：点検する、検査する
 
-<!-- cvid: aid42_bid21 -->
+<!-- cvid: aid28_bid47 -->

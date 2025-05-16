@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「熱」「暖房」「暑さ」などの意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「熱」「暖房」「暑さ」などの意味
 ## 🤔  temperature との違いは？
 
 - **heat**：熱そのものや暑さ、熱エネルギーを指す
-- **[temperature](/word/temperature/)**：温度という数値や状態を指す
+- **[temperature](/temperature)**：温度という数値や状態を指す
 
 「heat」は感じる熱や熱エネルギー、「temperature」は温度計で測る数値や状態を表します。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「熱」「暖房」「暑さ」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [warmth](/word/warmth/)：暖かさ、ぬくもり
-- [cold](/word/cold/)：寒さ、冷たさ
+- [warmth](/warmth)：暖かさ、ぬくもり
+- [cold](/cold)：寒さ、冷たさ
 
 ---
 
 ## 📖 できればこれも
 
-- [energy](/word/energy/)：エネルギー
-- [light](/word/light/)：光
+- [energy](/energy)：エネルギー
+- [light](/light)：光
 
-<!-- cvid: aid42_bid15 -->
+<!-- cvid: aid13_bid27 -->

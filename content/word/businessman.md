@@ -81,15 +81,19 @@ TOEICでは会話や説明文で、職業や役割を表す単語としてよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で、職業や役割を表す単語としてよく
 ## 🤔  entrepreneur との違いは？
 
 - **businessman**：一般的にビジネスに従事する男性や実業家を指す
-- **[entrepreneur](/word/entrepreneur/)**：新しい事業を起こす起業家を指す
+- **[entrepreneur](/entrepreneur)**：新しい事業を起こす起業家を指す
 
 businessmanは幅広くビジネスに関わる人を指し、entrepreneurは特に新しいビジネスを始める人（起業家）を強調します。
 
@@ -105,14 +109,14 @@ businessmanは幅広くビジネスに関わる人を指し、entrepreneurは特
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [executive](/word/executive/)：重役、経営幹部
+- [manager](/manager)：管理職、マネージャー
+- [executive](/executive)：重役、経営幹部
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [company](/word/company/)：会社
+- [employee](/employee)：従業員
+- [company](/company)：会社
 
-<!-- cvid: aid27_bid14 -->
+<!-- cvid: aid06_bid07 -->

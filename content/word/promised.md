@@ -81,15 +81,19 @@ TOEICでは「promised deadline（約束された締切）」や「promised paym
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「promised deadline（約束された締切）」や「promised paym
 ## 🤔  guaranteed との違いは？
 
 - **promised**：誰かが「約束した」ことを表し、実現が保証されているとは限らない。
-- **[guaranteed](/word/guaranteed/)**：確実に実現することが「保証された」状態を表す。
+- **[guaranteed](/guaranteed)**：確実に実現することが「保証された」状態を表す。
 
 「promised」は人の言葉や約束に基づくニュアンスが強く、「guaranteed」は制度や契約などで確実性が高い時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「promised deadline（約束された締切）」や「promised paym
 
 ## 🧩 あわせて覚えたい
 
-- [assured](/word/assured/)：保証された、自信のある
-- [committed](/word/committed/)：献身的な、約束した
+- [assured](/assured)：保証された、自信のある
+- [committed](/committed)：献身的な、約束した
 
 ---
 
 ## 📖 できればこれも
 
-- [scheduled](/word/scheduled/)：予定された
-- [planned](/word/planned/)：計画された
+- [scheduled](/scheduled)：予定された
+- [planned](/planned)：計画された
 
-<!-- cvid: aid27_bid16 -->
+<!-- cvid: aid16_bid26 -->

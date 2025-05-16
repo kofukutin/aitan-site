@@ -81,15 +81,19 @@ TOEICでは「internal meeting（社内会議）」や「internal document（社
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「internal meeting（社内会議）」や「internal document（社
 ## 🤔  domestic との違いは？
 
 - **internal**：組織や物の「内部」「内面」に関する
-- **[domestic](/word/domestic/)**：国や家庭など「国内」「家庭内」に関する
+- **[domestic](/domestic)**：国や家庭など「国内」「家庭内」に関する
 
 internalは会社や組織、物の内部など"内側"全般を指しますが、domesticは「国」や「家庭」などの"内側"に限定される点が異なります。
 
@@ -105,14 +109,14 @@ internalは会社や組織、物の内部など"内側"全般を指しますが�
 
 ## 🧩 あわせて覚えたい
 
-- [external](/word/external/)：外部の、外側の
-- [inside](/word/inside/)：内側、内部
+- [external](/external)：外部の、外側の
+- [inside](/inside)：内側、内部
 
 ---
 
 ## 📖 できればこれも
 
-- [external](/word/external/)：外部の、外側の
-- [corporate](/word/corporate/)：企業の、法人の
+- [external](/external)：外部の、外側の
+- [corporate](/corporate)：企業の、法人の
 
-<!-- cvid: aid27_bid28 -->
+<!-- cvid: aid15_bid02 -->

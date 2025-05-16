@@ -82,15 +82,19 @@ TOEICでは「複雑な」「複合施設」などの意味で、文脈判断や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「複雑な」「複合施設」などの意味で、文脈判断や
 ## 🤔  complicated との違いは？
 
 - **complex**：多くの要素が絡み合い、構造的に複雑なことを表す
-- **[complicated](/word/complicated/)**：理解や解決が難しいほど込み入っていることを強調
+- **[complicated](/complicated)**：理解や解決が難しいほど込み入っていることを強調
 
 complexは「構造的な複雑さ」、complicatedは「解決や理解の難しさ」に焦点があります。
 
@@ -106,14 +110,14 @@ complexは「構造的な複雑さ」、complicatedは「解決や理解の難�
 
 ## 🧩 あわせて覚えたい
 
-- [simple](/word/simple/)：単純な、簡単な
-- [compound](/word/compound/)：合成の、複合の
+- [simple](/simple)：単純な、簡単な
+- [compound](/compound)：合成の、複合の
 
 ---
 
 ## 📖 できればこれも
 
-- [difficult](/word/difficult/)：難しい
-- [structure](/word/structure/)：構造
+- [difficult](/difficult)：難しい
+- [structure](/structure)：構造
 
-<!-- cvid: aid44_bid34 -->
+<!-- cvid: aid18_bid18 -->

@@ -80,15 +80,19 @@ TOEICでは副詞の語形選択や、文中での使い方を問う問題で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは副詞の語形選択や、文中での使い方を問う問題で出
 ## 🤔  otherwise との違いは？
 
 - **differently**：何かを「異なる方法で」「違ったやり方で」行うことを表す。
-- **[otherwise](/word/otherwise/)**：もしそうでなければ、または「別の方法で」という意味で、条件や結果を強調する。
+- **[otherwise](/otherwise)**：もしそうでなければ、または「別の方法で」という意味で、条件や結果を強調する。
 
 differentlyは単に「違ったやり方」を指し、otherwiseは「もしそうでなければ」や「別の場合には」といった条件や結果の違いを強調します。
 
@@ -104,14 +108,14 @@ differentlyは単に「違ったやり方」を指し、otherwiseは「もしそ
 
 ## 🧩 あわせて覚えたい
 
-- [variously](/word/variously/)：さまざまに、いろいろと
-- [distinctly](/word/distinctly/)：はっきりと、明確に
+- [variously](/variously)：さまざまに、いろいろと
+- [distinctly](/distinctly)：はっきりと、明確に
 
 ---
 
 ## 📖 できればこれも
 
-- [similarly](/word/similarly/)：同様に
-- [separately](/word/separately/)：別々に
+- [similarly](/similarly)：同様に
+- [separately](/separately)：別々に
 
-<!-- cvid: aid17_bid06 -->
+<!-- cvid: aid04_bid14 -->

@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や会計関連の文脈で「費用を被る
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や会計関連の文脈で「費用を被る
 ## 🤔  occurred との違いは？
 
 - **incurred**：自分の行動や状況によって「費用・損失・責任などを被る、負う」
-- **[occurred](/word/occurred/)**：出来事や事故などが「起こる、発生する」
+- **[occurred](/occurred)**：出来事や事故などが「起こる、発生する」
 
 incurredは「自分に降りかかる」ニュアンスがあり、occurredは単に出来事が発生することを指します。
 
@@ -105,14 +109,14 @@ incurredは「自分に降りかかる」ニュアンスがあり、occurredは�
 
 ## 🧩 あわせて覚えたい
 
-- [suffer](/word/suffer/)：（損害・損失などを）被る
-- [generate](/word/generate/)：生み出す、発生させる
+- [suffer](/suffer)：（損害・損失などを）被る
+- [generate](/generate)：生み出す、発生させる
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire/)：獲得する、手に入れる
-- [settle](/word/settle/)：精算する、解決する
+- [acquire](/acquire)：獲得する、手に入れる
+- [settle](/settle)：精算する、解決する
 
-<!-- cvid: aid39_bid49 -->
+<!-- cvid: aid12_bid18 -->

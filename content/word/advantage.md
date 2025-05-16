@@ -81,15 +81,19 @@ TOEICでは、advantageはビジネスや競争の文脈で頻出し、特に比
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、advantageはビジネスや競争の文脈で頻出し、特に比
 ## 🤔  benefit との違いは？
 
 - **advantage**：他と比べて有利な点や強みを強調
-- **[benefit](/word/benefit/)**：恩恵や利益、役立つこと全般
+- **[benefit](/benefit)**：恩恵や利益、役立つこと全般
 
 advantageは「他より優れている点」、benefitは「受ける良い効果や恩恵」と、比較の有無で使い分けます。
 
@@ -105,14 +109,14 @@ advantageは「他より優れている点」、benefitは「受ける良い効�
 
 ## 🧩 あわせて覚えたい
 
-- [disadvantage](/word/disadvantage/)：不利な点、短所
-- [edge](/word/edge/)：優位、優勢
+- [disadvantage](/disadvantage)：不利な点、短所
+- [edge](/edge)：優位、優勢
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/word/benefit/)：利益、恩恵
-- [opportunity](/word/opportunity/)：機会、チャンス
+- [benefit](/benefit)：利益、恩恵
+- [opportunity](/opportunity)：機会、チャンス
 
-<!-- cvid: aid33_bid25 -->
+<!-- cvid: aid11_bid24 -->

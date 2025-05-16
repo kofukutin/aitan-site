@@ -81,15 +81,19 @@ TOEICでは環境や科学、施設紹介などの長文で「atmospheric pressu
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境や科学、施設紹介などの長文で「atmospheric pressu
 ## 🤔  ambient との違いは？
 
 - **atmospheric**：大気に関する、または雰囲気のある（特に科学的・情緒的な文脈で使う）
-- **[ambient](/word/ambient/)**：周囲の、環境の（一般的に「周囲全体に広がる」ニュアンス）
+- **[ambient](/ambient)**：周囲の、環境の（一般的に「周囲全体に広がる」ニュアンス）
 
 atmosphericは「大気」や「特有の雰囲気」に焦点を当てるのに対し、ambientは「周囲全体に自然に存在する」ことを表します。
 
@@ -105,14 +109,14 @@ atmosphericは「大気」や「特有の雰囲気」に焦点を当てるのに
 
 ## 🧩 あわせて覚えたい
 
-- [climatic](/word/climatic/)：気候の
-- [environmental](/word/environmental/)：環境の
+- [climatic](/climatic)：気候の
+- [environmental](/environmental)：環境の
 
 ---
 
 ## 📖 できればこれも
 
-- [humid](/word/humid/)：湿度の高い
-- [pollution](/word/pollution/)：汚染
+- [humid](/humid)：湿度の高い
+- [pollution](/pollution)：汚染
 
-<!-- cvid: aid07_bid30 -->
+<!-- cvid: aid25_bid48 -->

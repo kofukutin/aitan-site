@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やニュース記事の中で「調査」「捜
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やニュース記事の中で「調査」「捜
 ## 🤔  inspection との違いは？
 
 - **investigation**：原因や事実を明らかにするために、深く詳しく調査すること
-- **[inspection](/word/inspection/)**：主に表面的・形式的な点検や検査
+- **[inspection](/inspection)**：主に表面的・形式的な点検や検査
 
 investigationは「なぜそうなったか」を突き止めるための本格的な調査、inspectionは「問題がないか」をチェックする点検や検査という違いがあります。
 
@@ -105,14 +109,14 @@ investigationは「なぜそうなったか」を突き止めるための本格�
 
 ## 🧩 あわせて覚えたい
 
-- [inquiry](/word/inquiry/)：問い合わせ、質問、調査
-- [analysis](/word/analysis/)：分析、解析
+- [inquiry](/inquiry)：問い合わせ、質問、調査
+- [analysis](/analysis)：分析、解析
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence/)：証拠、根拠
-- [research](/word/research/)：研究、調査
+- [evidence](/evidence)：証拠、根拠
+- [research](/research)：研究、調査
 
-<!-- cvid: aid34_bid33 -->
+<!-- cvid: aid09_bid45 -->

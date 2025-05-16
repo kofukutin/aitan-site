@@ -81,15 +81,19 @@ joinedは、会議やイベントへの参加、チームへの加入などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ joinedは、会議やイベントへの参加、チームへの加入などの�
 ## 🤔  participated との違いは？
 
 - **joined**：グループや活動に「加わる」「一員になる」ことを強調
-- **[participated](/word/participated/)**：活動やイベントに「参加する」こと自体を強調
+- **[participated](/participated)**：活動やイベントに「参加する」こと自体を強調
 
 joinedは「仲間入り」や「所属」のニュアンスがあり、participatedは「活動への参加」に焦点があります。
 
@@ -105,14 +109,14 @@ joinedは「仲間入り」や「所属」のニュアンスがあり、particip
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/word/attend/)：出席する
-- [connect](/word/connect/)：つなぐ、接続する
+- [attend](/attend)：出席する
+- [connect](/connect)：つなぐ、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/word/invite/)：招待する
-- [register](/word/register/)：登録する
+- [invite](/invite)：招待する
+- [register](/register)：登録する
 
-<!-- cvid: aid13_bid01 -->
+<!-- cvid: aid49_bid39 -->

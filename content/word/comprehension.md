@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文読解問題で「reading comprehension（読解
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文読解問題で「reading comprehension（読解
 ## 🤔  understanding との違いは？
 
 - **comprehension**：文章や内容を正確に「読み取る」「把握する」力や行為を指し、特にテストや教育現場で使われるフォーマルな語。
-- **[understanding](/word/understanding/)**：物事や人の気持ちなど幅広い「理解」を表し、日常的・抽象的な場面でも使われる。
+- **[understanding](/understanding)**：物事や人の気持ちなど幅広い「理解」を表し、日常的・抽象的な場面でも使われる。
 
 comprehensionは主に知識や情報の「読解・把握」に焦点があり、understandingはより広い意味での「理解」や「共感」にも使われます。
 
@@ -105,14 +109,14 @@ comprehensionは主に知識や情報の「読解・把握」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [interpretation](/word/interpretation/)：解釈
-- [ignorance](/word/ignorance/)：無知、知らないこと
+- [interpretation](/interpretation)：解釈
+- [ignorance](/ignorance)：無知、知らないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [analysis](/word/analysis/)：分析
+- [summary](/summary)：要約
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid05_bid31 -->
+<!-- cvid: aid06_bid09 -->

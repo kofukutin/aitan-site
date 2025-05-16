@@ -81,15 +81,19 @@ TOEICでは会議やビジネスメール、電話対応などで「知らせる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスメール、電話対応などで「知らせる
 ## 🤔  notify との違いは？
 
 - **inform**：必要な情報や詳細を伝える、ややフォーマル
-- **[notify](/word/notify/)**：公式に通知する、やや事務的
+- **[notify](/notify)**：公式に通知する、やや事務的
 
 「inform」は相手に詳しく説明したり、背景を含めて知らせる時に使い、「notify」は公式な通知や連絡に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは会議やビジネスメール、電話対応などで「知らせる
 
 ## 🧩 あわせて覚えたい
 
-- [advise](/word/advise/)：助言する、忠告する
-- [report](/word/report/)：報告する
+- [advise](/advise)：助言する、忠告する
+- [report](/report)：報告する
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/word/announce/)：発表する、公表する
-- [explain](/word/explain/)：説明する
+- [announce](/announce)：発表する、公表する
+- [explain](/explain)：説明する
 
-<!-- cvid: aid27_bid19 -->
+<!-- cvid: aid02_bid10 -->

@@ -81,15 +81,19 @@ TOEICではITやビジネスの文脈で「入力」「意見」として出題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITやビジネスの文脈で「入力」「意見」として出題�
 ## 🤔  supply との違いは？
 
 - **input**：情報や意見、データなど「中に入れるもの」や「入力」を指す
-- **[supply](/word/supply/)**：物資やエネルギーなど「供給するもの」「補給」を指す
+- **[supply](/supply)**：物資やエネルギーなど「供給するもの」「補給」を指す
 
 inputは主に情報やデータ、意見など無形のものに使われ、supplyは物理的な物や資源の供給に使われます。
 
@@ -105,14 +109,14 @@ inputは主に情報やデータ、意見など無形のものに使われ、sup
 
 ## 🧩 あわせて覚えたい
 
-- [output](/word/output/)：出力、成果
-- [data](/word/data/)：データ、資料
+- [output](/output)：出力、成果
+- [data](/data)：データ、資料
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、処理
-- [device](/word/device/)：装置、デバイス
+- [process](/process)：過程、処理
+- [device](/device)：装置、デバイス
 
-<!-- cvid: aid30_bid34 -->
+<!-- cvid: aid14_bid13 -->

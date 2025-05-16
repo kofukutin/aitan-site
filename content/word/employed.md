@@ -81,15 +81,19 @@ TOEICでは「employed」「unemployed」などの形容詞が、文法や語彙
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「employed」「unemployed」などの形容詞が、文法や語彙
 ## 🤔  hired との違いは？
 
 - **employed**：現在雇用されている状態を表す形容詞
-- **[hired](/word/hired/)**：雇われた瞬間や採用された事実を強調する語
+- **[hired](/hired)**：雇われた瞬間や採用された事実を強調する語
 
 「employed」は「今働いている」状態、「hired」は「採用された」事実や行為に焦点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「employed」「unemployed」などの形容詞が、文法や語彙
 
 ## 🧩 あわせて覚えたい
 
-- [unemployed](/word/unemployed/)：失業している
-- [employee](/word/employee/)：従業員
+- [unemployed](/unemployed)：失業している
+- [employee](/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant/)：応募者
-- [position](/word/position/)：職、役職
+- [applicant](/applicant)：応募者
+- [position](/position)：職、役職
 
-<!-- cvid: aid49_bid30 -->
+<!-- cvid: aid48_bid12 -->

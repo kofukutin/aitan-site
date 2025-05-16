@@ -81,15 +81,19 @@ TOEICでは、repetitionは主に文法や語彙の選択肢として出題さ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、repetitionは主に文法や語彙の選択肢として出題さ�
 ## 🤔  reiteration との違いは？
 
 - **repetition**：単純に同じことを何度も繰り返すこと全般を指す。
-- **[reiteration](/word/reiteration/)**：強調や念押しのために繰り返すこと。
+- **[reiteration](/reiteration)**：強調や念押しのために繰り返すこと。
 
 repetitionは一般的な「繰り返し」、reiterationは「強調のための繰り返し」とニュアンスが異なります。
 
@@ -105,14 +109,14 @@ repetitionは一般的な「繰り返し」、reiterationは「強調のため�
 
 ## 🧩 あわせて覚えたい
 
-- [routine](/word/routine/)：決まった手順、日課
-- [variation](/word/variation/)：変化、違い
+- [routine](/routine)：決まった手順、日課
+- [variation](/variation)：変化、違い
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/word/practice/)：練習、実践
-- [memorize](/word/memorize/)：暗記する
+- [practice](/practice)：練習、実践
+- [memorize](/memorize)：暗記する
 
-<!-- cvid: aid15_bid49 -->
+<!-- cvid: aid14_bid15 -->

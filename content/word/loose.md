@@ -81,15 +81,19 @@ looseはPart 5で形容詞の語彙や文法問題として出題されること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ looseはPart 5で形容詞の語彙や文法問題として出題されること
 ## 🤔  release との違いは？
 
 - **loose**：しっかり固定されていない、ゆるい状態を表す形容詞
-- **[release](/word/release/)**：何かを解放する、自由にするという動詞
+- **[release](/release)**：何かを解放する、自由にするという動詞
 
 looseは「物理的にゆるい」状態、releaseは「何かを解き放つ」動作を表します。
 
@@ -105,14 +109,14 @@ looseは「物理的にゆるい」状態、releaseは「何かを解き放つ�
 
 ## 🧩 あわせて覚えたい
 
-- [tight](/word/tight/)：きつい、しっかりした
-- [relax](/word/relax/)：くつろぐ、緩める
+- [tight](/tight)：きつい、しっかりした
+- [relax](/relax)：くつろぐ、緩める
 
 ---
 
 ## 📖 できればこれも
 
-- [firm](/word/firm/)：堅い、しっかりした
-- [slack](/word/slack/)：たるんだ、ゆるい
+- [firm](/firm)：堅い、しっかりした
+- [slack](/slack)：たるんだ、ゆるい
 
-<!-- cvid: aid17_bid33 -->
+<!-- cvid: aid37_bid39 -->

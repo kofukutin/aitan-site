@@ -81,15 +81,19 @@ TOEICでは「否定」「拒否」などの意味で名詞として出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「否定」「拒否」などの意味で名詞として出題され
 ## 🤔  refusal との違いは？
 
 - **denial**：事実や要求などを「認めない」「否定する」こと、心理的な否認も含む
-- **[refusal](/word/refusal/)**：依頼や申し出などを「断る」「拒絶する」こと
+- **[refusal](/refusal)**：依頼や申し出などを「断る」「拒絶する」こと
 
 denialは「事実そのものを否定する」ニュアンスが強く、refusalは「申し出や依頼を断る」場面で使われます。
 
@@ -105,14 +109,14 @@ denialは「事実そのものを否定する」ニュアンスが強く、refus
 
 ## 🧩 あわせて覚えたい
 
-- [acceptance](/word/acceptance/)：受け入れ、承諾
-- [rejection](/word/rejection/)：拒絶、却下
+- [acceptance](/acceptance)：受け入れ、承諾
+- [rejection](/rejection)：拒絶、却下
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval/)：承認、許可
-- [confirmation](/word/confirmation/)：確認、承認
+- [approval](/approval)：承認、許可
+- [confirmation](/confirmation)：確認、承認
 
-<!-- cvid: aid42_bid04 -->
+<!-- cvid: aid07_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは比較級の文法問題や、年齢・年代の比較を問う文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは比較級の文法問題や、年齢・年代の比較を問う文脈
 ## 🤔  elder との違いは？
 
 - **older**：一般的に「より年上の」「より古い」という意味で、人や物の比較に広く使う。
-- **[elder](/word/elder/)**：主に家族関係（兄・姉など）で名詞の前に限定して使う、ややフォーマル。
+- **[elder](/elder)**：主に家族関係（兄・姉など）で名詞の前に限定して使う、ややフォーマル。
 
 「older」は人・物どちらにも使えますが、「elder」は家族関係の人に限定され、名詞の前で使う点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは比較級の文法問題や、年齢・年代の比較を問う文脈
 
 ## 🧩 あわせて覚えたい
 
-- [younger](/word/younger/)：より年下の
-- [senior](/word/senior/)：年上の、上級の
+- [younger](/younger)：より年下の
+- [senior](/senior)：年上の、上級の
 
 ---
 
 ## 📖 できればこれも
 
-- [old](/word/old/)：古い、年をとった
-- [ancient](/word/ancient/)：非常に古い、昔の
+- [old](/old)：古い、年をとった
+- [ancient](/ancient)：非常に古い、昔の
 
-<!-- cvid: aid15_bid07 -->
+<!-- cvid: aid19_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは、健康や科学、食品関連の記事や説明文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、健康や科学、食品関連の記事や説明文で登場する
 ## 🤔  starch との違いは？
 
 - **glucose**：単純な糖（単糖類）で、すぐにエネルギー源となる。
-- **[starch](/word/starch/)**：複数のグルコースが結合した多糖類で、主に植物のエネルギー貯蔵物質。
+- **[starch](/starch)**：複数のグルコースが結合した多糖類で、主に植物のエネルギー貯蔵物質。
 
 glucoseは体内ですぐに使われるエネルギー源、starchは分解されてからエネルギーになる点が異なります。
 
@@ -105,14 +109,14 @@ glucoseは体内ですぐに使われるエネルギー源、starchは分解さ�
 
 ## 🧩 あわせて覚えたい
 
-- [fructose](/word/fructose/)：果糖（果物などに含まれる単糖類）
-- [insulin](/word/insulin/)：インスリン（血糖値を調整するホルモン）
+- [fructose](/fructose)：果糖（果物などに含まれる単糖類）
+- [insulin](/insulin)：インスリン（血糖値を調整するホルモン）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein/)：タンパク質（体を作る主要成分）
-- [carbohydrate](/word/carbohydrate/)：炭水化物（エネルギー源となる栄養素）
+- [protein](/protein)：タンパク質（体を作る主要成分）
+- [carbohydrate](/carbohydrate)：炭水化物（エネルギー源となる栄養素）
 
-<!-- cvid: aid16_bid41 -->
+<!-- cvid: aid34_bid00 -->

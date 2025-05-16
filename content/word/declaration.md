@@ -81,15 +81,19 @@ TOEICでは、契約書や公式文書、税関関連の長文で「declaration�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や公式文書、税関関連の長文で「declaration�
 ## 🤔  announcement との違いは？
 
 - **declaration**：公式な場での「宣言」や「声明」、法的・制度的な「申告」に使う
-- **[announcement](/word/announcement/)**：一般的な「お知らせ」や「発表」に使う
+- **[announcement](/announcement)**：一般的な「お知らせ」や「発表」に使う
 
 declarationはフォーマルで重みのある内容や法的効力を持つ場合に使われ、announcementは幅広い場面での通知や案内に使われます。
 
@@ -105,14 +109,14 @@ declarationはフォーマルで重みのある内容や法的効力を持つ場
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/word/statement/)：声明、発言
-- [proclamation](/word/proclamation/)：布告、公式な宣言
+- [statement](/statement)：声明、発言
+- [proclamation](/proclamation)：布告、公式な宣言
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [confirmation](/word/confirmation/)：確認、承認
+- [agreement](/agreement)：合意、契約
+- [confirmation](/confirmation)：確認、承認
 
-<!-- cvid: aid08_bid23 -->
+<!-- cvid: aid00_bid19 -->

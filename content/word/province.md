@@ -81,15 +81,19 @@ TOEICでは、観光や行政、地理に関する長文や案内文で「provin
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、観光や行政、地理に関する長文や案内文で「provin
 ## 🤔  region との違いは？
 
 - **province**：国の行政区画としての「州」や「地方」を指す、ややフォーマルな表現。
-- **[region](/word/region/)**：地理的・文化的な「地域」全般を指し、行政区画に限らない。
+- **[region](/region)**：地理的・文化的な「地域」全般を指し、行政区画に限らない。
 
 provinceは公式な区分や行政単位を強調し、regionはより広い意味での「地域」や「エリア」を表します。
 
@@ -105,14 +109,14 @@ provinceは公式な区分や行政単位を強調し、regionはより広い意
 
 ## 🧩 あわせて覚えたい
 
-- [territory](/word/territory/)：領土、管轄区域
-- [district](/word/district/)：地区、区域
+- [territory](/territory)：領土、管轄区域
+- [district](/district)：地区、区域
 
 ---
 
 ## 📖 できればこれも
 
-- [capital](/word/capital/)：首都
-- [area](/word/area/)：地域、面積
+- [capital](/capital)：首都
+- [area](/area)：地域、面積
 
-<!-- cvid: aid33_bid06 -->
+<!-- cvid: aid20_bid21 -->

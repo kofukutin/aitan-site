@@ -81,15 +81,19 @@ TOEICでは、動詞chooseの過去分詞として、また形容詞的に「選
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、動詞chooseの過去分詞として、また形容詞的に「選
 ## 🤔  selected との違いは？
 
 - **chosen**：他と比べて特に選ばれた、ややフォーマルな響き
-- **[selected](/word/selected/)**：基準や条件に従って選ばれた、やや中立的
+- **[selected](/selected)**：基準や条件に従って選ばれた、やや中立的
 
 「chosen」は「特別に選ばれた」というニュアンスが強く、感情や意図が込められることが多いですが、「selected」は単に基準に従って選ばれた場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、動詞chooseの過去分詞として、また形容詞的に「選
 
 ## 🧩 あわせて覚えたい
 
-- [appoint](/word/appoint/)：任命する
-- [elect](/word/elect/)：（投票で）選ぶ
+- [appoint](/appoint)：任命する
+- [elect](/elect)：（投票で）選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer/)：より好む
-- [appoint](/word/appoint/)：任命する
+- [prefer](/prefer)：より好む
+- [appoint](/appoint)：任命する
 
-<!-- cvid: aid49_bid35 -->
+<!-- cvid: aid28_bid31 -->

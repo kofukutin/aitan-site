@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【finger】の意味・使い方・例文 ― toeとの違い【TOEIC英単語】"
 description: "fingerの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtoeとの違いもわかりやすく学べます。"
 word: "finger"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写問題で「指を指す」「指で触れる」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid01_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写問題で「指を指す」「指で触れる」
 ## 🤔  toe との違いは？
 
 - **finger**：手の指を指す
-- **[toe](/word/toe/)**：足の指を指す
+- **[toe](/toe)**：足の指を指す
 
 fingerは手の指、toeは足の指を表します。体の部位が異なるので使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ fingerは手の指、toeは足の指を表します。体の部位が異なる�
 
 ## 🧩 あわせて覚えたい
 
-- [hand](/word/hand/)：手
-- [nail](/word/nail/)：爪
+- [hand](/hand)：手
+- [nail](/nail)：爪
 
 ---
 
 ## 📖 できればこれも
 
-- [thumb](/word/thumb/)：親指
-- [palm](/word/palm/)：手のひら
+- [thumb](/thumb)：親指
+- [palm](/palm)：手のひら
 
-<!-- cvid: aid33_bid15 -->
+<!-- cvid: aid01_bid47 -->

@@ -81,15 +81,19 @@ activateはITやビジネス関連の文脈で、機能やサービスの「有�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ activateはITやビジネス関連の文脈で、機能やサービスの「有�
 ## 🤔  enable との違いは？
 
 - **activate**：機能やシステムを「作動させる」「有効化する」ことに重点がある
-- **[enable](/word/enable/)**：何かを「可能にする」「できる状態にする」ことに重点がある
+- **[enable](/enable)**：何かを「可能にする」「できる状態にする」ことに重点がある
 
 activateは「スイッチを入れて動かす」イメージ、enableは「条件を整えて可能にする」イメージです。
 
@@ -105,14 +109,14 @@ activateは「スイッチを入れて動かす」イメージ、enableは「条
 
 ## 🧩 あわせて覚えたい
 
-- [deactivate](/word/deactivate/)：無効化する、停止する
-- [launch](/word/launch/)：開始する、立ち上げる
+- [deactivate](/deactivate)：無効化する、停止する
+- [launch](/launch)：開始する、立ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：インストールする、設置する
-- [update](/word/update/)：更新する、アップデートする
+- [install](/install)：インストールする、設置する
+- [update](/update)：更新する、アップデートする
 
-<!-- cvid: aid49_bid38 -->
+<!-- cvid: aid44_bid16 -->

@@ -81,15 +81,19 @@ The company offers advice on diet and nutrition to employees.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company offers advice on diet and nutrition to employees.
 ## 🤔  nutrition との違いは？
 
 - **diet**：日常的な食事内容や、特定の目的のための食事制限を指す。
-- **[nutrition](/word/nutrition/)**：食事から摂取する栄養素や栄養状態を指す。
+- **[nutrition](/nutrition)**：食事から摂取する栄養素や栄養状態を指す。
 
 「diet」は「何を食べるか」という食事内容に焦点があり、「nutrition」は「食事から得られる栄養」に焦点があります。
 
@@ -105,14 +109,14 @@ The company offers advice on diet and nutrition to employees.
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/word/meal/)：食事（1回分の食事）
-- [fast](/word/fast/)：断食、絶食
+- [meal](/meal)：食事（1回分の食事）
+- [fast](/fast)：断食、絶食
 
 ---
 
 ## 📖 できればこれも
 
-- [exercise](/word/exercise/)：運動
-- [habit](/word/habit/)：習慣
+- [exercise](/exercise)：運動
+- [habit](/habit)：習慣
 
-<!-- cvid: aid34_bid42 -->
+<!-- cvid: aid24_bid15 -->

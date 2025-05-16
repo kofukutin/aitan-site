@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や公式レポート、財務関連の長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid13_bid30" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や公式レポート、財務関連の長文
 ## 🤔  financial との違いは？
 
 - **fiscal**：政府や企業の「財政」「会計年度」など、特に公的な収入・支出に関する
-- **[financial](/word/financial/)**：お金全般や金融、経済活動に広く関する
+- **[financial](/financial)**：お金全般や金融、経済活動に広く関する
 
 fiscalは主に「政府や組織の財政・会計」に特化し、financialは「お金や金融」に関するより広い意味で使われます。
 
@@ -105,14 +109,14 @@ fiscalは主に「政府や組織の財政・会計」に特化し、financial�
 
 ## 🧩 あわせて覚えたい
 
-- [monetary](/word/monetary/)：通貨の、金融の
-- [budget](/word/budget/)：予算
+- [monetary](/monetary)：通貨の、金融の
+- [budget](/budget)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/word/revenue/)：収入、歳入
-- [audit](/word/audit/)：監査
+- [revenue](/revenue)：収入、歳入
+- [audit](/audit)：監査
 
-<!-- cvid: aid29_bid18 -->
+<!-- cvid: aid13_bid30 -->

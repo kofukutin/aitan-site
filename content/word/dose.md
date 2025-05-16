@@ -81,15 +81,19 @@ The doctor increased the dose for better results.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The doctor increased the dose for better results.
 ## 🤔  amount との違いは？
 
 - **dose**：薬やワクチンなど「一回分の決まった量」を指す
-- **[amount](/word/amount/)**：物や量全般の「総量」「分量」を指す
+- **[amount](/amount)**：物や量全般の「総量」「分量」を指す
 
 doseは主に医療や薬の分野で「一度に与える量」を表し、amountはより広く「量」全般に使われます。
 
@@ -105,14 +109,14 @@ doseは主に医療や薬の分野で「一度に与える量」を表し、amou
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription/)：処方箋
-- [quantity](/word/quantity/)：数量、分量
+- [prescription](/prescription)：処方箋
+- [quantity](/quantity)：数量、分量
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe/)：処方する
-- [medicine](/word/medicine/)：薬
+- [prescribe](/prescribe)：処方する
+- [medicine](/medicine)：薬
 
-<!-- cvid: aid30_bid47 -->
+<!-- cvid: aid02_bid08 -->

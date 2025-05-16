@@ -81,15 +81,19 @@ TOEICでは、主にITやビジネスの文脈で「linked to」「closely linke
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主にITやビジネスの文脈で「linked to」「closely linke
 ## 🤔  connected との違いは？
 
 - **linked**：物理的・概念的に「つながっている」「関連している」ことを強調
-- **[connected](/word/connected/)**：主に「物理的につながっている」「通信・ネットワークで接続されている」ことを強調
+- **[connected](/connected)**：主に「物理的につながっている」「通信・ネットワークで接続されている」ことを強調
 
 linkedは「関係性」や「関連性」にも使われ、connectedは「直接的な接続」や「通信」によく使われます。
 
@@ -105,14 +109,14 @@ linkedは「関係性」や「関連性」にも使われ、connectedは「直�
 
 ## 🧩 あわせて覚えたい
 
-- [associated](/word/associated/)：関連した、関係のある
-- [attached](/word/attached/)：添付された、付属した
+- [associated](/associated)：関連した、関係のある
+- [attached](/attached)：添付された、付属した
 
 ---
 
 ## 📖 できればこれも
 
-- [related](/word/related/)：関係のある、関連した
-- [combined](/word/combined/)：結合した、組み合わさった
+- [related](/related)：関係のある、関連した
+- [combined](/combined)：結合した、組み合わさった
 
-<!-- cvid: aid18_bid14 -->
+<!-- cvid: aid25_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは会議の予定調整や機器の設定、目標設定など幅広い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議の予定調整や機器の設定、目標設定など幅広い
 ## 🤔  put との違いは？
 
 - **set**：意図的に物や予定・状態を「決めて置く」「設定する」ニュアンス
-- **[put](/word/put/)**：単に「置く」「入れる」など動作自体を表す
+- **[put](/put)**：単に「置く」「入れる」など動作自体を表す
 
 setは「場所や状態、予定などを意図的に決める」場合に使い、putは単純に物をどこかに置く動作に使います。
 
@@ -105,14 +109,14 @@ setは「場所や状態、予定などを意図的に決める」場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [arrange](/word/arrange/)：整える、手配する
-- [establish](/word/establish/)：設立する、確立する
+- [arrange](/arrange)：整える、手配する
+- [establish](/establish)：設立する、確立する
 
 ---
 
 ## 📖 できればこれも
 
-- [place](/word/place/)：置く、配置する
-- [fix](/word/fix/)：修理する、固定する
+- [place](/place)：置く、配置する
+- [fix](/fix)：修理する、固定する
 
-<!-- cvid: aid00_bid44 -->
+<!-- cvid: aid01_bid29 -->

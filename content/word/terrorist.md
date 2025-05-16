@@ -81,15 +81,19 @@ TOEICではニュース記事や公式文書の中で、事件や安全対策に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではニュース記事や公式文書の中で、事件や安全対策に
 ## 🤔  criminal との違いは？
 
 - **terrorist**：政治的・宗教的な目的で恐怖や暴力を使う人
-- **[criminal](/word/criminal/)**：法律を破った人全般
+- **[criminal](/criminal)**：法律を破った人全般
 
 terroristは特定の目的で恐怖を与える行為をする人、criminalはあらゆる犯罪者を指します。
 
@@ -105,13 +109,13 @@ terroristは特定の目的で恐怖を与える行為をする人、criminalは
 
 ## 🧩 あわせて覚えたい
 
-- [suspect](/word/suspect/)：容疑者
-- [attack](/word/attack/)：攻撃
+- [suspect](/suspect)：容疑者
+- [attack](/attack)：攻撃
 
 ---
 
 ## 📖 できればこれも
 
-- [violence](/word/violence/)：暴力
-- [threat](/word/threat/)：脅威
-<!-- cvid: aid39_bid47 -->
+- [violence](/violence)：暴力
+- [threat](/threat)：脅威
+<!-- cvid: aid06_bid35 -->

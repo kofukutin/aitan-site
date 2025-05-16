@@ -81,15 +81,19 @@ TOEICでは、求人広告や社内通知、ビジネス文書などで「manage
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid48_bid29" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid29" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、求人広告や社内通知、ビジネス文書などで「manage
 ## 🤔  administrative との違いは？
 
 - **managerial**：経営や管理職に直接関わることを指す
-- **[administrative](/word/administrative/)**：事務的・管理業務全般に関わることを指す
+- **[administrative](/administrative)**：事務的・管理業務全般に関わることを指す
 
 managerialは「経営判断や人の管理」など上位の管理職に関するニュアンスが強く、administrativeは「事務処理や運営管理」など幅広い管理業務に使われます。
 
@@ -105,14 +109,14 @@ managerialは「経営判断や人の管理」など上位の管理職に関す�
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/word/executive/)：重役、経営幹部
-- [supervisory](/word/supervisory/)：監督の、管理の
+- [executive](/executive)：重役、経営幹部
+- [supervisory](/supervisory)：監督の、管理の
 
 ---
 
 ## 📖 できればこれも
 
-- [strategic](/word/strategic/)：戦略的な
-- [operational](/word/operational/)：運用上の、業務の
+- [strategic](/strategic)：戦略的な
+- [operational](/operational)：運用上の、業務の
 
-<!-- cvid: aid15_bid11 -->
+<!-- cvid: aid48_bid29 -->

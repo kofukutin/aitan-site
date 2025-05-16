@@ -81,15 +81,19 @@ TOEICでは、名刺やクレジットカード、ポイントカードなどの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid41" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid41" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、名刺やクレジットカード、ポイントカードなどの
 ## 🤔  ticket との違いは？
 
 - **card**：名刺やクレジットカード、ポイントカードなど、情報や身分証明・支払いなどに使う小さな板状のもの。
-- **[ticket](/word/ticket/)**：イベントや交通機関の「入場券」「乗車券」など、特定のサービスや権利を示す紙片。
+- **[ticket](/ticket)**：イベントや交通機関の「入場券」「乗車券」など、特定のサービスや権利を示す紙片。
 
 cardは「個人情報や支払い・証明」に使うのが主で、ticketは「入場や利用の権利」を示す点が異なります。
 
@@ -105,14 +109,14 @@ cardは「個人情報や支払い・証明」に使うのが主で、ticketは�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate/)：証明書
-- [badge](/word/badge/)：バッジ、名札
+- [certificate](/certificate)：証明書
+- [badge](/badge)：バッジ、名札
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note/)：メモ、紙幣
-- [form](/word/form/)：用紙、書式
+- [note](/note)：メモ、紙幣
+- [form](/form)：用紙、書式
 
-<!-- cvid: aid02_bid26 -->
+<!-- cvid: aid46_bid41 -->

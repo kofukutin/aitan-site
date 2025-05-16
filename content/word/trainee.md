@@ -81,15 +81,19 @@ TOEICでは、会社の研修や人事関連の長文でよく登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の研修や人事関連の長文でよく登場します。
 ## 🤔  intern との違いは？
 
 - **trainee**：一般的に職場で訓練や研修を受けている人
-- **[intern](/word/intern/)**：特に学生や新卒者が実務経験を積むために働く人
+- **[intern](/intern)**：特に学生や新卒者が実務経験を積むために働く人
 
 traineeは幅広い職種や年齢層に使われますが、internは主に学生や若手が短期間実務を経験する場合に使われます。
 
@@ -105,14 +109,14 @@ traineeは幅広い職種や年齢層に使われますが、internは主に学�
 
 ## 🧩 あわせて覚えたい
 
-- [apprentice](/word/apprentice/)：見習い、徒弟
-- [mentor](/word/mentor/)：指導者、助言者
+- [apprentice](/apprentice)：見習い、徒弟
+- [mentor](/mentor)：指導者、助言者
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [supervisor](/word/supervisor/)：監督者
+- [employee](/employee)：従業員
+- [supervisor](/supervisor)：監督者
 
-<!-- cvid: aid10_bid36 -->
+<!-- cvid: aid24_bid47 -->

@@ -81,15 +81,19 @@ TOEICでは主に科学や技術、抽象的な説明文で登場します。や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid38_bid08" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid08" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学や技術、抽象的な説明文で登場します。や
 ## 🤔  unlimited との違いは？
 
 - **infinite**：理論的・抽象的に「限りがない」「無限の」という意味で、終わりや境界が全く存在しないニュアンス。
-- **[unlimited](/word/unlimited/)**：実用的・現実的に「制限がない」「無制限の」という意味で、上限や枠が設けられていないニュアンス。
+- **[unlimited](/unlimited)**：実用的・現実的に「制限がない」「無制限の」という意味で、上限や枠が設けられていないニュアンス。
 
 「infinite」は数学や哲学など抽象的な無限を指し、「unlimited」は現実的な制限のなさを表します。
 
@@ -105,14 +109,14 @@ TOEICでは主に科学や技術、抽象的な説明文で登場します。や
 
 ## 🧩 あわせて覚えたい
 
-- [finite](/word/finite/)：有限の
-- [endless](/word/endless/)：終わりのない、果てしない
+- [finite](/finite)：有限の
+- [endless](/endless)：終わりのない、果てしない
 
 ---
 
 ## 📖 できればこれも
 
-- [eternal](/word/eternal/)：永遠の
-- [boundless](/word/boundless/)：際限のない
+- [eternal](/eternal)：永遠の
+- [boundless](/boundless)：際限のない
 
-<!-- cvid: aid11_bid45 -->
+<!-- cvid: aid38_bid08 -->

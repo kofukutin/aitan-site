@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人物が編み物をしている場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人物が編み物をしている場
 ## 🤔  weaving との違いは？
 
 - **knitting**：2本の針と糸でループを作りながら編む技法やその作品。
-- **[weaving](/word/weaving/)**：縦糸と横糸を交差させて布を作る技法。
+- **[weaving](/weaving)**：縦糸と横糸を交差させて布を作る技法。
 
 knittingは針と糸でループを作る「編み物」、weavingは織機などで糸を交差させる「織物」と、作り方や出来上がるものが異なります。
 
@@ -105,14 +109,14 @@ knittingは針と糸でループを作る「編み物」、weavingは織機な�
 
 ## 🧩 あわせて覚えたい
 
-- [sewing](/word/sewing/)：縫うこと、裁縫
-- [crochet](/word/crochet/)：かぎ針編み
+- [sewing](/sewing)：縫うこと、裁縫
+- [crochet](/crochet)：かぎ針編み
 
 ---
 
 ## 📖 できればこれも
 
-- [needle](/word/needle/)：針
-- [thread](/word/thread/)：糸
+- [needle](/needle)：針
+- [thread](/thread)：糸
 
-<!-- cvid: aid02_bid02 -->
+<!-- cvid: aid11_bid31 -->

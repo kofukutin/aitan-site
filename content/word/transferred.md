@@ -81,15 +81,19 @@ TOEICでは、社員の異動や部署移動、データの転送などビジネ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社員の異動や部署移動、データの転送などビジネ
 ## 🤔  relocated との違いは？
 
 - **transferred**：会社や組織内での異動・転任・転送を強調
-- **[relocated](/word/relocated/)**：物理的な場所の移動や引っ越しを強調
+- **[relocated](/relocated)**：物理的な場所の移動や引っ越しを強調
 
 transferredは職場や部署など組織内での配置換えに使われ、relocatedは住居やオフィスなど物理的な場所の移動に使われます。
 
@@ -105,14 +109,14 @@ transferredは職場や部署など組織内での配置換えに使われ、rel
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/word/assign/)：割り当てる、任命する
-- [promote](/word/promote/)：昇進させる、促進する
+- [assign](/assign)：割り当てる、任命する
+- [promote](/promote)：昇進させる、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [appoint](/word/appoint/)：任命する
-- [dispatch](/word/dispatch/)：派遣する、発送する
+- [appoint](/appoint)：任命する
+- [dispatch](/dispatch)：派遣する、発送する
 
-<!-- cvid: aid19_bid19 -->
+<!-- cvid: aid03_bid06 -->

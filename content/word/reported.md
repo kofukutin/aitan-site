@@ -81,15 +81,19 @@ TOEICでは、メールや報告書、記事などで「報告された」「伝
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや報告書、記事などで「報告された」「伝
 ## 🤔  announced との違いは？
 
 - **reported**：事実や出来事を客観的に「報告する」「伝える」意味が強い
-- **[announced](/word/announced/)**：新しい情報や決定事項を「公式に発表する」意味が強い
+- **[announced](/announced)**：新しい情報や決定事項を「公式に発表する」意味が強い
 
 reportedは出来事や状況を伝える際に使い、announcedは新しい方針やイベントなどを公に発表する時に使います。
 
@@ -105,14 +109,14 @@ reportedは出来事や状況を伝える際に使い、announcedは新しい方
 
 ## 🧩 あわせて覚えたい
 
-- [inform](/word/inform/)：知らせる、通知する
-- [notify](/word/notify/)：正式に通知する
+- [inform](/inform)：知らせる、通知する
+- [notify](/notify)：正式に通知する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit/)：提出する
-- [confirm](/word/confirm/)：確認する
+- [submit](/submit)：提出する
+- [confirm](/confirm)：確認する
 
-<!-- cvid: aid33_bid38 -->
+<!-- cvid: aid28_bid39 -->

@@ -81,15 +81,19 @@ TOEICでは長文読解や説明文で「最終的に」「やがて」といっ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは長文読解や説明文で「最終的に」「やがて」といっ
 ## 🤔  finally との違いは？
 
 - **eventually**：長い時間や過程を経て「最終的に」「やがて」
-- **[finally](/word/finally/)**：待ち望んだ末に「ついに」「とうとう」
+- **[finally](/finally)**：待ち望んだ末に「ついに」「とうとう」
 
 eventuallyは「時間や過程の末に自然とそうなる」ニュアンス、finallyは「待ち望んだ結果や強調したい結末」に使われます。
 
@@ -105,14 +109,14 @@ eventuallyは「時間や過程の末に自然とそうなる」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [ultimately](/word/ultimately/)：究極的には、最終的に
-- [gradually](/word/gradually/)：徐々に、だんだんと
+- [ultimately](/ultimately)：究極的には、最終的に
+- [gradually](/gradually)：徐々に、だんだんと
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently/)：最近
-- [immediately](/word/immediately/)：すぐに、直ちに
+- [recently](/recently)：最近
+- [immediately](/immediately)：すぐに、直ちに
 
-<!-- cvid: aid28_bid19 -->
+<!-- cvid: aid11_bid40 -->

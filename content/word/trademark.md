@@ -81,15 +81,19 @@ TOEICでは契約書やビジネス文書、知的財産に関する話題で登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書やビジネス文書、知的財産に関する話題で登
 ## 🤔  copyright との違いは？
 
 - **trademark**：商品やサービスを他と区別するためのマークや名前
-- **[copyright](/word/copyright/)**：著作物（文章・音楽・絵など）の権利
+- **[copyright](/copyright)**：著作物（文章・音楽・絵など）の権利
 
 trademarkはブランドやロゴなど「商標」に関する権利、copyrightは本や音楽など「著作物」に関する権利です。
 
@@ -105,14 +109,14 @@ trademarkはブランドやロゴなど「商標」に関する権利、copyrigh
 
 ## 🧩 あわせて覚えたい
 
-- [patent](/word/patent/)：特許（発明や技術の独占権）
-- [logo](/word/logo/)：ロゴ（企業やブランドを象徴する図案）
+- [patent](/patent)：特許（発明や技術の独占権）
+- [logo](/logo)：ロゴ（企業やブランドを象徴する図案）
 
 ---
 
 ## 📖 できればこれも
 
-- [license](/word/license/)：許可、ライセンス
-- [register](/word/register/)：登録する
+- [license](/license)：許可、ライセンス
+- [register](/register)：登録する
 
-<!-- cvid: aid19_bid28 -->
+<!-- cvid: aid34_bid37 -->

@@ -81,15 +81,19 @@ TOEICでは、歴史や観光、科学分野の長文で「explorer」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、歴史や観光、科学分野の長文で「explorer」が登場�
 ## 🤔  adventurer との違いは？
 
 - **explorer**：未知の場所や分野を調査・発見することを目的とした探検家
-- **[adventurer](/word/adventurer/)**：冒険やスリルを求めて危険なことに挑む人
+- **[adventurer](/adventurer)**：冒険やスリルを求めて危険なことに挑む人
 
 explorerは「調査・発見」が主な目的ですが、adventurerは「冒険やスリル」を求める点が異なります。
 
@@ -105,14 +109,14 @@ explorerは「調査・発見」が主な目的ですが、adventurerは「冒�
 
 ## 🧩 あわせて覚えたい
 
-- [pioneer](/word/pioneer/)：開拓者、先駆者
-- [researcher](/word/researcher/)：研究者
+- [pioneer](/pioneer)：開拓者、先駆者
+- [researcher](/researcher)：研究者
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/word/explore/)：探検する、調査する
-- [discovery](/word/discovery/)：発見
+- [explore](/explore)：探検する、調査する
+- [discovery](/discovery)：発見
 
-<!-- cvid: aid31_bid18 -->
+<!-- cvid: aid37_bid03 -->

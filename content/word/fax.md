@@ -81,15 +81,19 @@ TOEICではオフィスのやりとりや連絡手段に関する会話で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではオフィスのやりとりや連絡手段に関する会話で登場
 ## 🤔  scan との違いは？
 
 - **fax**：電話回線を使って文書や画像を送信する手段や送信された文書
-- **[scan](/word/scan/)**：紙の文書や画像をデジタルデータとして取り込むこと
+- **[scan](/scan)**：紙の文書や画像をデジタルデータとして取り込むこと
 
 faxは「送信手段」や「送信物」を指し、scanは「デジタル化する行為やデータ」を指します。
 
@@ -105,14 +109,14 @@ faxは「送信手段」や「送信物」を指し、scanは「デジタル化�
 
 ## 🧩 あわせて覚えたい
 
-- [email](/word/email/)：電子メール
-- [copy](/word/copy/)：コピー、複製
+- [email](/email)：電子メール
+- [copy](/copy)：コピー、複製
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print/)：印刷する
-- [document](/word/document/)：文書
+- [print](/print)：印刷する
+- [document](/document)：文書
 
-<!-- cvid: aid25_bid29 -->
+<!-- cvid: aid38_bid01 -->

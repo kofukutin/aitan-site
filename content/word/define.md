@@ -81,15 +81,19 @@ TOEICでは、defineは「用語や役割を明確にする」という文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid17" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid17" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、defineは「用語や役割を明確にする」という文脈で
 ## 🤔  describe との違いは？
 
 - **define**：言葉や概念の意味・範囲を明確に定める
-- **[describe](/word/describe/)**：特徴や様子を詳しく説明する
+- **[describe](/describe)**：特徴や様子を詳しく説明する
 
 defineは「意味や範囲をはっきりさせる」ことに重点があり、describeは「見た目や性質などを詳しく述べる」時に使います。
 
@@ -105,14 +109,14 @@ defineは「意味や範囲をはっきりさせる」ことに重点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [specify](/word/specify/)：具体的に述べる
-- [clarify](/word/clarify/)：明確にする
+- [specify](/specify)：具体的に述べる
+- [clarify](/clarify)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain/)：説明する
-- [identify](/word/identify/)：特定する
+- [explain](/explain)：説明する
+- [identify](/identify)：特定する
 
-<!-- cvid: aid23_bid46 -->
+<!-- cvid: aid20_bid17 -->

@@ -81,15 +81,19 @@ She looked worried during the meeting.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid31" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid31" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ She looked worried during the meeting.
 ## 🤔  concerned との違いは？
 
 - **worried**：悪いことが起こるのではと強く不安・心配している気持ち
-- **[concerned](/word/concerned/)**：ややフォーマルで、気にかけている・配慮しているニュアンス
+- **[concerned](/concerned)**：ややフォーマルで、気にかけている・配慮しているニュアンス
 
 worriedは感情的な不安や心配を強く表し、concernedはもう少し冷静で配慮や注意を含む表現です。
 
@@ -105,14 +109,14 @@ worriedは感情的な不安や心配を強く表し、concernedはもう少し�
 
 ## 🧩 あわせて覚えたい
 
-- [anxious](/word/anxious/)：不安な、気がかりな
-- [relieved](/word/relieved/)：ほっとした、安心した
+- [anxious](/anxious)：不安な、気がかりな
+- [relieved](/relieved)：ほっとした、安心した
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/word/nervous/)：緊張している、不安な
-- [upset](/word/upset/)：動揺している、取り乱している
+- [nervous](/nervous)：緊張している、不安な
+- [upset](/upset)：動揺している、取り乱している
 
-<!-- cvid: aid19_bid42 -->
+<!-- cvid: aid41_bid31 -->

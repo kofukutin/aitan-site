@@ -83,15 +83,19 @@ ITや通信分野の長文やEメール、案内文で見かけることが多�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ ITや通信分野の長文やEメール、案内文で見かけることが多�
 ## 🤔  telecommunications との違いは？
 
 - **telephony**：電話による音声通信やその技術に特化した用語
-- **[telecommunications](/word/telecommunications/)**：電話だけでなく、インターネットやテレビなど広範な通信全般
+- **[telecommunications](/telecommunications)**：電話だけでなく、インターネットやテレビなど広範な通信全般
 
 telephonyは「電話」に限定されるのに対し、telecommunicationsはより広い通信分野全体を指します。
 
@@ -107,14 +111,14 @@ telephonyは「電話」に限定されるのに対し、telecommunicationsは�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network/)：ネットワーク、通信網
-- [infrastructure](/word/infrastructure/)：インフラ、基盤設備
+- [network](/network)：ネットワーク、通信網
+- [infrastructure](/infrastructure)：インフラ、基盤設備
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：機器、装置
-- [signal](/word/signal/)：信号、合図
+- [device](/device)：機器、装置
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid35_bid10 -->
+<!-- cvid: aid40_bid49 -->

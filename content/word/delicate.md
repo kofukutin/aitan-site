@@ -81,15 +81,19 @@ TOEICでは、製品説明やビジネス文書で「繊細な」「壊れやす
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品説明やビジネス文書で「繊細な」「壊れやす
 ## 🤔  fragile との違いは？
 
 - **delicate**：繊細で壊れやすい、または微妙で注意が必要な状態
-- **[fragile](/word/fragile/)**：物理的に壊れやすい、もろい
+- **[fragile](/fragile)**：物理的に壊れやすい、もろい
 
 delicateは「注意深く扱うべき繊細さ」や「感情・状況の微妙さ」にも使えるが、fragileは主に「物が壊れやすい」ことに限定されます。
 
@@ -105,14 +109,14 @@ delicateは「注意深く扱うべき繊細さ」や「感情・状況の微妙
 
 ## 🧩 あわせて覚えたい
 
-- [sensitive](/word/sensitive/)：敏感な、感受性の強い
-- [subtle](/word/subtle/)：微妙な、わずかな
+- [sensitive](/sensitive)：敏感な、感受性の強い
+- [subtle](/subtle)：微妙な、わずかな
 
 ---
 
 ## 📖 できればこれも
 
-- [complex](/word/complex/)：複雑な
-- [precise](/word/precise/)：正確な
+- [complex](/complex)：複雑な
+- [precise](/precise)：正確な
 
-<!-- cvid: aid26_bid29 -->
+<!-- cvid: aid17_bid13 -->

@@ -81,15 +81,19 @@ TOEICでは、ITやオフィスの設備説明、修理や設置に関する会�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ITやオフィスの設備説明、修理や設置に関する会�
 ## 🤔  cable との違いは？
 
 - **wire**：金属製の細い線や電線を指し、単線や細いものにも使う。
-- **[cable](/word/cable/)**：複数のwireを束ねた太いケーブルや、より大きな電線を指す。
+- **[cable](/cable)**：複数のwireを束ねた太いケーブルや、より大きな電線を指す。
 
 wireは細い単線や単純な電線、cableは複数のwireをまとめた太い線や複雑な配線に使われます。
 
@@ -105,14 +109,14 @@ wireは細い単線や単純な電線、cableは複数のwireをまとめた太�
 
 ## 🧩 あわせて覚えたい
 
-- [cord](/word/cord/)：（電気）コード、ひも
-- [thread](/word/thread/)：糸、細い線
+- [cord](/cord)：（電気）コード、ひも
+- [thread](/thread)：糸、細い線
 
 ---
 
 ## 📖 できればこれも
 
-- [plug](/word/plug/)：プラグ、差し込み口
-- [device](/word/device/)：装置、機器
+- [plug](/plug)：プラグ、差し込み口
+- [device](/device)：装置、機器
 
-<!-- cvid: aid31_bid09 -->
+<!-- cvid: aid23_bid06 -->

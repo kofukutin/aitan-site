@@ -81,15 +81,19 @@ The conference room was stuffed with chairs for the event.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The conference room was stuffed with chairs for the event.
 ## 🤔  filled との違いは？
 
 - **stuffed**：中身がぎっしり詰まっている、または満腹である（カジュアル）
-- **[filled](/word/filled/)**：何かで満たされている（ややフォーマル・幅広い場面）
+- **[filled](/filled)**：何かで満たされている（ややフォーマル・幅広い場面）
 
 「stuffed」は特に料理や満腹感、ぬいぐるみなど「中に詰め込む」ニュアンスが強く、filledは「満たす」一般的な意味で使われます。
 
@@ -105,14 +109,14 @@ The conference room was stuffed with chairs for the event.
 
 ## 🧩 あわせて覚えたい
 
-- [full](/word/full/)：いっぱいの、満ちた
-- [packed](/word/packed/)：ぎっしり詰まった
+- [full](/full)：いっぱいの、満ちた
+- [packed](/packed)：ぎっしり詰まった
 
 ---
 
 ## 📖 できればこれも
 
-- [empty](/word/empty/)：空の
-- [crowded](/word/crowded/)：混雑した
+- [empty](/empty)：空の
+- [crowded](/crowded)：混雑した
 
-<!-- cvid: aid34_bid09 -->
+<!-- cvid: aid16_bid13 -->

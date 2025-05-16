@@ -81,15 +81,19 @@ TOEICでは「負担」「緊張」といった意味で、ビジネス文書や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「負担」「緊張」といった意味で、ビジネス文書や
 ## 🤔  stress との違いは？
 
 - **strain**：長期間にわたる負担や、物理的・精神的な「緊張」「重圧」を強調。
-- **[stress](/word/stress/)**：日常的な「ストレス」や「圧力」全般を幅広く指す。
+- **[stress](/stress)**：日常的な「ストレス」や「圧力」全般を幅広く指す。
 
 strainは「無理がかかっている状態」や「限界に近い負担」を表し、stressは「一般的なストレス」や「圧力」を指す点で使い分けます。
 
@@ -105,14 +109,14 @@ strainは「無理がかかっている状態」や「限界に近い負担」�
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/word/burden/)：重荷、負担
-- [tension](/word/tension/)：緊張、張りつめた状態
+- [burden](/burden)：重荷、負担
+- [tension](/tension)：緊張、張りつめた状態
 
 ---
 
 ## 📖 できればこれも
 
-- [pressure](/word/pressure/)：圧力、プレッシャー
-- [load](/word/load/)：荷重、負担
+- [pressure](/pressure)：圧力、プレッシャー
+- [load](/load)：荷重、負担
 
-<!-- cvid: aid18_bid37 -->
+<!-- cvid: aid23_bid34 -->

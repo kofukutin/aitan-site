@@ -81,15 +81,19 @@ TOEICでは大学や教育機関に関する長文や案内文で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは大学や教育機関に関する長文や案内文で見かけるこ
 ## 🤔  student との違いは？
 
 - **undergraduate**：大学の学士課程に在籍する学生
-- **[student](/word/student/)**：学生全般（小学生～大学院生まで）
+- **[student](/student)**：学生全般（小学生～大学院生まで）
 
 undergraduateは「大学の学部生」に限定されるのに対し、studentはすべての学生を指します。
 
@@ -105,14 +109,14 @@ undergraduateは「大学の学部生」に限定されるのに対し、student
 
 ## 🧩 あわせて覚えたい
 
-- [graduate](/word/graduate/)：大学院生、卒業生
-- [freshman](/word/freshman/)：（大学・高校の）1年生
+- [graduate](/graduate)：大学院生、卒業生
+- [freshman](/freshman)：（大学・高校の）1年生
 
 ---
 
 ## 📖 できればこれも
 
-- [degree](/word/degree/)：学位
-- [university](/word/university/)：大学
+- [degree](/degree)：学位
+- [university](/university)：大学
 
-<!-- cvid: aid11_bid36 -->
+<!-- cvid: aid43_bid11 -->

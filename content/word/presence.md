@@ -81,7 +81,7 @@ TOEICでは会議やイベントの出席、存在感について話す場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+感覚があるうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは会議やイベントの出席、存在感について話す場面で
 
 <div class="info-center">
 ＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの出席、存在感について話す場面で
 ## 🤔  attendance との違いは？
 
 - **presence**：その場に「いること」や「存在感」を強調するフォーマルな表現
-- **[attendance](/word/attendance/)**：出席という「行為」や「人数」を客観的に表す
+- **[attendance](/attendance)**：出席という「行為」や「人数」を客観的に表す
 
 presenceは「その人がいること自体」や「雰囲気」にも使われ、attendanceは「出席の有無」や「出席者数」など事務的な場面で使われます。
 
@@ -105,14 +109,14 @@ presenceは「その人がいること自体」や「雰囲気」にも使われ
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/word/absence/)：不在、欠席
-- [appearance](/word/appearance/)：外見、出現
+- [absence](/absence)：不在、欠席
+- [appearance](/appearance)：外見、出現
 
 ---
 
 ## 📖 できればこれも
 
-- [participation](/word/participation/)：参加
-- [involvement](/word/involvement/)：関与
+- [participation](/participation)：参加
+- [involvement](/involvement)：関与
 
-<!-- cvid: aid08_bid21 -->
+<!-- cvid: aid25_bid21 -->

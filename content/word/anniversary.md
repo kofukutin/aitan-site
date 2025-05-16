@@ -81,15 +81,19 @@ TOEICでは、会社の創立記念やイベント案内などの文脈で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社の創立記念やイベント案内などの文脈で出題
 ## 🤔  commemoration との違いは？
 
 - **anniversary**：特定の出来事が起こった日から1年ごとに巡る「記念日」
-- **[commemoration](/word/commemoration/)**：出来事や人物を記念する「式典」や「行事」
+- **[commemoration](/commemoration)**：出来事や人物を記念する「式典」や「行事」
 
 **anniversary**は「日付」に焦点があり、**commemoration**は「記念する行為や式典」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、会社の創立記念やイベント案内などの文脈で出題
 
 ## 🧩 あわせて覚えたい
 
-- [celebration](/word/celebration/)：祝賀、祝い
-- [event](/word/event/)：出来事、行事
+- [celebration](/celebration)：祝賀、祝い
+- [event](/event)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [occasion](/word/occasion/)：特別な機会
-- [ceremony](/word/ceremony/)：式典
+- [occasion](/occasion)：特別な機会
+- [ceremony](/ceremony)：式典
 
-<!-- cvid: aid18_bid43 -->
+<!-- cvid: aid06_bid46 -->

@@ -81,15 +81,19 @@ TOEICでは、メールやレポート、ウェブページの説明文などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールやレポート、ウェブページの説明文などで
 ## 🤔  title との違いは？
 
 - **heading**：文章やセクションごとの「見出し」や「小見出し」
-- **[title](/word/title/)**：本や記事全体の「タイトル」や「題名」
+- **[title](/title)**：本や記事全体の「タイトル」や「題名」
 
 headingは文書内の区切りや小さなまとまりの表題、titleは全体の名前や作品名に使います。
 
@@ -105,14 +109,14 @@ headingは文書内の区切りや小さなまとまりの表題、titleは全�
 
 ## 🧩 あわせて覚えたい
 
-- [caption](/word/caption/)：写真や図の説明文
-- [subtitle](/word/subtitle/)：副題、サブタイトル
+- [caption](/caption)：写真や図の説明文
+- [subtitle](/subtitle)：副題、サブタイトル
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/word/section/)：セクション、区分
-- [paragraph](/word/paragraph/)：段落
+- [section](/section)：セクション、区分
+- [paragraph](/paragraph)：段落
 
-<!-- cvid: aid21_bid35 -->
+<!-- cvid: aid18_bid41 -->

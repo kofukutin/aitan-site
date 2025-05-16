@@ -81,15 +81,19 @@ TOEICではPart 5の文法・語彙問題で頻出し、「考慮する」「検
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の文法・語彙問題で頻出し、「考慮する」「検
 ## 🤔  regard との違いは？
 
 - **consider**：よく考えて判断する、検討する
-- **[regard](/word/regard/)**：～を（ある観点で）見なす、評価する
+- **[regard](/regard)**：～を（ある観点で）見なす、評価する
 
 considerは「じっくり考える・検討する」ニュアンスが強く、regardは「～と見なす・評価する」ときに使います。
 
@@ -105,14 +109,14 @@ considerは「じっくり考える・検討する」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [think](/word/think/)：考える、思う
-- [deem](/word/deem/)：～と見なす、判断する
+- [think](/think)：考える、思う
+- [deem](/deem)：～と見なす、判断する
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/word/suggest/)：提案する
-- [decide](/word/decide/)：決定する
+- [suggest](/suggest)：提案する
+- [decide](/decide)：決定する
 
-<!-- cvid: aid44_bid49 -->
+<!-- cvid: aid22_bid42 -->

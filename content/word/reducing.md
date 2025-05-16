@@ -81,15 +81,19 @@ TOEICでは、reduce の進行形や動名詞として reducing が文法問題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、reduce の進行形や動名詞として reducing が文法問題�
 ## 🤔  decreasing との違いは？
 
 - **reducing**：全体の量や規模を小さくすることに幅広く使う
-- **[decreasing](/word/decreasing/)**：数値や割合が「下がる」「減少する」ことに焦点
+- **[decreasing](/decreasing)**：数値や割合が「下がる」「減少する」ことに焦点
 
 reducing は「意図的に減らす」ニュアンスが強く、decreasing は「自然に減る」「数値が下がる」場面で使われやすいです。
 
@@ -105,14 +109,14 @@ reducing は「意図的に減らす」ニュアンスが強く、decreasing は
 
 ## 🧩 あわせて覚えたい
 
-- [diminish](/word/diminish/)：（価値・重要性などが）減少する
-- [cut](/word/cut/)：（コストや数量を）切り詰める、削減する
+- [diminish](/diminish)：（価値・重要性などが）減少する
+- [cut](/cut)：（コストや数量を）切り詰める、削減する
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増やす、増加する
-- [lower](/word/lower/)：下げる、低くする
+- [increase](/increase)：増やす、増加する
+- [lower](/lower)：下げる、低くする
 
-<!-- cvid: aid01_bid23 -->
+<!-- cvid: aid19_bid11 -->

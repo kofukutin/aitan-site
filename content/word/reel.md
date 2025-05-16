@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、釣りや工場、オフィスの場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid38_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、釣りや工場、オフィスの場面
 ## 🤔  spool との違いは？
 
 - **reel**：釣り糸やフィルムなどを巻き取るための円筒状の道具全般を指す。
-- **[spool](/word/spool/)**：主に糸やワイヤーなどを巻くための小型の糸巻きやスプールを指す。
+- **[spool](/spool)**：主に糸やワイヤーなどを巻くための小型の糸巻きやスプールを指す。
 
 reelは釣りや映画フィルムなど幅広い用途で使われ、spoolは特に糸や細いワイヤーなどを巻く小型の道具に使われることが多いです。
 
@@ -105,14 +109,14 @@ reelは釣りや映画フィルムなど幅広い用途で使われ、spoolは�
 
 ## 🧩 あわせて覚えたい
 
-- [roll](/word/roll/)：巻物、ロール
-- [unwind](/word/unwind/)：巻かれたものをほどく
+- [roll](/roll)：巻物、ロール
+- [unwind](/unwind)：巻かれたものをほどく
 
 ---
 
 ## 📖 できればこれも
 
-- [tape](/word/tape/)：テープ
-- [cord](/word/cord/)：ひも、コード
+- [tape](/tape)：テープ
+- [cord](/cord)：ひも、コード
 
-<!-- cvid: aid40_bid07 -->
+<!-- cvid: aid38_bid08 -->

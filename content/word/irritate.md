@@ -81,15 +81,19 @@ TOEICでは、感情や状態を表す動詞としてPart 5の語彙問題で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、感情や状態を表す動詞としてPart 5の語彙問題で出
 ## 🤔  annoy との違いは？
 
 - **irritate**：繰り返しや継続的な刺激で「いらいらさせる」ニュアンスが強い
-- **[annoy](/word/annoy/)**：比較的軽い不快感や迷惑を感じさせる
+- **[annoy](/annoy)**：比較的軽い不快感や迷惑を感じさせる
 
 irritateは「神経を逆なでする」ような強めの苛立ちや物理的な刺激にも使われますが、annoyは「ちょっとした迷惑」や「軽い不快感」に使われることが多いです。
 
@@ -105,14 +109,14 @@ irritateは「神経を逆なでする」ような強めの苛立ちや物理的
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm/)：落ち着かせる、静める
-- [bother](/word/bother/)：悩ませる、困らせる
+- [calm](/calm)：落ち着かせる、静める
+- [bother](/bother)：悩ませる、困らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [disturb](/word/disturb/)：邪魔をする、妨げる
-- [frustrate](/word/frustrate/)：欲求不満にさせる、挫折させる
+- [disturb](/disturb)：邪魔をする、妨げる
+- [frustrate](/frustrate)：欲求不満にさせる、挫折させる
 
-<!-- cvid: aid02_bid42 -->
+<!-- cvid: aid38_bid37 -->

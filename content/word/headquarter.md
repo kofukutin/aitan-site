@@ -82,15 +82,19 @@ TOEICでは主に長文読解パートで、企業や団体の所在地や組織
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に長文読解パートで、企業や団体の所在地や組織
 ## 🤔  headquarters との違いは？
 
 - **headquarter**：本部を置く（動詞）、ややフォーマルで書き言葉中心
-- **[headquarters](/word/headquarters/)**：本部（名詞）、最も一般的な表現
+- **[headquarters](/headquarters)**：本部（名詞）、最も一般的な表現
 
 "headquarter" は動詞で「本部を設ける」という動作を表し、"headquarters" は場所そのものを指す名詞です。日常的には名詞の "headquarters" が圧倒的に使われます。
 
@@ -106,14 +110,14 @@ TOEICでは主に長文読解パートで、企業や団体の所在地や組織
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/word/branch/)：支店、支部
-- [subsidiary](/word/subsidiary/)：子会社
+- [branch](/branch)：支店、支部
+- [subsidiary](/subsidiary)：子会社
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize/)：組織する、まとめる
-- [manage](/word/manage/)：管理する、運営する
+- [organize](/organize)：組織する、まとめる
+- [manage](/manage)：管理する、運営する
 
-<!-- cvid: aid32_bid44 -->
+<!-- cvid: aid29_bid14 -->

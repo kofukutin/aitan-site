@@ -81,15 +81,19 @@ TOEICでは「初心者向け」「経験の浅い人」という意味で、選
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「初心者向け」「経験の浅い人」という意味で、選
 ## 🤔  novice との違いは？
 
 - **beginner**：一般的な「初心者」。日常的な場面で幅広く使われる。
-- **[novice](/word/novice/)**：特定の分野や職業での「未経験者」。ややフォーマルで限定的。
+- **[novice](/novice)**：特定の分野や職業での「未経験者」。ややフォーマルで限定的。
 
 "beginner" はどんな分野にも使えるカジュアルな表現ですが、"novice" は専門的な分野や職業で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「初心者向け」「経験の浅い人」という意味で、選
 
 ## 🧩 あわせて覚えたい
 
-- [expert](/word/expert/)：専門家、熟練者
-- [learner](/word/learner/)：学習者
+- [expert](/expert)：専門家、熟練者
+- [learner](/learner)：学習者
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/word/basic/)：基本的な
-- [practice](/word/practice/)：練習
+- [basic](/basic)：基本的な
+- [practice](/practice)：練習
 
-<!-- cvid: aid29_bid47 -->
+<!-- cvid: aid16_bid20 -->

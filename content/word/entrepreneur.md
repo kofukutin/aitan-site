@@ -81,15 +81,19 @@ TOEICではビジネス記事やインタビュー、会社紹介などの長文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid42_bid16" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid16" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス記事やインタビュー、会社紹介などの長文
 ## 🤔  founder との違いは？
 
 - **entrepreneur**：新しいビジネスを立ち上げ、リスクを取って事業を推進する人
-- **[founder](/word/founder/)**：会社や団体などを設立した人
+- **[founder](/founder)**：会社や団体などを設立した人
 
 entrepreneurは「事業を始めて育てる人」、founderは「設立者」という意味が強く、起業家精神やリスクテイクのニュアンスはentrepreneurにあります。
 
@@ -105,14 +109,14 @@ entrepreneurは「事業を始めて育てる人」、founderは「設立者」�
 
 ## 🧩 あわせて覚えたい
 
-- [investor](/word/investor/)：投資家
-- [manager](/word/manager/)：管理職、マネージャー
+- [investor](/investor)：投資家
+- [manager](/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [startup](/word/startup/)：新興企業、スタートアップ
-- [venture](/word/venture/)：ベンチャー企業、冒険的事業
+- [startup](/startup)：新興企業、スタートアップ
+- [venture](/venture)：ベンチャー企業、冒険的事業
 
-<!-- cvid: aid34_bid05 -->
+<!-- cvid: aid42_bid16 -->

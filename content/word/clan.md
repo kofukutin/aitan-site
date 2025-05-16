@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介、歴史に関する長文で登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid14" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid14" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介、歴史に関する長文で登場すること
 ## 🤔  tribe との違いは？
 
 - **clan**：血縁や共通の祖先を持つ比較的小規模な集団や一族
-- **[tribe](/word/tribe/)**：文化や言語、伝統を共有するより大きな民族集団
+- **[tribe](/tribe)**：文化や言語、伝統を共有するより大きな民族集団
 
 clanは家族や親戚を中心とした集団、tribeはより広い社会的・文化的な集団を指します。
 
@@ -105,13 +109,13 @@ clanは家族や親戚を中心とした集団、tribeはより広い社会的�
 
 ## 🧩 あわせて覚えたい
 
-- [family](/word/family/)：家族
-- [community](/word/community/)：共同体、地域社会
+- [family](/family)：家族
+- [community](/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [ancestor](/word/ancestor/)：祖先
-- [heritage](/word/heritage/)：遺産、伝統
-<!-- cvid: aid21_bid37 -->
+- [ancestor](/ancestor)：祖先
+- [heritage](/heritage)：遺産、伝統
+<!-- cvid: aid19_bid14 -->

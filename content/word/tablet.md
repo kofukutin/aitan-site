@@ -83,15 +83,19 @@ TOEICでは、IT機器や医薬品に関する説明文や広告で登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid26" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid26" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICでは、IT機器や医薬品に関する説明文や広告で登場する�
 ## 🤔  pill との違いは？
 
 - **tablet**：錠剤（平たい形）やタブレット端末を指す
-- **[pill](/word/pill/)**：一般的な「丸薬」「錠剤」を指す
+- **[pill](/pill)**：一般的な「丸薬」「錠剤」を指す
 
 tabletは「平たい錠剤」や「電子端末」を指し、pillは「丸い錠剤」など薬全般に使われます。IT機器の意味はtabletのみです。
 
@@ -107,14 +111,14 @@ tabletは「平たい錠剤」や「電子端末」を指し、pillは「丸い�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device/)：装置、機器
-- [capsule](/word/capsule/)：カプセル（薬の形状）
+- [device](/device)：装置、機器
+- [capsule](/capsule)：カプセル（薬の形状）
 
 ---
 
 ## 📖 できればこれも
 
-- [laptop](/word/laptop/)：ノートパソコン
-- [monitor](/word/monitor/)：モニター、画面
+- [laptop](/laptop)：ノートパソコン
+- [monitor](/monitor)：モニター、画面
 
-<!-- cvid: aid19_bid10 -->
+<!-- cvid: aid02_bid26 -->

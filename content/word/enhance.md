@@ -81,15 +81,19 @@ TOEICではPart 5を中心に、ビジネス文脈で「高める」「強化す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5を中心に、ビジネス文脈で「高める」「強化す
 ## 🤔  improve との違いは？
 
 - **enhance**：もともと良いものをさらに高めたり、価値や魅力を強化するニュアンス
-- **[improve](/word/improve/)**：悪い・普通の状態からより良くする、全体的に改善するニュアンス
+- **[improve](/improve)**：悪い・普通の状態からより良くする、全体的に改善するニュアンス
 
 enhanceは「質や価値を一段と引き上げる」イメージ、improveは「全体的に良くする」イメージで使い分けます。
 
@@ -105,14 +109,14 @@ enhanceは「質や価値を一段と引き上げる」イメージ、improveは
 
 ## 🧩 あわせて覚えたい
 
-- [boost](/word/boost/)：押し上げる、促進する
-- [diminish](/word/diminish/)：減少させる、弱める
+- [boost](/boost)：押し上げる、促進する
+- [diminish](/diminish)：減少させる、弱める
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand/)：拡大する、広げる
-- [promote](/word/promote/)：促進する、推進する
+- [expand](/expand)：拡大する、広げる
+- [promote](/promote)：促進する、推進する
 
-<!-- cvid: aid24_bid14 -->
+<!-- cvid: aid37_bid40 -->

@@ -77,15 +77,19 @@ TOEICでは「～以内に」「～の範囲で」といった意味で、納期
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは「～以内に」「～の範囲で」といった意味で、納期
 ## 🤔  inside との違いは？
 
 - **within**：範囲や期間の「～以内に」「～の内部で」と抽象的にも使える
-- **[inside](/word/inside/)**：物理的な「内側」「内部」に限定される
+- **[inside](/inside)**：物理的な「内側」「内部」に限定される
 
 「within」は時間や抽象的な範囲にも使えますが、「inside」は物理的な空間の内側に限定されます。
 
@@ -101,15 +105,15 @@ TOEICでは「～以内に」「～の範囲で」といった意味で、納期
 
 ## 🧩 あわせて覚えたい
 
-- [beyond](/word/beyond/)：～を越えて、～の向こうに
-- [throughout](/word/throughout/)：～の至る所に、～の間ずっと
+- [beyond](/beyond)：～を越えて、～の向こうに
+- [throughout](/throughout)：～の至る所に、～の間ずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during/)：～の間に
-- [among](/word/among/)：～の間で、～の中の
+- [during](/during)：～の間に
+- [among](/among)：～の間で、～の中の
 
 
-<!-- cvid: aid23_bid29 -->
+<!-- cvid: aid37_bid42 -->

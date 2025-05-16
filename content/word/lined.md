@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、ノートや道路、壁などに「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、ノートや道路、壁などに「
 ## 🤔  bordered との違いは？
 
 - **lined**：線が引かれている、または線で縁取られている状態
-- **[bordered](/word/bordered/)**：縁や枠がある、囲まれている状態
+- **[bordered](/bordered)**：縁や枠がある、囲まれている状態
 
 linedは「線が並んでいる」「罫線がある」など線そのものに注目し、borderedは「枠」や「縁取り」に注目します。
 
@@ -105,14 +109,14 @@ linedは「線が並んでいる」「罫線がある」など線そのものに
 
 ## 🧩 あわせて覚えたい
 
-- [striped](/word/striped/)：しま模様の
-- [blank](/word/blank/)：空白の、何も書かれていない
+- [striped](/striped)：しま模様の
+- [blank](/blank)：空白の、何も書かれていない
 
 ---
 
 ## 📖 できればこれも
 
-- [plain](/word/plain/)：無地の、飾りのない
-- [patterned](/word/patterned/)：模様入りの
+- [plain](/plain)：無地の、飾りのない
+- [patterned](/patterned)：模様入りの
 
-<!-- cvid: aid16_bid33 -->
+<!-- cvid: aid44_bid19 -->

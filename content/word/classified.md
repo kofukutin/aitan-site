@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書やEメール、社内通知などで「classifi
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書やEメール、社内通知などで「classifi
 ## 🤔  confidential との違いは？
 
 - **classified**：政府や組織によって「公式に機密指定された」情報や文書に使う
-- **[confidential](/word/confidential/)**：一般的に「秘密」「内密」にすべき内容に使う
+- **[confidential](/confidential)**：一般的に「秘密」「内密」にすべき内容に使う
 
 classifiedは「機密レベルが公式に定められている」ニュアンスが強く、confidentialは「個人や組織内で秘密にしたい」広い意味で使われます。
 
@@ -105,14 +109,14 @@ classifiedは「機密レベルが公式に定められている」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [public](/word/public/)：公開の、一般の
-- [restricted](/word/restricted/)：制限された、限定の
+- [public](/public)：公開の、一般の
+- [restricted](/restricted)：制限された、限定の
 
 ---
 
 ## 📖 できればこれも
 
-- [sensitive](/word/sensitive/)：取り扱い注意の、機密性の高い
-- [secure](/word/secure/)：安全な、厳重な
+- [sensitive](/sensitive)：取り扱い注意の、機密性の高い
+- [secure](/secure)：安全な、厳重な
 
-<!-- cvid: aid12_bid00 -->
+<!-- cvid: aid13_bid21 -->

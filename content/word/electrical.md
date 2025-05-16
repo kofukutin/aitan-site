@@ -82,15 +82,19 @@ TOEICでは「electrical equipment（電気設備）」や「electrical engineer
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「electrical equipment（電気設備）」や「electrical engineer
 ## 🤔  electronic との違いは？
 
 - **electrical**：電気そのものや電気に関する広い意味で使う
-- **[electronic](/word/electronic/)**：電子回路や電子機器など、電子技術に関するもの
+- **[electronic](/electronic)**：電子回路や電子機器など、電子技術に関するもの
 
 electricalは「電気全般」に、electronicは「電子部品や電子制御」に使われる点が大きな違いです。
 
@@ -106,15 +110,15 @@ electricalは「電気全般」に、electronicは「電子部品や電子制御
 
 ## 🧩 あわせて覚えたい
 
-- [mechanical](/word/mechanical/)：機械の、機械的な
-- [power](/word/power/)：電力、力
+- [mechanical](/mechanical)：機械の、機械的な
+- [power](/power)：電力、力
 
 ---
 
 ## 📖 できればこれも
 
-- [electric](/word/electric/)：電気の（より直接的に電気を帯びるもの）
-- [digital](/word/digital/)：デジタルの、数字で表す
+- [electric](/electric)：電気の（より直接的に電気を帯びるもの）
+- [digital](/digital)：デジタルの、数字で表す
 
 
-<!-- cvid: aid31_bid06 -->
+<!-- cvid: aid48_bid30 -->

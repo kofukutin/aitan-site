@@ -81,15 +81,19 @@ TOEICでは主にビジネスやIT関連の文脈で「生み出す」「発生�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスやIT関連の文脈で「生み出す」「発生�
 ## 🤔  create との違いは？
 
 - **generate**：何かを生み出す、特にエネルギーやデータ、結果などを発生させるときに使う
-- **[create](/word/create/)**：新しいものを作る、芸術作品やアイデアなど幅広い場面で使う
+- **[create](/create)**：新しいものを作る、芸術作品やアイデアなど幅広い場面で使う
 
 「generate」はプロセスやシステムが自動的に生み出す場合に多く、「create」は人が意図的に作り出す場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは主にビジネスやIT関連の文脈で「生み出す」「発生�
 
 ## 🧩 あわせて覚えたい
 
-- [produce](/word/produce/)：生産する、作り出す
-- [trigger](/word/trigger/)：引き起こす、誘発する
+- [produce](/produce)：生産する、作り出す
+- [trigger](/trigger)：引き起こす、誘発する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop/)：開発する、発展させる
-- [form](/word/form/)：形作る、構成する
+- [develop](/develop)：開発する、発展させる
+- [form](/form)：形作る、構成する
 
-<!-- cvid: aid19_bid37 -->
+<!-- cvid: aid39_bid01 -->

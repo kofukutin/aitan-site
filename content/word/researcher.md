@@ -81,15 +81,19 @@ TOEICでは、研究や開発に関する記事やメール、報告書などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、研究や開発に関する記事やメール、報告書などで
 ## 🤔  scientist との違いは？
 
 - **researcher**：研究活動を行う人全般（分野を問わず幅広い）
-- **[scientist](/word/scientist/)**：主に自然科学分野の科学者
+- **[scientist](/scientist)**：主に自然科学分野の科学者
 
 「researcher」は分野を問わず研究する人全体を指し、「scientist」は特に科学分野の専門家を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、研究や開発に関する記事やメール、報告書などで
 
 ## 🧩 あわせて覚えたい
 
-- [analyst](/word/analyst/)：分析者、データを解析する人
-- [investigator](/word/investigator/)：調査員、捜査官
+- [analyst](/analyst)：分析者、データを解析する人
+- [investigator](/investigator)：調査員、捜査官
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment/)：実験
-- [laboratory](/word/laboratory/)：研究室
+- [experiment](/experiment)：実験
+- [laboratory](/laboratory)：研究室
 
-<!-- cvid: aid20_bid32 -->
+<!-- cvid: aid25_bid29 -->

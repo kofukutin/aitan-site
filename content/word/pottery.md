@@ -81,15 +81,19 @@ The museum is hosting a pottery exhibition next month.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The museum is hosting a pottery exhibition next month.
 ## 🤔  ceramics との違いは？
 
 - **pottery**：日常的な陶器や陶芸作品、またその技術全般を指す。
-- **[ceramics](/word/ceramics/)**：より広く、陶磁器全般やその科学・技術分野も含む。
+- **[ceramics](/ceramics)**：より広く、陶磁器全般やその科学・技術分野も含む。
 
 potteryは主に手作りや芸術的な陶器を指し、ceramicsは工業製品や学問分野も含めた広い意味で使われます。
 
@@ -105,14 +109,14 @@ potteryは主に手作りや芸術的な陶器を指し、ceramicsは工業製�
 
 ## 🧩 あわせて覚えたい
 
-- [sculpture](/word/sculpture/)：彫刻
-- [porcelain](/word/porcelain/)：磁器
+- [sculpture](/sculpture)：彫刻
+- [porcelain](/porcelain)：磁器
 
 ---
 
 ## 📖 できればこれも
 
-- [clay](/word/clay/)：粘土
-- [vase](/word/vase/)：花瓶
+- [clay](/clay)：粘土
+- [vase](/vase)：花瓶
 
-<!-- cvid: aid29_bid21 -->
+<!-- cvid: aid00_bid28 -->

@@ -81,15 +81,19 @@ TOEICでは、プレゼンや発表、成果を伝える場面で「proudly」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、プレゼンや発表、成果を伝える場面で「proudly」�
 ## 🤔  confidently との違いは？
 
 - **proudly**：誇りや達成感を持って堂々と行動する様子
-- **[confidently](/word/confidently/)**：自信を持って、ためらいなく行動する様子
+- **[confidently](/confidently)**：自信を持って、ためらいなく行動する様子
 
 proudlyは「誇り」や「達成感」に焦点があり、confidentlyは「自信」や「確信」に重点があります。
 
@@ -105,14 +109,14 @@ proudlyは「誇り」や「達成感」に焦点があり、confidentlyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [humbly](/word/humbly/)：謙虚に
-- [modestly](/word/modestly/)：控えめに
+- [humbly](/humbly)：謙虚に
+- [modestly](/modestly)：控えめに
 
 ---
 
 ## 📖 できればこれも
 
-- [successfully](/word/successfully/)：うまく、成功して
-- [clearly](/word/clearly/)：はっきりと
+- [successfully](/successfully)：うまく、成功して
+- [clearly](/clearly)：はっきりと
 
-<!-- cvid: aid31_bid19 -->
+<!-- cvid: aid44_bid02 -->

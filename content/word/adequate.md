@@ -81,15 +81,19 @@ TOEICでは「十分な」「適切な」という意味で、品質や数量、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「十分な」「適切な」という意味で、品質や数量、
 ## 🤔  sufficient との違いは？
 
 - **adequate**：必要最低限は満たしている、まあまあ十分
-- **[sufficient](/word/sufficient/)**：必要条件を完全に満たす、十分
+- **[sufficient](/sufficient)**：必要条件を完全に満たす、十分
 
 adequateは「最低限OK」というニュアンスで、sufficientは「完全に十分」という強さがあります。
 
@@ -105,14 +109,14 @@ adequateは「最低限OK」というニュアンスで、sufficientは「完全
 
 ## 🧩 あわせて覚えたい
 
-- [insufficient](/word/insufficient/)：不十分な
-- [appropriate](/word/appropriate/)：適切な
+- [insufficient](/insufficient)：不十分な
+- [appropriate](/appropriate)：適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant/)：関連がある
-- [efficient](/word/efficient/)：効率的な
+- [relevant](/relevant)：関連がある
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid30_bid33 -->
+<!-- cvid: aid42_bid49 -->

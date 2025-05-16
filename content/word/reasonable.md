@@ -81,15 +81,19 @@ TOEICでは「reasonable price（手ごろな価格）」や「reasonable explan
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「reasonable price（手ごろな価格）」や「reasonable explan
 ## 🤔  rational との違いは？
 
 - **reasonable**：状況や常識に照らして「妥当」「納得できる」ことを表す
-- **[rational](/word/rational/)**：論理的・理性的であることを強調
+- **[rational](/rational)**：論理的・理性的であることを強調
 
 reasonableは「現実的・常識的に納得できる」ニュアンス、rationalは「論理的・理論的に正しい」ことを重視します。
 
@@ -105,14 +109,14 @@ reasonableは「現実的・常識的に納得できる」ニュアンス、rati
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable/)：手ごろな（特に価格が払える範囲であること）
-- [logical](/word/logical/)：論理的な、筋の通った
+- [affordable](/affordable)：手ごろな（特に価格が払える範囲であること）
+- [logical](/logical)：論理的な、筋の通った
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical/)：実用的な、現実的な
-- [sensible](/word/sensible/)：分別のある、賢明な
+- [practical](/practical)：実用的な、現実的な
+- [sensible](/sensible)：分別のある、賢明な
 
-<!-- cvid: aid29_bid26 -->
+<!-- cvid: aid05_bid23 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【jacket】の意味・使い方・例文 ― coatとの違い【TOEIC英単語】"
 description: "jacketの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcoatとの違いもわかりやすく学べます。"
 word: "jacket"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「ジャケットを着ている」「ジャ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid14_bid23" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid23" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「ジャケットを着ている」「ジャ
 ## 🤔  coat との違いは？
 
 - **jacket**：腰までの短めの上着やスーツの上着を指す
-- **[coat](/word/coat/)**：膝丈やそれ以上の長いコート全般を指す
+- **[coat](/coat)**：膝丈やそれ以上の長いコート全般を指す
 
 jacketは短めで軽い上着、coatは防寒用などの長めの上着を指す点が異なります。
 
@@ -105,14 +109,14 @@ jacketは短めで軽い上着、coatは防寒用などの長めの上着を指�
 
 ## 🧩 あわせて覚えたい
 
-- [sweater](/word/sweater/)：セーター（頭からかぶるニットの上着）
-- [blazer](/word/blazer/)：ブレザー（カジュアルなジャケット）
+- [sweater](/sweater)：セーター（頭からかぶるニットの上着）
+- [blazer](/blazer)：ブレザー（カジュアルなジャケット）
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt/)：シャツ（襟付きの上着）
-- [pants](/word/pants/)：ズボン、パンツ
+- [shirt](/shirt)：シャツ（襟付きの上着）
+- [pants](/pants)：ズボン、パンツ
 
-<!-- cvid: aid35_bid39 -->
+<!-- cvid: aid14_bid23 -->

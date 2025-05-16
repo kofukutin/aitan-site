@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、川や道路にかかる橋の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid47" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid47" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、川や道路にかかる橋の説明
 ## 🤔  overpass との違いは？
 
 - **bridge**：川や谷など自然の障害物の上にかける「橋」全般。比喩的にも使う。
-- **[overpass](/word/overpass/)**：主に道路や鉄道の上をまたぐ「陸橋」。
+- **[overpass](/overpass)**：主に道路や鉄道の上をまたぐ「陸橋」。
 
 bridgeは自然物や広い意味での「橋」を指し、overpassは特に道路や線路の上にかかる人工的な「陸橋」を指します。
 
@@ -105,14 +109,14 @@ bridgeは自然物や広い意味での「橋」を指し、overpassは特に道
 
 ## 🧩 あわせて覚えたい
 
-- [tunnel](/word/tunnel/)：トンネル
-- [connection](/word/connection/)：つながり、接続
+- [tunnel](/tunnel)：トンネル
+- [connection](/connection)：つながり、接続
 
 ---
 
 ## 📖 できればこれも
 
-- [road](/word/road/)：道路
-- [river](/word/river/)：川
+- [road](/road)：道路
+- [river](/river)：川
 
-<!-- cvid: aid40_bid24 -->
+<!-- cvid: aid39_bid47 -->

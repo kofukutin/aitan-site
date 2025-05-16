@@ -81,15 +81,19 @@ TOEICでは主に科学や技術、ビジネスの説明文で登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学や技術、ビジネスの説明文で登場します。
 ## 🤔  formula との違いは？
 
 - **equation**：等しいことを示す「方程式」や「等式」
-- **[formula](/word/formula/)**：計算方法や「公式」、決まった手順
+- **[formula](/formula)**：計算方法や「公式」、決まった手順
 
 equationは「=」で結ばれた等式を指し、formulaは計算や手順のルール自体を指します。
 
@@ -105,14 +109,14 @@ equationは「=」で結ばれた等式を指し、formulaは計算や手順の�
 
 ## 🧩 あわせて覚えたい
 
-- [solution](/word/solution/)：解答、解決策
-- [expression](/word/expression/)：式、表現
+- [solution](/solution)：解答、解決策
+- [expression](/expression)：式、表現
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/word/theory/)：理論
-- [method](/word/method/)：方法
+- [theory](/theory)：理論
+- [method](/method)：方法
 
-<!-- cvid: aid24_bid29 -->
+<!-- cvid: aid05_bid42 -->

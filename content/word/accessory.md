@@ -81,15 +81,19 @@ TOEICでは、主に製品説明やマニュアル、注文書などで「付属
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主に製品説明やマニュアル、注文書などで「付属
 ## 🤔  equipment との違いは？
 
 - **accessory**：本体に付属する補助的なものや装飾品
-- **[equipment](/word/equipment/)**：目的のために使う道具や機器全体
+- **[equipment](/equipment)**：目的のために使う道具や機器全体
 
 accessoryは「本体の補助・追加品」、equipmentは「必要な道具一式や装置」を指し、accessoryの方が範囲が狭くなります。
 
@@ -105,14 +109,14 @@ accessoryは「本体の補助・追加品」、equipmentは「必要な道具�
 
 ## 🧩 あわせて覚えたい
 
-- [attachment](/word/attachment/)：添付物、付属品
-- [component](/word/component/)：構成要素、部品
+- [attachment](/attachment)：添付物、付属品
+- [component](/component)：構成要素、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [tool](/word/tool/)：道具、ツール
+- [device](/device)：装置、機器
+- [tool](/tool)：道具、ツール
 
-<!-- cvid: aid01_bid30 -->
+<!-- cvid: aid12_bid05 -->

@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「飲み物を飲む」「飲酒」に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「飲み物を飲む」「飲酒」に関する
 ## 🤔  alcohol との違いは？
 
 - **drinking**：飲む行為や飲酒そのものを指す
-- **[alcohol](/word/alcohol/)**：アルコールという物質や飲み物自体を指す
+- **[alcohol](/alcohol)**：アルコールという物質や飲み物自体を指す
 
 drinkingは「行為」、alcoholは「物質・飲み物」として使い分けます。
 
@@ -105,14 +109,14 @@ drinkingは「行為」、alcoholは「物質・飲み物」として使い分�
 
 ## 🧩 あわせて覚えたい
 
-- [beverage](/word/beverage/)：飲み物（特にソフトドリンク）
-- [sobriety](/word/sobriety/)：しらふ、禁酒
+- [beverage](/beverage)：飲み物（特にソフトドリンク）
+- [sobriety](/sobriety)：しらふ、禁酒
 
 ---
 
 ## 📖 できればこれも
 
-- [smoking](/word/smoking/)：喫煙
-- [eating](/word/eating/)：食べること
+- [smoking](/smoking)：喫煙
+- [eating](/eating)：食べること
 
-<!-- cvid: aid21_bid03 -->
+<!-- cvid: aid10_bid30 -->

@@ -81,15 +81,19 @@ TOEICでは、matchingは主に名詞として「組み合わせ」や「一致�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、matchingは主に名詞として「組み合わせ」や「一致�
 ## 🤔  coordination との違いは？
 
 - **matching**：2つ以上のものを組み合わせて一致させること、調和させること
-- **[coordination](/word/coordination/)**：複数の要素をうまく調整・連携させること
+- **[coordination](/coordination)**：複数の要素をうまく調整・連携させること
 
 matchingは「ぴったり合う」ことに重点があり、coordinationは「調整して全体をうまくまとめる」ニュアンスです。
 
@@ -105,14 +109,14 @@ matchingは「ぴったり合う」ことに重点があり、coordinationは「
 
 ## 🧩 あわせて覚えたい
 
-- [pairing](/word/pairing/)：ペアにすること、組み合わせ
-- [combination](/word/combination/)：組み合わせ、結合
+- [pairing](/pairing)：ペアにすること、組み合わせ
+- [combination](/combination)：組み合わせ、結合
 
 ---
 
 ## 📖 できればこれも
 
-- [selection](/word/selection/)：選択
-- [arrangement](/word/arrangement/)：配置、手配
+- [selection](/selection)：選択
+- [arrangement](/arrangement)：配置、手配
 
-<!-- cvid: aid13_bid02 -->
+<!-- cvid: aid45_bid03 -->

@@ -81,15 +81,19 @@ TOEICでは、科学や技術、教育関連の長文や説明文で見かける
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や技術、教育関連の長文や説明文で見かける
 ## 🤔  arithmetic との違いは？
 
 - **mathematical**：数学全般や理論、抽象的な内容にも使える幅広い形容詞
-- **[arithmetic](/word/arithmetic/)**：主に「算数」「計算」に関する具体的な内容に使う形容詞
+- **[arithmetic](/arithmetic)**：主に「算数」「計算」に関する具体的な内容に使う形容詞
 
 **mathematical**は数学全体や理論的な話題に使い、**arithmetic**は計算や数の操作など、より基本的で具体的な算数に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、科学や技術、教育関連の長文や説明文で見かける
 
 ## 🧩 あわせて覚えたい
 
-- [scientific](/word/scientific/)：科学的な
-- [theoretical](/word/theoretical/)：理論的な
+- [scientific](/scientific)：科学的な
+- [theoretical](/theoretical)：理論的な
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical/)：論理的な
-- [statistical](/word/statistical/)：統計的な
+- [logical](/logical)：論理的な
+- [statistical](/statistical)：統計的な
 
-<!-- cvid: aid40_bid29 -->
+<!-- cvid: aid19_bid28 -->

@@ -80,15 +80,19 @@ The company developed a new drug for cardiac patients.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid09_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The company developed a new drug for cardiac patients.
 ## 🤔  cardiovascular との違いは？
 
 - **cardiac**：心臓そのものに関する
-- **[cardiovascular](/word/cardiovascular/)**：心臓と血管の両方に関する
+- **[cardiovascular](/cardiovascular)**：心臓と血管の両方に関する
 
 cardiacは「心臓」に限定され、cardiovascularは「心臓＋血管」の広い範囲を指します。
 
@@ -104,14 +108,14 @@ cardiacは「心臓」に限定され、cardiovascularは「心臓＋血管」�
 
 ## 🧩 あわせて覚えたい
 
-- [pulmonary](/word/pulmonary/)：肺の、肺に関する
-- [coronary](/word/coronary/)：冠状動脈の、心臓の
+- [pulmonary](/pulmonary)：肺の、肺に関する
+- [coronary](/coronary)：冠状動脈の、心臓の
 
 ---
 
 ## 📖 できればこれも
 
-- [chronic](/word/chronic/)：慢性の
-- [acute](/word/acute/)：急性の
+- [chronic](/chronic)：慢性の
+- [acute](/acute)：急性の
 
-<!-- cvid: aid11_bid41 -->
+<!-- cvid: aid09_bid00 -->

@@ -81,15 +81,19 @@ retrievedはTOEICの長文読解（Part 7）で、ITやビジネス文書の中�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ retrievedはTOEICの長文読解（Part 7）で、ITやビジネス文書の中�
 ## 🤔  recover との違いは？
 
 - **retrieved**：失われたものやデータを「探して取り戻す」「検索して取り出す」ニュアンスが強い
-- **[recover](/word/recover/)**：失ったものや健康などを「回復する」「取り戻す」全般に使える
+- **[recover](/recover)**：失ったものや健康などを「回復する」「取り戻す」全般に使える
 
 retrievedは「探して見つけ出す」や「データを検索する」など、目的物を意識的に取り戻す場面で使われます。recoverは「回復」や「元に戻す」など幅広い意味で使われます。
 
@@ -105,14 +109,14 @@ retrievedは「探して見つけ出す」や「データを検索する」な�
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/word/restore/)：元の状態に戻す
-- [fetch](/word/fetch/)：取ってくる、持ってくる
+- [restore](/restore)：元の状態に戻す
+- [fetch](/fetch)：取ってくる、持ってくる
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access/)：アクセスする、利用する
-- [transfer](/word/transfer/)：移す、転送する
+- [access](/access)：アクセスする、利用する
+- [transfer](/transfer)：移す、転送する
 
-<!-- cvid: aid25_bid09 -->
+<!-- cvid: aid48_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは、統計やビジネスレポート、分析記事などで「aggreg
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid06_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、統計やビジネスレポート、分析記事などで「aggreg
 ## 🤔  total との違いは？
 
 - **aggregate**：複数の要素をまとめた集合体や総計（特にフォーマル・ビジネス向き）
-- **[total](/word/total/)**：単純な合計や総数（より一般的・カジュアル）
+- **[total](/total)**：単純な合計や総数（より一般的・カジュアル）
 
 aggregateは「個々のものを集めてできた全体」というニュアンスが強く、totalは単なる合計や総数を指す点で使い分けます。
 
@@ -105,14 +109,14 @@ aggregateは「個々のものを集めてできた全体」というニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [sum](/word/sum/)：合計、総額
-- [collection](/word/collection/)：収集物、集まり
+- [sum](/sum)：合計、総額
+- [collection](/collection)：収集物、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/word/estimate/)：見積もり、推定
-- [figure](/word/figure/)：数字、数値
+- [estimate](/estimate)：見積もり、推定
+- [figure](/figure)：数字、数値
 
-<!-- cvid: aid45_bid12 -->
+<!-- cvid: aid06_bid46 -->

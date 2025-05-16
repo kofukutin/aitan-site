@@ -80,15 +80,19 @@ IT関連の説明文や製品仕様書で登場することが多い単語です
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ IT関連の説明文や製品仕様書で登場することが多い単語です
 ## 🤔  circuit board との違いは？
 
 - **motherboard**：コンピュータの中心となる主要な回路基板
-- **[circuit board](/word/circuit_board/)**：電子機器全般で使われる一般的な回路基板
+- **[circuit board](/circuit_board)**：電子機器全般で使われる一般的な回路基板
 
 motherboardはパソコンの中心基板を指し、circuit boardは幅広い電子機器の基板全般を指します。
 
@@ -104,14 +108,14 @@ motherboardはパソコンの中心基板を指し、circuit boardは幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [processor](/word/processor/)：プロセッサー、CPU
-- [hardware](/word/hardware/)：ハードウェア、機械的な装置
+- [processor](/processor)：プロセッサー、CPU
+- [hardware](/hardware)：ハードウェア、機械的な装置
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/word/component/)：部品、構成要素
-- [device](/word/device/)：装置、デバイス
+- [component](/component)：部品、構成要素
+- [device](/device)：装置、デバイス
 
-<!-- cvid: aid25_bid36 -->
+<!-- cvid: aid43_bid00 -->

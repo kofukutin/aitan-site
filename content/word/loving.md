@@ -81,15 +81,19 @@ TOEICでは、人物の性格や態度を表す会話文や説明文で見かけ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、人物の性格や態度を表す会話文や説明文で見かけ
 ## 🤔  affectionate との違いは？
 
 - **loving**：愛情を持って接する様子や態度を表す
-- **[affectionate](/word/affectionate/)**：愛情表現が積極的で、スキンシップや言葉で示す様子
+- **[affectionate](/affectionate)**：愛情表現が積極的で、スキンシップや言葉で示す様子
 
 lovingは内面の愛情や思いやりを強調し、affectionateは外に表れる愛情表現を強調します。
 
@@ -105,14 +109,14 @@ lovingは内面の愛情や思いやりを強調し、affectionateは外に表�
 
 ## 🧩 あわせて覚えたい
 
-- [caring](/word/caring/)：思いやりのある
-- [hostile](/word/hostile/)：敵意のある
+- [caring](/caring)：思いやりのある
+- [hostile](/hostile)：敵意のある
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/word/friendly/)：親しみやすい
-- [gentle](/word/gentle/)：優しい
+- [friendly](/friendly)：親しみやすい
+- [gentle](/gentle)：優しい
 
-<!-- cvid: aid04_bid07 -->
+<!-- cvid: aid45_bid27 -->

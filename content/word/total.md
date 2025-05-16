@@ -81,15 +81,19 @@ TOEICでは、請求書やレポート、会議資料などで「合計」「総
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、請求書やレポート、会議資料などで「合計」「総
 ## 🤔  sum との違いは？
 
 - **total**：すべてをまとめた「合計」「総計」を指し、全体像や最終的な数値を強調します。
-- **[sum](/word/sum/)**：個々の数値を足し合わせた「合計」を指し、計算の過程や数学的な意味合いが強いです。
+- **[sum](/sum)**：個々の数値を足し合わせた「合計」を指し、計算の過程や数学的な意味合いが強いです。
 
 「total」は全体の結果や最終的な数字を示すときに使い、「sum」は計算や数学的な合計を強調したいときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、請求書やレポート、会議資料などで「合計」「総
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/word/amount/)：量、金額
-- [whole](/word/whole/)：全体、全部
+- [amount](/amount)：量、金額
+- [whole](/whole)：全体、全部
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/word/average/)：平均
-- [figure](/word/figure/)：数字、数値
+- [average](/average)：平均
+- [figure](/figure)：数字、数値
 
-<!-- cvid: aid25_bid06 -->
+<!-- cvid: aid12_bid19 -->

@@ -81,15 +81,19 @@ TOEICでは「contribute」の過去形や過去分詞として、文法問題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「contribute」の過去形や過去分詞として、文法問題�
 ## 🤔  donate との違いは？
 
 - **contributed**：全体のために貢献したり、何かを提供したりする広い意味。
-- **[donate](/word/donate/)**：主にお金や物を慈善目的で寄付する意味。
+- **[donate](/donate)**：主にお金や物を慈善目的で寄付する意味。
 
 「contributed」は幅広く「貢献する」「提供する」場面で使われますが、「donate」は特に慈善活動や寄付に限定される傾向があります。
 
@@ -105,14 +109,14 @@ TOEICでは「contribute」の過去形や過去分詞として、文法問題�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支援する、サポートする
-- [provide](/word/provide/)：提供する、供給する
+- [support](/support)：支援する、サポートする
+- [provide](/provide)：提供する、供給する
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/word/participate/)：参加する
-- [assist](/word/assist/)：手伝う、補助する
+- [participate](/participate)：参加する
+- [assist](/assist)：手伝う、補助する
 
-<!-- cvid: aid32_bid26 -->
+<!-- cvid: aid38_bid21 -->

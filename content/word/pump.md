@@ -81,15 +81,19 @@ TOEICでは、工場やオフィスの設備説明、トラブル対応の会話
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場やオフィスの設備説明、トラブル対応の会話
 ## 🤔  pour との違いは？
 
 - **pump**：機械や装置を使って液体や気体を送り出す・くみ上げる
-- **[pour](/word/pour/)**：液体を容器から注ぐ、流し込む
+- **[pour](/pour)**：液体を容器から注ぐ、流し込む
 
 pumpは「機械的に送り出す」ニュアンスがあり、pourは「手で注ぐ」など自然な流れを表します。
 
@@ -105,14 +109,14 @@ pumpは「機械的に送り出す」ニュアンスがあり、pourは「手で
 
 ## 🧩 あわせて覚えたい
 
-- [drain](/word/drain/)：排出する、流し出す
-- [supply](/word/supply/)：供給する
+- [drain](/drain)：排出する、流し出す
+- [supply](/supply)：供給する
 
 ---
 
 ## 📖 できればこれも
 
-- [fill](/word/fill/)：満たす、いっぱいにする
-- [transfer](/word/transfer/)：移す、移動させる
+- [fill](/fill)：満たす、いっぱいにする
+- [transfer](/transfer)：移す、移動させる
 
-<!-- cvid: aid46_bid47 -->
+<!-- cvid: aid22_bid20 -->

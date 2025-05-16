@@ -81,15 +81,19 @@ proveの過去形・過去分詞として、文法問題やビジネス文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ proveの過去形・過去分詞として、文法問題やビジネス文脈で
 ## 🤔  verified との違いは？
 
 - **proved**：証拠や論理で「証明した」「立証した」という意味。
-- **[verified](/word/verified/)**：事実や正確さを「確認した」「検証した」という意味。
+- **[verified](/verified)**：事実や正確さを「確認した」「検証した」という意味。
 
 provedは理論や主張が正しいと証明する場合に使い、verifiedは情報やデータの正確性を確認する場面で使います。
 
@@ -105,14 +109,14 @@ provedは理論や主張が正しいと証明する場合に使い、verifiedは
 
 ## 🧩 あわせて覚えたい
 
-- [confirm](/word/confirm/)：確認する
-- [demonstrate](/word/demonstrate/)：実証する、明らかにする
+- [confirm](/confirm)：確認する
+- [demonstrate](/demonstrate)：実証する、明らかにする
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve/)：承認する
-- [evidence](/word/evidence/)：証拠
+- [approve](/approve)：承認する
+- [evidence](/evidence)：証拠
 
-<!-- cvid: aid29_bid30 -->
+<!-- cvid: aid43_bid37 -->

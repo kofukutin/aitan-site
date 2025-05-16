@@ -81,15 +81,19 @@ TOEICでは、書類提出やオフィス業務に関する文脈で名詞とし
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、書類提出やオフィス業務に関する文脈で名詞とし
 ## 🤔  submission との違いは？
 
 - **filing**：書類の提出や整理という「手続き」や「作業」に焦点がある
-- **[submission](/word/submission/)**：提出「そのもの」や「提出物」に焦点がある
+- **[submission](/submission)**：提出「そのもの」や「提出物」に焦点がある
 
 filingは「提出する行為や作業」を指し、submissionは「提出されたもの」や「提出する行為自体」を強調します。
 
@@ -105,14 +109,14 @@ filingは「提出する行為や作業」を指し、submissionは「提出さ�
 
 ## 🧩 あわせて覚えたい
 
-- [application](/word/application/)：申請、応募
-- [document](/word/document/)：書類、文書
+- [application](/application)：申請、応募
+- [document](/document)：書類、文書
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録、記録する
-- [form](/word/form/)：用紙、フォーム
+- [record](/record)：記録、記録する
+- [form](/form)：用紙、フォーム
 
-<!-- cvid: aid41_bid47 -->
+<!-- cvid: aid14_bid38 -->

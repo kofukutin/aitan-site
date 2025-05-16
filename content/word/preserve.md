@@ -81,15 +81,19 @@ TOEICでは環境保護や伝統維持に関する長文でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境保護や伝統維持に関する長文でよく登場します
 ## 🤔  conserve との違いは？
 
 - **preserve**：損なわれないように守る、元の状態を維持する
-- **[conserve](/word/conserve/)**：資源やエネルギーなどを無駄遣いせず大切に使う
+- **[conserve](/conserve)**：資源やエネルギーなどを無駄遣いせず大切に使う
 
 preserveは「そのままの状態を保つ」ことに重点があり、conserveは「節約しながら大切に使う」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ preserveは「そのままの状態を保つ」ことに重点があり、conser
 
 ## 🧩 あわせて覚えたい
 
-- [protect](/word/protect/)：守る、防御する
-- [maintain](/word/maintain/)：維持する、保つ
+- [protect](/protect)：守る、防御する
+- [maintain](/maintain)：維持する、保つ
 
 ---
 
 ## 📖 できればこれも
 
-- [restore](/word/restore/)：元に戻す、修復する
-- [sustain](/word/sustain/)：持続させる、支える
+- [restore](/restore)：元に戻す、修復する
+- [sustain](/sustain)：持続させる、支える
 
-<!-- cvid: aid01_bid01 -->
+<!-- cvid: aid18_bid26 -->

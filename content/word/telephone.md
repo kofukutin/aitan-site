@@ -82,15 +82,19 @@ TOEICでは主に電話対応や連絡に関する会話文で登場します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid09" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid09" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に電話対応や連絡に関する会話文で登場します。
 ## 🤔  phone との違いは？
 
 - **telephone**：ややフォーマルで、ビジネスや公式な場面で使われやすい
-- **[phone](/word/phone/)**：カジュアルで、日常会話でよく使われる
+- **[phone](/phone)**：カジュアルで、日常会話でよく使われる
 
 「telephone」は正式な言い方で、「phone」は省略形として親しい間柄やカジュアルな場面で使われます。
 
@@ -106,14 +110,14 @@ TOEICでは主に電話対応や連絡に関する会話文で登場します。
 
 ## 🧩 あわせて覚えたい
 
-- [call](/word/call/)：電話をかける、呼ぶ
-- [receiver](/word/receiver/)：受話器
+- [call](/call)：電話をかける、呼ぶ
+- [receiver](/receiver)：受話器
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message/)：メッセージ、伝言
-- [contact](/word/contact/)：連絡する
+- [message](/message)：メッセージ、伝言
+- [contact](/contact)：連絡する
 
-<!-- cvid: aid14_bid37 -->
+<!-- cvid: aid18_bid09 -->

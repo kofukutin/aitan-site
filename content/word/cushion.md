@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、椅子やソファの上に置かれて
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、椅子やソファの上に置かれて
 ## 🤔  pillow との違いは？
 
 - **cushion**：椅子やソファの上に置く柔らかいパッドや緩衝材
-- **[pillow](/word/pillow/)**：寝るときに頭の下に置く枕
+- **[pillow](/pillow)**：寝るときに頭の下に置く枕
 
 cushionは座るときや装飾用、衝撃吸収用に使い、pillowは主に睡眠時に頭を支えるために使います。
 
@@ -105,14 +109,14 @@ cushionは座るときや装飾用、衝撃吸収用に使い、pillowは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [sofa](/word/sofa/)：ソファ、長椅子
-- [pad](/word/pad/)：パッド、詰め物
+- [sofa](/sofa)：ソファ、長椅子
+- [pad](/pad)：パッド、詰め物
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket/)：毛布
-- [carpet](/word/carpet/)：カーペット、じゅうたん
+- [blanket](/blanket)：毛布
+- [carpet](/carpet)：カーペット、じゅうたん
 
-<!-- cvid: aid47_bid30 -->
+<!-- cvid: aid37_bid13 -->

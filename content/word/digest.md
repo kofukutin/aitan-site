@@ -81,15 +81,19 @@ TOEICでは主に長文読解やビジネス文書の中で「要約する」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解やビジネス文書の中で「要約する」「
 ## 🤔  summarize との違いは？
 
 - **digest**：内容をよく理解し、要点を吸収・要約する
-- **[summarize](/word/summarize/)**：単純に短くまとめる、要約する
+- **[summarize](/summarize)**：単純に短くまとめる、要約する
 
 digestは「理解して自分のものにする」ニュアンスがあり、summarizeは「簡潔にまとめる」ことに重点があります。
 
@@ -105,14 +109,14 @@ digestは「理解して自分のものにする」ニュアンスがあり、su
 
 ## 🧩 あわせて覚えたい
 
-- [absorb](/word/absorb/)：吸収する
-- [analyze](/word/analyze/)：分析する
+- [absorb](/absorb)：吸収する
+- [analyze](/analyze)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [interpret](/word/interpret/)：解釈する
-- [review](/word/review/)：見直す
+- [interpret](/interpret)：解釈する
+- [review](/review)：見直す
 
-<!-- cvid: aid08_bid31 -->
+<!-- cvid: aid34_bid11 -->

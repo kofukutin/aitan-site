@@ -81,15 +81,19 @@ TOEICでは会議やビジネスのやりとりで、感情や状況の変化を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスのやりとりで、感情や状況の変化を
 ## 🤔  disturb との違いは？
 
 - **upset**：感情や状況を大きく乱す、動揺させる
-- **[disturb](/word/disturb/)**：邪魔をする、静けさや集中を妨げる
+- **[disturb](/disturb)**：邪魔をする、静けさや集中を妨げる
 
 upsetは感情や計画などを大きく乱すニュアンスがあり、disturbは主に物理的・精神的な「妨害」に使われます。
 
@@ -105,14 +109,14 @@ upsetは感情や計画などを大きく乱すニュアンスがあり、distur
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm/)：落ち着かせる、静める
-- [annoy](/word/annoy/)：イライラさせる、困らせる
+- [calm](/calm)：落ち着かせる、静める
+- [annoy](/annoy)：イライラさせる、困らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [confuse](/word/confuse/)：混乱させる
-- [interrupt](/word/interrupt/)：中断する、邪魔をする
+- [confuse](/confuse)：混乱させる
+- [interrupt](/interrupt)：中断する、邪魔をする
 
-<!-- cvid: aid25_bid24 -->
+<!-- cvid: aid16_bid00 -->

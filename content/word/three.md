@@ -81,15 +81,19 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 ## 🤔  third との違いは？
 
 - **three**：数字の「3」、数量を表す
-- **[third](/word/third/)**：3番目、順序を表す
+- **[third](/third)**：3番目、順序を表す
 
 「three」は数そのもの、「third」は順番や順位を表すときに使います。
 
@@ -105,14 +109,14 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 
 ## 🧩 あわせて覚えたい
 
-- [two](/word/two/)：2
-- [four](/word/four/)：4
+- [two](/two)：2
+- [four](/four)：4
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/word/first/)：1番目
-- [second](/word/second/)：2番目
+- [first](/first)：1番目
+- [second](/second)：2番目
 
-<!-- cvid: aid24_bid13 -->
+<!-- cvid: aid46_bid30 -->

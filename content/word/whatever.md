@@ -77,15 +77,19 @@ TOEICでは会話文や指示文で「どんな～でも」「何でも」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話文や指示文で「どんな～でも」「何でも」とい
 ## 🤔  whichever との違いは？
 
 - **whatever**：どんなものでも、何でも（選択肢が限定されていない）
-- **[whichever](/word/whichever/)**：どちらでも、どれでも（限定された選択肢の中から）
+- **[whichever](/whichever)**：どちらでも、どれでも（限定された選択肢の中から）
 
 whateverは「何でもよい」と範囲が広いのに対し、whicheverは「いくつかの中からどれでも」という限定された選択肢に使います。
 
@@ -101,14 +105,14 @@ whateverは「何でもよい」と範囲が広いのに対し、whicheverは「
 
 ## 🧩 あわせて覚えたい
 
-- [whenever](/word/whenever/)：いつでも
-- [anything](/word/anything/)：何でも（肯定文ではあまり使わない）
+- [whenever](/whenever)：いつでも
+- [anything](/anything)：何でも（肯定文ではあまり使わない）
 
 ---
 
 ## 📖 できればこれも
 
-- [whenever](/word/whenever/)：いつでも
-- [however](/word/however/)：どのように～でも
+- [whenever](/whenever)：いつでも
+- [however](/however)：どのように～でも
 
-<!-- cvid: aid37_bid46 -->
+<!-- cvid: aid11_bid15 -->

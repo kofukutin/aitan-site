@@ -81,15 +81,19 @@ citizenはTOEICの長文読解パートで、社会や法律、行政に関す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid22_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ citizenはTOEICの長文読解パートで、社会や法律、行政に関す�
 ## 🤔  resident との違いは？
 
 - **citizen**：国籍や市民権を持つ人を指し、法律上の権利や義務がある。
-- **[resident](/word/resident/)**：その場所に住んでいる人全般を指し、国籍や市民権の有無は問わない。
+- **[resident](/resident)**：その場所に住んでいる人全般を指し、国籍や市民権の有無は問わない。
 
 citizenは「国民・市民」としての立場を強調し、residentは「居住者」としての事実を表します。
 
@@ -105,14 +109,14 @@ citizenは「国民・市民」としての立場を強調し、residentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [national](/word/national/)：国民
-- [foreigner](/word/foreigner/)：外国人
+- [national](/national)：国民
+- [foreigner](/foreigner)：外国人
 
 ---
 
 ## 📖 できればこれも
 
-- [community](/word/community/)：地域社会、共同体
-- [population](/word/population/)：人口
+- [community](/community)：地域社会、共同体
+- [population](/population)：人口
 
-<!-- cvid: aid07_bid07 -->
+<!-- cvid: aid22_bid22 -->

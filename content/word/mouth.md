@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人の顔や動作を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人の顔や動作を説明する際
 ## 🤔  opening との違いは？
 
 - **mouth**：人や動物の「口」、または容器・洞窟などの「入り口」
-- **[opening](/word/opening/)**：何かの「開口部」や「始まり」を広く指す
+- **[opening](/opening)**：何かの「開口部」や「始まり」を広く指す
 
 mouthは生き物の口や特定の入り口に使い、openingは一般的な「開いている部分」全般に使います。
 
@@ -105,14 +109,14 @@ mouthは生き物の口や特定の入り口に使い、openingは一般的な�
 
 ## 🧩 あわせて覚えたい
 
-- [lip](/word/lip/)：唇
-- [entrance](/word/entrance/)：入り口
+- [lip](/lip)：唇
+- [entrance](/entrance)：入り口
 
 ---
 
 ## 📖 できればこれも
 
-- [face](/word/face/)：顔
-- [eye](/word/eye/)：目
+- [face](/face)：顔
+- [eye](/eye)：目
 
-<!-- cvid: aid27_bid23 -->
+<!-- cvid: aid06_bid10 -->

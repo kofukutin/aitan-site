@@ -83,15 +83,19 @@ TOEICではビジネス文書や報告書、会議の案内などで「quarterly
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ TOEICではビジネス文書や報告書、会議の案内などで「quarterly
 ## 🤔  monthly との違いは？
 
 - **quarterly**：年4回、3か月ごとに行われる・発行される
-- **[monthly](/word/monthly/)**：毎月、月ごとに行われる・発行される
+- **[monthly](/monthly)**：毎月、月ごとに行われる・発行される
 
 「quarterly」は1年を4分割した期間ごと、「monthly」は毎月ごとに使います。頻度や期間の長さが異なります。
 
@@ -107,14 +111,14 @@ TOEICではビジネス文書や報告書、会議の案内などで「quarterly
 
 ## 🧩 あわせて覚えたい
 
-- [annual](/word/annual/)：年1回の、毎年の
-- [weekly](/word/weekly/)：毎週の、週ごとの
+- [annual](/annual)：年1回の、毎年の
+- [weekly](/weekly)：毎週の、週ごとの
 
 ---
 
 ## 📖 できればこれも
 
-- [fiscal](/word/fiscal/)：会計の、財政の
-- [report](/word/report/)：報告書、レポート
+- [fiscal](/fiscal)：会計の、財政の
+- [report](/report)：報告書、レポート
 
-<!-- cvid: aid28_bid34 -->
+<!-- cvid: aid18_bid32 -->

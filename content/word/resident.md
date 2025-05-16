@@ -81,15 +81,19 @@ TOEICでは主に長文読解で「住民」「居住者」として登場し、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に長文読解で「住民」「居住者」として登場し、
 ## 🤔  inhabitant との違いは？
 
 - **resident**：ある場所に住んでいる人（特に正式な住民や長期滞在者を指す）
-- **[inhabitant](/word/inhabitant/)**：その場所に住む生物全般（人以外も含む）や、やや堅い表現
+- **[inhabitant](/inhabitant)**：その場所に住む生物全般（人以外も含む）や、やや堅い表現
 
 「resident」は現代英語で人間の住民を指すフォーマルな語で、行政やビジネス文書でよく使われます。「inhabitant」は動物や植物にも使え、やや書き言葉的です。
 
@@ -105,14 +109,14 @@ TOEICでは主に長文読解で「住民」「居住者」として登場し、
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant/)：賃借人、借家人
-- [citizen](/word/citizen/)：市民、国民
+- [tenant](/tenant)：賃借人、借家人
+- [citizen](/citizen)：市民、国民
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee/)：従業員
-- [visitor](/word/visitor/)：訪問者
+- [employee](/employee)：従業員
+- [visitor](/visitor)：訪問者
 
-<!-- cvid: aid28_bid33 -->
+<!-- cvid: aid42_bid00 -->

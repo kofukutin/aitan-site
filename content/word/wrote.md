@@ -81,15 +81,19 @@ wroteは、動詞の時制や文法問題でよく出題されます。特に過
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ wroteは、動詞の時制や文法問題でよく出題されます。特に過
 ## 🤔  composed との違いは？
 
 - **wrote**：一般的に「書いた」という意味で、手紙や文章など幅広く使う。
-- **[composed](/word/composed/)**：特に「文章や音楽などを創作した」という意味で、ややフォーマル。
+- **[composed](/composed)**：特に「文章や音楽などを創作した」という意味で、ややフォーマル。
 
 wroteは単に「書いた」ことを指し、composedは「構成して創作した」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ wroteは単に「書いた」ことを指し、composedは「構成して創作�
 
 ## 🧩 あわせて覚えたい
 
-- [recorded](/word/recorded/)：記録した、録音した
-- [drafted](/word/drafted/)：下書きした、草案を作成した
+- [recorded](/recorded)：記録した、録音した
+- [drafted](/drafted)：下書きした、草案を作成した
 
 ---
 
 ## 📖 できればこれも
 
-- [read](/word/read/)：読む
-- [send](/word/send/)：送る
+- [read](/read)：読む
+- [send](/send)：送る
 
-<!-- cvid: aid44_bid05 -->
+<!-- cvid: aid11_bid25 -->

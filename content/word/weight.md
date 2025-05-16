@@ -81,15 +81,19 @@ TOEICでは、荷物や商品の重さ、体重、比喩的な「重み」など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、荷物や商品の重さ、体重、比喩的な「重み」など
 ## 🤔  mass との違いは？
 
 - **weight**：重力の影響を受けた「重さ」や「体重」を表す
-- **[mass](/word/mass/)**：物体そのものの「質量」（重力に関係なく変わらない量）
+- **[mass](/mass)**：物体そのものの「質量」（重力に関係なく変わらない量）
 
 weightは地球や月など重力のある場所で変化しますが、massはどこでも変わりません。理科や物理の文脈で特に区別されます。
 
@@ -105,14 +109,14 @@ weightは地球や月など重力のある場所で変化しますが、massは�
 
 ## 🧩 あわせて覚えたい
 
-- [load](/word/load/)：荷物、積み荷
-- [burden](/word/burden/)：負担、重荷
+- [load](/load)：荷物、積み荷
+- [burden](/burden)：負担、重荷
 
 ---
 
 ## 📖 できればこれも
 
-- [height](/word/height/)：高さ
-- [scale](/word/scale/)：はかり、規模
+- [height](/height)：高さ
+- [scale](/scale)：はかり、規模
 
-<!-- cvid: aid25_bid49 -->
+<!-- cvid: aid28_bid43 -->

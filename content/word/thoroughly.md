@@ -81,15 +81,19 @@ TOEICでは、指示や説明文で「徹底的に」「完全に」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、指示や説明文で「徹底的に」「完全に」という意
 ## 🤔  completely との違いは？
 
 - **thoroughly**：細部まで抜かりなく、徹底的に
-- **[completely](/word/completely/)**：全体的に、完全に
+- **[completely](/completely)**：全体的に、完全に
 
 thoroughlyは「細かい部分まで徹底的に」というニュアンスがあり、completelyは「全体として完全に」という意味で使い分けます。
 
@@ -105,14 +109,14 @@ thoroughlyは「細かい部分まで徹底的に」というニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [carefully](/word/carefully/)：注意深く
-- [partially](/word/partially/)：部分的に
+- [carefully](/carefully)：注意深く
+- [partially](/partially)：部分的に
 
 ---
 
 ## 📖 できればこれも
 
-- [precisely](/word/precisely/)：正確に
-- [efficiently](/word/efficiently/)：効率的に
+- [precisely](/precisely)：正確に
+- [efficiently](/efficiently)：効率的に
 
-<!-- cvid: aid37_bid00 -->
+<!-- cvid: aid47_bid09 -->

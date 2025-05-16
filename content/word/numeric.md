@@ -81,15 +81,19 @@ numericはITやビジネス文書で「数値の」として出題されるこ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ numericはITやビジネス文書で「数値の」として出題されるこ�
 ## 🤔  numerical との違いは？
 
 - **numeric**：数字そのもの、または数字で表されたものを直接指す
-- **[numerical](/word/numerical/)**：数値に関する、数値で表現された（より抽象的・広範囲）
+- **[numerical](/numerical)**：数値に関する、数値で表現された（より抽象的・広範囲）
 
 numericは「数字のパスワード」など具体的な数字を指すときに使い、numericalは「数値的な分析」など抽象的・理論的な場面で使われます。
 
@@ -105,14 +109,14 @@ numericは「数字のパスワード」など具体的な数字を指すとき�
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital/)：デジタルの、数字で表現された
-- [alphabetic](/word/alphabetic/)：アルファベットの、文字の
+- [digital](/digital)：デジタルの、数字で表現された
+- [alphabetic](/alphabetic)：アルファベットの、文字の
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure/)：数字、図
-- [calculate](/word/calculate/)：計算する
+- [figure](/figure)：数字、図
+- [calculate](/calculate)：計算する
 
-<!-- cvid: aid22_bid28 -->
+<!-- cvid: aid24_bid25 -->

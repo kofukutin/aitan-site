@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や社内通知、公式なメール文など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や社内通知、公式なメール文など
 ## 🤔  instruction との違いは？
 
 - **directive**：上位者や組織から出される公式な「指令」や「命令」
-- **[instruction](/word/instruction/)**：具体的な「手順」や「指示」、ややカジュアルで詳細な説明
+- **[instruction](/instruction)**：具体的な「手順」や「指示」、ややカジュアルで詳細な説明
 
 directiveは組織的・公式な命令に使われ、instructionは具体的なやり方や手順の説明に使われます。
 
@@ -105,14 +109,14 @@ directiveは組織的・公式な命令に使われ、instructionは具体的な
 
 ## 🧩 あわせて覚えたい
 
-- [order](/word/order/)：命令、注文
-- [guideline](/word/guideline/)：指針、ガイドライン
+- [order](/order)：命令、注文
+- [guideline](/guideline)：指針、ガイドライン
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation/)：規則、規制
-- [policy](/word/policy/)：方針、ポリシー
+- [regulation](/regulation)：規則、規制
+- [policy](/policy)：方針、ポリシー
 
-<!-- cvid: aid20_bid40 -->
+<!-- cvid: aid33_bid46 -->

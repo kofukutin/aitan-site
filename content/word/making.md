@@ -81,15 +81,19 @@ TOEICでは「decision making（意思決定）」や「in the process of making
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「decision making（意思決定）」や「in the process of making
 ## 🤔  production との違いは？
 
 - **making**：作る「行為」や「過程」に焦点を当てる
-- **[production](/word/production/)**：大量生産や工業的な「生産」に焦点を当てる
+- **[production](/production)**：大量生産や工業的な「生産」に焦点を当てる
 
 「making」は個人や小規模な作成にも使えますが、「production」は工場やビジネスの大規模な生産に使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「decision making（意思決定）」や「in the process of making
 
 ## 🧩 あわせて覚えたい
 
-- [creation](/word/creation/)：創造、創作
-- [manufacture](/word/manufacture/)：製造（特に機械による大量生産）
+- [creation](/creation)：創造、創作
+- [manufacture](/manufacture)：製造（特に機械による大量生産）
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、プロセス
-- [development](/word/development/)：開発、発展
+- [process](/process)：過程、プロセス
+- [development](/development)：開発、発展
 
-<!-- cvid: aid21_bid27 -->
+<!-- cvid: aid05_bid07 -->

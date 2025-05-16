@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や案内文で「中止」「廃止」を表す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid16_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や案内文で「中止」「廃止」を表す
 ## 🤔  suspend との違いは？
 
 - **discontinue**：完全にやめる・終了する
-- **[suspend](/word/suspend/)**：一時的に中断する
+- **[suspend](/suspend)**：一時的に中断する
 
 discontinueは「完全に終わる」ニュアンス、suspendは「一時的に止める」意味で使い分けます。
 
@@ -105,14 +109,14 @@ discontinueは「完全に終わる」ニュアンス、suspendは「一時的�
 
 ## 🧩 あわせて覚えたい
 
-- [cease](/word/cease/)：やめる、終わる
-- [terminate](/word/terminate/)：終わらせる、打ち切る
+- [cease](/cease)：やめる、終わる
+- [terminate](/terminate)：終わらせる、打ち切る
 
 ---
 
 ## 📖 できればこれも
 
-- [proceed](/word/proceed/)：進める、続ける
-- [interrupt](/word/interrupt/)：中断する、邪魔する
+- [proceed](/proceed)：進める、続ける
+- [interrupt](/interrupt)：中断する、邪魔する
 
-<!-- cvid: aid38_bid30 -->
+<!-- cvid: aid16_bid12 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 7のビジネス文書やEメール、求人広告など�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid03_bid05" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid05" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、求人広告など�
 ## 🤔  skill との違いは？
 
 - **expertise**：特定分野における高度で専門的な知識や技術
-- **[skill](/word/skill/)**：一般的な能力や技術、習得したスキル
+- **[skill](/skill)**：一般的な能力や技術、習得したスキル
 
 expertiseは「専門家レベルの知識・技術」を強調し、skillは「日常的な能力や技術」も含みます。
 
@@ -105,14 +109,14 @@ expertiseは「専門家レベルの知識・技術」を強調し、skillは「
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/word/knowledge/)：知識
-- [competence](/word/competence/)：能力、適性
+- [knowledge](/knowledge)：知識
+- [competence](/competence)：能力、適性
 
 ---
 
 ## 📖 できればこれも
 
-- [specialist](/word/specialist/)：専門家
-- [qualification](/word/qualification/)：資格、能力証明
+- [specialist](/specialist)：専門家
+- [qualification](/qualification)：資格、能力証明
 
-<!-- cvid: aid23_bid07 -->
+<!-- cvid: aid03_bid05 -->

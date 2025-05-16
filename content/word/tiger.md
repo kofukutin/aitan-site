@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写で、動物園や自然の写真に関連
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid26_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写で、動物園や自然の写真に関連
 ## 🤔  lion との違いは？
 
 - **tiger**：アジアに生息し、縞模様が特徴の大型ネコ科動物。
-- **[lion](/word/lion/)**：主にアフリカに生息し、たてがみが特徴の大型ネコ科動物。
+- **[lion](/lion)**：主にアフリカに生息し、たてがみが特徴の大型ネコ科動物。
 
 tigerは縞模様と単独行動、lionはたてがみと群れでの生活が特徴です。生息地や見た目、行動パターンが異なります。
 
@@ -104,14 +108,14 @@ tigerは縞模様と単独行動、lionはたてがみと群れでの生活が�
 
 ## 🧩 あわせて覚えたい
 
-- [leopard](/word/leopard/)：ヒョウ（斑点模様のネコ科動物）
-- [cat](/word/cat/)：ネコ（小型のネコ科動物）
+- [leopard](/leopard)：ヒョウ（斑点模様のネコ科動物）
+- [cat](/cat)：ネコ（小型のネコ科動物）
 
 ---
 
 ## 📖 できればこれも
 
-- [elephant](/word/elephant/)：ゾウ（大型の哺乳類）
-- [bear](/word/bear/)：クマ（大型の哺乳類）
+- [elephant](/elephant)：ゾウ（大型の哺乳類）
+- [bear](/bear)：クマ（大型の哺乳類）
 
-<!-- cvid: aid45_bid25 -->
+<!-- cvid: aid26_bid24 -->

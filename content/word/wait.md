@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【wait】の意味・使い方・例文 ― expectとの違い【TOEIC英単語】"
 description: "waitの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでexpectとの違いもわかりやすく学べます。"
 word: "wait"
@@ -81,15 +81,19 @@ TOEICではPart 2の応答問題や指示文でよく登場します。基本的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid22_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 2の応答問題や指示文でよく登場します。基本的
 ## 🤔  expect との違いは？
 
 - **wait**：実際にその場で待機している状態を表す
-- **[expect](/word/expect/)**：何かが起こると「予想・期待」している状態
+- **[expect](/expect)**：何かが起こると「予想・期待」している状態
 
 waitは「その場でじっと待つ」こと、expectは「心の中で期待する」ことに使い分けます。
 
@@ -105,14 +109,14 @@ waitは「その場でじっと待つ」こと、expectは「心の中で期待�
 
 ## 🧩 あわせて覚えたい
 
-- [delay](/word/delay/)：遅らせる、延期する
-- [postpone](/word/postpone/)：（予定を）後ろにずらす、延期する
+- [delay](/delay)：遅らせる、延期する
+- [postpone](/postpone)：（予定を）後ろにずらす、延期する
 
 ---
 
 ## 📖 できればこれも
 
-- [stay](/word/stay/)：とどまる、滞在する
-- [hold](/word/hold/)：持つ、保つ、開催する
+- [stay](/stay)：とどまる、滞在する
+- [hold](/hold)：持つ、保つ、開催する
 
-<!-- cvid: aid15_bid29 -->
+<!-- cvid: aid22_bid40 -->

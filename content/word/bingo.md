@@ -81,15 +81,19 @@ TOEICではパーティーやイベントの会話で「bingo」が登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid36_bid13" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid13" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではパーティーやイベントの会話で「bingo」が登場する�
 ## 🤔  jackpot との違いは？
 
 - **bingo**：ビンゴゲームや「当たり！」の意味で、正解や成功をカジュアルに表現。
-- **[jackpot](/word/jackpot/)**：くじやギャンブルでの「大当たり」「特賞」を指す。
+- **[jackpot](/jackpot)**：くじやギャンブルでの「大当たり」「特賞」を指す。
 
 bingoは日常的な正解や成功に使い、jackpotは特に大きな賞金や特別な当たりに使います。
 
@@ -105,14 +109,14 @@ bingoは日常的な正解や成功に使い、jackpotは特に大きな賞金�
 
 ## 🧩 あわせて覚えたい
 
-- [lottery](/word/lottery/)：宝くじ
-- [prize](/word/prize/)：賞、賞品
+- [lottery](/lottery)：宝くじ
+- [prize](/prize)：賞、賞品
 
 ---
 
 ## 📖 できればこれも
 
-- [lottery](/word/lottery/)：宝くじ
-- [game](/word/game/)：ゲーム
+- [lottery](/lottery)：宝くじ
+- [game](/game)：ゲーム
 
-<!-- cvid: aid01_bid22 -->
+<!-- cvid: aid36_bid13 -->

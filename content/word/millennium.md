@@ -81,15 +81,19 @@ TOEICでは歴史や未来予測、記念イベントなどの文脈で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは歴史や未来予測、記念イベントなどの文脈で登場す
 ## 🤔  century との違いは？
 
 - **millennium**：1000年という非常に長い期間や千年紀を指す
-- **[century](/word/century/)**：100年という期間を指す
+- **[century](/century)**：100年という期間を指す
 
 millenniumは千年単位、centuryは百年単位で、歴史や未来の大きな区切りを語るときに使い分けます。
 
@@ -105,14 +109,14 @@ millenniumは千年単位、centuryは百年単位で、歴史や未来の大き
 
 ## 🧩 あわせて覚えたい
 
-- [decade](/word/decade/)：10年
-- [era](/word/era/)：時代、時期
+- [decade](/decade)：10年
+- [era](/era)：時代、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [generation](/word/generation/)：世代
-- [anniversary](/word/anniversary/)：記念日
+- [generation](/generation)：世代
+- [anniversary](/anniversary)：記念日
 
-<!-- cvid: aid22_bid09 -->
+<!-- cvid: aid24_bid47 -->

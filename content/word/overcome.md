@@ -81,15 +81,19 @@ TOEICでは「困難を克服する」「問題を乗り越える」といった
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「困難を克服する」「問題を乗り越える」といった
 ## 🤔  conquer との違いは？
 
 - **overcome**：困難や障害、感情などを努力して乗り越える
-- **[conquer](/word/conquer/)**：敵や国、恐怖などを力で征服する・完全に制圧する
+- **[conquer](/conquer)**：敵や国、恐怖などを力で征服する・完全に制圧する
 
 overcomeは「内面的・抽象的な困難」を乗り越えるニュアンスが強く、conquerは「外的な敵や領土」を力で征服するイメージです。
 
@@ -105,14 +109,14 @@ overcomeは「内面的・抽象的な困難」を乗り越えるニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [cope](/word/cope/)：うまく対処する
-- [resolve](/word/resolve/)：（問題などを）解決する
+- [cope](/cope)：うまく対処する
+- [resolve](/resolve)：（問題などを）解決する
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve/)：達成する
-- [handle](/word/handle/)：扱う、対処する
+- [achieve](/achieve)：達成する
+- [handle](/handle)：扱う、対処する
 
-<!-- cvid: aid00_bid32 -->
+<!-- cvid: aid17_bid31 -->

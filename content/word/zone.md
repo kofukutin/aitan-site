@@ -81,15 +81,19 @@ TOEICでは、都市や施設の説明、案内文などで「zone」がよく�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、都市や施設の説明、案内文などで「zone」がよく�
 ## 🤔  area との違いは？
 
 - **zone**：特定の目的や機能で区切られた区域
-- **[area](/word/area/)**：広い意味での「場所」や「範囲」
+- **[area](/area)**：広い意味での「場所」や「範囲」
 
 zoneは「用途やルールで区切られた場所」に使い、areaは単に「場所」や「範囲」を指します。
 
@@ -105,14 +109,14 @@ zoneは「用途やルールで区切られた場所」に使い、areaは単に
 
 ## 🧩 あわせて覚えたい
 
-- [region](/word/region/)：（広い）地域、地方
-- [section](/word/section/)：（全体の中の）部分、区画
+- [region](/region)：（広い）地域、地方
+- [section](/section)：（全体の中の）部分、区画
 
 ---
 
 ## 📖 できればこれも
 
-- [district](/word/district/)：行政上の地区、区域
-- [sector](/word/sector/)：（産業・経済などの）部門、分野
+- [district](/district)：行政上の地区、区域
+- [sector](/sector)：（産業・経済などの）部門、分野
 
-<!-- cvid: aid04_bid08 -->
+<!-- cvid: aid08_bid15 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文書や案内文などで「continued support（継続�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid15" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid15" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や案内文などで「continued support（継続�
 ## 🤔  continuous との違いは？
 
 - **continued**：何かが「続いている」「継続した」という状態を表す（例：continued support）。
-- **[continuous](/word/continuous/)**：絶え間なく「途切れずに続く」ことを強調する（例：continuous noise）。
+- **[continuous](/continuous)**：絶え間なく「途切れずに続く」ことを強調する（例：continuous noise）。
 
 「continued」は「継続している状態」や「再び続くこと」に使い、「continuous」は「中断なしにずっと続く様子」を表します。
 
@@ -105,14 +109,14 @@ TOEICではビジネス文書や案内文などで「continued support（継続�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary/)：一時的な
-- [constant](/word/constant/)：絶え間ない、一定の
+- [temporary](/temporary)：一時的な
+- [constant](/constant)：絶え間ない、一定の
 
 ---
 
 ## 📖 できればこれも
 
-- [subsequent](/word/subsequent/)：その後の、次の
-- [frequent](/word/frequent/)：頻繁な
+- [subsequent](/subsequent)：その後の、次の
+- [frequent](/frequent)：頻繁な
 
-<!-- cvid: aid11_bid27 -->
+<!-- cvid: aid16_bid15 -->

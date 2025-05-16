@@ -81,15 +81,19 @@ TOEICでは、maintainedは主に設備やシステムの管理・保守に関�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、maintainedは主に設備やシステムの管理・保守に関�
 ## 🤔  preserved との違いは？
 
 - **maintained**：状態や機能を一定に保つ、定期的に管理・点検するニュアンス
-- **[preserved](/word/preserved/)**：元の状態を損なわずに長期間守る、保存するニュアンス
+- **[preserved](/preserved)**：元の状態を損なわずに長期間守る、保存するニュアンス
 
 maintainedは「日常的な管理・維持」、preservedは「変化や劣化から守る保存」に重点があります。
 
@@ -105,14 +109,14 @@ maintainedは「日常的な管理・維持」、preservedは「変化や劣化�
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/word/repair/)：修理する
-- [sustain](/word/sustain/)：持続させる、支える
+- [repair](/repair)：修理する
+- [sustain](/sustain)：持続させる、支える
 
 ---
 
 ## 📖 できればこれも
 
-- [improved](/word/improved/)：改善された
-- [operate](/word/operate/)：操作する、運転する
+- [improved](/improved)：改善された
+- [operate](/operate)：操作する、運転する
 
-<!-- cvid: aid17_bid23 -->
+<!-- cvid: aid47_bid34 -->

@@ -81,15 +81,19 @@ TOEICでは主に規則やルール、違反に関する文脈で出題されま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に規則やルール、違反に関する文脈で出題されま
 ## 🤔  penalty との違いは？
 
 - **punishment**：一般的な「罰」や「処罰」全般を指し、法律・学校・家庭など幅広い場面で使う。
-- **[penalty](/word/penalty/)**：ルール違反や法律違反に対する「罰金」や「ペナルティ」など、特に公式な罰やスポーツの反則に使う。
+- **[penalty](/penalty)**：ルール違反や法律違反に対する「罰金」や「ペナルティ」など、特に公式な罰やスポーツの反則に使う。
 
 punishmentは広い意味での罰全般、penaltyはルール違反に対する具体的な罰（特に金銭的・公式なもの）に使われます。
 
@@ -105,14 +109,14 @@ punishmentは広い意味での罰全般、penaltyはルール違反に対する
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward/)：ご褒美、報酬
-- [discipline](/word/discipline/)：規律、しつけ
+- [reward](/reward)：ご褒美、報酬
+- [discipline](/discipline)：規律、しつけ
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime/)：犯罪
-- [fine](/word/fine/)：罰金
+- [crime](/crime)：犯罪
+- [fine](/fine)：罰金
 
-<!-- cvid: aid21_bid34 -->
+<!-- cvid: aid42_bid05 -->

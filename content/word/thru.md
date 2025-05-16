@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【thru】の意味・使い方・例文 ― throughとの違い【TOEIC英単語】"
 description: "thruの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでthroughとの違いもわかりやすく学べます。"
 word: "thru"
@@ -77,15 +77,19 @@ TOEICでは正式な「through」が基本ですが、カジュアルな会話�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは正式な「through」が基本ですが、カジュアルな会話�
 ## 🤔  through との違いは？
 
 - **thru**：カジュアル・略式の綴り。看板や会話、非公式な文書で使う。
-- **[through](/word/through/)**：正式な綴り。ビジネスや公式文書、TOEICではこちらが推奨。
+- **[through](/through)**：正式な綴り。ビジネスや公式文書、TOEICではこちらが推奨。
 
 「thru」は「through」と意味は同じですが、使う場面がカジュアル・略式に限られます。
 
@@ -101,14 +105,14 @@ TOEICでは正式な「through」が基本ですが、カジュアルな会話�
 
 ## 🧩 あわせて覚えたい
 
-- [across](/word/across/)：横切って、～を渡って
-- [past](/word/past/)：～を過ぎて、～のそばを通って
+- [across](/across)：横切って、～を渡って
+- [past](/past)：～を過ぎて、～のそばを通って
 
 ---
 
 ## 📖 できればこれも
 
-- [until](/word/until/)：～まで（ずっと）
-- [during](/word/during/)：～の間に
+- [until](/until)：～まで（ずっと）
+- [during](/during)：～の間に
 
-<!-- cvid: aid04_bid36 -->
+<!-- cvid: aid19_bid10 -->

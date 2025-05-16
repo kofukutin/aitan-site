@@ -81,15 +81,19 @@ TOEICでは、選択肢の形容詞問題や、文脈から「意義深い」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid48_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、選択肢の形容詞問題や、文脈から「意義深い」「
 ## 🤔  significant との違いは？
 
 - **meaningful**：主観的に「意味がある」「やりがいがある」と感じるときに使う
-- **[significant](/word/significant/)**：客観的に「重要」「大きな影響がある」と評価されるときに使う
+- **[significant](/significant)**：客観的に「重要」「大きな影響がある」と評価されるときに使う
 
 「meaningful」は個人の感情や価値観に基づく意義、「significant」は事実やデータに基づく重要性を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、選択肢の形容詞問題や、文脈から「意義深い」「
 
 ## 🧩 あわせて覚えたい
 
-- [worthwhile](/word/worthwhile/)：やりがいのある、価値のある
-- [purposeful](/word/purposeful/)：目的のある、意図的な
+- [worthwhile](/worthwhile)：やりがいのある、価値のある
+- [purposeful](/purposeful)：目的のある、意図的な
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な
-- [relevant](/word/relevant/)：関連のある
+- [effective](/effective)：効果的な
+- [relevant](/relevant)：関連のある
 
-<!-- cvid: aid17_bid09 -->
+<!-- cvid: aid48_bid27 -->

@@ -81,15 +81,19 @@ TOEICでは「seek」の過去形・過去分詞として空欄補充や語彙�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「seek」の過去形・過去分詞として空欄補充や語彙�
 ## 🤔  searched との違いは？
 
 - **sought**：目的を持って積極的に「探し求めた」
-- **[searched](/word/searched/)**：物理的・情報的に「探した」「調べた」
+- **[searched](/searched)**：物理的・情報的に「探した」「調べた」
 
 soughtは「何かを得るために努力して探す」ニュアンスがあり、searchedは「場所や情報を探す・調べる」意味で使われます。
 
@@ -105,14 +109,14 @@ soughtは「何かを得るために努力して探す」ニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [request](/word/request/)：要請する、頼む
-- [pursue](/word/pursue/)：追いかける、追求する
+- [request](/request)：要請する、頼む
+- [pursue](/pursue)：追いかける、追求する
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/word/obtain/)：手に入れる、獲得する
-- [apply](/word/apply/)：申し込む、適用する
+- [obtain](/obtain)：手に入れる、獲得する
+- [apply](/apply)：申し込む、適用する
 
-<!-- cvid: aid26_bid46 -->
+<!-- cvid: aid08_bid00 -->

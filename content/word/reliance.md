@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や契約書などで「依存」「頼るこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid28" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid28" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や契約書などで「依存」「頼るこ
 ## 🤔  dependence との違いは？
 
 - **reliance**：ややフォーマルで、積極的に「頼る」ニュアンスが強い
-- **[dependence](/word/dependence/)**：より広く「依存」や「頼る状態」を指し、消極的な意味合いも含む
+- **[dependence](/dependence)**：より広く「依存」や「頼る状態」を指し、消極的な意味合いも含む
 
 relianceは「信頼して頼る」前向きな場面で使われやすく、dependenceは「依存症」などネガティブな文脈にも使われます。
 
@@ -105,14 +109,14 @@ relianceは「信頼して頼る」前向きな場面で使われやすく、dep
 
 ## 🧩 あわせて覚えたい
 
-- [independence](/word/independence/)：独立、自立
-- [trust](/word/trust/)：信頼
+- [independence](/independence)：独立、自立
+- [trust](/trust)：信頼
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable/)：信頼できる
-- [confidence](/word/confidence/)：自信、信頼
+- [reliable](/reliable)：信頼できる
+- [confidence](/confidence)：自信、信頼
 
-<!-- cvid: aid23_bid05 -->
+<!-- cvid: aid45_bid28 -->

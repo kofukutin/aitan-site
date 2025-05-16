@@ -81,15 +81,19 @@ TOEICでは医療や健康、感情表現の会話でよく登場します。比
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid41_bid11" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid11" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは医療や健康、感情表現の会話でよく登場します。比
 ## 🤔  mind との違いは？
 
 - **heart**：心臓や感情・気持ちの中心を表す
-- **[mind](/word/mind/)**：思考や知性、考える力を表す
+- **[mind](/mind)**：思考や知性、考える力を表す
 
 **heart**は感情や気持ち、勇気など「心」の部分を指し、**mind**は考えや知性など「頭脳」の部分を指します。
 
@@ -105,14 +109,14 @@ TOEICでは医療や健康、感情表現の会話でよく登場します。比
 
 ## 🧩 あわせて覚えたい
 
-- [brain](/word/brain/)：脳
-- [emotion](/word/emotion/)：感情
+- [brain](/brain)：脳
+- [emotion](/emotion)：感情
 
 ---
 
 ## 📖 できればこれも
 
-- [blood](/word/blood/)：血液
-- [body](/word/body/)：体
+- [blood](/blood)：血液
+- [body](/body)：体
 
-<!-- cvid: aid25_bid09 -->
+<!-- cvid: aid41_bid11 -->

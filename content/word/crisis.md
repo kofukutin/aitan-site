@@ -81,15 +81,19 @@ TOEICでは、ビジネスや社会的な問題を扱う長文読解で「crisis
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや社会的な問題を扱う長文読解で「crisis
 ## 🤔  emergency との違いは？
 
 - **crisis**：長期的・深刻な危機や重大な局面を指す
-- **[emergency](/word/emergency/)**：突発的で即時の対応が必要な緊急事態
+- **[emergency](/emergency)**：突発的で即時の対応が必要な緊急事態
 
 crisisは「深刻な問題や転換点」に、emergencyは「今すぐ対処が必要な緊急事態」に使われます。
 
@@ -105,14 +109,14 @@ crisisは「深刻な問題や転換点」に、emergencyは「今すぐ対処�
 
 ## 🧩 あわせて覚えたい
 
-- [disaster](/word/disaster/)：災害、大惨事
-- [turning_point](/word/turning_point/)：転機、転換点
+- [disaster](/disaster)：災害、大惨事
+- [turning_point](/turning_point)：転機、転換点
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue/)：問題、課題
-- [challenge](/word/challenge/)：挑戦、難題
+- [issue](/issue)：問題、課題
+- [challenge](/challenge)：挑戦、難題
 
-<!-- cvid: aid47_bid12 -->
+<!-- cvid: aid07_bid32 -->

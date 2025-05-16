@@ -81,15 +81,19 @@ TOEICでは「reward」は報酬やインセンティブに関する文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「reward」は報酬やインセンティブに関する文脈でよ
 ## 🤔  award との違いは？
 
 - **reward**：努力や善行に対する報酬やご褒美。日常的な場面でも使われる。
-- **[award](/word/award/)**：公式な賞や表彰。コンテストや式典などフォーマルな場面で使われる。
+- **[award](/award)**：公式な賞や表彰。コンテストや式典などフォーマルな場面で使われる。
 
 rewardは日常的な「ご褒美」や「報酬」に幅広く使われ、awardは公式な「賞」や「表彰」に限定される傾向があります。
 
@@ -105,14 +109,14 @@ rewardは日常的な「ご褒美」や「報酬」に幅広く使われ、award
 
 ## 🧩 あわせて覚えたい
 
-- [punishment](/word/punishment/)：罰、処罰
-- [bonus](/word/bonus/)：ボーナス、特別手当
+- [punishment](/punishment)：罰、処罰
+- [bonus](/bonus)：ボーナス、特別手当
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/word/benefit/)：利益、恩恵
-- [recognition](/word/recognition/)：認識、表彰
+- [benefit](/benefit)：利益、恩恵
+- [recognition](/recognition)：認識、表彰
 
-<!-- cvid: aid22_bid15 -->
+<!-- cvid: aid04_bid30 -->

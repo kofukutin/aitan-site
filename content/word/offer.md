@@ -81,15 +81,19 @@ TOEICでは「申し出る」「提案する」「提供する」といった意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「申し出る」「提案する」「提供する」といった意
 ## 🤔  propose との違いは？
 
 - **offer**：相手に何かを差し出したり、手助けや物を「申し出る」ニュアンスが強い
-- **[propose](/word/propose/)**：計画やアイデアなどを「提案する」意味が強く、ややフォーマル
+- **[propose](/propose)**：計画やアイデアなどを「提案する」意味が強く、ややフォーマル
 
 offerは「実際に何かを与える・助ける」場面で使い、proposeは「案や計画を正式に提案する」場面で使います。
 
@@ -105,14 +109,14 @@ offerは「実際に何かを与える・助ける」場面で使い、propose�
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/word/suggest/)：提案する（カジュアルな提案）
-- [provide](/word/provide/)：提供する（物やサービスを与える）
+- [suggest](/suggest)：提案する（カジュアルな提案）
+- [provide](/provide)：提供する（物やサービスを与える）
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/word/accept/)：受け入れる、承諾する
-- [recommend](/word/recommend/)：推薦する、勧める
+- [accept](/accept)：受け入れる、承諾する
+- [recommend](/recommend)：推薦する、勧める
 
-<!-- cvid: aid26_bid21 -->
+<!-- cvid: aid42_bid08 -->

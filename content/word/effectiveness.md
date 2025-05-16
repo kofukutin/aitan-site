@@ -81,15 +81,19 @@ effectivenessは、TOEICの文法や語彙問題で「効果」「有効性」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ effectivenessは、TOEICの文法や語彙問題で「効果」「有効性」�
 ## 🤔  efficiency との違いは？
 
 - **effectiveness**：目的をどれだけ達成できるか（効果・有効性）
-- **[efficiency](/word/efficiency/)**：どれだけ無駄なく効率的にできるか（効率）
+- **[efficiency](/efficiency)**：どれだけ無駄なく効率的にできるか（効率）
 
 effectivenessは「成果が出るかどうか」、efficiencyは「手間や時間をかけずにできるか」に重点があります。
 
@@ -105,14 +109,14 @@ effectivenessは「成果が出るかどうか」、efficiencyは「手間や時
 
 ## 🧩 あわせて覚えたい
 
-- [impact](/word/impact/)：影響、インパクト
-- [validity](/word/validity/)：妥当性、有効性
+- [impact](/impact)：影響、インパクト
+- [validity](/validity)：妥当性、有効性
 
 ---
 
 ## 📖 できればこれも
 
-- [productivity](/word/productivity/)：生産性
-- [performance](/word/performance/)：業績、成果
+- [productivity](/productivity)：生産性
+- [performance](/performance)：業績、成果
 
-<!-- cvid: aid24_bid42 -->
+<!-- cvid: aid35_bid33 -->

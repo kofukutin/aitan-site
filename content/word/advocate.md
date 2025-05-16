@@ -88,8 +88,12 @@ TOEICでは、ビジネスや社会問題に関する長文の中で「advocate�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid00_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスや社会問題に関する長文の中で「advocate�
 ## 🤔  support との違いは？
 
 - **advocate**：積極的に主張・提唱して支持する（特にフォーマルな場面で使う）
-- **[support](/word/support/)**：広く「支える」「支持する」意味で、日常的にも使う
+- **[support](/support)**：広く「支える」「支持する」意味で、日常的にも使う
 
 「advocate」は自分の意見や立場を強く押し出して主張する時に使い、「support」は単に賛成・支援する場合にも使えます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネスや社会問題に関する長文の中で「advocate�
 
 ## 🧩 あわせて覚えたい
 
-- [oppose](/word/oppose/)：反対する
-- [recommend](/word/recommend/)：推薦する、勧める
+- [oppose](/oppose)：反対する
+- [recommend](/recommend)：推薦する、勧める
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/word/promote/)：促進する、推進する
-- [encourage](/word/encourage/)：励ます、促す
+- [promote](/promote)：促進する、推進する
+- [encourage](/encourage)：励ます、促す
 
-<!-- cvid: aid00_bid15 -->
+<!-- cvid: aid00_bid49 -->

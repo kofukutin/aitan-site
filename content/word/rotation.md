@@ -81,15 +81,19 @@ TOEICでは、職場の交替勤務や業務の循環、担当者の入れ替え
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場の交替勤務や業務の循環、担当者の入れ替え
 ## 🤔  shift との違いは？
 
 - **rotation**：順番に交替することや、循環して担当が変わることを指す。
-- **[shift](/word/shift/)**：勤務時間や担当の「シフト（交替制の時間帯）」を指す。
+- **[shift](/shift)**：勤務時間や担当の「シフト（交替制の時間帯）」を指す。
 
 rotationは「順番に回る」イメージ、shiftは「時間帯や担当の区切り」を強調します。
 
@@ -105,14 +109,14 @@ rotationは「順番に回る」イメージ、shiftは「時間帯や担当の�
 
 ## 🧩 あわせて覚えたい
 
-- [cycle](/word/cycle/)：周期、循環
-- [replacement](/word/replacement/)：交替、代わりの人・物
+- [cycle](/cycle)：周期、循環
+- [replacement](/replacement)：交替、代わりの人・物
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [assignment](/word/assignment/)：割り当て、任務
+- [schedule](/schedule)：予定、スケジュール
+- [assignment](/assignment)：割り当て、任務
 
-<!-- cvid: aid26_bid31 -->
+<!-- cvid: aid08_bid20 -->

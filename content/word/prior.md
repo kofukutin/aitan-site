@@ -88,8 +88,12 @@ TOEICではPart 5の文法・語彙問題で「prior to（～より前に）」�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 5の文法・語彙問題で「prior to（～より前に）」�
 ## 🤔  previous との違いは？
 
 - **prior**：フォーマルで「事前の」「優先する」という意味。特に「prior to（～より前に）」の形で使われる。
-- **[previous](/word/previous/)**：一般的に「前の」「直前の」という意味で、日常的な場面でも使われる。
+- **[previous](/previous)**：一般的に「前の」「直前の」という意味で、日常的な場面でも使われる。
 
 priorはフォーマルな文脈や優先順位を強調したいときに使い、previousは単に「前のもの」を指すときに使います。
 
@@ -105,14 +109,14 @@ priorはフォーマルな文脈や優先順位を強調したいときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [former](/word/former/)：以前の、元の
-- [subsequent](/word/subsequent/)：その後の、次の
+- [former](/former)：以前の、元の
+- [subsequent](/subsequent)：その後の、次の
 
 ---
 
 ## 📖 できればこれも
 
-- [initial](/word/initial/)：最初の
-- [subsequent](/word/subsequent/)：その後の
+- [initial](/initial)：最初の
+- [subsequent](/subsequent)：その後の
 
-<!-- cvid: aid26_bid00 -->
+<!-- cvid: aid26_bid26 -->

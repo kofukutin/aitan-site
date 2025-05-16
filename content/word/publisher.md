@@ -81,15 +81,19 @@ TOEICでは、出版業界やビジネス文書、メール、記事などの文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、出版業界やビジネス文書、メール、記事などの文
 ## 🤔  editor との違いは？
 
 - **publisher**：出版物を発行・販売する会社や人
-- **[editor](/word/editor/)**：原稿を編集・校正する人
+- **[editor](/editor)**：原稿を編集・校正する人
 
 publisherは「出版する側（会社や人）」、editorは「内容を編集する人」と役割が異なります。
 
@@ -105,14 +109,14 @@ publisherは「出版する側（会社や人）」、editorは「内容を編�
 
 ## 🧩 あわせて覚えたい
 
-- [author](/word/author/)：著者、作者
-- [distributor](/word/distributor/)：流通業者、販売業者
+- [author](/author)：著者、作者
+- [distributor](/distributor)：流通業者、販売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [editorial](/word/editorial/)：社説、編集の
-- [publication](/word/publication/)：出版物、発行
+- [editorial](/editorial)：社説、編集の
+- [publication](/publication)：出版物、発行
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid35_bid48 -->

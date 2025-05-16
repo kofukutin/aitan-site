@@ -81,15 +81,19 @@ TOEICでは店舗や会社の会話でよく登場し、販売や接客に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは店舗や会社の会話でよく登場し、販売や接客に関す
 ## 🤔  clerk との違いは？
 
 - **salesperson**：商品やサービスを販売する人全般を指す、営業担当者・販売員。
-- **[clerk](/word/clerk/)**：主に店頭でレジや事務的な業務を行う店員。
+- **[clerk](/clerk)**：主に店頭でレジや事務的な業務を行う店員。
 
 salespersonは「売ること」に重点があり、clerkは「事務やレジ業務」など幅広い店員を指します。
 
@@ -105,14 +109,14 @@ salespersonは「売ること」に重点があり、clerkは「事務やレジ�
 
 ## 🧩 あわせて覚えたい
 
-- [customer](/word/customer/)：顧客、客
-- [representative](/word/representative/)：代表者、担当者
+- [customer](/customer)：顧客、客
+- [representative](/representative)：代表者、担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client/)：取引先、顧客
-- [manager](/word/manager/)：管理者、マネージャー
+- [client](/client)：取引先、顧客
+- [manager](/manager)：管理者、マネージャー
 
-<!-- cvid: aid21_bid00 -->
+<!-- cvid: aid27_bid24 -->

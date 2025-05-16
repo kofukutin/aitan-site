@@ -81,15 +81,19 @@ TOEICでは、表彰や評価、認知に関する記事やメール文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、表彰や評価、認知に関する記事やメール文でよく
 ## 🤔  acknowledgment との違いは？
 
 - **recognition**：努力や成果を認めて評価・表彰すること、または人や物を見分けること
-- **[acknowledgment](/word/acknowledgment/)**：事実や存在を認めて受け入れること、感謝の意を示すこと
+- **[acknowledgment](/acknowledgment)**：事実や存在を認めて受け入れること、感謝の意を示すこと
 
 recognitionは「評価・表彰」のニュアンスが強く、acknowledgmentは「受け入れ・感謝」の意味合いが中心です。
 
@@ -105,14 +109,14 @@ recognitionは「評価・表彰」のニュアンスが強く、acknowledgment�
 
 ## 🧩 あわせて覚えたい
 
-- [identification](/word/identification/)：識別、身元確認
-- [approval](/word/approval/)：承認、賛成
+- [identification](/identification)：識別、身元確認
+- [approval](/approval)：承認、賛成
 
 ---
 
 ## 📖 できればこれも
 
-- [achievement](/word/achievement/)：業績、達成
-- [reward](/word/reward/)：報酬、ご褒美
+- [achievement](/achievement)：業績、達成
+- [reward](/reward)：報酬、ご褒美
 
-<!-- cvid: aid08_bid23 -->
+<!-- cvid: aid22_bid39 -->

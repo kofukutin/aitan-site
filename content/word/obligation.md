@@ -81,15 +81,19 @@ TOEICでは契約や規則、ビジネス上の責任に関する文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や規則、ビジネス上の責任に関する文脈でよく
 ## 🤔  responsibility との違いは？
 
 - **obligation**：法律や契約、道徳などで「しなければならない」と定められた義務
-- **[responsibility](/word/responsibility/)**：自分の役割や立場としての「責任」や「義務」
+- **[responsibility](/responsibility)**：自分の役割や立場としての「責任」や「義務」
 
 obligationは外部から課される義務、responsibilityは自分の役割や立場から生じる責任という違いがあります。
 
@@ -105,14 +109,14 @@ obligationは外部から課される義務、responsibilityは自分の役割�
 
 ## 🧩 あわせて覚えたい
 
-- [duty](/word/duty/)：職務上や道徳的な義務
-- [commitment](/word/commitment/)：約束、献身
+- [duty](/duty)：職務上や道徳的な義務
+- [commitment](/commitment)：約束、献身
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement/)：必要条件、要件
-- [agreement](/word/agreement/)：合意、契約
+- [requirement](/requirement)：必要条件、要件
+- [agreement](/agreement)：合意、契約
 
-<!-- cvid: aid16_bid28 -->
+<!-- cvid: aid09_bid36 -->

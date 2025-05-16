@@ -81,15 +81,19 @@ TOEICでは住宅やオフィスの説明、動物に関する話題で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは住宅やオフィスの説明、動物に関する話題で登場す
 ## 🤔  study との違いは？
 
 - **den**：くつろぎや趣味のための個人的な部屋や隠れ家
-- **[study](/word/study/)**：主に勉強や仕事のための書斎
+- **[study](/study)**：主に勉強や仕事のための書斎
 
 denはリラックスや趣味の空間、studyは学習や仕事のための部屋という違いがあります。
 
@@ -105,14 +109,14 @@ denはリラックスや趣味の空間、studyは学習や仕事のための部
 
 ## 🧩 あわせて覚えたい
 
-- [lounge](/word/lounge/)：ラウンジ、くつろぎスペース
-- [office](/word/office/)：オフィス、事務所
+- [lounge](/lounge)：ラウンジ、くつろぎスペース
+- [office](/office)：オフィス、事務所
 
 ---
 
 ## 📖 できればこれも
 
-- [cave](/word/cave/)：洞窟、ほら穴
-- [room](/word/room/)：部屋
+- [cave](/cave)：洞窟、ほら穴
+- [room](/room)：部屋
 
-<!-- cvid: aid46_bid17 -->
+<!-- cvid: aid43_bid43 -->

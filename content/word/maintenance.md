@@ -81,15 +81,19 @@ TOEICでは設備やシステムの説明、案内文などで頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは設備やシステムの説明、案内文などで頻出します。
 ## 🤔  repair との違いは？
 
 - **maintenance**：良い状態を保つための定期的な点検や保守
-- **[repair](/word/repair/)**：壊れたものを直す「修理」
+- **[repair](/repair)**：壊れたものを直す「修理」
 
 maintenanceは「壊れる前の予防」や「日常的な管理」に重点があり、repairは「故障後の修理」に使われます。
 
@@ -105,14 +109,14 @@ maintenanceは「壊れる前の予防」や「日常的な管理」に重点が
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection/)：点検、検査
-- [operation](/word/operation/)：運転、操作
+- [inspection](/inspection)：点検、検査
+- [operation](/operation)：運転、操作
 
 ---
 
 ## 📖 できればこれも
 
-- [service](/word/service/)：サービス、点検
-- [facility](/word/facility/)：施設、設備
+- [service](/service)：サービス、点検
+- [facility](/facility)：施設、設備
 
-<!-- cvid: aid17_bid12 -->
+<!-- cvid: aid00_bid06 -->

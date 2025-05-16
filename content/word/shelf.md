@@ -81,15 +81,19 @@ TOEICでは主にオフィスや店舗の写真描写問題で「棚」が登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid18" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid18" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にオフィスや店舗の写真描写問題で「棚」が登場
 ## 🤔  rack との違いは？
 
 - **shelf**：壁や家具に取り付けられた平らな「棚」。
-- **[rack](/word/rack/)**：物を掛けたり並べたりするための「ラック」や「枠」。
+- **[rack](/rack)**：物を掛けたり並べたりするための「ラック」や「枠」。
 
 shelfは本や小物を置く平らな板状の棚、rackは衣服や自転車などを掛けたり立てかけたりする枠組みを指します。
 
@@ -105,14 +109,14 @@ shelfは本や小物を置く平らな板状の棚、rackは衣服や自転車�
 
 ## 🧩 あわせて覚えたい
 
-- [drawer](/word/drawer/)：引き出し
-- [cabinet](/word/cabinet/)：戸棚、キャビネット
+- [drawer](/drawer)：引き出し
+- [cabinet](/cabinet)：戸棚、キャビネット
 
 ---
 
 ## 📖 できればこれも
 
-- [desk](/word/desk/)：机
-- [box](/word/box/)：箱
+- [desk](/desk)：机
+- [box](/box)：箱
 
-<!-- cvid: aid40_bid17 -->
+<!-- cvid: aid06_bid18 -->

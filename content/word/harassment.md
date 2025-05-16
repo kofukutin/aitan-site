@@ -81,15 +81,19 @@ TOEICでは職場環境やコンプライアンスに関する長文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは職場環境やコンプライアンスに関する長文で登場す
 ## 🤔  bullying との違いは？
 
 - **harassment**：嫌がらせ全般を指し、性的・精神的・身体的など幅広い場面で使われる。
-- **[bullying](/word/bullying/)**：特に力関係を利用したいじめや脅しを指し、主に学校や子どもの間で使われる。
+- **[bullying](/bullying)**：特に力関係を利用したいじめや脅しを指し、主に学校や子どもの間で使われる。
 
 harassmentは大人の職場や社会全体での嫌がらせに幅広く使われ、bullyingは子どもや学生間のいじめに特化して使われることが多いです。
 
@@ -105,14 +109,14 @@ harassmentは大人の職場や社会全体での嫌がらせに幅広く使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [discrimination](/word/discrimination/)：差別
-- [intimidation](/word/intimidation/)：脅迫、威圧
+- [discrimination](/discrimination)：差別
+- [intimidation](/intimidation)：脅迫、威圧
 
 ---
 
 ## 📖 できればこれも
 
-- [complaint](/word/complaint/)：苦情
-- [policy](/word/policy/)：方針
+- [complaint](/complaint)：苦情
+- [policy](/policy)：方針
 
-<!-- cvid: aid45_bid48 -->
+<!-- cvid: aid01_bid04 -->

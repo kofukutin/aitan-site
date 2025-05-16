@@ -81,15 +81,19 @@ TOEICでは、非営利団体やイベント案内、社内メールなどでfun
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、非営利団体やイベント案内、社内メールなどでfun
 ## 🤔  donation との違いは？
 
 - **fundraising**：資金を集める「活動」や「プロセス」を指す
-- **[donation](/word/donation/)**：実際に寄付される「お金」や「物」、またはその「行為」を指す
+- **[donation](/donation)**：実際に寄付される「お金」や「物」、またはその「行為」を指す
 
 fundraisingはお金を集めるための活動全体、donationはその活動で集まる寄付そのものを指します。
 
@@ -105,14 +109,14 @@ fundraisingはお金を集めるための活動全体、donationはその活動�
 
 ## 🧩 あわせて覚えたい
 
-- [sponsorship](/word/sponsorship/)：スポンサーによる支援・協賛
-- [charity](/word/charity/)：慈善活動、慈善団体
+- [sponsorship](/sponsorship)：スポンサーによる支援・協賛
+- [charity](/charity)：慈善活動、慈善団体
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/word/campaign/)：（目的のための）運動、キャンペーン
-- [contribution](/word/contribution/)：貢献、寄付
+- [campaign](/campaign)：（目的のための）運動、キャンペーン
+- [contribution](/contribution)：貢献、寄付
 
-<!-- cvid: aid45_bid09 -->
+<!-- cvid: aid37_bid34 -->

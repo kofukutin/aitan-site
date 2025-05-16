@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、注意・不注意に関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、注意・不注意に関する文脈
 ## 🤔  negligent との違いは？
 
 - **careless**：うっかりして注意が足りない、軽い不注意
-- **[negligent](/word/negligent/)**：義務や責任を怠る重大な不注意
+- **[negligent](/negligent)**：義務や責任を怠る重大な不注意
 
 「careless」は日常的なうっかりや軽いミスに使い、「negligent」は職務怠慢など法的・社会的責任を問われる重大な不注意に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞の語彙問題や、注意・不注意に関する文脈
 
 ## 🧩 あわせて覚えたい
 
-- [attentive](/word/attentive/)：注意深い
-- [thoughtless](/word/thoughtless/)：思慮のない、配慮に欠ける
+- [attentive](/attentive)：注意深い
+- [thoughtless](/thoughtless)：思慮のない、配慮に欠ける
 
 ---
 
 ## 📖 できればこれも
 
-- [careful](/word/careful/)：注意深い
-- [efficient](/word/efficient/)：効率的な
+- [careful](/careful)：注意深い
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid42_bid18 -->
+<!-- cvid: aid31_bid35 -->

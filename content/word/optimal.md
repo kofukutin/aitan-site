@@ -81,15 +81,19 @@ TOEICでは主にPart 5の語彙問題や、ビジネス文書の中で「最適
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の語彙問題や、ビジネス文書の中で「最適
 ## 🤔  optimum との違いは？
 
 - **optimal**：最も適した、最善の（形容詞として使われることが多い）
-- **[optimum](/word/optimum/)**：最適な（形容詞）、最適値・最善（名詞）としても使われる
+- **[optimum](/optimum)**：最適な（形容詞）、最適値・最善（名詞）としても使われる
 
 optimalは「最適な」という形容詞として主に使われ、optimumは形容詞だけでなく名詞として「最適値」など具体的な対象を指す場合にも使われます。
 
@@ -105,14 +109,14 @@ optimalは「最適な」という形容詞として主に使われ、optimumは
 
 ## 🧩 あわせて覚えたい
 
-- [ideal](/word/ideal/)：理想的な
-- [efficient](/word/efficient/)：効率的な
+- [ideal](/ideal)：理想的な
+- [efficient](/efficient)：効率的な
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective/)：効果的な
-- [suitable](/word/suitable/)：適切な
+- [effective](/effective)：効果的な
+- [suitable](/suitable)：適切な
 
-<!-- cvid: aid31_bid48 -->
+<!-- cvid: aid19_bid12 -->

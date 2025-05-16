@@ -81,15 +81,19 @@ TOEICでは、会社や組織の制度変更、法律や規則の改正などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や組織の制度変更、法律や規則の改正などの
 ## 🤔  improve との違いは？
 
 - **reform**：制度や仕組みなどを根本的に改めて良くする
-- **[improve](/word/improve/)**：全体的に良くする、少しずつ向上させる
+- **[improve](/improve)**：全体的に良くする、少しずつ向上させる
 
 reformは「抜本的な改革」、improveは「徐々に良くする」といった違いがあり、reformの方が大きな変化や公的な場面で使われやすいです。
 
@@ -105,14 +109,14 @@ reformは「抜本的な改革」、improveは「徐々に良くする」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [revise](/word/revise/)：修正する、改訂する
-- [abolish](/word/abolish/)：廃止する
+- [revise](/revise)：修正する、改訂する
+- [abolish](/abolish)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [amend](/word/amend/)：修正する（特に法律や文書を）
-- [modify](/word/modify/)：一部を変更する、修正する
+- [amend](/amend)：修正する（特に法律や文書を）
+- [modify](/modify)：一部を変更する、修正する
 
-<!-- cvid: aid23_bid14 -->
+<!-- cvid: aid03_bid42 -->

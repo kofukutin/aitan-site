@@ -81,15 +81,19 @@ TOEICでは交通や出張、旅行に関する長文や案内文で「fare」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは交通や出張、旅行に関する長文や案内文で「fare」�
 ## 🤔  fee との違いは？
 
 - **fare**：交通機関の運賃や乗り物の料金
-- **[fee](/word/fee/)**：サービスや入場、手数料などの料金
+- **[fee](/fee)**：サービスや入場、手数料などの料金
 
 fareは「乗り物の運賃」、feeは「サービスや施設利用の料金」と使い分けます。
 
@@ -105,14 +109,14 @@ fareは「乗り物の運賃」、feeは「サービスや施設利用の料金�
 
 ## 🧩 あわせて覚えたい
 
-- [charge](/word/charge/)：請求額、料金
-- [ticket](/word/ticket/)：乗車券、入場券
+- [charge](/charge)：請求額、料金
+- [ticket](/ticket)：乗車券、入場券
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/word/route/)：経路、路線
-- [passenger](/word/passenger/)：乗客
+- [route](/route)：経路、路線
+- [passenger](/passenger)：乗客
 
-<!-- cvid: aid07_bid08 -->
+<!-- cvid: aid23_bid17 -->

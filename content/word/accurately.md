@@ -82,15 +82,19 @@ TOEICでは、正確さや精度を問う文脈で頻出します。特に「acc
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、正確さや精度を問う文脈で頻出します。特に「acc
 ## 🤔  precisely との違いは？
 
 - **accurately**：誤りなく正確に、事実や基準に忠実に
-- **[precisely](/word/precisely/)**：きわめて正確に、細部まで厳密に
+- **[precisely](/precisely)**：きわめて正確に、細部まで厳密に
 
 「accurately」は「正確さ」全般を表し、「precisely」は「細かい点まで厳密に」というニュアンスが強いです。日常的な「正確さ」ならaccurately、細部へのこだわりや厳密さを強調したいときはpreciselyを使います。
 
@@ -106,14 +110,14 @@ TOEICでは、正確さや精度を問う文脈で頻出します。特に「acc
 
 ## 🧩 あわせて覚えたい
 
-- [correctly](/word/correctly/)：正しく、間違いなく
-- [exactly](/word/exactly/)：まさに、ぴったりと
+- [correctly](/correctly)：正しく、間違いなく
+- [exactly](/exactly)：まさに、ぴったりと
 
 ---
 
 ## 📖 できればこれも
 
-- [carefully](/word/carefully/)：注意深く
-- [clearly](/word/clearly/)：はっきりと
+- [carefully](/carefully)：注意深く
+- [clearly](/clearly)：はっきりと
 
-<!-- cvid: aid00_bid04 -->
+<!-- cvid: aid45_bid33 -->

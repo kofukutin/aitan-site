@@ -82,15 +82,19 @@ TOEICでは、科学的な説明やビジネス文書で「human resources」な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼一歩踏み出すならここ／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、科学的な説明やビジネス文書で「human resources」な
 ## 🤔  person との違いは？
 
 - **human**：生物学的・種としての「人間」を指す
-- **[person](/word/person/)**：個人や人格を持つ「人」を指す
+- **[person](/person)**：個人や人格を持つ「人」を指す
 
 「human」は人類全体や生物としての人間を強調し、「person」は個々の人や法的・社会的な個人を強調します。
 
@@ -106,14 +110,14 @@ TOEICでは、科学的な説明やビジネス文書で「human resources」な
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/word/individual/)：個人、個体
-- [animal](/word/animal/)：動物
+- [individual](/individual)：個人、個体
+- [animal](/animal)：動物
 
 ---
 
 ## 📖 できればこれも
 
-- [body](/word/body/)：体、身体
-- [nature](/word/nature/)：自然、本質
+- [body](/body)：体、身体
+- [nature](/nature)：自然、本質
 
-<!-- cvid: aid12_bid20 -->
+<!-- cvid: aid01_bid34 -->

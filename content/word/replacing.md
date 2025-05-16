@@ -81,15 +81,19 @@ TOEICでは会議や業務連絡の場面で「交換する」「取り替える
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務連絡の場面で「交換する」「取り替える
 ## 🤔  substitute との違いは？
 
 - **replacing**：何かを別のものと取り替える動作そのものや進行中の状態を表す。
-- **[substitute](/word/substitute/)**：代わりとなるもの・人を一時的または恒久的に使うことを強調。
+- **[substitute](/substitute)**：代わりとなるもの・人を一時的または恒久的に使うことを強調。
 
 replacingは「交換する動作」に焦点があり、substituteは「代用品・代理人」に焦点があります。
 
@@ -105,14 +109,14 @@ replacingは「交換する動作」に焦点があり、substituteは「代用�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove/)：取り除く
-- [restore](/word/restore/)：元に戻す
+- [remove](/remove)：取り除く
+- [restore](/restore)：元に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：設置する、インストールする
-- [update](/word/update/)：更新する
+- [install](/install)：設置する、インストールする
+- [update](/update)：更新する
 
-<!-- cvid: aid30_bid00 -->
+<!-- cvid: aid12_bid20 -->

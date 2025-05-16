@@ -81,15 +81,19 @@ grabはTOEICの会話パートで「何かを取る」「買う」などの意�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ grabはTOEICの会話パートで「何かを取る」「買う」などの意�
 ## 🤔  seize との違いは？
 
 - **grab**：素早くカジュアルにつかむ、さっと取る
-- **[seize](/word/seize/)**：力強くしっかりとつかむ、または権力・機会などを強引に手に入れる
+- **[seize](/seize)**：力強くしっかりとつかむ、または権力・機会などを強引に手に入れる
 
 grabは日常的な「さっと取る」感覚で使い、seizeはよりフォーマルで「しっかりつかむ」「奪う」など強いニュアンスがあります。
 
@@ -105,14 +109,14 @@ grabは日常的な「さっと取る」感覚で使い、seizeはよりフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [hold](/word/hold/)：しっかり持つ、握る
-- [catch](/word/catch/)：捕まえる、受け止める
+- [hold](/hold)：しっかり持つ、握る
+- [catch](/catch)：捕まえる、受け止める
 
 ---
 
 ## 📖 できればこれも
 
-- [pick](/word/pick/)：選ぶ、摘み取る
-- [reach](/word/reach/)：手が届く、到達する
+- [pick](/pick)：選ぶ、摘み取る
+- [reach](/reach)：手が届く、到達する
 
-<!-- cvid: aid22_bid40 -->
+<!-- cvid: aid10_bid28 -->

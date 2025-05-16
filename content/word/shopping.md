@@ -81,15 +81,19 @@ TOEICでは、日常的な買い物やサービスに関する会話でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid07" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid07" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、日常的な買い物やサービスに関する会話でよく登
 ## 🤔  purchase との違いは？
 
 - **shopping**：買い物という行為全体や時間を指すカジュアルな表現
-- **[purchase](/word/purchase/)**：購入そのものや購入品を指すフォーマルな表現
+- **[purchase](/purchase)**：購入そのものや購入品を指すフォーマルな表現
 
 shoppingは「買い物を楽しむ」など行為や体験を表し、purchaseは「購入」という結果や取引を強調します。
 
@@ -105,14 +109,14 @@ shoppingは「買い物を楽しむ」など行為や体験を表し、purchase�
 
 ## 🧩 あわせて覚えたい
 
-- [buy](/word/buy/)：買う（動詞）
-- [sale](/word/sale/)：セール、販売（名詞）
+- [buy](/buy)：買う（動詞）
+- [sale](/sale)：セール、販売（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [store](/word/store/)：店、店舗（名詞）
-- [market](/word/market/)：市場、マーケット（名詞）
+- [store](/store)：店、店舗（名詞）
+- [market](/market)：市場、マーケット（名詞）
 
-<!-- cvid: aid48_bid48 -->
+<!-- cvid: aid46_bid07 -->

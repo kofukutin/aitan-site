@@ -81,15 +81,19 @@ TOEICでは科学や研究に関する説明文やメールで登場すること
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や研究に関する説明文やメールで登場すること
 ## 🤔  telescope との違いは？
 
 - **microscope**：小さなものを拡大して見るための装置
-- **[telescope](/word/telescope/)**：遠く離れたものを拡大して見るための装置
+- **[telescope](/telescope)**：遠く離れたものを拡大して見るための装置
 
 microscopeは微細な対象（細胞や微生物など）を観察するのに使い、telescopeは星や遠くの景色など遠距離のものを見るのに使います。
 
@@ -105,14 +109,14 @@ microscopeは微細な対象（細胞や微生物など）を観察するのに�
 
 ## 🧩 あわせて覚えたい
 
-- [magnifier](/word/magnifier/)：拡大鏡、虫眼鏡
-- [laboratory](/word/laboratory/)：研究室、実験室
+- [magnifier](/magnifier)：拡大鏡、虫眼鏡
+- [laboratory](/laboratory)：研究室、実験室
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment/)：実験
-- [sample](/word/sample/)：標本、サンプル
+- [experiment](/experiment)：実験
+- [sample](/sample)：標本、サンプル
 
-<!-- cvid: aid38_bid40 -->
+<!-- cvid: aid20_bid27 -->

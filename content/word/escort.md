@@ -81,15 +81,19 @@ escortは、ビジネスシーンでの案内や付き添いに関する会話�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ escortは、ビジネスシーンでの案内や付き添いに関する会話�
 ## 🤔  accompany との違いは？
 
 - **escort**：安全や礼儀を意識して案内・付き添うニュアンス
-- **[accompany](/word/accompany/)**：単に一緒に行動する、同行する
+- **[accompany](/accompany)**：単に一緒に行動する、同行する
 
 escortは「守る・案内する」意識が強く、accompanyは「一緒にいる」だけでフォーマル度や安全性のニュアンスは薄いです。
 
@@ -105,14 +109,14 @@ escortは「守る・案内する」意識が強く、accompanyは「一緒に�
 
 ## 🧩 あわせて覚えたい
 
-- [guide](/word/guide/)：案内する、導く
-- [lead](/word/lead/)：先導する、導く
+- [guide](/guide)：案内する、導く
+- [lead](/lead)：先導する、導く
 
 ---
 
 ## 📖 できればこれも
 
-- [assist](/word/assist/)：手伝う、補助する
-- [support](/word/support/)：支える、支援する
+- [assist](/assist)：手伝う、補助する
+- [support](/support)：支える、支援する
 
-<!-- cvid: aid46_bid45 -->
+<!-- cvid: aid41_bid19 -->

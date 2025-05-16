@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【door】の意味・使い方・例文 ― entranceとの違い【TOEIC英単語】"
 description: "doorの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでentranceとの違いもわかりやすく学べます。"
 word: "door"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、部屋や建物の「ドア」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid46_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋や建物の「ドア」
 ## 🤔  entrance との違いは？
 
 - **door**：物理的な「ドア」や「扉」そのものを指す
-- **[entrance](/word/entrance/)**：建物や部屋への「入り口」全体を指す
+- **[entrance](/entrance)**：建物や部屋への「入り口」全体を指す
 
 doorは開閉できる板状の部分、entranceは出入りする場所全体を指します。
 
@@ -105,14 +109,14 @@ doorは開閉できる板状の部分、entranceは出入りする場所全体�
 
 ## 🧩 あわせて覚えたい
 
-- [window](/word/window/)：窓
-- [gate](/word/gate/)：門
+- [window](/window)：窓
+- [gate](/gate)：門
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/word/room/)：部屋
-- [floor](/word/floor/)：床、階
+- [room](/room)：部屋
+- [floor](/floor)：床、階
 
-<!-- cvid: aid01_bid47 -->
+<!-- cvid: aid46_bid40 -->

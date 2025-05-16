@@ -81,15 +81,19 @@ TOEICでは、公式発表や正式な通知、手続きに関する長文やメ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、公式発表や正式な通知、手続きに関する長文やメ
 ## 🤔  formally との違いは？
 
 - **officially**：公式に、正式に（公的な立場や機関からの発表や手続きに使う）
-- **[formally](/word/formally/)**：形式的に、礼儀正しく（マナーやルール、儀式的な場面で使う）
+- **[formally](/formally)**：形式的に、礼儀正しく（マナーやルール、儀式的な場面で使う）
 
 「officially」は公的な発表や認可などに使い、「formally」は礼儀や形式、儀式的な状況に使います。
 
@@ -105,14 +109,14 @@ TOEICでは、公式発表や正式な通知、手続きに関する長文やメ
 
 ## 🧩 あわせて覚えたい
 
-- [legally](/word/legally/)：合法的に、法律上
-- [publicly](/word/publicly/)：公に、公然と
+- [legally](/legally)：合法的に、法律上
+- [publicly](/publicly)：公に、公然と
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：公式の、役人
-- [announcement](/word/announcement/)：発表、告知
+- [official](/official)：公式の、役人
+- [announcement](/announcement)：発表、告知
 
-<!-- cvid: aid21_bid14 -->
+<!-- cvid: aid43_bid24 -->

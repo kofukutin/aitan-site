@@ -81,15 +81,19 @@ TOEICでは空港や旅行、出張の会話で「plane」が登場します。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や旅行、出張の会話で「plane」が登場します。�
 ## 🤔  airplane との違いは？
 
 - **plane**：カジュアルな「飛行機」の言い方。日常会話でよく使う。
-- **[airplane](/word/airplane/)**：より正式な「飛行機」。アメリカ英語で一般的。
+- **[airplane](/airplane)**：より正式な「飛行機」。アメリカ英語で一般的。
 
 planeは短くて口語的、airplaneはフォーマルまたは書き言葉で使われやすい違いがあります。
 
@@ -105,14 +109,14 @@ planeは短くて口語的、airplaneはフォーマルまたは書き言葉で�
 
 ## 🧩 あわせて覚えたい
 
-- [flight](/word/flight/)：飛行、フライト
-- [train](/word/train/)：列車
+- [flight](/flight)：飛行、フライト
+- [train](/train)：列車
 
 ---
 
 ## 📖 できればこれも
 
-- [bus](/word/bus/)：バス
-- [trip](/word/trip/)：旅行
+- [bus](/bus)：バス
+- [trip](/trip)：旅行
 
-<!-- cvid: aid34_bid18 -->
+<!-- cvid: aid42_bid28 -->

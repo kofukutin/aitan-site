@@ -81,15 +81,19 @@ The trader executed several large transactions this morning.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The trader executed several large transactions this morning.
 ## 🤔  broker との違いは？
 
 - **trader**：自分の資金や会社の資金で商品や金融商品を売買する人。
-- **[broker](/word/broker/)**：売り手と買い手の間を仲介し、取引を成立させる人。
+- **[broker](/broker)**：売り手と買い手の間を仲介し、取引を成立させる人。
 
 traderは実際に売買を行う当事者で、brokerは取引の仲介役です。
 
@@ -105,14 +109,14 @@ traderは実際に売買を行う当事者で、brokerは取引の仲介役で�
 
 ## 🧩 あわせて覚えたい
 
-- [merchant](/word/merchant/)：（特に商品を扱う）商人
-- [investor](/word/investor/)：投資家
+- [merchant](/merchant)：（特に商品を扱う）商人
+- [investor](/investor)：投資家
 
 ---
 
 ## 📖 できればこれも
 
-- [dealer](/word/dealer/)：販売業者、ディーラー
-- [client](/word/client/)：顧客、クライアント
+- [dealer](/dealer)：販売業者、ディーラー
+- [client](/client)：顧客、クライアント
 
-<!-- cvid: aid38_bid02 -->
+<!-- cvid: aid31_bid22 -->

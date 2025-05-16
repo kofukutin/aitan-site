@@ -81,15 +81,19 @@ TOEICでは形容詞の語彙問題や、説明文中で「終わりのない」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid48" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid48" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、説明文中で「終わりのない」
 ## 🤔  infinite との違いは？
 
 - **endless**：終わりがなく、途切れず続く様子を強調
-- **[infinite](/word/infinite/)**：数学的・抽象的に「無限の」「限りない」
+- **[infinite](/infinite)**：数学的・抽象的に「無限の」「限りない」
 
 endlessは「終わりが見えない長さや量」に焦点があり、infiniteは「理論的に限界がない」ことを表します。
 
@@ -105,14 +109,14 @@ endlessは「終わりが見えない長さや量」に焦点があり、infinit
 
 ## 🧩 あわせて覚えたい
 
-- [eternal](/word/eternal/)：永遠の、永久の
-- [continuous](/word/continuous/)：連続した、途切れない
+- [eternal](/eternal)：永遠の、永久の
+- [continuous](/continuous)：連続した、途切れない
 
 ---
 
 ## 📖 できればこれも
 
-- [constant](/word/constant/)：絶え間ない、一定の
-- [limitless](/word/limitless/)：限りない、無限の
+- [constant](/constant)：絶え間ない、一定の
+- [limitless](/limitless)：限りない、無限の
 
-<!-- cvid: aid03_bid02 -->
+<!-- cvid: aid36_bid48 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、海やプールでのアクティビ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、海やプールでのアクティビ
 ## 🤔  swimming との違いは？
 
 - **diving**：水中に「飛び込む」動作やスポーツを指す
-- **[swimming](/word/swimming/)**：水中を「泳ぐ」動作全般を指す
+- **[swimming](/swimming)**：水中を「泳ぐ」動作全般を指す
 
 divingは「飛び込む」こと自体やそのスポーツを表し、swimmingは水中を移動する「泳ぐ」動作を表します。
 
@@ -105,14 +109,14 @@ divingは「飛び込む」こと自体やそのスポーツを表し、swimming
 
 ## 🧩 あわせて覚えたい
 
-- [snorkeling](/word/snorkeling/)：シュノーケリング（水面近くを泳ぐレジャー）
-- [jump](/word/jump/)：ジャンプ、跳ぶこと
+- [snorkeling](/snorkeling)：シュノーケリング（水面近くを泳ぐレジャー）
+- [jump](/jump)：ジャンプ、跳ぶこと
 
 ---
 
 ## 📖 できればこれも
 
-- [surfing](/word/surfing/)：サーフィン
-- [fishing](/word/fishing/)：釣り
+- [surfing](/surfing)：サーフィン
+- [fishing](/fishing)：釣り
 
-<!-- cvid: aid39_bid36 -->
+<!-- cvid: aid24_bid39 -->

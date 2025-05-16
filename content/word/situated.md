@@ -81,15 +81,19 @@ TOEICでは、建物や施設の場所を説明する文脈で形容詞として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建物や施設の場所を説明する文脈で形容詞として
 ## 🤔  located との違いは？
 
 - **situated**：ややフォーマルで、特定の場所や状況に「位置している」と説明する際に使う。
-- **[located](/word/located/)**：より一般的で、単に「場所にある」という意味で幅広く使われる。
+- **[located](/located)**：より一般的で、単に「場所にある」という意味で幅広く使われる。
 
 「situated」は公式な説明や書き言葉でよく使われ、「located」は日常会話や案内文など幅広い場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、建物や施設の場所を説明する文脈で形容詞として
 
 ## 🧩 あわせて覚えたい
 
-- [position](/word/position/)：位置、立場
-- [surrounding](/word/surrounding/)：周囲の、周辺の
+- [position](/position)：位置、立場
+- [surrounding](/surrounding)：周囲の、周辺の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用できる、手に入る
-- [convenient](/word/convenient/)：便利な
+- [available](/available)：利用できる、手に入る
+- [convenient](/convenient)：便利な
 
-<!-- cvid: aid31_bid34 -->
+<!-- cvid: aid05_bid07 -->

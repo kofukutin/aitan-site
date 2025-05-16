@@ -81,15 +81,19 @@ TOEICでは、会議や工場、ビジネスシーンで「assembled parts（組
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid21" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid21" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や工場、ビジネスシーンで「assembled parts（組
 ## 🤔  collected との違いは？
 
 - **assembled**：バラバラのものを一つに組み立てたり、まとめたりした状態
-- **[collected](/word/collected/)**：単に集められた状態で、組み立てや統合のニュアンスはない
+- **[collected](/collected)**：単に集められた状態で、組み立てや統合のニュアンスはない
 
 「assembled」は部品や人などを一つの目的でまとめて組み立てる場合に使い、「collected」は集めるだけで組み立てる意味は含みません。
 
@@ -105,14 +109,14 @@ TOEICでは、会議や工場、ビジネスシーンで「assembled parts（組
 
 ## 🧩 あわせて覚えたい
 
-- [gathered](/word/gathered/)：集められた（人や物が集まった状態）
-- [constructed](/word/constructed/)：建設された、組み立てられた（特に建物や構造物に使う）
+- [gathered](/gathered)：集められた（人や物が集まった状態）
+- [constructed](/constructed)：建設された、組み立てられた（特に建物や構造物に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [organized](/word/organized/)：整理された、組織された
-- [installed](/word/installed/)：設置された、取り付けられた
+- [organized](/organized)：整理された、組織された
+- [installed](/installed)：設置された、取り付けられた
 
-<!-- cvid: aid05_bid22 -->
+<!-- cvid: aid14_bid21 -->

@@ -81,15 +81,19 @@ TOEICではビジネス文書や広告、Eメールの中で「小売業者」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid36" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid36" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や広告、Eメールの中で「小売業者」�
 ## 🤔  wholesaler との違いは？
 
 - **retailer**：消費者に直接商品を販売する小売業者
-- **[wholesaler](/word/wholesaler/)**：小売業者などに大量に商品を売る卸売業者
+- **[wholesaler](/wholesaler)**：小売業者などに大量に商品を売る卸売業者
 
 retailerは一般消費者向け、wholesalerは主に小売業者向けに商品を販売する点が大きな違いです。
 
@@ -105,14 +109,14 @@ retailerは一般消費者向け、wholesalerは主に小売業者向けに商�
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/word/distributor/)：流通業者、卸売業者
-- [customer](/word/customer/)：顧客、買い手
+- [distributor](/distributor)：流通業者、卸売業者
+- [customer](/customer)：顧客、買い手
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給業者、納入業者
-- [vendor](/word/vendor/)：売り手、販売業者
+- [supplier](/supplier)：供給業者、納入業者
+- [vendor](/vendor)：売り手、販売業者
 
-<!-- cvid: aid05_bid12 -->
+<!-- cvid: aid16_bid36 -->

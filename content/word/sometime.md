@@ -77,15 +77,19 @@ TOEICでは会話や予定調整の場面で「sometime」が使われること�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは会話や予定調整の場面で「sometime」が使われること�
 ## 🤔  someday との違いは？
 
 - **sometime**：未来や過去の「ある時点」をぼんやり指す。予定や提案で使われやすい。
-- **[someday](/word/someday/)**：未来の「いつか」を指し、より漠然とした将来の希望や夢に使う。
+- **[someday](/someday)**：未来の「いつか」を指し、より漠然とした将来の希望や夢に使う。
 
 **sometime**は「来週のどこか」など比較的近い時期や具体的な期間内の「ある時」に使い、**someday**は「いつか（将来）」という遠い未来のニュアンスで使い分けます。
 
@@ -101,14 +105,14 @@ TOEICでは会話や予定調整の場面で「sometime」が使われること�
 
 ## 🧩 あわせて覚えたい
 
-- [occasionally](/word/occasionally/)：ときどき、時折
-- [eventually](/word/eventually/)：最終的に、やがて
+- [occasionally](/occasionally)：ときどき、時折
+- [eventually](/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [sometimes](/word/sometimes/)：ときどき
-- [soon](/word/soon/)：まもなく、すぐに
+- [sometimes](/sometimes)：ときどき
+- [soon](/soon)：まもなく、すぐに
 
-<!-- cvid: aid30_bid07 -->
+<!-- cvid: aid06_bid40 -->

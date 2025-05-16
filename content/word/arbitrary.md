@@ -81,15 +81,19 @@ TOEICでは、契約や規則、手順の説明文などで「arbitrary decision
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid07_bid31" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid31" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約や規則、手順の説明文などで「arbitrary decision
 ## 🤔  random との違いは？
 
 - **arbitrary**：特に理由や基準がなく、個人の判断や気分で決められた
-- **[random](/word/random/)**：偶然や無作為で決まった、予測できない
+- **[random](/random)**：偶然や無作為で決まった、予測できない
 
 arbitraryは「人の意志や判断による気まぐれさ」、randomは「偶然や無作為で規則性がない」ことを表します。
 
@@ -105,14 +109,14 @@ arbitraryは「人の意志や判断による気まぐれさ」、randomは「�
 
 ## 🧩 あわせて覚えたい
 
-- [subjective](/word/subjective/)：主観的な
-- [systematic](/word/systematic/)：体系的な、組織的な
+- [subjective](/subjective)：主観的な
+- [systematic](/systematic)：体系的な、組織的な
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant/)：関連がある
-- [consistent](/word/consistent/)：一貫した
+- [relevant](/relevant)：関連がある
+- [consistent](/consistent)：一貫した
 
-<!-- cvid: aid24_bid10 -->
+<!-- cvid: aid07_bid31 -->

@@ -81,15 +81,19 @@ TOEICでは、説明文やメール文中で「精通」「慣れ」を表す語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、説明文やメール文中で「精通」「慣れ」を表す語
 ## 🤔  knowledge との違いは？
 
 - **familiarity**：実際に触れたり経験したことで得た「親しみ」や「慣れ」「精通」を表す。
-- **[knowledge](/word/knowledge/)**：学習や情報収集によって得た「知識」全般を指す。
+- **[knowledge](/knowledge)**：学習や情報収集によって得た「知識」全般を指す。
 
 familiarityは実体験や繰り返しによる「慣れ」に重点があり、knowledgeは知識そのものや理論的な理解を指します。
 
@@ -105,14 +109,14 @@ familiarityは実体験や繰り返しによる「慣れ」に重点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/word/expertise/)：専門知識、熟練
-- [awareness](/word/awareness/)：認識、気づき
+- [expertise](/expertise)：専門知識、熟練
+- [awareness](/awareness)：認識、気づき
 
 ---
 
 ## 📖 できればこれも
 
-- [acquaintance](/word/acquaintance/)：知人、面識
-- [understanding](/word/understanding/)：理解、把握
+- [acquaintance](/acquaintance)：知人、面識
+- [understanding](/understanding)：理解、把握
 
-<!-- cvid: aid19_bid12 -->
+<!-- cvid: aid02_bid29 -->

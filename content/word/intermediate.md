@@ -81,15 +81,19 @@ TOEICでは、レベルや段階を表す文脈で「intermediate」が選択肢
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、レベルや段階を表す文脈で「intermediate」が選択肢
 ## 🤔  moderate との違いは？
 
 - **intermediate**：初級と上級の「間」のレベルや段階を表す
-- **[moderate](/word/moderate/)**：程度や量が「ほどほど」「中くらい」であることを表す
+- **[moderate](/moderate)**：程度や量が「ほどほど」「中くらい」であることを表す
 
 「intermediate」は主にスキルやレベルの段階を指し、「moderate」は量や強さなどの程度を表す点が異なります。
 
@@ -105,14 +109,14 @@ TOEICでは、レベルや段階を表す文脈で「intermediate」が選択肢
 
 ## 🧩 あわせて覚えたい
 
-- [advanced](/word/advanced/)：上級の
-- [elementary](/word/elementary/)：初級の
+- [advanced](/advanced)：上級の
+- [elementary](/elementary)：初級の
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/word/average/)：平均的な
-- [basic](/word/basic/)：基礎的な
+- [average](/average)：平均的な
+- [basic](/basic)：基礎的な
 
-<!-- cvid: aid29_bid18 -->
+<!-- cvid: aid03_bid35 -->

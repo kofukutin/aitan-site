@@ -81,15 +81,19 @@ TOEICではPart 1やPart 2など、数や順番を問う場面で頻出します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid17_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1やPart 2など、数や順番を問う場面で頻出します
 ## 🤔  couple との違いは？
 
 - **two**：正確に「2つ」「2人」を表す数字
-- **[couple](/word/couple/)**：おおよそ2つ、2人、または「カップル（恋人同士）」の意味もある
+- **[couple](/couple)**：おおよそ2つ、2人、または「カップル（恋人同士）」の意味もある
 
 「two」は数量が正確ですが、「couple」は「2つ」または「2人」を指すこともありますが、時に「2～3」など曖昧な場合や、恋人同士を指す場合もあります。
 
@@ -105,14 +109,14 @@ TOEICではPart 1やPart 2など、数や順番を問う場面で頻出します
 
 ## 🧩 あわせて覚えたい
 
-- [second](/word/second/)：2番目、秒
-- [pair](/word/pair/)：一組、ペア
+- [second](/second)：2番目、秒
+- [pair](/pair)：一組、ペア
 
 ---
 
 ## 📖 できればこれも
 
-- [three](/word/three/)：3、3つ
-- [first](/word/first/)：1番目、最初
+- [three](/three)：3、3つ
+- [first](/first)：1番目、最初
 
-<!-- cvid: aid42_bid15 -->
+<!-- cvid: aid17_bid03 -->

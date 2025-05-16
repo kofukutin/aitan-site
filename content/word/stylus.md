@@ -81,15 +81,19 @@ IT機器やデジタルツールに関する説明文やマニュアルで登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT機器やデジタルツールに関する説明文やマニュアルで登場
 ## 🤔  pen との違いは？
 
 - **stylus**：タブレットやデジタル画面用のペン型入力装置
-- **[pen](/word/pen/)**：紙などにインクで書く一般的なペン
+- **[pen](/pen)**：紙などにインクで書く一般的なペン
 
 stylusはデジタル機器専用、penは紙などアナログな媒体に使う点が大きな違いです。
 
@@ -105,14 +109,14 @@ stylusはデジタル機器専用、penは紙などアナログな媒体に使�
 
 ## 🧩 あわせて覚えたい
 
-- [pointer](/word/pointer/)：ポインター、指示棒やマウスカーソル
-- [tablet](/word/tablet/)：タブレット端末
+- [pointer](/pointer)：ポインター、指示棒やマウスカーソル
+- [tablet](/tablet)：タブレット端末
 
 ---
 
 ## 📖 できればこれも
 
-- [cursor](/word/cursor/)：カーソル、画面上の入力位置を示す記号
-- [device](/word/device/)：デバイス、機器や装置
+- [cursor](/cursor)：カーソル、画面上の入力位置を示す記号
+- [device](/device)：デバイス、機器や装置
 
-<!-- cvid: aid08_bid03 -->
+<!-- cvid: aid27_bid02 -->

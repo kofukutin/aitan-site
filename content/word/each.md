@@ -77,15 +77,19 @@ TOEICでは、代名詞や限定詞の使い分けを問う文法問題でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、代名詞や限定詞の使い分けを問う文法問題でよく
 ## 🤔  every との違いは？
 
 - **each**：個々を1つずつ強調し、2つ以上のものや人を個別に指す
-- **[every](/word/every/)**：3つ以上のものや人を全体としてまとめて指す
+- **[every](/every)**：3つ以上のものや人を全体としてまとめて指す
 
 eachは「それぞれ個別に」、everyは「全体をひとまとめに」見るニュアンスの違いがあります。
 
@@ -101,14 +105,14 @@ eachは「それぞれ個別に」、everyは「全体をひとまとめに」�
 
 ## 🧩 あわせて覚えたい
 
-- [either](/word/either/)：どちらか一方（2つのうち）
-- [neither](/word/neither/)：どちらも～ない（2つのうち）
+- [either](/either)：どちらか一方（2つのうち）
+- [neither](/neither)：どちらも～ない（2つのうち）
 
 ---
 
 ## 📖 できればこれも
 
-- [another](/word/another/)：もう一つの、別の
-- [both](/word/both/)：両方（2つとも）
+- [another](/another)：もう一つの、別の
+- [both](/both)：両方（2つとも）
 
-<!-- cvid: aid47_bid19 -->
+<!-- cvid: aid48_bid20 -->

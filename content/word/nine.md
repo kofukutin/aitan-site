@@ -81,15 +81,19 @@ TOEICでは、時刻や数量を表す場面でPart 1やリスニングでよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid43_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、時刻や数量を表す場面でPart 1やリスニングでよく
 ## 🤔  ninth との違いは？
 
 - **nine**：9、九（数量を表す）
-- **[ninth](/word/ninth/)**：9番目（順序を表す）
+- **[ninth](/ninth)**：9番目（順序を表す）
 
 「nine」は単に数の「9」を表し、「ninth」は順番の「9番目」を表します。使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ TOEICでは、時刻や数量を表す場面でPart 1やリスニングでよく
 
 ## 🧩 あわせて覚えたい
 
-- [ten](/word/ten/)：10、十
-- [eight](/word/eight/)：8、八
+- [ten](/ten)：10、十
+- [eight](/eight)：8、八
 
 ---
 
 ## 📖 できればこれも
 
-- [seven](/word/seven/)：7、七
-- [twelve](/word/twelve/)：12、十二
+- [seven](/seven)：7、七
+- [twelve](/twelve)：12、十二
 
-<!-- cvid: aid38_bid09 -->
+<!-- cvid: aid43_bid31 -->

@@ -88,8 +88,12 @@ TOEICでは、ビジネス文書や記事で「主要な商品」「必需品」
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid05_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や記事で「主要な商品」「必需品」
 ## 🤔  staple food との違いは？
 
 - **staple**：主食や主要な商品、必需品など幅広く使える
-- **[staple food](/word/staple_food/)**：特に「主食」を明確に指す表現
+- **[staple food](/staple_food)**：特に「主食」を明確に指す表現
 
 「staple」は食品以外にも使えますが、「staple food」は食べ物の主食に限定されます。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や記事で「主要な商品」「必需品」
 
 ## 🧩 あわせて覚えたい
 
-- [commodity](/word/commodity/)：商品、日用品
-- [necessity](/word/necessity/)：必需品、必要なもの
+- [commodity](/commodity)：商品、日用品
+- [necessity](/necessity)：必需品、必要なもの
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply/)：供給、供給する
-- [stock](/word/stock/)：在庫、蓄える
+- [supply](/supply)：供給、供給する
+- [stock](/stock)：在庫、蓄える
 
-<!-- cvid: aid05_bid11 -->
+<!-- cvid: aid05_bid37 -->

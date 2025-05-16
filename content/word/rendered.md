@@ -88,8 +88,12 @@ TOEICでは、サービスやサポートが「提供された」「実施され
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、サービスやサポートが「提供された」「実施され
 ## 🤔  provided との違いは？
 
 - **rendered**：与える・表現する・描写する（特にサービスや情報、画像などを形にして提供するニュアンス）
-- **[provided](/word/provided/)**：単に「提供する」「与える」（物やサービスを供給する一般的な表現）
+- **[provided](/provided)**：単に「提供する」「与える」（物やサービスを供給する一般的な表現）
 
 renderedは「形にして与える」「表現する」ニュアンスが強く、providedは「単に供給する」意味で使われます。
 
@@ -105,14 +109,14 @@ renderedは「形にして与える」「表現する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [depict](/word/depict/)：描写する、描く
+- [deliver](/deliver)：配達する、届ける
+- [depict](/depict)：描写する、描く
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/word/generate/)：生み出す、発生させる
-- [supply](/word/supply/)：供給する、提供する
+- [generate](/generate)：生み出す、発生させる
+- [supply](/supply)：供給する、提供する
 
-<!-- cvid: aid47_bid39 -->
+<!-- cvid: aid47_bid22 -->

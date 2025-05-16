@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【fifteen】の意味・使い方・例文 ― fifteenとfiftyとの違い【TOEIC英単語】"
 description: "fifteenの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfiftyとの違いもわかりやすく学べます。"
 word: "fifteen"
@@ -81,15 +81,19 @@ TOEICでは主に数字や時間、数量を問う問題で登場します。リ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-脳が動いているうちに👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に数字や時間、数量を問う問題で登場します。リ
 ## 🤔  fifty との違いは？
 
 - **fifteen**：15（じゅうご）を表す数字
-- **[fifty](/word/fifty/)**：50（ごじゅう）を表す数字
+- **[fifty](/fifty)**：50（ごじゅう）を表す数字
 
 「fifteen」は15、「fifty」は50を表し、発音やスペルも似ていますが、意味は大きく異なります。
 
@@ -105,14 +109,14 @@ TOEICでは主に数字や時間、数量を問う問題で登場します。リ
 
 ## 🧩 あわせて覚えたい
 
-- [thirteen](/word/thirteen/)：13
-- [twenty](/word/twenty/)：20
+- [thirteen](/thirteen)：13
+- [twenty](/twenty)：20
 
 ---
 
 ## 📖 できればこれも
 
-- [fourteen](/word/fourteen/)：14
-- [sixteen](/word/sixteen/)：16
+- [fourteen](/fourteen)：14
+- [sixteen](/sixteen)：16
 
-<!-- cvid: aid42_bid14 -->
+<!-- cvid: aid34_bid35 -->

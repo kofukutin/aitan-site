@@ -81,15 +81,19 @@ TOEICでは、職業や役割、またはスケジュール帳の意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業や役割、またはスケジュール帳の意味で出題
 ## 🤔  organizer との違いは？
 
 - **planner**：計画を立てる人、または予定を書き込む手帳
-- **[organizer](/word/organizer/)**：イベントや物事をまとめて実行する人、または整理用の道具
+- **[organizer](/organizer)**：イベントや物事をまとめて実行する人、または整理用の道具
 
 plannerは「計画を立てる」ことに重点があり、organizerは「まとめて実行・整理する」ことに重点があります。
 
@@ -105,14 +109,14 @@ plannerは「計画を立てる」ことに重点があり、organizerは「ま�
 
 ## 🧩 あわせて覚えたい
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [agenda](/word/agenda/)：議題、議事日程
+- [schedule](/schedule)：予定、スケジュール
+- [agenda](/agenda)：議題、議事日程
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project/)：プロジェクト、計画
-- [manager](/word/manager/)：管理者、マネージャー
+- [project](/project)：プロジェクト、計画
+- [manager](/manager)：管理者、マネージャー
 
-<!-- cvid: aid01_bid30 -->
+<!-- cvid: aid36_bid00 -->

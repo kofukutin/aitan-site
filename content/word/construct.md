@@ -81,15 +81,19 @@ TOEICでは主にビジネスや建設、計画に関する文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや建設、計画に関する文脈で出題され
 ## 🤔  build との違いは？
 
 - **construct**：計画的・組織的に建設・構築する（フォーマル）
-- **[build](/word/build/)**：一般的に「作る」「建てる」。日常的で幅広い意味
+- **[build](/build)**：一般的に「作る」「建てる」。日常的で幅広い意味
 
 constructは特に大規模・計画的な建設や抽象的な構築に使われ、buildはもっと広く日常的な「作る」に使われます。
 
@@ -105,14 +109,14 @@ constructは特に大規模・計画的な建設や抽象的な構築に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：組み立てる
-- [demolish](/word/demolish/)：取り壊す
+- [assemble](/assemble)：組み立てる
+- [demolish](/demolish)：取り壊す
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish/)：設立する、確立する
-- [design](/word/design/)：設計する
+- [establish](/establish)：設立する、確立する
+- [design](/design)：設計する
 
-<!-- cvid: aid45_bid29 -->
+<!-- cvid: aid24_bid47 -->

@@ -82,15 +82,19 @@ TOEICでは、環境問題や社会的な話題、企業理念などの長文で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、環境問題や社会的な話題、企業理念などの長文で
 ## 🤔  mankind との違いは？
 
 - **humanity**：人類全体や人間性・思いやりを表すフォーマルな語
-- **[mankind](/word/mankind/)**：人類全体を指すやや古風な語
+- **[mankind](/mankind)**：人類全体を指すやや古風な語
 
 humanityは「人間性」や「思いやり」の意味も持ち、より抽象的・フォーマルな場面で使われます。mankindは「人類」という意味に特化し、やや古風な響きがあります。
 
@@ -106,14 +110,14 @@ humanityは「人間性」や「思いやり」の意味も持ち、より抽象
 
 ## 🧩 あわせて覚えたい
 
-- [compassion](/word/compassion/)：思いやり、同情
-- [civilization](/word/civilization/)：文明
+- [compassion](/compassion)：思いやり、同情
+- [civilization](/civilization)：文明
 
 ---
 
 ## 📖 できればこれも
 
-- [society](/word/society/)：社会
-- [culture](/word/culture/)：文化
+- [society](/society)：社会
+- [culture](/culture)：文化
 
-<!-- cvid: aid21_bid04 -->
+<!-- cvid: aid29_bid41 -->

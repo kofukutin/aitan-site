@@ -81,15 +81,19 @@ aidはTOEICの長文読解パートで、支援や援助に関する文脈でよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ aidはTOEICの長文読解パートで、支援や援助に関する文脈でよ
 ## 🤔  assist との違いは？
 
 - **aid**：経済的・物質的な「援助」「支援」をフォーマルに表す。
-- **[assist](/word/assist/)**：手伝う・補助するなど、より広い意味で「助ける」を表す。
+- **[assist](/assist)**：手伝う・補助するなど、より広い意味で「助ける」を表す。
 
 aidは「支援物資」や「資金援助」など具体的な援助に使われ、assistは「作業を手伝う」など行動的な助けに使われます。
 
@@ -105,14 +109,14 @@ aidは「支援物資」や「資金援助」など具体的な援助に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支える、支援する
-- [relief](/word/relief/)：救済、安心
+- [support](/support)：支える、支援する
+- [relief](/relief)：救済、安心
 
 ---
 
 ## 📖 できればこれも
 
-- [grant](/word/grant/)：助成金、与える
-- [fund](/word/fund/)：資金、基金
+- [grant](/grant)：助成金、与える
+- [fund](/fund)：資金、基金
 
-<!-- cvid: aid20_bid15 -->
+<!-- cvid: aid43_bid49 -->

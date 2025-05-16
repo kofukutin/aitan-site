@@ -81,15 +81,19 @@ TOEICでは求人広告やビジネスメール、契約書などで「prospecti
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid03_bid46" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid46" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告やビジネスメール、契約書などで「prospecti
 ## 🤔  potential との違いは？
 
 - **prospective**：将来そうなる可能性が高い、見込みのある（例：prospective customer＝見込み客）
-- **[potential](/word/potential/)**：潜在的な、可能性のある（例：potential customer＝潜在顧客）
+- **[potential](/potential)**：潜在的な、可能性のある（例：potential customer＝潜在顧客）
 
 「prospective」は「すでに候補に挙がっている」「近い将来そうなる見込みがある」場合に使い、「potential」は「まだ表面化していない可能性」を指します。
 
@@ -105,14 +109,14 @@ TOEICでは求人広告やビジネスメール、契約書などで「prospecti
 
 ## 🧩 あわせて覚えたい
 
-- [candidate](/word/candidate/)：候補者
-- [future](/word/future/)：将来
+- [candidate](/candidate)：候補者
+- [future](/future)：将来
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible/)：資格のある
-- [applicant](/word/applicant/)：応募者
+- [eligible](/eligible)：資格のある
+- [applicant](/applicant)：応募者
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid03_bid46 -->

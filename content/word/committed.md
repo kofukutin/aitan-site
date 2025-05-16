@@ -81,15 +81,19 @@ TOEICでは、形容詞として「committed to ～」の形で頻出します�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「committed to ～」の形で頻出します�
 ## 🤔  dedicated との違いは？
 
 - **committed**：強い責任感や信念を持って何かに取り組む様子を表す
-- **[dedicated](/word/dedicated/)**：特定の目的や対象に熱心に打ち込む様子を表す
+- **[dedicated](/dedicated)**：特定の目的や対象に熱心に打ち込む様子を表す
 
 committedは「責任感」や「約束」を強調し、dedicatedは「熱意」や「情熱」を強調する点が異なります。
 
@@ -105,14 +109,14 @@ committedは「責任感」や「約束」を強調し、dedicatedは「熱意�
 
 ## 🧩 あわせて覚えたい
 
-- [devoted](/word/devoted/)：献身的な、熱心な
-- [indifferent](/word/indifferent/)：無関心な
+- [devoted](/devoted)：献身的な、熱心な
+- [indifferent](/indifferent)：無関心な
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible/)：責任感のある
-- [efficient](/word/efficient/)：効率的な
+- [responsible](/responsible)：責任感のある
+- [efficient](/efficient)：効率的な
 
-<!-- cvid: aid39_bid19 -->
+<!-- cvid: aid32_bid25 -->

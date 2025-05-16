@@ -81,15 +81,19 @@ TOEICでは、受動態や助言・推奨を表す表現としてPart 5でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、受動態や助言・推奨を表す表現としてPart 5でよく
 ## 🤔  recommended との違いは？
 
 - **advised**：誰かの助言や勧告に基づいて「推奨される」「勧められる」という意味。ややフォーマル。
-- **[recommended](/word/recommended/)**：一般的に「おすすめされる」「推奨される」という意味で、カジュアルにも使える。
+- **[recommended](/recommended)**：一般的に「おすすめされる」「推奨される」という意味で、カジュアルにも使える。
 
 「advised」は専門家や上司など権威ある人からの助言に基づくニュアンスが強く、「recommended」は広く一般的な推奨に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、受動態や助言・推奨を表す表現としてPart 5でよく
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory/)：義務的な、強制の
-- [optional](/word/optional/)：任意の、選択できる
+- [mandatory](/mandatory)：義務的な、強制の
+- [optional](/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [advisable](/word/advisable/)：望ましい、賢明な
-- [suggested](/word/suggested/)：提案された、示唆された
+- [advisable](/advisable)：望ましい、賢明な
+- [suggested](/suggested)：提案された、示唆された
 
-<!-- cvid: aid33_bid37 -->
+<!-- cvid: aid03_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは「残高」「均衡」「バランスを取る」などの意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「残高」「均衡」「バランスを取る」などの意味で
 ## 🤔  equilibrium との違いは？
 
 - **balance**：日常的な「バランス」や「残高」など幅広い場面で使う
-- **[equilibrium](/word/equilibrium/)**：科学的・専門的な「均衡」「平衡」を表す
+- **[equilibrium](/equilibrium)**：科学的・専門的な「均衡」「平衡」を表す
 
 balanceは日常やビジネスでの調和や金銭の残高など幅広く使い、equilibriumは物理・化学や経済など専門分野での「安定した均衡」に使います。
 
@@ -105,14 +109,14 @@ balanceは日常やビジネスでの調和や金銭の残高など幅広く使�
 
 ## 🧩 あわせて覚えたい
 
-- [offset](/word/offset/)：相殺するもの、埋め合わせ
-- [imbalance](/word/imbalance/)：不均衡、バランスの欠如
+- [offset](/offset)：相殺するもの、埋め合わせ
+- [imbalance](/imbalance)：不均衡、バランスの欠如
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget/)：予算
-- [account](/word/account/)：口座、勘定
+- [budget](/budget)：予算
+- [account](/account)：口座、勘定
 
-<!-- cvid: aid34_bid07 -->
+<!-- cvid: aid36_bid03 -->

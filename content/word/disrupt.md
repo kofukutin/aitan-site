@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書やメール、ニュース記事などで「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid30_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書やメール、ニュース記事などで「
 ## 🤔  disturb との違いは？
 
 - **disrupt**：流れや秩序を大きく壊す、業務やシステムなどを一時的に止める
-- **[disturb](/word/disturb/)**：人や状況を軽く邪魔する、気を散らす
+- **[disturb](/disturb)**：人や状況を軽く邪魔する、気を散らす
 
 disruptは「大きな混乱や中断」を強調し、disturbは「軽い妨害や気を散らす」程度のニュアンスです。
 
@@ -105,14 +109,14 @@ disruptは「大きな混乱や中断」を強調し、disturbは「軽い妨害
 
 ## 🧩 あわせて覚えたい
 
-- [interrupt](/word/interrupt/)：（会話や作業などを）さえぎる
-- [resume](/word/resume/)：再開する
+- [interrupt](/interrupt)：（会話や作業などを）さえぎる
+- [resume](/resume)：再開する
 
 ---
 
 ## 📖 できればこれも
 
-- [postpone](/word/postpone/)：延期する
-- [cancel](/word/cancel/)：中止する
+- [postpone](/postpone)：延期する
+- [cancel](/cancel)：中止する
 
-<!-- cvid: aid35_bid37 -->
+<!-- cvid: aid30_bid14 -->

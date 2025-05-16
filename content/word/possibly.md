@@ -78,15 +78,19 @@ TOEICでは会話や依頼表現、推量の場面でよく登場します。丁
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは会話や依頼表現、推量の場面でよく登場します。丁
 ## 🤔  perhaps との違いは？
 
 - **possibly**：可能性があることをやや控えめ・丁寧に述べるときに使う
-- **[perhaps](/word/perhaps/)**：ややフォーマルで、単に「たぶん」「もしかすると」と推量を表す
+- **[perhaps](/perhaps)**：ややフォーマルで、単に「たぶん」「もしかすると」と推量を表す
 
 possiblyは依頼や丁寧な推量に、perhapsは単なる推量や意見表明に使われることが多いです。
 
@@ -102,14 +106,14 @@ possiblyは依頼や丁寧な推量に、perhapsは単なる推量や意見表�
 
 ## 🧩 あわせて覚えたい
 
-- [probably](/word/probably/)：おそらく（可能性が高い場合）
-- [certainly](/word/certainly/)：確かに、きっと（確信がある場合）
+- [probably](/probably)：おそらく（可能性が高い場合）
+- [certainly](/certainly)：確かに、きっと（確信がある場合）
 
 ---
 
 ## 📖 できればこれも
 
-- [maybe](/word/maybe/)：たぶん、もしかすると
-- [likely](/word/likely/)：～しそうだ、ありそうだ
+- [maybe](/maybe)：たぶん、もしかすると
+- [likely](/likely)：～しそうだ、ありそうだ
 
-<!-- cvid: aid38_bid33 -->
+<!-- cvid: aid01_bid40 -->

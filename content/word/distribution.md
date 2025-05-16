@@ -88,8 +88,12 @@ TOEICでは主にビジネス文書や案内文、メールなどで「流通」
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid18" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid18" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や案内文、メールなどで「流通」
 ## 🤔  allocation との違いは？
 
 - **distribution**：物や情報を広く分けて届けること、流通や配布の全体的な動きに重点。
-- **[allocation](/word/allocation/)**：資源や予算などを特定の目的や場所に割り当てること。
+- **[allocation](/allocation)**：資源や予算などを特定の目的や場所に割り当てること。
 
 distributionは「広く行き渡らせる」ニュアンスがあり、allocationは「割り当てる」「配分する」など、より計画的・限定的な分配を指します。
 
@@ -105,14 +109,14 @@ distributionは「広く行き渡らせる」ニュアンスがあり、allocati
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery/)：配達、配送
-- [supply](/word/supply/)：供給、支給
+- [delivery](/delivery)：配達、配送
+- [supply](/supply)：供給、支給
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment/)：発送、出荷
-- [circulation](/word/circulation/)：流通、循環
+- [shipment](/shipment)：発送、出荷
+- [circulation](/circulation)：流通、循環
 
-<!-- cvid: aid10_bid13 -->
+<!-- cvid: aid10_bid18 -->

@@ -81,15 +81,19 @@ TOEICでは「特定の」「こだわりのある」という意味で、選択
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「特定の」「こだわりのある」という意味で、選択
 ## 🤔  specific との違いは？
 
 - **particular**：全体の中から「特定のもの」「細かく区別されたもの」を強調する
-- **[specific](/word/specific/)**：明確に限定された「具体的なもの」を指す
+- **[specific](/specific)**：明確に限定された「具体的なもの」を指す
 
 particularは「他と区別される特別なもの」に焦点があり、specificは「はっきり限定されたもの」に使います。
 
@@ -105,14 +109,14 @@ particularは「他と区別される特別なもの」に焦点があり、spec
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general/)：一般的な、全体的な
-- [detail](/word/detail/)：詳細、細部
+- [general](/general)：一般的な、全体的な
+- [detail](/detail)：詳細、細部
 
 ---
 
 ## 📖 できればこれも
 
-- [certain](/word/certain/)：ある特定の、確かな
-- [individual](/word/individual/)：個々の、個人の
+- [certain](/certain)：ある特定の、確かな
+- [individual](/individual)：個々の、個人の
 
-<!-- cvid: aid00_bid31 -->
+<!-- cvid: aid49_bid22 -->

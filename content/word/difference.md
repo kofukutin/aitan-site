@@ -81,15 +81,19 @@ TOEICでは、differenceは選択肢や文中で「違い」「差異」を問�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、differenceは選択肢や文中で「違い」「差異」を問�
 ## 🤔  distinction との違いは？
 
 - **difference**：一般的な「違い」「差異」を幅広く表す
-- **[distinction](/word/distinction/)**：明確な区別や識別、特別な違いを強調
+- **[distinction](/distinction)**：明確な区別や識別、特別な違いを強調
 
 differenceは単純な違いを指し、distinctionは「はっきりと区別できる違い」や「特別な特徴」を強調する場面で使われます。
 
@@ -105,14 +109,14 @@ differenceは単純な違いを指し、distinctionは「はっきりと区別�
 
 ## 🧩 あわせて覚えたい
 
-- [similarity](/word/similarity/)：類似点、似ていること
-- [variation](/word/variation/)：変化、バリエーション
+- [similarity](/similarity)：類似点、似ていること
+- [variation](/variation)：変化、バリエーション
 
 ---
 
 ## 📖 できればこれも
 
-- [variety](/word/variety/)：多様性、種類
-- [contrast](/word/contrast/)：対比、対照
+- [variety](/variety)：多様性、種類
+- [contrast](/contrast)：対比、対照
 
-<!-- cvid: aid26_bid25 -->
+<!-- cvid: aid05_bid03 -->

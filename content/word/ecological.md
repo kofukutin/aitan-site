@@ -81,15 +81,19 @@ TOEICでは環境問題やサステナビリティに関する記事や広告文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid49_bid48" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid48" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題やサステナビリティに関する記事や広告文
 ## 🤔  environmental との違いは？
 
 - **ecological**：生態系や生物同士の関係、自然環境全体に焦点を当てる
-- **[environmental](/word/environmental/)**：環境全般や人間活動による影響に幅広く使う
+- **[environmental](/environmental)**：環境全般や人間活動による影響に幅広く使う
 
 「ecological」は生態系や自然のバランスに特に注目する時に使い、「environmental」はより広く「環境」に関する話題全般に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは環境問題やサステナビリティに関する記事や広告文
 
 ## 🧩 あわせて覚えたい
 
-- [sustainable](/word/sustainable/)：持続可能な
-- [biological](/word/biological/)：生物学的な
+- [sustainable](/sustainable)：持続可能な
+- [biological](/biological)：生物学的な
 
 ---
 
 ## 📖 できればこれも
 
-- [ecosystem](/word/ecosystem/)：生態系
-- [conservation](/word/conservation/)：保護、保存
+- [ecosystem](/ecosystem)：生態系
+- [conservation](/conservation)：保護、保存
 
-<!-- cvid: aid09_bid22 -->
+<!-- cvid: aid49_bid48 -->

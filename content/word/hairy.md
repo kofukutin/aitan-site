@@ -81,15 +81,19 @@ TOEICではあまり頻出ではありませんが、形容詞の語彙問題や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではあまり頻出ではありませんが、形容詞の語彙問題や
 ## 🤔  fuzzy との違いは？
 
 - **hairy**：毛が多くて長い、または毛深い様子。時に「危険な」という意味も持つ。
-- **[fuzzy](/word/fuzzy/)**：ふわふわした、ぼやけた、柔らかい毛や輪郭がはっきりしない様子。
+- **[fuzzy](/fuzzy)**：ふわふわした、ぼやけた、柔らかい毛や輪郭がはっきりしない様子。
 
 hairyは「毛が多い」ことに焦点があり、fuzzyは「柔らかくてふわふわした」質感や「ぼやけた」状態を表します。
 
@@ -105,14 +109,14 @@ hairyは「毛が多い」ことに焦点があり、fuzzyは「柔らかくて�
 
 ## 🧩 あわせて覚えたい
 
-- [bald](/word/bald/)：はげた、毛のない
-- [shaggy](/word/shaggy/)：（毛や髪が）ぼさぼさの、もじゃもじゃの
+- [bald](/bald)：はげた、毛のない
+- [shaggy](/shaggy)：（毛や髪が）ぼさぼさの、もじゃもじゃの
 
 ---
 
 ## 📖 できればこれも
 
-- [smooth](/word/smooth/)：なめらかな
-- [rough](/word/rough/)：ざらざらした、荒い
+- [smooth](/smooth)：なめらかな
+- [rough](/rough)：ざらざらした、荒い
 
-<!-- cvid: aid20_bid26 -->
+<!-- cvid: aid08_bid28 -->

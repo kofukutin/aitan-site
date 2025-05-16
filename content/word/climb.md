@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、人がはしごや階段を「登る
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、人がはしごや階段を「登る
 ## 🤔  ascend との違いは？
 
 - **climb**：手や足を使って物理的に登る、または比喩的に上昇する
-- **[ascend](/word/ascend/)**：フォーマルで「上昇する」「登る」、特にゆっくり・段階的な上昇
+- **[ascend](/ascend)**：フォーマルで「上昇する」「登る」、特にゆっくり・段階的な上昇
 
 「climb」は日常的でカジュアルな表現、身体的な動作や比喩的な上昇に使います。「ascend」はフォーマルで、儀式や科学的な文脈などで使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で、人がはしごや階段を「登る
 
 ## 🧩 あわせて覚えたい
 
-- [descend](/word/descend/)：降りる、下る
-- [rise](/word/rise/)：上がる、昇る（自動詞）
+- [descend](/descend)：降りる、下る
+- [rise](/rise)：上がる、昇る（自動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [jump](/word/jump/)：跳ぶ、ジャンプする
-- [walk](/word/walk/)：歩く
+- [jump](/jump)：跳ぶ、ジャンプする
+- [walk](/walk)：歩く
 
-<!-- cvid: aid17_bid09 -->
+<!-- cvid: aid10_bid37 -->

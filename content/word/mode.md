@@ -81,15 +81,19 @@ TOEICではIT関連や機械の説明文、マニュアルなどで「mode」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid23_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連や機械の説明文、マニュアルなどで「mode」が
 ## 🤔  method との違いは？
 
 - **mode**：特定の状態や機能、様式を指す。機械やIT、設定などで使われやすい。
-- **[method](/word/method/)**：物事を達成するための「方法」や「手順」を指す。
+- **[method](/method)**：物事を達成するための「方法」や「手順」を指す。
 
 「mode」は「状態」や「機能の切り替え」に焦点があり、「method」は「やり方」や「手順」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICではIT関連や機械の説明文、マニュアルなどで「mode」が
 
 ## 🧩 あわせて覚えたい
 
-- [style](/word/style/)：スタイル、やり方
-- [form](/word/form/)：形、形式
+- [style](/style)：スタイル、やり方
+- [form](/form)：形、形式
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system/)：システム、体系
-- [option](/word/option/)：選択肢、オプション
+- [system](/system)：システム、体系
+- [option](/option)：選択肢、オプション
 
-<!-- cvid: aid34_bid34 -->
+<!-- cvid: aid23_bid33 -->

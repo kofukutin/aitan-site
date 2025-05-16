@@ -81,15 +81,19 @@ TOEICでは科学や技術系の長文、図表説明などでphiが登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid33" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid33" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学や技術系の長文、図表説明などでphiが登場する
 ## 🤔  pi との違いは？
 
 - **phi**：主に黄金比や角度を表すギリシャ文字（φ）
-- **[pi](/word/pi/)**：円周率（π、約3.14）を表すギリシャ文字
+- **[pi](/pi)**：円周率（π、約3.14）を表すギリシャ文字
 
 phiは黄金比や角度、piは円周率と、使われる数学的な意味や場面が異なります。
 
@@ -105,14 +109,14 @@ phiは黄金比や角度、piは円周率と、使われる数学的な意味や
 
 ## 🧩 あわせて覚えたい
 
-- [theta](/word/theta/)：ギリシャ文字「θ」、角度などを表す
-- [golden_ratio](/word/golden_ratio/)：黄金比（約1.618）
+- [theta](/theta)：ギリシャ文字「θ」、角度などを表す
+- [golden_ratio](/golden_ratio)：黄金比（約1.618）
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/word/formula/)：式、公式
-- [variable](/word/variable/)：変数
+- [formula](/formula)：式、公式
+- [variable](/variable)：変数
 
-<!-- cvid: aid02_bid45 -->
+<!-- cvid: aid39_bid33 -->

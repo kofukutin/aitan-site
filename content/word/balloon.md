@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【balloon】の意味・使い方・例文 ― bubbleとの違い【TOEIC英単語】"
 description: "balloonの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでbubbleとの違いもわかりやすく学べます。"
 word: "balloon"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、パーティーやイベント、観
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid38_bid24" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid24" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、パーティーやイベント、観
 ## 🤔  bubble との違いは？
 
 - **balloon**：空気やガスを入れて膨らませる「風船」や「気球」など、形が保たれるもの。
-- **[bubble](/word/bubble/)**：水や液体の中にできる「泡」や、壊れやすい小さな球体。
+- **[bubble](/bubble)**：水や液体の中にできる「泡」や、壊れやすい小さな球体。
 
 balloonは形がしっかりしていて手で持てる風船、bubbleは水や石けんでできる壊れやすい泡を指します。
 
@@ -105,14 +109,14 @@ balloonは形がしっかりしていて手で持てる風船、bubbleは水や�
 
 ## 🧩 あわせて覚えたい
 
-- [airship](/word/airship/)：飛行船
-- [parade](/word/parade/)：パレード
+- [airship](/airship)：飛行船
+- [parade](/parade)：パレード
 
 ---
 
 ## 📖 できればこれも
 
-- [float](/word/float/)：浮かぶ
-- [inflate](/word/inflate/)：膨らませる
+- [float](/float)：浮かぶ
+- [inflate](/inflate)：膨らませる
 
-<!-- cvid: aid15_bid43 -->
+<!-- cvid: aid38_bid24 -->

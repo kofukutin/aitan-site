@@ -81,15 +81,19 @@ ITやビジネス文書、メールアドレスの説明などで「alias」が�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid11_bid11" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid11" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス文書、メールアドレスの説明などで「alias」が�
 ## 🤔  pseudonym との違いは？
 
 - **alias**：本名以外の「別名」や「偽名」。一時的・実用的な用途で使われることが多い。
-- **[pseudonym](/word/pseudonym/)**：特に作家や芸術家が使う「ペンネーム」や「芸名」。
+- **[pseudonym](/pseudonym)**：特に作家や芸術家が使う「ペンネーム」や「芸名」。
 
 「alias」は実用的な場面やIT分野での別名に幅広く使われ、「pseudonym」は主に創作活動などでの芸名やペンネームに限定されます。
 
@@ -105,14 +109,14 @@ ITやビジネス文書、メールアドレスの説明などで「alias」が�
 
 ## 🧩 あわせて覚えたい
 
-- [nickname](/word/nickname/)：あだ名、愛称
-- [identity](/word/identity/)：身元、正体
+- [nickname](/nickname)：あだ名、愛称
+- [identity](/identity)：身元、正体
 
 ---
 
 ## 📖 できればこれも
 
-- [profile](/word/profile/)：プロフィール、人物紹介
-- [signature](/word/signature/)：署名
+- [profile](/profile)：プロフィール、人物紹介
+- [signature](/signature)：署名
 
-<!-- cvid: aid06_bid44 -->
+<!-- cvid: aid11_bid11 -->

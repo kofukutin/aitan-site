@@ -81,15 +81,19 @@ TOEICでは主にPart 5で「～したい」「～が欲しい」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5で「～したい」「～が欲しい」という意味
 ## 🤔  imagine との違いは？
 
 - **fancy**：欲しい・したいという気持ちや、軽い空想・想像を表すカジュアルな動詞
-- **[imagine](/word/imagine/)**：頭の中でしっかりとイメージする、想像するという意味でややフォーマル
+- **[imagine](/imagine)**：頭の中でしっかりとイメージする、想像するという意味でややフォーマル
 
 fancyは「～したい」「～が欲しい」といった気軽な気持ちや、軽い空想に使われ、imagineは現実にはないことを頭の中で思い描くときに使います。
 
@@ -105,14 +109,14 @@ fancyは「～したい」「～が欲しい」といった気軽な気持ちや
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire/)：強く望む、欲求
-- [prefer](/word/prefer/)：より好む
+- [desire](/desire)：強く望む、欲求
+- [prefer](/prefer)：より好む
 
 ---
 
 ## 📖 できればこれも
 
-- [suppose](/word/suppose/)：思う、仮定する
-- [wish](/word/wish/)：願う、望む
+- [suppose](/suppose)：思う、仮定する
+- [wish](/wish)：願う、望む
 
-<!-- cvid: aid06_bid39 -->
+<!-- cvid: aid44_bid43 -->

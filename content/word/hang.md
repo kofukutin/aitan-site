@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「物が掛かっている」「人が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid00" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid00" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「物が掛かっている」「人が
 ## 🤔  suspend との違いは？
 
 - **hang**：物を自然にぶら下げたり、壁などに掛ける一般的な表現
-- **[suspend](/word/suspend/)**：ややフォーマルで「一時的に吊るす」「中断する」の意味もある
+- **[suspend](/suspend)**：ややフォーマルで「一時的に吊るす」「中断する」の意味もある
 
 hangは日常的な「掛ける・ぶら下げる」に使い、suspendは公式文書や技術的な場面で「吊るす」や「一時停止」の意味で使われます。
 
@@ -105,14 +109,14 @@ hangは日常的な「掛ける・ぶら下げる」に使い、suspendは公式
 
 ## 🧩 あわせて覚えたい
 
-- [attach](/word/attach/)：取り付ける、付ける
-- [drop](/word/drop/)：落とす
+- [attach](/attach)：取り付ける、付ける
+- [drop](/drop)：落とす
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold/)：持つ、握る
-- [lift](/word/lift/)：持ち上げる
+- [hold](/hold)：持つ、握る
+- [lift](/lift)：持ち上げる
 
-<!-- cvid: aid44_bid49 -->
+<!-- cvid: aid10_bid00 -->

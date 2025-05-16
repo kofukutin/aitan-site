@@ -81,15 +81,19 @@ TOEICではホテルや空港、イベントなどの案内文や会話文で「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid48" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid48" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではホテルや空港、イベントなどの案内文や会話文で「
 ## 🤔  staff との違いは？
 
 - **attendant**：接客や案内など、特定のサービスを提供する係員
-- **[staff](/word/staff/)**：会社や組織の従業員全体、職員
+- **[staff](/staff)**：会社や組織の従業員全体、職員
 
 attendantは「お客様に直接サービスする人」を指し、staffは「従業員全体」を意味します。attendantの方が役割が限定的です。
 
@@ -105,14 +109,14 @@ attendantは「お客様に直接サービスする人」を指し、staffは「
 
 ## 🧩 あわせて覚えたい
 
-- [clerk](/word/clerk/)：事務員、店員
-- [customer](/word/customer/)：顧客、客
+- [clerk](/clerk)：事務員、店員
+- [customer](/customer)：顧客、客
 
 ---
 
 ## 📖 できればこれも
 
-- [passenger](/word/passenger/)：乗客
-- [guide](/word/guide/)：案内人、ガイド
+- [passenger](/passenger)：乗客
+- [guide](/guide)：案内人、ガイド
 
-<!-- cvid: aid03_bid22 -->
+<!-- cvid: aid35_bid48 -->

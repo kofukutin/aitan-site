@@ -81,15 +81,19 @@ IT関連やウェブサイトの説明文、またはカフェや食品に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼語彙力アップの近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid48" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid48" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ IT関連やウェブサイトの説明文、またはカフェや食品に関す
 ## 🤔  biscuit との違いは？
 
 - **cookie**：アメリカ英語で「クッキー」、IT用語ではウェブ情報ファイル
-- **[biscuit](/word/biscuit/)**：イギリス英語で「クッキー」、またはアメリカ英語で「ビスケット（柔らかいパン）」
+- **[biscuit](/biscuit)**：イギリス英語で「クッキー」、またはアメリカ英語で「ビスケット（柔らかいパン）」
 
 cookieはアメリカ英語で一般的な焼き菓子、biscuitはイギリス英語で同じものを指しますが、アメリカでは別のパンを意味します。
 
@@ -105,14 +109,14 @@ cookieはアメリカ英語で一般的な焼き菓子、biscuitはイギリス�
 
 ## 🧩 あわせて覚えたい
 
-- [cracker](/word/cracker/)：クラッカー（塩味の薄焼き菓子）
-- [pastry](/word/pastry/)：ペストリー（パイやタルトなどの生地を使った菓子）
+- [cracker](/cracker)：クラッカー（塩味の薄焼き菓子）
+- [pastry](/pastry)：ペストリー（パイやタルトなどの生地を使った菓子）
 
 ---
 
 ## 📖 できればこれも
 
-- [cake](/word/cake/)：ケーキ
-- [browser](/word/browser/)：ブラウザ（インターネット閲覧ソフト）
+- [cake](/cake)：ケーキ
+- [browser](/browser)：ブラウザ（インターネット閲覧ソフト）
 
-<!-- cvid: aid32_bid21 -->
+<!-- cvid: aid29_bid48 -->

@@ -81,15 +81,19 @@ TOEICでは、長文読解で「関与している人」や「複雑な手続き
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、長文読解で「関与している人」や「複雑な手続き
 ## 🤔  complicated との違いは？
 
 - **involved**：関与している、または複雑である（関係性や構造に焦点）
-- **[complicated](/word/complicated/)**：複雑で理解しにくい（主に難解さや複雑さに焦点）
+- **[complicated](/complicated)**：複雑で理解しにくい（主に難解さや複雑さに焦点）
 
 involvedは「関わっている」「入り組んでいる」ニュアンスがあり、complicatedは「複雑で難しい」ことに重点があります。
 
@@ -105,14 +109,14 @@ involvedは「関わっている」「入り組んでいる」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [engaged](/word/engaged/)：従事している、関わっている
-- [included](/word/included/)：含まれている
+- [engaged](/engaged)：従事している、関わっている
+- [included](/included)：含まれている
 
 ---
 
 ## 📖 できればこれも
 
-- [concerned](/word/concerned/)：関係している、心配している
-- [detailed](/word/detailed/)：詳細な
+- [concerned](/concerned)：関係している、心配している
+- [detailed](/detailed)：詳細な
 
-<!-- cvid: aid47_bid09 -->
+<!-- cvid: aid46_bid41 -->

@@ -81,15 +81,19 @@ TOEICでは「dead battery（電池切れ）」や「dead end（行き止まり�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「dead battery（電池切れ）」や「dead end（行き止まり�
 ## 🤔  deceased との違いは？
 
 - **dead**：日常的に「死んでいる」「機能していない」など幅広く使う
-- **[deceased](/word/deceased/)**：主に人の死亡をフォーマルに表現
+- **[deceased](/deceased)**：主に人の死亡をフォーマルに表現
 
 「dead」はカジュアルで幅広い対象に使えますが、「deceased」は人の死を丁寧・正式に表す時に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「dead battery（電池切れ）」や「dead end（行き止まり�
 
 ## 🧩 あわせて覚えたい
 
-- [alive](/word/alive/)：生きている
-- [fatal](/word/fatal/)：致命的な、死に至る
+- [alive](/alive)：生きている
+- [fatal](/fatal)：致命的な、死に至る
 
 ---
 
 ## 📖 できればこれも
 
-- [ill](/word/ill/)：病気の
-- [injured](/word/injured/)：けがをした
+- [ill](/ill)：病気の
+- [injured](/injured)：けがをした
 
-<!-- cvid: aid05_bid33 -->
+<!-- cvid: aid04_bid43 -->

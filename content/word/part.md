@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「一部」「役割」「部品」などの意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid35_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「一部」「役割」「部品」などの意
 ## 🤔  portion との違いは？
 
 - **part**：全体の中の「部分」や「役割」を幅広く指す
-- **[portion](/word/portion/)**：分けられた「一人分」「割り当て」など数量的な部分を強調
+- **[portion](/portion)**：分けられた「一人分」「割り当て」など数量的な部分を強調
 
 **part**は全体の構成要素や役割など広い意味で使われますが、**portion**は特に「分け前」「割り当て」など数量や配分を意識した場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「一部」「役割」「部品」などの意
 
 ## 🧩 あわせて覚えたい
 
-- [section](/word/section/)：区分、セクション
-- [component](/word/component/)：構成要素、部品
+- [section](/section)：区分、セクション
+- [component](/component)：構成要素、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [piece](/word/piece/)：一片、断片
-- [role](/word/role/)：役割、役目
+- [piece](/piece)：一片、断片
+- [role](/role)：役割、役目
 
-<!-- cvid: aid16_bid26 -->
+<!-- cvid: aid35_bid23 -->

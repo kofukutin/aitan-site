@@ -81,15 +81,19 @@ TOEICでは「期間や文章、会議などを短くする」という文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「期間や文章、会議などを短くする」という文脈で
 ## 🤔  reduce との違いは？
 
 - **shorten**：長さや時間などを「短くする」「縮める」ことに特化した表現
-- **[reduce](/word/reduce/)**：量や数、程度などを「減らす」全般に使える幅広い表現
+- **[reduce](/reduce)**：量や数、程度などを「減らす」全般に使える幅広い表現
 
 shortenは「長さ・期間」に焦点があり、reduceは「量・数・程度」など幅広い対象に使えます。
 
@@ -105,14 +109,14 @@ shortenは「長さ・期間」に焦点があり、reduceは「量・数・程�
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/word/expand/)：拡大する、広げる
-- [condense](/word/condense/)：凝縮する、要約する
+- [expand](/expand)：拡大する、広げる
+- [condense](/condense)：凝縮する、要約する
 
 ---
 
 ## 📖 できればこれも
 
-- [lengthen](/word/lengthen/)：長くする
-- [decrease](/word/decrease/)：減少させる
+- [lengthen](/lengthen)：長くする
+- [decrease](/decrease)：減少させる
 
-<!-- cvid: aid24_bid25 -->
+<!-- cvid: aid49_bid03 -->

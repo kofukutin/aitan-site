@@ -81,15 +81,19 @@ TOEICでは会話やビジネスシーンで「嘘をつく」という意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話やビジネスシーンで「嘘をつく」という意味で
 ## 🤔  deceiving との違いは？
 
 - **lying**：事実と異なることを言って「嘘をつく」こと。
-- **[deceiving](/word/deceiving/)**：人をだます、欺くという広い意味。
+- **[deceiving](/deceiving)**：人をだます、欺くという広い意味。
 
 lyingは「嘘をつく」行為自体を指し、deceivingは嘘以外の方法も含めて人をだます場合に使います。
 
@@ -105,14 +109,14 @@ lyingは「嘘をつく」行為自体を指し、deceivingは嘘以外の方法
 
 ## 🧩 あわせて覚えたい
 
-- [truth](/word/truth/)：真実
-- [cheat](/word/cheat/)：不正をする、ごまかす
+- [truth](/truth)：真実
+- [cheat](/cheat)：不正をする、ごまかす
 
 ---
 
 ## 📖 できればこれも
 
-- [deny](/word/deny/)：否定する
-- [admit](/word/admit/)：認める
+- [deny](/deny)：否定する
+- [admit](/admit)：認める
 
-<!-- cvid: aid37_bid42 -->
+<!-- cvid: aid33_bid45 -->

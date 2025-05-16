@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然のシーンと
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid07_bid40" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid40" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然のシーンと
 ## 🤔  tortoise との違いは？
 
 - **turtle**：主に水中や水辺に住むカメ
-- **[tortoise](/word/tortoise/)**：主に陸上に住むカメ
+- **[tortoise](/tortoise)**：主に陸上に住むカメ
 
 turtleは水辺や海に生息するカメ、tortoiseは陸上に住むカメを指します。場面によって使い分けましょう。
 
@@ -105,14 +109,14 @@ turtleは水辺や海に生息するカメ、tortoiseは陸上に住むカメを
 
 ## 🧩 あわせて覚えたい
 
-- [reptile](/word/reptile/)：爬虫類
-- [shell](/word/shell/)：（カメなどの）甲羅
+- [reptile](/reptile)：爬虫類
+- [shell](/shell)：（カメなどの）甲羅
 
 ---
 
 ## 📖 できればこれも
 
-- [frog](/word/frog/)：カエル
-- [crab](/word/crab/)：カニ
+- [frog](/frog)：カエル
+- [crab](/crab)：カニ
 
-<!-- cvid: aid15_bid48 -->
+<!-- cvid: aid07_bid40 -->

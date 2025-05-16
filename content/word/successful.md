@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や、名詞・副詞との語形変化を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や、名詞・副詞との語形変化を
 ## 🤔  effective との違いは？
 
 - **successful**：目標や目的を達成して「成功した」状態を表す。
-- **[effective](/word/effective/)**：効果的で「望んだ効果がある」ことを表す。
+- **[effective](/effective)**：効果的で「望んだ効果がある」ことを表す。
 
 「successful」は結果として成功したことに重点があり、「effective」は手段や方法が効果的であることに重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞の語彙問題や、名詞・副詞との語形変化を
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure/)：失敗
-- [achieve](/word/achieve/)：達成する
+- [failure](/failure)：失敗
+- [achieve](/achieve)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [productive](/word/productive/)：生産的な
+- [efficient](/efficient)：効率的な
+- [productive](/productive)：生産的な
 
-<!-- cvid: aid40_bid17 -->
+<!-- cvid: aid16_bid28 -->

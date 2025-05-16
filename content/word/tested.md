@@ -81,15 +81,19 @@ TOEICでは、形容詞として「tested products（テスト済み製品）」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞として「tested products（テスト済み製品）」
 ## 🤔  examined との違いは？
 
 - **tested**：基準や条件に従って実際にテスト・試験されたことを強調
-- **[examined](/word/examined/)**：詳細に調べたり観察したりすることを強調
+- **[examined](/examined)**：詳細に調べたり観察したりすることを強調
 
 「tested」は実際にテストを行い結果を確認したニュアンス、「examined」は観察や分析など広い意味での「調査」を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、形容詞として「tested products（テスト済み製品）」
 
 ## 🧩 あわせて覚えたい
 
-- [proven](/word/proven/)：証明された
-- [verified](/word/verified/)：検証された
+- [proven](/proven)：証明された
+- [verified](/verified)：検証された
 
 ---
 
 ## 📖 できればこれも
 
-- [checked](/word/checked/)：確認された
-- [approved](/word/approved/)：承認された
+- [checked](/checked)：確認された
+- [approved](/approved)：承認された
 
-<!-- cvid: aid22_bid33 -->
+<!-- cvid: aid19_bid49 -->

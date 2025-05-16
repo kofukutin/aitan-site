@@ -81,15 +81,19 @@ The technician diagnosed the problem with the server quickly.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid40_bid28" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid28" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The technician diagnosed the problem with the server quickly.
 ## 🤔  identify との違いは？
 
 - **diagnose**：専門的に原因や病名を特定する
-- **[identify](/word/identify/)**：正体や人物・物を特定する
+- **[identify](/identify)**：正体や人物・物を特定する
 
 diagnoseは医療や技術分野で「診断する」など専門的な原因特定に使い、identifyは「誰・何かを見分ける」など広い場面で使います。
 
@@ -105,14 +109,14 @@ diagnoseは医療や技術分野で「診断する」など専門的な原因特
 
 ## 🧩 あわせて覚えたい
 
-- [treat](/word/treat/)：治療する
-- [detect](/word/detect/)：発見する、検出する
+- [treat](/treat)：治療する
+- [detect](/detect)：発見する、検出する
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe/)：処方する
-- [analyze](/word/analyze/)：分析する
+- [prescribe](/prescribe)：処方する
+- [analyze](/analyze)：分析する
 
-<!-- cvid: aid12_bid27 -->
+<!-- cvid: aid40_bid28 -->

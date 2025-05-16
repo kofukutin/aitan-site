@@ -81,15 +81,19 @@ TOEICではビジネスの会話やアナウンスで頻出し、会議の予定
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスの会話やアナウンスで頻出し、会議の予定
 ## 🤔  conference との違いは？
 
 - **meeting**：一般的な会議や打ち合わせ。規模や内容は幅広い。
-- **[conference](/word/conference/)**：より大規模で公式な会議や学会。
+- **[conference](/conference)**：より大規模で公式な会議や学会。
 
 meetingは日常的な社内会議など幅広く使い、conferenceは専門的・公式な集まりに使われます。
 
@@ -105,14 +109,14 @@ meetingは日常的な社内会議など幅広く使い、conferenceは専門的
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/word/appointment/)：予約、約束
-- [session](/word/session/)：（特定の目的の）集まり、セッション
+- [appointment](/appointment)：予約、約束
+- [session](/session)：（特定の目的の）集まり、セッション
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule/)：予定、スケジュール
-- [discussion](/word/discussion/)：議論、話し合い
+- [schedule](/schedule)：予定、スケジュール
+- [discussion](/discussion)：議論、話し合い
 
-<!-- cvid: aid00_bid08 -->
+<!-- cvid: aid09_bid20 -->

@@ -81,15 +81,19 @@ TOEICでは、形容詞の語彙問題や説明文で「見えない」「気づ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、形容詞の語彙問題や説明文で「見えない」「気づ
 ## 🤔  transparent との違いは？
 
 - **invisible**：目に見えない、存在が認識できない
-- **[transparent](/word/transparent/)**：透明な、向こう側が見える
+- **[transparent](/transparent)**：透明な、向こう側が見える
 
 invisibleは「全く見えない」こと、transparentは「透明で見えるが存在はわかる」ことを表します。
 
@@ -105,14 +109,14 @@ invisibleは「全く見えない」こと、transparentは「透明で見える
 
 ## 🧩 あわせて覚えたい
 
-- [hidden](/word/hidden/)：隠された、見えないようにされた
-- [unseen](/word/unseen/)：見られていない、目に触れない
+- [hidden](/hidden)：隠された、見えないようにされた
+- [unseen](/unseen)：見られていない、目に触れない
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible/)：目に見える
-- [apparent](/word/apparent/)：明らかな、見たところ～らしい
+- [visible](/visible)：目に見える
+- [apparent](/apparent)：明らかな、見たところ～らしい
 
-<!-- cvid: aid37_bid32 -->
+<!-- cvid: aid36_bid45 -->

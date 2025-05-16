@@ -81,15 +81,19 @@ TOEICのPart 7（長文読解）で、情報公開や発表、調査結果の説
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid42" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid42" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7（長文読解）で、情報公開や発表、調査結果の説
 ## 🤔  disclose との違いは？
 
 - **reveal**：隠れていたものを明らかにする、見せる（やや感情的・幅広い場面で使う）
-- **[disclose](/word/disclose/)**：公式・法的・ビジネス文脈で「情報を開示する」（よりフォーマルで限定的）
+- **[disclose](/disclose)**：公式・法的・ビジネス文脈で「情報を開示する」（よりフォーマルで限定的）
 
 revealは日常的にも使えますが、discloseは特に公式な情報公開や法的な開示に使われることが多いです。
 
@@ -105,14 +109,14 @@ revealは日常的にも使えますが、discloseは特に公式な情報公開
 
 ## 🧩 あわせて覚えたい
 
-- [hide](/word/hide/)：隠す
-- [announce](/word/announce/)：発表する
+- [hide](/hide)：隠す
+- [announce](/announce)：発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [expose](/word/expose/)：さらす、暴露する
-- [uncover](/word/uncover/)：発見する、明らかにする
+- [expose](/expose)：さらす、暴露する
+- [uncover](/uncover)：発見する、明らかにする
 
-<!-- cvid: aid23_bid49 -->
+<!-- cvid: aid19_bid42 -->

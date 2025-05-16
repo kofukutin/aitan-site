@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物や人の「形」や「姿」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物や人の「形」や「姿」を
 ## 🤔  form との違いは？
 
 - **shape**：物の外見的な「形」や「輪郭」を指す。
-- **[form](/word/form/)**：構造や配置、型など、より抽象的・全体的な「形態」を指す。
+- **[form](/form)**：構造や配置、型など、より抽象的・全体的な「形態」を指す。
 
 shapeは見た目の「形」に焦点を当て、formは構造や型など内面的な「形態」に使われます。
 
@@ -105,14 +109,14 @@ shapeは見た目の「形」に焦点を当て、formは構造や型など内�
 
 ## 🧩 あわせて覚えたい
 
-- [figure](/word/figure/)：図形、姿
-- [outline](/word/outline/)：輪郭、概要
+- [figure](/figure)：図形、姿
+- [outline](/outline)：輪郭、概要
 
 ---
 
 ## 📖 できればこれも
 
-- [size](/word/size/)：大きさ、サイズ
-- [design](/word/design/)：デザイン、設計
+- [size](/size)：大きさ、サイズ
+- [design](/design)：デザイン、設計
 
-<!-- cvid: aid40_bid23 -->
+<!-- cvid: aid13_bid30 -->

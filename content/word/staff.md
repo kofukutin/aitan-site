@@ -81,15 +81,19 @@ TOEICでは会議や職場の会話で頻出し、複数の職員やスタッフ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や職場の会話で頻出し、複数の職員やスタッフ
 ## 🤔  employee との違いは？
 
 - **staff**：組織や部署の「職員全体」「スタッフ集団」を指す
-- **[employee](/word/employee/)**：雇用されている「個々の従業員」を指す
+- **[employee](/employee)**：雇用されている「個々の従業員」を指す
 
 staffは集団的なニュアンスが強く、employeeは個人を指す点が異なります。
 
@@ -105,14 +109,14 @@ staffは集団的なニュアンスが強く、employeeは個人を指す点が�
 
 ## 🧩 あわせて覚えたい
 
-- [personnel](/word/personnel/)：人事部、職員（全体）
-- [manager](/word/manager/)：管理職、マネージャー
+- [personnel](/personnel)：人事部、職員（全体）
+- [manager](/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [member](/word/member/)：メンバー、構成員
+- [team](/team)：チーム、団体
+- [member](/member)：メンバー、構成員
 
-<!-- cvid: aid02_bid29 -->
+<!-- cvid: aid07_bid24 -->

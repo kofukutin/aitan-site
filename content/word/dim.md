@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、部屋や照明、スクリーンの明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、部屋や照明、スクリーンの明
 ## 🤔  faint との違いは？
 
 - **dim**：光や色、音などが「弱くてはっきりしない」状態。特に「暗い」や「ぼんやりした」ニュアンスが強い。
-- **[faint](/word/faint/)**：感覚的に「かすかな」「ほとんど感じられない」状態。光や音、匂いなど幅広く使われる。
+- **[faint](/faint)**：感覚的に「かすかな」「ほとんど感じられない」状態。光や音、匂いなど幅広く使われる。
 
 dimは「暗さ」や「ぼんやり感」に重点があり、faintは「存在はするが非常に弱い」ことを強調します。
 
@@ -105,14 +109,14 @@ dimは「暗さ」や「ぼんやり感」に重点があり、faintは「存在
 
 ## 🧩 あわせて覚えたい
 
-- [bright](/word/bright/)：明るい
-- [dull](/word/dull/)：鈍い、さえない
+- [bright](/bright)：明るい
+- [dull](/dull)：鈍い、さえない
 
 ---
 
 ## 📖 できればこれも
 
-- [pale](/word/pale/)：（色が）薄い、青白い
-- [blur](/word/blur/)：ぼやける、ぼやけたもの
+- [pale](/pale)：（色が）薄い、青白い
+- [blur](/blur)：ぼやける、ぼやけたもの
 
-<!-- cvid: aid10_bid41 -->
+<!-- cvid: aid34_bid03 -->

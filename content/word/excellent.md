@@ -88,8 +88,12 @@ TOEICでは、評価や品質を表す形容詞として頻出です。特にメ
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、評価や品質を表す形容詞として頻出です。特にメ
 ## 🤔  outstanding との違いは？
 
 - **excellent**：全体的にとても優れている、質が高い
-- **[outstanding](/word/outstanding/)**：他と比べて特に目立って優れている
+- **[outstanding](/outstanding)**：他と比べて特に目立って優れている
 
 「excellent」は高い評価を広く表し、「outstanding」はその中でも特に際立っている場合に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、評価や品質を表す形容詞として頻出です。特にメ
 
 ## 🧩 あわせて覚えたい
 
-- [superb](/word/superb/)：最高に素晴らしい
-- [poor](/word/poor/)：劣った、良くない
+- [superb](/superb)：最高に素晴らしい
+- [poor](/poor)：劣った、良くない
 
 ---
 
 ## 📖 できればこれも
 
-- [perfect](/word/perfect/)：完璧な
-- [good](/word/good/)：良い
+- [perfect](/perfect)：完璧な
+- [good](/good)：良い
 
-<!-- cvid: aid27_bid37 -->
+<!-- cvid: aid27_bid21 -->

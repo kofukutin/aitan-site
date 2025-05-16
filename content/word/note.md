@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【note】の意味・使い方・例文 ― noticeとの違い【TOEIC英単語】"
 description: "noteの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでnoticeとの違いもわかりやすく学べます。"
 word: "note"
@@ -81,15 +81,19 @@ TOEICでは「メモ」「注釈」「短い手紙」などの意味で、メー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「メモ」「注釈」「短い手紙」などの意味で、メー
 ## 🤔  notice との違いは？
 
 - **note**：個人的なメモや短い伝言、注釈などに使う。
-- **[notice](/word/notice/)**：公式な掲示やお知らせ、注意書きに使う。
+- **[notice](/notice)**：公式な掲示やお知らせ、注意書きに使う。
 
 noteは自分や身近な人への短い記録、noticeは多くの人に向けた公式な通知や掲示に使われます。
 
@@ -105,14 +109,14 @@ noteは自分や身近な人への短い記録、noticeは多くの人に向け�
 
 ## 🧩 あわせて覚えたい
 
-- [memo](/word/memo/)：簡単なメモ、覚え書き
-- [message](/word/message/)：伝言、メッセージ
+- [memo](/memo)：簡単なメモ、覚え書き
+- [message](/message)：伝言、メッセージ
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record/)：記録、記録する
-- [report](/word/report/)：報告、報告書
+- [record](/record)：記録、記録する
+- [report](/report)：報告、報告書
 
-<!-- cvid: aid32_bid22 -->
+<!-- cvid: aid41_bid18 -->

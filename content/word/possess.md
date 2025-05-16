@@ -81,15 +81,19 @@ TOEICでは主にPart 5の語彙問題や、フォーマルな文脈で「所有
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 5の語彙問題や、フォーマルな文脈で「所有
 ## 🤔  own との違いは？
 
 - **possess**：フォーマルで「所有する」、特に能力や性質にも使う
-- **[own](/word/own/)**：日常的で「自分のものとして持つ」、主に物理的な所有
+- **[own](/own)**：日常的で「自分のものとして持つ」、主に物理的な所有
 
 possessは能力や資格など抽象的なものにも使え、ownは主に物や土地など具体的な所有に使われます。
 
@@ -105,14 +109,14 @@ possessは能力や資格など抽象的なものにも使え、ownは主に物�
 
 ## 🧩 あわせて覚えたい
 
-- [acquire](/word/acquire/)：獲得する、手に入れる
-- [retain](/word/retain/)：保持する、持ち続ける
+- [acquire](/acquire)：獲得する、手に入れる
+- [retain](/retain)：保持する、持ち続ける
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/word/obtain/)：得る、手に入れる
-- [hold](/word/hold/)：持つ、保持する
+- [obtain](/obtain)：得る、手に入れる
+- [hold](/hold)：持つ、保持する
 
-<!-- cvid: aid28_bid23 -->
+<!-- cvid: aid01_bid44 -->

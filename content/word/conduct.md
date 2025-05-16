@@ -81,15 +81,19 @@ TOEICでは「調査を実施する」「会議を行う」などの意味で、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid18_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「調査を実施する」「会議を行う」などの意味で、
 ## 🤔  manage との違いは？
 
 - **conduct**：調査や会議などを「実施する」「進行する」意味で、ややフォーマル。
-- **[manage](/word/manage/)**：物事や人を「管理する」「うまく扱う」意味で、幅広い場面で使う。
+- **[manage](/manage)**：物事や人を「管理する」「うまく扱う」意味で、幅広い場面で使う。
 
 conductは「何かを計画的に行う」ニュアンスが強く、manageは「うまくやりくりする」「管理する」場面で使います。
 
@@ -105,14 +109,14 @@ conductは「何かを計画的に行う」ニュアンスが強く、manageは�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise/)：監督する、指導する
-- [organize](/word/organize/)：整理する、計画する
+- [supervise](/supervise)：監督する、指導する
+- [organize](/organize)：整理する、計画する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange/)：手配する、準備する
-- [lead](/word/lead/)：導く、指導する
+- [arrange](/arrange)：手配する、準備する
+- [lead](/lead)：導く、指導する
 
-<!-- cvid: aid44_bid44 -->
+<!-- cvid: aid18_bid34 -->

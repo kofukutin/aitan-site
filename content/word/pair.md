@@ -81,15 +81,19 @@ TOEICでは、物の数え方や備品の説明、日常的な会話でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、物の数え方や備品の説明、日常的な会話でよく出
 ## 🤔  couple との違いは？
 
 - **pair**：2つで1組になっている物や人を指す（機能的なまとまり）。
-- **[couple](/word/couple/)**：2つ、または2人（特に恋人や夫婦など親しい関係）を指す。
+- **[couple](/couple)**：2つ、または2人（特に恋人や夫婦など親しい関係）を指す。
 
 pairは「セット」としての機能や形を重視し、coupleは「2つ・2人」という数や関係性を強調します。
 
@@ -105,14 +109,14 @@ pairは「セット」としての機能や形を重視し、coupleは「2つ・
 
 ## 🧩 あわせて覚えたい
 
-- [set](/word/set/)：セット、一式
-- [single](/word/single/)：単一、1つ
+- [set](/set)：セット、一式
+- [single](/single)：単一、1つ
 
 ---
 
 ## 📖 できればこれも
 
-- [item](/word/item/)：品目、項目
-- [group](/word/group/)：集団、グループ
+- [item](/item)：品目、項目
+- [group](/group)：集団、グループ
 
-<!-- cvid: aid17_bid45 -->
+<!-- cvid: aid04_bid03 -->

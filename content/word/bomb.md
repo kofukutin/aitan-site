@@ -81,15 +81,19 @@ TOEICでは空港や公共施設の安全に関する会話や説明文で登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは空港や公共施設の安全に関する会話や説明文で登場
 ## 🤔  explode との違いは？
 
 - **bomb**：爆発する装置や武器そのものを指す
-- **[explode](/word/explode/)**：爆発するという動作や現象を指す
+- **[explode](/explode)**：爆発するという動作や現象を指す
 
 bombは「もの（爆弾）」、explodeは「動作（爆発する）」を表します。爆弾（bomb）が爆発する（explode）という関係です。
 
@@ -105,14 +109,14 @@ bombは「もの（爆弾）」、explodeは「動作（爆発する）」を表
 
 ## 🧩 あわせて覚えたい
 
-- [weapon](/word/weapon/)：武器
-- [blast](/word/blast/)：爆風、突風
+- [weapon](/weapon)：武器
+- [blast](/blast)：爆風、突風
 
 ---
 
 ## 📖 できればこれも
 
-- [alarm](/word/alarm/)：警報
-- [danger](/word/danger/)：危険
+- [alarm](/alarm)：警報
+- [danger](/danger)：危険
 
-<!-- cvid: aid10_bid30 -->
+<!-- cvid: aid14_bid12 -->

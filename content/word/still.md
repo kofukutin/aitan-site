@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「まだ」「依然として」といった継
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid09_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「まだ」「依然として」といった継
 ## 🤔  yet との違いは？
 
 - **still**：今もなお続いていることを表す
-- **[yet](/word/yet/)**：主に否定文や疑問文で「まだ」「これから」を表す
+- **[yet](/yet)**：主に否定文や疑問文で「まだ」「これから」を表す
 
 stillは「継続中」、yetは「未完了・これから」に焦点がある点が異なります。
 
@@ -105,14 +109,14 @@ stillは「継続中」、yetは「未完了・これから」に焦点がある
 
 ## 🧩 あわせて覚えたい
 
-- [already](/word/already/)：すでに
-- [even](/word/even/)：～さえ、さらに
+- [already](/already)：すでに
+- [even](/even)：～さえ、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [just](/word/just/)：ちょうど、たった今
-- [soon](/word/soon/)：まもなく
+- [just](/just)：ちょうど、たった今
+- [soon](/soon)：まもなく
 
-<!-- cvid: aid03_bid37 -->
+<!-- cvid: aid09_bid27 -->

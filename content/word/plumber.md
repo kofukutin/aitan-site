@@ -81,15 +81,19 @@ TOEICでは、職業やサービスに関する会話や説明文で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職業やサービスに関する会話や説明文で登場する
 ## 🤔  technician との違いは？
 
 - **plumber**：水道や配管の修理・設置を専門とする職業。
-- **[technician](/word/technician/)**：技術全般の専門職で、分野を問わず機械や設備のメンテナンスを行う人。
+- **[technician](/technician)**：技術全般の専門職で、分野を問わず機械や設備のメンテナンスを行う人。
 
 plumberは水回り専門、technicianは幅広い技術職を指す点が大きな違いです。
 
@@ -105,14 +109,14 @@ plumberは水回り専門、technicianは幅広い技術職を指す点が大き
 
 ## 🧩 あわせて覚えたい
 
-- [electrician](/word/electrician/)：電気工事士、電気技師
-- [carpenter](/word/carpenter/)：大工
+- [electrician](/electrician)：電気工事士、電気技師
+- [carpenter](/carpenter)：大工
 
 ---
 
 ## 📖 できればこれも
 
-- [repair](/word/repair/)：修理する
-- [install](/word/install/)：設置する
+- [repair](/repair)：修理する
+- [install](/install)：設置する
 
-<!-- cvid: aid36_bid01 -->
+<!-- cvid: aid31_bid43 -->

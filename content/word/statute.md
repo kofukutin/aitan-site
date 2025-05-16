@@ -80,15 +80,19 @@ TOEICでは主に契約書や法的文書、規約説明などの長文読解パ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid31_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に契約書や法的文書、規約説明などの長文読解パ
 ## 🤔  regulation との違いは？
 
 - **statute**：議会などで正式に制定された法律や法令を指す、よりフォーマルで広範な意味。
-- **[regulation](/word/regulation/)**：特定の分野や組織内で定められた細かな規則や規定を指す。
+- **[regulation](/regulation)**：特定の分野や組織内で定められた細かな規則や規定を指す。
 
 statuteは国や州レベルの「法律」、regulationはその法律に基づく「細則・規則」といった違いがあります。
 
@@ -104,14 +108,14 @@ statuteは国や州レベルの「法律」、regulationはその法律に基づ
 
 ## 🧩 あわせて覚えたい
 
-- [ordinance](/word/ordinance/)：条例（地方自治体が定める法規）
-- [law](/word/law/)：法律（最も一般的な法の総称）
+- [ordinance](/ordinance)：条例（地方自治体が定める法規）
+- [law](/law)：法律（最も一般的な法の総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause/)：条項（契約や法律の一部となる文）
-- [policy](/word/policy/)：方針、政策（組織や政府の基本的な指針）
+- [clause](/clause)：条項（契約や法律の一部となる文）
+- [policy](/policy)：方針、政策（組織や政府の基本的な指針）
 
-<!-- cvid: aid15_bid37 -->
+<!-- cvid: aid31_bid20 -->

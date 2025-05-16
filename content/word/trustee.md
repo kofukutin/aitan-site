@@ -81,15 +81,19 @@ TOEICでは、契約書や法務関連の長文、ビジネス文書で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid24_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や法務関連の長文、ビジネス文書で登場す
 ## 🤔  executor との違いは？
 
 - **trustee**：信託や財産を長期的に管理・運用する責任者
-- **[executor](/word/executor/)**：遺言執行者（遺言に従い財産を分配する人）
+- **[executor](/executor)**：遺言執行者（遺言に従い財産を分配する人）
 
 trusteeは信託や財産の管理を継続的に行うのに対し、executorは遺言の内容を実行するために一時的に任命される点が異なります。
 
@@ -105,14 +109,14 @@ trusteeは信託や財産の管理を継続的に行うのに対し、executor�
 
 ## 🧩 あわせて覚えたい
 
-- [beneficiary](/word/beneficiary/)：受益者（信託や保険などで利益を受ける人）
-- [guardian](/word/guardian/)：後見人、保護者（未成年や判断能力のない人を保護する人）
+- [beneficiary](/beneficiary)：受益者（信託や保険などで利益を受ける人）
+- [guardian](/guardian)：後見人、保護者（未成年や判断能力のない人を保護する人）
 
 ---
 
 ## 📖 できればこれも
 
-- [attorney](/word/attorney/)：弁護士、代理人
-- [client](/word/client/)：依頼人、顧客
+- [attorney](/attorney)：弁護士、代理人
+- [client](/client)：依頼人、顧客
 
-<!-- cvid: aid29_bid36 -->
+<!-- cvid: aid24_bid44 -->

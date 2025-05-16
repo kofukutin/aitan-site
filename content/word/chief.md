@@ -81,15 +81,19 @@ TOEICでは、会社や組織の役職名として会話や説明文によく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会社や組織の役職名として会話や説明文によく登
 ## 🤔  leader との違いは？
 
 - **chief**：組織や集団の公式な「長」や「責任者」を指し、役職名として使われることが多い。
-- **[leader](/word/leader/)**：人々を導く「リーダー」で、役職に限らずグループをまとめる人全般に使える。
+- **[leader](/leader)**：人々を導く「リーダー」で、役職に限らずグループをまとめる人全般に使える。
 
 chiefはフォーマルで公式な立場を強調し、leaderは影響力や導く力に重点があります。
 
@@ -105,14 +109,14 @@ chiefはフォーマルで公式な立場を強調し、leaderは影響力や導
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理職、部門長
-- [director](/word/director/)：取締役、監督
+- [manager](/manager)：管理職、部門長
+- [director](/director)：取締役、監督
 
 ---
 
 ## 📖 できればこれも
 
-- [president](/word/president/)：社長、会長
-- [officer](/word/officer/)：役員、幹部
+- [president](/president)：社長、会長
+- [officer](/officer)：役員、幹部
 
-<!-- cvid: aid40_bid22 -->
+<!-- cvid: aid02_bid45 -->

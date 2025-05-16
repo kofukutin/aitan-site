@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写で、物の位置関係や動作の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid06_bid12" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid12" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物の位置関係や動作の説明
 ## 🤔  above との違いは？
 
 - **over**：真上や覆いかぶさる位置、または「越えて」動くニュアンスが強い
-- **[above](/word/above/)**：単に「上方にある」ことを表し、接触や覆うニュアンスはない
+- **[above](/above)**：単に「上方にある」ことを表し、接触や覆うニュアンスはない
 
 overは「真上」や「覆う」「越える」など動きや位置関係が具体的な場面で使われ、aboveは単に「上方にある」場合に使います。
 
@@ -101,14 +105,14 @@ overは「真上」や「覆う」「越える」など動きや位置関係が�
 
 ## 🧩 あわせて覚えたい
 
-- [under](/word/under/)：～の下に
-- [across](/word/across/)：～を横切って
+- [under](/under)：～の下に
+- [across](/across)：～を横切って
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between/)：～の間に
-- [through](/word/through/)：～を通って
+- [between](/between)：～の間に
+- [through](/through)：～を通って
 
-<!-- cvid: aid29_bid23 -->
+<!-- cvid: aid06_bid12 -->

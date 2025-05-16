@@ -81,15 +81,19 @@ TOEICでは、学校や施設の案内、イベントの会場説明などで登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、学校や施設の案内、イベントの会場説明などで登
 ## 🤔  fitness center との違いは？
 
 - **gymnasium**：学校や公共施設の「体育館」や「屋内運動場」を指す。
-- **[fitness center](/word/fitness_center/)**：トレーニングマシンや運動設備が整った「フィットネスジム」を指す。
+- **[fitness center](/fitness_center)**：トレーニングマシンや運動設備が整った「フィットネスジム」を指す。
 
 gymnasiumは主に学校やイベント会場として使われる広い運動場、fitness centerは個人のトレーニングや健康維持のための施設を指します。
 
@@ -105,14 +109,14 @@ gymnasiumは主に学校やイベント会場として使われる広い運動�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/word/auditorium/)：講堂、観客席付きの大ホール
-- [stadium](/word/stadium/)：スタジアム、屋外競技場
+- [auditorium](/auditorium)：講堂、観客席付きの大ホール
+- [stadium](/stadium)：スタジアム、屋外競技場
 
 ---
 
 ## 📖 できればこれも
 
-- [classroom](/word/classroom/)：教室
-- [laboratory](/word/laboratory/)：実験室
+- [classroom](/classroom)：教室
+- [laboratory](/laboratory)：実験室
 
-<!-- cvid: aid19_bid22 -->
+<!-- cvid: aid04_bid40 -->

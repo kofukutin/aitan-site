@@ -80,15 +80,19 @@ TOEICでは会議やイベント、予定に関する会話や説明文でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは会議やイベント、予定に関する会話や説明文でよく
 ## 🤔  approaching との違いは？
 
 - **upcoming**：予定やイベントなど「これからやってくる」ことを客観的に表す
-- **[approaching](/word/approaching/)**：時間や距離的に「近づいている」ことを強調し、切迫感がやや強い
+- **[approaching](/approaching)**：時間や距離的に「近づいている」ことを強調し、切迫感がやや強い
 
 upcomingは予定やイベントの案内などでよく使われ、approachingは「締切が迫る」など緊張感を伴う場面で使われます。
 
@@ -104,14 +108,14 @@ upcomingは予定やイベントの案内などでよく使われ、approaching�
 
 ## 🧩 あわせて覚えたい
 
-- [forthcoming](/word/forthcoming/)：近々やってくる、間近の
-- [previous](/word/previous/)：前の、以前の
+- [forthcoming](/forthcoming)：近々やってくる、間近の
+- [previous](/previous)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [recent](/word/recent/)：最近の
-- [current](/word/current/)：現在の
+- [recent](/recent)：最近の
+- [current](/current)：現在の
 
-<!-- cvid: aid13_bid29 -->
+<!-- cvid: aid32_bid41 -->

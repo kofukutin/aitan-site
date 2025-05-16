@@ -81,15 +81,19 @@ TOEICでは名詞の語彙問題や、形容詞importantとの使い分けでよ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは名詞の語彙問題や、形容詞importantとの使い分けでよ
 ## 🤔  significance との違いは？
 
 - **importance**：一般的な「重要性」や「大切さ」を幅広く表す
-- **[significance](/word/significance/)**：特定の意味や影響の「意義」「意味深さ」を強調
+- **[significance](/significance)**：特定の意味や影響の「意義」「意味深さ」を強調
 
 importanceは広く「大切さ」を示し、significanceは「意味合い」や「深い理由」に焦点を当てます。
 
@@ -105,14 +109,14 @@ importanceは広く「大切さ」を示し、significanceは「意味合い」�
 
 ## 🧩 あわせて覚えたい
 
-- [priority](/word/priority/)：優先順位
-- [trivial](/word/trivial/)：ささいな、重要でない
+- [priority](/priority)：優先順位
+- [trivial](/trivial)：ささいな、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [value](/word/value/)：価値
-- [necessity](/word/necessity/)：必要性
+- [value](/value)：価値
+- [necessity](/necessity)：必要性
 
-<!-- cvid: aid46_bid22 -->
+<!-- cvid: aid37_bid35 -->

@@ -81,15 +81,19 @@ TOEICでは「admit」の過去形・過去分詞として、文法問題や受�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「admit」の過去形・過去分詞として、文法問題や受�
 ## 🤔  allowed との違いは？
 
 - **admitted**：公式に認める、入場・入学などを許可する
-- **[allowed](/word/allowed/)**：一般的に許可する、制限を設けずに認める
+- **[allowed](/allowed)**：一般的に許可する、制限を設けずに認める
 
 「admitted」は公式な場面や手続きでの「認める・受け入れる」に使い、「allowed」はもっと広く「許す・許可する」に使います。
 
@@ -105,14 +109,14 @@ TOEICでは「admit」の過去形・過去分詞として、文法問題や受�
 
 ## 🧩 あわせて覚えたい
 
-- [confess](/word/confess/)：（罪や過失を）告白する
-- [accept](/word/accept/)：受け入れる、承諾する
+- [confess](/confess)：（罪や過失を）告白する
+- [accept](/accept)：受け入れる、承諾する
 
 ---
 
 ## 📖 できればこれも
 
-- [denied](/word/denied/)：否定した、拒否された
-- [approve](/word/approve/)：承認する
+- [denied](/denied)：否定した、拒否された
+- [approve](/approve)：承認する
 
-<!-- cvid: aid38_bid24 -->
+<!-- cvid: aid30_bid49 -->

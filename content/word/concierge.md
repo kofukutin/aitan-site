@@ -80,15 +80,19 @@ Please ask the concierge if you need a taxi to the airport.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ Please ask the concierge if you need a taxi to the airport.
 ## 🤔  receptionist との違いは？
 
 - **concierge**：ホテルや高級施設で、ゲストの要望に応じて幅広いサービスや手配を行う専門スタッフ。
-- **[receptionist](/word/receptionist/)**：受付で来客対応や電話応対などを行うスタッフ。
+- **[receptionist](/receptionist)**：受付で来客対応や電話応対などを行うスタッフ。
 
 conciergeは「おもてなし」や「特別な手配」に特化し、receptionistは主に受付業務や案内が中心です。
 
@@ -104,14 +108,14 @@ conciergeは「おもてなし」や「特別な手配」に特化し、receptio
 
 ## 🧩 あわせて覚えたい
 
-- [bellhop](/word/bellhop/)：ホテルで荷物運びを担当するスタッフ
-- [doorman](/word/doorman/)：ホテルやビルの出入口でドアの開閉や案内をするスタッフ
+- [bellhop](/bellhop)：ホテルで荷物運びを担当するスタッフ
+- [doorman](/doorman)：ホテルやビルの出入口でドアの開閉や案内をするスタッフ
 
 ---
 
 ## 📖 できればこれも
 
-- [lobby](/word/lobby/)：ホテルやビルのロビー、玄関ホール
-- [reservation](/word/reservation/)：予約
+- [lobby](/lobby)：ホテルやビルのロビー、玄関ホール
+- [reservation](/reservation)：予約
 
-<!-- cvid: aid38_bid23 -->
+<!-- cvid: aid45_bid12 -->

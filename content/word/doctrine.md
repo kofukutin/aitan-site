@@ -81,15 +81,19 @@ TOEICでは、法律やビジネスの公式文書、規則説明などで doctr
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid44" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid44" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、法律やビジネスの公式文書、規則説明などで doctr
 ## 🤔  policy との違いは？
 
 - **doctrine**：体系的・公式な教義や原則（特に宗教・法律・政治分野で使う）
-- **[policy](/word/policy/)**：組織や個人が採用する具体的な方針やルール
+- **[policy](/policy)**：組織や個人が採用する具体的な方針やルール
 
 doctrine は抽象的・理論的な「原則」や「教義」を指し、policy は実際の運用や行動指針を意味します。
 
@@ -105,14 +109,14 @@ doctrine は抽象的・理論的な「原則」や「教義」を指し、polic
 
 ## 🧩 あわせて覚えたい
 
-- [principle](/word/principle/)：原則、信条
-- [dogma](/word/dogma/)：（宗教的な）教義、独断的な信条
+- [principle](/principle)：原則、信条
+- [dogma](/dogma)：（宗教的な）教義、独断的な信条
 
 ---
 
 ## 📖 できればこれも
 
-- [statute](/word/statute/)：法令、制定法
-- [regulation](/word/regulation/)：規則、規制
+- [statute](/statute)：法令、制定法
+- [regulation](/regulation)：規則、規制
 
-<!-- cvid: aid30_bid21 -->
+<!-- cvid: aid32_bid44 -->

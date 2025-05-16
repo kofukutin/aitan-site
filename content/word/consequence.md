@@ -88,8 +88,12 @@ TOEICでは、consequenceはビジネス文書や説明文で「結果」「影�
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、consequenceはビジネス文書や説明文で「結果」「影�
 ## 🤔  result との違いは？
 
 - **consequence**：特に重要・深刻・好ましくない「結果」や「影響」を強調
-- **[result](/word/result/)**：中立的な「結果」全般を指し、良い・悪いの区別はない
+- **[result](/result)**：中立的な「結果」全般を指し、良い・悪いの区別はない
 
 consequenceは「重大な結果」や「影響」を強調したいときに使い、resultは単に「結果」と言いたいときに使います。
 
@@ -105,14 +109,14 @@ consequenceは「重大な結果」や「影響」を強調したいときに使
 
 ## 🧩 あわせて覚えたい
 
-- [effect](/word/effect/)：影響、効果
-- [outcome](/word/outcome/)：（最終的な）結果
+- [effect](/effect)：影響、効果
+- [outcome](/outcome)：（最終的な）結果
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/word/impact/)：影響、衝撃
-- [influence](/word/influence/)：影響、作用
+- [impact](/impact)：影響、衝撃
+- [influence](/influence)：影響、作用
 
-<!-- cvid: aid28_bid11 -->
+<!-- cvid: aid28_bid47 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【midi】の意味・使い方・例文 ― audioとの違い【TOEIC英単語】"
 description: "midiの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでaudioとの違いもわかりやすく学べます。"
 word: "midi"
@@ -81,15 +81,19 @@ TOEICではITや音楽関連の説明文や仕様書などで登場すること�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid11_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや音楽関連の説明文や仕様書などで登場すること�
 ## 🤔  audio との違いは？
 
 - **midi**：電子楽器間で音楽データをやりとりするためのデジタル規格
-- **[audio](/word/audio/)**：音そのものや音声データ全般を指す
+- **[audio](/audio)**：音そのものや音声データ全般を指す
 
 midiは「音楽情報のデータ規格」、audioは「実際の音や音声データ」を指す点が異なります。
 
@@ -105,14 +109,14 @@ midiは「音楽情報のデータ規格」、audioは「実際の音や音声�
 
 ## 🧩 あわせて覚えたい
 
-- [synthesizer](/word/synthesizer/)：シンセサイザー（電子楽器の一種）
-- [protocol](/word/protocol/)：通信規約、プロトコル
+- [synthesizer](/synthesizer)：シンセサイザー（電子楽器の一種）
+- [protocol](/protocol)：通信規約、プロトコル
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format/)：形式、フォーマット
-- [signal](/word/signal/)：信号、シグナル
+- [format](/format)：形式、フォーマット
+- [signal](/signal)：信号、シグナル
 
-<!-- cvid: aid25_bid46 -->
+<!-- cvid: aid11_bid19 -->

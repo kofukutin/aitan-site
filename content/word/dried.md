@@ -81,15 +81,19 @@ TOEICでは、driedは主に食品や商品の説明文、指示文などで形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、driedは主に食品や商品の説明文、指示文などで形�
 ## 🤔  dry との違いは？
 
 - **dried**：乾燥処理された、干した（加工や人の手によって乾かされた状態）
-- **[dry](/word/dry/)**：乾いている（自然な状態や性質として水分がない）
+- **[dry](/dry)**：乾いている（自然な状態や性質として水分がない）
 
 driedは「乾燥させた」という加工や処理のニュアンスがあり、dryは「もともと乾いている」や「水分がない」状態を指します。
 
@@ -105,14 +109,14 @@ driedは「乾燥させた」という加工や処理のニュアンスがあり
 
 ## 🧩 あわせて覚えたい
 
-- [moist](/word/moist/)：しっとりした、湿った
-- [dehydrated](/word/dehydrated/)：脱水した、乾燥させた
+- [moist](/moist)：しっとりした、湿った
+- [dehydrated](/dehydrated)：脱水した、乾燥させた
 
 ---
 
 ## 📖 できればこれも
 
-- [frozen](/word/frozen/)：冷凍した
-- [fresh](/word/fresh/)：新鮮な
+- [frozen](/frozen)：冷凍した
+- [fresh](/fresh)：新鮮な
 
-<!-- cvid: aid45_bid46 -->
+<!-- cvid: aid37_bid03 -->

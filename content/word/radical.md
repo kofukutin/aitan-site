@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や記事の中で「radical change（抜本的�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や記事の中で「radical change（抜本的�
 ## 🤔  drastic との違いは？
 
 - **radical**：根本から大きく変える、徹底的な（特に思想や改革に使う）
-- **[drastic](/word/drastic/)**：思い切った、過激な（主に手段や措置の強さを強調）
+- **[drastic](/drastic)**：思い切った、過激な（主に手段や措置の強さを強調）
 
 radicalは「根本的な変化」や「思想的な急進性」を表し、drasticは「手段や措置が非常に強い」ことを表します。
 
@@ -105,14 +109,14 @@ radicalは「根本的な変化」や「思想的な急進性」を表し、dras
 
 ## 🧩 あわせて覚えたい
 
-- [conservative](/word/conservative/)：保守的な
-- [innovative](/word/innovative/)：革新的な
+- [conservative](/conservative)：保守的な
+- [innovative](/innovative)：革新的な
 
 ---
 
 ## 📖 できればこれも
 
-- [fundamental](/word/fundamental/)：基本的な、根本的な
-- [extreme](/word/extreme/)：極端な、過激な
+- [fundamental](/fundamental)：基本的な、根本的な
+- [extreme](/extreme)：極端な、過激な
 
-<!-- cvid: aid07_bid19 -->
+<!-- cvid: aid12_bid41 -->

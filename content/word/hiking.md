@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、山道を歩く人やアウトドア
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、山道を歩く人やアウトドア
 ## 🤔  trekking との違いは？
 
 - **hiking**：比較的短時間・気軽な山歩きや自然散策を指す
-- **[trekking](/word/trekking/)**：より長距離・長期間で本格的な山歩きや冒険的な徒歩旅行を指す
+- **[trekking](/trekking)**：より長距離・長期間で本格的な山歩きや冒険的な徒歩旅行を指す
 
 hikingは日帰りや軽い装備での散策、trekkingは数日かけて山や自然を歩く冒険的な活動に使われます。
 
@@ -105,14 +109,14 @@ hikingは日帰りや軽い装備での散策、trekkingは数日かけて山や
 
 ## 🧩 あわせて覚えたい
 
-- [climbing](/word/climbing/)：登山、クライミング
-- [walking](/word/walking/)：歩くこと、散歩
+- [climbing](/climbing)：登山、クライミング
+- [walking](/walking)：歩くこと、散歩
 
 ---
 
 ## 📖 できればこれも
 
-- [picnic](/word/picnic/)：ピクニック、野外での食事
-- [camping](/word/camping/)：キャンプ、野営
+- [picnic](/picnic)：ピクニック、野外での食事
+- [camping](/camping)：キャンプ、野営
 
-<!-- cvid: aid40_bid21 -->
+<!-- cvid: aid25_bid28 -->

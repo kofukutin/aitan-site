@@ -81,15 +81,19 @@ TOEICではIT関連や会社案内、連絡先リストなどの文脈で出題�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid38_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではIT関連や会社案内、連絡先リストなどの文脈で出題�
 ## 🤔  folder との違いは？
 
 - **directory**：IT分野では「フォルダ」や「ディレクトリ」として、ファイルをまとめる場所全体を指す。一般的には「名簿」や「案内所」も意味する。
-- **[folder](/word/folder/)**：主に「書類を入れるフォルダ」や「パソコン上のフォルダ」を指し、よりカジュアルで日常的な表現。
+- **[folder](/folder)**：主に「書類を入れるフォルダ」や「パソコン上のフォルダ」を指し、よりカジュアルで日常的な表現。
 
 directoryはややフォーマルで、ITや公式な文書で使われやすいのに対し、folderは日常会話やパソコン操作でよく使われます。
 
@@ -105,14 +109,14 @@ directoryはややフォーマルで、ITや公式な文書で使われやすい
 
 ## 🧩 あわせて覚えたい
 
-- [database](/word/database/)：データベース、情報の集まり
-- [index](/word/index/)：索引、目次
+- [database](/database)：データベース、情報の集まり
+- [index](/index)：索引、目次
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document/)：文書、書類
-- [manual](/word/manual/)：マニュアル、手引き
+- [document](/document)：文書、書類
+- [manual](/manual)：マニュアル、手引き
 
-<!-- cvid: aid44_bid37 -->
+<!-- cvid: aid38_bid47 -->

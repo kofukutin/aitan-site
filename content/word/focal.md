@@ -81,15 +81,19 @@ TOEICでは、科学やビジネスの説明文で「focal point」などの形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学やビジネスの説明文で「focal point」などの形�
 ## 🤔  central との違いは？
 
 - **focal**：特定の一点や注目すべき中心に焦点を当てるニュアンス
-- **[central](/word/central/)**：物理的・概念的な「中心」や「主要な部分」を広く指す
+- **[central](/central)**：物理的・概念的な「中心」や「主要な部分」を広く指す
 
 「focal」は「焦点」や「注目の的」といった限定的な中心を強調し、「central」は単に中心や主要な部分を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、科学やビジネスの説明文で「focal point」などの形�
 
 ## 🧩 あわせて覚えたい
 
-- [peripheral](/word/peripheral/)：周辺の、中心から離れた
-- [main](/word/main/)：主な、最も重要な
+- [peripheral](/peripheral)：周辺の、中心から離れた
+- [main](/main)：主な、最も重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [crucial](/word/crucial/)：極めて重要な
-- [specific](/word/specific/)：特定の、具体的な
+- [crucial](/crucial)：極めて重要な
+- [specific](/specific)：特定の、具体的な
 
-<!-- cvid: aid12_bid01 -->
+<!-- cvid: aid29_bid15 -->

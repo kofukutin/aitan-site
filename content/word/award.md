@@ -81,15 +81,19 @@ TOEICでは、表彰や契約の授与などビジネスシーンでの「award�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、表彰や契約の授与などビジネスシーンでの「award�
 ## 🤔  reward との違いは？
 
 - **award**：公式な場で与えられる賞や表彰
-- **[reward](/word/reward/)**：努力や行動への報酬（必ずしも公式でなく、金銭や物の場合も多い）
+- **[reward](/reward)**：努力や行動への報酬（必ずしも公式でなく、金銭や物の場合も多い）
 
 awardは「公式な賞」、rewardは「努力や善行への報酬」として使い分けます。
 
@@ -105,14 +109,14 @@ awardは「公式な賞」、rewardは「努力や善行への報酬」として
 
 ## 🧩 あわせて覚えたい
 
-- [prize](/word/prize/)：競争や抽選で得る賞
-- [certificate](/word/certificate/)：証明書、認定証
+- [prize](/prize)：競争や抽選で得る賞
+- [certificate](/certificate)：証明書、認定証
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/word/honor/)：名誉、栄誉
-- [grant](/word/grant/)：助成金、補助金
+- [honor](/honor)：名誉、栄誉
+- [grant](/grant)：助成金、補助金
 
-<!-- cvid: aid13_bid28 -->
+<!-- cvid: aid43_bid27 -->

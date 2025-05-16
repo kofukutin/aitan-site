@@ -81,15 +81,19 @@ TOEICでは、最上級表現や比較級の文法問題、またはグラフや
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid31_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、最上級表現や比較級の文法問題、またはグラフや
 ## 🤔  maximum との違いは？
 
 - **highest**：高さやレベル、順位などが「最も高い」ことを表す最上級形容詞
-- **[maximum](/word/maximum/)**：数量や程度が「最大限」であることを表す名詞・形容詞
+- **[maximum](/maximum)**：数量や程度が「最大限」であることを表す名詞・形容詞
 
 「highest」は高さや順位など幅広い「最も高い」に使い、「maximum」は数値や量の「上限・最大値」に限定されることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、最上級表現や比較級の文法問題、またはグラフや
 
 ## 🧩 あわせて覚えたい
 
-- [lowest](/word/lowest/)：最も低い
-- [peak](/word/peak/)：頂点、絶頂
+- [lowest](/lowest)：最も低い
+- [peak](/peak)：頂点、絶頂
 
 ---
 
 ## 📖 できればこれも
 
-- [tallest](/word/tallest/)：最も背が高い
-- [largest](/word/largest/)：最も大きい
+- [tallest](/tallest)：最も背が高い
+- [largest](/largest)：最も大きい
 
-<!-- cvid: aid15_bid49 -->
+<!-- cvid: aid31_bid27 -->

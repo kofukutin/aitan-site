@@ -81,15 +81,19 @@ TOEICではビジネス文書やEメール、契約関連の長文で頻出し�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書やEメール、契約関連の長文で頻出し�
 ## 🤔  subcontracting との違いは？
 
 - **outsourcing**：業務全体や機能単位で外部に委託すること
-- **[subcontracting](/word/subcontracting/)**：特定の作業や工程を下請けに出すこと
+- **[subcontracting](/subcontracting)**：特定の作業や工程を下請けに出すこと
 
 outsourcingは広範な業務委託を指し、subcontractingは主に製造や建設などで一部作業を下請けに出す場合に使われます。
 
@@ -105,14 +109,14 @@ outsourcingは広範な業務委託を指し、subcontractingは主に製造や�
 
 ## 🧩 あわせて覚えたい
 
-- [in house](/word/in_house/)：社内で、自社内で
-- [delegate](/word/delegate/)：委任する、任せる
+- [in house](/in_house)：社内で、自社内で
+- [delegate](/delegate)：委任する、任せる
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給業者
-- [contract](/word/contract/)：契約
+- [supplier](/supplier)：供給業者
+- [contract](/contract)：契約
 
-<!-- cvid: aid16_bid00 -->
+<!-- cvid: aid02_bid23 -->

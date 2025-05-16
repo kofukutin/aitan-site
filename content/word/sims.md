@@ -81,15 +81,19 @@ ITやゲーム、教育分野の長文やメール文中で登場することが
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid04" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid04" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやゲーム、教育分野の長文やメール文中で登場することが
 ## 🤔  simulation との違いは？
 
 - **sims**：現実を模倣したゲームやプログラム、またはそのキャラクターを指すカジュアルな表現。
-- **[simulation](/word/simulation/)**：現実の状況やプロセスを再現すること全般を指すフォーマルな単語。
+- **[simulation](/simulation)**：現実の状況やプロセスを再現すること全般を指すフォーマルな単語。
 
 simsは主にゲームやIT分野で使われ、simulationはより広い分野で使われるフォーマルな語です。
 
@@ -105,14 +109,14 @@ simsは主にゲームやIT分野で使われ、simulationはより広い分野�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/word/model/)：モデル、模範、模型
-- [avatar](/word/avatar/)：アバター、分身（仮想空間のキャラクター）
+- [model](/model)：モデル、模範、模型
+- [avatar](/avatar)：アバター、分身（仮想空間のキャラクター）
 
 ---
 
 ## 📖 できればこれも
 
-- [virtual](/word/virtual/)：仮想の、バーチャルな
-- [scenario](/word/scenario/)：シナリオ、想定される状況
+- [virtual](/virtual)：仮想の、バーチャルな
+- [scenario](/scenario)：シナリオ、想定される状況
 
-<!-- cvid: aid26_bid38 -->
+<!-- cvid: aid22_bid04 -->

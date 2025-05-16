@@ -83,15 +83,19 @@ jumpはTOEICのPart 1で、人物がジャンプしている写真の描写な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid48_bid44" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid44" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ jumpはTOEICのPart 1で、人物がジャンプしている写真の描写な�
 ## 🤔  leap との違いは？
 
 - **jump**：短い距離や高さを素早く跳ぶ動作を表す、最も一般的な単語。
-- **[leap](/word/leap/)**：より大きく、勢いよく跳ぶ・飛躍するニュアンスが強い。
+- **[leap](/leap)**：より大きく、勢いよく跳ぶ・飛躍するニュアンスが強い。
 
 jumpは日常的な「跳ぶ」動作全般に使い、leapは「大きく跳ぶ」「飛躍する」などスケールや勢いを強調したい時に使います。
 
@@ -107,14 +111,14 @@ jumpは日常的な「跳ぶ」動作全般に使い、leapは「大きく跳ぶ
 
 ## 🧩 あわせて覚えたい
 
-- [skip](/word/skip/)：軽く跳ねる、スキップする
-- [hop](/word/hop/)：片足でぴょんと跳ぶ
+- [skip](/skip)：軽く跳ねる、スキップする
+- [hop](/hop)：片足でぴょんと跳ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [run](/word/run/)：走る
-- [climb](/word/climb/)：登る
+- [run](/run)：走る
+- [climb](/climb)：登る
 
-<!-- cvid: aid22_bid26 -->
+<!-- cvid: aid48_bid44 -->

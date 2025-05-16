@@ -81,15 +81,19 @@ TOEICでは、工業製品や生産工程を説明する文脈でよく登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工業製品や生産工程を説明する文脈でよく登場し
 ## 🤔  produced との違いは？
 
 - **manufactured**：工場や機械で大量生産された、人工的に作られた
-- **[produced](/word/produced/)**：生産された（方法を問わず広く使う）
+- **[produced](/produced)**：生産された（方法を問わず広く使う）
 
 manufacturedは「工業的・人工的な大量生産」に特化し、producedは「生産された」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ manufacturedは「工業的・人工的な大量生産」に特化し、produced
 
 ## 🧩 あわせて覚えたい
 
-- [artificial](/word/artificial/)：人工的な
-- [handmade](/word/handmade/)：手作りの
+- [artificial](/artificial)：人工的な
+- [handmade](/handmade)：手作りの
 
 ---
 
 ## 📖 できればこれも
 
-- [assembled](/word/assembled/)：組み立てられた
-- [processed](/word/processed/)：加工された
+- [assembled](/assembled)：組み立てられた
+- [processed](/processed)：加工された
 
-<!-- cvid: aid16_bid28 -->
+<!-- cvid: aid20_bid45 -->

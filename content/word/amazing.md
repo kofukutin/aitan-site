@@ -81,15 +81,19 @@ TOEICでは会話や説明文で、感動や高評価を表現する際によく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で、感動や高評価を表現する際によく
 ## 🤔  surprising との違いは？
 
 - **amazing**：とても素晴らしくて感動する、強い驚きを含む
-- **[surprising](/word/surprising/)**：予想外で驚く、必ずしも良い意味とは限らない
+- **[surprising](/surprising)**：予想外で驚く、必ずしも良い意味とは限らない
 
 amazingは「感動するほど素晴らしい」ニュアンスが強く、surprisingは「予想外で驚く」ことに重点があります。
 
@@ -105,14 +109,14 @@ amazingは「感動するほど素晴らしい」ニュアンスが強く、surp
 
 ## 🧩 あわせて覚えたい
 
-- [wonderful](/word/wonderful/)：素晴らしい
-- [ordinary](/word/ordinary/)：普通の
+- [wonderful](/wonderful)：素晴らしい
+- [ordinary](/ordinary)：普通の
 
 ---
 
 ## 📖 できればこれも
 
-- [exciting](/word/exciting/)：わくわくさせる
-- [impressive](/word/impressive/)：印象的な
+- [exciting](/exciting)：わくわくさせる
+- [impressive](/impressive)：印象的な
 
-<!-- cvid: aid02_bid33 -->
+<!-- cvid: aid17_bid38 -->

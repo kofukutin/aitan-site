@@ -81,15 +81,19 @@ TOEICでは、写真描写やグラフ説明などで「高い位置」「高い
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、写真描写やグラフ説明などで「高い位置」「高い
 ## 🤔  tall との違いは？
 
 - **high**：位置や程度が高い、物理的・抽象的な「高い」
-- **[tall](/word/tall/)**：人や細長い物が「背が高い」
+- **[tall](/tall)**：人や細長い物が「背が高い」
 
 highは山や壁、価格や温度など幅広く使えますが、tallは人や木、ビルなど「縦に長いもの」に限定されます。
 
@@ -105,14 +109,14 @@ highは山や壁、価格や温度など幅広く使えますが、tallは人や
 
 ## 🧩 あわせて覚えたい
 
-- [low](/word/low/)：低い
-- [elevate](/word/elevate/)：持ち上げる、高める
+- [low](/low)：低い
+- [elevate](/elevate)：持ち上げる、高める
 
 ---
 
 ## 📖 できればこれも
 
-- [deep](/word/deep/)：深い
-- [wide](/word/wide/)：広い
+- [deep](/deep)：深い
+- [wide](/wide)：広い
 
-<!-- cvid: aid47_bid32 -->
+<!-- cvid: aid03_bid44 -->

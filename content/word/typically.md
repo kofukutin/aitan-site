@@ -81,15 +81,19 @@ typicallyはTOEICの長文読解パートで、一般的な傾向や標準的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ typicallyはTOEICの長文読解パートで、一般的な傾向や標準的な
 ## 🤔  usually との違いは？
 
 - **typically**：典型的・標準的なパターンや特徴を強調
-- **[usually](/word/usually/)**：単に「たいてい」「ふつうは」と頻度を表す
+- **[usually](/usually)**：単に「たいてい」「ふつうは」と頻度を表す
 
 typicallyは「その物事らしい」「型にはまった」ニュアンスがあり、usuallyは単なる頻度の高さを表します。
 
@@ -105,14 +109,14 @@ typicallyは「その物事らしい」「型にはまった」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [generally](/word/generally/)：一般的に
-- [rarely](/word/rarely/)：めったに～ない
+- [generally](/generally)：一般的に
+- [rarely](/rarely)：めったに～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently/)：頻繁に
-- [occasionally](/word/occasionally/)：時々
+- [frequently](/frequently)：頻繁に
+- [occasionally](/occasionally)：時々
 
-<!-- cvid: aid35_bid41 -->
+<!-- cvid: aid46_bid37 -->

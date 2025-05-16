@@ -80,15 +80,19 @@ TOEICでは主に健康や食品表示、科学関連の長文で登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に健康や食品表示、科学関連の長文で登場します
 ## 🤔  salt との違いは？
 
 - **sodium**：化学的な「ナトリウム」そのものや成分を指す。
-- **[salt](/word/salt/)**：一般的な「塩」や食塩全体を指す。
+- **[salt](/salt)**：一般的な「塩」や食塩全体を指す。
 
 sodiumは塩の成分の一部（ナトリウム）を指し、saltは調味料としての塩全体を指します。健康や栄養の話題ではsodiumがよく使われます。
 
@@ -104,14 +108,14 @@ sodiumは塩の成分の一部（ナトリウム）を指し、saltは調味料�
 
 ## 🧩 あわせて覚えたい
 
-- [potassium](/word/potassium/)：カリウム（体内のミネラル成分）
-- [chloride](/word/chloride/)：塩化物（塩のもう一つの成分）
+- [potassium](/potassium)：カリウム（体内のミネラル成分）
+- [chloride](/chloride)：塩化物（塩のもう一つの成分）
 
 ---
 
 ## 📖 できればこれも
 
-- [calcium](/word/calcium/)：カルシウム（骨や歯の主成分）
-- [magnesium](/word/magnesium/)：マグネシウム（体に必要なミネラル）
+- [calcium](/calcium)：カルシウム（骨や歯の主成分）
+- [magnesium](/magnesium)：マグネシウム（体に必要なミネラル）
 
-<!-- cvid: aid43_bid30 -->
+<!-- cvid: aid34_bid49 -->

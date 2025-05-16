@@ -82,15 +82,19 @@ TOEICでは会話や説明文で「喜び」や「満足」を表現する際に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid35_bid16" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid16" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話や説明文で「喜び」や「満足」を表現する際に
 ## 🤔  pleasure との違いは？
 
 - **delight**：強い喜びや歓喜、心からのうれしさを表す。
-- **[pleasure](/word/pleasure/)**：一般的な「楽しみ」や「満足感」を表し、delightよりもやや控えめ。
+- **[pleasure](/pleasure)**：一般的な「楽しみ」や「満足感」を表し、delightよりもやや控えめ。
 
 delightは「心が躍るほどの強い喜び」、pleasureは「穏やかな楽しさや満足感」といったニュアンスの違いがあります。
 
@@ -106,14 +110,14 @@ delightは「心が躍るほどの強い喜び」、pleasureは「穏やかな�
 
 ## 🧩 あわせて覚えたい
 
-- [joy](/word/joy/)：純粋な喜び、幸せ
-- [disappointment](/word/disappointment/)：失望、がっかり
+- [joy](/joy)：純粋な喜び、幸せ
+- [disappointment](/disappointment)：失望、がっかり
 
 ---
 
 ## 📖 できればこれも
 
-- [satisfy](/word/satisfy/)：満足させる
-- [enjoy](/word/enjoy/)：楽しむ
+- [satisfy](/satisfy)：満足させる
+- [enjoy](/enjoy)：楽しむ
 
-<!-- cvid: aid18_bid44 -->
+<!-- cvid: aid35_bid16 -->

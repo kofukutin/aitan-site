@@ -81,15 +81,19 @@ TOEICでは、科学や医療に関する長文や説明文で「oxygen」が登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid27" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid27" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学や医療に関する長文や説明文で「oxygen」が登
 ## 🤔  air との違いは？
 
 - **oxygen**：空気中の成分の一つで、生物の呼吸や燃焼に不可欠な「酸素」そのものを指す。
-- **[air](/word/air/)**：酸素・窒素などが混ざった「空気」全体を指す。
+- **[air](/air)**：酸素・窒素などが混ざった「空気」全体を指す。
 
 oxygenは空気の中の特定の成分（酸素）を指し、airはその全体（空気）を指します。呼吸や化学の話題では区別が重要です。
 
@@ -105,14 +109,14 @@ oxygenは空気の中の特定の成分（酸素）を指し、airはその全�
 
 ## 🧩 あわせて覚えたい
 
-- [hydrogen](/word/hydrogen/)：水素（最も軽い気体）
-- [carbon dioxide](/word/carbon_dioxide/)：二酸化炭素（呼吸や燃焼で発生する気体）
+- [hydrogen](/hydrogen)：水素（最も軽い気体）
+- [carbon dioxide](/carbon_dioxide)：二酸化炭素（呼吸や燃焼で発生する気体）
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/word/element/)：元素、要素
-- [gas](/word/gas/)：気体
+- [element](/element)：元素、要素
+- [gas](/gas)：気体
 
-<!-- cvid: aid46_bid00 -->
+<!-- cvid: aid02_bid27 -->

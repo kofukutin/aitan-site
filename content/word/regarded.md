@@ -81,15 +81,19 @@ TOEICでは「be regarded as ～」の形で頻出し、受動態や評価を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be regarded as ～」の形で頻出し、受動態や評価を表
 ## 🤔  considered との違いは？
 
 - **regarded**：他者や社会から「～と見なされる」「評価される」というニュアンスが強い
-- **[considered](/word/considered/)**：主観的に「～と考えられる」「熟考される」という意味合いが強い
+- **[considered](/considered)**：主観的に「～と考えられる」「熟考される」という意味合いが強い
 
 「regarded」は外部からの評価や一般的な見方を表し、「considered」は個人や集団の判断・思考を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは「be regarded as ～」の形で頻出し、受動態や評価を表
 
 ## 🧩 あわせて覚えたい
 
-- [deem](/word/deem/)：～と判断する、～と見なす
-- [view](/word/view/)：～と考える、～と見る
+- [deem](/deem)：～と判断する、～と見なす
+- [view](/view)：～と考える、～と見る
 
 ---
 
 ## 📖 できればこれも
 
-- [acknowledge](/word/acknowledge/)：認める、承認する
-- [recognize](/word/recognize/)：認識する、認める
+- [acknowledge](/acknowledge)：認める、承認する
+- [recognize](/recognize)：認識する、認める
 
-<!-- cvid: aid44_bid22 -->
+<!-- cvid: aid46_bid37 -->

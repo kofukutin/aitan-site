@@ -81,15 +81,19 @@ TOEICでは「Where do you live?」など、住所や居住地を尋ねる場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid00_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「Where do you live?」など、住所や居住地を尋ねる場面
 ## 🤔  reside との違いは？
 
 - **live**：日常的に「住む」「生活する」を表すカジュアルな表現
-- **[reside](/word/reside/)**：よりフォーマルで法律文書や公式な場面で使われる「居住する」
+- **[reside](/reside)**：よりフォーマルで法律文書や公式な場面で使われる「居住する」
 
 「live」は普段の会話で使われ、「reside」は書類やフォーマルな文脈で使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは「Where do you live?」など、住所や居住地を尋ねる場面
 
 ## 🧩 あわせて覚えたい
 
-- [stay](/word/stay/)：一時的に滞在する
-- [dwell](/word/dwell/)：やや古風・文学的な「住む」
+- [stay](/stay)：一時的に滞在する
+- [dwell](/dwell)：やや古風・文学的な「住む」
 
 ---
 
 ## 📖 できればこれも
 
-- [work](/word/work/)：働く
-- [move](/word/move/)：引っ越す、移動する
+- [work](/work)：働く
+- [move](/move)：引っ越す、移動する
 
-<!-- cvid: aid26_bid00 -->
+<!-- cvid: aid00_bid31 -->

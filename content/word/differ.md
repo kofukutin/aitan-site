@@ -81,15 +81,19 @@ TOEICでは主に文法や語彙の選択肢として登場し、「異なる」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に文法や語彙の選択肢として登場し、「異なる」
 ## 🤔  vary との違いは？
 
 - **differ**：2つ以上のものが「互いに異なる」「違いがある」ときに使う。
-- **[vary](/word/vary/)**：物事が「変化する」「さまざまである」ときに使う。
+- **[vary](/vary)**：物事が「変化する」「さまざまである」ときに使う。
 
 differは「AとBが違う」と比較する場面で使い、varyは「状況や内容が変わる・幅がある」ときに使います。
 
@@ -105,14 +109,14 @@ differは「AとBが違う」と比較する場面で使い、varyは「状況�
 
 ## 🧩 あわせて覚えたい
 
-- [contrast](/word/contrast/)：対比する、対照をなす
-- [distinguish](/word/distinguish/)：区別する、見分ける
+- [contrast](/contrast)：対比する、対照をなす
+- [distinguish](/distinguish)：区別する、見分ける
 
 ---
 
 ## 📖 できればこれも
 
-- [compare](/word/compare/)：比較する
-- [separate](/word/separate/)：分ける、分離する
+- [compare](/compare)：比較する
+- [separate](/separate)：分ける、分離する
 
-<!-- cvid: aid21_bid36 -->
+<!-- cvid: aid20_bid46 -->

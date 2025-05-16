@@ -81,15 +81,19 @@ TOEICでは主にメールや通知文、社内連絡などで「urgent」が登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にメールや通知文、社内連絡などで「urgent」が登
 ## 🤔  important との違いは？
 
 - **urgent**：今すぐ対応が必要なほど差し迫っている
-- **[important](/word/important/)**：重要だが、必ずしも緊急性はない
+- **[important](/important)**：重要だが、必ずしも緊急性はない
 
 urgentは「時間的な切迫感」があり、importantは「価値や重要性」を強調します。たとえば、urgentは「今すぐやるべき」、importantは「大切だが急ぎではない」場合に使い分けます。
 
@@ -105,14 +109,14 @@ urgentは「時間的な切迫感」があり、importantは「価値や重要�
 
 ## 🧩 あわせて覚えたい
 
-- [immediate](/word/immediate/)：即時の、すぐの
-- [critical](/word/critical/)：重大な、危機的な
+- [immediate](/immediate)：即時の、すぐの
+- [critical](/critical)：重大な、危機的な
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/word/essential/)：不可欠な、絶対必要な
-- [priority](/word/priority/)：優先事項、優先順位
+- [essential](/essential)：不可欠な、絶対必要な
+- [priority](/priority)：優先事項、優先順位
 
-<!-- cvid: aid01_bid21 -->
+<!-- cvid: aid46_bid13 -->

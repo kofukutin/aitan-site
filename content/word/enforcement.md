@@ -81,15 +81,19 @@ TOEICでは法務や規則に関する長文や通知文でよく登場します
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid12_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは法務や規則に関する長文や通知文でよく登場します
 ## 🤔  implementation との違いは？
 
 - **enforcement**：法律や規則を「守らせる」「強制する」こと
-- **[implementation](/word/implementation/)**：計画や政策を「実行・導入する」こと
+- **[implementation](/implementation)**：計画や政策を「実行・導入する」こと
 
 enforcementは「強制力を伴う執行」、implementationは「計画的な実施」という違いがあります。
 
@@ -105,15 +109,15 @@ enforcementは「強制力を伴う執行」、implementationは「計画的な�
 
 ## 🧩 あわせて覚えたい
 
-- [regulation](/word/regulation/)：規則、規制
-- [compliance](/word/compliance/)：遵守、従うこと
+- [regulation](/regulation)：規則、規制
+- [compliance](/compliance)：遵守、従うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [penalty](/word/penalty/)：罰則、ペナルティ
-- [violation](/word/violation/)：違反
+- [penalty](/penalty)：罰則、ペナルティ
+- [violation](/violation)：違反
 
 
-<!-- cvid: aid00_bid04 -->
+<!-- cvid: aid12_bid49 -->

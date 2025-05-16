@@ -81,15 +81,19 @@ TOEICでは経済記事や健康に関する長文で登場することが多く
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid15" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid15" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは経済記事や健康に関する長文で登場することが多く
 ## 🤔  recession との違いは？
 
 - **depression**：深刻で長期的な経済不況や、精神的な落ち込みを指す
-- **[recession](/word/recession/)**：一時的な景気後退を指す
+- **[recession](/recession)**：一時的な景気後退を指す
 
 depressionはrecessionよりも規模や深刻さが大きく、精神面にも使われます。
 
@@ -105,14 +109,14 @@ depressionはrecessionよりも規模や深刻さが大きく、精神面にも�
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety/)：不安、心配
-- [prosperity](/word/prosperity/)：繁栄、好景気
+- [anxiety](/anxiety)：不安、心配
+- [prosperity](/prosperity)：繁栄、好景気
 
 ---
 
 ## 📖 できればこれも
 
-- [crisis](/word/crisis/)：危機、重大局面
-- [recovery](/word/recovery/)：回復、復興
+- [crisis](/crisis)：危機、重大局面
+- [recovery](/recovery)：回復、復興
 
-<!-- cvid: aid22_bid11 -->
+<!-- cvid: aid33_bid15 -->

@@ -81,15 +81,19 @@ TOEICでは、メールやビジネス文書、推薦状などの文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールやビジネス文書、推薦状などの文脈でよく
 ## 🤔  suggestion との違いは？
 
 - **recommendation**：専門的・公式な立場からの「推薦」や「勧告」を意味し、ややフォーマル。
-- **[suggestion](/word/suggestion/)**：気軽な「提案」や「助言」を意味し、カジュアルな場面でも使える。
+- **[suggestion](/suggestion)**：気軽な「提案」や「助言」を意味し、カジュアルな場面でも使える。
 
 recommendationは信頼性や権威を伴う場合が多く、suggestionは日常的なアドバイスや意見に使われます。
 
@@ -105,14 +109,14 @@ recommendationは信頼性や権威を伴う場合が多く、suggestionは日�
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/word/reference/)：参照、推薦（名詞）
-- [endorsement](/word/endorsement/)：支持、承認（名詞）
+- [reference](/reference)：参照、推薦（名詞）
+- [endorsement](/endorsement)：支持、承認（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice/)：助言、アドバイス（名詞）
-- [proposal](/word/proposal/)：提案（名詞）
+- [advice](/advice)：助言、アドバイス（名詞）
+- [proposal](/proposal)：提案（名詞）
 
-<!-- cvid: aid08_bid38 -->
+<!-- cvid: aid29_bid22 -->

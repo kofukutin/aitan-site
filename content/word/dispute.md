@@ -82,15 +82,19 @@ TOEICでは契約やビジネス上のトラブル、意見の対立を扱う長
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid45" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid45" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは契約やビジネス上のトラブル、意見の対立を扱う長
 ## 🤔  argue との違いは？
 
 - **dispute**：主にフォーマルな場で、事実や意見に対して異議を唱える・論争する
-- **[argue](/word/argue/)**：日常的な口論から論理的な議論まで幅広く使われる
+- **[argue](/argue)**：日常的な口論から論理的な議論まで幅広く使われる
 
 disputeはビジネスや法的な対立など、より公式な場面で使われる傾向があり、argueは日常的な口論や議論にも使えます。
 
@@ -106,14 +110,14 @@ disputeはビジネスや法的な対立など、より公式な場面で使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate/)：討論する、討論
-- [conflict](/word/conflict/)：対立、衝突
+- [debate](/debate)：討論する、討論
+- [conflict](/conflict)：対立、衝突
 
 ---
 
 ## 📖 できればこれも
 
-- [negotiate](/word/negotiate/)：交渉する
-- [object](/word/object/)：反対する、異議を唱える
+- [negotiate](/negotiate)：交渉する
+- [object](/object)：反対する、異議を唱える
 
-<!-- cvid: aid20_bid34 -->
+<!-- cvid: aid09_bid45 -->

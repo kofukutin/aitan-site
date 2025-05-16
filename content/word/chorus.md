@@ -81,15 +81,19 @@ TOEICでは、音楽やイベント、集団活動に関する会話や説明文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid19_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、音楽やイベント、集団活動に関する会話や説明文
 ## 🤔  choir との違いは？
 
 - **chorus**：合唱、合唱団、または歌のサビ部分を指す
-- **[choir](/word/choir/)**：宗教的・公式な合唱団を指すことが多い
+- **[choir](/choir)**：宗教的・公式な合唱団を指すことが多い
 
 chorusは「合唱」や「サビ」など幅広く使われますが、choirは特に教会や学校などの正式な合唱団を指します。
 
@@ -105,14 +109,14 @@ chorusは「合唱」や「サビ」など幅広く使われますが、choirは
 
 ## 🧩 あわせて覚えたい
 
-- [solo](/word/solo/)：独唱、ソロ
-- [melody](/word/melody/)：旋律、メロディー
+- [solo](/solo)：独唱、ソロ
+- [melody](/melody)：旋律、メロディー
 
 ---
 
 ## 📖 できればこれも
 
-- [verse](/word/verse/)：（歌の）節、詩の一節
-- [performance](/word/performance/)：演奏、上演
+- [verse](/verse)：（歌の）節、詩の一節
+- [performance](/performance)：演奏、上演
 
-<!-- cvid: aid03_bid09 -->
+<!-- cvid: aid19_bid08 -->

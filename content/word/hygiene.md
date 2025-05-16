@@ -81,15 +81,19 @@ TOEICでは、職場や医療、食品関連の長文で「hygiene」が登場�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や医療、食品関連の長文で「hygiene」が登場�
 ## 🤔  sanitation との違いは？
 
 - **hygiene**：個人や日常生活での衛生や清潔さを指す
-- **[sanitation](/word/sanitation/)**：公共の衛生設備や環境衛生を指す
+- **[sanitation](/sanitation)**：公共の衛生設備や環境衛生を指す
 
 hygieneは個人の習慣や清潔さ、sanitationはインフラや社会全体の衛生管理に使われます。
 
@@ -105,14 +109,14 @@ hygieneは個人の習慣や清潔さ、sanitationはインフラや社会全体
 
 ## 🧩 あわせて覚えたい
 
-- [cleanliness](/word/cleanliness/)：清潔さ
-- [infection](/word/infection/)：感染
+- [cleanliness](/cleanliness)：清潔さ
+- [infection](/infection)：感染
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease/)：病気
-- [health](/word/health/)：健康
+- [disease](/disease)：病気
+- [health](/health)：健康
 
-<!-- cvid: aid37_bid43 -->
+<!-- cvid: aid21_bid34 -->

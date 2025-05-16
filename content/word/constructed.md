@@ -81,15 +81,19 @@ TOEICでは「be constructed」「constructed by」など受動態や過去分�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+続ける流れを作ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid26_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid26_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「be constructed」「constructed by」など受動態や過去分�
 ## 🤔  built との違いは？
 
 - **constructed**：計画的・フォーマルに「建設した」「組み立てた」
-- **[built](/word/built/)**：より一般的で口語的な「建てた」「作った」
+- **[built](/built)**：より一般的で口語的な「建てた」「作った」
 
 「constructed」は設計や計画に基づくニュアンスが強く、公式文書や技術的な場面で使われやすいです。「built」は日常的な「建てた」「作った」に幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは「be constructed」「constructed by」など受動態や過去分�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble/)：組み立てる
-- [demolish](/word/demolish/)：取り壊す
+- [assemble](/assemble)：組み立てる
+- [demolish](/demolish)：取り壊す
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish/)：設立する、確立する
-- [design](/word/design/)：設計する
+- [establish](/establish)：設立する、確立する
+- [design](/design)：設計する
 
-<!-- cvid: aid36_bid03 -->
+<!-- cvid: aid26_bid33 -->

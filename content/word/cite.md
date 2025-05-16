@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文読解で、レポートや記事、学術的な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文読解で、レポートや記事、学術的な
 ## 🤔  quote との違いは？
 
 - **cite**：根拠や例として「引用する」「挙げる」（フォーマルで学術的な場面が多い）
-- **[quote](/word/quote/)**：「そのままの言葉を引用する」ことに重点（会話や文章で直接引用する場合によく使う）
+- **[quote](/quote)**：「そのままの言葉を引用する」ことに重点（会話や文章で直接引用する場合によく使う）
 
 citeは根拠や出典を示すときに使い、quoteは実際の言葉や文章をそのまま抜き出すときに使います。
 
@@ -105,14 +109,14 @@ citeは根拠や出典を示すときに使い、quoteは実際の言葉や文�
 
 ## 🧩 あわせて覚えたい
 
-- [refer](/word/refer/)：言及する、参照する
-- [mention](/word/mention/)：軽く触れる、言及する
+- [refer](/refer)：言及する、参照する
+- [mention](/mention)：軽く触れる、言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/word/summarize/)：要約する
-- [paraphrase](/word/paraphrase/)：言い換える
+- [summarize](/summarize)：要約する
+- [paraphrase](/paraphrase)：言い換える
 
-<!-- cvid: aid03_bid28 -->
+<!-- cvid: aid24_bid24 -->

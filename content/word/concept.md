@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文や説明文で「基本的な考え方」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid27_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文や説明文で「基本的な考え方」や「
 ## 🤔  idea との違いは？
 
 - **concept**：抽象的で広い「概念」や「枠組み」を指す
-- **[idea](/word/idea/)**：具体的な「アイデア」や「思いつき」を指す
+- **[idea](/idea)**：具体的な「アイデア」や「思いつき」を指す
 
 conceptは理論や計画の土台となる抽象的な枠組み、ideaは日常的なひらめきや具体的な提案に使われます。
 
@@ -105,14 +109,14 @@ conceptは理論や計画の土台となる抽象的な枠組み、ideaは日常
 
 ## 🧩 あわせて覚えたい
 
-- [theory](/word/theory/)：理論、体系的な説明
-- [notion](/word/notion/)：漠然とした考え、観念
+- [theory](/theory)：理論、体系的な説明
+- [notion](/notion)：漠然とした考え、観念
 
 ---
 
 ## 📖 できればこれも
 
-- [principle](/word/principle/)：原理、基本方針
-- [approach](/word/approach/)：取り組み方、アプローチ
+- [principle](/principle)：原理、基本方針
+- [approach](/approach)：取り組み方、アプローチ
 
-<!-- cvid: aid23_bid28 -->
+<!-- cvid: aid27_bid33 -->

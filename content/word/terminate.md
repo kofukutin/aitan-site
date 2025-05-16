@@ -81,15 +81,19 @@ TOEICでは主に契約や雇用、サービスの「終了」に関する文脈
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid06" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid06" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に契約や雇用、サービスの「終了」に関する文脈
 ## 🤔  finish との違いは？
 
 - **terminate**：フォーマルに「正式に終わらせる」「打ち切る」という意味で使う
-- **[finish](/word/finish/)**：一般的に「終える」「仕上げる」と幅広く使う
+- **[finish](/finish)**：一般的に「終える」「仕上げる」と幅広く使う
 
 terminateは契約や雇用など公式なものの終了に使われ、finishは日常的な作業や行動の完了に使われます。
 
@@ -105,14 +109,14 @@ terminateは契約や雇用など公式なものの終了に使われ、finish�
 
 ## 🧩 あわせて覚えたい
 
-- [cease](/word/cease/)：やめる、中止する
-- [cancel](/word/cancel/)：取り消す、中止する
+- [cease](/cease)：やめる、中止する
+- [cancel](/cancel)：取り消す、中止する
 
 ---
 
 ## 📖 できればこれも
 
-- [resign](/word/resign/)：辞職する、辞める
-- [approve](/word/approve/)：承認する、認める
+- [resign](/resign)：辞職する、辞める
+- [approve](/approve)：承認する、認める
 
-<!-- cvid: aid40_bid02 -->
+<!-- cvid: aid04_bid06 -->

@@ -17,7 +17,7 @@ related_words:
   - "concerning"
 next_words:
   - "above"
-  - "after"
+  - "across"
 last_update: "2025-05-04"
 ---
 
@@ -32,43 +32,32 @@ last_update: "2025-05-04"
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
-}
-</script>
+[前置詞] ～について、約、およそ
 
-[前置詞] ～について、約～
+**about** は、「～について」「およそ」「…のあたりに」など、話題や数量・場所の目安を表すときによく使われる前置詞です。
 
-**about** は、「～について」「およそ」「周囲に」など、話題や数量、位置を表すときによく使われる前置詞です。
-
-語源は古英語の「onbūtan」（周囲に）から来ており、「囲む」「関連する」という意味合いが広がって今の使い方になりました。
-
-他の品詞：  
-- about（副詞）：およそ、だいたい（副詞）
-- about（形容詞）：（古風）動き回っている（形容詞）
+語源は古英語「abutan」（周囲に、回りに）から来ており、「何かの周り」「関連すること」を表す意味が発展しました。
 
 ---
 
 ## ✏️ aboutの例文
 
 【日常会話】  
-I'm thinking about dinner.  
-　夕食について考えているよ。
+What are you talking about?  
+　何について話しているの？
 
 【ビジネス英語】  
-We need to talk about the new project.  
-　新しいプロジェクトについて話し合う必要があります。
+We have a meeting about the new project.  
+　新しいプロジェクトについて会議があります。
 
 ---
 
 ## 🎯 TOEICの出題頻度と傾向
 
 - 難易度：★☆☆☆☆
-- 出題パート：Part 3（会話問題）
+- 出題パート：Part 3（会話文での話題や内容説明）
 
-TOEICでは会話や説明文で「～について」「約～」の意味で頻出します。前置詞としての使い方を問う問題が多いです。
+TOEICでは会話や説明文で「～について」「およそ」といった意味で頻出します。特に話題の提示や数量の目安を示す場面でよく見かけます。
 
 ---
 
@@ -76,50 +65,54 @@ TOEICでは会話や説明文で「～について」「約～」の意味で頻
 
 正しい使い方はどっち？
 
-1. I have a question about the schedule.  
-2. I have a question around the schedule.
+1. I have a question about your report.  
+2. I have a question around your report.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：「～について」はaboutを使うのが自然です。aroundは物理的な「周囲」を表します。
+- 解説：「～について」と言いたい場合はaboutが自然です。aroundは「周辺」や「おおよそ」の意味で使われます。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid11" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid11" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
 
 ## 🤔  around との違いは？
 
-- **about**：話題や内容、数量の「～について」「約～」を表す。
-- **[around](/word/around/)**：物理的な「周囲」や「おおよそ」の意味で使う。
+- **about**：話題や内容、数量の「～について」「およそ」を表す
+- **[around](/around)**：物理的な「周囲」や「だいたい」の範囲を表す
 
-aboutは話題や内容に焦点を当てるのに対し、aroundは位置や範囲、物理的な周囲を表すときに使います。
+aboutは「話題」や「内容」に焦点があり、aroundは「場所」や「範囲」に焦点がある点が大きな違いです。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [regarding](/word/regarding/)：～に関して
-- [concerning](/word/concerning/)：～に関して
+- [regarding](/regarding)：～に関して
+- [concerning](/concerning)：～に関して
 
 ---
 
 ## 📖 できればこれも
 
-- [above](/word/above/)：～の上に
-- [after](/word/after/)：～の後に
----
-<!-- cvid: aid32_bid10 -->
+- [above](/above)：～の上に
+- [across](/across)：～を横切って
+
+<!-- cvid: aid21_bid11 -->

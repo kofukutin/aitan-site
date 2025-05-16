@@ -82,15 +82,19 @@ TOEICでは、公式文書や発表、通知などの長文読解問題で頻出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、公式文書や発表、通知などの長文読解問題で頻出
 ## 🤔  formal との違いは？
 
 - **official**：政府や組織などの「公式な」「公的な」ものに使う
-- **[formal](/word/formal/)**：形式や礼儀に従った「フォーマルな」「格式ばった」ものに使う
+- **[formal](/formal)**：形式や礼儀に従った「フォーマルな」「格式ばった」ものに使う
 
 「official」は組織や権威による「公式性」を強調し、「formal」はマナーやルールに従った「形式的」な場面で使います。
 
@@ -106,14 +110,14 @@ TOEICでは、公式文書や発表、通知などの長文読解問題で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [authorized](/word/authorized/)：権限のある、認可された
-- [unofficial](/word/unofficial/)：非公式の
+- [authorized](/authorized)：権限のある、認可された
+- [unofficial](/unofficial)：非公式の
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/word/legal/)：法律の、合法の
-- [public](/word/public/)：公の、公的な
+- [legal](/legal)：法律の、合法の
+- [public](/public)：公の、公的な
 
-<!-- cvid: aid49_bid10 -->
+<!-- cvid: aid29_bid46 -->

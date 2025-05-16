@@ -81,15 +81,19 @@ TOEICでは主に会社の新商品やサービス紹介、ビジネス文書で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid19" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid19" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に会社の新商品やサービス紹介、ビジネス文書で
 ## 🤔  proposal との違いは？
 
 - **offering**：企業や個人が提供する「商品」「サービス」「差し出すもの」全般を指す
-- **[proposal](/word/proposal/)**：提案や計画書など「提案内容」そのものを指す
+- **[proposal](/proposal)**：提案や計画書など「提案内容」そのものを指す
 
 「offering」は実際に提供される物やサービスを指し、「proposal」はまだ実現していない提案や計画を表します。
 
@@ -105,14 +109,14 @@ TOEICでは主に会社の新商品やサービス紹介、ビジネス文書で
 
 ## 🧩 あわせて覚えたい
 
-- [contribution](/word/contribution/)：貢献、寄付
-- [product](/word/product/)：製品、商品
+- [contribution](/contribution)：貢献、寄付
+- [product](/product)：製品、商品
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation/)：発表、プレゼン
-- [service](/word/service/)：サービス、業務
+- [presentation](/presentation)：発表、プレゼン
+- [service](/service)：サービス、業務
 
-<!-- cvid: aid03_bid14 -->
+<!-- cvid: aid43_bid19 -->

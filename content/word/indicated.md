@@ -81,15 +81,19 @@ TOEICでは、文中で「示す」「指摘する」という意味でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、文中で「示す」「指摘する」という意味でよく出
 ## 🤔  suggested との違いは？
 
 - **indicated**：事実や証拠をもとに「はっきり示す」「明確に指摘する」
-- **[suggested](/word/suggested/)**：やんわりと「提案する」「ほのめかす」
+- **[suggested](/suggested)**：やんわりと「提案する」「ほのめかす」
 
 indicatedは客観的な情報や証拠をもとに明確に示す場合に使い、suggestedは控えめに意見や可能性を示唆する場合に使います。
 
@@ -105,14 +109,14 @@ indicatedは客観的な情報や証拠をもとに明確に示す場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [show](/word/show/)：見せる、示す
-- [imply](/word/imply/)：暗に示す、ほのめかす
+- [show](/show)：見せる、示す
+- [imply](/imply)：暗に示す、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm/)：確認する、確かめる
-- [recommend](/word/recommend/)：勧める、推薦する
+- [confirm](/confirm)：確認する、確かめる
+- [recommend](/recommend)：勧める、推薦する
 
-<!-- cvid: aid18_bid48 -->
+<!-- cvid: aid42_bid41 -->

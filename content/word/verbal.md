@@ -81,15 +81,19 @@ TOEICでは「verbal agreement（口頭合意）」や「verbal communication（
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid15_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「verbal agreement（口頭合意）」や「verbal communication（
 ## 🤔  oral との違いは？
 
 - **verbal**：言葉や言語に関する、または口頭の
-- **[oral](/word/oral/)**：口（口頭）での、話し言葉の
+- **[oral](/oral)**：口（口頭）での、話し言葉の
 
 「verbal」は「言葉全般」に関する広い意味を持ちますが、「oral」は「口で話すこと」に限定されます。例えば「verbal agreement」は「口頭合意」ですが、「oral presentation」は「口頭発表」となります。
 
@@ -105,14 +109,14 @@ TOEICでは「verbal agreement（口頭合意）」や「verbal communication（
 
 ## 🧩 あわせて覚えたい
 
-- [written](/word/written/)：書かれた、書面の
-- [nonverbal](/word/nonverbal/)：非言語的な、言葉を使わない
+- [written](/written)：書かれた、書面の
+- [nonverbal](/nonverbal)：非言語的な、言葉を使わない
 
 ---
 
 ## 📖 できればこれも
 
-- [vivid](/word/vivid/)：生き生きとした、鮮やかな
-- [concise](/word/concise/)：簡潔な
+- [vivid](/vivid)：生き生きとした、鮮やかな
+- [concise](/concise)：簡潔な
 
-<!-- cvid: aid28_bid46 -->
+<!-- cvid: aid15_bid33 -->

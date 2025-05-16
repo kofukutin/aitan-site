@@ -81,15 +81,19 @@ TOEICでは、調査報告や分析に関する長文で「quantitative analysis
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、調査報告や分析に関する長文で「quantitative analysis
 ## 🤔  qualitative との違いは？
 
 - **quantitative**：数量で測れる、数値化できる
-- **[qualitative](/word/qualitative/)**：質的な、性質に関する
+- **[qualitative](/qualitative)**：質的な、性質に関する
 
 quantitativeは「数値や量」に注目し、qualitativeは「性質や質」に注目する点が大きな違いです。
 
@@ -105,14 +109,14 @@ quantitativeは「数値や量」に注目し、qualitativeは「性質や質」
 
 ## 🧩 あわせて覚えたい
 
-- [numerical](/word/numerical/)：数値の、数字で表した
-- [measurable](/word/measurable/)：測定できる、計量できる
+- [numerical](/numerical)：数値の、数字で表した
+- [measurable](/measurable)：測定できる、計量できる
 
 ---
 
 ## 📖 できればこれも
 
-- [statistical](/word/statistical/)：統計の、統計的な
-- [empirical](/word/empirical/)：経験に基づいた、実証的な
+- [statistical](/statistical)：統計の、統計的な
+- [empirical](/empirical)：経験に基づいた、実証的な
 
-<!-- cvid: aid45_bid21 -->
+<!-- cvid: aid37_bid49 -->

@@ -82,15 +82,19 @@ TOEICでは、機器やシステムの「切り替え」や「変更」に関す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid38" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid38" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、機器やシステムの「切り替え」や「変更」に関す
 ## 🤔  changed との違いは？
 
 - **switched**：何かを別のものに切り替える、交換するニュアンス
-- **[changed](/word/changed/)**：一般的に「変える」「変更する」という幅広い意味
+- **[changed](/changed)**：一般的に「変える」「変更する」という幅広い意味
 
 switchedは「AからBへ切り替える」といった具体的な交換や移行に使われ、changedは内容や状態の変化全般に使われます。
 
@@ -106,14 +110,14 @@ switchedは「AからBへ切り替える」といった具体的な交換や移�
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace/)：取り替える、交換する
-- [convert](/word/convert/)：変換する、転換する
+- [replace](/replace)：取り替える、交換する
+- [convert](/convert)：変換する、転換する
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/word/connect/)：接続する、つなぐ
-- [update](/word/update/)：更新する、新しくする
+- [connect](/connect)：接続する、つなぐ
+- [update](/update)：更新する、新しくする
 
-<!-- cvid: aid49_bid14 -->
+<!-- cvid: aid00_bid38 -->

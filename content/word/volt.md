@@ -81,15 +81,19 @@ TOEICでは、製品仕様や技術的な説明文でvoltが登場すること�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品仕様や技術的な説明文でvoltが登場すること�
 ## 🤔  watt との違いは？
 
 - **volt**：電圧（電気の圧力や差）を表す単位
-- **[watt](/word/watt/)**：電力（消費・発生するエネルギー量）を表す単位
+- **[watt](/watt)**：電力（消費・発生するエネルギー量）を表す単位
 
 voltは「どれだけの電気の圧力がかかっているか」、wattは「どれだけの電力が使われているか」を示します。家電の仕様などで混同しやすいので注意しましょう。
 
@@ -105,14 +109,14 @@ voltは「どれだけの電気の圧力がかかっているか」、wattは「
 
 ## 🧩 あわせて覚えたい
 
-- [ampere](/word/ampere/)：電流の単位（アンペア）
-- [ohm](/word/ohm/)：電気抵抗の単位（オーム）
+- [ampere](/ampere)：電流の単位（アンペア）
+- [ohm](/ohm)：電気抵抗の単位（オーム）
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/word/current/)：電流
-- [circuit](/word/circuit/)：回路
+- [current](/current)：電流
+- [circuit](/circuit)：回路
 
-<!-- cvid: aid28_bid33 -->
+<!-- cvid: aid31_bid22 -->

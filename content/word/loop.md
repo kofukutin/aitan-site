@@ -81,15 +81,19 @@ ITやビジネスの説明文、手順書などで「loop」は繰り返しや�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+ペースを崩さず進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid18_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid18_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの説明文、手順書などで「loop」は繰り返しや�
 ## 🤔  cycle との違いは？
 
 - **loop**：同じ動作や処理が何度も繰り返される「輪」や「ループ」。
-- **[cycle](/word/cycle/)**：始まりと終わりがある「周期」や「サイクル」。
+- **[cycle](/cycle)**：始まりと終わりがある「周期」や「サイクル」。
 
 loopは「終わりなく繰り返す」ニュアンスが強く、cycleは「一定の流れや期間を経てまた始まる」イメージです。
 
@@ -105,14 +109,14 @@ loopは「終わりなく繰り返す」ニュアンスが強く、cycleは「�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/word/circle/)：円、丸
-- [iteration](/word/iteration/)：反復、繰り返し
+- [circle](/circle)：円、丸
+- [iteration](/iteration)：反復、繰り返し
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line/)：線
-- [process](/word/process/)：過程、処理
+- [line](/line)：線
+- [process](/process)：過程、処理
 
-<!-- cvid: aid04_bid42 -->
+<!-- cvid: aid18_bid10 -->

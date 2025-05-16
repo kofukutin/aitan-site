@@ -81,15 +81,19 @@ TOEICでは会議や業務の説明、設備管理などの文脈で「maintaini
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid04_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や業務の説明、設備管理などの文脈で「maintaini
 ## 🤔  keeping との違いは？
 
 - **maintaining**：一定の状態や品質を継続的に保つ、管理するニュアンス
-- **[keeping](/word/keeping/)**：単に「持ち続ける」「保管する」など広い意味で使う
+- **[keeping](/keeping)**：単に「持ち続ける」「保管する」など広い意味で使う
 
 maintainingは「管理・維持」の意識が強く、keepingは「そのまま持っている」イメージです。
 
@@ -105,14 +109,14 @@ maintainingは「管理・維持」の意識が強く、keepingは「そのま�
 
 ## 🧩 あわせて覚えたい
 
-- [preserve](/word/preserve/)：保存する、守る
-- [sustain](/word/sustain/)：持続させる、支える
+- [preserve](/preserve)：保存する、守る
+- [sustain](/sustain)：持続させる、支える
 
 ---
 
 ## 📖 できればこれも
 
-- [improving](/word/improving/)：改善すること
-- [operating](/word/operating/)：運営すること
+- [improving](/improving)：改善すること
+- [operating](/operating)：運営すること
 
-<!-- cvid: aid08_bid45 -->
+<!-- cvid: aid04_bid40 -->

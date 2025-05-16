@@ -81,15 +81,19 @@ TOEICでは、電子機器やオフィス用品の話題で「battery」がよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電子機器やオフィス用品の話題で「battery」がよ�
 ## 🤔  cell との違いは？
 
 - **battery**：複数のセルが組み合わさった電池全体やバッテリー装置を指す。
-- **[cell](/word/cell/)**：バッテリーを構成する最小単位の「セル」や単体の電池を指す。
+- **[cell](/cell)**：バッテリーを構成する最小単位の「セル」や単体の電池を指す。
 
 batteryはスマホや車などの「バッテリー全体」を指し、cellはその中の「個々の電池部分」を意味します。
 
@@ -105,14 +109,14 @@ batteryはスマホや車などの「バッテリー全体」を指し、cellは
 
 ## 🧩 あわせて覚えたい
 
-- [charger](/word/charger/)：充電器
-- [power](/word/power/)：電力、電源
+- [charger](/charger)：充電器
+- [power](/power)：電力、電源
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：機器、装置
-- [cable](/word/cable/)：ケーブル
+- [device](/device)：機器、装置
+- [cable](/cable)：ケーブル
 
-<!-- cvid: aid24_bid30 -->
+<!-- cvid: aid47_bid05 -->

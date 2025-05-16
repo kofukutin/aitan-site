@@ -81,15 +81,19 @@ TOEICでは「active member（積極的なメンバー）」や「active partici
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「active member（積極的なメンバー）」や「active partici
 ## 🤔  energetic との違いは？
 
 - **active**：行動や参加が積極的で、実際に動いていることを強調。
-- **[energetic](/word/energetic/)**：エネルギーや元気がある様子を強調。
+- **[energetic](/energetic)**：エネルギーや元気がある様子を強調。
 
 activeは「実際に行動する」ことに重点があり、energeticは「元気・活力がある」ことに重点があります。
 
@@ -105,14 +109,14 @@ activeは「実際に行動する」ことに重点があり、energeticは「�
 
 ## 🧩 あわせて覚えたい
 
-- [passive](/word/passive/)：受け身の、消極的な
-- [dynamic](/word/dynamic/)：躍動的な、活発な
+- [passive](/passive)：受け身の、消極的な
+- [dynamic](/dynamic)：躍動的な、活発な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [productive](/word/productive/)：生産的な
+- [efficient](/efficient)：効率的な
+- [productive](/productive)：生産的な
 
-<!-- cvid: aid31_bid45 -->
+<!-- cvid: aid07_bid46 -->

@@ -82,15 +82,19 @@ TOEICでは、国際的な支援活動や社会貢献に関する記事・メー
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、国際的な支援活動や社会貢献に関する記事・メー
 ## 🤔  philanthropic との違いは？
 
 - **humanitarian**：人道的な、苦しむ人を助けることに重点を置く
-- **[philanthropic](/word/philanthropic/)**：慈善的な、主に寄付や社会貢献活動に重点を置く
+- **[philanthropic](/philanthropic)**：慈善的な、主に寄付や社会貢献活動に重点を置く
 
 humanitarianは「困っている人を直接助ける行動や考え方」に焦点があり、philanthropicは「お金や資源を使って社会全体のために貢献する」ニュアンスが強いです。
 
@@ -106,13 +110,13 @@ humanitarianは「困っている人を直接助ける行動や考え方」に�
 
 ## 🧩 あわせて覚えたい
 
-- [charitable](/word/charitable/)：慈善的な、寛大な
-- [compassionate](/word/compassionate/)：思いやりのある、情け深い
+- [charitable](/charitable)：慈善的な、寛大な
+- [compassionate](/compassionate)：思いやりのある、情け深い
 
 ---
 
 ## 📖 できればこれも
 
-- [ethical](/word/ethical/)：倫理的な、道徳的な
-- [generous](/word/generous/)：気前のよい、寛大な
-<!-- cvid: aid26_bid48 -->
+- [ethical](/ethical)：倫理的な、道徳的な
+- [generous](/generous)：気前のよい、寛大な
+<!-- cvid: aid36_bid14 -->

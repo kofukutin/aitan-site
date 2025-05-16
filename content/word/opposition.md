@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や社内メールなどで「反対意見」や
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid29" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid29" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や社内メールなどで「反対意見」や
 ## 🤔  resistance との違いは？
 
 - **opposition**：意見や立場の「反対」や「対立」を表し、組織や集団の反対勢力も指す。
-- **[resistance](/word/resistance/)**：物理的・精神的な「抵抗」や「反発」を表し、受け身的なニュアンスが強い。
+- **[resistance](/resistance)**：物理的・精神的な「抵抗」や「反発」を表し、受け身的なニュアンスが強い。
 
 「opposition」は主に意見や立場の対立、「resistance」は力や変化に対する抵抗を表します。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や社内メールなどで「反対意見」や
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support/)：支持、支援
-- [conflict](/word/conflict/)：対立、衝突
+- [support](/support)：支持、支援
+- [conflict](/conflict)：対立、衝突
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal/)：提案
-- [agreement](/word/agreement/)：合意
+- [proposal](/proposal)：提案
+- [agreement](/agreement)：合意
 
-<!-- cvid: aid06_bid40 -->
+<!-- cvid: aid10_bid29 -->

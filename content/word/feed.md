@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「情報を供給する」「食事を与え
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼アプリで楽しく学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid16" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid16" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「情報を供給する」「食事を与え
 ## 🤔  supply との違いは？
 
 - **feed**：食べ物や情報などを直接与える・投入するニュアンス
-- **[supply](/word/supply/)**：必要なものを供給・提供する、ややフォーマルな印象
+- **[supply](/supply)**：必要なものを供給・提供する、ややフォーマルな印象
 
 feedは「直接的に与える」イメージが強く、supplyは「必要に応じて供給する」場面で使われます。
 
@@ -105,14 +109,14 @@ feedは「直接的に与える」イメージが強く、supplyは「必要に�
 
 ## 🧩 あわせて覚えたい
 
-- [nourish](/word/nourish/)：栄養を与える
-- [provide](/word/provide/)：提供する
+- [nourish](/nourish)：栄養を与える
+- [provide](/provide)：提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/word/deliver/)：配達する、届ける
-- [receive](/word/receive/)：受け取る
+- [deliver](/deliver)：配達する、届ける
+- [receive](/receive)：受け取る
 
-<!-- cvid: aid45_bid03 -->
+<!-- cvid: aid32_bid16 -->

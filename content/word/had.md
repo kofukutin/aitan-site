@@ -77,15 +77,19 @@ TOEICでは時制や完了形の文法問題で頻出です。haveの過去形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid16_bid17" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid17" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは時制や完了形の文法問題で頻出です。haveの過去形�
 ## 🤔  have との違いは？
 
 - **had**：haveの過去形・過去分詞。過去の所有や経験、過去完了で使う。
-- **[have](/word/have/)**：現在の所有や経験を表す基本形。
+- **[have](/have)**：現在の所有や経験を表す基本形。
 
 「had」は過去や完了の文脈で使い、「have」は現在の状態や習慣を表します。
 
@@ -101,14 +105,14 @@ TOEICでは時制や完了形の文法問題で頻出です。haveの過去形�
 
 ## 🧩 あわせて覚えたい
 
-- [has](/word/has/)：haveの三人称単数現在形
-- [owned](/word/owned/)：所有していた（ownの過去形・過去分詞）
+- [has](/has)：haveの三人称単数現在形
+- [owned](/owned)：所有していた（ownの過去形・過去分詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [did](/word/did/)：doの過去形
-- [was](/word/was/)：be動詞の過去形（主語がI, he, she, itのとき）
+- [did](/did)：doの過去形
+- [was](/was)：be動詞の過去形（主語がI, he, she, itのとき）
 
-<!-- cvid: aid43_bid31 -->
+<!-- cvid: aid16_bid17 -->

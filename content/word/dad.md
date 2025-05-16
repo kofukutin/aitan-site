@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【dad】の意味・使い方・例文 ― fatherとの違い【TOEIC英単語】"
 description: "dadの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfatherとの違いもわかりやすく学べます。"
 word: "dad"
@@ -81,15 +81,19 @@ TOEICでは家族写真や日常の場面を描写する問題で「dad」が登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+集中できているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid38_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid38_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは家族写真や日常の場面を描写する問題で「dad」が登
 ## 🤔  father との違いは？
 
 - **dad**：家族や親しい人同士で使うカジュアルな「お父さん」
-- **[father](/word/father/)**：フォーマルな場面や書類などで使う「父」
+- **[father](/father)**：フォーマルな場面や書類などで使う「父」
 
 「dad」は親しみやすい響きで、日常会話や子どもが使う表現です。「father」は改まった場面や正式な書き方で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは家族写真や日常の場面を描写する問題で「dad」が登
 
 ## 🧩 あわせて覚えたい
 
-- [mom](/word/mom/)：お母さん
-- [parent](/word/parent/)：親
+- [mom](/mom)：お母さん
+- [parent](/parent)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child/)：子ども
-- [family](/word/family/)：家族
+- [child](/child)：子ども
+- [family](/family)：家族
 
-<!-- cvid: aid14_bid13 -->
+<!-- cvid: aid38_bid47 -->

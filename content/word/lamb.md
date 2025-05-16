@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【lamb】の意味・使い方・例文 ― sheepとの違い【TOEIC英単語】"
 description: "lambの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsheepとの違いもわかりやすく学べます。"
 word: "lamb"
@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で、動物や食材の説明として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid30_bid35" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid35" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、動物や食材の説明として出
 ## 🤔  sheep との違いは？
 
 - **lamb**：子羊や子羊の肉を指す
-- **[sheep](/word/sheep/)**：羊全般（子羊も成羊も含む）を指す
+- **[sheep](/sheep)**：羊全般（子羊も成羊も含む）を指す
 
 lambは特に「子ども」の羊やその肉を意味し、sheepは年齢に関係なく羊全体を指します。
 
@@ -106,14 +110,14 @@ lambは特に「子ども」の羊やその肉を意味し、sheepは年齢に�
 
 ## 🧩 あわせて覚えたい
 
-- [calf](/word/calf/)：子牛
-- [goat](/word/goat/)：ヤギ
+- [calf](/calf)：子牛
+- [goat](/goat)：ヤギ
 
 ---
 
 ## 📖 できればこれも
 
-- [pig](/word/pig/)：ブタ
-- [cow](/word/cow/)：ウシ
+- [pig](/pig)：ブタ
+- [cow](/cow)：ウシ
 
-<!-- cvid: aid41_bid04 -->
+<!-- cvid: aid30_bid35 -->

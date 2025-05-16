@@ -80,15 +80,19 @@ TOEICでは主にビジネス文書や記事の中で「見通し」「展望」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid23" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid23" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にビジネス文書や記事の中で「見通し」「展望」
 ## 🤔  perspective との違いは？
 
 - **outlook**：将来の見通しや物事に対する全体的な考え方
-- **[perspective](/word/perspective/)**：物事をどう見るかという視点や観点
+- **[perspective](/perspective)**：物事をどう見るかという視点や観点
 
 outlookは「将来の展望」や「人生観」など広い意味で使われ、perspectiveは「視点」や「立場」など、より個人の見方や角度に焦点を当てます。
 
@@ -104,14 +108,14 @@ outlookは「将来の展望」や「人生観」など広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [forecast](/word/forecast/)：予測、予報
-- [attitude](/word/attitude/)：態度、考え方
+- [forecast](/forecast)：予測、予報
+- [attitude](/attitude)：態度、考え方
 
 ---
 
 ## 📖 できればこれも
 
-- [viewpoint](/word/viewpoint/)：観点、見地
-- [prospect](/word/prospect/)：見込み、可能性
+- [viewpoint](/viewpoint)：観点、見地
+- [prospect](/prospect)：見込み、可能性
 
-<!-- cvid: aid45_bid10 -->
+<!-- cvid: aid20_bid23 -->

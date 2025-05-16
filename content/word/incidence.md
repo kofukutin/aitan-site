@@ -81,15 +81,19 @@ incidenceはTOEICの長文読解（Part 7）で、医療や統計、ビジネス
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid46_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ incidenceはTOEICの長文読解（Part 7）で、医療や統計、ビジネス
 ## 🤔  occurrence との違いは？
 
 - **incidence**：一定期間・集団内での発生率や頻度を数量的に表す
-- **[occurrence](/word/occurrence/)**：出来事が「起こること」自体やその事例を指す
+- **[occurrence](/occurrence)**：出来事が「起こること」自体やその事例を指す
 
 incidenceは「どれくらい起きたか」という割合や頻度に焦点があり、occurrenceは「出来事そのもの」に注目します。
 
@@ -105,14 +109,14 @@ incidenceは「どれくらい起きたか」という割合や頻度に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [prevalence](/word/prevalence/)：（病気などの）有病率、普及度
-- [frequency](/word/frequency/)：頻度、回数
+- [prevalence](/prevalence)：（病気などの）有病率、普及度
+- [frequency](/frequency)：頻度、回数
 
 ---
 
 ## 📖 できればこれも
 
-- [rate](/word/rate/)：割合、比率
-- [proportion](/word/proportion/)：割合、部分
+- [rate](/rate)：割合、比率
+- [proportion](/proportion)：割合、部分
 
-<!-- cvid: aid45_bid16 -->
+<!-- cvid: aid46_bid07 -->

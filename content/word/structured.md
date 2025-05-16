@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や説明文で「structured approach」や「st
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や説明文で「structured approach」や「st
 ## 🤔  organized との違いは？
 
 - **structured**：明確な枠組みや体系に基づいて整理された
-- **[organized](/word/organized/)**：秩序立って整えられた、きちんと管理された
+- **[organized](/organized)**：秩序立って整えられた、きちんと管理された
 
 「structured」は枠組みや計画性の強調、「organized」は秩序や整然さの強調という違いがあります。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や説明文で「structured approach」や「st
 
 ## 🧩 あわせて覚えたい
 
-- [systematic](/word/systematic/)：体系的な、組織的な
-- [chaotic](/word/chaotic/)：混沌とした、無秩序な
+- [systematic](/systematic)：体系的な、組織的な
+- [chaotic](/chaotic)：混沌とした、無秩序な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [methodical](/word/methodical/)：几帳面な、順序立てた
+- [efficient](/efficient)：効率的な
+- [methodical](/methodical)：几帳面な、順序立てた
 
-<!-- cvid: aid11_bid07 -->
+<!-- cvid: aid07_bid09 -->

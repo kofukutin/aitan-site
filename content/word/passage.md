@@ -81,15 +81,19 @@ TOEICのPart 7で「文章の一部」「抜粋」を指す語として頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid34" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid34" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICのPart 7で「文章の一部」「抜粋」を指す語として頻出し
 ## 🤔  paragraph との違いは？
 
 - **passage**：文章や本の中の「一節」「抜粋」など、まとまりのある部分全体を指す。
-- **[paragraph](/word/paragraph/)**：文章の中の「段落」を指し、内容や構成上の区切りを強調する。
+- **[paragraph](/paragraph)**：文章の中の「段落」を指し、内容や構成上の区切りを強調する。
 
 passageは文章の一部として幅広く使われ、paragraphは明確な段落構造を指します。
 
@@ -105,14 +109,14 @@ passageは文章の一部として幅広く使われ、paragraphは明確な段�
 
 ## 🧩 あわせて覚えたい
 
-- [section](/word/section/)：（本や文章の）区分、セクション
-- [excerpt](/word/excerpt/)：抜粋、引用部分
+- [section](/section)：（本や文章の）区分、セクション
+- [excerpt](/excerpt)：抜粋、引用部分
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/word/article/)：記事、論説
-- [sentence](/word/sentence/)：文、センテンス
+- [article](/article)：記事、論説
+- [sentence](/sentence)：文、センテンス
 
-<!-- cvid: aid09_bid11 -->
+<!-- cvid: aid44_bid34 -->

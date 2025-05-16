@@ -81,15 +81,19 @@ TOEICでは「休憩する」「壊す」「中断する」など複数の意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「休憩する」「壊す」「中断する」など複数の意味
 ## 🤔  pause との違いは？
 
 - **break**：一時的に中断したり、休憩したり、物を壊す意味もある
-- **[pause](/word/pause/)**：一時的に止める、特に動作や話を短く止める意味
+- **[pause](/pause)**：一時的に止める、特に動作や話を短く止める意味
 
 breakは「休憩」や「壊す」など幅広い意味で使われ、pauseは「一時停止」に特化しています。
 
@@ -105,14 +109,14 @@ breakは「休憩」や「壊す」など幅広い意味で使われ、pauseは�
 
 ## 🧩 あわせて覚えたい
 
-- [stop](/word/stop/)：止める、やめる
-- [interrupt](/word/interrupt/)：中断する、邪魔をする
+- [stop](/stop)：止める、やめる
+- [interrupt](/interrupt)：中断する、邪魔をする
 
 ---
 
 ## 📖 できればこれも
 
-- [fix](/word/fix/)：修理する、直す
-- [open](/word/open/)：開ける
+- [fix](/fix)：修理する、直す
+- [open](/open)：開ける
 
-<!-- cvid: aid10_bid04 -->
+<!-- cvid: aid23_bid19 -->

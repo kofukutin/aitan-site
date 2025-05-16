@@ -81,7 +81,7 @@ playerはTOEICの会話や説明文で、スポーツやビジネスの文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+記憶が新しいうちに👇️
 
 ---
 
@@ -89,7 +89,11 @@ playerはTOEICの会話や説明文で、スポーツやビジネスの文脈で
 
 <div class="info-center">
 ＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid45_bid46" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid46" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ playerはTOEICの会話や説明文で、スポーツやビジネスの文脈で
 ## 🤔  participant との違いは？
 
 - **player**：スポーツやゲーム、ビジネスで「積極的に関わる人」や「選手」「演奏者」を指す。
-- **[participant](/word/participant/)**：イベントや活動に「参加する人」全般を指し、積極性や役割は問わない。
+- **[participant](/participant)**：イベントや活動に「参加する人」全般を指し、積極性や役割は問わない。
 
 playerは「実際にプレイする人」「主役的な存在」、participantは「参加者」全般で、役割や積極性に違いがあります。
 
@@ -105,14 +109,14 @@ playerは「実際にプレイする人」「主役的な存在」、participant
 
 ## 🧩 あわせて覚えたい
 
-- [competitor](/word/competitor/)：競争相手、ライバル
-- [member](/word/member/)：メンバー、構成員
+- [competitor](/competitor)：競争相手、ライバル
+- [member](/member)：メンバー、構成員
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team/)：チーム、団体
-- [coach](/word/coach/)：コーチ、指導者
+- [team](/team)：チーム、団体
+- [coach](/coach)：コーチ、指導者
 
-<!-- cvid: aid17_bid46 -->
+<!-- cvid: aid45_bid46 -->

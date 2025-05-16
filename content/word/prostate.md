@@ -80,15 +80,19 @@ The patient was diagnosed with prostate cancer.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼英語力を育てるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid12_bid04" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid04" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ The patient was diagnosed with prostate cancer.
 ## 🤔  gland との違いは？
 
 - **prostate**：男性の生殖器官である「前立腺」を指す医学用語
-- **[gland](/word/gland/)**：体内の「腺」全般（例：汗腺、甲状腺など）を指す一般的な語
+- **[gland](/gland)**：体内の「腺」全般（例：汗腺、甲状腺など）を指す一般的な語
 
 prostateは特定の器官名、glandは体内の分泌腺全般を指すため、prostateはglandの一種です。
 
@@ -104,14 +108,14 @@ prostateは特定の器官名、glandは体内の分泌腺全般を指すため�
 
 ## 🧩 あわせて覚えたい
 
-- [bladder](/word/bladder/)：膀胱
-- [testicle](/word/testicle/)：精巣
+- [bladder](/bladder)：膀胱
+- [testicle](/testicle)：精巣
 
 ---
 
 ## 📖 できればこれも
 
-- [tumor](/word/tumor/)：腫瘍
-- [diagnosis](/word/diagnosis/)：診断
+- [tumor](/tumor)：腫瘍
+- [diagnosis](/diagnosis)：診断
 
-<!-- cvid: aid02_bid10 -->
+<!-- cvid: aid12_bid04 -->

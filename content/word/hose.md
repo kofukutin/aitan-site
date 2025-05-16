@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、庭や工場の場面で「hose」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、庭や工場の場面で「hose」�
 ## 🤔  pipe との違いは？
 
 - **hose**：柔らかくて曲げられる管。主に水や空気を運ぶために使う。
-- **[pipe](/word/pipe/)**：硬くて固定された配管。建物や工場の水道・ガスなどに使う。
+- **[pipe](/pipe)**：硬くて固定された配管。建物や工場の水道・ガスなどに使う。
 
 hoseは持ち運びやすく、手で操作する場面で使われますが、pipeは建物や設備に組み込まれた硬い管を指します。
 
@@ -105,14 +109,14 @@ hoseは持ち運びやすく、手で操作する場面で使われますが、p
 
 ## 🧩 あわせて覚えたい
 
-- [tube](/word/tube/)：（中が空洞の）チューブ、細長い管
-- [sprinkler](/word/sprinkler/)：散水器、スプリンクラー
+- [tube](/tube)：（中が空洞の）チューブ、細長い管
+- [sprinkler](/sprinkler)：散水器、スプリンクラー
 
 ---
 
 ## 📖 できればこれも
 
-- [bucket](/word/bucket/)：バケツ
-- [valve](/word/valve/)：バルブ、弁
+- [bucket](/bucket)：バケツ
+- [valve](/valve)：バルブ、弁
 
-<!-- cvid: aid11_bid24 -->
+<!-- cvid: aid16_bid21 -->

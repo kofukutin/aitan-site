@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「何かが回っている」場面で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid07_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「何かが回っている」場面で
 ## 🤔  rotate との違いは？
 
 - **spin**：素早くくるくる回る、軸を中心に高速で回転するニュアンス
-- **[rotate](/word/rotate/)**：ゆっくり・規則的に回転する、機械や部品の動きにも使う
+- **[rotate](/rotate)**：ゆっくり・規則的に回転する、機械や部品の動きにも使う
 
 spinはスピード感や軽快さがあり、rotateは機械的・規則的な回転を表します。
 
@@ -105,14 +109,14 @@ spinはスピード感や軽快さがあり、rotateは機械的・規則的な�
 
 ## 🧩 あわせて覚えたい
 
-- [twist](/word/twist/)：ねじる、ひねる
-- [turn](/word/turn/)：向きを変える、回す
+- [twist](/twist)：ねじる、ひねる
+- [turn](/turn)：向きを変える、回す
 
 ---
 
 ## 📖 できればこれも
 
-- [flip](/word/flip/)：パッと裏返す、はじく
-- [roll](/word/roll/)：転がす、巻く
+- [flip](/flip)：パッと裏返す、はじく
+- [roll](/roll)：転がす、巻く
 
-<!-- cvid: aid00_bid32 -->
+<!-- cvid: aid07_bid22 -->

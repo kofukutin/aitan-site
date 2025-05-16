@@ -81,15 +81,19 @@ quantumはTOEICの科学系や技術系の長文で見かけることがあり�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid20_bid49" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid49" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ quantumはTOEICの科学系や技術系の長文で見かけることがあり�
 ## 🤔  amount との違いは？
 
 - **quantum**：まとまった量、特に科学や技術で使われる最小単位や飛躍的変化を表す
-- **[amount](/word/amount/)**：一般的な「量」や「総量」を表し、日常的・ビジネス的な文脈で幅広く使う
+- **[amount](/amount)**：一般的な「量」や「総量」を表し、日常的・ビジネス的な文脈で幅広く使う
 
 quantumは専門的・フォーマルな場面で使われ、amountは日常的な「量」を表すときに使います。
 
@@ -105,14 +109,14 @@ quantumは専門的・フォーマルな場面で使われ、amountは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [quantity](/word/quantity/)：数量、分量
-- [portion](/word/portion/)：部分、分け前
+- [quantity](/quantity)：数量、分量
+- [portion](/portion)：部分、分け前
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/word/theory/)：理論
-- [element](/word/element/)：要素、元素
+- [theory](/theory)：理論
+- [element](/element)：要素、元素
 
-<!-- cvid: aid19_bid05 -->
+<!-- cvid: aid20_bid49 -->

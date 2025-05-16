@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で「座席」や「座る動作」を表
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid40_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「座席」や「座る動作」を表
 ## 🤔  chair との違いは？
 
 - **seat**：座る場所や座席全般を指す
-- **[chair](/word/chair/)**：背もたれや脚のある「椅子」という具体的な家具
+- **[chair](/chair)**：背もたれや脚のある「椅子」という具体的な家具
 
 「seat」は場所や座席の意味が強く、物としての「椅子」は「chair」と区別されます。
 
@@ -105,14 +109,14 @@ TOEICでは主にPart 1の写真描写で「座席」や「座る動作」を表
 
 ## 🧩 あわせて覚えたい
 
-- [bench](/word/bench/)：ベンチ、長椅子
-- [sofa](/word/sofa/)：ソファ
+- [bench](/bench)：ベンチ、長椅子
+- [sofa](/sofa)：ソファ
 
 ---
 
 ## 📖 できればこれも
 
-- [table](/word/table/)：テーブル、机
-- [desk](/word/desk/)：机、デスク
+- [table](/table)：テーブル、机
+- [desk](/desk)：机、デスク
 
-<!-- cvid: aid44_bid41 -->
+<!-- cvid: aid40_bid47 -->

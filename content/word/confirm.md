@@ -81,15 +81,19 @@ TOEICでは、メールや通知文、予約確認などの文脈で頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、メールや通知文、予約確認などの文脈で頻出しま
 ## 🤔  verify との違いは？
 
 - **confirm**：事実や予定などを「確認して確かめる」「正式に認める」
-- **[verify](/word/verify/)**：証拠や手順を使って「正しいかどうか検証する」
+- **[verify](/verify)**：証拠や手順を使って「正しいかどうか検証する」
 
 confirmは「承認」や「最終確認」のニュアンスが強く、verifyは「正確性や真偽を調べる」場面で使われます。
 
@@ -105,14 +109,14 @@ confirmは「承認」や「最終確認」のニュアンスが強く、verify�
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/word/approve/)：承認する
-- [acknowledge](/word/acknowledge/)：受け取ったことを認める
+- [approve](/approve)：承認する
+- [acknowledge](/acknowledge)：受け取ったことを認める
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify/)：通知する
-- [ensure](/word/ensure/)：確実にする
+- [notify](/notify)：通知する
+- [ensure](/ensure)：確実にする
 
-<!-- cvid: aid04_bid26 -->
+<!-- cvid: aid08_bid45 -->

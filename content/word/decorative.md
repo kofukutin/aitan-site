@@ -81,15 +81,19 @@ TOEICでは、オフィスや製品の説明文、広告などで「decorative�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学び癖をつけよう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、オフィスや製品の説明文、広告などで「decorative�
 ## 🤔  ornamental との違いは？
 
 - **decorative**：見た目を美しくするための、装飾目的の（一般的な装飾全般に使う）
-- **[ornamental](/word/ornamental/)**：装飾用の（特に芸術的・伝統的な装飾や、実用性よりも美しさを強調する場合に使う）
+- **[ornamental](/ornamental)**：装飾用の（特に芸術的・伝統的な装飾や、実用性よりも美しさを強調する場合に使う）
 
 「decorative」は幅広い装飾に使えますが、「ornamental」はより芸術的・伝統的な装飾や、実用性がほとんどない飾りに使われることが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは、オフィスや製品の説明文、広告などで「decorative�
 
 ## 🧩 あわせて覚えたい
 
-- [functional](/word/functional/)：機能的な、実用的な
-- [aesthetic](/word/aesthetic/)：美的な、美学の
+- [functional](/functional)：機能的な、実用的な
+- [aesthetic](/aesthetic)：美的な、美学の
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical/)：実用的な
-- [artistic](/word/artistic/)：芸術的な
+- [practical](/practical)：実用的な
+- [artistic](/artistic)：芸術的な
 
-<!-- cvid: aid28_bid38 -->
+<!-- cvid: aid08_bid02 -->

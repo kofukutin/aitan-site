@@ -81,15 +81,19 @@ TOEICでは指示や依頼、緊急対応の場面で「すぐに」という意
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは指示や依頼、緊急対応の場面で「すぐに」という意
 ## 🤔  instantly との違いは？
 
 - **immediately**：何かの直後に、間をおかずにすぐ
-- **[instantly](/word/instantly/)**：一瞬で、瞬時に
+- **[instantly](/instantly)**：一瞬で、瞬時に
 
 「immediately」は「間をおかずにすぐ」という意味で、行動や出来事の直後に使います。「instantly」は「一瞬で」「瞬時に」と、よりスピード感や即時性が強調されます。
 
@@ -105,14 +109,14 @@ TOEICでは指示や依頼、緊急対応の場面で「すぐに」という意
 
 ## 🧩 あわせて覚えたい
 
-- [promptly](/word/promptly/)：迅速に、すぐに
-- [shortly](/word/shortly/)：まもなく、すぐに
+- [promptly](/promptly)：迅速に、すぐに
+- [shortly](/shortly)：まもなく、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon/)：まもなく、すぐに
-- [directly](/word/directly/)：すぐに、直接に
+- [soon](/soon)：まもなく、すぐに
+- [directly](/directly)：すぐに、直接に
 
-<!-- cvid: aid17_bid35 -->
+<!-- cvid: aid10_bid32 -->

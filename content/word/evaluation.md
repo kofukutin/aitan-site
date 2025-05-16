@@ -81,15 +81,19 @@ TOEICではビジネス文書や会議資料で「評価」「査定」の意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid31" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid31" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス文書や会議資料で「評価」「査定」の意味
 ## 🤔  assessment との違いは？
 
 - **evaluation**：価値や成果を総合的に評価・査定すること
-- **[assessment](/word/assessment/)**：状況や能力などを分析・査定すること
+- **[assessment](/assessment)**：状況や能力などを分析・査定すること
 
 evaluationは「価値判断」や「最終的な評価」に重点があり、assessmentは「分析」や「査定」のニュアンスが強いです。
 
@@ -105,14 +109,14 @@ evaluationは「価値判断」や「最終的な評価」に重点があり、a
 
 ## 🧩 あわせて覚えたい
 
-- [appraisal](/word/appraisal/)：査定、評価（特に人事や不動産で使う）
-- [estimate](/word/estimate/)：見積もり、概算
+- [appraisal](/appraisal)：査定、評価（特に人事や不動産で使う）
+- [estimate](/estimate)：見積もり、概算
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze/)：分析する
-- [criteria](/word/criteria/)：基準、判断基準
+- [analyze](/analyze)：分析する
+- [criteria](/criteria)：基準、判断基準
 
-<!-- cvid: aid17_bid35 -->
+<!-- cvid: aid41_bid31 -->

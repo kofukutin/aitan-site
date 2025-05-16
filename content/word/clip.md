@@ -81,15 +81,19 @@ clipは、オフィスやビジネスの場面で「書類をまとめる道具�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ clipは、オフィスやビジネスの場面で「書類をまとめる道具�
 ## 🤔  attach との違いは？
 
 - **clip**：物理的な「クリップ」や「留め具」そのものを指す名詞。
-- **[attach](/word/attach/)**：何かを「取り付ける」「添付する」という動作を表す動詞。
+- **[attach](/attach)**：何かを「取り付ける」「添付する」という動作を表す動詞。
 
 clipは道具や物体そのもの、attachは動作や手順を表す点が異なります。
 
@@ -105,14 +109,14 @@ clipは道具や物体そのもの、attachは動作や手順を表す点が異�
 
 ## 🧩 あわせて覚えたい
 
-- [fasten](/word/fasten/)：しっかり留める、固定する
-- [remove](/word/remove/)：取り外す、取り除く
+- [fasten](/fasten)：しっかり留める、固定する
+- [remove](/remove)：取り外す、取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file/)：書類、ファイル
-- [note](/word/note/)：メモ、ノート
+- [file](/file)：書類、ファイル
+- [note](/note)：メモ、ノート
 
-<!-- cvid: aid15_bid13 -->
+<!-- cvid: aid17_bid23 -->

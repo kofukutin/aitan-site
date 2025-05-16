@@ -81,15 +81,19 @@ TOEICでは「不動産」「資産」「特性」などの意味で、主にビ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「不動産」「資産」「特性」などの意味で、主にビ
 ## 🤔  asset との違いは？
 
 - **property**：主に不動産や所有物、または物質の特性を指す
-- **[asset](/word/asset/)**：企業や個人が持つ価値ある資産全般を指す
+- **[asset](/asset)**：企業や個人が持つ価値ある資産全般を指す
 
 propertyは「土地・建物」や「物の性質」に焦点があり、assetは「価値あるもの全般（現金・株式なども含む）」に使われます。
 
@@ -105,14 +109,14 @@ propertyは「土地・建物」や「物の性質」に焦点があり、asset�
 
 ## 🧩 あわせて覚えたい
 
-- [estate](/word/estate/)：土地・地所・不動産
-- [possession](/word/possession/)：所有物、所持
+- [estate](/estate)：土地・地所・不動産
+- [possession](/possession)：所有物、所持
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract/)：契約
-- [facility](/word/facility/)：施設
+- [contract](/contract)：契約
+- [facility](/facility)：施設
 
-<!-- cvid: aid22_bid01 -->
+<!-- cvid: aid40_bid18 -->

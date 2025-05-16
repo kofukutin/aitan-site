@@ -81,15 +81,19 @@ TOEICでは、企業の財務状況や経済記事の中で「bankrupt」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、企業の財務状況や経済記事の中で「bankrupt」が登�
 ## 🤔  insolvent との違いは？
 
 - **bankrupt**：法的に破産と認められた状態を指す。
-- **[insolvent](/word/insolvent/)**：支払い能力がない状態全般を指し、必ずしも法的破産とは限らない。
+- **[insolvent](/insolvent)**：支払い能力がない状態全般を指し、必ずしも法的破産とは限らない。
 
 「bankrupt」は法律上の手続きが完了した破産、「insolvent」は単に資金不足で支払い不能な状態を広く指します。
 
@@ -105,14 +109,14 @@ TOEICでは、企業の財務状況や経済記事の中で「bankrupt」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [solvent](/word/solvent/)：支払い能力がある
-- [liquidate](/word/liquidate/)：清算する
+- [solvent](/solvent)：支払い能力がある
+- [liquidate](/liquidate)：清算する
 
 ---
 
 ## 📖 できればこれも
 
-- [debt](/word/debt/)：借金
-- [asset](/word/asset/)：資産
+- [debt](/debt)：借金
+- [asset](/asset)：資産
 
-<!-- cvid: aid31_bid19 -->
+<!-- cvid: aid45_bid09 -->

@@ -81,15 +81,19 @@ ITやデジタル関連の長文や説明文で「binary」は出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid40" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid40" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやデジタル関連の長文や説明文で「binary」は出題されるこ
 ## 🤔  digital との違いは？
 
 - **binary**：2進法や2つの要素から成ることを強調
-- **[digital](/word/digital/)**：数字やデジタル技術全般を指し、2進法に限らない
+- **[digital](/digital)**：数字やデジタル技術全般を指し、2進法に限らない
 
 binaryは「0と1」など2つの値に限定した表現ですが、digitalは「電子的・デジタル全般」を広く指します。
 
@@ -105,14 +109,14 @@ binaryは「0と1」など2つの値に限定した表現ですが、digitalは�
 
 ## 🧩 あわせて覚えたい
 
-- [decimal](/word/decimal/)：10進法の
-- [bit](/word/bit/)：情報の最小単位（0または1）
+- [decimal](/decimal)：10進法の
+- [bit](/bit)：情報の最小単位（0または1）
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
-- [code](/word/code/)：コード、符号、プログラム
+- [algorithm](/algorithm)：アルゴリズム、計算手順
+- [code](/code)：コード、符号、プログラム
 
-<!-- cvid: aid12_bid22 -->
+<!-- cvid: aid41_bid40 -->

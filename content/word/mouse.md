@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【mouse】の意味・使い方・例文 ― ratとの違い【TOEIC英単語】"
 description: "mouseの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでratとの違いもわかりやすく学べます。"
 word: "mouse"
@@ -83,15 +83,19 @@ IT関連やオフィスの説明文で「mouse（マウス）」が登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼選ばれている学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid12_bid31" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid31" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -99,7 +103,7 @@ IT関連やオフィスの説明文で「mouse（マウス）」が登場する�
 ## 🤔  rat との違いは？
 
 - **mouse**：小型のネズミやパソコンのマウスを指す。
-- **[rat](/word/rat/)**：mouseより大きいドブネズミなどを指す。
+- **[rat](/rat)**：mouseより大きいドブネズミなどを指す。
 
 mouseは小さくて可愛らしい印象、ratは大きくて害獣のイメージが強いです。
 
@@ -107,14 +111,14 @@ mouseは小さくて可愛らしい印象、ratは大きくて害獣のイメー
 
 ## 🧩 あわせて覚えたい
 
-- [keyboard](/word/keyboard/)：キーボード（パソコン入力装置）
-- [trackpad](/word/trackpad/)：トラックパッド（ノートPCの指で操作する部分）
+- [keyboard](/keyboard)：キーボード（パソコン入力装置）
+- [trackpad](/trackpad)：トラックパッド（ノートPCの指で操作する部分）
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/word/screen/)：画面
-- [monitor](/word/monitor/)：モニター、ディスプレイ
+- [screen](/screen)：画面
+- [monitor](/monitor)：モニター、ディスプレイ
 
-<!-- cvid: aid06_bid32 -->
+<!-- cvid: aid12_bid31 -->

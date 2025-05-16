@@ -81,15 +81,19 @@ TOEICでは新商品やプロジェクトの開始、サービスの導入など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid17_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは新商品やプロジェクトの開始、サービスの導入など
 ## 🤔  release との違いは？
 
 - **launch**：新しいものを正式に始める・世に出す
-- **[release](/word/release/)**：何かを解放する、公開する
+- **[release](/release)**：何かを解放する、公開する
 
 launchは「始動・開始」のニュアンスが強く、releaseは「公開・解禁」の意味合いが中心です。新製品の「発売開始」ならlaunch、情報や映画の「公開」ならreleaseが自然です。
 
@@ -105,14 +109,14 @@ launchは「始動・開始」のニュアンスが強く、releaseは「公開�
 
 ## 🧩 あわせて覚えたい
 
-- [initiate](/word/initiate/)：始める、開始する
-- [cancel](/word/cancel/)：中止する
+- [initiate](/initiate)：始める、開始する
+- [cancel](/cancel)：中止する
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/word/promote/)：促進する、宣伝する
-- [develop](/word/develop/)：開発する
+- [promote](/promote)：促進する、宣伝する
+- [develop](/develop)：開発する
 
-<!-- cvid: aid36_bid42 -->
+<!-- cvid: aid17_bid34 -->

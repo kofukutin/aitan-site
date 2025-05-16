@@ -81,15 +81,19 @@ TOEICでは、motivationやpassionなどと並んで「やる気」「積極性�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、motivationやpassionなどと並んで「やる気」「積極性�
 ## 🤔  passion との違いは？
 
 - **enthusiasm**：前向きな熱意や積極性、やる気を表す。やや客観的でビジネスでも使いやすい。
-- **[passion](/word/passion/)**：強い感情や情熱、時に激しさも含む。個人的・感情的なニュアンスが強い。
+- **[passion](/passion)**：強い感情や情熱、時に激しさも含む。個人的・感情的なニュアンスが強い。
 
 enthusiasmは「前向きなやる気」や「積極性」を表し、passionは「心から湧き上がる強い情熱」を指します。ビジネスではenthusiasmの方が無難です。
 
@@ -105,14 +109,14 @@ enthusiasmは「前向きなやる気」や「積極性」を表し、passionは
 
 ## 🧩 あわせて覚えたい
 
-- [eagerness](/word/eagerness/)：熱心さ、やる気
-- [apathy](/word/apathy/)：無関心、無感動
+- [eagerness](/eagerness)：熱心さ、やる気
+- [apathy](/apathy)：無関心、無感動
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/word/motivation/)：動機、やる気
-- [interest](/word/interest/)：興味、関心
+- [motivation](/motivation)：動機、やる気
+- [interest](/interest)：興味、関心
 
-<!-- cvid: aid21_bid38 -->
+<!-- cvid: aid36_bid10 -->

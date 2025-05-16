@@ -82,15 +82,19 @@ TOEICではレストランや調理に関する会話、観光地の説明など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICではレストランや調理に関する会話、観光地の説明など
 ## 🤔  grill との違いは？
 
 - **fry**：油を使って加熱調理する（揚げる・炒める）
-- **[grill](/word/grill/)**：直火やグリルで焼く（油はあまり使わない）
+- **[grill](/grill)**：直火やグリルで焼く（油はあまり使わない）
 
 fryは油を使うのが特徴で、grillは火や熱源の上で直接焼く調理法です。調理器具や仕上がりが異なります。
 
@@ -106,14 +110,14 @@ fryは油を使うのが特徴で、grillは火や熱源の上で直接焼く調
 
 ## 🧩 あわせて覚えたい
 
-- [boil](/word/boil/)：ゆでる
-- [bake](/word/bake/)：焼く（オーブンで）
+- [boil](/boil)：ゆでる
+- [bake](/bake)：焼く（オーブンで）
 
 ---
 
 ## 📖 できればこれも
 
-- [cook](/word/cook/)：料理する
-- [slice](/word/slice/)：薄く切る
+- [cook](/cook)：料理する
+- [slice](/slice)：薄く切る
 
-<!-- cvid: aid48_bid47 -->
+<!-- cvid: aid05_bid19 -->

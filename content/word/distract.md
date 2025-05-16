@@ -81,15 +81,19 @@ TOEICでは会議や電話などで「注意がそれる」「集中できない
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や電話などで「注意がそれる」「集中できない
 ## 🤔  disturb との違いは？
 
 - **distract**：注意や集中を別の方向にそらすこと
-- **[disturb](/word/disturb/)**：邪魔をして不快にさせたり、中断させたりすること
+- **[disturb](/disturb)**：邪魔をして不快にさせたり、中断させたりすること
 
 distractは「集中力を奪う」ニュアンス、disturbは「物理的・心理的に妨害する」ニュアンスがあります。
 
@@ -105,14 +109,14 @@ distractは「集中力を奪う」ニュアンス、disturbは「物理的・�
 
 ## 🧩 あわせて覚えたい
 
-- [interrupt](/word/interrupt/)：話や作業を中断させる
-- [focus](/word/focus/)：集中する、焦点を合わせる
+- [interrupt](/interrupt)：話や作業を中断させる
+- [focus](/focus)：集中する、焦点を合わせる
 
 ---
 
 ## 📖 できればこれも
 
-- [concentrate](/word/concentrate/)：集中する
-- [divert](/word/divert/)：（進路や注意を）そらす
+- [concentrate](/concentrate)：集中する
+- [divert](/divert)：（進路や注意を）そらす
 
-<!-- cvid: aid18_bid17 -->
+<!-- cvid: aid29_bid43 -->

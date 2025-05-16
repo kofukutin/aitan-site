@@ -81,15 +81,19 @@ TOEICでは主に科学やビジネス分野の長文で、未知の分野や新
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼実践に強くなる勉強法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学やビジネス分野の長文で、未知の分野や新
 ## 🤔  investigation との違いは？
 
 - **exploration**：未知の場所や分野を積極的に探し求めること
-- **[investigation](/word/investigation/)**：事件や問題などを詳しく調べること
+- **[investigation](/investigation)**：事件や問題などを詳しく調べること
 
 explorationは「新しいものを発見するための探検・調査」、investigationは「原因や事実を明らかにするための調査」という違いがあります。
 
@@ -105,14 +109,14 @@ explorationは「新しいものを発見するための探検・調査」、inv
 
 ## 🧩 あわせて覚えたい
 
-- [discovery](/word/discovery/)：発見
-- [survey](/word/survey/)：調査、測量
+- [discovery](/discovery)：発見
+- [survey](/survey)：調査、測量
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment/)：実験
-- [analysis](/word/analysis/)：分析
+- [experiment](/experiment)：実験
+- [analysis](/analysis)：分析
 
-<!-- cvid: aid26_bid46 -->
+<!-- cvid: aid32_bid12 -->

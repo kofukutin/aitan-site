@@ -88,8 +88,12 @@ TOEICでは形容詞の語彙問題や、名詞の前に置かれる修飾語と
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid08" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid08" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞の語彙問題や、名詞の前に置かれる修飾語と
 ## 🤔  recent との違いは？
 
 - **new**：今までになかったものや、使われていなかったものに対して「新しい」と表現する。
-- **[recent](/word/recent/)**：最近起こったことや出来事に対して「最近の」と表現する。
+- **[recent](/recent)**：最近起こったことや出来事に対して「最近の」と表現する。
 
 **new**は「まったく新しい」ことに重点があり、**recent**は「最近」の時期に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは形容詞の語彙問題や、名詞の前に置かれる修飾語と
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern/)：現代的な、近代的な
-- [old](/word/old/)：古い
+- [modern](/modern)：現代的な、近代的な
+- [old](/old)：古い
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/word/fresh/)：新鮮な、新しい
-- [latest](/word/latest/)：最新の
+- [fresh](/fresh)：新鮮な、新しい
+- [latest](/latest)：最新の
 
-<!-- cvid: aid20_bid47 -->
+<!-- cvid: aid20_bid08 -->

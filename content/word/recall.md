@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの会話で「思い出す」「回収する」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの会話で「思い出す」「回収する」
 ## 🤔  remember との違いは？
 
 - **recall**：意識的に努力して思い出す、ややフォーマル
-- **[remember](/word/remember/)**：自然に覚えている、カジュアル
+- **[remember](/remember)**：自然に覚えている、カジュアル
 
 recallは「記憶をたどって思い出す」ニュアンスがあり、rememberは「覚えている」状態を指します。
 
@@ -105,14 +109,14 @@ recallは「記憶をたどって思い出す」ニュアンスがあり、remem
 
 ## 🧩 あわせて覚えたい
 
-- [remind](/word/remind/)：思い出させる
-- [retrieve](/word/retrieve/)：（情報などを）取り出す
+- [remind](/remind)：思い出させる
+- [retrieve](/retrieve)：（情報などを）取り出す
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/word/review/)：復習する、見直す
-- [mention](/word/mention/)：言及する
+- [review](/review)：復習する、見直す
+- [mention](/mention)：言及する
 
-<!-- cvid: aid47_bid31 -->
+<!-- cvid: aid30_bid25 -->

@@ -81,15 +81,19 @@ TOEICでは「判断」「判決」などの意味で、文脈に合う名詞を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid01_bid43" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid43" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「判断」「判決」などの意味で、文脈に合う名詞を
 ## 🤔  decision との違いは？
 
 - **judgment**：評価や経験に基づく「判断」や、法的な「判決」を指す
-- **[decision](/word/decision/)**：選択肢から「決定」や「意思決定」をすること
+- **[decision](/decision)**：選択肢から「決定」や「意思決定」をすること
 
 judgmentは「評価・見極め」のニュアンスが強く、decisionは「選択・決定」の意味が中心です。
 
@@ -105,14 +109,14 @@ judgmentは「評価・見極め」のニュアンスが強く、decisionは「�
 
 ## 🧩 あわせて覚えたい
 
-- [verdict](/word/verdict/)：（陪審員などの）評決、判決
-- [opinion](/word/opinion/)：意見、見解
+- [verdict](/verdict)：（陪審員などの）評決、判決
+- [opinion](/opinion)：意見、見解
 
 ---
 
 ## 📖 できればこれも
 
-- [justice](/word/justice/)：正義、公正
-- [assessment](/word/assessment/)：評価、査定
+- [justice](/justice)：正義、公正
+- [assessment](/assessment)：評価、査定
 
-<!-- cvid: aid17_bid31 -->
+<!-- cvid: aid01_bid43 -->

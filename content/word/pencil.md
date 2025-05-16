@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、文房具やオフィスの備品と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が冴えてるときに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid23_bid47" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid47" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、文房具やオフィスの備品と
 ## 🤔  pen との違いは？
 
 - **pencil**：芯を削って書く鉛筆。消しゴムで消せる。
-- **[pen](/word/pen/)**：インクで書くペン。消しにくい。
+- **[pen](/pen)**：インクで書くペン。消しにくい。
 
 pencilは消しゴムで消せる鉛筆、penはインクで消せないペンを指し、用途や書き味が異なります。
 
@@ -105,14 +109,14 @@ pencilは消しゴムで消せる鉛筆、penはインクで消せないペン�
 
 ## 🧩 あわせて覚えたい
 
-- [eraser](/word/eraser/)：消しゴム
-- [notebook](/word/notebook/)：ノート
+- [eraser](/eraser)：消しゴム
+- [notebook](/notebook)：ノート
 
 ---
 
 ## 📖 できればこれも
 
-- [paper](/word/paper/)：紙
-- [ruler](/word/ruler/)：定規
+- [paper](/paper)：紙
+- [ruler](/ruler)：定規
 
-<!-- cvid: aid15_bid11 -->
+<!-- cvid: aid23_bid47 -->

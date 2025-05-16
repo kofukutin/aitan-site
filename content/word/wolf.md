@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【wolf】の意味・使い方・例文 ― dogとの違い【TOEIC英単語】"
 description: "wolfの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdogとの違いもわかりやすく学べます。"
 word: "wolf"
@@ -81,15 +81,19 @@ wolfは自然や動物に関する長文や説明文で登場することがあ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid06_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ wolfは自然や動物に関する長文や説明文で登場することがあ�
 ## 🤔  dog との違いは？
 
 - **wolf**：野生のオオカミを指し、群れで生活し狩りをする動物。
-- **[dog](/word/dog/)**：人間に飼われるイヌ全般を指し、ペットや作業動物として身近な存在。
+- **[dog](/dog)**：人間に飼われるイヌ全般を指し、ペットや作業動物として身近な存在。
 
 wolfは野生動物であり、dogは人間と共に暮らす家畜化された動物という違いがあります。
 
@@ -105,14 +109,14 @@ wolfは野生動物であり、dogは人間と共に暮らす家畜化された�
 
 ## 🧩 あわせて覚えたい
 
-- [fox](/word/fox/)：キツネ（イヌ科の小型動物）
-- [predator](/word/predator/)：捕食者、他の動物を狩る生き物
+- [fox](/fox)：キツネ（イヌ科の小型動物）
+- [predator](/predator)：捕食者、他の動物を狩る生き物
 
 ---
 
 ## 📖 できればこれも
 
-- [bear](/word/bear/)：クマ（大型の哺乳動物）
-- [deer](/word/deer/)：シカ（草食性の哺乳動物）
+- [bear](/bear)：クマ（大型の哺乳動物）
+- [deer](/deer)：シカ（草食性の哺乳動物）
 
-<!-- cvid: aid14_bid30 -->
+<!-- cvid: aid06_bid43 -->

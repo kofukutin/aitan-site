@@ -81,15 +81,19 @@ TOEICでは観光やイベント、地域紹介の記事や広告文で登場す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid28_bid03" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid03" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光やイベント、地域紹介の記事や広告文で登場す
 ## 🤔  procession との違いは？
 
 - **parade**：祝いやイベントで多くの人がにぎやかに行進するパレード
-- **[procession](/word/procession/)**：宗教的・儀式的な目的で静かに進む行列
+- **[procession](/procession)**：宗教的・儀式的な目的で静かに進む行列
 
 paradeは楽しい雰囲気やお祝いの場面で使われ、processionは厳かな儀式や宗教行事などフォーマルな行進に使われます。
 
@@ -105,14 +109,14 @@ paradeは楽しい雰囲気やお祝いの場面で使われ、processionは厳�
 
 ## 🧩 あわせて覚えたい
 
-- [festival](/word/festival/)：祭り、フェスティバル
-- [ceremony](/word/ceremony/)：式典、儀式
+- [festival](/festival)：祭り、フェスティバル
+- [ceremony](/ceremony)：式典、儀式
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event/)：イベント、出来事
-- [celebrate](/word/celebrate/)：祝う
+- [event](/event)：イベント、出来事
+- [celebrate](/celebrate)：祝う
 
-<!-- cvid: aid08_bid37 -->
+<!-- cvid: aid28_bid03 -->

@@ -81,15 +81,19 @@ TOEICでは、パーティーやイベントの話題でbarbecueが登場する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid36_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、パーティーやイベントの話題でbarbecueが登場する�
 ## 🤔  grill との違いは？
 
 - **barbecue**：屋外でみんなで楽しむバーベキューイベントや料理全体を指す
-- **[grill](/word/grill/)**：焼き網やグリル機器、または焼く調理法自体を指す
+- **[grill](/grill)**：焼き網やグリル機器、または焼く調理法自体を指す
 
 barbecueはイベントや料理全体を表し、grillは調理器具や焼く行為そのものを指す点が異なります。
 
@@ -105,14 +109,14 @@ barbecueはイベントや料理全体を表し、grillは調理器具や焼く�
 
 ## 🧩 あわせて覚えたい
 
-- [roast](/word/roast/)：オーブンなどで焼くこと
-- [picnic](/word/picnic/)：屋外で食事を楽しむこと
+- [roast](/roast)：オーブンなどで焼くこと
+- [picnic](/picnic)：屋外で食事を楽しむこと
 
 ---
 
 ## 📖 できればこれも
 
-- [festival](/word/festival/)：お祭り、フェスティバル
-- [gathering](/word/gathering/)：集まり、会合
+- [festival](/festival)：お祭り、フェスティバル
+- [gathering](/gathering)：集まり、会合
 
-<!-- cvid: aid45_bid18 -->
+<!-- cvid: aid36_bid21 -->

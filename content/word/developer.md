@@ -81,15 +81,19 @@ TOEICではITや不動産関連の記事やメールでよく登場します。�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではITや不動産関連の記事やメールでよく登場します。�
 ## 🤔  engineer との違いは？
 
 - **developer**：新しいものを企画・開発する人や会社
-- **[engineer](/word/engineer/)**：設計や技術的な問題解決を専門とする技術者
+- **[engineer](/engineer)**：設計や技術的な問題解決を専門とする技術者
 
 developerは「作り出す人」、engineerは「設計・技術に強い人」という違いがあり、IT分野では役割が分かれます。
 
@@ -105,14 +109,14 @@ developerは「作り出す人」、engineerは「設計・技術に強い人」
 
 ## 🧩 あわせて覚えたい
 
-- [programmer](/word/programmer/)：プログラムを書く人
-- [manager](/word/manager/)：管理職、マネージャー
+- [programmer](/programmer)：プログラムを書く人
+- [manager](/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [designer](/word/designer/)：デザインを担当する人
-- [project](/word/project/)：計画、プロジェクト
+- [designer](/designer)：デザインを担当する人
+- [project](/project)：計画、プロジェクト
 
-<!-- cvid: aid31_bid13 -->
+<!-- cvid: aid02_bid10 -->

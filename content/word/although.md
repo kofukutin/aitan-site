@@ -77,15 +77,19 @@ TOEICでは文法問題で逆接の接続詞として頻出します。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは文法問題で逆接の接続詞として頻出します。特に「
 ## 🤔  though との違いは？
 
 - **although**：ややフォーマルで、文頭や文中で使われる逆接の接続詞
-- **[though](/word/though/)**：カジュアルで、文末にも使えることが多い
+- **[though](/though)**：カジュアルで、文末にも使えることが多い
 
 althoughは書き言葉やフォーマルな場面でよく使われ、thoughは会話やカジュアルな文で使われやすいです。
 
@@ -101,14 +105,14 @@ althoughは書き言葉やフォーマルな場面でよく使われ、thoughは
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however/)：しかしながら（副詞、文頭や文中で使う）
-- [nevertheless](/word/nevertheless/)：それにもかかわらず（よりフォーマルな逆接）
+- [however](/however)：しかしながら（副詞、文頭や文中で使う）
+- [nevertheless](/nevertheless)：それにもかかわらず（よりフォーマルな逆接）
 
 ---
 
 ## 📖 できればこれも
 
-- [unless](/word/unless/)：～でない限り（条件を表す接続詞）
-- [despite](/word/despite/)：～にもかかわらず（前置詞）
+- [unless](/unless)：～でない限り（条件を表す接続詞）
+- [despite](/despite)：～にもかかわらず（前置詞）
 
-<!-- cvid: aid32_bid11 -->
+<!-- cvid: aid24_bid28 -->

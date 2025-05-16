@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、建物や場所を説明する際に登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、建物や場所を説明する際に登
 ## 🤔  arena との違いは？
 
 - **stadium**：屋外の大規模な競技場やイベント会場を指す。
-- **[arena](/word/arena/)**：屋内外問わず、観客席に囲まれた競技場やイベント会場を指す。
+- **[arena](/arena)**：屋内外問わず、観客席に囲まれた競技場やイベント会場を指す。
 
 stadiumは主に屋外で大規模なスポーツイベントに使われ、arenaは屋内外どちらにも使え、スポーツ以外のイベントにも幅広く用いられます。
 
@@ -105,14 +109,14 @@ stadiumは主に屋外で大規模なスポーツイベントに使われ、aren
 
 ## 🧩 あわせて覚えたい
 
-- [field](/word/field/)：（スポーツなどの）フィールド、競技場
-- [gymnasium](/word/gymnasium/)：体育館
+- [field](/field)：（スポーツなどの）フィールド、競技場
+- [gymnasium](/gymnasium)：体育館
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum/)：博物館
-- [theater](/word/theater/)：劇場
+- [museum](/museum)：博物館
+- [theater](/theater)：劇場
 
-<!-- cvid: aid20_bid06 -->
+<!-- cvid: aid33_bid44 -->

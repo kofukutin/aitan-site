@@ -81,15 +81,19 @@ accuracyはTOEICの文法・語彙問題で、特に名詞の語彙選択や形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ accuracyはTOEICの文法・語彙問題で、特に名詞の語彙選択や形�
 ## 🤔  precision との違いは？
 
 - **accuracy**：目標や基準にどれだけ近いか（正確さ）を表す
-- **[precision](/word/precision/)**：数値や動作の「ばらつきの少なさ」や「細かさ」を表す
+- **[precision](/precision)**：数値や動作の「ばらつきの少なさ」や「細かさ」を表す
 
 accuracyは「正しいかどうか」、precisionは「一貫して同じ結果が出るか」を強調します。
 
@@ -105,14 +109,14 @@ accuracyは「正しいかどうか」、precisionは「一貫して同じ結果
 
 ## 🧩 あわせて覚えたい
 
-- [error](/word/error/)：誤り、ミス
-- [correctness](/word/correctness/)：正しさ、正確さ
+- [error](/error)：誤り、ミス
+- [correctness](/correctness)：正しさ、正確さ
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/word/efficiency/)：効率
-- [reliability](/word/reliability/)：信頼性
+- [efficiency](/efficiency)：効率
+- [reliability](/reliability)：信頼性
 
-<!-- cvid: aid33_bid11 -->
+<!-- cvid: aid00_bid41 -->

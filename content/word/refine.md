@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や製品説明、プロジェクト改善の
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid34_bid25" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid25" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や製品説明、プロジェクト改善の
 ## 🤔  improve との違いは？
 
 - **refine**：細部までこだわって洗練・精密化するニュアンス
-- **[improve](/word/improve/)**：全体的に良くする、一般的な「改善」
+- **[improve](/improve)**：全体的に良くする、一般的な「改善」
 
 refineは「さらに磨きをかける」「質を高める」など、より専門的・段階的な改良を表し、improveは幅広く「良くする」場合に使います。
 
@@ -105,14 +109,14 @@ refineは「さらに磨きをかける」「質を高める」など、より�
 
 ## 🧩 あわせて覚えたい
 
-- [polish](/word/polish/)：磨く、仕上げる
-- [purify](/word/purify/)：浄化する、純化する
+- [polish](/polish)：磨く、仕上げる
+- [purify](/purify)：浄化する、純化する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust/)：調整する
-- [modify](/word/modify/)：修正する
+- [adjust](/adjust)：調整する
+- [modify](/modify)：修正する
 
-<!-- cvid: aid11_bid04 -->
+<!-- cvid: aid34_bid25 -->

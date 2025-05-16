@@ -81,15 +81,19 @@ TOEICでは主にPart 7の長文問題や、教育・学習に関する文脈で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7の長文問題や、教育・学習に関する文脈で
 ## 🤔  report との違いは？
 
 - **essay**：自分の意見や考えをまとめて書く短い論文や作文
-- **[report](/word/report/)**：事実や調査結果をまとめて報告する文書
+- **[report](/report)**：事実や調査結果をまとめて報告する文書
 
 essayは主観的な意見や考察が中心ですが、reportは客観的な情報やデータを整理して伝える点が異なります。
 
@@ -105,14 +109,14 @@ essayは主観的な意見や考察が中心ですが、reportは客観的な情
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article/)：記事、論説
-- [assignment](/word/assignment/)：課題、宿題
+- [article](/article)：記事、論説
+- [assignment](/assignment)：課題、宿題
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [topic](/word/topic/)：話題、テーマ
+- [summary](/summary)：要約
+- [topic](/topic)：話題、テーマ
 
-<!-- cvid: aid38_bid44 -->
+<!-- cvid: aid21_bid39 -->

@@ -81,15 +81,19 @@ TOEICではビジネスイベントやキャリア関連の記事・メールで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid19_bid39" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid39" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスイベントやキャリア関連の記事・メールで
 ## 🤔  connection との違いは？
 
 - **networking**：人脈作りや交流の「活動」や「プロセス」を指す
-- **[connection](/word/connection/)**：人や物事の「つながり」や「関係」そのものを指す
+- **[connection](/connection)**：人や物事の「つながり」や「関係」そのものを指す
 
 networkingは「人脈を作る行動」、connectionは「できた人脈や関係性」を表します。
 
@@ -105,14 +109,14 @@ networkingは「人脈を作る行動」、connectionは「できた人脈や関
 
 ## 🧩 あわせて覚えたい
 
-- [collaboration](/word/collaboration/)：協力、共同作業
-- [partnership](/word/partnership/)：提携、協力関係
+- [collaboration](/collaboration)：協力、共同作業
+- [partnership](/partnership)：提携、協力関係
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference/)：会議、学会
-- [seminar](/word/seminar/)：セミナー、講習会
+- [conference](/conference)：会議、学会
+- [seminar](/seminar)：セミナー、講習会
 
-<!-- cvid: aid12_bid18 -->
+<!-- cvid: aid19_bid39 -->

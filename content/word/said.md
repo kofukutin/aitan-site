@@ -81,15 +81,19 @@ saidは会話文や説明文で頻出し、発言内容を伝える場面でよ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ saidは会話文や説明文で頻出し、発言内容を伝える場面でよ�
 ## 🤔  told との違いは？
 
 - **said**：「言った」「述べた」など、発言内容そのものに焦点
-- **[told](/word/told/)**：「伝えた」「話した」など、相手（伝える相手）が明確
+- **[told](/told)**：「伝えた」「話した」など、相手（伝える相手）が明確
 
 saidは内容に重点を置き、toldは「誰に」伝えたかを強調します。
 
@@ -105,14 +109,14 @@ saidは内容に重点を置き、toldは「誰に」伝えたかを強調しま
 
 ## 🧩 あわせて覚えたい
 
-- [mention](/word/mention/)：言及する
-- [state](/word/state/)：述べる、明言する
+- [mention](/mention)：言及する
+- [state](/state)：述べる、明言する
 
 ---
 
 ## 📖 できればこれも
 
-- [speak](/word/speak/)：話す
-- [report](/word/report/)：報告する
+- [speak](/speak)：話す
+- [report](/report)：報告する
 
-<!-- cvid: aid00_bid41 -->
+<!-- cvid: aid20_bid02 -->

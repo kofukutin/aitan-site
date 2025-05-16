@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの場面で「支援」「サポート」とい
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの場面で「支援」「サポート」とい
 ## 🤔  assist との違いは？
 
 - **support**：広く「支援」「支持」など物理的・精神的なサポート全般を表す
-- **[assist](/word/assist/)**：主に「手伝う」「補助する」といった実際の行動や作業の補助を指す
+- **[assist](/assist)**：主に「手伝う」「補助する」といった実際の行動や作業の補助を指す
 
 supportは気持ちや立場の支援も含みますが、assistは具体的な作業や行動の補助に使われます。
 
@@ -105,14 +109,14 @@ supportは気持ちや立場の支援も含みますが、assistは具体的な�
 
 ## 🧩 あわせて覚えたい
 
-- [encourage](/word/encourage/)：励ます、勇気づける
-- [oppose](/word/oppose/)：反対する
+- [encourage](/encourage)：励ます、勇気づける
+- [oppose](/oppose)：反対する
 
 ---
 
 ## 📖 できればこれも
 
-- [help](/word/help/)：助ける、手伝う
-- [service](/word/service/)：サービス、業務
+- [help](/help)：助ける、手伝う
+- [service](/service)：サービス、業務
 
-<!-- cvid: aid32_bid47 -->
+<!-- cvid: aid46_bid12 -->

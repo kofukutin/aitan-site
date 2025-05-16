@@ -81,15 +81,19 @@ The patient was kept in isolation to prevent the spread of infection.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The patient was kept in isolation to prevent the spread of infection.
 ## 🤔  separation との違いは？
 
 - **isolation**：他から完全に切り離されている「孤立」「隔離」の状態を強調
-- **[separation](/word/separation/)**：物理的・心理的な「分離」や「区別」を幅広く指す
+- **[separation](/separation)**：物理的・心理的な「分離」や「区別」を幅広く指す
 
 isolationは「一人きり」「完全に離す」ニュアンスが強く、separationは単に「分ける」「区切る」場合にも使われます。
 
@@ -105,14 +109,14 @@ isolationは「一人きり」「完全に離す」ニュアンスが強く、se
 
 ## 🧩 あわせて覚えたい
 
-- [quarantine](/word/quarantine/)：検疫、隔離（特に感染症対策での隔離）
-- [solitude](/word/solitude/)：孤独、ひとりでいること（肯定的な意味合いも含む）
+- [quarantine](/quarantine)：検疫、隔離（特に感染症対策での隔離）
+- [solitude](/solitude)：孤独、ひとりでいること（肯定的な意味合いも含む）
 
 ---
 
 ## 📖 できればこれも
 
-- [infection](/word/infection/)：感染、伝染
-- [prevention](/word/prevention/)：予防、防止
+- [infection](/infection)：感染、伝染
+- [prevention](/prevention)：予防、防止
 
-<!-- cvid: aid31_bid09 -->
+<!-- cvid: aid32_bid20 -->

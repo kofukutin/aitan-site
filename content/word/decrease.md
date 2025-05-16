@@ -81,15 +81,19 @@ TOEICでは、主にビジネス文脈で「コストや数値が減る」こと
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主にビジネス文脈で「コストや数値が減る」こと
 ## 🤔  reduce との違いは？
 
 - **decrease**：数量や程度が自然に、または意図的に「減る・減らす」ことを表す。
-- **[reduce](/word/reduce/)**：何かを「意図的に減らす」「小さくする」ことを強調。
+- **[reduce](/reduce)**：何かを「意図的に減らす」「小さくする」ことを強調。
 
 decreaseは自然な変化や全体的な減少に使われ、reduceは人や組織が意図的に減らす場合によく使われます。
 
@@ -105,14 +109,14 @@ decreaseは自然な変化や全体的な減少に使われ、reduceは人や組
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase/)：増加する
-- [diminish](/word/diminish/)：（価値・重要性などが）減少する
+- [increase](/increase)：増加する
+- [diminish](/diminish)：（価値・重要性などが）減少する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve/)：改善する
-- [expand](/word/expand/)：拡大する
+- [improve](/improve)：改善する
+- [expand](/expand)：拡大する
 
-<!-- cvid: aid23_bid21 -->
+<!-- cvid: aid08_bid29 -->

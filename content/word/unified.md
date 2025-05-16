@@ -82,15 +82,19 @@ TOEICでは、文書やメールの中で「統一された」「一体化した
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid03_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、文書やメールの中で「統一された」「一体化した
 ## 🤔  integrated との違いは？
 
 - **unified**：もともと別々だったものが「1つにまとまった」状態を強調
-- **[integrated](/word/integrated/)**：異なる要素が「組み合わさって機能している」状態を強調
+- **[integrated](/integrated)**：異なる要素が「組み合わさって機能している」状態を強調
 
 unifiedは「統一感」や「一体感」に重点があり、integratedは「異なるものが調和して機能する」点に違いがあります。
 
@@ -106,14 +110,14 @@ unifiedは「統一感」や「一体感」に重点があり、integratedは「
 
 ## 🧩 あわせて覚えたい
 
-- [combine](/word/combine/)：結合する、組み合わせる
-- [merge](/word/merge/)：合併する、融合する
+- [combine](/combine)：結合する、組み合わせる
+- [merge](/merge)：合併する、融合する
 
 ---
 
 ## 📖 できればこれも
 
-- [consistent](/word/consistent/)：一貫した、矛盾のない
-- [collaborate](/word/collaborate/)：協力する、共同で行う
+- [consistent](/consistent)：一貫した、矛盾のない
+- [collaborate](/collaborate)：協力する、共同で行う
 
-<!-- cvid: aid06_bid18 -->
+<!-- cvid: aid03_bid38 -->

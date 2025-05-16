@@ -81,15 +81,19 @@ TOEICでは、universalは説明文や方針、規則などの文脈で「すべ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び方で差がつく／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid17" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid17" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、universalは説明文や方針、規則などの文脈で「すべ
 ## 🤔  general との違いは？
 
 - **universal**：例外なく「すべてに当てはまる」「普遍的な」という意味が強い
-- **[general](/word/general/)**：大まか・一般的・広く当てはまるが、例外がある場合も多い
+- **[general](/general)**：大まか・一般的・広く当てはまるが、例外がある場合も多い
 
 universalは「例外なく全体に共通する」ニュアンスがあり、generalは「大多数に当てはまるが例外もある」イメージです。
 
@@ -105,14 +109,14 @@ universalは「例外なく全体に共通する」ニュアンスがあり、ge
 
 ## 🧩 あわせて覚えたい
 
-- [global](/word/global/)：世界的な、地球規模の
-- [common](/word/common/)：一般的な、よくある
+- [global](/global)：世界的な、地球規模の
+- [common](/common)：一般的な、よくある
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical/)：典型的な
-- [overall](/word/overall/)：全体的な
+- [typical](/typical)：典型的な
+- [overall](/overall)：全体的な
 
-<!-- cvid: aid08_bid15 -->
+<!-- cvid: aid41_bid17 -->

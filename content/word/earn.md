@@ -81,15 +81,19 @@ TOEICでは「給料を得る」「利益を上げる」など、ビジネスの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「給料を得る」「利益を上げる」など、ビジネスの
 ## 🤔  gain との違いは？
 
 - **earn**：努力や働きの対価として得る（例：お金、信頼、昇進）
-- **[gain](/word/gain/)**：努力の有無に関わらず「得る」「増やす」（例：経験、知識、体重）
+- **[gain](/gain)**：努力の有無に関わらず「得る」「増やす」（例：経験、知識、体重）
 
 earnは「働いて得る」ことに重点があり、gainは「増やす・得る」全般に使えます。
 
@@ -105,14 +109,14 @@ earnは「働いて得る」ことに重点があり、gainは「増やす・得
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive/)：受け取る（受動的に得る）
-- [deserve](/word/deserve/)：値する（ふさわしい）
+- [receive](/receive)：受け取る（受動的に得る）
+- [deserve](/deserve)：値する（ふさわしい）
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/word/save/)：貯める、節約する
-- [spend](/word/spend/)：使う、費やす
+- [save](/save)：貯める、節約する
+- [spend](/spend)：使う、費やす
 
-<!-- cvid: aid13_bid42 -->
+<!-- cvid: aid25_bid11 -->

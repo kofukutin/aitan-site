@@ -81,15 +81,19 @@ TOEICでは「複数の選択肢」「複数の問題」など、数量や種類
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「複数の選択肢」「複数の問題」など、数量や種類
 ## 🤔  various との違いは？
 
 - **multiple**：複数の、数が多いことを強調し、同じ種類のものがいくつもある場合に使う
-- **[various](/word/various/)**：さまざまな、種類が異なるものが複数ある場合に使う
+- **[various](/various)**：さまざまな、種類が異なるものが複数ある場合に使う
 
 「multiple」は「数が多い」ことに重点があり、「various」は「種類の違い」に重点があります。
 
@@ -105,14 +109,14 @@ TOEICでは「複数の選択肢」「複数の問題」など、数量や種類
 
 ## 🧩 あわせて覚えたい
 
-- [single](/word/single/)：単一の、1つの
-- [numerous](/word/numerous/)：非常に多くの
+- [single](/single)：単一の、1つの
+- [numerous](/numerous)：非常に多くの
 
 ---
 
 ## 📖 できればこれも
 
-- [several](/word/several/)：いくつかの
-- [numerical](/word/numerical/)：数値の
+- [several](/several)：いくつかの
+- [numerical](/numerical)：数値の
 
-<!-- cvid: aid20_bid19 -->
+<!-- cvid: aid44_bid22 -->

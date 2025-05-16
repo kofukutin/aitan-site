@@ -82,15 +82,19 @@ TOEICでは主に環境や科学に関する長文、報告書、記事などで
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid08_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主に環境や科学に関する長文、報告書、記事などで
 ## 🤔  rainfall との違いは？
 
 - **precipitation**：雨・雪・あられなど空から降るすべての水分を指すフォーマルな総称
-- **[rainfall](/word/rainfall/)**：雨の降水量のみを指し、より日常的
+- **[rainfall](/rainfall)**：雨の降水量のみを指し、より日常的
 
 precipitationは科学的・公式な場面で使われ、rainfallは「雨」に限定される点が異なります。
 
@@ -106,14 +110,14 @@ precipitationは科学的・公式な場面で使われ、rainfallは「雨」�
 
 ## 🧩 あわせて覚えたい
 
-- [evaporation](/word/evaporation/)：蒸発
-- [humidity](/word/humidity/)：湿度
+- [evaporation](/evaporation)：蒸発
+- [humidity](/humidity)：湿度
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/word/climate/)：気候
-- [moisture](/word/moisture/)：水分
+- [climate](/climate)：気候
+- [moisture](/moisture)：水分
 
-<!-- cvid: aid39_bid08 -->
+<!-- cvid: aid08_bid07 -->

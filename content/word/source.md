@@ -81,15 +81,19 @@ TOEICでは、記事やビジネス文書で「情報源」や「供給元」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-ペースを崩さず進もう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やビジネス文書で「情報源」や「供給元」と
 ## 🤔  origin との違いは？
 
 - **source**：情報や物の「出どころ」「供給元」を指す
-- **[origin](/word/origin/)**：「起源」「発祥地」など、物事の始まりや根本を指す
+- **[origin](/origin)**：「起源」「発祥地」など、物事の始まりや根本を指す
 
 sourceは「どこから来たか」「誰が提供したか」など現実的な供給元に使い、originは歴史的・根本的な始まりや由来に使います。
 
@@ -105,14 +109,14 @@ sourceは「どこから来たか」「誰が提供したか」など現実的�
 
 ## 🧩 あわせて覚えたい
 
-- [resource](/word/resource/)：資源、供給源
-- [reference](/word/reference/)：参照、参考文献
+- [resource](/resource)：資源、供給源
+- [reference](/reference)：参照、参考文献
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply/)：供給、供給する
-- [cause](/word/cause/)：原因、引き起こす
+- [supply](/supply)：供給、供給する
+- [cause](/cause)：原因、引き起こす
 
-<!-- cvid: aid18_bid18 -->
+<!-- cvid: aid41_bid44 -->

@@ -81,15 +81,19 @@ TOEICでは会議や職場でのやりとり、成果を認める場面でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid15_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や職場でのやりとり、成果を認める場面でよく
 ## 🤔  compliment との違いは？
 
 - **praise**：行動や成果などを評価してほめること
-- **[compliment](/word/compliment/)**：相手の外見や持ち物などに対する軽いほめ言葉
+- **[compliment](/compliment)**：相手の外見や持ち物などに対する軽いほめ言葉
 
 praiseは努力や成果など本質的な価値を認めてほめる時に使い、complimentは日常的なちょっとしたほめ言葉に使います。
 
@@ -105,14 +109,14 @@ praiseは努力や成果など本質的な価値を認めてほめる時に使�
 
 ## 🧩 あわせて覚えたい
 
-- [criticism](/word/criticism/)：批判、非難
-- [admiration](/word/admiration/)：感嘆、称賛
+- [criticism](/criticism)：批判、非難
+- [admiration](/admiration)：感嘆、称賛
 
 ---
 
 ## 📖 できればこれも
 
-- [reward](/word/reward/)：報酬、褒美
-- [encourage](/word/encourage/)：励ます
+- [reward](/reward)：報酬、褒美
+- [encourage](/encourage)：励ます
 
-<!-- cvid: aid45_bid49 -->
+<!-- cvid: aid15_bid39 -->

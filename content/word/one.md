@@ -78,15 +78,19 @@ TOEICでは、選択肢や応答で「one」がよく登場します。特に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid44_bid30" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid30" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -94,7 +98,7 @@ TOEICでは、選択肢や応答で「one」がよく登場します。特に「
 ## 🤔  a との違いは？
 
 - **one**：前に出た名詞を受けて「1つ」「1人」と特定して指す
-- **[a](/word/a/)**：初めて出す名詞や、特定しない「1つ」を表す冠詞
+- **[a](/a)**：初めて出す名詞や、特定しない「1つ」を表す冠詞
 
 「one」はすでに話題に出た物や人を指すときに使い、「a」は新しく話題に出すときや、特定しない1つを表すときに使います。
 
@@ -102,14 +106,14 @@ TOEICでは、選択肢や応答で「one」がよく登場します。特に「
 
 ## 🧩 あわせて覚えたい
 
-- [another](/word/another/)：もう1つ、別の1つ
-- [each](/word/each/)：それぞれ、各自
+- [another](/another)：もう1つ、別の1つ
+- [each](/each)：それぞれ、各自
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/word/first/)：最初の、第一の
-- [some](/word/some/)：いくつかの、いくらかの
+- [first](/first)：最初の、第一の
+- [some](/some)：いくつかの、いくらかの
 
-<!-- cvid: aid41_bid21 -->
+<!-- cvid: aid44_bid30 -->

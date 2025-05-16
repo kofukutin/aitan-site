@@ -81,15 +81,19 @@ TOEICでは、社会問題や文化に関する長文で「cult」が登場す�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid11_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、社会問題や文化に関する長文で「cult」が登場す�
 ## 🤔  sect との違いは？
 
 - **cult**：社会的に異端視される熱狂的な集団や信仰、または熱狂的なファン層。
-- **[sect](/word/sect/)**：主流から分かれた宗教の一派や分派を指し、必ずしも否定的な意味ではない。
+- **[sect](/sect)**：主流から分かれた宗教の一派や分派を指し、必ずしも否定的な意味ではない。
 
 cultは「危険」「盲信」など否定的なニュアンスが強く、sectは単なる宗教的な分派を指す場合が多いです。
 
@@ -105,14 +109,14 @@ cultは「危険」「盲信」など否定的なニュアンスが強く、sect
 
 ## 🧩 あわせて覚えたい
 
-- [religion](/word/religion/)：宗教
-- [trend](/word/trend/)：流行、傾向
+- [religion](/religion)：宗教
+- [trend](/trend)：流行、傾向
 
 ---
 
 ## 📖 できればこれも
 
-- [ritual](/word/ritual/)：儀式
-- [belief](/word/belief/)：信念
+- [ritual](/ritual)：儀式
+- [belief](/belief)：信念
 
-<!-- cvid: aid09_bid29 -->
+<!-- cvid: aid11_bid20 -->

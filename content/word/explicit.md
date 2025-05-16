@@ -81,15 +81,19 @@ TOEICでは契約書や説明文、指示文などで「明確な」「明示的
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+思考が冴えてるときに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid15_bid42" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid15_bid42" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約書や説明文、指示文などで「明確な」「明示的
 ## 🤔  specific との違いは？
 
 - **explicit**：あいまいさがなく、はっきりと明示されている
-- **[specific](/word/specific/)**：具体的で詳細に限定されている
+- **[specific](/specific)**：具体的で詳細に限定されている
 
 explicitは「隠さず明確に述べる」ことに重点があり、specificは「範囲や内容を限定して具体的に述べる」点が異なります。
 
@@ -105,14 +109,14 @@ explicitは「隠さず明確に述べる」ことに重点があり、specific�
 
 ## 🧩 あわせて覚えたい
 
-- [implicit](/word/implicit/)：暗黙の、はっきり示されていない
-- [clear](/word/clear/)：明確な、わかりやすい
+- [implicit](/implicit)：暗黙の、はっきり示されていない
+- [clear](/clear)：明確な、わかりやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise/)：正確な、精密な
-- [detailed](/word/detailed/)：詳細な、細かい
+- [precise](/precise)：正確な、精密な
+- [detailed](/detailed)：詳細な、細かい
 
-<!-- cvid: aid10_bid45 -->
+<!-- cvid: aid15_bid42 -->

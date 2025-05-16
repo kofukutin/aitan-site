@@ -81,15 +81,19 @@ TOEICではメールや通知文、ビジネス文書で「受取人」として
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語に触れる毎日へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid43_bid34" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid34" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではメールや通知文、ビジネス文書で「受取人」として
 ## 🤔  beneficiary との違いは？
 
 - **recipient**：何かを受け取る人全般（例：手紙、賞、メールなど）
-- **[beneficiary](/word/beneficiary/)**：特に恩恵や利益、遺産などを受ける人
+- **[beneficiary](/beneficiary)**：特に恩恵や利益、遺産などを受ける人
 
 recipientは「受取人」として広く使われますが、beneficiaryは「利益や恩恵を受ける人」に限定されるため、法律や保険、遺産分野でよく使われます。
 
@@ -105,14 +109,14 @@ recipientは「受取人」として広く使われますが、beneficiaryは「
 
 ## 🧩 あわせて覚えたい
 
-- [sender](/word/sender/)：送信者、送り主
-- [applicant](/word/applicant/)：応募者、申請者
+- [sender](/sender)：送信者、送り主
+- [applicant](/applicant)：応募者、申請者
 
 ---
 
 ## 📖 できればこれも
 
-- [donor](/word/donor/)：寄付者、提供者
-- [participant](/word/participant/)：参加者
+- [donor](/donor)：寄付者、提供者
+- [participant](/participant)：参加者
 
-<!-- cvid: aid27_bid14 -->
+<!-- cvid: aid43_bid34 -->

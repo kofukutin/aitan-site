@@ -81,15 +81,19 @@ TOEICでは文学や文化に関する長文や記事で登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは文学や文化に関する長文や記事で登場することがあ
 ## 🤔  author との違いは？
 
 - **poet**：詩を書く人、詩人
-- **[author](/word/author/)**：本や記事などあらゆる文章の「著者」
+- **[author](/author)**：本や記事などあらゆる文章の「著者」
 
 poetは詩に特化した表現で、authorは小説や記事、論文など幅広い著作物の書き手を指します。
 
@@ -105,14 +109,14 @@ poetは詩に特化した表現で、authorは小説や記事、論文など幅�
 
 ## 🧩 あわせて覚えたい
 
-- [poetry](/word/poetry/)：詩（文学作品としての詩）
-- [novelist](/word/novelist/)：小説家
+- [poetry](/poetry)：詩（文学作品としての詩）
+- [novelist](/novelist)：小説家
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/word/artist/)：芸術家
-- [writer](/word/writer/)：書き手、作家
+- [artist](/artist)：芸術家
+- [writer](/writer)：書き手、作家
 
-<!-- cvid: aid48_bid49 -->
+<!-- cvid: aid44_bid40 -->

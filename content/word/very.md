@@ -81,15 +81,19 @@ TOEICでは形容詞や副詞を強調する副詞として頻出します。特
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid49_bid20" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid20" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは形容詞や副詞を強調する副詞として頻出します。特
 ## 🤔  so との違いは？
 
 - **very**：単に「とても」「非常に」と強調する時に使う
-- **[so](/word/so/)**：「とても」だが、結果や感情を強調したり、that節と一緒に使うことが多い
+- **[so](/so)**：「とても」だが、結果や感情を強調したり、that節と一緒に使うことが多い
 
 veryは単純な強調、soは感情や結果を強く伝えたい時やthat節と一緒に使う点が異なります。
 
@@ -105,14 +109,14 @@ veryは単純な強調、soは感情や結果を強く伝えたい時やthat節�
 
 ## 🧩 あわせて覚えたい
 
-- [extremely](/word/extremely/)：極めて、非常に
-- [quite](/word/quite/)：かなり、相当
+- [extremely](/extremely)：極めて、非常に
+- [quite](/quite)：かなり、相当
 
 ---
 
 ## 📖 できればこれも
 
-- [really](/word/really/)：本当に、実際に
-- [too](/word/too/)：～すぎる、あまりに
+- [really](/really)：本当に、実際に
+- [too](/too)：～すぎる、あまりに
 
-<!-- cvid: aid08_bid45 -->
+<!-- cvid: aid49_bid20 -->

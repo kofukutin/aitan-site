@@ -81,15 +81,19 @@ TOEICでは、製品説明や科学・技術系の文脈で「metallic」が形�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid00_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、製品説明や科学・技術系の文脈で「metallic」が形�
 ## 🤔  metal との違いは？
 
 - **metallic**：金属のような性質・外観・音などを持つことを表す形容詞
-- **[metal](/word/metal/)**：金属そのもの、または金属製品を指す名詞
+- **[metal](/metal)**：金属そのもの、または金属製品を指す名詞
 
 metallicは「金属っぽい」「金属の性質を持つ」ことを表現し、metalは物質としての金属そのものを指します。
 
@@ -105,14 +109,14 @@ metallicは「金属っぽい」「金属の性質を持つ」ことを表現し
 
 ## 🧩 あわせて覚えたい
 
-- [shiny](/word/shiny/)：光沢のある、輝く
-- [rust](/word/rust/)：さび、さびる
+- [shiny](/shiny)：光沢のある、輝く
+- [rust](/rust)：さび、さびる
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical/)：化学の、化学物質
-- [solid](/word/solid/)：固体の、しっかりした
+- [chemical](/chemical)：化学の、化学物質
+- [solid](/solid)：固体の、しっかりした
 
-<!-- cvid: aid31_bid10 -->
+<!-- cvid: aid00_bid03 -->

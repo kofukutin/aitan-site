@@ -81,15 +81,19 @@ TOEICでは、会話や説明文で「確かに」「もちろん」と返答す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid12" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid12" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会話や説明文で「確かに」「もちろん」と返答す
 ## 🤔  definitely との違いは？
 
 - **certainly**：確信や丁寧な同意を表し、フォーマルな場面でよく使う
-- **[definitely](/word/definitely/)**：強い断言や確信をカジュアルにも使う
+- **[definitely](/definitely)**：強い断言や確信をカジュアルにも使う
 
 certainlyは「もちろんです」と丁寧に返答する時に使い、definitelyは「絶対に」「間違いなく」と強く断言したい時に使います。
 
@@ -105,14 +109,14 @@ certainlyは「もちろんです」と丁寧に返答する時に使い、defin
 
 ## 🧩 あわせて覚えたい
 
-- [probably](/word/probably/)：おそらく
-- [surely](/word/surely/)：きっと、確かに
+- [probably](/probably)：おそらく
+- [surely](/surely)：きっと、確かに
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/word/actually/)：実は、実際に
-- [clearly](/word/clearly/)：はっきりと、明確に
+- [actually](/actually)：実は、実際に
+- [clearly](/clearly)：はっきりと、明確に
 
-<!-- cvid: aid07_bid02 -->
+<!-- cvid: aid49_bid12 -->

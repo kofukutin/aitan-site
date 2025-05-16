@@ -81,15 +81,19 @@ TOEICでは、交通機関の時刻表やイベントのスケジュール表な
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、交通機関の時刻表やイベントのスケジュール表な
 ## 🤔  schedule との違いは？
 
 - **timetable**：決まった時間を表で示した「時間割」や「時刻表」
-- **[schedule](/word/schedule/)**：予定や計画全般を指し、表形式でなくても使える
+- **[schedule](/schedule)**：予定や計画全般を指し、表形式でなくても使える
 
 timetableは学校や交通機関など、決まった時間が一覧になっている場合に使い、scheduleはより広く「予定」や「計画」に使います。
 
@@ -105,14 +109,14 @@ timetableは学校や交通機関など、決まった時間が一覧になっ�
 
 ## 🧩 あわせて覚えたい
 
-- [agenda](/word/agenda/)：議題、会議の進行表
-- [calendar](/word/calendar/)：カレンダー、予定表
+- [agenda](/agenda)：議題、会議の進行表
+- [calendar](/calendar)：カレンダー、予定表
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment/)：予約、約束
-- [deadline](/word/deadline/)：締め切り
+- [appointment](/appointment)：予約、約束
+- [deadline](/deadline)：締め切り
 
-<!-- cvid: aid07_bid38 -->
+<!-- cvid: aid43_bid22 -->

@@ -81,15 +81,19 @@ TOEICでは求人広告やビジネス文書、面接関連の長文で頻出し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid28" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid28" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは求人広告やビジネス文書、面接関連の長文で頻出し
 ## 🤔  employee との違いは？
 
 - **employer**：人を雇う側（雇用主）
-- **[employee](/word/employee/)**：雇われる側（従業員）
+- **[employee](/employee)**：雇われる側（従業員）
 
 employerは「雇う人」、employeeは「雇われる人」と立場が逆です。求人や面接の場面で混同しやすいので注意しましょう。
 
@@ -105,14 +109,14 @@ employerは「雇う人」、employeeは「雇われる人」と立場が逆で�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [recruiter](/word/recruiter/)：採用担当者
+- [manager](/manager)：管理職、マネージャー
+- [recruiter](/recruiter)：採用担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [employment](/word/employment/)：雇用
-- [applicant](/word/applicant/)：応募者
+- [employment](/employment)：雇用
+- [applicant](/applicant)：応募者
 
-<!-- cvid: aid36_bid45 -->
+<!-- cvid: aid01_bid28 -->

@@ -81,15 +81,19 @@ TOEICでは、会議や議論の文脈で「意見が食い違う」「反論す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid18" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid18" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議や議論の文脈で「意見が食い違う」「反論す
 ## 🤔  deny との違いは？
 
 - **contradict**：他人の意見や発言に「それは違う」と反論したり、内容が食い違うことを指摘する。
-- **[deny](/word/deny/)**：事実や申し立てを「否定する」「認めない」と主張する。
+- **[deny](/deny)**：事実や申し立てを「否定する」「認めない」と主張する。
 
 contradictは「反論」や「矛盾」を強調し、denyは「事実を否定」するニュアンスが強いです。
 
@@ -105,14 +109,14 @@ contradictは「反論」や「矛盾」を強調し、denyは「事実を否定
 
 ## 🧩 あわせて覚えたい
 
-- [oppose](/word/oppose/)：反対する
-- [refute](/word/refute/)：論破する、論拠を挙げて否定する
+- [oppose](/oppose)：反対する
+- [refute](/refute)：論破する、論拠を挙げて否定する
 
 ---
 
 ## 📖 できればこれも
 
-- [assert](/word/assert/)：主張する
-- [object](/word/object/)：反対する
+- [assert](/assert)：主張する
+- [object](/object)：反対する
 
-<!-- cvid: aid05_bid13 -->
+<!-- cvid: aid37_bid18 -->

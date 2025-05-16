@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【turnover】の意味・使い方・例文 ― revenueとの違い【TOEIC英単語】"
 description: "turnoverの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrevenueとの違いもわかりやすく学べます。"
 word: "turnover"
@@ -81,15 +81,19 @@ TOEICでは売上や人事に関する記事・レポート・Eメールなど�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+覚えやすいタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid31_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid31_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは売上や人事に関する記事・レポート・Eメールなど�
 ## 🤔  revenue との違いは？
 
 - **turnover**：一定期間の売上高や従業員の入れ替わり（離職率）など、回転や流れを強調
-- **[revenue](/word/revenue/)**：主に企業や政府の「収益」「収入」を指し、売上高に限定されることが多い
+- **[revenue](/revenue)**：主に企業や政府の「収益」「収入」を指し、売上高に限定されることが多い
 
 turnoverは「回転」や「入れ替わり」のニュアンスがあり、revenueは「収入・収益」として金額面に特化しています。
 
@@ -105,14 +109,14 @@ turnoverは「回転」や「入れ替わり」のニュアンスがあり、rev
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit/)：利益
-- [resignation](/word/resignation/)：辞職、退職
+- [profit](/profit)：利益
+- [resignation](/resignation)：辞職、退職
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense/)：費用
-- [asset](/word/asset/)：資産
+- [expense](/expense)：費用
+- [asset](/asset)：資産
 
-<!-- cvid: aid32_bid25 -->
+<!-- cvid: aid31_bid11 -->

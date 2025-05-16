@@ -82,15 +82,19 @@ TOEICでは、組織やシステム、建物の「構造」や「仕組み」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、組織やシステム、建物の「構造」や「仕組み」を
 ## 🤔  framework との違いは？
 
 - **structure**：物理的・抽象的な「構造」や「仕組み」全般を指す
-- **[framework](/word/framework/)**：枠組みや骨組み、基本的な構成要素を強調
+- **[framework](/framework)**：枠組みや骨組み、基本的な構成要素を強調
 
 structureは全体の構成や仕組みを広く指し、frameworkはその中でも「枠組み」や「骨組み」といった基盤部分に焦点を当てます。
 
@@ -106,14 +110,14 @@ structureは全体の構成や仕組みを広く指し、frameworkはその中�
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/word/organization/)：組織、団体
-- [system](/word/system/)：体系、制度、システム
+- [organization](/organization)：組織、団体
+- [system](/system)：体系、制度、システム
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、手順
-- [method](/word/method/)：方法、やり方
+- [process](/process)：過程、手順
+- [method](/method)：方法、やり方
 
-<!-- cvid: aid09_bid05 -->
+<!-- cvid: aid21_bid41 -->

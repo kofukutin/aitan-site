@@ -81,15 +81,19 @@ TOEICでは、数量や金額の増減を表す文脈で「double」がよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、数量や金額の増減を表す文脈で「double」がよく出
 ## 🤔  duplicate との違いは？
 
 - **double**：数量や規模を「2倍にする」こと。
-- **[duplicate](/word/duplicate/)**：まったく同じものを「複製する」こと。
+- **[duplicate](/duplicate)**：まったく同じものを「複製する」こと。
 
 「double」は数や量を増やすとき、「duplicate」はコピーや複製を作るときに使います。
 
@@ -105,14 +109,14 @@ TOEICでは、数量や金額の増減を表す文脈で「double」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [halve](/word/halve/)：半分にする
-- [increase](/word/increase/)：増やす
+- [halve](/halve)：半分にする
+- [increase](/increase)：増やす
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce/)：減らす
-- [expand](/word/expand/)：拡大する
+- [reduce](/reduce)：減らす
+- [expand](/expand)：拡大する
 
-<!-- cvid: aid32_bid05 -->
+<!-- cvid: aid29_bid17 -->

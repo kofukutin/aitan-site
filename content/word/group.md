@@ -82,15 +82,19 @@ TOEICでは会議やプロジェクト、チーム編成などの場面で「gro
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid39_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会議やプロジェクト、チーム編成などの場面で「gro
 ## 🤔  team との違いは？
 
 - **group**：共通点や目的で集まった人や物の集まり全般を指す
-- **[team](/word/team/)**：特定の目標達成のために協力し合う集団
+- **[team](/team)**：特定の目標達成のために協力し合う集団
 
 groupは単なる集まりも含みますが、teamは「協力して何かを成し遂げる」ニュアンスが強いです。
 
@@ -106,14 +110,14 @@ groupは単なる集まりも含みますが、teamは「協力して何かを�
 
 ## 🧩 あわせて覚えたい
 
-- [committee](/word/committee/)：委員会、委員団
-- [organization](/word/organization/)：組織、団体
+- [committee](/committee)：委員会、委員団
+- [organization](/organization)：組織、団体
 
 ---
 
 ## 📖 できればこれも
 
-- [member](/word/member/)：メンバー、構成員
-- [project](/word/project/)：プロジェクト、計画
+- [member](/member)：メンバー、構成員
+- [project](/project)：プロジェクト、計画
 
-<!-- cvid: aid43_bid19 -->
+<!-- cvid: aid39_bid10 -->

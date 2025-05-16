@@ -81,15 +81,19 @@ TOEICでは「in a polite manner（丁寧に）」などの形で副詞的に使
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-調子がいいときに進もう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「in a polite manner（丁寧に）」などの形で副詞的に使
 ## 🤔  etiquette との違いは？
 
 - **manner**：個人の態度や行動、または物事のやり方を指す。
-- **[etiquette](/word/etiquette/)**：社会的・公式な場での正式な礼儀作法を指す。
+- **[etiquette](/etiquette)**：社会的・公式な場での正式な礼儀作法を指す。
 
 mannerは日常的なふるまいや態度全般に使われ、etiquetteはより形式的・社会的なルールを強調します。
 
@@ -105,14 +109,14 @@ mannerは日常的なふるまいや態度全般に使われ、etiquetteはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [custom](/word/custom/)：習慣、慣習
-- [behavior](/word/behavior/)：行動、ふるまい
+- [custom](/custom)：習慣、慣習
+- [behavior](/behavior)：行動、ふるまい
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method/)：方法、やり方
-- [attitude](/word/attitude/)：態度、考え方
+- [method](/method)：方法、やり方
+- [attitude](/attitude)：態度、考え方
 
-<!-- cvid: aid19_bid44 -->
+<!-- cvid: aid33_bid13 -->

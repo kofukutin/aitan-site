@@ -80,15 +80,19 @@ TOEICではITやデジタルコミュニケーションに関する長文で見�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼成果を出す学習習慣／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid45_bid07" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid07" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではITやデジタルコミュニケーションに関する長文で見�
 ## 🤔  icon との違いは？
 
 - **avatar**：ユーザー自身を象徴するキャラクターや画像
-- **[icon](/word/icon/)**：機能やアプリを示す小さな画像や記号
+- **[icon](/icon)**：機能やアプリを示す小さな画像や記号
 
 avatarは「人」や「分身」を表し、iconは「機能」や「アプリ」を表す点が異なります。
 
@@ -104,14 +108,14 @@ avatarは「人」や「分身」を表し、iconは「機能」や「アプリ�
 
 ## 🧩 あわせて覚えたい
 
-- [profile](/word/profile/)：プロフィール、人物紹介
-- [representation](/word/representation/)：表現、表象
+- [profile](/profile)：プロフィール、人物紹介
+- [representation](/representation)：表現、表象
 
 ---
 
 ## 📖 できればこれも
 
-- [virtual](/word/virtual/)：仮想の、バーチャルな
-- [platform](/word/platform/)：プラットフォーム、基盤
+- [virtual](/virtual)：仮想の、バーチャルな
+- [platform](/platform)：プラットフォーム、基盤
 
-<!-- cvid: aid03_bid26 -->
+<!-- cvid: aid45_bid07 -->

@@ -77,15 +77,19 @@ TOEICでは仮定や丁寧な依頼、過去の習慣を表す文脈でよく登
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは仮定や丁寧な依頼、過去の習慣を表す文脈でよく登
 ## 🤔  used to との違いは？
 
 - **would**：過去の習慣や仮定、丁寧な依頼など幅広く使う
-- **[used to](/word/used_to/)**：過去の習慣や以前の状態を表す
+- **[used to](/used_to)**：過去の習慣や以前の状態を表す
 
 「would」は過去の習慣だけでなく仮定や依頼にも使えますが、「used to」は過去の習慣や状態だけに限定されます。
 
@@ -101,14 +105,14 @@ TOEICでは仮定や丁寧な依頼、過去の習慣を表す文脈でよく登
 
 ## 🧩 あわせて覚えたい
 
-- [will](/word/will/)：～するつもりだ（意志・未来を表す助動詞）
-- [could](/word/could/)：～できた、～かもしれない（canの過去形・丁寧表現）
+- [will](/will)：～するつもりだ（意志・未来を表す助動詞）
+- [could](/could)：～できた、～かもしれない（canの過去形・丁寧表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [should](/word/should/)：～すべきだ
-- [might](/word/might/)：～かもしれない
+- [should](/should)：～すべきだ
+- [might](/might)：～かもしれない
 
-<!-- cvid: aid39_bid17 -->
+<!-- cvid: aid11_bid10 -->

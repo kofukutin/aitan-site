@@ -81,15 +81,19 @@ TOEICでは会議や電話のやりとり、案内放送などで「録音され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議や電話のやりとり、案内放送などで「録音され
 ## 🤔  documented との違いは？
 
 - **recorded**：音声・映像・データなどが記録・保存された状態を指す
-- **[documented](/word/documented/)**：文書や証拠として正式に記録された状態を指す
+- **[documented](/documented)**：文書や証拠として正式に記録された状態を指す
 
 recordedは音声や映像など幅広い「記録」に使い、documentedは主に書類や証拠として残す場合に使います。
 
@@ -105,14 +109,14 @@ recordedは音声や映像など幅広い「記録」に使い、documentedは�
 
 ## 🧩 あわせて覚えたい
 
-- [written](/word/written/)：書かれた、文書化された
-- [archived](/word/archived/)：保管された、アーカイブされた
+- [written](/written)：書かれた、文書化された
+- [archived](/archived)：保管された、アーカイブされた
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official/)：公式の、正式な
-- [noted](/word/noted/)：注目された、有名な
+- [official](/official)：公式の、正式な
+- [noted](/noted)：注目された、有名な
 
-<!-- cvid: aid32_bid08 -->
+<!-- cvid: aid30_bid42 -->

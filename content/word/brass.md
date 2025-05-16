@@ -82,15 +82,19 @@ TOEICでは、素材や部品の説明、製造業関連の文脈で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid16_bid22" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid16_bid22" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、素材や部品の説明、製造業関連の文脈で出題され
 ## 🤔  copper との違いは？
 
 - **brass**：銅と亜鉛を混ぜた合金（真鍮）や金管楽器を指す
-- **[copper](/word/copper/)**：元素としての「銅」そのもの
+- **[copper](/copper)**：元素としての「銅」そのもの
 
 brassは複数の金属を混ぜた合金、copperは純粋な金属としての銅を指します。
 
@@ -106,14 +110,14 @@ brassは複数の金属を混ぜた合金、copperは純粋な金属としての
 
 ## 🧩 あわせて覚えたい
 
-- [bronze](/word/bronze/)：青銅（銅とスズの合金）
-- [metal](/word/metal/)：金属
+- [bronze](/bronze)：青銅（銅とスズの合金）
+- [metal](/metal)：金属
 
 ---
 
 ## 📖 できればこれも
 
-- [iron](/word/iron/)：鉄
-- [steel](/word/steel/)：鋼（はがね）
+- [iron](/iron)：鉄
+- [steel](/steel)：鋼（はがね）
 
-<!-- cvid: aid14_bid41 -->
+<!-- cvid: aid16_bid22 -->

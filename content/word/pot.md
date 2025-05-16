@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【pot】の意味・使い方・例文 ― panとの違い【TOEIC英単語】"
 description: "potの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでpanとの違いもわかりやすく学べます。"
 word: "pot"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、キッチンやオフィスの備品と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid20_bid27" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid27" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、キッチンやオフィスの備品と
 ## 🤔  pan との違いは？
 
 - **pot**：深さがあり、煮込みやお湯を沸かすのに使う容器
-- **[pan](/word/pan/)**：浅くて炒め物や焼き物に使う容器
+- **[pan](/pan)**：浅くて炒め物や焼き物に使う容器
 
 **pot**はスープや煮物など液体を多く使う料理に使い、**pan**はフライパンのように浅い調理器具を指します。
 
@@ -105,14 +109,14 @@ TOEICでは主に写真描写問題で、キッチンやオフィスの備品と
 
 ## 🧩 あわせて覚えたい
 
-- [kettle](/word/kettle/)：やかん
-- [jar](/word/jar/)：瓶、広口容器
+- [kettle](/kettle)：やかん
+- [jar](/jar)：瓶、広口容器
 
 ---
 
 ## 📖 できればこれも
 
-- [cup](/word/cup/)：カップ、茶碗
-- [bowl](/word/bowl/)：ボウル、鉢
+- [cup](/cup)：カップ、茶碗
+- [bowl](/bowl)：ボウル、鉢
 
-<!-- cvid: aid09_bid09 -->
+<!-- cvid: aid20_bid27 -->

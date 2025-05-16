@@ -81,15 +81,19 @@ TOEICでは、建物や施設の建設、チームや関係性の構築など、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid49_bid41" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid41" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、建物や施設の建設、チームや関係性の構築など、
 ## 🤔  construct との違いは？
 
 - **build**：日常的・幅広く「作る」「建てる」に使う
-- **[construct](/word/construct/)**：よりフォーマルで「組み立てる」「構造的に作る」の意味が強い
+- **[construct](/construct)**：よりフォーマルで「組み立てる」「構造的に作る」の意味が強い
 
 buildは日常会話やビジネスで幅広く使われ、constructは専門的・技術的な場面で使われやすいです。
 
@@ -105,14 +109,14 @@ buildは日常会話やビジネスで幅広く使われ、constructは専門的
 
 ## 🧩 あわせて覚えたい
 
-- [destroy](/word/destroy/)：壊す、破壊する
-- [develop](/word/develop/)：発展させる、開発する
+- [destroy](/destroy)：壊す、破壊する
+- [develop](/develop)：発展させる、開発する
 
 ---
 
 ## 📖 できればこれも
 
-- [create](/word/create/)：創造する、作り出す
-- [design](/word/design/)：設計する、デザインする
+- [create](/create)：創造する、作り出す
+- [design](/design)：設計する、デザインする
 
-<!-- cvid: aid13_bid33 -->
+<!-- cvid: aid49_bid41 -->

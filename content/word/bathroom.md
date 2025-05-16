@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【bathroom】の意味・使い方・例文 ― restroomとの違い【TOEIC英単語】"
 description: "bathroomの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでrestroomとの違いもわかりやすく学べます。"
 word: "bathroom"
@@ -80,15 +80,19 @@ TOEICでは主にPart 1の写真描写や、施設案内の場面で出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid21_bid03" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid03" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 1の写真描写や、施設案内の場面で出題され
 ## 🤔  restroom との違いは？
 
 - **bathroom**：家庭やホテルなどで使う「浴室」「トイレ」。カジュアルで日常的。
-- **[restroom](/word/restroom/)**：公共施設で使う「トイレ」。ややフォーマル。
+- **[restroom](/restroom)**：公共施設で使う「トイレ」。ややフォーマル。
 
 bathroomは家庭やホテルなどプライベートな空間で使われることが多く、restroomは公共の場所で使われるフォーマルな表現です。
 
@@ -104,14 +108,14 @@ bathroomは家庭やホテルなどプライベートな空間で使われるこ
 
 ## 🧩 あわせて覚えたい
 
-- [toilet](/word/toilet/)：便器、トイレ（イギリス英語で一般的）
-- [washroom](/word/washroom/)：洗面所、トイレ（カナダ英語でよく使う）
+- [toilet](/toilet)：便器、トイレ（イギリス英語で一般的）
+- [washroom](/washroom)：洗面所、トイレ（カナダ英語でよく使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/word/kitchen/)：台所
-- [bedroom](/word/bedroom/)：寝室
+- [kitchen](/kitchen)：台所
+- [bedroom](/bedroom)：寝室
 
-<!-- cvid: aid46_bid17 -->
+<!-- cvid: aid21_bid03 -->

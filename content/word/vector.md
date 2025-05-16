@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【vector】の意味・使い方・例文 ― directionとの違い【TOEIC英単語】"
 description: "vectorの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdirectionとの違いもわかりやすく学べます。"
 word: "vector"
@@ -81,15 +81,19 @@ TOEICでは科学技術やIT関連の長文、または専門的な説明文で�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid04_bid23" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid23" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術やIT関連の長文、または専門的な説明文で�
 ## 🤔  direction との違いは？
 
 - **vector**：大きさと向きを持つ量や、何かを運ぶ媒介体
-- **[direction](/word/direction/)**：向きや方向のみを表す
+- **[direction](/direction)**：向きや方向のみを表す
 
 vectorは「大きさ＋向き」の両方を含み、directionは「向き」だけを指します。数学や物理の文脈ではこの違いが重要です。
 
@@ -105,14 +109,14 @@ vectorは「大きさ＋向き」の両方を含み、directionは「向き」�
 
 ## 🧩 あわせて覚えたい
 
-- [magnitude](/word/magnitude/)：大きさ、量
-- [axis](/word/axis/)：軸、中心線
+- [magnitude](/magnitude)：大きさ、量
+- [axis](/axis)：軸、中心線
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate/)：座標
-- [dimension](/word/dimension/)：次元
+- [coordinate](/coordinate)：座標
+- [dimension](/dimension)：次元
 
-<!-- cvid: aid30_bid49 -->
+<!-- cvid: aid04_bid23 -->

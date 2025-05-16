@@ -81,15 +81,19 @@ outputはITやビジネスの文脈で、成果や生産量、データの出力
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid01" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid01" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ outputはITやビジネスの文脈で、成果や生産量、データの出力
 ## 🤔  production との違いは？
 
 - **output**：機械や人が生み出す「出力」や「成果物」、特にITや工業分野で使われる
-- **[production](/word/production/)**：生産活動そのものや生産量、製造過程全体を指す
+- **[production](/production)**：生産活動そのものや生産量、製造過程全体を指す
 
 outputは「外に出されたもの・成果物」に焦点があり、productionは「生産活動やその過程」に重点があります。
 
@@ -105,14 +109,14 @@ outputは「外に出されたもの・成果物」に焦点があり、producti
 
 ## 🧩 あわせて覚えたい
 
-- [input](/word/input/)：入力、インプット
-- [result](/word/result/)：結果、成果
+- [input](/input)：入力、インプット
+- [result](/result)：結果、成果
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、プロセス
-- [function](/word/function/)：機能、働き
+- [process](/process)：過程、プロセス
+- [function](/function)：機能、働き
 
-<!-- cvid: aid43_bid12 -->
+<!-- cvid: aid44_bid01 -->

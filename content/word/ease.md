@@ -81,7 +81,7 @@ TOEICでは「with ease（容易に）」や「at ease（安心して）」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは「with ease（容易に）」や「at ease（安心して）」な�
 
 <div class="info-center">
 ＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「with ease（容易に）」や「at ease（安心して）」な�
 ## 🤔  relieve との違いは？
 
 - **ease**：困難やストレスがなく、気楽で安心した状態や「容易さ」を表す名詞。
-- **[relieve](/word/relieve/)**：苦痛や不安などを「和らげる」「取り除く」という動詞。
+- **[relieve](/relieve)**：苦痛や不安などを「和らげる」「取り除く」という動詞。
 
 easeは「状態」を表し、relieveは「行動（和らげる）」を表す点が異なります。
 
@@ -105,14 +109,14 @@ easeは「状態」を表し、relieveは「行動（和らげる）」を表す
 
 ## 🧩 あわせて覚えたい
 
-- [comfort](/word/comfort/)：快適さ、心地よさ
-- [burden](/word/burden/)：重荷、負担
+- [comfort](/comfort)：快適さ、心地よさ
+- [burden](/burden)：重荷、負担
 
 ---
 
 ## 📖 できればこれも
 
-- [effort](/word/effort/)：努力、労力
-- [stress](/word/stress/)：ストレス、緊張
+- [effort](/effort)：努力、労力
+- [stress](/stress)：ストレス、緊張
 
-<!-- cvid: aid26_bid13 -->
+<!-- cvid: aid20_bid13 -->

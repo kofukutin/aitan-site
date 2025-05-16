@@ -82,15 +82,19 @@ TOEICでは「senior manager」や「senior staff」など役職名や肩書き�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+復習で自信を固めよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid11_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid11_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「senior manager」や「senior staff」など役職名や肩書き�
 ## 🤔  superior との違いは？
 
 - **senior**：年齢や地位・役職が上の人、または上級の立場を表す。
-- **[superior](/word/superior/)**：能力や品質が「優れている」、または「上司」という意味で使われる。
+- **[superior](/superior)**：能力や品質が「優れている」、または「上司」という意味で使われる。
 
 seniorは「年齢や役職の上下」に重点があり、superiorは「能力や質の優劣」に重点があります。
 
@@ -106,14 +110,14 @@ seniorは「年齢や役職の上下」に重点があり、superiorは「能力
 
 ## 🧩 あわせて覚えたい
 
-- [junior](/word/junior/)：年下の、下級の
-- [executive](/word/executive/)：重役、経営幹部
+- [junior](/junior)：年下の、下級の
+- [executive](/executive)：重役、経営幹部
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager/)：管理職、マネージャー
-- [experienced](/word/experienced/)：経験豊富な
+- [manager](/manager)：管理職、マネージャー
+- [experienced](/experienced)：経験豊富な
 
-<!-- cvid: aid25_bid25 -->
+<!-- cvid: aid11_bid49 -->

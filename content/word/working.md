@@ -81,15 +81,19 @@ TOEICでは、機械やシステムが「作動中」であることや、仕事
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid06" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid06" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械やシステムが「作動中」であることや、仕事
 ## 🤔  operational との違いは？
 
 - **working**：正常に動いている、実際に使われている状態を表す
-- **[operational](/word/operational/)**：運用可能、稼働中、業務上使える状態を強調
+- **[operational](/operational)**：運用可能、稼働中、業務上使える状態を強調
 
 「working」は単に「動いている」ことを指し、日常的な機械やシステムにも使います。「operational」はよりフォーマルで、特に業務やシステムが「運用可能」な状態を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、機械やシステムが「作動中」であることや、仕事
 
 ## 🧩 あわせて覚えたい
 
-- [functioning](/word/functioning/)：正常に機能している
-- [active](/word/active/)：活動中の、積極的な
+- [functioning](/functioning)：正常に機能している
+- [active](/active)：活動中の、積極的な
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available/)：利用可能な
-- [current](/word/current/)：現在の、今の
+- [available](/available)：利用可能な
+- [current](/current)：現在の、今の
 
-<!-- cvid: aid43_bid28 -->
+<!-- cvid: aid12_bid06 -->

@@ -81,15 +81,19 @@ TOEICでは「建設現場」「ウェブサイト」など、ビジネスやIT�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+スキマ時間を使おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid17_bid46" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid17_bid46" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「建設現場」「ウェブサイト」など、ビジネスやIT�
 ## 🤔  location との違いは？
 
 - **site**：特定の目的や用途のための場所・現場
-- **[location](/word/location/)**：単に「位置」「場所」を指し、用途や目的は問わない
+- **[location](/location)**：単に「位置」「場所」を指し、用途や目的は問わない
 
 「site」は工事現場やウェブサイトなど、何かのために使われる場所に使い、「location」は地理的な位置や住所など広く使います。
 
@@ -105,14 +109,14 @@ TOEICでは「建設現場」「ウェブサイト」など、ビジネスやIT�
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area/)：区域、範囲
-- [facility](/word/facility/)：施設、設備
+- [area](/area)：区域、範囲
+- [facility](/facility)：施設、設備
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/word/address/)：住所
-- [building](/word/building/)：建物
+- [address](/address)：住所
+- [building](/building)：建物
 
-<!-- cvid: aid40_bid01 -->
+<!-- cvid: aid17_bid46 -->

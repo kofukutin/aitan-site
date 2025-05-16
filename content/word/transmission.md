@@ -81,15 +81,19 @@ ITやビジネスの説明文、技術関連の会話で「データの送信」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid09" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid09" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの説明文、技術関連の会話で「データの送信」
 ## 🤔  transfer との違いは？
 
 - **transmission**：情報・信号・病気など「目に見えないもの」の伝達や送信に使うことが多い
-- **[transfer](/word/transfer/)**：物理的な「移動」や「転送」、人や物の「移動」に幅広く使う
+- **[transfer](/transfer)**：物理的な「移動」や「転送」、人や物の「移動」に幅広く使う
 
 transmissionは「伝える・送る」動作に焦点があり、transferは「場所や所有を移す」ニュアンスが強いです。
 
@@ -105,14 +109,14 @@ transmissionは「伝える・送る」動作に焦点があり、transferは「
 
 ## 🧩 あわせて覚えたい
 
-- [broadcast](/word/broadcast/)：放送、放送する
-- [infection](/word/infection/)：感染、伝染
+- [broadcast](/broadcast)：放送、放送する
+- [infection](/infection)：感染、伝染
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、通信網
-- [signal](/word/signal/)：信号、合図
+- [network](/network)：ネットワーク、通信網
+- [signal](/signal)：信号、合図
 
-<!-- cvid: aid07_bid42 -->
+<!-- cvid: aid32_bid09 -->

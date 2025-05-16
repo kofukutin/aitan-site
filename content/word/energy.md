@@ -81,15 +81,19 @@ TOEICでは、環境やビジネス、科学関連の文脈で「energy」が頻
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼自分のペースで進める／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid43" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid43" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、環境やビジネス、科学関連の文脈で「energy」が頻
 ## 🤔  power との違いは？
 
 - **energy**：物理的なエネルギーや人の活力を指す。
-- **[power](/word/power/)**：力、権力、電力など幅広く「力」を表す。
+- **[power](/power)**：力、権力、電力など幅広く「力」を表す。
 
 energyは「活動の源」や「元気」に焦点があり、powerは「能力」や「支配力」などより広い意味で使われます。
 
@@ -105,14 +109,14 @@ energyは「活動の源」や「元気」に焦点があり、powerは「能力
 
 ## 🧩 あわせて覚えたい
 
-- [strength](/word/strength/)：強さ、力
-- [effort](/word/effort/)：努力
+- [strength](/strength)：強さ、力
+- [effort](/effort)：努力
 
 ---
 
 ## 📖 できればこれも
 
-- [force](/word/force/)：力、強制力
-- [resource](/word/resource/)：資源、手段
+- [force](/force)：力、強制力
+- [resource](/resource)：資源、手段
 
-<!-- cvid: aid34_bid40 -->
+<!-- cvid: aid48_bid43 -->

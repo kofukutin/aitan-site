@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【monster】の意味・使い方・例文 ― creatureとの違い【TOEIC英単語】"
 description: "monsterの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでcreatureとの違いもわかりやすく学べます。"
 word: "monster"
@@ -81,15 +81,19 @@ TOEICでは主に物語や広告、説明文などで登場し、比喩的に「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid03_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に物語や広告、説明文などで登場し、比喩的に「
 ## 🤔  creature との違いは？
 
 - **monster**：恐ろしい・異様な怪物や巨大なものを指す
-- **[creature](/word/creature/)**：生き物全般（特に種類を問わない）
+- **[creature](/creature)**：生き物全般（特に種類を問わない）
 
 monsterは恐怖や異常さを含むニュアンスが強く、creatureは中立的に「生き物」を指します。
 
@@ -105,14 +109,14 @@ monsterは恐怖や異常さを含むニュアンスが強く、creatureは中�
 
 ## 🧩 あわせて覚えたい
 
-- [giant](/word/giant/)：巨人、非常に大きなもの
-- [beast](/word/beast/)：獣、野獣
+- [giant](/giant)：巨人、非常に大きなもの
+- [beast](/beast)：獣、野獣
 
 ---
 
 ## 📖 できればこれも
 
-- [ghost](/word/ghost/)：幽霊
-- [legend](/word/legend/)：伝説
+- [ghost](/ghost)：幽霊
+- [legend](/legend)：伝説
 
-<!-- cvid: aid48_bid25 -->
+<!-- cvid: aid03_bid49 -->

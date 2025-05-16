@@ -81,15 +81,19 @@ TOEICでは「会議中」「話し中」などの意味で、電話応対や会
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「会議中」「話し中」などの意味で、電話応対や会
 ## 🤔  involved との違いは？
 
 - **engaged**：何かに積極的に関わっている、または忙しい・婚約している状態
-- **[involved](/word/involved/)**：より広く「関与している」「巻き込まれている」状態
+- **[involved](/involved)**：より広く「関与している」「巻き込まれている」状態
 
 engagedは「積極的に関わる」「忙しい」ニュアンスが強く、involvedは「関係している」や「巻き込まれている」など受動的な場面でも使われます。
 
@@ -105,14 +109,14 @@ engagedは「積極的に関わる」「忙しい」ニュアンスが強く、i
 
 ## 🧩 あわせて覚えたい
 
-- [available](/word/available/)：利用できる、手が空いている
-- [committed](/word/committed/)：献身的な、専念している
+- [available](/available)：利用できる、手が空いている
+- [committed](/committed)：献身的な、専念している
 
 ---
 
 ## 📖 できればこれも
 
-- [occupied](/word/occupied/)：ふさがっている、忙しい
-- [dedicated](/word/dedicated/)：献身的な、専念している
+- [occupied](/occupied)：ふさがっている、忙しい
+- [dedicated](/dedicated)：献身的な、専念している
 
-<!-- cvid: aid45_bid12 -->
+<!-- cvid: aid14_bid05 -->

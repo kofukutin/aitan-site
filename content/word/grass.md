@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【grass】の意味・使い方・例文 ― lawnとの違い【TOEIC英単語】"
 description: "grassの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlawnとの違いもわかりやすく学べます。"
 word: "grass"
@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で、風景や建物の説明時に登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid13_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で、風景や建物の説明時に登場し
 ## 🤔  lawn との違いは？
 
 - **grass**：自然に生えている草や芝生全般を指す。
-- **[lawn](/word/lawn/)**：手入れされた芝生、特に庭や公園の芝生を指す。
+- **[lawn](/lawn)**：手入れされた芝生、特に庭や公園の芝生を指す。
 
 grassは広く「草」全般を指し、lawnは特に刈り揃えられた芝生を意味します。
 
@@ -105,14 +109,14 @@ grassは広く「草」全般を指し、lawnは特に刈り揃えられた芝�
 
 ## 🧩 あわせて覚えたい
 
-- [weed](/word/weed/)：雑草
-- [field](/word/field/)：野原、畑
+- [weed](/weed)：雑草
+- [field](/field)：野原、畑
 
 ---
 
 ## 📖 できればこれも
 
-- [tree](/word/tree/)：木
-- [flower](/word/flower/)：花
+- [tree](/tree)：木
+- [flower](/flower)：花
 
-<!-- cvid: aid04_bid24 -->
+<!-- cvid: aid13_bid02 -->

@@ -81,15 +81,19 @@ TOEICでは、ビジネスシーンでの助言や指示、推奨事項を伝え
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスシーンでの助言や指示、推奨事項を伝え
 ## 🤔  suggest との違いは？
 
 - **advise**：専門的・客観的な立場から、やや強めに「助言・忠告」する
-- **[suggest](/word/suggest/)**：アイデアや選択肢を「提案」する、より柔らかい表現
+- **[suggest](/suggest)**：アイデアや選択肢を「提案」する、より柔らかい表現
 
 adviseは相手のためを思って積極的に助言するニュアンスがあり、suggestは選択肢の一つとして控えめに提案する時に使います。
 
@@ -105,14 +109,14 @@ adviseは相手のためを思って積極的に助言するニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend/)：強く勧める、推薦する
-- [consult](/word/consult/)：相談する、意見を求める
+- [recommend](/recommend)：強く勧める、推薦する
+- [consult](/consult)：相談する、意見を求める
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify/)：通知する、知らせる
-- [inform](/word/inform/)：知らせる、情報を伝える
+- [notify](/notify)：通知する、知らせる
+- [inform](/inform)：知らせる、情報を伝える
 
-<!-- cvid: aid43_bid03 -->
+<!-- cvid: aid13_bid30 -->

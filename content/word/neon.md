@@ -81,15 +81,19 @@ TOEICでは、都市や広告、科学に関する長文や説明文で「neon s
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えるスピードを上げよう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、都市や広告、科学に関する長文や説明文で「neon s
 ## 🤔  fluorescent との違いは？
 
 - **neon**：ネオンガスやネオンサインなど、明るくカラフルな光を出すものを指す。
-- **[fluorescent](/word/fluorescent/)**：蛍光灯や蛍光色など、蛍光現象による明るい光を指す。
+- **[fluorescent](/fluorescent)**：蛍光灯や蛍光色など、蛍光現象による明るい光を指す。
 
 neonは主にガスやサインの光、fluorescentは蛍光灯や蛍光色など化学的な発光に使います。
 
@@ -105,14 +109,14 @@ neonは主にガスやサインの光、fluorescentは蛍光灯や蛍光色な�
 
 ## 🧩 あわせて覚えたい
 
-- [argon](/word/argon/)：アルゴン（化学元素、ネオンと同じ希ガス）
-- [sign](/word/sign/)：看板、標識
+- [argon](/argon)：アルゴン（化学元素、ネオンと同じ希ガス）
+- [sign](/sign)：看板、標識
 
 ---
 
 ## 📖 できればこれも
 
-- [laser](/word/laser/)：レーザー（強い光線を出す装置）
-- [lamp](/word/lamp/)：ランプ、照明器具
+- [laser](/laser)：レーザー（強い光線を出す装置）
+- [lamp](/lamp)：ランプ、照明器具
 
-<!-- cvid: aid24_bid17 -->
+<!-- cvid: aid43_bid25 -->

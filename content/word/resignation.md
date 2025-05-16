@@ -82,15 +82,19 @@ TOEICでは、メールや社内通知、ビジネス文書の中で「辞職」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid10_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、メールや社内通知、ビジネス文書の中で「辞職」
 ## 🤔  retirement との違いは？
 
 - **resignation**：自分の意思で辞職・辞任すること（年齢や定年に関係なく使う）
-- **[retirement](/word/retirement/)**：定年や長年の勤務の後に引退・退職すること
+- **[retirement](/retirement)**：定年や長年の勤務の後に引退・退職すること
 
 resignationは「辞職・辞任」として幅広い年齢や理由で使われますが、retirementは主に「定年退職」や「引退」に使われます。
 
@@ -106,14 +110,14 @@ resignationは「辞職・辞任」として幅広い年齢や理由で使われ
 
 ## 🧩 あわせて覚えたい
 
-- [dismissal](/word/dismissal/)：解雇、免職
-- [appointment](/word/appointment/)：任命、役職への就任
+- [dismissal](/dismissal)：解雇、免職
+- [appointment](/appointment)：任命、役職への就任
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/word/promotion/)：昇進
-- [transfer](/word/transfer/)：異動
+- [promotion](/promotion)：昇進
+- [transfer](/transfer)：異動
 
-<!-- cvid: aid46_bid06 -->
+<!-- cvid: aid10_bid15 -->

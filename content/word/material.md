@@ -81,15 +81,19 @@ TOEICでは「資料」「材料」「教材」など複数の意味で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid02" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid02" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「資料」「材料」「教材」など複数の意味で出題さ
 ## 🤔  ingredient との違いは？
 
 - **material**：物を作るための材料や、情報・資料など幅広い「素材」を指す
-- **[ingredient](/word/ingredient/)**：特に料理や製品の「成分」「原料」を指す
+- **[ingredient](/ingredient)**：特に料理や製品の「成分」「原料」を指す
 
 materialは建築や製造、学習資料など幅広い分野で使われますが、ingredientは主に料理や化学製品などの「成分」に限定されます。
 
@@ -105,14 +109,14 @@ materialは建築や製造、学習資料など幅広い分野で使われます
 
 ## 🧩 あわせて覚えたい
 
-- [resource](/word/resource/)：資源、供給源
-- [equipment](/word/equipment/)：設備、備品
+- [resource](/resource)：資源、供給源
+- [equipment](/equipment)：設備、備品
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/word/product/)：製品、成果物
-- [supply](/word/supply/)：供給、備品
+- [product](/product)：製品、成果物
+- [supply](/supply)：供給、備品
 
-<!-- cvid: aid32_bid11 -->
+<!-- cvid: aid24_bid02 -->

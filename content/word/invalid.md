@@ -81,15 +81,19 @@ TOEICでは契約や手続き、システム関連の文脈で「無効な」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは契約や手続き、システム関連の文脈で「無効な」と
 ## 🤔  void との違いは？
 
 - **invalid**：正式に「無効」とされ、効力や認可がない状態
-- **[void](/word/void/)**：法的・契約的に「無効」や「空白」を意味し、何も存在しないニュアンスが強い
+- **[void](/void)**：法的・契約的に「無効」や「空白」を意味し、何も存在しないニュアンスが強い
 
 invalidは「効力がない」ことを指し、voidは「完全に無効・空（から）」という法的な強さや絶対性を強調します。
 
@@ -105,14 +109,14 @@ invalidは「効力がない」ことを指し、voidは「完全に無効・空
 
 ## 🧩 あわせて覚えたい
 
-- [legitimate](/word/legitimate/)：合法の、正当な
-- [incorrect](/word/incorrect/)：正しくない、間違った
+- [legitimate](/legitimate)：合法の、正当な
+- [incorrect](/incorrect)：正しくない、間違った
 
 ---
 
 ## 📖 できればこれも
 
-- [valid](/word/valid/)：有効な
-- [authorize](/word/authorize/)：認可する、許可する
+- [valid](/valid)：有効な
+- [authorize](/authorize)：認可する、許可する
 
-<!-- cvid: aid20_bid16 -->
+<!-- cvid: aid30_bid13 -->

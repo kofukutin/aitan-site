@@ -81,15 +81,19 @@ ITやビジネス関連の長文で、システムの記録や管理に関する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自分のペースで進める／<br>  
-（おすすめ情報予定）
+＼好きな時間に学べる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid42_bid36" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid36" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネス関連の長文で、システムの記録や管理に関する
 ## 🤔  record との違いは？
 
 - **logging**：システムや機械的な「記録する行為」や「記録そのもの」を指すことが多い
-- **[record](/word/record/)**：広く「記録」「記録すること」全般を指し、紙や音声など多様な媒体に使える
+- **[record](/record)**：広く「記録」「記録すること」全般を指し、紙や音声など多様な媒体に使える
 
 loggingはITや技術分野での自動的・継続的な記録に使われ、recordはより一般的な「記録」や「記録する」という意味で使われます。
 
@@ -105,14 +109,14 @@ loggingはITや技術分野での自動的・継続的な記録に使われ、re
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor/)：監視する、モニターする
-- [audit](/word/audit/)：監査する、検査する
+- [monitor](/monitor)：監視する、モニターする
+- [audit](/audit)：監査する、検査する
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/word/database/)：データベース、情報の集まり
-- [track](/word/track/)：追跡する、記録する
+- [database](/database)：データベース、情報の集まり
+- [track](/track)：追跡する、記録する
 
-<!-- cvid: aid44_bid43 -->
+<!-- cvid: aid42_bid36 -->

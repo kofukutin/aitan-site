@@ -81,15 +81,19 @@ TOEICでは、商品の価格やコストに関する文脈でよく出題され
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼集中しやすい学び設計／<br>  
-（おすすめ情報予定）
+＼自信につながる学び／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid18" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid18" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、商品の価格やコストに関する文脈でよく出題され
 ## 🤔  costly との違いは？
 
 - **expensive**：値段が高い、一般的な「高価な」
-- **[costly](/word/costly/)**：損失や犠牲が大きい、高くつく
+- **[costly](/costly)**：損失や犠牲が大きい、高くつく
 
 expensiveは単純に「値段が高い」ことを表し、costlyは「損失やリスクが大きい」「結果的に高くつく」といったニュアンスがあります。
 
@@ -105,14 +109,14 @@ expensiveは単純に「値段が高い」ことを表し、costlyは「損失�
 
 ## 🧩 あわせて覚えたい
 
-- [cheap](/word/cheap/)：安い
-- [luxury](/word/luxury/)：ぜいたく品、ぜいたくな
+- [cheap](/cheap)：安い
+- [luxury](/luxury)：ぜいたく品、ぜいたくな
 
 ---
 
 ## 📖 できればこれも
 
-- [affordable](/word/affordable/)：手ごろな価格の
-- [valuable](/word/valuable/)：価値のある
+- [affordable](/affordable)：手ごろな価格の
+- [valuable](/valuable)：価値のある
 
-<!-- cvid: aid46_bid38 -->
+<!-- cvid: aid34_bid18 -->

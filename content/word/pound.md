@@ -81,15 +81,19 @@ TOEICでは、重さや価格、通貨に関する会話や説明文で出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid49" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid49" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、重さや価格、通貨に関する会話や説明文で出題さ
 ## 🤔  kilogram との違いは？
 
 - **pound**：主にアメリカやイギリスで使われる重さの単位（約0.45kg）、またはイギリスの通貨単位。
-- **[kilogram](/word/kilogram/)**：国際的に使われる重さの単位（1kg＝約2.2ポンド）。
+- **[kilogram](/kilogram)**：国際的に使われる重さの単位（1kg＝約2.2ポンド）。
 
 poundは主に英米圏で使われる単位で、kilogramは世界的な標準単位です。日常会話やビジネスで使い分けに注意しましょう。
 
@@ -105,14 +109,14 @@ poundは主に英米圏で使われる単位で、kilogramは世界的な標準�
 
 ## 🧩 あわせて覚えたい
 
-- [ounce](/word/ounce/)：オンス（ポンドより小さい重さの単位）
-- [dollar](/word/dollar/)：ドル（アメリカなどの通貨単位）
+- [ounce](/ounce)：オンス（ポンドより小さい重さの単位）
+- [dollar](/dollar)：ドル（アメリカなどの通貨単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [mile](/word/mile/)：マイル（距離の単位）
-- [yard](/word/yard/)：ヤード（長さの単位）
+- [mile](/mile)：マイル（距離の単位）
+- [yard](/yard)：ヤード（長さの単位）
 
-<!-- cvid: aid26_bid18 -->
+<!-- cvid: aid42_bid49 -->

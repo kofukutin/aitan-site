@@ -81,15 +81,19 @@ ITやビジネスの文脈で、システムやデータの「モデル化」を
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの文脈で、システムやデータの「モデル化」を
 ## 🤔  simulation との違いは？
 
 - **modeling**：物事の構造や仕組みを表現するためにモデルを作ること
-- **[simulation](/word/simulation/)**：作成したモデルを使って実際の動作や現象を模擬的に再現すること
+- **[simulation](/simulation)**：作成したモデルを使って実際の動作や現象を模擬的に再現すること
 
 modelingは「モデルを作る」こと自体、simulationは「モデルを使って動きを再現する」ことに重点があります。
 
@@ -105,14 +109,14 @@ modelingは「モデルを作る」こと自体、simulationは「モデルを�
 
 ## 🧩 あわせて覚えたい
 
-- [representation](/word/representation/)：表現、描写
-- [prototype](/word/prototype/)：試作品、原型
+- [representation](/representation)：表現、描写
+- [prototype](/prototype)：試作品、原型
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [design](/word/design/)：設計
+- [analysis](/analysis)：分析
+- [design](/design)：設計
 
-<!-- cvid: aid11_bid40 -->
+<!-- cvid: aid30_bid27 -->

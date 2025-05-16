@@ -81,15 +81,19 @@ TOEICでは会議やイベントの文脈で「observer」が登場し、参加�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid25_bid47" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid47" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やイベントの文脈で「observer」が登場し、参加�
 ## 🤔  participant との違いは？
 
 - **observer**：観察や立会いのみで、発言や積極的な参加はしない人
-- **[participant](/word/participant/)**：積極的に参加・発言する人
+- **[participant](/participant)**：積極的に参加・発言する人
 
 observerは「見守るだけ」の立場、participantは「実際に活動に加わる」立場という違いがあります。
 
@@ -105,14 +109,14 @@ observerは「見守るだけ」の立場、participantは「実際に活動に�
 
 ## 🧩 あわせて覚えたい
 
-- [witness](/word/witness/)：目撃者、証人
-- [spectator](/word/spectator/)：観客、見物人
+- [witness](/witness)：目撃者、証人
+- [spectator](/spectator)：観客、見物人
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee/)：委員会、委員
-- [attendee](/word/attendee/)：出席者、参加者
+- [committee](/committee)：委員会、委員
+- [attendee](/attendee)：出席者、参加者
 
-<!-- cvid: aid03_bid11 -->
+<!-- cvid: aid25_bid47 -->

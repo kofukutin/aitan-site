@@ -81,15 +81,19 @@ TOEICでは主に案内文や説明文、地図の説明などで「歩行者」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に案内文や説明文、地図の説明などで「歩行者」
 ## 🤔  walker との違いは？
 
 - **pedestrian**：道路や横断歩道などを歩く「歩行者」（ややフォーマル）
-- **[walker](/word/walker/)**：歩く人全般や散歩する人（カジュアル）
+- **[walker](/walker)**：歩く人全般や散歩する人（カジュアル）
 
 pedestrianは交通や安全の文脈で使われ、walkerは散歩や運動など広い意味で使われます。
 
@@ -105,14 +109,14 @@ pedestrianは交通や安全の文脈で使われ、walkerは散歩や運動な�
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/word/vehicle/)：車両
-- [crosswalk](/word/crosswalk/)：横断歩道
+- [vehicle](/vehicle)：車両
+- [crosswalk](/crosswalk)：横断歩道
 
 ---
 
 ## 📖 できればこれも
 
-- [traffic](/word/traffic/)：交通
-- [sidewalk](/word/sidewalk/)：歩道
+- [traffic](/traffic)：交通
+- [sidewalk](/sidewalk)：歩道
 
-<!-- cvid: aid39_bid45 -->
+<!-- cvid: aid24_bid20 -->

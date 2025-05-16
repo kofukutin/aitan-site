@@ -81,15 +81,19 @@ TOEICでは会話パートで「突飛な」「すごい」「夢中」などの
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話パートで「突飛な」「すごい」「夢中」などの
 ## 🤔  insane との違いは？
 
 - **crazy**：カジュアルに「変」「夢中」「すごい」など幅広く使う
-- **[insane](/word/insane/)**：医学的・法的に「正気でない」「精神異常」の意味が強い
+- **[insane](/insane)**：医学的・法的に「正気でない」「精神異常」の意味が強い
 
 crazyは日常会話で軽く使えるのに対し、insaneは深刻な精神状態やフォーマルな文脈で使われます。
 
@@ -105,14 +109,14 @@ crazyは日常会話で軽く使えるのに対し、insaneは深刻な精神状
 
 ## 🧩 あわせて覚えたい
 
-- [mad](/word/mad/)：イギリス英語で「気が変な」「怒っている」
-- [wild](/word/wild/)：「野生的な」「激しい」「自由な」
+- [mad](/mad)：イギリス英語で「気が変な」「怒っている」
+- [wild](/wild)：「野生的な」「激しい」「自由な」
 
 ---
 
 ## 📖 できればこれも
 
-- [funny](/word/funny/)：おかしい、面白い
-- [strange](/word/strange/)：奇妙な、変な
+- [funny](/funny)：おかしい、面白い
+- [strange](/strange)：奇妙な、変な
 
-<!-- cvid: aid10_bid36 -->
+<!-- cvid: aid14_bid10 -->

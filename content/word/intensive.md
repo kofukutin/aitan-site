@@ -82,15 +82,19 @@ TOEICでは、研修やコース、作業などが「集中的に」行われる
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid35" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid35" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、研修やコース、作業などが「集中的に」行われる
 ## 🤔  extensive との違いは？
 
 - **intensive**：短期間・狭い範囲で集中的に行う、力を入れる
-- **[extensive](/word/extensive/)**：広範囲・長期間にわたる、広がりがある
+- **[extensive](/extensive)**：広範囲・長期間にわたる、広がりがある
 
 intensiveは「深さ・密度」に重点があり、extensiveは「広がり・範囲」に重点があります。
 
@@ -106,14 +110,14 @@ intensiveは「深さ・密度」に重点があり、extensiveは「広がり�
 
 ## 🧩 あわせて覚えたい
 
-- [concentrated](/word/concentrated/)：濃縮された、集中した
-- [thorough](/word/thorough/)：徹底的な、完全な
+- [concentrated](/concentrated)：濃縮された、集中した
+- [thorough](/thorough)：徹底的な、完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient/)：効率的な
-- [focused](/word/focused/)：集中した
+- [efficient](/efficient)：効率的な
+- [focused](/focused)：集中した
 
-<!-- cvid: aid21_bid09 -->
+<!-- cvid: aid14_bid35 -->

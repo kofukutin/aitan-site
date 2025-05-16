@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【toward】の意味・使い方・例文 ― toとの違い【TOEIC英単語】"
 description: "towardの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでtoとの違いもわかりやすく学べます。"
 word: "toward"
@@ -77,15 +77,19 @@ TOEICでは主にPart 1の写真描写や、動作の方向を説明する場面
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼最短で力を伸ばす／<br>  
-（おすすめ情報予定）
+＼今日の理解を次へ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid45" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid45" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、動作の方向を説明する場面
 ## 🤔  to との違いは？
 
 - **toward**：方向や目標に「向かっている」途中のニュアンス
-- **[to](/word/to/)**：到達点や目的地そのものを強調
+- **[to](/to)**：到達点や目的地そのものを強調
 
 towardは「～の方へ進む」動作や過程を表し、toは「～に到着する」「～まで」という到達点を強調します。
 
@@ -101,14 +105,14 @@ towardは「～の方へ進む」動作や過程を表し、toは「～に到着
 
 ## 🧩 あわせて覚えたい
 
-- [against](/word/against/)：～に対して、～に反対して
-- [into](/word/into/)：～の中へ
+- [against](/against)：～に対して、～に反対して
+- [into](/into)：～の中へ
 
 ---
 
 ## 📖 できればこれも
 
-- [across](/word/across/)：～を横切って
-- [through](/word/through/)：～を通って
+- [across](/across)：～を横切って
+- [through](/through)：～を通って
 
-<!-- cvid: aid49_bid01 -->
+<!-- cvid: aid00_bid45 -->

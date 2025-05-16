@@ -81,15 +81,19 @@ comprehensiveはTOEICの長文読解（Part 7）で、レポートや説明文�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ comprehensiveはTOEICの長文読解（Part 7）で、レポートや説明文�
 ## 🤔  exhaustive との違いは？
 
 - **comprehensive**：広い範囲をカバーし、全体を網羅していることを強調
-- **[exhaustive](/word/exhaustive/)**：細部まで徹底的に調べて「漏れがない」ことを強調
+- **[exhaustive](/exhaustive)**：細部まで徹底的に調べて「漏れがない」ことを強調
 
 comprehensiveは「広さ・範囲の網羅性」、exhaustiveは「徹底的な細かさ」に重点があります。
 
@@ -105,14 +109,14 @@ comprehensiveは「広さ・範囲の網羅性」、exhaustiveは「徹底的な
 
 ## 🧩 あわせて覚えたい
 
-- [broad](/word/broad/)：広い、幅広い
-- [partial](/word/partial/)：部分的な、不完全な
+- [broad](/broad)：広い、幅広い
+- [partial](/partial)：部分的な、不完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [thorough](/word/thorough/)：徹底的な
-- [detailed](/word/detailed/)：詳細な
+- [thorough](/thorough)：徹底的な
+- [detailed](/detailed)：詳細な
 
-<!-- cvid: aid30_bid19 -->
+<!-- cvid: aid29_bid26 -->

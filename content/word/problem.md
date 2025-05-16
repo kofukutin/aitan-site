@@ -88,8 +88,12 @@ TOEICでは「問題」「課題」として頻出し、選択肢や設問文で
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid10_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「問題」「課題」として頻出し、選択肢や設問文で
 ## 🤔  issue との違いは？
 
 - **problem**：困難やトラブルなど、解決すべき「問題」を指す一般的な語。
-- **[issue](/word/issue/)**：議論や対応が必要な「課題」「論点」を指し、ややフォーマル。
+- **[issue](/issue)**：議論や対応が必要な「課題」「論点」を指し、ややフォーマル。
 
 problemは日常的なトラブルや困難に幅広く使い、issueはビジネスや議論の場で「課題」「論点」として使われることが多いです。
 
@@ -105,14 +109,14 @@ problemは日常的なトラブルや困難に幅広く使い、issueはビジ�
 
 ## 🧩 あわせて覚えたい
 
-- [solution](/word/solution/)：解決策
-- [challenge](/word/challenge/)：挑戦、難題
+- [solution](/solution)：解決策
+- [challenge](/challenge)：挑戦、難題
 
 ---
 
 ## 📖 できればこれも
 
-- [question](/word/question/)：質問、疑問
-- [matter](/word/matter/)：事柄、問題
+- [question](/question)：質問、疑問
+- [matter](/matter)：事柄、問題
 
-<!-- cvid: aid10_bid34 -->
+<!-- cvid: aid10_bid05 -->

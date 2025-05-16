@@ -81,15 +81,19 @@ The company developed a new type of insulin for diabetes patients.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+理解を深めるタイミング👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid07_bid26" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid07_bid26" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ The company developed a new type of insulin for diabetes patients.
 ## 🤔  hormone との違いは？
 
 - **insulin**：血糖値を下げる働きを持つ特定のホルモン
-- **[hormone](/word/hormone/)**：体内のさまざまな機能を調整する化学物質全般
+- **[hormone](/hormone)**：体内のさまざまな機能を調整する化学物質全般
 
 insulinはhormoneの一種ですが、hormoneは成長や代謝など幅広い働きを持つ物質全体を指します。
 
@@ -105,14 +109,14 @@ insulinはhormoneの一種ですが、hormoneは成長や代謝など幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [glucose](/word/glucose/)：ブドウ糖
-- [diabetes](/word/diabetes/)：糖尿病
+- [glucose](/glucose)：ブドウ糖
+- [diabetes](/diabetes)：糖尿病
 
 ---
 
 ## 📖 できればこれも
 
-- [vaccine](/word/vaccine/)：ワクチン
-- [therapy](/word/therapy/)：治療法
+- [vaccine](/vaccine)：ワクチン
+- [therapy](/therapy)：治療法
 
-<!-- cvid: aid36_bid00 -->
+<!-- cvid: aid07_bid26 -->

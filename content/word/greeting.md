@@ -81,15 +81,19 @@ TOEICでは、電話や対面でのあいさつ表現としてPart2でよく出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid41_bid02" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid02" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、電話や対面でのあいさつ表現としてPart2でよく出�
 ## 🤔  salutation との違いは？
 
 - **greeting**：日常的な「あいさつ」や「挨拶の言葉」を広く指す。
-- **[salutation](/word/salutation/)**：手紙やメールの冒頭で使う形式的なあいさつや敬礼。
+- **[salutation](/salutation)**：手紙やメールの冒頭で使う形式的なあいさつや敬礼。
 
 greetingはカジュアル・フォーマル問わず使えますが、salutationは特に書き言葉やフォーマルな場面で使われます。
 
@@ -105,14 +109,14 @@ greetingはカジュアル・フォーマル問わず使えますが、salutatio
 
 ## 🧩 あわせて覚えたい
 
-- [farewell](/word/farewell/)：別れのあいさつ
-- [introduction](/word/introduction/)：紹介、導入
+- [farewell](/farewell)：別れのあいさつ
+- [introduction](/introduction)：紹介、導入
 
 ---
 
 ## 📖 できればこれも
 
-- [invitation](/word/invitation/)：招待、招待状
-- [message](/word/message/)：メッセージ、伝言
+- [invitation](/invitation)：招待、招待状
+- [message](/message)：メッセージ、伝言
 
-<!-- cvid: aid29_bid44 -->
+<!-- cvid: aid41_bid02 -->

@@ -81,15 +81,19 @@ TOEICでは、記事やレポート、製品レビューの文脈で「reviewer�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid13" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid13" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やレポート、製品レビューの文脈で「reviewer�
 ## 🤔  evaluator との違いは？
 
 - **reviewer**：主に記事や作品、製品などを評価・批評する人
-- **[evaluator](/word/evaluator/)**：基準に従って客観的に評価・査定する人
+- **[evaluator](/evaluator)**：基準に従って客観的に評価・査定する人
 
 「reviewer」は批評や感想を述べるニュアンスが強く、「evaluator」は基準やルールに基づいて点数や価値を判断する場面で使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、記事やレポート、製品レビューの文脈で「reviewer�
 
 ## 🧩 あわせて覚えたい
 
-- [critic](/word/critic/)：批評家、評論家
-- [editor](/word/editor/)：編集者
+- [critic](/critic)：批評家、評論家
+- [editor](/editor)：編集者
 
 ---
 
 ## 📖 できればこれも
 
-- [feedback](/word/feedback/)：意見、フィードバック
-- [assessment](/word/assessment/)：評価、査定
+- [feedback](/feedback)：意見、フィードバック
+- [assessment](/assessment)：評価、査定
 
-<!-- cvid: aid00_bid14 -->
+<!-- cvid: aid45_bid13 -->

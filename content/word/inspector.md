@@ -81,15 +81,19 @@ TOEICでは、工場やオフィスの安全点検、品質管理、監査など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼継続しやすい学習法／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid00" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid00" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、工場やオフィスの安全点検、品質管理、監査など
 ## 🤔  supervisor との違いは？
 
 - **inspector**：公式に検査・監査・点検を行う人。現場や書類を調査する役割。
-- **[supervisor](/word/supervisor/)**：部下や作業者を日常的に監督・指導する人。
+- **[supervisor](/supervisor)**：部下や作業者を日常的に監督・指導する人。
 
 inspectorは「調査・点検の専門家」、supervisorは「現場の管理者」という違いがあります。
 
@@ -105,14 +109,14 @@ inspectorは「調査・点検の専門家」、supervisorは「現場の管理�
 
 ## 🧩 あわせて覚えたい
 
-- [auditor](/word/auditor/)：会計監査人、監査役
-- [examiner](/word/examiner/)：試験官、調査官
+- [auditor](/auditor)：会計監査人、監査役
+- [examiner](/examiner)：試験官、調査官
 
 ---
 
 ## 📖 できればこれも
 
-- [officer](/word/officer/)：役員、警官、担当者
-- [manager](/word/manager/)：管理者、マネージャー
+- [officer](/officer)：役員、警官、担当者
+- [manager](/manager)：管理者、マネージャー
 
-<!-- cvid: aid04_bid09 -->
+<!-- cvid: aid44_bid00 -->

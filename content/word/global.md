@@ -81,15 +81,19 @@ TOEICではビジネスや経済、環境問題などの文脈で「global」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid05" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid05" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネスや経済、環境問題などの文脈で「global」が
 ## 🤔  international との違いは？
 
 - **global**：世界全体・地球規模で広がることを強調
-- **[international](/word/international/)**：国と国の間、複数の国にまたがることを強調
+- **[international](/international)**：国と国の間、複数の国にまたがることを強調
 
 「global」は地球全体や全世界を対象にするニュアンスが強く、「international」は国際間や複数国の関係に焦点を当てます。
 
@@ -105,14 +109,14 @@ TOEICではビジネスや経済、環境問題などの文脈で「global」が
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic/)：国内の
-- [universal](/word/universal/)：普遍的な
+- [domestic](/domestic)：国内の
+- [universal](/universal)：普遍的な
 
 ---
 
 ## 📖 できればこれも
 
-- [local](/word/local/)：地域の
-- [regional](/word/regional/)：地方の
+- [local](/local)：地域の
+- [regional](/regional)：地方の
 
-<!-- cvid: aid05_bid11 -->
+<!-- cvid: aid37_bid05 -->

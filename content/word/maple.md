@@ -81,15 +81,19 @@ TOEICでは、自然や環境、観光案内などの長文で「maple」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-手応えの連続を狙おう👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼日常に英語をプラス／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid23" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid23" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、自然や環境、観光案内などの長文で「maple」が登�
 ## 🤔  oak との違いは？
 
 - **maple**：カエデの木。葉が特徴的で、紅葉やメープルシロップで有名。
-- **[oak](/word/oak/)**：オークの木。どんぐりが実り、家具や建築材として使われる。
+- **[oak](/oak)**：オークの木。どんぐりが実り、家具や建築材として使われる。
 
 mapleは主に紅葉やシロップで知られるカエデ、oakは堅い木材やどんぐりで有名なオークと、用途やイメージが異なります。
 
@@ -105,14 +109,14 @@ mapleは主に紅葉やシロップで知られるカエデ、oakは堅い木材
 
 ## 🧩 あわせて覚えたい
 
-- [birch](/word/birch/)：シラカバの木
-- [syrup](/word/syrup/)：シロップ
+- [birch](/birch)：シラカバの木
+- [syrup](/syrup)：シロップ
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest/)：森
-- [leaf](/word/leaf/)：葉
+- [forest](/forest)：森
+- [leaf](/leaf)：葉
 
-<!-- cvid: aid35_bid36 -->
+<!-- cvid: aid00_bid23 -->

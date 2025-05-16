@@ -81,15 +81,19 @@ TOEICではPart 7のビジネス文書やメールで「約束」「責任」「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この流れを止めないで👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid44_bid10" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid10" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 7のビジネス文書やメールで「約束」「責任」「
 ## 🤔  promise との違いは？
 
 - **commitment**：強い責任感や長期的な約束、献身を表す
-- **[promise](/word/promise/)**：単純な約束や言葉での誓いを表す
+- **[promise](/promise)**：単純な約束や言葉での誓いを表す
 
 commitmentは「責任を持ってやり抜く姿勢」や「長期的な取り組み」に重点があり、promiseは「約束する」という行為自体や言葉に重きがあります。
 
@@ -105,14 +109,14 @@ commitmentは「責任を持ってやり抜く姿勢」や「長期的な取り�
 
 ## 🧩 あわせて覚えたい
 
-- [obligation](/word/obligation/)：義務、責務
-- [dedication](/word/dedication/)：献身、専念
+- [obligation](/obligation)：義務、責務
+- [dedication](/dedication)：献身、専念
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement/)：合意、契約
-- [responsibility](/word/responsibility/)：責任
+- [agreement](/agreement)：合意、契約
+- [responsibility](/responsibility)：責任
 
-<!-- cvid: aid36_bid04 -->
+<!-- cvid: aid44_bid10 -->

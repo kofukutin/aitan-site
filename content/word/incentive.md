@@ -81,15 +81,19 @@ TOEICでは、ビジネスメールや社内通知、求人広告などで「報
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼無料で試せる学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid20_bid02" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid02" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネスメールや社内通知、求人広告などで「報
 ## 🤔  motivation との違いは？
 
 - **incentive**：外部から与えられる報奨や誘因
-- **[motivation](/word/motivation/)**：内面的なやる気や意欲
+- **[motivation](/motivation)**：内面的なやる気や意欲
 
 incentiveは「外から与えられるきっかけ」、motivationは「自分の内側から湧き上がる気持ち」を指します。
 
@@ -105,14 +109,14 @@ incentiveは「外から与えられるきっかけ」、motivationは「自分�
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward/)：報酬、褒美
-- [penalty](/word/penalty/)：罰、ペナルティ
+- [reward](/reward)：報酬、褒美
+- [penalty](/penalty)：罰、ペナルティ
 
 ---
 
 ## 📖 できればこれも
 
-- [bonus](/word/bonus/)：ボーナス、特別手当
-- [benefit](/word/benefit/)：福利厚生、利益
+- [bonus](/bonus)：ボーナス、特別手当
+- [benefit](/benefit)：福利厚生、利益
 
-<!-- cvid: aid09_bid27 -->
+<!-- cvid: aid20_bid02 -->

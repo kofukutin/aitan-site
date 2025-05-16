@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や記事、会社案内などで頻出しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid22_bid12" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid12" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や記事、会社案内などで頻出しま
 ## 🤔  company との違いは？
 
 - **corporation**：法律上の法人格を持つ大規模な株式会社を指すことが多い
-- **[company](/word/company/)**：規模や形態を問わず、会社全般を指す一般的な語
+- **[company](/company)**：規模や形態を問わず、会社全般を指す一般的な語
 
 corporationは特に法的な意味合いが強く、大企業や株式会社に限定されることが多いですが、companyは小規模な会社や団体にも広く使われます。
 
@@ -105,14 +109,14 @@ corporationは特に法的な意味合いが強く、大企業や株式会社に
 
 ## 🧩 あわせて覚えたい
 
-- [firm](/word/firm/)：（主に小規模な）会社、事務所
-- [enterprise](/word/enterprise/)：企業、事業（やや堅い表現）
+- [firm](/firm)：（主に小規模な）会社、事務所
+- [enterprise](/enterprise)：企業、事業（やや堅い表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [subsidiary](/word/subsidiary/)：子会社
-- [shareholder](/word/shareholder/)：株主
+- [subsidiary](/subsidiary)：子会社
+- [shareholder](/shareholder)：株主
 
-<!-- cvid: aid11_bid00 -->
+<!-- cvid: aid22_bid12 -->

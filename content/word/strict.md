@@ -81,15 +81,19 @@ TOEICでは、規則や方針、管理体制などを説明する文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼スキマ時間を活用しよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid29_bid06" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid06" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、規則や方針、管理体制などを説明する文脈でよく
 ## 🤔  severe との違いは？
 
 - **strict**：規則や態度が「厳しい」「厳格な」ことを表す
-- **[severe](/word/severe/)**：状況や処罰、天候などが「深刻」「過酷」であることを表す
+- **[severe](/severe)**：状況や処罰、天候などが「深刻」「過酷」であることを表す
 
 strictは「ルールや人の態度が厳しい」場合に使い、severeは「状況や影響が深刻・過酷」な場合に使います。
 
@@ -105,14 +109,14 @@ strictは「ルールや人の態度が厳しい」場合に使い、severeは�
 
 ## 🧩 あわせて覚えたい
 
-- [lenient](/word/lenient/)：寛大な、甘い
-- [rigid](/word/rigid/)：柔軟性がなく厳格な
+- [lenient](/lenient)：寛大な、甘い
+- [rigid](/rigid)：柔軟性がなく厳格な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise/)：正確な
-- [firm](/word/firm/)：断固とした、しっかりした
+- [precise](/precise)：正確な
+- [firm](/firm)：断固とした、しっかりした
 
-<!-- cvid: aid00_bid05 -->
+<!-- cvid: aid29_bid06 -->

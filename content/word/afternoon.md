@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【afternoon】の意味・使い方・例文 ― eveningとの違い【TOEIC英単語】"
 description: "afternoonの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでeveningとの違いもわかりやすく学べます。"
 word: "afternoon"
@@ -80,15 +80,19 @@ TOEICではPart 1やPart 2で、時間帯を表す語としてよく登場しま
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びが楽しくなってきた👇️
+手応えの連続を狙おう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid35_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid35_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICではPart 1やPart 2で、時間帯を表す語としてよく登場しま
 ## 🤔  evening との違いは？
 
 - **afternoon**：正午から夕方までの「午後」
-- **[evening](/word/evening/)**：夕方から夜の始まりまでの「夕方・晩」
+- **[evening](/evening)**：夕方から夜の始まりまでの「夕方・晩」
 
 afternoonは昼過ぎから夕方前まで、eveningは日が暮れてから夜の始まりまでを指します。
 
@@ -104,14 +108,14 @@ afternoonは昼過ぎから夕方前まで、eveningは日が暮れてから夜�
 
 ## 🧩 あわせて覚えたい
 
-- [morning](/word/morning/)：朝、午前
-- [noon](/word/noon/)：正午
+- [morning](/morning)：朝、午前
+- [noon](/noon)：正午
 
 ---
 
 ## 📖 できればこれも
 
-- [night](/word/night/)：夜
-- [today](/word/today/)：今日
+- [night](/night)：夜
+- [today](/today)：今日
 
-<!-- cvid: aid43_bid27 -->
+<!-- cvid: aid35_bid49 -->

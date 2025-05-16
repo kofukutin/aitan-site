@@ -81,15 +81,19 @@ TOEICでは観光や文化紹介、企業の歴史などの文脈でよく登場
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid40" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid40" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や文化紹介、企業の歴史などの文脈でよく登場
 ## 🤔  custom との違いは？
 
 - **tradition**：長い間受け継がれてきた文化的・社会的な習慣や行事
-- **[custom](/word/custom/)**：特定の集団や地域で行われる慣習やしきたり
+- **[custom](/custom)**：特定の集団や地域で行われる慣習やしきたり
 
 traditionは世代を超えて続く大きな文化的習慣、customは日常的な行動や地域ごとのしきたりに使われます。
 
@@ -105,14 +109,14 @@ traditionは世代を超えて続く大きな文化的習慣、customは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [heritage](/word/heritage/)：遺産、受け継がれたもの
-- [innovation](/word/innovation/)：革新、新しいこと
+- [heritage](/heritage)：遺産、受け継がれたもの
+- [innovation](/innovation)：革新、新しいこと
 
 ---
 
 ## 📖 できればこれも
 
-- [culture](/word/culture/)：文化
-- [ceremony](/word/ceremony/)：式典、儀式
+- [culture](/culture)：文化
+- [ceremony](/ceremony)：式典、儀式
 
-<!-- cvid: aid01_bid49 -->
+<!-- cvid: aid27_bid40 -->

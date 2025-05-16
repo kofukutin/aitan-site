@@ -77,15 +77,19 @@ TOEICでは、文中での副詞の位置や、追加情報を伝える表現と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、文中での副詞の位置や、追加情報を伝える表現と
 ## 🤔  too との違いは？
 
 - **also**：文中や文頭で「～もまた」と追加情報を伝えるときに使う
-- **[too](/word/too/)**：文末で「～もまた」と言うときに使う
+- **[too](/too)**：文末で「～もまた」と言うときに使う
 
 "also" は主に文中や文頭で使われ、ややフォーマルな印象です。"too" は文末で使われることが多く、カジュアルな場面でもよく使われます。
 
@@ -101,14 +105,14 @@ TOEICでは、文中での副詞の位置や、追加情報を伝える表現と
 
 ## 🧩 あわせて覚えたい
 
-- [additionally](/word/additionally/)：さらに、そのうえ
-- [besides](/word/besides/)：そのうえ、さらに
+- [additionally](/additionally)：さらに、そのうえ
+- [besides](/besides)：そのうえ、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/word/however/)：しかしながら
-- [either](/word/either/)：～もまた（否定文で）
+- [however](/however)：しかしながら
+- [either](/either)：～もまた（否定文で）
 
-<!-- cvid: aid31_bid06 -->
+<!-- cvid: aid01_bid39 -->

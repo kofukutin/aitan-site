@@ -82,15 +82,19 @@ TOEICでは「classic design（定番デザイン）」や「a classic mistake�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+学びが楽しくなってきた👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid43_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid43_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「classic design（定番デザイン）」や「a classic mistake�
 ## 🤔  classical との違いは？
 
 - **classic**：時代を超えて評価される、典型的な、名作の
-- **[classical](/word/classical/)**：古代ギリシャ・ローマやクラシック音楽など「古典的な」ものに限定
+- **[classical](/classical)**：古代ギリシャ・ローマやクラシック音楽など「古典的な」ものに限定
 
 classicは「定番」「名作」「模範的」といった広い意味で使われますが、classicalは「古典時代」「クラシック音楽」など歴史的・伝統的なものに限定されます。
 
@@ -106,14 +110,14 @@ classicは「定番」「名作」「模範的」といった広い意味で使�
 
 ## 🧩 あわせて覚えたい
 
-- [traditional](/word/traditional/)：伝統的な
-- [modern](/word/modern/)：現代的な
+- [traditional](/traditional)：伝統的な
+- [modern](/modern)：現代的な
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical/)：典型的な
-- [unique](/word/unique/)：唯一無二の
+- [typical](/typical)：典型的な
+- [unique](/unique)：唯一無二の
 
-<!-- cvid: aid39_bid10 -->
+<!-- cvid: aid43_bid39 -->

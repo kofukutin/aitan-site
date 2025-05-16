@@ -80,15 +80,19 @@ TOEICでは主にPart 5で「必要条件」「前提条件」として出題さ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid33_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主にPart 5で「必要条件」「前提条件」として出題さ
 ## 🤔  requirement との違いは？
 
 - **prerequisite**：何かを始める前に必ず満たすべき「前提条件」
-- **[requirement](/word/requirement/)**：必要な条件全般（前提に限らず幅広い）
+- **[requirement](/requirement)**：必要な条件全般（前提に限らず幅広い）
 
 prerequisiteは「事前にクリアしておくべき条件」に限定され、requirementは「必要条件」全般を指します。
 
@@ -104,14 +108,14 @@ prerequisiteは「事前にクリアしておくべき条件」に限定され�
 
 ## 🧩 あわせて覚えたい
 
-- [qualification](/word/qualification/)：資格、能力
-- [condition](/word/condition/)：条件、状況
+- [qualification](/qualification)：資格、能力
+- [condition](/condition)：条件、状況
 
 ---
 
 ## 📖 できればこれも
 
-- [eligibility](/word/eligibility/)：資格、適格性
-- [criteria](/word/criteria/)：基準、判断条件
+- [eligibility](/eligibility)：資格、適格性
+- [criteria](/criteria)：基準、判断条件
 
-<!-- cvid: aid04_bid35 -->
+<!-- cvid: aid33_bid26 -->

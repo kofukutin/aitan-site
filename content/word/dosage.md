@@ -81,15 +81,19 @@ Please check the dosage instructions before administering the drug.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Please check the dosage instructions before administering the drug.
 ## 🤔  dose との違いは？
 
 - **dosage**：薬の「総投与量」や「服用量・用法」全体を指すフォーマルな表現
-- **[dose](/word/dose/)**：薬の「1回分の量」を指す、より具体的な単位
+- **[dose](/dose)**：薬の「1回分の量」を指す、より具体的な単位
 
 dosageは全体の量や投与計画を示し、doseは1回ごとの量を指します。医療現場では使い分けが重要です。
 
@@ -105,14 +109,14 @@ dosageは全体の量や投与計画を示し、doseは1回ごとの量を指し
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription/)：処方箋
-- [administration](/word/administration/)：投与、管理
+- [prescription](/prescription)：処方箋
+- [administration](/administration)：投与、管理
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe/)：処方する
-- [treatment](/word/treatment/)：治療
+- [prescribe](/prescribe)：処方する
+- [treatment](/treatment)：治療
 
-<!-- cvid: aid29_bid11 -->
+<!-- cvid: aid06_bid24 -->

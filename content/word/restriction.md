@@ -81,15 +81,19 @@ TOEICでは、契約書や社内規則、案内文などで「制限」「規制
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
-（おすすめ情報予定）
+＼あなたに合う学び方／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid46_bid03" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid03" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、契約書や社内規則、案内文などで「制限」「規制
 ## 🤔  limitation との違いは？
 
 - **restriction**：外部からの規則やルールによる「制限」「規制」
-- **[limitation](/word/limitation/)**：能力や条件など内的・物理的な「限界」「制約」
+- **[limitation](/limitation)**：能力や条件など内的・物理的な「限界」「制約」
 
 restrictionは「外から課される制限」、limitationは「本来持っている限界や制約」という違いがあります。
 
@@ -105,14 +109,14 @@ restrictionは「外から課される制限」、limitationは「本来持っ�
 
 ## 🧩 あわせて覚えたい
 
-- [ban](/word/ban/)：禁止
-- [permission](/word/permission/)：許可
+- [ban](/ban)：禁止
+- [permission](/permission)：許可
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation/)：規則、規制
-- [requirement](/word/requirement/)：要件、必要条件
+- [regulation](/regulation)：規則、規制
+- [requirement](/requirement)：要件、必要条件
 
-<!-- cvid: aid06_bid47 -->
+<!-- cvid: aid46_bid03 -->

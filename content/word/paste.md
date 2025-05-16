@@ -82,15 +82,19 @@ ITやオフィス関連の文脈で「貼り付ける」「のり」として出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+次の一歩を踏み出そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語習慣を始めよう／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid20_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid20_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ ITやオフィス関連の文脈で「貼り付ける」「のり」として出
 ## 🤔  glue との違いは？
 
 - **paste**：ペースト状ののり、またはデジタルで「貼り付ける」操作
-- **[glue](/word/glue/)**：液体や固体の接着剤、物理的に物をくっつける
+- **[glue](/glue)**：液体や固体の接着剤、物理的に物をくっつける
 
 「paste」はITや文房具の「のり」に使い、「glue」はより強力な接着剤や物理的な接着に使います。
 
@@ -106,14 +110,14 @@ ITやオフィス関連の文脈で「貼り付ける」「のり」として出
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy/)：コピーする
-- [attach](/word/attach/)：添付する、取り付ける
+- [copy](/copy)：コピーする
+- [attach](/attach)：添付する、取り付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print/)：印刷する
-- [insert](/word/insert/)：挿入する
+- [print](/print)：印刷する
+- [insert](/insert)：挿入する
 
-<!-- cvid: aid44_bid13 -->
+<!-- cvid: aid20_bid05 -->

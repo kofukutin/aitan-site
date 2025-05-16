@@ -81,15 +81,19 @@ It was a painful decision to let some employees go.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid40_bid24" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid40_bid24" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ It was a painful decision to let some employees go.
 ## 🤔  sore との違いは？
 
 - **painful**：痛みが強く、苦痛を強調する表現
-- **[sore](/word/sore/)**：ヒリヒリ・ズキズキするような軽い痛みや炎症
+- **[sore](/sore)**：ヒリヒリ・ズキズキするような軽い痛みや炎症
 
 painfulは「強い痛み」や「精神的苦痛」にも使えますが、soreは「軽い痛み」や「炎症でヒリヒリする感じ」に使われます。
 
@@ -105,14 +109,14 @@ painfulは「強い痛み」や「精神的苦痛」にも使えますが、sore
 
 ## 🧩 あわせて覚えたい
 
-- [comfortable](/word/comfortable/)：快適な
-- [ache](/word/ache/)：うずくような痛み
+- [comfortable](/comfortable)：快適な
+- [ache](/ache)：うずくような痛み
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/word/hurt/)：痛む、傷つける
-- [injury](/word/injury/)：けが、負傷
+- [hurt](/hurt)：痛む、傷つける
+- [injury](/injury)：けが、負傷
 
-<!-- cvid: aid29_bid33 -->
+<!-- cvid: aid40_bid24 -->

@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【toll】の意味・使い方・例文 ― feeとの違い【TOEIC英単語】"
 description: "tollの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfeeとの違いもわかりやすく学べます。"
 word: "toll"
@@ -81,15 +81,19 @@ tollは主にPart 7の長文や記事、案内文などで「通行料」や「�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼学び直しにぴったり／<br>  
-（おすすめ情報予定）
+＼実践に強くなる勉強法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid39_bid46" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid46" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ tollは主にPart 7の長文や記事、案内文などで「通行料」や「�
 ## 🤔  fee との違いは？
 
 - **toll**：道路や橋など特定の施設の利用に対して支払う料金、または損失・犠牲
-- **[fee](/word/fee/)**：サービスや手続き、入場などに対して支払う料金
+- **[fee](/fee)**：サービスや手続き、入場などに対して支払う料金
 
 tollは「通行料」や「犠牲」といった限定的な場面で使われ、feeはより広く「サービス料」や「手数料」などに使われます。
 
@@ -105,14 +109,14 @@ tollは「通行料」や「犠牲」といった限定的な場面で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [charge](/word/charge/)：請求、料金
-- [fare](/word/fare/)：運賃、乗車料金
+- [charge](/charge)：請求、料金
+- [fare](/fare)：運賃、乗車料金
 
 ---
 
 ## 📖 できればこれも
 
-- [fine](/word/fine/)：罰金
-- [tax](/word/tax/)：税金
+- [fine](/fine)：罰金
+- [tax](/tax)：税金
 
-<!-- cvid: aid00_bid41 -->
+<!-- cvid: aid39_bid46 -->

@@ -81,15 +81,19 @@ TOEICでは、主にビジネス文脈で「比較する」という意味で出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid48_bid07" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid48_bid07" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、主にビジネス文脈で「比較する」という意味で出
 ## 🤔  contrast との違いは？
 
 - **compare**：違いだけでなく共通点も含めて「比べる」
-- **[contrast](/word/contrast/)**：主に「違い・対照」を強調して比べる
+- **[contrast](/contrast)**：主に「違い・対照」を強調して比べる
 
 compareは「似ている点・違う点の両方」を調べるときに使い、contrastは「違い」に焦点を当てて比べるときに使います。
 
@@ -105,14 +109,14 @@ compareは「似ている点・違う点の両方」を調べるときに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [evaluate](/word/evaluate/)：評価する
-- [analyze](/word/analyze/)：分析する
+- [evaluate](/evaluate)：評価する
+- [analyze](/analyze)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [measure](/word/measure/)：測定する
-- [examine](/word/examine/)：調べる
+- [measure](/measure)：測定する
+- [examine](/examine)：調べる
 
-<!-- cvid: aid13_bid40 -->
+<!-- cvid: aid48_bid07 -->

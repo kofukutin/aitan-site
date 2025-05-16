@@ -81,15 +81,19 @@ TOEICでは健康や社会問題を扱う長文記事やEメールの中で登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid41_bid10" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid10" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは健康や社会問題を扱う長文記事やEメールの中で登�
 ## 🤔  homicide との違いは？
 
 - **suicide**：自分自身の命を絶つこと（自殺）
-- **[homicide](/word/homicide/)**：他人を殺すこと（他殺）
+- **[homicide](/homicide)**：他人を殺すこと（他殺）
 
 suicideは「自分自身を殺す」こと、homicideは「他人を殺す」ことを指し、使われる場面や意味が大きく異なります。
 
@@ -105,14 +109,14 @@ suicideは「自分自身を殺す」こと、homicideは「他人を殺す」�
 
 ## 🧩 あわせて覚えたい
 
-- [depression](/word/depression/)：うつ病、抑うつ状態
-- [prevention](/word/prevention/)：予防、防止
+- [depression](/depression)：うつ病、抑うつ状態
+- [prevention](/prevention)：予防、防止
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが、負傷
-- [accident](/word/accident/)：事故
+- [injury](/injury)：けが、負傷
+- [accident](/accident)：事故
 
-<!-- cvid: aid09_bid31 -->
+<!-- cvid: aid41_bid10 -->

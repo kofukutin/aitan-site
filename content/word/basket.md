@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【basket】の意味・使い方・例文 ― boxとの違い【TOEIC英単語】"
 description: "basketの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでboxとの違いもわかりやすく学べます。"
 word: "basket"
@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、物を入れるかごやバスケッ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚を研ぎ澄まそう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼まずはやってみよう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid29_bid10" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid10" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、物を入れるかごやバスケッ
 ## 🤔  box との違いは？
 
 - **basket**：編み目があり、通気性のあるかごやバスケット
-- **[box](/word/box/)**：ふた付き・ふたなし問わず、四角い箱や容器
+- **[box](/box)**：ふた付き・ふたなし問わず、四角い箱や容器
 
 basketは主に編んだ素材で作られたかごを指し、boxは紙やプラスチックなどでできた箱型の容器を指します。
 
@@ -105,14 +109,14 @@ basketは主に編んだ素材で作られたかごを指し、boxは紙やプ�
 
 ## 🧩 あわせて覚えたい
 
-- [cart](/word/cart/)：カート、手押し車
-- [container](/word/container/)：容器、入れ物
+- [cart](/cart)：カート、手押し車
+- [container](/container)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [bottle](/word/bottle/)：ボトル、瓶
-- [bag](/word/bag/)：袋、バッグ
+- [bottle](/bottle)：ボトル、瓶
+- [bag](/bag)：袋、バッグ
 
-<!-- cvid: aid39_bid08 -->
+<!-- cvid: aid29_bid10 -->

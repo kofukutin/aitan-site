@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「頼る」「依存する」という意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼忙しくても学べる方法／<br>  
-（おすすめ情報予定）
+＼効率化された学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid40" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid40" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「頼る」「依存する」という意味で
 ## 🤔  depend との違いは？
 
 - **rely**：信頼して頼る、安心して任せるニュアンスが強い
-- **[depend](/word/depend/)**：状況や条件に左右されて「依存する」ニュアンスが強い
+- **[depend](/depend)**：状況や条件に左右されて「依存する」ニュアンスが強い
 
 relyは「信頼して頼る」気持ちが含まれ、dependは「条件や状況に左右される」客観的な依存を表します。
 
@@ -105,14 +109,14 @@ relyは「信頼して頼る」気持ちが含まれ、dependは「条件や状�
 
 ## 🧩 あわせて覚えたい
 
-- [trust](/word/trust/)：信じる、信用する
-- [support](/word/support/)：支える、支援する
+- [trust](/trust)：信じる、信用する
+- [support](/support)：支える、支援する
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer/)：参照する、言及する
-- [respond](/word/respond/)：応答する、返答する
+- [refer](/refer)：参照する、言及する
+- [respond](/respond)：応答する、返答する
 
-<!-- cvid: aid20_bid30 -->
+<!-- cvid: aid41_bid40 -->

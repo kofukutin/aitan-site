@@ -81,15 +81,19 @@ TOEICでは主にビジネスや経済に関する長文で「貿易」「取引
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の波を逃さずに👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや経済に関する長文で「貿易」「取引
 ## 🤔  commerce との違いは？
 
 - **trade**：具体的な「取引」や「売買」の行為や活動を指す
-- **[commerce](/word/commerce/)**：より広い意味で「商業」や「経済活動」全体を指す
+- **[commerce](/commerce)**：より広い意味で「商業」や「経済活動」全体を指す
 
 tradeは個々の取引や貿易の場面で使われ、commerceは経済全体や商業活動の枠組みを表します。
 
@@ -105,14 +109,14 @@ tradeは個々の取引や貿易の場面で使われ、commerceは経済全体�
 
 ## 🧩 あわせて覚えたい
 
-- [transaction](/word/transaction/)：取引、売買
-- [deal](/word/deal/)：取引、契約
+- [transaction](/transaction)：取引、売買
+- [deal](/deal)：取引、契約
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market/)：市場
-- [export](/word/export/)：輸出
+- [market](/market)：市場
+- [export](/export)：輸出
 
-<!-- cvid: aid14_bid44 -->
+<!-- cvid: aid45_bid42 -->

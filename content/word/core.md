@@ -81,15 +81,19 @@ TOEICでは「core value（中核的価値観）」や「core business（中核�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解を深めるタイミング👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼覚えやすい工夫満載／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「core value（中核的価値観）」や「core business（中核�
 ## 🤔  center との違いは？
 
 - **core**：物事の「本質的な中心」や「最も重要な部分」を指す
-- **[center](/word/center/)**：物理的・地理的な「中心」や「中央」を指す
+- **[center](/center)**：物理的・地理的な「中心」や「中央」を指す
 
 coreは「本質」や「核」といった抽象的な中心に使われ、centerは「場所」や「位置」といった物理的な中心に使われます。
 
@@ -105,14 +109,14 @@ coreは「本質」や「核」といった抽象的な中心に使われ、cent
 
 ## 🧩 あわせて覚えたい
 
-- [essence](/word/essence/)：本質、エッセンス
-- [periphery](/word/periphery/)：周辺、外周
+- [essence](/essence)：本質、エッセンス
+- [periphery](/periphery)：周辺、外周
 
 ---
 
 ## 📖 できればこれも
 
-- [focus](/word/focus/)：焦点、注目点
-- [basis](/word/basis/)：基礎、根拠
+- [focus](/focus)：焦点、注目点
+- [basis](/basis)：基礎、根拠
 
-<!-- cvid: aid07_bid16 -->
+<!-- cvid: aid08_bid29 -->

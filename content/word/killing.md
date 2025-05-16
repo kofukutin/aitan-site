@@ -81,15 +81,19 @@ TOEICでは新聞記事や報告書などの長文で、事件や事故の説明
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+できた自分を信じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid49_bid49" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid49_bid49" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは新聞記事や報告書などの長文で、事件や事故の説明
 ## 🤔  murder との違いは？
 
 - **killing**：殺害全般を指し、事故や戦争など犯罪以外の文脈でも使える。
-- **[murder](/word/murder/)**：法律上の「殺人罪」や故意の殺人を指し、より限定的で重い意味。
+- **[murder](/murder)**：法律上の「殺人罪」や故意の殺人を指し、より限定的で重い意味。
 
 killingは広い意味での「殺すこと」ですが、murderは「計画的・故意の殺人」という犯罪性が強調されます。
 
@@ -105,14 +109,14 @@ killingは広い意味での「殺すこと」ですが、murderは「計画的�
 
 ## 🧩 あわせて覚えたい
 
-- [homicide](/word/homicide/)：殺人（特に法律用語）
-- [crime](/word/crime/)：犯罪
+- [homicide](/homicide)：殺人（特に法律用語）
+- [crime](/crime)：犯罪
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury/)：けが、負傷
-- [accident](/word/accident/)：事故
+- [injury](/injury)：けが、負傷
+- [accident](/accident)：事故
 
-<!-- cvid: aid02_bid29 -->
+<!-- cvid: aid49_bid49 -->

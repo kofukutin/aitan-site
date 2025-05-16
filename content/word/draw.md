@@ -81,15 +81,19 @@ drawはTOEICの会話パートで「注意を引く」「集める」などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚える喜びを感じよう／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid08" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid08" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ drawはTOEICの会話パートで「注意を引く」「集める」などの�
 ## 🤔  attract との違いは？
 
 - **draw**：意図的・自然に「引き寄せる」「集める」など幅広く使う
-- **[attract](/word/attract/)**：主に「魅力で引きつける」「惹きつける」に特化
+- **[attract](/attract)**：主に「魅力で引きつける」「惹きつける」に特化
 
 drawは「線を引く」「注意を集める」など多用途ですが、attractは「魅力や性質で人や物を引きつける」場合に使います。
 
@@ -105,14 +109,14 @@ drawは「線を引く」「注意を集める」など多用途ですが、attr
 
 ## 🧩 あわせて覚えたい
 
-- [pull](/word/pull/)：引っ張る
-- [sketch](/word/sketch/)：スケッチする、下書きする
+- [pull](/pull)：引っ張る
+- [sketch](/sketch)：スケッチする、下書きする
 
 ---
 
 ## 📖 できればこれも
 
-- [paint](/word/paint/)：絵の具で描く
-- [invite](/word/invite/)：招待する
+- [paint](/paint)：絵の具で描く
+- [invite](/invite)：招待する
 
-<!-- cvid: aid08_bid42 -->
+<!-- cvid: aid23_bid08 -->

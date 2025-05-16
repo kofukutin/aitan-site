@@ -81,15 +81,19 @@ TOEICでは経費精算や医療費の返金など、ビジネス文書や案内
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは経費精算や医療費の返金など、ビジネス文書や案内
 ## 🤔  refund との違いは？
 
 - **reimbursement**：立て替えた費用や経費の精算・払い戻し
-- **[refund](/word/refund/)**：購入品やサービスの返金
+- **[refund](/refund)**：購入品やサービスの返金
 
 reimbursementは「誰かが一時的に支払ったお金を後から返す」場合に使い、refundは「商品やサービスの代金を返す」場合に使います。
 
@@ -105,14 +109,14 @@ reimbursementは「誰かが一時的に支払ったお金を後から返す」�
 
 ## 🧩 あわせて覚えたい
 
-- [compensation](/word/compensation/)：補償、賠償
-- [allowance](/word/allowance/)：手当、支給額
+- [compensation](/compensation)：補償、賠償
+- [allowance](/allowance)：手当、支給額
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense/)：費用、出費
-- [invoice](/word/invoice/)：請求書
+- [expense](/expense)：費用、出費
+- [invoice](/invoice)：請求書
 
-<!-- cvid: aid13_bid36 -->
+<!-- cvid: aid09_bid32 -->

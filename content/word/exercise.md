@@ -81,15 +81,19 @@ TOEICでは「練習問題」や「運動」という意味で出題されるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思考が整ったときが勝負👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼試す価値アリの方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid30_bid19" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid19" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「練習問題」や「運動」という意味で出題されるこ
 ## 🤔  practice との違いは？
 
 - **exercise**：運動や練習問題など、具体的な活動や課題を指す
-- **[practice](/word/practice/)**：繰り返し行う練習や習慣、実践を指す
+- **[practice](/practice)**：繰り返し行う練習や習慣、実践を指す
 
 exerciseは「個々の運動や問題」といった具体的なもの、practiceは「繰り返し行う行為」や「習慣」として使い分けます。
 
@@ -105,14 +109,14 @@ exerciseは「個々の運動や問題」といった具体的なもの、practi
 
 ## 🧩 あわせて覚えたい
 
-- [training](/word/training/)：訓練、トレーニング
-- [task](/word/task/)：課題、仕事
+- [training](/training)：訓練、トレーニング
+- [task](/task)：課題、仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [activity](/word/activity/)：活動
-- [lesson](/word/lesson/)：授業、課題
+- [activity](/activity)：活動
+- [lesson](/lesson)：授業、課題
 
-<!-- cvid: aid33_bid45 -->
+<!-- cvid: aid30_bid19 -->

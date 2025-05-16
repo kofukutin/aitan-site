@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、掃除や清掃の場面を説明す
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+思い出したら定着へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid12_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid12_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、掃除や清掃の場面を説明す
 ## 🤔  washing との違いは？
 
 - **cleaning**：掃除や清掃など、広く「きれいにすること」全般を指す
-- **[washing](/word/washing/)**：主に「水で洗うこと」に限定される
+- **[washing](/washing)**：主に「水で洗うこと」に限定される
 
 cleaningはほこり取りや拭き掃除なども含みますが、washingは「水や洗剤で洗う」動作に特化しています。
 
@@ -105,14 +109,14 @@ cleaningはほこり取りや拭き掃除なども含みますが、washingは�
 
 ## 🧩 あわせて覚えたい
 
-- [maintenance](/word/maintenance/)：メンテナンス、保守
-- [tidy](/word/tidy/)：きちんと片付ける
+- [maintenance](/maintenance)：メンテナンス、保守
+- [tidy](/tidy)：きちんと片付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [repair](/word/repair/)：修理する
-- [organize](/word/organize/)：整理する
+- [repair](/repair)：修理する
+- [organize](/organize)：整理する
 
-<!-- cvid: aid03_bid11 -->
+<!-- cvid: aid12_bid10 -->

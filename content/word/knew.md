@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【knew】の意味・使い方・例文 ― foundとの違い【TOEIC英単語】"
 description: "knewの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfoundとの違いもわかりやすく学べます。"
 word: "knew"
@@ -82,15 +82,19 @@ TOEICでは会話の流れや過去の出来事を説明する場面でよく出
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+このまま続けよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid00_bid20" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid00_bid20" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは会話の流れや過去の出来事を説明する場面でよく出
 ## 🤔  found との違いは？
 
 - **knew**：過去に「知っていた」「分かっていた」ことを表す。
-- **[found](/word/found/)**：何かを「見つけた」「発見した」ことを表す。
+- **[found](/found)**：何かを「見つけた」「発見した」ことを表す。
 
 knew は知識や情報を持っていた状態、found は新たに発見した行為を表します。
 
@@ -106,13 +110,13 @@ knew は知識や情報を持っていた状態、found は新たに発見した
 
 ## 🧩 あわせて覚えたい
 
-- [realize](/word/realize/)：気づく、悟る
-- [understand](/word/understand/)：理解する
+- [realize](/realize)：気づく、悟る
+- [understand](/understand)：理解する
 
 ---
 
 ## 📖 できればこれも
 
-- [think](/word/think/)：考える
-- [learn](/word/learn/)：学ぶ、知る
-<!-- cvid: aid45_bid18 -->
+- [think](/think)：考える
+- [learn](/learn)：学ぶ、知る
+<!-- cvid: aid00_bid20 -->

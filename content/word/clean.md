@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【clean】の意味・使い方・例文 ― clearとの違い【TOEIC英単語】"
 description: "cleanの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでclearとの違いもわかりやすく学べます。"
 word: "clean"
@@ -81,15 +81,19 @@ TOEICではPart 1の写真描写で「clean desk」や「clean floor」など、
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid34_bid05" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid05" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではPart 1の写真描写で「clean desk」や「clean floor」など、
 ## 🤔  clear との違いは？
 
 - **clean**：汚れがなく清潔な状態
-- **[clear](/word/clear/)**：障害物や曇りがなく「すっきりした」状態
+- **[clear](/clear)**：障害物や曇りがなく「すっきりした」状態
 
 cleanは「物理的な汚れがない」こと、clearは「邪魔なものがなく見通しが良い」ことを表します。
 
@@ -105,14 +109,14 @@ cleanは「物理的な汚れがない」こと、clearは「邪魔なものが�
 
 ## 🧩 あわせて覚えたい
 
-- [dirty](/word/dirty/)：汚い、汚れている
-- [tidy](/word/tidy/)：整頓された、きちんとした
+- [dirty](/dirty)：汚い、汚れている
+- [tidy](/tidy)：整頓された、きちんとした
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/word/fresh/)：新鮮な、さわやかな
-- [neat](/word/neat/)：きちんとした、整った
+- [fresh](/fresh)：新鮮な、さわやかな
+- [neat](/neat)：きちんとした、整った
 
-<!-- cvid: aid47_bid48 -->
+<!-- cvid: aid34_bid05 -->

@@ -80,15 +80,19 @@ ITやネットワーク関連の長文や説明文で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-覚えやすいタイミング👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼日常に英語をプラス／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid21_bid33" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid33" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ ITやネットワーク関連の長文や説明文で出題されることが多
 ## 🤔  hub との違いは？
 
 - **node**：ネットワークや構造の中の「接点」「節点」全般を指す
-- **[hub](/word/hub/)**：複数の接点をまとめる「中心点」「拠点」を指す
+- **[hub](/hub)**：複数の接点をまとめる「中心点」「拠点」を指す
 
 nodeはネットワーク上の一つ一つの点を指し、hubはそれらをつなぐ中心や集約点を指します。
 
@@ -104,14 +108,14 @@ nodeはネットワーク上の一つ一つの点を指し、hubはそれらを�
 
 ## 🧩 あわせて覚えたい
 
-- [vertex](/word/vertex/)：（グラフ理論などの）頂点
-- [link](/word/link/)：接続、リンク
+- [vertex](/vertex)：（グラフ理論などの）頂点
+- [link](/link)：接続、リンク
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network/)：ネットワーク、通信網
-- [server](/word/server/)：サーバー、サービスを提供する装置
+- [network](/network)：ネットワーク、通信網
+- [server](/server)：サーバー、サービスを提供する装置
 
-<!-- cvid: aid31_bid23 -->
+<!-- cvid: aid21_bid33 -->

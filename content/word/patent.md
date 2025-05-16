@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や法務関連の長文で登場し、特許
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid32_bid24" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid24" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や法務関連の長文で登場し、特許
 ## 🤔  copyright との違いは？
 
 - **patent**：発明や技術に対する独占的な権利（特許）
-- **[copyright](/word/copyright/)**：著作物（文章・音楽・絵など）に対する著作権
+- **[copyright](/copyright)**：著作物（文章・音楽・絵など）に対する著作権
 
 patentは「技術的なアイデアや発明」に、copyrightは「創作物」に適用される点が大きな違いです。
 
@@ -105,14 +109,14 @@ patentは「技術的なアイデアや発明」に、copyrightは「創作物�
 
 ## 🧩 あわせて覚えたい
 
-- [license](/word/license/)：許可、認可
-- [invention](/word/invention/)：発明
+- [license](/license)：許可、認可
+- [invention](/invention)：発明
 
 ---
 
 ## 📖 できればこれも
 
-- [trademark](/word/trademark/)：商標
-- [approval](/word/approval/)：承認
+- [trademark](/trademark)：商標
+- [approval](/approval)：承認
 
-<!-- cvid: aid06_bid05 -->
+<!-- cvid: aid32_bid24 -->

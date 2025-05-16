@@ -81,15 +81,19 @@ TOEICでは主に科学的・ビジネス的な文脈で「回帰分析」や「
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼英語が身につく方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid37_bid00" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid00" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に科学的・ビジネス的な文脈で「回帰分析」や「
 ## 🤔  deterioration との違いは？
 
 - **regression**：以前の状態や悪い状態に「戻る」こと、または統計の「回帰」
-- **[deterioration](/word/deterioration/)**：徐々に「悪化する」こと
+- **[deterioration](/deterioration)**：徐々に「悪化する」こと
 
 regressionは「元に戻る」ニュアンスが強く、deteriorationは単純な悪化や劣化を指します。
 
@@ -105,14 +109,14 @@ regressionは「元に戻る」ニュアンスが強く、deteriorationは単純
 
 ## 🧩 あわせて覚えたい
 
-- [progression](/word/progression/)：進行、前進
-- [recession](/word/recession/)：景気後退、不況
+- [progression](/progression)：進行、前進
+- [recession](/recession)：景気後退、不況
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis/)：分析
-- [correlation](/word/correlation/)：相関関係
+- [analysis](/analysis)：分析
+- [correlation](/correlation)：相関関係
 
-<!-- cvid: aid34_bid07 -->
+<!-- cvid: aid37_bid00 -->

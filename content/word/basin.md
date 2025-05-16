@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写で、洗面器や流域などの物や地
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写で、洗面器や流域などの物や地
 ## 🤔  bowl との違いは？
 
 - **basin**：水をためるための浅くて広い容器や流域を指す
-- **[bowl](/word/bowl/)**：主に食べ物を入れるための深めの器
+- **[bowl](/bowl)**：主に食べ物を入れるための深めの器
 
 basinは洗面や地形など幅広い用途で使われますが、bowlは食事用の器に限定されることが多いです。
 
@@ -105,14 +109,14 @@ basinは洗面や地形など幅広い用途で使われますが、bowlは食�
 
 ## 🧩 あわせて覚えたい
 
-- [sink](/word/sink/)：流し、シンク
-- [valley](/word/valley/)：谷、渓谷
+- [sink](/sink)：流し、シンク
+- [valley](/valley)：谷、渓谷
 
 ---
 
 ## 📖 できればこれも
 
-- [bucket](/word/bucket/)：バケツ
-- [plate](/word/plate/)：皿
+- [bucket](/bucket)：バケツ
+- [plate](/plate)：皿
 
-<!-- cvid: aid02_bid35 -->
+<!-- cvid: aid05_bid30 -->

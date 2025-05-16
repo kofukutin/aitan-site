@@ -81,15 +81,19 @@ TOEICでは主にビジネス文書や記事の中で「発行部数」や「流
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+このタイミングを逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid09_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid09_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネス文書や記事の中で「発行部数」や「流
 ## 🤔  distribution との違いは？
 
 - **circulation**：循環や発行部数など「回る・巡る」ニュアンスが強い
-- **[distribution](/word/distribution/)**：分配や配布など「広く分け与える」ニュアンスが強い
+- **[distribution](/distribution)**：分配や配布など「広く分け与える」ニュアンスが強い
 
 circulationは「ぐるぐる回る」「定期的に巡る」イメージ、distributionは「一方向に配る」イメージです。
 
@@ -105,14 +109,14 @@ circulationは「ぐるぐる回る」「定期的に巡る」イメージ、dis
 
 ## 🧩 あわせて覚えたい
 
-- [flow](/word/flow/)：流れ
-- [exchange](/word/exchange/)：交換
+- [flow](/flow)：流れ
+- [exchange](/exchange)：交換
 
 ---
 
 ## 📖 できればこれも
 
-- [publication](/word/publication/)：出版物、発行
-- [subscription](/word/subscription/)：購読、加入
+- [publication](/publication)：出版物、発行
+- [subscription](/subscription)：購読、加入
 
-<!-- cvid: aid48_bid37 -->
+<!-- cvid: aid09_bid15 -->

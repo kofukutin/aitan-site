@@ -81,15 +81,19 @@ TOEICでは、金融やビジネス関連の長文や会話文で「banker」が
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid02_bid35" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid35" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、金融やビジネス関連の長文や会話文で「banker」が
 ## 🤔  financier との違いは？
 
 - **banker**：銀行で働く人や銀行家を指す、より一般的な職業名。
-- **[financier](/word/financier/)**：大規模な資金を動かす投資家や金融業界の大物を指すことが多い。
+- **[financier](/financier)**：大規模な資金を動かす投資家や金融業界の大物を指すことが多い。
 
 「banker」は銀行に直接勤務する人全般を指し、「financier」はより広い金融分野で大きな資金を扱う人に使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、金融やビジネス関連の長文や会話文で「banker」が
 
 ## 🧩 あわせて覚えたい
 
-- [teller](/word/teller/)：銀行の窓口係
-- [investor](/word/investor/)：投資家
+- [teller](/teller)：銀行の窓口係
+- [investor](/investor)：投資家
 
 ---
 
 ## 📖 できればこれも
 
-- [accountant](/word/accountant/)：会計士
-- [branch](/word/branch/)：支店
+- [accountant](/accountant)：会計士
+- [branch](/branch)：支店
 
-<!-- cvid: aid12_bid45 -->
+<!-- cvid: aid02_bid35 -->

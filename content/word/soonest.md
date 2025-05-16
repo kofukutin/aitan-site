@@ -77,15 +77,19 @@ TOEICでは、会議やメールのやりとりで「できるだけ早く対応
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+＼スマホで効率学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid24_bid05" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid05" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは、会議やメールのやりとりで「できるだけ早く対応
 ## 🤔  earliest との違いは？
 
 - **soonest**：できるだけ早く、最も早いタイミング（主に行動や対応の時期に使う）
-- **[earliest](/word/earliest/)**：最も早い時点・時刻（具体的な日時や締切に使う）
+- **[earliest](/earliest)**：最も早い時点・時刻（具体的な日時や締切に使う）
 
 「soonest」は「できるだけ早く対応してください」など行動の早さを強調し、「earliest」は「最も早い時刻」など具体的な時間を指すことが多いです。
 
@@ -101,14 +105,14 @@ TOEICでは、会議やメールのやりとりで「できるだけ早く対応
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately/)：すぐに
-- [promptly](/word/promptly/)：迅速に
+- [immediately](/immediately)：すぐに
+- [promptly](/promptly)：迅速に
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later/)：後で
-- [quickly](/word/quickly/)：速く
+- [later](/later)：後で
+- [quickly](/quickly)：速く
 
-<!-- cvid: aid09_bid29 -->
+<!-- cvid: aid24_bid05 -->

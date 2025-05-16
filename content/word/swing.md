@@ -82,15 +82,19 @@ TOEICでは主にPart 1の写真描写で「ブランコに乗る」「ドアを
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼迷ったらまず体験／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で「ブランコに乗る」「ドアを
 ## 🤔  sway との違いは？
 
 - **swing**：大きく前後・左右に揺れる、勢いよく振る
-- **[sway](/word/sway/)**：ゆっくりと小さく揺れる、影響を与える
+- **[sway](/sway)**：ゆっくりと小さく揺れる、影響を与える
 
 swingは動きが大きく勢いがある時に使い、swayはゆっくり小さく揺れる場合や「心を動かす」など比喩的にも使います。
 
@@ -106,14 +110,14 @@ swingは動きが大きく勢いがある時に使い、swayはゆっくり小�
 
 ## 🧩 あわせて覚えたい
 
-- [hang](/word/hang/)：吊るす、ぶら下げる
-- [rotate](/word/rotate/)：回転する
+- [hang](/hang)：吊るす、ぶら下げる
+- [rotate](/rotate)：回転する
 
 ---
 
 ## 📖 できればこれも
 
-- [shake](/word/shake/)：振る、揺らす
-- [move](/word/move/)：動く、移動する
+- [shake](/shake)：振る、揺らす
+- [move](/move)：動く、移動する
 
-<!-- cvid: aid22_bid39 -->
+<!-- cvid: aid01_bid25 -->

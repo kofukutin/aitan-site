@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【ten】の意味・使い方・例文 ― decadeとの違い【TOEIC英単語】"
 description: "tenの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでdecadeとの違いもわかりやすく学べます。"
 word: "ten"
@@ -81,15 +81,19 @@ TOEICでは数字や時刻、数量を表す場面で頻出します。特にリ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+迷いを力に変えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼続けやすい理由がある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid03_bid49" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid03_bid49" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは数字や時刻、数量を表す場面で頻出します。特にリ
 ## 🤔  decade との違いは？
 
 - **ten**：単純に「10」という数や物の数を表す
-- **[decade](/word/decade/)**：「10年間」という期間を表す
+- **[decade](/decade)**：「10年間」という期間を表す
 
 「ten」は数そのもの、「decade」は10年という時間のまとまりを指します。
 
@@ -105,14 +109,14 @@ TOEICでは数字や時刻、数量を表す場面で頻出します。特にリ
 
 ## 🧩 あわせて覚えたい
 
-- [dozen](/word/dozen/)：12（ダース）
-- [hundred](/word/hundred/)：100
+- [dozen](/dozen)：12（ダース）
+- [hundred](/hundred)：100
 
 ---
 
 ## 📖 できればこれも
 
-- [eleven](/word/eleven/)：11
-- [twenty](/word/twenty/)：20
+- [eleven](/eleven)：11
+- [twenty](/twenty)：20
 
-<!-- cvid: aid24_bid06 -->
+<!-- cvid: aid03_bid49 -->

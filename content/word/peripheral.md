@@ -82,15 +82,19 @@ ITやビジネス文書の中で「周辺機器」や「重要度の低い事項
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-集中できているうちに👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid39_bid38" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid39_bid38" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ ITやビジネス文書の中で「周辺機器」や「重要度の低い事項
 ## 🤔  accessory との違いは？
 
 - **peripheral**：中心から離れた、周辺の、またはIT機器の「周辺機器」
-- **[accessory](/word/accessory/)**：付属品、装飾品、補助的なもの
+- **[accessory](/accessory)**：付属品、装飾品、補助的なもの
 
 peripheralは「中心から外れた位置」や「本体の外側にあるもの」を指し、accessoryは「本体を補助・装飾する付属品」というニュアンスです。
 
@@ -106,14 +110,14 @@ peripheralは「中心から外れた位置」や「本体の外側にあるも�
 
 ## 🧩 あわせて覚えたい
 
-- [external](/word/external/)：外部の、外側の
-- [tangential](/word/tangential/)：ほとんど関係のない、接線的な
+- [external](/external)：外部の、外側の
+- [tangential](/tangential)：ほとんど関係のない、接線的な
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device/)：装置、機器
-- [component](/word/component/)：構成要素、部品
+- [device](/device)：装置、機器
+- [component](/component)：構成要素、部品
 
-<!-- cvid: aid38_bid36 -->
+<!-- cvid: aid39_bid38 -->

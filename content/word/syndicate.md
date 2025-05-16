@@ -81,15 +81,19 @@ TOEICではビジネス記事や金融関連の長文で、企業連合や共同
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたに合う学び方／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid36_bid21" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid21" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではビジネス記事や金融関連の長文で、企業連合や共同
 ## 🤔  consortium との違いは？
 
 - **syndicate**：特定の目的のために一時的・限定的に結成される企業連合や組合。
-- **[consortium](/word/consortium/)**：より大規模で長期的な共同事業体や連合体。
+- **[consortium](/consortium)**：より大規模で長期的な共同事業体や連合体。
 
 syndicateは短期的・特定目的の連携、consortiumは長期的・広範な協力体制を指す点が異なります。
 
@@ -105,14 +109,14 @@ syndicateは短期的・特定目的の連携、consortiumは長期的・広範�
 
 ## 🧩 あわせて覚えたい
 
-- [cartel](/word/cartel/)：企業連合（特に価格協定などを行う組織）
-- [alliance](/word/alliance/)：同盟、提携
+- [cartel](/cartel)：企業連合（特に価格協定などを行う組織）
+- [alliance](/alliance)：同盟、提携
 
 ---
 
 ## 📖 できればこれも
 
-- [corporation](/word/corporation/)：株式会社、法人
-- [association](/word/association/)：協会、団体
+- [corporation](/corporation)：株式会社、法人
+- [association](/association)：協会、団体
 
-<!-- cvid: aid25_bid03 -->
+<!-- cvid: aid36_bid21 -->

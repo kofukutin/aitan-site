@@ -81,15 +81,19 @@ TOEICでは科学技術や環境に関する説明文で登場することがあ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-いい感覚をつなげよう👇️
+できた感覚を大切に👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼試す価値アリの方法／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid13_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid13_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは科学技術や環境に関する説明文で登場することがあ
 ## 🤔  oxygen との違いは？
 
 - **hydrogen**：最も軽い気体で、主に燃料や化学反応に使われる元素。
-- **[oxygen](/word/oxygen/)**：呼吸や燃焼に不可欠な気体で、空気中に多く含まれる元素。
+- **[oxygen](/oxygen)**：呼吸や燃焼に不可欠な気体で、空気中に多く含まれる元素。
 
 hydrogenは主にエネルギー源や化学工業で使われ、oxygenは生命維持や燃焼に関わるなど、用途や役割が異なります。
 
@@ -105,14 +109,14 @@ hydrogenは主にエネルギー源や化学工業で使われ、oxygenは生命
 
 ## 🧩 あわせて覚えたい
 
-- [helium](/word/helium/)：ヘリウム（軽い気体、風船などに使われる）
-- [water](/word/water/)：水（H₂O、hydrogenとoxygenからできている）
+- [helium](/helium)：ヘリウム（軽い気体、風船などに使われる）
+- [water](/water)：水（H₂O、hydrogenとoxygenからできている）
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/word/element/)：元素（物質を構成する基本的な成分）
-- [atom](/word/atom/)：原子（元素を構成する最小単位）
+- [element](/element)：元素（物質を構成する基本的な成分）
+- [atom](/atom)：原子（元素を構成する最小単位）
 
-<!-- cvid: aid21_bid19 -->
+<!-- cvid: aid13_bid30 -->

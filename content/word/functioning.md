@@ -81,15 +81,19 @@ TOEICでは、機械やシステム、組織の「正常な働き」や「機能
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学びの波に乗ろう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼身につくまで続けよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid24" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid24" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、機械やシステム、組織の「正常な働き」や「機能
 ## 🤔  operation との違いは？
 
 - **functioning**：正常に機能している「状態」や「働き」そのものを強調
-- **[operation](/word/operation/)**：運用や操作、業務など「活動」や「作業」自体を指す
+- **[operation](/operation)**：運用や操作、業務など「活動」や「作業」自体を指す
 
 functioningは「ちゃんと動いているか」という状態に焦点があり、operationは「動かす行為」や「業務の運営」など活動そのものを指します。
 
@@ -105,14 +109,14 @@ functioningは「ちゃんと動いているか」という状態に焦点があ
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/word/performance/)：性能、実行
-- [malfunction](/word/malfunction/)：故障、不具合
+- [performance](/performance)：性能、実行
+- [malfunction](/malfunction)：故障、不具合
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process/)：過程、処理
-- [mechanism](/word/mechanism/)：仕組み、機構
+- [process](/process)：過程、処理
+- [mechanism](/mechanism)：仕組み、機構
 
-<!-- cvid: aid01_bid28 -->
+<!-- cvid: aid41_bid24 -->

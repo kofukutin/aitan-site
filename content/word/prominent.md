@@ -81,15 +81,19 @@ TOEICでは、記事やビジネス文書で「著名な人物」「重要な役
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-少しずつ前進しよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やる気を形に変えよう／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid41_bid32" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid32" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、記事やビジネス文書で「著名な人物」「重要な役
 ## 🤔  outstanding との違いは？
 
 - **prominent**：目立っている、社会的に有名・重要である
-- **[outstanding](/word/outstanding/)**：傑出している、非常に優れている
+- **[outstanding](/outstanding)**：傑出している、非常に優れている
 
 prominentは「目立つ・有名」といった存在感や社会的地位を強調し、outstandingは「能力や成果が抜きん出ている」ことを強調します。
 
@@ -105,14 +109,14 @@ prominentは「目立つ・有名」といった存在感や社会的地位を�
 
 ## 🧩 あわせて覚えたい
 
-- [notable](/word/notable/)：注目に値する、顕著な
-- [distinguished](/word/distinguished/)：際立った、著名な
+- [notable](/notable)：注目に値する、顕著な
+- [distinguished](/distinguished)：際立った、著名な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant/)：重要な
-- [remarkable](/word/remarkable/)：注目すべき、驚くべき
+- [significant](/significant)：重要な
+- [remarkable](/remarkable)：注目すべき、驚くべき
 
-<!-- cvid: aid05_bid12 -->
+<!-- cvid: aid41_bid32 -->

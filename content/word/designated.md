@@ -81,15 +81,19 @@ TOEICでは「designated area（指定区域）」や「designated person（指�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+感覚が鋭いうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼アプリで楽しく学習／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid06_bid37" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid06_bid37" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「designated area（指定区域）」や「designated person（指�
 ## 🤔  assigned との違いは？
 
 - **designated**：公式に「指定された」「任命された」という意味で、フォーマルな場面で使われやすい。
-- **[assigned](/word/assigned/)**：割り当てられた、担当にされたという意味で、日常的な業務分担にも幅広く使う。
+- **[assigned](/assigned)**：割り当てられた、担当にされたという意味で、日常的な業務分担にも幅広く使う。
 
 「designated」は公式な指定や役職に強調があり、「assigned」は単に仕事や役割を割り当てるニュアンスです。
 
@@ -105,14 +109,14 @@ TOEICでは「designated area（指定区域）」や「designated person（指�
 
 ## 🧩 あわせて覚えたい
 
-- [appointed](/word/appointed/)：任命された
-- [specified](/word/specified/)：明記された、特定された
+- [appointed](/appointed)：任命された
+- [specified](/specified)：明記された、特定された
 
 ---
 
 ## 📖 できればこれも
 
-- [authorized](/word/authorized/)：公認の、権限を与えられた
-- [approved](/word/approved/)：承認された
+- [authorized](/authorized)：公認の、権限を与えられた
+- [approved](/approved)：承認された
 
-<!-- cvid: aid49_bid16 -->
+<!-- cvid: aid06_bid37 -->

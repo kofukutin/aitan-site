@@ -81,15 +81,19 @@ ITやビジネスの会話で「切り替え」や「変更」の意味で出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid37_bid20" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid20" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ ITやビジネスの会話で「切り替え」や「変更」の意味で出題
 ## 🤔  changing との違いは？
 
 - **switching**：特定のものから別のものへ「切り替える」ことに焦点がある
-- **[changing](/word/changing/)**：単に「変える」「変更する」全般を指す
+- **[changing](/changing)**：単に「変える」「変更する」全般を指す
 
 switchingは「AからBへ切り替える」など明確な対象間の移動を強調し、changingは内容や状態の変化全般に使われます。
 
@@ -105,14 +109,14 @@ switchingは「AからBへ切り替える」など明確な対象間の移動を
 
 ## 🧩 あわせて覚えたい
 
-- [transition](/word/transition/)：移行、変遷
-- [replacement](/word/replacement/)：交換、取り替え
+- [transition](/transition)：移行、変遷
+- [replacement](/replacement)：交換、取り替え
 
 ---
 
 ## 📖 できればこれも
 
-- [connection](/word/connection/)：接続、つながり
-- [network](/word/network/)：ネットワーク、通信網
+- [connection](/connection)：接続、つながり
+- [network](/network)：ネットワーク、通信網
 
-<!-- cvid: aid10_bid32 -->
+<!-- cvid: aid37_bid20 -->

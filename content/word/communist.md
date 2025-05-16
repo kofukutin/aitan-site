@@ -81,15 +81,19 @@ TOEICでは、歴史や社会、政治に関する長文や記事で登場する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid36_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid36_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、歴史や社会、政治に関する長文や記事で登場する
 ## 🤔  socialist との違いは？
 
 - **communist**：共産主義を支持し、財産や生産手段の完全な共有を目指す人。
-- **[socialist](/word/socialist/)**：社会主義を支持し、財産や生産手段の一部共有や平等を重視する人。
+- **[socialist](/socialist)**：社会主義を支持し、財産や生産手段の一部共有や平等を重視する人。
 
 communistはより徹底した共有や平等を目指す思想で、socialistはそれよりも幅広く柔軟な社会改革を指します。
 
@@ -105,14 +109,14 @@ communistはより徹底した共有や平等を目指す思想で、socialist�
 
 ## 🧩 あわせて覚えたい
 
-- [capitalist](/word/capitalist/)：資本主義者
-- [revolutionary](/word/revolutionary/)：革命家
+- [capitalist](/capitalist)：資本主義者
+- [revolutionary](/revolutionary)：革命家
 
 ---
 
 ## 📖 できればこれも
 
-- [democracy](/word/democracy/)：民主主義
-- [regime](/word/regime/)：政権
+- [democracy](/democracy)：民主主義
+- [regime](/regime)：政権
 
-<!-- cvid: aid49_bid33 -->
+<!-- cvid: aid36_bid08 -->

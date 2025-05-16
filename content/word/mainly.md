@@ -77,15 +77,19 @@ TOEICでは説明文やメール、案内文などで「主に～である」と
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+吸収しやすいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から始められる／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid41_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid41_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICでは説明文やメール、案内文などで「主に～である」と
 ## 🤔  mostly との違いは？
 
 - **mainly**：中心や主な部分を強調して「主に」「大部分は」という意味。
-- **[mostly](/word/mostly/)**：大部分・ほとんどを表し、数量や割合の多さを強調。
+- **[mostly](/mostly)**：大部分・ほとんどを表し、数量や割合の多さを強調。
 
 「mainly」は「中心となるもの」を、「mostly」は「全体のうち大部分」を強調する違いがあります。
 
@@ -101,14 +105,14 @@ TOEICでは説明文やメール、案内文などで「主に～である」と
 
 ## 🧩 あわせて覚えたい
 
-- [primarily](/word/primarily/)：主として、第一に
-- [partly](/word/partly/)：部分的に、一部は
+- [primarily](/primarily)：主として、第一に
+- [partly](/partly)：部分的に、一部は
 
 ---
 
 ## 📖 できればこれも
 
-- [especially](/word/especially/)：特に、とりわけ
-- [generally](/word/generally/)：一般的に、概して
+- [especially](/especially)：特に、とりわけ
+- [generally](/generally)：一般的に、概して
 
-<!-- cvid: aid00_bid10 -->
+<!-- cvid: aid41_bid39 -->

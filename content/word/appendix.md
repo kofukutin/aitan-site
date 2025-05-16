@@ -81,15 +81,19 @@ TOEICでは、報告書やマニュアルの補足資料として「appendix」�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼学び方で差がつく／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid32_bid15" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid15" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、報告書やマニュアルの補足資料として「appendix」�
 ## 🤔  supplement との違いは？
 
 - **appendix**：本や報告書の最後に付け加えられる「付録」「補足資料」や医学の「虫垂」を指す。
-- **[supplement](/word/supplement/)**：本体を補う追加資料や栄養補助食品など、広く「補足・補助」の意味。
+- **[supplement](/supplement)**：本体を補う追加資料や栄養補助食品など、広く「補足・補助」の意味。
 
 appendixは主に書類や本の「付録」として使われ、supplementは内容を補う追加資料や食品など幅広く使われます。
 
@@ -105,14 +109,14 @@ appendixは主に書類や本の「付録」として使われ、supplementは�
 
 ## 🧩 あわせて覚えたい
 
-- [attachment](/word/attachment/)：添付ファイル、付属物
-- [annex](/word/annex/)：別館、（文書の）別添
+- [attachment](/attachment)：添付ファイル、付属物
+- [annex](/annex)：別館、（文書の）別添
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary/)：要約
-- [index](/word/index/)：索引
+- [summary](/summary)：要約
+- [index](/index)：索引
 
-<!-- cvid: aid06_bid11 -->
+<!-- cvid: aid32_bid15 -->

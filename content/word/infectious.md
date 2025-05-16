@@ -81,15 +81,19 @@ TOEICでは主に医療や健康に関する長文、または社内通知など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼成果を出す学習習慣／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid26" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid26" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に医療や健康に関する長文、または社内通知など
 ## 🤔  contagious との違いは？
 
 - **infectious**：病原体による感染性や、感情などが広がる性質を表す。
-- **[contagious](/word/contagious/)**：主に「人から人へ直接うつる」性質を強調する。
+- **[contagious](/contagious)**：主に「人から人へ直接うつる」性質を強調する。
 
 infectiousは病気だけでなく感情や雰囲気にも使えますが、contagiousは特に「直接的な接触でうつる」場合に使われます。
 
@@ -105,14 +109,14 @@ infectiousは病気だけでなく感情や雰囲気にも使えますが、cont
 
 ## 🧩 あわせて覚えたい
 
-- [epidemic](/word/epidemic/)：流行、伝染病
-- [transmit](/word/transmit/)：伝える、伝染させる
+- [epidemic](/epidemic)：流行、伝染病
+- [transmit](/transmit)：伝える、伝染させる
 
 ---
 
 ## 📖 できればこれも
 
-- [immune](/word/immune/)：免疫のある
-- [virus](/word/virus/)：ウイルス
+- [immune](/immune)：免疫のある
+- [virus](/virus)：ウイルス
 
-<!-- cvid: aid46_bid36 -->
+<!-- cvid: aid19_bid26 -->

@@ -81,15 +81,19 @@ TOEICでは自動車や機械の販売に関するメールや案内文、契約
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続けやすい理由がある／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid47_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは自動車や機械の販売に関するメールや案内文、契約
 ## 🤔  agency との違いは？
 
 - **dealership**：特定ブランドやメーカーの商品を販売する公認の代理店・ディーラー
-- **[agency](/word/agency/)**：代理業務全般を行う会社や組織（広告代理店、人材紹介など幅広い）
+- **[agency](/agency)**：代理業務全般を行う会社や組織（広告代理店、人材紹介など幅広い）
 
 dealershipは主に「販売店」としての役割が強く、自動車など特定分野で使われますが、agencyは「代理業務」全般に使われ、分野が広いです。
 
@@ -105,14 +109,14 @@ dealershipは主に「販売店」としての役割が強く、自動車など�
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/word/distributor/)：卸売業者、流通業者
-- [retailer](/word/retailer/)：小売業者
+- [distributor](/distributor)：卸売業者、流通業者
+- [retailer](/retailer)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier/)：供給業者、納入業者
-- [branch](/word/branch/)：支店、支社
+- [supplier](/supplier)：供給業者、納入業者
+- [branch](/branch)：支店、支社
 
-<!-- cvid: aid23_bid49 -->
+<!-- cvid: aid47_bid41 -->

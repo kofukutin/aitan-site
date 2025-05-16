@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で「人ごみ」や「群衆」を表す語
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解の熱を保とう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid23_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で「人ごみ」や「群衆」を表す語
 ## 🤔  audience との違いは？
 
 - **crowd**：目的に関係なく集まった「人ごみ」「群衆」
-- **[audience](/word/audience/)**：コンサートや講演などを「観る・聴く」ために集まった「観客」「聴衆」
+- **[audience](/audience)**：コンサートや講演などを「観る・聴く」ために集まった「観客」「聴衆」
 
 crowdは単に人が集まっている状態、audienceは何かを鑑賞するために集まった人々を指します。
 
@@ -105,14 +109,14 @@ crowdは単に人が集まっている状態、audienceは何かを鑑賞する�
 
 ## 🧩 あわせて覚えたい
 
-- [group](/word/group/)：集団、グループ
-- [gathering](/word/gathering/)：集まり、会合
+- [group](/group)：集団、グループ
+- [gathering](/gathering)：集まり、会合
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line/)：列、行列
-- [queue](/word/queue/)：順番待ちの列
+- [line](/line)：列、行列
+- [queue](/queue)：順番待ちの列
 
-<!-- cvid: aid46_bid37 -->
+<!-- cvid: aid23_bid42 -->

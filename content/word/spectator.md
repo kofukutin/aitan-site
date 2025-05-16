@@ -81,15 +81,19 @@ TOEICではイベントやスポーツ、展示会などの説明文や案内文
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなたの学びを応援／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid34_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid34_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではイベントやスポーツ、展示会などの説明文や案内文
 ## 🤔  audience との違いは？
 
 - **spectator**：スポーツやショーなど「見る」イベントの観客
-- **[audience](/word/audience/)**：演劇やコンサートなど「聴く・見る」両方の観客
+- **[audience](/audience)**：演劇やコンサートなど「聴く・見る」両方の観客
 
 spectatorは主にスポーツやショーなど「見る」ことが中心の場面で使い、audienceは演劇や講演、コンサートなど「聴く」ことも含む観客全般に使います。
 
@@ -105,14 +109,14 @@ spectatorは主にスポーツやショーなど「見る」ことが中心の�
 
 ## 🧩 あわせて覚えたい
 
-- [viewer](/word/viewer/)：テレビや動画などの視聴者
-- [participant](/word/participant/)：参加者
+- [viewer](/viewer)：テレビや動画などの視聴者
+- [participant](/participant)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [attendee](/word/attendee/)：出席者、参加者
-- [observer](/word/observer/)：観察者、立会人
+- [attendee](/attendee)：出席者、参加者
+- [observer](/observer)：観察者、立会人
 
-<!-- cvid: aid12_bid37 -->
+<!-- cvid: aid34_bid44 -->

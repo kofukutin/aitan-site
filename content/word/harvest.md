@@ -82,15 +82,19 @@ TOEICでは農業や環境、ビジネスの文脈で「収穫する」「集め
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-続ける流れを作ろう👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid37_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは農業や環境、ビジネスの文脈で「収穫する」「集め
 ## 🤔  gather との違いは？
 
 - **harvest**：作物や成果などを「収穫する」「刈り取る」など、特に農業や比喩的な成果に使う
-- **[gather](/word/gather/)**：広く「集める」「寄せ集める」など、物や人など対象を問わず使う
+- **[gather](/gather)**：広く「集める」「寄せ集める」など、物や人など対象を問わず使う
 
 harvestは主に農作物や成果物の収穫に使い、gatherは人や情報など幅広い対象を集めるときに使います。
 
@@ -106,14 +110,14 @@ harvestは主に農作物や成果物の収穫に使い、gatherは人や情報�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/word/plant/)：植える、植物
-- [collect](/word/collect/)：集める
+- [plant](/plant)：植える、植物
+- [collect](/collect)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [grow](/word/grow/)：育てる、成長する
-- [produce](/word/produce/)：生産する、作り出す
+- [grow](/grow)：育てる、成長する
+- [produce](/produce)：生産する、作り出す
 
-<!-- cvid: aid26_bid04 -->
+<!-- cvid: aid37_bid10 -->

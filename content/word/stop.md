@@ -81,15 +81,19 @@ stopはTOEICの会話パートで「作業を止める」「中断する」な�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-吸収しやすいうちに👇️
+やる気の波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼やれば変わる英語力／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C6QR6" class="ad-link" data-cvid="aid37_bid28" data-difficulty="1" rel="nofollow">TOEICテスト対策</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C6QR6" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid37_bid28" data-difficulty="1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ stopはTOEICの会話パートで「作業を止める」「中断する」な�
 ## 🤔  quit との違いは？
 
 - **stop**：一時的・部分的に「止める」「やめる」ことが多い
-- **[quit](/word/quit/)**：完全に「やめる」「辞める」ニュアンスが強い
+- **[quit](/quit)**：完全に「やめる」「辞める」ニュアンスが強い
 
 stopは「一時的に止める」や「中断する」場合にも使えますが、quitは「完全にやめる」「辞職する」など、より決定的な意味で使われます。
 
@@ -105,14 +109,14 @@ stopは「一時的に止める」や「中断する」場合にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [continue](/word/continue/)：続ける
-- [pause](/word/pause/)：一時停止する
+- [continue](/continue)：続ける
+- [pause](/pause)：一時停止する
 
 ---
 
 ## 📖 できればこれも
 
-- [start](/word/start/)：始める
-- [finish](/word/finish/)：終える
+- [start](/start)：始める
+- [finish](/finish)：終える
 
-<!-- cvid: aid41_bid44 -->
+<!-- cvid: aid37_bid28 -->

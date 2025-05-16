@@ -81,15 +81,19 @@ TOEICでは、職場や社会問題に関する長文やEメールで「差別�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-思い出したら定着へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が楽しくなる工夫／<br>  
-（おすすめ情報予定）
+＼継続しやすい学習法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid21_bid09" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid09" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、職場や社会問題に関する長文やEメールで「差別�
 ## 🤔  distinction との違いは？
 
 - **discrimination**：差別、または物事を見分ける力を指すが、現代では主に「不公平な扱い（差別）」の意味で使われる。
-- **[distinction](/word/distinction/)**：区別、違い、優秀さなど、物事の違いを中立的・肯定的に表す。
+- **[distinction](/distinction)**：区別、違い、優秀さなど、物事の違いを中立的・肯定的に表す。
 
 discriminationは否定的な「差別」の意味が強く、distinctionは単なる「区別」や「違い」を表す点が異なります。
 
@@ -105,14 +109,14 @@ discriminationは否定的な「差別」の意味が強く、distinctionは単�
 
 ## 🧩 あわせて覚えたい
 
-- [prejudice](/word/prejudice/)：偏見
-- [equality](/word/equality/)：平等
+- [prejudice](/prejudice)：偏見
+- [equality](/equality)：平等
 
 ---
 
 ## 📖 できればこれも
 
-- [bias](/word/bias/)：偏り、偏見
-- [diversity](/word/diversity/)：多様性
+- [bias](/bias)：偏り、偏見
+- [diversity](/diversity)：多様性
 
-<!-- cvid: aid12_bid25 -->
+<!-- cvid: aid21_bid09 -->

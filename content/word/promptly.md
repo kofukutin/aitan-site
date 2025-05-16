@@ -77,15 +77,19 @@ TOEICではメールや通知文、指示文などで「promptly」が「すぐ�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-自信の芽を育てよう👇️
+学び癖をつけよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼あなた専用の学びを発見／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid28_bid22" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid28_bid22" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではメールや通知文、指示文などで「promptly」が「すぐ�
 ## 🤔  immediately との違いは？
 
 - **promptly**：主に「時間通りに」「遅れずに」「迅速に」というフォーマルなニュアンスで使われる。
-- **[immediately](/word/immediately/)**：何かが起こった「直後に」「即座に」という意味で、より瞬間的なニュアンスが強い。
+- **[immediately](/immediately)**：何かが起こった「直後に」「即座に」という意味で、より瞬間的なニュアンスが強い。
 
 「promptly」は「遅れずにきちんと」という印象があり、ビジネスや公式な場面でよく使われます。一方「immediately」は「今すぐ」「瞬時に」という意味合いが強く、より緊急性を感じさせます。
 
@@ -101,14 +105,14 @@ TOEICではメールや通知文、指示文などで「promptly」が「すぐ�
 
 ## 🧩 あわせて覚えたい
 
-- [quickly](/word/quickly/)：速く、素早く
-- [punctually](/word/punctually/)：時間通りに、きっちりと
+- [quickly](/quickly)：速く、素早く
+- [punctually](/punctually)：時間通りに、きっちりと
 
 ---
 
 ## 📖 できればこれも
 
-- [shortly](/word/shortly/)：まもなく、すぐに
-- [rapidly](/word/rapidly/)：急速に、素早く
+- [shortly](/shortly)：まもなく、すぐに
+- [rapidly](/rapidly)：急速に、素早く
 
-<!-- cvid: aid16_bid44 -->
+<!-- cvid: aid28_bid22 -->

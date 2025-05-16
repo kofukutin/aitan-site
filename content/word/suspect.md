@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「疑う」「～と思う」という意味で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次もスッと解こう👇️
+好調のうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼やれば変わる英語力／<br>  
-（おすすめ情報予定）
+＼飽きずに続けるコツ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid30_bid27" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid30_bid27" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「疑う」「～と思う」という意味で
 ## 🤔  doubt との違いは？
 
 - **suspect**：何かが本当・事実かもしれないと「疑う・思う」
-- **[doubt](/word/doubt/)**：何かが本当ではないと「疑う・信じない」
+- **[doubt](/doubt)**：何かが本当ではないと「疑う・信じない」
 
 suspectは「～かもしれない」と推測するニュアンス、doubtは「信じられない・違うと思う」否定的なニュアンスが強いです。
 
@@ -105,14 +109,14 @@ suspectは「～かもしれない」と推測するニュアンス、doubtは�
 
 ## 🧩 あわせて覚えたい
 
-- [accuse](/word/accuse/)：非難する、告発する
-- [assume](/word/assume/)：仮定する、思い込む
+- [accuse](/accuse)：非難する、告発する
+- [assume](/assume)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [detect](/word/detect/)：見つける、発見する
-- [identify](/word/identify/)：特定する、識別する
+- [detect](/detect)：見つける、発見する
+- [identify](/identify)：特定する、識別する
 
-<!-- cvid: aid27_bid28 -->
+<!-- cvid: aid30_bid27 -->

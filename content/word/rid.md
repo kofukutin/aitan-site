@@ -81,15 +81,19 @@ TOEICでは「get rid of」の形で頻出し、不要なものを除去する�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+できたら応用も試そう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid44_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは「get rid of」の形で頻出し、不要なものを除去する�
 ## 🤔  remove との違いは？
 
 - **rid**：不要なものを「すっきり取り除く」「解放する」ニュアンスが強い
-- **[remove](/word/remove/)**：物理的・抽象的に「取り除く」一般的な表現
+- **[remove](/remove)**：物理的・抽象的に「取り除く」一般的な表現
 
 「rid」は「get rid of」の形で使われ、邪魔なものや不要なものを完全に排除するイメージです。「remove」は単に取り除く動作を指します。
 
@@ -105,14 +109,14 @@ TOEICでは「get rid of」の形で頻出し、不要なものを除去する�
 
 ## 🧩 あわせて覚えたい
 
-- [eliminate](/word/eliminate/)：（完全に）除去する、排除する
-- [discard](/word/discard/)：不要なものを捨てる
+- [eliminate](/eliminate)：（完全に）除去する、排除する
+- [discard](/discard)：不要なものを捨てる
 
 ---
 
 ## 📖 できればこれも
 
-- [dispose](/word/dispose/)：処分する、廃棄する
-- [replace](/word/replace/)：取り替える、交換する
+- [dispose](/dispose)：処分する、廃棄する
+- [replace](/replace)：取り替える、交換する
 
-<!-- cvid: aid34_bid05 -->
+<!-- cvid: aid44_bid33 -->

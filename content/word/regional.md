@@ -81,15 +81,19 @@ TOEICでは、ビジネス文書や案内文で「regional office（地域事務
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid14_bid30" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid30" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、ビジネス文書や案内文で「regional office（地域事務
 ## 🤔  local との違いは？
 
 - **regional**：特定の広めの地域や地方全体に関する
-- **[local](/word/local/)**：ごく狭い範囲や地元に関する
+- **[local](/local)**：ごく狭い範囲や地元に関する
 
 **regional**は「関東地方」「関西地方」など広めの地域を指すのに対し、**local**は「この町」「この近所」などより狭い範囲や地元を指します。
 
@@ -105,14 +109,14 @@ TOEICでは、ビジネス文書や案内文で「regional office（地域事務
 
 ## 🧩 あわせて覚えたい
 
-- [national](/word/national/)：国の、全国的な
-- [international](/word/international/)：国際的な
+- [national](/national)：国の、全国的な
+- [international](/international)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [domestic](/word/domestic/)：国内の
-- [area](/word/area/)：地域、区域
+- [domestic](/domestic)：国内の
+- [area](/area)：地域、区域
 
-<!-- cvid: aid03_bid21 -->
+<!-- cvid: aid14_bid30 -->

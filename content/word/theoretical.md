@@ -81,15 +81,19 @@ TOEICでは、科学やビジネスの説明文、研究報告などで「理論
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼信頼される学びの形／<br>  
-（おすすめ情報予定）
+＼一歩踏み出すならここ／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid23_bid20" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid23_bid20" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、科学やビジネスの説明文、研究報告などで「理論
 ## 🤔  practical との違いは？
 
 - **theoretical**：理論や仮説に基づき、実際の応用や現実とは限らない
-- **[practical](/word/practical/)**：実際の応用や現場で役立つことに重点を置く
+- **[practical](/practical)**：実際の応用や現場で役立つことに重点を置く
 
 theoreticalは「頭の中で考える」イメージ、practicalは「実際に使える・役立つ」イメージです。
 
@@ -105,14 +109,14 @@ theoreticalは「頭の中で考える」イメージ、practicalは「実際に
 
 ## 🧩 あわせて覚えたい
 
-- [hypothetical](/word/hypothetical/)：仮定の、仮説の
-- [academic](/word/academic/)：学問的な、学術の
+- [hypothetical](/hypothetical)：仮定の、仮説の
+- [academic](/academic)：学問的な、学術の
 
 ---
 
 ## 📖 できればこれも
 
-- [scientific](/word/scientific/)：科学的な
-- [conceptual](/word/conceptual/)：概念的な
+- [scientific](/scientific)：科学的な
+- [conceptual](/conceptual)：概念的な
 
-<!-- cvid: aid20_bid44 -->
+<!-- cvid: aid23_bid20 -->

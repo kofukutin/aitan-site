@@ -81,15 +81,19 @@ TOEICでは会話や応答文でよく登場し、相手の調子を尋ねたり
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼毎日ちょっとずつ進もう／<br>  
-（おすすめ情報予定）
+＼英語が楽しくなる工夫／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid25" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid25" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や応答文でよく登場し、相手の調子を尋ねたり
 ## 🤔  good との違いは？
 
 - **well**：動作や状態が「上手に」「よく」行われていることを表す副詞。
-- **[good](/word/good/)**：人や物の性質・品質が「良い」ことを表す形容詞。
+- **[good](/good)**：人や物の性質・品質が「良い」ことを表す形容詞。
 
 wellは「どのように」行うか（副詞）、goodは「どんなものか」（形容詞）を表します。
 
@@ -105,14 +109,14 @@ wellは「どのように」行うか（副詞）、goodは「どんなものか
 
 ## 🧩 あわせて覚えたい
 
-- [bad](/word/bad/)：悪い
-- [properly](/word/properly/)：きちんと、適切に
+- [bad](/bad)：悪い
+- [properly](/properly)：きちんと、適切に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly/)：速く
-- [often](/word/often/)：しばしば
+- [quickly](/quickly)：速く
+- [often](/often)：しばしば
 
-<!-- cvid: aid09_bid11 -->
+<!-- cvid: aid25_bid25 -->

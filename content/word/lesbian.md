@@ -81,15 +81,19 @@ TOEICではダイバーシティや職場の多様性に関する長文で見か
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+もうひと踏ん張りしよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid04_bid11" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid04_bid11" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではダイバーシティや職場の多様性に関する長文で見か
 ## 🤔  gay との違いは？
 
 - **lesbian**：女性の同性愛者を指す言葉
-- **[gay](/word/gay/)**：主に男性の同性愛者を指すが、広く同性愛者全体を指す場合もある
+- **[gay](/gay)**：主に男性の同性愛者を指すが、広く同性愛者全体を指す場合もある
 
 lesbianは女性限定、gayは男性や全体を指す場合があり、使い分けが必要です。
 
@@ -105,14 +109,14 @@ lesbianは女性限定、gayは男性や全体を指す場合があり、使い�
 
 ## 🧩 あわせて覚えたい
 
-- [bisexual](/word/bisexual/)：両性愛者
-- [heterosexual](/word/heterosexual/)：異性愛者
+- [bisexual](/bisexual)：両性愛者
+- [heterosexual](/heterosexual)：異性愛者
 
 ---
 
 ## 📖 できればこれも
 
-- [transgender](/word/transgender/)：トランスジェンダー（性自認が出生時の性別と異なる人）
-- [queer](/word/queer/)：性的マイノリティ全般を指す言葉
+- [transgender](/transgender)：トランスジェンダー（性自認が出生時の性別と異なる人）
+- [queer](/queer)：性的マイノリティ全般を指す言葉
 
-<!-- cvid: aid02_bid36 -->
+<!-- cvid: aid04_bid11 -->

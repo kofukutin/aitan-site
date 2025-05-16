@@ -81,15 +81,19 @@ Our company just landed a mega deal with a global client.
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-好調のうちに進もう👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼忙しくても学べる方法／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid30" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid30" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ Our company just landed a mega deal with a global client.
 ## 🤔  massive との違いは？
 
 - **mega**：カジュアルで「超～」「とても大きい」という強調表現。主に会話や広告、IT分野で使われる。
-- **[massive](/word/massive/)**：物理的・数量的に「巨大な」「大規模な」という意味で、ややフォーマル。
+- **[massive](/massive)**：物理的・数量的に「巨大な」「大規模な」という意味で、ややフォーマル。
 
 「mega」は感情やインパクトを強調したいときに使い、「massive」は客観的に大きさや規模を表現したいときに使います。
 
@@ -105,14 +109,14 @@ Our company just landed a mega deal with a global client.
 
 ## 🧩 あわせて覚えたい
 
-- [huge](/word/huge/)：とても大きい
-- [gigantic](/word/gigantic/)：巨大な
+- [huge](/huge)：とても大きい
+- [gigantic](/gigantic)：巨大な
 
 ---
 
 ## 📖 できればこれも
 
-- [micro](/word/micro/)：とても小さい、微小な
-- [mini](/word/mini/)：小型の、ミニサイズの
+- [micro](/micro)：とても小さい、微小な
+- [mini](/mini)：小型の、ミニサイズの
 
-<!-- cvid: aid30_bid22 -->
+<!-- cvid: aid47_bid30 -->

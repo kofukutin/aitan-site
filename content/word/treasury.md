@@ -81,15 +81,19 @@ TOEICでは主にビジネスや金融関連の長文で登場し、会社や政
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼次のステージへ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid47_bid07" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid07" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にビジネスや金融関連の長文で登場し、会社や政
 ## 🤔  finance との違いは？
 
 - **treasury**：国や組織の資金管理部門や国庫そのものを指す
-- **[finance](/word/finance/)**：資金、財政、金融全般を指す
+- **[finance](/finance)**：資金、財政、金融全般を指す
 
 treasuryは「管理部門」や「国庫」といった具体的な組織や場所を指すことが多く、financeは「お金の流れ」や「金融活動」全般を表します。
 
@@ -105,14 +109,14 @@ treasuryは「管理部門」や「国庫」といった具体的な組織や場
 
 ## 🧩 あわせて覚えたい
 
-- [budget](/word/budget/)：予算
-- [fund](/word/fund/)：資金
+- [budget](/budget)：予算
+- [fund](/fund)：資金
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset/)：資産
-- [revenue](/word/revenue/)：収益
+- [asset](/asset)：資産
+- [revenue](/revenue)：収益
 
-<!-- cvid: aid09_bid00 -->
+<!-- cvid: aid47_bid07 -->

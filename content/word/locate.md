@@ -81,15 +81,19 @@ TOEICでは、地図や施設案内、オフィスの場所などを説明する
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚があるうちに👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日の理解を次へ／<br>  
-（おすすめ情報予定）
+＼集中しやすい学び設計／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid08_bid38" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid38" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、地図や施設案内、オフィスの場所などを説明する
 ## 🤔  find との違いは？
 
 - **locate**：場所や位置を特定する、または設置する（フォーマル・ビジネス向き）
-- **[find](/word/find/)**：見つける、発見する（一般的・幅広い場面で使用）
+- **[find](/find)**：見つける、発見する（一般的・幅広い場面で使用）
 
 locateは「正確な場所を突き止める」や「設置する」ニュアンスが強く、findは「見つける」という広い意味で使われます。
 
@@ -105,14 +109,14 @@ locateは「正確な場所を突き止める」や「設置する」ニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify/)：特定する、識別する
-- [position](/word/position/)：位置、立場
+- [identify](/identify)：特定する、識別する
+- [position](/position)：位置、立場
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install/)：設置する、取り付ける
-- [search](/word/search/)：探す、検索する
+- [install](/install)：設置する、取り付ける
+- [search](/search)：探す、検索する
 
-<!-- cvid: aid25_bid45 -->
+<!-- cvid: aid08_bid38 -->

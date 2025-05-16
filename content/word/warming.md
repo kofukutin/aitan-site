@@ -81,15 +81,19 @@ TOEICでは環境問題や科学技術に関する長文で「warming」が登�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できたら応用も試そう👇️
+脳が動いているうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼飽きずに続けるコツ／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid42_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid42_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは環境問題や科学技術に関する長文で「warming」が登�
 ## 🤔  heating との違いは？
 
 - **warming**：一般的に温度が上がることや、地球温暖化など広い意味で使う
-- **[heating](/word/heating/)**：主に部屋や建物を暖房すること、暖房設備を指す
+- **[heating](/heating)**：主に部屋や建物を暖房すること、暖房設備を指す
 
 warmingは自然現象や全体的な温度上昇に使い、heatingは人工的な暖房や設備に使われます。
 
@@ -105,14 +109,14 @@ warmingは自然現象や全体的な温度上昇に使い、heatingは人工的
 
 ## 🧩 あわせて覚えたい
 
-- [cooling](/word/cooling/)：冷却、冷やすこと
-- [temperature](/word/temperature/)：温度
+- [cooling](/cooling)：冷却、冷やすこと
+- [temperature](/temperature)：温度
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/word/climate/)：気候
-- [pollution](/word/pollution/)：汚染
+- [climate](/climate)：気候
+- [pollution](/pollution)：汚染
 
-<!-- cvid: aid44_bid27 -->
+<!-- cvid: aid42_bid44 -->

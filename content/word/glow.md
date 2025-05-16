@@ -82,7 +82,7 @@ TOEICでは主にPart 1の写真描写で、光や表情の描写として出題
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-復習で自信を固めよう👇️
+思考が整ったときが勝負👇️
 
 ---
 
@@ -90,7 +90,11 @@ TOEICでは主にPart 1の写真描写で、光や表情の描写として出題
 
 <div class="info-center">
 ＼覚えやすい工夫満載／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid33_bid29" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid29" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは主にPart 1の写真描写で、光や表情の描写として出題
 ## 🤔  shine との違いは？
 
 - **glow**：やわらかく内側から輝く、温かみのある光
-- **[shine](/word/shine/)**：強くはっきりと光る、外側に向かって輝く
+- **[shine](/shine)**：強くはっきりと光る、外側に向かって輝く
 
 glowは控えめで温かい光や感情の輝きに使い、shineは太陽やライトのような強い光に使います。
 
@@ -106,14 +110,14 @@ glowは控えめで温かい光や感情の輝きに使い、shineは太陽や�
 
 ## 🧩 あわせて覚えたい
 
-- [radiate](/word/radiate/)：放射する、発する
-- [fade](/word/fade/)：（光や色が）薄れる、消える
+- [radiate](/radiate)：放射する、発する
+- [fade](/fade)：（光や色が）薄れる、消える
 
 ---
 
 ## 📖 できればこれも
 
-- [sparkle](/word/sparkle/)：きらきら輝く
-- [twinkle](/word/twinkle/)：またたく、きらめく
+- [sparkle](/sparkle)：きらきら輝く
+- [twinkle](/twinkle)：またたく、きらめく
 
-<!-- cvid: aid11_bid29 -->
+<!-- cvid: aid33_bid29 -->

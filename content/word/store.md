@@ -82,15 +82,19 @@ TOEICでは「店」や「保管する」という意味で会話や説明文に
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた感覚を大切に👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
-（おすすめ情報予定）
+＼結果につながる近道／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid45_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは「店」や「保管する」という意味で会話や説明文に
 ## 🤔  shop との違いは？
 
 - **store**：アメリカ英語で「店」全般や「保管する」意味も持つ
-- **[shop](/word/shop/)**：イギリス英語で「店」、特に小規模な店舗や専門店
+- **[shop](/shop)**：イギリス英語で「店」、特に小規模な店舗や専門店
 
 「store」はアメリカ英語で広く使われ、「shop」はイギリス英語でよく使われます。また、「store」は動詞で「保管する」という意味もありますが、「shop」にはありません。
 
@@ -106,14 +110,14 @@ TOEICでは「店」や「保管する」という意味で会話や説明文に
 
 ## 🧩 あわせて覚えたい
 
-- [warehouse](/word/warehouse/)：倉庫
-- [inventory](/word/inventory/)：在庫
+- [warehouse](/warehouse)：倉庫
+- [inventory](/inventory)：在庫
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market/)：市場、マーケット
-- [stock](/word/stock/)：在庫、株
+- [market](/market)：市場、マーケット
+- [stock](/stock)：在庫、株
 
-<!-- cvid: aid13_bid33 -->
+<!-- cvid: aid45_bid32 -->

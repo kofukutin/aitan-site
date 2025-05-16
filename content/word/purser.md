@@ -80,15 +80,19 @@ TOEICでは空港や船舶、旅行関連の長文や案内文で見かけるこ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼今日から取り入れよう／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid22_bid41" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid22_bid41" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは空港や船舶、旅行関連の長文や案内文で見かけるこ
 ## 🤔  steward との違いは？
 
 - **purser**：乗客サービスや会計・事務を統括する責任者
-- **[steward](/word/steward/)**：乗客へのサービスを行う一般的な乗務員
+- **[steward](/steward)**：乗客へのサービスを行う一般的な乗務員
 
 purserは管理職的な立場で、stewardは主にサービス提供を担当します。
 
@@ -104,14 +108,14 @@ purserは管理職的な立場で、stewardは主にサービス提供を担当�
 
 ## 🧩 あわせて覚えたい
 
-- [attendant](/word/attendant/)：乗務員、案内係
-- [captain](/word/captain/)：機長、船長
+- [attendant](/attendant)：乗務員、案内係
+- [captain](/captain)：機長、船長
 
 ---
 
 ## 📖 できればこれも
 
-- [crew](/word/crew/)：乗組員
-- [passenger](/word/passenger/)：乗客
+- [crew](/crew)：乗組員
+- [passenger](/passenger)：乗客
 
-<!-- cvid: aid37_bid21 -->
+<!-- cvid: aid22_bid41 -->

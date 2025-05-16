@@ -81,15 +81,19 @@ TOEICでは会議やビジネスの会話文で「意見を述べる」「コメ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+いい感覚をつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語に触れる毎日へ／<br>  
-（おすすめ情報予定）
+＼今日から始められる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid21_bid10" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid21_bid10" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会議やビジネスの会話文で「意見を述べる」「コメ
 ## 🤔  remarked との違いは？
 
 - **commented**：意見や感想を述べる、コメントする（中立的・説明的）
-- **[remarked](/word/remarked/)**：気づいたことや印象を述べる（ややフォーマル・観察的）
+- **[remarked](/remarked)**：気づいたことや印象を述べる（ややフォーマル・観察的）
 
 commentedは一般的な意見や説明に使い、remarkedは何かに気づいたときや印象を述べるときに使われます。
 
@@ -105,14 +109,14 @@ commentedは一般的な意見や説明に使い、remarkedは何かに気づい
 
 ## 🧩 あわせて覚えたい
 
-- [state](/word/state/)：述べる、明言する
-- [mention](/word/mention/)：言及する
+- [state](/state)：述べる、明言する
+- [mention](/mention)：言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss/)：議論する
-- [suggest](/word/suggest/)：提案する
+- [discuss](/discuss)：議論する
+- [suggest](/suggest)：提案する
 
-<!-- cvid: aid40_bid34 -->
+<!-- cvid: aid21_bid10 -->

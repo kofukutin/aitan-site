@@ -81,15 +81,19 @@ TOEICでは旅行や海外出張、トラブル対応の文脈で案内文やE�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
-（おすすめ情報予定）
+＼英語習慣を始めよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid13" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid13" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは旅行や海外出張、トラブル対応の文脈で案内文やE�
 ## 🤔  consulate との違いは？
 
 - **embassy**：大使が駐在し、国を代表する外交機関全体やその建物。
-- **[consulate](/word/consulate/)**：領事が駐在し、主にビザ発給や自国民の保護など実務的な業務を行う機関。
+- **[consulate](/consulate)**：領事が駐在し、主にビザ発給や自国民の保護など実務的な業務を行う機関。
 
 embassyは国の代表機関で、consulateは実務的なサポートや手続きが中心です。
 
@@ -105,14 +109,14 @@ embassyは国の代表機関で、consulateは実務的なサポートや手続�
 
 ## 🧩 あわせて覚えたい
 
-- [ambassador](/word/ambassador/)：大使
-- [mission](/word/mission/)：使節団、任務
+- [ambassador](/ambassador)：大使
+- [mission](/mission)：使節団、任務
 
 ---
 
 ## 📖 できればこれも
 
-- [visa](/word/visa/)：査証、ビザ
-- [passport](/word/passport/)：旅券、パスポート
+- [visa](/visa)：査証、ビザ
+- [passport](/passport)：旅券、パスポート
 
-<!-- cvid: aid37_bid06 -->
+<!-- cvid: aid02_bid13 -->

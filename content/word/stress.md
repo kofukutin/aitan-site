@@ -82,15 +82,19 @@ TOEICでは、職場や日常生活の健康、働き方に関する長文やメ
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-成長を止めないで👇️
+感覚があるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼続くから力になる／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid25_bid33" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid25_bid33" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、職場や日常生活の健康、働き方に関する長文やメ
 ## 🤔  pressure との違いは？
 
 - **stress**：精神的・感情的な負担や緊張を表す。
-- **[pressure](/word/pressure/)**：物理的な圧力や、外部からの強い要求・プレッシャーを表す。
+- **[pressure](/pressure)**：物理的な圧力や、外部からの強い要求・プレッシャーを表す。
 
 stressは主に心や体の内面的な負担、pressureは外部から加わる圧力や期待を指すことが多いです。
 
@@ -106,14 +110,14 @@ stressは主に心や体の内面的な負担、pressureは外部から加わる
 
 ## 🧩 あわせて覚えたい
 
-- [strain](/word/strain/)：（精神的・肉体的な）負担、緊張
-- [relaxation](/word/relaxation/)：リラックス、くつろぎ
+- [strain](/strain)：（精神的・肉体的な）負担、緊張
+- [relaxation](/relaxation)：リラックス、くつろぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [tension](/word/tension/)：緊張、張り詰めた状態
-- [focus](/word/focus/)：集中、焦点
+- [tension](/tension)：緊張、張り詰めた状態
+- [focus](/focus)：集中、焦点
 
-<!-- cvid: aid22_bid04 -->
+<!-- cvid: aid25_bid33 -->

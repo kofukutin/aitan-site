@@ -81,15 +81,19 @@ TOEICでは、規則やルールに関する文脈で「prohibit」がよく出�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-もうひと踏ん張りしよう👇️
+この勢いで覚えよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼まずはやってみよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid02_bid08" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid02_bid08" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、規則やルールに関する文脈で「prohibit」がよく出�
 ## 🤔  ban との違いは？
 
 - **prohibit**：法律や規則などで公式に「禁止する」ことを表すフォーマルな語。
-- **[ban](/word/ban/)**：より広く「禁止する」「締め出す」ことを指し、日常的にも使われる。
+- **[ban](/ban)**：より広く「禁止する」「締め出す」ことを指し、日常的にも使われる。
 
 「prohibit」は特に法的・公式な禁止に使われ、「ban」は日常的な禁止や制限にも幅広く使われます。
 
@@ -105,14 +109,14 @@ TOEICでは、規則やルールに関する文脈で「prohibit」がよく出�
 
 ## 🧩 あわせて覚えたい
 
-- [permit](/word/permit/)：許可する
-- [forbid](/word/forbid/)：（強い口調で）禁止する
+- [permit](/permit)：許可する
+- [forbid](/forbid)：（強い口調で）禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [restrict](/word/restrict/)：制限する
-- [regulate](/word/regulate/)：規制する
+- [restrict](/restrict)：制限する
+- [regulate](/regulate)：規制する
 
-<!-- cvid: aid04_bid05 -->
+<!-- cvid: aid02_bid08 -->

@@ -81,15 +81,19 @@ TOEICでは主にPart 1の写真描写問題で、鏡や反射を説明する際
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-スキマ時間を使おう👇️
+頭が冴えてるうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼無料で試せる学習法／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid08_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid08_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 1の写真描写問題で、鏡や反射を説明する際
 ## 🤔  reflect との違いは？
 
 - **mirror**：物理的な「鏡」や、何かをそのまま映すもの
-- **[reflect](/word/reflect/)**：光や像を「反射する」動作や現象
+- **[reflect](/reflect)**：光や像を「反射する」動作や現象
 
 mirrorは「物」としての鏡や、比喩的にそっくり映すものを指し、reflectは「反射する」という動作や現象を表します。
 
@@ -105,14 +109,14 @@ mirrorは「物」としての鏡や、比喩的にそっくり映すものを�
 
 ## 🧩 あわせて覚えたい
 
-- [glass](/word/glass/)：ガラス
-- [image](/word/image/)：像、イメージ
+- [glass](/glass)：ガラス
+- [image](/image)：像、イメージ
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window/)：窓
-- [surface](/word/surface/)：表面
+- [window](/window)：窓
+- [surface](/surface)：表面
 
-<!-- cvid: aid17_bid02 -->
+<!-- cvid: aid08_bid17 -->

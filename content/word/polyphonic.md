@@ -1,5 +1,5 @@
 ---
-robots: index
+robots: noindex
 title: "【polyphonic】の意味・使い方・例文 ― monophonicとの違い【TOEIC英単語】"
 description: "polyphonicの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmonophonicとの違いもわかりやすく学べます。"
 word: "polyphonic"
@@ -81,15 +81,19 @@ TOEICでは、音楽やテクノロジーに関する説明文や製品紹介で
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-この勢いで覚えよう👇️
+知識を定着させよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼スマホで完結する英語学習／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid10_bid47" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid10_bid47" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、音楽やテクノロジーに関する説明文や製品紹介で
 ## 🤔  monophonic との違いは？
 
 - **polyphonic**：複数の独立した音や旋律が同時に鳴る
-- **[monophonic](/word/monophonic/)**：単一の旋律や音のみが鳴る
+- **[monophonic](/monophonic)**：単一の旋律や音のみが鳴る
 
 polyphonicは「多声」、monophonicは「単声」を意味し、音楽や電子楽器の機能説明で対比されます。
 
@@ -105,15 +109,15 @@ polyphonicは「多声」、monophonicは「単声」を意味し、音楽や電
 
 ## 🧩 あわせて覚えたい
 
-- [harmonic](/word/harmonic/)：和声の、調和した
-- [melodic](/word/melodic/)：旋律の、美しい旋律の
+- [harmonic](/harmonic)：和声の、調和した
+- [melodic](/melodic)：旋律の、美しい旋律の
 
 ---
 
 ## 📖 できればこれも
 
-- [acoustic](/word/acoustic/)：音響の、アコースティックの
-- [symphonic](/word/symphonic/)：交響曲の、壮大な
+- [acoustic](/acoustic)：音響の、アコースティックの
+- [symphonic](/symphonic)：交響曲の、壮大な
 
 ---
-<!-- cvid: aid02_bid48 -->
+<!-- cvid: aid10_bid47 -->

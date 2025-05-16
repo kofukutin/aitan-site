@@ -81,15 +81,19 @@ TOEICでは規則や手続き、社内ルールの説明文で頻出します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら即実践👇️
+記憶が新しいうちに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼挫折しない仕組みがある／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid45_bid35" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid45_bid35" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは規則や手続き、社内ルールの説明文で頻出します。
 ## 🤔  compulsory との違いは？
 
 - **mandatory**：法律や規則などによって義務付けられている（フォーマルでビジネス向き）
-- **[compulsory](/word/compulsory/)**：主に学校や制度などで「強制的な」「必修の」
+- **[compulsory](/compulsory)**：主に学校や制度などで「強制的な」「必修の」
 
 「mandatory」は公式なルールや命令による義務、「compulsory」は教育や制度での強制を表すことが多いです。
 
@@ -105,14 +109,14 @@ TOEICでは規則や手続き、社内ルールの説明文で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional/)：任意の、選択できる
-- [obligatory](/word/obligatory/)：義務的な、必須の
+- [optional](/optional)：任意の、選択できる
+- [obligatory](/obligatory)：義務的な、必須の
 
 ---
 
 ## 📖 できればこれも
 
-- [prohibited](/word/prohibited/)：禁止された
-- [require](/word/require/)：要求する、必要とする
+- [prohibited](/prohibited)：禁止された
+- [require](/require)：要求する、必要とする
 
-<!-- cvid: aid23_bid18 -->
+<!-- cvid: aid45_bid35 -->

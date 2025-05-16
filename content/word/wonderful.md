@@ -81,15 +81,19 @@ TOEICでは会話や説明文で「素晴らしい」「良い」という意味
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の一歩を踏み出そう👇️
+理解の熱を保とう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼語彙力アップの近道／<br>  
-（おすすめ情報予定）
+＼迷ったらまず体験／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid46_bid39" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid46_bid39" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは会話や説明文で「素晴らしい」「良い」という意味
 ## 🤔  amazing との違いは？
 
 - **wonderful**：驚くほど素晴らしい、心から良いと感じる
-- **[amazing](/word/amazing/)**：驚きを伴うほどすごい、信じられないほど印象的
+- **[amazing](/amazing)**：驚きを伴うほどすごい、信じられないほど印象的
 
 「wonderful」は温かみや感動を表すことが多く、「amazing」は驚きや意外性を強調します。
 
@@ -105,14 +109,14 @@ TOEICでは会話や説明文で「素晴らしい」「良い」という意味
 
 ## 🧩 あわせて覚えたい
 
-- [fantastic](/word/fantastic/)：とても素晴らしい、最高の
-- [terrible](/word/terrible/)：ひどい、恐ろしい（対義語）
+- [fantastic](/fantastic)：とても素晴らしい、最高の
+- [terrible](/terrible)：ひどい、恐ろしい（対義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [excellent](/word/excellent/)：優れた、非常に良い
-- [pleasant](/word/pleasant/)：快い、心地よい
+- [excellent](/excellent)：優れた、非常に良い
+- [pleasant](/pleasant)：快い、心地よい
 
-<!-- cvid: aid20_bid48 -->
+<!-- cvid: aid46_bid39 -->

@@ -80,15 +80,19 @@ TOEICでは主に金融やビジネス関連の長文、特にローンや企業
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼自信につながる学び／<br>  
-（おすすめ情報予定）
+＼行動が未来を変える／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid29_bid14" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid14" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは主に金融やビジネス関連の長文、特にローンや企業
 ## 🤔  restructure との違いは？
 
 - **refinance**：主にローンや借金を新しい条件で組み直すこと
-- **[restructure](/word/restructure/)**：組織や財務全体の構造を再編成すること
+- **[restructure](/restructure)**：組織や財務全体の構造を再編成すること
 
 refinanceは「借金やローン」に特化した再調達を指し、restructureは会社全体や事業の構造改革など幅広い再編に使います。
 
@@ -104,14 +108,14 @@ refinanceは「借金やローン」に特化した再調達を指し、restruct
 
 ## 🧩 あわせて覚えたい
 
-- [consolidate](/word/consolidate/)：（借金などを）一本化する
-- [borrow](/word/borrow/)：借りる
+- [consolidate](/consolidate)：（借金などを）一本化する
+- [borrow](/borrow)：借りる
 
 ---
 
 ## 📖 できればこれも
 
-- [mortgage](/word/mortgage/)：住宅ローン
-- [invest](/word/invest/)：投資する
+- [mortgage](/mortgage)：住宅ローン
+- [invest](/invest)：投資する
 
-<!-- cvid: aid48_bid18 -->
+<!-- cvid: aid29_bid14 -->

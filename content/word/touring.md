@@ -81,15 +81,19 @@ TOEICでは観光や出張、視察などの文脈で出題されることが多
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-知識を定着させよう👇️
+学びの波に乗ろう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼最短で力を伸ばす／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid01_bid01" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid01_bid01" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは観光や出張、視察などの文脈で出題されることが多
 ## 🤔  traveling との違いは？
 
 - **touring**：複数の場所を巡って観光することに重点がある
-- **[traveling](/word/traveling/)**：移動や旅行全般を指し、観光以外の目的も含む
+- **[traveling](/traveling)**：移動や旅行全般を指し、観光以外の目的も含む
 
 touringは「観光地を順番に回る」イメージ、travelingは「移動や旅そのもの」を広く指します。
 
@@ -105,14 +109,14 @@ touringは「観光地を順番に回る」イメージ、travelingは「移動�
 
 ## 🧩 あわせて覚えたい
 
-- [sightseeing](/word/sightseeing/)：観光、見物
-- [excursion](/word/excursion/)：小旅行、遠足
+- [sightseeing](/sightseeing)：観光、見物
+- [excursion](/excursion)：小旅行、遠足
 
 ---
 
 ## 📖 できればこれも
 
-- [visit](/word/visit/)：訪れる
-- [explore](/word/explore/)：探検する、調査する
+- [visit](/visit)：訪れる
+- [explore](/explore)：探検する、調査する
 
-<!-- cvid: aid10_bid24 -->
+<!-- cvid: aid01_bid01 -->

@@ -81,15 +81,19 @@ TOEICではコストや数量の「削減」「減少」を表す文脈でよく
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+積み重ねが力になる👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語力を育てるコツ／<br>  
-（おすすめ情報予定）
+＼今日から取り入れよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid47_bid21" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid47_bid21" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICではコストや数量の「削減」「減少」を表す文脈でよく
 ## 🤔  decrease との違いは？
 
 - **reduction**：名詞で「減少」「削減」という結果や状態を表す。
-- **[decrease](/word/decrease/)**：動詞・名詞両方で使え、「減る」「減少する」という変化や動作を強調。
+- **[decrease](/decrease)**：動詞・名詞両方で使え、「減る」「減少する」という変化や動作を強調。
 
 reductionは「減った結果」や「削減された量」に焦点があり、decreaseは「減る動き」や「減少する過程」に注目します。
 
@@ -105,14 +109,14 @@ reductionは「減った結果」や「削減された量」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [discount](/word/discount/)：割引
-- [cut](/word/cut/)：削減、カット
+- [discount](/discount)：割引
+- [cut](/cut)：削減、カット
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase/)：増加
-- [expense](/word/expense/)：費用
+- [increase](/increase)：増加
+- [expense](/expense)：費用
 
-<!-- cvid: aid06_bid04 -->
+<!-- cvid: aid47_bid21 -->

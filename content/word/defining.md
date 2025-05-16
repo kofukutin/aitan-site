@@ -81,15 +81,19 @@ TOEICでは、名詞や動詞のdefineとともに、形容詞definingも「決�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid44" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid44" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、名詞や動詞のdefineとともに、形容詞definingも「決�
 ## 🤔  decisive との違いは？
 
 - **defining**：本質や特徴を決定づける、象徴的な
-- **[decisive](/word/decisive/)**：決断力がある、決定的な（結果を左右する）
+- **[decisive](/decisive)**：決断力がある、決定的な（結果を左右する）
 
 definingは「そのものを特徴づける・象徴する」場面で使い、decisiveは「結果や判断を決定づける」場面で使います。
 
@@ -105,14 +109,14 @@ definingは「そのものを特徴づける・象徴する」場面で使い、
 
 ## 🧩 あわせて覚えたい
 
-- [determine](/word/determine/)：決定する、決心する
-- [describe](/word/describe/)：描写する、説明する
+- [determine](/determine)：決定する、決心する
+- [describe](/describe)：描写する、説明する
 
 ---
 
 ## 📖 できればこれも
 
-- [distinctive](/word/distinctive/)：独特な、特徴的な
-- [crucial](/word/crucial/)：極めて重要な
+- [distinctive](/distinctive)：独特な、特徴的な
+- [crucial](/crucial)：極めて重要な
 
-<!-- cvid: aid00_bid35 -->
+<!-- cvid: aid24_bid44 -->

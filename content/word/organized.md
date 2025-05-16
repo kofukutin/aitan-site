@@ -82,15 +82,19 @@ TOEICでは、organizedは「organized person」「organized system」など、�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで効率学習／<br>  
-（おすすめ情報予定）
+＼毎日ちょっとずつ進もう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid33_bid11" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid33_bid11" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -98,7 +102,7 @@ TOEICでは、organizedは「organized person」「organized system」など、�
 ## 🤔  systematic との違いは？
 
 - **organized**：整理されていて、無駄がなくきちんとしている状態を表す。
-- **[systematic](/word/systematic/)**：体系的・計画的に物事を進める様子を強調する。
+- **[systematic](/systematic)**：体系的・計画的に物事を進める様子を強調する。
 
 organizedは「整っている」「段取りが良い」ことに重点があり、systematicは「手順や方法が一貫している」ことに重点があります。
 
@@ -106,14 +110,14 @@ organizedは「整っている」「段取りが良い」ことに重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [efficient](/word/efficient/)：効率的な
-- [neat](/word/neat/)：きちんとした、整頓された
+- [efficient](/efficient)：効率的な
+- [neat](/neat)：きちんとした、整頓された
 
 ---
 
 ## 📖 できればこれも
 
-- [arranged](/word/arranged/)：整えられた、配置された
-- [planned](/word/planned/)：計画された
+- [arranged](/arranged)：整えられた、配置された
+- [planned](/planned)：計画された
 
-<!-- cvid: aid40_bid05 -->
+<!-- cvid: aid33_bid11 -->

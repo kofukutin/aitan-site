@@ -81,15 +81,19 @@ TOEICでは、給与やスケジュール、頻度を表す文脈で「hourly」
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-次の理解へつなげよう👇️
+理解の波を逃さずに👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
-（おすすめ情報予定）
+＼覚えるスピードを上げよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid14_bid17" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、給与やスケジュール、頻度を表す文脈で「hourly」
 ## 🤔  every hour との違いは？
 
 - **hourly**：1時間ごとに、定期的に（形容詞・副詞として使える）
-- **[every hour](/word/every_hour/)**：毎時間ごとに（副詞句として使う）
+- **[every hour](/every_hour)**：毎時間ごとに（副詞句として使う）
 
 「hourly」は形容詞・副詞として使え、支払い方法やスケジュールなど幅広く使えますが、「every hour」は「毎時間ごとに」という意味の副詞句で、より具体的な時間の繰り返しを強調します。
 
@@ -105,14 +109,14 @@ TOEICでは、給与やスケジュール、頻度を表す文脈で「hourly」
 
 ## 🧩 あわせて覚えたい
 
-- [daily](/word/daily/)：毎日の
-- [frequent](/word/frequent/)：頻繁な
+- [daily](/daily)：毎日の
+- [frequent](/frequent)：頻繁な
 
 ---
 
 ## 📖 できればこれも
 
-- [weekly](/word/weekly/)：毎週の
-- [regular](/word/regular/)：定期的な
+- [weekly](/weekly)：毎週の
+- [regular](/regular)：定期的な
 
-<!-- cvid: aid34_bid07 -->
+<!-- cvid: aid14_bid17 -->

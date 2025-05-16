@@ -77,15 +77,19 @@ TOEICではPart 7の長文やビジネスメール、記事文中で「新たに
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま続けよう👇️
+調子がいいときに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼挫折しない仕組みがある／<br>  
-（おすすめ情報予定）
+＼やる気を形に変えよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C0B9U" class="ad-link" data-cvid="aid19_bid12" data-difficulty="4" rel="nofollow">【スタディサプリ ENGLISH】</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C0B9U" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid19_bid12" data-difficulty="4" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -93,7 +97,7 @@ TOEICではPart 7の長文やビジネスメール、記事文中で「新たに
 ## 🤔  again との違いは？
 
 - **anew**：新たな気持ちや方法で「改めて」「最初から」やり直す
-- **[again](/word/again/)**：単に「もう一度」「再び」繰り返す
+- **[again](/again)**：単に「もう一度」「再び」繰り返す
 
 anewは「新しいやり方や気持ちでやり直す」ニュアンスがあり、againは単純な繰り返しを表します。
 
@@ -101,14 +105,14 @@ anewは「新しいやり方や気持ちでやり直す」ニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [afresh](/word/afresh/)：新たに、もう一度（anewとほぼ同義だがややカジュアル）
-- [renew](/word/renew/)：更新する、新しくする
+- [afresh](/afresh)：新たに、もう一度（anewとほぼ同義だがややカジュアル）
+- [renew](/renew)：更新する、新しくする
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/word/resume/)：再開する
-- [revise](/word/revise/)：修正する、見直す
+- [resume](/resume)：再開する
+- [revise](/revise)：修正する、見直す
 
-<!-- cvid: aid00_bid35 -->
+<!-- cvid: aid19_bid12 -->

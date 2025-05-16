@@ -81,7 +81,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、案内文などで�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-迷いを力に変えよう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
@@ -89,7 +89,11 @@ TOEICでは主にPart 7のビジネス文書やEメール、案内文などで�
 
 <div class="info-center">
 ＼結果につながる近道／<br>  
-（おすすめ情報予定）
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid32_bid32" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid32_bid32" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、案内文などで�
 ## 🤔  finance との違いは？
 
 - **banking**：銀行業務や銀行との取引を指す
-- **[finance](/word/finance/)**：金融全般や資金管理、財務を指す
+- **[finance](/finance)**：金融全般や資金管理、財務を指す
 
 bankingは銀行に特化した業務やサービス、financeはより広くお金の管理や経済活動全体を指します。
 
@@ -105,14 +109,14 @@ bankingは銀行に特化した業務やサービス、financeはより広くお
 
 ## 🧩 あわせて覚えたい
 
-- [loan](/word/loan/)：ローン、貸付
-- [deposit](/word/deposit/)：預金、預け入れ
+- [loan](/loan)：ローン、貸付
+- [deposit](/deposit)：預金、預け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account/)：口座
-- [branch](/word/branch/)：支店
+- [account](/account)：口座
+- [branch](/branch)：支店
 
-<!-- cvid: aid03_bid32 -->
+<!-- cvid: aid32_bid32 -->

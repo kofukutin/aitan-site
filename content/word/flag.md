@@ -81,15 +81,19 @@ TOEICでは主に写真描写問題で「旗」や「目印」として登場し
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+次もスッと解こう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼あなた専用の学びを発見／<br>  
-（おすすめ情報予定）
+＼覚える喜びを感じよう／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid27_bid42" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid27_bid42" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは主に写真描写問題で「旗」や「目印」として登場し
 ## 🤔  banner との違いは？
 
 - **flag**：国や団体の象徴となる「旗」、または目印としての旗
-- **[banner](/word/banner/)**：横長の「横断幕」や「垂れ幕」
+- **[banner](/banner)**：横長の「横断幕」や「垂れ幕」
 
 flagはポールに掲げる布状の旗を指し、bannerはイベントや広告で使う横長の幕を指します。
 
@@ -105,14 +109,14 @@ flagはポールに掲げる布状の旗を指し、bannerはイベントや広�
 
 ## 🧩 あわせて覚えたい
 
-- [signal](/word/signal/)：信号、合図
-- [mark](/word/mark/)：印、記号
+- [signal](/signal)：信号、合図
+- [mark](/mark)：印、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [sign](/word/sign/)：標識、看板
-- [label](/word/label/)：ラベル、表示
+- [sign](/sign)：標識、看板
+- [label](/label)：ラベル、表示
 
-<!-- cvid: aid29_bid22 -->
+<!-- cvid: aid27_bid42 -->

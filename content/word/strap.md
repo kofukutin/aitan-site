@@ -81,15 +81,19 @@ strapはTOEICの写真描写問題（Part 1）で、カバンや時計などの�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-記憶が新しいうちに👇️
+このまま習慣化しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼英語が身につく方法／<br>  
-（おすすめ情報予定）
+＼信頼される学びの形／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid29_bid44" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid29_bid44" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ strapはTOEICの写真描写問題（Part 1）で、カバンや時計などの�
 ## 🤔  belt との違いは？
 
 - **strap**：物を固定したり持ち運ぶための細長い紐や帯。カバンや時計、靴など幅広く使う。
-- **[belt](/word/belt/)**：主に服やズボンのウエスト部分を締めるための帯。
+- **[belt](/belt)**：主に服やズボンのウエスト部分を締めるための帯。
 
 strapは物を「持つ・吊るす・固定する」用途が中心で、beltは「締める・支える」用途が中心です。
 
@@ -105,14 +109,14 @@ strapは物を「持つ・吊るす・固定する」用途が中心で、belt�
 
 ## 🧩 あわせて覚えたい
 
-- [string](/word/string/)：ひも、糸
-- [buckle](/word/buckle/)：バックル、留め金
+- [string](/string)：ひも、糸
+- [buckle](/buckle)：バックル、留め金
 
 ---
 
 ## 📖 できればこれも
 
-- [rope](/word/rope/)：ロープ、綱
-- [tape](/word/tape/)：テープ、粘着テープ
+- [rope](/rope)：ロープ、綱
+- [tape](/tape)：テープ、粘着テープ
 
-<!-- cvid: aid45_bid00 -->
+<!-- cvid: aid29_bid44 -->

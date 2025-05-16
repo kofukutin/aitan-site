@@ -80,15 +80,19 @@ TOEICでは音楽や文化に関する長文や広告、イベント案内など
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-積み重ねが力になる👇️
+少しずつ前進しよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼身につくまで続けよう／<br>  
-（おすすめ情報予定）
+＼あなたの学びを応援／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BWVTE" class="ad-link" data-cvid="aid05_bid37" data-difficulty="2" rel="nofollow">スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BWVTE" alt=""><br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid05_bid37" data-difficulty="2" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -96,7 +100,7 @@ TOEICでは音楽や文化に関する長文や広告、イベント案内など
 ## 🤔  jazz との違いは？
 
 - **reggae**：ジャマイカ発祥のリズムが特徴的な音楽ジャンル。
-- **[jazz](/word/jazz/)**：アメリカ発祥で即興演奏や複雑なハーモニーが特徴の音楽ジャンル。
+- **[jazz](/jazz)**：アメリカ発祥で即興演奏や複雑なハーモニーが特徴の音楽ジャンル。
 
 reggaeはリズムや社会的メッセージが重視され、jazzは即興性や演奏技術が重視されます。
 
@@ -104,14 +108,14 @@ reggaeはリズムや社会的メッセージが重視され、jazzは即興性�
 
 ## 🧩 あわせて覚えたい
 
-- [ska](/word/ska/)：レゲエの前身となったジャマイカ音楽
-- [blues](/word/blues/)：アメリカ南部発祥の感情豊かな音楽ジャンル
+- [ska](/ska)：レゲエの前身となったジャマイカ音楽
+- [blues](/blues)：アメリカ南部発祥の感情豊かな音楽ジャンル
 
 ---
 
 ## 📖 できればこれも
 
-- [pop](/word/pop/)：大衆的なポピュラー音楽
-- [rock](/word/rock/)：エネルギッシュなリズムが特徴の音楽ジャンル
+- [pop](/pop)：大衆的なポピュラー音楽
+- [rock](/rock)：エネルギッシュなリズムが特徴の音楽ジャンル
 
-<!-- cvid: aid47_bid24 -->
+<!-- cvid: aid05_bid37 -->

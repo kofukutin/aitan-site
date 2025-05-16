@@ -81,15 +81,19 @@ TOEICでは、会議やビジネスシーンで「やりとりする」「交流
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+できるを増やそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼効率化された学習法／<br>  
-（おすすめ情報予定）
+＼学び直しにぴったり／<br>  
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+BX3J6" class="ad-link" data-cvid="aid24_bid41" data-difficulty="3" rel="nofollow">英語学習の新定番！スタディサプリ ENGLISH</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+BX3J6" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=4556RW+FUYPWY+3AQG+C7LM9" class="ad-link" data-cvid="aid24_bid41" data-difficulty="3" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www27.a8.net/svt/bgt?aid=250504844959&wid=001&eno=01&mid=s00000015388002051000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4556RW+FUYPWY+3AQG+C7LM9" alt="">
 </div>
 
 ---
@@ -97,7 +101,7 @@ TOEICでは、会議やビジネスシーンで「やりとりする」「交流
 ## 🤔  communicate との違いは？
 
 - **interact**：お互いに影響し合ったり、やりとりをすること全般
-- **[communicate](/word/communicate/)**：情報や気持ちを伝えることに重点
+- **[communicate](/communicate)**：情報や気持ちを伝えることに重点
 
 interactは「双方向のやりとり」全般を指し、communicateは「伝える・意思疎通する」ことに焦点があります。
 
@@ -105,14 +109,14 @@ interactは「双方向のやりとり」全般を指し、communicateは「伝�
 
 ## 🧩 あわせて覚えたい
 
-- [collaborate](/word/collaborate/)：協力する、共同作業する
-- [respond](/word/respond/)：返答する、反応する
+- [collaborate](/collaborate)：協力する、共同作業する
+- [respond](/respond)：返答する、反応する
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/word/participate/)：参加する
-- [engage](/word/engage/)：関わる、従事する
+- [participate](/participate)：参加する
+- [engage](/engage)：関わる、従事する
 
-<!-- cvid: aid40_bid40 -->
+<!-- cvid: aid24_bid41 -->
