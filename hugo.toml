@@ -22,3 +22,6 @@ page = ["HTML"]
 [params]
   defaultOGImage = "https://www.ai-tan.jp/images/ogp.png"
   preserveTaxonomyNames = true
+
+[permalinks]
+word = "/word/:slug/"
