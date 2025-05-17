@@ -1,0 +1,18 @@
+<div class="tag-accordion">
+  <button class="accordion-button" onclick="toggleAccordion(this)">
+    {{ .title }}
+  </button>
+  <div class="accordion-content">
+    <div class="tag-grid">
+      {{ range $key, $value := .terms }}
+        {{ $upperKey := strings.ToUpper $key }}
+        {{ $filterUpper := apply $.filter "strings.ToUpper" "." }}
+        {{ if in $filterUpper $upperKey }}
+          <div class="tag-item">
+            <a href="{{ $value.Page.RelPermalink }}">{{ $value.Page.Title }}（{{ len $value }}語）</a>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>

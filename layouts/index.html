@@ -2,7 +2,7 @@
 
 <section class="top-intro">
   <p class="top-intro-text">
-    <br>AIがTOEIC学習の効率を最大化！<br>
+    <br>AIがTOEIC学習の効率を最大化✨️<br>
     スコアアップの最短ルート🚀<br>
     ブックマークを忘れずに♪<br>
   </p>
@@ -25,31 +25,35 @@
 
 <hr>
 
-<section class="top-counts">
-  <div class="top-counts-inner">
-    <h2 class="top-counts-title">📊 カテゴリ別の記事数</h2>
-    <ul>
-      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事。続々更新中！</li>
-      <li>長文読解： Coming Soon!</li>
-    </ul>
-    （{{ now.Format "2006年1月2日" }} 更新）
+<section class="top-tags">
+  <div class="top-tags-inner">
+    <h2 class="top-tags-title">🏷️タグから探す</h2>
+    ボタンを押してね👇️
+
+    {{ $terms := site.Taxonomies.tags }}
+
+    {{ partial "tag_accordion.html" (dict "title" "TOEICパート" "terms" $terms "filter" (slice "Part1" "Part2" "Part3" "Part4" "Part5" "Part6" "Part7")) }}
+    {{ partial "tag_accordion.html" (dict "title" "分野" "terms" $terms "filter" (slice "IT" "ビジネス" "医療" "教育" "法務" "科学" "観光" "環境" "金融")) }}
+    {{ partial "tag_accordion.html" (dict "title" "シーン" "terms" $terms "filter" (slice "日常会話" "会議" "面接" "電話対応" "プレゼン" "スピーチ" "交渉" "紹介" "説明")) }}
+    {{ partial "tag_accordion.html" (dict "title" "トーン" "terms" $terms "filter" (slice "フォーマル" "カジュアル" "肯定的" "否定的" "中立的" "はっきり表現" "やんわり表現")) }}
+    {{ partial "tag_accordion.html" (dict "title" "品詞・文法" "terms" $terms "filter" (slice "名詞" "動詞" "形容詞" "副詞" "前置詞" "接続詞" "代名詞" "熟語")) }}
+
   </div>
 </section>
 
 <hr>
 
-<section class="top-tags">
-  <div class="top-tags-inner">
-    <h2 class="top-tags-title">🏷️タグから探す</h2>
-    <div class="tag-grid">
-      {{ $terms := site.Taxonomies.tags }}
-      {{ range $key, $value := $terms }}
-        <div class="tag-item">
-          <a href="{{ $value.Page.RelPermalink }}">{{ $value.Page.Title }}（{{ len $value }}語）</a>
-        </div>
-      {{ end }}
-    </div>
+<section class="top-counts">
+  <div class="top-counts-inner">
+    <h2 class="top-counts-title">📊 カテゴリ別の記事数</h2>
+    <ul>
+      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事。続々更新中！</li>
+      <li>英熟語： 近日公開☆</li>
+      <li>長文読解： 準備中...</li>
+    </ul>
+    （{{ now.Format "2006年1月2日" }} 更新）
   </div>
 </section>
+
 
 {{ end }}
