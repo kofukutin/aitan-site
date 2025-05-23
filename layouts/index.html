@@ -45,11 +45,10 @@
 
 <section class="top-counts">
   <div class="top-counts-inner">
-    <h2 class="top-counts-title">📊 カテゴリ別の記事数</h2>
+    <h2 class="top-counts-title">📊 記事数</h2>
     <ul>
-      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事。続々更新中！</li>
-      <li>英熟語： 近日公開☆</li>
-      <li>長文読解： 準備中...</li>
+      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事</li>
+      <li>追加コンテンツ： 準備中...！</li>
     </ul>
     （{{ now.Format "2006年1月2日" }} 更新）
   </div>
